@@ -1,0 +1,26 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "romantasy-factory"
+version = "0.1.0"
+description = "Local pipeline that drafts romantasy series with the claude CLI on a Max plan"
+requires-python = ">=3.12"
+dependencies = [
+  "typer>=0.12",
+  "pyyaml>=6",
+  "pillow>=10",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=8", "python-docx>=1.1"]
+
+[project.scripts]
+factory = "factory.cli:app"
+
+[tool.setuptools]
+packages = ["factory"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

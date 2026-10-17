@@ -1,0 +1,100 @@
+# Romantasy Factory configuration. See PRD sections 5, 6, 7 and 9.
+
+pen_name: "Mara Vellacourt"        # PRD section 10: confirm on Amazon + Goodreads before use
+copyright_year: 2026
+timezone: "Asia/Kolkata"
+
+book:
+  target_words: 87000
+  chapters_min: 30
+  chapters_max: 34
+  chapter_words_min: 2500
+  chapter_words_max: 3000
+  length_tolerance: 0.20           # S4 passes within ±20% of the chapter target
+  summary_max_words: 1500
+
+series:
+  books_min: 3
+  books_max: 6
+  proposals: 3
+
+quality:
+  pass_average: 3.5
+  pass_minimum: 3
+  max_revisions: 2                 # then the chapter is marked needs-owner
+  criteria:
+    - reader_question
+    - change
+    - romance_movement
+    - shown_chemistry
+    - character_logic
+    - stakes_and_cost
+    - prose
+    - continuity
+
+# Line-edit limits checked in Python after S8 (style-guide.md explains them).
+style_limits:
+  banned_phrase_hits: 0
+  ai_tells_per_1000_words: 1.0
+  max_repeated_4gram: 3            # same 4-word phrase (non-dialogue tags) per chapter
+  max_paragraph_words: 220         # long inner-monologue guard
+
+# Opus for planning and judging, Sonnet for bulk writing (PRD section 5).
+models:
+  S1_concept: opus
+  S2_bible: opus
+  S3_outline: opus
+  S4_draft: sonnet
+  S5_critique: opus
+  S6_revise: sonnet
+  S7_continuity: opus
+  book_check: opus
+  S8_line_edit: sonnet
+  S9_summary: sonnet
+  S10_package: sonnet
+  owner_notes: opus
+
+claude:
+  binary: claude                   # override with FACTORY_CLAUDE_BIN for tests
+  timeout_seconds: 1800
+  retry_wait_seconds: 300          # CLI error or timeout: retry once after 5 minutes
+  # replace: the agent prompt replaces Claude Code's default coding prompt (about 1.3k instead
+  # of 39k context tokens per call, measured Oct 2026). append: PRD's --append-system-prompt.
+  system_prompt_mode: replace
+  extra_args:
+    - "--no-session-persistence"
+    - "--tools"
+    - ""                           # agents get no tools; files go in and out through the prompt
+
+schedule:
+  books_per_day: 1                 # set after the M3 pilot (PRD section 9)
+  max_uploads_per_day: 1           # never stage more than 1 book per day
+  start: "01:00"
+  wake: "00:55"
+  stop_by: "08:00"
+
+git:
+  commit_after_stage: true
+
+packaging:
+  default_price_usd: 4.99
+  kdp_select: true
+  language: English
+  blurb_max_chars: 4000
+  keyword_count: 7
+  keyword_max_chars: 50
+  category_count: 3
+  cover_width: 1600
+  cover_height: 2560
+  title_font: ""                   # path to a .ttf/.otf; empty uses a bundled fallback
+  author_font: ""
+
+notify:
+  telegram: false                  # needs FACTORY_TELEGRAM_TOKEN and FACTORY_TELEGRAM_CHAT
+  email: false                     # needs FACTORY_SMTP_HOST/PORT/USER/PASSWORD/TO
+
+# Usage levers, in the order PRD section 9 lists them. Change these, never switch to paid credits.
+levers:
+  recheck_critique_model: ""       # e.g. "sonnet": critique re-checks after a revise use this model
+  # fewer revision loops  -> quality.max_revisions
+  # shorter books         -> book.target_words / chapter_words_*

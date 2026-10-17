@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.venv/
+*.egg-info/
+.pytest_cache/
+state/run.lock
+state/*.tmp
+*.tmp
+.env
+# Owner secrets never belong in the repo
+secrets*
+state/index.sqlite
