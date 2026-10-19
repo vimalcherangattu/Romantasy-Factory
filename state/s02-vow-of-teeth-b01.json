@@ -336,8 +336,8 @@
       "minimum": 3.0
     },
     "19": {
-      "status": "failed",
-      "revisions": 0,
+      "status": "revised",
+      "revisions": 1,
       "scores": {
         "reader_question": 4.0,
         "change": 4.0,
@@ -352,7 +352,7 @@
       "flags": [
         "draft check: draft: chapter has 2126 words; target 2700 ±20%"
       ],
-      "words": 2126,
+      "words": 2212,
       "minimum": 0.0
     },
     "20": {
@@ -716,8 +716,12 @@
     {
       "at": "2026-10-19T21:20:01",
       "event": "done: S5 critique ch 19"
+    },
+    {
+      "at": "2026-10-19T21:20:58",
+      "event": "done: S6 revise ch 19"
     }
   ],
-  "updated_at": "2026-10-19T21:20:01",
+  "updated_at": "2026-10-19T21:20:58",
   "midpoint_chapter": 16
 }
