@@ -1,0 +1,42 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 5.0,
+    "character_logic": 3.0,
+    "stakes_and_cost": 4.0,
+    "prose": 4.0,
+    "continuity": 5.0
+  },
+  "reasons": {
+    "reader_question": "The song verse, Ammu's swerve and the closing echo plant a specific gap ('the name given back'), and the nine-night Vellan clock adds a second question; the ending is resonant rather than interrupted, so the pull is curiosity more than urgency.",
+    "change": "Two real shifts: Neela tells Ammu her first lies and buys a week with Ammu's trust, and the danger of Devan's mouth becomes his problem rather than hers.",
+    "romance_movement": "The refusal is new (he won't promise what sleep and fever control) and turns into an act of care. He also re-frames the rampart kiss as 'in daylight'. It loses a point because the value shift is said aloud ('I'd rather carry my share') and also narrated.",
+    "shown_chemistry": "The pebble swap, the wiping 'with ridiculous gravity', the 'Cashh', her helpless laugh, and him sitting facing the door so he won't watch her turn are all responsive action. Nothing is narrated as chemistry.",
+    "character_logic": "Two strains. Ammu, a trained odiyan, accepts that a man failed to notice a leopard passing a hand from his boots and took it for the fort cat, and she never voices the obvious hole. Neela, the expert on the word, never asks whether a word mumbled round a stone still cages.",
+    "stakes_and_cost": "The lie costs Neela Ammu's trust, and Ammu's own neck if Chathu's other eyes report first. The Vellan deadline is concrete. Devan's pebble costs him sleep. The ledger lands.",
+    "prose": "Clean, concrete, no banned phrases and no AI-tell overuse. One muddled line ('A witness she could not unsee was a page she had to write'). There are some on-the-nose thematic statements, and the final italic echo of the verse signposts the clue.",
+    "continuity": "Consistent with ch19 (grove above the rampart, Devan facing the terraces, the hand on his chest), F089 (not the fishing song), F157 (Kannan's pebble), F124 (fever 'cat'), F043 (Gopan's tenure covers Devan at 16), F158 and F172/F177."
+  },
+  "fixes": [
+    "At \"A man can mumble round a stone. He can hum.\": Character logic. Neela has lived eleven years by the exact terms of the witness rule, so a smart Neela would test the trick, not just marvel at it. Add a short exchange before the laugh. She asks whether a smeared word still counts as 'spoken aloud'. Devan answers in his literal, honest way that he doesn't know, nobody has tried it on an odiyan, and Gopan only proved no one could understand him. He calls it the best odds he can give her. This keeps the trick from reading as convenient magic and keeps a live cost in the ledger.",
+    "At \"He heard something go by behind him. He didn't turn.\": Irrational behaviour to extend plot. Ammu watched a leopard pass close enough to touch Devan, and she accepts 'a cat on a wall' without objection. Let her say the hole aloud (for example, 'A cat the size of a goat, chechi?'). Neela answers with something Ammu could not disprove from the grove, such as 'From behind, in the dark, with the chain screaming.' Then Ammu visibly decides not to push. Her choice to believe becomes a choice the reader watches, and the lie costs more.",
+    "At \"It's heavy enough,\" he said. \"I'd rather carry my share.\": Narrated value shift. The narration has just said 'No one had ever said, This is mine,' so cut Devan's line and let the pebble carry the meaning. Also replace the closing italic '*The name given back at the closing of day*' with a concrete sensory beat, such as the wet click of the stone against his teeth as she counts. The verse has already been planted at Ammu's peak, and repeating it in the last line signposts clue C07."
+  ],
+  "reader_question": "What does 'the name given back at the closing of day' mean, and why did Ammu flinch from her own verse?",
+  "techniques_landed": [
+    9,
+    2,
+    14
+  ],
+  "new_facts_assessment": "F178 (revised second lie) is necessary and consistent with ch19, where Devan faced the terraces and did not turn. The page says only 'the fort tom', not 'notched ginger tom', so either add 'notched' on the page or trim the fact. The Kannan's white pebble fact is a good, earned detail and consistent with F157, but the draft files it under id F175, which already holds the Gopan pebble-trick fact. Reissue it under a fresh id (it duplicates F327) so the original F175 is not overwritten. Note for later chapters: Devan now carries Kannan's white game pebble, so F276's 'the river pebble' should specify which stone.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Irrational behaviour to extend plot",
+    "Twists without setup (risk of signposted callback)"
+  ],
+  "average": 4.12,
+  "minimum": 3.0,
+  "passed": true
+}
