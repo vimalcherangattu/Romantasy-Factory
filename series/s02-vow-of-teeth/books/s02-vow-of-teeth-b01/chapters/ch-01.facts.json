@@ -1,0 +1,29 @@
+{
+  "facts": [
+    {
+      "category": "name",
+      "fact": "Kannan is a goat-boy of about nine or ten; Chinna runs the kitchen door; Raiu is a young guard who holds the corridor torch outside the warden's chamber.",
+      "why": "needed because the beat requires Neela to collect these three servant names at the feast."
+    },
+    {
+      "category": "knowledge",
+      "fact": "Devan tells Neela the night guard layout: two on the west stair, four at the padippura, six on the wall in pairs, changing on the third clank after the middle watch.",
+      "why": "needed because the beat has Devan answering her questions with exact facts so she can map the chamber and fort."
+    },
+    {
+      "category": "object",
+      "fact": "Devan lays his sword on the floor on Neela's side of the bed, hilt toward her; the grip is plain wire, worn at the thumb.",
+      "why": "needed because the beat specifies the sword gesture."
+    },
+    {
+      "category": "object",
+      "fact": "Neela carries the guild's leopard tooth sewn into her waistband and the resin in a corked flask in a fold of her cloth.",
+      "why": "needed because the beat says she carries the tooth and uncorks the resin."
+    },
+    {
+      "category": "relationship",
+      "fact": "Devan says he took four months and asked twice to learn Raiu's name.",
+      "why": "needed to show contrast with Neela's habit and the shift in how he sees her."
+    }
+  ]
+}

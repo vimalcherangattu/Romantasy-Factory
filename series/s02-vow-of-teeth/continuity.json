@@ -209,6 +209,41 @@
       "category": "magic",
       "fact": "The Resin House owns the only nightbark groves and rations resin. Rogues must steal resin or buy it cut with lamp oil.",
       "since": "bible"
+    },
+    {
+      "id": "F036",
+      "category": "name",
+      "fact": "Kannan is a goat-boy of about nine or ten; Chinna runs the kitchen door; Raiu is a young guard who holds the corridor torch outside the warden's chamber.",
+      "since": "s02-vow-of-teeth-b01 ch 1",
+      "provisional": true
+    },
+    {
+      "id": "F037",
+      "category": "knowledge",
+      "fact": "Devan tells Neela the night guard layout: two on the west stair, four at the padippura, six on the wall in pairs, changing on the third clank after the middle watch.",
+      "since": "s02-vow-of-teeth-b01 ch 1",
+      "provisional": true
+    },
+    {
+      "id": "F038",
+      "category": "object",
+      "fact": "Devan lays his sword on the floor on Neela's side of the bed, hilt toward her; the grip is plain wire, worn at the thumb.",
+      "since": "s02-vow-of-teeth-b01 ch 1",
+      "provisional": true
+    },
+    {
+      "id": "F039",
+      "category": "object",
+      "fact": "Neela carries the guild's leopard tooth sewn into her waistband and the resin in a corked flask in a fold of her cloth.",
+      "since": "s02-vow-of-teeth-b01 ch 1",
+      "provisional": true
+    },
+    {
+      "id": "F040",
+      "category": "relationship",
+      "fact": "Devan says he took four months and asked twice to learn Raiu's name.",
+      "since": "s02-vow-of-teeth-b01 ch 1",
+      "provisional": true
     }
   ],
   "knowledge": [
