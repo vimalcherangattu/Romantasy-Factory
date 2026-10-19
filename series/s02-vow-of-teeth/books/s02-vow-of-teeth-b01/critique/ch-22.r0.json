@@ -1,0 +1,42 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 5.0,
+    "shown_chemistry": 5.0,
+    "character_logic": 3.0,
+    "stakes_and_cost": 4.0,
+    "prose": 4.0,
+    "continuity": 0.0
+  },
+  "reasons": {
+    "reader_question": "The question 'will she tell him?' is sharp and specific. It is tied to his promise not to ask and to the slip against her skin. The bible's ch23 payoff keeps it from being a deeper 'at what cost' question.",
+    "change": "Two things change. Her knowledge changes: the buyer is the Keeper and Ittan, and the widow's-seal plan points at her. The relationship changes: hidden body becomes seen body. Power shifts too, since she now holds the name he wanted.",
+    "romance_movement": "The reason for the change is new: she sets the terms, he chooses not to use what his hands know, and she asks him to stay. This is clearly a step past the ch19 kiss and the ch21 disclosure.",
+    "shown_chemistry": "The chemistry is shown through responsive action, not narration. He lights the lamp so it falls on her; she moves it between them ('Both of us'). His thumb visibly chooses not to know the pressure points. She slides the sword under the bed. He leaves the pebble on the shelf.",
+    "character_logic": "Three logic gaps. Neela lets Ammu wait at the stone with no daytime warning, though she knows the cost. Ammu's 'cover' is a jackal standing in for a leopard on a watcher's log, which should not fool a watcher who logs shapes. The slip is called a copy yet is in Chathu's own hand.",
+    "stakes_and_cost": "The ache counts a second night, Ammu risks the rampart guard and Chathu's cage, and the name now weighs against his promise. The ch21 skip (a first refusal the watcher should already have logged) goes unmentioned, which slightly blunts the ledger.",
+    "prose": "The prose is mostly clean and concrete, with good callbacks (the third slat, the breath hitch, the cover's name). It slips into stock romance phrasing in the intimate scene: 'could have wept', 'came apart', 'a broken sound she had not known she owned' (a near-echo of a banned phrase), 'eased something in both of them'. 'She herself had been that widow in a hundred plans' is muddled.",
+    "continuity": "Two conflicts. First, Ammu 'turned back an hour ago' before Neela arrives at first light, which breaks F004 (turn-back happens at first light, never before). Second, the unsplit reed is promised 'tonight', but F173/F177 set it for the seventh night after ch20, which is about five nights away."
+  },
+  "fixes": [
+    "At 'The turn-back had taken her an hour ago', the text breaks world rule F004 (odiyans turn back at first light, never before). Fix the timing so Neela arrives after Ammu has turned. For example, change the opening line of the section to 'An hour after first light she went up the second spur alone', and keep 'The turn-back had taken her an hour ago'. Alternatively, write 'The turn-back had taken her at first light, and she had not moved since.'",
+    "At 'Ammu had promised an unsplit reed there tonight', the draft conflicts with F173/F177, which set Ammu's unsplit reed for the seventh night after ch20, about five nights away. Replace it with a nightly signal set up on the page here. One option: Ammu expects the other one's scent-mark on the stone each night of the promised week, as proof Neela is still working. Then the morning finds Ammu's own mark in the cup, not the reed.",
+    "At 'Two routes, one jackal... He logged both', the cover is convenient-logic: a watcher who 'logs every shape' would log a jackal, not Neela. This makes Ammu's dare read as plot-driven. Have Ammu explain the real mechanism in one or two lines, for example: 'He logs scent-posts, not faces; from the village he only sees the marks go fresh along your route.' Also let Ammu or Neela note that the rain night already went down as a gap, so this second gap was the one Chathu would act on."
+  ],
+  "reader_question": "Now that Neela holds the name of the man who bought Devan's death, and he has promised never to ask for it, will she give it to him, and what will it cost her with the guild and Ammu?",
+  "techniques_landed": [
+    14,
+    10,
+    3
+  ],
+  "new_facts_assessment": "F190 (pass-village watcher who logs shapes) is needed for the beat. As written it creates knock-on problems. It implies the ch21 rain-night skip was already reported as refusal, and nobody mentions that. It also implies a jackal can be logged on Neela's account, which a shape-logging watcher would not allow. Either have the watcher log routes and scent-posts rather than species, or have Ammu say she covered both nights. F191 (balance sheet in the carrier's satchel) is good and consistent with Chathu's ledger habit and F149/F148. However, the draft says Ammu 'copied' it, then shows it in 'Chathu's neat hand, resin-ink'. Make it a strip torn from the sheet itself, as the beat says 'stolen'. F192 (second skipped night, seven to the new moon) is consistent with F172 and F188. F193 (rib seam from the captain's knife) is acceptable, though ch21 mentions only a bleeding hand; keep it, since it does not conflict. Several new facts are not listed. Devan has not lain with anyone since before the ford (eight years). Chathu held Neela's wrist at her first resin. Devan asked about the scars in the second week and she lied 'a fall from a cart'. Neela was meant to come and touch the reed tonight. Each should go in new-facts.json. The cart-fall lie fits, since Devan never lies and would test her.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Irrational behaviour to extend plot",
+    "Worldbuilding collapse"
+  ],
+  "average": 3.62,
+  "minimum": 0.0,
+  "passed": false
+}
