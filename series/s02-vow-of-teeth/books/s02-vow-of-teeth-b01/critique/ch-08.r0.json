@@ -1,42 +1,41 @@
 {
   "scores": {
-    "reader_question": 4.0,
+    "reader_question": 5.0,
     "change": 4.0,
     "romance_movement": 4.0,
     "shown_chemistry": 4.0,
-    "character_logic": 3.0,
-    "stakes_and_cost": 4.0,
+    "character_logic": 4.0,
+    "stakes_and_cost": 3.0,
     "prose": 4.0,
     "continuity": 5.0
   },
   "reasons": {
-    "reader_question": "The writ ending opens two sharp gaps: who arranged for his widow to hold the seal, and whether Neela knows. The second slightly blurs the outline's single question.",
-    "change": "Knowledge shifts twice. Three council seals narrow the seller, then the writ reframes the marriage itself as the weapon. Devan ends in a new strategic stance: she must be kept alive and close.",
-    "romance_movement": "First shared laughter has a new cause: she offers a joke at her own expense in answer to his ledger rule. The writ then gives a new reason to distrust her, one that also makes her more valuable alive. The tension is productive, not recycled.",
-    "shown_chemistry": "Shown through response, not narration: she builds a joke to his stated rule, he laughs into his hand, 'Your ears are,' and she pointedly declines to ask about the market. One line ('the kindest silence... and the most dangerous') tips into telling.",
-    "character_logic": "The writ scene and the Muthu exchange are sound. The lamp rationale is muddled. Neela returns by the window, and a lit passage outside a closed door shows no one her turning, so a smart Devan's reasoning needs to be concrete. The market vantage strains chapter 7.",
-    "stakes_and_cost": "The reader knows from chapter 7 that Chathu said every day counts double once 'the writ' lands, so Neela's stillness carries real dread. Devan's next choice (keep her near while she may be the weapon) costs him the trust he just laughed into.",
-    "prose": "Clean and specific ('a careful careless clerk', 'a coin in a coat she had thought was empty'). No banned phrases. There are a few muddy sentences ('never hidden a page from her that she hadn't asked him to'), a redundant 'He did not say so. He gave nothing of it away,' and two echoed carrying similes (dish 'like a thing that might go off', case 'like a baby').",
-    "continuity": "Consistent with the bible and the facts: Raiu's name took four months (F040), Pepper the goat, the mended kasavu border, clove-oil brick-red wax a month old, Muthu's seventh-day ask, and Devan never lying. F036 says 'corridor torch' while this chapter has a clay lamp, but the bible and beat say lamp. The market vantage is reconcilable with chapter 7 but strained."
+    "reader_question": "The closing image creates two sharp questions: who arranged for his widow to hold the seal, and is Neela reading the writ or remembering it.",
+    "change": "Knowledge moves twice. Three seal boxes narrow the forger, then the writ shows the marriage itself may be the weapon. Devan ends the chapter suspecting her for a new reason.",
+    "romance_movement": "The first shared laughter is a new kind of closeness. The writ then gives a new, stronger reason for distrust, and it also makes her more valuable to him alive, as the beat asked.",
+    "shown_chemistry": "The goat joke, 'Your ears are', the hand to his mouth and the shared dish are all responsive actions. Devan's commentary on the silence ('kindest... most dangerous') leans toward narration.",
+    "character_logic": "Devan's choices fit him: the lamp, refusing to spar, showing her the page because he never hides pages from her. Muthu's laughing dismissal fits his cover. Devan never asks Neela anything after the clause, but that holds for a man reading her face.",
+    "stakes_and_cost": "The chapter ends on a discovery, not a choice. The cost of keeping her 'alive and near' is stated in the abstract but never put to the test in a decision this chapter.",
+    "prose": "Prose is concrete and rhythmic with no banned phrases. Problems: a muddled metaphor ('a bar thinner than the fort wall'), a POV slip ('The boy went, wondering'), and an over-explained reasoning run in the writ section.",
+    "continuity": "Consistent with Raiu's age and name history, the five-cup bird lamp, the mended kasavu, the dot-and-split seals, the market scene in ch7, the ginger-tom dawn and the registry courier. Two risks are noted below, but neither is a hard conflict."
   },
   "fixes": [
-    "In \"A lit passage put a gold bar under the door\" through \"nor Raiu's shadow stirring in it\" (failure mode: Irrational behaviour to extend plot). The danger is unclear: she returns by the window, not over the door 'sill', and no one in a passage can witness through a closed door. Make the risk concrete in two sentences. For example: the lamp's light spills under the door and across the floor to the window corner at dawn, and a guard with a lit lamp checks the latch at the watch change. Also change 'came over that sill' to 'came over the window ledge'.",
-    "In \"He had stood at the fish racks for the better part\" (failure mode: Contrived delays, plus continuity strain with chapter 7, where Unni was at his mother's stall by the fish racks and Devan claims to have met him on the road). Move Devan's vantage elsewhere, such as the turmeric stalls' far end or under the tamarind wall. Then give the pepper girl one line in the writ section, e.g. he adds 'the coast girl who weighed twice' to the chain of council, match and widow. That way his market knowledge isn't held back from his own reasoning. Log the fact in new-facts.json.",
-    "In \"for the first time since the wedding, he could not tell what she knew\" (prose/logic). This contradicts the opening scene's 'He did not know what she thought the row added up to'. Replace it with a specific change he can see. For example: for the first time she was not watching him at all, only the page, and he could not tell whether she was reading it or remembering it. Also fix the tangled 'He had never hidden a page from her that she hadn't asked him to' to 'He had never hidden a page from her, and he would not begin with one that carried her name.'"
+    "Wax scene, 'One came from a true tally out of Bhaskaran's gate chest': this is a continuity muddle (F049/F112 treat Bhaskaran's gate tally as the forgery whose number matches the satchel's). Make the slate hold three impressions. The first is the satchel tally. The second is 'the tally Bhaskaran took at the gate, same number'. The third is a registered council tally from the old stack, used as a control. State that both forged impressions show the dot-and-split. Readers then see two forgeries agree and can follow F112 later.",
+    "Writ section, 'A stranger. Chosen by the council. A ward' through 'with no one the wiser': this is mild endless monologue and leaves stakes_and_cost low, because the reasoning is laid out in full and never becomes an act. Cut the run by about a third: keep 'A widow could be steered' and drop the restated chain. Then end the reasoning with a costly physical choice, such as Devan folding the writ and handing it to Neela to carry down, or keeping it in his own sleeve. That way 'alive and near' becomes something he does in front of her, not something he notes.",
+    "Prose, in three places. First, 'but a bar thinner than the fort wall had been that morning' is a muddled metaphor; replace it with a plain image of the narrowed field (e.g. 'three boxes where that morning there had been a whole council'). Second, 'The boy went, wondering' is a POV slip into Raiu; change it to something Devan can see ('The boy went, looking back once'). Third, 'and been very sure about whose expense it was at' is clumsy; recast it as 'and had always found the expense was someone's'."
   ],
-  "reader_question": "Who on the council wants a stranger widow holding Kettamala's pass-seal, and did Neela come up the hill knowing it?",
+  "reader_question": "Who on the council wants Devan dead with his widow holding the pass-seal, and does Neela already know she is that widow-in-waiting?",
   "techniques_landed": [
     3,
     13,
     23
   ],
-  "new_facts_assessment": "The four listed facts are necessary and consistent. Raiu's age and post fit F036 and F040. The seven seals with three dot-and-split marks plant C04 cleanly. The charter clause matches Ittan's bible plan and is properly set against the captain custom. The registry courier fits. Unlisted facts that must be logged: (1) Devan watched Neela's meeting with 'Valli' from the fish racks for about a quarter hour, saw the girl weigh twice, and saw Neela tense. This is a major knowledge fact affecting later chapters and must be in new-facts.json. (2) The council dies were cut by the palace engraver, 'older than the queen'. (3) The marriage settlement was cloth, brass and four hundred panam. (4) Devan has laughed once before, 'a long time before you'. All are consistent, but (1) needs logging and a vantage that doesn't put him beside Unni's mother's fish stall.",
+  "new_facts_assessment": "N8-1 (Devan watched the Valli meeting from the tamarind wall) is necessary. It delivers the dramatic irony of the 'admits nothing' beat and matches ch7: he arrives after Muthu's laugh, the salt-factor business is real, and Ammu weighed twice. One caution: Devan now holds 'the coast girl who weighed twice' as a suspect, so later chapters must not have him ignore Valli entirely. N8-2 (the palace engraver) is harmless texture. N8-3 (four hundred panam) is fine, but watch any later dowry references. N8-4 is consistent, and the four-day sparring count fits the seventh-day rule (F060). Risks: (a) 'a true tally out of Bhaskaran's gate chest' reads as a genuine control sample, while F049/F112 treat Bhaskaran's gate tally as the matching dot-and-split forgery. Clarify this. (b) 'No warden had married in office in living memory' needs to stay compatible with F102, where Devan's father apparently held the warden's chamber with a wife. Keep 'in office' doing that work. (c) 'He had never hidden a page from her' sets up ch12, where he withholds Asha's last note (F115). That choice should then read as a deliberate first breach.",
   "content_rule_violation": false,
   "failure_modes": [
-    "Irrational behaviour to extend plot",
-    "Contrived delays"
+    "Endless monologue (mild, writ section)"
   ],
-  "average": 4.0,
+  "average": 4.12,
   "minimum": 3.0,
   "passed": true
 }
