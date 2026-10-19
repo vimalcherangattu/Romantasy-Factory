@@ -1,0 +1,41 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 3.0,
+    "stakes_and_cost": 4.0,
+    "prose": 4.0,
+    "continuity": 0.0
+  },
+  "reasons": {
+    "reader_question": "Two specific gaps come out of the chapter: unspent Varanad silver in Thurai purses, and the bowl-of-milk line. Ammu's absence is a third, but it competes a little with the main pair.",
+    "change": "Neela moves from weighing his death to killing for him and throwing away her clean exit. Devan now holds coin and tally evidence, and the cat joke shifts power at the table.",
+    "romance_movement": "The reason is new: her first chosen, active protection, paid for with her way out. His sideways thanks lands. The arm-dressing banter ('Then I'll look at it asleep') adds a small, fresh beat.",
+    "shown_chemistry": "Chemistry is carried by responsive action: she checks the knot, not his face; he pushes the fish to her side; he cuts off Muthu's 'leopard' with 'A cat'. None of it is narrated.",
+    "character_logic": "Devan's insistence on riding is well motivated by Raman. Neela's choice to plant evidence for her own target is not reasoned on the page. Leaving a bag where 'we'd walk on it' also tells the fort someone intervened, and she never weighs that risk.",
+    "stakes_and_cost": "The cost is concrete: the clean road thrown away, a wound, and a refused hunger. Twenty-eight nights remain, with Ammu missing and a report still owed.",
+    "prose": "The prose is mostly sharp and specific ('Bronze, which smelled of nothing and so of something'). It repeats ch13 lines verbatim, has two consecutive paragraphs opening with 'They', and echoes 'She noticed'.",
+    "continuity": "There are two clashes. 'Known every one of them by name for ten days' conflicts with 'read his face for twelve days' and with her learning Raiu, Unni and Bhaskaran in ch1 to ch3. The patrol leaves 'before the third clank' but enters the far narrows 'at the third clank'."
+  },
+  "fixes": [
+    "Continuity fails, and both clashes need correcting. First, in 'She had known every one of them by name for ten days', change ten to twelve. That matches 'read his face for twelve days' and the ch1 to ch3 naming. Second, 'Out the east postern before the third clank' cannot be true if the riders enter the distant narrows 'At the third clank'. Make the departure 'before the first clank', or have the riders reach the notch at the fourth or fifth clank.",
+    "Repetitive tension and a repeated image. 'The grey came, and the change took her.' is copied verbatim from ch13, as is the sum 'the guild would call it the world's work ... a widow with a seal in her lap'. Rewrite the dawn opener with a fresh image, such as frost on the rock or the cut pulling first. Recast the sum so it states what is new this time. In ch13 she only had to sit still while he died. Tonight she has to choose to let two strangers' arrows do it, which is the cleanest road yet. The difference is what makes the kill a stronger reason, not a replay.",
+    "Unmotivated choice. At 'dropped it on the shelf at the exact place where the first horse would set its foot', add one or two lines of Neela's reasoning. For example: the clove wax matches Asha's token, and she wants him to have the second one Asha never got. Or: she wants the fort to read the camp as raiders, not a cat-kill inside the walls. Then have her weigh the cost. A bag left on the path tells the warden someone was there before him. Without this, it reads as the plot placing the clue."
+  ],
+  "reader_question": "Why are Thurai raiders carrying freshly struck Varanad silver, and does Devan's 'pepper-store cat' joke mean he knows Neela killed the scouts to save him?",
+  "techniques_landed": [
+    18,
+    11
+  ],
+  "new_facts_assessment": "All seven listed facts are necessary and consistent with the bible and ch13. The cache (F129) solves the dawn-away-from-the-ledge problem, but the hiding has to have happened during the same morning she watched the gate; one clause would help. Eleven riders and Raman under the shelf fit F085. The pepper-store cat and the 'fever year' fit F043 and F123. Two facts are unlisted: 'Bhaskaran, whose boots Asha had joked about', which is unestablished and implies Bhaskaran served with Asha; and Neela having crossed the scree under the shelf 'on the day of the waystation', which ties the narrows geography to the ch9 gorge route without support. List both, or cut them. Technique 6 is only partial: the reader knows the scouts are dead, so the terrace watch carries little real uncertainty. The unknown men 'beyond the cut' are mentioned once and never threaten the patrol.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Repetitive tension",
+    "Irrational behaviour to extend plot"
+  ],
+  "average": 3.38,
+  "minimum": 0.0,
+  "passed": false
+}
