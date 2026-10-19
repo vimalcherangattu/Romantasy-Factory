@@ -1,0 +1,29 @@
+{
+  "facts": [
+    {
+      "category": "knowledge",
+      "fact": "Muthu's mother has been dead four years; Devan stood at her pyre. So Muthu's claim that his grey-wax letters are to his mother is a plain lie.",
+      "why": "needed because Devan must have a concrete reason to suspect Muthu; F117 had Devan believing the 'to my mother' story, so this updates what he now knows."
+    },
+    {
+      "category": "timeline",
+      "fact": "This chapter takes place the day after ch23 morning: five nights remain to the new moon.",
+      "why": "needed because Vellan gives Neela 'five nights' and the chapter must fit F206 (six nights on the morning of ch23)."
+    },
+    {
+      "category": "knowledge",
+      "fact": "Vellan is told by the guild watcher that Devan lays his sword hilt toward Neela, and he sat at the meeting stone in human form in daylight, having told Ammu he would keep the stone that day. Ammu stays at her inn as Valli.",
+      "why": "needed because the beat puts Vellan at the stone instead of Ammu."
+    },
+    {
+      "category": "object",
+      "fact": "Vellan's carved bird is plum-sized, pale wood, wing folded, head turned, beak whole, and smells of scorched tamarind (resin) from his hands.",
+      "why": "needed to make the pillow bird a recognisable clue (C28/C29); the whole beak is an echo of Asha's mended-parrot drawings."
+    },
+    {
+      "category": "knowledge",
+      "fact": "Neela tells Devan Vellan's name, rough age, the new-moon deadline and the collar threat, but refuses to name his night-shape. Devan accepts without asking.",
+      "why": "needed to show her warning choosing his life over guild silence while keeping the guild-sister line."
+    }
+  ]
+}
