@@ -1,0 +1,42 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 4.0,
+    "stakes_and_cost": 3.0,
+    "prose": 3.0,
+    "continuity": 0.0
+  },
+  "reasons": {
+    "reader_question": "The chapter leaves two sharp, specific questions: who on the council sells the tallies, and why the warden emptied the yard. It adds a third: why Neela did not climb to the window.",
+    "change": "Knowledge moves: the wax is genuine, the seller sits on the council, and the night defences are mapped. The relationship moves too: she turns away from an open kill window for the first time.",
+    "romance_movement": "The reason is new and the beat delivers it. Attraction grows from watching him defuse Bhaskaran with 'the truth and a free hand', and she learns his hunt does not include her.",
+    "shown_chemistry": "Chemistry is mostly shown: the wax warm from his hand, the dry rough pads of his fingers, 'her hand held very still', and the stair exchange. 'Her ribs felt warm' and the threat-assessment filing tip into narration.",
+    "character_logic": "Both leads act like smart people. Her trap-or-gift reasoning resolving to 'in the yard, with her eyes open' is professional. Refusing a kill under the sentry's lantern is sound. The 'man below' slip and seeing his throat from thirty feet down blur the scene's spatial logic.",
+    "stakes_and_cost": "The lost night is named as a cost, but 'she had only so many' is vague. On day three of about forty, one night reads as cheap, so the refusal costs less than the prose claims.",
+    "prose": "The prose is clean, concrete, has no banned phrases and few AI tells. It recycles chapter 3's self-deception device ('she told herself' and 'filed it') and its 'plain wall and stood in front of it' image. Two consecutive leopard paragraphs open with 'It', and the hall rival-theory dialogue is slightly over-patterned.",
+    "continuity": "The chapter states in narration and in F054 that 'Rain' is Devan's one untrue word ('a word that wasn't so'). That conflicts with the bible: Devan never lies to Neela and deflects with 'I won't answer that'. It would also poison the midpoint, where every closed shutter must reread as honest protection."
+  },
+  "fixes": [
+    "Continuity, character rule broken. At 'Only here did he reach for a word that wasn't so', Neela's narration declares that Devan lies, which the bible forbids. Rewrite so she sees 'Rain' as a deflection that sounds like a forecast, his one answer that isn't an answer: 'Only here did he give her a word that answered nothing.' Change 'Nothing else he said had a hole in it' to the idea that only here did he hand her a reason that didn't fit the sky. Update F054 to match.",
+    "Spatial logic slip and cost. At 'It weighed the man below, whose words had been plain', Devan is above her, not below; change it to 'the man above'. At 'Behind it lay a man on his left side', she cannot see a bed through a window thirty feet up; make it smell and sound only ('the smell of him came down the stone... and the hitch in his breath'). At 'two nights off the days the pass had left', make the cost countable: 'thirty-seven nights left, and she would be spending one of them on nothing.'",
+    "Recycled device (Repetitive tension in her interior). At 'Threat assessment, she told herself... She filed it there', the chapter replays chapter 3's 'She told herself it was only useful' and 'filed it'. At 'stood in front of the wall', it echoes chapter 3's 'put up a plain wall and stood in front of it' nearly word for word. Replace the filing beat with an action that betrays her: she catches herself copying his open-palm gesture on the pillar and takes her hand away. Rephrase the wall image freshly, or cut it, since the reader remembers it."
+  ],
+  "reader_question": "Who on the queen's council is selling true-wax tallies, and why did Devan empty the yard the night his assassin-bride arrived?",
+  "techniques_landed": [
+    4,
+    11,
+    13
+  ],
+  "new_facts_assessment": "F053 (Bhaskaran's dawn patrol to the second ford) is minor, necessary to deliver the satchel, and consistent; accept. F054 is rejected as worded. Calling 'Rain' Devan's 'only untrue statement' conflicts with the bible's fixed trait that he never lies to Neela. Reword it as: Neela notices that 'Rain' at dusk under a clear sky is the one answer he gives that is not an answer; she links it and the kennelled hounds as both being about the dark. This keeps the clue and protects the midpoint reread. Unlisted facts to log: Kannan's loft sits over the kennel wall; the hounds howl until the middle watch; Chinna sleeps on a mat at the kitchen door; the granary has a farm lock; Janu says Devan has slept badly for eight years. All are consistent; log them as provisional.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Repetitive tension",
+    "Narrated-only chemistry"
+  ],
+  "average": 3.25,
+  "minimum": 0.0,
+  "passed": false
+}

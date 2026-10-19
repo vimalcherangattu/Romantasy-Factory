@@ -3,40 +3,40 @@
     "reader_question": 4.0,
     "change": 4.0,
     "romance_movement": 4.0,
-    "shown_chemistry": 3.0,
-    "character_logic": 3.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 4.0,
     "stakes_and_cost": 3.0,
     "prose": 3.0,
     "continuity": 0.0
   },
   "reasons": {
-    "reader_question": "Two concrete gaps go out at once: which councillor is pressing true wax, and why the warden emptied the yard. The second sharpens the dramatic irony for a reader who knows he watched her turn.",
-    "change": "Knowledge moves on three fronts: the yard is newly empty, the wax is genuine council work, and Devan's hunt is not aimed at her. She ends uncertain where she began certain.",
-    "romance_movement": "The reason is new. His competence with Bhaskaran stirs attraction, and his goal turns out to have nothing to do with her, which removes the 'he's circling me' frame she arrived with.",
-    "shown_chemistry": "The warm wax halves and the fingertip contact work well. Elsewhere the attraction is mostly labelled in narration ('stirred something under her ribs', 'easier to listen to'), and Devan's one responsive act, the kennelling, stays offstage and unacknowledged.",
-    "character_logic": "Her gift-or-trap argument is sharp. But she ends below an unbarred window with her target asleep and never weighs the kill. She also credits him with total honesty while forgetting the 'rain' he invented at the same window.",
-    "stakes_and_cost": "Nothing is decided at the end. 'She did not climb yet' is a pause, not a choice, because the chapter never says what climbing now would cost or win her.",
-    "prose": "Clean and readable, with no banned phrases. It leans on stock beats ('Nobody breathed', 'as if his strings had been cut', 'struck her like a wall') and reuses ch3's 'stone as if it were a road' image as 'like a road'.",
-    "continuity": "'For the first time in forty days' implies she has been at Kettamala forty days, but this is about day 3. The heavily verbal leopard interiority also contradicts ch3's 'She did not think in words after that', and conflicts again with this chapter's own 'It had no words for it'."
+    "reader_question": "The chapter leaves two sharp, specific questions: who on the council sells the tallies, and why the warden emptied the yard. It adds a third: why Neela did not climb to the window.",
+    "change": "Knowledge moves: the wax is genuine, the seller sits on the council, and the night defences are mapped. The relationship moves too: she turns away from an open kill window for the first time.",
+    "romance_movement": "The reason is new and the beat delivers it. Attraction grows from watching him defuse Bhaskaran with 'the truth and a free hand', and she learns his hunt does not include her.",
+    "shown_chemistry": "Chemistry is mostly shown: the wax warm from his hand, the dry rough pads of his fingers, 'her hand held very still', and the stair exchange. 'Her ribs felt warm' and the threat-assessment filing tip into narration.",
+    "character_logic": "Both leads act like smart people. Her trap-or-gift reasoning resolving to 'in the yard, with her eyes open' is professional. Refusing a kill under the sentry's lantern is sound. The 'man below' slip and seeing his throat from thirty feet down blur the scene's spatial logic.",
+    "stakes_and_cost": "The lost night is named as a cost, but 'she had only so many' is vague. On day three of about forty, one night reads as cheap, so the refusal costs less than the prose claims.",
+    "prose": "The prose is clean, concrete, has no banned phrases and few AI tells. It recycles chapter 3's self-deception device ('she told herself' and 'filed it') and its 'plain wall and stood in front of it' image. Two consecutive leopard paragraphs open with 'It', and the hall rival-theory dialogue is slightly over-patterned.",
+    "continuity": "The chapter states in narration and in F054 that 'Rain' is Devan's one untrue word ('a word that wasn't so'). That conflicts with the bible: Devan never lies to Neela and deflects with 'I won't answer that'. It would also poison the midpoint, where every closed shutter must reread as honest protection."
   },
   "fixes": [
-    "'for the first time in forty days she wasn't certain' (final section). Continuity error: it is about day 3 of the contract, not day 40. Change it to 'for the first time since the wedding' or 'in three nights'. In the same section, cut the worded reasoning that happens while she is in shape ('He wasn't lying. She was sure of that now...'). Render it as leopard perception plus the one wordless want, matching ch3's 'She did not think in words after that'.",
-    "'A single sentry paced the walk above the warden's window'. Failure mode: irrational behaviour to extend plot, and a missing cost. The shutter is open, her target is asleep on his left side, and this is the exact kill her contract demands. Make her weigh it in two or three concrete beats: the sentry overhead would see a leopard go in, and the kill would no longer read as an outside beast. Then turn 'she did not climb yet' into a choice that costs her a night off the forty-day deadline.",
-    "'He had told her the truth about the sky, the wax and the cell'. Failure mode: narrated-only chemistry, plus a missed clue. He told her 'Rain' under a clear sky at this same window. Have her catch the one false word: the only thing this man won't say plainly is why he shuts that window. That turns the kennels and the shutters into a pattern she notices and the reader understands (technique 13). Also replace 'Nobody breathed', 'as if his strings had been cut' and 'came up under the other one like a road' (the road image repeats ch3) with specific detail."
+    "Continuity, character rule broken. At 'Only here did he reach for a word that wasn't so', Neela's narration declares that Devan lies, which the bible forbids. Rewrite so she sees 'Rain' as a deflection that sounds like a forecast, his one answer that isn't an answer: 'Only here did he give her a word that answered nothing.' Change 'Nothing else he said had a hole in it' to the idea that only here did he hand her a reason that didn't fit the sky. Update F054 to match.",
+    "Spatial logic slip and cost. At 'It weighed the man below, whose words had been plain', Devan is above her, not below; change it to 'the man above'. At 'Behind it lay a man on his left side', she cannot see a bed through a window thirty feet up; make it smell and sound only ('the smell of him came down the stone... and the hitch in his breath'). At 'two nights off the days the pass had left', make the cost countable: 'thirty-seven nights left, and she would be spending one of them on nothing.'",
+    "Recycled device (Repetitive tension in her interior). At 'Threat assessment, she told herself... She filed it there', the chapter replays chapter 3's 'She told herself it was only useful' and 'filed it'. At 'stood in front of the wall', it echoes chapter 3's 'put up a plain wall and stood in front of it' nearly word for word. Replace the filing beat with an action that betrays her: she catches herself copying his open-palm gesture on the pillar and takes her hand away. Rephrase the wall image freshly, or cut it, since the reader remembers it."
   ],
-  "reader_question": "Did Devan empty the yard as a gift or as bait for her, and who on the council is pressing true wax for the raiders?",
+  "reader_question": "Who on the queen's council is selling true-wax tallies, and why did Devan empty the yard the night his assassin-bride arrived?",
   "techniques_landed": [
     4,
     11,
     13
   ],
-  "new_facts_assessment": "Fourteen hounds, once loose and now kennelled: necessary and consistent, and it plants the ch4 secret-map clue. Bhaskaran passing the matching cart: necessary, gives the sergeant's fury a personal cause. But a gate sergeant leading a patrol to the ford needs one line of justification. Brick-red council wax with a pepper sprig and clove oil, about a month old: good retrievable clue (C02) and consistent with the queen's green wax. Devan's statement that the seller is on the council: matches the outline and the bible. Thirty-count gap and a lone sentry above the warden's window: useful for ch5. However, F037 gives six wall guards in pairs, so a single pacing sentry needs framing, either as one of a pair or as a post Devan added. Kannan's claim that Devan has 'slept badly eight years' is odd from a nine-year-old about a man who has been warden for five. Either attribute it to Janu or cut the number.",
+  "new_facts_assessment": "F053 (Bhaskaran's dawn patrol to the second ford) is minor, necessary to deliver the satchel, and consistent; accept. F054 is rejected as worded. Calling 'Rain' Devan's 'only untrue statement' conflicts with the bible's fixed trait that he never lies to Neela. Reword it as: Neela notices that 'Rain' at dusk under a clear sky is the one answer he gives that is not an answer; she links it and the kennelled hounds as both being about the dark. This keeps the clue and protects the midpoint reread. Unlisted facts to log: Kannan's loft sits over the kennel wall; the hounds howl until the middle watch; Chinna sleeps on a mat at the kitchen door; the granary has a farm lock; Janu says Devan has slept badly for eight years. All are consistent; log them as provisional.",
   "content_rule_violation": false,
   "failure_modes": [
-    "Narrated-only chemistry",
-    "Irrational behaviour to extend plot"
+    "Repetitive tension",
+    "Narrated-only chemistry"
   ],
-  "average": 3.0,
+  "average": 3.25,
   "minimum": 0.0,
   "passed": false
 }
