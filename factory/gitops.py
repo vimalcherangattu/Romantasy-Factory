@@ -1,6 +1,7 @@
 """Commits series/ and state/ to the private git repo after each stage (PRD section 9)."""
 
 import subprocess
+import time
 
 from .config import Config
 
@@ -24,4 +25,17 @@ def commit(cfg: Config, message: str) -> bool:
     _git(cfg, "add", "--", *paths)
     if _git(cfg, "diff", "--cached", "--quiet").returncode == 0:
         return False
-    return _git(cfg, "commit", "-q", "-m", message).returncode == 0
+    ok = _git(cfg, "commit", "-q", "-m", message).returncode == 0
+    if ok and cfg.get("git.push_after_commit", False):
+        push(cfg)
+    return ok
+
+
+def push(cfg: Config) -> bool:
+    """Push so work survives a cloud container being reclaimed. One retry; never fatal."""
+    for _ in range(2):
+        if all(_git(cfg, "push", "-q", "origin", ref).returncode == 0
+               for ref in cfg.get("git.push_refs", ["HEAD"])):
+            return True
+        time.sleep(5)
+    return False

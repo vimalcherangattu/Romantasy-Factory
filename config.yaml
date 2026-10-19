@@ -89,12 +89,14 @@ claude:
 schedule:
   books_per_day: 1                 # set after the M3 pilot (PRD section 9)
   max_uploads_per_day: 1           # never stage more than 1 book per day
-  start: "01:00"
-  wake: "00:55"
+  start: "00:45"                   # nightly window opens (the scheduled task fires at 00:52 IST)
+  wake: "00:40"
   stop_by: "08:00"
 
 git:
   commit_after_stage: true
+  push_after_commit: true          # the cloud container is reclaimed when idle; GitHub holds the state
+  push_refs: ["HEAD", "HEAD:main"]
 
 packaging:
   default_price_usd: 4.99

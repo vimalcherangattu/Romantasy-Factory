@@ -42,5 +42,5 @@ def test_canon_files_under_3000_words(cfg):
 
 def test_launchd_plist(cfg):
     text = schedule.plist(cfg)
-    assert "<integer>1</integer>" in text and "--scheduled" in text
-    assert "MTWRFSU 00:55:00" in schedule.wake_command(cfg)
+    assert "<integer>45</integer>" in text and "--scheduled" in text
+    assert "MTWRFSU 00:40:00" in schedule.wake_command(cfg)

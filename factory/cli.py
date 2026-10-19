@@ -218,11 +218,13 @@ def site_cmd() -> None:
 @app.command()
 def run(book: str = typer.Option(None, help="Only work on this book"),
         steps: int = typer.Option(None, help="Stop after this many steps (hand runs, M3)"),
-        scheduled: bool = typer.Option(False, help="Nightly mode: stop at schedule.stop_by")) -> None:
+        scheduled: bool = typer.Option(False, help="Nightly mode: stop at schedule.stop_by"),
+        max_minutes: float = typer.Option(None, help="Stop starting new steps after this many minutes")) -> None:
     """Continue the next unfinished book from its last completed stage."""
     cfg = _cfg()
     try:
-        rep = orchestrator.run(cfg, book_id=book, max_steps=steps, scheduled=scheduled, echo=typer.echo)
+        rep = orchestrator.run(cfg, book_id=book, max_steps=steps, scheduled=scheduled,
+                               max_minutes=max_minutes, echo=typer.echo)
     except orchestrator.LockedError as exc:
         _die(str(exc))
     typer.echo(f"Stopped: {rep.stop_reason}. {len(rep.steps)} step(s) done.")

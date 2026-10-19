@@ -1,6 +1,7 @@
 """The nightly run: pick the next unfinished book, run its next step, save, repeat (PRD sections 3 and 9)."""
 
 import os
+import time as time_module
 from contextlib import contextmanager
 from datetime import datetime, time
 from zoneinfo import ZoneInfo
@@ -71,11 +72,15 @@ def pick_book(cfg: Config, only: str | None, skip: set[str]) -> dict | None:
 
 
 def run(cfg: Config, *, book_id: str | None = None, max_steps: int | None = None,
-        scheduled: bool = False, echo=print) -> report.RunReport:
+        scheduled: bool = False, max_minutes: float | None = None, echo=print) -> report.RunReport:
     rep = report.RunReport()
+    deadline = time_module.monotonic() + max_minutes * 60 if max_minutes else None
     skip: set[str] = set()
     with run_lock(cfg):
         while True:
+            if deadline and time_module.monotonic() >= deadline:
+                rep.stop_reason = f"time budget of {max_minutes:g} minutes reached; continue with another run"
+                break
             if scheduled and outside_window(cfg):
                 rep.stop_reason = f"reached stop time {cfg.get('schedule.stop_by')}"
                 break

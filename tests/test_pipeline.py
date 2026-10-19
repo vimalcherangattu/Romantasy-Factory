@@ -270,3 +270,8 @@ def test_site_build(cfg, approved_series):
     index = (dist / "index.html").read_text()
     assert "https://www.amazon.com/dp/B0TEST" in index and "The Ink Oath" in index
     assert (dist / "about.html").exists() and (dist / "bonus.html").exists()
+
+
+def test_time_budget_stops_cleanly(cfg, approved_series):
+    rep = orchestrator.run(cfg, max_minutes=0.0001, echo=lambda *_: None)
+    assert "time budget" in rep.stop_reason
