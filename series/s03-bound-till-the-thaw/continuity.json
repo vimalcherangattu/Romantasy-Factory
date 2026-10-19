@@ -1,0 +1,467 @@
+{
+  "facts": [
+    {
+      "id": "F001",
+      "category": "name",
+      "fact": "The kingdom is Hemkot; its capital is Taravan; the far valley is Neshar; the pass is the Shilak Pass; the last village below it is Kothi Shilak.",
+      "since": "bible"
+    },
+    {
+      "id": "F002",
+      "category": "name",
+      "fact": "Heroine of Book 1 is Meera, 29, smuggler-guide and secret leader of the crew the wardens call the Salt Fox.",
+      "since": "bible"
+    },
+    {
+      "id": "F003",
+      "category": "name",
+      "fact": "Hero of Book 1 is Rohan, 35, captain of the queen's pass-wardens on the Shilak side.",
+      "since": "bible"
+    },
+    {
+      "id": "F004",
+      "category": "relationship",
+      "fact": "Kiran, 24 in Book 1, is Meera's younger brother and calls her Didi when afraid.",
+      "since": "bible"
+    },
+    {
+      "id": "F005",
+      "category": "relationship",
+      "fact": "Ila, 30 in Book 1 and 31 in Book 2, is Rohan's younger sister and a crown pass-surveyor.",
+      "since": "bible"
+    },
+    {
+      "id": "F006",
+      "category": "relationship",
+      "fact": "Kunal, 32 in Book 1 and 33 in Book 2, is prince of Neshar, nephew of Regent Pritam, and secret leader of the hill council rebels.",
+      "since": "bible"
+    },
+    {
+      "id": "F007",
+      "category": "magic",
+      "fact": "In winter the jogini let only rope-bound pairs cross a closed pass alive. Binding requires one hand-spun wool rope, the same knot tied on each other's wrist at a jogini cairn, and each speaking name and destination.",
+      "since": "bible"
+    },
+    {
+      "id": "F008",
+      "category": "magic",
+      "fact": "Ropes longer than twelve arm-spans are refused. Meera's red rope is eight arm-spans.",
+      "since": "bible"
+    },
+    {
+      "id": "F009",
+      "category": "magic",
+      "fact": "A bound pair cannot separate beyond the rope's length, tied or not, until meltwater first runs at the cairn where they were bound. Beyond the length both lose heat fast; at about twice the length the path vanishes and the mountain takes them.",
+      "since": "bible"
+    },
+    {
+      "id": "F010",
+      "category": "magic",
+      "fact": "Each lie to one's bound partner costs body heat in proportion to how much the truth would change the partner's choices. Small lie: white fingertips for an hour. Middling: frostnip and a night's shaking. Great: frostbite and dead flesh. A lie about the partner's life or death kills.",
+      "since": "bible"
+    },
+    {
+      "id": "F011",
+      "category": "magic",
+      "fact": "Silence, evasion, refusal, obvious jokes, lies to others and truths are free. Fire does not warm lie-cold.",
+      "since": "bible"
+    },
+    {
+      "id": "F012",
+      "category": "magic",
+      "fact": "A promise made while bound, if broken while still bound, strikes the breaker as a great lie.",
+      "since": "bible"
+    },
+    {
+      "id": "F013",
+      "category": "magic",
+      "fact": "Loophole: the partner lied to can take the lie-cold onto their own skin by touch; they then know a lie was told and its size, but not the truth, and they pay the cold themselves.",
+      "since": "bible"
+    },
+    {
+      "id": "F014",
+      "category": "magic",
+      "fact": "Bound pairs see the winter line marked by faint blue cairn-light at night. Armies cannot cross; only pairs bind, one pair per rope.",
+      "since": "bible"
+    },
+    {
+      "id": "F015",
+      "category": "magic",
+      "fact": "The Shilak Cairn's stones hum in wind and ring when a lie is told inside the ring.",
+      "since": "bible"
+    },
+    {
+      "id": "F016",
+      "category": "relationship",
+      "fact": "The Closing Law, written 60 winters before Book 1, forbids crossing a high pass between first snow and first thaw on pain of hanging. Wardens cannot pardon; only the queen can. Sharing a fire with an unlawful crosser is harbouring, also a hanging crime.",
+      "since": "bible"
+    },
+    {
+      "id": "F017",
+      "category": "object",
+      "fact": "A crown writ of passage signed by the queen's own hand makes a winter crossing lawful. Anyone named on it enters the Closing Roll and owes winter service for life.",
+      "since": "bible"
+    },
+    {
+      "id": "F018",
+      "category": "object",
+      "fact": "The queen's seal is a lapis stone cut with a mountain goat. Rohan carries it in his coat; it must be pressed before the Neshar assembly at the Snow Fair to revoke Regent Pritam's claim.",
+      "since": "bible"
+    },
+    {
+      "id": "F019",
+      "category": "object",
+      "fact": "Meera carries twelve packets of redbark powder for the grey cough in Ranu. The crates bore a crown stamp that had been scraped off.",
+      "since": "bible"
+    },
+    {
+      "id": "F020",
+      "category": "object",
+      "fact": "Rohan carries the clean-cut end of Dilan's rope in his coat.",
+      "since": "bible"
+    },
+    {
+      "id": "F021",
+      "category": "object",
+      "fact": "Meera keeps waxed ledgers she calls the count, recording every person and packet carried and every price.",
+      "since": "bible"
+    },
+    {
+      "id": "F022",
+      "category": "object",
+      "fact": "Meera's red rope was spun from wool sold by Lata's house in Taravan.",
+      "since": "bible"
+    },
+    {
+      "id": "F023",
+      "category": "timeline",
+      "fact": "Rohan has twenty days from the start of Book 1 to reach the Snow Fair.",
+      "since": "bible"
+    },
+    {
+      "id": "F024",
+      "category": "injury",
+      "fact": "Jassi, 40, Meera's goat handler and second, dies in the avalanche in Book 1 chapter 3. He stays dead.",
+      "since": "bible"
+    },
+    {
+      "id": "F025",
+      "category": "injury",
+      "fact": "In Book 1 chapter 26 Meera loses the ring and little fingers of her left hand to one great lie about Kiran. Permanent.",
+      "since": "bible"
+    },
+    {
+      "id": "F026",
+      "category": "injury",
+      "fact": "Kiran has a frostbitten ear from the crossing on which Dilan died, two winters before Book 1.",
+      "since": "bible"
+    },
+    {
+      "id": "F027",
+      "category": "knowledge",
+      "fact": "Dilan, 23, Rohan's youngest warden, died two winters before Book 1 after cutting his own rope to keep Kiran from being dragged off the ice.",
+      "since": "bible"
+    },
+    {
+      "id": "F028",
+      "category": "relationship",
+      "fact": "Varun, 38, Rohan's lieutenant, is Regent Pritam's man. He chose the approach route, set off the avalanche and sells stolen crown redbark to Meera's crew through a middleman.",
+      "since": "bible"
+    },
+    {
+      "id": "F029",
+      "category": "place",
+      "fact": "The Rope-Hut is a stone shelter below the Long Saddle on the far side, with one chulha, one sleeping shelf and a limited juniper woodpile.",
+      "since": "bible"
+    },
+    {
+      "id": "F030",
+      "category": "place",
+      "fact": "The Long Saddle is the high snowfield of the Shilak Pass, two days across.",
+      "since": "bible"
+    },
+    {
+      "id": "F031",
+      "category": "place",
+      "fact": "Ranu is the fever village in lower Neshar; its healer is Nimmi, 50.",
+      "since": "bible"
+    },
+    {
+      "id": "F032",
+      "category": "place",
+      "fact": "Garh Neshar is the regent's seat with a brass assembly bell; the Snow Fair is held on the frozen river meadow below it.",
+      "since": "bible"
+    },
+    {
+      "id": "F033",
+      "category": "relationship",
+      "fact": "Rohan has hanged two lowland smugglers in three winters and seized Meera's crew's loads twice. He secretly pays poor families' seizure fines from his wage.",
+      "since": "bible"
+    },
+    {
+      "id": "F034",
+      "category": "relationship",
+      "fact": "Meera charges rich clients double so poor ones cross free.",
+      "since": "bible"
+    },
+    {
+      "id": "F035",
+      "category": "relationship",
+      "fact": "Asha, 28 in Book 1, leads a rival smuggler crew from the lower salt road and is paid by Varun to track the seal in Book 1.",
+      "since": "bible"
+    },
+    {
+      "id": "F036",
+      "category": "relationship",
+      "fact": "Tej, 43 in Book 1, is Regent Pritam's general. He refuses the order to fire Ranu in Book 1 chapter 27 and is exiled after the Snow Fair as the regent's man.",
+      "since": "bible"
+    },
+    {
+      "id": "F037",
+      "category": "relationship",
+      "fact": "Lata, 40 in Book 1, widowed wool trader of Taravan. Her husband Mohit died of fever in Neshar four winters before Book 1. She and Tej loved each other young; his soldiers burned her family's wool sheds in the Neshar Rising, 20 winters before Book 1.",
+      "since": "bible"
+    },
+    {
+      "id": "F038",
+      "category": "name",
+      "fact": "Queen Sarala, 61, rules Hemkot, ill but alive. Book 1 is the 30th winter of her reign.",
+      "since": "bible"
+    },
+    {
+      "id": "F039",
+      "category": "name",
+      "fact": "Regent Pritam, 51, regent of Neshar and Kunal's uncle, plans to be invested as ruler at the Snow Fair on the claim that the queen is dying.",
+      "since": "bible"
+    },
+    {
+      "id": "F040",
+      "category": "knowledge",
+      "fact": "The Old Bargain: founders Saro (a warden) and Hemi (a smuggler) first crossed Shilak bound about 300 winters ago. The original price was a promise; the crown later recast it as a death.",
+      "since": "bible"
+    },
+    {
+      "id": "F041",
+      "category": "knowledge",
+      "fact": "The last Bargain payment, 60 winters before Book 1, was Rohan and Ila's grandfather, a warden who walked into the snow. The Closing Law was written the next spring.",
+      "since": "bible"
+    },
+    {
+      "id": "F042",
+      "category": "object",
+      "fact": "The Shilak Cairn's inner face is carved with two hands bound by one rope. The Under-Cairn carving reads 'carried till no thaw'.",
+      "since": "bible"
+    },
+    {
+      "id": "F043",
+      "category": "object",
+      "fact": "Asha ties every knot in her grandmother's pattern, which matches the cairn carving and is Hemi's knot.",
+      "since": "bible"
+    },
+    {
+      "id": "F044",
+      "category": "magic",
+      "fact": "At Book 1's thaw the jogini warn through the cold that the Old Bargain is unpaid and the pass will close forever after the fourth winter unless someone pays.",
+      "since": "bible"
+    },
+    {
+      "id": "F045",
+      "category": "relationship",
+      "fact": "Book 1 ends with Meera and Rohan retying an ordinary rope by choice after the bond ends, as their betrothal, and drafting the Winter Crossing Law.",
+      "since": "bible"
+    },
+    {
+      "id": "F046",
+      "category": "relationship",
+      "fact": "Rohan's form of address for Meera is Guide; hers for him is Captain, until it changes.",
+      "since": "bible"
+    },
+    {
+      "id": "F047",
+      "category": "name",
+      "fact": "Kunal is the masked buyer who pays for Ranu's medicine in Neshar silver stamped with a cut corner.",
+      "since": "bible"
+    },
+    {
+      "id": "F048",
+      "category": "object",
+      "fact": "The queen's seal wax is mixed with her own blood, proof she sealed it herself.",
+      "since": "bible"
+    }
+  ],
+  "knowledge": [
+    {
+      "character": "Meera",
+      "knows": "The winter line over Shilak, the rope-craft and the lie-cold rule.",
+      "since": "bible"
+    },
+    {
+      "character": "Meera",
+      "knows": "Rohan has hunted her crew for three winters.",
+      "since": "bible"
+    },
+    {
+      "character": "Meera",
+      "knows": "Kiran froze an ear on a bad crossing two winters ago, but not that he was on Dilan's rope (learns Book 1 ch 22).",
+      "since": "bible"
+    },
+    {
+      "character": "Meera",
+      "knows": "Her redbark comes through a lowland middleman; she does not know it is Varun (learns Book 1 ch 16).",
+      "since": "bible"
+    },
+    {
+      "character": "Rohan",
+      "knows": "The Closing Law, the regent's coup plan and the Snow Fair deadline.",
+      "since": "bible"
+    },
+    {
+      "character": "Rohan",
+      "knows": "His writ orders him to deliver the Salt Fox at the thaw; he does not know the Salt Fox is Meera (learns Book 1 ch 16).",
+      "since": "bible"
+    },
+    {
+      "character": "Rohan",
+      "knows": "A Kothi smuggler was on Dilan's rope; he does not know it was Kiran (learns Book 1 ch 29).",
+      "since": "bible"
+    },
+    {
+      "character": "Rohan",
+      "knows": "Varun chose the approach route; he does not suspect Varun until Book 1 ch 16.",
+      "since": "bible"
+    },
+    {
+      "character": "Rohan",
+      "knows": "His grandfather 'died on the pass' and believes it was an accident.",
+      "since": "bible"
+    },
+    {
+      "character": "Kiran",
+      "knows": "He was on Dilan's rope and Dilan cut it himself to save him; he kept Dilan's warden badge.",
+      "since": "bible"
+    },
+    {
+      "character": "Asha",
+      "knows": "Varun pays her; the seal exists; her grandmother's knot pattern but not its meaning.",
+      "since": "bible"
+    },
+    {
+      "character": "Ila",
+      "knows": "Her grandfather died on the pass 60 winters ago, not how.",
+      "since": "bible"
+    },
+    {
+      "character": "Kunal",
+      "knows": "His uncle's coup plan, three hidden summer routes, and that someone in the wardens sells crown medicine.",
+      "since": "bible"
+    },
+    {
+      "character": "Lata",
+      "knows": "Tej's soldiers burned her family's sheds; Mohit died of fever in a closed winter. She does not know Tej spared Ranu (learns Book 3 midpoint).",
+      "since": "bible"
+    },
+    {
+      "character": "Tej",
+      "knows": "He burned Lata's sheds under orders and still loves her.",
+      "since": "bible"
+    },
+    {
+      "character": "Queen Sarala",
+      "knows": "The true story of the Old Bargain and that Rohan and Ila's grandfather was its last payer.",
+      "since": "bible"
+    },
+    {
+      "character": "Varun",
+      "knows": "His own scheme; he does not know Meera is the Salt Fox.",
+      "since": "bible"
+    },
+    {
+      "character": "Regent Pritam",
+      "knows": "His coup plan and Varun's sabotage of the approach.",
+      "since": "bible"
+    },
+    {
+      "character": "Nimmi",
+      "knows": "Ranu's fever death count for three winters; later witnesses Tej lower the torches.",
+      "since": "bible"
+    }
+  ],
+  "timeline": [
+    {
+      "when": "About 300 winters before Book 1",
+      "event": "Saro and Hemi make the first bound crossing of Shilak and the Old Bargain; Hemi later dies of a great lie told to save Saro."
+    },
+    {
+      "when": "60 winters before Book 1",
+      "event": "Rohan and Ila's grandfather walks into the snow as the Bargain's payment; the Closing Law is written the next spring."
+    },
+    {
+      "when": "30 winters before Book 1",
+      "event": "Queen Sarala's reign begins."
+    },
+    {
+      "when": "20 winters before Book 1",
+      "event": "The Neshar Rising; Tej's soldiers burn Lata's family wool sheds; Lata marries Mohit within the year."
+    },
+    {
+      "when": "10 winters before Book 1",
+      "event": "Meera and Kiran's mother dies of fever during a closed winter; Meera, 19, begins smuggling."
+    },
+    {
+      "when": "4 winters before Book 1",
+      "event": "Mohit dies of fever in Neshar during a closed winter."
+    },
+    {
+      "when": "3 winters before Book 1",
+      "event": "Rohan begins hunting the Salt Fox crew."
+    },
+    {
+      "when": "2 winters before Book 1",
+      "event": "Dilan cuts his own rope to save Kiran and dies on the pass; Kiran's ear is frostbitten."
+    },
+    {
+      "when": "Book 1, 30th winter of Sarala, day 1",
+      "event": "Rohan arrives at Kothi Shilak hunting the Salt Fox; Meera prepares to cross with redbark."
+    },
+    {
+      "when": "Book 1, ch 3",
+      "event": "Varun's avalanche kills Jassi; Meera and Rohan are rope-bound at the Shilak Cairn."
+    },
+    {
+      "when": "Book 1, ch 16",
+      "event": "Rope-Hut midpoint: Meera admits she is the Salt Fox; Varun's betrayal deduced; first kiss and Rohan's promise."
+    },
+    {
+      "when": "Book 1, ch 26",
+      "event": "Meera's great lie about Kiran costs two fingers."
+    },
+    {
+      "when": "Book 1, ch 27",
+      "event": "Tej orders the torches lowered at Ranu."
+    },
+    {
+      "when": "Book 1, ch 30, about day 20",
+      "event": "Snow Fair: the seal is pressed and Pritam's claim revoked; Meera enters her ledgers into the record; Pritam imprisoned; Varun arrested; Tej exiled."
+    },
+    {
+      "when": "Book 1, ch 32, first thaw",
+      "event": "The bond ends; Meera and Rohan retie a rope by choice; the jogini warn that the Old Bargain is owed."
+    },
+    {
+      "when": "Spring after Book 1",
+      "event": "Queen Sarala signs the Winter Crossing Law."
+    },
+    {
+      "when": "Book 2, 31st winter",
+      "event": "Ila and Kunal's crossing and the Shared Map; the Under-Cairn found; Pritam escapes."
+    },
+    {
+      "when": "Book 3, 32nd winter",
+      "event": "Lata and Tej's crossing; Tej pardoned on Lata's surety; the Bargain's original price is revealed as a promise; Kiran leaves to pay."
+    },
+    {
+      "when": "Book 4, 33rd winter (the fourth winter)",
+      "event": "Kiran and Asha pay the Old Bargain with a lifelong promise; Queen Sarala dies at the thaw; the pass stays open forever."
+    }
+  ]
+}

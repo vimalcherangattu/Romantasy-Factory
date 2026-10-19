@@ -4,3 +4,4 @@ timestamp,book_id,stage,model,input_tokens,output_tokens,cache_read_input_tokens
 2026-10-19T17:26:13,series,concept,opus,2,25329,0,17304,269051,1,0.64502
 2026-10-19T17:27:01,series,market_check,sonnet,6,3112,26169,23772,44544,15,0.2942387999999999
 2026-10-19T17:42:07,s02-vow-of-teeth,bible,opus,2,42279,0,24587,455344,1,1.042284
+2026-10-19T17:50:49,s03-bound-till-the-thaw,bible,opus,2,48935,19212,5258,510190,1,1.0246144000000001

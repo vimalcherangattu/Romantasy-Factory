@@ -1,0 +1,38 @@
+{
+  "title": "The Winter Passes",
+  "slug": "bound-till-the-thaw",
+  "engine": "arena",
+  "heat": "Open door, moderate: 2 to 3 explicit scenes per book, each tied to a truth that changes the bond",
+  "subgenre": "Romantasy (core): survival-adventure romantasy built on Himachal mountain-spirit folklore",
+  "structure": "one couple per book",
+  "books": [
+    {
+      "number": 1,
+      "working_title": "Bound till the Thaw",
+      "couple": "Meera (29, smuggler-guide) and Rohan (35, captain of the queen's pass-wardens)",
+      "central_question": "Will Meera get the medicine through to Ranu, and will Rohan arrest her?",
+      "hinge": "At the thaw the jogini warn that the Old Bargain is unpaid and the pass will close forever after the fourth winter unless someone pays."
+    },
+    {
+      "number": 2,
+      "working_title": "The Winter Oath",
+      "couple": "Ila (31, crown pass-surveyor) and Kunal (33, rebel prince of Neshar)",
+      "central_question": "Will Ila map the hidden passes for the queen or hide them for Neshar?",
+      "hinge": "The Under-Cairn carving reads 'carried till no thaw', the last payer was Ila's grandfather, and Regent Pritam escapes."
+    },
+    {
+      "number": 3,
+      "working_title": "Salt and Snow",
+      "couple": "Lata (42, widowed wool trader) and Tej (45, the regent's exiled general)",
+      "central_question": "Will Lata stand surety for the exiled general whose soldiers burned her family's sheds, and take their second chance across a war?",
+      "hinge": "Mohit's ledgers reveal the Bargain's original price was a promise, not a death, and Kiran leaves to pay it with his life."
+    },
+    {
+      "number": 4,
+      "working_title": "The Last Crossing",
+      "couple": "Kiran (27, smuggler and Meera's brother) and Asha (31, rival crew boss and Hemi's descendant)",
+      "central_question": "Who pays the spirits' Old Bargain, and with what?",
+      "hinge": "Series close: the pass stays open forever, Kiran and Asha are bound every winter for life, and a stranger at the cairn asks to be carried across."
+    }
+  ]
+}
