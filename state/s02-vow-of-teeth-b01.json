@@ -98,22 +98,22 @@
       ]
     },
     "05": {
-      "status": "revised",
+      "status": "passed",
       "revisions": 2,
       "scores": {
-        "reader_question": 3.0,
+        "reader_question": 4.0,
         "change": 4.0,
         "romance_movement": 4.0,
         "shown_chemistry": 3.0,
         "character_logic": 3.0,
         "stakes_and_cost": 4.0,
         "prose": 4.0,
-        "continuity": 0.0
+        "continuity": 5.0
       },
-      "average": 3.12,
+      "average": 3.88,
       "flags": [],
       "words": 2870,
-      "minimum": 0.0,
+      "minimum": 3.0,
       "continuity_fixes": [
         "Devan thinks 'Not once had she come to the bed', but ch 2 and ch 3 show her lying down in the bed with her back to him at each dawn. FIX: In ch 5, change 'Not once had she come to the bed' to 'Each time she had come to the bed shaking and lain with her back to him, as far off as the mattress allowed'."
       ]
@@ -1252,9 +1252,13 @@
     {
       "at": "2026-10-19T23:25:09",
       "event": "done: S6 revise ch 5"
+    },
+    {
+      "at": "2026-10-19T23:26:58",
+      "event": "done: S5 critique ch 5"
     }
   ],
-  "updated_at": "2026-10-19T23:25:09",
+  "updated_at": "2026-10-19T23:26:58",
   "midpoint_chapter": 16,
   "continuity_attempts": 1
 }

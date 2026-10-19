@@ -1,0 +1,41 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 3.0,
+    "character_logic": 3.0,
+    "stakes_and_cost": 4.0,
+    "prose": 4.0,
+    "continuity": 5.0
+  },
+  "reasons": {
+    "reader_question": "The ending is specific: the rampart is bare, the bar is lifted, and she is on the ledge with no one to shout if she turns toward the bed. It loses a point because the chapter states the same danger twice before it lands.",
+    "change": "Knowledge, relationship and power all move. He learns she was put to the resin young, he starts to see a person rather than a thing, and he opens a deliberate gap in his own defences.",
+    "romance_movement": "The reason for the shift is new and specific to her. 'An instrument did not tear a wedding-gift cloth for a goat-boy,' plus the Asha echo through the names, moves him from instrument to person as the beat requires.",
+    "shown_chemistry": "The question-for-question sparring on the terrace is good shown understanding. Elsewhere the connection is one-way observation: she never responds to anything he does, and the leopard-story restraint is partly narrated ('the first thing he had paid for her sake').",
+    "character_logic": "The stated plan, 'let her go, and he would learn where,' has no way to work: he lies in bed and posts no watcher. His protective reason ignores the witness rule, which is the obvious danger of a sentry two spans above the ledge.",
+    "stakes_and_cost": "Every choice costs something. Not stopping Janu costs her fear and his comfort. Pulling the sentry exposes his own throat and buys a lie to Muthu. Not asking about the scars is a chosen silence.",
+    "prose": "Concrete, varied and in voice, with no banned phrases and no AI-tell hits. Points lost for consecutive paragraphs opening with 'He' or 'The' in several places, a few narrated summary lines, and the doubled realization at the close.",
+    "continuity": "The page is consistent. The sentry above the window, the bar left in place, the hounds kennelled, Muthu's seventh-day ask, the border-school jar at twenty, Kannan at nine, the leopard stories not yet stopped (that happens in ch9) and Janu finding Asha all check out. The draft's new-facts entry on the scars does conflict with canon, but the chapter text itself does not."
+  },
+  "fixes": [
+    "At 'The reason was a good one. Whoever had sent her would want a report': this is irrational behaviour to extend plot. The surveillance plan has no mechanism, and the witness rule, the book's engine, is missing from his reasoning. Make the 'truer reason' the rule: a man two spans above the ledge with a lantern could see her turn and become a witness with the word in his mouth for life (consistent with F278). Either give the report-tracking a real means, such as reading her return path in the wet laterite by the trough each dawn, or cut the claim that letting her go will show him where she runs.",
+    "At 'Then the cold thought came, too late to take back': the paragraph beginning 'He had also opened the one gap an assassin would want' has already had this exact realization and accepted it, so the closing 'cold thought' repeats it and makes him look slow. Cut the earlier paragraph so the danger lands only once, on the final beats. Or keep the earlier paragraph and change the closing thought to something new, such as realizing that with no sentry he has also removed the one witness who could have proved her innocent if anything happened to him.",
+    "At 'a woman who spent the night under a water trough': POV knowledge has no source, since he was in bed with his eyes shut. Add one line at the sill at grey, such as the trough's shadow thicker than it should be or a dark shape gone from under it when he looked again, or replace the phrase with 'a woman who had spent the night somewhere in his yard'. In the same pass, break the consecutive same-word paragraph openings: 'He had opened.../He counted', 'The reason.../The truer reason', and 'He had also.../He lay down'."
+  ],
+  "reader_question": "With the rampart above his window left bare on purpose, will Neela take the gap Devan has opened, and is his patience protecting her or setting her up?",
+  "techniques_landed": [
+    13,
+    25,
+    1
+  ],
+  "new_facts_assessment": "Most additions are necessary and consistent: Kunjan's north warehouse, Bindu, Asha's slate (which pays off in ch12), the 'childhood burn' lie before the later 'fall from a cart', the father, the border school, and the sentry above rather than below with the bar left in place (matches F065/F314). One problem: F310's clause 'The scars are on the inner wrist only' conflicts with F014 and the bible (scars at throat and inner wrists) and with F258 (welts at Devan's throat). Strike it and say only that the wrist scars are the ones he sees. F064 (Devan lifts the bar and leaves it against the wall) is stale and contradicts the page and F065; retire it. The page's claim that Devan knows she spent the night under the trough needs on-page support (see fixes). The captain-on-his-knees glimpse half-answers the sparring gap early. That is fair from Devan's POV and keeps the ch21 disclosure intact.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Irrational behaviour to extend plot"
+  ],
+  "average": 3.88,
+  "minimum": 3.0,
+  "passed": true
+}

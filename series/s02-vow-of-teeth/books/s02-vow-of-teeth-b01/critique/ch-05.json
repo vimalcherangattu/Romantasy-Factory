@@ -1,42 +1,41 @@
 {
   "scores": {
-    "reader_question": 3.0,
+    "reader_question": 4.0,
     "change": 4.0,
     "romance_movement": 4.0,
     "shown_chemistry": 3.0,
     "character_logic": 3.0,
     "stakes_and_cost": 4.0,
     "prose": 4.0,
-    "continuity": 0.0
+    "continuity": 5.0
   },
   "reasons": {
-    "reader_question": "The question 'what will she do with an unguarded window, and who is she reporting to' is clear, but the quiet ending (counting the gap in the dark) doesn't sharpen it into the beat's 'protect or trap' tension.",
-    "change": "Knowledge and relationship both move: Devan confirms she lies by questions, has seen the scars up close, and acts by opening a gap that costs him safety.",
-    "romance_movement": "There is a new reason for the change. The torn trousseau cloth and Bindu's name break the 'instrument' reading, and 'He did not know what to do with a person' lands the value shift.",
-    "shown_chemistry": "The question-for-question volley on the terraces and 'the first time all morning she had sounded like herself' are responsive and good. Most of the attraction is still Devan observing from a distance, not the two acting on each other.",
-    "character_logic": "Mostly sharp, especially withholding the leopard-story rescue to protect his secret. But a man who watched her smear resin and studied resin scars at the border school would not 'tell himself they were the marks of a weapon'.",
-    "stakes_and_cost": "Pulling the sentry leaves his throat open, and letting Janu's story run costs him her comfort. Both costs are named and chosen.",
-    "prose": "Clean, concrete and readable, with good images ('grin came back over it like a lid', 'sinkers are the ones worth the weight'). The last section over-explains ('It was only sense, and he told himself so twice'), and 'every dusk' echoes within one paragraph.",
-    "continuity": "This conflicts with the end of chapter 4. There, Neela turned back at dawn in the yard, under the water trough, after Devan swung both shutter leaves wide. Here she comes back through the window lifting the bar, the bar is reset, and Devan leaves for the kalari 'before the light', which is impossible because she can't return before first light (F004, F308)."
+    "reader_question": "The ending is specific: the rampart is bare, the bar is lifted, and she is on the ledge with no one to shout if she turns toward the bed. It loses a point because the chapter states the same danger twice before it lands.",
+    "change": "Knowledge, relationship and power all move. He learns she was put to the resin young, he starts to see a person rather than a thing, and he opens a deliberate gap in his own defences.",
+    "romance_movement": "The reason for the shift is new and specific to her. 'An instrument did not tear a wedding-gift cloth for a goat-boy,' plus the Asha echo through the names, moves him from instrument to person as the beat requires.",
+    "shown_chemistry": "The question-for-question sparring on the terrace is good shown understanding. Elsewhere the connection is one-way observation: she never responds to anything he does, and the leopard-story restraint is partly narrated ('the first thing he had paid for her sake').",
+    "character_logic": "The stated plan, 'let her go, and he would learn where,' has no way to work: he lies in bed and posts no watcher. His protective reason ignores the witness rule, which is the obvious danger of a sentry two spans above the ledge.",
+    "stakes_and_cost": "Every choice costs something. Not stopping Janu costs her fear and his comfort. Pulling the sentry exposes his own throat and buys a lie to Muthu. Not asking about the scars is a chosen silence.",
+    "prose": "Concrete, varied and in voice, with no banned phrases and no AI-tell hits. Points lost for consecutive paragraphs opening with 'He' or 'The' in several places, a few narrated summary lines, and the doubled realization at the close.",
+    "continuity": "The page is consistent. The sentry above the window, the bar left in place, the hounds kennelled, Muthu's seventh-day ask, the border-school jar at twenty, Kannan at nine, the leopard stories not yet stopped (that happens in ch9) and Janu finding Asha all check out. The draft's new-facts entry on the scars does conflict with canon, but the chapter text itself does not."
   },
   "fixes": [
-    "Opening, 'the bar lifted, the slat cracking, the long breath': this breaks continuity with chapter 4 and is a Contrived delay. Devan's POV hides that he threw both shutter leaves open at first light. Rewrite the return so it matches chapter 4. He opened the shutters at the grey of dawn. She turned back in the yard, so she came up the stair or the wall as a woman after first light, and the bar was never lifted from outside. He goes to the kalari after first light, not 'before the light'. Give one plain sentence of his reason for opening the shutters. That pays off chapter 4's ending as the required partial answer.",
-    "Terrace scene, 'told himself they were the marks of a weapon': this is Irrational behaviour. He has watched her smear resin three nights and was taught exactly what the scars look like, so he cannot have misread them. Cut the self-deception and keep the scars to the inner wrist (drop 'toward the elbow'). Make the shaped gap something new he notices instead. For example, the ridges are layered thick, like eleven years of use, which tells him she has been doing this since she was young. That gives him a new fact, not a re-told one.",
-    "Final paragraphs, from 'It did not hold, and he knew it' to 'counted it again': this is close to Endless monologue, and the ending neither interrupts nor reveals anything. Cut the self-argument to two sentences and keep the throat-cost line. End on a live action caused by his choice. For example, he hears the bar lift and the third slat crack, then realises the empty rampart gives no one to shout if she turns back toward the bed instead of the hill. Close on her weight landing on the ledge, so the 'protect or trap' question is in motion."
+    "At 'The reason was a good one. Whoever had sent her would want a report': this is irrational behaviour to extend plot. The surveillance plan has no mechanism, and the witness rule, the book's engine, is missing from his reasoning. Make the 'truer reason' the rule: a man two spans above the ledge with a lantern could see her turn and become a witness with the word in his mouth for life (consistent with F278). Either give the report-tracking a real means, such as reading her return path in the wet laterite by the trough each dawn, or cut the claim that letting her go will show him where she runs.",
+    "At 'Then the cold thought came, too late to take back': the paragraph beginning 'He had also opened the one gap an assassin would want' has already had this exact realization and accepted it, so the closing 'cold thought' repeats it and makes him look slow. Cut the earlier paragraph so the danger lands only once, on the final beats. Or keep the earlier paragraph and change the closing thought to something new, such as realizing that with no sentry he has also removed the one witness who could have proved her innocent if anything happened to him.",
+    "At 'a woman who spent the night under a water trough': POV knowledge has no source, since he was in bed with his eyes shut. Add one line at the sill at grey, such as the trough's shadow thicker than it should be or a dark shape gone from under it when he looked again, or replace the phrase with 'a woman who had spent the night somewhere in his yard'. In the same pass, break the consecutive same-word paragraph openings: 'He had opened.../He counted', 'The reason.../The truer reason', and 'He had also.../He lay down'."
   ],
-  "reader_question": "Now that Devan has stripped his own window of its guard to see where she runs, will his patience protect Neela from being caught or hand her the clean kill she was sent for?",
+  "reader_question": "With the rampart above his window left bare on purpose, will Neela take the gap Devan has opened, and is his patience protecting her or setting her up?",
   "techniques_landed": [
     13,
     25,
     1
   ],
-  "new_facts_assessment": "new-facts-added-by-draft.json is empty, but the draft adds several facts. Kunjan Chirayil and the north warehouse are necessary for testing her cover and consistent with it. Bindu, Kannan's singing mother, is necessary and on-trait for Neela's naming habit. Asha's slate in her first month at nineteen is necessary, matches F110 later, and is consistent with Devan being four years older. Muthu as Devan's former kalari partner and witness to the ford is consistent with F181. Janu finding Asha's body is fine, though F101 has Janu avoiding the stair, which this deepens. The two years at border school and the dead father are harmless. Other additions are risky. The scars 'ran up past the bangle toward the elbow', which extends the bible's 'inner wrists' and should be cut. 'A childhood burn' as her lie should be checked against F200, where her second-week lie is 'a fall from a cart'. Two different lies can stand, but it reads as drift unless chapter 22 acknowledges both. The new-facts file must list all of these.",
+  "new_facts_assessment": "Most additions are necessary and consistent: Kunjan's north warehouse, Bindu, Asha's slate (which pays off in ch12), the 'childhood burn' lie before the later 'fall from a cart', the father, the border school, and the sentry above rather than below with the bar left in place (matches F065/F314). One problem: F310's clause 'The scars are on the inner wrist only' conflicts with F014 and the bible (scars at throat and inner wrists) and with F258 (welts at Devan's throat). Strike it and say only that the wrist scars are the ones he sees. F064 (Devan lifts the bar and leaves it against the wall) is stale and contradicts the page and F065; retire it. The page's claim that Devan knows she spent the night under the trough needs on-page support (see fixes). The captain-on-his-knees glimpse half-answers the sparring gap early. That is fair from Devan's POV and keeps the ch21 disclosure intact.",
   "content_rule_violation": false,
   "failure_modes": [
-    "Contrived delays",
     "Irrational behaviour to extend plot"
   ],
-  "average": 3.12,
-  "minimum": 0.0,
-  "passed": false
+  "average": 3.88,
+  "minimum": 3.0,
+  "passed": true
 }
