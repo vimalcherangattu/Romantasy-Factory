@@ -4,40 +4,39 @@
     "change": 4.0,
     "romance_movement": 4.0,
     "shown_chemistry": 4.0,
-    "character_logic": 3.0,
-    "stakes_and_cost": 2.0,
-    "prose": 3.0,
+    "character_logic": 4.0,
+    "stakes_and_cost": 3.0,
+    "prose": 4.0,
     "continuity": 0.0
   },
   "reasons": {
-    "reader_question": "The beat's question ('what does a vow weigh with nothing hidden') is stated outright in the last scene rather than felt; the concrete pull is only 'will the noon wedding happen', and Ittan's 'whose hand I am' thread is not escalated, so no new question bigger than the one answered.",
-    "change": "Clear state change: every secret between them is out, both have declared, and she has asked for a remade marriage, so allies become lovers who chose with full knowledge.",
-    "romance_movement": "Moves for new reasons: the tooth confession, the shutters explained, the three-breath trust night and her first freely made request. Docked because the recognition is argued in dialogue more than proven by an act.",
-    "shown_chemistry": "Strong responsive beats: the tooth prick opening a welt on her thumb and her laughing, the breath-hitch she has listened to for weeks, the kiss broken by his rib wound pulling at hers.",
-    "character_logic": "Mostly true to voice. But Devan lists Raiu as a casual detail three chapters after Raiu died on the stair for him. The question-game turn is muddled: she says 'your turn' and he asks a question about himself. 'We don't have a week' has no stated reason.",
-    "stakes_and_cost": "Nothing the leads choose here costs anything. The proposal carries no named price, though Muthu, a known palace informant, will witness it. Ammu's death and the closed pass with a prisoner are background only.",
-    "prose": "Clean, no banned phrases or em-dash excess. Weakened by thesis-statement dialogue ('I'm not unleashable because I'm strong...'), a garbled line ('because you know, and you didn't'), recycled tags ('He said it plainly / without weight / as he would have reported a patrol') and three 'corner of his mouth moved' beats.",
-    "continuity": "Conflict. Devan says that on the second dusk he pulled the sentry, kennelled the hounds and stopped Janu's stories. The sentry still paced above the window in ch4 (F052) and was pulled in ch5 (F064, F079), and the stories stopped in ch9 (secret map). 'A stone in your cheek every night' also conflicts with F247 (only since ch20)."
+    "reader_question": "The beat's question is spoken aloud by Devan in the last scene, but it stays abstract. The concrete pull (what Muthu's report will cost) rests on a continuity error, and the ending gives the reader nothing urgent to resume.",
+    "change": "She confesses in full, he answers the chapter-3 refusal, both declare love, and she proposes. That is a real shift from allies to lovers who chose each other knowing everything, though most of it was expected after ch27-29.",
+    "romance_movement": "The reasons for the change are new: the shutters were his protection, and the three-breath night was when he learned to trust her. The proposal adds her choice. It loses a point because the declarations land on schedule with little friction.",
+    "shown_chemistry": "Chemistry comes through responsive action, not narration. He pricks his thumb on the tooth and the welt rises on hers. They share the 'Six' callback. He winces into the kiss and she says 'Sit still. You're bleeding on both of us.'",
+    "character_logic": "Mostly sound. Devan warning her about Muthu and still saying yes fits his literal honesty. Closing a fist on a canine point is slightly convenient for a careful kalari man, but the scene plays it as a joke.",
+    "stakes_and_cost": "Her daylight vow means being written down for the crown, which is a real cost tied to her arc. But the warning that it 'goes north before the week is out' contradicts the closed pass, so the cost as stated cannot happen.",
+    "prose": "Clean and voiced, with no banned phrases and few AI tells. Some lines are over-neat aphorisms ('There was no weight in it, and that was the weight'). The recognition passage states the bible's false belief almost word for word ('Anyone who sees all of me puts a collar on me').",
+    "continuity": "Four conflicts. (1) The pass closed in ch29 for four months, so no letter goes north this week. (2) Devan names 'the queen's household' as Muthu's reader; he only suspects Ittan (F217) and learns about the queen in B2 ch9. (3) The hounds were kennelled by ch4 (F048), before the sentry was pulled in ch5, but the chapter reverses the order. (4) On the first night Raiu held the corridor torch (F036); the stair post came in ch8 (F090)."
   },
   "fixes": [
-    "Continuity, at \"The second dusk. I pulled the sentry. Kennelled the hounds\": this conflicts with ch4 (sentry still pacing, F052), ch5 (sentry pulled, F064 and F079) and ch9 (Janu's stories stopped). Rewrite as a sequence that matches the chapters. Suggested wording: \"The second dusk I barred them. The sentry went a few nights after, then the hounds. Janu's stories took me longest.\" Also change \"You put a stone in your cheek every night\" to \"every resin night since the rampart\" to match F247.",
-    "Stakes and cost, and trauma as decoration, at \"Raiu was at the stair. The sentry walked\" and \"We don't have a week. I'd rather be married than careful\": Raiu died on that stair for Devan in ch25, and Ammu three chapters ago, yet neither loss shapes this night. Fix in two parts. First, give Devan a one-line halt on Raiu's name. Second, let Neela touch Ammu's resin pouch when she asks for the morning vow, so the dead sister is present. Then replace the unexplained 'we don't have a week' with a concrete price. For example, Devan points out that Muthu will stand in that courtyard and her own words will go north in a grey-sealed letter, and she chooses to say them anyway. That gives the proposal a real cost and re-engages Ittan's 'whose hand' thread.",
-    "Prose and narrated chemistry, at \"I'm not unleashable because I'm strong,\" she said: the recognition is delivered as a stated thesis, the line 'because you know, and you didn't' is garbled, and 'That's what I was afraid of for twenty years' repeats the point. Cut this to one concrete sentence tied to the open window at her back, for example: \"There's rain on my neck and a man who's seen all of me, and I'm not counting the door.\" Fix the question-game turn too: have Devan ask \"Do you want to know when I stopped being afraid of you?\" so the turn makes sense. Vary the repeated 'He said it plainly / without weight' tags."
+    "Continuity error at \"Whatever you say goes north in a grey-sealed letter before the week is out... in the queen's household.\" Ch29 closed the pass for four months, and Devan does not know who reads Muthu's letters. Rewrite as: \"Whatever you say goes into a grey-sealed letter. It waits four months for the road, and then it goes to whoever reads them.\" This keeps the cost and makes it deferred and unknown, which also sharpens the outgoing question.",
+    "Continuity error at \"The sentry went a few nights after, then the hounds.\" The hounds were kennelled by ch4 and the sentry was pulled in ch5. Reorder to: \"The hounds went to the kennel within a few nights, the sentry after them. Janu's stories took me longest.\" In the same scene, change \"Raiu was at the stair\" to \"Raiu was at the corridor torch\" (F036) in both places. In the opening, change \"where Devan had leaned it every evening since the second night\" to \"where she had leaned it every dusk since the second night,\" since F065 has Neela lifting the bar herself.",
+    "Weak chapter ending (checklist item 5) at \"she sat with her back to the dark and the dark did nothing.\" The chapter closes on resolved calm with nothing to resume. Keep the image, but end on one concrete forward pull caused by the story. For example: her hand on Ammu's resin pouch and her decision to turn back at dawn in front of him after the noon vow, or the guardroom lamp still lit below where Ittan waits. Also cut the thesis-statement line \"So I made it a rule. Anyone who sees all of me puts a collar on me.\" Let the Chathu and Ammu memories carry the belief by implication."
   ],
-  "reader_question": "What will it mean for Neela and Devan to make a vow in daylight with nothing hidden, and what will saying it in the open cost them?",
+  "reader_question": "What will it cost Neela to speak her own vow at noon in front of a captain who reports everything north?",
   "techniques_landed": [
-    10,
     20,
-    24
+    24,
+    10
   ],
-  "new_facts_assessment": "F276 (skipped resin, Ammu's thumb kept for ch31) is necessary and consistent. Fix the line 'The resin's in the pouch with Ammu's': it implies a second, personal supply, which a rogue with no ration should not have. F277 (three counted breaths, undated, about nine days in) is necessary; it fits the breath-hitch of F083 and F165 and the ch10-11 skipped-resin window. F278 is necessary in substance but conflicts in its timing: barring on the second dusk is fine, but the sentry, hounds and stories were staged across ch4, ch5 and ch9, so it must be told as a sequence. F279 (real leopard canine, thumb welt) is consistent with F039 and the wound-share. F280 correctly holds back the lookout secret. Two facts are unlisted and should be added: Devan said 'I love you' to Asha in the kitchen the week before she died, and Devan told Janu he was 'tired of leopards'. Both are fine if that line was said by day; state that it was.",
+  "new_facts_assessment": "Fact 1, Devan's last 'I love you' to Asha: consistent with F023 and his never-lies voice, and it raises the cost of his declaration. Necessary and fine. Fact 2, 'tired of leopards' said to Janu by day: safe under the witness rule, since a caging can't happen by day, and consistent with the ch9 plant. However, its stated order (sentry, then hounds) contradicts ch4 and ch5 and must be reordered. Fact 3, the noon remarriage in front of Muthu: necessary setup for ch31. However, the attached warning (a letter north within the week, to the queen's household) breaks both the closed pass (ch29, F020) and Devan's knowledge state (F217, bible secret map), and must be rewritten.",
   "content_rule_violation": false,
   "failure_modes": [
-    "Trauma as decoration",
-    "Plot buried by romance",
-    "Narrated-only chemistry"
+    "Contrived delays",
+    "Endless monologue"
   ],
-  "average": 2.88,
+  "average": 3.25,
   "minimum": 0.0,
   "passed": false
 }

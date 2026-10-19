@@ -1,0 +1,42 @@
+{
+  "scores": {
+    "reader_question": 3.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 4.0,
+    "stakes_and_cost": 3.0,
+    "prose": 4.0,
+    "continuity": 0.0
+  },
+  "reasons": {
+    "reader_question": "The beat's question is spoken aloud by Devan in the last scene, but it stays abstract. The concrete pull (what Muthu's report will cost) rests on a continuity error, and the ending gives the reader nothing urgent to resume.",
+    "change": "She confesses in full, he answers the chapter-3 refusal, both declare love, and she proposes. That is a real shift from allies to lovers who chose each other knowing everything, though most of it was expected after ch27-29.",
+    "romance_movement": "The reasons for the change are new: the shutters were his protection, and the three-breath night was when he learned to trust her. The proposal adds her choice. It loses a point because the declarations land on schedule with little friction.",
+    "shown_chemistry": "Chemistry comes through responsive action, not narration. He pricks his thumb on the tooth and the welt rises on hers. They share the 'Six' callback. He winces into the kiss and she says 'Sit still. You're bleeding on both of us.'",
+    "character_logic": "Mostly sound. Devan warning her about Muthu and still saying yes fits his literal honesty. Closing a fist on a canine point is slightly convenient for a careful kalari man, but the scene plays it as a joke.",
+    "stakes_and_cost": "Her daylight vow means being written down for the crown, which is a real cost tied to her arc. But the warning that it 'goes north before the week is out' contradicts the closed pass, so the cost as stated cannot happen.",
+    "prose": "Clean and voiced, with no banned phrases and few AI tells. Some lines are over-neat aphorisms ('There was no weight in it, and that was the weight'). The recognition passage states the bible's false belief almost word for word ('Anyone who sees all of me puts a collar on me').",
+    "continuity": "Four conflicts. (1) The pass closed in ch29 for four months, so no letter goes north this week. (2) Devan names 'the queen's household' as Muthu's reader; he only suspects Ittan (F217) and learns about the queen in B2 ch9. (3) The hounds were kennelled by ch4 (F048), before the sentry was pulled in ch5, but the chapter reverses the order. (4) On the first night Raiu held the corridor torch (F036); the stair post came in ch8 (F090)."
+  },
+  "fixes": [
+    "Continuity error at \"Whatever you say goes north in a grey-sealed letter before the week is out... in the queen's household.\" Ch29 closed the pass for four months, and Devan does not know who reads Muthu's letters. Rewrite as: \"Whatever you say goes into a grey-sealed letter. It waits four months for the road, and then it goes to whoever reads them.\" This keeps the cost and makes it deferred and unknown, which also sharpens the outgoing question.",
+    "Continuity error at \"The sentry went a few nights after, then the hounds.\" The hounds were kennelled by ch4 and the sentry was pulled in ch5. Reorder to: \"The hounds went to the kennel within a few nights, the sentry after them. Janu's stories took me longest.\" In the same scene, change \"Raiu was at the stair\" to \"Raiu was at the corridor torch\" (F036) in both places. In the opening, change \"where Devan had leaned it every evening since the second night\" to \"where she had leaned it every dusk since the second night,\" since F065 has Neela lifting the bar herself.",
+    "Weak chapter ending (checklist item 5) at \"she sat with her back to the dark and the dark did nothing.\" The chapter closes on resolved calm with nothing to resume. Keep the image, but end on one concrete forward pull caused by the story. For example: her hand on Ammu's resin pouch and her decision to turn back at dawn in front of him after the noon vow, or the guardroom lamp still lit below where Ittan waits. Also cut the thesis-statement line \"So I made it a rule. Anyone who sees all of me puts a collar on me.\" Let the Chathu and Ammu memories carry the belief by implication."
+  ],
+  "reader_question": "What will it cost Neela to speak her own vow at noon in front of a captain who reports everything north?",
+  "techniques_landed": [
+    20,
+    24,
+    10
+  ],
+  "new_facts_assessment": "Fact 1, Devan's last 'I love you' to Asha: consistent with F023 and his never-lies voice, and it raises the cost of his declaration. Necessary and fine. Fact 2, 'tired of leopards' said to Janu by day: safe under the witness rule, since a caging can't happen by day, and consistent with the ch9 plant. However, its stated order (sentry, then hounds) contradicts ch4 and ch5 and must be reordered. Fact 3, the noon remarriage in front of Muthu: necessary setup for ch31. However, the attached warning (a letter north within the week, to the queen's household) breaks both the closed pass (ch29, F020) and Devan's knowledge state (F217, bible secret map), and must be rewritten.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Contrived delays",
+    "Endless monologue"
+  ],
+  "average": 3.25,
+  "minimum": 0.0,
+  "passed": false
+}
