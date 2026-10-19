@@ -10,7 +10,7 @@
   ],
   "chapters": {
     "01": {
-      "status": "passed",
+      "status": "continuity-fix",
       "revisions": 0,
       "scores": {
         "reader_question": 4.0,
@@ -25,10 +25,14 @@
       "average": 3.62,
       "flags": [],
       "words": 2401,
-      "minimum": 3.0
+      "minimum": 3.0,
+      "continuity_fixes": [
+        "Ch 1 says Kettamala has 'one gate and a hundred and some soldiers'. Ch 24 and ch 29 give the garrison as sixty, and ch 14 uses an east postern, which is a second gate. FIX: In ch 1, change 'A fort with one gate and a hundred and some soldiers' to 'A fort with one great gate and sixty-odd soldiers'.",
+        "On the wedding night Neela lifts a bar off the shutters. Ch 10 (Janu), ch 16 and ch 30 all say the shutters were never barred before the wedding and Devan first barred them on the second dusk. FIX: In ch 1, replace 'with a bolt that slid back easily. She lifted the bar, eased the first shutter' with 'held only by an iron latch; the long teak bar hung unused on its hooks. She lifted the latch, eased the first shutter'."
+      ]
     },
     "02": {
-      "status": "passed",
+      "status": "continuity-fix",
       "revisions": 0,
       "scores": {
         "reader_question": 4.0,
@@ -43,10 +47,14 @@
       "average": 4.12,
       "flags": [],
       "words": 2415,
-      "minimum": 4.0
+      "minimum": 4.0,
+      "continuity_fixes": [
+        "Devan watches her 'lift the bar from the west shutters' on the wedding night, but the bar is first used on the second dusk (ch 3, ch 10, ch 30). FIX: In ch 2, change 'he watched her lift the bar from the west shutters' to 'he watched her lift the latch on the west shutters'.",
+        "Asha's parrot signature is 'a quick three-stroke bird, beak open'. Ch 12 describes it as five strokes with the beak always whole. FIX: In ch 2, change 'A quick three-stroke bird, beak open, always laughing at something' to 'A quick five-stroke bird with a whole beak, always laughing at something'."
+      ]
     },
     "03": {
-      "status": "passed",
+      "status": "continuity-fix",
       "revisions": 0,
       "scores": {
         "reader_question": 4.0,
@@ -61,10 +69,13 @@
       "average": 3.62,
       "flags": [],
       "words": 2710,
-      "minimum": 3.0
+      "minimum": 3.0,
+      "continuity_fixes": [
+        "Neela recalls leaving 'the bar propped against the wall' after the wedding night and finding it back in its brackets 'this morning'. No bar was used on night one, and Devan only bars the shutters at this chapter's dusk. FIX: In ch 3, replace the two sentences about last night's bar with: 'Last night there had been no bar across them at all. Tonight there was, and a man who barred a window looked at its bar.'"
+      ]
     },
     "04": {
-      "status": "passed",
+      "status": "continuity-fix",
       "revisions": 2,
       "scores": {
         "reader_question": 4.0,
@@ -79,10 +90,13 @@
       "average": 3.75,
       "flags": [],
       "words": 2836,
-      "minimum": 3.0
+      "minimum": 3.0,
+      "continuity_fixes": [
+        "'Chinna snored on his mat'. Chinna is a woman: ch 1 calls her 'a broad woman', and ch 18 and ch 31 mention 'her bad hip'. FIX: In ch 4, change 'Chinna snored on his mat' to 'Chinna snored on her mat'."
+      ]
     },
     "05": {
-      "status": "passed",
+      "status": "continuity-fix",
       "revisions": 1,
       "scores": {
         "reader_question": 4.0,
@@ -97,7 +111,10 @@
       "average": 4.0,
       "flags": [],
       "words": 2735,
-      "minimum": 3.0
+      "minimum": 3.0,
+      "continuity_fixes": [
+        "Devan thinks 'Not once had she come to the bed', but ch 2 and ch 3 show her lying down in the bed with her back to him at each dawn. FIX: In ch 5, change 'Not once had she come to the bed' to 'Each time she had come to the bed shaking and lain with her back to him, as far off as the mattress allowed'."
+      ]
     },
     "06": {
       "status": "passed",
@@ -136,7 +153,7 @@
       "minimum": 3.0
     },
     "08": {
-      "status": "passed",
+      "status": "continuity-fix",
       "revisions": 0,
       "scores": {
         "reader_question": 4.0,
@@ -151,7 +168,10 @@
       "average": 4.0,
       "flags": [],
       "words": 2480,
-      "minimum": 3.0
+      "minimum": 3.0,
+      "continuity_fixes": [
+        "Muthu says 'Tomorrow's the seventh day', but he made his seventh-day request in ch 5, only about three days earlier. FIX: In ch 8, change 'Tomorrow's the seventh day' to 'Four days to the seventh day'."
+      ]
     },
     "09": {
       "status": "passed",
@@ -208,7 +228,7 @@
       "minimum": 3.0
     },
     "12": {
-      "status": "passed",
+      "status": "continuity-fix",
       "revisions": 0,
       "scores": {
         "reader_question": 4.0,
@@ -223,7 +243,10 @@
       "average": 4.0,
       "flags": [],
       "words": 2643,
-      "minimum": 3.0
+      "minimum": 3.0,
+      "continuity_fixes": [
+        "Muthu claims his mother 'writes me every week' and Devan believes him. In ch 24 Devan already knows she writes once a month, and he would have caught the false claim. FIX: In ch 12, change 'She writes me every week, I answer once a month' to 'She writes me once a month, I answer once a month'."
+      ]
     },
     "13": {
       "status": "passed",
@@ -262,7 +285,7 @@
       "minimum": 3.0
     },
     "15": {
-      "status": "passed",
+      "status": "continuity-fix",
       "revisions": 2,
       "scores": {
         "reader_question": 4.0,
@@ -279,10 +302,14 @@
         "needs-owner"
       ],
       "words": 3095,
-      "minimum": 0.0
+      "minimum": 0.0,
+      "continuity_fixes": [
+        "Neela recalls 'last night's supper' and the bowl-of-milk line. That supper was in ch 14, eight nights before the storm. FIX: In ch 15, change 'And last night's supper, over Janu's fish' to 'And that supper eight nights ago, over Janu's fish'.",
+        "The drop from the warden's window is called 'forty feet'. Ch 4 gives the wall under the window as thirty feet. FIX: In ch 15, change 'a drop of forty feet' to 'a drop of thirty feet'."
+      ]
     },
     "16": {
-      "status": "passed",
+      "status": "continuity-fix",
       "revisions": 1,
       "scores": {
         "reader_question": 4.0,
@@ -297,7 +324,10 @@
       "average": 4.12,
       "flags": [],
       "words": 2732,
-      "minimum": 4.0
+      "minimum": 4.0,
+      "continuity_fixes": [
+        "Neela recalls Janu's story as one about 'a leopard that took a bride' that Devan stopped with 'enough'. In ch 9 the story was a man-eating leopard taking a man above the second ford, and Devan said 'Not tonight, Janu'. FIX: In ch 16, change the sentence to 'Janu had told a story at supper once, of a man-eater of the pass that left a traveller's sandals on the road. Devan had said Not tonight, Janu, so mildly that she went red and stopped.'"
+      ]
     },
     "17": {
       "status": "passed",
@@ -318,7 +348,7 @@
       "minimum": 3.0
     },
     "18": {
-      "status": "passed",
+      "status": "continuity-fix",
       "revisions": 1,
       "scores": {
         "reader_question": 4.0,
@@ -333,7 +363,10 @@
       "average": 3.88,
       "flags": [],
       "words": 2660,
-      "minimum": 3.0
+      "minimum": 3.0,
+      "continuity_fixes": [
+        "Ammu says she has written to Kirri 'eleven times'. In ch 7 she had written three letters, and the bible fixes the count at three (C08). FIX: In ch 18, change 'I've written eleven times to the address she gave' to 'I've written four times now to the address she gave'."
+      ]
     },
     "19": {
       "status": "passed",
@@ -356,7 +389,7 @@
       "minimum": 3.0
     },
     "20": {
-      "status": "passed",
+      "status": "continuity-fix",
       "revisions": 1,
       "scores": {
         "reader_question": 4.0,
@@ -371,10 +404,13 @@
       "average": 3.88,
       "flags": [],
       "words": 2473,
-      "minimum": 3.0
+      "minimum": 3.0,
+      "continuity_fixes": [
+        "'Devan had closed the shutters himself before the light went, as he did each evening.' In ch 16 he promised the shutters were hers and that he would not touch them, and in ch 17 they stand open. FIX: In ch 20, change it to 'Neela had closed the shutters herself before the light went, slat by slat'."
+      ]
     },
     "21": {
-      "status": "passed",
+      "status": "continuity-fix",
       "revisions": 1,
       "scores": {
         "reader_question": 4.0,
@@ -389,7 +425,10 @@
       "average": 4.0,
       "flags": [],
       "words": 2402,
-      "minimum": 3.0
+      "minimum": 3.0,
+      "continuity_fixes": [
+        "Devan names the story that made him stop Janu as 'the one about the leopard that waits at the foot of the bed'. The story he stopped in ch 9 was the man-eater of the pass. Devan never lies. FIX: In ch 21, change it to 'the one about the man-eater of the pass that left a man's sandals on the road'."
+      ]
     },
     "22": {
       "status": "passed",
@@ -410,7 +449,7 @@
       "minimum": 3.0
     },
     "23": {
-      "status": "passed",
+      "status": "continuity-fix",
       "revisions": 2,
       "scores": {
         "reader_question": 4.0,
@@ -425,7 +464,10 @@
       "average": 3.75,
       "flags": [],
       "words": 2789,
-      "minimum": 3.0
+      "minimum": 3.0,
+      "continuity_fixes": [
+        "Neela 'had been in the room that night, on her side of the bed with her face to the wall, while he read the letter aloud to the dark'. In ch 17 he read Ittan's letter at noon by the west window, and they discussed it face to face. FIX: In ch 23, change it to 'She had stood by the chest while he read the letter aloud at the window at noon, and she had counted the friends in it'."
+      ]
     },
     "24": {
       "status": "passed",
@@ -446,7 +488,7 @@
       "minimum": 3.0
     },
     "25": {
-      "status": "passed",
+      "status": "continuity-fix",
       "revisions": 1,
       "scores": {
         "reader_question": 4.0,
@@ -461,7 +503,10 @@
       "average": 3.88,
       "flags": [],
       "words": 2392,
-      "minimum": 3.0
+      "minimum": 3.0,
+      "continuity_fixes": [
+        "Neela tells Devan Muthu should follow 'if I'm not back by the second dusk'. Her actual order in ch 26, which Chathu's timing depends on, is first light on the second day, meeting her on the wood road. FIX: In ch 25, change 'If I'm not back by the second dusk, he's to bring you after me' to 'If I'm not back by first light on the second day, he's to bring you up the wood road after me'."
+      ]
     },
     "26": {
       "status": "passed",
@@ -484,7 +529,7 @@
       "minimum": 0.0
     },
     "27": {
-      "status": "passed",
+      "status": "continuity-fix",
       "revisions": 2,
       "scores": {
         "reader_question": 4.0,
@@ -501,10 +546,14 @@
         "needs-owner"
       ],
       "words": 2745,
-      "minimum": 0.0
+      "minimum": 0.0,
+      "continuity_fixes": [
+        "Ammu says 'I wrote her every month', which would be about two dozen letters in two years. Ch 7 has three letters. FIX: In ch 27, change 'I wrote her every month' to 'I wrote her and wrote her'.",
+        "'She had never said it. Not in twenty-one years.' Her night-shape was fixed at her first turning at 16, eleven years ago. Twenty-one years is her time in the guild. FIX: In ch 27, change 'Not in twenty-one years' to 'Not in eleven years'."
+      ]
     },
     "28": {
-      "status": "passed",
+      "status": "continuity-fix",
       "revisions": 2,
       "scores": {
         "reader_question": 4.0,
@@ -521,7 +570,10 @@
         "needs-owner"
       ],
       "words": 3034,
-      "minimum": 0.0
+      "minimum": 0.0,
+      "continuity_fixes": [
+        "Neela is 'on the wall by the cistern housing, where the sentry used to stand'. The cistern housing is on the east rampart (ch 19), but the pulled sentry walked the west rampart above the warden's window (ch 5). FIX: In ch 28, change it to 'on the west rampart above the chamber window, where the sentry used to stand'."
+      ]
     },
     "29": {
       "status": "passed",
@@ -542,7 +594,7 @@
       "minimum": 3.0
     },
     "30": {
-      "status": "passed",
+      "status": "continuity-fix",
       "revisions": 2,
       "scores": {
         "reader_question": 4.0,
@@ -557,7 +609,12 @@
       "average": 4.0,
       "flags": [],
       "words": 2745,
-      "minimum": 3.0
+      "minimum": 3.0,
+      "continuity_fixes": [
+        "Devan says he left the shutters 'Open, as my father kept them' on the first night, but ch 1 and ch 2 show them closed, and Neela opens them herself. FIX: In ch 30, change 'Open, as my father kept them' to 'Shut on the latch and never barred, as my father kept them'.",
+        "Devan says she touched the base of his skull 'in the dark' in bed and lay down afterwards, and that he was afraid of her 'for about nine days'. The three-breath touch happened at dawn in the kalari while he drilled (ch 11, ch 12). In ch 17 he said his fear lasted 'about a breath'. FIX: In ch 30, move the scene to the pit: 'You came down the north steps while I drilled. You put your fingers at the base of my skull...you lifted your hand and told me my guard dropped on the left.' Change 'afraid' to 'wary' and 'nine days' to 'eleven days'. Have Neela answer 'You stopped breathing. I thought you were waiting for the blow.'",
+        "Devan says he stopped Janu's stories by asking her 'at the table, by day' and telling her he was 'tired of leopards', and that Neela 'weren't in the room'. In ch 9 he stopped the story at supper with Neela at the table, saying 'Not tonight, Janu'. FIX: In ch 30, change it to 'I stopped her at supper, you were there. Afterwards I told her in the kitchen, by day, that I was tired of leopards. You weren't in the kitchen.'"
+      ]
     },
     "31": {
       "status": "passed",
@@ -1145,8 +1202,13 @@
     {
       "at": "2026-10-19T23:00:50",
       "event": "done: S5 critique ch 32"
+    },
+    {
+      "at": "2026-10-19T23:11:16",
+      "event": "done: S7 continuity"
     }
   ],
-  "updated_at": "2026-10-19T23:00:50",
-  "midpoint_chapter": 16
+  "updated_at": "2026-10-19T23:11:16",
+  "midpoint_chapter": 16,
+  "continuity_attempts": 1
 }
