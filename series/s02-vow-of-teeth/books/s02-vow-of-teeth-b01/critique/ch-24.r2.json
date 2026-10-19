@@ -1,0 +1,41 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 3.0,
+    "stakes_and_cost": 4.0,
+    "prose": 4.0,
+    "continuity": 5.0
+  },
+  "reasons": {
+    "reader_question": "The closing image turns the five-night countdown into 'he means four' and adds 'who let him in'. The reader leaves with a sharp when, where and who.",
+    "change": "Knowledge and power both shift. The plan in hand becomes the enemy already inside, Neela learns someone in the fort feeds the guild, and Devan's read of Muthu is now in play against hers.",
+    "romance_movement": "The reason it moves is new. She names a guild-brother to her husband, and he sets the stair before his boyhood friend 'because you asked'. The plan-sharing on the rampart is fresh, not a replayed refusal.",
+    "shown_chemistry": "Chemistry is carried by action. He stands so the wall is at her back, takes 'can't' as 'won't' without pushing, his ears go dark, and he kisses only her knuckles. Little is narrated.",
+    "character_logic": "Devan's keep-him-close test is smart and in character. But Neela audits the night defences (barred shutters, Raiu, the third slat) for a bird she has just worked out was placed by day. That is a locked-room frisson the chapter's own logic undoes. She also never asks why fourteen loose daytime hounds raised no alarm.",
+    "stakes_and_cost": "Every choice costs something. Breaking the guild line costs Neela her last loyalty, trusting her costs Devan his eye on Muthu, and Vellan's collar threat and his Kirri silence make the harm concrete.",
+    "prose": "The prose is concrete and rhythmic and has no banned phrases. Flaws: one muddled sentence ('wrong about the oldest things before'), several consecutive paragraphs opening on 'She', and a few summary verdict lines ('It was the worst answer he could have given').",
+    "continuity": "The chapter matches the latest facts: Muthu's mother alive (F217 supersedes F212), five nights to the moon, Raiu at the door, Vellan's sloth-bear shape withheld, Kirri's anklet and three earned releases. No conflict with the bible."
+  },
+  "fixes": [
+    "At 'She sat very still and counted. The door: watched by a man she knew by name', fix the irrational behaviour. Neela runs through tonight's defences, but two paragraphs later she proves the bird was placed by day, when the shutters stood open and no one held the door. Keep her counting, but have her count the day instead: shutters open, the door unwatched, fourteen hounds loose in the yard that never gave tongue at a stranger reeking of resin. The hounds' silence then becomes her strongest evidence for the insider. Also change 'He sat in this room while I sat on his hill' to something true to the sequence, e.g. 'He was in this room while I was still shaking on his hill', since he left the hill before her.",
+    "At 'He had been wrong about the oldest things before, about a girl who slept with her face to the wall', the sentence is muddled: it never says what he was wrong about. Rewrite it so the doubt is specific and earns his restraint. For example: 'He had been wrong before. He had taken a girl who slept with her face to the wall for the guild's knife, and left her own knife under the mattress, and been glad of it.' Then go straight to the tactical reasoning.",
+    "At 'did the thing she had not done for any person', the turn is ambiguous. In ch23 Neela already gave Devan Ittan's name and Chathu's slip, so 'broke a line' reads as a repeat unless the line is named. Make it exact: 'She had never once given a sister's or brother's name to someone outside the House.' The romance beat then has its new reason (a guild-brother named, not a client), and the 'one line I have left' on the rampart (his shape) clearly sits beyond it."
+  ],
+  "reader_question": "Vellan has already walked into the barred chamber by daylight, so who inside Kettamala let him in, and will he really strike in four nights rather than five?",
+  "techniques_landed": [
+    6,
+    11,
+    13
+  ],
+  "new_facts_assessment": "F220 (the watcher can't see inside, so there is an insider) is necessary and well reasoned. It sets up the ch25 attack and keeps Muthu a fair red herring, since he is the queen's man, not Ittan's. It correctly retires F212. F221 needs one correction: its placement window says 'between the hour she went up the second spur and the hour she returned', but Vellan was on the hill with her, so the window should run from when he vanished to when she came back to the chamber. The cold-bird detail is weak evidence in Malabar heat; consider dropping it. F222 (Bhaskaran on the second box, the near-naming 'He's a—', Devan's glance at the newel, a garrison of about sixty) is consistent. The newel glance is a fair, memorable clue toward the bear and Asha (B2 ch16). Keep it subtle, as drafted. A note on the near-naming: 'sloth bear' opens on a soft 's', so 'first hard, rounded sound' only fits if she was about to say 'bear'. Make it 'the first sound of it' to avoid a reader stumble.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Irrational behaviour to extend plot"
+  ],
+  "average": 4.0,
+  "minimum": 3.0,
+  "passed": true
+}
