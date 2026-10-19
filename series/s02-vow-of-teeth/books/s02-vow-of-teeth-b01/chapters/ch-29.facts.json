@@ -1,0 +1,24 @@
+{
+  "facts": [
+    {
+      "category": "object",
+      "fact": "The false-bottomed teak chest in Ittan's lead cart holds thirty-six blank split-ash tally sticks wrapped in oilcloth, each with council wax bearing the dot-and-split mark, plus a hand-sized oilcloth tally book of about forty leaves recording dated sums and pass place-names.",
+      "why": "needed because the beat requires blank pass-tokens in council wax and Ittan's private tally to be found."
+    },
+    {
+      "category": "knowledge",
+      "fact": "Devan carries Asha's first token and his beeswax impression in his sleeve, and compares them to the chest's wax on sealing day; the dot-and-split mark matches.",
+      "why": "needed because the beat says the wax impression matches the token from Asha's chest."
+    },
+    {
+      "category": "knowledge",
+      "fact": "Neela tells the court the slip was torn from a courier's papers by someone now dead, whom Devan declines to name.",
+      "why": "needed to produce Chathu's slip publicly without exposing Ammu's name or the guild."
+    },
+    {
+      "category": "place",
+      "fact": "Ittan is held in the padippura guardroom, and the warden's seal is an iron disc cut with a hill and a gate, worn by eleven wardens.",
+      "why": "needed to stage the arrest and the sealing."
+    }
+  ]
+}
