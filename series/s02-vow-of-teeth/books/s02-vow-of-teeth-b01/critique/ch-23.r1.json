@@ -1,0 +1,42 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 3.0,
+    "stakes_and_cost": 4.0,
+    "prose": 3.0,
+    "continuity": 0.0
+  },
+  "reasons": {
+    "reader_question": "Two sharp questions come out of the chapter: whether the cart-search trap will survive the new moon, and why Muthu is sending an off-day rider just after Devan has made him the trap's gatekeeper.",
+    "change": "Knowledge changes: Devan learns the buyer and the widow-seal scheme. Relationship changes from suspicion to alliance. Power changes when the plan moves the fight onto Devan's own ground and law.",
+    "romance_movement": "The reason for movement is new: she gives freely what he once tried to buy, and he accepts the limit she sets on her testimony. The 'not yet' leaves the sparring door visibly unbarred.",
+    "shown_chemistry": "Attraction is carried by responsive action: his hands put behind him, the brief shoulder lean, 'It's very annoying' banter, and her reading the difference between 'not yet' and 'no'. A few lines narrate the feeling instead.",
+    "character_logic": "Devan's urge to ride and Neela's two refusals are smart and well argued. The trap's centrepiece is weak: the Keeper's office legitimately holds a dot-and-split seal box, so finding one in his baggage proves nothing, and nobody notices.",
+    "stakes_and_cost": "Testifying would cost Neela her freedom and Ammu's page. Riding would cost the fort. The trap must survive the moon, when Chathu sends someone. These costs are named, concrete and personal.",
+    "prose": "Mostly clean and concrete. Some narrated summary lines ('It was strange to find...', 'Something in his chest turned over'), one AI tell ('the weight of a thing'), and several runs of consecutive paragraphs opening with 'He'.",
+    "continuity": "The bible says Neela never says 'leopard'. Here she says 'One more leopard in the hills' aloud to Devan, which also undercuts the chapter 27 payoff where speaking the word to him is the climax. Everything else checks out: timeline six/eight days, F092, F149, F201, F202, F207, grey wax and Sudhi's ninth-day post."
+  },
+  "fixes": [
+    "In \"I was to be gone by then. One more leopard in the hills.\" (continuity break): the bible says Neela never says 'leopard', and saying it to Devan is the chapter 27 climax. Replace it with something like \"One more cat-kill in the hills,\" or \"One more beast-kill on the hill road.\" Keep the word unspoken by her until the self-naming.",
+    "In \"Whoever pours the wax needs the box, and whoever owns it keeps it close.\" (Irrational behaviour to extend plot): the Keeper's office legitimately holds one dot-and-split box (F148), so finding it proves nothing, and a smart Devan would say so. Add two lines where Devan objects that the box is the Keeper's by right. Then have Neela answer that the proof is what he carries with it: blank split-ash tallies already waxed with the dot-and-split, unregistered, matching Asha's and the scouts' tokens. That sets up the bible's 'arrested with forged tokens' (ch29).",
+    "In \"It was strange to find that not asking could be an act as large as asking.\" (Narrated-only chemistry): this sums up a feeling the scene already showed. Cut it, or replace it with an action, such as him folding the slip smaller instead of asking about the counted nights. In the same pass, change \"It had the weight of a thing she had known all her life\" (AI tell) to a concrete image, cut \"Something in his chest turned over\", and vary the openings of the consecutive 'He...' paragraphs (\"He went for the stair.\" / \"He didn't decide to.\")."
+  ],
+  "reader_question": "Can Devan and Neela spring a sealing-day cart search on Ittan before Chathu's new-moon deadline sends a killer, when the man Devan chose to hold the gate is secretly sending riders off the hill?",
+  "techniques_landed": [
+    3,
+    15,
+    16
+  ],
+  "new_facts_assessment": "Most new facts are necessary and consistent. The six-nights/eight-days timeline matches ch22's seven nights and Chathu's new-moon deadline (F172). The 'in or out' cart search is needed because the Keeper's cart comes up the hill, but it supersedes F204's 'leaving' wording, so F204 should be retired. Kodiyur at four days' hard ride is plausible for a coastal capital and justifies dropping the ride. The Muthu off-day rider comes one chapter earlier than the secret map's ch24 plant. That is acceptable, and it bites well because Devan has just made Muthu the gate man. It must stay ambiguous, though: Devan cannot learn the truth until B2 ch9, and Muthu knows nothing of the contract, so the next chapter should not let Devan confirm the suspicion. Neela withholding Ammu's name is consistent with F209 and her refusal list.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Irrational behaviour to extend plot",
+    "Narrated-only chemistry"
+  ],
+  "average": 3.25,
+  "minimum": 0.0,
+  "passed": false
+}
