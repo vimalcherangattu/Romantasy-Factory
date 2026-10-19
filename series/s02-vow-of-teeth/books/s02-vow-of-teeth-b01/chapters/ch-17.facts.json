@@ -1,0 +1,34 @@
+{
+  "facts": [
+    {
+      "category": "name",
+      "fact": "Biscuit is Sudhi's pony; Appu, nine, is the groom who loves it.",
+      "why": "Neela's habit of naming every servant; small texture at Sudhi's arrival."
+    },
+    {
+      "category": "knowledge",
+      "fact": "Devan has known since the second week that Neela keeps a knife under the mattress on her side, and has never moved it.",
+      "why": "Supports truthful-adversaries beat; consistent with ch15 where he lets her take the knife."
+    },
+    {
+      "category": "knowledge",
+      "fact": "Devan tells Neela that the Keeper of the Passes' office holds one of the three dot-and-split seal boxes, without naming the three keepers; he lists the three seal boxes and Sudhi the palace rider as suspects.",
+      "why": "Outline requires Devan listing suspects: three council seals and Muthu's rider."
+    },
+    {
+      "category": "knowledge",
+      "fact": "Ittan has written Devan a kind letter every season for six years but has never climbed to Kettamala; the council normally sends a clerk to seal the pass.",
+      "why": "Makes Ittan's decision to come himself noticeable, supporting the genial-friend-or-knife question."
+    },
+    {
+      "category": "relationship",
+      "fact": "Neela tells Devan she calls her night-self 'the other one', her first disclosure of the word to anyone.",
+      "why": "Disclosure ladder (technique 10); reciprocal to his answers."
+    },
+    {
+      "category": "knowledge",
+      "fact": "Devan tells Neela to say the market-day cover for her absence: Parukutty's daughter has a cough (true).",
+      "why": "Shows responsive care without asking about the jackal call."
+    }
+  ]
+}
