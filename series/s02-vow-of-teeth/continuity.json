@@ -2092,6 +2092,20 @@
       "fact": "Janu says it is the first time since Asha died that Devan has asked for food himself. This replaces F042 (eleven years).",
       "since": "s02-vow-of-teeth-b01 ch 2",
       "provisional": true
+    },
+    {
+      "id": "F305",
+      "category": "name",
+      "fact": "Kannan carried the garland at the wedding.",
+      "since": "s02-vow-of-teeth-b01 ch 3",
+      "provisional": true
+    },
+    {
+      "id": "F306",
+      "category": "knowledge",
+      "fact": "The two guards on the upper wall pass each other at the far end every hundred and ten steps and turn on the same foot.",
+      "since": "s02-vow-of-teeth-b01 ch 3",
+      "provisional": true
     }
   ],
   "knowledge": [
