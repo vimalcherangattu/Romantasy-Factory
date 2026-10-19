@@ -1,0 +1,39 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 4.0,
+    "stakes_and_cost": 4.0,
+    "prose": 3.0,
+    "continuity": 5.0
+  },
+  "reasons": {
+    "reader_question": "The chapter carries the beat's question, and two concrete hooks give it edge: Muthu's grey-sealed letter will record her daylight vow, and Ittan sits awake in the guardroom 'waiting for whatever he knew to be asked'. Devan states the question almost word for word, which blunts it.",
+    "change": "They move from allies to declared lovers with full knowledge. Her open shutters and her proposal change the terms of the marriage. Each party also gains new knowledge: the full contract, and why he barred the shutters.",
+    "romance_movement": "The relationship changes for new reasons. His shutter confession and the three-breaths reveal reframe the first half, and her proposal is the first thing she has asked for that she could not take.",
+    "shown_chemistry": "Chemistry comes through responsive action. The tooth prick opens a welt on her thumb, she says 'Six' and he answers 'Six', the pebble sits in his fist, and his reopened ribs pull at hers during the kiss. One narrated line weakens it: 'with a care she had come to know'.",
+    "character_logic": "Both act like smart versions of themselves. She skips resin and accepts the ache to be a woman in the window. He warns her about Muthu instead of flattering her. She chooses to be written down because the writ has already exposed her.",
+    "stakes_and_cost": "The noon vow has a named cost: her own words go north in Muthu's letter, after twenty years unwritten. The ache is still counting. Tomorrow's dusk turning in front of him is a chosen exposure.",
+    "prose": "The voice is clean, with no banned phrases and few AI tells. But laughter repeats four times, the 'corner of his mouth' tic three times, and 'She did not' chains recur. A few lines are stilted ('a knife six inches from my hand', 'You may use your one refusal'), and the closing exchange restates the theme on the nose.",
+    "continuity": "Consistent with the bible and earlier chapters. The order is right: hounds kennelled (ch4), then the sentry pulled (ch5), then Janu's stories (ch9). Other matches: the six-inch knife, the breath hitch, Ammu's resin pouch, the welt-only wound-share, the sixty-man garrison, and the four-month closure. The closing line wobbles on Rule 2 (see fixes) but can be read as past-conditional."
+  },
+  "fixes": [
+    "'because the one person who could have used it was holding her hand' (final section). This is a Rule 2 wobble that edges toward convenient-magic confusion. After self-naming, a caging needs both voices, so Devan alone could never have used it. Rewrite so the rule stays exact, for example: 'and the dark did nothing, because nothing in it could be said against her now without her own voice'.",
+    "'I don't know what one weighs with nothing hidden.' / 'Neither do I... That's why I want to say it.' These lines restate the chapter's reader question as dialogue, which is on the nose. Cut the last exchange and replace it with a concrete beat that leaves the question open. For example, he asks what words she'll use, and she says he'll hear them at noon with everyone else, a small daylight refusal that turns her old secrecy into a gift.",
+    "'I asked her at the table, by day' versus 'I said it to Janu, in a kitchen'. This is an internal inconsistency plus repetitive beats. Choose one location (the kitchen table) and use it in both lines. Trim the laughing beats from four to two: keep 'She laughed, and it hurt, and she let it' and the laugh against his cheek. Cut 'His mouth moved, a little' and 'A faint pull at the corner of his mouth' so the mouth tic appears once. Also log the chapter's new facts in new-facts.json."
+  ],
+  "reader_question": "What will a daylight vow cost Neela when every word of it goes north in Muthu's letter, and what does a vow even weigh with nothing hidden?",
+  "techniques_landed": [
+    10,
+    20,
+    24
+  ],
+  "new_facts_assessment": "The draft's new-facts.json is empty, but the chapter adds several facts. All are necessary for the beat and consistent with canon, and they need logging. The facts are: Devan told Janu by day that he was 'tired of leopards' (safe under Rule 2, since it was daytime and she was not in shape); Devan's last 'I love you' was to Asha in the kitchen the week before she died; the tooth is a real canine from the House store; Devan was afraid of her for about nine days; the undated three-breaths night; and the noon remarriage before Muthu. One correction: existing continuity fact F282 lists the order as sentry, then hounds. The chapter's order (hounds, then sentry, then Janu) matches ch4 and ch5, so F282 should be corrected to match the chapter. Within the chapter, Devan says he asked Janu 'at the table' and then 'in a kitchen'. Pick one.",
+  "content_rule_violation": false,
+  "failure_modes": [],
+  "average": 4.0,
+  "minimum": 3.0,
+  "passed": true
+}
