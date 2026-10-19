@@ -6,36 +6,36 @@
     "shown_chemistry": 4.0,
     "character_logic": 4.0,
     "stakes_and_cost": 4.0,
-    "prose": 3.0,
+    "prose": 4.0,
     "continuity": 0.0
   },
   "reasons": {
-    "reader_question": "The chapter ends on the beat's question, mercy or patience, and sharpens it with the hitch: he is awake and lets her hear it. It is specific, but the quiet ending carries no fresh reveal to make the next chapter urgent.",
-    "change": "Power changes hands. Devan publicly drops the bargain and keeps no claim. Neela moves from refusing to running a costly test, and she now reads the first half of the book as a fence around her.",
-    "romance_movement": "The reason is new. A man holding a cage refuses to put a price on it, and the heroine's distrust is rational and comes from her life, not from stubbornness. This is not a replay of the ch15 refusal.",
-    "shown_chemistry": "Chemistry is shown through responsive beats: palms turned out and then dropped, hilt toward her, her watching his mouth like a lock for the click, him lying as far away as the bed allows. Little of it is narrated.",
-    "character_logic": "Devan's self-recognition through the border-school letter is earned and smart. Neela's decision rule ('one mistake ended her, the other only hurt') is sharp. But her test claims to probe 'nothing between her and the dusk but his word' on a night with no resin, when no caging is possible.",
-    "stakes_and_cost": "The cost is concrete. A second bare cup at the stone will bring Ammu, Chathu's days count double, the ache's count goes on, and she lies with her back to a stronger man with the knife untouched.",
-    "prose": "Mostly clean and concrete, with no banned phrases or em-dash excess. Problems: the 'could not find a seam' image is reused from ch15 ('found no seam'). The time in the pit scene is muddled (lamps blooming after dawn, 'before dark'). The 'some evidence came cheap' paragraph is abstract and knotted. Two pairs of consecutive paragraphs open with 'She'.",
-    "continuity": "There are conflicts. Devan 'knew she watched from the sill', but the pit lies below the east wall and cannot be seen from the west sill (ch15, F320). The hounds are 'kennelled the day after the wedding', against F282's order (shutters, then sentry, then hounds). Janu's stories are stopped at supper with 'Not tonight, Janu', against F282 (by day, 'tired of leopards')."
+    "reader_question": "The question is stated and specific (mercy or patience). The reader has just seen Devan's sincerity in his own POV, so for the reader it works as anomalous suspense: when will she believe it, and what will disbelief cost? It works, but it is not a true gap.",
+    "change": "Power changes for real. The bargain is withdrawn with no terms, the shutters are handed to her, and she runs her first deliberate trust experiment. Value shift master/captive to untrusted gift lands.",
+    "romance_movement": "The relationship moves for a new reason: a gift with no string, and her rational refusal of it. The closing doubt, though, reuses chapter 15's structure (hunter image, hitch, 'cannot tell X or Y'), which dulls the turn.",
+    "shown_chemistry": "Shown through responsive action. He turns his palms out, then feels foolish. She watches his mouth 'the way she'd watch a lock for the click.' The sword is set down hilt toward her. She feels 'so naked' while clothed. 'It won't be the worst thing I've wanted and not had.'",
+    "character_logic": "Her asymmetric-error reasoning is excellent and very in character. Devan's self-recognition through the courier letter is earned. One lapse: she 'now understood' the hitch meant a waking man, though she worked that out in chapter 15.",
+    "stakes_and_cost": "The cost of the experiment is named precisely: a second bare cup, Ammu coming asking, the ache's ledger. It is narrated as an inventory rather than felt on the page, and none of it is paid by the chapter's end.",
+    "prose": "Clean, concrete and quotable in places ('rang solid all the way through'). There are no banned phrases or AI tells and no em-dash excess. Weak spots: the reread runs as a checklist; 'One mistake' and 'One night' open consecutive paragraphs; the hunter image is recycled from the previous chapter.",
+    "continuity": "Conflict with chapters 4 and 5. The hounds are already kennelled in ch4 (F054, F056), and the sentry above the window is still pacing in ch4 (F052) and only pulled in ch5 (F064/F314). The draft says the hounds were kennelled 'after the sentry was pulled'. F282 (ch30) repeats the wrong order and needs correcting downstream."
   },
   "fixes": [
-    "Continuity: 'He knew she watched from the sill. He felt it on the back of his neck' contradicts ch15/F320. The kalari is below the east wall and the west sill cannot see it. Replace this with Devan wondering whether the sound of the drill carries round to the west window, or with him not knowing where she is at all, and remove 'did not look up'.",
-    "Continuity: 'were kennelled the day after the wedding' and 'Devan had said *Not tonight, Janu*' conflict with F282 (shutters on the second dusk, then the sentry, then the hounds, with Janu's stories stopped last, by day, with 'tired of leopards'). Change the hounds to 'kennelled in the first week, after the sentry was pulled'. Rewrite the Janu memory so he stops her at the table by day with 'I'm tired of leopards, Janu', said mildly, and she goes red.",
-    "Rule muddle (Worldbuilding collapse / character logic): 'nothing between her and the dusk but his word' and 'the dusk to ask for her... she was still a woman' imply a resin-free night carries a caging or turning risk, which Rule 1 and Rule 2 forbid. State plainly that tonight his word cannot touch her, so the test is her body beside a stronger man and the price of the bare cup. Make the dusk sensation a craving in the scars, not a pull toward turning. While revising this passage, tighten the 'some evidence came cheap' paragraph to three or four short, concrete sentences, and replace 'could not find a seam in them', reused from ch15, with a new image."
+    "Continuity. At 'The sentry above the window had been pulled a few nights on. Then the hounds.' and 'kennelled in the first week, after the sentry was pulled', the order contradicts ch4/ch5 (hounds already kennelled in ch4, sentry pulled in ch5). Reverse it: the hounds kennelled within the first nights, then the sentry pulled. For example: 'The hounds first: fourteen of them... kennelled before the week was out. Then the sentry above the window.' Flag F282 for the same correction.",
+    "Repetitive tension. 'She had spent twenty days calling it chance.' replays a discovery Neela already made in chapter 15, and the hunter paragraph ('A hunter doesn't strike the first time he sees the deer') recycles chapter 15's 'A hunter knew that' image and its closing cadence. Make the hitch beat new information: tonight, with no resin on her, the hitch stops, or he lets it come deliberately and evenly so she can count him. Recast the hunter as something specific to her guild life (for example how Chathu gentled a new intake with sweets), so her doubt has a stronger reason, not the same one.",
+    "Ending lacks a story-caused hook (chapter checklist 5). At 'When she finally slept, it was human, with her back to him', the chapter closes on rest while the cost she named sits unpaid mid-chapter. End on the bill coming due. Before sleep takes her, she counts the hours to grey, when the pass-village watcher walks the hill edge and finds no fresh mark of hers (F301): a second refusal written down, the cup bare again, and Ammu's next move now certain. Keep it to two or three lines so the quiet image still closes the scene."
   ],
-  "reader_question": "Is Devan's unconditional gift of silence mercy, or a hunter's patience saving the word for the dusk she is worth most caged?",
+  "reader_question": "Is Devan's unconditional gift of silence mercy, or a hunter's patience, and what will Neela's refusal to trust it cost her with Ammu and the guild?",
   "techniques_landed": [
     17,
     12,
     20
   ],
-  "new_facts_assessment": "Janu as the source of the damp-madness theory is harmless, but it slightly redistributes F103, which tied the wager to Chinna. Keep the kitchen wager as Chinna's to avoid drift with F285. The sword set down again hilt toward her is necessary and consistent: he stepped over it in ch15 and must have lifted it during the day. The dusk pull and scar burn on a no-resin night is the risky fact. Rule 1 says only resin triggers a turning, and 'it passed, and she was still a woman' implies she might turn without resin. That blurs a rule the book depends on. Recast it as resin-craving or withdrawal (an itch in the scars, the body expecting the burn), with no suggestion that a turning is possible. Missing from the page: F145's nineteen nights is present, but the 'ache in nine or ten days' expectation is not. That is optional.",
+  "new_facts_assessment": "The draft's new-facts list is empty, but the chapter adds facts already logged as F143, F144, F145, F322, F323 and F324. These are the border-school courier letter, the west-stair vow, the nineteen nights and the ache due in nine or ten days, Janu as the source of the damp-madness theory, the dusk itch on a resin-free night, and the sword set down again. It also adds unlogged details: Gopan laying wagers, Devan's exact words 'I'm tired of leopards, Janu', and Devan being twenty in his second school year. The empty list is a process failure that the reviser must fix. On substance: the courier letter and the stair vow are necessary and strong; they motivate the withdrawal and prepare Devan's arc. The ache 'nine or ten days off' is thinly justified against Rule 1 (a full moon without resin) given how few nights she has skipped; one clause tying the count to skipped or rationed nights would close it. The hound/sentry ordering is inconsistent (see continuity). Everything else agrees with the bible and the fact sheet.",
   "content_rule_violation": false,
   "failure_modes": [
-    "Endless monologue"
+    "Repetitive tension"
   ],
-  "average": 3.38,
+  "average": 3.5,
   "minimum": 0.0,
   "passed": false
 }
