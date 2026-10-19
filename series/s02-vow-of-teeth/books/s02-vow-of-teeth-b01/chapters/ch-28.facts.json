@@ -1,3 +1,28 @@
 {
-  "facts": []
+  "facts": [
+    {
+      "id": "F260",
+      "category": "timeline",
+      "fact": "Ittan arrives at Kettamala with five carts two days after Neela, Devan and Muthu ride in, the evening before the sealing. He was due days earlier and held at the lower waystation 'for an axle'; the charter sealing waits on the Keeper's own seal, so his lateness delays the closing. Devan reads the delay as Ittan waiting for news of a dead warden. Devan lets him pass the gate unsearched tonight so he can be searched on sealing day under border custom. Replaces the earlier thirty-ninth-day version.",
+      "since": "s02-vow-of-teeth-b01 ch 28"
+    },
+    {
+      "id": "F262",
+      "category": "knowledge",
+      "fact": "Devan recognises Ittan's clove smell and brick-red thumbnail stain as the signature of genuine council wax (F050) but treats it as suggestive, not proof, because Ittan's wife's cough gives an innocent explanation and the Keeper's office holds a seal box by right.",
+      "since": "s02-vow-of-teeth-b01 ch 28"
+    },
+    {
+      "id": "F263",
+      "category": "plot",
+      "fact": "Neela waters and feeds the forty-one kennel animals once and props the end door. Devan orders Muthu to take four men, a cart and fodder back to the Resin House in three days and weekly after while roads allow; Muthu agrees and says he will go himself. Cages stay shut because opening them would not undo the caging.",
+      "since": "s02-vow-of-teeth-b01 ch 28"
+    },
+    {
+      "id": "F264",
+      "category": "injury",
+      "fact": "Neela's forced-resin scars were still open when she self-named, which is why they appear as red lines on Devan's throat and wrists. The wound-share carries wounds only: pain felt at a shared wound, such as her torn wrist pulling at his right wrist.",
+      "since": "s02-vow-of-teeth-b01 ch 28"
+    }
+  ]
 }
