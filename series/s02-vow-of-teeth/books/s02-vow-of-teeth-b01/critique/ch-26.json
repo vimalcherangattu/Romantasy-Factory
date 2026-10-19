@@ -1,0 +1,42 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 2.0,
+    "shown_chemistry": 2.0,
+    "character_logic": 3.0,
+    "stakes_and_cost": 4.0,
+    "prose": 4.0,
+    "continuity": 0.0
+  },
+  "reasons": {
+    "reader_question": "The closing image puts a sharp question to the reader: whether Ammu, who has written to Kirri eleven times and is now looking at her, will side with Chathu or with Neela. 'The ledger isn't the only book' adds a second, specific question.",
+    "change": "Power and knowledge both move cleanly. Neela goes from thief to bound prisoner, release is proven a lie, and she loses the antidote.",
+    "romance_movement": "Devan is unconscious for the whole chapter. After the ride, Neela barely thinks of him: no beat ties Kirri's fate or Chathu's 'mercy' to the man who saw her turn and kept silent. The romance is buried by the plot here.",
+    "shown_chemistry": "The only responsive action toward Devan is her nursing orders to Muthu. The chapter has no beat of her body or habits answering his absence.",
+    "character_logic": "She notices the theft was too easy, which is smart. But she tells Muthu to leave at 'tomorrow's dusk', the very hour she can at best be arriving at the Resin House. As written, the order makes no sense.",
+    "stakes_and_cost": "Probable harm to everyone at once is credible: a forced caging at dusk, Devan dying, Vellan sent to finish him, and Ammu's loyalty now on trial.",
+    "prose": "Concrete, sensory and controlled. The kennel and Chathu passages are quotable. Weak points: 'God help her' breaks a world with no deities, one muddled reflective sentence, stock lines such as 'She stopped breathing' and 'skin crawled', and many consecutive paragraphs opening with 'She'.",
+    "continuity": "Three conflicts. Neela has known Muthu about five weeks, not 'eleven years'. Chathu says she will forget 'the next morning', but caged minds fade over about a year (F007). 'Second dusk is tonight' contradicts the 'tomorrow's dusk' she set, which fell the evening she arrived."
+  },
+  "fixes": [
+    "At 'Second dusk is tonight. Muthu will put him in a cart.' (timeline continuity error, and an order no smart Neela would give): her deadline of 'tomorrow's dusk' was the evening she reached the yard. Rewrite as 'Second dusk was last night. If Muthu kept his word, the cart is already on the wood road.' Then let the arithmetic be that Devan arrives at tonight's dusk, into the hunters' yard, which sets up ch27. In the stable scene, give her a one-line reason for the early deadline, such as 'Meet me on the road; it saves a day he hasn't got.' Change Chathu's 'A short ride' for Vellan to fit the day's ride.",
+    "At 'In eleven years of soldiers' jokes she had never' (continuity: she has known Muthu about five weeks): change it to 'In five weeks of his barracks noise', keeping the tell Devan explained. At 'the next morning you will not remember very much' (conflicts with the year-long fade, F007), change it to 'and by the next rains you will not remember your own name', which also makes Kirri's two-year blankness fit the rule.",
+    "At 'She had sat at the head of her life' (romance buried by plot, plus the 'God help her' world slip): replace this muddled paragraph with a short contrast that moves the romance indirectly. Chathu witnessed her and wrote her into a book he calls mercy. Devan witnessed her more than ten times and held a river pebble in his cheek every resin night so the word could not slip. Let her choose something from that, for example resolving not to be caged without first saying the word herself to someone. Cut 'God help her'."
+  ],
+  "reader_question": "Now that Ammu has seen Kirri caged and Neela bound, will she obey the guild that recalled her or risk herself for her sister?",
+  "techniques_landed": [
+    3,
+    12,
+    6
+  ],
+  "new_facts_assessment": "The listed facts are necessary and consistent. Pachan humanises the hunters. The vial label lets Neela identify the antidote. The sweets tin is a clean callback to F080. Forty-one cages gives the kennels scale without conflicting with book 2's forty freed page-holders, since caged odiyans cannot be freed. Chathu keeping the vial sets up ch27. Several new facts are unlisted and should be added or cut: Chathu's uneven left foot from an old break; Vellan's earlier line 'Eleven for eleven'; Devan having told Neela about Muthu's quiet tell; Neela opening the shed lock at fourteen; the childhood drain path. Two added claims conflict with canon: the 'eleven years' with Muthu and next-morning memory loss.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Romance buried by plot",
+    "Irrational behaviour to extend plot"
+  ],
+  "average": 2.88,
+  "minimum": 0.0,
+  "passed": false
+}
