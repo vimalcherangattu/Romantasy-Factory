@@ -393,7 +393,7 @@
       "minimum": 3.0
     },
     "20": {
-      "status": "revised",
+      "status": "failed",
       "revisions": 1,
       "scores": {
         "reader_question": 4.0,
@@ -403,12 +403,12 @@
         "character_logic": 3.0,
         "stakes_and_cost": 4.0,
         "prose": 3.0,
-        "continuity": 5.0
+        "continuity": 0.0
       },
-      "average": 3.88,
+      "average": 3.25,
       "flags": [],
       "words": 2480,
-      "minimum": 3.0,
+      "minimum": 0.0,
       "continuity_fixes": [
         "'Devan had closed the shutters himself before the light went, as he did each evening.' In ch 16 he promised the shutters were hers and that he would not touch them, and in ch 17 they stand open. FIX: In ch 20, change it to 'Neela had closed the shutters herself before the light went, slat by slat'."
       ]
@@ -1310,9 +1310,13 @@
     {
       "at": "2026-10-19T23:43:40",
       "event": "done: S6 revise ch 20"
+    },
+    {
+      "at": "2026-10-19T23:45:08",
+      "event": "done: S5 critique ch 20"
     }
   ],
-  "updated_at": "2026-10-19T23:43:40",
+  "updated_at": "2026-10-19T23:45:08",
   "midpoint_chapter": 16,
   "continuity_attempts": 1
 }
