@@ -1,43 +1,43 @@
 {
   "scores": {
-    "reader_question": 5.0,
+    "reader_question": 4.0,
     "change": 4.0,
     "romance_movement": 4.0,
     "shown_chemistry": 4.0,
     "character_logic": 3.0,
-    "stakes_and_cost": 4.0,
+    "stakes_and_cost": 5.0,
     "prose": 4.0,
-    "continuity": 0.0
+    "continuity": 5.0
   },
   "reasons": {
-    "reader_question": "The grip fails on 'they'll ca—' while she has the reins in hand. The reader leaves holding a concrete, dated question: three days, the Resin House, a cage.",
-    "change": "Devan goes from guarded to poisoned on a clock. Raiu is dead. The informant has drained the lamps. Neela holds the plan, and Devan has lost the power to stop her.",
-    "romance_movement": "The reason is new. He watches her choose to walk back into her own cage for him ('Nobody taught me this one... I'm choosing it'), and his reaching for her is useless. His side of the argument is thin: one loud 'No' and a single objection.",
-    "shown_chemistry": "Each lead notices the other's body. She reads the colour of his lips and the grey in his face. He finds the split nails and touches one, and she lets him. Her name-saying over Raiu shows her habit becoming love. No narrated chemistry.",
-    "character_logic": "Several choices are weak. Devan expects Vellan tonight and has found sabotaged lamps, yet he climbs the dark stair alone and sends his own door guard off alone for oil. The bear runs from one human woman with a knife and no reason is shown.",
-    "stakes_and_cost": "Her choice costs real things: the ache, a guild that knows she failed, trusting Muthu with his body, and three days on the clock. Raiu's death is paid for by Devan's own 'Hold the head' order, and Devan hears what it cost.",
-    "prose": "Mostly concrete and quotable ('Its flame lay along the stone like a cut'). The opening logistics paragraph reads as a continuity patch, with an ambiguous 'Neela stood behind it'. 'Wet' appears four times in the fight. 'Flask corked' is repeated. Two consecutive paragraphs open with 'He'.",
-    "continuity": "Conflicts with F245. There Neela reasons that only she and Muthu heard the order, but in this chapter she recites the order's terms to Devan in the stable."
+    "reader_question": "The chapter ends on a hard, specific gap: she is riding into the guild that owns her with a three-day clock, and his warning breaks off mid-word. The question is clear, but it is the obvious one.",
+    "change": "Power, knowledge and relationship all move. Raiu is dead, Devan is poisoned on a clock, and Neela leaves the protected position for the guild. Devan also briefly holds the Asha connection and then loses it.",
+    "romance_movement": "The reason is new. He now sees her choose risk for him, against her own cage, and he cannot stop her. 'I won't be her... I'm choosing it' moves her from instrument to agent in his eyes.",
+    "shown_chemistry": "Care is shown through response, not narration. He noticed the split nail and didn't mention it; she counts on his body; he touches the rough nail and she lets him; his grip fails on her pulse. A little of Neela's interior state is narrated through his POV ('she had gone gentle, and that was worse').",
+    "character_logic": "Two weak points. A warden who knows the assassin comes at new-moon dusk walks a stair he has just found deliberately darkened, alone and without a lamp. The poison also erases one specific thought, while the evidence (Raiu's body) stays in the fort for him to see again once he recovers.",
+    "stakes_and_cost": "Every option costs. Raiu dies partly because of Devan's own 'Hold the head' order. The antidote sits a day away inside the guild, and her three-day sum leaves no slack. Her choice is costly and chosen.",
+    "prose": "Lean and concrete, with good lines ('She said it as a sum', 'her mouth went small'), and em dashes stay within limits. The witness-word interiority on the stair is muddled, and a few rhythms repeat ('and she had... and she had... and she had come').",
+    "continuity": "No conflicts found. Steps, drain slot, pala rail, newel, Raiu's age and name history, Devan at 26 over Asha, the nails, the blade cut and Muthu's offstage order all match the bible and F331 to F339."
   },
   "fixes": [
-    "Continuity (fails F245). In the stable, Neela says 'If I'm not back by first light on the second day, he's to bring you up the wood road'. That puts the order in Devan's hearing. Ch26 depends on only Neela and Muthu having heard it. Replace the specifics with 'I've told Muthu what to do if I'm late. Don't argue.' Keep the full terms offstage in her 'I need to talk to you outside' with Muthu, and record N2 as said there.",
-    "Irrational behaviour to extend plot. At 'The bear saw her. It dropped to all fours.', the retreat has no visible cause. A sloth bear that has just killed an armed guard would not run from one woman with a six-inch knife. Give Devan's POV a reason he can see. One option: she shouts 'Down! Both of you!' up the stair, and the stair-head pair come with spears and lamps, so Vellan faces three blades and light. Another: Devan sees her draw breath on a hard sound and stop, and the bear's eyes go to her mouth. That is a clue, but do not state that she is his witness.",
-    "Character logic and an exposition patch in the opening. In 'He could not spare the stair pair for an errand, so he had sent Raiu down', a smart warden who expects Vellan tonight strips his chamber door and climbs the sabotaged stair alone. Compress the paragraph to three lines and give a real reason. For example, the wall pairs are mid-change on the hour chain, and Raiu goes because the dark stair is the warden's own route to her door. Fix the ambiguous 'Neela stood behind it' so it reads as the barred chamber door. Cut the later repeat of 'with her flask corked'."
+    "At 'And the poison put it out. It took the thought as a flood takes a lamp' (Convenient magic / contrived delay): the poison erases exactly one inference, yet Raiu's four-furrow wounds stay in the fort for Devan to see again after the antidote. The plan has him not connect them until book 2. Give the forgetting a rule and remove the evidence by a character's choice. First, have Eravi state, in his sickroom speech, that blackbark gall 'eats the hours before it', a known effect, so the gap is set up rather than convenient. Second, in the stair scene after Raiu dies, have Devan see Neela draw the torn tunic closed and lay her shawl over the furrows before Muthu's lamps arrive, a choice he half-registers and can't read. This keeps F333's fog and plants a later reread of her act. It also stays fair, because Neela knows Vellan's shape and has a motive to cover it.",
+    "At 'Not a word. He has not said a word. A man in shape could not speak' (prose / muddled interiority): the paragraph mixes Vellan's silence, Devan's own mouth and the witness rule, so the reader can't tell who must not speak or why it matters. Rewrite it as two clean beats under 60 words. In the first, Devan feels the word 'bear' rise and clamps his teeth on it out of a habit built for her (the pebble). In the second, he realises he never saw the turn, so the word would do nothing to this beast. End on a choice: he does not waste breath on it and moves to the boy.",
+    "At 'Devan took the dark stair himself, because it was the only way' (Irrational behaviour to extend plot): he has just found the lamps deliberately drained, and Neela told him Vellan comes at the new moon. A smart Devan reads this as a trap, and 'only way to her door' doesn't justify walking into it unlit. Add one line of chosen reasoning plus one precaution. For example, he takes a hand lamp from the chamber passage, decides he would rather spring the trap himself than leave it for Raiu on his return, and Vellan's first move knocks the lamp down the steps. That turns a lapse into a value-revealing choice (he puts his own body in front instead of his men's), and the fallen lamp can become the 'torch rolling on a step' he later remembers."
   ],
-  "reader_question": "Will Neela walk back into the Resin House to steal Devan's antidote, and can she come out uncaged before his three days run out?",
+  "reader_question": "Will Neela walk back into the Resin House for the antidote, and can she get out before the guild cages her and the poison reaches Devan's heart?",
   "techniques_landed": [
     6,
     11,
     19,
     7
   ],
-  "new_facts_assessment": "N1 (lamps drained, Raiu sent for oil) is useful because it sharpens the inside-informant thread. But it makes Devan look careless: he sends his only door guard off alone on a night he knows is the attack. N2 agrees with F244, but stating it in Devan's hearing breaks F245; the order should stay between Neela and Muthu. N3 is necessary to keep the Vellan-killed-Asha link closed until B2 ch16 per the secret map. The poison has to erase a thought instantly while killing slowly over three days, which edges toward contrived delay, so give the numbness one more sentence of physical onset before the thought goes. N4: 'four years dead' for Raiu's mother is unnecessary and echoes the retired F212 (Muthu's mother dead four years), which invites confusion in later passes. Cut the number. Devan at twenty-six at Asha's body is consistent with his age and F066. N5 is consistent with F160 and F231 and gives Devan a responsive-care detail. Accept it.",
+  "new_facts_assessment": "All four new facts are necessary and consistent. F336 (the order is given out of Devan's hearing) is essential: it makes ch26's informant reveal point at Muthu, and it agrees with F244 and F245. F337 justifies Raiu being below the stair and Devan being alone, but it explains the logistics, not the judgement (see fix 3). F338 supersedes F229's 'move only once the bear was gone'; S6 should retire that clause of F229 so the record isn't contradictory. F339 (numbness before the memory loss) is consistent, but it carries more plot weight than it should: the forgetting needs a stated mechanism (see fix 1). One minor point: the poisoned blade smells 'like scorched tamarind', the resin's signature. That is plausible for a blackbark product, but it should stay deliberate, because Devan knows that smell from border school (F041).",
   "content_rule_violation": false,
   "failure_modes": [
-    "Irrational behaviour to extend plot",
-    "Contrived delays"
+    "Convenient magic",
+    "Irrational behaviour to extend plot"
   ],
-  "average": 3.5,
-  "minimum": 0.0,
-  "passed": false
+  "average": 4.12,
+  "minimum": 3.0,
+  "passed": true
 }
