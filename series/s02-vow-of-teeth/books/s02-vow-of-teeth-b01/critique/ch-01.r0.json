@@ -5,39 +5,38 @@
     "romance_movement": 4.0,
     "shown_chemistry": 4.0,
     "character_logic": 3.0,
-    "stakes_and_cost": 3.0,
-    "prose": 3.0,
+    "stakes_and_cost": 4.0,
+    "prose": 4.0,
     "continuity": 5.0
   },
   "reasons": {
-    "reader_question": "The ending lands 'Was he really asleep?' cleanly: the breath-catch at 212, the creaking slat he 'likes to hear' and 'breathing or pretending to' all point at it. It loses a point because the reader is never told what it costs if he is awake.",
-    "change": "Knowledge shifts: she now holds the guard rota, the chamber and his habits, and he has clocked her naming habit. Her own emotional turn is faint. The 'kill she cannot yet make' is never framed as a reason tonight is reconnaissance only.",
-    "romance_movement": "Strangers become wary opponents for a new, specific reason. The Raiu exchange shows him seeing a person, not a pawn, and his 'Four months. I had to ask twice' is a small, earned admission. It matches the beat.",
-    "shown_chemistry": "Shown through responsive action: he waits for her to turn her wrist, the bangle is warm from his palm, he answers whatever she asks, and he lays the sword hilt-first. 'Ask me again tomorrow' works as banter under threat.",
-    "character_logic": "A trained assassin is told the third slat creaks and that he keeps it 'to know when the wind comes in'. She then opens that shutter anyway, on night one, without the chapter giving her a reason she must turn tonight.",
-    "stakes_and_cost": "The contract deadline and release are set. The core cost of being watched is never stated on the page: whoever sees the turning becomes a witness who can cage her. So the final risk reads as 'getting caught', not 'handing him a cage'.",
-    "prose": "Concrete and mostly clean, with no banned phrases or AI tells. Several garbled sentences break the read ('twelve more words of it', 'We were introduced an hour ago', 'A rack of a sword'), and 'A pause' / 'Another pause' recur in the chamber dialogue.",
-    "continuity": "Consistent with the bible: ages 27 and 32 are stated before the bedroom scene, the scar and bangle are on her left wrist, the cistern chain, third slat, resin smell, kasavu, padippura and the 'not before the writ' term all match. She never says 'leopard' in her own narration. The birth-name line is muddled but does not assert she knows the name."
+    "reader_question": "The ending question is specific and well primed ('a man lay breathing or pretending to'), but 'A man who has trained himself to sleep awake does not change his breathing either' signposts the answer so hard that it moves from uncertainty toward near-certainty.",
+    "change": "Knowledge changes (room mapped, guards given, the writ condition set) and she has been noticed, but the beat's value shift, a kill she is committed to and cannot yet make, is never dramatised. The sword by her hand is never weighed against the writ.",
+    "romance_movement": "Strangers become wary opponents for a new, specific reason: he catches her naming Raiu and stops 'for this'. 'Then ask me again tomorrow' gives the relationship a forward hook.",
+    "shown_chemistry": "Chemistry comes through responsive action, not narration: he waits for her to turn her wrist, the bangle is warm from his palm, he offers exact guard facts, the hilt points toward her, and two aborted smiles answer her dry lines.",
+    "character_logic": "Neela weighs the witness cost in detail, then turns at the open sill in the sightline of a man she suspects is awake, with a ledge 'broad enough for a crouching body' just outside. She also asks the target directly whether the exact shutters she plans to use stick.",
+    "stakes_and_cost": "The witness paragraph makes the price of being watched concrete ('a cage in his mouth every night'), and the watcher rule shows why skipping the turning costs her too.",
+    "prose": "The prose is clean, concrete and free of banned phrases, with no AI tells. Minor problems: an echo of 'noted/note' four times; consecutive paragraphs opening 'The floor was cold' / 'The third she did'; the 'bit down on her own lip until she tasted blood' cliché; and a scene break before 'Twelve.' that splits one continuous moment on the rampart.",
+    "continuity": "Ages, witnesses, resin smell, scars, cistern chain, third slat, guard layout, tooth, watcher logic and the leopard word kept out of Neela's narration are all consistent. The latched shutters on a clear night sit slightly awkwardly with F102 (open every non-storm night before the wedding) but do not conflict."
   },
   "fixes": [
-    "At 'Behind her, in the room she'd mapped, a man lay breathing or pretending to': the witness rule never reaches the page, so the cliffhanger lacks its real cost (Stakes without depth). In the two or three sentences before the burn, have Neela state in her own clipped terms that anyone whose eyes are on her for the next minute becomes a witness. Such a witness could cage her with one word before dawn, and she would count him alongside Chathu and Ammu for life. Then 'breathing or pretending to' carries the full price.",
-    "At 'I like to know when the wind comes in.' and later 'The third slat creaked.': a smart assassin opens the one shutter he told her is his alarm, on night one, with no stated need (Irrational behaviour to extend plot). Do one of two things. Either give her a concrete reason she must turn tonight, such as walking the ledge and wall route as the other one before the pass traffic changes, or a guild signal due at a set hour. Or have her deliberately test the slat to see if he wakes, making the creak her choice rather than carelessness.",
-    "At 'She had twelve more words of it in her head' and 'We were introduced an hour ago, at the feast. By a servant.': both sentences are garbled. The first can read as if she knows part of her birth name (risking F001). The second is unclear about who was introduced to whom. Rewrite the first to state plainly that she has never known her birth name, not one syllable. Rewrite the second as Devan saying Raiu was never presented to her and she never went near him. Also fix 'A rack of a sword' to 'A sword on a rack' and cut one of 'A pause' / 'Another pause'."
+    "At 'She shrugged off the wedding cloth and folded it on the sill' (Irrational behaviour to extend plot): Neela has just weighed the witness cost, yet she turns inside the room in the sightline of a man who may be awake, when the ledge outside could hide her. Add one or two sentences before she uncorks the flask giving a concrete reason the room is the lesser risk. For example, the sentry who paces the wall-walk above the window (F052) would see a woman crouched on the ledge, and the worn ledge will not hold her through the minute her knees go. Then make her turn her back to the bed as a deliberate, uneasy choice.",
+    "At 'she was Seventeen in a ledger a day's ride off, a girl in the book' (content-rule risk): the number Seventeen next to 'a girl' briefly reads as her age, two paragraphs before Janu says twenty-seven, in a chapter that ends in the marriage bed. State her adulthood in narration inside this paragraph, for example 'twenty-seven years old and Seventeen in a ledger a day's ride off, a number in the book of the Resin House'. Change 'a girl' to 'a woman' or cut it.",
+    "At 'Either he was a fool, or he wanted her to think so' (value shift not dramatised): the beat's turn, a kill she is committed to and cannot yet make, never lands, and the sword by her hand is the perfect test. Add a short beat in which she measures the reach to the hilt and sees the clean stroke across the dark. Then Chathu's 'not before the marriage writ comes back sealed' stops her hand, and she names the cost: forty days of lying beside him with a blade she may not use. While there, have her ask about the shutters as a bride's complaint ('Is that draught from the window?') rather than 'Do they stick?', so she does not point the target at her exit."
   ],
-  "reader_question": "Was Devan really asleep, and did he just watch her turn?",
+  "reader_question": "Was Devan really asleep when she opened the shutters and turned, and if not, what will he do with being her witness?",
   "techniques_landed": [
     1,
     5,
     7,
     16
   ],
-  "new_facts_assessment": "Kannan, Chinna and Raiu are necessary per the beat and consistent. The guard layout fits Devan's 'exact facts' voice and pays forward his later 'I would rather you asked'. Later chapters should use it rather than contradict it. The wire-grip sword and the flask and tooth are fine. The four-months line works, though it implies Raiu has served at least that long. Unlisted additions: Muthu sleeps in the lower barracks and wakes Devan for the dawn watch twice a week; the bangle was made from a council-sent measure; there is a draught by the stair. The Muthu schedule should be added to new-facts.json and checked against Devan's daily solo dawn drill (F032). The council-measure bangle is a nice hook toward council involvement and should be logged too.",
+  "new_facts_assessment": "All four are consistent and mostly useful. The iron latch with the bar unused fits F102/F278 (barring starts the second dusk) and sets up the later barring as a visible change. A half-line saying who closed the shutters on a clear wedding night (Janu, for the bride) would remove the tension with F102. The dawn scent-post watcher matches F194/F301 and is necessary: it is the only reason she must turn on the wedding night. The deliberate slat test is smart, matches her character, and plants the 'pretending to sleep' question fairly. Muthu's lower-barracks billet and twice-weekly dawn waking, the council-supplied bangle measure and the stair draught are harmless texture. The bangle measure is a quiet council-knows-her-body clue worth keeping. Muthu's twice-weekly waking should not later contradict Devan rising alone for kalari every dawn (F032).",
   "content_rule_violation": false,
   "failure_modes": [
-    "Irrational behaviour to extend plot",
-    "Stakes without depth"
+    "Irrational behaviour to extend plot"
   ],
-  "average": 3.62,
+  "average": 3.88,
   "minimum": 3.0,
   "passed": true
 }
