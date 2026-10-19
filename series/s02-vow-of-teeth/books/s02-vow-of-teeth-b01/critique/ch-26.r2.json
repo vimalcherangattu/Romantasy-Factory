@@ -1,0 +1,41 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 5.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 3.0,
+    "character_logic": 3.0,
+    "stakes_and_cost": 4.0,
+    "prose": 4.0,
+    "continuity": 0.0
+  },
+  "reasons": {
+    "reader_question": "The closing image puts the outlined question on the page: will Ammu choose the guild or her sister. Two riders sharpen it: is Muthu the leak, and will the cart roll into Vellan. Ammu's half-shaped verse tips the answer a little early.",
+    "change": "The beat's value shift lands fully. Neela goes from guild-sister to bound prisoner. She learns release is a lie, finds Kirri, and realises she built the trap that will kill Devan.",
+    "romance_movement": "Devan is absent, but the ledger-versus-pebble contrast reframes him as the one witness who keeps the word behind his teeth. That seeds her resolve to say the word herself, a new reason the bond matters. This is good indirect movement.",
+    "shown_chemistry": "Chemistry comes only through recalled acts (the pebble, never asking thanks). That is acceptable for a solo chapter, but it is summarised in two sentences, not dramatised.",
+    "character_logic": "Neela's choices are smart and in character: counting, fighting, refusing the tin. But the informant's news outrunning her own hard ride, and a cart crossing a night-and-day ride between first light and dusk, are not plausible.",
+    "stakes_and_cost": "The caging at dusk, Kirri's fate as a preview, and her own order sending a dying man into an ambush give every remaining choice a real price. She has few active choices while bound.",
+    "prose": "The prose is concrete and often quotable ('where she kept being six'; 'Forty-one. She counted them again'). Against that: a dropped line in Chathu's dialogue ('No. Never, when you're frightened.' answers nothing). There is also a 'sad' echo ('He smiled, sadly' / 'His smile was sad'), and Chathu's plan-explaining runs long. No banned phrases, and em dashes are within the limit.",
+    "continuity": "The cart timeline conflicts in three ways. Ch25 and F227 set the order as 'bring him after me by the second dusk', with Devan told 'I've told him'; the draft silently replaces that. A cart leaving at first light of day two cannot reach the gate by that dusk when the trip is a day's hard ride (F018) that took Neela a night and a day. And 'Only two people alive had heard it' ignores that Devan heard 'in a cart' in ch25."
+  },
+  "fixes": [
+    "Fix the timeline at \"If I'm not back by first light on the second day\" (continuity / irrational timing). Have Neela revise ch25's order on the page, with a reason. Suggested line: \"I told you second dusk. Forget it. At first light tomorrow, put him in a cart and start up the wood road. Meet me on it coming back; it saves a day he hasn't got.\" Then change the later arithmetic ('Muthu will have started at first light...') so the cart left at first light of day one and reaches the gate at tonight's dusk. With the cart out from day one, a rider leaving Kettamala the same morning can overtake it and reach Chathu by dawn. So change 'faster than she had ridden' to 'faster than any cart'. That removes the impossible messenger.",
+    "Repair the dropped beat at \"No. Never, when you're frightened.\" (prose glitch). Chathu answers a line Neela never speaks. Either give her the line first (\"I'm not hungry.\"), or rewrite Chathu's reply as a reading of her refusal, e.g. \"You never would eat when you were frightened.\" That keeps his fatherly knowingness and makes the exchange track.",
+    "Correct \"Only two people alive had heard it\" (character logic). In ch25 Devan heard 'in a cart if he has to', so the claim is false. Make the realisation turn on what only Muthu heard: the road and the hour. For example: \"Devan had heard 'a cart' and gone under before he could hear the rest. The wood road, first light: only Muthu had that.\" This sharpens the suspicion and keeps it fair."
+  ],
+  "reader_question": "When Ammu carries the resin pot at dusk, will she obey Chathu or break with the guild to save Neela, before the cart carrying Devan reaches Vellan at the gate?",
+  "techniques_landed": [
+    3,
+    12,
+    6
+  ],
+  "new_facts_assessment": "F244 (revised order and timeline): the chapter needs the cart to arrive at the binding dusk for ch27, but as written it contradicts ch25/F227 and the bible travel time. Rework it as in fix 1. F245 (Chathu knows of the cart; Neela suspects Muthu): this is necessary, well planted (Muthu's stillness, 'I won't'), and properly unconfirmed, which keeps the bible's queen-informant line open. As written, though, the news has to outrun Neela's own hard ride with no means set up. Neela's 'only two people' claim also forgets Devan heard 'cart'. F246 (Ammu recalled to carry the pot, lips shaping 'the name given back'): consistent with F174 and F194, and needed for ch27. Keep it. F247 (pebble since ch20): consistent with F175 and a useful precision. Keep it. New minor facts (Pachan, the 41 cages, Chathu's uneven foot, the vial label) are consistent and harmless. 'The Monkey road downhill' is a new, vague route name; prefer 'the wood road' throughout.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Irrational behaviour to extend plot"
+  ],
+  "average": 3.38,
+  "minimum": 0.0,
+  "passed": false
+}
