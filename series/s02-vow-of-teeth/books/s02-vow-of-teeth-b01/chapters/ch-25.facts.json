@@ -1,33 +1,23 @@
 {
   "facts": [
     {
-      "id": "N1",
       "category": "knowledge",
-      "fact": "Before dusk Devan found the west stair lamps drained, not burned dry (wicks white, cups tipped): a sign the inside informant wanted the stair dark. He could not spare the stair-head pair, so he sent Raiu for oil with the chamber door barred from within. Replaces F229's 'run dry'. Neela, standing at the shutter listening for steel, hears the fight.",
+      "fact": "Neela's full order to Muthu (if she is not back by first light on the second day, bring Devan up the wood road after her, in a cart if he must) was given only to Muthu, out of Devan's hearing, in the passage outside the sickroom. In the stable she tells Devan only 'I've told Muthu what to do if I'm late.' Agrees with F244 and F245.",
       "since": "s02-vow-of-teeth-b01 ch 25"
     },
     {
-      "id": "N2",
       "category": "timeline",
-      "fact": "Neela's order to Muthu: if she is not back by first light on the second day, he is to bring Devan up the wood road after her, in a cart if he has to. Corrects F227's 'second dusk' and agrees with F244.",
+      "fact": "At the new-moon dusk the wall pairs were mid-change on the hour chain, so Devan sent Raiu for lamp oil rather than spend a stair-head man, and climbed the dark west stair alone as the only way to Neela's door. Refines F229 and F331.",
       "since": "s02-vow-of-teeth-b01 ch 25"
     },
     {
-      "id": "N3",
-      "category": "knowledge",
-      "fact": "After the poison takes the Asha thought, Devan keeps only a fogged memory: a rolling torch and something dark at the wall. The rest slides away when he reaches for it, so the link stays closed.",
+      "category": "plot",
+      "fact": "The bear flees because Neela shouts 'Down! Both of you!' from the stair head and the two stair-head men come down with spears and lamps behind her; Vellan faces three blades and light. Neela's shout releases the men from Devan's 'Hold the head' order.",
       "since": "s02-vow-of-teeth-b01 ch 25"
     },
     {
-      "id": "N4",
-      "category": "relationship",
-      "fact": "Raiu's mother has been dead four years. Devan stood over Asha's body at twenty-six in the grey before dawn with Janu holding a lamp.",
-      "since": "s02-vow-of-teeth-b01 ch 25"
-    },
-    {
-      "id": "N5",
       "category": "injury",
-      "fact": "On the morning of ch25 one of Neela's nails had split; by the stable scene three have split to the quick. Devan notices it himself.",
+      "fact": "The poison's onset is physical first: numbness climbs Devan's left side and reaches his fingertips before it erases the Asha thought.",
       "since": "s02-vow-of-teeth-b01 ch 25"
     }
   ]
