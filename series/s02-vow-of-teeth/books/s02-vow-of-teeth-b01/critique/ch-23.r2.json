@@ -1,0 +1,43 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 3.0,
+    "stakes_and_cost": 3.0,
+    "prose": 3.0,
+    "continuity": 5.0
+  },
+  "reasons": {
+    "reader_question": "The trap-versus-new-moon clock is specific and stated, but the Muthu coda splits the closing question in two and blurs it.",
+    "change": "Knowledge (Ittan, the widow-seal scheme) and relationship (suspicion to alliance with a shared plan) both turn clearly on the page.",
+    "romance_movement": "The reason for change is new: she gives freely what he once tried to buy, and he accepts her refusal to testify. 'Not yet' moves the sparring thread without replaying an old refusal.",
+    "shown_chemistry": "Responsive beats carry it: he hides his hands, she lets him have the anger unsoothed, 'It's very annoying', 'Caged me, I expect', the brief shoulder lean.",
+    "character_logic": "Mostly sharp, but Devan never asks what closes at the new moon, though he heard her count toward it in ch21. The closing suspicion of Muthu has no cause in this chapter.",
+    "stakes_and_cost": "The plot clock is clear, but Neela's personal cost if the account stays open (forced resin, her page read) and her mounting ache vanish from the scene, so the plan costs her nothing visible.",
+    "prose": "Clean and readable with good short-line rhythm, but door/lock imagery recurs four times, some stock phrases ('His voice came from a long way off', 'did not fall into place with a click'), and the deduction paragraph is a clue-list recap.",
+    "continuity": "No conflicts found. Dates (six nights to moon, eight to sealing), the slip's wording and source, the charter line, the seal boxes and Ittan's letters all match ch22 and the facts list."
+  },
+  "fixes": [
+    "Ending, 'for the first time he wondered who else in Kettamala had been told he was coming': this is contrived new plot outside the beat, and it creates an irrational-behaviour risk because Devan cannot learn of Muthu until B2 ch9. Keep the lathered rider and the quiet Muthu as a picture only the reader decodes (technique 13). Have Devan explain it to himself with something specific and innocent, such as Muthu's mother in Kodiyur again, or a supply note before the rains. End instead on a story-caused beat that makes ch24 necessary, for example the count to the moon and what he now owes her.",
+    "'So the trap has to live through the moon before it can catch anyone.': this is stakes without depth, and a smart Devan would ask here. Pay off ch21 (he heard her say 'Eight nights to the new moon' and didn't know what ends then). Have him connect it and ask what happens to her at the moon. She answers with the cost in two or three lines: Vellan is sent, and if the account stays open, Chathu forces resin and reads her page at dusk. Add a beat of the ache, nails at the quick from two skipped nights. Then the plan carries a named personal price and the reader's question gains concern, not just curiosity.",
+    "'the way a door is shut in a house where someone sleeps' / 'like a draught through a door' / 'put her hand to the lock' / 'left the door unbarred': the same image is used four times in one chapter, which is repetitive. Keep one, ideally 'left the door unbarred' at the 'Not yet'. Replace the others with images from the pit or fort (lamp oil, red earth, the cistern chain). In the same pass, cut 'His voice came from a long way off' and 'The pieces did not fall into place with a click'. Trim the clue-recap paragraph ('Council wax, brick red...') to the two clues Devan actually reacts to, so the deduction reads as discovery, not a list."
+  ],
+  "reader_question": "Can Neela and Devan keep the trap alive through the new moon, when Chathu sends someone to close the account, long enough to catch Ittan with forged tallies at the padippura?",
+  "techniques_landed": [
+    3,
+    15,
+    16
+  ],
+  "new_facts_assessment": "F211 (blank pre-waxed dot-and-split tallies as the real proof, since the seal box is the Keeper's by right) is necessary and consistent. It answers a fair objection from F148, ties to F091, F112 and F131, and sets up the ch29 arrest without convenient magic. It should be framed as Neela's inference from how guild couriers work, not as certainty. The other ch23 facts already in continuity are fine (F201, F206, F207, F208), with one exception. F210, Muthu's off-day rider plus Devan's dawning suspicion, is not in the beat. It pre-empts the ch24 Muthu plant and pushes Devan toward a discovery the bible saves for B2 ch9. If Devan suspects Muthu now and then does nothing for a whole book, he becomes an idiot later. Keep the image for the reader and cut Devan's suspicion. The 'repetitive tension' tag refers to the recycled door imagery in the prose, not to the romance.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Irrational behaviour to extend plot",
+    "Stakes without depth",
+    "Repetitive tension"
+  ],
+  "average": 3.75,
+  "minimum": 3.0,
+  "passed": true
+}
