@@ -1,0 +1,39 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 3.0,
+    "stakes_and_cost": 4.0,
+    "prose": 4.0,
+    "continuity": 5.0
+  },
+  "reasons": {
+    "reader_question": "Two sharp questions leave the chapter: is Ittan friend or knife, which the letter, the 'befall' line and his unprecedented climb all feed, and what Neela will tell Ammu tomorrow; the soft last line weakens the second one.",
+    "change": "Knowledge moves: three seal boxes, the Keeper's office, Sudhi named, and Ittan coming in person. Relationship moves too: 'We', his first 'I won't answer that', and his refusal to ask about the call.",
+    "romance_movement": "The reasons are new. He refuses her for the first time and she is relieved, she discloses 'the other one', and he offers her the right of refusal back; this is a real step from the bargain in ch16.",
+    "shown_chemistry": "The care is responsive and specific: the hilt on her side, the knife left unmoved, a true cover story given before she asks, and the breath hitch kept audible. Desire is tied to his choices, not his looks.",
+    "character_logic": "Both leads mostly act smartly, but Neela's headline deduction rests on a count the page contradicts. Only six 'my friend' appear in the letter as read, yet she says eleven or twelve and Devan confirms 'Twelve'.",
+    "stakes_and_cost": "Every human night is paid for: the ache is a week out, the meeting-stone cup is bare, and Ammu is summoned. Her silence about the call costs Devan safety and he accepts it ('Especially then').",
+    "prose": "The prose is clean, concrete and free of banned phrases, with no AI tells and no em dashes. It has a 'turned it over' tic (three times), stacked 'said nothing' beats, and one opaque, risky line about seventeen sounding like an age.",
+    "continuity": "It agrees with the night count (19 to 17), the ache estimate, council wax and clove, the jackal call learned at eleven, the knife on her side, and Muthu's grey-wax letters. The Sudhi 'ninth day' timing is vague but does not conflict."
+  },
+  "fixes": [
+    "At '\"Eleven,\" said Neela.' / '\"Twelve,\" he agreed', the deduction is unsupported (character logic): the letter as read aloud contains only six 'my friend'. Either have Devan read in full with eleven occurrences on the page plus 'your friend' at the close, or show him skipping text ('He read the middle page under his breath, then aloud again') so the count rests on what the reader didn't hear. Neela's precision is her edge and it must check out.",
+    "At 'Seventeen nights. She said the number inside her head and it sounded like someone else's age', the line is opaque and, in a bed scene with the love interest, gestures at a teenage age (content-rule adjacent). Replace it with the resonance already in the canon: 'Seventeen nights. Seventeen was also the number Chathu had written over her page.' That ties the deadline to her ledger leash.",
+    "At 'At the third clank she shut her eyes... She resolved to find something.', the ending is soft and declarative, and the chapter's urgency (Ammu tomorrow) dissipates. End on a concrete choice that makes ch18 necessary. For example, she decides what she will and won't tell Ammu about the reports, or reaches into the gap for the knife and moves it to his side of the bed as the first thing she can give. Also cut one of the three 'turned it over' uses earlier in the chapter."
+  ],
+  "reader_question": "Is the genial Keeper who insists on climbing to seal the pass himself a friend, or the hand that bought the knife, and what will Neela tell Ammu tomorrow?",
+  "techniques_landed": [
+    14,
+    4,
+    10
+  ],
+  "new_facts_assessment": "Biscuit and Appu are harmless texture that fits Neela's naming habit. The knife fact agrees with F140 ('under the mattress' is close enough to 'gap between mattress and frame') and earns trust. Devan naming the Keeper's office as one of the three boxes is a fair clue that does not give Ittan away. Ittan's six years of letters with no visit, plus the clerk custom, are necessary and make his visit pointed, though 'I know your Janu' sits oddly with a man who has never climbed the hill and needs a half-line (met in Kodiyur). 'The other one' disclosure matches the bible's voice notes and is a good rung on the ladder. The Parukutty cover is consistent with F085 and true, which fits his never-lies rule.",
+  "content_rule_violation": false,
+  "failure_modes": [],
+  "average": 4.0,
+  "minimum": 3.0,
+  "passed": true
+}
