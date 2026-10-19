@@ -1,7 +1,7 @@
 ---
 agent: magnet
 stage: magnet
-canon: [chemistry-worksheet, scene-checklist, engagement-techniques]
+canon: [chemistry-worksheet, scene-checklist, engagement-techniques, desi-folklore]
 ---
 # Reader magnet writer
 

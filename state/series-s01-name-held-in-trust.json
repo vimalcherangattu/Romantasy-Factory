@@ -1,7 +1,7 @@
 {
   "series_id": "s01-name-held-in-trust",
   "title": "A Name Held in Trust",
-  "status": "approved",
+  "status": "archived",
   "proposal": "20261019-1900/concept-3",
   "books": [
     "s01-name-held-in-trust-b01",
@@ -9,6 +9,7 @@
     "s01-name-held-in-trust-b03"
   ],
   "created_at": "2026-10-19T14:02:07",
-  "updated_at": "2026-10-19T14:02:07",
-  "approved_at": "2026-10-19T14:02:07"
+  "updated_at": "2026-10-19T17:18:55",
+  "approved_at": "2026-10-19T14:02:07",
+  "archived_reason": "19 Oct 2026: owner moved to desi romantasy; concept came from the AI research list (convergence risk)."
 }

@@ -173,6 +173,19 @@ def proposals(data: dict, count: int) -> list[str]:
         for key in ("slug", "title", "premise", "books"):
             if not c.get(key):
                 errors.append(f"concept {i} is missing '{key}'")
+        if "hook_line" in c or "first_look" in c:  # first-look package (canon/first-look.md)
+            if len((c.get("hook_line") or "").split()) > 35:
+                errors.append(f"concept {i} hook_line is over 30 words")
+            if len((c.get("title") or "").split()) > 5:
+                errors.append(f"concept {i} title is over 5 words")
+            if len(c.get("trope_tags") or []) < 2:
+                errors.append(f"concept {i} needs at least 2 trope_tags")
+            if not (c.get("first_look") or {}).get("passes"):
+                errors.append(f"concept {i} fails the five-second test; rework it")
+    banned = {t.strip().lower() for t in (data.get("obvious_excluded") or {}).get("titles", [])}
+    for i, c in enumerate(concepts, start=1):
+        if (c.get("title") or "").strip().lower() in banned:
+            errors.append(f"concept {i} uses a title from its own obvious list")
     return errors
 
 

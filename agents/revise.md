@@ -1,7 +1,7 @@
 ---
 agent: revise
 stage: S6
-canon: [scene-checklist, chapter-checklist, failure-modes, engagement-techniques, chemistry-worksheet]
+canon: [scene-checklist, chapter-checklist, failure-modes, engagement-techniques, chemistry-worksheet, desi-folklore]
 ---
 # S6 Chapter reviser
 

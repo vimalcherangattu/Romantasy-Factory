@@ -70,7 +70,19 @@ def _log_usage(cfg: Config, book_id: str, stage: str, model: str, raw: dict) -> 
         writer.writerow(row)
 
 
-def _invoke(cfg: Config, system_prompt: str, user_prompt: str, model: str) -> dict:
+def _extra_args(cfg: Config, tools: list[str] | None) -> list[str]:
+    """config extra_args, with the --tools value replaced when an agent declares its own tools."""
+    args = [str(a) for a in cfg.get("claude.extra_args", [])]
+    if tools is None:
+        return args
+    if "--tools" in args:
+        i = args.index("--tools")
+        del args[i : i + 2]
+    # Headless runs can't answer permission prompts, so declared tools are also pre-approved.
+    return args + ["--tools", ",".join(tools), "--allowedTools", ",".join(tools)]
+
+
+def _invoke(cfg: Config, system_prompt: str, user_prompt: str, model: str, tools: list[str] | None = None) -> dict:
     # "replace" swaps Claude Code's default coding prompt for the agent prompt: measured at
     # about 1.3k instead of 39k context tokens per call. "append" keeps the default prompt.
     flag = "--append-system-prompt" if cfg.get("claude.system_prompt_mode") == "append" else "--system-prompt"
@@ -79,7 +91,7 @@ def _invoke(cfg: Config, system_prompt: str, user_prompt: str, model: str) -> di
         "--model", model,
         "--output-format", "json",
         flag, system_prompt,
-        *[str(a) for a in cfg.get("claude.extra_args", [])],
+        *_extra_args(cfg, tools),
     ]
     try:
         proc = subprocess.run(
@@ -118,7 +130,7 @@ def _tail(text: str, n: int = 400) -> str:
 
 
 def call(cfg: Config, *, system_prompt: str, user_prompt: str, stage: str, book_id: str,
-         model: str | None = None) -> ClaudeResult:
+         model: str | None = None, tools: list[str] | None = None) -> ClaudeResult:
     """Run one stage call. Retries once after `retry_wait_seconds` on CLI error or timeout.
 
     Raises UsageLimitError immediately (never retried, never switched to paid credits)
@@ -129,7 +141,7 @@ def call(cfg: Config, *, system_prompt: str, user_prompt: str, stage: str, book_
     last: Exception | None = None
     for attempt in range(attempts):
         try:
-            raw = _invoke(cfg, system_prompt, user_prompt, model)
+            raw = _invoke(cfg, system_prompt, user_prompt, model, tools)
             _log_usage(cfg, book_id, stage, model, raw)
             return ClaudeResult(text=raw.get("result", ""), usage=raw.get("usage") or {}, raw=raw)
         except UsageLimitError:

@@ -1,6 +1,6 @@
 # Romantasy Factory configuration. See PRD sections 5, 6, 7 and 9.
 
-pen_name: "Mara Vellacourt"        # PRD section 10: confirm on Amazon + Goodreads before use
+pen_name: "V. C. Arden"            # under review 19 Oct 2026; Mara Vellacourt was taken
 copyright_year: 2026
 timezone: "Asia/Kolkata"
 
@@ -16,7 +16,7 @@ book:
 series:
   books_min: 3
   books_max: 6
-  proposals: 3
+  proposals: 4
 
 quality:
   pass_average: 3.5
@@ -55,6 +55,7 @@ models:
   S10_package: sonnet
   owner_notes: opus
   select: opus
+  market_check: sonnet
   beta_reader: opus
   magnet: sonnet
 
@@ -62,6 +63,7 @@ models:
 auto:
   pick_concept: true               # factory new-series --auto: an agent picks the concept
   approve_series: true             # ...and the bible is approved once it passes validation
+  market_check: true               # web-search titles, premises and the pen name for collisions (S1)
   beta_reader: true                # an AI beta reader writes review notes before the book reaches you
   beta_revision_rounds: 1          # revision rounds the beta reader may trigger per book
 

@@ -153,6 +153,13 @@ def respond(system: str, user: str) -> str:
         return block("metadata.json", meta) + block("blurb.md", "<p><b>One oath.</b> Two liars.</p>") \
             + block("cover-prompt.md", "## Art prompt\nInk and gold.") + block("teaser.md", "# Next\nThe seal wakes.") \
             + block("launch-email.md", "Subject: The Ink Oath is out\n\nHi! Read it: {{AMAZON_LINK}}")
+    if "# Market check" in system:
+        concepts = json.loads(input_block(user, "concepts.json") or "[]")
+        return block("market-check.json", {"pen_name": {"name": "Test Pen", "verdict": "clear", "evidence": []},
+                                           "concepts": [{"n": c["n"], "title": c["title"], "title_collision": "none",
+                                                         "premise_collision": "none", "evidence": [], "verdict": "clear",
+                                                         "clear_titles": []} for c in concepts],
+                                           "limits": "fake"})
     if "# Concept selector" in system:
         return block("selection.json", {"pick": 2, "scores": [], "why": "Strongest hook.", "owner_watch": "x"})
     if "# Beta reader" in system:
@@ -170,13 +177,15 @@ def respond(system: str, user: str) -> str:
 
 def main() -> int:
     args = sys.argv[1:]
+    tools_flag = args[args.index("--tools") + 1] if "--tools" in args else None
     flag = "--system-prompt" if "--system-prompt" in args else "--append-system-prompt"
     system = args[args.index(flag) + 1] if flag in args else ""
     model = args[args.index("--model") + 1] if "--model" in args else ""
     user = sys.stdin.read()
     with (state_dir() / "calls.log").open("a") as fh:
         fh.write(json.dumps({"model": model, "system_head": system.splitlines()[0] if system else "",
-                             "api_key_seen": bool(os.environ.get("ANTHROPIC_API_KEY"))}) + "\n")
+                             "api_key_seen": bool(os.environ.get("ANTHROPIC_API_KEY")), "tools": tools_flag,
+                             "allowed": args[args.index("--allowedTools") + 1] if "--allowedTools" in args else None}) + "\n")
     m = modes()
     if "limit" in m:
         print(json.dumps({"type": "result", "is_error": True, "result": "Claude usage limit reached. Your limit will reset at 5am."}))

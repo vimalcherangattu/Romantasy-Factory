@@ -40,7 +40,36 @@ def new_series(cfg: Config) -> Path:
     out = cfg.paths.proposals / batch
     for name, body in files.items():
         atomic_write(out / name, body)
+    if cfg.get("auto.market_check", True):
+        market_check(cfg, out)
     return out
+
+
+def market_check(cfg: Config, folder: Path) -> dict:
+    """Web-searches each concept's title and premise, and the pen name, for collisions."""
+    proposals = json.loads(read_text(folder / "proposals.json"))
+    count = len(proposals["concepts"])
+
+    def check(files):
+        try:
+            data = json_text(files["market-check.json"], "market-check.json")
+        except Exception as exc:  # noqa: BLE001
+            return [str(exc)]
+        found = {c.get("n") for c in data.get("concepts", [])}
+        missing = [n for n in range(1, count + 1) if n not in found]
+        return [f"market check is missing concepts {missing}"] if missing else []
+
+    summary = [{"n": i, "title": c.get("title"), "hook_line": c.get("hook_line"), "premise": c.get("premise")}
+               for i, c in enumerate(proposals["concepts"], start=1)]
+    files = agentrun.run(
+        cfg, "market_check",
+        task=f"Check these {count} concepts and the pen name \"{cfg.get('pen_name')}\" against books already for sale.",
+        inputs={"concepts.json": json.dumps(summary, indent=2, ensure_ascii=False)},
+        book_id="series", expect=["market-check.json"], validator=check,
+    )
+    data = json_text(files["market-check.json"])
+    write_json(folder / "market-check.json", data)
+    return data
 
 
 def latest_batch(cfg: Config) -> Path | None:
@@ -48,7 +77,7 @@ def latest_batch(cfg: Config) -> Path | None:
     return batches[-1] if batches else None
 
 
-def pick(cfg: Config, concept: int, batch: str | None = None) -> str:
+def pick(cfg: Config, concept: int, batch: str | None = None, title: str | None = None) -> str:
     """S2: build the bible draft for the chosen concept. Returns the new series id."""
     folder = cfg.paths.proposals / batch if batch else latest_batch(cfg)
     if not folder or not folder.exists():
@@ -69,7 +98,8 @@ def pick(cfg: Config, concept: int, batch: str | None = None) -> str:
 
     files = agentrun.run(
         cfg, "bible",
-        task=f"Write the series bible for this approved concept. Pen name: {cfg.get('pen_name')}.",
+        task=(f"Write the series bible for this approved concept. Pen name: {cfg.get('pen_name')}."
+              + (f" Book 1's title is \"{title}\" (cleared by the market check); use it." if title else "")),
         inputs={"concept.md": concept_md, "concept.json": json.dumps(meta, indent=2), "taste.md": cfg.paths.taste},
         book_id=series_id, expect=["bible.md", "continuity.json", "series.json"], validator=check,
     )
@@ -121,6 +151,8 @@ def auto_pick(cfg: Config, batch: str | None = None) -> tuple[int, dict]:
     proposals = json.loads(read_text(folder / "proposals.json"))
     count = len(proposals["concepts"])
     inputs = {"taste.md": cfg.paths.taste, "proposals.json": folder / "proposals.json"}
+    if (folder / "market-check.json").exists():
+        inputs["market-check.json"] = folder / "market-check.json"
     for i in range(1, count + 1):
         inputs[f"concept-{i}.md"] = folder / f"concept-{i}.md"
 
@@ -145,7 +177,7 @@ def autopilot(cfg: Config, *, generate: bool = True, batch: str | None = None) -
     """S1 (optional) -> selector -> S2 -> approval, per config `auto.*`."""
     folder = new_series(cfg) if generate else (cfg.paths.proposals / batch if batch else latest_batch(cfg))
     n, selection = auto_pick(cfg, folder.name)
-    series_id = pick(cfg, n, folder.name)
+    series_id = pick(cfg, n, folder.name, title=selection.get("title"))
     result = {"batch": folder.name, "pick": n, "why": selection.get("why", ""), "series_id": series_id, "books": []}
     if cfg.get("auto.approve_series", True):
         result["books"] = approve(cfg, series_id)

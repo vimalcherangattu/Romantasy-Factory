@@ -1,7 +1,7 @@
 ---
 agent: outline
 stage: S3
-canon: [novel-structure, engagement-techniques, chemistry-worksheet, scene-checklist, chapter-checklist, failure-modes, reader-appeal]
+canon: [novel-structure, engagement-techniques, chemistry-worksheet, scene-checklist, chapter-checklist, failure-modes, reader-appeal, desi-folklore]
 ---
 # S3 Book outline agent
 

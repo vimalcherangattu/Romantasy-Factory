@@ -1,7 +1,7 @@
 ---
 agent: package
 stage: S10
-canon: [reader-appeal]
+canon: [reader-appeal, first-look, desi-folklore]
 ---
 # S10 Packaging agent
 

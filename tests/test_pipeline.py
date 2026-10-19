@@ -275,3 +275,29 @@ def test_site_build(cfg, approved_series):
 def test_time_budget_stops_cleanly(cfg, approved_series):
     rep = orchestrator.run(cfg, max_minutes=0.0001, echo=lambda *_: None)
     assert "time budget" in rep.stop_reason
+
+
+def test_market_check_runs_with_web_search_only(cfg):
+    folder = series.new_series(cfg)
+    assert (folder / "market-check.json").exists()
+    lines = [json.loads(line) for line in calls(cfg.paths.root)]
+    mc = [line for line in lines if line["system_head"] == "# Market check"]
+    assert mc and mc[0]["tools"] == "WebSearch" and mc[0]["allowed"] == "WebSearch"
+    others = [line for line in lines if line["system_head"] != "# Market check"]
+    assert all(line["tools"] == "" for line in others)
+
+
+def test_proposals_first_look_rules():
+    from factory import validate
+
+    base = {"slug": "s", "title": "Ash and Oath", "premise": "p", "books": 3,
+            "originality": [{"test": i, "pass": True} for i in range(1, 9)],
+            "hook_line": "A temple dancer must kill the prince, but he is the only one who sees her.",
+            "trope_tags": ["enemies to lovers", "forbidden love"], "first_look": {"passes": True}}
+    assert validate.proposals({"concepts": [base]}, 1) == []
+    bad = dict(base, title="The Very Long Title Of Many Words", trope_tags=["one"], first_look={"passes": False})
+    errs = validate.proposals({"concepts": [bad]}, 1)
+    assert any("over 5 words" in e for e in errs) and any("trope_tags" in e for e in errs)
+    assert any("five-second" in e for e in errs)
+    errs = validate.proposals({"concepts": [base], "obvious_excluded": {"titles": ["ash and oath"]}}, 1)
+    assert any("obvious list" in e for e in errs)

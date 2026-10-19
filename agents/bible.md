@@ -1,7 +1,7 @@
 ---
 agent: bible
 stage: S2
-canon: [reader-appeal, chemistry-worksheet, originality-tests, novel-structure, engagement-techniques, failure-modes]
+canon: [reader-appeal, chemistry-worksheet, originality-tests, novel-structure, engagement-techniques, failure-modes, desi-folklore, first-look]
 ---
 # S2 Series bible agent
 

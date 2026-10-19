@@ -1,7 +1,7 @@
 ---
 agent: beta_reader
 stage: beta_reader
-canon: [reader-appeal, failure-modes, chemistry-worksheet, novel-structure]
+canon: [reader-appeal, failure-modes, chemistry-worksheet, novel-structure, desi-folklore, first-look]
 ---
 # Beta reader
 

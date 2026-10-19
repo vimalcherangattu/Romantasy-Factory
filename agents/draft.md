@@ -1,7 +1,7 @@
 ---
 agent: draft
 stage: S4
-canon: [scene-checklist, chapter-checklist, engagement-techniques, chemistry-worksheet, failure-modes]
+canon: [scene-checklist, chapter-checklist, engagement-techniques, chemistry-worksheet, failure-modes, desi-folklore]
 ---
 # S4 Chapter drafting agent
 

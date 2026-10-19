@@ -22,6 +22,7 @@ MODEL_KEYS = {
     "select": "select",
     "beta_reader": "beta_reader",
     "magnet": "magnet",
+    "market_check": "market_check",
 }
 
 
@@ -40,6 +41,7 @@ Validator = Callable[[dict[str, str]], list[str]]
 def run(cfg: Config, agent: str, *, task: str, inputs: dict, book_id: str, expect: list[str],
         validator: Validator | None = None, model: str | None = None) -> dict[str, str]:
     system = prompts.system_prompt(cfg, agent)
+    tools = prompts.agent(cfg, agent)[0].get("tools")  # e.g. [WebSearch] for the market check
     user = prompts.inputs(cfg, task, inputs)
     model = model or cfg.get(f"models.{MODEL_KEYS[agent]}", "sonnet")
     extra = ""
@@ -47,7 +49,7 @@ def run(cfg: Config, agent: str, *, task: str, inputs: dict, book_id: str, expec
     last_files: dict | None = None
     for attempt in (1, 2):
         result = claude.call(cfg, system_prompt=system, user_prompt=user + extra, stage=agent,
-                             book_id=book_id, model=model)
+                             book_id=book_id, model=model, tools=tools)
         try:
             files = parse.require_files(result.text, expect)
             last_files = files

@@ -1,7 +1,7 @@
 ---
 agent: critique
 stage: S5
-canon: [scene-checklist, chapter-checklist, failure-modes, engagement-techniques, chemistry-worksheet]
+canon: [scene-checklist, chapter-checklist, failure-modes, engagement-techniques, chemistry-worksheet, desi-folklore]
 ---
 # S5 Chapter critic
 
