@@ -1,0 +1,41 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 3.0,
+    "character_logic": 3.0,
+    "stakes_and_cost": 4.0,
+    "prose": 4.0,
+    "continuity": 0.0
+  },
+  "reasons": {
+    "reader_question": "The closing image is sharp: the sentry is pulled, the bar is down and Devan lies with his back to the door. The last line spells the question out instead of leaving the image to carry it.",
+    "change": "Knowledge and judgement both shift. Devan has tested her cover, seen the scars and watched her fear, and he ends by handing her an open window: he moves from guarding against her to testing her.",
+    "romance_movement": "The value shift lands cleanly ('An instrument did not tear a wedding cloth for a goat-boy'), and the reason is new: her care for Kannan breaks his model of her.",
+    "shown_chemistry": "The question-for-question sparring on the terrace and his silence over the bangle are responsive and good. Attraction itself is nearly absent; Devan only observes, and nothing physical between them registers.",
+    "character_logic": "The supper reasoning ('the people who sent her were watching') has no watcher at his own table to point to. Lifting the shutter bar himself, which breaks his 'Rain' ritual, is a visible tell to a woman who counts everything.",
+    "stakes_and_cost": "He opens his own throat to the person he believes was sent like his sister's killer, and he keeps silent at supper at the cost of letting her suffer. Both decisions cost him something.",
+    "prose": "The prose is concrete and controlled, and the Muthu scene is excellent. Flaws: the muddled line 'when she was no longer a woman', the meta line 'if she had asked him something', the 'He could have said' construction used twice, and several consecutive paragraphs opening with 'He'.",
+    "continuity": "Internal conflict: she wears 'plain cotton' on the terraces, then tears 'the gold-bordered edge of her kasavu... wedding cloth'. The bible and previous chapters are otherwise respected, and the sentry placement is correctly reconciled to ch 4."
+  },
+  "fixes": [
+    "At 'She wore plain cotton and the gold bangle' (continuity error): this contradicts the later 'gold-bordered edge of her kasavu... The cloth was wedding cloth'. Change the first line to 'She wore a day kasavu from her trousseau and the gold bangle'. Change 'The cloth was wedding cloth' to 'The cloth was trousseau cloth, gold thread and all', so the cost still lands.",
+    "At 'If Neela had been sent, the people who sent her were watching' (irrational behaviour / weak character logic): nobody at his table is plausibly watching, and he already knows she was sent. Replace it with his real reason. Stopping Janu mid-leopard would tell Neela that he links her to leopards, and that would spend the one advantage he holds. Keep the cost explicit: he wants to stop it for her sake and doesn't. On the shutters, either have him leave the bar where it always stands and pull only the sentry, or have him register that unbarring breaks his dusk ritual and accept the risk that she will read it.",
+    "At 'He would wait to see whether his patience would shield her or cage her' (stated reader question / narrated stakes): the closing lines announce the chapter's question. Cut the last two sentences. End on a concrete beat, such as the third slat ticking in the draught, or Devan counting the gap of thirty under the far wall with his eyes shut. Also rewrite 'He had seen it by lamplight three nights ago, when she was no longer a woman' as a plain line: he had seen the scars at the window on the wedding night, before the turning."
+  ],
+  "reader_question": "With the west sentry pulled and the shutter bar left down, will Neela take the open window to kill Devan tonight, and will his gamble protect her or expose her?",
+  "techniques_landed": [
+    1,
+    13,
+    25
+  ],
+  "new_facts_assessment": "All five listed facts are necessary and consistent. F060 (Muthu as former partner) fits F047 and the bible, which says Devan and Muthu both know about the raider captain. F064 correctly reconciles the outline's 'below' to ch 4's 'above'. The draft added several facts without listing them: Janu found Asha's body (this fits her guilt in the bible but should be logged), Devan spent two years at a border school, and Devan's father is dead. Most important, the draft brings forward Asha's parrot signature ('a small crooked parrot at the corner of the slate'). The secret map schedules that memory for ch 12 so it can pay off Neela's unease at the parrot newel in ch 10. Planting it here signposts the ch 10 clue early and weakens the planned connection; cut it or flag it to the outline. The 'captain on his knees' flash shows enough for clue C24 without pre-empting the ch 21 disclosure, which is acceptable.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Irrational behaviour to extend plot"
+  ],
+  "average": 3.25,
+  "minimum": 0.0,
+  "passed": false
+}
