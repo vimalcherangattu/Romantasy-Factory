@@ -4,40 +4,37 @@
     "change": 4.0,
     "romance_movement": 4.0,
     "shown_chemistry": 4.0,
-    "character_logic": 3.0,
+    "character_logic": 4.0,
     "stakes_and_cost": 3.0,
-    "prose": 3.0,
-    "continuity": 0.0
+    "prose": 4.0,
+    "continuity": 5.0
   },
   "reasons": {
-    "reader_question": "The closing image leaves a sharp question: what stair does she count, and who broke it. The planted 'It's broken' can rhyme with the parrot newel's beak, so the question is specific and fair.",
-    "change": "Devan moves from guarded to wanting her at his back, and each lead now holds the other's core wound. The change is clear but lives mostly in interior narration at the end.",
-    "romance_movement": "The reason for movement is new. She does not absolve him, she reads his restraint as fear, and he reads her name-collecting as grief. This is mutual disclosure at cost, as the beat asks.",
-    "shown_chemistry": "The kindi spout, his lighter 'They'd have put it on my side', her pouring tea nobody asked for and 'Don't do that again until I've finished this' are responsive and specific. The scene slips once into narrating the feeling ('He felt understood').",
-    "character_logic": "Devan holding still in the dark is smart and in character. Neela, a guild spy, names Vellan to the warden in a throwaway list, nine nights before Vellan comes, and Devan never asks who he is. Neither smart version lets that pass.",
-    "stakes_and_cost": "The skipped resin and itching nails register lightly. Chapter 20's ticking clocks (Vellan at the new moon, Ammu's one week) vanish entirely, so the day of tea costs nothing on the page. The ending realisation has no decision attached.",
-    "prose": "Concrete and mostly clean, with no banned phrases. But 'eight years' recurs about a dozen times. 'He felt understood' and 'a grief that had learned to be useful' explain the subtext the scene already shows. The early ladder rungs are summarised in a list rather than played.",
-    "continuity": "Fails on three points. Devan's 'Since Asha' tied to eight years of bad sleep conflicts with Asha dying six years ago (F023), as does 'grief' explaining eight years of wall-at-back sleeping. 'Using it for forty days' conflicts with the timeline (about day 25 of 40, F138/F172). 'First time in a fortnight' conflicts with the pebble starting the previous chapter."
+    "reader_question": "The closing image carries a specific question about what stair she counts and who broke it. The 'Eight nights to the new moon' line adds a second concrete gap Devan cannot read.",
+    "change": "Knowledge moves both ways: she learns the ford, he learns Seventeen and the meaning of her naming habit. He ends having chosen to want her at his back, which is a real shift from the guarded opening.",
+    "romance_movement": "The relationship moves for a new reason: being seen without absolution, and being named. It is not a replay of earlier refusals. The barriers (contract, Vellan, the word) stay offstage in his realisation, so the step costs less than it could.",
+    "shown_chemistry": "Strong responsive care: the kindi spout set for her left hand, his silence about her itching nails and her thanking look, her pouring tea nobody asked for. The final section leans on narrated realisation.",
+    "character_logic": "Devan's choice to answer instead of using the one refusal fits him, and so does holding still in the dark. Neela hiding the Vellan deadline while drawing out his worst secret fits her loyalty to Ammu, though a smart assassin eight nights from a bear is oddly relaxed about skipping resin.",
+    "stakes_and_cost": "His disclosure costs him, because he gives up the refusal he could have used. After that the chapter poses no next decision with a price, and her skipped resin is waved off ('I'd just be wet') even though the ache and Vellan's deadline are counting.",
+    "prose": "The prose is clean and concrete, with good rhythm and no banned phrases or AI tells over the limit. A few stated lines weaken it: 'It landed like cold water', 'It had a weight he could feel in his chest', 'She said it lightly, tossing it off', and the theme-as-thesis 'You've built a cage and called it discipline'.",
+    "continuity": "Consistent with the bible and the facts list: the ford at 24, Muthu's seventh-day request, the kindi, the eleventh-step turn, the pebble kept on a non-resin night, the kennels and the 'big man's shadow'. Minor softnesses are noted in new_facts_assessment, but nothing conflicts."
   },
   "fixes": [
-    "Continuity. At '\"Badly,\" he said. \"Eight years.\" / \"Since Asha.\" / \"Since Asha.\"' the dates break: Asha died six years ago (F023), so eight years of bad sleep is the ford, not Asha. Have Neela guess Asha and Devan correct her: \"Before Asha. Since the ford.\" That makes the correction the hook into her spar question. In the night section, change 'gone to sleep every night for eight years with his back to the wall... the shape the grief had taken' so the wall dates from Asha (six years) laid over the ford (eight). Replace 'I've been using it for forty days' with 'since the wedding'. Replace 'For the first time in a fortnight' with 'For the first night since he took up the stone', or cut the clause.",
-    "Character logic and stakes. At 'the kennels, and Vellan's shadow in the yard' the plot breaks: Neela hands the warden the enforcer's name nine nights before Vellan comes, and Devan lets it pass. Change it to 'a big man's shadow in the yard'. Alternatively, have her catch herself and spend her one 'I won't answer' on who he is, which makes the refusal cost something. Then, in the night section, give Neela one waking beat that restores the clock: she presses her itching nails and counts the nights to the new moon aloud, so the skipped resin and the coming bear sit under the tender ending.",
-    "Prose (Narrated-only chemistry). At 'He felt understood. It was a stranger thing than being forgiven' the scene narrates what it already shows. Cut both sentences and show it in action: he picks the bow back up and finishes the string he'd abandoned, or asks his next question without bargaining. Also cut 'Now he saw it for what it was, a grief that had learned to be useful' down to the birds image. Then reduce 'eight years' from about twelve uses to four, varying with 'since the ford' or 'every day since'."
+    "At 'He asked what she was afraid of at the House' the disclosure ladder collapses into summary. Technique 10 needs each rung to cost more, and here the escalation is told, not shown. Dramatise one middle rung as dialogue, best the eleventh-step question. Let her say 'I don't know' and show a physical tell (her lips moving on a count, her thumbnail on her nail). Have Devan note it and let it go. This plants the stair clue (C12) on the page before the night scene, so the sleep-counting reads as a retrievable clue rather than a fresh image.",
+    "At 'You've built a cage and called it discipline, and so have I' the series theme is stated as a thesis, which flattens the strongest exchange in the chapter (prose). Cut the line and 'I know the look. It's the one I wear.' Replace them with one concrete parallel she gives without explaining, for example 'I count the doors in every room I sleep in. Twenty years.' Let Devan connect it silently, which also delivers the beat's 'she sees his restraint as fear because hers looks the same'.",
+    "At 'There's nothing to hunt in this, and the scent's washed off the hill' the skipped resin costs nothing on the page, though the bible counts every bare night toward the ache and Vellan arrives at the new moon (stakes without depth). Make the cost visible: have her name it as another bare night, or show Devan counting the bare nights he has seen. Then turn 'Eight nights to the new moon' into a decision: he chooses not to ask, knowing he could, and it costs him a held question he will spend the next day. That gives the chapter a next decision with a price."
   ],
-  "reader_question": "What stair is Neela counting in her sleep, and what (or who) on it was broken?",
+  "reader_question": "What stair does Neela count down in her sleep, and what was broken on it?",
   "techniques_landed": [
     10,
     25,
-    13
+    13,
+    9
   ],
-  "new_facts_assessment": "The listed facts are necessary and consistent: the tack room, the captain details matching the secret map, the kindi payoff of F105, the resin skip justified by rain, and her age at taking matching the timeline. Several added facts are unlisted. (1) Asha counted stairs to keep the dark from filling in. This is plausible with 'terrified of the dark' but significant: it pushes Devan toward the stair connection the bible reserves for book 2, so it must be listed and tracked. (2) Raiu's mother is dead, and (3) Chinna has a bad hip: minor, but they must be registered. (4) The burned village held twelve dead, children among them: fine. (5) The 'one refusal, total' rule of the question game is a new mechanic that should be logged if it recurs. Neela naming Vellan to Devan is a knowledge transfer not in the outline or the knowledge map, and should be removed or listed.",
+  "new_facts_assessment": "Asha counting stairs is consistent with her fear of the dark and gives Devan's misreading a personal hook. It is close to too neat, so it should not recur as a signpost. The 'I won't answer' once-total rule is necessary and well used: Devan visibly declines to spend it. 'Eight nights to the new moon' is consistent with F172 if ch21 is the day after ch20; confirm the day count, because counted after midnight it could read as seven. Raiu's mother and Chinna's hip are harmless texture that serves the naming beat. There are also unlisted new facts that should go into new-facts.json. First, 'Neela' is a cover name and she had only the number Seventeen inside the House. This is significant for the series and must hold against any earlier chapter where Ammu or Chathu uses 'Neela'. Second, she no longer eats the jaggery-sesame sweets. Third, the burned village had twelve dead, including children, and the captain recited his deeds. Fourth, Janu's leopard story is 'the leopard that waits at the foot of the bed'. 'Answered to it for twenty years' is about 21 by the timeline (taken at 6, now 27). It is acceptable as her approximation, but 'twenty-one' would be safer. 'For the first night since he took up the stone' overstates: he took it up only the night before.",
   "content_rule_violation": false,
-  "failure_modes": [
-    "Narrated-only chemistry",
-    "Irrational behaviour to extend plot",
-    "Stakes without depth"
-  ],
-  "average": 3.12,
-  "minimum": 0.0,
-  "passed": false
+  "failure_modes": [],
+  "average": 4.0,
+  "minimum": 3.0,
+  "passed": true
 }

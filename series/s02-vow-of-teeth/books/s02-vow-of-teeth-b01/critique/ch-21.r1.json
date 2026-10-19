@@ -1,0 +1,40 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 4.0,
+    "stakes_and_cost": 3.0,
+    "prose": 4.0,
+    "continuity": 5.0
+  },
+  "reasons": {
+    "reader_question": "The closing image carries a specific question about what stair she counts and who broke it. The 'Eight nights to the new moon' line adds a second concrete gap Devan cannot read.",
+    "change": "Knowledge moves both ways: she learns the ford, he learns Seventeen and the meaning of her naming habit. He ends having chosen to want her at his back, which is a real shift from the guarded opening.",
+    "romance_movement": "The relationship moves for a new reason: being seen without absolution, and being named. It is not a replay of earlier refusals. The barriers (contract, Vellan, the word) stay offstage in his realisation, so the step costs less than it could.",
+    "shown_chemistry": "Strong responsive care: the kindi spout set for her left hand, his silence about her itching nails and her thanking look, her pouring tea nobody asked for. The final section leans on narrated realisation.",
+    "character_logic": "Devan's choice to answer instead of using the one refusal fits him, and so does holding still in the dark. Neela hiding the Vellan deadline while drawing out his worst secret fits her loyalty to Ammu, though a smart assassin eight nights from a bear is oddly relaxed about skipping resin.",
+    "stakes_and_cost": "His disclosure costs him, because he gives up the refusal he could have used. After that the chapter poses no next decision with a price, and her skipped resin is waved off ('I'd just be wet') even though the ache and Vellan's deadline are counting.",
+    "prose": "The prose is clean and concrete, with good rhythm and no banned phrases or AI tells over the limit. A few stated lines weaken it: 'It landed like cold water', 'It had a weight he could feel in his chest', 'She said it lightly, tossing it off', and the theme-as-thesis 'You've built a cage and called it discipline'.",
+    "continuity": "Consistent with the bible and the facts list: the ford at 24, Muthu's seventh-day request, the kindi, the eleventh-step turn, the pebble kept on a non-resin night, the kennels and the 'big man's shadow'. Minor softnesses are noted in new_facts_assessment, but nothing conflicts."
+  },
+  "fixes": [
+    "At 'He asked what she was afraid of at the House' the disclosure ladder collapses into summary. Technique 10 needs each rung to cost more, and here the escalation is told, not shown. Dramatise one middle rung as dialogue, best the eleventh-step question. Let her say 'I don't know' and show a physical tell (her lips moving on a count, her thumbnail on her nail). Have Devan note it and let it go. This plants the stair clue (C12) on the page before the night scene, so the sleep-counting reads as a retrievable clue rather than a fresh image.",
+    "At 'You've built a cage and called it discipline, and so have I' the series theme is stated as a thesis, which flattens the strongest exchange in the chapter (prose). Cut the line and 'I know the look. It's the one I wear.' Replace them with one concrete parallel she gives without explaining, for example 'I count the doors in every room I sleep in. Twenty years.' Let Devan connect it silently, which also delivers the beat's 'she sees his restraint as fear because hers looks the same'.",
+    "At 'There's nothing to hunt in this, and the scent's washed off the hill' the skipped resin costs nothing on the page, though the bible counts every bare night toward the ache and Vellan arrives at the new moon (stakes without depth). Make the cost visible: have her name it as another bare night, or show Devan counting the bare nights he has seen. Then turn 'Eight nights to the new moon' into a decision: he chooses not to ask, knowing he could, and it costs him a held question he will spend the next day. That gives the chapter a next decision with a price."
+  ],
+  "reader_question": "What stair does Neela count down in her sleep, and what was broken on it?",
+  "techniques_landed": [
+    10,
+    25,
+    13,
+    9
+  ],
+  "new_facts_assessment": "Asha counting stairs is consistent with her fear of the dark and gives Devan's misreading a personal hook. It is close to too neat, so it should not recur as a signpost. The 'I won't answer' once-total rule is necessary and well used: Devan visibly declines to spend it. 'Eight nights to the new moon' is consistent with F172 if ch21 is the day after ch20; confirm the day count, because counted after midnight it could read as seven. Raiu's mother and Chinna's hip are harmless texture that serves the naming beat. There are also unlisted new facts that should go into new-facts.json. First, 'Neela' is a cover name and she had only the number Seventeen inside the House. This is significant for the series and must hold against any earlier chapter where Ammu or Chathu uses 'Neela'. Second, she no longer eats the jaggery-sesame sweets. Third, the burned village had twelve dead, including children, and the captain recited his deeds. Fourth, Janu's leopard story is 'the leopard that waits at the foot of the bed'. 'Answered to it for twenty years' is about 21 by the timeline (taken at 6, now 27). It is acceptable as her approximation, but 'twenty-one' would be safer. 'For the first night since he took up the stone' overstates: he took it up only the night before.",
+  "content_rule_violation": false,
+  "failure_modes": [],
+  "average": 4.0,
+  "minimum": 3.0,
+  "passed": true
+}
