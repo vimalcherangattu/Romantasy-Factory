@@ -1,0 +1,41 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 3.0,
+    "stakes_and_cost": 3.0,
+    "prose": 3.0,
+    "continuity": 5.0
+  },
+  "reasons": {
+    "reader_question": "'How does she know the pass?' is specific and planted at the peak, with live side-questions (who dropped the rock, who fed six soldiers). The closing line only restates the gap and adds no new reveal, so the ending is soft after chapter 8's.",
+    "change": "Knowledge moves: the men are trained, fed and brought from the coast. The value shift from contempt to respect lands on the page ('laughing at the wrong end of it'). Power shifts a little, since he now owes her the route.",
+    "romance_movement": "The romance moves for a new reason: a true competence duet ('I'd have missed the boots entirely' / 'I'd never have found the husk'). The 'thief' banter shows mutual reading. Respect enters the enmity as the beat asks.",
+    "shown_chemistry": "Mostly shown through response: the girth check, him walking a half pace slower on purpose, the mouth-corner 'like a knot come loose', the callback laugh. One line tells the theme outright ('first time in twenty years... skill ended where hers began').",
+    "character_logic": "Neela, a guild assassin under cover, shows a guild-drilled skill and a hidden route to her target with no cover story and no thought of exposure. Devan, a day after reading the pass-seal clause, follows his suspected killer alone up a hidden path at an ambush site. He asks only once and shows no visible wariness.",
+    "stakes_and_cost": "The rockfall threat fades in one line ('had gone on'). Neela never weighs that his death here would also serve or ruin her contract. The 'one mile' human choice costs nothing, because she will take resin later that night anyway.",
+    "prose": "The prose is concrete and often quotable, with a strong hook and the langur silence. But 'like a man entering a church' breaks the world. 'The langurs started in the early afternoon' contradicts 'barking all morning'. Several runs of consecutive paragraphs open with 'She'. The resin paragraph is muddled.",
+    "continuity": "No conflict with the bible or the facts. The night count (32) fits ch 7 to 8. The 'Rain' callback and the wall-laugh callback are consistent. Janu's beast is never named leopard, which is correct. A few small facts were added without listing (see the new facts assessment)."
+  },
+  "fixes": [
+    "At '\"There's a path,\" Neela heard herself say.' there are two problems: irrational behaviour, and a threat that dissolves so technique 6 fails. First, add two or three short sentences of Neela's own calculation before she moves. A death in this gorge is no leopard kill in his chamber. Chathu's account stays open. Archers on that ledge would not spare the wife. Leading him out of the trap becomes a choice with a reason, not just her feet knowing. Second, keep the danger live during the climb: a stone ticks down from the rim, or a bowstring-shaped silhouette shows on the ledge she marked. Then replace 'The strangers, whoever they were, had gone on' with something they actually see or hear.",
+    "At 'It's two lines, close together, in thread that was waxed' Neela shows a guild-drilled skill to her target with no cover. A smart version of her would wrap it in the Chirayil story. Give her one line of plausible lie, such as watching porters' feet from the warehouse loft for her guardian. Then have Devan's answer show he has filed it, given what he read in the writ yesterday: a short 'Warehouse porters,' repeated flat, with no comment. This keeps both leads smart and adds dramatic irony.",
+    "At 'No ache would count tonight. One night did not matter.' the world-rule logic is muddled and the 'one mile' choice costs nothing. Either make clear she is not skipping resin, so the scene's charge is purely her being unarmed and human at dusk beside him, or attach a real cost. For example, reaching the fort after dark means smearing resin in a room he may enter, or missing Ammu's signal at the meeting stone. In the same pass, fix two lines. Replace 'like a man entering a church' with a world-native image, such as a man stepping down into the kalari pit. Fix 'The langurs started in the early afternoon' so it does not contradict 'barking all morning'. Finally, break the runs of consecutive paragraphs that open with 'She' in the resin and ride-home section."
+  ],
+  "reader_question": "How does Neela know a goat path over the Monkey Pass that appears in no map or scouting note she has ever read?",
+  "techniques_landed": [
+    1,
+    11
+  ],
+  "new_facts_assessment": "The listed facts are necessary and consistent. The goat path (C22) and waystation serve the beat. The six fed, coast-shod soldiers are a fair clue with no culprit named; they fit the treaty and Ittan threads without pre-empting ch 14. Kesu is harmless. The 32-night count is correct. Some facts are on the page but not listed. (1) Devan's dislikes include 'bells' and 'gratitude': not established in the continuity facts, so either cite the earlier chapter or cut them. 'Bells' also echoes the technique-9 canon example. (2) 'Her own guardian's accountant' walked out of songs: this treats her Chirayil cover as lived memory, so it needs listing or cutting. (3) A pepper-sprig milestone on the cart road: fine, but list it. (4) Eleven lamps on the wall: fine. (5) Real rain drops at ch 9 risk stealing the 'first storm of the monsoon' at the ch 15 midpoint; keep it to drops, as written, and do not escalate. (6) The resin is kept in a chest, not on her person: an acceptable change from F039, but note it. Technique 6 (Probable-but-Uncertain) does not land: the threat is stated and then dissolves off-page before any harm feels probable.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Irrational behaviour to extend plot",
+    "Stakes without depth"
+  ],
+  "average": 3.75,
+  "minimum": 3.0,
+  "passed": true
+}
