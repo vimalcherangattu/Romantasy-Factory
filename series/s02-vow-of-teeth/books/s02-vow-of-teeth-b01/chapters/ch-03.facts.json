@@ -1,0 +1,29 @@
+{
+  "facts": [
+    {
+      "category": "name",
+      "fact": "Gopan is the old keeper of the cistern chain and wheel, nineteen years in the post, who missed one hour in 'the fever year'.",
+      "why": "needed because the tour shows the hourly chain and Neela's habit is to learn every servant's name."
+    },
+    {
+      "category": "name",
+      "fact": "Bhaskaran is the sergeant at the padippura. Unni is a thin young guard whose mother sells salt fish in the lower village.",
+      "why": "needed because Neela collects guard names and rotations on the tour."
+    },
+    {
+      "category": "timeline",
+      "fact": "The day watch changes on the sixth clank of the cistern chain after dawn.",
+      "why": "needed because Neela collects guard rotations as part of her goal."
+    },
+    {
+      "category": "name",
+      "fact": "Pepper is Kannan's white goat, who bites.",
+      "why": "small texture detail for the goat-boy scene."
+    },
+    {
+      "category": "knowledge",
+      "fact": "Janu says Devan used to have a kalari partner and now trains alone, a gap of eight years.",
+      "why": "consistent with the bible's eight years without sparring and needed for the kalari stop on the tour."
+    }
+  ]
+}
