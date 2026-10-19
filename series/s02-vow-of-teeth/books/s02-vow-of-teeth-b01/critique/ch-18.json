@@ -1,0 +1,43 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 3.0,
+    "stakes_and_cost": 4.0,
+    "prose": 3.0,
+    "continuity": 0.0
+  },
+  "reasons": {
+    "reader_question": "Where is Kirri is sharp and specific, and the bells-cut-off anklet she 'never took off' makes the reader predict. The chapter then ends on interiority, not on that question, so the pull softens by the last page.",
+    "change": "Knowledge and relationship both move: Neela now holds a secret from Ammu, Ammu has been falsely reassured, and Neela has had her first unguarded joy in the fort. The value shift from loyal to lying lands on the page.",
+    "romance_movement": "The reason is new. Lightness appears for the first time, and it is explicitly bought by the lie at the stone. The cheat-back, the creased grin and the shared rap move them from wary allies to people who play.",
+    "shown_chemistry": "'You've done it four times. I have been counting' turns Neela's own habit back on her as delight, and his trestle cheat answers her elbow cheat in kind. The paragraph about the room blurring around a single point slides back toward narrated chemistry.",
+    "character_logic": "Neela's reason to lie is well built, because a second witness is 'a hole in the wall'. But the closing ledger calls 'nobody's seen' her 'first lie' after she has already lied to Ammu twice in the same scene. Ammu's guess that Neela is 'human, with him, in the bed' has no stated source.",
+    "stakes_and_cost": "The cost ledger is explicit and personal: Ammu's cold hand, her relieved laugh ('which was the worst of it') and the cup she asks to be marked tomorrow. Chathu's pressure, however, only repeats the 'counts double' threat from ch7.",
+    "prose": "Mostly clean and concrete, with no em dashes and no banned phrases, and 'broke like a plate' and 'went up like dry thatch' are good. Against that: the confusing 'Four words', the awkward 'The Valli I am says', the stock 'pause the length of a held breath', 'soft as a kiss', and a world-fell-away variant ('bright blur around a single point').",
+    "continuity": "'Ammu had never spoken hers in fourteen years' conflicts with the timeline. Ammu witnessed Neela's first turning eleven years before book 1 (Neela 16, Ammu 14). Nails already aching at sixteen nights also sits early against ch16 and ch17, which put the ache about a week away."
+  },
+  "fixes": [
+    "Continuity: 'Ammu had never spoken hers in fourteen years' contradicts the timeline, since Ammu witnessed Neela's first turning eleven years ago at age 14. Change it to 'in eleven years'. Also soften 'Her nails had begun to ache at the quick' to a warning sign that matches ch17's 'ache would start in a week', for example 'Her nails had begun to itch at the quick, the way they did before the ache.'",
+    "Character logic: 'That is the first lie I have ever told her' contradicts the earlier lies in the same scene ('To learn his sleep', 'He sleeps like a log'), which undercuts the chapter's central value shift. Change the ledger line to name what is new, for example 'That is the first lie I have told her to keep someone else safe', or rewrite the earlier answers as evasions Neela clocks as such. In the same scene, give Ammu a source for 'Why human, with him, in the bed?', such as Chinna's gate gossip that the bride was seen at the window at dawn in her sleeping cloth.",
+    "Prose and narrated chemistry: three spots need work. (a) 'Four words. Ammu would have them out of her' has no clear referent. Make it 'Devan has seen me. Three words.' or cut the count. (b) Rewrite 'For one breath the whole room was a bright blur around a single point' as a concrete responsive action, for example he turns his rapped knuckle up to show her the ladle mark, and she does the same. (c) Replace 'There was a pause the length of a held breath' and 'soft as a kiss' with specific sounds or images from the hall, and fix the awkward 'The Valli I am says' to 'Valli hears the whole fort talking.'"
+  ],
+  "reader_question": "If Kirri swore to send the anklet she never took off, and Chathu will only say she is 'where she wished to be', where is Kirri?",
+  "techniques_landed": [
+    15,
+    23,
+    2,
+    14
+  ],
+  "new_facts_assessment": "All six listed facts are necessary and consistent. The anklet with its bells cut off, 'never took it off', fits F029 and the ch26 payoff, and is a good fair clue (C09). The eleven letters echo the eleven sweets tins, which is pointed but earned. Seven wells is clear and needed. Devan at eight losing to Asha works, since she was four and 'cheated'. Sixteen nights follows ch17's seventeen. The white pebble is fine, though the text never names Kannan (only 'the goat-boy'). Several facts appear in the text but are missing from the list. (1) Neela and Ammu as children saw 'Vellan's bear-shape' stand over them in the yard. This is new, touches the ch26 bear-in-the-yard plant, and should be listed or cut. (2) 'Other girls went into the kennels', which implies Neela already knows members are caged as punishment. This sharpens the release-is-a-lie secret early and should be listed. (3) Neela's nails aching at sixteen nights, which needs reconciling with ch16 and ch17. (4) Ammu has been 'three weeks' at the inn, which is roughly consistent with ch7. (5) Chathu's 'twist of paper' is held out but never handed over or explained; a dangling object.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Narrated-only chemistry",
+    "Irrational behaviour to extend plot"
+  ],
+  "average": 3.25,
+  "minimum": 0.0,
+  "passed": false
+}
