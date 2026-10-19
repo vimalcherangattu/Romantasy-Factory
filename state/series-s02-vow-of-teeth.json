@@ -1,10 +1,15 @@
 {
   "series_id": "s02-vow-of-teeth",
   "title": "The Odiyan Contracts",
-  "status": "draft",
+  "status": "approved",
   "pen_name": "Anya Kalloor",
   "proposal": "20261019-1726/concept-1",
-  "books": [],
+  "books": [
+    "s02-vow-of-teeth-b01",
+    "s02-vow-of-teeth-b02",
+    "s02-vow-of-teeth-b03"
+  ],
   "created_at": "2026-10-19T17:42:07",
-  "updated_at": "2026-10-19T17:42:07"
+  "updated_at": "2026-10-19T17:42:11",
+  "approved_at": "2026-10-19T17:42:11"
 }
