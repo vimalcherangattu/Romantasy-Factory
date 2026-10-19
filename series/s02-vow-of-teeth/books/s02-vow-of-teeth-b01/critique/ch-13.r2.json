@@ -1,0 +1,43 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 3.0,
+    "stakes_and_cost": 4.0,
+    "prose": 4.0,
+    "continuity": 5.0
+  },
+  "reasons": {
+    "reader_question": "The beat question is sharp and on the page (he physically starts the word and stops it with his teeth), and the ending adds a second, more urgent one: what Neela will tell Ammu at the gate-bell.",
+    "change": "Value shift lands. Devan's guard moves from hidden habit to a bloody, bodily act. Neela misses her report, and Ammu's call means the guild is coming to the door.",
+    "romance_movement": "The reason is new on both sides. She weighs his death as the solution and lays it down. He bleeds to protect her. Neither knows what the other did, which is the right asymmetry at ch13.",
+    "shown_chemistry": "Mostly shown through response. His pulse jumps under her fingers. Her count becomes his rope. 'Do what she says.' She stays on the sill facing the room. The ending puts his hand a finger's width from her hair. Two lines lean on narration ('He thought he had known that about her already'; 'It was not the same look').",
+    "character_logic": "Devan's choices are sharp. Two dents. First, a leopard on a lamp-lit sill a yard from Janu reads as only 'eyes'. Second, Neela, who bought Janu a short errand, then sits in plain view facing the door. She also files a lie plus 'cat' plus a half-begun word without once recalling 'Rain' (F054).",
+    "stakes_and_cost": "Costs are real and personal. Devan has a bitten tongue. Neela has a missed report with Chathu's five-day-old threat behind it, and Ammu arrives by the gate-bell. Probable-but-uncertain death by fever is credible.",
+    "prose": "Concrete and rhythmic, with no banned phrases and few AI tells, and em dashes are within limit. Some lines are muddy: 'That was why he rode home on it', 'like a man being swept', 'she had perhaps that many mornings left to finish'. There are some consecutive 'He' paragraph openings and an expository guild-tongue gloss.",
+    "continuity": "Consistent with the witness rule, the turning, the shutters/father's rule (F102), the 29-night count, Chathu's message timing, the jackal call (F074/F082), Valli (F084) and the breath hitch (F083). No conflicts on the page."
+  },
+  "fixes": [
+    "At 'her gaze stuck on the two points of light and slid off again, as people's gaze does' (Convenient magic / Worldbuilding collapse): the room has a lit lamp and Janu crosses to within arm's length of a leopard, yet sees only eyes. The clause implies an unestablished glamour. Before Neela turns, have her pinch out the lamp ('took up the lamp' becomes 'set the lamp on the floor and pinched it'). Leave the sill lit only by the dying sky behind the animal, so Janu sees a black bulk and two lights. Cut 'as people's gaze does'.",
+    "At 'On the sill the cat settled and curled its tail' and the Neela scene's 'She had come up on the ledge to go' (Irrational behaviour to extend plot): Neela knows Janu is coming back with broth, yet she sits facing the door in full view. Add two sentences to her scene showing she knew the risk. She meant to be over the ledge before the door opened. The wrong breath caught her mid-step, and she chose to stay visible rather than drop out of sight. That turns the exposure into a cost she paid for him, not a lapse.",
+    "At 'A fevered man's kindness, she thought. He did not like Janu to worry.' and 'She thought nothing more of it. She didn't have room.' (Irrational behaviour / told dismissal): a woman who has already filed 'Rain' as his one untruth about the dark should almost connect this second dusk lie and the half-begun word. Have her line the lie up against 'Rain' for one beat, feel the shape of a pattern, then lose it to the sound of his breathing. Replace the two telling sentences with that action. The dramatic irony gets sharper and her intelligence stays intact. Also, while in this section, clarify 'she had perhaps that many mornings left to finish' to 'twenty-nine mornings left to finish'."
+  ],
+  "reader_question": "How long can Devan keep the word behind his teeth, and what will Neela tell Ammu when she comes to the gate this morning?",
+  "techniques_landed": [
+    13,
+    6,
+    9,
+    7
+  ],
+  "new_facts_assessment": "F126 (jackal call in the last dark; Neela reads 'tomorrow' as the coming day and expects Ammu as Valli by the gate-bell) is necessary. It drives the next chapter and is consistent with F074, F082 and F084. However, continuity.json still holds the superseded first-light version as F126 alongside the new one as F127. Retire the old entry so the ledger has one version. F127 (Devan's lie to Janu, which Neela hears) is necessary and consistent; it does not breach 'never lies to Neela'. Neela now holds two dusk-related untruths from him ('Rain' and this), and later chapters must honour that she noticed. Unlisted implied fact: 'her gaze stuck on the two points of light and slid off again, as people's gaze does'. This reads as a perception effect around a turned odiyan that the bible never establishes. Either cut it or make it purely physical (darkness, backlight).",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Convenient magic",
+    "Irrational behaviour to extend plot"
+  ],
+  "average": 4.0,
+  "minimum": 3.0,
+  "passed": true
+}
