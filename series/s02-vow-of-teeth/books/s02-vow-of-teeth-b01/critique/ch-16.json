@@ -4,39 +4,37 @@
     "change": 4.0,
     "romance_movement": 4.0,
     "shown_chemistry": 4.0,
-    "character_logic": 3.0,
-    "stakes_and_cost": 3.0,
-    "prose": 3.0,
-    "continuity": 0.0
+    "character_logic": 4.0,
+    "stakes_and_cost": 4.0,
+    "prose": 4.0,
+    "continuity": 5.0
   },
   "reasons": {
-    "reader_question": "The question is clear and specific: is the gift mercy or patience? The closing reread of the breath-hitch as a man who chooses to be heard awake sharpens it, but it escalates only a little beyond the beat's own question.",
-    "change": "Power moves for real. Devan gives up his only lever with no terms, and Neela spends a resin night human beside him for the first time since the reveal. Both states differ from the chapter's start.",
-    "romance_movement": "The reason is new. He names his own offer as the guild's leash and withdraws it, and her distrust is rational and drawn from Chathu's gifts. The cost to Devan of being disbelieved is barely shown, so 'costs them both' lands only on her side.",
-    "shown_chemistry": "Responsive action carries it: palms turned out and then dropped, 'I want the name. I'd be a liar to say otherwise', her watching his mouth 'the way she'd watch a lock for the click', and the sword hilt toward her. Banter is sparse but sharp ('That's a motto').",
-    "character_logic": "Devan's turn is earned and in voice. Neela's 'experiment' doesn't hold up. A human body can't be caged, so a resin-free night tests nothing about his silence, yet the text frames it as checking 'whether the floor held'. The 'If she was wrong' reasoning is also garbled.",
-    "stakes_and_cost": "The skipped resin carries a cost, but the ache maths is vague and possibly against the rules. Nothing touches the contract clock, Ammu or guild duty tonight, so the night costs little beyond a feeling of nakedness.",
-    "prose": "The prose is concrete and mostly clean. The reread runs as a catalogue of fragment paragraphs that open 'The shutters.', 'The hounds.', 'The cat.', 'The corridor lamp.', which breaks the consecutive-opener rule. 'He set...' and 'He had meant...' also open adjacent paragraphs. Muddled lines include 'Master. He had said it to himself once' and 'Even so, she could not have done anything different.'",
-    "continuity": "Three conflicts. (1) Ch15 ends with Neela seeing him light the pit lamps after first light and hearing him drill, but ch16 has him come down 'in the dark' and stand unable to take a step. (2) The west-stair vow was made six years ago, at Asha's death, yet 'He had drilled alone for eight years' because of it, which conflicts with the bible: he stopped sparring at 24 after the raider captain. That also pre-empts the ch21 disclosure. (3) 'Janu screaming below him' with fresh blood sits awkwardly with F066, where Janu found the body the morning after."
+    "reader_question": "The beat's question is sharp and one sentence long, and the closing counted hitch keeps it open. The second bare cup at the meeting stone adds a clear secondary question about Ammu.",
+    "change": "Power moves for real: Devan gives back his only lever with no terms. Neela opens the shutters to his word and sleeps human beside him, a new state even though her judgement is unchanged.",
+    "romance_movement": "The reason is new. He names his own offer as the guild's leash, and her distrust is rational rather than a replay of chapter 15's refusal. It costs her a missed report and an unfed night.",
+    "shown_chemistry": "Chemistry comes through responsive acts: palms turned out, 'the shutters are yours', lying as far away as the bed allows, and the hitch he lets her hear so she can count him. There is little physical awareness, but the beat doesn't call for heat.",
+    "character_logic": "Devan's self-recognition through the remembered courier letter is earned and in character. Neela's experiment is sound in spirit, but her stated logic ('A patient hunter would still have no use for a dark room') admits the test cannot tell mercy from patience, and she doesn't say what it can tell her.",
+    "stakes_and_cost": "Skipping resin is priced on the page: no report, a second empty cup, Ammu coming to ask, a night against the moon. She pays it knowingly.",
+    "prose": "The prose is clean, concrete, free of banned phrases and uses no em dashes. Flaws: 'colour of an old bruise' and 'rain hammered' are stock images. The fragment 'Or one conclusion, if you stood where she'd stood' doesn't attach to the previous sentence. Several consecutive paragraphs open with He/She ('He set the staff's butt' / 'He had meant'; 'She would pay it.' / 'She corked').",
+    "continuity": "Nothing conflicts with the bible or the facts: the hounds, Raiu and the unlit lamp, 'Rain', Janu's stories, nineteen nights, the earlier missed report and the border school age all match. There is one internal time slip ('last night' for a dawn offer), handled under fixes."
   },
   "fixes": [
-    "Fix continuity at \"He had come down in the dark as he did every dawn\" and \"He had drilled alone for eight years so he would never\". Ch15 has Neela watch him light the lamps after first light and hear him drilling. Change the opening to say he came down after leaving her, ran the forms by rote while she watched from the sill, and then stalled mid-form once the rain eased and the guild letter surfaced. Separately, keep the eight years tied to his unnamed old reason (the ch21 secret). Make the west-stair vow, six years ago, the moment he extended that rule to the word in his mouth. Change 'Janu screaming below him' to the morning Janu found Asha, to match F066.",
-    "Fix character logic at \"Three steps in a dark house, to see whether the floor held.\" (Irrational behaviour). A human Neela can't be caged, so a resin-free night tests nothing about his silence. Name what she is actually testing. She can lie human and unarmed with her back to a man who is awake and stronger, and see whether he uses the dark for anything else: moving the sword, touching her, reaching for her knife. Or she can test whether she herself can sleep in his presence. Also rewrite the garbled \"If she was wrong, she would lose her life\" passage. State which belief, if wrong, kills her (trusting him) and which costs only 'this' (distrusting an honest man), so her choice of the safe error reads as deliberate.",
-    "Fix stakes at \"a fever she would meet in nine days or ten\" and prose in the reread catalogue (\"The shutters.\" / \"The hounds.\" / \"The cat.\" / \"The corridor lamp.\"). Either give the running count of skipped nights against the full-moon rule, so the ache date follows from the bible, or replace the number with a concrete cost tonight: the meeting-stone report to Ammu goes unmade a second time and the guild clock tightens. Then recast the catalogue so consecutive paragraphs don't open on 'The'. Fold two items into one paragraph and lead others with Neela's action ('She had called it...', 'Fourteen hounds...')."
+    "In 'And last night he had sat on the edge of his own bed', the timing slips. The offer was made at first light (chapter 15, and 'This morning I offered you' later in this chapter). Change it to 'And at first light he had sat on the edge of his own bed, holding the one power he could not cut away, and put a price on it.'",
+    "In 'Then there was the cat. *The cat's been at the pepper store. The cat has earned a bowl.*', two problems. First, the quote misremembers chapter 15's line ('Someone should leave him a bowl of milk. He's earned it.'), so match it. Second, the reread misses the core Reinterpretation Callback (technique 20). 'The cat' let him speak of her every night, even in fever, without ever saying the one word that cages her. Add one sentence where Neela sees it: every 'cat' was the word he chose instead of the other one. This is the strongest proof in the fence and the one most worth a reader's gasp.",
+    "In 'A patient hunter would still have no use for a dark room tonight. A man who meant anything else might.', the logic of the experiment is muddled. As written, the test cannot answer mercy-or-patience, which weakens Neela's smartness. Rewrite it so she says plainly what the night can and cannot prove. It can't prove mercy. It can rule out the nearer danger: a hand, the sword, the knife. It can also show whether she can sleep with a witness at her back. Then fix the dangling fragment 'Or one conclusion, if you stood where she'd stood' to 'Or they were one other thing, if you stood where she'd stood.'"
   ],
-  "reader_question": "Is Devan's unconditional silence real mercy, or a hunter's patience saving the word for the dusk she is most useful caged?",
+  "reader_question": "Is Devan's gift of silence mercy, or a hunter's patience saving the word for when she is worth most caged?",
   "techniques_landed": [
     17,
     12,
-    20
+    20,
+    3
   ],
-  "new_facts_assessment": "F143 (the border-school letter): necessary and well used. It gives Devan a guild master's voice he has never heard in person, and it fits F041/F067 (age twenty, border school). Keep it. F144 (the west-stair vow): its purpose is good, but as written it conflicts with the bible's timeline. The vow is six years old and the eight years of solitary drilling come from the raider-captain killing. Either make the stair vow a hardening of an older vow, or cut the 'eight years' link. Also make the scene match F066, where Janu found Asha's body the morning after. F145 (the nineteen-nights count): this half is consistent with ch15's twenty. The 'ache in nine or ten days' half is unsupported. The bible says the ache comes after a full moon without resin, and the page doesn't establish enough skipped nights to put it ten days out. Either state the running tally (how many nights have counted against her) or drop the specific number.",
+  "new_facts_assessment": "The draft's new-facts file is empty, but the chapter adds or fixes several things. (1) The border-school courier letter and the second vow on the west stair are necessary, consistent and already logged as F143 and F144. (2) Janu is named as the source of the damp-madness theory. This is consistent with F103, which lists the theory without an owner, but it should be logged. (3) At dusk without resin, Neela feels a faint pull at the throat and a burn in her scars. This is a new texture of the Turning that the bible doesn't state. It is plausible and useful as the felt cost of a human night, but it must be logged so later chapters stay consistent. (4) Devan sets the sword down hilt-toward-her again at night. In chapter 15 it was left on the floor, so he must have lifted it during the day. This is fine, but one clause would help. (5) Gopan runs a wager on the warden standing in the pit. This is harmless texture. Log items 2 to 4.",
   "content_rule_violation": false,
-  "failure_modes": [
-    "Irrational behaviour to extend plot",
-    "Repetitive tension"
-  ],
-  "average": 3.12,
-  "minimum": 0.0,
-  "passed": false
+  "failure_modes": [],
+  "average": 4.12,
+  "minimum": 4.0,
+  "passed": true
 }
