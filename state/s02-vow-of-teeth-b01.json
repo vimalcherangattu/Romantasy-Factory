@@ -10,7 +10,7 @@
   ],
   "chapters": {
     "01": {
-      "status": "continuity-fix",
+      "status": "revised",
       "revisions": 0,
       "scores": {
         "reader_question": 4.0,
@@ -24,7 +24,7 @@
       },
       "average": 3.62,
       "flags": [],
-      "words": 2401,
+      "words": 2608,
       "minimum": 3.0,
       "continuity_fixes": [
         "Ch 1 says Kettamala has 'one gate and a hundred and some soldiers'. Ch 24 and ch 29 give the garrison as sixty, and ch 14 uses an east postern, which is a second gate. FIX: In ch 1, change 'A fort with one gate and a hundred and some soldiers' to 'A fort with one great gate and sixty-odd soldiers'.",
@@ -1206,9 +1206,13 @@
     {
       "at": "2026-10-19T23:11:16",
       "event": "done: S7 continuity"
+    },
+    {
+      "at": "2026-10-19T23:12:55",
+      "event": "done: S6 revise ch 1"
     }
   ],
-  "updated_at": "2026-10-19T23:11:16",
+  "updated_at": "2026-10-19T23:12:55",
   "midpoint_chapter": 16,
   "continuity_attempts": 1
 }
