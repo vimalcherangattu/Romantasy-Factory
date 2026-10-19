@@ -4,40 +4,36 @@
     "change": 5.0,
     "romance_movement": 4.0,
     "shown_chemistry": 4.0,
-    "character_logic": 3.0,
+    "character_logic": 4.0,
     "stakes_and_cost": 4.0,
-    "prose": 3.0,
+    "prose": 4.0,
     "continuity": 0.0
   },
   "reasons": {
-    "reader_question": "The closing image of the man in the pit, 'practising or waiting', makes the beat's question concrete. A reader can state it in one sentence and carries it out.",
-    "change": "This is a full midpoint shift. Neela goes from hidden to seen, learns she has a third witness and has been read as 'sent', and a bargain now sits on the table and has been refused.",
-    "romance_movement": "The reason is new: secrecy is replaced by an open leash she refuses on principle. 'I want you fed' complicates the master reading without undoing it. It loses a point because Devan's motive for revealing himself tonight is left blank.",
-    "shown_chemistry": "Attraction is shown through action. He keeps his hands open and still, looks at the third slat while she dresses, his eyes track the last strand of fur, and he passes her 'at a respectful distance'. Nothing narrated.",
-    "character_logic": "Neela's refusal and her reading of 'That is fair' are sharp. But Devan sits up dressed with a lamp lit on this one night after twenty of feigned sleep, and the chapter never gives or hints at why. Neela, who asks questions to avoid answering them, never asks 'Why tonight?'",
-    "stakes_and_cost": "Refusing costs her the only protection she has been offered, and the offer is stated as once-only. Her life now sits in his mouth every night of the twenty left, with the cage named and concrete.",
-    "prose": "The prose is strong and concrete in the turning sequence. It is let down by stock similes ('like a blade', 'dry as ash', 'like a dropped roof'), a run of 'She could not' sentences, a floor image repeated from ch 14, and narration that explains her best line after she says it.",
-    "continuity": "'Twenty dawns in which she had come in over this very sill' and Devan's 'awake for all of them' conflict with earlier chapters. She turned back in the cleft in ch 14 (and per F142 has been using the cache). Devan was on patrol that dawn. She skipped resin the night of ch 11 (F104)."
+    "reader_question": "The ending names the gap: practising or waiting. Will the man who now holds the word openly use it? Specific and well set up, though not yet sharpened by a ticking element tied to the next dusk.",
+    "change": "A clean midpoint state change. Hidden becomes seen, the twenty-day secret breaks, a bargain is offered and refused, and the power positions are fully re-set by the last line.",
+    "romance_movement": "The relationship changes for a new reason. He is a witness, and his offer makes him read as one more master, with Chathu's jaggery tin as the explicit parallel. The lit lamp and 'I want you fed' keep a counter-reading alive without undoing the leash.",
+    "shown_chemistry": "Chemistry comes through responsive action: the lamp left lit for someone coming in from weather, looking away at the third slat, open hands while she holds a blade, and feeding her into the post-turning hunger. None of it is narrated as attraction.",
+    "character_logic": "Both smart versions mostly hold. His bargain fits his false belief and goal, and her refusal is airtight. Her freeze with the knife is under-reasoned, though: 'a man dead by his own bed' gestures at why a knifing ruins a leopard-kill contract but never states it.",
+    "stakes_and_cost": "Refusing costs her the only offered guarantee with twenty nights left. She leaves with her life in another person's mouth. His cost (he loses his one lever) is stated but light.",
+    "prose": "Concrete and well paced, with a strong hook, the dry tom-cat humour and no banned phrases or AI tells. Minor echo ('a hand's width' twice in adjacent paragraphs), consecutive same-word paragraph openings, and two self-judging tags in quick succession ('a coward's question', 'a stupid thing to say').",
+    "continuity": "Conflict with F017 and F106. The warden's shutters face west and the kalari pit lies below the east wall, yet Neela, sitting on the west sill, watches lamps bloom 'at the rim of the pit'. Everything else checks: twenty nights and twenty days, the hitch (F083), the milk line, the sword (F038), the cache (F129, F142), the ages and years."
   },
   "fixes": [
-    "Continuity: 'Twenty dusks. Twenty dawns in which she had come in over this very sill' and Devan's 'I have been awake for all of them' contradict ch 11 (resin skipped), ch 14 (she turned back in the cleft while he rode the narrows at dawn) and the cache habit in F142. Rewrite her count as twenty dusks at this window and most of the dawns, for example 'Every dusk at this window. Every dawn she had come home to it', with a beat for the cleft mornings. Change his line to 'I have been awake for every one you made here.'",
-    "Character logic gap: at 'A lamp was lit. That was the first wrong thing' the chapter never explains why Devan breaks twenty days of feigned sleep on this night. Add a short exchange after 'How long?': she asks 'Why tonight?' and he answers with his exact, comfortless literalism, for example 'The rain. You were late. I wanted you to come in to a lit room.' The reveal should be caused by her lateness in the storm, which also seeds the care she cannot yet read.",
-    "Prose and Endless monologue: cut the explanatory paragraph that begins 'She had needed a moment to find the sentence', which tells the reader what her line meant right after it lands. Keep at most 'She had been owned for twenty-one years by a man who called it mercy.' Also replace the stock similes 'the cold went through her like a blade' and 'Her mouth was dry as ash'. Replace 'the whole of it fell open like a bad floor', which repeats ch 14's 'put her own foot through a floor', with an image tied to this room, such as the third slat or the sword hilt."
+    "At 'a lamp bloomed in a niche at the rim of the pit', fix the continuity error. The west-facing sill cannot see the kalari below the east wall (F017, F106). Make it sound only: the scuff of bare feet and the slap of a palm on packed earth carried round the wall under the rain, or the sesame-oil smell coming up the passage after him. Keep the closing line's 'practising or waiting' ambiguity built on what she hears.",
+    "At 'She did not lower the knife. She did not lift it, either.', fix the under-motivated hesitation (character logic). Add one or two concrete lines of why the blade stays still: a warden knifed in his own bed at first light, with his bride in the room, is no leopard kill. Her contract fails, she hangs or runs, and Chathu reads her page anyway. Keep the private, unadmitted reason (his open hands) as the second, smaller beat.",
+    "At 'I need the man, and I'm giving you the only thing', strengthen technique 15 so his side is not a strawman. Give Devan one literal line of the stake behind the ask, such as the coast villages before the pass closes, the boy whose father died under the shelf, or Asha's 'need a second'. Then in prose, remove the echo of 'a hand's width' (ledge, then shutter), cut one of the back-to-back self-judging tags ('a coward's question' or 'a stupid thing to say'), and vary the consecutive paragraph openers 'She cast… / She gave up' and 'He got to his feet… / He passed her'."
   ],
-  "reader_question": "Now that Devan holds the word openly and she has refused his price, will he ever speak it, and is his patience a hunter's or something else?",
+  "reader_question": "Now that Devan holds the word openly and she has refused his price, will he speak it, or is his silence something other than a hunter's patience?",
   "techniques_landed": [
-    12,
-    16,
     3,
-    15
+    12,
+    16
   ],
-  "new_facts_assessment": "F142 (she skips the cache, misjudges the hour and runs for the ledge) is necessary. It causes the beat by putting her on the ledge half-turned, and the misjudgement comes from the storm hiding the stars, not from coincidence. It is consistent with F129. It does, however, imply she normally turns back at the cleft, and that makes the chapter's own 'twenty dawns over this very sill' line false. Keep F142 and fix the count. The guild knife under the mattress (F140) is fine. It is planted as hers and used plausibly.",
+  "new_facts_assessment": "The draft's new-facts list is empty, but the chapter adds facts. Some already sit in continuity as F138 to F142: the storm timing, the couriers, the knife under the mattress, the oath on Asha's name and the skipped cache. These are consistent and necessary. Unlisted additions: Chathu wrote her page in resin-ink in a locked room on the day of her first turning (consistent and useful), and Neela has heard Devan's dawn drill in her sleep without recognising it. The second does not contradict F078 but should be logged. The view of the pit from the west window is a geographic error, not a valid new fact. Technique 15 is only partial: Devan's legitimate value (the villages, Raman's boy, Asha) is implied rather than voiced, so the collision reads more as self-preservation versus freedom.",
   "content_rule_violation": false,
-  "failure_modes": [
-    "Irrational behaviour to extend plot",
-    "Endless monologue"
-  ],
-  "average": 3.38,
+  "failure_modes": [],
+  "average": 3.62,
   "minimum": 0.0,
   "passed": false
 }
