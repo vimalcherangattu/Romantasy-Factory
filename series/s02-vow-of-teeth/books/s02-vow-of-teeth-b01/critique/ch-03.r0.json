@@ -1,0 +1,42 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 3.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 3.0,
+    "character_logic": 3.0,
+    "stakes_and_cost": 3.0,
+    "prose": 4.0,
+    "continuity": 5.0
+  },
+  "reasons": {
+    "reader_question": "The last line gives a clear question: did he hear the slat, and is the bar a habit or a test? Neela's muddled reasoning about the bar blurs the 'trap' half of it.",
+    "change": "Two things change. She learns he won't lie, and she finds a physical obstacle. But the chapter never says plainly why the bar blocks the kill, so the shift from 'confident' to 'blocked' is felt more than understood.",
+    "romance_movement": "The movement is new and specific. A man with power over her who leaves 'no hole' scares her more than a liar would, because he will notice her lies. The sky-is-green game proves both of them read people well.",
+    "shown_chemistry": "The sparring is responsive and lively, and 'More, lately' is a good buried kindness. But there is no physical awareness of him anywhere, and the key realisation comes as a summary paragraph ('This man left no hole') instead of being acted out.",
+    "character_logic": "She left the bar off last night and he said nothing. That undercuts her conclusion that leaving it off tonight would make him ask. 'It should have made him easier to kill' is also a non sequitur for a professional.",
+    "stakes_and_cost": "Re-barring costs her strength, and it puts her inside the room at dawn while shaking. The emotional cost of the choice is thin, and the reader has to work out alone that an inside bar points to the wife.",
+    "prose": "Concrete, short, sensory, and clean of banned phrases and AI tells. There are smaller flaws: 'dry crack' appears three times (plus once in ch2), 'clean' echoes four times, two pairs of consecutive paragraphs open with 'She', there is one 'She told herself' cliché, and one authorial wink.",
+    "continuity": "Consistent with the bible and ch2: eleven years of turnings, bar left propped after the ch2 dawn, eight years without a partner, Raiu at the door, the third clank after middle watch, and Devan shutters at dusk from the second night. There is one internal wording slip ('This morning... at dusk'), flagged in the fixes."
+  },
+  "fixes": [
+    "Fix the bar logic (Irrational behaviour to extend plot, plus a timeline slip) in 'Last night she had come in at dawn, pulled the shutters to'. Rewrite the paragraph so the sequence is clear: she left the bar propped yesterday dawn; he found it propped and said nothing; tonight he barred it himself at dusk. Replace 'This morning it had been in its brackets again' with 'Tonight he had barred it himself.' Then let her reason that one unbarred morning is carelessness and two is a pattern a man like this would ask about. This makes re-barring a deduction instead of a contradiction, and it sharpens the habit-or-trap question.",
+    "Cut the POV intrusion (Contrived delays, an authorial wink) at 'and she did not think to wonder why.' Close third on Neela can't flag what she fails to notice. Replace it with a concrete beat she observes and misreads. For example, he looks at the empty rice leaf in her hand, nods once and turns back to the vines, and she files it as a husband's indifference. The dramatic irony then lives in the action.",
+    "Make the obstacle and the attraction concrete at 'It should have made him easier to kill.' That line is a non sequitur. Replace it with her real inference: a room barred from inside, with a guard at the door, turns a 'leopard kill' into a wife's kill, because only someone inside could lift the bar. Give that inference to the dusk scene, so the closing paragraph names it as the blocked route. In the terrace scene, add one physical, responsive beat tied to his honesty (shown chemistry, technique 9). For example, she catches herself watching his hands as he weighs her question, and she steps back. While revising, cut two of the three 'dry crack' uses and two of the 'clean' echoes."
+  ],
+  "reader_question": "Did Devan hear the bar go home at dawn, and is his barred window a sleeper's habit or a test she has just failed?",
+  "techniques_landed": [
+    1,
+    9,
+    13
+  ],
+  "new_facts_assessment": "All five listed facts are necessary or harmless and fit the bible.\n\nGopan, Bhaskaran and Unni express Neela's naming habit, and Unni's fish-selling mother pays off well in the Muthu beat. The sixth-clank day watch sits beside F037 without conflict. Pepper the goat is texture only. Janu's line about a former partner fits F032 and the ch21 disclosure.\n\nThe draft also adds facts it did not list:\n- Kannan carried the wedding garland.\n- The upper-wall guards cross every hundred and ten steps.\n- A guard stands outside the chamber door at night, which is consistent with Raiu.\n\nAdd the first two to new-facts.json. Watch the 'former partner' so a later chapter doesn't make it Asha by accident, unless that is intended.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Irrational behaviour to extend plot",
+    "Narrated-only chemistry"
+  ],
+  "average": 3.62,
+  "minimum": 3.0,
+  "passed": true
+}
