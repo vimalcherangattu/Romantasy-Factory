@@ -1,0 +1,42 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 3.0,
+    "stakes_and_cost": 4.0,
+    "prose": 4.0,
+    "continuity": 5.0
+  },
+  "reasons": {
+    "reader_question": "The exit question is specific and earned: he has decided to offer the bargain, so the reader wants to know the terms and how she will take them. Neela's white face at the broken-beak line and Muthu's half-breath sharpen it.",
+    "change": "Two real shifts. Devan moves from seeing a tool to seeing a will. The wax match proves the same seal-mark ran from Asha's time to now, so the conspiracy is six years deep.",
+    "romance_movement": "The reason for movement is new. This is his first true disclosure, and her restraint at 'I won't answer that' earns his trust. Docked because the ladder runs one way: she gives nothing back, which suits the beat but holds the rung at half height.",
+    "shown_chemistry": "The chemistry is shown through action. He covers his face when he laughs, she agrees 'Hard to live beside' gravely, and his knee ends up near hers without his noticing he crossed the floor. 'He knew exactly why' edges into narration.",
+    "character_logic": "Devan has just read 'Tell nobody at the gate' and matched the wax that killed his sister. Hours later he watches an unmarked letter leave at the gate and waves it off on Muthu's honest face, with no pause at all. The beat requires belief, but a smart Devan would notice and then choose to believe.",
+    "stakes_and_cost": "The cost of the next decision is named in his own terms: holding the word over her is what the guild does, and he turns it over anyway. The reader also sees what his disclosure costs Neela, which he cannot see.",
+    "prose": "Concrete and well voiced: the slate ghost, the clove under camphor, the pots taking a beating. Against that, 'six years' recurs about nine times. The closing section re-argues the opening's tool-versus-will logic almost line for line.",
+    "continuity": "Consistent with the bible and the continuity facts: Asha 22 at death and four years younger, Janu finding the body, council wax colour and clove, F091's three seals, Sudhi, Muthu's monthly letter, the shutter bar at dusk, and 'I won't answer that'."
+  },
+  "fixes": [
+    "In the gate scene ('For half a breath he said nothing at all'), Devan's belief reads as obliviousness (Irrational behaviour to extend plot), coming hours after Asha's 'Tell nobody at the gate'. Have Devan register the plain seal and the gate in one sentence and test it against his rule about Muthu. Use the bible trait that Muthu goes quiet when he lies: Devan thinks 'Muthu lies quiet, and this was the loudest laugh on the wall' and believes him. The reader has just seen the half-breath of quiet, so the irony lands and Devan stays smart.",
+    "Cut 'six years' to three or four uses (it appears in 'dark in there six years', 'under six years of dust', 'Six years.', 'in that room in six years' twice, and 'killed six years ago'). Keep it at the token match and Asha's death. Replace the rest with concrete markers such as 'since the rains she died', or drop them, and break up the repeated phrase 'that room in six years'.",
+    "In the final section ('He had been looking at the cat for ten days'), the paragraph restates the opening's tool-to-will argument nearly verbatim. Cut it, and let the found note plus the image of the bar knocking carry the decision. Use the saved words to make the bargain's two sides concrete in one line (his silence; her buyer's name), so the exit question is sharper. In the same pass, change 'The same hand had pressed the same seal' to 'One of three seals, then and now', to match F091."
+  ],
+  "reader_question": "What will Devan ask Neela for in his bargain, what will he offer, and what does her stricken face at Asha's mended parrot mean?",
+  "techniques_landed": [
+    13,
+    11,
+    25,
+    10
+  ],
+  "new_facts_assessment": "Most new facts are necessary and consistent. Asha's room, the slate (F063/F110), the parrot notes, the first token and the withheld last note are all required by the beat. One adjustment: the draft adds 'Unni on the slate now holds the gate'. Unni must have been a recruit nine years ago yet is still a 'thin young guard' in ch3, which is workable at about 25, but keep his age consistent. The line 'The same hand had pressed the same seal' overstates F091: a match narrows it to one of three boxes or a copy, so phrase it as Devan's inference, not fact. Muthu's mother in Kodiyur and the grey unmarked seal are new and acceptable. Track them, because book 2 ch9 must explain the grey wax. The weekday 'Thursday' introduces named weekdays to Varanad. Flag it or replace it with 'the seventh day' to match ch11. Secret-map caution: Devan has now tied Asha's parrot to the west-stair newel in Neela's hearing. Her dread is on-beat, but later chapters must keep her from concluding it was this fort before book 2 ch16.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Irrational behaviour to extend plot"
+  ],
+  "average": 4.0,
+  "minimum": 3.0,
+  "passed": true
+}
