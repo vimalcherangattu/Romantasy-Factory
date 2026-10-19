@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{TITLE}}</title>
+<meta name="description" content="Romantasy by {{PEN_NAME}}: dangerous worlds, slow-burn love, every book a complete story.">
+<link rel="canonical" href="{{SITE_URL}}">
+<style>
+  :root { --ink: #1d1a24; --paper: #f7f2ea; --accent: #7a2e3a; --muted: #6b6470; }
+  @media (prefers-color-scheme: dark) { :root { --ink: #efe8f2; --paper: #16131b; --accent: #e0a3ae; --muted: #a59eab; } }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--paper); color: var(--ink); font: 18px/1.6 Georgia, "Iowan Old Style", serif; }
+  header, main, footer { max-width: 860px; margin: 0 auto; padding: 0 16px; }
+  header { display: flex; justify-content: space-between; align-items: baseline; flex-wrap: wrap; gap: 8px; padding-top: 28px; }
+  header a.name { font-size: 28px; letter-spacing: .04em; text-decoration: none; color: var(--ink); }
+  nav a { margin-left: 16px; color: var(--muted); }
+  h2 { font-size: 26px; margin-top: 48px; }
+  .book { display: grid; grid-template-columns: 160px 1fr; gap: 24px; margin: 28px 0; }
+  .book img { width: 160px; border-radius: 4px; box-shadow: 0 6px 18px rgba(0,0,0,.25); }
+  @media (max-width: 560px) { .book { grid-template-columns: 1fr; } .book img { width: 140px; } }
+  .buy { display: inline-block; background: var(--accent); color: var(--paper); padding: 10px 18px; border-radius: 4px; text-decoration: none; }
+  .soon { color: var(--muted); font-style: italic; }
+  .cta { margin: 32px 0; }
+  footer { color: var(--muted); font-size: 14px; padding: 48px 16px; }
+  a { color: var(--accent); }
+</style>
+</head>
+<body>
+<header>
+  <a class="name" href="index.html">{{PEN_NAME}}</a>
+  <nav><a href="index.html">Books</a>{{NAV_BONUS}}<a href="about.html">About</a></nav>
+</header>
+<main>
+{{BODY}}
+</main>
+<footer>
+  © {{PEN_NAME}}. Books are written with AI assistance and edited by the publisher, as disclosed on each Kindle listing.
+</footer>
+</body>
+</html>

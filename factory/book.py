@@ -122,8 +122,12 @@ def next_step(cfg: Config, book: dict) -> Step | None:
             return (f"S8 line edit ch {n}", lambda c, b, n=n: step_line_edit(c, b, n))
     if "S9" not in done:
         return ("S9 summary", step_summary)
+    if book["number"] == 1 and cfg.get("reader.magnet", True) and not magnet_path(cfg, book).exists():
+        return ("bonus story", step_magnet)
     if "S10" not in done:
         return ("S10 package", step_package)
+    if cfg.get("auto.beta_reader", True) and "beta_read" not in done:
+        return ("beta read", step_beta_read)
     if "review" not in done:
         return ("review sheet", step_review)
     return None
@@ -487,7 +491,10 @@ def step_package(cfg: Config, book: dict) -> None:
             errs = validate.metadata(cfg, json_text(files["metadata.json"], "metadata.json"))
         except OutputError as exc:
             errs = [str(exc)]
-        return errs + validate.blurb(cfg, files["blurb.md"])
+        errs += validate.blurb(cfg, files["blurb.md"])
+        if not files["launch-email.md"].lstrip().lower().startswith("subject:"):
+            errs.append("launch-email.md must start with 'Subject: ...'")
+        return errs
 
     next_entry = series_entry(cfg, book, book["number"] + 1)
     try:
@@ -502,7 +509,8 @@ def step_package(cfg: Config, book: dict) -> None:
                 "summary.md": bdir(cfg, book) / "summary.md",
                 "chapter-01.md": chapter_path(cfg, book, 1),
             },
-            book_id=book["book_id"], expect=["metadata.json", "blurb.md", "cover-prompt.md", "teaser.md"],
+            book_id=book["book_id"],
+            expect=["metadata.json", "blurb.md", "cover-prompt.md", "teaser.md", "launch-email.md"],
             validator=check,
         )
     except agentrun.StageFailed as exc:
@@ -516,6 +524,98 @@ def step_package(cfg: Config, book: dict) -> None:
     for problem in result.get("problems", []):
         book["flags"].append(f"package: {problem}")
     _done(book, "S10")
+
+
+# ---------- reader magnet (M9) ----------
+
+def magnet_path(cfg: Config, book: dict) -> Path:
+    return sdir(cfg, book) / "magnet" / "bonus.md"
+
+
+def step_magnet(cfg: Config, book: dict) -> None:
+    lo, hi = cfg.get("reader.magnet_min_words", 5000), cfg.get("reader.magnet_max_words", 10000)
+
+    def check(files):
+        errs = []
+        words = word_count(files["bonus.md"])
+        if not lo <= words <= hi:
+            errs.append(f"bonus story has {words} words; write {lo} to {hi}")
+        try:
+            json_text(files["bonus-meta.json"], "bonus-meta.json")
+        except OutputError as exc:
+            errs.append(str(exc))
+        return errs
+
+    try:
+        files = agentrun.run(
+            cfg, "magnet",
+            task=f"Write the free bonus story for this series ({lo} to {hi} words).",
+            inputs={
+                "series.json": sdir(cfg, book) / "series.json",
+                "bible.md": sdir(cfg, book) / "bible.md",
+                "continuity.json": sdir(cfg, book) / "continuity.json",
+                "book-1-summary.md": bdir(cfg, book) / "summary.md",
+            },
+            book_id=book["book_id"], expect=["bonus.md", "bonus-meta.json"], validator=check,
+        )
+    except agentrun.StageFailed as exc:
+        if not exc.files or "bonus.md" not in exc.files:
+            raise BookBlocked(f"bonus story output malformed twice: {exc}") from exc
+        files = exc.files
+        book["flags"].append(f"bonus story check: {exc}")
+    mdir = magnet_path(cfg, book).parent
+    atomic_write(mdir / "bonus.md", files["bonus.md"])
+    meta = json_text(files.get("bonus-meta.json", "{}")) if files.get("bonus-meta.json") else {}
+    write_json(mdir / "bonus-meta.json", meta)
+    problem = package.bonus_epub(cfg, book["series_id"], meta)
+    if problem:
+        book["flags"].append(f"bonus story: {problem}")
+
+
+# ---------- beta reader ----------
+
+def step_beta_read(cfg: Config, book: dict) -> None:
+    count = book["chapter_count"]
+    mid = book.get("midpoint_chapter") or count // 2
+    picks = sorted({1, 2, mid, *range(max(1, count - 2), count + 1)})
+    crit = {n: v.get("average") for n, v in book["chapters"].items()}
+
+    def check(files):
+        try:
+            v = json_text(files["verdict.json"], "verdict.json").get("verdict")
+        except OutputError as exc:
+            return [str(exc)]
+        return [] if v in ("approve", "revise") else ["verdict must be 'approve' or 'revise'"]
+
+    try:
+        files = agentrun.run(
+            cfg, "beta_reader",
+            task=f"Read this book's opening, midpoint and ending and write your verdict and notes. "
+                 f"Chapters included: {picks} of {count}. Critic averages per chapter: {json.dumps(crit)}",
+            inputs={
+                "outline.json": bdir(cfg, book) / "outline.json",
+                "blurb.md": bdir(cfg, book) / "package" / "blurb.md",
+                "book-check.json": bdir(cfg, book) / "book-check.json",
+                "chapters.md": "\n\n".join(read_text(chapter_path(cfg, book, n)) for n in picks),
+            },
+            book_id=book["book_id"], expect=["verdict.json", "beta-notes.md"], validator=check,
+        )
+    except agentrun.StageFailed as exc:
+        raise BookBlocked(f"beta reader output malformed twice: {exc}") from exc
+    verdict = json_text(files["verdict.json"])
+    rounds = book.get("beta_rounds", 0)
+    notes_path = bdir(cfg, book) / f"beta-notes-{rounds + 1}.md"
+    atomic_write(notes_path, files["beta-notes.md"])
+    write_json(bdir(cfg, book) / f"beta-verdict-{rounds + 1}.json", verdict)
+    book["beta"] = {"verdict": verdict.get("verdict"), "predicted_rating": verdict.get("predicted_rating"),
+                    "summary": verdict.get("summary", ""), "notes": str(notes_path.relative_to(cfg.paths.root))}
+    if verdict["verdict"] == "revise" and rounds < cfg.get("auto.beta_revision_rounds", 1):
+        book["beta_rounds"] = rounds + 1
+        book["revision_round"] = book.get("revision_round", 0) + 1
+        book["pending_owner_notes"] = str(notes_path)
+        book["status"] = "revising"
+        return
+    _done(book, "beta_read")
 
 
 # ---------- review ----------

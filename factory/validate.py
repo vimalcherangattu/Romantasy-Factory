@@ -40,6 +40,7 @@ def style_report(cfg: Config, text: str) -> dict:
         "top_4gram": top_gram,
         "top_4gram_count": top_n,
         "longest_paragraph_words": longest,
+        "em_dashes_per_1000": round(text.count("—") * 1000 / words, 2),
     }
 
 
@@ -52,6 +53,8 @@ def style_problems(cfg: Config, report: dict) -> list[str]:
         problems.append(f"AI tells at {report['ai_tells_per_1000']} per 1,000 words: {report['ai_tell_hits']}")
     if report["top_4gram_count"] > limits.get("max_repeated_4gram", 3):
         problems.append(f"phrase repeated {report['top_4gram_count']} times: '{report['top_4gram']}'")
+    if report.get("em_dashes_per_1000", 0) > limits.get("em_dashes_per_1000_words", 4):
+        problems.append(f"{report['em_dashes_per_1000']} em dashes per 1,000 words (limit 4)")
     if report["longest_paragraph_words"] > limits.get("max_paragraph_words", 220):
         problems.append(f"paragraph of {report['longest_paragraph_words']} words (monologue guard)")
     return problems

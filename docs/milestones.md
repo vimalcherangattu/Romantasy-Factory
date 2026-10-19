@@ -15,7 +15,7 @@ as **Owner check** below.
 | M6 Packaging | Pandoc EPUB/DOCX, epubcheck, metadata/blurb validation, cover prompt, `factory cover` typesetting, upload checklist, AI disclosure | EPUB passes epubcheck 5.3 with 0 warnings; DOCX chapters are Heading 1; cover is 1600×2560 | Open `book.epub` in Kindle Previewer; re-check KDP limits in KDP Help |
 | M7 Scheduling | launchd plist, pmset wake command, cron fallback, lock file, stop-by window, resume, daily report, Telegram/email | Lock and stale lock; window times; usage-limit stop and resume; CLI error retry | `factory install-schedule`; 3 unattended nights plus one forced stop |
 | M8 Browser upload | `upload-checklist.md` in KDP page order, `docs/kdp-upload.md` | Checklist has every field | One upload with Claude filling forms and you clicking Publish |
-| M9 Reader platform | Not built (PRD: after the first series is live) | — | Ask for M9 once a series is live |
+| M9 Reader platform | Bonus story per series, sign-up back matter, launch emails, `factory site` static site | Bonus EPUB built; back matter carries the link; site lists live books with Kindle links | Domain, newsletter provider, postal address and Vercel deploy (`docs/reader-platform.md`) |
 
 ## Changes from the PRD
 
@@ -37,3 +37,21 @@ as **Owner check** below.
   missing, the package is flagged rather than blocked.
 - Usage-limit detection matches the CLI's error text. If a future CLI version words it differently,
   the run stops as a CLI error instead. That's still safe, but the report reason will be less exact.
+
+## Owner automation (19 Oct 2026)
+
+The owner asked for their manual steps to be automated where possible:
+
+- **Concept pick and bible approval:** `factory new-series` now runs S1, then a selector agent
+  (`agents/select.md`), then S2, and approves the bible once it passes validation. To decide by
+  hand, use `--manual`.
+- **Pilot notes:** an AI beta reader (`agents/beta_reader.md`) reads each finished book and
+  writes the notes the owner would. If its verdict is "revise", one revision round runs
+  automatically. The owner still approves each book before upload.
+- **Schedule:** `books_per_day: 1`.
+- **KDP upload:** `factory upload <id>` and the `kdp-upload` skill drive Claude in Chrome
+  through every KDP page. The owner signs in and says "publish". Claude never types credentials,
+  and the Publish click can't be pre-approved.
+- **First concepts:** three concepts were written in-session on 19 Oct 2026 in
+  `series/_proposals/20261019-1900/`. Run `factory pick --auto` on the Mac to choose one, build
+  its bible on the Max plan and approve it.

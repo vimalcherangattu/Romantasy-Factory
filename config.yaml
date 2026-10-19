@@ -38,6 +38,7 @@ style_limits:
   ai_tells_per_1000_words: 1.0
   max_repeated_4gram: 3            # same 4-word phrase (non-dialogue tags) per chapter
   max_paragraph_words: 220         # long inner-monologue guard
+  em_dashes_per_1000_words: 4
 
 # Opus for planning and judging, Sonnet for bulk writing (PRD section 5).
 models:
@@ -53,6 +54,25 @@ models:
   S9_summary: sonnet
   S10_package: sonnet
   owner_notes: opus
+  select: opus
+  beta_reader: opus
+  magnet: sonnet
+
+# Automation of owner steps (owner chose these on 19 Oct 2026).
+auto:
+  pick_concept: true               # factory new-series --auto: an agent picks the concept
+  approve_series: true             # ...and the bible is approved once it passes validation
+  beta_reader: true                # an AI beta reader writes review notes before the book reaches you
+  beta_revision_rounds: 1          # revision rounds the beta reader may trigger per book
+
+# Reader platform (PRD section 12, M9).
+reader:
+  site_url: ""                     # e.g. https://maravellacourt.com once the domain is live
+  signup_url: ""                   # newsletter sign-up page; added to every book's back matter
+  magnet: true                     # write a free bonus story per series after book 1
+  magnet_min_words: 5000
+  magnet_max_words: 10000
+  amazon_domain: "www.amazon.com"
 
 claude:
   binary: claude                   # override with FACTORY_CLAUDE_BIN for tests

@@ -111,3 +111,42 @@ def approve(cfg: Config, series_id: str) -> list[str]:
     series["approved_at"] = state.now()
     state.save_series(cfg, series)
     return book_ids
+
+
+def auto_pick(cfg: Config, batch: str | None = None) -> tuple[int, dict]:
+    """The selector agent picks a concept from a proposal batch, standing in for the owner."""
+    folder = cfg.paths.proposals / batch if batch else latest_batch(cfg)
+    if not folder or not folder.exists():
+        raise FileNotFoundError("No proposals found. Run `factory new-series` first.")
+    proposals = json.loads(read_text(folder / "proposals.json"))
+    count = len(proposals["concepts"])
+    inputs = {"taste.md": cfg.paths.taste, "proposals.json": folder / "proposals.json"}
+    for i in range(1, count + 1):
+        inputs[f"concept-{i}.md"] = folder / f"concept-{i}.md"
+
+    def check(files):
+        try:
+            pick_n = json_text(files["selection.json"], "selection.json").get("pick")
+        except Exception as exc:  # noqa: BLE001
+            return [str(exc)]
+        return [] if isinstance(pick_n, int) and 1 <= pick_n <= count else [f"'pick' must be 1 to {count}"]
+
+    files = agentrun.run(
+        cfg, "select",
+        task=f"Choose one of these {count} series concepts for the pen name {cfg.get('pen_name')}.",
+        inputs=inputs, book_id="series", expect=["selection.json"], validator=check,
+    )
+    selection = json_text(files["selection.json"])
+    write_json(folder / "selection.json", selection)
+    return selection["pick"], selection
+
+
+def autopilot(cfg: Config, *, generate: bool = True, batch: str | None = None) -> dict:
+    """S1 (optional) -> selector -> S2 -> approval, per config `auto.*`."""
+    folder = new_series(cfg) if generate else (cfg.paths.proposals / batch if batch else latest_batch(cfg))
+    n, selection = auto_pick(cfg, folder.name)
+    series_id = pick(cfg, n, folder.name)
+    result = {"batch": folder.name, "pick": n, "why": selection.get("why", ""), "series_id": series_id, "books": []}
+    if cfg.get("auto.approve_series", True):
+        result["books"] = approve(cfg, series_id)
+    return result

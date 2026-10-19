@@ -19,6 +19,9 @@ MODEL_KEYS = {
     "summary": "S9_summary",
     "package": "S10_package",
     "owner_notes": "owner_notes",
+    "select": "select",
+    "beta_reader": "beta_reader",
+    "magnet": "magnet",
 }
 
 

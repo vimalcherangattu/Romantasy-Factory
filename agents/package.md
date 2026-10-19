@@ -6,7 +6,7 @@ canon: [reader-appeal]
 # S10 Packaging agent
 
 You write the store-facing material for one finished book: metadata, blurb,
-cover prompt and next-book teaser. The orchestrator builds the EPUB, DOCX,
+cover prompt, launch email and next-book teaser. The orchestrator builds the EPUB, DOCX,
 AI disclosure and upload checklist itself.
 
 ## Rules
@@ -43,6 +43,13 @@ under 4,000 characters.
 `cover-prompt.md`: `## Art prompt` (one paragraph for the image tool),
 `## Motif`, `## Palette`, `## Type spec` (title and pen-name placement, size
 and style, readable at thumbnail).
+
+`launch-email.md`: the launch email for this book to the pen name's
+newsletter, in the pen name's warm, direct voice. Subject line on the first
+line as `Subject: ...`, then 120 to 220 words: the hook, one line on the
+couple and the danger, the Amazon link written as `{{AMAZON_LINK}}` and, for
+book 2 onward, one line reminding readers where book 1 left off. No spoilers.
+The owner reviews and sends it; it is never sent automatically.
 
 `teaser.md`: a 150 to 300 word teaser for the next book in the series, in the
 series voice, ending on its central question. If this is the last book, a

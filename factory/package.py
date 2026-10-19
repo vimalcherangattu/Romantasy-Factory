@@ -55,6 +55,14 @@ def manuscript(cfg: Config, book: dict, meta: dict, teaser: str) -> str:
         text = re.sub(r"^\s*#\s*Chapter", "# Chapter", text, count=1)
         parts.append(text.replace("\n* * *\n", "\n\n<center>\\* \\* \\*</center>\n\n"))
     parts.append(also_by(cfg, book, meta.get("series_name", "")))
+    signup = cfg.get("reader.signup_url", "")
+    if signup:
+        bonus = read_json(cfg.paths.series_dir(book["series_id"]) / "magnet" / "bonus-meta.json", {}) or {}
+        pitch = bonus.get("pitch") or "a free bonus story from this series"
+        title = f"*{bonus['title']}*: " if bonus.get("title") else ""
+        parts.append(f"## Free bonus story {{.unnumbered}}\n\nWant more? Get {title}{pitch}, free when you join "
+                     f"{meta['pen_name']}'s reader list. You'll also hear first when the next book is out.\n\n"
+                     f"[Get the bonus story]({signup})")
     if teaser.strip():
         parts.append("## Coming next {.unnumbered}\n\n" + re.sub(r"^#.*\n", "", teaser.strip()))
     return "\n\n".join(p for p in parts if p is not None) + "\n"
@@ -170,14 +178,16 @@ def build(cfg: Config, book: dict, files: dict[str, str]) -> dict:
     pkg = _pkg(cfg, book)
     pkg.mkdir(parents=True, exist_ok=True)
     meta = json.loads(files["metadata.json"])
-    for name in ("metadata.json", "blurb.md", "cover-prompt.md", "teaser.md"):
-        atomic_write(pkg / name, files[name])
+    for name in ("metadata.json", "blurb.md", "cover-prompt.md", "teaser.md", "launch-email.md"):
+        if name in files:
+            atomic_write(pkg / name, files[name])
 
     template = read_text(TEMPLATES / "ai-disclosure.md")
     atomic_write(pkg / "ai-disclosure.md", template.format(
         title=meta["title"], book_id=book["book_id"], pen_name=meta["pen_name"],
         date=date.today().isoformat(), cover_tool="the owner's image tool (fill in before upload)"))
     atomic_write(pkg / "upload-checklist.md", upload_checklist(cfg, book, meta))
+    atomic_write(pkg / "browser-upload-prompt.md", browser_prompt(cfg, book, meta))
 
     src = pkg / "book.md"
     atomic_write(src, manuscript(cfg, book, meta, files.get("teaser.md", "")))
@@ -213,6 +223,46 @@ def build(cfg: Config, book: dict, files: dict[str, str]) -> dict:
     if not (pkg / "cover.jpg").exists():
         result["cover"] = "missing: generate art from cover-prompt.md, then run `factory cover`"
     return result
+
+
+def browser_prompt(cfg: Config, book: dict, meta: dict) -> str:
+    """The message the owner pastes into Claude in Chrome (or the desktop app) to run the upload."""
+    pkg = cfg.paths.book_dir(book["series_id"], book["book_id"]) / "package"
+    return f"""Upload the Kindle ebook "{meta['title']}" ({book['book_id']}) to KDP.
+
+Files are in: {pkg}
+Follow {pkg}/upload-checklist.md page by page, using metadata.json, blurb.md and ai-disclosure.md.
+
+Rules:
+- I am signed in to kdp.amazon.com in this browser. Never type passwords, 2FA codes, tax or bank details.
+  If KDP asks for any of them, or shows a CAPTCHA, stop and hand over to me.
+- Create a new Kindle eBook (Bookshelf > + Create > Kindle eBook). This is book {book['number']} of
+  "{meta.get('series_name')}": {'create the series' if book['number'] == 1 else 'add it to the existing series'}.
+- Fill Details, then Content (upload book.epub and cover.jpg; answer the AI-content questions from
+  ai-disclosure.md exactly), then Pricing.
+- Save as draft at the end of each page without asking. Show me what you filled in on each page as you go.
+- Stop before "Publish Your Kindle eBook". Show me a summary of every field and wait for me to say "publish".
+- When it is published and KDP shows the ASIN, tell me the ASIN so I can run:
+  factory published {book['book_id']} --asin <ASIN>
+"""
+
+
+def bonus_epub(cfg: Config, series_id: str, meta: dict) -> str | None:
+    """Builds magnet/bonus.epub for the newsletter sign-up. Returns a problem, or None."""
+    mdir = cfg.paths.series_dir(series_id) / "magnet"
+    series_json = read_json(cfg.paths.series_dir(series_id) / "series.json", {}) or {}
+    meta_file = mdir / "pandoc-meta.yaml"
+    atomic_write(meta_file, "\n".join([
+        f"title: {json.dumps(meta.get('title') or series_json.get('title', 'Bonus story'))}",
+        f"author: {json.dumps(cfg.get('pen_name'))}",
+        "lang: en",
+        f"rights: {json.dumps('Copyright © ' + str(cfg.get('copyright_year')) + ' ' + cfg.get('pen_name'))}",
+    ]) + "\n")
+    err = _pandoc(mdir / "bonus.md", mdir / "bonus.epub", meta_file)
+    if err:
+        return err
+    ok, log = epubcheck(mdir / "bonus.epub")
+    return None if ok is not False else f"bonus.epub failed epubcheck: {log[-200:]}"
 
 
 # ---------- cover typesetting ----------

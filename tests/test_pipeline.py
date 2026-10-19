@@ -191,3 +191,82 @@ def test_window(cfg):
 def test_atomic_write_leaves_no_temp(cfg, approved_series):
     orchestrator.run(cfg, max_steps=3, echo=lambda *_: None)
     assert not list(cfg.paths.series.rglob("*.tmp"))
+
+
+def test_autopilot_picks_and_approves(cfg):
+    result = series.autopilot(cfg)
+    assert result["pick"] == 2
+    assert state.load_series(cfg, result["series_id"])["status"] == "approved"
+    assert len(result["books"]) == 3
+    assert (cfg.paths.proposals / result["batch"] / "selection.json").exists()
+
+
+def test_autopilot_respects_manual_approval(cfg):
+    cfg.data["auto"]["approve_series"] = False
+    result = series.autopilot(cfg)
+    assert result["books"] == []
+    assert state.load_series(cfg, result["series_id"])["status"] == "draft"
+
+
+def test_cli_pick_auto_from_existing_batch(cfg):
+    series.new_series(cfg)
+    res = CliRunner().invoke(app, ["pick", "--auto"])
+    assert res.exit_code == 0, res.output
+    assert "Picked concept 2" in res.output and "Approved" in res.output
+
+
+def test_beta_reader_triggers_one_revision_round(cfg, approved_series, monkeypatch):
+    monkeypatch.setenv("FAKE_CLAUDE_MODE", "beta_always_revise")
+    bid = f"{approved_series}-b01"
+    orchestrator.run(cfg, book_id=bid, echo=lambda *_: None)
+    b = state.load_book(cfg, bid)
+    assert b["status"] == "review"
+    assert b["beta_rounds"] == 1 and b["revision_round"] == 1
+    hist = [h["event"] for h in b["history"]]
+    assert hist.count("done: beta read") == 2 and "done: owner notes plan" in hist
+    sheet = (cfg.paths.review / bid / "review.md").read_text()
+    assert "Beta reader" in sheet and "revise" in sheet
+
+
+def test_bonus_story_and_back_matter(cfg, approved_series):
+    cfg.data["reader"]["signup_url"] = "https://example.com/join"
+    bid = f"{approved_series}-b01"
+    orchestrator.run(cfg, book_id=bid, echo=lambda *_: None)
+    mdir = cfg.paths.series_dir(approved_series) / "magnet"
+    assert (mdir / "bonus.md").exists() and (mdir / "bonus.epub").exists()
+    md = (cfg.paths.book_dir(approved_series, bid) / "package" / "book.md").read_text()
+    assert "Free bonus story" in md and "https://example.com/join" in md and "The Night He Chose" in md
+
+
+def test_upload_prompt_and_publish_fills_launch_email(cfg, approved_series):
+    from PIL import Image
+
+    bid = f"{approved_series}-b01"
+    orchestrator.run(cfg, book_id=bid, echo=lambda *_: None)
+    runner = CliRunner()
+    assert runner.invoke(app, ["approve", "book", bid]).exit_code == 0
+    res = runner.invoke(app, ["upload", bid])
+    assert res.exit_code == 1 and "cover.jpg" in res.output
+    pkg = cfg.paths.book_dir(approved_series, bid) / "package"
+    Image.new("RGB", (1600, 2560)).save(pkg / "cover.jpg")
+    res = runner.invoke(app, ["upload", bid])
+    assert res.exit_code == 0 and "Stop before" in res.output and "Never type passwords" in res.output
+    res = runner.invoke(app, ["published", bid, "--asin", "B0TEST"])
+    assert res.exit_code == 0
+    email = (cfg.paths.review / bid / "launch-email-ready.md").read_text()
+    assert "https://www.amazon.com/dp/B0TEST" in email
+
+
+def test_site_build(cfg, approved_series):
+    from factory import site
+
+    cfg.data["reader"]["signup_url"] = "https://example.com/join"
+    bid = f"{approved_series}-b01"
+    orchestrator.run(cfg, book_id=bid, echo=lambda *_: None)
+    b = state.load_book(cfg, bid)
+    b.update(status="published", asin="B0TEST")
+    state.save_book(cfg, b)
+    dist = site.build(cfg)
+    index = (dist / "index.html").read_text()
+    assert "https://www.amazon.com/dp/B0TEST" in index and "The Ink Oath" in index
+    assert (dist / "about.html").exists() and (dist / "bonus.html").exists()

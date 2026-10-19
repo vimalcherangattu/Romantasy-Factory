@@ -1,0 +1,193 @@
+{
+  "concepts": [
+    {
+      "slug": "witness-clause",
+      "title": "The Witness Clause",
+      "premise": "A truth-scribe whose sworn records become law, and whose every oath costs a word of her mother tongue, is bound within a hundred paces of the border-lord on trial for burning his own villages. The forged record that condemns him is in her own hand.",
+      "engine": "court",
+      "world_rule": "Oath-Law: sworn records are binding fact; each oath erases a word of the scribe's mother tongue",
+      "tropes": [
+        "enemies to lovers",
+        "forced proximity",
+        "forbidden love",
+        "slow burn"
+      ],
+      "structure": "one couple across trilogy",
+      "books": 3,
+      "heat": "open door, moderate",
+      "darkness": "dark edges",
+      "leads": {
+        "heroine": "Issa Varro, 31",
+        "love_interest": "Corvin Hale, 36"
+      },
+      "originality": [
+        {
+          "test": 1,
+          "pass": true,
+          "note": "Without Oath-Law there's no binding, cost or forgery"
+        },
+        {
+          "test": 2,
+          "pass": true,
+          "note": "Is truth worth more than mercy?"
+        },
+        {
+          "test": 3,
+          "pass": true,
+          "note": "Get evidence to his surviving villagers"
+        },
+        {
+          "test": 4,
+          "pass": true,
+          "note": "The institution of the record is the problem"
+        },
+        {
+          "test": 5,
+          "pass": true,
+          "note": "Record over people → testimony over record"
+        },
+        {
+          "test": 6,
+          "pass": true,
+          "note": "Inverts who holds power; honours slow-burn HEA"
+        },
+        {
+          "test": 7,
+          "pass": true,
+          "note": "A court scribe whose oaths become law falls for the lord on trial"
+        },
+        {
+          "test": 8,
+          "pass": true,
+          "note": "Promising is a legal act"
+        }
+      ]
+    },
+    {
+      "slug": "debt-of-warmth",
+      "title": "Debt of Warmth",
+      "premise": "In a frozen city where heat is money passed by touch, a debt auditor is trapped by a killing frost with the smuggler who gives warmth away, and learns that honest, consenting touch creates heat from nothing.",
+      "engine": "rule",
+      "world_rule": "Warmth Economy: heat moves by touch, never created, except consenting contact between two fully honest people makes surplus",
+      "tropes": [
+        "enemies to lovers",
+        "forced proximity",
+        "forbidden love",
+        "slow burn"
+      ],
+      "structure": "one couple per book",
+      "books": 3,
+      "heat": "open door, moderate",
+      "darkness": "dark edges",
+      "leads": {
+        "heroine": "Sorrel Ashdown, 28",
+        "love_interest": "Kestrel Vane, 33"
+      },
+      "originality": [
+        {
+          "test": 1,
+          "pass": true,
+          "note": "Without the Warmth Economy, touch has no cost or surplus"
+        },
+        {
+          "test": 2,
+          "pass": true,
+          "note": "Is a world of debts fairer than a world of gifts?"
+        },
+        {
+          "test": 3,
+          "pass": true,
+          "note": "Find the coal buyer; keep the hearths alive"
+        },
+        {
+          "test": 4,
+          "pass": true,
+          "note": "An economic system, not a villain"
+        },
+        {
+          "test": 5,
+          "pass": true,
+          "note": "Everything is owed → accepting a gift"
+        },
+        {
+          "test": 6,
+          "pass": true,
+          "note": "Inverts institutional power; honours forced proximity"
+        },
+        {
+          "test": 7,
+          "pass": true,
+          "note": "A frozen city where heat is currency passed by touch"
+        },
+        {
+          "test": 8,
+          "pass": true,
+          "note": "Touch and honesty are economic acts"
+        }
+      ]
+    },
+    {
+      "slug": "name-held-in-trust",
+      "title": "A Name Held in Trust",
+      "premise": "An envoy from a conquered river province marries the empire's Warden-General and is given his true name, total command over him. Her people sent her to use it. He knows, and gives it to her anyway.",
+      "engine": "court",
+      "world_rule": "Name-Ownership: a held true name commands without refusal; each command scars the speaker's voice; names can be split, merging the holders",
+      "tropes": [
+        "arranged marriage",
+        "secret mission",
+        "enemies to lovers",
+        "forbidden love"
+      ],
+      "structure": "one couple across trilogy",
+      "books": 3,
+      "heat": "open door, moderate",
+      "darkness": "dark edges",
+      "leads": {
+        "heroine": "Elin Marrowgate, 30",
+        "love_interest": "Aurek Sall, 35"
+      },
+      "originality": [
+        {
+          "test": 1,
+          "pass": true,
+          "note": "Without Name-Ownership there's no gift of power or dilemma"
+        },
+        {
+          "test": 2,
+          "pass": true,
+          "note": "Is trust real if betrayal is impossible?"
+        },
+        {
+          "test": 3,
+          "pass": true,
+          "note": "His mutiny in the war council"
+        },
+        {
+          "test": 4,
+          "pass": true,
+          "note": "Killing the Emperor doesn't free the names"
+        },
+        {
+          "test": 5,
+          "pass": true,
+          "note": "Love is leverage → a gift never spent"
+        },
+        {
+          "test": 6,
+          "pass": true,
+          "note": "Inverts arranged-marriage power; honours the slow burn"
+        },
+        {
+          "test": 7,
+          "pass": true,
+          "note": "She's given her husband's true name and sent to use it"
+        },
+        {
+          "test": 8,
+          "pass": true,
+          "note": "Naming is an act of state"
+        }
+      ]
+    }
+  ]
+}

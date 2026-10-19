@@ -10,3 +10,4 @@ state/*.tmp
 # Owner secrets never belong in the repo
 secrets*
 state/index.sqlite
+site/dist/

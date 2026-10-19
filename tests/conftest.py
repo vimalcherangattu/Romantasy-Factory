@@ -18,7 +18,7 @@ def factory_root(tmp_path, monkeypatch):
     """A throwaway factory folder wired to the fake claude CLI, with tiny books."""
     root = tmp_path / "factory"
     root.mkdir()
-    for name in ("agents", "canon", "templates"):
+    for name in ("agents", "canon", "templates", "site"):
         shutil.copytree(REPO / name, root / name)
     shutil.copy(REPO / "taste.md", root / "taste.md")
     cfg = yaml.safe_load((REPO / "config.yaml").read_text())
@@ -26,6 +26,7 @@ def factory_root(tmp_path, monkeypatch):
     cfg["book"].update(chapters_min=3, chapters_max=4, chapter_words_min=300, chapter_words_max=340)
     cfg["claude"].update(retry_wait_seconds=0, timeout_seconds=60)
     cfg["git"]["commit_after_stage"] = False
+    cfg["reader"].update(magnet_min_words=100, magnet_max_words=400)
     (root / "config.yaml").write_text(yaml.safe_dump(cfg))
 
     fake = tmp_path / "bin" / "claude"

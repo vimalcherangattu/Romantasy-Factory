@@ -18,7 +18,7 @@ def build_sheet(cfg: Config, book: dict) -> str:
         if src.exists():
             shutil.copy(src, rdir / src.name)
     pkg = bdir / "package"
-    for name in ("blurb.md", "cover-prompt.md", "cover.jpg", "metadata.json", "teaser.md"):
+    for name in ("blurb.md", "cover-prompt.md", "cover.jpg", "metadata.json", "teaser.md", "launch-email.md"):
         if (pkg / name).exists():
             shutil.copy(pkg / name, rdir / name)
 
@@ -50,6 +50,7 @@ def build_sheet(cfg: Config, book: dict) -> str:
     lines += [
         "- [ ] Blurb: `blurb.md`",
         "- [ ] Cover: `cover-prompt.md` (and `cover.jpg` once typeset)",
+        "- [ ] Launch email draft: `launch-email.md` (you send it after the book is live)",
         "",
         "## 2. Items needing you",
         "",
@@ -66,6 +67,13 @@ def build_sheet(cfg: Config, book: dict) -> str:
         lines.append(f"- Chapter {n}: {f}")
     for f in book.get("flags", []):
         lines.append(f"- Book: {f}")
+    beta = book.get("beta")
+    if beta:
+        lines += ["", "## Beta reader", "",
+                  f"- Verdict: **{beta.get('verdict')}**, predicted rating {beta.get('predicted_rating')}. "
+                  f"{beta.get('summary', '')}",
+                  f"- Notes: `{beta.get('notes')}`"
+                  + (" (one revision round already applied from these)" if book.get("beta_rounds") else "")]
     lines += ["", "## 3. Critic's three weakest chapters", ""]
     for avg, n in weakest:
         crit = read_json(bdir / "critique" / f"ch-{n:02d}.json", {}) or {}

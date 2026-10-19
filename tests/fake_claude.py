@@ -151,7 +151,18 @@ def respond(system: str, user: str) -> str:
                 "age_notes": "Adult (18+). All characters are adults.", "heat_notes": "moderate",
                 "content_notes": "violence", "price_usd": 4.99, "language": "English", "kdp_select": True}
         return block("metadata.json", meta) + block("blurb.md", "<p><b>One oath.</b> Two liars.</p>") \
-            + block("cover-prompt.md", "## Art prompt\nInk and gold.") + block("teaser.md", "# Next\nThe seal wakes.")
+            + block("cover-prompt.md", "## Art prompt\nInk and gold.") + block("teaser.md", "# Next\nThe seal wakes.") \
+            + block("launch-email.md", "Subject: The Ink Oath is out\n\nHi! Read it: {{AMAZON_LINK}}")
+    if "# Concept selector" in system:
+        return block("selection.json", {"pick": 2, "scores": [], "why": "Strongest hook.", "owner_watch": "x"})
+    if "# Beta reader" in system:
+        k = bump("beta")
+        verdict = "revise" if ("beta_revise" in m or "beta_always_revise" in m) and (k == 1 or "beta_always_revise" in m) else "approve"
+        return block("verdict.json", {"verdict": verdict, "predicted_rating": 4.2, "summary": "Good."}) \
+            + block("beta-notes.md", "## Keep\n- banter\n## Fix\n1. Chapter 1: fewer smirks.\n## Blurb\nok")
+    if "# Reader magnet writer" in system:
+        return block("bonus.md", "# The Night He Chose\n\n*A Witness Clause bonus story*\n\n" + prose(200, 7)) \
+            + block("bonus-meta.json", {"title": "The Night He Chose", "pitch": "Corvin's side of the trial.", "words": 200})
     if "# Owner notes planner" in system:
         return block("plan.json", {"chapters": [{"n": 1, "instructions": ["Cut the smirks"]}], "notes_not_actioned": []})
     return "unrecognised agent"

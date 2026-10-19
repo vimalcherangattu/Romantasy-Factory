@@ -56,21 +56,40 @@ def doctor() -> None:
     typer.echo("Sign in with your Max account only: `claude login`. Keep extra usage off in Claude settings.")
 
 
+def _report_autopilot(cfg, result: dict) -> None:
+    gitops.commit(cfg, f"{result['series_id']}: autopilot pick {result['pick']}")
+    typer.echo(f"Picked concept {result['pick']} from {result['batch']}: {result['why']}")
+    typer.echo(f"Bible: series/{result['series_id']}/bible.md")
+    if result["books"]:
+        typer.echo(f"Approved. Queued {len(result['books'])} books: {', '.join(result['books'])}")
+    else:
+        typer.echo(f"Review the bible, then: factory approve series {result['series_id']}")
+
+
 @app.command("new-series")
-def new_series() -> None:
-    """S1: propose series concepts from the canon and taste.md."""
+def new_series(auto: bool = typer.Option(None, "--auto/--manual",
+                                         help="Let agents pick the concept and approve the bible (default: config auto.pick_concept)")) -> None:
+    """S1: propose series concepts from the canon and taste.md (and, with --auto, pick and approve one)."""
     cfg = _cfg()
+    auto = cfg.get("auto.pick_concept", False) if auto is None else auto
+    if auto:
+        _report_autopilot(cfg, series.autopilot(cfg, generate=True))
+        return
     folder = series.new_series(cfg)
     gitops.commit(cfg, f"proposals {folder.name}")
     typer.echo(f"Concepts written to {folder.relative_to(cfg.paths.root)}/")
-    typer.echo("Read them, edit any concept-N.md you like, then: factory pick <N>")
+    typer.echo("Read them, edit any concept-N.md you like, then: factory pick <N> (or factory pick --auto)")
 
 
 @app.command()
-def pick(concept: int = typer.Argument(..., help="Concept number from the latest proposals"),
-         batch: str = typer.Option(None, help="Proposal batch folder (default: latest)")) -> None:
+def pick(concept: int = typer.Argument(None, help="Concept number from the latest proposals"),
+         batch: str = typer.Option(None, help="Proposal batch folder (default: latest)"),
+         auto: bool = typer.Option(False, "--auto", help="Let the selector agent pick, then approve per config")) -> None:
     """S2: draft the series bible for the chosen concept."""
     cfg = _cfg()
+    if auto or concept is None:
+        _report_autopilot(cfg, series.autopilot(cfg, generate=False, batch=batch))
+        return
     series_id = series.pick(cfg, concept, batch)
     gitops.commit(cfg, f"{series_id}: bible draft")
     typer.echo(f"Bible draft: series/{series_id}/bible.md")
@@ -160,8 +179,40 @@ def published(book_id: str, asin: str = typer.Option(..., help="ASIN shown by KD
     b.update(status="published", asin=asin, published_at=state.now())
     state.log(b, f"published as {asin}")
     state.save_book(cfg, b)
+    pkg = cfg.paths.book_dir(b["series_id"], book_id) / "package"
+    email = pkg / "launch-email.md"
+    if email.exists():
+        link = f"https://{cfg.get('reader.amazon_domain', 'www.amazon.com')}/dp/{asin}"
+        ready = cfg.paths.review / book_id / "launch-email-ready.md"
+        ready.parent.mkdir(parents=True, exist_ok=True)
+        ready.write_text(email.read_text().replace("{{AMAZON_LINK}}", link))
+        typer.echo(f"Launch email ready to send: {ready.relative_to(cfg.paths.root)}")
     gitops.commit(cfg, f"{book_id}: published {asin}")
-    typer.echo(f"{book_id} is live as {asin}.")
+    typer.echo(f"{book_id} is live as {asin}. Rebuild the website with: factory site")
+
+
+@app.command()
+def upload(book_id: str) -> None:
+    """Print the message that has Claude in Chrome upload an approved book to KDP (you confirm Publish)."""
+    cfg = _cfg()
+    b = state.load_book(cfg, book_id)
+    if b["status"] != "approved":
+        _die(f"{book_id} is '{b['status']}'; approve it first with: factory approve book {book_id}")
+    pkg = cfg.paths.book_dir(b["series_id"], book_id) / "package"
+    if not (pkg / "cover.jpg").exists():
+        _die(f"{pkg.relative_to(cfg.paths.root)}/cover.jpg is missing; run: factory cover {book_id} --art <image>")
+    typer.echo("Sign in to kdp.amazon.com in Chrome, open Claude in Chrome, and paste:\n")
+    typer.echo((pkg / "browser-upload-prompt.md").read_text())
+
+
+@app.command("site")
+def site_cmd() -> None:
+    """Build the pen-name website into site/dist (deploy with: vercel deploy site/dist --prod)."""
+    from . import site
+
+    cfg = _cfg()
+    dist = site.build(cfg)
+    typer.echo(f"Built {dist.relative_to(cfg.paths.root)}/. Deploy: vercel deploy site/dist --prod")
 
 
 @app.command()

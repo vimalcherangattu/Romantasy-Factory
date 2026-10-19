@@ -13,19 +13,21 @@ brew install pandoc epubcheck     # EPUB/DOCX build and validation
 python3 -m venv .venv && source .venv/bin/activate
 pip install -e ".[dev]"
 factory doctor                    # checks claude, pandoc, epubcheck, git
-pytest                            # 40 tests, using a fake claude: no plan usage
+pytest                            # 47 tests, using a fake claude: no plan usage
 ```
 
 Edit `config.yaml` (pen name, price, schedule) and `taste.md` (heat, darkness, tropes).
 
-## Once per series (about 2 hours)
+## Once per series (automatic)
 
 ```bash
-factory new-series                # S1: 3 concepts in series/_proposals/<batch>/
-factory pick 2                    # S2: bible draft for concept 2 -> series/<id>/bible.md
-# edit bible.md, including its "Cover style" section
-factory approve series <id>       # queues the series' books
+factory new-series                # S1 concepts -> selector agent picks -> S2 bible -> approved
+factory pick --auto               # same, from an existing proposal batch
 ```
+
+`auto.pick_concept` and `auto.approve_series` in `config.yaml` control this. To choose by hand,
+run `factory new-series --manual`, then `factory pick <N>`, edit `bible.md`, and run
+`factory approve series <id>`.
 
 ## Every night (machine)
 
@@ -38,15 +40,20 @@ factory install-schedule          # launchd job at 01:00, prints the pmset wake 
 writes `reports/YYYY-MM-DD.md` (optionally Telegram/email: set `notify.*` in `config.yaml` and
 the `FACTORY_*` environment variables).
 
-## Every day (you, about 1 hour)
+## Every day (you, about 30 minutes)
+
+Before a book reaches you, an AI beta reader reads its opening, midpoint and ending. If it asks
+for changes, the book gets one automatic revision round (`auto.beta_revision_rounds`). Its notes
+are on the review sheet.
 
 ```bash
 cat reports/$(date +%F).md
-open review/<book-id>/review.md   # chapter 1, midpoint, last 3, blurb, cover, needs-owner items
+open review/<book-id>/review.md   # beta-reader verdict, key chapters, blurb, cover, flags
 factory approve book <book-id>    # or: factory revise <book-id> --notes notes.md
 factory cover <book-id> --art ~/Downloads/art.png   # typesets title + pen name -> package/cover.jpg
-# upload with package/upload-checklist.md (docs/kdp-upload.md)
-factory published <book-id> --asin B0XXXXXXX
+factory upload <book-id>          # prints the message for Claude in Chrome (skill: kdp-upload)
+factory published <book-id> --asin B0XXXXXXX        # fills the launch email's Amazon link
+factory site                      # rebuild the pen-name website (docs/reader-platform.md)
 ```
 
 Other commands: `factory status`, `factory usage`, `factory unblock <book-id>`,
@@ -66,7 +73,10 @@ Other commands: `factory status`, `factory usage`, `factory unblock <book-id>`,
 | Book checks | `agents/book_check.md` | Opus | Failures are flagged on the review sheet |
 | S8 line edit | `agents/line_edit.md` | Sonnet | Banned phrases 0, AI tells ≤ 1 per 1,000 words, repetition limits |
 | S9 summary | `agents/summary.md` | Sonnet | ≤ 1,500 words with an Open threads section |
-| S10 package | `agents/package.md` + `factory/package.py` | Sonnet + scripts | epubcheck passes, metadata complete |
+| Bonus story (book 1) | `agents/magnet.md` | Sonnet | 5,000 to 10,000 words; EPUB for the newsletter |
+| S10 package | `agents/package.md` + `factory/package.py` | Sonnet + scripts | epubcheck passes, metadata complete, launch email |
+| Beta read | `agents/beta_reader.md` | Opus | Approve, or one automatic revision round |
+| Concept pick | `agents/select.md` | Opus | Scores concepts against taste.md and the market |
 
 - Each stage is one `claude -p` call with a fresh context. The agent prompt and its canon files
   replace Claude Code's default system prompt (`claude.system_prompt_mode: replace`), and tools are
