@@ -1,34 +1,25 @@
 {
   "facts": [
     {
+      "id": "F229",
+      "category": "timeline",
+      "fact": "Before dusk Devan sent Raiu down to the lower court for lamp oil because the west stair lamps had run dry, which is why Raiu reaches the stair from below at the first sound of steel. The two men at the stair head had orders to hold it whatever they heard and move only once the bear was gone.",
+      "since": "s02-vow-of-teeth-b01 ch 25",
+      "provisional": true
+    },
+    {
+      "id": "F230",
       "category": "knowledge",
-      "fact": "Devan did not see Vellan turn: the bend in the west stair hid the change, so Devan is not Vellan's witness and the word is only a word to him. He infers a bear from the claw marks.",
-      "why": "needed because it keeps the witness rule intact and sets up the bible's later page-holding beat for Vellan."
+      "fact": "Vellan tells Devan that his house keeps count of the eight years since he struck anyone, further evidence of the inside informant (F220).",
+      "since": "s02-vow-of-teeth-b01 ch 25",
+      "provisional": true
     },
     {
-      "category": "injury",
-      "fact": "Vellan's blade cuts Devan across the left ribs, with a blackbark-gall poison that spreads as a black thread from the wound. The physician Eravi gives it about three days.",
-      "why": "needed because the beat requires a poison with a deadline and the physician naming it."
-    },
-    {
-      "category": "injury",
-      "fact": "Raiu dies on the west stair from four claw furrows across his chest. His death is permanent.",
-      "why": "needed because the beat calls for Raiu's death."
-    },
-    {
+      "id": "F231",
       "category": "knowledge",
-      "fact": "Neela skipped resin on the new-moon night to stay human and guard Devan, and three of her nails have split to the quick, so the ache has started.",
-      "why": "needed because the beat says she arrives human, and the ache is the cost."
-    },
-    {
-      "category": "object",
-      "fact": "Neela saddles a grey mare in the fort stable. She tells Muthu to bring Devan after her if she is not back by the second dusk.",
-      "why": "needed to stage the stable scene and match chapter 26's opening orders."
-    },
-    {
-      "category": "knowledge",
-      "fact": "The antidote is made by Chathu himself and kept in a locked cupboard in the tapping shed at the Resin House. Neela can open the lock.",
-      "why": "needed because the beat says the only antidote is at the Resin House, and chapter 26 has her take it from the tapping-shed cupboard."
+      "fact": "Neela's ache has been building for weeks (F145, F160). The nails splitting on the morning of ch25 sharpened it; skipping resin on the new-moon night did not cause them. She tells Devan she trusts Muthu with his body, not his secrets, because she has no one else.",
+      "since": "s02-vow-of-teeth-b01 ch 25",
+      "provisional": true
     }
   ]
 }

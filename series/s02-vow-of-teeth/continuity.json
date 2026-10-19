@@ -1560,6 +1560,27 @@
       "fact": "The antidote is made by Chathu himself and kept in a locked cupboard in the tapping shed at the Resin House. Neela can open the lock.",
       "since": "s02-vow-of-teeth-b01 ch 25",
       "provisional": true
+    },
+    {
+      "id": "F229",
+      "category": "timeline",
+      "fact": "Before dusk Devan sent Raiu down to the lower court for lamp oil because the west stair lamps had run dry, which is why Raiu reaches the stair from below at the first sound of steel. The two men at the stair head had orders to hold it whatever they heard and move only once the bear was gone.",
+      "since": "s02-vow-of-teeth-b01 ch 25",
+      "provisional": true
+    },
+    {
+      "id": "F230",
+      "category": "knowledge",
+      "fact": "Vellan tells Devan that his house keeps count of the eight years since he struck anyone, further evidence of the inside informant (F220).",
+      "since": "s02-vow-of-teeth-b01 ch 25",
+      "provisional": true
+    },
+    {
+      "id": "F231",
+      "category": "knowledge",
+      "fact": "Neela's ache has been building for weeks (F145, F160). The nails splitting on the morning of ch25 sharpened it; skipping resin on the new-moon night did not cause them. She tells Devan she trusts Muthu with his body, not his secrets, because she has no one else.",
+      "since": "s02-vow-of-teeth-b01 ch 25",
+      "provisional": true
     }
   ],
   "knowledge": [
