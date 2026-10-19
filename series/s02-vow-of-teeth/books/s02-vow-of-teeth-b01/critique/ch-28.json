@@ -3,41 +3,39 @@
     "reader_question": 4.0,
     "change": 4.0,
     "romance_movement": 4.0,
-    "shown_chemistry": 5.0,
+    "shown_chemistry": 4.0,
     "character_logic": 3.0,
     "stakes_and_cost": 4.0,
     "prose": 4.0,
     "continuity": 0.0
   },
   "reasons": {
-    "reader_question": "The last lines ('Hands go where they're sent' / 'whose palm was open') hand the reader a specific question, and the planted green-wax gift lets them guess. The final line spells the question out a little too neatly.",
-    "change": "Neela leaves rogue, masterless and resin-poor, now bound to Devan's body. Devan moves from suspecting Ittan to facing him and seeing that someone above Ittan sent him.",
-    "romance_movement": "The reason for the change is new. Shared wounds make his pain hers, and his offer of the warden's house ('I'd like it to have someone who is') makes them each other's only household. This matches the beat.",
-    "shown_chemistry": "Chemistry comes entirely through action: he binds her wrists without touching the open parts, 'Then I'll bleed in pairs', he offers his shoulder, 'I'll be here', and her knee moves against the bay's flank. Nothing is narrated.",
-    "character_logic": "Neela waters and feeds forty-one locked cages, then leaves them shut in an abandoned compound where they will starve within days, which defeats her own stated aim. Devan's POV notes clove scent and brick-red stain, his own wax evidence, with no flicker of recognition, which reads as the POV withholding.",
-    "stakes_and_cost": "Every fight now costs both bodies. She is hunted and has no gate but his. Tomorrow's search has to succeed with Ittan under his roof tonight. Ammu's death stays real.",
-    "prose": "Clean, concrete and restrained, with no banned phrases, no em dashes and grief written without melodrama. A few lines muddle meaning: 'old ridge of a scar that was not his', 'as the dawn had turned her back', 'said Ittan Keeper of the Passes' (missing comma). 'He did not' openings stack up in places.",
-    "continuity": "'On the thirty-ninth day' conflicts with the established count. The new moon was ch23+6 (about day 38), the binding was at the second dusk after it (about day 40, F244), and they ride home the day after. Day 39 is when Devan lay poisoned or was riding to the Resin House. 'Due two days ago' also puts the Keeper past the ch23+8 sealing (F206)."
+    "reader_question": "The closing line, 'wondered whose palm was open', turns C19 into a sharp question. The low-riding cart and roped chest add a concrete second one: what is in the chest, and will tomorrow's search find it?",
+    "change": "Neela ends rogue, masterless and bound to Devan for life, holding a debt-pouch and a vow. Devan gains suggestive evidence against Ittan and a new sense that someone stands above him. The move from grief to resolve can be named.",
+    "romance_movement": "The reason is new. The wound-share makes his pain literally hers, and his offer, 'I'd like it to have someone who is', makes them each other's only household. The knee kept against the bay's flank answers it without words.",
+    "shown_chemistry": "The chemistry comes through responsive acts. He binds her wrists with his teeth and does not apologise falsely. He offers 'Then I'll bleed in pairs'. He says 'I'll be here' at the kennels and learns Ammu's name. His hand uncurls on the horse's neck. Nothing is narrated as attraction.",
+    "character_logic": "Neela's refusal to open the cages is the smart, painful choice. But Devan suspects Muthu and planned to test him at the sealing-day gate (F217, F222), yet he dispatches him on a schedule that takes him away for the sealing. The fodder arrives after the water she says lasts two days runs out.",
+    "stakes_and_cost": "Every choice costs something. She leaves the caged animals behind. She keeps Ammu's resin as a debt she must spend. She is rogue with only one gate open to her. Devan lets a likely killer sleep under his roof unsearched so the custom can bite tomorrow.",
+    "prose": "Mostly clean and specific. Ammu's face 'interrupted halfway through a joke' and 'bleed in pairs' are quotable. Several lines muddle: 'the ridge of a scar he had never earned', 'learning a name a long way behind', and 'her whole name', which is odd since she doesn't know her birth name. Devan's interior decoding of the wax spells out the clue a shade too fully.",
+    "continuity": "Neela is placed 'on the wall by the cistern housing, where the sentry used to stand'. The cistern housing is on the east rampart (F163, F171), but the pulled sentry stood above the west-facing warden's window (F017, F077, F079). Also, 'She had turned back unmarked' contradicts her torn, bleeding wrists and throat from ch27."
   },
   "fixes": [
-    "At 'On the thirty-ninth day, the Keeper of the Passes came up' (continuity, timeline). The binding was the second dusk after the new moon (F244), so day 39 had Devan poisoned or on the road, and 'due two days ago' pushes the Keeper past the ch23+8 sealing (F206). Replace the day number with a relative marker that fits the count, e.g. 'Two days after they rode in'. Make the delay say the charter sealing waits on the Keeper's own seal, so a late Keeper delays the closing, and keep Devan's reading that Ittan was waiting for news of a dead warden. Update F260 to match.",
-    "At 'But she could refuse to leave them shut in to starve, and she had' (irrational behaviour). One trough-fill does not save forty-one locked animals in an abandoned compound. A smart Neela either opens the cages and the end door so they can forage, accepting that the open won't heal them, or makes Muthu or Devan agree to send fort men back within days to feed them. Add two or three lines of that choice, keeping her line that a caging can't be undone.",
-    "At 'which she felt him feel from the step outside' and 'as a man knows which way a door is' (convenient magic, rule widened). The bond transmits wounds, not flinches, moods or location. Cut 'felt him feel', 'a very small answering ease in her own ribs' and Devan's door-sense. Keep only pain felt at a shared wound (her torn wrist pulling at his right wrist works). Then add one beat in Devan's POV where the clove and brick-red stain register as council wax (F050) so the POV isn't withholding what he knows."
+    "In 'Neela was somewhere above on the wall by the cistern housing, where the sentry used to stand' (continuity conflict: the cistern housing is on the east rampart, F163, while the pulled sentry stood above the west-facing warden's window, F077): pick one place. Either 'on the west parapet above the warden's window, where the sentry used to stand', or 'on the east wall by the cistern housing' with the sentry clause cut. Make sure the spot plausibly overlooks the padippura.",
+    "In 'Four men, a cart and fodder. Back here in three days' (irrational behaviour to extend plot; it also undercuts F217/F222, Devan's plan to keep the suspected Muthu at the sealing-day gate, and the water Neela says lasts two days): have Devan send Bhaskaran's men with the cart at first light tomorrow, back within two days. Muthu asks to go himself and Devan answers, 'After the sealing. I want you at the gate.' That keeps the care, fixes the timeline and quietly lands Devan's suspicion of Muthu.",
+    "In 'She had turned back unmarked from a night of nets and a bear' (continuity: ch27 tore her throat and wrists open), rewrite to 'Nothing had cut her side. Her own blood was at her throat and wrists, where they had held her.' In the same scene, clarify 'ran a thin red line along the ridge of a scar he had never earned' to 'ran a thin red line where an odiyan's scar would be, though he had none', so the reader can see at once that the wound-share works both ways."
   ],
-  "reader_question": "If Ittan is only a hand that goes where it's sent, whose hand is he, and who paid for Devan's death above him?",
+  "reader_question": "Whose hand is Ittan, and what is riding in that low cart's roped chest that Devan must find at tomorrow's sealing search?",
   "techniques_landed": [
     19,
     9,
     11
   ],
-  "new_facts_assessment": "new-facts.json is empty, but the draft adds facts, and continuity.json already holds F257-F261 from this chapter. All of them should be listed. Ammu's cached Valli bundle and resin pouch are necessary and consistent (F084, F257). Devan's red lines at throat and wrists (F258) are useful, but the bond formed after the forced tearing, so it needs one line making clear the scars were still bleeding through the turning, when the bond was live. Ittan's clove smell and brick-red stain (F259) are an excellent clue at the peak and match F050. The low cart and roped chest are needed for ch29. Ittan's wife's cough of three winters fits his bible contradiction. The date 'thirty-ninth day' and 'due two days ago' (F260) conflict with the timeline. One addition is undeclared and widens the wound-share rule: the bond shares wounds only (F009), yet the draft has Neela feel 'a small answering ease' and Devan 'known for an hour that she was there, as a man knows which way a door is'. That is a location and emotion sense the rule never set up, so cut it or log and justify it.",
+  "new_facts_assessment": "F260 (draft; logged as F262 in continuity): Ittan's late arrival and the delayed sealing are necessary to reconcile the ch23 timeline (sealing at new moon plus two) with the ride home, and they make Ittan's patience read as waiting for news of a death. Keep it, but note the monsoon closes the hill roads whatever the Keeper's seal does. F262 (continuity F263): the clove and brick-red stain treated as suggestive, not proof, is consistent with F050 and F211 and keeps the arrest in ch29 dependent on the forged tallies. Necessary. F263 (continuity F264): the kennel feeding order is emotionally right, but its timing conflicts with Devan's sealing-day plan for Muthu (F217, F222) and with Neela's own 'dry again in two days'. Needs a timing fix. F264 (continuity F265): wounds still open at the moment of self-naming carry across. This is a reasonable extension of F009, but it must be held consistently in later chapters. The 'duller ache' in Devan's ribs that 'was not his own' implies a feedback loop the fact does not allow, so clarify it. The draft's fact IDs are offset by one from those logged in continuity.json (F260/F262 duplicate the timeline fact), so the orchestrator should retire F260 and use the logged IDs. The 'twelve men' at the arch is a small new detail and harmless.",
   "content_rule_violation": false,
   "failure_modes": [
-    "Irrational behaviour to extend plot",
-    "Convenient magic",
-    "Contrived delays"
+    "Irrational behaviour to extend plot"
   ],
-  "average": 3.5,
+  "average": 3.38,
   "minimum": 0.0,
   "passed": false
 }
