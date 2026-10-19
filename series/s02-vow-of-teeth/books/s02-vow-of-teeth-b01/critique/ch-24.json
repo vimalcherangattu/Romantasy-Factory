@@ -1,0 +1,41 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 3.0,
+    "character_logic": 2.0,
+    "stakes_and_cost": 4.0,
+    "prose": 3.0,
+    "continuity": 0.0
+  },
+  "reasons": {
+    "reader_question": "The bird inside a barred room and 'He means four' give a sharp, specific question: when and how Vellan strikes, given he is already inside. The Kirri silence adds a second hook.",
+    "change": "The value shift lands: Neela goes from 'give me the full moon' to knowing the enemy has walked her chamber and the deadline is shorter. Devan's trust map changes too, with Muthu suspected.",
+    "romance_movement": "The reason is new. She breaks a guild line to warn him, and he ranks her warning over ten-plus years with Muthu ('because you asked'). It is held back a little by his hedge 'Both'.",
+    "shown_chemistry": "Good responsive beats: he stands so the wall is at her back and the open air at his, his ears go dark, he kisses her knuckles. The rampart exchange is mostly logistics, with little banter or physical response.",
+    "character_logic": "Muthu tells a lie Devan can disprove (a dead mother, to the man who stood at her pyre). Devan then tips off his suspect with 'I want your hands where I can see them'. Neither is how the smart versions act.",
+    "stakes_and_cost": "Breaking guild silence costs Neela. Choosing her read over Muthu's friendship costs Devan. Vellan's 'collar' threat and the shortened count make the next night costly.",
+    "prose": "Strong lines ('a lamp carried past a window', 'fourteen hounds' worth of worry'). Weak spots: a bible-sheet bio of Vellan delivered twice, an off-world image ('tests the ice' in Malabar hill country), a muddled Biscuit sentence, 'long time/long moment' repeated, and a Devan-interior POV slip in Neela's rampart scene.",
+    "continuity": "F212 conflicts with F117. In ch12 Devan believed the letters went to Muthu's mother; he cannot have stood at her pyre four years earlier. Also 'Two letters in three days' does not fit F213 (ch23 morning to ch24 morning is one day), and 'ten years of friendship' contradicts 'since they were boys'."
+  },
+  "fixes": [
+    "Opening scene, 'He knew Muthu's mother had been dead four years, because he had stood at the pyre': this is a continuity conflict with F117 and makes the lie irrational. Keep the mother alive. Base Devan's suspicion on things he can see: Muthu's lying tell (he goes quiet, which Devan has known since the kalari pit), a second grey letter a day after the off-day rider, and the fact that his mother writes once a month. In the same scene, change 'Two letters in three days' to 'Two letters in two days'. Later, change 'out of ten years of friendship' to match 'since they were boys'.",
+    "Opening scene, 'I want your hands where I can see them': irrational behaviour, because this warns the suspect Devan has just decided not to warn. Cut the line. Have Devan frame the sealing-day gate post as an honour ('you'll open the Keeper's boxes yourself'). That keeps Muthu close without signalling suspicion, and makes Muthu's late laugh read as guilt rather than as a reaction to a threat.",
+    "Final scene, 'It was warm. Not from her hand.': this is a logic break. The warmth means the bird was placed minutes ago, but Neela has just reasoned it was placed by day. Either cut the warmth and add the cold line 'He had sat in this room while I walked the rampart', or keep it and have her look at once to the ledge and curtain, counting the shutter bar and the silent slat, so the escalation is 'he is still here or just left'. Also fix the POV slip in the rampart scene ('It was a thing he had built in an hour on a wall'): Neela can only infer this, so give it as what she sees in his face."
+  ],
+  "reader_question": "Vellan has already been inside the barred warden's chamber, so when will he strike, and where, now that 'five nights' really means four?",
+  "techniques_landed": [
+    6,
+    11,
+    13
+  ],
+  "new_facts_assessment": "F212 (Muthu's mother dead four years, Devan at the pyre) is unnecessary and inconsistent. It makes Devan's ch12 belief (F117) impossible and makes Muthu's lie stupid. The bible already supplies the tell: Muthu goes very quiet when lying. F213 (five nights left) is consistent with F206, but the chapter's 'two letters in three days' contradicts it. F214 is necessary and consistent: Vellan keeps the stone, the watcher reports the sword hilt, and Ammu stays at the inn as Valli. F215 is a good clue; the whole beak echoes Asha's mended parrots (F111) and the resin smell ties to the Resin House. However, the bird is 'warm' at full dark, which contradicts Neela's own reasoning that it was placed by day. F216 is necessary and in character (the guild line, the 'I won't answer' ethic). Unlisted facts that should go in new-facts: a garrison of 'sixty soldiers'; Raiu moved from the head of the stair (F090) to the chamber door; Vellan has 'earned the release three times' (consistent with the bible).",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Irrational behaviour to extend plot"
+  ],
+  "average": 3.0,
+  "minimum": 0.0,
+  "passed": false
+}
