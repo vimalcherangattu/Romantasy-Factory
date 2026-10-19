@@ -220,6 +220,12 @@ def build(cfg: Config, book: dict, files: dict[str, str]) -> dict:
         result["docx_headings"] = docx_headings_ok(pkg / "book.docx")
         if result["docx_headings"] is False:
             problems.append("book.docx chapters are not Heading 1")
+    if cfg.get("paperback.enabled", True):
+        try:
+            from . import paperback
+            result["paperback"] = paperback.build(cfg, book)
+        except Exception as exc:  # noqa: BLE001 - the ebook must not fail because of print
+            problems.append(f"paperback build failed: {exc}")
     if not (pkg / "cover.jpg").exists():
         result["cover"] = "missing: generate art from cover-prompt.md, then run `factory cover`"
     return result
@@ -298,35 +304,13 @@ def _wrap(draw, text: str, font, width: int) -> list[str]:
 
 
 def typeset_cover(cfg: Config, art: Path, out: Path, title: str, pen_name: str) -> Path:
-    """Crop the art to KDP portrait size and add title and pen name with a fixed font set."""
-    from PIL import Image, ImageDraw
+    """Crop the art to KDP's ebook size and add title and pen name in the series display face."""
+    from PIL import Image
+
+    from .paperback import compose_front
 
     W, H = cfg.get("packaging.cover_width", 1600), cfg.get("packaging.cover_height", 2560)
-    img = Image.open(art).convert("RGB")
-    scale = max(W / img.width, H / img.height)
-    img = img.resize((round(img.width * scale), round(img.height * scale)), Image.LANCZOS)
-    left, top = (img.width - W) // 2, (img.height - H) // 2
-    img = img.crop((left, top, left + W, top + H))
-
-    shade = Image.new("L", (1, H))
-    for y in range(H):
-        edge = min(y / (H * 0.3), (H - y) / (H * 0.18), 1.0)
-        shade.putpixel((0, y), int(170 * (1 - edge)))
-    overlay = Image.new("RGB", (W, H), (0, 0, 0))
-    img = Image.composite(overlay, img, shade.resize((W, H)))
-
-    draw = ImageDraw.Draw(img)
-    title_font = _font(cfg.get("packaging.title_font", ""), int(H * 0.085))
-    author_font = _font(cfg.get("packaging.author_font", ""), int(H * 0.045))
-    y = int(H * 0.06)
-    for line in _wrap(draw, title.upper(), title_font, int(W * 0.88)):
-        w = draw.textlength(line, font=title_font)
-        draw.text(((W - w) / 2, y), line, font=title_font, fill=(245, 236, 220), stroke_width=3, stroke_fill=(20, 12, 10))
-        y += int(H * 0.095)
-    author = pen_name.upper()
-    w = draw.textlength(author, font=author_font)
-    draw.text(((W - w) / 2, H - int(H * 0.09)), author, font=author_font, fill=(245, 236, 220),
-              stroke_width=2, stroke_fill=(20, 12, 10))
+    img = compose_front(Image.open(art), W, H, title, pen_name)
     out.parent.mkdir(parents=True, exist_ok=True)
     img.save(out, "JPEG", quality=92)
     return out

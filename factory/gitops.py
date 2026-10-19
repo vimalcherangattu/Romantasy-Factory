@@ -5,7 +5,7 @@ import time
 
 from .config import Config
 
-TRACKED = ("series", "state", "review", "reports")
+TRACKED = ("series", "state", "review", "reports", "pen-names")
 
 
 def _git(cfg: Config, *args: str) -> subprocess.CompletedProcess:

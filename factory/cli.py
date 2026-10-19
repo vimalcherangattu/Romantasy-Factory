@@ -1,5 +1,6 @@
 """`factory` command line: the owner's interface (PRD sections 3 and 4)."""
 
+import json
 import shutil
 import subprocess
 from datetime import date
@@ -242,6 +243,16 @@ def cover(book_id: str, art: Path = typer.Option(..., exists=True, help="Cover a
     meta = read_json(pkg / "metadata.json", {}) or {}
     out = package.typeset_cover(cfg, art, pkg / "cover.jpg", meta.get("title") or b.get("title", ""),
                                 meta.get("pen_name") or state.pen_name(cfg, b["series_id"]))
+    art_copy = pkg / f"cover-art{art.suffix.lower() or '.png'}"
+    if art.resolve() != art_copy.resolve():
+        shutil.copy(art, art_copy)  # full-resolution original, reused for the paperback wrap
+    if cfg.get("paperback.enabled", True) and (pkg / "metadata.json").exists():
+        from . import paperback
+        try:
+            info = paperback.build(cfg, b, art_copy)
+            typer.echo(f"Paperback: {info['pages']} pages, spine {info.get('spine_in')} in, wrap {info.get('wrap_in')} in")
+        except Exception as exc:  # noqa: BLE001
+            typer.secho(f"warning: paperback build failed: {exc}", fg=typer.colors.YELLOW)
     disclosure = pkg / "ai-disclosure.md"
     if disclosure.exists():
         disclosure.write_text(disclosure.read_text().replace("the owner's image tool (fill in before upload)", tool))
@@ -250,6 +261,33 @@ def cover(book_id: str, art: Path = typer.Option(..., exists=True, help="Cover a
         shutil.copy(out, review_copy / "cover.jpg")
     gitops.commit(cfg, f"{book_id}: cover")
     typer.echo(f"Cover: {out.relative_to(cfg.paths.root)} (check the title is readable at thumbnail size)")
+
+
+@app.command("paperback")
+def paperback_cmd(book_id: str) -> None:
+    """Rebuild the paperback interior PDF and wraparound cover for a book."""
+    from . import paperback
+
+    cfg = _cfg()
+    b = state.load_book(cfg, book_id)
+    info = paperback.build(cfg, b)
+    gitops.commit(cfg, f"{book_id}: paperback")
+    typer.echo(json.dumps(info, indent=2))
+
+
+@app.command("author-page")
+def author_page(pen_name: str = typer.Argument(..., help="Pen name, e.g. \"Anya Kalloor\""),
+                lane: str = typer.Option("", help="What this name writes, e.g. 'Kerala gothic romantasy'")) -> None:
+    """Build the Amazon Author Central kit for a pen name: bio, monogram image, books and claim steps."""
+    from . import authorpage
+
+    cfg = _cfg()
+    if not lane:
+        lanes = {v: k for k, v in (cfg.get("pen_names") or {}).items()}
+        lane = lanes.get(pen_name, "").replace("_", " ")
+    out = authorpage.build(cfg, pen_name, lane)
+    gitops.commit(cfg, f"author page: {pen_name}")
+    typer.echo(f"Author Central kit: {out.relative_to(cfg.paths.root)}/author-central.md")
 
 
 @app.command("install-schedule")

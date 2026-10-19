@@ -63,6 +63,7 @@ models:
   owner_notes: opus
   select: opus
   market_check: sonnet
+  author_bio: sonnet
   beta_reader: opus
   magnet: sonnet
 
@@ -119,6 +120,13 @@ packaging:
   cover_height: 2560
   title_font: ""                   # path to a .ttf/.otf; empty uses a bundled fallback
   author_font: ""
+
+# Paperback (KDP Print). Built at packaging; the wrap is built when cover art arrives.
+paperback:
+  enabled: true
+  trim: [5.5, 8.5]                 # inches; common romance trim
+  paper: cream                     # cream suits fiction; spine 0.0025 in per page
+  price_usd: 15.99
 
 notify:
   telegram: false                  # needs FACTORY_TELEGRAM_TOKEN and FACTORY_TELEGRAM_CHAT

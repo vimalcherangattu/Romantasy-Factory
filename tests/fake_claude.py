@@ -153,6 +153,9 @@ def respond(system: str, user: str) -> str:
         return block("metadata.json", meta) + block("blurb.md", "<p><b>One oath.</b> Two liars.</p>") \
             + block("cover-prompt.md", "## Art prompt\nInk and gold.") + block("teaser.md", "# Next\nThe seal wakes.") \
             + block("launch-email.md", "Subject: The Ink Oath is out\n\nHi! Read it: {{AMAZON_LINK}}")
+    if "# Author bio writer" in system:
+        return block("author-bio.json", {"bio_long": "Long bio. " * 40, "bio_short": "Short bio about the books.",
+                                         "tagline": "Dangerous love, old magic"})
     if "# Market check" in system:
         concepts = json.loads(input_block(user, "concepts.json") or "[]")
         return block("market-check.json", {"pen_name": {"name": "Test Pen", "verdict": "clear", "evidence": []},

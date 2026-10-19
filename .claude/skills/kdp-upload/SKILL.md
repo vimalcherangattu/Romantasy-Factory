@@ -34,6 +34,22 @@ The owner signs in and gives the final go-ahead to Publish.
 - After publishing, KDP shows the book as "In review" until the ASIN appears (up to 72 hours).
   When the owner has the ASIN, run `factory published <id> --asin <ASIN>`, then `factory site`.
 
+## Paperback (after the ebook is live, or right after it)
+
+1. On the Bookshelf, use "+ Create paperback" on the ebook's entry so the editions link.
+2. Follow `package/paperback/paperback-checklist.md`: free KDP ISBN, cream paper, 5.5 x 8.5 in,
+   no bleed, matte, `paperback/interior.pdf`, cover `paperback/cover-wrap.pdf`.
+3. In the Previewer, check the spine text sits inside the spine and the barcode area is clear.
+   If KDP's cover calculator gives a different size, run `factory paperback <id>` after updating
+   the page count, and re-upload.
+4. Same rule: stop before "Publish Your Paperback Book" and wait for the owner's "publish".
+
+## Author Central (once per pen name, then per book)
+
+Follow `pen-names/<pen-name>/author-central.md`: claim the book at author.amazon.com, paste the
+biography, upload `author-image.png`. For each new live book, claim it under the same author.
+Run `factory author-page "<pen name>"` first if the kit doesn't exist yet.
+
 ## Daily limit
 
 Only one book per day goes up (`schedule.max_uploads_per_day`). KDP's own cap is 3 new titles

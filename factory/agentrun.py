@@ -23,6 +23,7 @@ MODEL_KEYS = {
     "beta_reader": "beta_reader",
     "magnet": "magnet",
     "market_check": "market_check",
+    "author_bio": "author_bio",
 }
 
 

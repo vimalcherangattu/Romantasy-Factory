@@ -61,3 +61,37 @@ def test_cover_command_fills_disclosure(cfg, approved_series, tmp_path):
     text = (pkg / "ai-disclosure.md").read_text()
     assert "ElevenLabs (GPT Image 2.5)" in text and "fill in before upload" not in text
     assert Image.open(pkg / "cover.jpg").size == (1600, 2560)
+
+
+def test_paperback_interior_and_wrap(cfg, approved_series, tmp_path):
+    from factory import paperback
+
+    bid = f"{approved_series}-b01"
+    orchestrator.run(cfg, book_id=bid, echo=lambda *_: None)
+    b = state.load_book(cfg, bid)
+    assert b["package"]["paperback"]["pages"] >= 4
+    art = tmp_path / "art.png"
+    Image.new("RGB", (2048, 3072), (70, 40, 90)).save(art)
+    info = paperback.build(cfg, b, art)
+    out = cfg.paths.book_dir(approved_series, bid) / "package" / "paperback"
+    for name in ("interior.pdf", "cover-wrap.pdf", "cover-wrap-preview.jpg", "paperback-checklist.md"):
+        assert (out / name).exists(), name
+    assert info["spine_in"] == paperback.spine_width(info["pages"], "cream")
+    assert info["wrap_in"][1] == 8.75
+
+
+def test_kdp_formulas():
+    from factory import paperback
+
+    assert paperback.gutter_for(120) == 0.375 and paperback.gutter_for(305) == 0.625
+    assert paperback.spine_width(305, "cream") == 0.7625
+    assert paperback.spine_width(300, "white") == 0.6756
+
+
+def test_author_page(cfg, approved_series):
+    from factory import authorpage
+
+    out = authorpage.build(cfg, "Test Pen", "test lane")
+    text = (out / "author-central.md").read_text()
+    assert "Biography" in text and "Short bio" in text
+    assert Image.open(out / "author-image.png").size == (1200, 1200)

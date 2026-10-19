@@ -5,9 +5,9 @@ set -euo pipefail
 [ "${CLAUDE_CODE_REMOTE:-}" = "true" ] || exit 0
 cd "$(dirname "$0")/.."
 
-python3 -c "import typer, yaml, PIL, docx, pytest" 2>/dev/null \
+python3 -c "import typer, yaml, PIL, docx, pytest, weasyprint" 2>/dev/null \
   || pip install --break-system-packages -q -e ".[dev]" >/dev/null 2>&1 \
-  || pip install --break-system-packages -q typer pyyaml pillow python-docx pytest >/dev/null 2>&1
+  || pip install --break-system-packages -q typer pyyaml pillow python-docx pytest weasyprint >/dev/null 2>&1
 python3 -c "import factory" 2>/dev/null || pip install --break-system-packages -q -e . >/dev/null 2>&1 || true
 
 # epubcheck: the PyPI wheel bundles the official jar; Java is preinstalled.
