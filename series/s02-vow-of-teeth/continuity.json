@@ -1,0 +1,327 @@
+{
+  "facts": [
+    {
+      "id": "F001",
+      "category": "name",
+      "fact": "Heroine is Neela, 27, odiyan of the Resin House, ledger number Seventeen. She does not know her birth name.",
+      "since": "bible"
+    },
+    {
+      "id": "F002",
+      "category": "name",
+      "fact": "Love interest is Devan, 32, warden of Kettamala hill fort and the queen's border commander for the Monkey Pass.",
+      "since": "bible"
+    },
+    {
+      "id": "F003",
+      "category": "magic",
+      "fact": "Neela's night-shape is a leopard. Ammu's is a jackal, Vellan's a sloth bear, Kirri's a civet. Shapes are fixed at the first turning and never chosen.",
+      "since": "bible"
+    },
+    {
+      "id": "F004",
+      "category": "magic",
+      "fact": "An odiyan turns only after sunset, by smearing nightbark resin on throat and wrists. She turns back at first light and cannot turn back early, turn by day, or speak while in shape.",
+      "since": "bible"
+    },
+    {
+      "id": "F005",
+      "category": "magic",
+      "fact": "A witness is anyone who has seen a turning (dusk or dawn) with their own eyes. Seeing only the animal does not make someone a witness.",
+      "since": "bible"
+    },
+    {
+      "id": "F006",
+      "category": "magic",
+      "fact": "A witness who speaks the night-shape aloud in the odiyan's hearing, while she is in shape and before dawn, cages her for life. Intent does not matter. Non-witnesses cannot cage.",
+      "since": "bible"
+    },
+    {
+      "id": "F007",
+      "category": "magic",
+      "fact": "Caged odiyans stay animals for life and their human minds fade over about a year. No caging is ever undone.",
+      "since": "bible"
+    },
+    {
+      "id": "F008",
+      "category": "magic",
+      "fact": "Self-naming: during a dusk turning, an odiyan speaks her own night-shape to one chosen person looking at her. It voids all other witnesses, a caging then needs both their voices, her ledger witness entry burns, and she is marked rogue. It can be done only once in a life.",
+      "since": "bible"
+    },
+    {
+      "id": "F009",
+      "category": "magic",
+      "fact": "A self-named pair feel each other's wounds for life. A cut opens as a welt on the other, and a mortal wound drags the other toward death.",
+      "since": "bible"
+    },
+    {
+      "id": "F010",
+      "category": "magic",
+      "fact": "A ledger page in a true witness's resin-ink gives its holder a witness's power when read aloud at night in the odiyan's hearing. Pages cannot be forged.",
+      "since": "bible"
+    },
+    {
+      "id": "F011",
+      "category": "magic",
+      "fact": "Handing a page to its own subject requires the holder to read it aloud in full by daylight before her. A page held by its own subject cannot be used against her.",
+      "since": "bible"
+    },
+    {
+      "id": "F012",
+      "category": "magic",
+      "fact": "Each ledger page has the odiyan's intake roll (birth name, birth village) fastened to it. Self-naming burns only the witness entry. Burning the whole page destroys the intake roll.",
+      "since": "bible"
+    },
+    {
+      "id": "F013",
+      "category": "magic",
+      "fact": "Going a full moon without resin brings the ache: fever, night-sweats and split nails. Never fatal. Resin can be forced on an unwilling odiyan, which tears the resin scars.",
+      "since": "bible"
+    },
+    {
+      "id": "F014",
+      "category": "injury",
+      "fact": "Every odiyan has pale ridged resin scars at the throat and inner wrists.",
+      "since": "bible"
+    },
+    {
+      "id": "F015",
+      "category": "magic",
+      "fact": "Marma and kalari are skill, not magic. A marma strike can kill in human form.",
+      "since": "bible"
+    },
+    {
+      "id": "F016",
+      "category": "place",
+      "fact": "Kettamala is a laterite hill fort above the Monkey Pass. Its west stair has a parrot newel post with a broken beak. The cistern chain clanks on the hour.",
+      "since": "bible"
+    },
+    {
+      "id": "F017",
+      "category": "place",
+      "fact": "The warden's chamber has west-facing teak shutters, and the third slat creaks. The fort kalari is a sunken earthen pit below the east wall.",
+      "since": "bible"
+    },
+    {
+      "id": "F018",
+      "category": "place",
+      "fact": "The Resin House is in the Blackbark Wood, a day's hard ride from Kettamala, and has kennels for caged odiyans.",
+      "since": "bible"
+    },
+    {
+      "id": "F019",
+      "category": "place",
+      "fact": "Kodiyur is the royal port capital of Varanad. The palace sits on a sea cliff and the harbour tower fires a noon gun.",
+      "since": "bible"
+    },
+    {
+      "id": "F020",
+      "category": "place",
+      "fact": "The monsoon closes the Monkey Pass and the hill roads for about four months.",
+      "since": "bible"
+    },
+    {
+      "id": "F021",
+      "category": "relationship",
+      "fact": "Neela was married to Devan as the ward of the Chirayil pepper house, at a match pressed by the queen's council and proposed by Councillor Ittan.",
+      "since": "bible"
+    },
+    {
+      "id": "F022",
+      "category": "relationship",
+      "fact": "Ammu, 25, is Neela's guild-sister, raised beside her since age 5, and calls her chechi. Ammu witnessed Neela's first turning.",
+      "since": "bible"
+    },
+    {
+      "id": "F023",
+      "category": "relationship",
+      "fact": "Asha, Devan's younger sister and second at the fort, was killed at 22 on the west stair six years before book 1.",
+      "since": "bible"
+    },
+    {
+      "id": "F024",
+      "category": "relationship",
+      "fact": "Janu, 61, steward of Kettamala, raised Devan and Asha after their mother died.",
+      "since": "bible"
+    },
+    {
+      "id": "F025",
+      "category": "relationship",
+      "fact": "Captain Muthu, 35, is Devan's second-in-command and secretly writes monthly reports to the queen's household.",
+      "since": "bible"
+    },
+    {
+      "id": "F026",
+      "category": "name",
+      "fact": "Ruler is Queen Nirmala of Varanad, 54. The guild master is Chathu, 61, not an odiyan. Councillor Ittan, 49, is Keeper of the Passes.",
+      "since": "bible"
+    },
+    {
+      "id": "F027",
+      "category": "object",
+      "fact": "Neela wears a plain gold wedding bangle from the wedding onward.",
+      "since": "bible"
+    },
+    {
+      "id": "F028",
+      "category": "object",
+      "fact": "Forged pass-tokens reaching Thurai raiders bear genuine council wax. The queen seals in green wax.",
+      "since": "bible"
+    },
+    {
+      "id": "F029",
+      "category": "object",
+      "fact": "Kirri wears a silver anklet, which she still wears when caged in the kennels.",
+      "since": "bible"
+    },
+    {
+      "id": "F030",
+      "category": "timeline",
+      "fact": "Neela's contract is her twelfth. Twelve completed contracts are promised to earn release.",
+      "since": "bible"
+    },
+    {
+      "id": "F031",
+      "category": "timeline",
+      "fact": "Book 1 opens on the wedding day, about 40 days before the monsoon closes the pass, which is Neela's contract deadline.",
+      "since": "bible"
+    },
+    {
+      "id": "F032",
+      "category": "injury",
+      "fact": "Devan has not sparred a living person in eight years. He drills kalari alone every dawn.",
+      "since": "bible"
+    },
+    {
+      "id": "F033",
+      "category": "knowledge",
+      "fact": "Border wardens are taught the odiyan witness rule. Devan knows it from the start.",
+      "since": "bible"
+    },
+    {
+      "id": "F034",
+      "category": "name",
+      "fact": "The coastal raiders come from Thurai, a rival kingdom ruled by sea lords.",
+      "since": "bible"
+    },
+    {
+      "id": "F035",
+      "category": "magic",
+      "fact": "The Resin House owns the only nightbark groves and rations resin. Rogues must steal resin or buy it cut with lamp oil.",
+      "since": "bible"
+    }
+  ],
+  "knowledge": [
+    {
+      "character": "Neela",
+      "knows": "Her contract terms: kill Devan in his chamber so it looks like a leopard kill, before the pass closes.",
+      "since": "bible"
+    },
+    {
+      "character": "Neela",
+      "knows": "Her only witnesses are Chathu and Ammu, and her page is in the ledger.",
+      "since": "bible"
+    },
+    {
+      "character": "Neela",
+      "knows": "She was lookout on a hill-fort job six years ago where a young woman died. She was moved there blindfolded and does not know which fort.",
+      "since": "bible"
+    },
+    {
+      "character": "Neela",
+      "knows": "She does not know the buyer of her contract, her birth name, or the self-naming loophole.",
+      "since": "bible"
+    },
+    {
+      "character": "Devan",
+      "knows": "The witness rule, and that Asha's bear wounds inside the walls mean an odiyan contract killed her.",
+      "since": "bible"
+    },
+    {
+      "character": "Devan",
+      "knows": "Forged pass-tokens with real council wax reach Thurai raiders. He does not know who sells them.",
+      "since": "bible"
+    },
+    {
+      "character": "Devan",
+      "knows": "The council pressed the marriage, and he distrusts the bride.",
+      "since": "bible"
+    },
+    {
+      "character": "Ammu",
+      "knows": "The self-naming loophole, told to no one. She has had no answer to her letters to Kirri.",
+      "since": "bible"
+    },
+    {
+      "character": "Chathu",
+      "knows": "Every member's shape and page; that release is a lie; the buyer of Devan's contract and the queen's seal on it.",
+      "since": "bible"
+    },
+    {
+      "character": "Vellan",
+      "knows": "He killed Asha and Neela was lookout. He suspects release is a lie.",
+      "since": "bible"
+    },
+    {
+      "character": "Ittan",
+      "knows": "He bought Devan's contract, sells extra pass-tokens, and planned to take the pass-seal from Devan's widow.",
+      "since": "bible"
+    },
+    {
+      "character": "Queen Nirmala",
+      "knows": "Her secret treaty with Thurai, her seal on the contract writ, and the crown leaf of night-guard pages.",
+      "since": "bible"
+    },
+    {
+      "character": "Muthu",
+      "knows": "He reports on Devan to the queen's household. He knows nothing of the contract or the treaty.",
+      "since": "bible"
+    }
+  ],
+  "timeline": [
+    {
+      "when": "32 years before book 1",
+      "event": "Devan is born."
+    },
+    {
+      "when": "27 years before book 1",
+      "event": "Neela is born in a village on the coast side of the Monkey Pass."
+    },
+    {
+      "when": "21 years before book 1",
+      "event": "Raiders burn Neela's village. At 6 she is sold to the Resin House."
+    },
+    {
+      "when": "20 years before book 1",
+      "event": "Ammu, age 5, is brought to the Resin House."
+    },
+    {
+      "when": "11 years before book 1",
+      "event": "Neela's first turning at 16, witnessed by Chathu and Ammu (14)."
+    },
+    {
+      "when": "8 years before book 1",
+      "event": "Devan, 24, kills a surrendering raider captain with a marma strike and stops sparring."
+    },
+    {
+      "when": "6 years before book 1",
+      "event": "Asha, 22, is killed on Kettamala's west stair by Vellan. Neela, 21, keeps watch."
+    },
+    {
+      "when": "5 years before book 1",
+      "event": "Devan, 27, is made warden of Kettamala."
+    },
+    {
+      "when": "2 years before book 1",
+      "event": "Kirri is 'released' and secretly caged in the kennels."
+    },
+    {
+      "when": "Book 1 day 1",
+      "event": "Neela and Devan marry at sunset. That night Devan secretly witnesses her turning."
+    },
+    {
+      "when": "Book 1, about day 40",
+      "event": "Monsoon closes the Monkey Pass. This is the contract deadline."
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "title": "The Odiyan Contracts",
+  "slug": "vow-of-teeth",
+  "engine": "rule",
+  "heat": "Open door, moderate: 2 to 3 explicit scenes per book, each changing the bargain between them",
+  "subgenre": "Romantasy (core), dark edges",
+  "structure": "one couple across trilogy",
+  "books": [
+    {
+      "number": 1,
+      "working_title": "Vow of Teeth",
+      "couple": "Neela and Devan",
+      "central_question": "Will Neela kill the husband she was sold to?",
+      "hinge": "The guild's payment writ for Devan's death bears the queen's own seal."
+    },
+    {
+      "number": 2,
+      "working_title": "Oath of Claws",
+      "couple": "Neela and Devan",
+      "central_question": "Can they steal the guild's ledger without becoming its new masters?",
+      "hinge": "The ledger's missing pages are odiyans sold to the crown: the queen's own guard are odiyans, held in her secret crown leaf."
+    },
+    {
+      "number": 3,
+      "working_title": "Crown of Night",
+      "couple": "Neela and Devan",
+      "central_question": "Can they free every odiyan, even the queen's guard, if it leaves Varanad without its night-guard as Thurai raiders land?",
+      "hinge": "A Thurai envoy asks to hire the Night Company, bringing a rogue odiyan who was never in any ledger."
+    }
+  ]
+}
