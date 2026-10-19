@@ -6,3 +6,4 @@ timestamp,book_id,stage,model,input_tokens,output_tokens,cache_read_input_tokens
 2026-10-19T17:42:07,s02-vow-of-teeth,bible,opus,2,42279,0,24587,455344,1,1.042284
 2026-10-19T17:50:49,s03-bound-till-the-thaw,bible,opus,2,48935,19212,5258,510190,1,1.0246144000000001
 2026-10-19T18:09:34,pen:anya-kalloor,author_bio,sonnet,2,1914,0,7848,17221,1,0.050536
+2026-10-19T18:09:59,pen:mira-sangla,author_bio,sonnet,2,1634,5641,2256,18317,1,0.025932100000000003
