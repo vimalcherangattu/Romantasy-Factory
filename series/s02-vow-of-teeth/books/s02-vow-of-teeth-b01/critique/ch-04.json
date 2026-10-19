@@ -4,38 +4,39 @@
     "change": 4.0,
     "romance_movement": 4.0,
     "shown_chemistry": 4.0,
-    "character_logic": 3.0,
+    "character_logic": 2.0,
     "stakes_and_cost": 3.0,
-    "prose": 3.0,
-    "continuity": 5.0
+    "prose": 4.0,
+    "continuity": 0.0
   },
   "reasons": {
-    "reader_question": "The chapter plants two sharp gaps: true council wax, so which councillor, and why the yard went empty the night she arrived. The flat closing image ('spent the night on nothing') dulls the exit question.",
-    "change": "Knowledge moves: the wax is genuine and a month old, his hunt is the council, and the yard is open. Her intent also moves, from a sure answer to an unsure one. Power doesn't move.",
-    "romance_movement": "New reason, as the beat asks. She learns his goal has nothing to do with her and admires how he calms Bhaskaran. That softens her for the first time, shown in the abandoned climb at the window.",
-    "shown_chemistry": "Strong responsive detail. She copies his open-palm gesture without meaning to. She notices the wax halves are warm from his hand and that his fingers are dry at the pads. Narration only names her feeling once ('a bad sign').",
-    "character_logic": "Chapter 3 ended with the slat cracking and Neela unsure whether he woke. A smart assassin would test that next morning, and this chapter never mentions it. Devan briefing a council-chosen bride on his council hunt is plausible as a test, but nobody on the page notices the risk.",
-    "stakes_and_cost": "Her non-choice costs one of 37 nights, which is tactical, not emotional. The sentry gives her a practical excuse, so the hesitation over him costs her nothing yet.",
-    "prose": "Mostly clean and concrete, with no banned phrases or em dashes. But the rain paragraph says the same thing twice ('Only here did...' and 'And only here did...'). 'Thrown the weight of a hunt' is an AI-tell phrase. The it/she switch in the closing paragraphs blurs.",
-    "continuity": "Matches the bible and chapters 1-3: guard layout, four at the padippura, two on the west stair, change at the third clank, Kannan about nine, Bhaskaran on the gate, 37 nights on night 3, council wax distinct from the queen's green wax, and Devan never lies."
+    "reader_question": "Specific and twofold: which councillor holds a true seal, and why the yard was emptied for her. The added open-shutter ending sharpens it but at a cost (see character_logic).",
+    "change": "Knowledge and relationship both shift. She learns the yard was emptied on purpose, that the wax is true, and that his hunt is not aimed at her. She ends unsure whether she will kill him at all.",
+    "romance_movement": "The movement is new and correct for the beat: competence draws her, and his hunt has 'never crossed his mind' as a lever against her. 'I hope you find him' and meaning it is a clean emotional turn.",
+    "shown_chemistry": "Shown through response, not narration. She copies his open palm on the pillar without meaning to. The wax halves are warm from his hand. His dry 'I would sleep better' echoes her own night work.",
+    "character_logic": "Devan and Bhaskaran are sharp. Neela, a trained odiyan whose survival depends on never being witnessed, lies under the water trough until the sky greys and lets the dawn turning start in an open yard full of guards. A smart Neela would never do this.",
+    "stakes_and_cost": "Holding off costs her one of thirty-seven nights, and the chapter says so. The emotional cost of not knowing whether he dies by her hand is named but thin, and the dawn exposure risk is created and then ignored.",
+    "prose": "Concrete, varied and readable, with no banned phrases or AI tells and no em-dash overuse. Faults: two consecutive paragraphs open with 'That'. A present-tense intrusion ('less time than it takes to boil water'). In the leopard section the pronoun slips to 'she' and the animal reasons in full sentences right after 'It had no words'.",
+    "continuity": "Fails on two counts. Kannan's 'Every night since your wedding' puts the hounds before the sentry (pulled ch5), which contradicts F282 (sentry first, then hounds). The new ending conflicts with F278, F065 and F077: Devan's protections exist so no one else can witness her, and she turns back on the ledge in later chapters. Here the window is flung wide at dawn while she is turning in the open yard."
   },
   "fixes": [
-    "Opening scene, at 'She had crossed that yard last night': Chapter 3's open question is dropped (did the cracking slat wake him?), so the chapter gives no partial answer to the previous hook, and a smart Neela would check. Add two or three lines this morning. She notes the bar sat in its brackets, and Devan said nothing about it at dawn, or said something exact and unreadable. Then let her fold that into the gift-or-trap argument, so the kennelled hounds become the second piece of evidence, not the first.",
-    "Ending, at 'watched the dark square, and spent the night on nothing': The ending neither interrupts an action nor reveals anything, which fails chapter checklist item 5. Keep the abandoned climb but end on something the story causes. For example, at dawn the shutter is drawn fully back when she left it ajar, or the bar is gone from the wall. Either makes chapter 5 necessary and feeds the dramatic irony (technique 13).",
-    "Night section, at 'Only here did he give her a word' and 'whose words had been plain with it all day': The rain paragraph repeats itself (the two 'only here' sentences) and the it/she voice wobbles. Cut 'And only here did he hand her a reason that didn't fit the sky.' Replace 'whose words had been plain with it all day, and who had never once thrown the weight of a hunt at his wife' with a concrete image. One option: the open palm on the table, which also removes the 'the weight of' AI tell. Rewrite 'not certain of the answer she'd come to give' to name the answer: whether he dies by her."
+    "Ending, from 'It lay under the water trough until the sentry's boots' to the last line: this is irrational behaviour and worldbuilding collapse. An odiyan would never let first light catch her in an open yard under a wall walk, because anyone watching becomes her witness. The open-shutter twist also contradicts F278 and F065. Rewrite the ending so she uses the thirty-count gap in the last dark to climb back to the ledge. She turns back there, shaking, and reseats the bar from inside as in ch3. Close on the beat's own note: she lies down beside him, hears the hitch in his breath, and knows she wants the name of the man he is hunting more than she wants his throat tonight. Delete the both-leaves-open reveal and retire F308.",
+    "Kannan's line 'Every night since your wedding': this is a continuity conflict with F282, which orders the sentry's removal before the hounds. The chapter follows the bible's secret map (hounds planted in ch4, sentry pulled in ch5), so keep the line. Instead, flag F282 and the ch30 dialogue for correction to 'barred the shutters the second dusk, kennelled the hounds the next, then pulled the sentry, and Janu's stories last.' Also make Kannan's timing exact ('since the night after your wedding') so it matches ch3, where she first smells dogs through a kennel door on night two.",
+    "Leopard section, 'There was a cheaper way. She could wait a night': the POV voice slips. The section uses 'it' for the other one, then shifts to 'she' and gives the animal full verbal reasoning just before 'It had no words for the question'. Keep 'it' throughout and render the calculation as instinct: the lantern swinging over the ledge, the count of nights felt as a pull. In the same pass, fix the consecutive paragraph openers 'That was all.' / 'That was the first piece.' by merging them. Change the present-tense 'less time than it takes to boil water' to past tense ('less time than a pot took to boil')."
   ],
-  "reader_question": "If the wax is true council wax, which councillor is selling the passes, and did the warden empty the yard for her because he already knows what she is?",
+  "reader_question": "Who on the queen's council is selling passes under true wax, and why did the warden empty the yard the night his assassin bride arrived?",
   "techniques_landed": [
     4,
     11,
     13
   ],
-  "new_facts_assessment": "All five draft facts are small, necessary texture and consistent with canon. Eight years of bad sleep matches his marma killing at 24 and his eight years without sparring. 37 nights matches night 3 of about 40. The hounds howling until the middle watch justifies Kannan's complaint. The rain observation is the key plant (secret map, ch3/ch4) and is worded correctly: she does not conclude he lies. Pipeline problem: continuity.json already holds these facts under shifted IDs F055-F059, while the draft numbers them F054-F058. continuity.json also holds a stale F054 saying 'Rain' is 'Devan's only untrue statement'. That conflicts with the bible rule that Devan never lies to Neela. Retire the stale F054 and renumber so each fact appears once.",
+  "new_facts_assessment": "F307 (Devan: 'The third slat creaks. I've never fixed it.') is necessary and consistent. It matches the bible's sensory signature, lands technique 13 well and keeps the reader ahead of Neela, so keep it. F308 (both shutter leaves swung wide at first light) is not necessary and is not consistent. It reverses the logic of every protection Devan explains in F278 (barring so no one else can witness her). No later fact picks it up (F065 and F078 show the old pattern continuing). It also strands Neela mid-turning in the yard, which no later chapter accounts for. Cut F308. The undeclared chapter details (the clove-oil wax, the sentry above the window, the gap of thirty counts) are already logged as F050 and F052 and are consistent.",
   "content_rule_violation": false,
   "failure_modes": [
-    "Irrational behaviour to extend plot"
+    "Irrational behaviour to extend plot",
+    "Worldbuilding collapse"
   ],
-  "average": 3.75,
-  "minimum": 3.0,
-  "passed": true
+  "average": 3.12,
+  "minimum": 0.0,
+  "passed": false
 }
