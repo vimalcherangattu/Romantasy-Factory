@@ -1,0 +1,42 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 3.0,
+    "stakes_and_cost": 4.0,
+    "prose": 4.0,
+    "continuity": 5.0
+  },
+  "reasons": {
+    "reader_question": "The writ ending opens two sharp gaps: who arranged for his widow to hold the seal, and whether Neela knows. The second slightly blurs the outline's single question.",
+    "change": "Knowledge shifts twice. Three council seals narrow the seller, then the writ reframes the marriage itself as the weapon. Devan ends in a new strategic stance: she must be kept alive and close.",
+    "romance_movement": "First shared laughter has a new cause: she offers a joke at her own expense in answer to his ledger rule. The writ then gives a new reason to distrust her, one that also makes her more valuable alive. The tension is productive, not recycled.",
+    "shown_chemistry": "Shown through response, not narration: she builds a joke to his stated rule, he laughs into his hand, 'Your ears are,' and she pointedly declines to ask about the market. One line ('the kindest silence... and the most dangerous') tips into telling.",
+    "character_logic": "The writ scene and the Muthu exchange are sound. The lamp rationale is muddled. Neela returns by the window, and a lit passage outside a closed door shows no one her turning, so a smart Devan's reasoning needs to be concrete. The market vantage strains chapter 7.",
+    "stakes_and_cost": "The reader knows from chapter 7 that Chathu said every day counts double once 'the writ' lands, so Neela's stillness carries real dread. Devan's next choice (keep her near while she may be the weapon) costs him the trust he just laughed into.",
+    "prose": "Clean and specific ('a careful careless clerk', 'a coin in a coat she had thought was empty'). No banned phrases. There are a few muddy sentences ('never hidden a page from her that she hadn't asked him to'), a redundant 'He did not say so. He gave nothing of it away,' and two echoed carrying similes (dish 'like a thing that might go off', case 'like a baby').",
+    "continuity": "Consistent with the bible and the facts: Raiu's name took four months (F040), Pepper the goat, the mended kasavu border, clove-oil brick-red wax a month old, Muthu's seventh-day ask, and Devan never lying. F036 says 'corridor torch' while this chapter has a clay lamp, but the bible and beat say lamp. The market vantage is reconcilable with chapter 7 but strained."
+  },
+  "fixes": [
+    "In \"A lit passage put a gold bar under the door\" through \"nor Raiu's shadow stirring in it\" (failure mode: Irrational behaviour to extend plot). The danger is unclear: she returns by the window, not over the door 'sill', and no one in a passage can witness through a closed door. Make the risk concrete in two sentences. For example: the lamp's light spills under the door and across the floor to the window corner at dawn, and a guard with a lit lamp checks the latch at the watch change. Also change 'came over that sill' to 'came over the window ledge'.",
+    "In \"He had stood at the fish racks for the better part\" (failure mode: Contrived delays, plus continuity strain with chapter 7, where Unni was at his mother's stall by the fish racks and Devan claims to have met him on the road). Move Devan's vantage elsewhere, such as the turmeric stalls' far end or under the tamarind wall. Then give the pepper girl one line in the writ section, e.g. he adds 'the coast girl who weighed twice' to the chain of council, match and widow. That way his market knowledge isn't held back from his own reasoning. Log the fact in new-facts.json.",
+    "In \"for the first time since the wedding, he could not tell what she knew\" (prose/logic). This contradicts the opening scene's 'He did not know what she thought the row added up to'. Replace it with a specific change he can see. For example: for the first time she was not watching him at all, only the page, and he could not tell whether she was reading it or remembering it. Also fix the tangled 'He had never hidden a page from her that she hadn't asked him to' to 'He had never hidden a page from her, and he would not begin with one that carried her name.'"
+  ],
+  "reader_question": "Who on the council wants a stranger widow holding Kettamala's pass-seal, and did Neela come up the hill knowing it?",
+  "techniques_landed": [
+    3,
+    13,
+    23
+  ],
+  "new_facts_assessment": "The four listed facts are necessary and consistent. Raiu's age and post fit F036 and F040. The seven seals with three dot-and-split marks plant C04 cleanly. The charter clause matches Ittan's bible plan and is properly set against the captain custom. The registry courier fits. Unlisted facts that must be logged: (1) Devan watched Neela's meeting with 'Valli' from the fish racks for about a quarter hour, saw the girl weigh twice, and saw Neela tense. This is a major knowledge fact affecting later chapters and must be in new-facts.json. (2) The council dies were cut by the palace engraver, 'older than the queen'. (3) The marriage settlement was cloth, brass and four hundred panam. (4) Devan has laughed once before, 'a long time before you'. All are consistent, but (1) needs logging and a vantage that doesn't put him beside Unni's mother's fish stall.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Irrational behaviour to extend plot",
+    "Contrived delays"
+  ],
+  "average": 4.0,
+  "minimum": 3.0,
+  "passed": true
+}
