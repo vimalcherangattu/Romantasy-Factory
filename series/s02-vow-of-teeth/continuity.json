@@ -615,6 +615,41 @@
       "fact": "The marriage writ returns from Kodiyur by a registry courier in registry blue, who will not climb to the keep and gives the case to Unni at the gate.",
       "since": "s02-vow-of-teeth-b01 ch 8",
       "provisional": true
+    },
+    {
+      "id": "F094",
+      "category": "place",
+      "fact": "A goat path leaves the cart road left of a lightning-split boulder at the Monkey Pass gorge below the last pass village, climbs the scree and the shoulder, and drops through thorn past an old well to the lower waystation. Neela knows it without a map and cannot say how.",
+      "since": "s02-vow-of-teeth-b01 ch 9",
+      "provisional": true
+    },
+    {
+      "id": "F095",
+      "category": "place",
+      "fact": "The lower waystation is a low laterite house with a well, a carters' shed and a trodden yard; it stands empty between seasons.",
+      "since": "s02-vow-of-teeth-b01 ch 9",
+      "provisional": true
+    },
+    {
+      "id": "F096",
+      "category": "knowledge",
+      "fact": "Six men rested at the waystation two nights ago and left north before dawn on foot; Neela reads their boots as a trained soldier's heel, a rider's wear and new coast-stitched soles, so they were fed and brought most of the way rather than walking from the sea.",
+      "since": "s02-vow-of-teeth-b01 ch 9",
+      "provisional": true
+    },
+    {
+      "id": "F097",
+      "category": "name",
+      "fact": "Kesu is a one-eyed grandfather in one of the pass villages.",
+      "since": "s02-vow-of-teeth-b01 ch 9",
+      "provisional": true
+    },
+    {
+      "id": "F098",
+      "category": "timeline",
+      "fact": "Neela counts thirty-two nights left on the morning of chapter 9, the day after the writ arrives.",
+      "since": "s02-vow-of-teeth-b01 ch 9",
+      "provisional": true
     }
   ],
   "knowledge": [
