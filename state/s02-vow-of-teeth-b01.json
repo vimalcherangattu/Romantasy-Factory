@@ -75,7 +75,7 @@
       ]
     },
     "04": {
-      "status": "continuity-fix",
+      "status": "revised",
       "revisions": 2,
       "scores": {
         "reader_question": 4.0,
@@ -89,7 +89,7 @@
       },
       "average": 3.75,
       "flags": [],
-      "words": 2836,
+      "words": 3016,
       "minimum": 3.0,
       "continuity_fixes": [
         "'Chinna snored on his mat'. Chinna is a woman: ch 1 calls her 'a broad woman', and ch 18 and ch 31 mention 'her bad hip'. FIX: In ch 4, change 'Chinna snored on his mat' to 'Chinna snored on her mat'."
@@ -1230,9 +1230,13 @@
     {
       "at": "2026-10-19T23:19:04",
       "event": "done: S5 critique ch 3"
+    },
+    {
+      "at": "2026-10-19T23:20:13",
+      "event": "done: S6 revise ch 4"
     }
   ],
-  "updated_at": "2026-10-19T23:19:04",
+  "updated_at": "2026-10-19T23:20:13",
   "midpoint_chapter": 16,
   "continuity_attempts": 1
 }

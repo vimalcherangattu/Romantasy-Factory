@@ -1,39 +1,14 @@
 {
   "facts": [
     {
-      "id": "F054",
       "category": "knowledge",
-      "fact": "Neela notices that 'Rain' at dusk under a clear sky is the one answer Devan gives that is not an answer; it sounds like a forecast but fits nothing in the sky. She links it and the kennelled hounds as both being about the dark. She does not conclude he lies.",
-      "since": "s02-vow-of-teeth-b01 ch 4",
-      "provisional": true
+      "fact": "On the morning after ch3, Devan says to the shutters, 'The third slat creaks. I've never fixed it.' Neela finds the bar seated in its brackets as she left it and cannot read whether he heard her.",
+      "since": "s02-vow-of-teeth-b01 ch 4"
     },
     {
-      "id": "F055",
       "category": "place",
-      "fact": "Kannan's loft sits over the kennel wall; the hounds howl until the middle watch.",
-      "since": "s02-vow-of-teeth-b01 ch 4",
-      "provisional": true
-    },
-    {
-      "id": "F056",
-      "category": "place",
-      "fact": "Chinna sleeps on a mat at the kitchen door; the granary has a farm lock.",
-      "since": "s02-vow-of-teeth-b01 ch 4",
-      "provisional": true
-    },
-    {
-      "id": "F057",
-      "category": "knowledge",
-      "fact": "Janu says Devan has slept badly for eight years.",
-      "since": "s02-vow-of-teeth-b01 ch 4",
-      "provisional": true
-    },
-    {
-      "id": "F058",
-      "category": "timeline",
-      "fact": "On the night of chapter 4 Neela counts thirty-seven nights left before the pass closes.",
-      "since": "s02-vow-of-teeth-b01 ch 4",
-      "provisional": true
+      "fact": "At first light at the end of ch4, both leaves of the warden's shutters are swung wide open, though Neela had left one leaf ajar; no face or lamp shows.",
+      "since": "s02-vow-of-teeth-b01 ch 4"
     }
   ]
 }

@@ -2106,6 +2106,20 @@
       "fact": "The two guards on the upper wall pass each other at the far end every hundred and ten steps and turn on the same foot.",
       "since": "s02-vow-of-teeth-b01 ch 3",
       "provisional": true
+    },
+    {
+      "id": "F307",
+      "category": "knowledge",
+      "fact": "On the morning after ch3, Devan says to the shutters, 'The third slat creaks. I've never fixed it.' Neela finds the bar seated in its brackets as she left it and cannot read whether he heard her.",
+      "since": "s02-vow-of-teeth-b01 ch 4",
+      "provisional": true
+    },
+    {
+      "id": "F308",
+      "category": "place",
+      "fact": "At first light at the end of ch4, both leaves of the warden's shutters are swung wide open, though Neela had left one leaf ajar; no face or lamp shows.",
+      "since": "s02-vow-of-teeth-b01 ch 4",
+      "provisional": true
     }
   ],
   "knowledge": [
