@@ -453,7 +453,7 @@
       "minimum": 3.0
     },
     "23": {
-      "status": "continuity-fix",
+      "status": "revised",
       "revisions": 2,
       "scores": {
         "reader_question": 4.0,
@@ -467,7 +467,7 @@
       },
       "average": 3.75,
       "flags": [],
-      "words": 2789,
+      "words": 2983,
       "minimum": 3.0,
       "continuity_fixes": [
         "Neela 'had been in the room that night, on her side of the bed with her face to the wall, while he read the letter aloud to the dark'. In ch 17 he read Ittan's letter at noon by the west window, and they discussed it face to face. FIX: In ch 23, change it to 'She had stood by the chest while he read the letter aloud at the window at noon, and she had counted the friends in it'."
@@ -1330,9 +1330,13 @@
     {
       "at": "2026-10-19T23:49:33",
       "event": "done: S5 critique ch 21"
+    },
+    {
+      "at": "2026-10-19T23:50:28",
+      "event": "done: S6 revise ch 23"
     }
   ],
-  "updated_at": "2026-10-19T23:49:33",
+  "updated_at": "2026-10-19T23:50:28",
   "midpoint_chapter": 16,
   "continuity_attempts": 1
 }
