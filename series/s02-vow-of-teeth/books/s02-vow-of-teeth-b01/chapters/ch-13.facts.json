@@ -1,20 +1,18 @@
 {
   "facts": [
     {
-      "category": "knowledge",
-      "fact": "Devan has been feeding the notched ginger tom off the table since the second week and has never mentioned it; Neela, as the other one, knows this."
-    },
-    {
-      "category": "knowledge",
-      "fact": "In fever Devan says 'cat' repeatedly and once says the name Asha. Neela hears it in shape and takes it as raving."
-    },
-    {
-      "category": "knowledge",
-      "fact": "Before tonight Devan has watched Neela turn ten times, always through his lashes with a sleeper's face. In ch13 the fever leaves his lids half open and she studies his face for one breath without reading him."
-    },
-    {
+      "id": "F126",
       "category": "timeline",
-      "fact": "At first light after ch13 Ammu, in jackal shape on the second spur, gives the guild call (three yips, pause, one rising note: 'tomorrow, I will find you') after finding the stone empty. Neela does not stand."
+      "fact": "In the last dark before first light after ch13, Ammu, in jackal shape on the second spur, gives the guild call (three yips, pause, one rising note: 'tomorrow, I will find you') after finding the stone empty. Neela hears it in shape and cannot answer. At dawn she reads 'tomorrow' as the coming day and expects Ammu at the gate by the gate-bell as Valli. This replaces the earlier first-light version.",
+      "since": "s02-vow-of-teeth-b01 ch 13",
+      "provisional": true
+    },
+    {
+      "id": "F127",
+      "category": "knowledge",
+      "fact": "When Janu returns and asks where Neela is, Devan tells her flatly that he sent Neela to sleep. Neela, behind the curtain in shape, hears the lie and takes it for fevered kindness.",
+      "since": "s02-vow-of-teeth-b01 ch 13",
+      "provisional": true
     }
   ]
 }
