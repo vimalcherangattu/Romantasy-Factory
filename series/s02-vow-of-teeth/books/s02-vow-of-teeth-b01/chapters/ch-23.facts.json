@@ -1,29 +1,9 @@
 {
   "facts": [
     {
-      "category": "timeline",
-      "fact": "From the morning of chapter 23 the new moon is six nights off (consistent with ch22's seven), the Keeper is due two days after it, and the pass is sealed in eight days; the rains close the road behind the sealing.",
-      "since": "ch 23"
-    },
-    {
       "category": "knowledge",
-      "fact": "Border custom: on sealing day every cart through the padippura, in or out, is opened and searched; no exception is written for the Keeper (aligns F204).",
-      "since": "ch 23"
-    },
-    {
-      "category": "place",
-      "fact": "Kodiyur is four days at a hard ride from Kettamala.",
-      "since": "ch 23"
-    },
-    {
-      "category": "knowledge",
-      "fact": "Neela refuses to name her source beyond 'a guild-sister' and does not name Ammu to Devan; she refers to 'my sister's page' on the next leaf of the ledger.",
-      "since": "ch 23"
-    },
-    {
-      "category": "knowledge",
-      "fact": "Devan sees Captain Muthu hand a grey-sealed letter to a lathered rider at the padippura off post day (the ninth-day post is Sudhi's); Muthu is quiet, not laughing.",
-      "since": "ch 23"
+      "fact": "Devan objects that the Keeper's office holds a dot-and-split seal box by right, so finding the box proves nothing. Neela answers that the proof is what Ittan carries with it: blank split-ash tallies already waxed with the dot-and-split, unregistered in any clerk's book, matching Asha's token and the scouts' satchel tally. This sets up Ittan's arrest with forged tokens in ch29.",
+      "since": "s02-vow-of-teeth-b01 ch 23"
     }
   ]
 }
