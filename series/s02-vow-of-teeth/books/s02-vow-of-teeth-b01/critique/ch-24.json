@@ -3,39 +3,39 @@
     "reader_question": 4.0,
     "change": 4.0,
     "romance_movement": 4.0,
-    "shown_chemistry": 3.0,
-    "character_logic": 2.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 3.0,
     "stakes_and_cost": 4.0,
-    "prose": 3.0,
+    "prose": 4.0,
     "continuity": 0.0
   },
   "reasons": {
-    "reader_question": "The bird inside a barred room and 'He means four' give a sharp, specific question: when and how Vellan strikes, given he is already inside. The Kirri silence adds a second hook.",
-    "change": "The value shift lands: Neela goes from 'give me the full moon' to knowing the enemy has walked her chamber and the deadline is shorter. Devan's trust map changes too, with Muthu suspected.",
-    "romance_movement": "The reason is new. She breaks a guild line to warn him, and he ranks her warning over ten-plus years with Muthu ('because you asked'). It is held back a little by his hedge 'Both'.",
-    "shown_chemistry": "Good responsive beats: he stands so the wall is at her back and the open air at his, his ears go dark, he kisses her knuckles. The rampart exchange is mostly logistics, with little banter or physical response.",
-    "character_logic": "Muthu tells a lie Devan can disprove (a dead mother, to the man who stood at her pyre). Devan then tips off his suspect with 'I want your hands where I can see them'. Neither is how the smart versions act.",
-    "stakes_and_cost": "Breaking guild silence costs Neela. Choosing her read over Muthu's friendship costs Devan. Vellan's 'collar' threat and the shortened count make the next night costly.",
-    "prose": "Strong lines ('a lamp carried past a window', 'fourteen hounds' worth of worry'). Weak spots: a bible-sheet bio of Vellan delivered twice, an off-world image ('tests the ice' in Malabar hill country), a muddled Biscuit sentence, 'long time/long moment' repeated, and a Devan-interior POV slip in Neela's rampart scene.",
-    "continuity": "F212 conflicts with F117. In ch12 Devan believed the letters went to Muthu's mother; he cannot have stood at her pyre four years earlier. Also 'Two letters in three days' does not fit F213 (ch23 morning to ch24 morning is one day), and 'ten years of friendship' contradicts 'since they were boys'."
+    "reader_question": "The bird lands a sharp, specific question: how did Vellan get in, and is the strike really four nights off or sooner? It goes slightly beyond the beat's 'when and where'.",
+    "change": "Value shift lands. Neela breaks a guild line, Devan reorders his defence on her word, and the plan in hand becomes 'the enemy has already been in the room'.",
+    "romance_movement": "The reason is new. She gives up guild silence for his life, and he ranks her warning above a boyhood friend ('because you asked'). It stops short of a felt shift in Neela's belief about being seen.",
+    "shown_chemistry": "Mostly responsive action: he stands so the wall is at her back, accepts her refusal without argument, his ears darken, he kisses her knuckles. 'It was in his face that it hurt him' slides into narrated reading.",
+    "character_logic": "Devan suspects Muthu is Ittan's man yet hands him the Keeper's boxes, the one job where an accomplice could hide the evidence. Neela never asks how a scent-reading watcher knows where the sword lies inside a barred room.",
+    "stakes_and_cost": "Vellan's threat is credible and personal (collar, Kirri, Raiu nineteen at the door). Naming Vellan costs Neela her last guild loyalty. Choosing the stair over Muthu costs Devan.",
+    "prose": "Clean, specific and varied, with strong images (lamp carried past a window, fourteen hounds' worth of worry). Minor faults: 'The word sat in the air between them', 'pale' three times in the bird paragraphs, a run of 'He did not' openings in the stone scene.",
+    "continuity": "Conflicts on the page. Devan posts Raiu 'at the head of the stair after dusk as before', then Raiu is at the chamber door 'barring' it from outside. The bird's placement window contradicts itself (on the hill vs 'while I walked the rampart'). Vellan's 'The watcher says' about the sword clashes with F194 (the watcher reads scent-posts only)."
   },
   "fixes": [
-    "Opening scene, 'He knew Muthu's mother had been dead four years, because he had stood at the pyre': this is a continuity conflict with F117 and makes the lie irrational. Keep the mother alive. Base Devan's suspicion on things he can see: Muthu's lying tell (he goes quiet, which Devan has known since the kalari pit), a second grey letter a day after the off-day rider, and the fact that his mother writes once a month. In the same scene, change 'Two letters in three days' to 'Two letters in two days'. Later, change 'out of ten years of friendship' to match 'since they were boys'.",
-    "Opening scene, 'I want your hands where I can see them': irrational behaviour, because this warns the suspect Devan has just decided not to warn. Cut the line. Have Devan frame the sealing-day gate post as an honour ('you'll open the Keeper's boxes yourself'). That keeps Muthu close without signalling suspicion, and makes Muthu's late laugh read as guilt rather than as a reaction to a threat.",
-    "Final scene, 'It was warm. Not from her hand.': this is a logic break. The warmth means the bird was placed minutes ago, but Neela has just reasoned it was placed by day. Either cut the warmth and add the cold line 'He had sat in this room while I walked the rampart', or keep it and have her look at once to the ledge and curtain, counting the shutter bar and the silent slat, so the escalation is 'he is still here or just left'. Also fix the POV slip in the rampart scene ('It was a thing he had built in an hour on a wall'): Neela can only infer this, so give it as what she sees in his face."
+    "Continuity, internal contradiction. At 'Raiu at the head of the stair after dusk as before, with a second man beside him' versus 'Raiu stood outside with his cowlick and his torch' and 'The door: barred on the outside by a man she knew by name': pick one post. Recommended: Devan says 'Raiu on your door tonight, two more at the stair head', and Neela's count reads 'The door: watched by a man she knew by name'. Fix the bird timeline in the same pass. Keep 'between the hour she went up the spur and the hour she came back' and the cold bird, and change '*He sat in this room while I walked the rampart*' to '*He sat in this room while I sat on his hill.*' Then the placement window is single and the dread is sharper: he came straight from her.",
+    "Worldbuilding collapse / missed clue at the peak. At 'He lays it hilt toward you. The watcher says.': per F194, the watcher reads scent-posts and cannot see inside a barred chamber. Keep the line but make Neela register the impossibility, in two short sentences: she knows the watcher only walks the hill edge, so someone inside the fort told the guild where the sword lies. Have her carry this to Devan on the rampart ('Someone in your house talks to mine'). Her point about Muthu then becomes harder, and it plants a fair suspicion that the reader can test.",
+    "Irrational behaviour to extend plot. At 'You'll open the Keeper's boxes yourself. It's an honour.': a smart Devan who thinks Muthu is Ittan's man would not hand him the only search that can hang Ittan. Add one line of Devan's interior reasoning that turns the post into a test: he will stand beside the cart himself, and if Muthu's hands hesitate over a box, that answers him. Or have him privately set Bhaskaran to open the second box. While revising the rampart scene, let Neela's refusal ('I can't tell you that') carry the dramatic irony. One beat where she nearly says the shape and stops, with Devan's earlier knowledge of the bear wounds on the west stair close in the reader's mind, would make technique 13 land."
   ],
-  "reader_question": "Vellan has already been inside the barred warden's chamber, so when will he strike, and where, now that 'five nights' really means four?",
+  "reader_question": "If Vellan can walk into the warden's chamber by daylight and leave a gift on her pillow, how soon, and through whom, will he strike?",
   "techniques_landed": [
     6,
-    11,
-    13
+    11
   ],
-  "new_facts_assessment": "F212 (Muthu's mother dead four years, Devan at the pyre) is unnecessary and inconsistent. It makes Devan's ch12 belief (F117) impossible and makes Muthu's lie stupid. The bible already supplies the tell: Muthu goes very quiet when lying. F213 (five nights left) is consistent with F206, but the chapter's 'two letters in three days' contradicts it. F214 is necessary and consistent: Vellan keeps the stone, the watcher reports the sword hilt, and Ammu stays at the inn as Valli. F215 is a good clue; the whole beak echoes Asha's mended parrots (F111) and the resin smell ties to the Resin House. However, the bird is 'warm' at full dark, which contradicts Neela's own reasoning that it was placed by day. F216 is necessary and in character (the guild line, the 'I won't answer' ethic). Unlisted facts that should go in new-facts: a garrison of 'sixty soldiers'; Raiu moved from the head of the stair (F090) to the chamber door; Vellan has 'earned the release three times' (consistent with the bible).",
+  "new_facts_assessment": "Bookkeeping: the draft's IDs (F212, F217, F218) don't match the entries already logged for ch24 (F217, F218, F219). The draft's F217 'garrison sixty' would collide with the existing F217 mother fact. Renumber, and retire the stale F212 'mother dead four years' explicitly. Muthu's mother being alive and writing monthly is necessary and consistent with ch12's cover story and the bible's monthly palace letter. It also makes the off-cycle letters the tell, which works. 'Quiet when he lies' since the kalari pit fits the bible's voice notes. Muthu opening the Keeper's boxes repeats ch23's plan, but it now clashes with Devan's suspicion (see fixes). Garrison of about sixty is harmless and useful. F218 contradicts itself: Raiu 'moved to the chamber door' and 'at the stair after dusk with a second man'. Resolve it to one post. 'Bird found cold, so placed by day' is fine, but the chapter must keep one placement window. F214's detail that the watcher told Vellan about the sword is inconsistent with F194 unless it is made deliberate (an inside informant). Make it a clue or cut it. Vellan's 'three times I've earned the release' matches the bible.",
   "content_rule_violation": false,
   "failure_modes": [
-    "Irrational behaviour to extend plot"
+    "Irrational behaviour to extend plot",
+    "Worldbuilding collapse"
   ],
-  "average": 3.0,
+  "average": 3.38,
   "minimum": 0.0,
   "passed": false
 }
