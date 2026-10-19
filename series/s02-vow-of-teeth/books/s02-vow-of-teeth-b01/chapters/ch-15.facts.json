@@ -1,24 +1,11 @@
 {
   "facts": [
     {
-      "category": "timeline",
-      "fact": "The first monsoon storm breaks about eight nights after ch14. Neela has twenty nights left and Devan says he has watched her for twenty days.",
-      "why": "needed because the beat requires 'twenty days' as witness, while ch14 had twenty-eight nights left and twelve days elapsed; a gap of about eight days reconciles them"
-    },
-    {
-      "category": "knowledge",
-      "fact": "For eight nights since the narrows, Neela as the other one has worked the ridge beyond the cut looking for whoever waits there; on the storm night she tracks two couriers with a pack pony and loses them in the rain.",
-      "why": "needed because the beat has her tracking couriers far down the ridge when the storm breaks"
-    },
-    {
-      "category": "object",
-      "fact": "Neela keeps a plain six-inch guild knife in the gap between mattress and bed frame on her side.",
-      "why": "needed because the beat has her reach under the mattress for the knife"
-    },
-    {
-      "category": "knowledge",
-      "fact": "Devan has stated he deduced her purpose (sent to kill him) from the council-pressed match and her habits, and swore the silence offer on Asha's name; he asked for the name of whoever bought his death and offered it once.",
-      "why": "needed to carry the bargain beat"
+      "id": "F142",
+      "category": "place",
+      "fact": "On the storm night Neela does not use her cache under the second spur: it lies a long climb the wrong way up the slope and the cleft would be running with rain, and she misjudges the hour, believing she has two hours of night when dawn is already near, so she runs for the ledge.",
+      "since": "s02-vow-of-teeth-b01 ch 15",
+      "provisional": true
     }
   ]
 }
