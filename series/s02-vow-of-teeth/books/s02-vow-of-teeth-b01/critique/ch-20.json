@@ -6,37 +6,37 @@
     "shown_chemistry": 4.0,
     "character_logic": 3.0,
     "stakes_and_cost": 4.0,
-    "prose": 4.0,
-    "continuity": 0.0
+    "prose": 3.0,
+    "continuity": 5.0
   },
   "reasons": {
-    "reader_question": "Two specific questions leave the chapter: what 'the name given back' means and why Ammu flinched from it, and what Neela will do with nine nights before Vellan comes. The song question is weakened because the last paragraph states it outright.",
-    "change": "Knowledge, power and relationship all shift. Ammu holds a one-week reprieve over Neela, Vellan is now on the clock, and the word moves from Neela's burden to Devan's responsibility.",
-    "romance_movement": "The relationship changes for a new reason: Devan refuses the impossible promise and takes on a cost she can see. Neither of them mentions yesterday's kiss, which leaves a gap where the reader expects some answer to it.",
-    "shown_chemistry": "The pebble scene earns its chemistry through action. He wipes Kannan's stone 'with ridiculous gravity' and says 'Cashh', she laughs, and then the laugh stops. This is responsive care and shared humour, not narration.",
-    "character_logic": "Devan's refusal is sharp and true to his voice. Ammu is less convincing: she watched Devan stand still while a leopard passed at his boots, yet she accepts 'he thinks I'm a bride who walks at night' after one look at Neela's face.",
-    "stakes_and_cost": "Each step costs something. The reprieve is bought with a second lie to a sister who trusts her, Vellan has a date, and Devan pays in sleep every resin night.",
-    "prose": "The prose is mostly clean and concrete. It has some stock phrases ('dry as ash', 'Her stomach dropped', 'The cold went through Neela slowly'), an odd 'The dust of her own voice', and a muddled count line ('Nine. A week of grace. Fifteen minus one.') that blurs the timeline. The grey stone appears 'from the sill' though it was never put there.",
-    "continuity": "Ammu says 'I followed a leopard's…' aloud. This breaks the bible, which says she has never spoken the word. It also contradicts the chapter's own line, 'Ammu ... had never once said it.' No caging happens because it is day, but the fact conflicts."
+    "reader_question": "The song verse plants a specific gap ('the name given back') and the Vellan deadline adds a clock, but the closing line resolves into calm instead of pushing the reader into chapter 21.",
+    "change": "Knowledge: Vellan comes at the new moon in nine nights and Ammu grants a week. Relationship: the word moves from her burden to his responsibility, and he gives her a daylight invitation.",
+    "romance_movement": "The reason for the change is new. He refuses a hollow promise and takes the risk into his own mouth at a cost to his sleep, and she accepts it. Shown, not replayed.",
+    "shown_chemistry": "The pebble swap, 'Cashh' and her laugh are responsive and specific to these two. The quiet after the laugh is earned. The interior paragraph then explains what the scene already showed.",
+    "character_logic": "Devan's refusal fits a man who never lies. Ammu wanting to believe is well motivated. Neela's lie to Ammu is the chapter's costliest choice, yet its stated motive is only 'too tired to stop it', which edges toward an artificial misunderstanding.",
+    "stakes_and_cost": "The cost ledger lands. The lie is felt as 'a coin spent', Devan pays in sleep, and the week runs against a bear. The cost of telling Ammu the truth is never made explicit.",
+    "prose": "Clean dialogue with no banned phrases. The lie-numbering is confusing. The lamp-snuffing simile repeats chapter 19's closing image. One interior paragraph narrates the value shift outright, and 'pit of her stomach' is stock.",
+    "continuity": "Consistent with the bible and facts: the cache, Kannan's white pebble, Gopan's tenure, shutters and the third slat, the Vellan yard memory, eleven years since the first turning, Ammu's three bare nights, and a deadline that fits chapter 25."
   },
   "fixes": [
-    "\"I followed a leopard's…\" Ammu stopped before the word — continuity break with the bible (Ammu has never spoken the word) and with the chapter's own 'had never once said it'. Have Ammu stop before the noun: \"I followed the—\" Ammu stopped, as they all did, even by day. Her mouth twisted. \"I followed the other one.\"",
-    "\"Ammu searched her face for a long moment. Neela let her.\" — irrational behaviour to extend plot: Ammu watched Devan stand still while a leopard went past his boots, and a smart Ammu would press on that. Before she accepts the lie, add one exchange where she raises it ('He didn't turn round, chechi') and Neela lies a second layer ('He was facing the terraces; he thinks it was Gopan's tom'). Ammu accepts it because she wants to. That makes the lie costlier and keeps her belief plausible.",
-    "\"She did not know what it meant. She did not know whose name it was\" — signposted callback that restates the reader question and softens the ending. Cut those two sentences. End on action instead: give Devan one line or gesture that answers yesterday's kiss before the stone goes in (it is currently unaddressed: 'He did not mention the rampart'), then close on 'Fifty-nine' and the burn, so the romance beat and the turning carry the final page."
+    "At \"Here it was, the second lie. Neela felt it\" and \"Neela had been ready for the first lie. This one she built\": the lie count doesn't add up, since the first lie is never identified and the tom story becomes a third. The only motive given is tiredness, which reads as an artificial misunderstanding. Fix both. Drop the ordinals or make them match F178 (the tom story is the second lie). Then add one or two lines that make the truth costly. If Ammu learns Devan is a witness, her own rule ('safe as long as nobody but us has seen') obliges her to report, and Chathu's other eyes would punish a sister who sat on it. The lie protects Ammu, not just Neela.",
+    "At \"like a lamp when the draught takes it\": this repeats chapter 19's closing image (\"the way a lamp goes when a hand closes over it\") one chapter later, which breaks the 3-chapter distinctive-image rule. Replace it with something rooted in this room. The cistern chain stopping mid-clank works, or the laugh cut off as the pebble leaves his cheek. Cutting the simile entirely also works.",
+    "At \"Eleven years she had lived with the word\" through \"and put it in his own mouth.\": interiority narrates the value shift the pebble scene already dramatized (endless-monologue tendency, telling the turn). Cut it to two or three short sentences ending on the single line 'No one had ever said, This is mine.' Then move straight to a choice or action, such as her closing her fist on the pebble before he does it for her. Also swap 'the number settling in the pit of her stomach' for something concrete, such as her counting nine on the cleft's ridges."
   ],
-  "reader_question": "What is 'the name given back at the closing of day', and why does Ammu, who knows something, refuse to say?",
+  "reader_question": "What does the tappers' song mean by 'the name given back', and what will Neela do before Vellan arrives at the new moon?",
   "techniques_landed": [
     9,
     2,
     14
   ],
-  "new_facts_assessment": "Nine nights to the new moon fits the count of fifteen nights at ch19 and gives the act a clock; keep it. Ammu's one-week reprieve and the reed on the seventh night are necessary. Reusing the reed, which F162 defines as 'show me', may confuse readers; specify an unsplit reed or another mark. The song verse is invented, ambiguous and fair; it can also point to the release promise of a birth name returned, which is good prediction bait. The pebble trick is consistent with F043: Gopan has 19 years in post and Devan learned it at 16. It is a mechanical limit, not magic, and well set up. 'Ammu believes the lie' is necessary for the cost ledger but needs on-page support (see fixes). One fact is not tracked: Neela's thumbnail splitting 'in the night'. Split nails are the ache's symptom (F013), and she took resin that night, so either tie it to the unfed nights in F160 or cut it. The day cloth is also doubled: one was left in the east-stair niche in ch19 (F169), another is in the cache (F129), and the pebble's location is unclear. Specify which cloth.",
+  "new_facts_assessment": "F177 (unsplit reed) is necessary. It cleanly distinguishes the signal from F162's split reed and refines F173. F178 (the ginger-tom lie) is consistent with F123 and F134 and is a useful seed for Ammu's later reckoning. One caveat: F077 places the tom on the parapet above the west-facing warden's window, while Neela says it is 'always on that wall', meaning the east rampart. This is plausible for a fort cat but should be logged so later chapters don't contradict it. F179 (the daylight invitation) is consistent with chapter 19 and sets up the chapter 22 skip-resin night. All three are justified.",
   "content_rule_violation": false,
   "failure_modes": [
-    "Irrational behaviour to extend plot",
-    "Contrived delays"
+    "Artificial misunderstandings",
+    "Endless monologue"
   ],
-  "average": 3.38,
-  "minimum": 0.0,
-  "passed": false
+  "average": 3.88,
+  "minimum": 3.0,
+  "passed": true
 }

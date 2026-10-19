@@ -1,0 +1,42 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 3.0,
+    "stakes_and_cost": 4.0,
+    "prose": 3.0,
+    "continuity": 5.0
+  },
+  "reasons": {
+    "reader_question": "The song verse plants a specific gap ('the name given back') and the Vellan deadline adds a clock, but the closing line resolves into calm instead of pushing the reader into chapter 21.",
+    "change": "Knowledge: Vellan comes at the new moon in nine nights and Ammu grants a week. Relationship: the word moves from her burden to his responsibility, and he gives her a daylight invitation.",
+    "romance_movement": "The reason for the change is new. He refuses a hollow promise and takes the risk into his own mouth at a cost to his sleep, and she accepts it. Shown, not replayed.",
+    "shown_chemistry": "The pebble swap, 'Cashh' and her laugh are responsive and specific to these two. The quiet after the laugh is earned. The interior paragraph then explains what the scene already showed.",
+    "character_logic": "Devan's refusal fits a man who never lies. Ammu wanting to believe is well motivated. Neela's lie to Ammu is the chapter's costliest choice, yet its stated motive is only 'too tired to stop it', which edges toward an artificial misunderstanding.",
+    "stakes_and_cost": "The cost ledger lands. The lie is felt as 'a coin spent', Devan pays in sleep, and the week runs against a bear. The cost of telling Ammu the truth is never made explicit.",
+    "prose": "Clean dialogue with no banned phrases. The lie-numbering is confusing. The lamp-snuffing simile repeats chapter 19's closing image. One interior paragraph narrates the value shift outright, and 'pit of her stomach' is stock.",
+    "continuity": "Consistent with the bible and facts: the cache, Kannan's white pebble, Gopan's tenure, shutters and the third slat, the Vellan yard memory, eleven years since the first turning, Ammu's three bare nights, and a deadline that fits chapter 25."
+  },
+  "fixes": [
+    "At \"Here it was, the second lie. Neela felt it\" and \"Neela had been ready for the first lie. This one she built\": the lie count doesn't add up, since the first lie is never identified and the tom story becomes a third. The only motive given is tiredness, which reads as an artificial misunderstanding. Fix both. Drop the ordinals or make them match F178 (the tom story is the second lie). Then add one or two lines that make the truth costly. If Ammu learns Devan is a witness, her own rule ('safe as long as nobody but us has seen') obliges her to report, and Chathu's other eyes would punish a sister who sat on it. The lie protects Ammu, not just Neela.",
+    "At \"like a lamp when the draught takes it\": this repeats chapter 19's closing image (\"the way a lamp goes when a hand closes over it\") one chapter later, which breaks the 3-chapter distinctive-image rule. Replace it with something rooted in this room. The cistern chain stopping mid-clank works, or the laugh cut off as the pebble leaves his cheek. Cutting the simile entirely also works.",
+    "At \"Eleven years she had lived with the word\" through \"and put it in his own mouth.\": interiority narrates the value shift the pebble scene already dramatized (endless-monologue tendency, telling the turn). Cut it to two or three short sentences ending on the single line 'No one had ever said, This is mine.' Then move straight to a choice or action, such as her closing her fist on the pebble before he does it for her. Also swap 'the number settling in the pit of her stomach' for something concrete, such as her counting nine on the cleft's ridges."
+  ],
+  "reader_question": "What does the tappers' song mean by 'the name given back', and what will Neela do before Vellan arrives at the new moon?",
+  "techniques_landed": [
+    9,
+    2,
+    14
+  ],
+  "new_facts_assessment": "F177 (unsplit reed) is necessary. It cleanly distinguishes the signal from F162's split reed and refines F173. F178 (the ginger-tom lie) is consistent with F123 and F134 and is a useful seed for Ammu's later reckoning. One caveat: F077 places the tom on the parapet above the west-facing warden's window, while Neela says it is 'always on that wall', meaning the east rampart. This is plausible for a fort cat but should be logged so later chapters don't contradict it. F179 (the daylight invitation) is consistent with chapter 19 and sets up the chapter 22 skip-resin night. All three are justified.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Artificial misunderstandings",
+    "Endless monologue"
+  ],
+  "average": 3.88,
+  "minimum": 3.0,
+  "passed": true
+}
