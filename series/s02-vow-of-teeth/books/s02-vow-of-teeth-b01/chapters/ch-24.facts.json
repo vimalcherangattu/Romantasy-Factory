@@ -1,23 +1,23 @@
 {
   "facts": [
     {
-      "id": "F212",
+      "id": "F220",
       "category": "knowledge",
-      "fact": "REPLACES the earlier F212. Muthu's mother is alive and writes to him once a month, on the ninth-day post. Devan knows Muthu goes quiet when he lies (since the kalari pit as boys), so two grey-wax letters in two days, the first on an off post day, make him suspect Muthu is Ittan's man. He decides to keep Muthu close and frames the sealing-day gate post as an honour: Muthu will open the Keeper's boxes himself.",
+      "fact": "Vellan says 'the watcher says' that Devan lays his sword hilt toward Neela. Neela registers that the watcher (F194) only reads scent-posts on the hill edge and cannot see inside a barred chamber, so someone inside Kettamala is feeding the guild. She tells Devan: 'Someone in your house talks to mine.' Retires stale F212 (Muthu's mother dead) and supersedes F214 and F219 on this point.",
       "since": "s02-vow-of-teeth-b01 ch 24",
       "provisional": true
     },
     {
-      "id": "F217",
-      "category": "name",
-      "fact": "Kettamala's garrison is about sixty soldiers.",
+      "id": "F221",
+      "category": "timeline",
+      "fact": "Single post: Devan puts Raiu on the warden's chamber door from the night of ch24, with two more men at the west stair head and extra pairs on the wall. The bird was placed on Neela's pillow by Vellan between the hour she went up the second spur and the hour she returned; the bird is found cold. Neela reasons he means four nights, not five.",
       "since": "s02-vow-of-teeth-b01 ch 24",
       "provisional": true
     },
     {
-      "id": "F218",
+      "id": "F222",
       "category": "knowledge",
-      "fact": "Devan moves Raiu from the head of the stair to the warden's chamber door; he is to be at the stair after dusk with a second man, and Devan doubles the watch. The carved bird is found cold on Neela's pillow, so Vellan placed it by day while she was away, and Neela reasons he means four nights, not five.",
+      "fact": "Devan privately plans sealing day as a test of Muthu: he will stand beside the cart himself and set Bhaskaran to open the second box, watching whether Muthu's hands hesitate. Neela nearly says Vellan's night-shape ('He's a\u2014') and stops; Devan's eyes go to the west stair newel. Garrison about sixty (replaces draft F218).",
       "since": "s02-vow-of-teeth-b01 ch 24",
       "provisional": true
     }
