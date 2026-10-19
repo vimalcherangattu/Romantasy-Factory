@@ -1,3 +1,16 @@
 {
-  "facts": []
+  "facts": [
+    {
+      "id": "F178",
+      "category": "knowledge",
+      "fact": "Revised wording of the second lie: Neela tells Ammu that Devan heard something pass behind him on the wall, never turned, said 'Go on, then' into the dark, and took it for the fort's notched ginger tom, which walks that wall every night. Ammu glances at Neela's hands, asks 'He didn't even turn his head?', then chooses to believe it.",
+      "since": "s02-vow-of-teeth-b01 ch 20"
+    },
+    {
+      "id": "F175",
+      "category": "object",
+      "fact": "On the first resin night with the pebble, Neela gives Devan Kannan's white pebble to hold in his cheek in place of his grey one; the grey one stays on the sill.",
+      "since": "s02-vow-of-teeth-b01 ch 20"
+    }
+  ]
 }
