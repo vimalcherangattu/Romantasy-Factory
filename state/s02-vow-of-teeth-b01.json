@@ -484,7 +484,7 @@
       "minimum": 0.0
     },
     "27": {
-      "status": "revised",
+      "status": "failed",
       "revisions": 1,
       "scores": {
         "reader_question": 4.0,
@@ -492,11 +492,11 @@
         "romance_movement": 4.0,
         "shown_chemistry": 4.0,
         "character_logic": 3.0,
-        "stakes_and_cost": 4.0,
+        "stakes_and_cost": 5.0,
         "prose": 4.0,
         "continuity": 0.0
       },
-      "average": 3.5,
+      "average": 3.62,
       "flags": [],
       "words": 2645,
       "minimum": 0.0
@@ -970,8 +970,12 @@
     {
       "at": "2026-10-19T22:20:40",
       "event": "done: S6 revise ch 27"
+    },
+    {
+      "at": "2026-10-19T22:22:04",
+      "event": "done: S5 critique ch 27"
     }
   ],
-  "updated_at": "2026-10-19T22:20:40",
+  "updated_at": "2026-10-19T22:22:04",
   "midpoint_chapter": 16
 }
