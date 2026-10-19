@@ -6,35 +6,36 @@
     "shown_chemistry": 4.0,
     "character_logic": 4.0,
     "stakes_and_cost": 4.0,
-    "prose": 4.0,
-    "continuity": 5.0
+    "prose": 3.0,
+    "continuity": 0.0
   },
   "reasons": {
-    "reader_question": "The beat's question is sharp and one sentence long, and the closing counted hitch keeps it open. The second bare cup at the meeting stone adds a clear secondary question about Ammu.",
-    "change": "Power moves for real: Devan gives back his only lever with no terms. Neela opens the shutters to his word and sleeps human beside him, a new state even though her judgement is unchanged.",
-    "romance_movement": "The reason is new. He names his own offer as the guild's leash, and her distrust is rational rather than a replay of chapter 15's refusal. It costs her a missed report and an unfed night.",
-    "shown_chemistry": "Chemistry comes through responsive acts: palms turned out, 'the shutters are yours', lying as far away as the bed allows, and the hitch he lets her hear so she can count him. There is little physical awareness, but the beat doesn't call for heat.",
-    "character_logic": "Devan's self-recognition through the remembered courier letter is earned and in character. Neela's experiment is sound in spirit, but her stated logic ('A patient hunter would still have no use for a dark room') admits the test cannot tell mercy from patience, and she doesn't say what it can tell her.",
-    "stakes_and_cost": "Skipping resin is priced on the page: no report, a second empty cup, Ammu coming to ask, a night against the moon. She pays it knowingly.",
-    "prose": "The prose is clean, concrete, free of banned phrases and uses no em dashes. Flaws: 'colour of an old bruise' and 'rain hammered' are stock images. The fragment 'Or one conclusion, if you stood where she'd stood' doesn't attach to the previous sentence. Several consecutive paragraphs open with He/She ('He set the staff's butt' / 'He had meant'; 'She would pay it.' / 'She corked').",
-    "continuity": "Nothing conflicts with the bible or the facts: the hounds, Raiu and the unlit lamp, 'Rain', Janu's stories, nineteen nights, the earlier missed report and the border school age all match. There is one internal time slip ('last night' for a dawn offer), handled under fixes."
+    "reader_question": "The chapter ends on the beat's question, mercy or patience, and sharpens it with the hitch: he is awake and lets her hear it. It is specific, but the quiet ending carries no fresh reveal to make the next chapter urgent.",
+    "change": "Power changes hands. Devan publicly drops the bargain and keeps no claim. Neela moves from refusing to running a costly test, and she now reads the first half of the book as a fence around her.",
+    "romance_movement": "The reason is new. A man holding a cage refuses to put a price on it, and the heroine's distrust is rational and comes from her life, not from stubbornness. This is not a replay of the ch15 refusal.",
+    "shown_chemistry": "Chemistry is shown through responsive beats: palms turned out and then dropped, hilt toward her, her watching his mouth like a lock for the click, him lying as far away as the bed allows. Little of it is narrated.",
+    "character_logic": "Devan's self-recognition through the border-school letter is earned and smart. Neela's decision rule ('one mistake ended her, the other only hurt') is sharp. But her test claims to probe 'nothing between her and the dusk but his word' on a night with no resin, when no caging is possible.",
+    "stakes_and_cost": "The cost is concrete. A second bare cup at the stone will bring Ammu, Chathu's days count double, the ache's count goes on, and she lies with her back to a stronger man with the knife untouched.",
+    "prose": "Mostly clean and concrete, with no banned phrases or em-dash excess. Problems: the 'could not find a seam' image is reused from ch15 ('found no seam'). The time in the pit scene is muddled (lamps blooming after dawn, 'before dark'). The 'some evidence came cheap' paragraph is abstract and knotted. Two pairs of consecutive paragraphs open with 'She'.",
+    "continuity": "There are conflicts. Devan 'knew she watched from the sill', but the pit lies below the east wall and cannot be seen from the west sill (ch15, F320). The hounds are 'kennelled the day after the wedding', against F282's order (shutters, then sentry, then hounds). Janu's stories are stopped at supper with 'Not tonight, Janu', against F282 (by day, 'tired of leopards')."
   },
   "fixes": [
-    "In 'And last night he had sat on the edge of his own bed', the timing slips. The offer was made at first light (chapter 15, and 'This morning I offered you' later in this chapter). Change it to 'And at first light he had sat on the edge of his own bed, holding the one power he could not cut away, and put a price on it.'",
-    "In 'Then there was the cat. *The cat's been at the pepper store. The cat has earned a bowl.*', two problems. First, the quote misremembers chapter 15's line ('Someone should leave him a bowl of milk. He's earned it.'), so match it. Second, the reread misses the core Reinterpretation Callback (technique 20). 'The cat' let him speak of her every night, even in fever, without ever saying the one word that cages her. Add one sentence where Neela sees it: every 'cat' was the word he chose instead of the other one. This is the strongest proof in the fence and the one most worth a reader's gasp.",
-    "In 'A patient hunter would still have no use for a dark room tonight. A man who meant anything else might.', the logic of the experiment is muddled. As written, the test cannot answer mercy-or-patience, which weakens Neela's smartness. Rewrite it so she says plainly what the night can and cannot prove. It can't prove mercy. It can rule out the nearer danger: a hand, the sword, the knife. It can also show whether she can sleep with a witness at her back. Then fix the dangling fragment 'Or one conclusion, if you stood where she'd stood' to 'Or they were one other thing, if you stood where she'd stood.'"
+    "Continuity: 'He knew she watched from the sill. He felt it on the back of his neck' contradicts ch15/F320. The kalari is below the east wall and the west sill cannot see it. Replace this with Devan wondering whether the sound of the drill carries round to the west window, or with him not knowing where she is at all, and remove 'did not look up'.",
+    "Continuity: 'were kennelled the day after the wedding' and 'Devan had said *Not tonight, Janu*' conflict with F282 (shutters on the second dusk, then the sentry, then the hounds, with Janu's stories stopped last, by day, with 'tired of leopards'). Change the hounds to 'kennelled in the first week, after the sentry was pulled'. Rewrite the Janu memory so he stops her at the table by day with 'I'm tired of leopards, Janu', said mildly, and she goes red.",
+    "Rule muddle (Worldbuilding collapse / character logic): 'nothing between her and the dusk but his word' and 'the dusk to ask for her... she was still a woman' imply a resin-free night carries a caging or turning risk, which Rule 1 and Rule 2 forbid. State plainly that tonight his word cannot touch her, so the test is her body beside a stronger man and the price of the bare cup. Make the dusk sensation a craving in the scars, not a pull toward turning. While revising this passage, tighten the 'some evidence came cheap' paragraph to three or four short, concrete sentences, and replace 'could not find a seam in them', reused from ch15, with a new image."
   ],
-  "reader_question": "Is Devan's gift of silence mercy, or a hunter's patience saving the word for when she is worth most caged?",
+  "reader_question": "Is Devan's unconditional gift of silence mercy, or a hunter's patience saving the word for the dusk she is worth most caged?",
   "techniques_landed": [
     17,
     12,
-    20,
-    3
+    20
   ],
-  "new_facts_assessment": "The draft's new-facts file is empty, but the chapter adds or fixes several things. (1) The border-school courier letter and the second vow on the west stair are necessary, consistent and already logged as F143 and F144. (2) Janu is named as the source of the damp-madness theory. This is consistent with F103, which lists the theory without an owner, but it should be logged. (3) At dusk without resin, Neela feels a faint pull at the throat and a burn in her scars. This is a new texture of the Turning that the bible doesn't state. It is plausible and useful as the felt cost of a human night, but it must be logged so later chapters stay consistent. (4) Devan sets the sword down hilt-toward-her again at night. In chapter 15 it was left on the floor, so he must have lifted it during the day. This is fine, but one clause would help. (5) Gopan runs a wager on the warden standing in the pit. This is harmless texture. Log items 2 to 4.",
+  "new_facts_assessment": "Janu as the source of the damp-madness theory is harmless, but it slightly redistributes F103, which tied the wager to Chinna. Keep the kitchen wager as Chinna's to avoid drift with F285. The sword set down again hilt toward her is necessary and consistent: he stepped over it in ch15 and must have lifted it during the day. The dusk pull and scar burn on a no-resin night is the risky fact. Rule 1 says only resin triggers a turning, and 'it passed, and she was still a woman' implies she might turn without resin. That blurs a rule the book depends on. Recast it as resin-craving or withdrawal (an itch in the scars, the body expecting the burn), with no suggestion that a turning is possible. Missing from the page: F145's nineteen nights is present, but the 'ache in nine or ten days' expectation is not. That is optional.",
   "content_rule_violation": false,
-  "failure_modes": [],
-  "average": 4.12,
-  "minimum": 4.0,
-  "passed": true
+  "failure_modes": [
+    "Endless monologue"
+  ],
+  "average": 3.38,
+  "minimum": 0.0,
+  "passed": false
 }
