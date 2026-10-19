@@ -1,0 +1,41 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 3.0,
+    "stakes_and_cost": 3.0,
+    "prose": 3.0,
+    "continuity": 5.0
+  },
+  "reasons": {
+    "reader_question": "The chapter plants two sharp gaps: true council wax, so which councillor, and why the yard went empty the night she arrived. The flat closing image ('spent the night on nothing') dulls the exit question.",
+    "change": "Knowledge moves: the wax is genuine and a month old, his hunt is the council, and the yard is open. Her intent also moves, from a sure answer to an unsure one. Power doesn't move.",
+    "romance_movement": "New reason, as the beat asks. She learns his goal has nothing to do with her and admires how he calms Bhaskaran. That softens her for the first time, shown in the abandoned climb at the window.",
+    "shown_chemistry": "Strong responsive detail. She copies his open-palm gesture without meaning to. She notices the wax halves are warm from his hand and that his fingers are dry at the pads. Narration only names her feeling once ('a bad sign').",
+    "character_logic": "Chapter 3 ended with the slat cracking and Neela unsure whether he woke. A smart assassin would test that next morning, and this chapter never mentions it. Devan briefing a council-chosen bride on his council hunt is plausible as a test, but nobody on the page notices the risk.",
+    "stakes_and_cost": "Her non-choice costs one of 37 nights, which is tactical, not emotional. The sentry gives her a practical excuse, so the hesitation over him costs her nothing yet.",
+    "prose": "Mostly clean and concrete, with no banned phrases or em dashes. But the rain paragraph says the same thing twice ('Only here did...' and 'And only here did...'). 'Thrown the weight of a hunt' is an AI-tell phrase. The it/she switch in the closing paragraphs blurs.",
+    "continuity": "Matches the bible and chapters 1-3: guard layout, four at the padippura, two on the west stair, change at the third clank, Kannan about nine, Bhaskaran on the gate, 37 nights on night 3, council wax distinct from the queen's green wax, and Devan never lies."
+  },
+  "fixes": [
+    "Opening scene, at 'She had crossed that yard last night': Chapter 3's open question is dropped (did the cracking slat wake him?), so the chapter gives no partial answer to the previous hook, and a smart Neela would check. Add two or three lines this morning. She notes the bar sat in its brackets, and Devan said nothing about it at dawn, or said something exact and unreadable. Then let her fold that into the gift-or-trap argument, so the kennelled hounds become the second piece of evidence, not the first.",
+    "Ending, at 'watched the dark square, and spent the night on nothing': The ending neither interrupts an action nor reveals anything, which fails chapter checklist item 5. Keep the abandoned climb but end on something the story causes. For example, at dawn the shutter is drawn fully back when she left it ajar, or the bar is gone from the wall. Either makes chapter 5 necessary and feeds the dramatic irony (technique 13).",
+    "Night section, at 'Only here did he give her a word' and 'whose words had been plain with it all day': The rain paragraph repeats itself (the two 'only here' sentences) and the it/she voice wobbles. Cut 'And only here did he hand her a reason that didn't fit the sky.' Replace 'whose words had been plain with it all day, and who had never once thrown the weight of a hunt at his wife' with a concrete image. One option: the open palm on the table, which also removes the 'the weight of' AI tell. Rewrite 'not certain of the answer she'd come to give' to name the answer: whether he dies by her."
+  ],
+  "reader_question": "If the wax is true council wax, which councillor is selling the passes, and did the warden empty the yard for her because he already knows what she is?",
+  "techniques_landed": [
+    4,
+    11,
+    13
+  ],
+  "new_facts_assessment": "All five draft facts are small, necessary texture and consistent with canon. Eight years of bad sleep matches his marma killing at 24 and his eight years without sparring. 37 nights matches night 3 of about 40. The hounds howling until the middle watch justifies Kannan's complaint. The rain observation is the key plant (secret map, ch3/ch4) and is worded correctly: she does not conclude he lies. Pipeline problem: continuity.json already holds these facts under shifted IDs F055-F059, while the draft numbers them F054-F058. continuity.json also holds a stale F054 saying 'Rain' is 'Devan's only untrue statement'. That conflicts with the bible rule that Devan never lies to Neela. Retire the stale F054 and renumber so each fact appears once.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Irrational behaviour to extend plot"
+  ],
+  "average": 3.75,
+  "minimum": 3.0,
+  "passed": true
+}
