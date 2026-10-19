@@ -1,0 +1,43 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 5.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 3.0,
+    "stakes_and_cost": 4.0,
+    "prose": 3.0,
+    "continuity": 0.0
+  },
+  "reasons": {
+    "reader_question": "The closing image of the man in the pit, 'practising or waiting', makes the beat's question concrete. A reader can state it in one sentence and carries it out.",
+    "change": "This is a full midpoint shift. Neela goes from hidden to seen, learns she has a third witness and has been read as 'sent', and a bargain now sits on the table and has been refused.",
+    "romance_movement": "The reason is new: secrecy is replaced by an open leash she refuses on principle. 'I want you fed' complicates the master reading without undoing it. It loses a point because Devan's motive for revealing himself tonight is left blank.",
+    "shown_chemistry": "Attraction is shown through action. He keeps his hands open and still, looks at the third slat while she dresses, his eyes track the last strand of fur, and he passes her 'at a respectful distance'. Nothing narrated.",
+    "character_logic": "Neela's refusal and her reading of 'That is fair' are sharp. But Devan sits up dressed with a lamp lit on this one night after twenty of feigned sleep, and the chapter never gives or hints at why. Neela, who asks questions to avoid answering them, never asks 'Why tonight?'",
+    "stakes_and_cost": "Refusing costs her the only protection she has been offered, and the offer is stated as once-only. Her life now sits in his mouth every night of the twenty left, with the cage named and concrete.",
+    "prose": "The prose is strong and concrete in the turning sequence. It is let down by stock similes ('like a blade', 'dry as ash', 'like a dropped roof'), a run of 'She could not' sentences, a floor image repeated from ch 14, and narration that explains her best line after she says it.",
+    "continuity": "'Twenty dawns in which she had come in over this very sill' and Devan's 'awake for all of them' conflict with earlier chapters. She turned back in the cleft in ch 14 (and per F142 has been using the cache). Devan was on patrol that dawn. She skipped resin the night of ch 11 (F104)."
+  },
+  "fixes": [
+    "Continuity: 'Twenty dusks. Twenty dawns in which she had come in over this very sill' and Devan's 'I have been awake for all of them' contradict ch 11 (resin skipped), ch 14 (she turned back in the cleft while he rode the narrows at dawn) and the cache habit in F142. Rewrite her count as twenty dusks at this window and most of the dawns, for example 'Every dusk at this window. Every dawn she had come home to it', with a beat for the cleft mornings. Change his line to 'I have been awake for every one you made here.'",
+    "Character logic gap: at 'A lamp was lit. That was the first wrong thing' the chapter never explains why Devan breaks twenty days of feigned sleep on this night. Add a short exchange after 'How long?': she asks 'Why tonight?' and he answers with his exact, comfortless literalism, for example 'The rain. You were late. I wanted you to come in to a lit room.' The reveal should be caused by her lateness in the storm, which also seeds the care she cannot yet read.",
+    "Prose and Endless monologue: cut the explanatory paragraph that begins 'She had needed a moment to find the sentence', which tells the reader what her line meant right after it lands. Keep at most 'She had been owned for twenty-one years by a man who called it mercy.' Also replace the stock similes 'the cold went through her like a blade' and 'Her mouth was dry as ash'. Replace 'the whole of it fell open like a bad floor', which repeats ch 14's 'put her own foot through a floor', with an image tied to this room, such as the third slat or the sword hilt."
+  ],
+  "reader_question": "Now that Devan holds the word openly and she has refused his price, will he ever speak it, and is his patience a hunter's or something else?",
+  "techniques_landed": [
+    12,
+    16,
+    3,
+    15
+  ],
+  "new_facts_assessment": "F142 (she skips the cache, misjudges the hour and runs for the ledge) is necessary. It causes the beat by putting her on the ledge half-turned, and the misjudgement comes from the storm hiding the stars, not from coincidence. It is consistent with F129. It does, however, imply she normally turns back at the cleft, and that makes the chapter's own 'twenty dawns over this very sill' line false. Keep F142 and fix the count. The guild knife under the mattress (F140) is fine. It is planted as hers and used plausibly.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Irrational behaviour to extend plot",
+    "Endless monologue"
+  ],
+  "average": 3.38,
+  "minimum": 0.0,
+  "passed": false
+}
