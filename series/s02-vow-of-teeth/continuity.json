@@ -293,6 +293,41 @@
       "fact": "Janu says Devan used to have a kalari partner and now trains alone, a gap of eight years.",
       "since": "s02-vow-of-teeth-b01 ch 3",
       "provisional": true
+    },
+    {
+      "id": "F048",
+      "category": "name",
+      "fact": "The hounds of Kettamala number fourteen and sleep in a long kennel behind the stables; before the wedding they ran the yard loose from dusk to dawn.",
+      "since": "s02-vow-of-teeth-b01 ch 4",
+      "provisional": true
+    },
+    {
+      "id": "F049",
+      "category": "knowledge",
+      "fact": "Bhaskaran passed a salt-and-cloth cart from the coast through his gate at the last new moon on the strength of a council-wax tally, and the tally number matches the one found in the dead raider's satchel.",
+      "since": "s02-vow-of-teeth-b01 ch 4",
+      "provisional": true
+    },
+    {
+      "id": "F050",
+      "category": "object",
+      "fact": "Genuine council wax is dull brick red, pressed with a pepper-sprig mark, and poured with clove oil so it does not crack in damp. The forged tally's wax is about a month old.",
+      "since": "s02-vow-of-teeth-b01 ch 4",
+      "provisional": true
+    },
+    {
+      "id": "F051",
+      "category": "knowledge",
+      "fact": "Devan tells Neela the pass-seller is someone on the queen's council and that he does not know who; he says the raiders' next targets are the coast-side villages.",
+      "since": "s02-vow-of-teeth-b01 ch 4",
+      "provisional": true
+    },
+    {
+      "id": "F052",
+      "category": "knowledge",
+      "fact": "Neela finds a gap of about thirty counts under the far wall when the lower wall pair swings inward, and one sentry paces the walk above the warden's window.",
+      "since": "s02-vow-of-teeth-b01 ch 4",
+      "provisional": true
     }
   ],
   "knowledge": [

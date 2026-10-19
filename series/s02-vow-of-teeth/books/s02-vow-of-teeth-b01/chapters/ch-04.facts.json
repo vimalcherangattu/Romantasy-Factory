@@ -1,0 +1,29 @@
+{
+  "facts": [
+    {
+      "category": "name",
+      "fact": "The hounds of Kettamala number fourteen and sleep in a long kennel behind the stables; before the wedding they ran the yard loose from dusk to dawn.",
+      "why": "needed because the outline's kennelling beat requires the hounds' usual role and the number of dogs shut in."
+    },
+    {
+      "category": "knowledge",
+      "fact": "Bhaskaran passed a salt-and-cloth cart from the coast through his gate at the last new moon on the strength of a council-wax tally, and the tally number matches the one found in the dead raider's satchel.",
+      "why": "needed because the outline requires a furious sergeant for Devan to calm in the hall."
+    },
+    {
+      "category": "object",
+      "fact": "Genuine council wax is dull brick red, pressed with a pepper-sprig mark, and poured with clove oil so it does not crack in damp. The forged tally's wax is about a month old.",
+      "why": "needed because the clue (C02) about genuine council wax needs a retrievable physical detail; the clove scent is the incidental detail meant to be remembered."
+    },
+    {
+      "category": "knowledge",
+      "fact": "Devan tells Neela the pass-seller is someone on the queen's council and that he does not know who; he says the raiders' next targets are the coast-side villages.",
+      "why": "needed because the outline has Neela learn his goal in this chapter."
+    },
+    {
+      "category": "knowledge",
+      "fact": "Neela finds a gap of about thirty counts under the far wall when the lower wall pair swings inward, and one sentry paces the walk above the warden's window.",
+      "why": "needed because she tests the night defences in the open yard, and chapter 5 has Devan pull the west-wall sentry."
+    }
+  ]
+}
