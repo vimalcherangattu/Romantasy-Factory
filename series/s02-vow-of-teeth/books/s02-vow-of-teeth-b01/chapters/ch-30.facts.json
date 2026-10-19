@@ -1,19 +1,3 @@
 {
-  "facts": [
-    {
-      "category": "relationship",
-      "fact": "Devan said 'I love you' to Asha in the kitchen the week before she died, and has said it to no one since until Neela.",
-      "since": "ch 30"
-    },
-    {
-      "category": "knowledge",
-      "fact": "Devan told Janu at the table, by day, that he was 'tired of leopards' to stop her stories; he never said the night-shape to Neela. He barred the shutters the second dusk, then removed the sentry a few nights later, then the hounds, and Janu's stories last.",
-      "since": "ch 30"
-    },
-    {
-      "category": "plot",
-      "fact": "Neela asks Devan to remarry her at noon tomorrow in the courtyard in front of Muthu; Devan warns that Muthu will report her words north in a grey-sealed letter, and she chooses to speak anyway.",
-      "since": "ch 30"
-    }
-  ]
+  "facts": []
 }
