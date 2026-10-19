@@ -1,43 +1,42 @@
 {
   "scores": {
-    "reader_question": 4.0,
+    "reader_question": 3.0,
     "change": 4.0,
     "romance_movement": 4.0,
-    "shown_chemistry": 4.0,
-    "character_logic": 3.0,
+    "shown_chemistry": 5.0,
+    "character_logic": 4.0,
     "stakes_and_cost": 4.0,
-    "prose": 3.0,
+    "prose": 4.0,
     "continuity": 5.0
   },
   "reasons": {
-    "reader_question": "Kirri's fate is a clear, specific gap: the anklet promise, eleven unanswered letters and Chathu's 'where she wished to be'. The closing beat dilutes it by drifting into the ledger rather than ending on the anklet or Ammu's cup.",
-    "change": "Knowledge and relationship both move. Neela lies to Ammu to shield Devan for the first time, Ammu leaves falsely reassured (dramatic irony for ch19), and the fort sees the couple laugh together.",
-    "romance_movement": "The reason is new. They get lightness in place of watchfulness, and Devan's first real grin. The chapter ties this to a price paid in Ammu's trust, so it is not a replayed refusal.",
-    "shown_chemistry": "Strong responsive action. He has counted her elbow four times, cheats back with his knee on the trestle, and they compare matching knuckle stripes. Only 'She had never had this' and the ledger coda narrate what the game already showed.",
-    "character_logic": "The lie at the stone is smart: 'learn his sleep', then turning the question back. But Neela has just been told children were caged in the kennels and that Chathu pats hands instead of answering. She 'found nothing under' the Kirri question, which is too incurious for her.",
-    "stakes_and_cost": "'Holes were stopped' makes telling Ammu a danger to Devan's life. The lie is a real moral price, and Ammu's 'leave a mark in the cup tomorrow night' sets up a resin choice. The ending does not press that next cost.",
-    "prose": "Clean of banned phrases and AI tells, with good short-sentence rhythm. 'Eleven' is overworked (letters, tins, years, contracts, age eleven). The game scene stacks similes (broke like a plate, up like dry thatch, like a shutter slat, matched a lock). The coda explains its own meaning ('They were not two debts. They were one.').",
-    "continuity": "Consistent with the bible and facts. Deadline 16, Ammu witness for eleven years, scars, the fishing song, the jaggery tins, Chinna's wager and Kirri's anklet all match. The 'watched me for twenty days' line is loose (it is now about day 24), but it echoes Devan's ch15 phrasing and is not a hard conflict."
+    "reader_question": "'Where is Kirri?' is planted well through the anklet promise, the four letters and Chathu's pat on the hand. But Neela's walk home ('the kennels... girls who had gone in as punishment and not come out as girls') nearly answers it, so curiosity collapses into foregone dread.",
+    "change": "Neela leaves the stone having chosen Devan's safety over her sister's trust. She ends the night holding two ledger lines she won't strike out. That is a clear shift in loyalty and in self-knowledge.",
+    "romance_movement": "The movement is new: for the first time they play, and they are caught being alike. His counting of her elbow and her matching knuckle stripe are new grounds for closeness, and the lie to Ammu prices it exactly as the beat asks.",
+    "shown_chemistry": "Entirely shown through responsive action: he counts her elbow four times, cheats back via the trestle, grins, and holds his rapped knuckles beside hers 'as if they had matched a lock'.",
+    "character_logic": "The lie is smartly built: nearly true, then deflected by turning the question back the guild way. Her reason for withholding is costly, since Ammu would stop a second witness. Ammu's 'you've never once asked me why I'm asking' prompt, followed by Neela asking on cue, feels engineered.",
+    "stakes_and_cost": "Ammu wants a mark in the cup tomorrow night, which means resin and the turning. Chathu's double-counting days and the itching nails add pressure. The cost of the next choice is concrete.",
+    "prose": "Strong and specific, with no banned phrases and no AI tells. The seven-wells scene is quotable. The closing paragraph goes muddy ('no hand's length of dark', 'kept his silence in a pebble'). Consecutive paragraphs open with 'She' several times, and 'Somewhere' echoes in the game scene.",
+    "continuity": "No hard conflicts: the sixteen-night count, three bare nights, four letters, the Valli cover, the damp theory, Chinna's wager and Vellan in the yard all match. Three soft spots need tidying: 'twenty days' is now stale, Valli selling bangles is an unlogged addition to her pepper-trader cover, and 'Fifteen nights' at the same day's end breaks the count rhythm."
   },
   "fixes": [
-    "At 'She turned the question over and found nothing under it', the failure mode is irrational behaviour: Neela has just recalled girls going into the kennels and Chathu's evasive pat, so finding 'nothing' is too incurious for her. Let her reach the kennel thought and shove it away in one or two short sentences, for example: she thinks of the kennels, counts the pala trunks to the bend, and refuses to finish the thought. That keeps the twist fair for ch26 (technique 12) and sharpens the reader question.",
-    "At 'They were not two debts. They were one.', the failure mode is narrated-only payoff. The coda explains the cost ledger the scene already earned, and it ends on rumination rather than a choice. Cut the explanatory sentences ('as plainly as coin buys bread' and 'And she had not been forced...'). End instead on the concrete next cost: her hand on the corked flask by the white pebble, Ammu's 'leave a mark in the cup tomorrow night' and the number fifteen. The reader should leave asking whether she takes resin at dusk, which points into ch19.",
-    "At 'Eleven times it had come before a job', the problem is echo-word repetition. 'Eleven' appears for the tins, the letters, the years, the contracts, 'learned at eleven' and the pat 'eleven times, with tins'. Keep it only for the eleven letters and the eleven contracts. Change the tins line to 'every job' and 'learned at eleven' to 'learned as a girl'. In the game scene, cut two of the four stacked similes ('broke like a plate', 'went up like dry thatch') and keep the shutter-slat clack and the matched lock."
+    "At 'and the girls who had gone in as punishment and not come out as girls', the thought tips the reader's question into a near-answer. This is the Contrived delays failure mode: the POV all but knows and then 'would not finish the thought'. Cut that clause and the 'Nine' count. Instead, give Neela two rival explanations she weighs (technique 4). Kirri is drowned with her boat and Chathu is sparing them, or Kirri never left. Let her choose not to ask Chathu, because asking would show she doubts release. That keeps 'Where is Kirri?' genuinely open and makes her silence a costly decision rather than a refusal to think.",
+    "At 'a man who kept his silence in a pebble', the closing image is muddled. It also reads as a pre-echo of the cheek-pebble Devan only adopts in ch20 (F175), which Neela cannot know about yet. Replace it with a concrete image she does own, such as the hilt turned toward her or the shutters he closes at dusk. Rewrite 'no hand's length of dark between her and' plainly: a resin night means she must turn where Ammu can see, and leave him. Change 'Fifteen nights' back to 'Sixteen nights'. In ch17 the count dropped overnight, not at day's end.",
+    "At 'I think,' said Ammu slowly, 'that you've never once asked me why I'm asking', the exchange is engineered. Ammu feeds Neela the line and Neela obeys it, so the creed arrives on cue. Instead, have Ammu break unprompted, mid-tease ('Because I'm scared'), when Neela's deflection lands too well. Also fix two small slips nearby. In 'Devan has watched me for twenty days', the count is now about twenty-four, so use 'since the wedding night'. In 'then there's you with a boat', the boat is Kirri's dream; Neela's prize is her page and birth name, so change it to 'you with your own name'."
   ],
-  "reader_question": "Where is Kirri, and why will Chathu never say where?",
+  "reader_question": "Where is Kirri, and did 'release' put her in the kennels Neela refuses to think about?",
   "techniques_landed": [
     15,
     23,
     2,
     14
   ],
-  "new_facts_assessment": "Vellan's bear-shape and girls taken to the kennels (F158) are consistent with the bible's cageable-disobedience rule and give Ammu's creed a lived root. But this fact raises the bar for Neela's incuriosity about Kirri; keep it only if Neela visibly brushes against the thought and refuses it. Chinna's dawn-window gossip (F159) is necessary, consistent with the ch10 wager and the ledge turnings, and gives Ammu a fair reason to probe. The nail itch on day sixteen (F160) is consistent with ch16's nine-or-ten-day forecast and ch17's 'nails first'. Three weeks at the inn fits Ammu's ch6 arrival. Ammu keeping Chathu's paper (F161) is harmless; it is only worth recording if it pays off later. Ammu's line 'Valli hears the whole fort talking' reads as a third person unless the reader remembers Valli is her own cover (F084); clarify it.",
+  "new_facts_assessment": "F153b correcting eleven letters to four matches the page ('I've written four times now') and duplicates the already-logged F325. It is consistent and necessary: four letters in two years is more believable for a guild member under watch. Other new on-page details are already logged (F152, F154 to F161) and are consistent. Three items are unlogged. First, Valli's bangle tray and blue cotton: harmless, but log it as an extension of F084. Second, Ammu working the kitchen door as Valli: plausible, and it supplies F159. Third, the implication that Neela has told Ammu 'small lies before': this softens the beat's 'first lie' into 'first lie for someone else's sake', which is acceptable and arguably better. The C09 clue (Kirri's anklet, bells cut off, never removed) is planted clearly enough to pay off in ch26 and ch32.",
   "content_rule_violation": false,
   "failure_modes": [
-    "Irrational behaviour to extend plot",
-    "Narrated-only chemistry"
+    "Contrived delays"
   ],
-  "average": 3.88,
+  "average": 4.12,
   "minimum": 3.0,
   "passed": true
 }
