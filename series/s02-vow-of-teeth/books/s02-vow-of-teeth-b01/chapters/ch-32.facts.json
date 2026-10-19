@@ -1,24 +1,19 @@
 {
   "facts": [
     {
-      "category": "object",
-      "fact": "Ittan's writing case holds an unfinished letter to his wife's physicians (boil the willow bark, she likes the window open in rain) and, beneath it, an oilcloth bundle tied with red thread holding Chathu's contract chit (a hide strip naming the warden's chamber, death by beast, before the pass closes) and the payment writ.",
-      "why": "needed because the beat requires the effects, the letter, the chit and the writ."
-    },
-    {
-      "category": "object",
-      "fact": "The payment writ is dated seven weeks before the wedding, payable to the Resin House on the warden's account, sealed in the queen's green wax with the sunbird; the seal matches the wedding-gift seal, including a small chip at the left wing tip.",
-      "why": "needed because the beat requires the two seals to match."
+      "category": "knowledge",
+      "fact": "Ittan tells Devan through the guardroom grille that Muthu came at first light with a letter for the south. Devan took the grey-wax packet out unopened and locked it in the hall strongbox (key on his cord), because breaking the seal would tell Muthu he is read. It is still there nine days into the rains, and Neela decides to leave the wax whole.",
+      "since": "s02-vow-of-teeth-b01 ch 32"
     },
     {
       "category": "knowledge",
-      "fact": "Neela and Devan hide the oilcloth bundle under the third slat of the warden's chamber, telling neither Muthu nor the clerk.",
-      "why": "needed to secure the evidence after the reveal."
+      "fact": "Corrects F295: Neela and Devan hide the oilcloth bundle in a hollow in the shutter frame behind the housing of the third slat in the warden's chamber, not under a floor slat, telling neither Muthu nor the clerk.",
+      "since": "s02-vow-of-teeth-b01 ch 32"
     },
     {
-      "category": "plot",
-      "fact": "Nine days into the rains Muthu returns from the Resin House fodder run: he laid the cloth in Kirri's cage, she lay on it with the anklet still on, and he saw Chathu on the cook-house step holding a black-covered book to his chest.",
-      "why": "needed for the teaser, with Kirri in the kennels and Chathu holding the ledger."
+      "category": "knowledge",
+      "fact": "Seven weeks before the wedding Devan wrote to the council that the raiders' tallies carried true wax and asked to see every seal register. The queen sealed the payment writ in response, before he had any suspect.",
+      "since": "s02-vow-of-teeth-b01 ch 32"
     }
   ]
 }
