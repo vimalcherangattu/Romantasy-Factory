@@ -1,3 +1,19 @@
 {
-  "facts": []
+  "facts": [
+    {
+      "category": "knowledge",
+      "fact": "Chathu wrote Neela's page in resin-ink in a locked room on the day of her first turning; Ammu, then fourteen, held Neela's hand through that turning.",
+      "since": "s02-vow-of-teeth-b01 ch 15"
+    },
+    {
+      "category": "knowledge",
+      "fact": "Neela has heard Devan's dawn drill (bare feet on packed earth, palm slaps on skin, sesame-oil lamp smell) in her sleep on mornings she slept, without recognising it. On the storm dawn she hears it from the west sill without seeing the pit, which lies below the east wall.",
+      "since": "s02-vow-of-teeth-b01 ch 15"
+    },
+    {
+      "category": "knowledge",
+      "fact": "Devan states the stake behind his bargain: the raiders hit the coast villages before the pass shuts, the token-seller sells them his patrol road, and Raman's nine-year-old boy lost his father under the shelf.",
+      "since": "s02-vow-of-teeth-b01 ch 15"
+    }
+  ]
 }

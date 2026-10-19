@@ -287,7 +287,7 @@
       "minimum": 3.0
     },
     "15": {
-      "status": "continuity-fix",
+      "status": "revised",
       "revisions": 2,
       "scores": {
         "reader_question": 4.0,
@@ -303,7 +303,7 @@
       "flags": [
         "needs-owner"
       ],
-      "words": 3095,
+      "words": 3156,
       "minimum": 0.0,
       "continuity_fixes": [
         "Neela recalls 'last night's supper' and the bowl-of-milk line. That supper was in ch 14, eight nights before the storm. FIX: In ch 15, change 'And last night's supper, over Janu's fish' to 'And that supper eight nights ago, over Janu's fish'.",
@@ -1272,9 +1272,13 @@
     {
       "at": "2026-10-19T23:32:40",
       "event": "done: S5 critique ch 12"
+    },
+    {
+      "at": "2026-10-19T23:33:32",
+      "event": "done: S6 revise ch 15"
     }
   ],
-  "updated_at": "2026-10-19T23:32:40",
+  "updated_at": "2026-10-19T23:33:32",
   "midpoint_chapter": 16,
   "continuity_attempts": 1
 }
