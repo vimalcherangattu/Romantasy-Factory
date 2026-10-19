@@ -414,7 +414,7 @@
       ]
     },
     "21": {
-      "status": "continuity-fix",
+      "status": "revised",
       "revisions": 1,
       "scores": {
         "reader_question": 4.0,
@@ -428,7 +428,7 @@
       },
       "average": 4.0,
       "flags": [],
-      "words": 2402,
+      "words": 2757,
       "minimum": 3.0,
       "continuity_fixes": [
         "Devan names the story that made him stop Janu as 'the one about the leopard that waits at the foot of the bed'. The story he stopped in ch 9 was the man-eater of the pass. Devan never lies. FIX: In ch 21, change it to 'the one about the man-eater of the pass that left a man's sandals on the road'."
@@ -1322,9 +1322,13 @@
     {
       "at": "2026-10-19T23:47:21",
       "event": "done: S5 critique ch 20"
+    },
+    {
+      "at": "2026-10-19T23:48:12",
+      "event": "done: S6 revise ch 21"
     }
   ],
-  "updated_at": "2026-10-19T23:47:21",
+  "updated_at": "2026-10-19T23:48:12",
   "midpoint_chapter": 16,
   "continuity_attempts": 1
 }

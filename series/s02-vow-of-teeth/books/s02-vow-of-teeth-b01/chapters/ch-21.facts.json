@@ -1,29 +1,16 @@
 {
   "facts": [
     {
-      "category": "knowledge",
-      "fact": "Asha counted stairs in the dark because she believed numbers kept the dark from filling in (she was terrified of the dark). Devan recalls this while Neela counts stairs in her sleep.",
-      "since": "s02-vow-of-teeth-b01 ch 21"
+      "fact": "Neela's drawn-out tell when asked about the eleventh-step turn: she says 'I don't know', her lips move on a count and her thumbnail drags along her forefinger nail.",
+      "category": "knowledge"
     },
     {
-      "category": "name",
-      "fact": "Raiu's mother is dead; Chinna has a bad hip.",
-      "since": "s02-vow-of-teeth-b01 ch 21"
+      "fact": "Neela counts the doors in every room she sleeps in, and says so to Devan; she answered to 'Seventeen' for twenty-one years.",
+      "category": "knowledge"
     },
     {
-      "category": "knowledge",
-      "fact": "Question-game rule: either player may say 'I won't answer' once in total, and the other lets it lie.",
-      "since": "s02-vow-of-teeth-b01 ch 21"
-    },
-    {
-      "category": "timeline",
-      "fact": "After midnight on the rain night Neela wakes, presses her itching nails and says aloud 'Eight nights to the new moon'. Devan hears it but does not know what ends then.",
-      "since": "s02-vow-of-teeth-b01 ch 21"
-    },
-    {
-      "category": "knowledge",
-      "fact": "The wall-at-back sleeping habit dates from Asha's death (six years); his bad sleep dates from the ford (eight years). Neela listed only 'the kennels, and a big man's shadow in the yard' as childhood fears, without naming Vellan.",
-      "since": "s02-vow-of-teeth-b01 ch 21"
+      "fact": "Devan keeps a private tally of Neela's bare nights and chooses not to ask what ends at the new moon.",
+      "category": "knowledge"
     }
   ]
 }
