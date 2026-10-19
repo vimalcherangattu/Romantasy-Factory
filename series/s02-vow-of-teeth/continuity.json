@@ -244,6 +244,20 @@
       "fact": "Devan says he took four months and asked twice to learn Raiu's name.",
       "since": "s02-vow-of-teeth-b01 ch 1",
       "provisional": true
+    },
+    {
+      "id": "F041",
+      "category": "knowledge",
+      "fact": "Devan first smelled nightbark resin at twenty, from a sealed jar passed around a classroom during his border training on the witness rule.",
+      "since": "s02-vow-of-teeth-b01 ch 2",
+      "provisional": true
+    },
+    {
+      "id": "F042",
+      "category": "relationship",
+      "fact": "Janu says it is the first time in eleven years Devan has asked for food himself.",
+      "since": "s02-vow-of-teeth-b01 ch 2",
+      "provisional": true
     }
   ],
   "knowledge": [
