@@ -1,0 +1,43 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 5.0,
+    "romance_movement": 5.0,
+    "shown_chemistry": 5.0,
+    "character_logic": 3.0,
+    "stakes_and_cost": 5.0,
+    "prose": 4.0,
+    "continuity": 0.0
+  },
+  "reasons": {
+    "reader_question": "Specific and urgent: what survives the night (Devan's wound now hers, Ammu's body, Muthu at the gate, the intake slip in Chathu's fist). It splits across several threads rather than landing on one sharp gap.",
+    "change": "Everything turns. She goes from about to be caged to uncageable and rogue. The ledger entry is gone, Ammu is dead, and Devan has struck his first blow in eight years. Power, knowledge and relationship all move.",
+    "romance_movement": "The reason is new and huge. She gives him the one word she has never said and makes him her only witness. He breaks his eight-year refusal to strike, for her, and isn't sorry. The 'braced for sorry' beat makes the change legible.",
+    "shown_chemistry": "Chemistry comes through responsive action. He spits out the pebble he kept in his cheek all the way here. He says 'Then I'll look harder' and looks at her face, not her scars. His hand rests and does not grip. She lies across him counting his heart. Nothing is narrated as attraction.",
+    "character_logic": "Mostly strong. Devan's 'They want you to follow' and Neela weighing the choice like a wall are smart. But Neela 'did not understand' the tearing in her ribs minutes after Ammu spelled out wound-share. And the hunters leave the known-disloyal Ammu as the prisoner's sole guard, which is convenient.",
+    "stakes_and_cost": "The stay-or-follow choice costs Ammu's life or Devan's. The self-naming costs rogue status, shared wounds and the once-only bond. The loss is irreversible and grieved through the leopard's senses.",
+    "prose": "Lean, concrete and readable, with a strong hook line and a good jackal grin as a relief beat. Several consecutive paragraphs open with 'She' ('She had never said it.' / 'She said it to him.'; 'She stayed.' / 'She heard everything.'; 'She could not turn back' / 'She knew it'). 'went out of her like a held breath' brushes the banned breath cliché.",
+    "continuity": "Conflict: Neela 'saw him think of... the thing he had sworn on the west stair', but F144 says Devan never told her of that oath. Minor conflicts: 'I wrote her every month' against F153's eleven letters in two years, and 'Not in twenty-one years' when her shape has existed only eleven years (first turning at 16)."
+  },
+  "fixes": [
+    "At 'She saw him think of the ford, and the eight years, and the thing he had sworn on the west stair': this is a POV knowledge breach and conflicts with continuity F144, since Neela was never told of the oath. Cut the west-stair clause. Keep only what she knows (the ford, the eight years), and show the cost through a visible tell she can read, such as his fingers crooking and hesitating the way they did when he told her about the raider captain.",
+    "At 'A hot tearing line opened along her own ribs. She did not understand it.': this is irrational behaviour, because Ammu explained wound-share minutes earlier. Have her recognise it at once ('A cut on him opens on you'). Let that knowledge drive the stay-or-follow choice: if she runs after Ammu and is speared, he bleeds too. That makes Choice Under Pressure (18) sharper and Rule That Bites Back (22) explicit.",
+    "At 'I wrote her every month,' Ammu said: this is a continuity slip against F153 (eleven letters). Change it to 'I wrote her eleven times'. In the same pass, change 'Not in twenty-one years' to 'Not in eleven years' (since her first turning). Fix the consecutive 'She' paragraph openings, for example by recasting 'She said it to him.' as 'To him, then. Her voice cracked and held.'"
+  ],
+  "reader_question": "With Ammu dead, Devan bleeding and his wounds now hers, and Chathu holding the slip with her birth name, what is left of them at first light?",
+  "techniques_landed": [
+    18,
+    19,
+    24,
+    12,
+    22
+  ],
+  "new_facts_assessment": "Intake slip surviving unscorched: consistent with F012 (self-naming burns only the witness entry) and a necessary set-up for book 2 ch20; Chathu keeping it is good leverage. Ammu smearing her own resin before sunset: necessary for the jackal decoy, and it matches the chapter's own forced-before-sunset precedent, though bible Rule 1 phrases turning as smearing 'after sunset', so keep it consistent hereafter. Devan unable to stand: consistent with the antidote timing and sharpens the strike from one knee. Ammu dead and staying dead, Muthu alive: consistent with the bible. There are also unlisted additions to note. Chathu shouts 'The jackal has my keys' though Ammu took Pachan's key, so align or cut. 'I wrote her every month' contradicts F153. Neela feeling the tear in ch27 pre-empts part of ch28's wound-share beat; it is acceptable only if she recognises it rather than being confused.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Irrational behaviour to extend plot"
+  ],
+  "average": 3.88,
+  "minimum": 0.0,
+  "passed": false
+}

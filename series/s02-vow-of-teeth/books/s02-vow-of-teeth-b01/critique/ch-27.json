@@ -2,43 +2,42 @@
   "scores": {
     "reader_question": 4.0,
     "change": 5.0,
-    "romance_movement": 4.0,
-    "shown_chemistry": 4.0,
+    "romance_movement": 5.0,
+    "shown_chemistry": 5.0,
     "character_logic": 3.0,
     "stakes_and_cost": 5.0,
     "prose": 4.0,
     "continuity": 0.0
   },
   "reasons": {
-    "reader_question": "The beat's question lands, and Chathu pocketing the unburned intake slip with his thumb over it adds a sharp new one. Ammu's fate is left a hair ambiguous ('It stopped.'), which blurs the question.",
-    "change": "Every axis moves. She goes from cageable to uncageable and rogue, from witnessed to self-witnessed, and from sister to bereaved, and the wound-share already bites.",
-    "romance_movement": "The reason is new: she makes him the only witness, and he strikes for her and 'did not look sorry'. His reaction to being made her one key gets only a closed-eye heartbeat and never comes back up.",
-    "shown_chemistry": "Strong responsive beats carry it: 'Then I'll look harder', the hand that 'did not grip. It rested.', and her lying across him counting his heart. The best of these is undercut by a line that isn't true for him.",
-    "character_logic": "Three things are convenient. Chathu leaves the caged member alone with the sister he is punishing. A man who was grey and ash-lipped minutes ago rolls inside a bear's swing. Ammu turns jackal with no resin shown after she set the pot down in the kennel.",
-    "stakes_and_cost": "The stay-or-follow choice is brutal and well built. She weighs Ammu against his wound in her own ribs, chooses, hates it, and pays with Ammu's death.",
-    "prose": "The prose is clean, concrete and readable, with good short-sentence impact. Door and shutter imagery is overused ('closed door', 'shutting a door', 'door shut', 'door scraped', 'slammed shutter'), and similes cluster in the bear fight. Stock lines include 'running before she knew it' and 'knew it the way she knew her own name'. Two consecutive paragraph-opener pairs start 'She' and 'He'.",
-    "continuity": "Devan says 'I've watched you change every night since our wedding.' This conflicts with F125 (ten times by ch13), with the cache turnings and the many skipped-resin nights (F129, F183, F192), and with his never-lies, exact-facts voice."
+    "reader_question": "Specific and urgent: what survives the night (Devan's wound now hers, Ammu's body, Muthu at the gate, the intake slip in Chathu's fist). It splits across several threads rather than landing on one sharp gap.",
+    "change": "Everything turns. She goes from about to be caged to uncageable and rogue. The ledger entry is gone, Ammu is dead, and Devan has struck his first blow in eight years. Power, knowledge and relationship all move.",
+    "romance_movement": "The reason is new and huge. She gives him the one word she has never said and makes him her only witness. He breaks his eight-year refusal to strike, for her, and isn't sorry. The 'braced for sorry' beat makes the change legible.",
+    "shown_chemistry": "Chemistry comes through responsive action. He spits out the pebble he kept in his cheek all the way here. He says 'Then I'll look harder' and looks at her face, not her scars. His hand rests and does not grip. She lies across him counting his heart. Nothing is narrated as attraction.",
+    "character_logic": "Mostly strong. Devan's 'They want you to follow' and Neela weighing the choice like a wall are smart. But Neela 'did not understand' the tearing in her ribs minutes after Ammu spelled out wound-share. And the hunters leave the known-disloyal Ammu as the prisoner's sole guard, which is convenient.",
+    "stakes_and_cost": "The stay-or-follow choice costs Ammu's life or Devan's. The self-naming costs rogue status, shared wounds and the once-only bond. The loss is irreversible and grieved through the leopard's senses.",
+    "prose": "Lean, concrete and readable, with a strong hook line and a good jackal grin as a relief beat. Several consecutive paragraphs open with 'She' ('She had never said it.' / 'She said it to him.'; 'She stayed.' / 'She heard everything.'; 'She could not turn back' / 'She knew it'). 'went out of her like a held breath' brushes the banned breath cliché.",
+    "continuity": "Conflict: Neela 'saw him think of... the thing he had sworn on the west stair', but F144 says Devan never told her of that oath. Minor conflicts: 'I wrote her every month' against F153's eleven letters in two years, and 'Not in twenty-one years' when her shape has existed only eleven years (first turning at 16)."
   },
   "fixes": [
-    "Fix the continuity break at \"I've watched you change every night since our wedding.\" Devan is literal and never lies to her, and the record says he watched about ten times by ch13, after which she turned at the cache. Replace it with an exact, true line in his voice, such as \"I've watched every turning you let me see. I never once looked away.\" This keeps the romantic payload and the callback.",
-    "Repair the convenient recovery at \"Devan was on one elbow. He had been dying minutes ago.\" Right now the antidote acts like a switch (irrational behaviour to extend plot). Keep him unable to stand. Let the bear's own charge bring the shoulder to him, so he strikes once from his knees in the mud and pitches forward afterward. Give one beat of him choosing to strike: his hand lifts, hesitates on the eight years, then lands. That way the first blow reads as a decision, not reflex.",
-    "Set up Ammu's turning at \"Ammu was already gone. She was a shadow\". She set the resin pot down in the kennel straw, so her jackal shape currently has no source (convenient magic). Have her take two fingers of resin from the pot before they leave the kennel and smear her throat as she goes. Or have Neela see her dip into the pot at the cook-house corner. Then, after \"It stopped.\", add one concrete sensory certainty, such as the smell of jackal blood carried back on the wind, so the loss is unambiguous (technique 19)."
+    "At 'She saw him think of the ford, and the eight years, and the thing he had sworn on the west stair': this is a POV knowledge breach and conflicts with continuity F144, since Neela was never told of the oath. Cut the west-stair clause. Keep only what she knows (the ford, the eight years), and show the cost through a visible tell she can read, such as his fingers crooking and hesitating the way they did when he told her about the raider captain.",
+    "At 'A hot tearing line opened along her own ribs. She did not understand it.': this is irrational behaviour, because Ammu explained wound-share minutes earlier. Have her recognise it at once ('A cut on him opens on you'). Let that knowledge drive the stay-or-follow choice: if she runs after Ammu and is speared, he bleeds too. That makes Choice Under Pressure (18) sharper and Rule That Bites Back (22) explicit.",
+    "At 'I wrote her every month,' Ammu said: this is a continuity slip against F153 (eleven letters). Change it to 'I wrote her eleven times'. In the same pass, change 'Not in twenty-one years' to 'Not in eleven years' (since her first turning). Fix the consecutive 'She' paragraph openings, for example by recasting 'She said it to him.' as 'To him, then. Her voice cracked and held.'"
   ],
-  "reader_question": "With Ammu likely dead, Neela rogue and bound in wounds to a half-poisoned man, and Chathu holding the slip that carries her birth name, what is left of them at first light?",
+  "reader_question": "With Ammu dead, Devan bleeding and his wounds now hers, and Chathu holding the slip with her birth name, what is left of them at first light?",
   "techniques_landed": [
-    12,
     18,
     19,
-    22,
-    24
+    24,
+    12,
+    22
   ],
-  "new_facts_assessment": "new-facts.json is empty, but the draft adds several facts. Muthu came on horseback, not by cart, and held the arch. Ammu stole Pachan's key and the vial from Chathu's sleeve and carries a blade in her braid. Ammu learned the loophole at fourteen from a drunk master. The tappers' verse is the loophole. The vial is only partly full. The bear has a torn ear. Most important, the intake slip survives unburned, reads 'Intake, sold at six years', and Chathu keeps it. This is consistent with F012 and sets up B2 ch20, and it must be logged. The horse change is useful and quietly feeds Muthu's ambiguity. The half-empty vial and the torn ear are unexplained and should be cut or set up. The witness entry burning when Chathu reads it, rather than at the moment of self-naming, follows the beat. It loosely fits the bible's 'burns where it lies' and should be fixed in canon as 'the entry burns when next it is read or touched at night'. Otherwise keep the burning simultaneous with her word in later references.",
+  "new_facts_assessment": "Intake slip surviving unscorched: consistent with F012 (self-naming burns only the witness entry) and a necessary set-up for book 2 ch20; Chathu keeping it is good leverage. Ammu smearing her own resin before sunset: necessary for the jackal decoy, and it matches the chapter's own forced-before-sunset precedent, though bible Rule 1 phrases turning as smearing 'after sunset', so keep it consistent hereafter. Devan unable to stand: consistent with the antidote timing and sharpens the strike from one knee. Ammu dead and staying dead, Muthu alive: consistent with the bible. There are also unlisted additions to note. Chathu shouts 'The jackal has my keys' though Ammu took Pachan's key, so align or cut. 'I wrote her every month' contradicts F153. Neela feeling the tear in ch27 pre-empts part of ch28's wound-share beat; it is acceptable only if she recognises it rather than being confused.",
   "content_rule_violation": false,
   "failure_modes": [
-    "Convenient magic",
     "Irrational behaviour to extend plot"
   ],
-  "average": 3.62,
+  "average": 3.88,
   "minimum": 0.0,
   "passed": false
 }
