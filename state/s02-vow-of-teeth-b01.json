@@ -494,7 +494,7 @@
       "minimum": 3.0
     },
     "25": {
-      "status": "continuity-fix",
+      "status": "revised",
       "revisions": 1,
       "scores": {
         "reader_question": 4.0,
@@ -508,7 +508,7 @@
       },
       "average": 3.88,
       "flags": [],
-      "words": 2392,
+      "words": 2447,
       "minimum": 3.0,
       "continuity_fixes": [
         "Neela tells Devan Muthu should follow 'if I'm not back by the second dusk'. Her actual order in ch 26, which Chathu's timing depends on, is first light on the second day, meeting her on the wood road. FIX: In ch 25, change 'If I'm not back by the second dusk, he's to bring you after me' to 'If I'm not back by first light on the second day, he's to bring you up the wood road after me'."
@@ -1340,9 +1340,13 @@
     {
       "at": "2026-10-19T23:51:33",
       "event": "done: S5 critique ch 23"
+    },
+    {
+      "at": "2026-10-19T23:52:29",
+      "event": "done: S6 revise ch 25"
     }
   ],
-  "updated_at": "2026-10-19T23:51:33",
+  "updated_at": "2026-10-19T23:52:29",
   "midpoint_chapter": 16,
   "continuity_attempts": 1
 }

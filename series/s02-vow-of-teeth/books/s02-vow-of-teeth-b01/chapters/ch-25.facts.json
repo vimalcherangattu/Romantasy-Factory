@@ -1,25 +1,34 @@
 {
   "facts": [
     {
-      "id": "F229",
+      "id": "N1",
+      "category": "knowledge",
+      "fact": "Before dusk Devan found the west stair lamps drained, not burned dry (wicks white, cups tipped): a sign the inside informant wanted the stair dark. He could not spare the stair-head pair, so he sent Raiu for oil with the chamber door barred from within. Replaces F229's 'run dry'. Neela, standing at the shutter listening for steel, hears the fight.",
+      "since": "s02-vow-of-teeth-b01 ch 25"
+    },
+    {
+      "id": "N2",
       "category": "timeline",
-      "fact": "Before dusk Devan sent Raiu down to the lower court for lamp oil because the west stair lamps had run dry, which is why Raiu reaches the stair from below at the first sound of steel. The two men at the stair head had orders to hold it whatever they heard and move only once the bear was gone.",
-      "since": "s02-vow-of-teeth-b01 ch 25",
-      "provisional": true
+      "fact": "Neela's order to Muthu: if she is not back by first light on the second day, he is to bring Devan up the wood road after her, in a cart if he has to. Corrects F227's 'second dusk' and agrees with F244.",
+      "since": "s02-vow-of-teeth-b01 ch 25"
     },
     {
-      "id": "F230",
+      "id": "N3",
       "category": "knowledge",
-      "fact": "Vellan tells Devan that his house keeps count of the eight years since he struck anyone, further evidence of the inside informant (F220).",
-      "since": "s02-vow-of-teeth-b01 ch 25",
-      "provisional": true
+      "fact": "After the poison takes the Asha thought, Devan keeps only a fogged memory: a rolling torch and something dark at the wall. The rest slides away when he reaches for it, so the link stays closed.",
+      "since": "s02-vow-of-teeth-b01 ch 25"
     },
     {
-      "id": "F231",
-      "category": "knowledge",
-      "fact": "Neela's ache has been building for weeks (F145, F160). The nails splitting on the morning of ch25 sharpened it; skipping resin on the new-moon night did not cause them. She tells Devan she trusts Muthu with his body, not his secrets, because she has no one else.",
-      "since": "s02-vow-of-teeth-b01 ch 25",
-      "provisional": true
+      "id": "N4",
+      "category": "relationship",
+      "fact": "Raiu's mother has been dead four years. Devan stood over Asha's body at twenty-six in the grey before dawn with Janu holding a lamp.",
+      "since": "s02-vow-of-teeth-b01 ch 25"
+    },
+    {
+      "id": "N5",
+      "category": "injury",
+      "fact": "On the morning of ch25 one of Neela's nails had split; by the stable scene three have split to the quick. Devan notices it himself.",
+      "since": "s02-vow-of-teeth-b01 ch 25"
     }
   ]
 }
