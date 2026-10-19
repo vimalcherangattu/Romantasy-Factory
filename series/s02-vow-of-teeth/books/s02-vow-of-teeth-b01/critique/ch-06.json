@@ -1,41 +1,42 @@
 {
   "scores": {
-    "reader_question": 4.0,
-    "change": 4.0,
+    "reader_question": 3.0,
+    "change": 3.0,
     "romance_movement": 3.0,
-    "shown_chemistry": 4.0,
-    "character_logic": 3.0,
+    "shown_chemistry": 3.0,
+    "character_logic": 4.0,
     "stakes_and_cost": 3.0,
-    "prose": 4.0,
-    "continuity": 0.0
+    "prose": 3.0,
+    "continuity": 5.0
   },
   "reasons": {
-    "reader_question": "Two questions leave the chapter: what Ammu brings tomorrow, and, through dramatic irony, whether Devan meant 'the cat' and heard her laugh. The dawn scene answers the cat question so firmly for Neela that only the reader still holds it.",
-    "change": "Real knowledge gains: she has a candidate weak hour, she knows Ammu is close, and she has contact tomorrow. The value shift runs from shaken to relieved and is then re-tensed by the call.",
-    "romance_movement": "'Then we agree' and 'same side of a wall' give the beat's new reason, shared distrust of the palace. Devan's half-turn is one short look, though, and the alliance never costs or tests either of them.",
-    "shown_chemistry": "The response is shown in action: his surprised look, the mouth 'thinking about' a smile, her finger stopping on the lid, the breath that hitches at her laugh. One paragraph ('She found she liked, a little...') drifts into narrated feeling.",
-    "character_logic": "Her weak-hour reasoning says Devan wakes and leaves in the last dark hour. The same night she returns at first light and hears him in deep sleep, as on every previous night, so a professional would notice her plan's flaw is unproven.",
-    "stakes_and_cost": "She now has a door to kill him through and contact is coming, but the chapter never makes her weigh what using that door costs after the 'same side of a wall' moment.",
-    "prose": "Specific and lively (the fish, the sneeze), but the it/she leopard pronouns blur into the 'it' of the weak hour. Similes recycle ('went through her like' twice, 'like water' twice), and 'It was not the queen she wanted him to be wary of' reads as the opposite of its intent.",
-    "continuity": "'The last long hour before the day watch' is placed in the dark, but the day watch changes on the sixth clank after dawn (F045). F075 repeats the error, and the empty rampart is treated as new although Devan pulled the sentry in ch5."
+    "reader_question": "The beat's question 'Did he mean the cat?' is answered for Neela by the real tom, so the chapter's pull leans on the breathing hitch and Ammu's 'tomorrow'. The reader leaves with two half-questions instead of one sharp one.",
+    "change": "Knowledge moves: she has a candidate weak hour, a doubt about his dawn rising, and proof that Ammu is close. The required emotional turn ('shaken by a word she tells herself is chance') is undone by the laugh and the warm ending, so she finishes calmer than she started.",
+    "romance_movement": "The new reason is on the page: a shared distrust of the palace that makes them allies for a moment. But it is sealed by one narrated line ('on the same side of a wall'), and Devan does nothing in response to her pepper-house remark.",
+    "shown_chemistry": "The near-smile, 'Do we?' and 'I will' are responsive and good. It is one short exchange; the rest of the storeroom scene is Devan studying wax while Neela narrates what she cares about.",
+    "character_logic": "Neela reasons the cat word away the way a careful agent would, and she flags her unverified intel about his rising. Devan's open distrust of the palace fits his never-lies voice. Neela laughing aloud on the ledge is a believable lapse, not a contrivance.",
+    "stakes_and_cost": "The weak-hour logic narrows the kill toward 'the hour before the hour'. The next step, meeting Ammu, has no stated price yet: no sense of what she must report or what reporting costs her.",
+    "prose": "The prose is mostly clean, concrete and readable. It has several logic slips: a 'stranger's urine' she recognises as Ammu's, 'stopped' while the hill streams past, a POV leak on the wax smell, and the clumsy 'He was at it longer' doubling. The 'it'/'she' pronouns in the leopard run also blur.",
+    "continuity": "The chapter is consistent with the bible and ledger: day count 35, rampart empty two nights, bar still across the shutters (matches ch 5 text and F065), eleven tins, Ammu two years younger, Devan staying abed until she sleeps (ch 5). Minor wording: 'third clank of the middle watch' versus F037 'after the middle watch'."
   },
   "fixes": [
-    "Continuity. Replace 'The men on the wall, in the last long hour before the day watch' with 'in the last long hour before first light, when the night pairs had stood longest'. The day watch changes on the sixth clank after dawn (F045). Correct F075 to match. Also rewrite 'Whoever had paced there for four nights had been called away' to acknowledge the sentry has been gone since the night Devan pulled him (ch5), for example 'The rampart had been empty two nights now. She had stopped calling it luck.' This also feeds the protection plants.",
-    "Character logic (Irrational behaviour to extend plot). After 'The man she was paid to kill woke in that hour', have Neela admit she knows it only from Janu and the pit lamps, because she has always been out on the hill then. Then pay it off at dawn: at 'she took it for the sign of a man in the deepest part of sleep', let her note that he is still abed at first light again. That makes the plan's flaw a live uncertainty instead of a blind spot, and it sharpens the reader's irony about his 'sleep'.",
-    "Prose clarity. In 'It was not the queen she wanted him to be wary of', the line says the reverse of its intent. Rewrite it as 'She did not much care whether he trusted the queen. She cared, more than she should, that he had not looked at her when he said it.' Also fix 'It had one flaw, and she found it as she ran': after a run of 'it' meaning the leopard, write 'The hour had one flaw'. Then vary one of the two 'went through her like' similes."
+    "At 'and for a moment it felt like being on the same side of a wall' (Narrated-only chemistry): cut the summarising sentence and show the alliance as an exchange. Before he tucks the wax away, Devan holds the seal out to her and asks, 'What would a trader say it cost?' She answers in pepper-house terms ('the price of what they'll ask for next'). He nods and puts it away. The response proves he heard her, and her small warmth comes from being asked, not from narration.",
+    "At 'She had been loud, and she'd been lucky.' (Static heroine / value shift not delivered): the beat requires her to end shaken by a word she tells herself is chance, but the laugh fully dissolves the suspicion. Keep the laugh, then add one counted residue. For example, the hitch in his breath came on the exact beat of her laugh, not a third of the way through like every other night, and she files it and refuses to look at the bed. That restores 'Did he mean the cat?' as the reader's question going into Ammu's call.",
+    "Fix four logic slips in the prose. (a) 'It was a very small thing, a stranger's urine on a stone': she has just recognised Ammu's scent, so make it 'what anyone else would call a jackal's mark on a stone'. (b) 'She stopped there, with the hill streaming past': she is either stopped or running, so make it 'She checked herself mid-stride'. (c) 'It smelled of crushed leaf, she knew without being near': this is a POV leak, so give her the source (she caught it when Janu set the box down). (d) Collapse 'He was at it longer than he'd given the silver. He was at it longer than he'd given the cord' into one sentence."
   ],
-  "reader_question": "Did Devan mean more than the pepper-store cat, and did he hear her laugh on the ledge at dawn?",
+  "reader_question": "Was Devan awake to hear her laugh on his window ledge, and what is Ammu coming to tell her tomorrow?",
   "techniques_landed": [
     11,
     13,
     20
   ],
-  "new_facts_assessment": "Most facts are necessary and consistent. The sunbird seal is a strong retrievable clue for the ch32 hinge, and its crushed-leaf scent usefully contrasts with the clove of council wax (F050). The betel set locked in the granary fits the farm lock (F057). The meeting stone and the three-and-one jackal call are well set up and fit Neela and Ammu's ages (9 and 11). Thirty-five nights fits F059. The servant names are low-load but serve her habit. F075 conflicts with F045 (the day watch changes six clanks after dawn, not in the last dark hour). It also states as fact Devan's rising in that hour, which this chapter's own dawn scene undercuts, so it should be logged as Neela's belief, not established fact. One fact is unlisted and should be logged: Chathu sent a tin of jaggery-sesame sweets before each of her eleven contracts. It is consistent with her twelfth contract.",
+  "new_facts_assessment": "F078 (weak hour before first light; Devan's rising known only by hearsay; heard abed at dawn) is necessary and consistent. It correctly fixes F075's clash with F045, and F075 should be retired from the ledger, along with the duplicate pairs F054/F055 and F064/F065, which contradict each other on the shutter bar (the text follows F065). F079 is consistent with ch 5 and ch 6 timing. F080 (Chathu's eleven tins of sweets, gift as the start of a bill) is consistent with Chathu's fatherly debt-talk. It earns its place by motivating 'Then we agree'. The draft added two facts it did not list: every guild meeting stone is cut with a cup, and Neela and Ammu practised the call at eleven and nine. Both are consistent and harmless; they should be added to new-facts. F070's sunbird is rendered as 'a small bird' on the seal, which is fine.",
   "content_rule_violation": false,
   "failure_modes": [
-    "Irrational behaviour to extend plot"
+    "Narrated-only chemistry",
+    "Static heroine"
   ],
-  "average": 3.12,
-  "minimum": 0.0,
+  "average": 3.38,
+  "minimum": 3.0,
   "passed": false
 }
