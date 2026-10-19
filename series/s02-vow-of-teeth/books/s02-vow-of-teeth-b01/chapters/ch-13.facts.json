@@ -1,29 +1,20 @@
 {
   "facts": [
     {
-      "category": "name",
-      "fact": "Eravi is the stooped fort physician who bleeds Devan twice and despairs.",
-      "why": "needed because the beat requires a physician who bleeds him and despairs."
-    },
-    {
-      "category": "injury",
-      "fact": "Devan's raider arrow-graze is along the outside of his left forearm. The arrowhead was dung-smeared, so the wound festers with red lines up the arm.",
-      "why": "needed because the beat requires the arrow-graze gone bad."
-    },
-    {
-      "category": "place",
-      "fact": "A cotton curtain hangs inside the warden's chamber window, behind the shutters.",
-      "why": "needed because Devan's line 'Draw the curtain' requires one."
-    },
-    {
-      "category": "timeline",
-      "fact": "Neela counts twenty-nine nights left on the night of chapter 13. Janu opened the shutters that evening by Devan's father's rule that a sick room breathes.",
-      "why": "needed because it follows the night counts and explains the open shutters on the fever night."
+      "category": "knowledge",
+      "fact": "Devan has been feeding the notched ginger tom off the table since the second week and has never mentioned it; Neela, as the other one, knows this."
     },
     {
       "category": "knowledge",
-      "fact": "Neela had intended to leave her guild report at the meeting stone for Ammu on the night of chapter 13, and missed it to stay with Devan.",
-      "why": "needed because the beat says her guild report is due that night."
+      "fact": "In fever Devan says 'cat' repeatedly and once says the name Asha. Neela hears it in shape and takes it as raving."
+    },
+    {
+      "category": "knowledge",
+      "fact": "Before tonight Devan has watched Neela turn ten times, always through his lashes with a sleeper's face. In ch13 the fever leaves his lids half open and she studies his face for one breath without reading him."
+    },
+    {
+      "category": "timeline",
+      "fact": "At first light after ch13 Ammu, in jackal shape on the second spur, gives the guild call (three yips, pause, one rising note: 'tomorrow, I will find you') after finding the stone empty. Neela does not stand."
     }
   ]
 }
