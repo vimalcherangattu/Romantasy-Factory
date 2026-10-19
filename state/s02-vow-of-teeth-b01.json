@@ -535,7 +535,7 @@
       "minimum": 0.0
     },
     "27": {
-      "status": "continuity-fix",
+      "status": "revised",
       "revisions": 2,
       "scores": {
         "reader_question": 4.0,
@@ -551,7 +551,7 @@
       "flags": [
         "needs-owner"
       ],
-      "words": 2745,
+      "words": 2779,
       "minimum": 0.0,
       "continuity_fixes": [
         "Ammu says 'I wrote her every month', which would be about two dozen letters in two years. Ch 7 has three letters. FIX: In ch 27, change 'I wrote her every month' to 'I wrote her and wrote her'.",
@@ -1356,9 +1356,13 @@
     {
       "at": "2026-10-19T23:56:35",
       "event": "done: S5 critique ch 25"
+    },
+    {
+      "at": "2026-10-19T23:57:23",
+      "event": "done: S6 revise ch 27"
     }
   ],
-  "updated_at": "2026-10-19T23:56:35",
+  "updated_at": "2026-10-19T23:57:23",
   "midpoint_chapter": 16,
   "continuity_attempts": 1
 }
