@@ -1,0 +1,43 @@
+{
+  "scores": {
+    "reader_question": 3.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 3.0,
+    "stakes_and_cost": 3.0,
+    "prose": 3.0,
+    "continuity": 0.0
+  },
+  "reasons": {
+    "reader_question": "The sealing-day trap is a clear question, but the chapter never names the guild's new-moon deadline, and it ends on a quiet reflection rather than a reveal or an interrupted action, so the urgency is soft.",
+    "change": "Real shifts in knowledge and power: Devan learns the buyer and the widow-seal motive, Neela sets a limit he accepts, and the two move from suspicion to a shared plan.",
+    "romance_movement": "The reason is new: she gives freely the name he once tried to buy, after the bargain is gone; his 'not yet' opens a door his old 'no' kept shut.",
+    "shown_chemistry": "Responsive action carries it: she lets him have the truth without soothing him, leans her shoulder against his, and the 'not yet' exchange; 'It's very annoying' is good banter.",
+    "character_logic": "Mostly smart (she dismantles the ride-to-Kodiyur impulse well), but Neela, who refuses to say more about her source, then names Ammu aloud by accident, which undercuts her defining loyalty.",
+    "stakes_and_cost": "Refusing to testify has a stated cost (rogue status, Ammu's page), but the chapter never weighs that cost against the new moon in about six nights, when Vellan comes, so the plan feels unhurried.",
+    "prose": "Clean and readable with good images ('braced for a blow and found a hand'), but 'He' opens too many consecutive paragraphs, 'It was a relief' appears twice, 'blade through cloth' is stock, and the length runs about 3,300 to 3,400 words against 2,700.",
+    "continuity": "'Forty days' contradicts the timeline: the whole contract is about 40 days and roughly 30 have passed. The chapter also contradicts itself on whether Devan read Ittan's letter over supper or spoke it in bed, and the 'eight days' to the pass closing sits uneasily with the night counts from ch18 to ch22."
+  },
+  "fixes": [
+    "Continuity. At \"He had learned in forty days to read\", the timeline conflicts: the full contract span is about 40 days and they are some 30 days in. Change it to \"in a month\" or \"in thirty-odd days\". Then fix the chapter's self-contradiction between \"he had said it aloud to the dark without thinking\" and \"He had read it to her over supper and called it kindly meant\". Keep one version (the bed version suits Neela's attentiveness better) and cut the other. Also add a line so the 'eight days' to sealing day agrees with the night counts in earlier chapters, or flag it for the reviser.",
+    "Stakes and reader question. Neela never mentions Chathu's new-moon deadline (about six nights, before the sealing) while they plan around \"He's coming to us\". Have her state the count during the planning, for example that the moon comes two days before the Keeper does and Chathu won't wait for it, so the trap must survive Vellan first. Then replace the soft closing reflection (\"something to be done with someone else\") with a concrete reveal or turn tied to that clock. The chapter needs an ending that makes the next one necessary, and cutting 400 to 600 words of interiority from the stair and Asha passages would bring it near target.",
+    "Character logic. At \"mine sits beside Ammu's. If I stand up\", Neela has just refused to say more about her source, then names Ammu by accident, which breaks her defining loyalty for the sake of a moment. Either make it a deliberate, costly disclosure she chooses (she says the name, then says why she trusted him with it), or keep the name unspoken (\"my sister's page is on the next leaf\") so Devan's not-asking still means something."
+  ],
+  "reader_question": "Can Devan and Neela catch Ittan with the sealing-day cart search before the guild's new-moon deadline brings someone to finish the contract?",
+  "techniques_landed": [
+    3,
+    15,
+    16
+  ],
+  "new_facts_assessment": "F201 (Ittan's name first on the match letter) is necessary and fits F021. F202 (Ittan's letter said he would come himself) fits the ch17 setup and F149, but the chapter gives two contradictory scenes for how Neela heard it; fix one. F203 (pass closes in eight days) follows the outline but needs reconciling with the countdown: sixteen nights on ch18 (F156), then ch20 to ch22 on consecutive days (F172, F188, F192), suggests about eleven unless ch18 and ch19 are days apart. F204 (sealing-day search) is necessary and plausible. Note that the chapter says carts are searched before they 'leave', while Neela's plan has the Keeper's cart searched as it 'comes in'; align the two. F205 (source as a guild-sister) is necessary and matches F195. Unlisted new facts: Kodiyur is 'four days at a hard ride' (plausible, should be logged), and Asha was killed 'the month after' finding the first token (it fits F112's 'Need a second' note, but must be listed and checked against later chapters).",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Irrational behaviour to extend plot",
+    "Stakes without depth",
+    "Endless monologue"
+  ],
+  "average": 3.0,
+  "minimum": 0.0,
+  "passed": false
+}
