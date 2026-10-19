@@ -1,0 +1,2 @@
+timestamp,book_id,stage,model,input_tokens,output_tokens,cache_read_input_tokens,cache_creation_input_tokens,duration_ms,num_turns,reported_cost_usd
+2026-10-19T13:54:41,series,select,opus,2,1755,0,18824,22024,1,0.1857
