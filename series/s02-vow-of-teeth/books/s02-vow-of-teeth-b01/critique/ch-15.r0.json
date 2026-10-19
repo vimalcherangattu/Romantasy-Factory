@@ -1,0 +1,41 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 5.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 3.0,
+    "stakes_and_cost": 4.0,
+    "prose": 3.0,
+    "continuity": 0.0
+  },
+  "reasons": {
+    "reader_question": "The last image, a man in the pit who may be 'practising or waiting', makes the beat's question concrete. It is still a fear about a stance, not a gap the reader can predict into, so it scores 4 and not 5.",
+    "change": "This is a full midpoint state change. Her knowledge flips from hidden to seen-for-twenty-days. Power moves twice: she holds the knife, then he holds the word. Her husband is reclassified from mark to master.",
+    "romance_movement": "The reason for distance is genuinely new: the barrier was secrecy and is now an offered leash. 'That is fair... the worst thing he could have said' moves her inner judgement, not only the plot. Her movement toward him is mostly fear, so it is not yet a 5.",
+    "shown_chemistry": "His care is responsive and specific. He says 'The cloth is where you left it'. He looks politely at the third slat. He keeps his open hands between his knees. He says 'I want you fed'. Her responsiveness is weaker; she is mostly calculating.",
+    "character_logic": "Devan is very smart: he waits until full dawn so the word cannot harm her, and he names the bargain honestly. Neela has two logic gaps. She runs for the exposed ledge, ignoring the dawn cache she built under the second spur (ch14). She also reaches the knife in the mattress from the floor by the window while he sits six feet away on that same bed.",
+    "stakes_and_cost": "Refusing costs her his silence: she now lives with the word in a stranger's mouth every night. Twenty nights remain and the pass is closing. The knife moment makes killing him a live and costly choice.",
+    "prose": "There is strong concrete texture: the frogs, the slate-grey sky, the wet strand of fur. Several things pull it down. Chains of 'He did not' and 'She could not' run across long stretches. 'Longest minute she had ever spent' is a stock phrase. 'In the second wrong thing' is ungrammatical. 'It was only when/then' is used twice. 'For what seemed a long time' brushes the AI-tell list.",
+    "continuity": "'Two. Twenty years, and a third' conflicts with the bible. Her first turning, witnessed by Chathu and Ammu, was 11 years ago, at 16. Ammu has been beside her 20 years, but she has been a witness for 11. Separately, inside the chapter, the knife is 'warm from the bed' in a bed nobody slept in."
+  },
+  "fixes": [
+    "At 'Two. Twenty years, and a third.' there is a continuity conflict. Her witnesses date from her first turning at sixteen, eleven years ago. Change it to 'Two. Eleven years, and a third.' Alternatively, make clear that the twenty years refers to Ammu beside her, not to Ammu as a witness.",
+    "At 'The grip came into her palm warm from the bed' there is a logic and continuity error inside the chapter. The bed is unslept, and she is on the boards by the window, six feet from Devan, who sits on that same bed. Do two things. First, restage her move so she rolls or lunges to the bed's foot or the far side before reaching the gap. Second, make the grip cold, for example 'cold as the night it had lain through'. This keeps 'He did not move' and makes her motion something he visibly allows.",
+    "At 'She gave up the trail... She turned for home' she ignores the dawn cache she built under the second spur in ch14. This is the failure mode 'Irrational behaviour to extend plot'. Add two or three sentences giving her a reason: rain floods the cleft, or the cache is on the wrong side of the cut, or she judges the fort nearer than the spur. Better still, have her choose the ledge because she misjudged the hour, so the error that exposes her is her own."
+  ],
+  "reader_question": "Now that Devan holds the word openly and she has refused his price, will he ever use it, or is his patience the hunter's she has always feared?",
+  "techniques_landed": [
+    3,
+    12,
+    16
+  ],
+  "new_facts_assessment": "Timeline (F138): needed and consistent. Ch14's 28 nights minus 8 gives 20 nights left, and the twenty days of watching match the roughly 40-day clock. Ridge-tracking couriers (F139): needed for the storm beat, and it follows naturally from the ch14 mirror 'beyond the cut'. Mattress knife (F140): needed, but staged badly. It is 'warm from the bed' though the bed is unslept, and she reaches it from the floor at the sill. Devan's deduction and his oath on Asha's name (F141): consistent with the bible's council-pressed distrust and his honesty rule. The oath is resonant given what the reader suspects about the stair. Technique 15 is only gestured at: his need for the name against her refusal is framed as a bargain, not two legitimate values colliding. The ch14 dawn cache (F129) is silently dropped when it should have been addressed.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Irrational behaviour to extend plot"
+  ],
+  "average": 3.38,
+  "minimum": 0.0,
+  "passed": false
+}
