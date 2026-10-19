@@ -318,7 +318,7 @@
       "minimum": 3.0
     },
     "18": {
-      "status": "revised",
+      "status": "passed",
       "revisions": 1,
       "scores": {
         "reader_question": 4.0,
@@ -328,12 +328,12 @@
         "character_logic": 3.0,
         "stakes_and_cost": 4.0,
         "prose": 3.0,
-        "continuity": 0.0
+        "continuity": 5.0
       },
-      "average": 3.25,
+      "average": 3.88,
       "flags": [],
       "words": 2660,
-      "minimum": 0.0
+      "minimum": 3.0
     },
     "19": {
       "status": "pending",
@@ -691,8 +691,12 @@
     {
       "at": "2026-10-19T21:12:39",
       "event": "done: S6 revise ch 18"
+    },
+    {
+      "at": "2026-10-19T21:14:10",
+      "event": "done: S5 critique ch 18"
     }
   ],
-  "updated_at": "2026-10-19T21:12:39",
+  "updated_at": "2026-10-19T21:14:10",
   "midpoint_chapter": 16
 }
