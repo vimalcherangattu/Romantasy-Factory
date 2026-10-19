@@ -2085,6 +2085,13 @@
       "fact": "Captain Muthu sleeps in the lower barracks and wakes Devan for the dawn watch twice a week. The wedding bangle was made from a measure the council sent. There is a draught by the stair outside the warden's chamber.",
       "since": "s02-vow-of-teeth-b01 ch 1",
       "provisional": true
+    },
+    {
+      "id": "F304",
+      "category": "relationship",
+      "fact": "Janu says it is the first time since Asha died that Devan has asked for food himself. This replaces F042 (eleven years).",
+      "since": "s02-vow-of-teeth-b01 ch 2",
+      "provisional": true
     }
   ],
   "knowledge": [
