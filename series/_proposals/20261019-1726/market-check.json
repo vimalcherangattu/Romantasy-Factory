@@ -1,0 +1,65 @@
+{
+  "pen_name": {
+    "name": "V. C. Arden",
+    "verdict": "clear",
+    "evidence": [
+      "https://www.fantasticfiction.com/h/arden-hart/ — Arden Hart writes dark romance and romantic suspense. It is a different name.",
+      "https://ardenpowell.itch.io — Arden Powell is an SFF and romance indie author. The surname-style match is loose and the first name differs.",
+      "https://bookdna.com/search/author/15794 — Alys Arden has a mostly fantasy and paranormal romance catalogue. The name is similar but not the same.",
+      "https://smexybooks.com/category/v-c-andrews — V.C. Andrews is a gothic author and a different name. This is the nearest 'V.C.' confusion risk."
+    ]
+  },
+  "concepts": [
+    {
+      "n": 1,
+      "title": "Vow of Teeth",
+      "title_collision": "none",
+      "premise_collision": "none",
+      "evidence": [
+        "https://www.goodreads.com/work/editions/248526648-a-vow-to-heal-vows-of-unity-1 — Only other 'Vow of ...' titles turned up (A Vow to Heal, Vow of Eternal Night, Vow of the Shadow King). No 'Vow of Teeth' found.",
+        "https://www.bookshare.org/browse/book/194319 — Leopard Lord (1999) is an old shapeshifter-baron marriage romance, not a recent odiyan assassin premise.",
+        "https://www.penguin.com.au/books/vow-of-eternal-night-9781761625060 — Vow of Eternal Night is a captive-bride vampire romantasy. The title is a loose near-neighbour only."
+      ],
+      "verdict": "clear",
+      "clear_titles": []
+    },
+    {
+      "n": 2,
+      "title": "The Oracle Cannot Lie",
+      "title_collision": "none",
+      "premise_collision": "similar",
+      "evidence": [
+        "https://www.fantasticfiction.com/w/camille-wolfewood/truth-tellers-bargain.htm — The Truth-Teller's Bargain (Camille Wolfewood, 2026) has an oracle heroine who speaks undeniable truth. It is marketed as romantasy, but the plot is a captive oracle and a rebel prince, not rival oracles arguing for gods.",
+        "https://www.goodreads.com/work/editions/21491072-the-oracle-the-gateway-chronicles-2 — Several 'The Oracle' titles exist. No exact 'The Oracle Cannot Lie' found."
+      ],
+      "verdict": "clear",
+      "clear_titles": []
+    },
+    {
+      "n": 3,
+      "title": "The Iron Nail",
+      "title_collision": "none",
+      "premise_collision": "none",
+      "evidence": [
+        "https://bookscloud.io/products/the-nail-paperback-1 — Only 'The Nail', a religious novel by Joseph N. Padilla, turned up. It is not close in genre.",
+        "https://en.wikipedia.org/wiki/Yakshini — Yakshi folklore. No recent yakshi-bound-to-a-nail romance found.",
+        "https://www.fantasticfiction.com/t/shveta-thakrar/divining-the-leaves.htm — Divining the Leaves is a YA yaksha fantasy with a different premise."
+      ],
+      "verdict": "clear",
+      "clear_titles": []
+    },
+    {
+      "n": 4,
+      "title": "Bound till the Thaw",
+      "title_collision": "none",
+      "premise_collision": "similar",
+      "evidence": [
+        "https://www.fantasticfiction.com/k/ana-kaye/bound-by-shadow-and-frost.htm — Bound By Shadow and Frost (Ana Kaye, 2026) is a near-neighbour 'Bound ... Frost' title, but it is a paranormal romance and not close enough to count as a collision.",
+        "https://www.fantasticfiction.com/f/angela-j-ford/wicked-winters-kiss.htm — A Wicked Winter's Kiss (Angela J. Ford, 2026) has a smuggler pilot who crashes in a frozen tundra. The romance and winter smuggler elements overlap, but the pass, the warden and the rope-bound spirit rule differ."
+      ],
+      "verdict": "clear",
+      "clear_titles": []
+    }
+  ],
+  "limits": "Web search cannot see many Kindle listings, so 'none' means no visible match, not proof, and several searches returned mostly irrelevant Goodreads pages."
+}

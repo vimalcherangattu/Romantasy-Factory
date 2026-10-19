@@ -1,3 +1,5 @@
 timestamp,book_id,stage,model,input_tokens,output_tokens,cache_read_input_tokens,cache_creation_input_tokens,duration_ms,num_turns,reported_cost_usd
 2026-10-19T13:54:41,series,select,opus,2,1755,0,18824,22024,1,0.1857
 2026-10-19T14:02:07,s01-name-held-in-trust,bible,opus,2,41099,0,20279,442639,1,0.9842199999999999
+2026-10-19T17:26:13,series,concept,opus,2,25329,0,17304,269051,1,0.64502
+2026-10-19T17:27:01,series,market_check,sonnet,6,3112,26169,23772,44544,15,0.2942387999999999
