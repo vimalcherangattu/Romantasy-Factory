@@ -1,0 +1,40 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 4.0,
+    "stakes_and_cost": 4.0,
+    "prose": 4.0,
+    "continuity": 5.0
+  },
+  "reasons": {
+    "reader_question": "The question is sharp and specific. Devan now holds a word that cages her, and the reader knows this while Neela does not. The 'what will he do' question is slightly diffuse because the chapter already strongly implies he won't speak it soon.",
+    "change": "There is a large knowledge shift: he goes from expecting a knife to being her witness. The value shift lands as written, from suspicion to holding a weapon he refuses to use, and it is made explicit in 'Not safe, then. Merely not spent.'",
+    "romance_movement": "The relationship changes for a new reason. He sees her at her most exposed, shaking and 'not eaten since the feast', and his distrust gains a protective edge she cannot see (the held slat, the ordered rice). Neela is unconscious of all of it, so the movement is one-sided, as the beat intends.",
+    "shown_chemistry": "Attraction and care are shown through responsive action: the palm laid on the slat, the shutters left as she mapped them, rice set where the bed can see it. 'That was the thing he had not planned for' tips into narration, but only briefly.",
+    "character_logic": "His three-part case against caging is what a smart warden would think. The 'Third' paragraph about the buyer's intent is muddled and does not quite make sense, which weakens a key step of the reasoning.",
+    "stakes_and_cost": "Silence has a named cost. He sleeps beside a possible assassin with a 'live weapon in his mouth' that can go off in sleep or fever. He also defies border rules that Muthu would enforce. It stops short of 5 because there is no immediate, concrete consequence pressing on the next decision.",
+    "prose": "The prose is strong and concrete, with quotable lines ('That was the job, and it was also the crime'). It has a mixed metaphor ('a bait on a hook... swallowed it'), a tangled conditional paragraph, and a few consecutive paragraphs that open with 'She' or 'He'. There are no banned phrases and no AI-tell overruns.",
+    "continuity": "The chapter matches chapter 1 action for action: bangle on the sill, the count of twenty after the creak, folded kasavu, bitten lip, sword hilt toward her. It also matches the witness rule exactly, Asha at 22 six years ago, eight years without sparring, and the cistern-chain hours. 'A Kodiyur house that existed on paper' is Devan's inference, not a stated contradiction, but it should be softened."
+  },
+  "fixes": [
+    "In 'Devan had been a bait on a hook, and he had swallowed it like a fool' and the sentences after it (character logic, prose clarity): the bait/swallow metaphor is mixed, and the buyer conditional ('If the buyer had meant him to find out...') does not parse. Replace it with one clean line of reasoning. For example: 'He had been the bait and the mark at once. If the buyer wanted word that she had failed, a caged cat on the warden's ledge would send it. If he stayed silent, someone would eventually come asking why the warden was still alive, and Devan wanted to see who.'",
+    "In 'A bride from a Kodiyur house that existed on paper' (unlisted new fact / possible bible drift): the bible makes Neela a ward of the real Chirayil pepper house. Reword it as suspicion, for example 'a ward of a Kodiyur pepper house he had never heard of until the council wrote'. Alternatively, add the claim to new-facts.json so the bible can absorb it.",
+    "In '\"It is the first time in eleven years.\"' and the closing line 'He had never lied to Janu either' (weak ending hook, arbitrary detail): the number accidentally echoes Neela's first turning, and 'either' has no clear referent. Change Janu's line to 'It is the first time since Asha', which grounds her tears in the dead sister. Then turn the last line toward the cost to come: 'He had never lied to Janu. He had not known he could do it so well, and he thought of the woman asleep behind the door, and of what he would say when she asked him something he could not answer.' This keeps faith with his 'I won't answer that' rule toward Neela and makes the next Devan chapter necessary."
+  ],
+  "reader_question": "Now that Devan is secretly her witness and has chosen silence, what will he do with the word, and how long can he keep it out of his mouth beside the woman sent to kill him?",
+  "techniques_landed": [
+    13,
+    2,
+    15,
+    9
+  ],
+  "new_facts_assessment": "F041 (resin smelled at twenty in a border classroom) is necessary and consistent. It explains instant recognition, matches F033 and fits Devan's age. F042 (first time in eleven years he asked for food) is consistent with his not eating at the feast. But the number is arbitrary: eleven years echoes Neela's first turning eleven years ago, which may confuse attentive readers, and it ties to nothing in Devan's history. Anchoring it to Asha's death (six years) would make it meaningful. There is also an unlisted new fact: 'A bride from a Kodiyur house that existed on paper' implies the Chirayil house is a sham. The bible frames Neela as a genuine ward of the Chirayil pepper house of Kodiyur. This should be either listed as a new fact or reworded as Devan's suspicion.",
+  "content_rule_violation": false,
+  "failure_modes": [],
+  "average": 4.12,
+  "minimum": 4.0,
+  "passed": true
+}
