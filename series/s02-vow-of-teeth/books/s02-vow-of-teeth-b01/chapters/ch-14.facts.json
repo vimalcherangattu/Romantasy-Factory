@@ -1,39 +1,14 @@
 {
   "facts": [
     {
-      "category": "place",
-      "fact": "Neela keeps a cache in a cleft of rock under the second spur: a day cloth, a shawl and a water gourd, hidden after she collapsed beside Devan's bed in ch13, so she can turn back away from the ledge.",
-      "why": "needed because the beat has her turn back among the rocks and walk home."
+      "category": "knowledge",
+      "fact": "Neela knows the lower narrows and the shelf only by sight from the east terraces and by hearsay of its going; she has not crossed it before this night.",
+      "since": "ch14 revision"
     },
     {
       "category": "knowledge",
-      "fact": "The two raider scouts keep a cold camp (no fire) on the lip above the shelf in the lower narrows, with bows and a wrapped bronze signal mirror meant to flash the patrol's count to others beyond the cut. Who waits beyond is not known.",
-      "why": "needed because the beat specifies scouts, bows and a mirror waiting for dawn."
-    },
-    {
-      "category": "object",
-      "fact": "The scouts carry newly struck Varanad silver (sprig on one face, sharp milled edge, never handled) and a forged split-ash tally with real council wax that smells of clove. Devan notes the coins are unspent and takes the satchel and coin as evidence.",
-      "why": "needed to plant clue C20."
-    },
-    {
-      "category": "injury",
-      "fact": "A scout's knife cuts a thin line across Neela's shoulder in leopard shape; it reopens as she turns back and she bleeds a little.",
-      "why": "gives the kill a cost; a minor wound that is not tied to later plot."
-    },
-    {
-      "category": "knowledge",
-      "fact": "Valli (Ammu) did not come to the gate on the day after the fever broke, though Neela expected her ('tomorrow').",
-      "why": "continuity with ch13's jackal call; leaves Ammu's absence as an open question."
-    },
-    {
-      "category": "name",
-      "fact": "The 'pepper-store cat' is the fort's notched ginger tom, which Devan feeds. Janu says it has caught nothing since 'the fever year'.",
-      "why": "needed for the supper line in the beat."
-    },
-    {
-      "category": "knowledge",
-      "fact": "Devan's patrol numbers eleven riders, and Raman's death in spring happened in single file under the shelf in the lower narrows.",
-      "why": "gives Devan a reason to insist on riding."
+      "fact": "Neela drops the satchel on the patrol path deliberately: Asha's note asked for a second token, so Devan gets it, and a bag on the path makes the camp read as raiders rather than a cat-kill. She knows it tells Devan someone stood there before him.",
+      "since": "ch14 revision"
     }
   ]
 }
