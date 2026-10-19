@@ -1,18 +1,21 @@
 {
   "facts": [
     {
+      "id": "F081",
+      "category": "place",
+      "fact": "Every guild meeting stone is cut with a cup in its top; marks are left in it or things under it.",
+      "since": "s02-vow-of-teeth-b01 ch 6"
+    },
+    {
+      "id": "F082",
+      "category": "relationship",
+      "fact": "Neela and Ammu practised the jackal call as children, at eleven and nine, in the yard behind the sheds, until Chathu told them the Resin House had no use for dogs.",
+      "since": "s02-vow-of-teeth-b01 ch 6"
+    },
+    {
+      "id": "F083",
       "category": "knowledge",
-      "fact": "Neela believes the household's weak hour is the last dark hour before first light, when the night wall pairs have stood longest, lanterns burn low and Raiu nods at the corridor torch. She knows Devan's early rising only from Janu and the pit lamps, never having seen it, since she is always out on the hill then. At first light she hears him abed again and is unsure. This corrects and replaces F075 (the day watch changes six clanks after dawn, F045).",
-      "since": "s02-vow-of-teeth-b01 ch 6"
-    },
-    {
-      "category": "timeline",
-      "fact": "The rampart above the warden's window has been empty two nights by the night of chapter 6, since Devan pulled the sentry in chapter 5. Neela notes it but no longer calls it luck.",
-      "since": "s02-vow-of-teeth-b01 ch 6"
-    },
-    {
-      "category": "object",
-      "fact": "Before each of her eleven completed contracts, Master Chathu sent Neela a tin of warm jaggery-sesame sweets 'for luck'. She learned around the fifth that a gift is the start of a bill.",
+      "fact": "Devan's sleeping breath has a small hitch a third of the way through each long count. On the dawn of chapter 6 it hitched on the exact beat of Neela's laugh; she files it as chance.",
       "since": "s02-vow-of-teeth-b01 ch 6"
     }
   ]
