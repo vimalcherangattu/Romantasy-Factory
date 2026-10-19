@@ -1161,6 +1161,41 @@
       "fact": "The cistern housing on the east rampart is man-high, with a door Devan steps out of. The pala grove and meeting stone stand on the second spur, higher than the rampart (consistent with F073). Neela judged the lee from the wall-walk, where the housing flank and the low parapet shoulder looked solid, but from the grove Ammu looks down onto the spot and nothing hides it. This replaces the earlier chest-high-roof, downslope-grove version.",
       "since": "s02-vow-of-teeth-b01 ch 19",
       "provisional": true
+    },
+    {
+      "id": "F172",
+      "category": "timeline",
+      "fact": "Chathu's deadline: if the account is still open at the new moon, nine nights from the morning of chapter 20, he sends Vellan.",
+      "since": "s02-vow-of-teeth-b01 ch 20",
+      "provisional": true
+    },
+    {
+      "id": "F173",
+      "category": "knowledge",
+      "fact": "Ammu follows Neela's scent to the cache under the second spur at dawn and promises to write nothing to Chathu for one week; she will leave a reed in the cup on the seventh night.",
+      "since": "s02-vow-of-teeth-b01 ch 20",
+      "provisional": true
+    },
+    {
+      "id": "F174",
+      "category": "magic",
+      "fact": "Old tappers' song verse: 'Tap the bark when the sun goes low, / let the black sap run and the lantern burn slow. / What the dusk has taken, the dusk will say, / the name given back at the closing of day.' Neela has never heard the last verse.",
+      "since": "s02-vow-of-teeth-b01 ch 20",
+      "provisional": true
+    },
+    {
+      "id": "F175",
+      "category": "object",
+      "fact": "Gopan taught Devan at sixteen to hold a river pebble in the cheek on long cistern watches so a sleeper cannot form clean words. From chapter 20 Devan keeps one in his cheek every night Neela smears resin, from dusk until she is back at first light.",
+      "since": "s02-vow-of-teeth-b01 ch 20",
+      "provisional": true
+    },
+    {
+      "id": "F176",
+      "category": "relationship",
+      "fact": "Ammu believes Neela's lie that Devan does not know what she is.",
+      "since": "s02-vow-of-teeth-b01 ch 20",
+      "provisional": true
     }
   ],
   "knowledge": [
