@@ -650,6 +650,55 @@
       "fact": "Neela counts thirty-two nights left on the morning of chapter 9, the day after the writ arrives.",
       "since": "s02-vow-of-teeth-b01 ch 9",
       "provisional": true
+    },
+    {
+      "id": "F099",
+      "category": "place",
+      "fact": "The west stair has forty-four steps from the lower court to the landing below the passage; the eleventh step rings hollow over a drain slot, and the rail is pala wood.",
+      "since": "s02-vow-of-teeth-b01 ch 10",
+      "provisional": true
+    },
+    {
+      "id": "F100",
+      "category": "object",
+      "fact": "The parrot newel stands at the foot of the west stair, a forearm long, its broken beak worn smooth as a river stone.",
+      "since": "s02-vow-of-teeth-b01 ch 10",
+      "provisional": true
+    },
+    {
+      "id": "F101",
+      "category": "relationship",
+      "fact": "Janu keeps ten paces from the foot of the west stair and does not seem to know she does it.",
+      "since": "s02-vow-of-teeth-b01 ch 10",
+      "provisional": true
+    },
+    {
+      "id": "F102",
+      "category": "timeline",
+      "fact": "Before the wedding the warden's shutters stood open every night it did not storm, by his father's rule that a room should breathe; they were not barred even the winter his mother died.",
+      "since": "s02-vow-of-teeth-b01 ch 10",
+      "provisional": true
+    },
+    {
+      "id": "F103",
+      "category": "knowledge",
+      "fact": "Chinna has a wager running on why the warden bars his shutters. The fort's theories are privacy, damp-madness and Janu's old tale.",
+      "since": "s02-vow-of-teeth-b01 ch 10",
+      "provisional": true
+    },
+    {
+      "id": "F104",
+      "category": "timeline",
+      "fact": "Neela counts thirty-one nights left on the night of chapter 10, and decides to skip resin the following night.",
+      "since": "s02-vow-of-teeth-b01 ch 10",
+      "provisional": true
+    },
+    {
+      "id": "F105",
+      "category": "object",
+      "fact": "The kindi on Neela's side of the bed is found full each night with its spout toward the pillow; she assumes Janu's girls fill it.",
+      "since": "s02-vow-of-teeth-b01 ch 10",
+      "provisional": true
     }
   ],
   "knowledge": [

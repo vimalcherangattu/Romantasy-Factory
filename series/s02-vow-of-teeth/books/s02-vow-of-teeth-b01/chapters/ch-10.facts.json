@@ -1,0 +1,39 @@
+{
+  "facts": [
+    {
+      "category": "place",
+      "fact": "The west stair has forty-four steps from the lower court to the landing below the passage; the eleventh step rings hollow over a drain slot, and the rail is pala wood.",
+      "why": "needed because Neela maps the stair as an approach and counts its steps."
+    },
+    {
+      "category": "object",
+      "fact": "The parrot newel stands at the foot of the west stair, a forearm long, its broken beak worn smooth as a river stone.",
+      "why": "needed because the outline has Neela's hand close on the broken beak."
+    },
+    {
+      "category": "relationship",
+      "fact": "Janu keeps ten paces from the foot of the west stair and does not seem to know she does it.",
+      "why": "needed because it plants a quiet clue for the stair's history without stating it."
+    },
+    {
+      "category": "timeline",
+      "fact": "Before the wedding the warden's shutters stood open every night it did not storm, by his father's rule that a room should breathe; they were not barred even the winter his mother died.",
+      "why": "needed because Janu says the barring is new and the whole fort knows."
+    },
+    {
+      "category": "knowledge",
+      "fact": "Chinna has a wager running on why the warden bars his shutters. The fort's theories are privacy, damp-madness and Janu's old tale.",
+      "why": "needed because the whole fort knowing about the bar is what makes Neela see the frame."
+    },
+    {
+      "category": "timeline",
+      "fact": "Neela counts thirty-one nights left on the night of chapter 10, and decides to skip resin the following night.",
+      "why": "needed because the kalari plan requires her to be human before first light."
+    },
+    {
+      "category": "object",
+      "fact": "The kindi on Neela's side of the bed is found full each night with its spout toward the pillow; she assumes Janu's girls fill it.",
+      "why": "needed because the outline has the filled kindi noticed on her return."
+    }
+  ]
+}
