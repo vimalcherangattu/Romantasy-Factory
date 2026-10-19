@@ -1,10 +1,24 @@
 {
   "facts": [
-    "As children Neela and Ammu saw Vellan's bear-shape standing over them in the Resin House yard (Ammu knows his shape only as a bear in the yard).",
-    "Neela already knows that girls are sent to the kennels as punishment, though not that 'released' members end there.",
-    "Ammu has stayed at a coast inn as the trader's girl Valli for about three weeks.",
-    "Chinna's gate gossip says the bride was seen at the window at dawn in her sleeping cloth; Ammu uses it to press Neela.",
-    "Neela's nails itch at the quick at sixteen nights, a warning that the ache is coming.",
-    "Chathu's message to Ammu, read from a twist of paper, repeats that every day counts double."
+    {
+      "category": "relationship",
+      "fact": "As children Neela and Ammu saw Vellan's bear-shape stand over them in the Resin House yard, and they have seen other girls taken to the kennels as punishment. Neela already knows members are caged.",
+      "since": "s02-vow-of-teeth-b01 ch 18"
+    },
+    {
+      "category": "knowledge",
+      "fact": "Chinna's kitchen-door gossip reached Ammu: the bride was seen at the window at dawn in her sleeping cloth.",
+      "since": "s02-vow-of-teeth-b01 ch 18"
+    },
+    {
+      "category": "timeline",
+      "fact": "Neela's nails begin to itch at the quick on day sixteen, a warning before the ache. Ammu has waited about three weeks at the inn.",
+      "since": "s02-vow-of-teeth-b01 ch 18"
+    },
+    {
+      "category": "object",
+      "fact": "Ammu carries a twist of paper with Chathu's message and keeps it; it is never handed to Neela.",
+      "since": "s02-vow-of-teeth-b01 ch 18"
+    }
   ]
 }
