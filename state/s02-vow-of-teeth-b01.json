@@ -155,7 +155,7 @@
       "minimum": 3.0
     },
     "08": {
-      "status": "continuity-fix",
+      "status": "revised",
       "revisions": 0,
       "scores": {
         "reader_question": 4.0,
@@ -169,7 +169,7 @@
       },
       "average": 4.0,
       "flags": [],
-      "words": 2480,
+      "words": 2515,
       "minimum": 3.0,
       "continuity_fixes": [
         "Muthu says 'Tomorrow's the seventh day', but he made his seventh-day request in ch 5, only about three days earlier. FIX: In ch 8, change 'Tomorrow's the seventh day' to 'Four days to the seventh day'."
@@ -1256,9 +1256,13 @@
     {
       "at": "2026-10-19T23:26:58",
       "event": "done: S5 critique ch 5"
+    },
+    {
+      "at": "2026-10-19T23:27:44",
+      "event": "done: S6 revise ch 8"
     }
   ],
-  "updated_at": "2026-10-19T23:26:58",
+  "updated_at": "2026-10-19T23:27:44",
   "midpoint_chapter": 16,
   "continuity_attempts": 1
 }

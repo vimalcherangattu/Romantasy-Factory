@@ -1,24 +1,28 @@
 {
   "facts": [
     {
-      "category": "name",
-      "fact": "Raiu is nineteen, with an unruly cowlick. From this chapter Devan posts him at the head of the stair after dusk, and the corridor lamp outside the warden's chamber is left unlit.",
-      "why": "needed because the outline's unlit lamp requires moving Raiu's post and giving the boy a few concrete details."
-    },
-    {
-      "category": "object",
-      "fact": "The council keeps seven tally seals, each cut with a private mark at the sprig's stem: four have a bar, three have a dot with a split under it. The forged tally bears the dot-and-split, so it came from one of three boxes or a copy. Devan lifted beeswax impressions to compare.",
-      "why": "needed because the outline says only three council seals could make the mark on the forged token (clue C04)."
-    },
-    {
+      "id": "N8-1",
       "category": "knowledge",
-      "fact": "By custom the pass-seal passes to the fort's captain when a warden dies, but an old charter line gives it to a wife in trust if the warden has one. The returned marriage writ states this plainly: she holds it until the council names a new warden. No warden has married in office in living memory.",
-      "why": "needed because the outline has Devan read in the writ that his widow would hold the pass-seal, which has to be set against the normal rule."
+      "fact": "Before walking into the lower market, Devan watched Neela's meeting with 'Valli' for about a quarter hour from the shade of the tamarind wall (not the fish racks), until Muthu's laugh drew eyes and covered his approach. He saw the girl weigh the same measure twice and saw Neela's back go taut. He counts 'the coast girl who weighed twice' in his chain of suspicion: council, match, widow.",
+      "since": "s02-vow-of-teeth-b01 ch 8"
     },
     {
-      "category": "name",
-      "fact": "The marriage writ returns from Kodiyur by a registry courier in registry blue, who will not climb to the keep and gives the case to Unni at the gate.",
-      "why": "needed because the outline has a courier bring the sealed writ back."
+      "id": "N8-2",
+      "category": "object",
+      "fact": "The council's seal dies were cut by the palace engraver, who is older than the queen (Muthu's remark).",
+      "since": "s02-vow-of-teeth-b01 ch 8"
+    },
+    {
+      "id": "N8-3",
+      "category": "object",
+      "fact": "The marriage settlement recorded in the writ is cloth, brass and four hundred panam.",
+      "since": "s02-vow-of-teeth-b01 ch 8"
+    },
+    {
+      "id": "N8-4",
+      "category": "relationship",
+      "fact": "Devan says he has laughed once before Neela made him laugh, 'a long time before' her. Muthu's next sparring request falls four days after ch 8's morning.",
+      "since": "s02-vow-of-teeth-b01 ch 8"
     }
   ]
 }
