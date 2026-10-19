@@ -1,0 +1,43 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 5.0,
+    "shown_chemistry": 5.0,
+    "character_logic": 3.0,
+    "stakes_and_cost": 4.0,
+    "prose": 3.0,
+    "continuity": 5.0
+  },
+  "reasons": {
+    "reader_question": "The closing image is sharp and specific: Muthu walks into Ittan's guardroom with an unusually thick grey-sealed packet just before Devan arrives. It is stronger than the beat's vaguer rain-safety question, but it replaces that question rather than carrying it.",
+    "change": "A bargain becomes a marriage. Ittan offers to name his master. Neela turns Muthu's lie into a test ('spell my name right') and hands him Kirri's cloth anyway. The household and the plot both end in a new state.",
+    "romance_movement": "The movement has a new and earned cause: she chooses to be watched at dusk and at the return, which nobody has ever been allowed to see. Her leading the dawn scene completes the belief change.",
+    "shown_chemistry": "The chemistry is all responsive action. He lays out the dish, cup and cloth, sets down the pebble, says 'Not the cat. Neela.', says 'Left' during sex, and kisses the wrist welt with 'It's yours. I'm only holding it.' Nothing is narrated as chemistry.",
+    "character_logic": "Neela's choices are smart and in character. Devan's are not: a prisoner offers at the middle watch to name 'whose hand he is', and Devan sits on it through the night, through dawn, through sex and through a leisurely talk about hounds. That delay exists to let Muthu reach the guardroom first.",
+    "stakes_and_cost": "Several choices carry real costs. Trusting Muthu, the suspected informant, with Kirri's cloth is costly. Speaking the vow into his report is costly. Devan's delay visibly costs them the first word with Ittan.",
+    "prose": "The voice is strong and the best lines are quotable ('promised her less than he meant', 'He said it as a count'). Against that: the age statement is bolted on, two pairs of consecutive paragraphs open with 'She', 'through his lashes' repeats four times, and the rain's onset at the wedding is muddled.",
+    "continuity": "The chapter is consistent with the bible and facts. Ages 27/32 are stated before the intimate beat. The first turning at sixteen and eleven years of scars match. The wound-share stays within F265. The pebble, the hounds, Gopan's chain, the Kirri anklet and the closed cages all match. The wood road being open is covered by F264's 'while roads allow'."
+  },
+  "fixes": [
+    "At \"I wanted you to turn back first.\" He said it without apology\" (irrational behaviour to extend plot / contrived delay): a warden who knows a prisoner is offering to name his master does not wait through dawn, sex and small talk. Move the disclosure to straight after she eats the rice and curd, before 'She put the spoon down'. Make the wait her choice and give it a named cost. Have Devan say he ordered Bhaskaran at the middle watch that no one enters the guardroom until he comes. Then Neela says Ittan has waited six years and can wait an hour. Muthu walking in at the end then becomes an order broken by Devan's own second, which sharpens the hook.",
+    "At \"She was twenty-seven and he was thirty-two. They had both been grown\" (bolted-on compliance line in the middle of an intimate beat): cut this and fold both ages into earlier dialogue so adulthood is on the page before the dawn scene. For example, in the vow: 'I've been given a number for twenty-one of my twenty-seven years.' At the feast, Janu can scold that a man of thirty-two should know to eat. Keep 'neither had ever done this in daylight with the shutters open and nothing owed' as the paragraph's real job.",
+    "At \"He had simply watched her come back shaking, every dawn she had come to the ledge, through his lashes\" (repetition / style rule): this sentence is tangled. 'Through his lashes' appears four times in the chapter; keep it only in her line 'I don't want you looking through your lashes' and his reply. Recast this line as 'He had watched her come back shaking from the ledge, every dawn, and noticed.' Also break the two pairs of consecutive 'She' paragraph openings ('She put the spoon down.'/'She was...' and 'She moved on him then'/'She lay on him afterward'). Finally, add one line marking the rain beginning during the vow, so Janu's 'Rain on a wedding' follows from 'the rain not yet falling'."
+  ],
+  "reader_question": "What is Muthu carrying to Ittan in that thick sealed packet, and will Ittan still name whose hand he is once Muthu has been in the room first?",
+  "techniques_landed": [
+    9,
+    20,
+    23,
+    24
+  ],
+  "new_facts_assessment": "F291 (rain held the fodder run; the wood road drains in a day; Muthu takes the cart with water and Kirri's cloth in three days; the cloth is rewarmed at the brazier) is necessary. It explains the gap since F264's three-day order and sets up the trust choice with Muthu. It duplicates F289 in continuity.json, so retire F289. It brushes against F020's hill roads closing for four months. The next chapter should make clear the wood road runs on the fort's side and only floods briefly, so it does not read as a convenient exception. F292 (the voice at the middle watch) is consistent and fairly planted from Neela's POV, since she hears it and misfiles it. However, it depends on Devan withholding the news for hours, which the chapter does not justify; see fix 1.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Irrational behaviour to extend plot",
+    "Contrived delays"
+  ],
+  "average": 4.12,
+  "minimum": 3.0,
+  "passed": true
+}
