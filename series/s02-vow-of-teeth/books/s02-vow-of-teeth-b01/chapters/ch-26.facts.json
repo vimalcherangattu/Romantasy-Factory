@@ -1,29 +1,32 @@
 {
   "facts": [
     {
-      "category": "name",
-      "fact": "Pachan is a Resin House hunter who once gave ten-year-old Neela his sweet at the long table. Hunters carry hooked poles, nets and iron rings on chains.",
-      "why": "needed because the guild's capture party needs a named, humane-seeming face to make betrayal personal."
+      "category": "",
+      "fact": "Chathu's left foot is uneven from an old break."
     },
     {
-      "category": "object",
-      "fact": "Chathu labels every vial in the tapping-shed cupboard in his fine hand; the antidote is tagged 'Black gall, counter' and is a finger-length clay vial with a thumb-pinched wax stopper.",
-      "why": "needed because Neela must identify the antidote in the cupboard."
+      "category": "",
+      "fact": "Vellan told Neela earlier 'Eleven for eleven. You've never missed.'"
     },
     {
-      "category": "object",
-      "fact": "Chathu brings Neela a tin of warm jaggery-sesame sweets at dawn; she refuses to touch it (callback to F080).",
-      "why": "needed because it reinforces his gift-as-bill habit."
+      "category": "",
+      "fact": "Devan told Neela about Muthu's quiet tell when he lies."
     },
     {
-      "category": "place",
-      "fact": "The kennels lie under the oldest roof behind the cook-house and a shuttered well; there are forty-one cages of iron, holding animals including a deer, hare, mongoose and fox.",
-      "why": "needed because the kennel scene needs a concrete scale of the caged."
+      "category": "",
+      "fact": "Neela learned to open the shed lock at fourteen, on a dare."
     },
     {
-      "category": "knowledge",
-      "fact": "Chathu keeps the stolen antidote vial (hunters seized it); Ammu was recalled to the Resin House and rode through the night to arrive in the yard on the day of Neela's binding.",
-      "why": "needed because ch27 has Ammu return the vial and appear at the yard."
+      "category": "",
+      "fact": "Neela and Ammu used the drain path through the Resin House wall as children."
+    },
+    {
+      "category": "",
+      "fact": "Neela ordered Muthu to follow by cart at the second dusk, meeting her on the wood road; the cart is due at the Resin House gate at tonight's dusk, where Vellan will wait."
+    },
+    {
+      "category": "",
+      "fact": "Neela now resolves to say the word herself, aloud, to someone before she is caged, without yet knowing the self-naming loophole."
     }
   ]
 }
