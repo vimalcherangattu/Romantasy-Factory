@@ -1,44 +1,19 @@
 {
   "facts": [
     {
-      "category": "object",
-      "fact": "Queen Nirmala's green wax seal is pressed with a small sunbird, wings spread. The wax smells of crushed leaf, not clove.",
-      "why": "needed because the beat requires Devan to study the seal, and the bible's later hinge turns on the queen's green wax."
-    },
-    {
-      "category": "object",
-      "fact": "The palace gift is a silver betel set in a sandalwood box: tray, lidded lime box and an areca cutter with a sunbird handle. Devan has it locked in the granary and keeps the cut wax seal in his sleeve.",
-      "why": "needed because the beat names a silver betel set and the gift must be stored somewhere."
-    },
-    {
-      "category": "name",
-      "fact": "Sudhi is the palace rider who brought the sandalwood box. Maniyamma and Thankappan carried the chests. The Chirayil gift is a five-cup brass standing lamp with a bird on the stem.",
-      "why": "needed because Neela's habit of learning every name requires named servants."
-    },
-    {
-      "category": "place",
-      "fact": "The guild meeting stone is a knee-high split laterite slab with a lightning scar and a cup cut in its top, in the pala grove at the top of the second spur above the terraces. A jackal scent-mark is fresh on it.",
-      "why": "needed because the beat requires Neela to find the guild's meeting stone."
-    },
-    {
       "category": "knowledge",
-      "fact": "The guild's jackal-call signal: three short yips, a pause, one long rising note means 'tomorrow, I will find you'. Neela and Ammu practised it as children.",
-      "why": "needed because the beat ends with a jackal's call announcing contact tomorrow."
-    },
-    {
-      "category": "knowledge",
-      "fact": "Neela concludes the household's weak hour is the last dark hour before the day watch, when lanterns burn low and Raiu nods at the corridor torch, but that Devan wakes and rises for the kalari in it.",
-      "why": "needed because the chapter goal is to find the household's weak hour."
+      "fact": "Neela believes the household's weak hour is the last dark hour before first light, when the night wall pairs have stood longest, lanterns burn low and Raiu nods at the corridor torch. She knows Devan's early rising only from Janu and the pit lamps, never having seen it, since she is always out on the hill then. At first light she hears him abed again and is unsure. This corrects and replaces F075 (the day watch changes six clanks after dawn, F045).",
+      "since": "s02-vow-of-teeth-b01 ch 6"
     },
     {
       "category": "timeline",
-      "fact": "Neela counts thirty-five nights left on the night of chapter 6.",
-      "why": "keeps the countdown consistent with chapter 4's thirty-seven."
+      "fact": "The rampart above the warden's window has been empty two nights by the night of chapter 6, since Devan pulled the sentry in chapter 5. Neela notes it but no longer calls it luck.",
+      "since": "s02-vow-of-teeth-b01 ch 6"
     },
     {
-      "category": "place",
-      "fact": "Neela turns back at first light crouched on the warden's window ledge, and the ginger tom cat with a notched ear walks the parapet above it where the sentry used to stand.",
-      "why": "needed because the beat requires her to meet the actual pepper-store cat at dawn."
+      "category": "object",
+      "fact": "Before each of her eleven completed contracts, Master Chathu sent Neela a tin of warm jaggery-sesame sweets 'for luck'. She learned around the fifth that a gift is the start of a bill.",
+      "since": "s02-vow-of-teeth-b01 ch 6"
     }
   ]
 }
