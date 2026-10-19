@@ -1,0 +1,42 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 3.0,
+    "character_logic": 3.0,
+    "stakes_and_cost": 3.0,
+    "prose": 3.0,
+    "continuity": 0.0
+  },
+  "reasons": {
+    "reader_question": "Two concrete gaps go out at once: which councillor is pressing true wax, and why the warden emptied the yard. The second sharpens the dramatic irony for a reader who knows he watched her turn.",
+    "change": "Knowledge moves on three fronts: the yard is newly empty, the wax is genuine council work, and Devan's hunt is not aimed at her. She ends uncertain where she began certain.",
+    "romance_movement": "The reason is new. His competence with Bhaskaran stirs attraction, and his goal turns out to have nothing to do with her, which removes the 'he's circling me' frame she arrived with.",
+    "shown_chemistry": "The warm wax halves and the fingertip contact work well. Elsewhere the attraction is mostly labelled in narration ('stirred something under her ribs', 'easier to listen to'), and Devan's one responsive act, the kennelling, stays offstage and unacknowledged.",
+    "character_logic": "Her gift-or-trap argument is sharp. But she ends below an unbarred window with her target asleep and never weighs the kill. She also credits him with total honesty while forgetting the 'rain' he invented at the same window.",
+    "stakes_and_cost": "Nothing is decided at the end. 'She did not climb yet' is a pause, not a choice, because the chapter never says what climbing now would cost or win her.",
+    "prose": "Clean and readable, with no banned phrases. It leans on stock beats ('Nobody breathed', 'as if his strings had been cut', 'struck her like a wall') and reuses ch3's 'stone as if it were a road' image as 'like a road'.",
+    "continuity": "'For the first time in forty days' implies she has been at Kettamala forty days, but this is about day 3. The heavily verbal leopard interiority also contradicts ch3's 'She did not think in words after that', and conflicts again with this chapter's own 'It had no words for it'."
+  },
+  "fixes": [
+    "'for the first time in forty days she wasn't certain' (final section). Continuity error: it is about day 3 of the contract, not day 40. Change it to 'for the first time since the wedding' or 'in three nights'. In the same section, cut the worded reasoning that happens while she is in shape ('He wasn't lying. She was sure of that now...'). Render it as leopard perception plus the one wordless want, matching ch3's 'She did not think in words after that'.",
+    "'A single sentry paced the walk above the warden's window'. Failure mode: irrational behaviour to extend plot, and a missing cost. The shutter is open, her target is asleep on his left side, and this is the exact kill her contract demands. Make her weigh it in two or three concrete beats: the sentry overhead would see a leopard go in, and the kill would no longer read as an outside beast. Then turn 'she did not climb yet' into a choice that costs her a night off the forty-day deadline.",
+    "'He had told her the truth about the sky, the wax and the cell'. Failure mode: narrated-only chemistry, plus a missed clue. He told her 'Rain' under a clear sky at this same window. Have her catch the one false word: the only thing this man won't say plainly is why he shuts that window. That turns the kennels and the shutters into a pattern she notices and the reader understands (technique 13). Also replace 'Nobody breathed', 'as if his strings had been cut' and 'came up under the other one like a road' (the road image repeats ch3) with specific detail."
+  ],
+  "reader_question": "Did Devan empty the yard as a gift or as bait for her, and who on the council is pressing true wax for the raiders?",
+  "techniques_landed": [
+    4,
+    11,
+    13
+  ],
+  "new_facts_assessment": "Fourteen hounds, once loose and now kennelled: necessary and consistent, and it plants the ch4 secret-map clue. Bhaskaran passing the matching cart: necessary, gives the sergeant's fury a personal cause. But a gate sergeant leading a patrol to the ford needs one line of justification. Brick-red council wax with a pepper sprig and clove oil, about a month old: good retrievable clue (C02) and consistent with the queen's green wax. Devan's statement that the seller is on the council: matches the outline and the bible. Thirty-count gap and a lone sentry above the warden's window: useful for ch5. However, F037 gives six wall guards in pairs, so a single pacing sentry needs framing, either as one of a pair or as a post Devan added. Kannan's claim that Devan has 'slept badly eight years' is odd from a nine-year-old about a man who has been warden for five. Either attribute it to Janu or cut the number.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Narrated-only chemistry",
+    "Irrational behaviour to extend plot"
+  ],
+  "average": 3.0,
+  "minimum": 0.0,
+  "passed": false
+}
