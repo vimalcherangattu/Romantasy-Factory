@@ -233,14 +233,18 @@ def run(book: str = typer.Option(None, help="Only work on this book"),
 
 
 @app.command()
-def cover(book_id: str, art: Path = typer.Option(..., exists=True, help="Cover art you generated")) -> None:
-    """Typeset title and pen name onto your cover art -> package/cover.jpg."""
+def cover(book_id: str, art: Path = typer.Option(..., exists=True, help="Cover art you generated"),
+          tool: str = typer.Option("ElevenLabs image generation", help="Image tool that made the art (for the AI disclosure)")) -> None:
+    """Typeset title and pen name onto the cover art -> package/cover.jpg, and record the tool in ai-disclosure.md."""
     cfg = _cfg()
     b = state.load_book(cfg, book_id)
     pkg = cfg.paths.book_dir(b["series_id"], book_id) / "package"
     meta = read_json(pkg / "metadata.json", {}) or {}
     out = package.typeset_cover(cfg, art, pkg / "cover.jpg", meta.get("title") or b.get("title", ""),
                                 meta.get("pen_name") or state.pen_name(cfg, b["series_id"]))
+    disclosure = pkg / "ai-disclosure.md"
+    if disclosure.exists():
+        disclosure.write_text(disclosure.read_text().replace("the owner's image tool (fill in before upload)", tool))
     review_copy = cfg.paths.review / book_id
     if review_copy.exists():
         shutil.copy(out, review_copy / "cover.jpg")

@@ -44,3 +44,20 @@ def test_launchd_plist(cfg):
     text = schedule.plist(cfg)
     assert "<integer>45</integer>" in text and "--scheduled" in text
     assert "MTWRFSU 00:40:00" in schedule.wake_command(cfg)
+
+
+def test_cover_command_fills_disclosure(cfg, approved_series, tmp_path):
+    from typer.testing import CliRunner
+
+    from factory.cli import app
+
+    bid = f"{approved_series}-b01"
+    orchestrator.run(cfg, book_id=bid, echo=lambda *_: None)
+    art = tmp_path / "art.png"
+    Image.new("RGB", (1024, 1536), (40, 60, 90)).save(art)
+    res = CliRunner().invoke(app, ["cover", bid, "--art", str(art), "--tool", "ElevenLabs (GPT Image 2.5)"])
+    assert res.exit_code == 0, res.output
+    pkg = cfg.paths.book_dir(approved_series, bid) / "package"
+    text = (pkg / "ai-disclosure.md").read_text()
+    assert "ElevenLabs (GPT Image 2.5)" in text and "fill in before upload" not in text
+    assert Image.open(pkg / "cover.jpg").size == (1600, 2560)
