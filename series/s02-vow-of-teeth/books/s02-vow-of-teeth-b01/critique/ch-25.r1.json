@@ -1,0 +1,43 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 3.0,
+    "stakes_and_cost": 4.0,
+    "prose": 3.0,
+    "continuity": 5.0
+  },
+  "reasons": {
+    "reader_question": "The clock is concrete: a day there, a day back, three days to live. The ride into the guild she fled pulls hard, and the half-formed Asha thought adds a second, quieter question.",
+    "change": "All three axes move. Raiu is dead, Devan is poisoned and powerless, Neela takes command of the room, and Devan now knows the shape (a bear) even though the meaning is scattered.",
+    "romance_movement": "The reason is new: he finally sees what she will risk and cannot stop her. 'Nobody taught me this one, Devan. I'm choosing it' moves her from instrument to agent in his eyes. A summary paragraph partly tells this beat instead of showing it.",
+    "shown_chemistry": "Responsive action carries it: she runs at a bear with a guild knife, he touches the split nail and she lets him, he watches her see the black thread. Her mouth going small is well judged.",
+    "character_logic": "Several staging conveniences. Devan strips the chamber-door guard for lamp oil on the night he doubled everything. The stair-head pair don't hear a fight that Neela hears through barred shutters. The poison wipes the Asha link, yet Devan later holds 'a clear picture' of the bear. Devan raises no flicker of objection to the man he suspects (Muthu) taking charge of his body.",
+    "stakes_and_cost": "Raiu's death lands as a real loss and stays a loss. Her choice costs her the cage she fears most. The cost of his helplessness is felt, not stated.",
+    "prose": "Mostly clean, with no banned phrases and few AI tells. One POV slip into Neela's interiority in a Devan scene. A narrated summary paragraph ('She had been sold at six and paid ever since...') restates what the scene already shows. Some flat or odd lines ('lit the chamber like a tent', 'Nobody spoke.'). 'Her voice was level/dry' beats repeat.",
+    "continuity": "Consistent with the bible and the facts: the parrot newel at the stair foot, the hollow eleventh step and pala rail, Asha's death at 26, eight years without a strike, the marma notch under the ear, Raiu nineteen with a cowlick, his mother dead, the sloth-bear description, the Resin House a day's ride, and the non-witness logic per F223."
+  },
+  "fixes": [
+    "Stable scene: 'He had a clear picture of the stair and Raiu's torch and the shape of a bear going over a wall.' Problem (Contrived delays / Convenient magic): the poison was used to scatter the Asha thought, but here Devan holds the bear cleanly. A smart Devan would rebuild the link before he fainted, and the series needs that link closed until B2 ch16. Change: make the memory fogged and broken. Give him the torch rolling and something dark at the wall, then a gap where a thought had been. Have it slide away again when he reaches for it, so the poison's hold stays consistent.",
+    "Opening paragraph: 'and then sent down to the lower court for lamp oil', and later 'the bend in the stair cut the noise short.' Problem (Irrational behaviour to extend plot): Devan pulls Neela's door guard on the night he doubled everything. The stair-head pair also miss a fight that Neela hears through barred shutters. Change: have Devan find the stair lamps drained, not dry, as a new sign of the inside man. Have him send Raiu because he can't spare the stair pair. Then have Neela hear the steel because she is standing at the shutter listening for exactly that. Alternatively, have one stair-head man start down and be ordered back by Devan's shout.",
+    "Stable scene: 'The ache had been in her for weeks, a fever behind the nails that she had told no one about. Since morning it had an edge.' Problem: a POV break into Neela's interiority in a Devan scene. It also re-reveals the split nails already noticed in the opening, and 'told no one' contradicts what Devan has heard. Change: cut both sentences. Let Devan read it from what he can see: three nails split now where there was one this morning, and her thumb flinching from the buckle. Also tighten the summary paragraph 'She had been sold at six and paid ever since...' to its last sentence, so the touch and the wrist grip carry the beat."
+  ],
+  "reader_question": "Can Neela ride into the Resin House, steal Chathu's antidote and get back before the third dusk without being caged, and will Devan ever recover the thought the poison took from him?",
+  "techniques_landed": [
+    6,
+    7,
+    11,
+    19
+  ],
+  "new_facts_assessment": "F229 (Raiu sent for lamp oil) is needed for the staging, but it is the weakest fact in the chapter. It has Devan leave Neela's door unguarded on the expected night. Give it a cause, such as the lamps being drained deliberately. F230 is necessary and consistent, and it usefully tightens the inside-informant thread from F220. F231 is consistent with F145/F160/F183, but the page delivers it through a POV slip. Its 'told no one' also clashes with Devan having heard her press her nails and count to the new moon (F183, F188). Unlogged additions also need judging. 'A mother four years dead' for Raiu is consistent with F186 and should be logged. Devan standing over Asha at 26 while Janu held a lamp is compatible with F066 (Janu found her in the morning) only if it is early dawn light. Log it to avoid drift. C13 lands, with the claw marks shown on Raiu rather than on Devan's guard as the secret map phrases it.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Irrational behaviour to extend plot",
+    "Contrived delays"
+  ],
+  "average": 3.88,
+  "minimum": 3.0,
+  "passed": true
+}
