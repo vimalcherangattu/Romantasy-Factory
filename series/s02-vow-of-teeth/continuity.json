@@ -1945,6 +1945,27 @@
       "fact": "Neela asks Devan to remarry her at noon tomorrow in the courtyard in front of Muthu; Devan warns that Muthu will report her words north in a grey-sealed letter, and she chooses to speak anyway.",
       "since": "s02-vow-of-teeth-b01 ch 30",
       "provisional": true
+    },
+    {
+      "id": "F284",
+      "category": "object",
+      "fact": "Devan leaves a covered dish of rice and curd, a cup and a brazier-warmed cloth ready for Neela's dawn return; she never told him what the morning after a turning costs.",
+      "since": "s02-vow-of-teeth-b01 ch 31",
+      "provisional": true
+    },
+    {
+      "id": "F285",
+      "category": "knowledge",
+      "fact": "Chinna's wager on why the warden barred his shutters has no winner; Chinna keeps the stakes and guesses without asking.",
+      "since": "s02-vow-of-teeth-b01 ch 31",
+      "provisional": true
+    },
+    {
+      "id": "F286",
+      "category": "relationship",
+      "fact": "Neela's vow publicly says she came 'sold' and names Raiu, Ammu and every living household member; she does not mention odiyans, Ittan or the guild before Muthu.",
+      "since": "s02-vow-of-teeth-b01 ch 31",
+      "provisional": true
     }
   ],
   "knowledge": [
