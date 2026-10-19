@@ -230,15 +230,15 @@
       "minimum": 3.0
     },
     "12": {
-      "status": "revised",
+      "status": "passed",
       "revisions": 0,
       "scores": {
         "reader_question": 4.0,
         "change": 4.0,
         "romance_movement": 4.0,
         "shown_chemistry": 4.0,
-        "character_logic": 3.0,
-        "stakes_and_cost": 4.0,
+        "character_logic": 4.0,
+        "stakes_and_cost": 3.0,
         "prose": 4.0,
         "continuity": 5.0
       },
@@ -1268,9 +1268,13 @@
     {
       "at": "2026-10-19T23:30:49",
       "event": "done: S6 revise ch 12"
+    },
+    {
+      "at": "2026-10-19T23:32:40",
+      "event": "done: S5 critique ch 12"
     }
   ],
-  "updated_at": "2026-10-19T23:30:49",
+  "updated_at": "2026-10-19T23:32:40",
   "midpoint_chapter": 16,
   "continuity_attempts": 1
 }
