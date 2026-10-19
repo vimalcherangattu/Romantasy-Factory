@@ -3,39 +3,37 @@
     "reader_question": 4.0,
     "change": 4.0,
     "romance_movement": 4.0,
-    "shown_chemistry": 3.0,
+    "shown_chemistry": 4.0,
     "character_logic": 4.0,
     "stakes_and_cost": 4.0,
     "prose": 4.0,
-    "continuity": 0.0
+    "continuity": 5.0
   },
   "reasons": {
-    "reader_question": "The ending hands the reader a concrete plan with a place, an hour and a method (the kalari, before first light, the strike below the skull). The question is sharp and points straight at chapter 11.",
-    "change": "Knowledge and plan both turn. She sees that the barred shutters, which the whole fort knows about, frame her for any beast kill, so the leopard plan dies and a human-hands plan replaces it. The value shift from an open window to a plan he has made impossible lands.",
-    "romance_movement": "The reason she holds back is new: the frame, not squeamishness. Standing over him she counts his knuckle scars past sixty and looks back once, 'which she did not do', so her tactical reason is visibly wearing thin.",
-    "shown_chemistry": "The hand study and the glance back are shown well. But Devan is asleep, or seems to be, for the whole chapter, and his one waking act is barring the shutter without looking at her. There is no responsive exchange between the leads, and the key beat is narrated self-denial ('She said so to herself twice').",
-    "character_logic": "Her deduction is professional and sound, and the shift to marma fits the world rules (she must skip resin to be human before first light). One weak spot: the line 'the hanging would be the lesser thing' muddles the consequence chain, since a hanged woman cannot also be caged at dusk.",
-    "stakes_and_cost": "The next decision costs her a resin night (the ache counts) and moves the kill from a beast's distance to her own hands on his body. That is more intimate and more costly, though the emotional cost stays implicit.",
-    "prose": "Concrete and in voice: the dished steps, the hollow eleventh stone, the scars like split seeds, Janu's 'Shy men bolt doors.' No banned phrases, no AI tells, no em dashes. Weak spots: 'morning after' echoes three times, two consecutive paragraphs open with 'She' ('She made herself look.' / 'She did what she always did.'), and the night scene recaps the afternoon's frame logic.",
-    "continuity": "'Yesterday she had read that clause at his shoulder' conflicts with the established timeline. Chapter 9 shows she read the pass-seal clause on the day the writ arrived, the evening before chapter 9's morning. Chapter 10 is the following day (32 nights on chapter 9's morning, 31 tonight), so the reading was two days ago. Everything else checks: the sentry above the window, Raiu at the stair head, the hilt-first sword, the ginger tom, the breath hitch, and lifting the bar herself."
+    "reader_question": "The kalari and marma plan lands the beat's question cleanly. The ending states the plan rather than interrupting anything, so the pull to the next chapter comes from the plan, not from urgency.",
+    "change": "Clear value shift. She opens thinking of the window as her way in and ends knowing the barred shutters make a beast kill point at her, so she switches method from claws to hands and decides to skip resin.",
+    "romance_movement": "New reason for the change: she stands over him and studies his scarred hand instead of his throat, counts past sixty, and looks back, 'which she did not do'. The beat's self-deception ('tells herself that is the only reason') is implied more than dramatised.",
+    "shown_chemistry": "The muzzle stopping a hair from his palm and his fingers curling toward her is responsive, physical and unnarrated. Counting his knuckle scars shows attention, not a label.",
+    "character_logic": "Her case against the beast kill is sharp and earned from earlier chapters. Two gaps: she plans to catch him drilling before first light while he lies abed at first light in front of her, and she never weighs that she'd be attacking a trained fighter in his own pit.",
+    "stakes_and_cost": "The costs are personal and concrete: hanging, Chathu settling his loss on Ammu, and the ache counted against tomorrow's skipped resin.",
+    "prose": "Concrete, rhythmic, and in Neela's voice (counting, naming). No banned phrases or AI tells. The bar logic is restated in the night scene, 'the hitch came and went' appears three times, and 'by noon' is echoed.",
+    "continuity": "Consistent with F038, F064/F065 (she lifts the bar herself), F077, F078, F083, F090, F092, F101–F105 and the 31-night count. One small drift: F099 puts the drain slot under the eleventh step, but the draft places it at the turn."
   },
   "fixes": [
-    "At 'Yesterday she had read that clause at his shoulder', the timeline conflicts with chapters 8 and 9: she read the pass-seal clause two days ago, on the day the writ arrived. Change 'Yesterday' to 'Two days ago', or to 'The night the writ came', so continuity holds.",
-    "At 'It was the only reason. She said so to herself twice', the denial is narrated rather than shown, and the 'Think' paragraph before it ('A barred room, a dark lamp, a hushed fort...') recaps the afternoon's frame logic word for word. Cut the recap to one sentence. Replace the told denial with a responsive physical act, for example: she reaches toward the open hand with a forepaw, or lowers her muzzle to it, and stops a hair short. Then let the curled fingers and the breath hitch answer it, so the reader feels her reason thinning without being told.",
-    "At 'and the hanging would be the lesser thing', the consequence chain is muddled: a hanged woman cannot also be caged by Chathu at dusk, so the threat confuses rather than escalates. Rewrite so the order is clear. Either the crown hangs her and Chathu loses a tool (and Ammu pays), or Chathu reaches her first with the page before any rope. Name one concrete cost tied to a person (Ammu) so the stakes stay personal."
+    "Night scene, 'A barred room, a hushed fort that knew about the bar': this restates scene two's reasoning word for word (redundant interiority). It also misses the beat's self-deception. Cut the summary sentence and replace it with two or three short lines in which the tactical reason arrives late and she has to repeat it. For example: 'No beast could carry this kill. That was why. She told herself so twice, and the second time she was still looking at his hand.' That dramatises the reason wearing thin without narrating it.",
+    "Ending, 'He rose in the last dark hour, alone' through 'She went to find her clothes.': the plan rests on Janu's word, yet Devan is asleep in front of her at first light, and smart Neela doesn't register this (character logic gap). The chapter also closes on a soft exit rather than a reveal (chapter checklist item 5). Have her notice, in one or two lines, that he is still abed at first light when Janu says he goes down before it. She decides she will see the pit for herself tomorrow. End on the hitch landing exactly as she thinks the word 'pit' or 'door', so the dramatic irony (technique 13) closes the chapter and makes chapter 11 necessary.",
+    "Hand passage, 'It was a hand that had hit things for a long time and then stopped': this reads as if he no longer strikes anything, which clashes with his daily kalari drill (F032). Make it 'stopped hitting anything that hit back', or tie it to wood and stone only, so it stays a clue to the eight-year gap. Also add a beat in the dawn plan acknowledging his skill ('the pit was his; she would have one strike'). Then list the knuckle scars and the 'door' marma point in new-facts.json, and fix the drain slot to sit under the eleventh step per F099."
   ],
-  "reader_question": "Can Neela kill Devan with her bare hands in the kalari before first light, and will she, now that she has stood over him and not done it?",
+  "reader_question": "Can Neela kill Devan with her bare hands at his dawn drill, and will she actually strike when she gets there?",
   "techniques_landed": [
     4,
     11,
     13
   ],
-  "new_facts_assessment": "All seven facts are consistent and earn their place. The forty-four steps and hollow eleventh stone serve the mapping, and the count running past forty-four is a good, ambiguous echo of an old watch. The parrot newel worn smooth and Janu's ten-pace berth plant C10 fairly, consistent with Janu finding Asha's body there (F066). The thirty-one-night count and the decision to skip resin fit the turning rules. The kindi filled each night, spout toward the pillow, is a strong clue at the peak of the night scene. Its 'Full again' implies she has noticed it before, which is fine but should be tracked. The shutters fact (open every night by his father's rule, 'not the winter his mother died') is useful, but it raises a question: Devan believes an odiyan killed Asha inside these walls six years ago, yet Janu names the mother's death and not Asha's. If that omission is deliberate, Janu's avoidance of Asha should be readable on the page. If not, a later reader will ask why the shutters stayed open after Asha. The Chinna wager is a nice rival-explanation device (technique 4) and harmless.",
+  "new_facts_assessment": "new-facts.json is empty, but the draft adds facts the pipeline must log. (1) A marma point a thumb's width below the skull called 'the door', which kills silently and looks like a fall: necessary for ch11 and consistent with marma as skill (F015). (2) Seven pale knuckle scars on Devan's right hand and a white line across the thumb base: useful, but 'hit things for a long time and then stopped' sits oddly against his daily drill (F032). It needs to read clearly as 'stopped hitting people'. (3) Janu has run the house thirty years and thinks Devan 'shy': harmless and consistent with F024. (4) Muthu complained of wall duty: offered only as Neela's guess, so it is not a fact. (5) 'Two days ago' for reading the writ clause: consistent with F092/F098. Everything else in the chapter is already logged as F099–F105.",
   "content_rule_violation": false,
-  "failure_modes": [
-    "Narrated-only chemistry"
-  ],
-  "average": 3.38,
-  "minimum": 0.0,
-  "passed": false
+  "failure_modes": [],
+  "average": 4.12,
+  "minimum": 4.0,
+  "passed": true
 }
