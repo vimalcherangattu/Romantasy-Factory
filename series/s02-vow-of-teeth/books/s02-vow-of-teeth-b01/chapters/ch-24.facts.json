@@ -1,29 +1,25 @@
 {
   "facts": [
     {
+      "id": "F212",
       "category": "knowledge",
-      "fact": "Muthu's mother has been dead four years; Devan stood at her pyre. So Muthu's claim that his grey-wax letters are to his mother is a plain lie.",
-      "why": "needed because Devan must have a concrete reason to suspect Muthu; F117 had Devan believing the 'to my mother' story, so this updates what he now knows."
+      "fact": "REPLACES the earlier F212. Muthu's mother is alive and writes to him once a month, on the ninth-day post. Devan knows Muthu goes quiet when he lies (since the kalari pit as boys), so two grey-wax letters in two days, the first on an off post day, make him suspect Muthu is Ittan's man. He decides to keep Muthu close and frames the sealing-day gate post as an honour: Muthu will open the Keeper's boxes himself.",
+      "since": "s02-vow-of-teeth-b01 ch 24",
+      "provisional": true
     },
     {
-      "category": "timeline",
-      "fact": "This chapter takes place the day after ch23 morning: five nights remain to the new moon.",
-      "why": "needed because Vellan gives Neela 'five nights' and the chapter must fit F206 (six nights on the morning of ch23)."
+      "id": "F217",
+      "category": "name",
+      "fact": "Kettamala's garrison is about sixty soldiers.",
+      "since": "s02-vow-of-teeth-b01 ch 24",
+      "provisional": true
     },
     {
+      "id": "F218",
       "category": "knowledge",
-      "fact": "Vellan is told by the guild watcher that Devan lays his sword hilt toward Neela, and he sat at the meeting stone in human form in daylight, having told Ammu he would keep the stone that day. Ammu stays at her inn as Valli.",
-      "why": "needed because the beat puts Vellan at the stone instead of Ammu."
-    },
-    {
-      "category": "object",
-      "fact": "Vellan's carved bird is plum-sized, pale wood, wing folded, head turned, beak whole, and smells of scorched tamarind (resin) from his hands.",
-      "why": "needed to make the pillow bird a recognisable clue (C28/C29); the whole beak is an echo of Asha's mended-parrot drawings."
-    },
-    {
-      "category": "knowledge",
-      "fact": "Neela tells Devan Vellan's name, rough age, the new-moon deadline and the collar threat, but refuses to name his night-shape. Devan accepts without asking.",
-      "why": "needed to show her warning choosing his life over guild silence while keeping the guild-sister line."
+      "fact": "Devan moves Raiu from the head of the stair to the warden's chamber door; he is to be at the stair after dusk with a second man, and Devan doubles the watch. The carved bird is found cold on Neela's pillow, so Vellan placed it by day while she was away, and Neela reasons he means four nights, not five.",
+      "since": "s02-vow-of-teeth-b01 ch 24",
+      "provisional": true
     }
   ]
 }
