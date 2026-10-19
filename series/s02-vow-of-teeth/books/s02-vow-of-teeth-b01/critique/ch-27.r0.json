@@ -1,0 +1,43 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 5.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 3.0,
+    "stakes_and_cost": 4.0,
+    "prose": 4.0,
+    "continuity": 0.0
+  },
+  "reasons": {
+    "reader_question": "The ending leaves a clear question: Devan is bleeding, the wound is shared, Ammu's body is in the wood and the hunters will come back. The wound-share is only half-felt, so the question is mostly 'what's left', not yet 'what does the bond cost'.",
+    "change": "Every axis turns. Power: she becomes uncageable and Chathu's page is dead. Knowledge: the loophole and the verse. Relationship: mutual witness. Loss: Ammu. The beat's value shift lands fully.",
+    "romance_movement": "The reason is new and decisive: she gives him the word and makes him the only witness who matters, and he uses his strength openly for her. His 'Stay' order slightly blurs whose choice the final beat is.",
+    "shown_chemistry": "Chemistry comes through responsive action. He spits out the pebble he kept in his cheek for her. 'Then I'll look harder' answers her fear exactly. She lies across him counting his heart. No narrated attraction.",
+    "character_logic": "Several choices strain. Devan swallows the antidote and minutes later rolls under a bear's charge ('He had been dying an hour ago' is false, since it was minutes). Every hunter abandons the rogue leopard and the warden to chase the jackal. Neela's stillness during Ammu's death is Devan's command, not her choice.",
+    "stakes_and_cost": "Costs are concrete and immediate: going rogue, wound-share, a page burned and Ammu's death. The cost of staying with Devan is paid in Ammu's life, but it is diluted because Devan makes the choice for her.",
+    "prose": "Prose is clean, concrete and mostly short-sentenced, with no banned phrases. Problems: 'eleven' echoes (years, letters, times), 'did not look/meet her eye' repeats in the opening, 'He was already crossing the yard' reads as Chathu, and there is a POV slip ('the open cage-key in Ammu's hand somewhere behind her').",
+    "continuity": "Three conflicts. Devan's 'I've watched you change eleven times' contradicts F125 (ten times before ch13) and F138 (twenty days of watching by ch15). Vellan turns 'in three strides', against Rule 1's 'within about a minute'. The whole leaf, which holds the intake details, burns, against F012, where self-naming burns only the witness entry and the intake roll must survive for Book 2 ch20."
+  },
+  "fixes": [
+    "Continuity, ledger rule (F012). At 'He had the page out of its cloth, a single ivory leaf' and 'It burned in the mud and was gone': self-naming burns only the witness entry, and the intake roll fastened to it must survive for Book 2 ch20. Separate the two on the page. Chathu reads the witness entry; only those lines blacken and smoke. Have the stitched intake slip ('Intake, sold at six years') stay whole and fall into the mud, or stay clutched in his hand, so the reader sees her birth record still exists.",
+    "Choice Under Pressure (technique 18) is handed to the love interest and reads as a leash. At '\"Stay,\" he said. \"Stay with me.\"', Devan grips her ruff and commands her like a dog, minutes after the chapter has been about leashes, so Ammu's death is not Neela's cost to choose. Cut the order, or turn it into a request ('Don't. They want you to follow.'). Make Neela weigh it herself: his split ribs bleeding, her own side tearing with his, the hunters' nets. Then have her choose to stay. Keep 'She hated it.' The choice must be hers for technique 18 and the bible's 'Devan's danger points outward' to hold.",
+    "Continuity and convenience in the bear fight. (a) At 'I've watched you change eleven times', change the count to match F125 and F138, e.g. 'every night since our wedding' or 'more nights than you know'. Also thin the other 'eleven's in the chapter. (b) At 'The turning took him in three strides', Rule 1 says about a minute, so have Vellan smear the resin as Neela's turning starts, and let him come on as she finishes. (c) At 'He had been dying an hour ago', correct it to minutes. Give Devan a cost to rise, such as a failed first attempt, Neela's body taking the charge's first rush, or the antidote 'barely enough'. Then the marma strike reads as will, not a miracle cure. Add one line explaining why the hunters leave them (Chathu's order to bring the thief's page-hand, or the leopard now rogue and 'Vellan's later')."
+  ],
+  "reader_question": "What is left of Neela and Devan at first light, now that his wounds are hers, she is rogue and Ammu is dead in the wood?",
+  "techniques_landed": [
+    12,
+    19,
+    22,
+    24
+  ],
+  "new_facts_assessment": "F248 (horseback, Muthu holding the arch): necessary. It replaces the cart from ch26 and the beat's 'held in the saddle by Muthu'. It is acceptable, but the text should note why a horse instead of a cart (speed). F249 (blade in braid, Pachan's key, vial): necessary. There is a small wobble: Ammu says Chathu 'sets it on his table when he washes' but also 'picking that sleeve', so pick one. F250 (loophole learned at fourteen, verse decoded): necessary and consistent with F174 and F246, and pays off the fair twist well. F251 (brief tearing along her ribs): necessary foreshadowing for ch28 and consistent with F009 and F224. F252 (jackal call as last signal): consistent with F074 and F082, and it earns the death; keep it.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Irrational behaviour to extend plot",
+    "Convenient magic"
+  ],
+  "average": 3.5,
+  "minimum": 0.0,
+  "passed": false
+}
