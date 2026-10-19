@@ -1,0 +1,42 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 4.0,
+    "stakes_and_cost": 4.0,
+    "prose": 4.0,
+    "continuity": 0.0
+  },
+  "reasons": {
+    "reader_question": "The beat's question lands clearly through the bitten tongue and the half-formed 'L—'. The missed report adds a second, specific question about what Ammu and Chathu will do. The ending image is quiet and doesn't sharpen either question.",
+    "change": "Neela chooses his life over the contract when passivity alone would have closed it, and she misses the stone. Devan pays in blood to keep her uncaged. Knowledge stays unchanged by design, which keeps the dramatic irony intact.",
+    "romance_movement": "The reason is new: this is the first time her inaction alone would have finished him, and she refuses it. 'Do what she says' and the curtain move him from studying her to guarding her in front of others.",
+    "shown_chemistry": "Mostly responsive action: the counting becomes a rope, she thanks the servants, he gives an order he didn't mean to, she has memorised the breath hitch, his hand hangs a finger's width from her hair. A few lines narrate instead ('his body noticed it').",
+    "character_logic": "Devan's bite and 'Draw the curtain' are smart and in character. Neela's timed dismissal of Janu is competent. Her late discovery of his 'wrong' breath on the ledge is a little thin, since she has been taking his pulse all evening.",
+    "stakes_and_cost": "Costs are concrete: his blood and swollen tongue, her missed report with Chathu's threat behind it, and Janu nearly seeing too much.",
+    "prose": "The prose is concrete and controlled, with good humour ('the ground was making another suggestion'). Several lines are muddled: 'a note of gruel', and 'what her wrists felt like when she thought nobody was holding them' (he has never held them). Two runs of consecutive paragraphs open with 'He' and 'She'.",
+    "continuity": "Four conflicts. (1) 'He had meant to shut his eyes... for ten nights, every night, and done it well' contradicts 'He had seen it eleven times', ch12 ('He had looked at the woman on the ledge at dusk') and the bible, where he watches. (2) 'The ache already ran under her nails' breaks F013: the ache comes only after a full moon without resin, and she has skipped one night. (3) 'Chathu's message, three days old' conflicts with F087 (ch7, five nights ago) unless a second message is established. (4) 'Eleven times' sits uneasily with the skipped resin night (F104)."
+  },
+  "fixes": [
+    "At 'He had meant to shut his eyes. He had meant it for ten nights', there is a continuity conflict with 'He had seen it eleven times' and ch12, where he watches through feigned sleep. Rewrite so that every other night he watched through lashes and kept his face a sleeper's. Tonight the fever has taken control of his lids, so they hang half open and she might read them. Keep her one-breath study of his face as the near miss.",
+    "At 'The ache already ran under her nails like a thread', the line bends Rule 1 (Worldbuilding collapse): the ache needs a full moon without resin. Replace it with a real present cost, such as the hollow dawn hunger she already dreads or her count of nights left to finish. Also change 'Chathu's message, three days old' to match F087 (about five days), or establish a second message.",
+    "At 'She did not touch it. She did not leave.', the ending reveals nothing and interrupts nothing, which fails the chapter checklist. Make the missed report bite: as first light comes, she hears the guild call from the second spur (three short yips, a pause, one long rising note, F074). Ammu has come looking, and she still does not stand. While you're in this scene, fix 'a note of gruel' and cut the unclear 'when she thought nobody was holding them'."
+  ],
+  "reader_question": "How long can Devan keep the word behind his teeth, and what will the guild do now that Neela has missed her report to save him?",
+  "techniques_landed": [
+    13,
+    6,
+    9,
+    7
+  ],
+  "new_facts_assessment": "Eravi, the dung-smeared left-forearm graze, the cotton curtain, the twenty-nine-night count and Janu reopening the shutters by the father's rule (consistent with F102) are all necessary and consistent. The missed report is necessary and must be paid off in ch14 or soon after. Several facts are unlisted: the message 'three days old' conflicts with F087's timing; Devan feeding the ginger tom since the second week is harmless and should be logged; the girl who died in the Resin House sheds is fine; Neela's grey eyes are unestablished, so log or cut; Devan saying 'Asha' in fever is good dramatic irony and should be logged; and the ache already starting breaks F013.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Worldbuilding collapse"
+  ],
+  "average": 3.5,
+  "minimum": 0.0,
+  "passed": false
+}
