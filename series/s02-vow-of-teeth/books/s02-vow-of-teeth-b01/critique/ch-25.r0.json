@@ -1,0 +1,44 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 3.0,
+    "stakes_and_cost": 4.0,
+    "prose": 3.0,
+    "continuity": 0.0
+  },
+  "reasons": {
+    "reader_question": "Sharp and specific: can she survive the Resin House inside three days? A second, quieter gap rides with it: what was Devan about to realise about Asha?",
+    "change": "Power, knowledge and relationship all shift. Raiu is dead, Devan is poisoned with a stated deadline, Neela is committed to riding into the guild, and Devan has nearly linked this bear to Asha's killer.",
+    "romance_movement": "The reason is new: he sees her choose the cage for him and can't stop her. But the turn is explained in his interiority instead of being carried by her lines and his actions.",
+    "shown_chemistry": "Strong responsive beats: she says Raiu's name to the end (her naming habit), her mouth 'went small' at the black thread, and she gives orders that keep him alive. His grip failing on her wrist lands. Weaker where narration states what her ride means.",
+    "character_logic": "Staging breaks. Raiu is posted at the chamber door above, yet he arrives 'from the lower court' below the fight. The two stair-head men don't move until it's over. Neela hands Devan to Muthu without a beat, though last chapter she named Muthu a possible leak. The stable line blames tonight's skipped resin for nails that split that morning.",
+    "stakes_and_cost": "Every choice costs something: a day there, a day back, three days to live, and the one house that can cage her. Raiu's death is irreversible and is grieved on the page.",
+    "prose": "Mostly clean, concrete and well paced. Cliché clusters drag it down: 'came up out of nowhere', 'a sound Devan would carry for the rest of his life', 'like a spark through dry grass', 'low and not unkind'. 'He had stood over them at sixteen... no. Twenty-six.' reads as a drafting artifact. 'Eight years, she told you?' is muddy. Two consecutive paragraphs open with 'He'.",
+    "continuity": "In Devan's POV the narration says 'She had been paid to hold a lantern at the foot of a stair.' That puts the lookout-at-the-stair secret in his head, and the secret map holds it back until B2 ch16. Coming minutes after he links the bear to Asha's stair, a smart Devan would close the gap. The line is not listed in new facts, and neither is its unsourced partner, 'He had been told, once, in a wet dawn...'"
+  },
+  "fixes": [
+    "Continuity / contrived delay at 'She had been paid to hold a lantern at the foot of a stair.' The line gives Devan the lookout secret reserved for B2 ch16, right after he links the bear to Asha's stair. Replace it with something he legitimately knows, such as 'She had been sold at six and paid ever since, eleven times, and never once for herself.' Also cut 'He had been told, once, in a wet dawn' or rewrite it as Neela's own words from the ch15 storm dawn. If any trace of the stair must stay, it should be the reader's irony, never Devan's knowledge.",
+    "Staging / irrational behaviour at 'Raiu's voice, from the lower court.' Raiu is posted at the chamber door above, yet he arrives from below, and the two stair-head men stay put until it's over. Choose one geometry and state it in a clause. Either Devan sent Raiu down for lamp oil before dusk, so he comes from the court below and into the bear's path. Or Raiu comes down from the head past Devan and Vellan turns above the bend. Add one line placing the stair-head pair (holding the head by Devan's order, or cut off by the bend) so their late arrival reads as a choice. Cut 'He had stood over them at sixteen... no.' and give the age once: 'He had stood over them at twenty-six.'",
+    "Narrated-only chemistry at 'He understood, as the cold climbed his side, what she was doing.' This paragraph and the next explain the romance turn instead of showing it. Cut them to two sentences and let action carry the change: he sees the split nails on the girth and touches one, and she answers. Rewrite 'It's not a choice I've ever been taught to take' so she owns the choice the beat needs, e.g. 'Nobody taught me this one. I'm choosing it.' In the same pass, change 'She had skipped the resin to guard him, and the hill and the moon had begun to charge her for it' so it reads as the ache she has carried for weeks, now sharper, since the nails split that morning."
+  ],
+  "reader_question": "Will Neela get the antidote out of the Resin House before the third dusk, and can she walk back out of the guild that owns her?",
+  "techniques_landed": [
+    6,
+    11,
+    19,
+    7
+  ],
+  "new_facts_assessment": "All six listed facts are necessary and consistent with the bible and continuity. F223, where the bend hides the turn so Devan is not Vellan's witness, is well judged and keeps Rule 2 intact for B2. F224 and F228 set up ch26 to ch27 cleanly, and F227 matches Muthu bringing Devan in ch27. F226's split nails fit F145 and F160, but the stable sentence implies tonight's skip caused damage that already existed that morning, so fix the causation, not the fact. Several facts appear on the page without being listed. (1) Devan knows she was paid to hold a lantern at the foot of a stair: this conflicts with the secret map and must go. (2) Someone told Devan 'in a wet dawn' that she never did a thing for love: unsourced, and either cut it or tie it to a known ch15 line. (3) Vellan knows Devan hasn't fought in eight years: acceptable as more evidence of the inside informant (F220), but make it legible. (4) Raiu left his chamber-door post and came from the lower court: unexplained. The bear fleeing from human Neela is a good shaped gap if she is Vellan's witness, and it should stay ambiguous in Devan's POV.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Contrived delays",
+    "Narrated-only chemistry",
+    "Irrational behaviour to extend plot"
+  ],
+  "average": 3.25,
+  "minimum": 0.0,
+  "passed": false
+}
