@@ -1,24 +1,34 @@
 {
   "facts": [
     {
-      "category": "object",
-      "fact": "The false-bottomed teak chest in Ittan's lead cart holds thirty-six blank split-ash tally sticks wrapped in oilcloth, each with council wax bearing the dot-and-split mark, plus a hand-sized oilcloth tally book of about forty leaves recording dated sums and pass place-names.",
-      "why": "needed because the beat requires blank pass-tokens in council wax and Ittan's private tally to be found."
+      "category": "knowledge",
+      "fact": "Border charter: if the Keeper's seal is found false, the warden may close the pass with his own seal alone, but the writ needs a witness of the warden's house marked beside the seal. Devan cites the single-seal line to Ittan in the courtyard before the search. Gopan names the witness requirement at the gate-tower.",
+      "since": "ch 29"
+    },
+    {
+      "category": "plot",
+      "fact": "Neela writes her name, with 'of Kettamala', as the household witness on the closing writ. The writ goes to Kodiyur, so her name is on a crown record.",
+      "since": "ch 29"
+    },
+    {
+      "category": "plot",
+      "fact": "Devan stood the five carts under the padippura roof overnight with Bhaskaran's men round them as a courtesy; Ittan's clerk came down at the middle watch with a lantern and was turned back, so the chest was never moved.",
+      "since": "ch 29"
     },
     {
       "category": "knowledge",
-      "fact": "Devan carries Asha's first token and his beeswax impression in his sleeve, and compares them to the chest's wax on sealing day; the dot-and-split mark matches.",
-      "why": "needed because the beat says the wax impression matches the token from Asha's chest."
+      "fact": "Ittan carried the 36 blank waxed tokens to wax passes under the widow's seal, where no clerk counts a seal box.",
+      "since": "ch 29"
     },
     {
       "category": "knowledge",
-      "fact": "Neela tells the court the slip was torn from a courier's papers by someone now dead, whom Devan declines to name.",
-      "why": "needed to produce Chathu's slip publicly without exposing Ammu's name or the guild."
+      "fact": "Devan reads Chathu's slip aloud, says only that his wife brought it before the new moon and that it came off a courier's papers, and names no source. He knowingly lets Muthu carry 'my wife brought me this'.",
+      "since": "ch 29"
     },
     {
-      "category": "place",
-      "fact": "Ittan is held in the padippura guardroom, and the warden's seal is an iron disc cut with a hill and a gate, worn by eleven wardens.",
-      "why": "needed to stage the arrest and the sealing."
+      "category": "injury",
+      "fact": "Neela's bound hand gripping the stair rail pulls at Devan's right wrist, within the wound-share limits of F265.",
+      "since": "ch 29"
     }
   ]
 }

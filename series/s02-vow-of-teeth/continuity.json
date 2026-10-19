@@ -1847,6 +1847,48 @@
       "fact": "Ittan is held in the padippura guardroom, and the warden's seal is an iron disc cut with a hill and a gate, worn by eleven wardens.",
       "since": "s02-vow-of-teeth-b01 ch 29",
       "provisional": true
+    },
+    {
+      "id": "F270",
+      "category": "knowledge",
+      "fact": "Border charter: if the Keeper's seal is found false, the warden may close the pass with his own seal alone, but the writ needs a witness of the warden's house marked beside the seal. Devan cites the single-seal line to Ittan in the courtyard before the search. Gopan names the witness requirement at the gate-tower.",
+      "since": "s02-vow-of-teeth-b01 ch 29",
+      "provisional": true
+    },
+    {
+      "id": "F271",
+      "category": "plot",
+      "fact": "Neela writes her name, with 'of Kettamala', as the household witness on the closing writ. The writ goes to Kodiyur, so her name is on a crown record.",
+      "since": "s02-vow-of-teeth-b01 ch 29",
+      "provisional": true
+    },
+    {
+      "id": "F272",
+      "category": "plot",
+      "fact": "Devan stood the five carts under the padippura roof overnight with Bhaskaran's men round them as a courtesy; Ittan's clerk came down at the middle watch with a lantern and was turned back, so the chest was never moved.",
+      "since": "s02-vow-of-teeth-b01 ch 29",
+      "provisional": true
+    },
+    {
+      "id": "F273",
+      "category": "knowledge",
+      "fact": "Ittan carried the 36 blank waxed tokens to wax passes under the widow's seal, where no clerk counts a seal box.",
+      "since": "s02-vow-of-teeth-b01 ch 29",
+      "provisional": true
+    },
+    {
+      "id": "F274",
+      "category": "knowledge",
+      "fact": "Devan reads Chathu's slip aloud, says only that his wife brought it before the new moon and that it came off a courier's papers, and names no source. He knowingly lets Muthu carry 'my wife brought me this'.",
+      "since": "s02-vow-of-teeth-b01 ch 29",
+      "provisional": true
+    },
+    {
+      "id": "F275",
+      "category": "injury",
+      "fact": "Neela's bound hand gripping the stair rail pulls at Devan's right wrist, within the wound-share limits of F265.",
+      "since": "s02-vow-of-teeth-b01 ch 29",
+      "provisional": true
     }
   ],
   "knowledge": [
