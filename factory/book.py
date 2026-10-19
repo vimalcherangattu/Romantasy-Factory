@@ -369,10 +369,15 @@ def step_continuity(cfg: Config, book: dict) -> None:
         write_json(sdir(cfg, book) / "continuity.json", json_text(files["continuity.json"]))
         _done(book, "S7")
         return
-    if book.get("continuity_attempts", 0) >= 1:
-        raise BookBlocked("continuity errors remain after an automatic fix: "
+    attempts = book.get("continuity_attempts", 0)
+    last = book.get("continuity_last_errors")
+    rounds = cfg.get("quality.continuity_rounds", 3)
+    # Keep fixing while each round leaves fewer errors; block when out of rounds or no progress.
+    if attempts >= rounds or (last is not None and len(errors) >= last):
+        raise BookBlocked(f"{len(errors)} continuity errors remain after {attempts} automatic fix round(s): "
                           + "; ".join(f"ch {e.get('chapter')}: {e.get('issue')}" for e in errors))
-    book["continuity_attempts"] = book.get("continuity_attempts", 0) + 1
+    book["continuity_attempts"] = attempts + 1
+    book["continuity_last_errors"] = len(errors)
     fixable = [e for e in errors if isinstance(e.get("chapter"), int) and 1 <= e["chapter"] <= book["chapter_count"]]
     if not fixable:
         raise BookBlocked("continuity errors without a chapter to fix: " + json.dumps(errors))
@@ -670,4 +675,5 @@ def step_owner_plan(cfg: Config, book: dict) -> None:
         ch["status"] = "owner-revise"
     book["done"] = [d for d in book["done"] if d in ("S3",)]
     book["continuity_attempts"] = 0
+    book["continuity_last_errors"] = None
     book["pending_owner_notes"] = None

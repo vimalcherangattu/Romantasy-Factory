@@ -167,6 +167,7 @@ def unblock(book_id: str) -> None:
         _die(f"{book_id} is not blocked")
     b["status"] = "in_progress" if "S3" in b["done"] else "queued"
     b["continuity_attempts"] = 0
+    b["continuity_last_errors"] = None
     state.log(b, "unblocked by owner")
     state.save_book(cfg, b)
     typer.echo(f"{book_id} will resume on the next run.")
