@@ -1,0 +1,43 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 3.0,
+    "stakes_and_cost": 3.0,
+    "prose": 4.0,
+    "continuity": 0.0
+  },
+  "reasons": {
+    "reader_question": "The chapter sharpens 'who sent Ittan?' with 'You've no idea whose hand I am', 'You'll learn what you're permitted' and the glance north. The 'closer than anyone thought' line adds an inside-threat edge, though the north glance points away from Kodiyur with no signal of whether it is a feint.",
+    "change": "Power changes plainly: Devan moves from eight years of withheld authority to an open arrest before sixty witnesses, and the pass is sealed. Muthu chooses visibly at the rope.",
+    "romance_movement": "The reason is new. Neela chooses to be seen beside him in public and says so in her own dry terms. At the seal she frames herself as 'only the one who stands here' and he asks her to stand. It moves from private trust to a public claim.",
+    "shown_chemistry": "Chemistry is carried by responsive action: her sleeve on his, 'I know where the ribs are' via the wound-share, Janu's wordless umbrella, her hand in his at the gate. It is never narrated as chemistry.",
+    "character_logic": "Ittan spent a night inside the fort knowing the charter searches every cart on sealing day (F207). He keeps 36 blank tokens and his own tally book in the cart anyway, and the page never explains it. He also gives up instantly. Devan reads the slip publicly, saying 'the man who sold me my own death' and 'my wife brought me this', in front of Muthu, whom he suspects of informing. That exposes Neela, and the page does not register the risk.",
+    "stakes_and_cost": "The cost is mostly told: 'a cost that he could not yet count'. On the page nothing resists. No one objects, Ittan does not struggle, and the one-seal clause turns up just as the sealing needs it. The only real tension is Muthu's hesitation.",
+    "prose": "Clean, concrete and readable, with good images ('a lamp left burning in a room where everyone has gone out'). There are no banned phrases. Weak spots: 'the easiest order he had ever given, and the hardest' is cliché, 'Ittan's smile made a small sound' is an odd synesthesia, 'Devan let out nothing' is clumsy, and many paragraphs repeat the 'He did not X' pattern.",
+    "continuity": "Fails on the timeline. 'My wife brought me this nine days ago' conflicts with continuity: the slip reached Devan by ch23, and sealing day falls at least 12 days later (new moon six nights on, the ride out and back, Ittan arriving two days after they rode in, F206/F244/F262). 'Since the autumn I was twenty-four' also fits nothing: the ford was spring, and Asha died when he was 26."
+  },
+  "fixes": [
+    "Continuity: at 'My wife brought me this nine days ago', replace 'nine days ago' with a span that fits the timeline, for example 'before the new moon' or 'twelve days ago'. At 'Since the autumn I was twenty-four', change the line to tie it to Asha, for example 'Since the spring my sister found the first one', so his age and the season match the six-year history.",
+    "Irrational behaviour to extend plot: at 'The chest was in the first cart, as he had known it would be', add two or three sentences explaining why Ittan never moved it overnight. For example, Devan had the carts stood under the padippura roof with a guard of courtesy, and the clerk came down at the middle watch and was turned back. Add one line on why Ittan brought blank tokens uphill at all, such as waxing passes under the widow's seal. Separately, when Devan reads the slip publicly, cut 'the man who sold me my own death' or show him weigh what Muthu will carry from it. That makes Neela's exposure a chosen cost, not an oversight.",
+    "Convenient magic and rules: at 'found that it asked for one seal only, if the other was found false', the clause appears exactly when the sealing needs it. Plant it earlier in the chapter, with Devan citing it to Ittan in the courtyard, or give it a price. For example, the single-seal closing needs a second witness's mark from the wife who holds the seal in trust. That would also deepen the romance beat at the gate. At 'He felt her before he saw her. A tug at the right wrist', replace the proximity sensing with sight or sound, or make the tug come from her gripping the stair rail, so the wound-share stays within F265."
+  ],
+  "reader_question": "Whose hand is Ittan, and does the master he serves sit in Kodiyur or somewhere inside the closed fort?",
+  "techniques_landed": [
+    3,
+    24,
+    16
+  ],
+  "new_facts_assessment": "The chest contents (F266) are necessary and consistent with F211: blank split-ash tallies with dot-and-split wax, unregistered. The tally book is a good escalation. The token-and-beeswax comparison (F267) is consistent with F091/F112, but 'carried for six weeks' overstates the time since ch8 (about five weeks). F268 is listed as Neela telling the court, but on the page Devan says it; correct the fact file to match. The guardroom and the iron seal (F269) are harmless. Unlisted new facts: (a) the charter permits sealing with one seal 'if the other was found false'. This is plot-critical, appears exactly when needed, and must be listed and set up. (b) The wound-share is shown as a sensing tug when Neela approaches ('He felt her before he saw her'). That goes beyond F265 (pain at a shared wound only) and should be cut or tied to her gripping her wrist.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Irrational behaviour to extend plot",
+    "Convenient magic",
+    "Contrived delays"
+  ],
+  "average": 3.25,
+  "minimum": 0.0,
+  "passed": false
+}
