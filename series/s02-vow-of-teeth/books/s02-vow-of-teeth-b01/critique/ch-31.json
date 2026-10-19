@@ -1,42 +1,40 @@
 {
   "scores": {
-    "reader_question": 3.0,
+    "reader_question": 4.0,
     "change": 4.0,
-    "romance_movement": 4.0,
+    "romance_movement": 5.0,
     "shown_chemistry": 4.0,
     "character_logic": 4.0,
-    "stakes_and_cost": 2.0,
-    "prose": 3.0,
-    "continuity": 5.0
+    "stakes_and_cost": 3.0,
+    "prose": 4.0,
+    "continuity": 0.0
   },
   "reasons": {
-    "reader_question": "The four-month question is present ('And at the end?' 'Ask me then') but soft. No concrete threat inside the rain-shut fort sharpens it, and the chapter closes on rest rather than a gap the reader needs closed.",
-    "change": "The value shift lands clearly. A bargain becomes a public, self-authored marriage. She chooses to let him witness her return. Devan un-kennels the hounds, so the household rules of the secret are dismantled.",
-    "romance_movement": "The relationship moves for new reasons. She is married in her own words, gives the dawn return by choice, and leads the intimacy in daylight with nothing owed. These are distinct steps from ch22 and ch30, not a replay.",
-    "shown_chemistry": "Chemistry is shown through responsive action, not narration. He readies the cloth and dish for a cost she never named, keeps his hands waiting on her hips, says 'Left' to set the pace, and keeps the pebble. 'Not the cat. Neela.' is earned.",
-    "character_logic": "Smart choices throughout. She vows before Muthu knowing he reports, and keeps the guild out of it. Devan's literal, measured vow fits him. Two slips: a brazier-warm cloth set out at dusk is still warm at dawn, and she routes Kirri's things through the man she suspects leaked her orders, without a thought.",
-    "stakes_and_cost": "Almost nothing costs anything in this chapter. The cost of being written down was argued in ch30, and here it shrinks to a joke ('I'll write the weather'). Ittan, the letter and the queen are listed in one paragraph and never press. As penultimate chapter it needs to load ch32's hinge.",
-    "prose": "Prose is mostly clean and quotable ('The yard took the names and kept them', 'He said it as a count'). It repeats ch30's distinctive images almost verbatim: 'looked at her the way he looked at weather, closely and with respect' and the uncounted door. 'Her real name for him' is muddled, and 'It also meant something else' is coy withholding.",
-    "continuity": "No hard conflict with the bible or facts. Ages are stated before the intimate beat. Wound-share stays within F265, the pebble within F175/F247, the breath hitch within F083, and the first turning at sixteen within the timeline. The cart timing and 'first time anyone had' need tightening (see notes) but do not strictly contradict anything."
+    "reader_question": "The ending is specific and makes the next chapter necessary: whose hand is Ittan, and why is Muthu taking a thick grey-sealed packet to Ittan's guardroom? It drifts from the beat's 'how long can the fort keep them safe', which is only touched by the 'four months' talk.",
+    "change": "The bargain becomes a public marriage in the vow. Knowledge also moves: Ittan will talk, and Neela openly reads Muthu's lie. That covers relationship, knowledge and a shift in household standing.",
+    "romance_movement": "The reasons are new and specific: she chooses to let him witness the dawn return, the first time anyone has seen it, and she leads the explicit scene. A kept secret becomes a shared life, which is exactly the beat's romance change.",
+    "shown_chemistry": "The responsive care is strong: the dish and cloth set ready, the cloth rewarmed in the night, 'Left' said once, the scar kissed with 'It's yours. I'm only holding it.' A few narrated lines dilute it ('It was more than she had ever been promised', 'an attention that undid her').",
+    "character_logic": "Most choices are smart. She names the dead in public and trusts Muthu with Kirri's cloth because there is no other cart. The weak point: Neela listens 'all night' in leopard shape, yet never hears Unni come to the stair head at the middle watch.",
+    "stakes_and_cost": "The external costs are named: Muthu will report every word, and Kirri's dignity goes in the informant's cart. The intimate choices themselves now cost little, because self-naming has removed the danger. Grief is the main felt cost.",
+    "prose": "Concrete and well varied, with quotable lines ('The yard took the names and kept them'; grief and laughter on the same bench), no banned phrases and only light dash use. Flaws: 'The rain drummed' appears twice, plus 'steady drum'; 'under a oilcloth' is a typo; 'come back shaking through his lashes' is a dangling modifier; 'A cloth for Kirri's anklet. The anklet itself, if she'll let him' is unclear.",
+    "continuity": "Two conflicts. 'The pass stays shut till spring' contradicts the four-month monsoon closure (F020), and the same scene says 'four months'; spring has already passed (F108, Raman died in spring). Separately, 'Two e's would be a waste. One, then an l, then an a' spells 'Nela', which contradicts the name Neela as written on the crown writ (F271)."
   },
   "fixes": [
-    "Final scene, 'and for once she asked nothing at all': the ending resolves into rest and leaves ch32's hinge unloaded (Plot buried by romance; checklist item 5). Keep the warmth, but end on a story-caused reveal that makes the next chapter necessary. For example, Devan says Ittan sent word from the guardroom at the middle watch asking to speak to the warden 'about whose hand he is'. Or Neela sees Muthu crossing the wet court with a grey-sealed packet thicker than a month's letter. Then the four-month question carries a named danger, not a mood.",
-    "Courtyard, 'He looked at her the way he looked at weather, closely and with respect', and night scene, 'did not once count the door': both repeat ch30's distinctive images nearly verbatim (style-guide repetition rule, within 3 chapters). Replace the weather line with a fresh, specific image from this courtyard. For example, he watches her the way he watches the gorge road. Cut or change the door callback, since ch30 already ended on it. Also fix 'her real name for him', which reads as if Devan has another name. Write simply 'she said his name'.",
-    "Feast, 'He was very quiet, and she knew now what that meant on him. It also meant something else.': this is coy withholding, and it drains the one live cost of the public vow (Contrived delays). Neela knows quiet means Muthu is lying, so make her read it outright. 'I'll write the weather' is a lie, and he will write every word. Let her answer with a choice that costs something: 'Then write my name spelled right.' Later, when she sends Kirri's cloth by Muthu's cart, have her register that she is trusting the reporter with it."
+    "At 'The pass stays shut till spring, but the wood road' (continuity conflict with F020 and with 'four months' a few lines later): change it to 'The pass stays shut till the rains break' or 'four months yet', and correct F289 to match.",
+    "At 'Two e's would be a waste. One, then an l' (continuity: this spells 'Nela', not Neela): keep the joke but make the spelling correct. For example: 'Two e's. Clerks always drop one. Then an l, then an a.' This keeps the beat in which she knowingly lets him report her.",
+    "At 'Unni came to the stair head at the middle watch' (character logic: Neela in leopard shape 'listened to it all night' and would hear a guard and a whispered exchange at the door): either have her register a low voice at the door during the night, which she files and Devan now explains, or move Unni's message to the brazier moment as a scratch at the door she heard and misread. Then Devan's admitted holding-back plays fair with the POV."
   ],
-  "reader_question": "With four months of rain sealing the fort, Ittan in the guardroom and Muthu's letter waiting for the road, what will be waiting for them when the pass opens?",
+  "reader_question": "Whose hand will Ittan say he is, and what is in the thick grey-sealed packet Muthu is carrying to him at dawn?",
   "techniques_landed": [
     9,
     20,
     23,
     24
   ],
-  "new_facts_assessment": "F284 (dish, cup, warmed cloth): necessary for technique 9 and consistent, but a cloth warmed at dusk cannot still be warm at first light. Have Devan rewarm it at the brazier before dawn, which also shows him awake and waiting. F285 (Chinna's wager unwon): a good relief-valve closure of F103, consistent. F286 (vow says 'sold', names Raiu, Ammu and the household, omits the guild): consistent with F283 and F044/F043/F090; necessary. Unlisted additions that should be logged: (a) Devan will let the fourteen hounds run the yard again (consistent with F048, F278). (b) Muthu takes the cart to the Resin House 'in three days'. F264 anchored the first run three days from ch28, which by now should be due or past. The draft should say the first run was held by rain, or restate the date. It should also reconcile 'in the spring, the road opens' with a cart running now: the wood road is not the pass. (c) Devan 'watched her shake, three weeks running' is plausible from the midpoint but unanchored. (d) 'It was the first time anyone had' could be read as no one ever seeing her return. Devan watched her turn back on the ledge through his lashes (F077, F125), so the line should say first time she had let anyone.",
+  "new_facts_assessment": "F287 (Ittan asks for the warden) is necessary and sets up the ch32 hinge (queen's seal). It is consistent with 'I am only a hand' (ch28) and 'whose hand he was' (ch30). However, Neela listening all night in shape and not hearing Unni at the stair strains it. F288 (Muthu's thick packet to the guardroom) is a strong, fair escalation that fits his informant role; it should not reveal the queen's seal early. F289 is useful in that the rain held the fodder run and the wood road drains in a day, but 'Monkey Pass stays shut until spring' conflicts with F020's four months and must be corrected. The rewarmed cloth is fine. F290 is consistent with Muthu's quiet tell (F239) and Devan's ch30 warning (F283), and gives Neela an active, characterful choice.",
   "content_rule_violation": false,
-  "failure_modes": [
-    "Plot buried by romance"
-  ],
-  "average": 3.62,
-  "minimum": 2.0,
+  "failure_modes": [],
+  "average": 3.5,
+  "minimum": 0.0,
   "passed": false
 }
