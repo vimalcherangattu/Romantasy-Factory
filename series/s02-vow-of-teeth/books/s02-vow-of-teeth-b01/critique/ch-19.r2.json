@@ -1,0 +1,42 @@
+{
+  "scores": {
+    "reader_question": 5.0,
+    "change": 5.0,
+    "romance_movement": 5.0,
+    "shown_chemistry": 5.0,
+    "character_logic": 3.0,
+    "stakes_and_cost": 4.0,
+    "prose": 3.0,
+    "continuity": 5.0
+  },
+  "reasons": {
+    "reader_question": "The chapter ends on Ammu's eyes fixed on the housing door, the day after Neela told her 'Nobody's seen.' The question is specific, urgent and loaded with the lie from chapter 18.",
+    "change": "Knowledge and power both shift. Ammu now holds proof that Neela lied and that a second person is close to her. The leads have crossed from wanting to a first kiss.",
+    "romance_movement": "The first kiss lands, and the reason is new. He arranged the gap, he noticed her counting, and he asked what she counts with no bargain in it. His not following becomes a fresh question she can't read.",
+    "shown_chemistry": "Chemistry comes through responsive action. He clears the wall pair and remembers fourteen steps and the turn on the eleventh. His hand stops a finger's width from her face until she says 'Yes'. He holds her scarred wrist without flinching, then faces the wall as she passes.",
+    "character_logic": "Neela is a trained assassin who knows Ammu is watching from a grove she has just noted stands higher than the rampart. Yet she talks with Devan in the open, resin on, for some thirty counts, then judges cover at eye level. This is irrational behaviour to extend the plot, and the text only half-owns it as desire.",
+    "stakes_and_cost": "Her next choice is costly: lie to Ammu a second time or confess and make Devan a 'hole in the wall' to be stopped. The page names this only through implication, not as a decision she faces.",
+    "prose": "There are many quotable lines ('the man who made the gap'). But the blocking muddles at the kiss: 'went the other way… then crossed', and 'His free hand' twice. The final reveal is over-explained, and 'as plainly as a slate wiped clean' is a mixed metaphor. Too many 'did not' constructions.",
+    "continuity": "Consistent with the bible's rules: dusk turning within a minute, she can't speak in shape, scars, the breath hitch (F083), the ladle stripe, fifteen nights after sixteen, three weeks at the inn. The man-high housing and higher grove match F073 and F171. Superseded F166 and F163 ('low') need cleanup, but the page itself does not contradict the current record."
+  },
+  "fixes": [
+    "At 'Fifty-six. A door scraped in the man-high stone housing', Neela stays in open view of a grove she has just said is higher than the rampart, resin on and Devan beside her, for about thirty counts. This is irrational behaviour to extend the plot. Within the first exchange, have her register the grove and choose to stay anyway, because moving would mean ending the conversation she wants. Or have her draw him into the lee at once, judging it at eye level because the count leaves no time to check from the shoulder. Either way, make the misjudgement a choice under the clock that the reader can see before the reveal.",
+    "At 'She did not go to him. She went the other way', the blocking is unclear. Devan came out of the housing door, so walking 'the other way' to that door and then 'crossing three steps' to him doesn't map. State in one sentence where each stands: he by the wheel-gap, she stepping into the lee at the flank, then closing on him. In the kiss, fix the hands. One hand is at her face or jaw and one is fisted at her back, so 'His free hand closed on hers' needs to be 'the hand at her back slid down to her wrist' or similar.",
+    "At 'She saw her mistake from up here, as plainly as a slate wiped clean', the ending is over-explained, and a wiped slate means blank, not clear. Cut the four sentences of geometry to one image, such as 'From up here the housing hid nothing; it never had, not from the trees.' Keep 'A stone wall had only hidden her from herself' or the 'shown the kiss' couplet, not both, so the jackal's eyes carry the final beat."
+  ],
+  "reader_question": "Now that Ammu has seen Neela kiss the man she swore had never seen her, will she report it to Chathu, confront Neela, or try to stop Devan?",
+  "techniques_landed": [
+    7,
+    8,
+    9,
+    22
+  ],
+  "new_facts_assessment": "The draft's fact reuses ID F166, which already exists in continuity.json with the contradicting version (chest-high roof, downslope grove). The same text is already recorded as F171 with a 'replaces' note. Drop the duplicate. Retire or mark the old F166 as superseded. Amend F163's 'low laterite cistern housing' to 'man-high' so three entries don't disagree. The fact itself is necessary, because the higher grove is what makes the catch fair, and it is consistent with F073.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Irrational behaviour to extend plot"
+  ],
+  "average": 4.38,
+  "minimum": 3.0,
+  "passed": true
+}
