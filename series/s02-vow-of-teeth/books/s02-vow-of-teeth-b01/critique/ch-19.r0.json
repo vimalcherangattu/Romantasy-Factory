@@ -1,0 +1,43 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 3.0,
+    "stakes_and_cost": 4.0,
+    "prose": 3.0,
+    "continuity": 0.0
+  },
+  "reasons": {
+    "reader_question": "Specific and sharpened by the last image. Ammu saw a kiss, then saw a leopard walk past a man who did not flinch, which proves Neela's ch18 lie.",
+    "change": "Knowledge shifts hard. Ammu now holds evidence against Neela's 'nobody's seen', and the leads have crossed from wanting to a kiss.",
+    "romance_movement": "The relationship moves for a new reason. She acts on want with no debt attached, and his refusal to follow is restraint shown as care, not a recycled refusal.",
+    "shown_chemistry": "The chemistry is mostly responsive: the arranged guard gap, the noticed counting, the breath hitch caught mid-kiss, the hand that waits a finger's width away. A few lines narrate the want ('She wanted it anyway... plain as bread').",
+    "character_logic": "Neela lied to Ammu yesterday to protect Devan. She lists Ammu's watching as a reason not to, then kisses him in open view of the grove with no attempt at cover. That reads as plot-driven unless the page gives her a reason or a misjudgment.",
+    "stakes_and_cost": "The clock, the cage-word and the witness in the trees are all live, and the cost lands on Ammu, Chathu and the lie. Devan's restraint visibly costs him.",
+    "prose": "The prose is concrete with a good count device, but it has problems: a mechanical First/Second/Third reasons block, an explanatory italic line ('keeping his mouth out of reach of the moment'), a bread simile echoing ch18, repeated 'anyone had ever' superlatives, and consecutive paragraphs opening with the same word ('He hadn't moved.'/'He stood'; 'She stopped counting.'/'She knew'; 'She understood'/'She went up').",
+    "continuity": "'He had seen it ten times from a bed' conflicts with F125. Ten was the count before ch13; he has since watched her during the ch13 fever, met her half-turned at the ch15 dawn, and watched later turnings, not all of them from a bed."
+  },
+  "fixes": [
+    "At 'He had seen it ten times from a bed.' (continuity conflict with F125 and chs 13 to 16): replace the count with something true to the record, for example 'He had watched it from the bed and from the dark of the chamber more times than she had known to count.' Keep the contrast with 'this close, with his hands on her'.",
+    "At 'There were three reasons not to, and she knew every one.' (Irrational behaviour to extend plot): Neela knows the grove is watching, so give her a reason the kiss feels hidden. Before she crosses the three steps, have her step them into the lee of the cistern housing door, which she judges blocks the grove's line of sight. The jackal's eyes fixed on 'the spot where... there had been two people' then prove she misjudged the angle, a clue the reader can retrieve rather than a choice that looks careless. Also recast the First/Second/Third list as quick counted fragments inside her countdown, so the interiority reads as choice under the clock and not as a list.",
+    "At '*He's keeping his mouth out of reach of the moment.*' and 'Only the want, plain as bread.' (Narrated-only chemistry and repeated image): cut the italic line, because his planted boots and open hands already show it. Replace the bread simile, which repeats ch18's 'as plainly as coin buys bread', with an image of hers, such as a count with no remainder. Then fix the repeated paragraph openings at 'He hadn't moved.'/'He stood where', 'She stopped counting.'/'She knew she had' and 'She understood then'/'She went up', and change 'Ammu sat there with a reed in her fist' to the human Ammu who left the reed at dawn."
+  ],
+  "reader_question": "Now that Ammu has seen the kiss and seen Devan stand unmoved as the leopard passed him, will she report to Chathu that Neela has a witness, and what will the guild do about it?",
+  "techniques_landed": [
+    7,
+    8,
+    9,
+    22
+  ],
+  "new_facts_assessment": "All four listed facts are necessary and consistent. The split-reed signal fits F081 (marks left in the cup). The east-rampart geography fits the cistern chain (F016) and the kalari below the east wall (F017). The guard gap fits F037 (wall pairs) and F044 (Bhaskaran at the padippura). The breath-hitch disclosure pays off F083. Several facts went unlisted and should be added. (1) Gopan's chain jams in damp. (2) The stair to the hall has fourteen steps and turns on the eleventh; this deliberately echoes the west stair's eleventh step (F099), so it should be tracked. (3) Neela leaves her day cloth and flask in the east stair's lamp niche. (4) Ammu is in jackal shape at the grove edge at dusk. A minor logic snag: Neela pictures Ammu 'with a reed in her fist' at the moment Ammu is already a jackal.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Irrational behaviour to extend plot",
+    "Narrated-only chemistry"
+  ],
+  "average": 3.25,
+  "minimum": 0.0,
+  "passed": false
+}
