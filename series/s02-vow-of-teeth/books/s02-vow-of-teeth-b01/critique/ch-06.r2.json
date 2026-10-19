@@ -1,0 +1,41 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 4.0,
+    "stakes_and_cost": 3.0,
+    "prose": 4.0,
+    "continuity": 5.0
+  },
+  "reasons": {
+    "reader_question": "The question is specific and well seeded: 'Leave the cat' lands as Clue at the Peak, and the breath hitch at dawn sharpens it. But the last line states it outright instead of letting the reader carry it.",
+    "change": "Three things change. Knowledge: she finds the weak hour and its flaw. Plot: Ammu is close and contact is set for tomorrow. Relationship: the first shared distrust, with Devan asking her opinion. Her certainty about his sleep is cracked.",
+    "romance_movement": "The reason for movement is new. They share an enemy (the palace), and he consults her ('What would a trader say it cost?'), the first time anyone in the fort has asked her a non-pepper question. Her guarded reaction to being asked is earned.",
+    "shown_chemistry": "Chemistry runs through responsive action: his surprised look, the almost-smile, him holding the wax out to her, her trader's answer matching his own 'scale'. Only one line narrates feeling ('some small, stupid part of her had wanted to be').",
+    "character_logic": "Devan's open distrust of the palace fits his literal, never-lying voice. His study of the seal fits his pass-token hunt. Neela's reasoning-away of 'cat' is smart and in character. Her laugh on the ledge is an involuntary slip, not stupidity. Her refusal to strike in the pit tracks her contract terms.",
+    "stakes_and_cost": "The weak hour is narrowed to 'the hour before the hour', but its emotional cost is not felt. Nothing yet makes using that door hurt, beyond a lamp chosen by strangers and a man who asked her opinion. The jackal call raises pressure without naming what tomorrow will demand.",
+    "prose": "Concrete and well varied, with strong images (the sneezing tom, 'warmed her like tea taken hot'). Weak spots: the filing/putting-away motif recurs five times, the weak-hour inventory paragraph reads as a list, and the final paragraph restates the question.",
+    "continuity": "Consistent throughout. Sunbird seal, crushed-leaf-not-clove wax, the empty rampart above the window, the kennelled hounds, the bar Neela lifts herself, the sword hilt toward her, thirty-five nights after ch4's thirty-seven, ages 11 and 9 for the call practice, and eleven tins for eleven contracts all match. Devan abed at first light matches ch5, where he drills only after she returns."
+  },
+  "fixes": [
+    "Final paragraph, 'And behind the call, quieter, the question she had filed and could not unfile: had he meant the cat?' Problem: over-explained ending; it spells out the reader question and blunts the jackal call's interrupted-action pull. Change: cut the explicit question. End on a physical beat that carries it, such as her eyes going to the bed and the breathing running level, with no hitch at all. Let the reader supply the question.",
+    "The jackal call: 'Then, from the tree line past the lowest terrace, a jackal cried.' Problem: this comes after first light, when Rule 1 has already turned Ammu back. A real jackal cry reads as a rule bend (worldbuilding collapse risk for rule-auditing readers). Change: add one line that makes it Ammu's human throat doing the call they practised as girls. For example, she hears the crack at the top 'where Ammu's voice had always broken, at nine and now'. This keeps the rule clean and makes the caller unmistakably her sister.",
+    "The weak-hour passage, from 'She went back over what she had. The chain at the cistern...' through 'She checked herself mid-stride and made herself be honest.' Problem: endless monologue and a static inventory. The run is also the chapter's least kinetic stretch, and the 'filed/put away' habit repeats across the chapter. Change: cut the roster to two or three names. Have the leopard physically test one item (for example, watch a wall lantern gutter low as the pair yawns). Turn 'the hour before the hour' into a felt cost, such as the brass bird lamp or his question about the wax intruding as she picks it. Cut at least two of the five 'filed/put it with the rest' beats."
+  ],
+  "reader_question": "When Devan said 'Leave the cat', and when his breath hitched on her laugh, was he awake and telling her he knows what she is?",
+  "techniques_landed": [
+    11,
+    13,
+    20
+  ],
+  "new_facts_assessment": "F081 (every meeting stone has a cup): small, consistent, and useful for future dead drops. Keep it. F082 (call practised at 11 and 9 until Chathu forbade it): consistent with the ages in F022 and the timeline. It gives the call emotional weight and supports F074. Necessary. F083 (the breath hitch a third of the way through each count, which landed on her laugh): a strong, fair clue for the ch15 midpoint, consistent with Devan feigning sleep since ch2. It must be honoured in every later chamber scene, and the hitch's 'normal' placement should stay fixed. Housekeeping outside this draft's list: F075 and F078 both describe the weak hour (F078 supersedes F075), and F054/F055 and F064/F065 are duplicate or conflicting pairs from earlier chapters. Retire the superseded entries.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Endless monologue"
+  ],
+  "average": 4.0,
+  "minimum": 3.0,
+  "passed": true
+}

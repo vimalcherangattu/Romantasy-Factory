@@ -1,42 +1,41 @@
 {
   "scores": {
-    "reader_question": 3.0,
-    "change": 3.0,
-    "romance_movement": 3.0,
-    "shown_chemistry": 3.0,
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
     "character_logic": 4.0,
     "stakes_and_cost": 3.0,
-    "prose": 3.0,
+    "prose": 4.0,
     "continuity": 5.0
   },
   "reasons": {
-    "reader_question": "The beat's question 'Did he mean the cat?' is answered for Neela by the real tom, so the chapter's pull leans on the breathing hitch and Ammu's 'tomorrow'. The reader leaves with two half-questions instead of one sharp one.",
-    "change": "Knowledge moves: she has a candidate weak hour, a doubt about his dawn rising, and proof that Ammu is close. The required emotional turn ('shaken by a word she tells herself is chance') is undone by the laugh and the warm ending, so she finishes calmer than she started.",
-    "romance_movement": "The new reason is on the page: a shared distrust of the palace that makes them allies for a moment. But it is sealed by one narrated line ('on the same side of a wall'), and Devan does nothing in response to her pepper-house remark.",
-    "shown_chemistry": "The near-smile, 'Do we?' and 'I will' are responsive and good. It is one short exchange; the rest of the storeroom scene is Devan studying wax while Neela narrates what she cares about.",
-    "character_logic": "Neela reasons the cat word away the way a careful agent would, and she flags her unverified intel about his rising. Devan's open distrust of the palace fits his never-lies voice. Neela laughing aloud on the ledge is a believable lapse, not a contrivance.",
-    "stakes_and_cost": "The weak-hour logic narrows the kill toward 'the hour before the hour'. The next step, meeting Ammu, has no stated price yet: no sense of what she must report or what reporting costs her.",
-    "prose": "The prose is mostly clean, concrete and readable. It has several logic slips: a 'stranger's urine' she recognises as Ammu's, 'stopped' while the hill streams past, a POV leak on the wax smell, and the clumsy 'He was at it longer' doubling. The 'it'/'she' pronouns in the leopard run also blur.",
-    "continuity": "The chapter is consistent with the bible and ledger: day count 35, rampart empty two nights, bar still across the shutters (matches ch 5 text and F065), eleven tins, Ammu two years younger, Devan staying abed until she sleeps (ch 5). Minor wording: 'third clank of the middle watch' versus F037 'after the middle watch'."
+    "reader_question": "The question is specific and well seeded: 'Leave the cat' lands as Clue at the Peak, and the breath hitch at dawn sharpens it. But the last line states it outright instead of letting the reader carry it.",
+    "change": "Three things change. Knowledge: she finds the weak hour and its flaw. Plot: Ammu is close and contact is set for tomorrow. Relationship: the first shared distrust, with Devan asking her opinion. Her certainty about his sleep is cracked.",
+    "romance_movement": "The reason for movement is new. They share an enemy (the palace), and he consults her ('What would a trader say it cost?'), the first time anyone in the fort has asked her a non-pepper question. Her guarded reaction to being asked is earned.",
+    "shown_chemistry": "Chemistry runs through responsive action: his surprised look, the almost-smile, him holding the wax out to her, her trader's answer matching his own 'scale'. Only one line narrates feeling ('some small, stupid part of her had wanted to be').",
+    "character_logic": "Devan's open distrust of the palace fits his literal, never-lying voice. His study of the seal fits his pass-token hunt. Neela's reasoning-away of 'cat' is smart and in character. Her laugh on the ledge is an involuntary slip, not stupidity. Her refusal to strike in the pit tracks her contract terms.",
+    "stakes_and_cost": "The weak hour is narrowed to 'the hour before the hour', but its emotional cost is not felt. Nothing yet makes using that door hurt, beyond a lamp chosen by strangers and a man who asked her opinion. The jackal call raises pressure without naming what tomorrow will demand.",
+    "prose": "Concrete and well varied, with strong images (the sneezing tom, 'warmed her like tea taken hot'). Weak spots: the filing/putting-away motif recurs five times, the weak-hour inventory paragraph reads as a list, and the final paragraph restates the question.",
+    "continuity": "Consistent throughout. Sunbird seal, crushed-leaf-not-clove wax, the empty rampart above the window, the kennelled hounds, the bar Neela lifts herself, the sword hilt toward her, thirty-five nights after ch4's thirty-seven, ages 11 and 9 for the call practice, and eleven tins for eleven contracts all match. Devan abed at first light matches ch5, where he drills only after she returns."
   },
   "fixes": [
-    "At 'and for a moment it felt like being on the same side of a wall' (Narrated-only chemistry): cut the summarising sentence and show the alliance as an exchange. Before he tucks the wax away, Devan holds the seal out to her and asks, 'What would a trader say it cost?' She answers in pepper-house terms ('the price of what they'll ask for next'). He nods and puts it away. The response proves he heard her, and her small warmth comes from being asked, not from narration.",
-    "At 'She had been loud, and she'd been lucky.' (Static heroine / value shift not delivered): the beat requires her to end shaken by a word she tells herself is chance, but the laugh fully dissolves the suspicion. Keep the laugh, then add one counted residue. For example, the hitch in his breath came on the exact beat of her laugh, not a third of the way through like every other night, and she files it and refuses to look at the bed. That restores 'Did he mean the cat?' as the reader's question going into Ammu's call.",
-    "Fix four logic slips in the prose. (a) 'It was a very small thing, a stranger's urine on a stone': she has just recognised Ammu's scent, so make it 'what anyone else would call a jackal's mark on a stone'. (b) 'She stopped there, with the hill streaming past': she is either stopped or running, so make it 'She checked herself mid-stride'. (c) 'It smelled of crushed leaf, she knew without being near': this is a POV leak, so give her the source (she caught it when Janu set the box down). (d) Collapse 'He was at it longer than he'd given the silver. He was at it longer than he'd given the cord' into one sentence."
+    "Final paragraph, 'And behind the call, quieter, the question she had filed and could not unfile: had he meant the cat?' Problem: over-explained ending; it spells out the reader question and blunts the jackal call's interrupted-action pull. Change: cut the explicit question. End on a physical beat that carries it, such as her eyes going to the bed and the breathing running level, with no hitch at all. Let the reader supply the question.",
+    "The jackal call: 'Then, from the tree line past the lowest terrace, a jackal cried.' Problem: this comes after first light, when Rule 1 has already turned Ammu back. A real jackal cry reads as a rule bend (worldbuilding collapse risk for rule-auditing readers). Change: add one line that makes it Ammu's human throat doing the call they practised as girls. For example, she hears the crack at the top 'where Ammu's voice had always broken, at nine and now'. This keeps the rule clean and makes the caller unmistakably her sister.",
+    "The weak-hour passage, from 'She went back over what she had. The chain at the cistern...' through 'She checked herself mid-stride and made herself be honest.' Problem: endless monologue and a static inventory. The run is also the chapter's least kinetic stretch, and the 'filed/put away' habit repeats across the chapter. Change: cut the roster to two or three names. Have the leopard physically test one item (for example, watch a wall lantern gutter low as the pair yawns). Turn 'the hour before the hour' into a felt cost, such as the brass bird lamp or his question about the wax intruding as she picks it. Cut at least two of the five 'filed/put it with the rest' beats."
   ],
-  "reader_question": "Was Devan awake to hear her laugh on his window ledge, and what is Ammu coming to tell her tomorrow?",
+  "reader_question": "When Devan said 'Leave the cat', and when his breath hitched on her laugh, was he awake and telling her he knows what she is?",
   "techniques_landed": [
     11,
     13,
     20
   ],
-  "new_facts_assessment": "F078 (weak hour before first light; Devan's rising known only by hearsay; heard abed at dawn) is necessary and consistent. It correctly fixes F075's clash with F045, and F075 should be retired from the ledger, along with the duplicate pairs F054/F055 and F064/F065, which contradict each other on the shutter bar (the text follows F065). F079 is consistent with ch 5 and ch 6 timing. F080 (Chathu's eleven tins of sweets, gift as the start of a bill) is consistent with Chathu's fatherly debt-talk. It earns its place by motivating 'Then we agree'. The draft added two facts it did not list: every guild meeting stone is cut with a cup, and Neela and Ammu practised the call at eleven and nine. Both are consistent and harmless; they should be added to new-facts. F070's sunbird is rendered as 'a small bird' on the seal, which is fine.",
+  "new_facts_assessment": "F081 (every meeting stone has a cup): small, consistent, and useful for future dead drops. Keep it. F082 (call practised at 11 and 9 until Chathu forbade it): consistent with the ages in F022 and the timeline. It gives the call emotional weight and supports F074. Necessary. F083 (the breath hitch a third of the way through each count, which landed on her laugh): a strong, fair clue for the ch15 midpoint, consistent with Devan feigning sleep since ch2. It must be honoured in every later chamber scene, and the hitch's 'normal' placement should stay fixed. Housekeeping outside this draft's list: F075 and F078 both describe the weak hour (F078 supersedes F075), and F054/F055 and F064/F065 are duplicate or conflicting pairs from earlier chapters. Retire the superseded entries.",
   "content_rule_violation": false,
   "failure_modes": [
-    "Narrated-only chemistry",
-    "Static heroine"
+    "Endless monologue"
   ],
-  "average": 3.38,
+  "average": 4.0,
   "minimum": 3.0,
-  "passed": false
+  "passed": true
 }
