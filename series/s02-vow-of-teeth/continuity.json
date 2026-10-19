@@ -1399,6 +1399,41 @@
       "fact": "Neela tells Devan the slip came from a guild-sister who tore it off a carrier's satchel, and says she will not say more; Devan does not ask.",
       "since": "s02-vow-of-teeth-b01 ch 23",
       "provisional": true
+    },
+    {
+      "id": "F206",
+      "category": "timeline",
+      "fact": "From the morning of chapter 23 the new moon is six nights off (consistent with ch22's seven), the Keeper is due two days after it, and the pass is sealed in eight days; the rains close the road behind the sealing.",
+      "since": "s02-vow-of-teeth-b01 ch 23",
+      "provisional": true
+    },
+    {
+      "id": "F207",
+      "category": "knowledge",
+      "fact": "Border custom: on sealing day every cart through the padippura, in or out, is opened and searched; no exception is written for the Keeper (aligns F204).",
+      "since": "s02-vow-of-teeth-b01 ch 23",
+      "provisional": true
+    },
+    {
+      "id": "F208",
+      "category": "place",
+      "fact": "Kodiyur is four days at a hard ride from Kettamala.",
+      "since": "s02-vow-of-teeth-b01 ch 23",
+      "provisional": true
+    },
+    {
+      "id": "F209",
+      "category": "knowledge",
+      "fact": "Neela refuses to name her source beyond 'a guild-sister' and does not name Ammu to Devan; she refers to 'my sister's page' on the next leaf of the ledger.",
+      "since": "s02-vow-of-teeth-b01 ch 23",
+      "provisional": true
+    },
+    {
+      "id": "F210",
+      "category": "knowledge",
+      "fact": "Devan sees Captain Muthu hand a grey-sealed letter to a lathered rider at the padippura off post day (the ninth-day post is Sudhi's); Muthu is quiet, not laughing.",
+      "since": "s02-vow-of-teeth-b01 ch 23",
+      "provisional": true
     }
   ],
   "knowledge": [

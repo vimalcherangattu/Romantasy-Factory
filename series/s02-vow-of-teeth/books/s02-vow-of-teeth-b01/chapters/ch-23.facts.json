@@ -1,29 +1,29 @@
 {
   "facts": [
     {
-      "category": "knowledge",
-      "fact": "Ittan's name stood first on the council letter that proposed the match; Devan noted it at the time as a kind man's name.",
-      "why": "needed because Devan must connect Ittan to the marriage in the chapter's chain of inference."
-    },
-    {
-      "category": "knowledge",
-      "fact": "Ittan's genial letter said he would come himself this season to seal the pass and see how the match has prospered; Devan read it aloud to Neela one night.",
-      "why": "needed because the outline has Neela say Ittan is coming to them; this is the setup (ch 17 letter about the monsoon sealing)."
-    },
-    {
       "category": "timeline",
-      "fact": "The pass closes in eight days from the morning of chapter 23 (the sealing day); the new moon falls before it.",
-      "why": "outline requires 'eight days'; flagged because earlier chapters' night counts to the pass closing may differ and should be reconciled."
+      "fact": "From the morning of chapter 23 the new moon is six nights off (consistent with ch22's seven), the Keeper is due two days after it, and the pass is sealed in eight days; the rains close the road behind the sealing.",
+      "since": "ch 23"
     },
     {
       "category": "knowledge",
-      "fact": "Border charter custom: on sealing day every cart leaving through the padippura is searched before it goes, with no exception written for the Keeper.",
-      "why": "needed to establish the border-law plan; the outline names the rule but not its form."
+      "fact": "Border custom: on sealing day every cart through the padippura, in or out, is opened and searched; no exception is written for the Keeper (aligns F204).",
+      "since": "ch 23"
+    },
+    {
+      "category": "place",
+      "fact": "Kodiyur is four days at a hard ride from Kettamala.",
+      "since": "ch 23"
     },
     {
       "category": "knowledge",
-      "fact": "Neela tells Devan the slip came from a guild-sister who tore it off a carrier's satchel, and says she will not say more; Devan does not ask.",
-      "why": "needed to account for the slip without exposing Ammu."
+      "fact": "Neela refuses to name her source beyond 'a guild-sister' and does not name Ammu to Devan; she refers to 'my sister's page' on the next leaf of the ledger.",
+      "since": "ch 23"
+    },
+    {
+      "category": "knowledge",
+      "fact": "Devan sees Captain Muthu hand a grey-sealed letter to a lathered rider at the padippura off post day (the ninth-day post is Sudhi's); Muthu is quiet, not laughing.",
+      "since": "ch 23"
     }
   ]
 }
