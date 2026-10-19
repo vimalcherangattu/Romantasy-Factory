@@ -4,39 +4,40 @@
     "change": 4.0,
     "romance_movement": 4.0,
     "shown_chemistry": 4.0,
-    "character_logic": 4.0,
+    "character_logic": 3.0,
     "stakes_and_cost": 4.0,
     "prose": 4.0,
     "continuity": 0.0
   },
   "reasons": {
-    "reader_question": "The beat's question lands clearly through the bitten tongue and the half-formed 'L—'. The missed report adds a second, specific question about what Ammu and Chathu will do. The ending image is quiet and doesn't sharpen either question.",
-    "change": "Neela chooses his life over the contract when passivity alone would have closed it, and she misses the stone. Devan pays in blood to keep her uncaged. Knowledge stays unchanged by design, which keeps the dramatic irony intact.",
-    "romance_movement": "The reason is new: this is the first time her inaction alone would have finished him, and she refuses it. 'Do what she says' and the curtain move him from studying her to guarding her in front of others.",
-    "shown_chemistry": "Mostly responsive action: the counting becomes a rope, she thanks the servants, he gives an order he didn't mean to, she has memorised the breath hitch, his hand hangs a finger's width from her hair. A few lines narrate instead ('his body noticed it').",
-    "character_logic": "Devan's bite and 'Draw the curtain' are smart and in character. Neela's timed dismissal of Janu is competent. Her late discovery of his 'wrong' breath on the ledge is a little thin, since she has been taking his pulse all evening.",
-    "stakes_and_cost": "Costs are concrete: his blood and swollen tongue, her missed report with Chathu's threat behind it, and Janu nearly seeing too much.",
-    "prose": "The prose is concrete and controlled, with good humour ('the ground was making another suggestion'). Several lines are muddled: 'a note of gruel', and 'what her wrists felt like when she thought nobody was holding them' (he has never held them). Two runs of consecutive paragraphs open with 'He' and 'She'.",
-    "continuity": "Four conflicts. (1) 'He had meant to shut his eyes... for ten nights, every night, and done it well' contradicts 'He had seen it eleven times', ch12 ('He had looked at the woman on the ledge at dusk') and the bible, where he watches. (2) 'The ache already ran under her nails' breaks F013: the ache comes only after a full moon without resin, and she has skipped one night. (3) 'Chathu's message, three days old' conflicts with F087 (ch7, five nights ago) unless a second message is established. (4) 'Eleven times' sits uneasily with the skipped resin night (F104)."
+    "reader_question": "Two sharp questions leave the chapter: how long Devan can hold the word, and what Neela will tell Ammu, who is coming to the gate because Neela missed the report.",
+    "change": "Neela misses her report to stay with him, Ammu is now coming to the fort, and Devan has held the word through fever at the price of his own blood.",
+    "romance_movement": "The reason is new on both sides. She weighs his convenient death on the ledge and lays it down; he bites his tongue bloody to keep her uncaged. Neither knows what the other did.",
+    "shown_chemistry": "Mostly shown through action: the counting that becomes a rope, his order 'Do what she says', her learning his breath hitch, the open hand a finger's width from her hair. One line narrates instead: 'only that his body noticed it'.",
+    "character_logic": "Neela sends Janu away and turns with Janu due back. Janu returns to a room with the wife gone and resin in the air, keeps watch all night, and never asks where Neela is. Neela's calm at the slurred 'L' sound is rational, since she believes he is no witness.",
+    "stakes_and_cost": "Both sides have real costs: a caging by one syllable, a missed report under Chathu's five-day-old threat, and Ammu arriving with questions. His blood buys her freedom.",
+    "prose": "The prose is concrete and controlled, with strong images. Flaws: a few stock images ('from the bottom of a well'), a run of consecutive paragraphs opening with 'She' in the dawn scene, and 'The cat...'/'The door...'/'The bowl...' openings back to back.",
+    "continuity": "The jackal call comes after 'first light came gold', and the draft's new fact puts Ammu in jackal shape at first light. That breaks F004: odiyans turn back at first light. The meaning of the call, 'tomorrow, I will find you' (F074), also sits awkwardly with Neela expecting Ammu by the gate-bell today."
   },
   "fixes": [
-    "At 'He had meant to shut his eyes. He had meant it for ten nights', there is a continuity conflict with 'He had seen it eleven times' and ch12, where he watches through feigned sleep. Rewrite so that every other night he watched through lashes and kept his face a sleeper's. Tonight the fever has taken control of his lids, so they hang half open and she might read them. Keep her one-breath study of his face as the near miss.",
-    "At 'The ache already ran under her nails like a thread', the line bends Rule 1 (Worldbuilding collapse): the ache needs a full moon without resin. Replace it with a real present cost, such as the hollow dawn hunger she already dreads or her count of nights left to finish. Also change 'Chathu's message, three days old' to match F087 (about five days), or establish a second message.",
-    "At 'She did not touch it. She did not leave.', the ending reveals nothing and interrupts nothing, which fails the chapter checklist. Make the missed report bite: as first light comes, she hears the guild call from the second spur (three short yips, a pause, one long rising note, F074). Ammu has come looking, and she still does not stand. While you're in this scene, fix 'a note of gruel' and cut the unclear 'when she thought nobody was holding them'."
+    "Fix the continuity break at 'Then, from the second spur, thin and far across the terraces, a jackal called.' Ammu cannot be a jackal after first light (F004). Option 1: move the call into the last dark, before 'The grey came, and the change took her'. Option 2: make it a human throat doing the yard call, e.g. 'a voice on the second spur gave the jackal call, badly, the way a girl had learned it at nine'. Rewrite F126 to match. Also bring the call's meaning ('tomorrow, I will find you') in line with Neela expecting Ammu 'by the gate-bell', or change her expectation to tomorrow.",
+    "Fix the plausibility gap at 'There, I've the second pot and Chinna says if—' (irrational behaviour to extend plot). Janu returns to find Neela gone, with resin in the air, and sits all night without asking for the wife. Give her the question: 'Where's the girl?' Have Devan cover with a short, flat lie only to Janu, e.g. 'Sent her to sleep. Sit.' This closes the hole and adds a second act of guarding. Alternatively, have Neela say earlier that she'll fetch the neem from Kannan herself.",
+    "Replace the narrated chemistry at 'only that his body noticed it'. Use one responsive physical beat he registers, e.g. his fingers trying to close on her sleeve, or his pulse jumping under her two counting fingers so that she glances at his face. In the dawn scene, vary the run of paragraphs opening with 'She' ('She smelled it...', 'She put the back of her hand...', 'She stood there swaying.') to meet the style guide's opening-word rule."
   ],
-  "reader_question": "How long can Devan keep the word behind his teeth, and what will the guild do now that Neela has missed her report to save him?",
+  "reader_question": "Neela missed her report to keep him alive, and Ammu is coming to the gate: what will Neela tell her, and how long can Devan keep the word behind his teeth?",
   "techniques_landed": [
     13,
     6,
     9,
     7
   ],
-  "new_facts_assessment": "Eravi, the dung-smeared left-forearm graze, the cotton curtain, the twenty-nine-night count and Janu reopening the shutters by the father's rule (consistent with F102) are all necessary and consistent. The missed report is necessary and must be paid off in ch14 or soon after. Several facts are unlisted: the message 'three days old' conflicts with F087's timing; Devan feeding the ginger tom since the second week is harmless and should be logged; the girl who died in the Resin House sheds is fine; Neela's grey eyes are unestablished, so log or cut; Devan saying 'Asha' in fever is good dramatic irony and should be logged; and the ache already starting breaks F013.",
+  "new_facts_assessment": "Tom-feeding (F123): necessary, because it gives Neela a reasonable misreading of 'the cat', and it is consistent with the notched tom in F077. It needs one earlier glimpse in a prior chapter, or it reads as a convenient plant. Asha spoken in fever (F124): consistent and good irony. Ten prior turnings (F125): consistent with the night count (29 left, one resin-skip night after ch10) and with ch12's 'ten days'. Ammu in jackal shape at first light (F126): conflicts with F004. Either the call must come before first light, or it must be Ammu in human form imitating the call she learned as a child (F082). Revise the fact accordingly.",
   "content_rule_violation": false,
   "failure_modes": [
-    "Worldbuilding collapse"
+    "Irrational behaviour to extend plot",
+    "Narrated-only chemistry"
   ],
-  "average": 3.5,
+  "average": 3.38,
   "minimum": 0.0,
   "passed": false
 }
