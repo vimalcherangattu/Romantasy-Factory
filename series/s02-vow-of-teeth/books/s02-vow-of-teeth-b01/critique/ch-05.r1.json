@@ -1,41 +1,42 @@
 {
   "scores": {
-    "reader_question": 4.0,
+    "reader_question": 3.0,
     "change": 4.0,
     "romance_movement": 4.0,
-    "shown_chemistry": 4.0,
+    "shown_chemistry": 3.0,
     "character_logic": 3.0,
     "stakes_and_cost": 4.0,
     "prose": 4.0,
-    "continuity": 5.0
+    "continuity": 0.0
   },
   "reasons": {
-    "reader_question": "Strong dramatic irony: ch4 ended with the leopard waiting for 'the post above' to go bare, and Devan has just removed it. The reader goes to bed with him knowing she may come through the window tonight. The ending is a quiet image rather than an interrupt, so it lands just short of a 5.",
-    "change": "Knowledge and action both move. He notices her deflection pattern, sees the scar's cost and sees her care for Kannan. He ends by changing the fort's defences on her account.",
-    "romance_movement": "The beat's value shift lands with a new reason. 'An instrument did not tear a wedding-gift cloth for a goat-boy' ties his change of judgement to an act he witnessed, filtered through Asha. Letting the leopard story run is a fresh, costly form of care.",
-    "shown_chemistry": "The chemistry comes through action: the question-for-question volley on the terraces, the torn kasavu, the white knuckles he watches without acting, her two glances at the doors. Attraction itself is barely present, which suits this phase but keeps the score off 5.",
-    "character_logic": "The stated purpose of pulling the sentry ('see who she reports to') doesn't follow. She already gets out past that sentry every night. The only thing his absence enables is an attack on Devan's own bed, and Devan sets no watch, follows no one and lies down with his eyes shut.",
-    "stakes_and_cost": "Every choice has a price. Silence at supper costs her terror and he pays it knowingly. Pulling the sentry weakens the wall while raiders are at the ford and opens the exact gap she was waiting for. Muthu's unease adds a social cost.",
-    "prose": "The prose is clean, concrete and well varied, and the 'hand's width' motif is used with restraint. There are a few slips: an internal contradiction about the scars, the near-banned 'She let out a breath behind him', the cliché 'like a swallowed stone', night-count arithmetic that doesn't add up, and two consecutive 'He' paragraph openers near the end.",
-    "continuity": "The chapter is consistent with the bible and ch4. It correctly keeps the sentry above the window (ch4) rather than below (outline) and keeps the bar ritual. The resin jar at twenty and Kannan's age match. Small wobbles are noted in the fixes: 'four nights' vs the bar starting on the second night, and Muthu's knowledge of the killing. Neither rises to a hard conflict."
+    "reader_question": "The question 'what will she do with an unguarded window, and who is she reporting to' is clear, but the quiet ending (counting the gap in the dark) doesn't sharpen it into the beat's 'protect or trap' tension.",
+    "change": "Knowledge and relationship both move: Devan confirms she lies by questions, has seen the scars up close, and acts by opening a gap that costs him safety.",
+    "romance_movement": "There is a new reason for the change. The torn trousseau cloth and Bindu's name break the 'instrument' reading, and 'He did not know what to do with a person' lands the value shift.",
+    "shown_chemistry": "The question-for-question volley on the terraces and 'the first time all morning she had sounded like herself' are responsive and good. Most of the attraction is still Devan observing from a distance, not the two acting on each other.",
+    "character_logic": "Mostly sharp, especially withholding the leopard-story rescue to protect his secret. But a man who watched her smear resin and studied resin scars at the border school would not 'tell himself they were the marks of a weapon'.",
+    "stakes_and_cost": "Pulling the sentry leaves his throat open, and letting Janu's story run costs him her comfort. Both costs are named and chosen.",
+    "prose": "Clean, concrete and readable, with good images ('grin came back over it like a lid', 'sinkers are the ones worth the weight'). The last section over-explains ('It was only sense, and he told himself so twice'), and 'every dusk' echoes within one paragraph.",
+    "continuity": "This conflicts with the end of chapter 4. There, Neela turned back at dawn in the yard, under the water trough, after Devan swung both shutter leaves wide. Here she comes back through the window lifting the bar, the bar is reset, and Devan leaves for the kalari 'before the light', which is impossible because she can't return before first light (F004, F308)."
   },
   "fixes": [
-    "At \"Either way he would see where the line led.\" (character logic; Irrational behaviour to extend plot). Pulling the sentry doesn't help him see who she reports to: she already leaves past that sentry every night, and he then lies down with his eyes shut. Give him a concrete watch plan. For example, he means to climb to the bare rampart himself once she has gone and watch which way she runs, and he places the sword where his own hand can reach it. Or have him notice that the surveillance reason doesn't hold and keep the 'only sense, he told himself so twice' self-deception pointed at the real motive: keeping her from being shot. Either way, let him register that he has opened the one gap an assassin would want, and that he is choosing to risk his own throat.",
-    "At \"He had never thought to see it on a living wrist.\" (prose, internal contradiction). Two sentences later he says he saw the scars at the window on the wedding night. Replace the line with something consistent, e.g. 'He had seen it once, by lamplight at the window, and told himself it was a mark on a weapon.' Then cut the vague 'He had not known how much it would cost her' and replace it with one concrete observation, such as how many ridges there are or how far up the arm they go. Also rework 'She let out a breath behind him', which sits too close to the banned 'breath she didn't know she was holding' family. Use an action instead, such as the bangle clicking against a stake.",
-    "At \"the one ritual she had watched him keep for four nights\" (continuity arithmetic). It is the fourth morning, the bible has him barring from the second night, and the same paragraph says she lifted it 'three nights running'. Make it 'every dusk since the first' or give a consistent count. In the same pass, at \"He had never given it to anyone.\", note that the bible has Muthu knowing about the captain's killing. Reword to 'Muthu had been there. He knew what had happened; he had never been told what it had done to him', so the joke-that-hurts beat keeps its logic."
+    "Opening, 'the bar lifted, the slat cracking, the long breath': this breaks continuity with chapter 4 and is a Contrived delay. Devan's POV hides that he threw both shutter leaves open at first light. Rewrite the return so it matches chapter 4. He opened the shutters at the grey of dawn. She turned back in the yard, so she came up the stair or the wall as a woman after first light, and the bar was never lifted from outside. He goes to the kalari after first light, not 'before the light'. Give one plain sentence of his reason for opening the shutters. That pays off chapter 4's ending as the required partial answer.",
+    "Terrace scene, 'told himself they were the marks of a weapon': this is Irrational behaviour. He has watched her smear resin three nights and was taught exactly what the scars look like, so he cannot have misread them. Cut the self-deception and keep the scars to the inner wrist (drop 'toward the elbow'). Make the shaped gap something new he notices instead. For example, the ridges are layered thick, like eleven years of use, which tells him she has been doing this since she was young. That gives him a new fact, not a re-told one.",
+    "Final paragraphs, from 'It did not hold, and he knew it' to 'counted it again': this is close to Endless monologue, and the ending neither interrupts nor reveals anything. Cut the self-argument to two sentences and keep the throat-cost line. End on a live action caused by his choice. For example, he hears the bar lift and the third slat crack, then realises the empty rampart gives no one to shout if she turns back toward the bed instead of the hill. Close on her weight landing on the ledge, so the 'protect or trap' question is in motion."
   ],
-  "reader_question": "Now that Devan has pulled the one sentry who stopped her, will Neela come through his window tonight, and what will he do if she does?",
+  "reader_question": "Now that Devan has stripped his own window of its guard to see where she runs, will his patience protect Neela from being caught or hand her the clean kill she was sent for?",
   "techniques_landed": [
     13,
     25,
     1
   ],
-  "new_facts_assessment": "New-facts F064 (sentry above, bar left in place) is necessary. It correctly follows ch4 over the outline. Note that continuity.json now holds two contradictory provisional entries for this chapter: F064 says Devan lifts the bar and leaves it against the wall, while F065 says he leaves it across the shutters. The draft matches F065, so the orchestrator should drop the stale F064. F065 (Janu found Asha's body) is consistent with Janu's guilt over not being at the stair and deepens her; keep it. Ch9 must reconcile it with Janu 'knowing the hour' of the death. F066 (two years at border school) is consistent with F041 and the age timeline; keep it. F067 (father dead, fondness after) is harmless, characterful and doesn't touch canon. F068 (torn trousseau kasavu) is necessary to the beat and consistent with the glossary. Also unlisted but on the page: the reader now learns of the kneeling captain and the strike. This is acceptable as the ch5 plant for the ch21 disclosure, but it should stay this oblique.",
+  "new_facts_assessment": "new-facts-added-by-draft.json is empty, but the draft adds several facts. Kunjan Chirayil and the north warehouse are necessary for testing her cover and consistent with it. Bindu, Kannan's singing mother, is necessary and on-trait for Neela's naming habit. Asha's slate in her first month at nineteen is necessary, matches F110 later, and is consistent with Devan being four years older. Muthu as Devan's former kalari partner and witness to the ford is consistent with F181. Janu finding Asha's body is fine, though F101 has Janu avoiding the stair, which this deepens. The two years at border school and the dead father are harmless. Other additions are risky. The scars 'ran up past the bangle toward the elbow', which extends the bible's 'inner wrists' and should be cut. 'A childhood burn' as her lie should be checked against F200, where her second-week lie is 'a fall from a cart'. Two different lies can stand, but it reads as drift unless chapter 22 acknowledges both. The new-facts file must list all of these.",
   "content_rule_violation": false,
   "failure_modes": [
+    "Contrived delays",
     "Irrational behaviour to extend plot"
   ],
-  "average": 4.0,
-  "minimum": 3.0,
-  "passed": true
+  "average": 3.12,
+  "minimum": 0.0,
+  "passed": false
 }
