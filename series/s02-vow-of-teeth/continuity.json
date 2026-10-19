@@ -860,6 +860,55 @@
       "fact": "When Janu returns and asks where Neela is, Devan tells her flatly that he sent Neela to sleep. Neela, behind the curtain in shape, hears the lie and takes it for fevered kindness.",
       "since": "s02-vow-of-teeth-b01 ch 13",
       "provisional": true
+    },
+    {
+      "id": "F129",
+      "category": "place",
+      "fact": "Neela keeps a cache in a cleft of rock under the second spur: a day cloth, a shawl and a water gourd, hidden after she collapsed beside Devan's bed in ch13, so she can turn back away from the ledge.",
+      "since": "s02-vow-of-teeth-b01 ch 14",
+      "provisional": true
+    },
+    {
+      "id": "F130",
+      "category": "knowledge",
+      "fact": "The two raider scouts keep a cold camp (no fire) on the lip above the shelf in the lower narrows, with bows and a wrapped bronze signal mirror meant to flash the patrol's count to others beyond the cut. Who waits beyond is not known.",
+      "since": "s02-vow-of-teeth-b01 ch 14",
+      "provisional": true
+    },
+    {
+      "id": "F131",
+      "category": "object",
+      "fact": "The scouts carry newly struck Varanad silver (sprig on one face, sharp milled edge, never handled) and a forged split-ash tally with real council wax that smells of clove. Devan notes the coins are unspent and takes the satchel and coin as evidence.",
+      "since": "s02-vow-of-teeth-b01 ch 14",
+      "provisional": true
+    },
+    {
+      "id": "F132",
+      "category": "injury",
+      "fact": "A scout's knife cuts a thin line across Neela's shoulder in leopard shape; it reopens as she turns back and she bleeds a little.",
+      "since": "s02-vow-of-teeth-b01 ch 14",
+      "provisional": true
+    },
+    {
+      "id": "F133",
+      "category": "knowledge",
+      "fact": "Valli (Ammu) did not come to the gate on the day after the fever broke, though Neela expected her ('tomorrow').",
+      "since": "s02-vow-of-teeth-b01 ch 14",
+      "provisional": true
+    },
+    {
+      "id": "F134",
+      "category": "name",
+      "fact": "The 'pepper-store cat' is the fort's notched ginger tom, which Devan feeds. Janu says it has caught nothing since 'the fever year'.",
+      "since": "s02-vow-of-teeth-b01 ch 14",
+      "provisional": true
+    },
+    {
+      "id": "F135",
+      "category": "knowledge",
+      "fact": "Devan's patrol numbers eleven riders, and Raman's death in spring happened in single file under the shelf in the lower narrows.",
+      "since": "s02-vow-of-teeth-b01 ch 14",
+      "provisional": true
     }
   ],
   "knowledge": [
