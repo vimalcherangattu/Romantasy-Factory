@@ -1,0 +1,41 @@
+{
+  "scores": {
+    "reader_question": 5.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 4.0,
+    "stakes_and_cost": 3.0,
+    "prose": 4.0,
+    "continuity": 5.0
+  },
+  "reasons": {
+    "reader_question": "The beat's question lands exactly. Her pulled strike and his held breath leave a specific, two-sided gap: why did she stop, and did he know?",
+    "change": "Knowledge and power both shift. She sees his drill for the first time and finds his flaw, and he learns she could have killed him. Her self-image as a resolved killer breaks, and she can't name the reason.",
+    "romance_movement": "The reason is new: the first declined chance to betray, recognised by both. It moves through restraint rather than a refusal replayed. The one bar from a 5 is that Devan's side stays almost entirely opaque.",
+    "shown_chemistry": "The chemistry is responsive rather than narrated. 'May I?' / 'Yes', his slow exhale, and his hand lifting to his own neck afterward all show it, as does his noticing the damp sleeve and the lantana. A few lines tip into telling ('did not frighten her half as much as it should have').",
+    "character_logic": "Approaching under a stance-correction pretext is smart, and she backs her expertise with a cover story. Her chamber rationalisations are well built and dismantled one by one. Devan's silence fits his voice and secret knowledge.",
+    "stakes_and_cost": "The cost of not killing is waved off with 'Thirty nights is plenty'. The chapter never brings back Chathu's warning that every day counts double once the writ lands, or Ammu as the coin he'll spend. The choice feels free when it should hurt.",
+    "prose": "Prose is concrete, varied and rhythmic. The opening hook, the three-breath count and the last image are strong. Weak spots: abstract lines in the breath sequence, three 'She told herself' in close succession, a cute personified shutter slat, and a flat final sentence.",
+    "continuity": "Consistent overall. Thirty nights follows ch10's thirty-one. She has never seen him rise (F078). The door point, the kindi, the barred shutters on a non-resin night and Janu's partner line all match. The ache line is borderline (see fixes) but framed as her own rejected excuse."
+  },
+  "fixes": [
+    "At \"It was the wrong morning. Thirty nights is plenty.\" (Stakes without depth): the lie costs her nothing because the chapter forgets the pressure already on the page. Before or right after she says it aloud, have her own arithmetic bite. Chathu's message (F087) said that once the writ landed every day counts double, so thirty nights is fifteen by his ledger. Name Ammu as the coin he'll spend if the account is still open. Then let her tell the lie anyway. The lie is only 'good' if the reader sees what it costs.",
+    "At \"A woman in the first days of the ache should not take chances\" (world-rule drift, Rule 1): the ache comes only after a full moon without resin, so one skipped night can't put her 'in the first days' of it. Reword so the excuse is about counting toward the ache, not having it. For example: 'One night counted against her already. A woman starting that count should not take chances.' Cut 'her nails already felt thin at the quick', or mark it plainly as imagined.",
+    "At \"He had told the pit his back. She had been given the whole thing.\" (abstract interiority in the chapter's peak moment): the lines go vague just when the reader most needs something concrete. Cut these two sentences and the 'thread somewhere' sentence. Replace them with one physical observation that recalls ch10. His hands hang open, palms half out, the same as the sleeping hand on the blanket with the seven knuckle scars. That echo lets the reader feel he is offering, not trapped. Also cut 'and the understanding did not frighten her half as much as it should have', which tells rather than shows. Separately, trim one of the three 'She told herself' sentences in the count."
+  ],
+  "reader_question": "Why did Neela lift her hand from a clean kill, and did Devan breathe out because he knew exactly what she was?",
+  "techniques_landed": [
+    16,
+    18,
+    13
+  ],
+  "new_facts_assessment": "The three listed facts are necessary and consistent. The kalari layout fits F017. The pepper-guard cover fits F062. The Muthu every-seventh-day line restates F060 and need not be a new fact. Unlisted facts the draft adds, which should be logged or checked against earlier chapters: (1) Devan once told Neela 'the lie he disliked most was the one made to look like a kindness'; if this never appeared on the page earlier, it is an invented callback. (2) A sentry walks the east wall above the pit at dawn and faces the hill. (3) One Chirayil guard 'once stood on a quay with a cudgel' beside Neela, which implies she spent real time at the warehouse under cover; log this. (4) Devan has scars on his brow and ribs. The lantana plant (C23) and the drill sighting (C25) are planted cleanly, with no explanation given too early.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Stakes without depth"
+  ],
+  "average": 4.12,
+  "minimum": 3.0,
+  "passed": true
+}
