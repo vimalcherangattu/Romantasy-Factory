@@ -1,29 +1,34 @@
 {
   "facts": [
     {
-      "category": "relationship",
-      "fact": "Captain Muthu was Devan's kalari partner before Devan stopped sparring eight years ago, and he asks for a round every seventh day.",
-      "why": "needed because Janu says Devan 'used to have a partner' (F047) and the beat requires Muthu to beg weekly, which makes his hurt specific."
-    },
-    {
-      "category": "name",
-      "fact": "Kannan's mother is named Bindu and sings; Neela learned this from women at the well.",
-      "why": "needed because the beat requires Neela to know the goat-boy's mother's name."
-    },
-    {
-      "category": "name",
-      "fact": "Neela's cover guardian is Kunjan Chirayil, who kept the Chirayil north warehouse in Kodiyur.",
-      "why": "needed because Devan tests her cover with a personal detail from the council papers."
-    },
-    {
-      "category": "relationship",
-      "fact": "Asha came to the fort at nineteen and in her first month wrote every recruit's name and mother's village on a slate.",
-      "why": "needed because the beat requires Devan to remember Asha learning every recruit's name."
-    },
-    {
+      "id": "F064",
       "category": "timeline",
-      "fact": "The sentry Devan has pulled off the rampart is the one above the warden's window (ch 4 placement), not below it as the outline says; Devan lifts the shutter bar and leaves it against the wall that night.",
-      "why": "needed because chapter 4 placed the sentry above the window, so the outline's 'below' was reconciled to canon."
+      "fact": "Devan has the sentry above the warden's window (ch 4 placement, not below as the outline says) pulled, but leaves the shutter bar in its usual place across the shutters; Neela must lift it herself as on previous nights.",
+      "since": "s02-vow-of-teeth-b01 ch 5"
+    },
+    {
+      "id": "F065",
+      "category": "relationship",
+      "fact": "Janu found Asha's body on the west stair the morning after she was killed.",
+      "since": "s02-vow-of-teeth-b01 ch 5"
+    },
+    {
+      "id": "F066",
+      "category": "knowledge",
+      "fact": "Devan spent two years at a border school, where he learned the witness rule and first smelled nightbark resin.",
+      "since": "s02-vow-of-teeth-b01 ch 5"
+    },
+    {
+      "id": "F067",
+      "category": "relationship",
+      "fact": "Devan's father is dead; Devan respected him, and fondness came after his death.",
+      "since": "s02-vow-of-teeth-b01 ch 5"
+    },
+    {
+      "id": "F068",
+      "category": "object",
+      "fact": "Neela wears a day kasavu from her trousseau on the terraces and tears its gold border to bind Kannan's hand.",
+      "since": "s02-vow-of-teeth-b01 ch 5"
     }
   ]
 }
