@@ -301,3 +301,18 @@ def test_proposals_first_look_rules():
     assert any("five-second" in e for e in errs)
     errs = validate.proposals({"concepts": [base], "obvious_excluded": {"titles": ["ash and oath"]}}, 1)
     assert any("obvious list" in e for e in errs)
+
+
+def test_new_facts_as_plain_strings(cfg, approved_series):
+    b = state.load_book(cfg, f"{approved_series}-b01")
+    facts = bookmod._add_facts(cfg, b, 1, '{"facts": ["Neela has a scar on her left palm", {"fact": "x"}]}')
+    assert facts[0]["fact"].startswith("Neela") and facts[1]["fact"] == "x"
+
+
+def test_unexpected_error_skips_book_not_night(cfg, approved_series, monkeypatch):
+    def boom(*a, **k):
+        raise AttributeError("bug")
+    monkeypatch.setattr(bookmod, "step_outline", boom)
+    rep = orchestrator.run(cfg, echo=lambda *_: None)
+    assert any("unexpected AttributeError" in x for x in rep.blocked)
+    assert state.load_book(cfg, f"{approved_series}-b01")["status"] == "queued"

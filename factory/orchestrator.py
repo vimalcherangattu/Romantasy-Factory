@@ -118,6 +118,12 @@ def run(cfg: Config, *, book_id: str | None = None, max_steps: int | None = None
                 rep.blocked.append(f"{b['book_id']} at {name}: {exc}")
                 skip.add(b["book_id"])
                 continue
+            except Exception as exc:  # noqa: BLE001 - a bug in one step must not end the night
+                state.log(b, f"error during {name}: {type(exc).__name__}: {exc}")
+                state.save_book(cfg, b)
+                rep.blocked.append(f"{b['book_id']} at {name}: unexpected {type(exc).__name__}: {exc} (retried next run)")
+                skip.add(b["book_id"])
+                continue
             state.log(b, f"done: {name}")
             state.save_book(cfg, b)
             gitops.commit(cfg, label)

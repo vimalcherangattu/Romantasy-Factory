@@ -77,9 +77,12 @@ def _save_version(cfg: Config, book: dict, n: int) -> None:
 
 def _add_facts(cfg: Config, book: dict, n: int, facts_json: str) -> list:
     try:
-        facts = json_text(facts_json, "new-facts.json").get("facts", [])
+        data = json_text(facts_json, "new-facts.json")
+        facts = data.get("facts", []) if isinstance(data, dict) else data
     except OutputError:
         facts = []
+    # Agents sometimes return plain strings instead of objects; keep the fact either way.
+    facts = [f if isinstance(f, dict) else {"category": "", "fact": str(f)} for f in (facts or [])]
     atomic_write(bdir(cfg, book) / "chapters" / f"ch-{n:02d}.facts.json", json.dumps({"facts": facts}, indent=2))
     if facts:
         path = sdir(cfg, book) / "continuity.json"
