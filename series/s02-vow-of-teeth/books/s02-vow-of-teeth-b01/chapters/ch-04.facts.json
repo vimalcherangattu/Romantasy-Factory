@@ -1,16 +1,37 @@
 {
   "facts": [
     {
-      "id": "F053",
+      "id": "F054",
       "category": "knowledge",
-      "fact": "Bhaskaran led the patrol to the second ford at dawn after a herdsman reported men there.",
+      "fact": "Neela notices that 'Rain' at dusk under a clear sky is the one answer Devan gives that is not an answer; it sounds like a forecast but fits nothing in the sky. She links it and the kennelled hounds as both being about the dark. She does not conclude he lies.",
       "since": "s02-vow-of-teeth-b01 ch 4",
       "provisional": true
     },
     {
-      "id": "F054",
+      "id": "F055",
+      "category": "place",
+      "fact": "Kannan's loft sits over the kennel wall; the hounds howl until the middle watch.",
+      "since": "s02-vow-of-teeth-b01 ch 4",
+      "provisional": true
+    },
+    {
+      "id": "F056",
+      "category": "place",
+      "fact": "Chinna sleeps on a mat at the kitchen door; the granary has a farm lock.",
+      "since": "s02-vow-of-teeth-b01 ch 4",
+      "provisional": true
+    },
+    {
+      "id": "F057",
       "category": "knowledge",
-      "fact": "Neela notices that Devan's only untrue statement is 'Rain' at dusk under a clear sky; it is the single thing he will not say plainly. She links it to the kennelled hounds as both being about the dark.",
+      "fact": "Janu says Devan has slept badly for eight years.",
+      "since": "s02-vow-of-teeth-b01 ch 4",
+      "provisional": true
+    },
+    {
+      "id": "F058",
+      "category": "timeline",
+      "fact": "On the night of chapter 4 Neela counts thirty-seven nights left before the pass closes.",
       "since": "s02-vow-of-teeth-b01 ch 4",
       "provisional": true
     }
