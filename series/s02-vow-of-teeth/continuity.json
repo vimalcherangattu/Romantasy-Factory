@@ -1581,6 +1581,41 @@
       "fact": "Neela's ache has been building for weeks (F145, F160). The nails splitting on the morning of ch25 sharpened it; skipping resin on the new-moon night did not cause them. She tells Devan she trusts Muthu with his body, not his secrets, because she has no one else.",
       "since": "s02-vow-of-teeth-b01 ch 25",
       "provisional": true
+    },
+    {
+      "id": "F232",
+      "category": "name",
+      "fact": "Pachan is a Resin House hunter who once gave ten-year-old Neela his sweet at the long table. Hunters carry hooked poles, nets and iron rings on chains.",
+      "since": "s02-vow-of-teeth-b01 ch 26",
+      "provisional": true
+    },
+    {
+      "id": "F233",
+      "category": "object",
+      "fact": "Chathu labels every vial in the tapping-shed cupboard in his fine hand; the antidote is tagged 'Black gall, counter' and is a finger-length clay vial with a thumb-pinched wax stopper.",
+      "since": "s02-vow-of-teeth-b01 ch 26",
+      "provisional": true
+    },
+    {
+      "id": "F234",
+      "category": "object",
+      "fact": "Chathu brings Neela a tin of warm jaggery-sesame sweets at dawn; she refuses to touch it (callback to F080).",
+      "since": "s02-vow-of-teeth-b01 ch 26",
+      "provisional": true
+    },
+    {
+      "id": "F235",
+      "category": "place",
+      "fact": "The kennels lie under the oldest roof behind the cook-house and a shuttered well; there are forty-one cages of iron, holding animals including a deer, hare, mongoose and fox.",
+      "since": "s02-vow-of-teeth-b01 ch 26",
+      "provisional": true
+    },
+    {
+      "id": "F236",
+      "category": "knowledge",
+      "fact": "Chathu keeps the stolen antidote vial (hunters seized it); Ammu was recalled to the Resin House and rode through the night to arrive in the yard on the day of Neela's binding.",
+      "since": "s02-vow-of-teeth-b01 ch 26",
+      "provisional": true
     }
   ],
   "knowledge": [

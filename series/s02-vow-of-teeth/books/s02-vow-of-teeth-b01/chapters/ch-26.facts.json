@@ -1,0 +1,29 @@
+{
+  "facts": [
+    {
+      "category": "name",
+      "fact": "Pachan is a Resin House hunter who once gave ten-year-old Neela his sweet at the long table. Hunters carry hooked poles, nets and iron rings on chains.",
+      "why": "needed because the guild's capture party needs a named, humane-seeming face to make betrayal personal."
+    },
+    {
+      "category": "object",
+      "fact": "Chathu labels every vial in the tapping-shed cupboard in his fine hand; the antidote is tagged 'Black gall, counter' and is a finger-length clay vial with a thumb-pinched wax stopper.",
+      "why": "needed because Neela must identify the antidote in the cupboard."
+    },
+    {
+      "category": "object",
+      "fact": "Chathu brings Neela a tin of warm jaggery-sesame sweets at dawn; she refuses to touch it (callback to F080).",
+      "why": "needed because it reinforces his gift-as-bill habit."
+    },
+    {
+      "category": "place",
+      "fact": "The kennels lie under the oldest roof behind the cook-house and a shuttered well; there are forty-one cages of iron, holding animals including a deer, hare, mongoose and fox.",
+      "why": "needed because the kennel scene needs a concrete scale of the caged."
+    },
+    {
+      "category": "knowledge",
+      "fact": "Chathu keeps the stolen antidote vial (hunters seized it); Ammu was recalled to the Resin House and rode through the night to arrive in the yard on the day of Neela's binding.",
+      "why": "needed because ch27 has Ammu return the vial and appear at the yard."
+    }
+  ]
+}
