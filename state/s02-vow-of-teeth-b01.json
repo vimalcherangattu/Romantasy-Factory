@@ -287,7 +287,7 @@
       "minimum": 3.0
     },
     "15": {
-      "status": "revised",
+      "status": "passed",
       "revisions": 2,
       "scores": {
         "reader_question": 4.0,
@@ -297,14 +297,14 @@
         "character_logic": 4.0,
         "stakes_and_cost": 4.0,
         "prose": 4.0,
-        "continuity": 0.0
+        "continuity": 5.0
       },
-      "average": 3.62,
+      "average": 4.25,
       "flags": [
         "needs-owner"
       ],
       "words": 3156,
-      "minimum": 0.0,
+      "minimum": 4.0,
       "continuity_fixes": [
         "Neela recalls 'last night's supper' and the bowl-of-milk line. That supper was in ch 14, eight nights before the storm. FIX: In ch 15, change 'And last night's supper, over Janu's fish' to 'And that supper eight nights ago, over Janu's fish'.",
         "The drop from the warden's window is called 'forty feet'. Ch 4 gives the wall under the window as thirty feet. FIX: In ch 15, change 'a drop of forty feet' to 'a drop of thirty feet'."
@@ -1276,9 +1276,13 @@
     {
       "at": "2026-10-19T23:33:32",
       "event": "done: S6 revise ch 15"
+    },
+    {
+      "at": "2026-10-19T23:35:18",
+      "event": "done: S5 critique ch 15"
     }
   ],
-  "updated_at": "2026-10-19T23:33:32",
+  "updated_at": "2026-10-19T23:35:18",
   "midpoint_chapter": 16,
   "continuity_attempts": 1
 }
