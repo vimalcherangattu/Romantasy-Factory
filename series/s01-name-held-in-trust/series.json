@@ -1,0 +1,31 @@
+{
+  "title": "A Name Held in Trust",
+  "slug": "name-held-in-trust",
+  "engine": "court",
+  "heat": "open door, moderate",
+  "subgenre": "romantasy (core), dark edges",
+  "structure": "one couple across trilogy",
+  "books": [
+    {
+      "number": 1,
+      "working_title": "A Name Held in Trust",
+      "couple": "Elin Marrowgate and Aurek Sall",
+      "central_question": "Will Elin use Aurek's name to stop the flooding of the delta?",
+      "hinge": "The Emperor holds a name too: Elin's, given to the river at her birth and taken from it. He speaks it and she kneels."
+    },
+    {
+      "number": 2,
+      "working_title": "The River Remembers",
+      "couple": "Elin Marrowgate and Aurek Sall",
+      "central_question": "Can two people stay themselves inside one name?",
+      "hinge": "The Emperor dies and his will leaves the Rolls, Elin's name among them, to Aurek."
+    },
+    {
+      "number": 3,
+      "working_title": "Unnamed",
+      "couple": "Elin Marrowgate and Aurek Sall",
+      "central_question": "Will Elin free every held name in the empire, including the one that binds them?",
+      "hinge": "Series close: every name given to the open river, the River Compact begun; no open hinge (HEA)."
+    }
+  ]
+}

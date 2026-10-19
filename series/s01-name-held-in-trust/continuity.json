@@ -1,0 +1,395 @@
+{
+  "facts": [
+    {
+      "id": "F001",
+      "category": "name",
+      "fact": "The heroine is Elin Marrowgate, aged 30 at the start of Book 1, envoy of Lissane and river-law advocate.",
+      "since": "bible"
+    },
+    {
+      "id": "F002",
+      "category": "name",
+      "fact": "The love interest is Aurek Sall, aged 35 at the start of Book 1, Warden-General of the Corvantine Empire.",
+      "since": "bible"
+    },
+    {
+      "id": "F003",
+      "category": "name",
+      "fact": "No true name is ever printed on the page; characters call a true name 'the word' or 'his name'.",
+      "since": "bible"
+    },
+    {
+      "id": "F004",
+      "category": "magic",
+      "fact": "A command requires the holder to speak the given true name followed by an imperative in the named person's hearing; the named person cannot refuse.",
+      "since": "bible"
+    },
+    {
+      "id": "F005",
+      "category": "magic",
+      "fact": "A name cannot be taken back once given; it can only be transferred onward by its holder.",
+      "since": "bible"
+    },
+    {
+      "id": "F006",
+      "category": "magic",
+      "fact": "A name given whole to its own owner is void and stays with the giver.",
+      "since": "bible"
+    },
+    {
+      "id": "F007",
+      "category": "magic",
+      "fact": "An overheard name has no power; only a given name commands.",
+      "since": "bible"
+    },
+    {
+      "id": "F008",
+      "category": "magic",
+      "fact": "Commands do not carry beyond earshot and cannot be written or relayed.",
+      "since": "bible"
+    },
+    {
+      "id": "F009",
+      "category": "magic",
+      "fact": "Every command permanently scars the speaker's voice (the rasp); enough commands leave the speaker mute.",
+      "since": "bible"
+    },
+    {
+      "id": "F010",
+      "category": "magic",
+      "fact": "Standing commands are possible; each word costs the speaker as much as a separate command.",
+      "since": "bible"
+    },
+    {
+      "id": "F011",
+      "category": "magic",
+      "fact": "A held name can be split between two holders, one of whom may be the named person; a command then needs both halves spoken together by both holders, and both voices take the rasp.",
+      "since": "bible"
+    },
+    {
+      "id": "F012",
+      "category": "magic",
+      "fact": "Holders of a split name become partly each other: shared dreams, then waking memories, then shared wounds. The merge cannot be undone.",
+      "since": "bible"
+    },
+    {
+      "id": "F013",
+      "category": "magic",
+      "fact": "Held names are property recorded in the Rolls and pass by will or inheritance; a holder's death does not free them.",
+      "since": "bible"
+    },
+    {
+      "id": "F014",
+      "category": "magic",
+      "fact": "River peoples' names are spoken once into the delta water at birth by a River Mother and never known even to the named person.",
+      "since": "bible"
+    },
+    {
+      "id": "F015",
+      "category": "magic",
+      "fact": "Names settle with river silt; where water is trapped, weir-clerks can sieve names out. Names in open moving water cannot be retrieved.",
+      "since": "bible"
+    },
+    {
+      "id": "F016",
+      "category": "magic",
+      "fact": "A name given to open, undammed water is freed permanently.",
+      "since": "bible"
+    },
+    {
+      "id": "F017",
+      "category": "relationship",
+      "fact": "Under the Wardenry Charter's spouse clause, a Warden's name may be held only by a spouse, who answers for acts done under her command; the Warden is not culpable.",
+      "since": "bible"
+    },
+    {
+      "id": "F018",
+      "category": "relationship",
+      "fact": "The Treaty of Lissane voids the peace if the bride commits treason.",
+      "since": "bible"
+    },
+    {
+      "id": "F019",
+      "category": "relationship",
+      "fact": "Aurek's name was never held before his wedding to Elin.",
+      "since": "bible"
+    },
+    {
+      "id": "F020",
+      "category": "relationship",
+      "fact": "Elin consented to the marriage; Aurek gave his name freely, telling her beforehand that he knew why she came.",
+      "since": "bible"
+    },
+    {
+      "id": "F021",
+      "category": "relationship",
+      "fact": "The wedding night is not consummated; Aurek sleeps on the floor by the door.",
+      "since": "bible"
+    },
+    {
+      "id": "F022",
+      "category": "relationship",
+      "fact": "Elin never commands Aurek alone at any point in the series.",
+      "since": "bible"
+    },
+    {
+      "id": "F023",
+      "category": "relationship",
+      "fact": "Aurek never says 'please'.",
+      "since": "bible"
+    },
+    {
+      "id": "F024",
+      "category": "relationship",
+      "fact": "Aurek keeps every small promise to the minute.",
+      "since": "bible"
+    },
+    {
+      "id": "F025",
+      "category": "knowledge",
+      "fact": "Elin memorises everyone's kindnesses and never calls one in.",
+      "since": "bible"
+    },
+    {
+      "id": "F026",
+      "category": "injury",
+      "fact": "Emperor Casimir's voice is nearly gone from thirty years of commands; the Voice, Anselm Rooke, speaks for him in public.",
+      "since": "bible"
+    },
+    {
+      "id": "F027",
+      "category": "injury",
+      "fact": "Aurek has a rope scar across one palm from executing Tamsin Orrey.",
+      "since": "bible"
+    },
+    {
+      "id": "F028",
+      "category": "injury",
+      "fact": "General Vey and Lady Quill both have rasped voices.",
+      "since": "bible"
+    },
+    {
+      "id": "F029",
+      "category": "place",
+      "fact": "The imperial capital is Velmarch, on dry chalk heights, with bucket-chains carrying canal water uphill day and night.",
+      "since": "bible"
+    },
+    {
+      "id": "F030",
+      "category": "place",
+      "fact": "Hollin Weir is the great upriver dam, completed four years before Book 1; the Saltreach Locks at the delta mouth are silt-traps presented as sea-defences.",
+      "since": "bible"
+    },
+    {
+      "id": "F031",
+      "category": "place",
+      "fact": "The Mother Pools at Saltreach are the river peoples' naming pools.",
+      "since": "bible"
+    },
+    {
+      "id": "F032",
+      "category": "place",
+      "fact": "The Warden's House is a narrow lime-washed house inside the barracks walls; Aurek dries orange peel on its stove.",
+      "since": "bible"
+    },
+    {
+      "id": "F033",
+      "category": "object",
+      "fact": "Aurek's Sluice order is sealed in blue wax.",
+      "since": "bible"
+    },
+    {
+      "id": "F034",
+      "category": "object",
+      "fact": "Maud Tessary gave Elin a river-glass vial 'for luck'.",
+      "since": "bible"
+    },
+    {
+      "id": "F035",
+      "category": "object",
+      "fact": "Aurek tends a row of orange seedlings on the barracks roof.",
+      "since": "bible"
+    },
+    {
+      "id": "F036",
+      "category": "timeline",
+      "fact": "The Sluice is planned for Thaw Moon high water, about ten weeks after the wedding on the first day of the Reed Moon, YC 32.",
+      "since": "bible"
+    },
+    {
+      "id": "F037",
+      "category": "timeline",
+      "fact": "Book 1 ending: Elin splits Aurek's name with him at Hollin; together they command his refusal and stop the flood; the dams remain.",
+      "since": "bible"
+    },
+    {
+      "id": "F038",
+      "category": "timeline",
+      "fact": "Losses that stay lost: Pell Dorran and Sedge Ferry (Book 1), Ressa Hale and the Mother Pools (Book 2), Dov Ashcombe and Aurek's Wardenry (Book 3).",
+      "since": "bible"
+    },
+    {
+      "id": "F039",
+      "category": "knowledge",
+      "fact": "The Emperor holds Elin's name, sieved from Saltreach Locks silt in YC 28; revealed at the end of Book 1.",
+      "since": "bible"
+    },
+    {
+      "id": "F040",
+      "category": "knowledge",
+      "fact": "The Emperor's will leaves the Rolls to the Warden-General; revealed at the end of Book 2.",
+      "since": "bible"
+    },
+    {
+      "id": "F041",
+      "category": "name",
+      "fact": "Supporting cast ages at the start of Book 1: Casimir 61, Ysolde 27, Pell 28, Vey 52, Maud 58, Ressa 71, Corin 24, Quill 49, Hesper 33, Dov 46, Rooke 44.",
+      "since": "bible"
+    }
+  ],
+  "knowledge": [
+    {
+      "character": "Elin Marrowgate",
+      "knows": "Lissane's Delta Council sent her to use Aurek's name to break the dams.",
+      "since": "bible"
+    },
+    {
+      "character": "Elin Marrowgate",
+      "knows": "The treaty asked for her by name; she believes it is because of the Weir Case.",
+      "since": "bible"
+    },
+    {
+      "character": "Elin Marrowgate",
+      "knows": "She does not know her own name is held, nor the spouse clause's terms, nor the Sluice order.",
+      "since": "bible"
+    },
+    {
+      "character": "Aurek Sall",
+      "knows": "He holds the blue-wax Sluice order to lead the flood at Thaw Moon.",
+      "since": "bible"
+    },
+    {
+      "character": "Aurek Sall",
+      "knows": "Lissane sent Elin to use his name; the spouse clause's exact terms; the Quiet Table's membership.",
+      "since": "bible"
+    },
+    {
+      "character": "Aurek Sall",
+      "knows": "He does not know the Emperor holds Elin's name or that the weirs sieve names.",
+      "since": "bible"
+    },
+    {
+      "character": "Emperor Casimir Orlenne",
+      "knows": "He holds Elin's name and Ysolde's; three thousand river names are on his private Roll; the flood would make the delta a held lake.",
+      "since": "bible"
+    },
+    {
+      "character": "Princess Ysolde Orlenne",
+      "knows": "Her father holds her name; she sits on the Quiet Table.",
+      "since": "bible"
+    },
+    {
+      "character": "Pell Dorran",
+      "knows": "The Sluice order and the Quiet Table's membership.",
+      "since": "bible"
+    },
+    {
+      "character": "General Brannoc Vey",
+      "knows": "The Sluice order; that Aurek executed Tamsin Orrey.",
+      "since": "bible"
+    },
+    {
+      "character": "Maud Tessary",
+      "knows": "She gave the empire the Mother Pools registers; she suspects Elin's name was taken.",
+      "since": "bible"
+    },
+    {
+      "character": "Ressa Hale",
+      "knows": "Some water-named people have 'gone quiet' in the water.",
+      "since": "bible"
+    },
+    {
+      "character": "Lady Sabeth Quill",
+      "knows": "The Emperor's private Roll holds river names including Elin's; Hesper's name is held by the Crown.",
+      "since": "bible"
+    },
+    {
+      "character": "Hesper Dunn",
+      "knows": "She has a standing Crown command to report everything heard in the Warden's House.",
+      "since": "bible"
+    },
+    {
+      "character": "Dov Ashcombe",
+      "knows": "How the Sluice works and that the Saltreach Locks are silt-traps; not what the silt holds.",
+      "since": "bible"
+    },
+    {
+      "character": "Anselm Rooke",
+      "knows": "The Emperor's will names the Warden-General heir to the Rolls.",
+      "since": "bible"
+    },
+    {
+      "character": "Corin Marrowgate",
+      "knows": "The resistance's cache sites; not Elin's mission.",
+      "since": "bible"
+    }
+  ],
+  "timeline": [
+    {
+      "when": "35 years before Book 1",
+      "event": "Aurek Sall born in the Saltmarch frontier."
+    },
+    {
+      "when": "YC 1",
+      "event": "Casimir Orlenne becomes Emperor."
+    },
+    {
+      "when": "YC 2 (30 years before Book 1)",
+      "event": "Elin Marrowgate born in Lissane; Ressa Hale gives her name to the water at the Mother Pools."
+    },
+    {
+      "when": "YC 18 (14 years before Book 1)",
+      "event": "The Saltmarch Rising is crushed; Tamsin Orrey sells out her rebels and is hanged by Aurek, aged 21, as the price of his pardon."
+    },
+    {
+      "when": "YC 20 (12 years before Book 1)",
+      "event": "Lissane conquered; at the surrender Maud Tessary gives the empire the Mother Pools naming registers."
+    },
+    {
+      "when": "YC 23 (9 years before Book 1)",
+      "event": "Imperial dam-building begins on the river."
+    },
+    {
+      "when": "YC 27 (5 years before Book 1)",
+      "event": "Aurek appointed Warden-General."
+    },
+    {
+      "when": "YC 28 (4 years before Book 1)",
+      "event": "Hollin Weir completed; Elin's name sieved from Saltreach Locks silt and given to the Emperor."
+    },
+    {
+      "when": "YC 29 (3 years before Book 1)",
+      "event": "Elin argues the Weir Case before the Circuit Court; loses on appeal but wins a water-share."
+    },
+    {
+      "when": "YC 31",
+      "event": "Treaty of Lissane renegotiated; the marriage of the Warden-General to 'the advocate Marrowgate' becomes a term."
+    },
+    {
+      "when": "YC 32, first day of the Reed Moon",
+      "event": "Book 1 opens: the wedding in Velmarch; Aurek gives Elin his name."
+    },
+    {
+      "when": "YC 32, Thaw Moon",
+      "event": "Book 1 climax at Hollin Weir; Sedge Ferry drowned; Pell Dorran killed; the flood stopped by the split name."
+    },
+    {
+      "when": "YC 32, summer to autumn",
+      "event": "Book 2: the sieves revealed; Ressa Hale dies; the Emperor dies at its end and the Rolls pass to Aurek."
+    },
+    {
+      "when": "YC 32 winter to YC 33 spring",
+      "event": "Book 3: Hollin opened in stages; River Compact signed; all held names given to the river."
+    }
+  ]
+}
