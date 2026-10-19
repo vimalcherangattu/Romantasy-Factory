@@ -42,8 +42,8 @@ def test_full_book_reaches_review(cfg, approved_series):
     assert all(c["status"] == "edited" for c in b["chapters"].values())
     # book-level check failure is flagged, not blocking
     assert any("real_loss" in f for f in b["flags"])
-    # daily quota: book 2 runs but is not staged for review today
-    assert rep.stop_reason.startswith("daily quota")
+    # daily quota: book 2 runs but waits for tomorrow's review slot; the night continues
+    assert any("review slot" in b for b in rep.blocked)
     b2 = state.load_book(cfg, f"{approved_series}-b02")
     assert "S10" in b2["done"] and b2["status"] == "in_progress"
     # usage logged per stage, never with an API key in the child env

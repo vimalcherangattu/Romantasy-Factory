@@ -104,9 +104,11 @@ def run(cfg: Config, *, book_id: str | None = None, max_steps: int | None = None
                 rep.stop_reason = f"claude CLI error during {label} after one retry: {exc}"
                 break
             except bookmod.DailyQuotaReached as exc:
+                # Staged for tomorrow; keep the night going on other books.
                 state.save_book(cfg, b)
-                rep.stop_reason = f"daily quota: {exc}"
-                break
+                rep.blocked.append(f"{b['book_id']} waits for tomorrow's review slot ({exc})")
+                skip.add(b["book_id"])
+                continue
             except bookmod.BookBlocked as exc:
                 b["status"] = "blocked"
                 b.setdefault("errors", []).append(str(exc))

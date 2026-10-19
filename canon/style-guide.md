@@ -18,6 +18,12 @@ the counts in `config.yaml → style_limits` after S8.
 - Vary sentence length. Short sentences for impact, longer ones for flow.
 - Chapter length 2,500 to 3,000 words unless the outline says otherwise.
 
+## Readability
+
+Max readability is a commercial goal. Aim for a Flesch reading ease of 70 to 85, the range of
+bestselling commercial romance; S8 flags anything under 60. Prefer common words, an average
+sentence of 12 to 16 words, and paragraphs a phone screen can show whole.
+
 ## Formatting
 
 - Chapter file starts with `# Chapter N: Title`.

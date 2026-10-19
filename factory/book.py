@@ -479,7 +479,7 @@ def step_summary(cfg: Config, book: dict) -> None:
 
 def step_package(cfg: Config, book: dict) -> None:
     defaults = {
-        "pen_name": cfg.get("pen_name"),
+        "pen_name": state.pen_name(cfg, book["series_id"]),
         "series_number": book["number"],
         "price_usd": cfg.get("packaging.default_price_usd"),
         "language": cfg.get("packaging.language"),

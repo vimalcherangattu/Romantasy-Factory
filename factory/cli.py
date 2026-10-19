@@ -84,13 +84,15 @@ def new_series(auto: bool = typer.Option(None, "--auto/--manual",
 @app.command()
 def pick(concept: int = typer.Argument(None, help="Concept number from the latest proposals"),
          batch: str = typer.Option(None, help="Proposal batch folder (default: latest)"),
-         auto: bool = typer.Option(False, "--auto", help="Let the selector agent pick, then approve per config")) -> None:
+         auto: bool = typer.Option(False, "--auto", help="Let the selector agent pick, then approve per config"),
+         pen_name: str = typer.Option(None, help="Pen name for this series (default: config pen_name)"),
+         title: str = typer.Option(None, help="Book 1 title, e.g. a cleared replacement from the market check")) -> None:
     """S2: draft the series bible for the chosen concept."""
     cfg = _cfg()
     if auto or concept is None:
         _report_autopilot(cfg, series.autopilot(cfg, generate=False, batch=batch))
         return
-    series_id = series.pick(cfg, concept, batch)
+    series_id = series.pick(cfg, concept, batch, title=title, pen_name=pen_name)
     gitops.commit(cfg, f"{series_id}: bible draft")
     typer.echo(f"Bible draft: series/{series_id}/bible.md")
     typer.echo(f"Edit it (including its Cover style section), then: factory approve series {series_id}")
@@ -238,7 +240,7 @@ def cover(book_id: str, art: Path = typer.Option(..., exists=True, help="Cover a
     pkg = cfg.paths.book_dir(b["series_id"], book_id) / "package"
     meta = read_json(pkg / "metadata.json", {}) or {}
     out = package.typeset_cover(cfg, art, pkg / "cover.jpg", meta.get("title") or b.get("title", ""),
-                                meta.get("pen_name") or cfg.get("pen_name"))
+                                meta.get("pen_name") or state.pen_name(cfg, b["series_id"]))
     review_copy = cfg.paths.review / book_id
     if review_copy.exists():
         shutil.copy(out, review_copy / "cover.jpg")

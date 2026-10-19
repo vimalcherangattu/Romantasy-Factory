@@ -1,6 +1,12 @@
 # Romantasy Factory configuration. See PRD sections 5, 6, 7 and 9.
 
-pen_name: "V. C. Arden"            # under review 19 Oct 2026; Mara Vellacourt was taken
+pen_name: "Anya Kalloor"           # default; each series stores its own (web-checked clear 19 Oct 2026)
+# Pen names by lane (19 Oct 2026). Mara Vellacourt, Isolde Marrow, Wren Ashby were taken;
+# V. C. Arden sat next to V.C. Andrews, Katherine Arden and Alys Arden.
+pen_names:
+  kerala_dark: "Anya Kalloor"      # Kerala gothic and dark romantasy (odiyan, yakshi)
+  himalaya: "Mira Sangla"          # Himalayan romantasy (passes, devta courts)
+  reserve: "Asha Kovil"            # third lane, held for month 2 (lighter / cozy)
 copyright_year: 2026
 timezone: "Asia/Kolkata"
 
@@ -39,6 +45,7 @@ style_limits:
   max_repeated_4gram: 3            # same 4-word phrase (non-dialogue tags) per chapter
   max_paragraph_words: 220         # long inner-monologue guard
   em_dashes_per_1000_words: 4
+  min_reading_ease: 60             # Flesch; max readability for KU readers (romance usually 70-85)
 
 # Opus for planning and judging, Sonnet for bulk writing (PRD section 5).
 models:

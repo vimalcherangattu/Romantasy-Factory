@@ -67,6 +67,12 @@ def chapter(book: dict, n: int) -> dict:
     return book["chapters"].setdefault(key, {"status": "pending", "revisions": 0, "scores": {}, "average": None, "flags": []})
 
 
+def pen_name(cfg: Config, series_id: str) -> str:
+    """The series' pen name (set at pick time), else the config default."""
+    data = read_json(series_path(cfg, series_id)) or {}
+    return data.get("pen_name") or cfg.get("pen_name", "")
+
+
 def load_series(cfg: Config, series_id: str) -> dict:
     data = read_json(series_path(cfg, series_id))
     if data is None:

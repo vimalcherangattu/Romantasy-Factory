@@ -21,6 +21,23 @@ def _count(text_lower: str, phrase: str) -> int:
     return len(re.findall(r"(?<![a-z])" + re.escape(phrase) + r"(?![a-z])", text_lower))
 
 
+def _syllables(word: str) -> int:
+    groups = re.findall(r"[aeiouy]+", word)
+    n = len(groups) - (1 if word.endswith("e") and len(groups) > 1 else 0)
+    return max(n, 1)
+
+
+def reading_ease(text: str) -> float:
+    """Flesch reading ease. Commercial romance usually reads at 70-85 (plain English)."""
+    prose = "\n".join(line for line in text.splitlines() if not line.lstrip().startswith("#"))
+    sentences = max(len(re.findall(r"[.!?]+(?:[\"'’”)]*)(?:\s|$)", prose)), 1)
+    words = re.findall(r"[A-Za-z']+", prose)
+    if not words:
+        return 100.0
+    syll = sum(_syllables(w.lower()) for w in words)
+    return round(206.835 - 1.015 * len(words) / sentences - 84.6 * syll / len(words), 1)
+
+
 def style_report(cfg: Config, text: str) -> dict:
     banned, tells = style_lists(cfg)
     lower = text.lower().replace("’", "'")
@@ -41,6 +58,7 @@ def style_report(cfg: Config, text: str) -> dict:
         "top_4gram_count": top_n,
         "longest_paragraph_words": longest,
         "em_dashes_per_1000": round(text.count("—") * 1000 / words, 2),
+        "reading_ease": reading_ease(text),
     }
 
 
@@ -53,6 +71,9 @@ def style_problems(cfg: Config, report: dict) -> list[str]:
         problems.append(f"AI tells at {report['ai_tells_per_1000']} per 1,000 words: {report['ai_tell_hits']}")
     if report["top_4gram_count"] > limits.get("max_repeated_4gram", 3):
         problems.append(f"phrase repeated {report['top_4gram_count']} times: '{report['top_4gram']}'")
+    if report.get("reading_ease", 100) < limits.get("min_reading_ease", 60):
+        problems.append(f"reading ease {report['reading_ease']} is below {limits.get('min_reading_ease', 60)}: "
+                        "shorter sentences, plainer words")
     if report.get("em_dashes_per_1000", 0) > limits.get("em_dashes_per_1000_words", 4):
         problems.append(f"{report['em_dashes_per_1000']} em dashes per 1,000 words (limit 4)")
     if report["longest_paragraph_words"] > limits.get("max_paragraph_words", 220):

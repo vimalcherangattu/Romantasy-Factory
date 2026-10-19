@@ -77,13 +77,15 @@ def latest_batch(cfg: Config) -> Path | None:
     return batches[-1] if batches else None
 
 
-def pick(cfg: Config, concept: int, batch: str | None = None, title: str | None = None) -> str:
+def pick(cfg: Config, concept: int, batch: str | None = None, title: str | None = None,
+         pen_name: str | None = None) -> str:
     """S2: build the bible draft for the chosen concept. Returns the new series id."""
     folder = cfg.paths.proposals / batch if batch else latest_batch(cfg)
     if not folder or not folder.exists():
         raise FileNotFoundError("No proposals found. Run `factory new-series` first.")
     proposals = json.loads(read_text(folder / "proposals.json"))
     meta = proposals["concepts"][concept - 1]
+    pen_name = pen_name or cfg.get("pen_name")
     concept_md = read_text(folder / f"concept-{concept}.md")  # owner may have edited it
     index = len(state.all_series(cfg)) + 1
     series_id = f"s{index:02d}-{_slug(meta.get('slug') or meta['title'])}"
@@ -98,7 +100,7 @@ def pick(cfg: Config, concept: int, batch: str | None = None, title: str | None 
 
     files = agentrun.run(
         cfg, "bible",
-        task=(f"Write the series bible for this approved concept. Pen name: {cfg.get('pen_name')}."
+        task=(f"Write the series bible for this approved concept. Pen name: {pen_name}."
               + (f" Book 1's title is \"{title}\" (cleared by the market check); use it." if title else "")),
         inputs={"concept.md": concept_md, "concept.json": json.dumps(meta, indent=2), "taste.md": cfg.paths.taste},
         book_id=series_id, expect=["bible.md", "continuity.json", "series.json"], validator=check,
@@ -113,6 +115,7 @@ def pick(cfg: Config, concept: int, batch: str | None = None, title: str | None 
         "series_id": series_id,
         "title": series_json.get("title", meta["title"]),
         "status": "draft",
+        "pen_name": pen_name,
         "proposal": f"{folder.name}/concept-{concept}",
         "books": [],
         "created_at": state.now(),

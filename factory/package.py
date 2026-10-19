@@ -20,7 +20,7 @@ def _pkg(cfg: Config, book: dict) -> Path:
 
 def also_by(cfg: Config, book: dict, series_title: str) -> str:
     entries = (read_json(cfg.paths.series_dir(book["series_id"]) / "series.json", {}) or {}).get("books", [])
-    lines = [f"## Also by {cfg.get('pen_name')} {{.unnumbered}}", "", f"**{series_title}**", ""]
+    lines = [f"## Also by {state.pen_name(cfg, book['series_id'])} {{.unnumbered}}", "", f"**{series_title}**", ""]
     for e in sorted(entries, key=lambda e: int(e["number"])):
         bid = f"{book['series_id']}-b{int(e['number']):02d}"
         try:
@@ -251,12 +251,13 @@ def bonus_epub(cfg: Config, series_id: str, meta: dict) -> str | None:
     """Builds magnet/bonus.epub for the newsletter sign-up. Returns a problem, or None."""
     mdir = cfg.paths.series_dir(series_id) / "magnet"
     series_json = read_json(cfg.paths.series_dir(series_id) / "series.json", {}) or {}
+    author = state.pen_name(cfg, series_id)
     meta_file = mdir / "pandoc-meta.yaml"
     atomic_write(meta_file, "\n".join([
         f"title: {json.dumps(meta.get('title') or series_json.get('title', 'Bonus story'))}",
-        f"author: {json.dumps(cfg.get('pen_name'))}",
+        f"author: {json.dumps(author)}",
         "lang: en",
-        f"rights: {json.dumps('Copyright © ' + str(cfg.get('copyright_year')) + ' ' + cfg.get('pen_name'))}",
+        f"rights: {json.dumps('Copyright © ' + str(cfg.get('copyright_year')) + ' ' + author)}",
     ]) + "\n")
     err = _pandoc(mdir / "bonus.md", mdir / "bonus.epub", meta_file)
     if err:
