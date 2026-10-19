@@ -1,29 +1,22 @@
 {
   "facts": [
     {
-      "category": "timeline",
-      "fact": "Chathu's deadline: if the account is still open at the new moon, nine nights from the morning of chapter 20, he sends Vellan.",
-      "why": "needed because the beat requires Ammu to warn that Vellan comes at the new moon; a count anchors it inside the 15-night window."
-    },
-    {
-      "category": "knowledge",
-      "fact": "Ammu follows Neela's scent to the cache under the second spur at dawn and promises to write nothing to Chathu for one week; she will leave a reed in the cup on the seventh night.",
-      "why": "needed because the beat gives Ammu a one-week reprieve and a mechanism to meet again."
-    },
-    {
-      "category": "magic",
-      "fact": "Old tappers' song verse: 'Tap the bark when the sun goes low, / let the black sap run and the lantern burn slow. / What the dusk has taken, the dusk will say, / the name given back at the closing of day.' Neela has never heard the last verse.",
-      "why": "needed because the beat requires a sung verse about 'the name given back'; invented wording."
-    },
-    {
+      "id": "F177",
       "category": "object",
-      "fact": "Gopan taught Devan at sixteen to hold a river pebble in the cheek on long cistern watches so a sleeper cannot form clean words. From chapter 20 Devan keeps one in his cheek every night Neela smears resin, from dusk until she is back at first light.",
-      "why": "needed because the beat requires the old watchman's pebble trick."
+      "fact": "Ammu's seventh-night signal is an unsplit reed left in the cup of the meeting stone, meaning she has kept her word (distinct from the split reed 'show me', F162).",
+      "since": "s02-vow-of-teeth-b01 ch 20"
     },
     {
+      "id": "F178",
+      "category": "knowledge",
+      "fact": "Neela tells Ammu a second lie: Devan did not turn round on the rampart because he was facing the terraces and thinks the passing animal was the fort's notched ginger tom. Ammu accepts it because she wants to.",
+      "since": "s02-vow-of-teeth-b01 ch 20"
+    },
+    {
+      "id": "F179",
       "category": "relationship",
-      "fact": "Ammu believes Neela's lie that Devan does not know what she is.",
-      "why": "needed to show the second lie in the cost ledger and keep Ammu's report threat plausible."
+      "fact": "Devan answers the rampart kiss aloud: he stayed still because she ran, not because he did not want to follow; he will not ask at dusk with resin on her, and tells her to find him in daylight when she wants it.",
+      "since": "s02-vow-of-teeth-b01 ch 20"
     }
   ]
 }
