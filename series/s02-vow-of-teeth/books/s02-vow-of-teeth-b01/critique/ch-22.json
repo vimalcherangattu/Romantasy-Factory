@@ -2,41 +2,41 @@
   "scores": {
     "reader_question": 4.0,
     "change": 4.0,
-    "romance_movement": 5.0,
-    "shown_chemistry": 5.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
     "character_logic": 3.0,
     "stakes_and_cost": 4.0,
-    "prose": 4.0,
-    "continuity": 0.0
+    "prose": 3.0,
+    "continuity": 5.0
   },
   "reasons": {
-    "reader_question": "The question 'will she tell him?' is sharp and specific. It is tied to his promise not to ask and to the slip against her skin. The bible's ch23 payoff keeps it from being a deeper 'at what cost' question.",
-    "change": "Two things change. Her knowledge changes: the buyer is the Keeper and Ittan, and the widow's-seal plan points at her. The relationship changes: hidden body becomes seen body. Power shifts too, since she now holds the name he wanted.",
-    "romance_movement": "The reason for the change is new: she sets the terms, he chooses not to use what his hands know, and she asks him to stay. This is clearly a step past the ch19 kiss and the ch21 disclosure.",
-    "shown_chemistry": "The chemistry is shown through responsive action, not narration. He lights the lamp so it falls on her; she moves it between them ('Both of us'). His thumb visibly chooses not to know the pressure points. She slides the sword under the bed. He leaves the pebble on the shelf.",
-    "character_logic": "Three logic gaps. Neela lets Ammu wait at the stone with no daytime warning, though she knows the cost. Ammu's 'cover' is a jackal standing in for a leopard on a watcher's log, which should not fool a watcher who logs shapes. The slip is called a copy yet is in Chathu's own hand.",
-    "stakes_and_cost": "The ache counts a second night, Ammu risks the rampart guard and Chathu's cage, and the name now weighs against his promise. The ch21 skip (a first refusal the watcher should already have logged) goes unmentioned, which slightly blunts the ledger.",
-    "prose": "The prose is mostly clean and concrete, with good callbacks (the third slat, the breath hitch, the cover's name). It slips into stock romance phrasing in the intimate scene: 'could have wept', 'came apart', 'a broken sound she had not known she owned' (a near-echo of a banned phrase), 'eased something in both of them'. 'She herself had been that widow in a hundred plans' is muddled.",
-    "continuity": "Two conflicts. First, Ammu 'turned back an hour ago' before Neela arrives at first light, which breaks F004 (turn-back happens at first light, never before). Second, the unsplit reed is promised 'tonight', but F173/F177 set it for the seventh night after ch20, which is about five nights away."
+    "reader_question": "The ending gives a sharp, specific question: Neela holds Ittan's name in her bodice while Devan, who said he would not ask, drills below. The reason to stay silent is implied by Ammu's theft rather than stated, which keeps it from a 5.",
+    "change": "All three axes move. Relationship: she is seen in lamplight and he stays till morning. Knowledge: the buyer is the Keeper, Ittan. Power: she now holds his killer's name. Her bond with Ammu shifts only quietly.",
+    "romance_movement": "The reason for change is new. Earlier closeness was hidden or at dusk under resin; this is the first chosen, lit, human night. It pays off his ch21 restraint disclosure: 'finally been handed a use for it'.",
+    "shown_chemistry": "Strong responsive care: she moves the lamp so both are lit, 'Last, then', no hands on her wrists, his mouth stopping short of her throat until asked, the sword slid under the bed. A few narrated lines ('so grateful that her eyes stung', 'something close to awe') tell what the action already shows.",
+    "character_logic": "Neela, who established in ch19 that the grove looks down on the fort, opens the shutters and lights a lamp without once thinking that Ammu may be watching. Ammu's jackal scent passing as a leopard's fresh marks at a watcher's check strains belief.",
+    "stakes_and_cost": "The ache's tally, Ammu's dare under the rampart and 'he'd cage me before he asked why' give real costs. The cost of telling Devan is left for the reader to assemble rather than felt by Neela.",
+    "prose": "Mostly clean and concrete, with no banned phrases and few AI tells. Flaws: the bolted-on age line, consecutive paragraphs opening 'She', muddled images ('could not hide how heavy it was', 'made her that widow a dozen times over'), and soft clichés ('the laugh loosened something in both of them', 'When she could see again').",
+    "continuity": "Consistent with the bible and the facts: two nights without resin, seven to the new moon (F172, F188), the pebble only on resin nights, the sword hilt toward her, the widow's charter line (F092), the Keeper's seal box and letters (F148, F149), and the ages stated before the intimate beat."
   },
   "fixes": [
-    "At 'The turn-back had taken her an hour ago', the text breaks world rule F004 (odiyans turn back at first light, never before). Fix the timing so Neela arrives after Ammu has turned. For example, change the opening line of the section to 'An hour after first light she went up the second spur alone', and keep 'The turn-back had taken her an hour ago'. Alternatively, write 'The turn-back had taken her at first light, and she had not moved since.'",
-    "At 'Ammu had promised an unsplit reed there tonight', the draft conflicts with F173/F177, which set Ammu's unsplit reed for the seventh night after ch20, about five nights away. Replace it with a nightly signal set up on the page here. One option: Ammu expects the other one's scent-mark on the stone each night of the promised week, as proof Neela is still working. Then the morning finds Ammu's own mark in the cup, not the reed.",
-    "At 'Two routes, one jackal... He logged both', the cover is convenient-logic: a watcher who 'logs every shape' would log a jackal, not Neela. This makes Ammu's dare read as plot-driven. Have Ammu explain the real mechanism in one or two lines, for example: 'He logs scent-posts, not faces; from the village he only sees the marks go fresh along your route.' Also let Ammu or Neela note that the rain night already went down as a gap, so this second gap was the one Chathu would act on."
+    "Fix the cover mechanism at 'I put my nose to every post you touch and laid mine over it, so they read fresh at dawn' (Worldbuilding collapse / convenient magic). A jackal's mark over a leopard's would read as a different animal. Have Ammu instead take Neela's day cloth from the cache under the second spur (F129) and rub it on each post, so the fresh scent is Neela's own. Add one line in which she admits the cloth trick works for only one night: the cache is now empty and the cloth is spent.",
+    "Make the cost of telling Devan explicit at 'and he had said he would not ask' (stakes not tied to a named loved person). Before the final paragraph, add two or three short sentences in which Neela traces the chain herself. If Devan moves on Ittan, the carrier's torn balance sheet points straight back to the satchel and to Ammu, and Chathu cages whoever tore it. The reader question then becomes a choice between Devan's life and Ammu's, not just whether she will speak.",
+    "Fix the logic gap in the opening at 'At dusk Neela opened the shutters herself' and 'She leaned on the sill and did it anyway' (Irrational behaviour). Neela knows from ch19 that the grove looks down on the fort, and she has told Ammu that Devan doesn't know her. Give her one beat where she looks up at the second spur, knows a lit window can be seen from the pala grove, and opens the shutters anyway as a deliberate choice to stop hiding. Then Ammu's later 'The shutters were open. I saw from the grove' lands as a consequence she chose, not one she overlooked."
   ],
-  "reader_question": "Now that Neela holds the name of the man who bought Devan's death, and he has promised never to ask for it, will she give it to him, and what will it cost her with the guild and Ammu?",
+  "reader_question": "Will Neela give Devan Ittan's name, when acting on it could expose Ammu's theft to Chathu?",
   "techniques_landed": [
     14,
     10,
     3
   ],
-  "new_facts_assessment": "F190 (pass-village watcher who logs shapes) is needed for the beat. As written it creates knock-on problems. It implies the ch21 rain-night skip was already reported as refusal, and nobody mentions that. It also implies a jackal can be logged on Neela's account, which a shape-logging watcher would not allow. Either have the watcher log routes and scent-posts rather than species, or have Ammu say she covered both nights. F191 (balance sheet in the carrier's satchel) is good and consistent with Chathu's ledger habit and F149/F148. However, the draft says Ammu 'copied' it, then shows it in 'Chathu's neat hand, resin-ink'. Make it a strip torn from the sheet itself, as the beat says 'stolen'. F192 (second skipped night, seven to the new moon) is consistent with F172 and F188. F193 (rib seam from the captain's knife) is acceptable, though ch21 mentions only a bleeding hand; keep it, since it does not conflict. Several new facts are not listed. Devan has not lain with anyone since before the ford (eight years). Chathu held Neela's wrist at her first resin. Devan asked about the scars in the second week and she lied 'a fall from a cart'. Neela was meant to come and touch the reed tonight. Each should go in new-facts.json. The cart-fall lie fits, since Devan never lies and would test her.",
+  "new_facts_assessment": "F190 (watcher logs scent-posts) is needed to make Ammu's cover meaningful, but as written a jackal's scent laid over a leopard's would read as a different animal to anyone able to read posts. The rule needs a mechanism that survives scrutiny (see fix 1). Note: continuity.json already holds superseded duplicates from an earlier pass. The old F190 ('which shapes are abroad') conflicts with F194, and the old F191 ('copied one entry') conflicts with F195. The draft matches the newer versions, so the orchestrator should drop the old ones. F192 is consistent with F172 and F188. F193 (rib seam from the captain's knife) is plausible, though ch21 mentions only a 'bleeding hand'; one wound does not rule out the other. F194 (stone-cup signal) fits F073, F081 and F177. F195 (eight years since he lay with anyone) fits his ford-dated bad sleep (F189). F196 fits Chathu's fatherly cruelty and Devan's voice: he asks questions and never lies. The cart lie gives the scar reveal a concrete payoff. F191 is the chapter's key clue (C30). It suits Chathu's tidy-ledger habit, so the slip feels earned rather than convenient.",
   "content_rule_violation": false,
   "failure_modes": [
-    "Irrational behaviour to extend plot",
-    "Worldbuilding collapse"
+    "Worldbuilding collapse",
+    "Irrational behaviour to extend plot"
   ],
-  "average": 3.62,
-  "minimum": 0.0,
-  "passed": false
+  "average": 3.88,
+  "minimum": 3.0,
+  "passed": true
 }
