@@ -1,0 +1,42 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 3.0,
+    "stakes_and_cost": 3.0,
+    "prose": 3.0,
+    "continuity": 0.0
+  },
+  "reasons": {
+    "reader_question": "The question is clear and specific: is the gift mercy or patience? The closing reread of the breath-hitch as a man who chooses to be heard awake sharpens it, but it escalates only a little beyond the beat's own question.",
+    "change": "Power moves for real. Devan gives up his only lever with no terms, and Neela spends a resin night human beside him for the first time since the reveal. Both states differ from the chapter's start.",
+    "romance_movement": "The reason is new. He names his own offer as the guild's leash and withdraws it, and her distrust is rational and drawn from Chathu's gifts. The cost to Devan of being disbelieved is barely shown, so 'costs them both' lands only on her side.",
+    "shown_chemistry": "Responsive action carries it: palms turned out and then dropped, 'I want the name. I'd be a liar to say otherwise', her watching his mouth 'the way she'd watch a lock for the click', and the sword hilt toward her. Banter is sparse but sharp ('That's a motto').",
+    "character_logic": "Devan's turn is earned and in voice. Neela's 'experiment' doesn't hold up. A human body can't be caged, so a resin-free night tests nothing about his silence, yet the text frames it as checking 'whether the floor held'. The 'If she was wrong' reasoning is also garbled.",
+    "stakes_and_cost": "The skipped resin carries a cost, but the ache maths is vague and possibly against the rules. Nothing touches the contract clock, Ammu or guild duty tonight, so the night costs little beyond a feeling of nakedness.",
+    "prose": "The prose is concrete and mostly clean. The reread runs as a catalogue of fragment paragraphs that open 'The shutters.', 'The hounds.', 'The cat.', 'The corridor lamp.', which breaks the consecutive-opener rule. 'He set...' and 'He had meant...' also open adjacent paragraphs. Muddled lines include 'Master. He had said it to himself once' and 'Even so, she could not have done anything different.'",
+    "continuity": "Three conflicts. (1) Ch15 ends with Neela seeing him light the pit lamps after first light and hearing him drill, but ch16 has him come down 'in the dark' and stand unable to take a step. (2) The west-stair vow was made six years ago, at Asha's death, yet 'He had drilled alone for eight years' because of it, which conflicts with the bible: he stopped sparring at 24 after the raider captain. That also pre-empts the ch21 disclosure. (3) 'Janu screaming below him' with fresh blood sits awkwardly with F066, where Janu found the body the morning after."
+  },
+  "fixes": [
+    "Fix continuity at \"He had come down in the dark as he did every dawn\" and \"He had drilled alone for eight years so he would never\". Ch15 has Neela watch him light the lamps after first light and hear him drilling. Change the opening to say he came down after leaving her, ran the forms by rote while she watched from the sill, and then stalled mid-form once the rain eased and the guild letter surfaced. Separately, keep the eight years tied to his unnamed old reason (the ch21 secret). Make the west-stair vow, six years ago, the moment he extended that rule to the word in his mouth. Change 'Janu screaming below him' to the morning Janu found Asha, to match F066.",
+    "Fix character logic at \"Three steps in a dark house, to see whether the floor held.\" (Irrational behaviour). A human Neela can't be caged, so a resin-free night tests nothing about his silence. Name what she is actually testing. She can lie human and unarmed with her back to a man who is awake and stronger, and see whether he uses the dark for anything else: moving the sword, touching her, reaching for her knife. Or she can test whether she herself can sleep in his presence. Also rewrite the garbled \"If she was wrong, she would lose her life\" passage. State which belief, if wrong, kills her (trusting him) and which costs only 'this' (distrusting an honest man), so her choice of the safe error reads as deliberate.",
+    "Fix stakes at \"a fever she would meet in nine days or ten\" and prose in the reread catalogue (\"The shutters.\" / \"The hounds.\" / \"The cat.\" / \"The corridor lamp.\"). Either give the running count of skipped nights against the full-moon rule, so the ache date follows from the bible, or replace the number with a concrete cost tonight: the meeting-stone report to Ammu goes unmade a second time and the guild clock tightens. Then recast the catalogue so consecutive paragraphs don't open on 'The'. Fold two items into one paragraph and lead others with Neela's action ('She had called it...', 'Fourteen hounds...')."
+  ],
+  "reader_question": "Is Devan's unconditional silence real mercy, or a hunter's patience saving the word for the dusk she is most useful caged?",
+  "techniques_landed": [
+    17,
+    12,
+    20
+  ],
+  "new_facts_assessment": "F143 (the border-school letter): necessary and well used. It gives Devan a guild master's voice he has never heard in person, and it fits F041/F067 (age twenty, border school). Keep it. F144 (the west-stair vow): its purpose is good, but as written it conflicts with the bible's timeline. The vow is six years old and the eight years of solitary drilling come from the raider-captain killing. Either make the stair vow a hardening of an older vow, or cut the 'eight years' link. Also make the scene match F066, where Janu found Asha's body the morning after. F145 (the nineteen-nights count): this half is consistent with ch15's twenty. The 'ache in nine or ten days' half is unsupported. The bible says the ache comes after a full moon without resin, and the page doesn't establish enough skipped nights to put it ten days out. Either state the running tally (how many nights have counted against her) or drop the specific number.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Irrational behaviour to extend plot",
+    "Repetitive tension"
+  ],
+  "average": 3.12,
+  "minimum": 0.0,
+  "passed": false
+}
