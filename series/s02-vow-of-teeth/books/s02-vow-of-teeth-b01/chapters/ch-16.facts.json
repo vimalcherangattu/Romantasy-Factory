@@ -1,22 +1,3 @@
 {
-  "facts": [
-    {
-      "category": "knowledge",
-      "fact": "Janu is the source of the damp-madness theory about the barred shutters (one of the fort's three theories in F103), and the kitchen ran a wager on it.",
-      "since": "s02-vow-of-teeth-b01 ch 16",
-      "provisional": true
-    },
-    {
-      "category": "magic",
-      "fact": "On a night without resin, at dusk Neela feels a faint pull at the throat and a burn in the resin scars, which passes if she breathes through it and leaves her human.",
-      "since": "s02-vow-of-teeth-b01 ch 16",
-      "provisional": true
-    },
-    {
-      "category": "object",
-      "fact": "Devan, who left his sword on the floor in the morning (ch 15), sets it down again at night hilt toward Neela.",
-      "since": "s02-vow-of-teeth-b01 ch 16",
-      "provisional": true
-    }
-  ]
+  "facts": []
 }
