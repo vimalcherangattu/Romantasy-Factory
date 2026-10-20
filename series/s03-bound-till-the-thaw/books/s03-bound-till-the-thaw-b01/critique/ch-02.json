@@ -1,0 +1,42 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 3.0,
+    "shown_chemistry": 3.0,
+    "character_logic": 3.0,
+    "stakes_and_cost": 4.0,
+    "prose": 4.0,
+    "continuity": 0.0
+  },
+  "reasons": {
+    "reader_question": "The closing image is specific and strong: Rohan pockets a redbark grain he can identify and tells no one, after choosing not to cut the bales. It sets the exact question the beat asks for.",
+    "change": "Knowledge shifts (Rohan now holds proof of contraband), the crossing party is fixed, and Rohan moves from control to compromise when he accepts the guide's terms. All three are clear by the end.",
+    "romance_movement": "Both beat reasons are on the page and new: she chooses the pass for Jassi, and she witnesses the Puja kindness. But the respect is reported in one interior line ('He liked less that he understood why'), and the night look ends in a mutual walk-past with no reaction from either.",
+    "shown_chemistry": "The best chemistry is her counting his stride and the lock-and-gate sparring over the law. Otherwise it is mostly Rohan observing her. There is little responsive action between them, and nothing she does that answers something specific of his.",
+    "character_logic": "Rohan's refusal ('no place for a woman who has told me she buried her mother') is a non sequitur for a precise man. He also never asks the name of the guide he is about to cross with. Accepting Varun's route without the guides' view fits the trust the plot needs.",
+    "stakes_and_cost": "Pocketing the redbark in silence breaks his own 'if I bend once' belief and his duty under the Closing Law. The cost is real but unstated, which suits the restraint. Meera's 'you may not come back' adds personal risk.",
+    "prose": "The line work is clean, concrete and quotable ('It hanged a man for crossing and let him keep the rope'), with no banned phrases and no AI tells. Flaws: the pronoun muddle around Hakam ('Hakam there has three fingers. Her husband...'), 'She was good at not looking' echoing ch1's 'good at not thinking', and the button simile ('bright as a coin out of the mint') sitting very close to ch1's 'bright as a new coin', which makes the clue signposted.",
+    "continuity": "The chapter contradicts itself and its own POV knowledge. 'It was the first time she had used the title' comes after she has already said 'Captain' twice in the same scene. Rohan names 'Bindu' in close POV although he never learns her name on the page. New fact F059 says 'arm's depth' but the page says 'to the hilt'."
+  },
+  "fixes": [
+    "At 'It was the first time she had used the title' (continuity error): she has already said 'Captain' twice in this scene ('\"Captain,\" said the guide' and 'over my dead body, Captain'). Either cut both earlier uses so she first says 'Captain' here, or rewrite the line so Rohan notices that this time the title sounds different, like a name written down so it won't be lost.",
+    "At 'no place for a woman who has told me she buried her mother' (irrational behaviour): the reason does not follow, and it is out of character for a man who reasons in law and arithmetic. Replace it with a reason rooted in his own ledger. For example, he refuses because a guide who argues with a warden in front of the village is a guide who will lie to him on the ice, or because Dilan was a volunteer too. Then let her 'Name him' break that reason.",
+    "At 'Across the yard Bindu bent over the next pack' (POV slip): Rohan never learns her name on the page. Keep her as 'the ropemaker' or 'the thin woman', or add an earlier line where Jassi or the guide names her within his hearing. While fixing names, have Rohan ask the guide's name once in the yard scene and have her evade it. That makes his calling her 'Guide' a choice on both sides instead of an oversight."
+  ],
+  "reader_question": "Rohan now knows the redbark is in the wool, so why is he keeping it from his lieutenant, and what will he do with the guide at the thaw?",
+  "techniques_landed": [
+    13,
+    15,
+    16
+  ],
+  "new_facts_assessment": "Hakam (F056) is useful texture, but the page makes his gender unclear: 'Her husband' follows his name, so either fix the pronoun or split it into two villagers. The party of four (F057) is necessary and consistent with the bible's two-pair rule. F058 (Varun knows of the seal) is not on the page at all; the draft admits this. Remove it from the facts or put it on the page, since it matters for Asha's knowledge chain. The probe spike (F059) is a good, necessary object, but the fact text says 'arm's depth' while the page says 'to the hilt'; make them agree. The brass button (F060) plants C22 well, but its wording repeats ch1's simile too closely. Puja's fine (F061) is concrete and consistent with ch1's mention of Puja and her son. The mother's death from grey cough (F062) is consistent with the bible's fever in a closed winter ten winters ago, and it gives Rohan public knowledge he can use later.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Irrational behaviour to extend plot",
+    "Narrated-only chemistry"
+  ],
+  "average": 3.12,
+  "minimum": 0.0,
+  "passed": false
+}
