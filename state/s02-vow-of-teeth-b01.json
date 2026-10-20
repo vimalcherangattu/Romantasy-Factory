@@ -43,7 +43,7 @@
       }
     },
     "02": {
-      "status": "owner-revise",
+      "status": "revised",
       "revisions": 0,
       "scores": {
         "reader_question": 4.0,
@@ -57,7 +57,7 @@
       },
       "average": 4.0,
       "flags": [],
-      "words": 2396,
+      "words": 2387,
       "minimum": 3.0,
       "continuity_fixes": [
         "Devan watches her 'lift the bar from the west shutters' on the wedding night, but the bar is first used on the second dusk (ch 3, ch 10, ch 30). FIX: In ch 2, change 'he watched her lift the bar from the west shutters' to 'he watched her lift the latch on the west shutters'.",
@@ -2229,9 +2229,13 @@
     {
       "at": "2026-10-20T08:13:10",
       "event": "done: owner notes plan"
+    },
+    {
+      "at": "2026-10-20T08:13:52",
+      "event": "done: S6 revise ch 2"
     }
   ],
-  "updated_at": "2026-10-20T08:13:10",
+  "updated_at": "2026-10-20T08:13:52",
   "midpoint_chapter": 16,
   "continuity_attempts": 0,
   "continuity_last_errors": null,
