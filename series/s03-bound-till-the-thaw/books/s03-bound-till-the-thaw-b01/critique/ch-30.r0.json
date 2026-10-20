@@ -1,0 +1,42 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 3.0,
+    "stakes_and_cost": 4.0,
+    "prose": 3.0,
+    "continuity": 5.0
+  },
+  "reasons": {
+    "reader_question": "The closing image of the writ makes 'Will he deliver her at the thaw?' sharp, because she has just confessed in public.",
+    "change": "The regent falls, Varun is exposed and Meera's confession enters the record. The power and knowledge shifts are large and earned by setup.",
+    "romance_movement": "The declaration is verified by the body for the first time, and the open door is a new marker. The writ's return reframes the bond's risk.",
+    "shown_chemistry": "Bare hands, the dead hand kissed, the open door and his arm neither loosening nor tightening all show attraction through responsive action.",
+    "character_logic": "Pritam folds with no counter-move. Meera 'slips away' while bound by eight spans. Forty soldiers stand down with little friction.",
+    "stakes_and_cost": "Meera's self-incrimination is real and stays on the record. Rohan names his own guilt. The writ restores a live personal cost.",
+    "prose": "There is a 'Nobody...' tic six times, a prop slip with the stone and paper, and a clunky meta age line. The callback is slightly signposted.",
+    "continuity": "Fingers, button, Asha's terms, the herald's process, ages and the seal are consistent. Ila's 'eight days late' reads as teasing hyperbole, not a hard conflict."
+  },
+  "fixes": [
+    "'He held the stone to the herald. And this is her line': the prop is wrong, since he hands over paper while naming it as the line. Change it to 'He held the paper out to the herald.' Also tighten Ila's 'eight days late' to a number Ila would measure exactly. He wrote that he'd arrive on the Fair morning (F209), so make it 'two hours late' or similar.",
+    "'Two men took Pritam by the arms, politely': the collapse is frictionless (Irrational behaviour/convenience). Give Pritam, the man of numbers, one silken counter. For example, he cites grain the valley owes him, or orders the forty to hold the herald. Let the officer's hesitation and Tej's dropped sword visibly decide it. Two or three lines of resistance make the win cost something.",
+    "'Meera slipped away. She walked until the noise was a hum': the rope rule (F009) means she cannot slip away from him. Rewrite it as a choice. She tugs the rope once, the long pull meaning 'come' (F128), and he leaves Ila mid-sentence to follow. Cut 'He could not have gone farther', which half-admits the slip. The beat then also shows him choosing her over his sister."
+  ],
+  "reader_question": "Now that she has confessed to being the Salt Fox before the assembly, will Rohan deliver her at the thaw as his writ orders?",
+  "techniques_landed": [
+    18,
+    20,
+    24
+  ],
+  "new_facts_assessment": "The wax tin and Sarala's line are needed and consistent with S8/C19. Crew-by-marks protects bible Q10. The button nick makes the match checkable. Tej's sword belt is fitting and unnamed. Kunal keeps S5 hidden. Rohan's hangings speech matches F126. All are necessary and consistent.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Irrational behaviour to extend plot",
+    "Convenient magic"
+  ],
+  "average": 3.88,
+  "minimum": 3.0,
+  "passed": true
+}
