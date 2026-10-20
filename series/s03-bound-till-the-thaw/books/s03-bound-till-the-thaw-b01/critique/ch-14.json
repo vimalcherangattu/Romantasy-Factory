@@ -1,0 +1,41 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 4.0,
+    "stakes_and_cost": 4.0,
+    "prose": 3.0,
+    "continuity": 0.0
+  },
+  "reasons": {
+    "reader_question": "Storm wall, hunters on the cut and a day-and-a-half climb give a concrete race question at the cut-off.",
+    "change": "Meera learns the law's origin and his secret fines. Her hatred is gone, and a route is chosen at the cost of a day.",
+    "romance_movement": "Desire is named and refused for a new reason, the thaw delivery. His refusal to promise deepens it.",
+    "shown_chemistry": "His stillness leaves her the whole choice, she touches his jaw, and he burns a stick to avoid being thanked. All of it is shown.",
+    "character_logic": "Mostly sharp. Meera breaks her own one-question rule on a starved woodpile with only a thin excuse.",
+    "stakes_and_cost": "Teeth versus hunters is a real trade. The refused kiss costs both of them, and the storm makes waiting deadly.",
+    "prose": "Clean and voiced, but 'colour of hands' repeats from ch13 and twice here. Meera's italic gloss narrates his reasoning.",
+    "continuity": "Firewood maths conflicts. Thirteen sticks, five fed and one burned cannot leave twelve. The grandfather's dating contradicts itself."
+  },
+  "fixes": [
+    "Continuity error at 'She fed it five sticks and then'. Ch13 already burned the night's five and left thirteen, so 'That's twelve' fails the arithmetic. Change the line to 'She banked the coals rather than feed them' so no sticks are spent. Rohan's burned stick then takes thirteen to twelve, which matches new-facts and bridges to ch15's eleven.",
+    "Internal contradiction at 'It was when the Closing Law was new'. The law was written the spring after his death, so it was not yet new. Replace the line with 'It was sixty winters ago, the winter before the Closing Law.' This keeps the bible's timing and keeps the S4 plant clean.",
+    "Repeated image at 'his hands were the colour of hands'. It is used twice in this chapter and in ch13, so it is wearing thin. Keep only the second use, after the fine silence, where the lie-check matters. Also cut the italic 'And so I keep it...' paragraph. Meera narrating his motive pre-empts his own lines. Let 'So no one dies that way' carry it."
+  ],
+  "reader_question": "Can Meera get Rohan, one-armed, down the Goat's Teeth before the storm wall and Asha's hunters close on them?",
+  "techniques_landed": [
+    10,
+    15,
+    25
+  ],
+  "new_facts_assessment": "The grandfather story is necessary and ambiguous enough for S4, but 'when the Closing Law was new' contradicts 'written the next spring'. The Goat's Teeth is necessary and consistent. The firewood fact (twelve) contradicts the page, because she feeds five more sticks after ch13 left thirteen. Some facts are unlisted: seven wardens buried, Pritam's grain wagons and the 'first hanged man's curse'. They are plausible but must be logged.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Repetitive tension"
+  ],
+  "average": 3.38,
+  "minimum": 0.0,
+  "passed": false
+}
