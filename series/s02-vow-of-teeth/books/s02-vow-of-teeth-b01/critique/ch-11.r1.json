@@ -1,0 +1,41 @@
+{
+  "scores": {
+    "reader_question": 5.0,
+    "change": 4.0,
+    "romance_movement": 5.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 4.0,
+    "stakes_and_cost": 4.0,
+    "prose": 4.0,
+    "continuity": 5.0
+  },
+  "reasons": {
+    "reader_question": "The chapter ends on two sharp gaps: why her mind 'stopped short' of the kill, and why he breathed out and waited. The 'Was he waiting for her?' tally pattern adds a third without blurring them.",
+    "change": "Knowledge and power move. She now knows she pulled a clean strike with no excuse, he knows she had him, and the ledger cost is counted. It falls short of a 5 only because her new state is still mostly expressed as confusion.",
+    "romance_movement": "The reason is new and stronger than ch10. There, 'no beast could carry this kill' was her excuse. Here every excuse is removed and she still lifts her hand. His hand at his own neck afterwards shows the recognition runs both ways.",
+    "shown_chemistry": "Attraction lives in responsive action: 'May I?' / 'Yes', his open palms, his slow breath-out, her reading his stance, his 'astonished interest' at being corrected. It is slightly undercut where narration explains his stillness twice.",
+    "character_logic": "Mostly sharp. Her reasons-list self-audit is exactly how this woman thinks. But she skipped resin and never weighs the hill watcher who logs a markless night as refusal (F301), which a smart Neela would count. The 'She had not come to be useful... went down anyway' beat also briefly muddles whether descending is the kill approach or a deviation.",
+    "stakes_and_cost": "The cost is named personally: Chathu's double-counted days, the resin threat, Ammu with her nick. The 'cost fifteen nights' line is arithmetically murky and blunts the sum.",
+    "prose": "Clean, concrete and voice-true, with no banned phrases or em dashes. Weaknesses: an 'as if' tic (about five uses), consecutive paragraphs opening 'The flask, then.' / 'The ache, then.', a duplicated realisation passage, and 'quick and clean' / 'ran the kill to its end' echoing ch10's leopard scene closely.",
+    "continuity": "Consistent with the bible and facts F047, F060, F078, F083, F087, F106, F356, F361, F362 and F363, the night count (31 to 30), and F347 (aloud count, he did not turn, held breath). The four-first-lights pattern matches ch10."
+  },
+  "fixes": [
+    "At 'He had not turned his head. He had heard the number, and the next', the paragraph pre-empts the later 'He was waiting. He had heard every number, and he knew what her hand was resting on.' This is narrated chemistry that explains the reader question away. Cut the explanatory clause from the first passage so it shows only body (open palms, low shoulders, a trusting stillness). Let the held breath in 'Three' carry the realisation once.",
+    "At 'It was a good lie. It cost fifteen nights and a girl at an inn.', the cost arithmetic is murky and the watcher is ignored. Rewrite it as a concrete sum: one clean morning gone out of fifteen ledger-days, Ammu named. In the reasons list, add one line where Neela remembers that tonight's markless hill will reach Chathu as refusal by the watcher's dawn walk. That makes the skipped night a real debit and fixes a gap a smart version of her would not leave.",
+    "At 'The flask, then.' followed by 'The ache, then.', two consecutive paragraphs open with the same word (a style-guide breach). Recast the second as 'One night off the flask already counted against her...'. Also cut at least three of the 'as if' similes (for example 'as if he owed it to her' and 'as if he were testing a bruise'). Replace 'A quarter-turn and a push, quick and clean' with a fresh image so it doesn't echo ch10's leopard kill-run."
+  ],
+  "reader_question": "Why did Neela lift her hand from a clean, unwitnessed kill, and why did Devan, hearing her count, stand still and wait for it?",
+  "techniques_landed": [
+    16,
+    18,
+    13
+  ],
+  "new_facts_assessment": "F367 (a prior human-form marma kill) is necessary: it makes her hand 'knowing before she did' credible, and it fits eleven contracts. F368 (the east wall pair face the hill) is useful, since it dismantles her first excuse, and it agrees with F037 and F306. F369 (he lies abed on her out-nights and rises on her human night) is a fair, retrievable clue for the ch15 reveal and agrees with F309 (kalari after first light once she is back). F370 matches F347. Missing from the list is the logged-gap consequence of this markless night under F301/F194. Either the chapter addresses it, or a later chapter must, so that ch22's 'already stood logged as a gap' bookkeeping stays honest.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Irrational behaviour to extend plot"
+  ],
+  "average": 4.38,
+  "minimum": 4.0,
+  "passed": true
+}

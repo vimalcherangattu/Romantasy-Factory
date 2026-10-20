@@ -1,41 +1,41 @@
 {
   "scores": {
-    "reader_question": 4.0,
+    "reader_question": 5.0,
     "change": 4.0,
-    "romance_movement": 4.0,
-    "shown_chemistry": 5.0,
+    "romance_movement": 5.0,
+    "shown_chemistry": 4.0,
     "character_logic": 4.0,
     "stakes_and_cost": 4.0,
     "prose": 4.0,
-    "continuity": 0.0
+    "continuity": 5.0
   },
   "reasons": {
-    "reader_question": "The beat's question lands sharply: his held breath ('He was waiting. He knew what her hand was resting on.') makes 'why did he let her' burn as hard as 'why did she pull it'. It loses a point because it does not pick up the open ch10 question of why he is always abed at first light on her resin nights.",
-    "change": "The value shift lands. She came as a resolved killer and leaves having failed on purpose. He leaves knowing she had him and chose not to, shown by his hand at his own nape. The power and knowledge change on both sides is clear.",
-    "romance_movement": "The reason is new: a declined clean kill, met by a man who offers his neck and does not ask. It is the first choice each recognises in the other. It is held at 4 because Devan's recognition is shown only in two lines and one gesture, so the mutuality is thinner than the beat promises.",
-    "shown_chemistry": "Chemistry is all responsive action and loaded banter. 'Is that a kindness to him, or to you?' / 'I haven't decided.' Then 'May I?' / 'Yes', the slow pulse, the open palms she recognises from ch10, and his slow, non-threatening turn. No narration says they have chemistry.",
-    "character_logic": "Both leads act like smart people. He tests her with his neck; she builds a real plan and her excuses collapse on inspection. But Neela, who in ch10 flagged that he is abed at every resin-night first light, fails to notice that on her one human night he rose in the dark. A counter of everything would catch that.",
-    "stakes_and_cost": "The cost is concrete and doubled: thirty nights become fifteen by Chathu's ledger, plus Ammu as the nearest coin. 'It cost fifteen nights and a girl at an inn' is a strong line. The stated consequence, however, is the continuity error below.",
-    "prose": "The prose is concrete and rhythmic, with quotable lines ('This man simply got there first', 'she had no shelf for it'). Flaws: an AI tell ('the weight of speech'); several consecutive paragraphs opening with 'She' ('She had hated' / 'She wiped'; 'She had lain' / 'She had never seen'); and the ch10 device of telling the plan 'to the kindi' is reused in ch11 within one chapter.",
-    "continuity": "Two conflicts. First, F087: Chathu's message says that if the account is open at the closing he will force resin on Neela and read her page at dusk, but the chapter says his 'plain' message meant 'he would not take the debt out of her first'. Second, F347: Devan later says she counted the three breaths aloud, but here the count is silent italics. A lesser risk: 'Janu had said it at the lip of this pit, on the first morning', while F047 places it in ch3."
+    "reader_question": "The chapter ends on two sharp gaps: why her mind 'stopped short' of the kill, and why he breathed out and waited. The 'Was he waiting for her?' tally pattern adds a third without blurring them.",
+    "change": "Knowledge and power move. She now knows she pulled a clean strike with no excuse, he knows she had him, and the ledger cost is counted. It falls short of a 5 only because her new state is still mostly expressed as confusion.",
+    "romance_movement": "The reason is new and stronger than ch10. There, 'no beast could carry this kill' was her excuse. Here every excuse is removed and she still lifts her hand. His hand at his own neck afterwards shows the recognition runs both ways.",
+    "shown_chemistry": "Attraction lives in responsive action: 'May I?' / 'Yes', his open palms, his slow breath-out, her reading his stance, his 'astonished interest' at being corrected. It is slightly undercut where narration explains his stillness twice.",
+    "character_logic": "Mostly sharp. Her reasons-list self-audit is exactly how this woman thinks. But she skipped resin and never weighs the hill watcher who logs a markless night as refusal (F301), which a smart Neela would count. The 'She had not come to be useful... went down anyway' beat also briefly muddles whether descending is the kill approach or a deviation.",
+    "stakes_and_cost": "The cost is named personally: Chathu's double-counted days, the resin threat, Ammu with her nick. The 'cost fifteen nights' line is arithmetically murky and blunts the sum.",
+    "prose": "Clean, concrete and voice-true, with no banned phrases or em dashes. Weaknesses: an 'as if' tic (about five uses), consecutive paragraphs opening 'The flask, then.' / 'The ache, then.', a duplicated realisation passage, and 'quick and clean' / 'ran the kill to its end' echoing ch10's leopard scene closely.",
+    "continuity": "Consistent with the bible and facts F047, F060, F078, F083, F087, F106, F356, F361, F362 and F363, the night count (31 to 30), and F347 (aloud count, he did not turn, held breath). The four-first-lights pattern matches ch10."
   },
   "fixes": [
-    "At 'Chathu's message had been plain... he would not take the debt out of her first' there is a continuity conflict with F087, where the message says he will force resin on her and read her page at dusk. Rewrite so the message is stated accurately: 'If the account stood open when the pass closed, he would put resin on her himself and read her page at dusk.' Then make Ammu her own inference, as in ch10: 'And Chathu balanced every loss in some other coin. Ammu, humming her fishing song...' Keep the fifteen-nights arithmetic and the 'girl at an inn' line.",
-    "At '*One.*' / '*Two.*' / '*Three.*' there is a continuity conflict with F347 (ch30: she counted the three breaths aloud). Make the count spoken under her breath, for example: 'One,' she said, so low it was hardly a word. This also strengthens technique 13 and 16: he hears her count down his death and still does not move, which explains why this is the moment he trusts her. Adjust 'He was waiting' to note that he heard the numbers.",
-    "In the reasons scene ('*Reasons*, she thought. *Make a list.*') there is a contrived delay and a character-logic gap. Ch10 ended on her noticing he is always abed at first light on her resin nights, yet tonight, her first human night, he rose in the dark. Add two or three sentences where she lines these up as a partial answer: on nights she is out he lies abed until she is back, and on nights she is in he goes down. This opens a bigger question (is he waiting for her?), which serves the chapter checklist's partial-answer and escalation items without resolving the ch15 reveal. At the same time, remove 'the weight of speech' (AI tell) and vary the paired 'She...' paragraph openings."
+    "At 'He had not turned his head. He had heard the number, and the next', the paragraph pre-empts the later 'He was waiting. He had heard every number, and he knew what her hand was resting on.' This is narrated chemistry that explains the reader question away. Cut the explanatory clause from the first passage so it shows only body (open palms, low shoulders, a trusting stillness). Let the held breath in 'Three' carry the realisation once.",
+    "At 'It was a good lie. It cost fifteen nights and a girl at an inn.', the cost arithmetic is murky and the watcher is ignored. Rewrite it as a concrete sum: one clean morning gone out of fifteen ledger-days, Ammu named. In the reasons list, add one line where Neela remembers that tonight's markless hill will reach Chathu as refusal by the watcher's dawn walk. That makes the skipped night a real debit and fixes a gap a smart version of her would not leave.",
+    "At 'The flask, then.' followed by 'The ache, then.', two consecutive paragraphs open with the same word (a style-guide breach). Recast the second as 'One night off the flask already counted against her...'. Also cut at least three of the 'as if' similes (for example 'as if he owed it to her' and 'as if he were testing a bruise'). Replace 'A quarter-turn and a push, quick and clean' with a fresh image so it doesn't echo ch10's leopard kill-run."
   ],
-  "reader_question": "Why did Neela lift her hand from the killing point, and why did Devan, who knew exactly where her fingers were, breathe out and wait for it?",
+  "reader_question": "Why did Neela lift her hand from a clean, unwitnessed kill, and why did Devan, hearing her count, stand still and wait for it?",
   "techniques_landed": [
     16,
     18,
     13
   ],
-  "new_facts_assessment": "1. Kunjan Chirayil warehouse guard (F107/F364): necessary. It is the true-thing-wrapped-in-false cover story Devan probes, and it is consistent with F062/F312. 2. Scars on Devan's brow (F365): harmless but unearned. They appear only in the closing light, and no earlier chapter notes them despite many close looks at his face; either keep them and let a later chapter reuse them, or cut to 'the plain, tired look of his face'. 3. The lone east-wall sentry who faces the hill (F366): necessary, since it is what dismantles her first excuse. It sits awkwardly with F037 (six on the wall in pairs) and F306 (paired upper-wall guards); make it 'the east wall pair' facing the hill. 4. An unlisted fact needs logging: her hand made the door strike 'once not in practice', meaning she has killed by marma in human form before. It is consistent with her eleven contracts but must go into new-facts. 5. Also note the hyperbole 'a hundred honest men' against a garrison of about sixty (F218/F222); change it to 'every honest man in the fort'.",
+  "new_facts_assessment": "F367 (a prior human-form marma kill) is necessary: it makes her hand 'knowing before she did' credible, and it fits eleven contracts. F368 (the east wall pair face the hill) is useful, since it dismantles her first excuse, and it agrees with F037 and F306. F369 (he lies abed on her out-nights and rises on her human night) is a fair, retrievable clue for the ch15 reveal and agrees with F309 (kalari after first light once she is back). F370 matches F347. Missing from the list is the logged-gap consequence of this markless night under F301/F194. Either the chapter addresses it, or a later chapter must, so that ch22's 'already stood logged as a gap' bookkeeping stays honest.",
   "content_rule_violation": false,
   "failure_modes": [
-    "Contrived delays"
+    "Irrational behaviour to extend plot"
   ],
-  "average": 3.62,
-  "minimum": 0.0,
-  "passed": false
+  "average": 4.38,
+  "minimum": 4.0,
+  "passed": true
 }
