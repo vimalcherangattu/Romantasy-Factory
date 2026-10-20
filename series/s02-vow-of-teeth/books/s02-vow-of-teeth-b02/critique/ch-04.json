@@ -1,41 +1,40 @@
 {
   "scores": {
-    "reader_question": 4.0,
+    "reader_question": 5.0,
     "change": 4.0,
     "romance_movement": 4.0,
     "shown_chemistry": 4.0,
     "character_logic": 3.0,
-    "stakes_and_cost": 4.0,
+    "stakes_and_cost": 5.0,
     "prose": 4.0,
-    "continuity": 0.0
+    "continuity": 5.0
   },
   "reasons": {
-    "reader_question": "Dawn execution under a charter clause, with the escort already at the block, makes the next chapter necessary. The garrison-mutiny half is only implied.",
-    "change": "The witness is lost, Muthu is suspected but kept, and the writ is withheld. Power moves from Devan to Rema.",
-    "romance_movement": "A new reason: Devan stops himself saying 'I'll decide it' and asks what she wants. They choose a shared legal risk as equals.",
-    "shown_chemistry": "He tells her about Ittan before she asks, she jokes about Rema's guards, and the contract handshake lingers. Shown in action, not narrated.",
-    "character_logic": "The chamber debate ignores the grey-sealed packet already locked in the hall strongbox, the obvious evidence for their argument.",
-    "stakes_and_cost": "Withholding the writ breaks the charter Devan is proud of, and Neela shares the risk as witness. The cost is clearly priced.",
-    "prose": "Clean and concrete, with good lines ('a good face for being afraid in'). There are blips: 'wet, and dry-eyed, both at once' and some hand-beat repetition.",
-    "continuity": "'In four days he had lost' conflicts: Ittan has been held since sealing day. 'God, you would' conflicts with the bible's no-deities setting."
+    "reader_question": "The ending poses a sharp, nameable dilemma: let Ittan die, or make sixty loyal men mutineers against the queen's sash.",
+    "change": "Value shift lands. The witness falls silent, then is condemned, and Devan now suspects Muthu openly. The writ decision moves no plot yet.",
+    "romance_movement": "They make their first joint lawbreaking choice, with a new reason. Devan swaps 'I'll decide it' for 'Tell me what you want'.",
+    "shown_chemistry": "Dry banter ('Not Rema's guards'), a contract handshake that lingers, and Neela's silent watch at the end are responsive, not narrated.",
+    "character_logic": "Devan asks Muthu directly about Ittan's hint, then argues the wax must stay whole so Muthu won't know he's read. He has already shown his hand.",
+    "stakes_and_cost": "Withholding the writ breaks the charter he is proud of. The closing choice costs either a witness's life or the garrison's legality.",
+    "prose": "Clean, concrete and varied. It has breath echoes, one personified-rain cliché and a few told verdicts ('worst sound he had heard').",
+    "continuity": "Consistent with the strongbox packet, the third-slat hollow, the chipped sunbird writ, the grey mare order, Muthu's tell and the hearing timing."
   },
   "fixes": [
-    "'In four days he had lost something from the cheeks': continuity error. Ittan has been held since sealing day, through nine days of rain. Change it to 'Since the sealing he had lost'. Also, 'God, you would': the bible has no deities. Replace it with an oath native to Varanad, such as 'Salt and pepper, you would', or cut the exclamation.",
-    "The chamber argument ('Muthu is the guild's man'): this is a character-logic gap. The grey-sealed packet sits unopened in the hall strongbox (F433), and neither of them mentions it. Add two lines in which Neela asks why they don't break the wax, and Devan names the cost: Muthu learns he is read the day before the hearing, and the gate goes with him. The packet stays shut, and the debate becomes a choice.",
-    "'Sixty of us, and they walked past us': the reader question is under-delivered. Unni should ask, 'Do we stop them, sir?' Devan's silence then makes the mutiny cost explicit, matching the beat's question. Also replace 'They were wet, and dry-eyed, both at once', which contradicts itself, with a concrete image."
+    "At \"Ittan says you brought him something\" (character logic): Devan tips Muthu off, which undercuts his later argument that breaking the wax would tell Muthu he is read. Make the probe routine, such as asking who fed the prisoner today and whether anything went in besides the roll. Muthu's laugh-then-stillness comes in answer. Keep Devan's chamber reasoning intact.",
+    "At \"They're already in the court. All four\" (technique 13 missing): the reader holds more than Devan, since Neela smelled resin on Fourth Guard's salve and saw First Guard's wrist. Give Devan one line picturing First Guard at the block with the 'lamp-burn' seam he dismissed, and let Neela's hand go to her cuff. The reader feels the irony; Devan doesn't.",
+    "At \"the thin rain seemed to hold its breath\" (prose, echo): cut the personified rain. Replace it with a concrete sound, such as the third slat ticking in the draught. Thin the breath echoes ('Devan did not breathe', 'let out a breath', 'for a breath'). Change 'the worst sound he had heard in years' into an action, such as Devan not turning round. Fix 'Sixty of us': only the night men stood down."
   ],
-  "reader_question": "Can Devan stop Rema's dawn execution of Ittan when the queen's sash has already walked past his own garrison?",
+  "reader_question": "Can Devan stop Ittan's dawn execution without turning his garrison into mutineers against the queen's sash?",
   "techniques_landed": [
     4,
-    15,
-    13
+    15
   ],
-  "new_facts_assessment": "The brown jar matches F445 and is needed. The timeline fits F457 and the end of ch 3. The charter clause and stand-down are needed for the ending. In F470, 'carried out before dawn' slightly conflicts with F288/F433 (first light). The green sash detail is new and unlisted; log it.",
+  "new_facts_assessment": "The green-sash fact is consistent with ch 3's 'queen's sash' and needed for the stand-down. Several facts are unlisted and must be logged: the charter duty to lay all evidence before a justice at assize, no bench above the queen's, Kettamala paying Ittan's wife's physicians, Muthu's three-night vigil after Asha, and Devan knowing Muthu since twelve. All are consistent and useful.",
   "content_rule_violation": false,
   "failure_modes": [
     "Irrational behaviour to extend plot"
   ],
-  "average": 3.38,
-  "minimum": 0.0,
-  "passed": false
+  "average": 4.25,
+  "minimum": 3.0,
+  "passed": true
 }

@@ -1,0 +1,40 @@
+{
+  "scores": {
+    "reader_question": 5.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 3.0,
+    "stakes_and_cost": 5.0,
+    "prose": 4.0,
+    "continuity": 5.0
+  },
+  "reasons": {
+    "reader_question": "The ending poses a sharp, nameable dilemma: let Ittan die, or make sixty loyal men mutineers against the queen's sash.",
+    "change": "Value shift lands. The witness falls silent, then is condemned, and Devan now suspects Muthu openly. The writ decision moves no plot yet.",
+    "romance_movement": "They make their first joint lawbreaking choice, with a new reason. Devan swaps 'I'll decide it' for 'Tell me what you want'.",
+    "shown_chemistry": "Dry banter ('Not Rema's guards'), a contract handshake that lingers, and Neela's silent watch at the end are responsive, not narrated.",
+    "character_logic": "Devan asks Muthu directly about Ittan's hint, then argues the wax must stay whole so Muthu won't know he's read. He has already shown his hand.",
+    "stakes_and_cost": "Withholding the writ breaks the charter he is proud of. The closing choice costs either a witness's life or the garrison's legality.",
+    "prose": "Clean, concrete and varied. It has breath echoes, one personified-rain cliché and a few told verdicts ('worst sound he had heard').",
+    "continuity": "Consistent with the strongbox packet, the third-slat hollow, the chipped sunbird writ, the grey mare order, Muthu's tell and the hearing timing."
+  },
+  "fixes": [
+    "At \"Ittan says you brought him something\" (character logic): Devan tips Muthu off, which undercuts his later argument that breaking the wax would tell Muthu he is read. Make the probe routine, such as asking who fed the prisoner today and whether anything went in besides the roll. Muthu's laugh-then-stillness comes in answer. Keep Devan's chamber reasoning intact.",
+    "At \"They're already in the court. All four\" (technique 13 missing): the reader holds more than Devan, since Neela smelled resin on Fourth Guard's salve and saw First Guard's wrist. Give Devan one line picturing First Guard at the block with the 'lamp-burn' seam he dismissed, and let Neela's hand go to her cuff. The reader feels the irony; Devan doesn't.",
+    "At \"the thin rain seemed to hold its breath\" (prose, echo): cut the personified rain. Replace it with a concrete sound, such as the third slat ticking in the draught. Thin the breath echoes ('Devan did not breathe', 'let out a breath', 'for a breath'). Change 'the worst sound he had heard in years' into an action, such as Devan not turning round. Fix 'Sixty of us': only the night men stood down."
+  ],
+  "reader_question": "Can Devan stop Ittan's dawn execution without turning his garrison into mutineers against the queen's sash?",
+  "techniques_landed": [
+    4,
+    15
+  ],
+  "new_facts_assessment": "The green-sash fact is consistent with ch 3's 'queen's sash' and needed for the stand-down. Several facts are unlisted and must be logged: the charter duty to lay all evidence before a justice at assize, no bench above the queen's, Kettamala paying Ittan's wife's physicians, Muthu's three-night vigil after Asha, and Devan knowing Muthu since twelve. All are consistent and useful.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Irrational behaviour to extend plot"
+  ],
+  "average": 4.25,
+  "minimum": 3.0,
+  "passed": true
+}
