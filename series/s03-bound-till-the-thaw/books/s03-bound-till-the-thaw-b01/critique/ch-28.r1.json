@@ -1,0 +1,40 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 3.0,
+    "stakes_and_cost": 4.0,
+    "prose": 4.0,
+    "continuity": 0.0
+  },
+  "reasons": {
+    "reader_question": "The closing line hands the reader a sharp, specific question: how will Rohan answer Kiran's confession about Dilan's rope?",
+    "change": "Meera goes from chained captive to free, holding the seal, the button and Asha's testimony against Varun. The value shift lands.",
+    "romance_movement": "Her handing Rohan the pack is the new reason for change. The skin touch with no cold marks that the lie is spent.",
+    "shown_chemistry": "Shown through action: he reties the double hitch, takes the pack without a speech, and they trade the sattu callback.",
+    "character_logic": "Meera names the chulha corner before anyone has told her the seal moved. Rohan knows a hiding place he was never told.",
+    "stakes_and_cost": "Nimmi gives a fingers-off deadline. Kiran's confession and the ledger page both carry the cost of exposure to Meera.",
+    "prose": "Clean and concrete with good voice. 'Her whole face changed' and 'something near pleasure' tell rather than show.",
+    "continuity": "Rohan says 'The seal's in the woodpile' but was never told (F223). 'Eleven winters' conflicts with the chapter's own ten."
+  },
+  "fixes": [
+    "The line '\"The seal's in the woodpile,\" said Rohan' breaks continuity: Rohan never learned the hiding place (F223), and later the text says he never asked. Meera also names 'the chulha corner' before Nimmi reveals the move. Fix: Meera asks for Nimmi's woodpile. Cut 'It was. It isn't now.' Let Nimmi's doorway speech give the move as a surprise.",
+    "'Eleven winters of drops, the day and the hour' conflicts with 'ten winters' later in the chapter and with the bible (Meera began smuggling 10 winters ago). Change it to ten. Also check 'In the grove he had faced the wall': the hiding happened near the woodpile behind the shed, not in the grove. Rewrite as 'At the shed he had faced the wall.'",
+    "'hands tied in three nested loops, snug as a bird's nest' leaves technique 11 unlanded because no one registers the clue. Add one beat where Meera notices the knot matches the juniper bundle and the cairn carving, as in her count's note 'Same as cairn'. Then Asha's sharp look cuts her off, so the clue sits at the escape's peak."
+  ],
+  "reader_question": "What will Rohan do when Kiran tells him he was the smuggler on Dilan's rope?",
+  "techniques_landed": [
+    12,
+    16
+  ],
+  "new_facts_assessment": "The draft's file is empty, but F240 to F245 are already logged and are consistent. Unlisted additions: the runner drinks in salt-road inns; the salt road is unwardened for fifty winters and illegal in nine places; Pinku watched from the tree. All are minor and harmless. Log them.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Irrational behaviour to extend plot"
+  ],
+  "average": 3.38,
+  "minimum": 0.0,
+  "passed": false
+}
