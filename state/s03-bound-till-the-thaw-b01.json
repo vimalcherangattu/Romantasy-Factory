@@ -334,22 +334,22 @@
       "minimum": 3.0
     },
     "19": {
-      "status": "revised",
+      "status": "failed",
       "revisions": 1,
       "scores": {
         "reader_question": 4.0,
         "change": 4.0,
         "romance_movement": 4.0,
         "shown_chemistry": 4.0,
-        "character_logic": 4.0,
+        "character_logic": 3.0,
         "stakes_and_cost": 3.0,
         "prose": 4.0,
-        "continuity": 5.0
+        "continuity": 0.0
       },
-      "average": 4.0,
+      "average": 3.25,
       "flags": [],
       "words": 2933,
-      "minimum": 3.0,
+      "minimum": 0.0,
       "continuity_fixes": [
         "The countdown to the Snow Fair contradicts the events and the twenty-day frame. Chapter 6 gives seventeen days left at dawn of day 4, and chapter 29 has the Fair at the dawn of day twenty. Chapter 13 (day 9) says nine days are left. Chapter 19 (day 12) says four. Chapter 21 says three, and chapter 22 says two. Chapter 23 says the snow day forces them to push through to arrive on the Fair morning even if they leave the next dawn. Yet Varun delays them a further day, they walk a day and a night, and they still arrive while the investiture is under way. FIX: Make the Fair fall on day twenty throughout. Kiran sleeps two days, so ch21 opens on day 15. Restate the days left at each point. Ch21's one-day concession leaves one spare day, the snow takes it, and Varun's day forces the night push to reach the meadow."
       ]
@@ -1134,9 +1134,13 @@
     {
       "at": "2026-10-20T21:48:28",
       "event": "done: S6 revise ch 19"
+    },
+    {
+      "at": "2026-10-20T21:49:34",
+      "event": "done: S5 critique ch 19"
     }
   ],
-  "updated_at": "2026-10-20T21:48:28",
+  "updated_at": "2026-10-20T21:49:34",
   "midpoint_chapter": 16,
   "continuity_attempts": 1,
   "continuity_last_errors": 1
