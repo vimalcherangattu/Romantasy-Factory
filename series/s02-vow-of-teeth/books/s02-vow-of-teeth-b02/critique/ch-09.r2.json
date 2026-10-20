@@ -1,0 +1,41 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 4.0,
+    "stakes_and_cost": 4.0,
+    "prose": 4.0,
+    "continuity": 0.0
+  },
+  "reasons": {
+    "reader_question": "The sword clue closes on a sharp, specific gap: someone inside who has stood in the warden's chamber, and it isn't Muthu.",
+    "change": "Muthu goes from suspect to known informant kept as captain. Devan takes the post-key and stakes the fort on a test.",
+    "romance_movement": "His first request for her advice on command is a new reason for closeness. It is earned by his admission that he never asks.",
+    "shown_chemistry": "The mirrored bruise touch, the thumbnail rasp he has learned, the smudged gate and the 'being right' banter all show attraction through response.",
+    "character_logic": "Devan reads the packet in front of Muthu, refuses false comfort and uses Rema's records habit. These are smart, in-character moves.",
+    "stakes_and_cost": "Devan names the cost himself: the fort may fall, and he will learn Muthu's answer only after leaving it.",
+    "prose": "Clean, varied and concrete. The sentries-never-turn motif recurs three times, close to overuse, and the Muthu crying beat edges on melodrama.",
+    "continuity": "The slip rider is placed 'the day before the sealing', but new-facts calls it the ch23 rider, eight days earlier (F203, F210). 'Clerk's copy' contradicts F472."
+  },
+  "fixes": [
+    "Continuity: 'A rider brought the slip off post day, the day before the sealing.' This conflicts with the new fact calling it the ch23 rider, which came eight days before sealing (F203, F210). Change the line to 'eight days before the sealing, the same rider you saw me hand a letter to'. That keeps 'an order that's stood ever since' meaningful. Alternatively, drop the ch23 link from new-facts.",
+    "Worldbuilding rule: 'a bruise had come up the colour of a plum.' The wound-share carries a cut as a shallow welt on the partner (bible, F265). A full plum bruise overstates the rule. Make it 'a long red welt had risen along her ribs' so the mirror stays inside established limits. Keep the silent mutual touch, which is the chapter's best chemistry beat.",
+    "Continuity: 'At the block, in her own hand... Clerk's copy and all.' F472 says Rema wrote the objection herself because Ittan's clerk was held, so there is no clerk's copy. Replace with 'in her own hand, with no clerk to copy it for her.' That also sharpens Devan's point that she records even when nobody makes her."
+  ],
+  "reader_question": "If Muthu never wrote where Devan lays his sword, who inside Kettamala has stood in the warden's chamber and talks to the guild?",
+  "techniques_landed": [
+    12,
+    10,
+    16
+  ],
+  "new_facts_assessment": "Fact 1 is necessary and explains how the slip reached Ittan. Its tag 'the ch23 rider' conflicts with the text's 'the day before the sealing', since ch23 is eight days before sealing (F203). One of them must change. Fact 2 is consistent with F472 and is good motivation for trusting Rema's log. However, the chapter's 'Clerk's copy and all' contradicts F472, which says she wrote it herself because Ittan's clerk was held.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Worldbuilding collapse"
+  ],
+  "average": 3.5,
+  "minimum": 0.0,
+  "passed": false
+}
