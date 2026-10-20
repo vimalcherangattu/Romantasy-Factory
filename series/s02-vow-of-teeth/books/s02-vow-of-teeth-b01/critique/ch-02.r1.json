@@ -1,0 +1,38 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 4.0,
+    "stakes_and_cost": 3.0,
+    "prose": 4.0,
+    "continuity": 5.0
+  },
+  "reasons": {
+    "reader_question": "Clear question: what will he do with the word? The barred-shutter ending sharpens it into 'what is he building around her?'",
+    "change": "Knowledge (odiyan, leopard), power (he holds the word) and relationship (distrust gains a protective edge) all shift on the page.",
+    "romance_movement": "His distrust changes for a new reason: he sees her small, shaking and hungry. Silence becomes care she cannot see.",
+    "shown_chemistry": "Responsive acts carry it: he hushes the slat, leaves the room unmoved, orders rice, readies the bar. None of it is narrated as feeling.",
+    "character_logic": "Smart choices. He doesn't trail her, he weighs a caged witness as useless, and he wants the buyer to show himself.",
+    "stakes_and_cost": "The cost is mostly abstract (power 'merely not spent'). The lie to Janu is the only concrete price, and Muthu's objection is one line.",
+    "prose": "Strong and quotable in places. It is weakened by a 'Then' paragraph-opener tic, stacked 'like a man' similes and one on-the-nose belief statement.",
+    "continuity": "Consistent with the bible and facts: latch-only shutters, unused bar, resin smell at twenty, Janu's 'first time since Asha', the sword's placement."
+  },
+  "fixes": [
+    "Technique 15 is weak. At \"Muthu would want her dead, cheerfully, on the day\", Muthu's view is a one-line strawman. Give the vengeance side real weight: Devan recalls something specific Asha's death cost (Janu's ten paces from the stair, the notes stopping), so the restraint costs him something he can name. Then let the lie to Janu land as the first concrete price of silence.",
+    "On-the-nose belief. \"Power was safe in his keeping because he did not use it.\" states the bible's false belief almost verbatim. Cut it, or replace it with a concrete image such as his scarred knuckles from striking wood, or the empty pit at dawn. Let \"Not safe, then. Merely not spent.\" carry the turn alone.",
+    "Prose tics and staging. Seven paragraphs open with \"Then\", and the similes stack (\"like a man carved on a tomb\", \"like a man holding a coal\", \"lies there like a log\"); recast at least four openers and keep one 'man' simile. Fix the blurred staging in \"The door opened without a sound. She had not moved.\" to read \"He eased the door open. She had not moved.\""
+  ],
+  "reader_question": "Now that Devan holds the word that can cage his wife, what will he do with it, and what is the barred shutter for?",
+  "techniques_landed": [
+    13,
+    2
+  ],
+  "new_facts_assessment": "Asha's 'Eat something' notes are vivid, but 'unsigned' contradicts the bible ('signed every note with a drawn parrot'). Drop 'unsigned'; the page never says it. West-stair foot body location: consistent, keep. Sword moved and replaced: necessary staging, consistent with F038/F324, keep.",
+  "content_rule_violation": false,
+  "failure_modes": [],
+  "average": 4.0,
+  "minimum": 3.0,
+  "passed": true
+}
