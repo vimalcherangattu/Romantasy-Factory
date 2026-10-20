@@ -5,37 +5,36 @@
     "romance_movement": 4.0,
     "shown_chemistry": 4.0,
     "character_logic": 4.0,
-    "stakes_and_cost": 3.0,
-    "prose": 4.0,
-    "continuity": 5.0
+    "stakes_and_cost": 4.0,
+    "prose": 3.0,
+    "continuity": 0.0
   },
   "reasons": {
-    "reader_question": "Two sharp questions leave the chapter: what Devan will ask for, and, through Neela's stricken stillness at the broken beak, whether she was at Asha's death. The second is bigger and stays a fair gap.",
-    "change": "The value shift lands. He moves from blade to will in the opening, and the token match turns a six-year suspicion into proof that the same seal holder is still selling. The room is opened, which changes Devan.",
-    "romance_movement": "His first real disclosure is new and earned. Asha's room, her laugh and his unplanned move to sit knee to knee are all new reasons. But Neela gives nothing back, so the ladder rises on one side only.",
-    "shown_chemistry": "The strongest beats are actions: she leaves 'How?' alone, she laughs at the right line, he covers his mouth, and he crosses the floor without noticing. 'It was the second fact that made his chest ache' slips back into narration.",
-    "character_logic": "Devan hides the token without lying, and he reasons through Muthu's tell before believing him, which is a smart misjudgement rather than a stupid one. Neela's laugh straight after her face empties is abrupt but plausible.",
-    "stakes_and_cost": "The bargain's cost is stated in the abstract ('doing what the guild did', 'knowing what it was'). It is never tied to the concrete thing he just gained on the floor of Asha's room.",
-    "prose": "The prose is clean and concrete, with no banned phrases and nearly no AI tells. Many consecutive paragraphs open with 'He', 'turned it over' appears three times, and 'camphor' recurs four times. The Muthu reasoning paragraph is clotted.",
-    "continuity": "The chapter is consistent with the bible, ch11 and F217 (Muthu's mother alive, his quiet tell). The draft's 'seventh day' is better than F114's 'Thursday'. F277 (ch30, a night-time skull touch while he feigns sleep) conflicts with the bible and ch11, not with this chapter."
+    "reader_question": "The bargain question is specific. Neela's blanching at the mended beak adds a second, sharper question for the reader.",
+    "change": "Devan moves from tool to will and gains matching wax evidence. He resolves on the bargain while knowing it will cost the closeness he just found.",
+    "romance_movement": "First real disclosure, met responsively. His closing the distance across the floor without noticing is a new reason for movement.",
+    "shown_chemistry": "She leaves 'How?' alone, laughs at the right line, touches the slate; his hand over his mouth shows the effect without narration.",
+    "character_logic": "Hiding the tally ('not a lie, she had not asked') and reasoning from Muthu's tell are smart and in character.",
+    "stakes_and_cost": "Final paragraph names the cost: she will never sit unasked beside him again. The tally adds plot stakes.",
+    "prose": "Concrete and well paced. Weakened by 'My sister' said twice, 'weighed' four times, and 'Something in his chest shifted'.",
+    "continuity": "'I won't answer that' to Neela here conflicts with F400 (ch17 is the first time). Unni as a recruit nine years ago clashes with F355."
   },
   "fixes": [
-    "At 'Everyone's afraid of something.' / 'Yes.' and at the slate (\"*Unni, salt fish, lower village.*\"), the disclosure ladder is one-sided (technique 10 only half landed, and 'why these two' is unexploited). Have Neela touch the slate and say one small, costly true thing about her own habit of learning every servant's name (e.g. 'She didn't want anyone on her wall to be a number'), and have Devan notice it matches what he has watched her do with Raiu and Kannan. This rungs her up the ladder without revealing the guild.",
-    "At 'he knew exactly why, and he knew what she was. It was the second fact that made his chest ache', narrated feeling replaces action, and it leaves the closing decision's cost abstract (stakes_and_cost). Cut the summary. Show the cost in the final scene instead: as he sets the tally in the box, have him remember the exact place where her knee was, and know concretely that after he names the bargain she will never again sit on a floor beside him unasked.",
-    "At 'A plain seal, no mark, at the gate: Asha's last words', the reasoning paragraph is clotted: an awkward colon join, and 'The wax in Devan's head was brick red' reads oddly. Split it into three short sentences. He sets Asha's 'Tell nobody at the gate' against the grey seal. He recalls that Muthu lies quiet and this is his loudest laugh. He notes that grey is not council red. Keep the half-breath visible for the reader. Also vary the run of paragraphs opening 'He' in the opening and the chest scene, and drop one 'turned it over'."
+    "Continuity, at '\"I won't answer that.\"' (the beat-mandated line): F400 says ch17 is the first time Devan says this to Neela. Keep the line and log a correction to F400 in new-facts: ch12 is the first time, and ch17 is the first time in the dark rule. If ch5 already gave Neela Asha's name, change '\"Whose room?\"' to '\"Is this Asha's?\"' to match F313.",
+    "Unni's age, at 'The same boy, grown thin and tall, now held his gate': Unni is barely past twenty (F355), so he would have been about eleven in Asha's first month nine years ago. Recast him as 'the cook's boy who ran water to the recruits', or cut the line and keep only the salt-fish ghost. That avoids implying a child recruit.",
+    "Prose echoes. At 'My sister. Asha. Four years younger than me. My sister.', cut the second 'My sister' so it reads 'Four years younger. My second, after.' Reduce 'weighed/weigh' from four uses to two. Replace 'Something in his chest shifted and lay down again' with a concrete action, such as his thumb stopping on the beak."
   ],
-  "reader_question": "What will Devan demand in exchange for his silence, and does Neela's horror at the broken-beaked parrot mean she was on the west stair the night Asha died?",
+  "reader_question": "What price will Devan set on his silence, and what does Neela's horror at Asha's mended parrot mean?",
   "techniques_landed": [
     13,
+    10,
     11,
     25
   ],
-  "new_facts_assessment": "new-facts.json is empty, but the draft adds unlisted facts. (1) Asha drew parrots on the cistern-house walls as a girl until Janu scrubbed them. This is harmless and consistent. (2) Devan keeps a carved box under the bed, and the token and note go into it. This is necessary staging, but F267 has him carrying the token in his sleeve on sealing day, so log the box and expect him to move it. (3) The last note was found under the camphor block and withheld from Neela, which matches F115. (4) Sudhi carries the fort's post down as well as up, which matches F116. The continuity file needs two updates: F114 should read 'seventh day', not 'Thursday', and F277 conflicts with ch11 and this chapter, which put the touch in the kalari pit at dawn with Devan awake and standing. Flag F277 for the ch30 reviser, not this chapter. Technique 10 is only half landed, because the disclosure is one-sided.",
+  "new_facts_assessment": "The carved box is consistent with F267 and acceptable. The cistern-house drawings are harmless texture. The seventh day replacing Thursday is a good fix: it links to Muthu's seventh-day sparring and removes a real-world weekday name. F114 should be updated. F417 'Neela first hears it here' needs checking against ch5 (F063, F313, F066), where Neela may already have learned of Asha's slate and death. The 'number, once' disclosure is risky but in character and earned.",
   "content_rule_violation": false,
-  "failure_modes": [
-    "Narrated-only chemistry"
-  ],
-  "average": 4.0,
-  "minimum": 3.0,
-  "passed": true
+  "failure_modes": [],
+  "average": 3.38,
+  "minimum": 0.0,
+  "passed": false
 }

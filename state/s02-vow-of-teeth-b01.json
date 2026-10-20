@@ -372,7 +372,7 @@
       }
     },
     "12": {
-      "status": "revised",
+      "status": "failed",
       "revisions": 0,
       "scores": {
         "reader_question": 4.0,
@@ -380,14 +380,14 @@
         "romance_movement": 4.0,
         "shown_chemistry": 4.0,
         "character_logic": 4.0,
-        "stakes_and_cost": 3.0,
-        "prose": 4.0,
-        "continuity": 5.0
+        "stakes_and_cost": 4.0,
+        "prose": 3.0,
+        "continuity": 0.0
       },
-      "average": 4.0,
+      "average": 3.38,
       "flags": [],
       "words": 2854,
-      "minimum": 3.0,
+      "minimum": 0.0,
       "continuity_fixes": [
         "Muthu claims his mother 'writes me every week' and Devan believes him. In ch 24 Devan already knows she writes once a month, and he would have caught the false claim. FIX: In ch 12, change 'She writes me every week, I answer once a month' to 'She writes me once a month, I answer once a month'."
       ],
@@ -2257,9 +2257,13 @@
     {
       "at": "2026-10-20T08:20:17",
       "event": "done: S6 revise ch 12"
+    },
+    {
+      "at": "2026-10-20T08:21:24",
+      "event": "done: S5 critique ch 12"
     }
   ],
-  "updated_at": "2026-10-20T08:20:17",
+  "updated_at": "2026-10-20T08:21:24",
   "midpoint_chapter": 16,
   "continuity_attempts": 0,
   "continuity_last_errors": null,
