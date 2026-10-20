@@ -2652,6 +2652,41 @@
       "fact": "Neela counts nights to the rains, not the seal: the council seals the pass about three days ahead of the rains, so the seal is eight days off while her count is eleven.",
       "since": "s02-vow-of-teeth-b01 ch 23",
       "provisional": true
+    },
+    {
+      "id": "F385",
+      "category": "knowledge",
+      "fact": "A spring pass opens on two impressions: council wax on the token and the warden's gate impression beside it. Ittan's 36 pre-waxed blanks lacked the second; a widow holding the seal in trust, with the Keeper as adviser, could press it on all of them, and no gate roll counts a widow's impression. Replaces F273.",
+      "since": "s02-vow-of-teeth-b01 ch 29",
+      "provisional": true
+    },
+    {
+      "id": "F386",
+      "category": "plot",
+      "fact": "Before the search Ittan says no warden has opened a Keeper's cart in living memory, counting on Devan's eight years of never using power. At the middle watch the clerk came with a lantern and a pry-bar to the chest's ropes and was seized by Bhaskaran's men. Refines F272.",
+      "since": "s02-vow-of-teeth-b01 ch 29",
+      "provisional": true
+    },
+    {
+      "id": "F387",
+      "category": "knowledge",
+      "fact": "Chathu's slip is written in black, tacky resin-ink. Devan names no source, only that his wife brought it and it came off a courier's papers (F274). Retire F268.",
+      "since": "s02-vow-of-teeth-b01 ch 29",
+      "provisional": true
+    },
+    {
+      "id": "F388",
+      "category": "knowledge",
+      "fact": "Neela's name on the crown closing writ gives the crown a record it can match against unvouched rogue odiyans, which it is entitled to hunt.",
+      "since": "s02-vow-of-teeth-b01 ch 29",
+      "provisional": true
+    },
+    {
+      "id": "F389",
+      "category": "object",
+      "fact": "Marriage-writ clause as read aloud in ch 29 matches ch 8: '...and the said wife, being lawfully wed, shall hold the pass-seal of Kettamala in trust from the hour of the warden's death, until the council shall name another in his place.'",
+      "since": "s02-vow-of-teeth-b01 ch 29",
+      "provisional": true
     }
   ],
   "knowledge": [

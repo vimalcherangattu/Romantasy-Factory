@@ -605,7 +605,7 @@
       ]
     },
     "29": {
-      "status": "continuity-fix",
+      "status": "revised",
       "revisions": 1,
       "scores": {
         "reader_question": 4.0,
@@ -619,7 +619,7 @@
       },
       "average": 4.0,
       "flags": [],
-      "words": 2917,
+      "words": 2951,
       "minimum": 3.0,
       "continuity_fixes": [
         "Devan reads the marriage-writ clause aloud as 'In the event of the warden's death in office, the pass-seal passes to his wife in trust...'. The same document's wording in ch 8 is '...and the said wife, being lawfully wed, shall hold the pass-seal of Kettamala in trust from the hour of the warden's death, until the council shall name another in his place.' FIX: In ch 29, replace the quoted clause with the ch 8 wording."
@@ -1519,9 +1519,13 @@
     {
       "at": "2026-10-20T00:47:04",
       "event": "done: S5 critique ch 23"
+    },
+    {
+      "at": "2026-10-20T00:47:57",
+      "event": "done: S6 revise ch 29"
     }
   ],
-  "updated_at": "2026-10-20T00:47:04",
+  "updated_at": "2026-10-20T00:47:57",
   "midpoint_chapter": 16,
   "continuity_attempts": 2,
   "continuity_last_errors": 13

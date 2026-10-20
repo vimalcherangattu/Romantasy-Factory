@@ -2,32 +2,27 @@
   "facts": [
     {
       "category": "knowledge",
-      "fact": "Border charter: if the Keeper's seal is found false, the warden may close the pass with his own seal alone, but the writ needs a witness of the warden's house marked beside the seal. Devan cites the single-seal line to Ittan in the courtyard before the search. Gopan names the witness requirement at the gate-tower.",
+      "fact": "A spring pass opens on two impressions: council wax on the token and the warden's gate impression beside it. Ittan's 36 pre-waxed blanks lacked the second; a widow holding the seal in trust, with the Keeper as adviser, could press it on all of them, and no gate roll counts a widow's impression. Replaces F273.",
       "since": "ch 29"
     },
     {
       "category": "plot",
-      "fact": "Neela writes her name, with 'of Kettamala', as the household witness on the closing writ. The writ goes to Kodiyur, so her name is on a crown record.",
-      "since": "ch 29"
-    },
-    {
-      "category": "plot",
-      "fact": "Devan stood the five carts under the padippura roof overnight with Bhaskaran's men round them as a courtesy; Ittan's clerk came down at the middle watch with a lantern and was turned back, so the chest was never moved.",
+      "fact": "Before the search Ittan says no warden has opened a Keeper's cart in living memory, counting on Devan's eight years of never using power. At the middle watch the clerk came with a lantern and a pry-bar to the chest's ropes and was seized by Bhaskaran's men. Refines F272.",
       "since": "ch 29"
     },
     {
       "category": "knowledge",
-      "fact": "Ittan carried the 36 blank waxed tokens to wax passes under the widow's seal, where no clerk counts a seal box.",
+      "fact": "Chathu's slip is written in black, tacky resin-ink. Devan names no source, only that his wife brought it and it came off a courier's papers (F274). Retire F268.",
       "since": "ch 29"
     },
     {
       "category": "knowledge",
-      "fact": "Devan reads Chathu's slip aloud, says only that his wife brought it before the new moon and that it came off a courier's papers, and names no source. He knowingly lets Muthu carry 'my wife brought me this'.",
+      "fact": "Neela's name on the crown closing writ gives the crown a record it can match against unvouched rogue odiyans, which it is entitled to hunt.",
       "since": "ch 29"
     },
     {
-      "category": "injury",
-      "fact": "Neela's bound hand gripping the stair rail pulls at Devan's right wrist, within the wound-share limits of F265.",
+      "category": "object",
+      "fact": "Marriage-writ clause as read aloud in ch 29 matches ch 8: '...and the said wife, being lawfully wed, shall hold the pass-seal of Kettamala in trust from the hour of the warden's death, until the council shall name another in his place.'",
       "since": "ch 29"
     }
   ]
