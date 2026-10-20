@@ -1,0 +1,6 @@
+body { margin: 0 5%; line-height: 1.45; }
+p { text-indent: 1.2em; margin: 0; }
+h1 + p, .scene-break + p { text-indent: 0; }
+.scene-break { text-align: center; margin: 1em 0; }
+.scene-break p { text-indent: 0; text-align: center; }
+h1 { text-align: center; margin: 2em 0 1em; }

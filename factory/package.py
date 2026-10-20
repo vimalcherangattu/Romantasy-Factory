@@ -53,7 +53,7 @@ def manuscript(cfg: Config, book: dict, meta: dict, teaser: str) -> str:
     for n in range(1, book["chapter_count"] + 1):
         text = read_text(bdir / "chapters" / f"ch-{n:02d}.md").strip()
         text = re.sub(r"^\s*#\s*Chapter", "# Chapter", text, count=1)
-        parts.append(text.replace("\n* * *\n", "\n\n<center>\\* \\* \\*</center>\n\n"))
+        parts.append(text.replace("\n* * *\n", "\n\n::: {.scene-break}\n\\* \\* \\*\n:::\n\n"))
     parts.append(also_by(cfg, book, meta.get("series_name", "")))
     signup = cfg.get("reader.signup_url", "")
     if signup:
@@ -73,7 +73,7 @@ def _pandoc(src: Path, out: Path, meta_file: Path) -> str | None:
         return "pandoc not installed"
     args = ["pandoc", str(src), "-o", str(out), "--metadata-file", str(meta_file), "--toc", "--toc-depth=1"]
     if out.suffix == ".epub":
-        args += ["--split-level=1", "--epub-title-page=false"]
+        args += ["--split-level=1", "--epub-title-page=false", "--css", str(TEMPLATES / "epub.css")]
     proc = subprocess.run(args, capture_output=True, text=True)
     if proc.returncode != 0:
         return f"pandoc failed for {out.name}: {proc.stderr.strip()[:300]}"

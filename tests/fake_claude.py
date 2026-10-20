@@ -68,7 +68,10 @@ def input_block(user: str, label: str) -> str:
 
 
 def chapter(n: int, target: int, seed: int) -> str:
-    return f"# Chapter {n}: The {WORDS[n % len(WORDS)].title()} Hour\n\n" + prose(target - 6, seed)
+    body = prose(target - 9, seed).split("\n\n")
+    mid = len(body) // 2
+    return (f"# Chapter {n}: The {WORDS[n % len(WORDS)].title()} Hour\n\n" + "\n\n".join(body[:mid])
+            + "\n\n* * *\n\n" + "\n\n".join(body[mid:]))
 
 
 def respond(system: str, user: str) -> str:

@@ -18,6 +18,8 @@ def test_epub_contains_front_and_back_matter(cfg, approved_series):
     assert "Copyright ©" in md and "Test Pen" in md
     assert "Also by Test Pen" in md and "Coming next" in md
     assert b["package"]["docx_headings"] in (True, None)
+    assert b["package"]["epubcheck"] in (True, None), b["package"]  # None only where epubcheck isn't installed
+    assert "scene-break" in md
 
 
 def test_upload_checklist_lists_fields(cfg, approved_series):

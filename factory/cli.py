@@ -264,6 +264,25 @@ def cover(book_id: str, art: Path = typer.Option(..., exists=True, help="Cover a
     typer.echo(f"Cover: {out.relative_to(cfg.paths.root)} (check the title is readable at thumbnail size)")
 
 
+@app.command()
+def repackage(book_id: str) -> None:
+    """Rebuild EPUB, DOCX, paperback and checklists from the existing store material (no agent calls)."""
+    cfg = _cfg()
+    b = state.load_book(cfg, book_id)
+    pkg = cfg.paths.book_dir(b["series_id"], book_id) / "package"
+    files = {n: (pkg / n).read_text() for n in ("metadata.json", "blurb.md", "cover-prompt.md", "teaser.md",
+                                                 "launch-email.md") if (pkg / n).exists()}
+    result = package.build(cfg, b, files)
+    b["package"] = result
+    b["flags"] = [f for f in b["flags"] if not f.startswith("package:")] + [f"package: {p}" for p in result["problems"]]
+    state.save_book(cfg, b)
+    if (cfg.paths.review / book_id).exists():
+        from . import review
+        review.build_sheet(cfg, b)
+    gitops.commit(cfg, f"{book_id}: repackaged")
+    typer.echo(json.dumps({k: result.get(k) for k in ("problems", "epubcheck", "docx_headings")}, indent=2))
+
+
 @app.command("paperback")
 def paperback_cmd(book_id: str) -> None:
     """Rebuild the paperback interior PDF and wraparound cover for a book."""
