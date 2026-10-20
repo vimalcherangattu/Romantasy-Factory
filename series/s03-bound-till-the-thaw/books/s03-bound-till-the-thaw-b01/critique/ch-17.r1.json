@@ -1,0 +1,39 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 4.0,
+    "stakes_and_cost": 4.0,
+    "prose": 3.0,
+    "continuity": 5.0
+  },
+  "reasons": {
+    "reader_question": "The ending makes the reader ask what Ranu does to the warden who signed its blockade, and whether Kiran survives. The question is specific.",
+    "change": "Rohan gives up leading and gives up hiding behind the law. Meera learns that only the queen can pardon. He publicly owns the dead.",
+    "romance_movement": "The new conflict is protection against her command. He defers to her, and she holds his anger. The pardon truth strains them and binds them at once.",
+    "shown_chemistry": "Chemistry shows in action: she packs snow into his split knuckles, he holds out open palms, and he walks in her footprints. Attraction is never narrated.",
+    "character_logic": "Each person acts smartly. A veteran warden drifting toward the shortcut is a plausible habit, since she corrects it at once. Meera's known-answer question fits her.",
+    "stakes_and_cost": "The promise now costs obedience. The pardon truth closes her easy exits. 'Yes' to Nimmi risks Rohan's safety in a hostile village.",
+    "prose": "The prose is strong and concrete, with three flaws: a repeated 'ten days downhill' sentence, a POV slip naming Nimmi unintroduced, and consecutive paragraphs opening with 'He'.",
+    "continuity": "Matches the bible on the chimney, sticks, goggles, stone fold, fallback sheet, Ila in Neshar, seven wardens, Badami's bell and the law."
+  },
+  "fixes": [
+    "At 'Nimmi's voice was flat as a plank', there is a POV slip: Rohan has never met the healer and cannot know her name. Make Meera's line 'Nimmi—Kiran, is he—' so the name reaches Rohan on the page. Or keep him calling her 'the woman' until she is named aloud.",
+    "At 'Behind. Uphill. For ten days he had taken the downhill place', this repeats the earlier sentence almost word for word. Cut the repeat and move straight to his new insight ('A man below her could only fall with her'). Also vary the paragraph opening 'He stood in the cold', which follows 'He could have said'. Start it from the coughing or the shovel instead.",
+    "At 'Jassi, forty winters a goatherd, was dead', the wording implies he herded goats from birth. Change it to 'Jassi, forty winters old'. At 'I have it, all of it, it's here', allow for the redbark Rohan took during his fever. Use 'I have it, twelve packets, near enough' or 'nearly all', so the count stays exact, as Meera would keep it."
+  ],
+  "reader_question": "What will Ranu do to the warden captain who just admitted he signs the blockade that filled thirty-one graves, and is Kiran still alive?",
+  "techniques_landed": [
+    14,
+    15,
+    19
+  ],
+  "new_facts_assessment": "The draft lists no new facts but adds several. Varun asked after Ila. Varun added the shrine to the sheet. Auntie kicked. Rohan walked the trail at twelve. Nimmi buried most of the dead herself. All are consistent and useful, but they should be listed in new-facts.json. 'Forty winters a goatherd' makes 40-year-old Jassi a goatherd from birth. 'All of it' sits uneasily with the half-pinches of redbark Rohan took in ch11 to 12.",
+  "content_rule_violation": false,
+  "failure_modes": [],
+  "average": 4.0,
+  "minimum": 3.0,
+  "passed": true
+}
