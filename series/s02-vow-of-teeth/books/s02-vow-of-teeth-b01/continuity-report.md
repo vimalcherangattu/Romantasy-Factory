@@ -1,55 +1,49 @@
-# Continuity report: Vow of Teeth (Book 1, chapters 1–32)
+# Continuity report: Vow of Teeth (book 1, chapters 1–32)
 
 ## What was checked
 
-- **Names and roles:** the full cast and servants, Valli cover, Sudhi/Biscuit/Appu, Pachan, Eravi.
-- **Ages:** Neela 27, Devan 32, Asha four years younger, Raiu 19, Kannan 9.
+- **Names and titles:** the household cast, guild cast, covers (Valli, the Chirayil ward) and who calls whom what.
 - **Timeline:**
-  - Night counts from 40 down to the sealing.
-  - The new-moon countdown from ch20 to ch25.
-  - Seventh-day sparring requests and post days.
+  - Neela's nights-left count from 40 down to the sealing.
+  - The new-moon countdown.
+  - Ittan's late arrival.
+  - Ages: Neela 27, Devan 32, Ammu 25, Kirri 31, Asha 22 at death.
+  - The eight-year and six-year anchors.
 - **Magic rules:**
-  - Turning only after sunset; no early return.
-  - Who became a witness (Janu in ch13 and Muthu in ch28 are not witnesses).
-  - Devan did not see Vellan's turn.
-  - Self-naming during the dusk minute; the witness entry burns while the intake slip survives.
-  - The wound-share: the ribs welt on Neela's left side, the throat and wrist lines on Devan.
-  - The ache accrues night by night as the bible allows.
-- **Injuries:** the left forearm graze, the left-rib poison cut, Neela's torn resin scars, split nails.
-- **Who knows what:**
-  - Devan's secret witnessing.
-  - Neela's knowledge of Ittan from ch22, Devan's from ch23.
-  - Muthu's tell and his letters.
-  - The Asha/west-stair irony, which stays unconnected.
+  - Dusk and dawn turning.
+  - No speech in shape.
+  - The witness rule, including the non-witnesses Janu and the Vellan-on-stair case.
+  - Forced resin, self-naming, the ledger burn and wound-share.
+- **Injuries:** Devan's left-forearm arrow graze, his left-ribs poison cut and the ford seam. Neela's nails, her torn throat and wrist scars, and the matching welts.
 - **Objects:**
-  - The sword (hilt toward Neela), her knife given away in ch17 and returned in ch24.
-  - The pebbles, the tooth, the green-wax seal, the tallies and wax marks.
-  - The oilcloth bundle in the third-slat hollow.
-- **Relationship beats:** the first kiss in ch19, the first intimacy in ch22, the declaration in ch30, the vows in ch31. All participants' adult ages are on the page before intimate scenes.
-- **Devan's fixed trait** of never lying to Neela.
+  - The bar, latch and shutters.
+  - The sword, which always lies hilt toward her.
+  - The guild knife, given away in ch 17 and returned in ch 24.
+  - The pebbles, the tooth, the seals and wax, the tallies and the slip.
+- **Who knows what:** Devan's secret witnessing, Muthu's letters, the self-naming loophole, Ittan's name, and the queen's seal.
+- **Fixed traits:**
+  - Devan never lies to Neela and never strikes a living person until ch 27.
+  - Neela never says the word until ch 27.
 
-## Errors found (12)
+## Errors found
 
-**Major (3)**
-- E01: Devan explicitly lies to Neela in ch5 ("see Bhaskaran about the gate").
-- E02: Devan gives Neela "Oil" in ch8, which the narration marks as untrue.
-- E03: Ch32 says Devan never distrusted the palace gift, which contradicts ch6.
+**Major: Devan lies to Neela (6).** These break his fixed bible trait.
 
-**Minor (9)**
-- E04: Vellan's "Not on your side" for the sword (ch24).
-- E05: Ittan's letter is misquoted in ch23.
-- E06: Nails described as split too early (ch23).
-- E07: Kannan's mother Bindu misplaced in a pass village (ch9).
-- E08: Unni is too young to be on Asha's recruit slate (ch7).
-- E09: Asha "came to the fort" at nineteen despite growing up there (ch5, ch12).
-- E10: Asha and the warden's seal before Devan was warden (ch29).
-- E11: Devan's account of the latch and slat on the wedding night (ch17).
-- E12: "Morning" wedding set at noon (ch30).
+| ID | Chapter | What he says |
+|---|---|---|
+| E01 | 5 | The Bhaskaran excuse, which the narration flags as untrue |
+| E02 | 8 | "Oil." |
+| E03 | 14 | "I'll be asleep." |
+| E04 | 19 | "I didn't know it did that." |
+| E05 | 25 | "I'm fine." |
+| E06 | 29 | "It's the ribs." |
 
-Each error has exact find/replace patches in errors.json.
+Each one is patched with a true line or a partial truth.
 
-## Noted but not flagged
+**Minor (3):**
 
-- Muthu's grey letters on ch12 and ch17 post days sit loosely against "once a month". This is readable as extra reports.
-- The marriage writ's quick return is plausible for a relay courier.
-- The ch7 written question under the stone and Ammu's knuckle nick are dropped plants rather than contradictions.
+- **E07, ch 10:** the idle shutter bar is put on its brackets. It belongs on its hooks.
+- **E08, ch 9:** a name collision. Kannan's mother Bindu appears as a new pass-village acquaintance.
+- **E09, ch 18:** Ammu's Valli cover is given a bangle tray instead of pepper.
+
+Everything else checked came out consistent, including the dated counts, the wound-share limits and the order of Devan's protections.

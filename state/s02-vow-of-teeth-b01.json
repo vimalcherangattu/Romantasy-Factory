@@ -1647,10 +1647,18 @@
     {
       "at": "2026-10-20T07:10:03",
       "event": "blocked at S7 continuity: 3 major continuity errors remain after 1 fix round(s): ch 5: Devan never lies to Neela (bible fixed trait). In ch5 he tells her 'I have to see Bhaskaran about the gate', and the narration then says 'It was not true.'; ch 8: Devan gives Neela 'Oil' as his reason for sending Raiu away, and the narration flatly says 'It did not save oil.' That makes the answer a lie to Neela, which breaks his fixed trait. It should read as a true but evasive answer, like 'Rain'.; ch 32: Ch32 says Devan locked the palace gift away because he distrusted the council and 'never once thought to distrust the gift'. In ch6 he says aloud 'I don't trust gifts from the palace', bans the set from their chamber, and keeps the queen's seal in his sleeve."
+    },
+    {
+      "at": "2026-10-20T07:21:19",
+      "event": "continuity round 2: 9 errors, 14 patches applied, 0 to revise"
+    },
+    {
+      "at": "2026-10-20T07:21:19",
+      "event": "done: S7 continuity"
     }
   ],
-  "updated_at": "2026-10-20T07:10:03",
+  "updated_at": "2026-10-20T07:21:19",
   "midpoint_chapter": 16,
-  "continuity_attempts": 1,
-  "continuity_last_errors": 9
+  "continuity_attempts": 2,
+  "continuity_last_errors": 6
 }
