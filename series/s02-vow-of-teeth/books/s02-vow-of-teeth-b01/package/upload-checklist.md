@@ -9,7 +9,7 @@ Re-check KDP's current limits in KDP Help before the first upload of a series (P
 |---|---|
 | Language | English |
 | Book title | Vow of Teeth |
-| Subtitle | An Arranged Marriage Romantasy of Assassins and Shapeshifters |
+| Subtitle | An Arranged Marriage Assassin Romantasy |
 | Series | The Odiyan Contracts (add to existing series after book 1) |
 | Series number | 1 |
 | Edition number | (leave blank) |
@@ -20,13 +20,13 @@ Re-check KDP's current limits in KDP Help before the first upload of a series (P
 | Primary audience: sexually explicit images or title | No |
 | Reading age | (leave blank: adult) |
 | Categories | Kindle Store > Kindle eBooks > Science Fiction & Fantasy > Fantasy > Romantic; Kindle Store > Kindle eBooks > Romance > Fantasy; Kindle Store > Kindle eBooks > Romance > Paranormal > Shifters |
-| Keyword 1 | arranged marriage enemies to lovers romantasy |
-| Keyword 2 | assassin heroine shapeshifter fantasy romance |
-| Keyword 3 | slow burn dark romantasy secret mission |
-| Keyword 4 | morally grey husband fantasy romance |
-| Keyword 5 | leopard shifter assassin guild romance |
-| Keyword 6 | forced proximity monsoon fort fantasy romance |
-| Keyword 7 | south asian inspired romantasy folklore |
+| Keyword 1 | arranged marriage assassin romantasy |
+| Keyword 2 | enemies to lovers fantasy romance |
+| Keyword 3 | shapeshifter assassin romance leopard |
+| Keyword 4 | slow burn dark romantasy series |
+| Keyword 5 | forced proximity monsoon fantasy romance |
+| Keyword 6 | open door spicy fantasy romance |
+| Keyword 7 | South Asian folklore romantasy |
 | Release option | I'm ready to release my book now |
 
 Save and continue (Claude asks before saving).

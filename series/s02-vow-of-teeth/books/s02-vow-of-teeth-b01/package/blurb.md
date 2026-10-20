@@ -1,11 +1,6 @@
-<p><b>She was sent to kill her husband. He watched her change on their wedding night, and he has not said a word.</b></p>
-
-<p>Neela is Seventeen of the Resin House, a guild assassin who becomes a leopard by night. One more kill earns her <i>release</i>: her page burned, her birth name returned. The target is Devan, warden of the hill fort Kettamala, and she has forty days before the monsoon closes the pass.</p>
-
-<p>Devan never lies to her. When he can't tell the truth, he says so. He is also the one man alive who has seen her turn, and one word from him, spoken while she wears her night-shape, would cage her as an animal for life. He distrusts the bride the council chose. He has reason: his sister died under contract, and someone on the queen's council is selling the passes to raiders.</p>
-
-<p>The guild wants him dead before the rains. Master Chathu keeps the ledger that holds her life, and he does not forgive a failed contract. Every night Neela spends under Devan's roof, she must choose between the resin that makes her useful and a night spent human beside the man she is paid to kill.</p>
-
-<p><b>Arranged marriage. Enemies to lovers. A slow burn with a lethal secret,</b> dark edges and open-door heat.</p>
-
-<p><i>Will Neela kill the husband she was sold to, or hand him the key to her cage?</i></p>
+<p><b>She was paid to kill her husband. He watched her change on their wedding night.</b></p>
+<p>Neela is an odiyan, a guild assassin who becomes a leopard after dark. Sold as a bride to Devan, warden of the hill fort Kettamala, she has forty days before the monsoon seals the Monkey Pass to finish her twelfth contract. Twelve kills buy release: her guild page burned and her birth name returned. She has never known that name.</p>
+<p>Devan is quiet, exact and does not lie. He is also the one man alive who saw her turn. In this world, anyone who watches an odiyan change can cage her for life with a single spoken word. He could say it any night. Instead he bars the shutters, kennels the hounds and asks her for nothing. She can't tell whether that is mercy or a hunter's patience.</p>
+<p>The guild wants him dead by the new moon, and its enforcer is not a patient man. Someone on the queen's council is selling the passes to raiders. Devan's sister died on his own stairs six years ago. And every night Neela spends beside him puts her cage one careless word closer to his mouth.</p>
+<p><i>Will Neela kill the husband she was sold to, or trust the one man who holds her leash to cut it?</i></p>
+<p><b>Arranged marriage. Enemies to lovers. Slow burn.</b> Open-door heat and dark edges. Book 1 of The Odiyan Contracts, with a happy-for-now ending and a series question that pulls into book 2.</p>

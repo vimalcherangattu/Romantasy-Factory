@@ -9,7 +9,8 @@
     "S3",
     "S7",
     "book_check",
-    "S9"
+    "S9",
+    "S10"
   ],
   "chapters": {
     "01": {
@@ -2382,9 +2383,13 @@
     {
       "at": "2026-10-20T09:08:01",
       "event": "done: S9 summary"
+    },
+    {
+      "at": "2026-10-20T09:09:08",
+      "event": "done: S10 package"
     }
   ],
-  "updated_at": "2026-10-20T09:08:01",
+  "updated_at": "2026-10-20T09:09:08",
   "midpoint_chapter": 16,
   "continuity_attempts": 1,
   "continuity_last_errors": 1,
@@ -2395,7 +2400,7 @@
     "epubcheck": false,
     "docx_headings": true,
     "paperback": {
-      "pages": 307,
+      "pages": 311,
       "gutter_in": 0.625,
       "interior": "interior.pdf"
     },

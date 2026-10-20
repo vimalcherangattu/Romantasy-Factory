@@ -1,20 +1,18 @@
 Subject: Vow of Teeth is out today
 
-Hello, reader,
+Hello, lovely readers,
 
-It's here. *Vow of Teeth*, the first book of The Odiyan Contracts, is live today.
+It's here. *Vow of Teeth*, book one of The Odiyan Contracts, is live today.
 
-Here is the idea in a breath. Neela is a guild assassin who turns into a leopard at night. She is sold as a bride to Devan, the border warden she's paid to kill. She has forty days before the monsoon closes the pass. Then, on their wedding night, he watches her change. And now one word from his mouth can cage her for life.
+Here is the hook. Neela is an assassin who becomes a leopard by night. She is sold as a bride to Devan, the border warden she has been paid to kill. On their wedding night he sees her change. In this world, one word from the man who watched can cage her for life.
 
-He never lies to her. She can't decide whether that makes him safer or far more dangerous.
+He is quiet, he never lies, and he has not said it. Yet.
 
-You'll find arranged marriage, enemies to lovers, a slow burn with a ticking clock, and open-door heat that changes things between them each time. It has dark edges: a guild that owns its people, and real loss along the way.
+This is an arranged marriage, enemies to lovers, slow burn story with open-door heat and some dark edges. It has a happy-for-now ending, and the story pulls straight on into book two. There's a monsoon closing the pass, a guild that owns its people, and a councillor selling the border. Also, Neela learns the name of every servant in the fort, which is not what a quiet assassin should do.
 
-I wrote this world with a lot of love for the Malabar hills, their pepper vines, laterite forts and monsoon-shut passes. I hope you'll want to stay a while.
+Get it here: {{AMAZON_LINK}}
 
-You can get it here: {{AMAZON_LINK}}
+It's free on Kindle Unlimited. If you enjoy it, a short review helps other readers find Neela and Devan more than you'd think.
 
-It's free in Kindle Unlimited. If you read it, a short review helps more than you'd think. Tell me what you made of Devan.
-
-Warmly,
+Thank you for reading along,
 Anya
