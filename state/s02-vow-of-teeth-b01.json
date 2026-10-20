@@ -200,8 +200,8 @@
       "minimum": 3.0
     },
     "10": {
-      "status": "failed",
-      "revisions": 1,
+      "status": "revised",
+      "revisions": 2,
       "scores": {
         "reader_question": 4.0,
         "change": 4.0,
@@ -214,7 +214,7 @@
       },
       "average": 3.38,
       "flags": [],
-      "words": 2393,
+      "words": 2514,
       "minimum": 0.0,
       "continuity_fixes": [
         "Devan's hand lies 'open on the blanket, palm up', yet Neela counts seven scars across the knuckles, which are on the back of the hand and can't be seen palm up. FIX: In ch 10, change 'palm up' to 'palm down, fingers loose'. Leave the later 'his hand still lay open on the blanket'."
@@ -1455,9 +1455,13 @@
     {
       "at": "2026-10-20T00:27:38",
       "event": "done: S5 critique ch 10"
+    },
+    {
+      "at": "2026-10-20T00:28:18",
+      "event": "done: S6 revise ch 10"
     }
   ],
-  "updated_at": "2026-10-20T00:27:38",
+  "updated_at": "2026-10-20T00:28:18",
   "midpoint_chapter": 16,
   "continuity_attempts": 2,
   "continuity_last_errors": 13
