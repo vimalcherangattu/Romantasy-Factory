@@ -1,0 +1,41 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 3.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 3.0,
+    "stakes_and_cost": 3.0,
+    "prose": 3.0,
+    "continuity": 0.0
+  },
+  "reasons": {
+    "reader_question": "The barred, locked well house is a precise problem. But the final line forgets Devan has hands, which blunts the question.",
+    "change": "She leaves with fresh resin and a confirmed location and lock. Ammu's last resin is gone and the pouch is empty.",
+    "romance_movement": "The pre-folded cloth and the shared welt land the beat. The rest replays silent nearness already established in book 1.",
+    "shown_chemistry": "The ready cloth, 'from four feet', the hand beside hers and his open-handed stand before Pachan are all responsive action.",
+    "character_logic": "A smart Neela would think of Devan's hands at once. The pouch 'discovery' is staged, since she emptied it herself the night before.",
+    "stakes_and_cost": "The last smear is spent, Pachan could have shouted and a hunter nearly heard her. The next decision has no named cost yet.",
+    "prose": "'Known since she was nine' appears three times, 'said nothing' chains, 'hundred witnesses' is confusing, and 'hymnal/prayer-book' breaks the deity-free world.",
+    "continuity": "Pachan 'never paid' the sweet, against F232/F493 (he gave it). He also greets her as if unseen since childhood, though he attended her binding."
+  },
+  "fixes": [
+    "'I owe you a sweet. I never paid it.' Continuity break: F232 says Pachan gave her the sweet, and he was at her binding three weeks ago (his key ring, F341). Have him say he gave her the sweet, then held a net the day Chathu bound her. Change 'You grew... never thought I'd see you outside' to his shame at that day. 'I owe you a sweet' becomes a debt of conscience, not an unpaid gift.",
+    "'The book was behind a door that wanted both.' Irrational behaviour to extend plot: she forgets Devan has hands at night. Add two or three lines giving a concrete reason he can't be her hands inside: eight hunters under the wall, a man's scent and boots on the flagged path, hounds at the kennels. Let her name it, so the question becomes who opens the door and at what cost.",
+    "'which she had known since she was nine' and 'no larger than a hymnal'. Repetition and worldbuilding slip: the nine-years phrase appears three times, and hymnal/prayer-book imply religion in a deity-free setting. Keep one 'since she was nine'. Swap the similes for a tally book or an accounts ledger. Fix 'a hundred witnesses' to one witness, 'Take the pebble' to 'I'll take the pebble', and the hook's hand-width versus thumb distance."
+  ],
+  "reader_question": "How do they get through a barred, locked door that needs hands at night, when she can reach it only as the other one?",
+  "techniques_landed": [
+    6,
+    11,
+    14
+  ],
+  "new_facts_assessment": "Well house, lock and hunter layout are necessary and consistent with F235/F443. Spending the last smear to scout on four paws departs from the ch6 plan (F484: over the wall as a woman), but it is logged and works. Keeping the pebble is unneeded after self-naming but fits F276's habit. The right-palm welt fits F009. Pachan's description is fine, but the fact says he gave the sweet while the text says he never paid it.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Irrational behaviour to extend plot"
+  ],
+  "average": 3.0,
+  "minimum": 0.0,
+  "passed": false
+}
