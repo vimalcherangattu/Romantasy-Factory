@@ -1,49 +1,38 @@
-# Continuity report: Vow of Teeth (book 1, chapters 1–32)
+# Continuity report: Vow of Teeth (Book 1, chapters 1–32)
 
-## What was checked
+## What I checked
 
-- **Names and titles:** the household cast, guild cast, covers (Valli, the Chirayil ward) and who calls whom what.
-- **Timeline:**
-  - Neela's nights-left count from 40 down to the sealing.
-  - The new-moon countdown.
-  - Ittan's late arrival.
-  - Ages: Neela 27, Devan 32, Ammu 25, Kirri 31, Asha 22 at death.
-  - The eight-year and six-year anchors.
+- **Names and roles:** every named servant, guard and guild member, including pronouns, ages and posts.
+- **Timeline:** the nights-to-the-rains count (40 down to 11), the new-moon count (9 down to 5), the seventh-day sparring requests, the post days, the Keeper's late arrival and the delayed sealing, and the ride times to the Resin House.
 - **Magic rules:**
-  - Dusk and dawn turning.
-  - No speech in shape.
-  - The witness rule, including the non-witnesses Janu and the Vellan-on-stair case.
-  - Forced resin, self-naming, the ledger burn and wound-share.
-- **Injuries:** Devan's left-forearm arrow graze, his left-ribs poison cut and the ford seam. Neela's nails, her torn throat and wrist scars, and the matching welts.
+  - Turning only after sunset, and the return at first light.
+  - Who is a witness: Janu sees only eyes; Devan does not see Vellan turn.
+  - The bitten-off word in ch13.
+  - The forced resin.
+  - The self-naming conditions and the burning of the witness entry.
+  - The wound-share, including the forced-resin tears appearing on Devan.
+- **Injuries:** the left-forearm arrow graze, the left-rib poison cut, the ford seam, Neela's shoulder cut, her split nails, and the torn throat and wrist scars.
+- **Who knows what:** the Asha token, Ittan's letter, the dot-and-split seals, the contract writ, and Muthu's letters.
 - **Objects:**
-  - The bar, latch and shutters.
-  - The sword, which always lies hilt toward her.
-  - The guild knife, given away in ch 17 and returned in ch 24.
-  - The pebbles, the tooth, the seals and wax, the tallies and the slip.
-- **Who knows what:** Devan's secret witnessing, Muthu's letters, the self-naming loophole, Ittan's name, and the queen's seal.
-- **Fixed traits:**
-  - Devan never lies to Neela and never strikes a living person until ch 27.
-  - Neela never says the word until ch 27.
+  - The bangle, sword, guild knife, both pebbles, the flask and Ammu's resin pouch.
+  - The tooth, the beeswax impressions, the queen's seal and the kennel count.
+- **Relationship beats:** checked against the outline and the bible.
+- **Devan's fixed trait:** that he never lies to Neela.
 
 ## Errors found
 
-**Major: Devan lies to Neela (6).** These break his fixed bible trait.
+- **Major (2):**
+  - Chinna, a woman, is called "he" (ch13).
+  - Devan tells Neela an outright untruth, "I'm not," in rampart banter (ch8). This breaks his never-lies trait.
+- **Minor (9):**
+  - Devan misremembers the wedding-night slat creak (ch17).
+  - Devan misquotes Ittan's letter (ch23).
+  - Neela refers to Asha's token, which she has never seen (ch23).
+  - The beeswax impression source is ambiguous (ch12).
+  - The nails split too early compared with ch25 (ch23).
+  - The kennel cage count is off by one (ch26/28).
+  - "What writ?" contradicts the contract terms Neela knows (ch7).
+  - Devan dates Muthu's mother's letter as a fortnight ago (ch24).
+  - The watch order is inverted on the rain night (ch21).
 
-| ID | Chapter | What he says |
-|---|---|---|
-| E01 | 5 | The Bhaskaran excuse, which the narration flags as untrue |
-| E02 | 8 | "Oil." |
-| E03 | 14 | "I'll be asleep." |
-| E04 | 19 | "I didn't know it did that." |
-| E05 | 25 | "I'm fine." |
-| E06 | 29 | "It's the ribs." |
-
-Each one is patched with a true line or a partial truth.
-
-**Minor (3):**
-
-- **E07, ch 10:** the idle shutter bar is put on its brackets. It belongs on its hooks.
-- **E08, ch 9:** a name collision. Kannan's mother Bindu appears as a new pass-village acquaintance.
-- **E09, ch 18:** Ammu's Valli cover is given a bangle tray instead of pepper.
-
-Everything else checked came out consistent, including the dated counts, the wound-share limits and the order of Devan's protections.
+Each error comes with exact patches in errors.json.

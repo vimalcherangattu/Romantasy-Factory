@@ -1655,10 +1655,18 @@
     {
       "at": "2026-10-20T07:21:19",
       "event": "done: S7 continuity"
+    },
+    {
+      "at": "2026-10-20T07:33:59",
+      "event": "continuity round 3: 11 errors, 13 patches applied, 0 to revise"
+    },
+    {
+      "at": "2026-10-20T07:33:59",
+      "event": "done: S7 continuity"
     }
   ],
-  "updated_at": "2026-10-20T07:21:19",
+  "updated_at": "2026-10-20T07:33:59",
   "midpoint_chapter": 16,
-  "continuity_attempts": 2,
-  "continuity_last_errors": 6
+  "continuity_attempts": 3,
+  "continuity_last_errors": 2
 }
