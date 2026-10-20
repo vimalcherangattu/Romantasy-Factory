@@ -978,8 +978,8 @@
       ]
     },
     "30": {
-      "status": "owner-revise",
-      "revisions": 2,
+      "status": "revised",
+      "revisions": 0,
       "scores": {
         "reader_question": 4.0,
         "change": 4.0,
@@ -991,10 +991,8 @@
         "continuity": 0.0
       },
       "average": 3.5,
-      "flags": [
-        "needs-owner"
-      ],
-      "words": 2727,
+      "flags": [],
+      "words": 2612,
       "minimum": 0.0,
       "continuity_fixes": [
         "Devan says he left the shutters 'Open, as my father kept them' on the first night, but ch 1 and ch 2 show them closed, and Neela opens them herself. FIX: In ch 30, change 'Open, as my father kept them' to 'Shut on the latch and never barred, as my father kept them'.",
@@ -2291,9 +2289,13 @@
     {
       "at": "2026-10-20T08:30:22",
       "event": "done: S5 critique ch 29"
+    },
+    {
+      "at": "2026-10-20T08:31:34",
+      "event": "done: S6 revise ch 30"
     }
   ],
-  "updated_at": "2026-10-20T08:30:22",
+  "updated_at": "2026-10-20T08:31:34",
   "midpoint_chapter": 16,
   "continuity_attempts": 0,
   "continuity_last_errors": null,
