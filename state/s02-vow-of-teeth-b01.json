@@ -148,7 +148,7 @@
       }
     },
     "05": {
-      "status": "passed",
+      "status": "edited",
       "revisions": 0,
       "scores": {
         "reader_question": 4.0,
@@ -162,14 +162,14 @@
       },
       "average": 3.88,
       "flags": [],
-      "words": 2930,
+      "words": 2944,
       "minimum": 3.0,
       "continuity_fixes": [
         "Devan thinks 'Not once had she come to the bed', but ch 2 and ch 3 show her lying down in the bed with her back to him at each dawn. FIX: In ch 5, change 'Not once had she come to the bed' to 'Each time she had come to the bed shaking and lain with her back to him, as far off as the mattress allowed'.",
         "In ch 4 Neela turns back in the yard at first light. Her clothes are in the chamber (she always leaves them on the sill), yet in ch 5 she walks up through the stair door, past the two west-stair guards, as a woman, and no one remarks on it. FIX: In ch 5, add that she came in 'with a saddle-blanket from the stable round her', so Devan hears the rough wool drop before the bed creaks."
       ],
       "style": {
-        "words": 2928,
+        "words": 2944,
         "banned_hits": {},
         "ai_tell_hits": {},
         "ai_tells_per_1000": 0.0,
@@ -177,7 +177,7 @@
         "top_4gram_count": 2,
         "longest_paragraph_words": 107,
         "em_dashes_per_1000": 0.68,
-        "reading_ease": 93.9
+        "reading_ease": 93.7
       },
       "owner_instructions": [
         "Consistency check for the sister fact added in ch 2: in the private-face memory of Asha learning every recruit's name, make sure the wording doesn't contradict her being his sister. 'His sister had done that' or 'Asha had done that' both work. Do not call her only 'his second' in a way that implies no blood tie. Change nothing else."
@@ -2349,9 +2349,13 @@
     {
       "at": "2026-10-20T09:03:03",
       "event": "done: S8 line edit ch 2"
+    },
+    {
+      "at": "2026-10-20T09:03:39",
+      "event": "done: S8 line edit ch 5"
     }
   ],
-  "updated_at": "2026-10-20T09:03:03",
+  "updated_at": "2026-10-20T09:03:39",
   "midpoint_chapter": 16,
   "continuity_attempts": 1,
   "continuity_last_errors": 1,
