@@ -857,7 +857,7 @@
       }
     },
     "27": {
-      "status": "passed",
+      "status": "edited",
       "revisions": 2,
       "scores": {
         "reader_question": 4.0,
@@ -873,12 +873,23 @@
       "flags": [
         "needs-owner"
       ],
-      "words": 2779,
+      "words": 2777,
       "minimum": 0.0,
       "continuity_fixes": [
         "Ammu says 'I wrote her every month', which would be about two dozen letters in two years. Ch 7 has three letters. FIX: In ch 27, change 'I wrote her every month' to 'I wrote her and wrote her'.",
         "'She had never said it. Not in twenty-one years.' Her night-shape was fixed at her first turning at 16, eleven years ago. Twenty-one years is her time in the guild. FIX: In ch 27, change 'Not in twenty-one years' to 'Not in eleven years'."
-      ]
+      ],
+      "style": {
+        "words": 2777,
+        "banned_hits": {},
+        "ai_tell_hits": {},
+        "ai_tells_per_1000": 0.0,
+        "top_4gram": "a cut on him",
+        "top_4gram_count": 2,
+        "longest_paragraph_words": 108,
+        "em_dashes_per_1000": 0.72,
+        "reading_ease": 94.9
+      }
     },
     "28": {
       "status": "passed",
@@ -2070,9 +2081,13 @@
     {
       "at": "2026-10-20T08:01:40",
       "event": "done: S8 line edit ch 26"
+    },
+    {
+      "at": "2026-10-20T08:02:18",
+      "event": "done: S8 line edit ch 27"
     }
   ],
-  "updated_at": "2026-10-20T08:01:40",
+  "updated_at": "2026-10-20T08:02:18",
   "midpoint_chapter": 16,
   "continuity_attempts": 3,
   "continuity_last_errors": 2
