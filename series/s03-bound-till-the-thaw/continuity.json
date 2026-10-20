@@ -1449,6 +1449,41 @@
       "fact": "Nimmi's last redbark is three doses (the Dev boy's father and Kamla's two), corrected from four.",
       "since": "s03-bound-till-the-thaw-b01 ch 23",
       "provisional": true
+    },
+    {
+      "id": "F215",
+      "category": "name",
+      "fact": "Pinku, six, is Nimmi's healthy grandson. He follows Meera to the grove with a clay lamp and the buyer sends him home with a walnut tied with red thread.",
+      "since": "s03-bound-till-the-thaw-b01 ch 24",
+      "provisional": true
+    },
+    {
+      "id": "F216",
+      "category": "object",
+      "fact": "The cut-corner silver is thin square bits of Neshar silver, each with one corner clipped off cleanly by a tool; the buyer pays nineteen.",
+      "since": "s03-bound-till-the-thaw-b01 ch 24",
+      "provisional": true
+    },
+    {
+      "id": "F217",
+      "category": "object",
+      "fact": "The sack of redbark is canvas bound with tarred cord, inked with a small brass assembly bell, the regent's store mark; it holds enough to finish Ranu's twenty-three untreated, with some over.",
+      "since": "s03-bound-till-the-thaw-b01 ch 24",
+      "provisional": true
+    },
+    {
+      "id": "F218",
+      "category": "knowledge",
+      "fact": "Varun crossed the Saddle eleven days after Meera, bound at the Shilak Cairn to a salt-road man, and left Garh Neshar with twenty men, Asha and the warrant.",
+      "since": "s03-bound-till-the-thaw-b01 ch 24",
+      "provisional": true
+    },
+    {
+      "id": "F219",
+      "category": "knowledge",
+      "fact": "Rohan told Varun in the post room that he carried the seal, and now gives it to Meera to hide without telling him where.",
+      "since": "s03-bound-till-the-thaw-b01 ch 24",
+      "provisional": true
     }
   ],
   "knowledge": [
