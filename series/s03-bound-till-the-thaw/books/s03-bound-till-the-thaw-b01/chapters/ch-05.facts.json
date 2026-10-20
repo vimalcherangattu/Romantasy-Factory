@@ -1,24 +1,32 @@
 {
   "facts": [
     {
-      "category": "object",
-      "fact": "The shelf at the waystone hides a cache of old dried dung cakes under the lowest slab, left by goat-crews for the next crossers; an unwritten mountain custom Meera knows.",
-      "why": "needed because the beat calls for a dung fire and the pack goats and fuel are lost."
-    },
-    {
-      "category": "knowledge",
-      "fact": "Meera has carried two hundred and six people across the pass, not counting salt, and has written each in her ledger; she tells Rohan this number in the question trade.",
-      "why": "needed because the question trade needs a true answer that costs her as evidence."
-    },
-    {
-      "category": "place",
-      "fact": "The Shilak Cairn's two-hands-and-rope carving is also on the waystone's east face, worn smooth.",
-      "why": "needed because the beat places the carving on the waystone."
-    },
-    {
+      "id": "F079",
       "category": "relationship",
-      "fact": "Meera and Kiran, as children, once played at the end of a rope and felt the rope's cold; their mother screamed.",
-      "why": "gives Meera a prior memory of the distance cold."
+      "fact": "The winter Meera was fifteen (fourteen winters before Book 1), on her first bound crossing with her mother, she went back for a dropped mitten a few paces past the rope's length and felt the rope's cold; her mother screamed. This replaces the earlier childhood-rope-play fact; Kiran is not part of the memory.",
+      "since": "s03-bound-till-the-thaw-b01 ch 5",
+      "provisional": true
+    },
+    {
+      "id": "F080",
+      "category": "magic",
+      "fact": "The waystone at the foot of the Long Saddle climb hums low in wind and rises in pitch, with its blue cairn-light thickening, when a lie is told to a bound partner nearby; it stays low and level at a true answer. This extends F015 beyond the Shilak Cairn.",
+      "since": "s03-bound-till-the-thaw-b01 ch 5",
+      "provisional": true
+    },
+    {
+      "id": "F081",
+      "category": "knowledge",
+      "fact": "The warden chronicle phrase, from the first chronicle of the Shilak post, reads: 'Two brothers in arms. They crossed the closed pass bound by one rope, and the pass has stood open to the faithful ever since.' Crews tell it as a warden and a smuggler.",
+      "since": "s03-bound-till-the-thaw-b01 ch 5",
+      "provisional": true
+    },
+    {
+      "id": "F082",
+      "category": "knowledge",
+      "fact": "Rohan hunted the Salt Fox crew for one winter because the law required it, and has hunted it two more winters for Dilan's sake; Meera notes the exact accounting.",
+      "since": "s03-bound-till-the-thaw-b01 ch 5",
+      "provisional": true
     }
   ]
 }

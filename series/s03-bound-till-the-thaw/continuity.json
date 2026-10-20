@@ -504,6 +504,34 @@
       "fact": "Meera and Kiran, as children, once played at the end of a rope and felt the rope's cold; their mother screamed.",
       "since": "s03-bound-till-the-thaw-b01 ch 5",
       "provisional": true
+    },
+    {
+      "id": "F080",
+      "category": "relationship",
+      "fact": "The winter Meera was fifteen (fourteen winters before Book 1), on her first bound crossing with her mother, she went back for a dropped mitten a few paces past the rope's length and felt the rope's cold; her mother screamed. This replaces the earlier childhood-rope-play fact; Kiran is not part of the memory.",
+      "since": "s03-bound-till-the-thaw-b01 ch 5",
+      "provisional": true
+    },
+    {
+      "id": "F081",
+      "category": "magic",
+      "fact": "The waystone at the foot of the Long Saddle climb hums low in wind and rises in pitch, with its blue cairn-light thickening, when a lie is told to a bound partner nearby; it stays low and level at a true answer. This extends F015 beyond the Shilak Cairn.",
+      "since": "s03-bound-till-the-thaw-b01 ch 5",
+      "provisional": true
+    },
+    {
+      "id": "F082",
+      "category": "knowledge",
+      "fact": "The warden chronicle phrase, from the first chronicle of the Shilak post, reads: 'Two brothers in arms. They crossed the closed pass bound by one rope, and the pass has stood open to the faithful ever since.' Crews tell it as a warden and a smuggler.",
+      "since": "s03-bound-till-the-thaw-b01 ch 5",
+      "provisional": true
+    },
+    {
+      "id": "F083",
+      "category": "knowledge",
+      "fact": "Rohan hunted the Salt Fox crew for one winter because the law required it, and has hunted it two more winters for Dilan's sake; Meera notes the exact accounting.",
+      "since": "s03-bound-till-the-thaw-b01 ch 5",
+      "provisional": true
     }
   ],
   "knowledge": [
