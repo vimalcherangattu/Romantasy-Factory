@@ -1,0 +1,41 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 3.0,
+    "character_logic": 4.0,
+    "stakes_and_cost": 4.0,
+    "prose": 4.0,
+    "continuity": 5.0
+  },
+  "reasons": {
+    "reader_question": "The ending lands the beat's question cleanly: his hand over the seam leaves open what he understood and what he will do.",
+    "change": "Meera now knows about the seal and the coup, and she has handed back the most power she will ever hold over him.",
+    "romance_movement": "The reason is new: a declined chance to betray him. Its root, the cut-rope night, is asserted rather than evoked.",
+    "shown_chemistry": "The care is shown well (poultices, the half-pinch, her hand on his ribs), but he is unconscious, so almost nothing passes between them.",
+    "character_logic": "She weighs the regent's grain, the hangings and the pardon like a ledger. The knot-as-concealment choice is smart and in character.",
+    "stakes_and_cost": "A real dose is taken from Ranu, and the pardon for Kiran and the crew is refused with full knowledge of what it buys.",
+    "prose": "Concrete and well paced. The 'stones in the wall... low note' echo appears twice, and a few lines are clotted.",
+    "continuity": "Seal, knot, redbark packets, Asha's prices, the juniper sprig and Pritam's plan all match. The delirious day count is excusable."
+  },
+  "fixes": [
+    "At \"Meera.\" She jerked. But his eyes were closed\": the delirium muddles the beat. He says her name, yet the text says he is talking to somebody else. Either have him say \"Dilan\" first, or let her register that he named her in fever. That one held moment would add shown chemistry while he is unconscious.",
+    "At \"he had lain awake with a cut rope in his fist\": the decisive reason is summarised (Narrated-only chemistry). Replace the abstract line \"it had cost her nothing the cold would count\" with one concrete remembered image from that night: the whipped black thread, his exact question about her mother, what her hands did. The turn should rest on a specific witnessed act.",
+    "At \"the stones in the wall made their low note and held it\": this exact image recurs at the chapter's close and echoes chapter 10 (Repetition). It also implies the stones respond to a knot, not a truth. Cut it from the knot-setting moment and keep it only after she writes \"Price: none.\" Also reconcile \"fast, so there would be no time to think\" with the slow, deliberate retying."
+  ],
+  "reader_question": "Did Rohan, half-conscious, see enough to understand that she found the seal and chose to give it back?",
+  "techniques_landed": [
+    14,
+    16,
+    18
+  ],
+  "new_facts_assessment": "N11a (the goat on Hemkot's coins, cut finer on the seal) is necessary so Meera can recognise the seal unaided. It fits the goat-stamped writ case (F090) and conflicts with nothing.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Narrated-only chemistry"
+  ],
+  "average": 4.0,
+  "minimum": 3.0,
+  "passed": true
+}
