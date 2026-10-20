@@ -1,42 +1,41 @@
 {
   "scores": {
-    "reader_question": 3.0,
+    "reader_question": 4.0,
     "change": 4.0,
     "romance_movement": 4.0,
     "shown_chemistry": 4.0,
     "character_logic": 3.0,
-    "stakes_and_cost": 3.0,
-    "prose": 3.0,
-    "continuity": 0.0
+    "stakes_and_cost": 4.0,
+    "prose": 4.0,
+    "continuity": 5.0
   },
   "reasons": {
-    "reader_question": "The question is the beat's 'what promise?', but the last lines blur it into an unnamed 'thing to ask' and a vague promise.",
-    "change": "Clear gains: the crown pays widows and raiders from one die run, a set plan, and Devan's all-night custody of the book.",
-    "romance_movement": "The new reason lands: each admits distrust of their own hands with the book. The vow restatement replays book 1.",
-    "shown_chemistry": "Chain wound on his fingers, her laugh, his 'I'm an odd husband', the deferred touch. All responsive, little narrated.",
-    "character_logic": "The plan holds, but 'Ammu's last smear' and 'never only because she wanted to' contradict her own history.",
-    "stakes_and_cost": "The ache cost is real but stated abstractly. The unexplained 'gash in my side' at dawn raises a cost the page never sets up.",
-    "prose": "Coin similes stacked three times, 'face as shut as a gate' echoes ch10, a clunky age insertion, and one 'the weight of'.",
-    "continuity": "Ammu's resin is gone (F491). She has skipped resin by choice (B1 ch22, ch30). 'Tuesday' breaks the seventh-day convention. 'Forty days' is too short."
+    "reader_question": "The ending ask, 'what you'll let me take out of your hand', is sharp, though its meaning is slightly blurred.",
+    "change": "The mint link is known, the plan is fixed with Devan holding the book all night, a third choosing is made, and resin is skipped.",
+    "romance_movement": "There is a new reason: each admits a selfish want around power, and the other takes it without flinching.",
+    "shown_chemistry": "The coin welt on his palm, 'Same thing, now', the brass chain on his fingers and the withheld touch all show chemistry through action.",
+    "character_logic": "The plan contradicts itself on the bar, and it never says why Devan must sit with the book until dawn instead of leaving.",
+    "stakes_and_cost": "Skipping resin means stiff hands on the wall during the raid. The cost is concrete, though partly told rather than felt.",
+    "prose": "The prose is clean, concrete and low on AI tells. The ages recap reads like a checklist, and the Muthu/sixth-clank line is confusing.",
+    "continuity": "No hard conflict. 'Eight years' clean hands and 'She knew whose' strain against B1 ch27 and the B2 ch16 reveal."
   },
   "fixes": [
-    "Last-evening scene, 'Twice she had skipped the resin, and both times': continuity break. Neela skipped resin by choice in book 1 ch22 and ch30, and Ammu's resin was spent in ch7 (F491). Cut 'Ammu's last smear' and 'never once been the woman in the bed'. Reframe the choice: it is the first night she skips resin with the ache already in her nails and a wall to climb tomorrow, so wanting him now costs her body on the raid.",
-    "'A night sweat on Tuesday' and 'you've known for forty days': worldbuilding break and timeline error. Replace Tuesday with 'two nights back' (the book uses 'seventh day', F422). Devan has known since the wedding night, more than fifty days ago, so change the line to 'since our wedding night'. In the tack room, add the wound-share: the coin reopened her right palm scab, so Devan's right palm should carry a welt she notices (F492).",
-    "'like a fifth coin' / 'like a swallowed coin' / 'lay on the back of her tongue like a coin': repetitive image. Keep one coin simile and recast the others in concrete sensory terms. Change 'face stayed as shut as a gate' (it echoes ch10). Replace 'I'm twenty-seven,' she said. She had not meant to say it' with ages folded into dialogue that bargains. End on the actual question she brings him, interrupted or spoken."
+    "'A leopard can't lift a bar.' later becomes 'I'll lift the bar with my teeth.' This is irrational plotting: the plan contradicts itself, and 'It's the only one that works' is asserted, not shown. Pick one mechanism, for example Devan lifts the bar while she holds off the hounds. Then add one concrete reason he cannot leave before first light, such as the drain and gate being watched until the dawn change.",
+    "'She knew whose. She also knew she could not say it' reads as the POV withholding knowledge (contrived delay) and risks pre-empting the B2 ch16 reveal of Vellan and Asha. Make it specific and costly: she knows he means Vellan, for Raiu and the poison. She can't say it because she won't hand anyone, even Devan, her guild-brother's page.",
+    "'I've kept my hands clean for eight years by never using them' ignores his strike on Vellan (B1 ch27), Ittan's arrest and the sparring in ch 5. Revise to acknowledge the bear: 'Eight years I struck nothing, and the one time I did, I didn't choose it.' Also fold the ages into the bargain less like a recap: cut 'You've had thirty-two years and chosen almost nothing' to a single beat."
   ],
-  "reader_question": "What will Neela ask Devan tonight, and what promise will they make before he holds forty lives in his lap?",
+  "reader_question": "What will Neela take from Devan's hand tonight, and can either of them keep the promise to stop the other once the book is in his lap?",
   "techniques_landed": [
     10,
-    11,
     15
   ],
-  "new_facts_assessment": "Minnu and Chandu: fine, consistent with F085/F321. Twelve coins and Rema's receipt: fine (F472). The doubled-leaf die flaw is a good, memorable C14 clue. The well ledge is plausible but loosely fits ch10's 'gone up a well shaft with a knife'. The plan fits F490/F494/F507, but the dawn 'gash in my side' is unexplained. Timeline is fine.",
+  "new_facts_assessment": "The new-facts file is empty, but the draft adds the doubled-leaf die flaw, the twelve coins, the well-shaft ledge, the raid plan with Devan's stop-me rule, Minnu and Chandu, and Devan's coin welt. All fit and all are needed, and F519 to F524 capture most of them. The coin welt and the change from a human entry (F484) to a leopard entry should be logged. Technique 11 is only partial: the leaf is signposted ('Remember the leaf') rather than caught at a curiosity peak.",
   "content_rule_violation": false,
   "failure_modes": [
-    "Repetitive tension",
-    "Worldbuilding collapse"
+    "Irrational behaviour to extend plot",
+    "Contrived delays"
   ],
-  "average": 3.0,
-  "minimum": 0.0,
-  "passed": false
+  "average": 4.0,
+  "minimum": 3.0,
+  "passed": true
 }

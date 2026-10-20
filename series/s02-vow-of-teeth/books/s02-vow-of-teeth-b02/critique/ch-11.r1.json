@@ -1,0 +1,41 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 3.0,
+    "stakes_and_cost": 4.0,
+    "prose": 4.0,
+    "continuity": 5.0
+  },
+  "reasons": {
+    "reader_question": "The ending ask, 'what you'll let me take out of your hand', is sharp, though its meaning is slightly blurred.",
+    "change": "The mint link is known, the plan is fixed with Devan holding the book all night, a third choosing is made, and resin is skipped.",
+    "romance_movement": "There is a new reason: each admits a selfish want around power, and the other takes it without flinching.",
+    "shown_chemistry": "The coin welt on his palm, 'Same thing, now', the brass chain on his fingers and the withheld touch all show chemistry through action.",
+    "character_logic": "The plan contradicts itself on the bar, and it never says why Devan must sit with the book until dawn instead of leaving.",
+    "stakes_and_cost": "Skipping resin means stiff hands on the wall during the raid. The cost is concrete, though partly told rather than felt.",
+    "prose": "The prose is clean, concrete and low on AI tells. The ages recap reads like a checklist, and the Muthu/sixth-clank line is confusing.",
+    "continuity": "No hard conflict. 'Eight years' clean hands and 'She knew whose' strain against B1 ch27 and the B2 ch16 reveal."
+  },
+  "fixes": [
+    "'A leopard can't lift a bar.' later becomes 'I'll lift the bar with my teeth.' This is irrational plotting: the plan contradicts itself, and 'It's the only one that works' is asserted, not shown. Pick one mechanism, for example Devan lifts the bar while she holds off the hounds. Then add one concrete reason he cannot leave before first light, such as the drain and gate being watched until the dawn change.",
+    "'She knew whose. She also knew she could not say it' reads as the POV withholding knowledge (contrived delay) and risks pre-empting the B2 ch16 reveal of Vellan and Asha. Make it specific and costly: she knows he means Vellan, for Raiu and the poison. She can't say it because she won't hand anyone, even Devan, her guild-brother's page.",
+    "'I've kept my hands clean for eight years by never using them' ignores his strike on Vellan (B1 ch27), Ittan's arrest and the sparring in ch 5. Revise to acknowledge the bear: 'Eight years I struck nothing, and the one time I did, I didn't choose it.' Also fold the ages into the bargain less like a recap: cut 'You've had thirty-two years and chosen almost nothing' to a single beat."
+  ],
+  "reader_question": "What will Neela take from Devan's hand tonight, and can either of them keep the promise to stop the other once the book is in his lap?",
+  "techniques_landed": [
+    10,
+    15
+  ],
+  "new_facts_assessment": "The new-facts file is empty, but the draft adds the doubled-leaf die flaw, the twelve coins, the well-shaft ledge, the raid plan with Devan's stop-me rule, Minnu and Chandu, and Devan's coin welt. All fit and all are needed, and F519 to F524 capture most of them. The coin welt and the change from a human entry (F484) to a leopard entry should be logged. Technique 11 is only partial: the leaf is signposted ('Remember the leaf') rather than caught at a curiosity peak.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Irrational behaviour to extend plot",
+    "Contrived delays"
+  ],
+  "average": 4.0,
+  "minimum": 3.0,
+  "passed": true
+}
