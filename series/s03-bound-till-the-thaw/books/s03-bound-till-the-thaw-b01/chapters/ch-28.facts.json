@@ -1,34 +1,3 @@
 {
-  "facts": [
-    {
-      "category": "place",
-      "fact": "Nimmi moved the seal from the woodpile to the pot of steeping walnut leaf by her chulha after Pinku, watching from the walnut tree, told her where Meera hid it.",
-      "why": "needed because the outline places the seal recovery in the chulha-corner pot, while ch24 hid it in the woodpile."
-    },
-    {
-      "category": "object",
-      "fact": "Meera keeps the brass button token tucked in the binding of the count, and the count was not taken from inside her shirt when she was searched.",
-      "why": "needed so the button and ledger page are available for the trade with Asha."
-    },
-    {
-      "category": "knowledge",
-      "fact": "Asha confirms the lowland middleman was Varun's runner, a thin man with a bad left foot; Varun paid her four silver a week.",
-      "why": "outline requires Asha to confirm Varun paid her and the middleman was his runner."
-    },
-    {
-      "category": "object",
-      "fact": "Asha's crew has a stubborn salt-road pony, which Kiran rides on the salt-road path to Garh Neshar.",
-      "why": "Kiran is recovering from fever and needs to travel."
-    },
-    {
-      "category": "knowledge",
-      "fact": "Varun left at midnight on the Garh road with his twenty men, expecting Ranu to burn.",
-      "why": "explains why Varun is absent during the escape."
-    },
-    {
-      "category": "injury",
-      "fact": "Nimmi says Meera's ring and little fingers must come off a day after the Fair; the middle finger will live.",
-      "why": "outline beat; fixes timing of the amputation."
-    }
-  ]
+  "facts": []
 }
