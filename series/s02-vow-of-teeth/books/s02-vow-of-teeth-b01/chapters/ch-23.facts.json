@@ -1,3 +1,16 @@
 {
-  "facts": []
+  "facts": [
+    {
+      "category": "knowledge",
+      "fact": "Asha was found dead on the west stair within a month of finding the first forged token (six years ago)."
+    },
+    {
+      "category": "knowledge",
+      "fact": "Devan has known since boyhood in the kalari pit that Muthu goes quiet when he lies. On seeing Muthu hand a grey-sealed letter to a rider off post day, he recognises the tell, says nothing, and keeps the slip inside his shirt."
+    },
+    {
+      "category": "knowledge",
+      "fact": "Neela counts nights to the rains, not the seal: the council seals the pass about three days ahead of the rains, so the seal is eight days off while her count is eleven."
+    }
+  ]
 }

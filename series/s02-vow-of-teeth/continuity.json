@@ -2631,6 +2631,27 @@
       "fact": "Neela knows the grove overlooks the warden's window and opens the shutters on purpose; she tells Ammu 'I knew it would be seen'. She also reasons that acting on the torn balance strip could expose Ammu to Chathu's caging.",
       "since": "s02-vow-of-teeth-b01 ch 22",
       "provisional": true
+    },
+    {
+      "id": "F382",
+      "category": "knowledge",
+      "fact": "Asha was found dead on the west stair within a month of finding the first forged token (six years ago).",
+      "since": "s02-vow-of-teeth-b01 ch 23",
+      "provisional": true
+    },
+    {
+      "id": "F383",
+      "category": "knowledge",
+      "fact": "Devan has known since boyhood in the kalari pit that Muthu goes quiet when he lies. On seeing Muthu hand a grey-sealed letter to a rider off post day, he recognises the tell, says nothing, and keeps the slip inside his shirt.",
+      "since": "s02-vow-of-teeth-b01 ch 23",
+      "provisional": true
+    },
+    {
+      "id": "F384",
+      "category": "knowledge",
+      "fact": "Neela counts nights to the rains, not the seal: the council seals the pass about three days ahead of the rains, so the seal is eight days off while her count is eleven.",
+      "since": "s02-vow-of-teeth-b01 ch 23",
+      "provisional": true
     }
   ],
   "knowledge": [
