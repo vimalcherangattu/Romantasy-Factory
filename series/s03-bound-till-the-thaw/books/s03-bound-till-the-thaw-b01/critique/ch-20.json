@@ -1,0 +1,39 @@
+{
+  "scores": {
+    "reader_question": 3.0,
+    "change": 4.0,
+    "romance_movement": 5.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 4.0,
+    "stakes_and_cost": 3.0,
+    "prose": 3.0,
+    "continuity": 0.0
+  },
+  "reasons": {
+    "reader_question": "The thaw-and-writ question is restated in the last paragraph, not escalated. The relief ending answers more than it opens.",
+    "change": "They become lovers, she writes him into the count, and he names harbouring knowingly. The power and knowledge state is barely altered.",
+    "romance_movement": "The change has a new reason: a verified confession, plus the ledger entry 'Carried water, eleven trips'. The bond is chosen with eyes open.",
+    "shown_chemistry": "The goat fat warmed first and the careful learning of his ribs prove attention. Parts of the sex scene slide into summary ('She felt trusted').",
+    "character_logic": "The choices are smart and earned. Precise Rohan misstates the queen's reign and quotes a stale death count.",
+    "stakes_and_cost": "Harbouring and the writ are named, but nothing new tightens. The pass rule, Fair deadline and writ are only restated.",
+    "prose": "Clean of banned phrases. 'The way you...' similes recur, 'in the lamplight' appears four times, and some paragraphs open on the same word back to back.",
+    "continuity": "The queen 'signed pardons for sixty winters' (she has reigned 30). Rohan was 'struck white once for a promise', which never happened. Nimmi's count says 31, not 32."
+  },
+  "fixes": [
+    "Continuity. Change 'a queen who has signed pardons for sixty winters' to 'thirty winters', since the law is sixty. Replace 'struck white once for a promise to a mountain' with 'already holding one promise to the mountain', the ch16 promise. Change 'Nimmi says thirty-one dead' to 'thirty-two now, with Sunni', matching his own ch19 count. Soften 'nobody had read it' to 'nobody had read it through', since F155 has him shown one page.",
+    "Spent callback. Meera's line 'Watch my hands, Rohan.' uses the book's reframing line, which is reserved for Rohan's ch30 declaration. That signposts the callback and weakens its payoff. Rephrase it to 'Look at my hands, Rohan. They're warm.' Keep Rohan's later 'Look first' from 'Look at them,' he said, and cut any echo of 'watch'.",
+    "Weak ending hook. 'for the length of one slow count' ends on relief plus a restated deadline. Interrupt the relief with a story-caused beat. For example, Kiran half-wakes, sees Rohan in the doorway and closes his fist on the badge under his pillow, and Meera sees it. This raises the S1 question before ch22 without answering it."
+  ],
+  "reader_question": "Now that she has chosen him with his writ still naming her, will Rohan deliver the Salt Fox at the thaw, four days before the Fair?",
+  "techniques_landed": [
+    9,
+    10,
+    14
+  ],
+  "new_facts_assessment": "The storehouse, the ruled-off blockade line and the knuckle mention are necessary and consistent. Three unlisted facts: the forearm burn-scar (harmless), the queen's 'sixty winters' (conflicts with F038) and 'struck white for a promise' (no prior event). 'Nobody had read it' sits uneasily with F155, where she showed him a page.",
+  "content_rule_violation": false,
+  "failure_modes": [],
+  "average": 3.25,
+  "minimum": 0.0,
+  "passed": false
+}
