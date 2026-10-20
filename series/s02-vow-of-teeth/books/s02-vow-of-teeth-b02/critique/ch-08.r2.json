@@ -1,0 +1,39 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 4.0,
+    "stakes_and_cost": 4.0,
+    "prose": 4.0,
+    "continuity": 5.0
+  },
+  "reasons": {
+    "reader_question": "Rema's public thanks turns a suspicion into a named betrayal, and the closing request creates a sharp, specific question about the pit.",
+    "change": "Muthu shifts from trusted captain to exposed informant before the hall. Devan links six years of letters to the green-wax writ.",
+    "romance_movement": "The pebble is kept after the self-naming made it pointless, so it is a pure vow, and her hand covers his fist. Neela never registers the vow.",
+    "shown_chemistry": "The relationship shows in actions: he moves the charcoal away from her, she watches his face through the turn, she covers his fist unseen.",
+    "character_logic": "Neela's refusal to draw the kennels is trauma shaping behaviour. Devan's answer to Rema is smart. Rema's motive is opaque but deliberately so.",
+    "stakes_and_cost": "Accepting the round means his first spar in eight years, against a man who may have fed the queen, and any blow shares onto Neela.",
+    "prose": "Concrete and controlled. The heartbeat line is a logic slip, and the hour-chain and thumbnail tell are leaned on too often.",
+    "continuity": "Matches the bible and continuity facts: two-voice rule, white pebble, right-palm wound-share, Muthu's tell, the unbroken strongbox packet, sunbird writ."
+  },
+  "fixes": [
+    "'the one place on his body where he could feel her heartbeat': logic slip. Her thumb is on his wrist, so it reads his pulse, not hers. Change to 'the one place where she could read his heartbeat, and he knew she was reading it', or move her pulse point against his skin.",
+    "'Devan spat the pebble into his palm and gave her': romance beat unregistered. She sees a stone the two-voice rule made useless, and no response follows. Add one dry exchange (e.g., 'You didn't need that.' 'No.') and let her look at it a beat too long. Keep it short so the vow stays unpraised.",
+    "'The cistern chain struck the hour. It was the only sound': repetitive device. The hour chain marks five or more beats, and the thumbnail tell appears three times. Cut the 'clanked twice more' night beat and the dawn chain beat so the hall silence is the chain's one big moment. Drop the thumbnail line at the hearth."
+  ],
+  "reader_question": "What has Muthu been telling the queen for six years, and what will he admit, or do, once Devan steps into the pit with him?",
+  "techniques_landed": [
+    7,
+    13,
+    20
+  ],
+  "new_facts_assessment": "new-facts.json is empty, but continuity already logs F497 to F502 from this draft, and all are consistent. Small uncredited additions (Devan nine and Muthu twelve in the pit, Muthu posted to the gate, the mule story) fit the bible and need no logging beyond the boyhood ages.",
+  "content_rule_violation": false,
+  "failure_modes": [],
+  "average": 4.12,
+  "minimum": 4.0,
+  "passed": true
+}
