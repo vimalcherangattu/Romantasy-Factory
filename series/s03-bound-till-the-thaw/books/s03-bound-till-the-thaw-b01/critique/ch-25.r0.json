@@ -1,0 +1,40 @@
+{
+  "scores": {
+    "reader_question": 5.0,
+    "change": 5.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 4.0,
+    "stakes_and_cost": 5.0,
+    "prose": 3.0,
+    "continuity": 5.0
+  },
+  "reasons": {
+    "reader_question": "The chapter ends on the exact question the bond makes lethal. Reader knows the truth and dreads her answer.",
+    "change": "Rohan goes from free to chained, Meera is chained, Rohan now suspects Kiran, and Varun holds the village. Power and knowledge both shift.",
+    "romance_movement": "This is the first question between them whose answer can wreck the bond. The reason is new: Varun weaponises Dilan.",
+    "shown_chemistry": "'Then borrow mine', the glance she won't return and the low question by her ear are shown, not narrated. The middle runs thin on her.",
+    "character_logic": "Rohan's surrender and his promise-parsing are smart. Varun never links a 'Kothi guide' to 'Kiran of Kothi'; a sharp man would probe.",
+    "stakes_and_cost": "The cost is spelled out plainly: a lie takes her hand, the truth takes her brother. Sick rooms, seal and lordship all hang on the next move.",
+    "prose": "AI tells and soft spots: 'in that moment', 'He could not help it', 'the world did a very slow thing', 'Nobody breathed', and a muddled ash paragraph.",
+    "continuity": "Mostly consistent. Varun's 'ear frozen to the shelf' contradicts F200's road-ice glaze but reads as hearsay. Meera's holed pattu duplicates F183's detail."
+  },
+  "fixes": [
+    "'He chose not to ask, he thought. In the passage.' POV slip: in Rohan's own head this reads as someone else. Recast as first person: 'I chose not to ask. In the passage I saw the ear and chose not to ask. Why did I choose?' Keep the answer line: 'Because I did not want the answer.'",
+    "'Don't.' It was barely a sound. 'Not here.' Technique 8 (Meaningful Interruption) did not land. Her refusal delays the question without changing anything. Make the delay change state. For example, the guard's boots pass the slit, and Rohan sees her hidden left hand and the badge edge under her pattu before he asks. The question then carries new knowledge, not just a pause.",
+    "'Rohan heard the word Kiran and the world did a very slow thing.' Vague, AI-tell prose. Replace it with one concrete physical beat, such as his grip closing on Dilan's rope. Also cut 'in that moment' from 'Rohan understood in that moment'. Rewrite the muddled 'The patrol's rule made sense of it. A week's work, done in an hour' as a plain statement: the fresh prints restart the third-day pass count."
+  ],
+  "reader_question": "Will Meera tell Rohan the truth that hangs her brother, or lie and pay in her own flesh?",
+  "techniques_landed": [
+    13,
+    16
+  ],
+  "new_facts_assessment": "Lockhouse: necessary and consistent. Walnut Terraces lordship: pays off C10 and ties Varun to Ranu, but ch27's fire threat must be motivated against his wish to keep the village intact. Varun's source on Kiran: plausible via the middleman, but it needs one line on how he learned Kiran lies in Nimmi's house. Chain: consistent with the eight-span rule. Guard on Kiran's door: needed for ch26-29, fine.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Irrational behaviour to extend plot"
+  ],
+  "average": 4.38,
+  "minimum": 3.0,
+  "passed": true
+}
