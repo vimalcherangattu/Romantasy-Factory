@@ -1,0 +1,24 @@
+{
+  "facts": [
+    {
+      "category": "object",
+      "fact": "The twelve redbark packets are small palm-sized bundles of waxed paper tied with thread, laid in three rows of four inside the oilcloth roll at the bottom of Meera's pack.",
+      "why": "needed because Rohan sees and counts them on the page."
+    },
+    {
+      "category": "relationship",
+      "fact": "Meera and Rohan bet on whether he can stay silent for an hour; the stake is the loser's sattu at the next halt, which Rohan wins and will collect then.",
+      "why": "needed because the outline calls for the bet and a stake must be named."
+    },
+    {
+      "category": "object",
+      "fact": "A waystone stands at the foot of the climb to the Long Saddle: a squat grey pillar with a shelf of flat stones left by earlier crossers. Meera builds a three-stone cairn there for Jassi.",
+      "why": "needed because the outline sets the closing scene at the waystone below the Long Saddle."
+    },
+    {
+      "category": "knowledge",
+      "fact": "Because Meera's fingertips are white from the demonstration lie for an hour, Rohan notes they cannot testify to anything she says during that hour.",
+      "why": "needed because it follows from the small-lie rule and shapes his reading of her truthful answers."
+    }
+  ]
+}
