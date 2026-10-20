@@ -1,0 +1,42 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 3.0,
+    "stakes_and_cost": 3.0,
+    "prose": 3.0,
+    "continuity": 0.0
+  },
+  "reasons": {
+    "reader_question": "Two live questions come out of it: what the knot means, and where Asha went. The beat's question about the records lands through the final exchange.",
+    "change": "Both judgements move. He can't fit her into the file, and she logs Ketan in his own words, the first time she has recorded a warden's act this way.",
+    "romance_movement": "There is a new reason: mutual disclosure in which each one's worst picture of the other is tested. The warm hands verify him. This is not a replayed refusal.",
+    "shown_chemistry": "The dragging banter ('I wish it noted that I thought of it') and her watching his hands carry the chemistry. Narration doesn't have to.",
+    "character_logic": "She thinks Asha ties 'everything that way, out of habit', which she can't know. The rope 'drew tight at six spans' on an eight-span rope.",
+    "stakes_and_cost": "The disclosures cost little in the moment. Asha's withdrawal and the hunters get dropped. The quiet ending forces no next decision.",
+    "prose": "There is a strong comic opening. A tic repeats: six 'a man who…/the way a man…' similes. 'One habit among his many' is filler.",
+    "continuity": "Several conflicts. Heat loss starts at seven spans, inside the rope (F009). Ketan as a hill boy contradicts 'two lowland smugglers' (F033). Meera eats the goat, but new-facts says she doesn't."
+  },
+  "fixes": [
+    "Continuity, rope distance. 'At six spans the line drew tight. At seven the warmth began to go': heat loss starts only beyond the rope's length (F009). Make the line draw tight at eight spans and have the leak begin with her first step past it. Check also 'a day and a night of mine still owing' against F109, where only today remains, until the light goes.",
+    "Continuity, the hangings. 'up the south ridge to his mother in the high village' clashes with F033's two lowland smugglers. Make Ketan a lowland boy, from the Taravan road, carrying salt to a mother who married into Neshar. Then fix 'I paid the widow's fine for the lean-to': either name it as Ketan's mother's own fine and drop 'lean-to', or cut it so it doesn't reuse Puja's case. Align new-facts F121 with Meera eating the goat.",
+    "Over-signposted clue (Twists without setup, in reverse). 'Somebody who tied everything that way, probably, out of habit' gives Meera knowledge she lacks and explains the clue away. Cut that sentence and 'She could see how Asha might…'. Keep only the cairn match and her unease. In the hanging scene, replace two of the 'the way a man…' similes with concrete action."
+  ],
+  "reader_question": "If the warden file is this wrong about Meera, what else is the crown's record wrong about, and why is a smuggler's family knot carved on the cairn?",
+  "techniques_landed": [
+    10,
+    11,
+    23
+  ],
+  "new_facts_assessment": "Several facts are necessary and consistent: the juniper deadfall, the second redbark half-pinch, and the file read eleven times. The cache is consistent, but the facts file says Meera doesn't eat it, and the text has her eat the goat. Ketan conflicts with 'lowland' in F033. The 'widow's fine for the lean-to' blurs into Widow Puja (F061) and needs separating. 'Forty men' is harmless.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Twists without setup",
+    "Stakes without depth"
+  ],
+  "average": 3.12,
+  "minimum": 0.0,
+  "passed": false
+}
