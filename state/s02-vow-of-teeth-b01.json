@@ -730,7 +730,7 @@
       }
     },
     "23": {
-      "status": "passed",
+      "status": "edited",
       "revisions": 2,
       "scores": {
         "reader_question": 4.0,
@@ -746,12 +746,23 @@
       "flags": [
         "needs-owner"
       ],
-      "words": 2911,
+      "words": 2899,
       "minimum": 0.0,
       "continuity_fixes": [
         "Neela 'had been in the room that night, on her side of the bed with her face to the wall, while he read the letter aloud to the dark'. In ch 17 he read Ittan's letter at noon by the west window, and they discussed it face to face. FIX: In ch 23, change it to 'She had stood by the chest while he read the letter aloud at the window at noon, and she had counted the friends in it'.",
         "Neela's nightly countdown to the pass closing gives about eleven nights left on the ch 23 morning (fifteen at ch 19, then one fewer each day). Ch 23 says the pass is sealed 'in eight days', and Devan repeats 'Eight days to the seal.' Nobody notices the three-day gap, and up to ch 18 the book treats the count and the closing as the same date ('The pass shuts in sixteen days'). FIX: In ch 23, give Neela one line after 'eight days': 'Three days ahead of the rains. The council always seals early, and I've been counting to the rains, not the seal.'"
-      ]
+      ],
+      "style": {
+        "words": 2899,
+        "banned_hits": {},
+        "ai_tell_hits": {},
+        "ai_tells_per_1000": 0.0,
+        "top_4gram": "something you've been at",
+        "top_4gram_count": 2,
+        "longest_paragraph_words": 93,
+        "em_dashes_per_1000": 1.03,
+        "reading_ease": 95.0
+      }
     },
     "24": {
       "status": "passed",
@@ -2010,9 +2021,13 @@
     {
       "at": "2026-10-20T07:59:28",
       "event": "done: S8 line edit ch 22"
+    },
+    {
+      "at": "2026-10-20T08:00:01",
+      "event": "done: S8 line edit ch 23"
     }
   ],
-  "updated_at": "2026-10-20T07:59:28",
+  "updated_at": "2026-10-20T08:00:01",
   "midpoint_chapter": 16,
   "continuity_attempts": 3,
   "continuity_last_errors": 2
