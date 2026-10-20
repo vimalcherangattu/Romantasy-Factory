@@ -1,0 +1,43 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 5.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 3.0,
+    "stakes_and_cost": 4.0,
+    "prose": 3.0,
+    "continuity": 0.0
+  },
+  "reasons": {
+    "reader_question": "Sharp closing paradox: his life is tied to her footing until the very day he must hand her over.",
+    "change": "Both identities confessed, Varun exposed as saboteur and supplier, first kiss, and a binding promise. A true midpoint pivot.",
+    "romance_movement": "Mutual confession and a costed first kiss with a new reason: full knowledge instead of half. It is undercut slightly by a recap of the old refusal.",
+    "shown_chemistry": "Watching each other's hands, 'That was free' / 'I watched your hands', and the kiss metaphor are all responsive and specific.",
+    "character_logic": "Rohan, who goes silent rather than lie, starts a lie on the no-lies night. Meera then claims 'neither of us froze'.",
+    "stakes_and_cost": "Seven sticks, the no-lies rule, complicity guilt and the promise-contract all carry concrete costs.",
+    "prose": "Clean and specific, but 'hands on his knees' recurs heavily, and the numbered deduction reads as a recap list.",
+    "continuity": "His whitened fingertips fade within seconds, against F010/F011 (a small lie lasts an hour; only time or touch clears it)."
+  },
+  "fixes": [
+    "At '\"I knew,\" he began.' / 'The white was there, and fading': continuity and character-logic break. A small lie whitens for an hour and nothing warms it, and Rohan goes silent rather than lie. Cut the false start. He stays silent (free), then says 'I suspected.' Or keep the whitening for the full hour and change Meera's 'neither of us froze' to acknowledge it.",
+    "At 'Let's do it in order,' said Meera. 'I'll go slow.': the six-point numbered case is an evidence recap (Endless monologue). Fold it into three exchanges driven by objects on the hearth (twist, button, Lalit's number). Let Rohan supply the chimney and seal deductions himself, as a competence duet, and drop 'Two... Three... Four' as spoken counters.",
+    "At 'put both hands on his knees where she could see them': this image recurs about six times and blunts the payoff of 'I watched your hands'. Keep it at the confession and the promise only. Also replace 'for a while the wind was a long way off' (a near world-fell-away cliché) with a concrete sensation tied to the rope or her split knuckles from ch15."
+  ],
+  "reader_question": "What will a promise to keep her from falling cost a man who is ordered to hand her to the rope at the thaw?",
+  "techniques_landed": [
+    3,
+    12,
+    17,
+    22
+  ],
+  "new_facts_assessment": "The iron strike before the slide, the chimney line on the fallback sheet and the eleven days buried are all consistent and pay off earlier clues. The rope humming at a true promise extends F081 without needing a stone; it is acceptable but borders on convenient, so keep it rare. The seal-knot fact needs a reason: Meera retied the cord his way precisely so he wouldn't notice, so the page must say how he knew she'd touched it.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Endless monologue",
+    "Irrational behaviour to extend plot"
+  ],
+  "average": 3.38,
+  "minimum": 0.0,
+  "passed": false
+}
