@@ -4,38 +4,36 @@
     "change": 4.0,
     "romance_movement": 4.0,
     "shown_chemistry": 3.0,
-    "character_logic": 3.0,
+    "character_logic": 4.0,
     "stakes_and_cost": 4.0,
-    "prose": 3.0,
+    "prose": 4.0,
     "continuity": 0.0
   },
   "reasons": {
-    "reader_question": "Ammu's broken-off 'There's a way, chechi... it costs' gives a sharp, one-sentence question, though the soft walking ending only restates it.",
-    "change": "Neela now holds half a forbidden secret, has bought ten days from Chathu, has heard strain in the Kirri joke, and reads Devan's silence differently; knowledge and judgement both move.",
-    "romance_movement": "The beat's romance change lands: the uncredited slate-wiping makes her reread his restraint as 'a book a man keeps against himself', which is a new reason, not a replay.",
-    "shown_chemistry": "Taking the basket unasked and nodding at 'Steps' are good responsive beats, but the walk is mostly her interior tally of his deeds, with little exchange or friction between them.",
-    "character_logic": "Neela's withholding from the guild is smart and well motivated. Ammu, a trained odiyan, names 'Chathu' and says 'Report, chechi' aloud in an open market. Neela presses 'What way?' three paces from Muthu.",
-    "stakes_and_cost": "Forced resin and a page read at dusk are concrete. Ammu visibly risks guild punishment, and Neela's lie about ten days puts her on a clock she has set herself.",
-    "prose": "Prose is concrete and voice-true ('a smile that cost him the other thumb'). There are muddles, though: 'She had spent twenty years not turning' collides with the magic term 'turning', 'Nor had he told her' has no object, and 'colour had left her face as if a hand had wiped it' is stock phrasing.",
-    "continuity": "Ammu 'stood in the dormitory door' at Neela's first turning, which conflicts with F319 (a locked room, with Ammu holding Neela's hand). The 'wax in his sleeve' is also miscounted as one of his quiet protections."
+    "reader_question": "Ammu's cut-off 'There's a way, chechi... it costs' and her fear when she sees Muthu make the gap specific and urgent. The closing paragraph spreads it across three softer questions (what price, who set it, can she pay), which weakens it slightly.",
+    "change": "Knowledge moves on three fronts: a loophole exists, Kirri's silence now reads as wrong, and the writ makes every day count double. Neela's model of Devan shifts from 'hunter laying out patience' to 'a book a man keeps against himself'.",
+    "romance_movement": "The reason for change is new: she watches him clear Parukutty's debt with no audience and no thanks. The beat lands as specified, with the hunter-versus-discipline reframe made explicit and then resisted ('It was inconvenient').",
+    "shown_chemistry": "His kindness is shown well, but it is aimed at a stranger. Between the leads there are only two responsive beats: he takes the basket, and he accepts 'Steps' without comment. Her response to him stays in her head and never reaches her body or her speech.",
+    "character_logic": "Neela sends Unni away, withholds what she can't explain, and bargains for ten days, all of which is smart. Ammu blurting in a crowded market fits her contradiction habit. Devan's flimsy salt-factor excuse fits a man who never lies but won't explain.",
+    "stakes_and_cost": "Forced resin and the page read at dusk are named with physical cost. Ammu's near-treason within three paces of a captain raises the danger to a liked character. Pursuing the 'way' now visibly endangers Ammu.",
+    "prose": "Concrete, quick and voice-true ('a smile that cost him the other thumb'), with no banned phrases or AI tells and em dashes within limit. Minor flaws: some consecutive paragraphs open with 'She', 'She wrung out the laugh' is muddy, and the ending sentence trails off in a run of 'and'.",
+    "continuity": "Ammu says Kirri 'couldn't spell tide when we were nine', but the bible makes Kirri 31 and Ammu 25 (Neela 27), so no 'we' can have been nine together. Everything else checks out: 34 nights, Valli, the guard rota, the weak hour, the cat and the breath hitch, Raman, the fourteen-year-old Ammu at the first turning, and Muthu on market day."
   },
   "fixes": [
-    "Continuity, at 'when a fourteen-year-old girl had stood in the dormitory door': this conflicts with F319, where Ammu held Neela's hand in Chathu's locked room. Rewrite as 'on the night of a first turning, when a fourteen-year-old girl had held her friend's hand in a locked room and watched what she became.'",
-    "Continuity and character logic, at 'The pulled sentry. The hounds. The wax in his sleeve.': pocketing the queen's seal was open distrust in front of her, not an uncredited kindness, so it breaks the 'done without telling' pattern Neela is tallying. Replace it with a true quiet protection from earlier chapters: 'The shutters barred at dusk.' Also cut the objectless 'Nor had he told her.'",
-    "Irrational behaviour, at 'Chathu will faint with joy' and 'Report, chechi. I'm to carry something back': a guild contact would never name the master or say 'report' aloud in a crowded market. Change the line to 'The old man will faint with joy' and the order to 'Give me something for the cart, chechi.' Then have Neela mouth 'What way?' rather than breathe it, so pressing beside Muthu reads as desperation rather than carelessness. The 'twenty years not turning' line should also become 'not turning her head', so it doesn't blur the magic term."
+    "Continuity: \"And she couldn't spell *tide* when we were nine.\" This conflicts with the bible ages: Kirri is 31, Ammu 25 and Neela 27. Change it to something age-true, such as \"And she couldn't spell *tide* when she was the big girl teaching us our letters,\" so the joke survives and the ages stay consistent.",
+    "Weak chapter ending (chapter checklist item 5): \"and wondered what price it named, and who had set it, and whether she could afford to pay.\" The chapter closes on rumination rather than an action or reveal. Cut the 'wondered...' clause and end on a concrete beat that carries the question forward. For example, at the padippura Devan hands the basket back and Neela's fingers find Ammu's knot on the pepper packet while the cistern chain clanks. Alternatively, she makes a choice: she will go to the meeting stone tonight and ask, whatever it costs Ammu. Log any new fact this creates.",
+    "Narrated-only chemistry on the road: \"She said nothing. He said nothing.\" and \"He took the basket from her arm without asking.\" The leads barely respond to each other. Add one responsive exchange that shows mutual reading without pre-empting later reveals. For example, Neela lets go of the basket a beat too late and notices she has done it. Or she tests him: \"Do you know every widow's debt?\" He answers with an exact, unpadded fact, and she answers back dryly in a way that shows she understood what he didn't say. That way her shift from 'hunter' to 'discipline' happens in dialogue and the body, not only in interior summary."
   ],
-  "reader_question": "What is the secret way for an odiyan to survive being seen, what does it cost, and how does Ammu know it?",
+  "reader_question": "What is the costly 'way' Ammu nearly revealed for an odiyan who has been seen, and why has Kirri never answered her letters?",
   "techniques_landed": [
     2,
-    7,
-    5
+    5,
+    7
   ],
-  "new_facts_assessment": "new-facts.json is empty, but the draft adds facts that should have been listed. (1) A queen's death-gift for soldiers' widows, paid at harvest: consistent with the bible's note that Nirmala answers widows' petitions, and useful irony. (2) The salt factor's collector and a late-debt tally fee: necessary and harmless. (3) Prices in panam: consistent with F317. (4) Unni is 'not much past twenty': fine. (5) A new nick on Ammu's knuckle: a fine planted detail if it pays off. (6) Ammu watching Neela's first turning from a dormitory door: this conflicts with F319 and must be changed. (7) Devan's arrival at the lane foot: compatible with the F315 retcon (he watched from the tamarind wall first), since Neela never saw him.",
+  "new_facts_assessment": "new-facts.json is empty, but the draft adds facts that should be logged. (1) The queen pays a death-gift to border widows at harvest. This is consistent with the bible's queen who answers widows' petitions, and it is useful irony. Keep and log it. (2) The salt factor adds a tally fee once a debt passes a month. This is partly covered by F085 and is harmless. (3) Unni is 'not much past twenty'. Consistent; log it. (4) Ammu has a new nick across one knuckle. This is an unexplained physical detail that reads as a planted clue. Log it so a later chapter can pay it off, or cut it. (5) The guild punishes telling a member what the masters have not. This is consistent with the suppressed loophole and necessary for making speech costly. (6) The 'writ on the road' matches the marriage writ arriving in ch8 and ch9. The only problem is the Kirri age line, which conflicts with the bible.",
   "content_rule_violation": false,
-  "failure_modes": [
-    "Irrational behaviour to extend plot"
-  ],
-  "average": 3.12,
+  "failure_modes": [],
+  "average": 3.38,
   "minimum": 0.0,
   "passed": false
 }
