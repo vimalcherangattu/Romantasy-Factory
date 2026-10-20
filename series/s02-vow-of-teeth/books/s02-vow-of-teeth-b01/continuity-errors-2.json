@@ -1,0 +1,199 @@
+{
+  "open_errors": [
+    {
+      "id": "E01",
+      "chapter": 5,
+      "severity": "major",
+      "category": "character",
+      "issue": "Devan never lies to Neela (bible fixed trait). In ch5 he tells her 'I have to see Bhaskaran about the gate', and the narration then says 'It was not true.'",
+      "fix": "Give him a true exit line and remove the narration that labels it a lie.",
+      "patches": [
+        {
+          "chapter": 5,
+          "find": "He set the water pot on the wall. He said, \"I have to see Bhaskaran about the gate,\" and walked down the terrace steps without looking back.",
+          "replace": "He set the water pot on the wall. He said, \"Excuse me,\" and walked down the terrace steps without looking back."
+        },
+        {
+          "chapter": 5,
+          "find": "It was not true. The wall by the cistern was near enough that he could stand there, palm flat on the cold laterite, until the chain went and covered the sound of his own breathing.",
+          "replace": "He went no farther than the wall by the cistern. He stood there, palm flat on the cold laterite, until the chain went and covered the sound of his own breathing."
+        }
+      ]
+    },
+    {
+      "id": "E02",
+      "chapter": 8,
+      "severity": "major",
+      "category": "character",
+      "issue": "Devan gives Neela 'Oil' as his reason for sending Raiu away, and the narration flatly says 'It did not save oil.' That makes the answer a lie to Neela, which breaks his fixed trait. It should read as a true but evasive answer, like 'Rain'.",
+      "fix": "Make the oil reason literally true but not the real motive.",
+      "patches": [
+        {
+          "chapter": 8,
+          "find": "It did not save oil. A lit lamp laid a gold bar under the door and across the floor,",
+          "replace": "It saved a little oil, and that was not the reason. A lit lamp laid a gold bar under the door and across the floor,"
+        }
+      ]
+    },
+    {
+      "id": "E03",
+      "chapter": 32,
+      "severity": "major",
+      "category": "knowledge",
+      "issue": "Ch32 says Devan locked the palace gift away because he distrusted the council and 'never once thought to distrust the gift'. In ch6 he says aloud 'I don't trust gifts from the palace', bans the set from their chamber, and keeps the queen's seal in his sleeve.",
+      "fix": "Align ch32 with his stated distrust of the palace. What he never suspected was that the same hand paid for his death.",
+      "patches": [
+        {
+          "chapter": 32,
+          "find": "The queen had sent the box herself, with her blessing on the match. He had locked it in the granary because he distrusted the council. He had never once thought to distrust the gift.",
+          "replace": "The queen had sent the box herself, with her blessing on the match. He had locked it in the granary because he distrusted the palace. He had never once thought the same hand would pay for his death."
+        }
+      ]
+    },
+    {
+      "id": "E04",
+      "chapter": 24,
+      "severity": "minor",
+      "category": "object",
+      "issue": "Vellan says the sword is 'Not on your side' and then says Devan lays it hilt toward her. The sword has lain on Neela's side of the bed since ch1.",
+      "fix": "Vellan confirms the sword is on her side.",
+      "patches": [
+        {
+          "chapter": 24,
+          "find": "Not on your side. He lays it hilt toward you. The watcher says.",
+          "replace": "On your side. He lays it hilt toward you. The watcher says."
+        }
+      ]
+    },
+    {
+      "id": "E05",
+      "chapter": 23,
+      "severity": "minor",
+      "category": "object",
+      "issue": "Ch23 quotes Ittan's letter in italics as 'I shall come myself this season, my friend, to see how the match has prospered.' The letter read aloud in ch17 contains no such line.",
+      "fix": "Quote a line that actually appears in the ch17 letter.",
+      "patches": [
+        {
+          "chapter": 23,
+          "find": "*I shall come myself this season, my friend, to see how the match has prospered.* He had thought it kindly meant.",
+          "replace": "*A man ought to look upon the gate he locks.* He had thought it kindly meant."
+        }
+      ]
+    },
+    {
+      "id": "E06",
+      "chapter": 23,
+      "severity": "minor",
+      "category": "injury",
+      "issue": "In ch23 Neela says her nails already split in her sleep, and Devan sees a ragged nail. Ch25 treats the first split nail as appearing on the new-moon morning ('three nails had split ... where there had been one this morning'). Ch21 and ch22 show only itching and aching.",
+      "fix": "In ch23 the nails ache and the quick is raw, but nothing has split yet.",
+      "patches": [
+        {
+          "chapter": 23,
+          "find": "He looked at her thumb. It was pressed hard against the nail of her forefinger, and the nail was ragged at the quick.",
+          "replace": "He looked at her thumb. It was pressed hard against the nail of her forefinger, and the skin was raw at the quick."
+        },
+        {
+          "chapter": 23,
+          "find": "The ache is already starting. Two nights I've skipped. My nails split in my sleep.",
+          "replace": "The ache is already starting. Two nights I've skipped. My nails ache at the quick in my sleep."
+        }
+      ]
+    },
+    {
+      "id": "E07",
+      "chapter": 9,
+      "severity": "minor",
+      "category": "name",
+      "issue": "Bindu is Kannan's mother. Neela learned of her singing at the well near the fort (ch5). In ch9 she appears among the women of the distant pass villages.",
+      "fix": "Give the singing villager in the pass a different name.",
+      "patches": [
+        {
+          "chapter": 9,
+          "find": "Bindu, who sang. A grandfather called Kesu with one eye.",
+          "replace": "Sarada, who sang. A grandfather called Kesu with one eye."
+        }
+      ]
+    },
+    {
+      "id": "E08",
+      "chapter": 7,
+      "severity": "minor",
+      "category": "timeline",
+      "issue": "Unni's name is on Asha's recruit slate, written in her first month of service at nineteen, which is nine years before book 1. That makes 'not much past twenty' too young, since he would have been a recruit at about eleven.",
+      "fix": "Age Unni to his mid-twenties.",
+      "patches": [
+        {
+          "chapter": 7,
+          "find": "He was thin as a ladle and not much past twenty.",
+          "replace": "He was thin as a ladle and not much past twenty-five."
+        }
+      ]
+    },
+    {
+      "id": "E09",
+      "chapter": 5,
+      "severity": "minor",
+      "category": "timeline",
+      "issue": "Asha is said to have 'come to the fort at nineteen'. However, Janu raised her at Kettamala, and ch12 has her drawing parrots on the cistern house walls as a girl.",
+      "fix": "Change 'came to the fort' to 'took up her post at the fort' in both places.",
+      "patches": [
+        {
+          "chapter": 5,
+          "find": "She had come to the fort at nineteen, and in her first month she had gone through the recruits",
+          "replace": "She had taken up her post at the fort at nineteen, and in her first month she had gone through the recruits"
+        },
+        {
+          "chapter": 12,
+          "find": "Her first month at the fort she had written the name of every recruit on it,",
+          "replace": "Her first month in the fort's service she had written the name of every recruit on it,"
+        }
+      ]
+    },
+    {
+      "id": "E10",
+      "chapter": 29,
+      "severity": "minor",
+      "category": "timeline",
+      "issue": "Devan has been warden for five years (stated in the same chapter) and Asha died six years ago. The line 'Asha had held [the warden's seal] for a week once ... and he had taken it back' implies Devan held the seal while she lived.",
+      "fix": "Their father, the warden then, took it back.",
+      "patches": [
+        {
+          "chapter": 29,
+          "find": "Asha had held it for a week once, as a joke, and he had taken it back crossly.",
+          "replace": "Asha had held it for a week once, as a joke, and their father had taken it back crossly."
+        }
+      ]
+    },
+    {
+      "id": "E11",
+      "chapter": 17,
+      "severity": "minor",
+      "category": "timeline",
+      "issue": "Devan says the leopard 'slipped the latch ... carefully, so the slat wouldn't ring'. The latch was lifted before the turning, by Neela, not the cat. In ch1 she pressed the third slat on purpose so that it creaked, and ch2 confirms it creaked.",
+      "fix": "Have Devan describe what the cat actually did after the turning.",
+      "patches": [
+        {
+          "chapter": 17,
+          "find": "Then it slipped the latch like somebody who had done it before, carefully, so the slat wouldn't ring.",
+          "replace": "Then it went over the ledge like something that had done it a hundred times."
+        }
+      ]
+    },
+    {
+      "id": "E12",
+      "chapter": 30,
+      "severity": "minor",
+      "category": "timeline",
+      "issue": "Neela asks for 'a morning one' and in the next breath sets the remarriage for noon, which is what happens in ch31.",
+      "fix": "Change 'morning' to 'daylight'.",
+      "patches": [
+        {
+          "chapter": 30,
+          "find": "I want to be married to you. Not because I was sold. I want a morning one.",
+          "replace": "I want to be married to you. Not because I was sold. I want a daylight one."
+        }
+      ]
+    }
+  ]
+}
