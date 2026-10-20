@@ -1,3 +1,19 @@
 {
-  "facts": []
+  "facts": [
+    {
+      "category": "relationship",
+      "fact": "Asha left unsigned notes ('Eat something.') on Devan's table, under his cup and inside his boots. Her parrot signature appears only on the notes found in ch 12.",
+      "since": "s02-vow-of-teeth-b01 ch 2"
+    },
+    {
+      "category": "place",
+      "fact": "Asha's body was found at the foot of the west stair, consistent with the stair newel and Janu finding her there.",
+      "since": "s02-vow-of-teeth-b01 ch 2"
+    },
+    {
+      "category": "object",
+      "fact": "While waiting for Neela's return, Devan carries his sword from the bedside floor to the window wall and replaces it hilt toward her side before she returns, so nothing in the room looks moved.",
+      "since": "s02-vow-of-teeth-b01 ch 2"
+    }
+  ]
 }

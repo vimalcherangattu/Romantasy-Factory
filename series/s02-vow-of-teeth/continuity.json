@@ -2841,6 +2841,27 @@
       "fact": "Neela tells Devan the twelfth contract only and says there were eleven before it, which he may have one at a time if he asks; he says he will ask. Sets up the lookout-at-Asha's-death reveal in book 2.",
       "since": "s02-vow-of-teeth-b01 ch 30",
       "provisional": true
+    },
+    {
+      "id": "F412",
+      "category": "relationship",
+      "fact": "Asha left unsigned notes ('Eat something.') on Devan's table, under his cup and inside his boots. Her parrot signature appears only on the notes found in ch 12.",
+      "since": "s02-vow-of-teeth-b01 ch 2",
+      "provisional": true
+    },
+    {
+      "id": "F413",
+      "category": "place",
+      "fact": "Asha's body was found at the foot of the west stair, consistent with the stair newel and Janu finding her there.",
+      "since": "s02-vow-of-teeth-b01 ch 2",
+      "provisional": true
+    },
+    {
+      "id": "F414",
+      "category": "object",
+      "fact": "While waiting for Neela's return, Devan carries his sword from the bedside floor to the window wall and replaces it hilt toward her side before she returns, so nothing in the room looks moved.",
+      "since": "s02-vow-of-teeth-b01 ch 2",
+      "provisional": true
     }
   ],
   "knowledge": [
