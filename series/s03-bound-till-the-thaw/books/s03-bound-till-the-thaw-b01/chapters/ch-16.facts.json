@@ -1,24 +1,29 @@
 {
   "facts": [
     {
-      "category": "object",
-      "fact": "Meera lashes the broken Rope-Hut door bar with Jassi's goat-hair cord and wedges the door with her pack; they recover seven of the eleven dry sticks from the felled juniper's root plate, and four are lost downslope.",
-      "why": "needed because ch15 ends with all eleven sticks swept out and the outline requires seven for the storm night."
-    },
-    {
-      "category": "object",
-      "fact": "Meera's redbark supply uses a brass button as the token for each drop, and the courier carries its twin (matches F052/F060); Meera links it to Varun's new brass button.",
-      "why": "needed because it supplies the 'Varun is her middleman' deduction in the outline."
+      "category": "magic",
+      "fact": "A sincere promise made while bound makes the rope hum a low, level note that Meera feels through her wrist; the sound stays even rather than climbing, as a true answer does at the waystone.",
+      "since": "s06 ch 16"
     },
     {
       "category": "knowledge",
-      "fact": "Rohan names the thing the regent's side would pay a lordship for as the queen's seal and confirms Meera has held it; he had told only Varun and the queen.",
-      "why": "needed because the evidence chain requires the seal as the hunters' target."
+      "fact": "Rohan noticed on waking that the seal's cord was retied in the warden's double hitch, and wondered who taught Meera that knot.",
+      "since": "s06 ch 16"
     },
     {
       "category": "knowledge",
-      "fact": "Rohan says he suspected Meera was the Salt Fox after her 'you deliver me' in ch14 but chose not to know; he stood at Varun's wedding.",
-      "why": "needed because it reconciles ch14's slip with his not knowing until ch16 and deepens the ten-year friendship."
+      "fact": "Meera heard one clean iron strike on stone before the avalanche's first crack in ch3, and now recognises it as a pick set to start the slide, matching the hunters' picks on the Teeth.",
+      "since": "s06 ch 16"
+    },
+    {
+      "category": "knowledge",
+      "fact": "The hunters came up the one chimney line of the Goat's Teeth that lets out behind the stone fold on the herdsmen's cut, the line drawn on Rohan and Varun's single fallback sheet.",
+      "since": "s06 ch 16"
+    },
+    {
+      "category": "timeline",
+      "fact": "Varun has been buried about eleven days at ch16 (revises the nine-day figure in F131).",
+      "since": "s06 ch 16"
     }
   ]
 }
