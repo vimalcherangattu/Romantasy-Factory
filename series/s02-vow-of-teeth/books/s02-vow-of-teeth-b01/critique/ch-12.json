@@ -6,35 +6,38 @@
     "shown_chemistry": 4.0,
     "character_logic": 4.0,
     "stakes_and_cost": 4.0,
-    "prose": 3.0,
-    "continuity": 0.0
+    "prose": 4.0,
+    "continuity": 5.0
   },
   "reasons": {
-    "reader_question": "The bargain question is specific. Neela's blanching at the mended beak adds a second, sharper question for the reader.",
-    "change": "Devan moves from tool to will and gains matching wax evidence. He resolves on the bargain while knowing it will cost the closeness he just found.",
-    "romance_movement": "First real disclosure, met responsively. His closing the distance across the floor without noticing is a new reason for movement.",
-    "shown_chemistry": "She leaves 'How?' alone, laughs at the right line, touches the slate; his hand over his mouth shows the effect without narration.",
-    "character_logic": "Hiding the tally ('not a lie, she had not asked') and reasoning from Muthu's tell are smart and in character.",
-    "stakes_and_cost": "Final paragraph names the cost: she will never sit unasked beside him again. The tally adds plot stakes.",
-    "prose": "Concrete and well paced. Weakened by 'My sister' said twice, 'weighed' four times, and 'Something in his chest shifted'.",
-    "continuity": "'I won't answer that' to Neela here conflicts with F400 (ch17 is the first time). Unni as a recruit nine years ago clashes with F355."
+    "reader_question": "Neela's blanching at the broken beak gives the reader a sharp private question beyond the bargain, whose terms the page already states.",
+    "change": "Tool to will, the seal match across six years, and the decision to bargain all land; knowledge, judgement and plan all shift.",
+    "romance_movement": "First real disclosure, met responsively both ways; the knee-gap closes unasked. The reason is new, Asha, not a replayed refusal.",
+    "shown_chemistry": "She leaves 'How?' alone, laughs at the right line, touches Unni's name; he laughs behind his hand. All responsive action, no narration.",
+    "character_logic": "Devan's red-herring reasoning on Muthu is plausible from his known tell. Neela's 'I was one' slip is risky but true to her habit.",
+    "stakes_and_cost": "The closing cost is precise: once he names the bargain she won't sit like that again, and he knows it is the guild's move.",
+    "prose": "Specific and restrained, with no banned phrases. Several consecutive paragraphs open with 'He', 'read' echoes, and the opening leans on rumination.",
+    "continuity": "Ages (Asha 22 at 26 for Devan), the seal mark, Sudhi's ninth-day post, grey wax, the carved box and the withheld note all match canon."
   },
   "fixes": [
-    "Continuity, at '\"I won't answer that.\"' (the beat-mandated line): F400 says ch17 is the first time Devan says this to Neela. Keep the line and log a correction to F400 in new-facts: ch12 is the first time, and ch17 is the first time in the dark rule. If ch5 already gave Neela Asha's name, change '\"Whose room?\"' to '\"Is this Asha's?\"' to match F313.",
-    "Unni's age, at 'The same boy, grown thin and tall, now held his gate': Unni is barely past twenty (F355), so he would have been about eleven in Asha's first month nine years ago. Recast him as 'the cook's boy who ran water to the recruits', or cut the line and keep only the salt-fish ghost. That avoids implying a child recruit.",
-    "Prose echoes. At 'My sister. Asha. Four years younger than me. My sister.', cut the second 'My sister' so it reads 'Four years younger. My second, after.' Reduce 'weighed/weigh' from four uses to two. Replace 'Something in his chest shifted and lay down again' with a concrete action, such as his thumb stopping on the beak."
+    "Opening, 'Devan put his hand to the back of his neck': the first 150 words are reflection, and the hook is weak (Endless monologue risk). Open on action instead. Put Devan alone in the pit at full light, turning right and catching his left hand dropping half a palm. Then cut the second paragraph block to three short lines before 'He weighed it anyway.'",
+    "Gate scene, 'The half-breath beforehand was a man embarrassed': Devan names and dismisses the clue in the same breath, which over-explains Technique 11. Cut that sentence. Let him note the half-breath only as a sensation, then reason from the loud laugh and the grey wax. The reader then holds the pause unexplained.",
+    "Final section, 'He read the line three times' / 'He knew the shape of the offer now' and 'He laid the lid down' / 'He would offer her': consecutive paragraphs open on 'He', against the style guide. Also 'read' echoes three times across the chapter. Recast, e.g. 'The shape of the offer was plain now,' and 'Once, then, and plainly.'"
   ],
-  "reader_question": "What price will Devan set on his silence, and what does Neela's horror at Asha's mended parrot mean?",
+  "reader_question": "What did Neela recognise in the broken-beaked parrot, and will Devan's bargain wreck the trust they built over Asha's chest?",
   "techniques_landed": [
     13,
     10,
     11,
-    25
+    25,
+    9
   ],
-  "new_facts_assessment": "The carved box is consistent with F267 and acceptable. The cistern-house drawings are harmless texture. The seventh day replacing Thursday is a good fix: it links to Muthu's seventh-day sparring and removes a real-world weekday name. F114 should be updated. F417 'Neela first hears it here' needs checking against ch5 (F063, F313, F066), where Neela may already have learned of Asha's slate and death. The 'number, once' disclosure is risky but in character and earned.",
+  "new_facts_assessment": "F419 to F422 are all necessary reconciliations. They are consistent with F063, F110, F355, F060, F373 and F400, and they correct earlier drafts without new plot.",
   "content_rule_violation": false,
-  "failure_modes": [],
-  "average": 3.38,
-  "minimum": 0.0,
-  "passed": false
+  "failure_modes": [
+    "Endless monologue"
+  ],
+  "average": 4.12,
+  "minimum": 4.0,
+  "passed": true
 }

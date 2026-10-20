@@ -1,0 +1,43 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 4.0,
+    "stakes_and_cost": 4.0,
+    "prose": 4.0,
+    "continuity": 5.0
+  },
+  "reasons": {
+    "reader_question": "Neela's blanching at the broken beak gives the reader a sharp private question beyond the bargain, whose terms the page already states.",
+    "change": "Tool to will, the seal match across six years, and the decision to bargain all land; knowledge, judgement and plan all shift.",
+    "romance_movement": "First real disclosure, met responsively both ways; the knee-gap closes unasked. The reason is new, Asha, not a replayed refusal.",
+    "shown_chemistry": "She leaves 'How?' alone, laughs at the right line, touches Unni's name; he laughs behind his hand. All responsive action, no narration.",
+    "character_logic": "Devan's red-herring reasoning on Muthu is plausible from his known tell. Neela's 'I was one' slip is risky but true to her habit.",
+    "stakes_and_cost": "The closing cost is precise: once he names the bargain she won't sit like that again, and he knows it is the guild's move.",
+    "prose": "Specific and restrained, with no banned phrases. Several consecutive paragraphs open with 'He', 'read' echoes, and the opening leans on rumination.",
+    "continuity": "Ages (Asha 22 at 26 for Devan), the seal mark, Sudhi's ninth-day post, grey wax, the carved box and the withheld note all match canon."
+  },
+  "fixes": [
+    "Opening, 'Devan put his hand to the back of his neck': the first 150 words are reflection, and the hook is weak (Endless monologue risk). Open on action instead. Put Devan alone in the pit at full light, turning right and catching his left hand dropping half a palm. Then cut the second paragraph block to three short lines before 'He weighed it anyway.'",
+    "Gate scene, 'The half-breath beforehand was a man embarrassed': Devan names and dismisses the clue in the same breath, which over-explains Technique 11. Cut that sentence. Let him note the half-breath only as a sensation, then reason from the loud laugh and the grey wax. The reader then holds the pause unexplained.",
+    "Final section, 'He read the line three times' / 'He knew the shape of the offer now' and 'He laid the lid down' / 'He would offer her': consecutive paragraphs open on 'He', against the style guide. Also 'read' echoes three times across the chapter. Recast, e.g. 'The shape of the offer was plain now,' and 'Once, then, and plainly.'"
+  ],
+  "reader_question": "What did Neela recognise in the broken-beaked parrot, and will Devan's bargain wreck the trust they built over Asha's chest?",
+  "techniques_landed": [
+    13,
+    10,
+    11,
+    25,
+    9
+  ],
+  "new_facts_assessment": "F419 to F422 are all necessary reconciliations. They are consistent with F063, F110, F355, F060, F373 and F400, and they correct earlier drafts without new plot.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Endless monologue"
+  ],
+  "average": 4.12,
+  "minimum": 4.0,
+  "passed": true
+}
