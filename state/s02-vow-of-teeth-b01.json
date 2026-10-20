@@ -326,7 +326,7 @@
       ]
     },
     "16": {
-      "status": "continuity-fix",
+      "status": "revised",
       "revisions": 2,
       "scores": {
         "reader_question": 4.0,
@@ -342,7 +342,7 @@
       "flags": [
         "needs-owner"
       ],
-      "words": 2824,
+      "words": 2950,
       "minimum": 0.0,
       "continuity_fixes": [
         "Neela recalls Janu's story as one about 'a leopard that took a bride' that Devan stopped with 'enough'. In ch 9 the story was a man-eating leopard taking a man above the second ford, and Devan said 'Not tonight, Janu'. FIX: In ch 16, change the sentence to 'Janu had told a story at supper once, of a man-eater of the pass that left a traveller's sandals on the road. Devan had said Not tonight, Janu, so mildly that she went red and stopped.'",
@@ -1487,9 +1487,13 @@
     {
       "at": "2026-10-20T00:36:41",
       "event": "done: S5 critique ch 14"
+    },
+    {
+      "at": "2026-10-20T00:37:33",
+      "event": "done: S6 revise ch 16"
     }
   ],
-  "updated_at": "2026-10-20T00:36:41",
+  "updated_at": "2026-10-20T00:37:33",
   "midpoint_chapter": 16,
   "continuity_attempts": 2,
   "continuity_last_errors": 13
