@@ -6,37 +6,36 @@
     "shown_chemistry": 3.0,
     "character_logic": 3.0,
     "stakes_and_cost": 4.0,
-    "prose": 4.0,
+    "prose": 3.0,
     "continuity": 0.0
   },
   "reasons": {
-    "reader_question": "Kiran's bolt mid-sentence is sharp, but the reader likely already suspects him from the ear, badge and flinch, so it's half-answered.",
-    "change": "Ila is revealed as captive, a road plan and public seal-walk are agreed, the speech stalls, and Kiran flees.",
-    "romance_movement": "First goals-conflict as lovers is settled by trading costs. That's new, and the beat's romance_change lands.",
-    "shown_chemistry": "The bargain dialogue works. Then narration summarises it: 'something in her face unlock', 'first quarrel... each gave something up'.",
-    "character_logic": "A captain who reads orders closely would not accept a schedule that misses the Fair. Nimmi's 'should have gone yesterday' goes unanswered.",
-    "stakes_and_cost": "Real costs on both sides: his sister's margin, her half-treated children, a smuggler in daylight. The patrol's ash-house pass rule is ignored.",
-    "prose": "Clean, varied, concrete. 'He had not' openings recur, and a few explanatory lines restate what the scene already showed.",
-    "continuity": "Timeline fails: four days to the Fair, three days' stay and a day-and-a-half road cannot reach Garh Neshar 'the evening before'."
+    "reader_question": "Kiran bolting mid-sentence leaves a sharp question, though readers mostly know the answer, so the real pull is how Meera learns.",
+    "change": "Ila raises Rohan's personal stakes, a costed deal is struck, a bound promise is made, and Kiran flees the house.",
+    "romance_movement": "Their first goal clash as lovers is settled by an equal trade, each giving up something real. The beat lands.",
+    "shown_chemistry": "The open hands, the hum and the count entry work. 'Odd light, as if it pleased her' narrates the attraction.",
+    "character_logic": "Rohan sees Kiran's scarred ear bare after reading the ear-rim report (F063). He looks foolish or the reveal comes early.",
+    "stakes_and_cost": "Half-treated children against his sister and the seal. Both costs are said aloud, and the promise binds him to the cold.",
+    "prose": "Mostly clean and concrete. 'Winter had come in October' breaks the winters calendar, and several lines are stiff or wrong.",
+    "continuity": "The day count conflicts: four days at ch19 minus a day slept is not 'four days', and the road arithmetic fails."
   },
   "fixes": [
-    "'We leave at first light on the fourth' (Timeline error). With the Fair four days off and 1.5 days of road, they must leave at first light of the third day. Rohan concedes two days, not three. The marked cases get their last dose at second dusk. Then revise 'Three isn't six', the scene-four 'third day' header, and F185 to match. Have Meera raise the patrol's third-day pass rule as part of the cost.",
-    "'curled like a child, her breath slow' (content-rule risk). This is a childlike image in a lover's tender gaze, the morning after the explicit scene. Replace it with an adult, specific image, e.g. 'curled round the count like a guard round a gate, her breath slow'.",
-    "'he saw something in her face unlock' (Narrated-only chemistry). Cut that line and 'It was the first quarrel... both mean to pull'. Show it instead: his 'I will not' is a bound promise, so let the rope hum low and level (F149). Meera feels it, opens the count and writes 'Three days. R. promised.' before taking his hand."
+    "At 'four days till the Fair and a day and a half of road': continuity conflict. F178 gave four days at ch19's close, and Kiran has since slept a full day, so three remain. Recount everything: Fair three days off, Rohan concedes one day, the marked cases' last dose at tomorrow's dusk, leave the next dawn, a day and a half of road lands them the evening before the Fair. Update the 'second day' scene, the patrol's third-day line and F185/F187/F189.",
+    "At 'the white scar of his ear bare': Rohan's POV sees the ear while he knows the report's frozen ear-rim (F063). Either he looks foolish (technique 13 failure) or the reveal jumps ahead of ch29. Keep the wool cap on as Kiran runs, or let Meera block the doorway, so Rohan sees only stockings on frozen mud and the open lane.",
+    "At 'Winter had come in October': a real month in a world that counts winters breaks the texture. Write 'Winter had come a month early.' Also fix 'She had put her own name into a book' (she wrote his name, not hers; say 'She had written the worst of me into her book'). Replace 'as if it pleased her to be treated so' with a visible action, such as her capping the ink and sitting forward."
   ],
-  "reader_question": "Why did Kiran run the moment Rohan began asking whose rope Dilan cut, and will Meera now learn the truth?",
+  "reader_question": "Why did Kiran run the moment Rohan asked whose rope Dilan was on, and what will Meera do when she catches him?",
   "techniques_landed": [
     8,
     13,
     15
   ],
-  "new_facts_assessment": "The pattu, the carter's report, the seal-walk concession, the six-day course and the speech sheet are necessary and consistent. F185 is internally impossible: leaving at first light on day four with 1.5 days of road misses a Fair four days off. The new plan also ignores F179, which bars leaving marked houses after day three without a pass.",
+  "new_facts_assessment": "F185/F187 rewrite the beat (six days to four, three to two). This could work, but the dates clash with F178 after Kiran's day of sleep, and the arrival maths fails. F189 applies F149 well and adds a useful cost.",
   "content_rule_violation": false,
   "failure_modes": [
-    "Narrated-only chemistry",
     "Irrational behaviour to extend plot"
   ],
-  "average": 3.25,
+  "average": 3.12,
   "minimum": 0.0,
   "passed": false
 }
