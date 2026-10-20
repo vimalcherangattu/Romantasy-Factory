@@ -45,7 +45,7 @@
       }
     },
     "02": {
-      "status": "passed",
+      "status": "edited",
       "revisions": 0,
       "scores": {
         "reader_question": 4.0,
@@ -59,12 +59,23 @@
       },
       "average": 4.0,
       "flags": [],
-      "words": 2442,
+      "words": 2396,
       "minimum": 3.0,
       "continuity_fixes": [
         "Devan watches her 'lift the bar from the west shutters' on the wedding night, but the bar is first used on the second dusk (ch 3, ch 10, ch 30). FIX: In ch 2, change 'he watched her lift the bar from the west shutters' to 'he watched her lift the latch on the west shutters'.",
         "Asha's parrot signature is 'a quick three-stroke bird, beak open'. Ch 12 describes it as five strokes with the beak always whole. FIX: In ch 2, change 'A quick three-stroke bird, beak open, always laughing at something' to 'A quick five-stroke bird with a whole beak, always laughing at something'."
-      ]
+      ],
+      "style": {
+        "words": 2396,
+        "banned_hits": {},
+        "ai_tell_hits": {},
+        "ai_tells_per_1000": 0.0,
+        "top_4gram": "he lay on his",
+        "top_4gram_count": 2,
+        "longest_paragraph_words": 99,
+        "em_dashes_per_1000": 0.0,
+        "reading_ease": 92.4
+      }
     },
     "03": {
       "status": "passed",
@@ -1693,9 +1704,13 @@
     {
       "at": "2026-10-20T07:46:37",
       "event": "done: S8 line edit ch 1"
+    },
+    {
+      "at": "2026-10-20T07:47:06",
+      "event": "done: S8 line edit ch 2"
     }
   ],
-  "updated_at": "2026-10-20T07:46:37",
+  "updated_at": "2026-10-20T07:47:06",
   "midpoint_chapter": 16,
   "continuity_attempts": 3,
   "continuity_last_errors": 2
