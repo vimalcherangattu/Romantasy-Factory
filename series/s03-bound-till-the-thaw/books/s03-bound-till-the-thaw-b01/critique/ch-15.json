@@ -6,37 +6,37 @@
     "shown_chemistry": 4.0,
     "character_logic": 3.0,
     "stakes_and_cost": 4.0,
-    "prose": 3.0,
-    "continuity": 0.0
+    "prose": 4.0,
+    "continuity": 5.0
   },
   "reasons": {
-    "reader_question": "Clear and specific: what source was she naming, and can they survive the storm night without wood?",
-    "change": "Knowledge (redbark links hunters to her supply), position (trapped back at the hut) and touch all shift.",
-    "romance_movement": "New reason: protective reciprocity on the ledge, then his first deliberate skin-to-skin care, accepted.",
-    "shown_chemistry": "Responsive action carries it: the ice warning obeyed, the bare-side warming, 'I wasn't complaining' banter.",
-    "character_logic": "Meera's slide fills the chimney they must descend, yet nobody weighs that. Sticks stacked by the door look staged.",
-    "stakes_and_cost": "Five-in-six odds, hunters left in a storm, and eleven sticks lost past the rope's reach give real cost.",
-    "prose": "Mostly clean and concrete. 'Crack like a rifle' breaks the world; 'screamed' twice and 'drowning man' are stock.",
-    "continuity": "'Three cracked ribs' conflicts with F085 (seventh and eighth, two ribs). A rifle simile implies firearms nowhere established."
+    "reader_question": "Sharp gap: whose supply links Meera's redbark to the regent's hunters, plus an immediate survival clock of eleven sticks.",
+    "change": "Knowledge (shared sieve mark), power (the road down is shut by her own hand) and relationship (first chosen skin contact) all shift.",
+    "romance_movement": "New reason: each saves the other in their own domain, and touch is offered without writ or lie-test. That is fresh.",
+    "shown_chemistry": "The ice warning, his feet obeying, her forehead on his shoulder and the flint banter are responsive. The ledge trust is partly narrated.",
+    "character_logic": "Mostly sharp. The final line misstates the rope rule as a leash to the hut, and the door bar fails by coincidence.",
+    "stakes_and_cost": "The slide carries one-in-six odds and costs their road down. Eleven sticks in a storm is concrete. The days-to-Fair clock goes unmentioned.",
+    "prose": "Clean, concrete, varied. Minor clichés: 'That was all, and it was enough', 'a sound that might have been a laugh'.",
+    "continuity": "Stick count (12 to 11), ribs 7 and 8, the sieve mark, the bell and the juniper position all match. No hard conflict."
   },
   "fixes": [
-    "'He had not taught it with three cracked ribs': continuity conflict with F085, which fixes the injury as two ribs, the seventh and eighth. Change to 'two cracked ribs'.",
-    "'went over on its hinges with a crack like a rifle': worldbuilding collapse, since there are no firearms in Hemkot. Replace with an in-world sound such as a split deodar or a breaking ice shelf. Also cut 'His ribs screamed' and 'as a drowning man follows a rope' and use specific sensations.",
-    "'a wall of tight white snow where the chimney had been': the slide blocks their own way down, but this cost is never voiced. Add two lines where Meera admits she has shut their descent along with the hunters', and that they must climb back. At 'against the wall beside the door', give her a reason for stacking the wood there, such as keeping it dry from roof drip."
+    "Final line, 'past eight arm-spans of rope, the mountain would not let': this misstates Rule 1, since the rope binds partner to partner, not to the hut, so both could chase the sticks together. Make the cost real: one must hold the door and keep the coals alive, and the rope stops the runner a stride short of the felled juniper (F120). Or both go and the fire dies behind them.",
+    "'its old frost-split giving at last': this is a coincidental interruption (technique 7 must not be coincidence). Plant it at 'Meera barred the door with both hands'. Have her see the split in the bar, or have it groan under the first gust, so the gust pays off a known weakness.",
+    "'same as—' followed by 'came from the same—': the double truncation wastes the cliffhanger. Cut the first stop and let her hold the twist to the roll silently, then speak the single interrupted line. Also replace the narrated 'That was all, and it was enough. For a moment he had stood' with a physical beat, such as his heel still exactly where she put it."
   ],
-  "reader_question": "What was Meera about to say her redbark and the hunter's came from, and can they survive the storm night once the woodpile blows out?",
+  "reader_question": "What was Meera about to name as the common source of her redbark and the hunter's, and can they save the wood and last the storm night?",
   "techniques_landed": [
     6,
     7,
     11
   ],
-  "new_facts_assessment": "All six facts are necessary and consistent with the beat and ch14 (12 sticks less 1 is 11; eight spans; juniper past reach). Two problems: the oak bar failing after days of holding needs a cause, and the 'tarred rope' between the hunters should be stated as a climbing line, not their wool bond.",
+  "new_facts_assessment": "The draft's list is empty, but F139 to F144 already record this chapter's facts. Unlisted additions are the door bar's old frost-split, the four hunters coming via the chimney, and Meera working bare-handed. All are consistent. The frost-split is needed for the ending but is not planted earlier. Rohan's 'They were told the Teeth' implies only he and Meera knew the route. It is a good, if unresolved, suspicion and should be tracked.",
   "content_rule_violation": false,
   "failure_modes": [
-    "Worldbuilding collapse",
-    "Irrational behaviour to extend plot"
+    "Contrived delays",
+    "Narrated-only chemistry"
   ],
-  "average": 3.25,
-  "minimum": 0.0,
-  "passed": false
+  "average": 4.0,
+  "minimum": 3.0,
+  "passed": true
 }
