@@ -497,7 +497,7 @@
       }
     },
     "16": {
-      "status": "passed",
+      "status": "edited",
       "revisions": 2,
       "scores": {
         "reader_question": 4.0,
@@ -513,7 +513,7 @@
       "flags": [
         "needs-owner"
       ],
-      "words": 2958,
+      "words": 2947,
       "minimum": 0.0,
       "continuity_fixes": [
         "Neela recalls Janu's story as one about 'a leopard that took a bride' that Devan stopped with 'enough'. In ch 9 the story was a man-eating leopard taking a man above the second ford, and Devan said 'Not tonight, Janu'. FIX: In ch 16, change the sentence to 'Janu had told a story at supper once, of a man-eater of the pass that left a traveller's sandals on the road. Devan had said Not tonight, Janu, so mildly that she went red and stopped.'",
@@ -521,7 +521,18 @@
         "The reread puts the sentry first and has the hounds 'kennelled in the first week, after the sentry was pulled.' In fact the hounds were kennelled from the second night (the ch 3 night walk and Kannan in ch 4), before Devan pulled the sentry in ch 5. Ch 30 and F344 also give hounds first, sentry second. FIX: In ch 16, swap the order: the hounds kennelled from the second night, then 'the sentry above the window pulled a few nights on.' Delete 'after the sentry was pulled.'",
         "Neela recalls that 'Janu had called it damp-madness.' In ch 10 Janu told her the damp theory belonged to Bhaskaran's lads, and that her own theory was 'shy.' F322 repeats the error. FIX: In ch 16, change to: 'Bhaskaran's lads called it damp-madness, Janu called it shyness, and Chinna ran a wager on it at the kitchen door.'",
         "In ch 10 Janu gives the fort's theories about the barred shutters: Bhaskaran's lads say privacy, Gopan says Janu's old tale, Janu herself says the damp, and Chinna runs the wager. Ch 31 repeats that set (damp-madness, privacy, Janu's old tale). Ch 16 instead says Bhaskaran's lads called it damp-madness and Janu called it shyness. FIX: In ch 16, change the sentence to: 'Bhaskaran's lads called it privacy, Gopan called it Janu's old tale, Janu called it the damp, and Chinna ran a wager on it at the kitchen door.'"
-      ]
+      ],
+      "style": {
+        "words": 2947,
+        "banned_hits": {},
+        "ai_tell_hits": {},
+        "ai_tells_per_1000": 0.0,
+        "top_4gram": "he heard it in",
+        "top_4gram_count": 2,
+        "longest_paragraph_words": 109,
+        "em_dashes_per_1000": 0.0,
+        "reading_ease": 93.2
+      }
     },
     "17": {
       "status": "passed",
@@ -1905,9 +1916,13 @@
     {
       "at": "2026-10-20T07:54:51",
       "event": "done: S8 line edit ch 15"
+    },
+    {
+      "at": "2026-10-20T07:55:28",
+      "event": "done: S8 line edit ch 16"
     }
   ],
-  "updated_at": "2026-10-20T07:54:51",
+  "updated_at": "2026-10-20T07:55:28",
   "midpoint_chapter": 16,
   "continuity_attempts": 3,
   "continuity_last_errors": 2
