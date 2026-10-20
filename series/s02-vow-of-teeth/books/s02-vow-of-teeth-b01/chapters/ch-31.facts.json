@@ -1,18 +1,19 @@
 {
   "facts": [
     {
-      "id": "F289",
       "category": "plot",
-      "fact": "CORRECTED: The first Resin House fodder run was held by rain; the lower wood road drains in a day, though the Monkey Pass stays shut until the rains break (about four months, F020). Muthu carries the cart, with water and a clean cloth for Kirri's cage, in three days. Devan rewarmed the dawn cloth at the brazier in the night.",
-      "since": "s02-vow-of-teeth-b01 ch 31",
-      "provisional": true
+      "fact": "Corrects F289/F291: Bhaskaran's men got water through to the Resin House kennels before the rain shut the wood road for a few days; the road opens again between downpours. Muthu's cart, with fodder, water and a clean cloth for Kirri's cage, is the second run, three days after the vow. The Monkey Pass stays shut until the rains break. Devan rewarmed the dawn cloth at the brazier in the night.",
+      "since": "s02-vow-of-teeth-b01 ch 31"
     },
     {
-      "id": "F291",
+      "category": "plot",
+      "fact": "Refines F287: at the middle watch Devan sent Unni to Bhaskaran with the order that nobody enters the guardroom until Devan comes. He told Neela at dawn, after she had eaten, and she chose to wait an hour. Bhaskaran steps aside for Muthu, who enters with the grey-sealed packet, so Muthu gets the first word with Ittan.",
+      "since": "s02-vow-of-teeth-b01 ch 31"
+    },
+    {
       "category": "knowledge",
-      "fact": "Near the middle watch Neela, in leopard shape, heard a low voice and a boot at the chamber door and took it for the watch changing; Devan rose, spoke three words and returned. He later tells her it was Unni with Ittan's request (F287).",
-      "since": "s02-vow-of-teeth-b01 ch 31",
-      "provisional": true
+      "fact": "Neela's vow states she has been given a number for twenty-one of her twenty-seven years; Janu calls Devan a man of thirty-two. Both ages are on the page before the dawn scene.",
+      "since": "s02-vow-of-teeth-b01 ch 31"
     }
   ]
 }
