@@ -1,0 +1,41 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 3.0,
+    "stakes_and_cost": 4.0,
+    "prose": 4.0,
+    "continuity": 5.0
+  },
+  "reasons": {
+    "reader_question": "The question is sharp: who sold a single-copy route drawn by a dead man? Lalit's voice adds a second question: what is Asha being paid for?",
+    "change": "Knowledge shifts twice: the route was sold, and Asha's crew is guiding the hunters. The pair also make their first physical allowance.",
+    "romance_movement": "The 'Guide' answer is a new reason, protection rather than dismissal, and verified by warm hands. The touch on the rope is new and earned.",
+    "shown_chemistry": "Apology counting, 'I would rather you were warm', and her thumb stopping on the cup are responsive actions, not narration.",
+    "character_logic": "Rohan clears Meera too fast despite his fever and her parley with Asha. 'Nothing' passing as free evasion strains the lie rule.",
+    "stakes_and_cost": "Thirteen sticks, two days and a refusal paid in warmth give a real cost. The hunters arriving tonight raises it further.",
+    "prose": "Precise and wry ('as if it might be asked to testify'). One image repeats chapter 12, and the hanging-tally recap is redundant.",
+    "continuity": "Stick count (24, then 19, then 13), day count, writ-case goggles, seal knot and Lalit all match the bible and earlier chapters."
+  },
+  "fixes": [
+    "At \"Meera? He had named the cut to her himself\" (Irrational behaviour): Rohan cannot clear her on 'tied to him every hour'. He lay fevered while she spoke with Asha's people in chapter 10. Let him remember those hours, fail to strike her off, and choose not to ask. Her name stays on his list. That makes 'I would say the same' a costly line and gives the Salt Fox question a new edge.",
+    "At \"'Nothing.' His hands stayed warm. It was not a lie\" (Worldbuilding collapse): 'Nothing' is a false statement said to be believed, so the rope should bite. Either replace it with true evasion ('Ask me tomorrow' or plain silence, which is free), or let one fingertip whiten and have Meera see it. Do not argue the rule away in narration.",
+    "At \"Below the voice came the sound of boots\" (stakes not registered): Meera's two-day estimate collapses the same night, and neither lead notices. Add one line where Rohan does the sum: they are a day early, climbing by dark with a guide. That lands the shift to 'cornered'. Also cut 'they stayed the colour of hands', which repeats chapter 12's image; use a fresh detail."
+  ],
+  "reader_question": "Who sold Rohan's single-copy fallback route, and why is Asha's crew leading the regent's hunters up it tonight?",
+  "techniques_landed": [
+    1,
+    9
+  ],
+  "new_facts_assessment": "F130 is necessary and fits F127 and F111. But 'tied to him every hour' ignores Rohan's fever and Meera's chapter 10 parley with Asha. F131 (nine days buried) fits F089's day count and is fine.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Irrational behaviour to extend plot",
+    "Worldbuilding collapse"
+  ],
+  "average": 4.0,
+  "minimum": 3.0,
+  "passed": true
+}
