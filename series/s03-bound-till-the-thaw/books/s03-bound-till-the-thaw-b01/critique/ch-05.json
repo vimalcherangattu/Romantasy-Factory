@@ -6,36 +6,39 @@
     "shown_chemistry": 4.0,
     "character_logic": 3.0,
     "stakes_and_cost": 4.0,
-    "prose": 3.0,
-    "continuity": 0.0
+    "prose": 4.0,
+    "continuity": 5.0
   },
   "reasons": {
-    "reader_question": "The ending is strong. Rohan's 'It's nothing' whitens his fingers under the cairn-light while Meera counts, and Kiran's ear quietly sharpens the Dilan thread.",
-    "change": "Rohan now holds evidence against her (206 crossings, written down). He has committed harbouring on purpose. Both have felt that the other's body is their own survival.",
-    "romance_movement": "The reasons are new. She says his body is hers to keep, and he answers 'mine to keep in turn.' He sits at her fire and returns half her ration. Trust moves without a recycled refusal.",
-    "shown_chemistry": "The chemistry comes through action: his palms turned up to the fire, half the cup handed back, his unasked listening, her hauling him in. A few lines still narrate ('surprised her more than anything').",
-    "character_logic": "Mostly sharp. Rohan's motive line ('three winters') undercuts his own answer, and the invented 'summer, then autumn' exchange makes him misquote her for no reason.",
-    "stakes_and_cost": "Each step has a price. Sitting at the fire is a hanging crime, the count is spoken evidence, the distance cold costs them both, and the rib lie sets up ch. 6.",
-    "prose": "The prose is clean and readable. It repeats images from ch. 4 ('like frost on a window', sky/eyes 'the colour of iron') and leans on 'X was free' several times. 'His eyes held hers' is a stock line.",
-    "continuity": "The memory 'ten winters back, when she and Kiran had been children' conflicts with the bible. Ten winters ago Meera was 19 and Kiran 14, and that was the winter their mother died."
+    "reader_question": "The closing image is specific and earned: whitening fingertips under a glove after 'It's nothing'. Garh Neshar and the Kiran flicker add secondary gaps, but 'how big' is half-answered by 'as hers had', which implies a small lie.",
+    "change": "Knowledge moves both ways. He learns her count of 206, which is evidence. She learns the one-for-the-law, two-for-him accounting. He commits harbouring at her fire and lies to her for the first time.",
+    "romance_movement": "The reason for movement is new: 'mine to keep in turn' turns her claim into mutual dependence, and the disclosure trade gives each a costly truth met with a response ('I am not laughing').",
+    "shown_chemistry": "Attraction lives in responsive action: she hauls him back hand over hand, he returns half the sattu, he notices her count, and she notices the gap in his sum. Only the eye-colour line drifts into stock description.",
+    "character_logic": "A man who 'goes silent instead of lying' has just been offered a free refusal and has just used one on Garh Neshar. He then tells a lie he knows his fingers will expose, and the page gives no reason. He has also already admitted the cracked ribs, so the truth behind 'It's nothing' is never pointed at.",
+    "stakes_and_cost": "Confession as evidence ('That's evidence, Captain'), the fire as a hanging crime, and the separation cold all cost something on the page. The coming climb inherits the hidden injury.",
+    "prose": "Concrete, varied and often quotable ('Silence was free, and he had made good use of it all night'). Flaws: 'dull grey of wet slate' eyes, 'like a fish onto a bank', the odd 'older wardens learn it as children', and an ambiguous final count.",
+    "continuity": "No hard conflict. The carving, the ribs, the eight-span rope, the three winters of hunting, the timing of Dilan's death and the sattu wager all match. The superseded F079 must be retired from continuity.json, and the age-15 crossing needs reconciling with 'begins smuggling at 19' (being carried is not smuggling, so this is acceptable)."
   },
   "fixes": [
-    "In 'ten winters back, when she and Kiran had been children playing at the end of a rope', there is a continuity error: Meera was 19 and Kiran 14 that winter, and children cannot be bound by play. Replace it with a real bound crossing before their mother's death. For example: 'the winter she was fifteen, on her first bound crossing with her mother, when she had gone back for a dropped mitten and her mother had screamed.' Update new-facts.json to match.",
-    "In 'I have not found a better reason in three winters, and I have looked', the motive contradicts itself (Irrational behaviour). Dilan died two winters ago, but Rohan has hunted the crew for three, so the stated reason postdates the hunt. Meera's flat 'Two winters' / 'Yes' leaves the reader wondering whether he lied with no cold to show for it. Make the gap the point. For example: 'I hunted the crew one winter because the law said so. I have hunted it two more for him.' Let Meera's correction become her noticing that the timing is precise.",
-    "Cut or rewrite 'You walked it in summer, you said, and then in autumn', and 'She had said no such thing.' Rohan misquoting her contradicts the next line, which says he listened and kept everything. It also raises the unanswered question of whether her 'turn of the year' claim was a lie. Have him quote something she actually said in ch. 4 (for example the rock band or the dry seam). In the same pass, replace the reused ch. 4 images ('like frost on a window' on his fingertips; eyes 'the colour of cold iron') with fresh ones."
+    "At \"'Are your ribs hurt, Captain? Plainly.' 'It's nothing.'\" (Irrational behaviour to extend plot): Rohan has a free refusal and just used one, so the lie needs a reason that a smart, rule-bound man would accept. Two lines earlier, have Meera state a consequence that makes the truth change her choice. For example: 'If one's through, we sit here a day and you lose your Fair.' Then give one action beat where he visibly weighs 'I decline', for instance his hands starting to turn palm up as they did for Garh Neshar, and stops. This also sets up the lie's size by the bible's measure for ch 6.",
+    "At \"'This is harbouring,' he said.\" (Repetitive tension): in ch 4 Rohan already decided that carrying the packets made him a harbourer, and ch 2 had the same realisation. Give the fire a new reason to matter. Add one line where he names the difference: the packets he could still call 'evidence in custody', but a shared fire has no story he can tell the post. That makes sitting down his first act with no cover.",
+    "At \"The waystone stayed low and level.\" (Convenient magic): the waystone works as a lie detector before the page establishes that it is one, and it doubles the fingertip rule. Either cut this sentence so Meera judges his truth by the sum and his hands alone, or plant the rule in scene one at the carving, with a limit. For example: 'Stones from the old cairns hum when a bound pair lies near them. They don't say which one.' Separately, in the last line \"She got to six before he turned his back,\" make clear what she is counting (his breaths, or his fingers inside the glove) so the ending lands as a reveal rather than a puzzle."
   ],
-  "reader_question": "How big was Rohan's 'It's nothing' lie, and what will it cost him on the climb to the Long Saddle?",
+  "reader_question": "How big was the lie Rohan just told about his ribs, and what is he hiding that will cost them on the climb?",
   "techniques_landed": [
     1,
     4,
-    10
+    10,
+    9
   ],
-  "new_facts_assessment": "The dung-cake cache is necessary and consistent, and it is a nice unwritten-law texture. The count of 206 is necessary, plausible over ten winters, and makes the trade costly. The carving on the waystone's east face plants C06 correctly. The childhood rope memory conflicts with the timeline: at ten winters back they were not children. Binding also requires a cairn ritual, so 'playing at the end of a rope' needs a real bound pair. Two facts are unlogged and should be added. First, the waystone hums and rises in pitch at a lie, which extends F015 beyond the Shilak Cairn. Second, the 'first chronicle of the Shilak post' wording of the founding story.",
+  "new_facts_assessment": "Draft F079 (Meera's mitten at fifteen) is necessary: it grounds her instant recognition of separation cold. It is consistent with her age (29 - 15 = 14 winters) and with her mother dying ten winters ago. Two bookkeeping actions follow: continuity.json still holds the older childhood-rope fact as F079, which must be retired, and the 'begins smuggling at 19' timeline should note that she crossed as a carried child before that. Draft F080 (the waystone hums at lies) is required by the beat ('the waystone hums higher'). The draft also uses it as a truth-detector ('stayed low and level') before the page has established it, which duplicates the fingertip rule and risks making the loophole's cost redundant. If kept, give it a stated limit. Draft F081 (the chronicle wording) is necessary for C06, invented and consistent with the bible's 'two brothers in arms'. Draft F082 (one winter for the law, two for Dilan) is consistent with the three winters of hunting and Dilan's death two winters ago. Note that on the page Rohan never names Dilan, so the fact should say 'for a dead warden' as far as Meera knows. ID numbering is off by one: draft F079-F082 correspond to continuity F080-F083. One new detail is unlisted: the carved lower hand has 'a cut across the knuckles', echoing Meera's scarred knuckles from ch 4 and possibly Hemi. Add it to new-facts so later chapters can pay it off or avoid contradicting it.",
   "content_rule_violation": false,
   "failure_modes": [
-    "Irrational behaviour to extend plot"
+    "Irrational behaviour to extend plot",
+    "Repetitive tension",
+    "Convenient magic"
   ],
-  "average": 3.25,
-  "minimum": 0.0,
-  "passed": false
+  "average": 4.0,
+  "minimum": 3.0,
+  "passed": true
 }
