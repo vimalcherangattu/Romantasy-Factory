@@ -601,7 +601,7 @@
       }
     },
     "19": {
-      "status": "passed",
+      "status": "edited",
       "revisions": 2,
       "scores": {
         "reader_question": 5.0,
@@ -617,8 +617,19 @@
       "flags": [
         "draft check: draft: chapter has 2126 words; target 2700 ±20%"
       ],
-      "words": 2254,
-      "minimum": 3.0
+      "words": 2244,
+      "minimum": 3.0,
+      "style": {
+        "words": 2244,
+        "banned_hits": {},
+        "ai_tell_hits": {},
+        "ai_tells_per_1000": 0.0,
+        "top_4gram": "and he did not",
+        "top_4gram_count": 3,
+        "longest_paragraph_words": 81,
+        "em_dashes_per_1000": 0.89,
+        "reading_ease": 93.1
+      }
     },
     "20": {
       "status": "passed",
@@ -1950,9 +1961,13 @@
     {
       "at": "2026-10-20T07:56:44",
       "event": "done: S8 line edit ch 18"
+    },
+    {
+      "at": "2026-10-20T07:57:13",
+      "event": "done: S8 line edit ch 19"
     }
   ],
-  "updated_at": "2026-10-20T07:56:44",
+  "updated_at": "2026-10-20T07:57:13",
   "midpoint_chapter": 16,
   "continuity_attempts": 3,
   "continuity_last_errors": 2
