@@ -1,0 +1,41 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 5.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 4.0,
+    "stakes_and_cost": 3.0,
+    "prose": 4.0,
+    "continuity": 5.0
+  },
+  "reasons": {
+    "reader_question": "The bond ends in two or three nights and the writ's orders stay unsolved. The question is specific but the ending lands soft.",
+    "change": "The law is drafted, Meera enters the Roll, and she asks for something for herself. All three are visible shifts.",
+    "romance_movement": "There are new reasons each step: being entered as 207, the glove, the Roll chosen beside him, the first 'Stay.' Nothing is recycled.",
+    "shown_chemistry": "Counting together, the measured glove, the bolt shot and 'Watch mine' are responsive actions. One line narrates ('best thing all winter').",
+    "character_logic": "Meera prices the Roll aloud before choosing it. Rohan promises only what he controls. Kiran asking to be present fits his arc.",
+    "stakes_and_cost": "The Roll cost lands, but six weeks of drafting meet no opposition. Rohan halving his own seal is told as costless.",
+    "prose": "Clean, varied and quotable ('longer than the glove deserved'). There are no banned phrases or AI tells, but the closing interiority slides into abstraction.",
+    "continuity": "Consistent with ch30 (206, latch, 'twelve winters'), F074, F118 and F159. Minor geography and naming wobbles, but nothing conflicts."
+  },
+  "fixes": [
+    "At 'Hill council men came and went with their opinions and their tea', the drafting has no opposition and the law arrives free (stakes). Give one clause a real opponent: a council man or Kunal wants the post's seal struck, or the medicine clause limited. Make Rohan concede something he values on the page, so 'cut it in half with his own pen' costs him visibly.",
+    "At 'He saw, with the cold clarity of the pass, that he wanted both', abstract interiority closes the chapter (Endless monologue edge). Turn it into an action. For example, Rohan loosens his wrist knot and holds the slack out to her without speaking, handing the choice over physically before her line. Don't pre-empt the thaw itself.",
+    "At 'below them lay Kothi Shilak, a tall old salt house', the village and the salt house are conflated, and 'beyond it' puts the cairn past the village when it sits at the foot of the pass above it. Rewrite as village roofs, the salt house and goat pen, and nearer, the cairn. Also clarify that Ila's 'post door' measurement happened before winter."
+  ],
+  "reader_question": "When meltwater ends the bond at the cairn, will they choose to stay bound, and how will Rohan keep his promise against the writ's orders?",
+  "techniques_landed": [
+    9,
+    14,
+    24
+  ],
+  "new_facts_assessment": "new-facts.json is empty, yet the draft adds the 207 entry, the glove, the eleven-line law, two-seal licences, the guide's-own-arm span standard, Varun in the cellar, the bare Rope-Hut nail and the fourth waystone stone. All are consistent and useful, and all should be listed. The arm-span standard is a human definition and leaves Rule 1 intact.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Plot buried by romance"
+  ],
+  "average": 4.12,
+  "minimum": 3.0,
+  "passed": true
+}

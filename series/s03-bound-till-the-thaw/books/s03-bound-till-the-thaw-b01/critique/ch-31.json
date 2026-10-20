@@ -2,38 +2,40 @@
   "scores": {
     "reader_question": 4.0,
     "change": 4.0,
-    "romance_movement": 4.0,
-    "shown_chemistry": 5.0,
+    "romance_movement": 5.0,
+    "shown_chemistry": 4.0,
     "character_logic": 4.0,
-    "stakes_and_cost": 4.0,
+    "stakes_and_cost": 3.0,
     "prose": 4.0,
-    "continuity": 0.0
+    "continuity": 5.0
   },
   "reasons": {
-    "reader_question": "The bond's end, the open delivery order and 'how far we walk when nobody's measuring' give one sharp question for the finale.",
-    "change": "The law is drafted, Meera is on the Roll, Rohan has halved his own seal, and they cross lawfully. Power and status both move.",
-    "romance_movement": "The reason is new: she asks for something only hers, and his need to be told is met. The '207' beat deepens the bond.",
-    "shown_chemistry": "Counting half a beat behind, the three-finger glove and 'be kind quietly' are all responsive action with no narrated chemistry.",
-    "character_logic": "Meera prices the Roll aloud before choosing it. Rohan cuts his seal in half and refuses to lie about the orders. Both are smart.",
-    "stakes_and_cost": "The Roll costs her freedom for life and the seal cost costs him his authority. The writ order still hangs. Thaw costs are mostly emotional.",
-    "prose": "The prose is clean and specific, with no banned phrases or dashes. The 'He found' tic recurs five times and 'low and level' appears three times.",
-    "continuity": "The return route reverses the geography: the waystone comes before the Rope-Hut. The juniper sprig was used up in ch11 (F118)."
+    "reader_question": "The bond ends in two or three nights and the writ's orders stay unsolved. The question is specific but the ending lands soft.",
+    "change": "The law is drafted, Meera enters the Roll, and she asks for something for herself. All three are visible shifts.",
+    "romance_movement": "There are new reasons each step: being entered as 207, the glove, the Roll chosen beside him, the first 'Stay.' Nothing is recycled.",
+    "shown_chemistry": "Counting together, the measured glove, the bolt shot and 'Watch mine' are responsive actions. One line narrates ('best thing all winter').",
+    "character_logic": "Meera prices the Roll aloud before choosing it. Rohan promises only what he controls. Kiran asking to be present fits his arc.",
+    "stakes_and_cost": "The Roll cost lands, but six weeks of drafting meet no opposition. Rohan halving his own seal is told as costless.",
+    "prose": "Clean, varied and quotable ('longer than the glove deserved'). There are no banned phrases or AI tells, but the closing interiority slides into abstraction.",
+    "continuity": "Consistent with ch30 (206, latch, 'twelve winters'), F074, F118 and F159. Minor geography and naming wobbles, but nothing conflicts."
   },
   "fixes": [
-    "'At the waystone she stopped. Three small stones' / 'They passed the Rope-Hut on the second morning': continuity error. Coming from Neshar they reach the Rope-Hut (far side, below the Saddle) first, then the Saddle, then the waystone (Shilak side). Swap the two paragraphs and adjust the days. Replace 'The juniper sprig still hung above the door', since Meera burned it in ch11 (F118), with a new sprig someone has left, or the bare nail.",
-    "'He found he had no answer' / 'He found he wanted the name' / 'He found he was glad': repeated interiority tic, five 'found' constructions in one POV. Keep at most two. Turn the others into action, e.g. 'He had no answer.' Cut one of the three 'hummed, low and level' and give the night-scene rope a different, specific sound or sensation.",
-    "'When she came apart under his mouth, saying his name': the beat specifies a closed-door night, but this line plays as open door. Either fade after 'Watch mine,' she said, low, and drew his face down', or flag this to the outline as the optional third explicit scene the bible allows. Keep the 'Here. Slower.' line, because it carries her asking."
+    "At 'Hill council men came and went with their opinions and their tea', the drafting has no opposition and the law arrives free (stakes). Give one clause a real opponent: a council man or Kunal wants the post's seal struck, or the medicine clause limited. Make Rohan concede something he values on the page, so 'cut it in half with his own pen' costs him visibly.",
+    "At 'He saw, with the cold clarity of the pass, that he wanted both', abstract interiority closes the chapter (Endless monologue edge). Turn it into an action. For example, Rohan loosens his wrist knot and holds the slack out to her without speaking, handing the choice over physically before her line. Don't pre-empt the thaw itself.",
+    "At 'below them lay Kothi Shilak, a tall old salt house', the village and the salt house are conflated, and 'beyond it' puts the cairn past the village when it sits at the foot of the pass above it. Rewrite as village roofs, the salt house and goat pen, and nearer, the cairn. Also clarify that Ila's 'post door' measurement happened before winter."
   ],
-  "reader_question": "When meltwater runs at the cairn and the bond ends, will they choose to tie themselves again, and how will Rohan defy the writ's order to deliver her?",
+  "reader_question": "When meltwater ends the bond at the cairn, will they choose to stay bound, and how will Rohan keep his promise against the writ's orders?",
   "techniques_landed": [
     9,
     14,
     24
   ],
-  "new_facts_assessment": "Nimmi's arrival, the 207 count, the glove, the six-week drafting, the dispatches and Ila staying behind are all necessary and consistent with F025, F077, F182, F238 and F257. The two-seal licence and twelve spans of the guide's own arm fit F008. The 'I will not hand you to anyone' promise is a bound promise (F012). Chapter 32 must honour it. Ila's 'post door' is ambiguous, since they are in Garh Neshar.",
+  "new_facts_assessment": "new-facts.json is empty, yet the draft adds the 207 entry, the glove, the eleven-line law, two-seal licences, the guide's-own-arm span standard, Varun in the cellar, the bare Rope-Hut nail and the fourth waystone stone. All are consistent and useful, and all should be listed. The arm-span standard is a human definition and leaves Rule 1 intact.",
   "content_rule_violation": false,
-  "failure_modes": [],
-  "average": 3.62,
-  "minimum": 0.0,
-  "passed": false
+  "failure_modes": [
+    "Plot buried by romance"
+  ],
+  "average": 4.12,
+  "minimum": 3.0,
+  "passed": true
 }
