@@ -3,93 +3,65 @@
     {
       "id": "E01",
       "chapter": 14,
-      "category": "knowledge",
-      "issue": "Neela reasons from Asha's oilcloth token ('in a camphor chest, in a dead girl's room') and quotes Asha's note 'Need a second to be sure.' In ch 12 Devan folded the token and its note into his sleeve before Neela came into the room, and he never showed them to her. She has never smelled that wax or read that note.",
-      "fix": "In ch 14, replace the Asha references with what she has seen herself: 'Janu's kitchen. The broken tally on the hall table, the day the patrol came in.' Change her reason to: 'The warden broke one tally open in the hall and said it wasn't enough. Here was a second, and he could have it.'"
+      "category": "timeline",
+      "issue": "In ch 14 Neela weighs that going to the narrows leaves the meeting stone's cup empty a second night, after the fever night. Nothing shows her marking it later. Yet ch 16 says she has missed the stone only once ('the night of his fever'), and in ch 18 Ammu counts only the fever night plus the three bare nights of ch 16 to 17. The narrows night is missing from both counts.",
+      "fix": "In ch 14, where she goes 'by the long way to the cleft in the rocks under the second spur', add one line: she passes the meeting stone first and drags her cheek across the cup, late but marked."
     },
     {
       "id": "E02",
-      "chapter": 16,
+      "chapter": 14,
       "category": "knowledge",
-      "issue": "Neela's reread says Devan stopped Janu's leopard story at supper by saying 'I'm tired of leopards, Janu,' mildly, 'by daylight.' In ch 9 Neela was at that supper and heard 'Not tonight, Janu.' Ch 30 places the 'tired of leopards' line later, in the kitchen, by day, out of Neela's hearing. Supper is also not daylight.",
-      "fix": "In ch 16, change the line to: 'Janu was halfway through it over the rice when Devan said, \"Not tonight, Janu.\" He said it quietly, with his eyes on his bowl.'"
+      "issue": "Neela recalls that 'the warden had broken one tally open in the hall and said it wasn't enough.' In ch 4 Devan says only that the wax is genuine council wax and never says one is not enough. The 'need a second' idea is Asha's note, which Neela has not seen.",
+      "fix": "In ch 14, change the line to: 'The warden had broken one tally open in the hall. One tally was a story; two were a case.'"
     },
     {
       "id": "E03",
       "chapter": 16,
-      "category": "timeline",
-      "issue": "The reread puts the sentry first and has the hounds 'kennelled in the first week, after the sentry was pulled.' In fact the hounds were kennelled from the second night (the ch 3 night walk and Kannan in ch 4), before Devan pulled the sentry in ch 5. Ch 30 and F344 also give hounds first, sentry second.",
-      "fix": "In ch 16, swap the order: the hounds kennelled from the second night, then 'the sentry above the window pulled a few nights on.' Delete 'after the sentry was pulled.'"
+      "category": "name",
+      "issue": "In ch 10 Janu gives the fort's theories about the barred shutters: Bhaskaran's lads say privacy, Gopan says Janu's old tale, Janu herself says the damp, and Chinna runs the wager. Ch 31 repeats that set (damp-madness, privacy, Janu's old tale). Ch 16 instead says Bhaskaran's lads called it damp-madness and Janu called it shyness.",
+      "fix": "In ch 16, change the sentence to: 'Bhaskaran's lads called it privacy, Gopan called it Janu's old tale, Janu called it the damp, and Chinna ran a wager on it at the kitchen door.'"
     },
     {
       "id": "E04",
-      "chapter": 16,
-      "category": "name",
-      "issue": "Neela recalls that 'Janu had called it damp-madness.' In ch 10 Janu told her the damp theory belonged to Bhaskaran's lads, and that her own theory was 'shy.' F322 repeats the error.",
-      "fix": "In ch 16, change to: 'Bhaskaran's lads called it damp-madness, Janu called it shyness, and Chinna ran a wager on it at the kitchen door.'"
+      "chapter": 17,
+      "category": "object",
+      "issue": "In ch 12 Sudhi rides 'with the palace green on his sleeve'. In ch 17 Devan says no one looks in the bag of 'a man in royal blue'. Blue is the registry courier's colour in ch 8, not Sudhi's.",
+      "fix": "In ch 17, change 'a man in royal blue' to 'a man in palace green'."
     },
     {
       "id": "E05",
-      "chapter": 11,
-      "category": "knowledge",
-      "issue": "Neela remembers that Janu said 'He used to have a partner' 'at the table, to the soup.' In ch 3 Janu said it standing at the lip of the kalari pit during the tour.",
-      "fix": "In ch 11, change to: 'Janu had said it at the lip of this pit, on the first morning.'"
+      "chapter": 22,
+      "category": "object",
+      "issue": "In ch 20 Devan leaves his grey stone on the sill and keeps Kannan's white pebble as his cheek stone ('Keep Kannan's. It's the clean one.'). In ch 22 he takes 'the grey pebble from his pouch'.",
+      "fix": "In ch 22, change 'take the grey pebble from his pouch' to 'take the white pebble from his pouch'."
     },
     {
       "id": "E06",
-      "chapter": 7,
-      "category": "timeline",
-      "issue": "'She had known him eight days' falls on the morning she counts thirty-four nights left, which is day 6. Ch 9 (thirty-two nights left) is the first point where 'eight days' fits.",
-      "fix": "In ch 7, change 'eight days' to 'six days'."
+      "chapter": 22,
+      "category": "knowledge",
+      "issue": "On reading the slip, Neela thinks of Ittan as 'the man who had proposed the match'. Nothing has shown her this. Only Devan knows Ittan's name stood first on the council letter (ch 23), and Ittan says it aloud only in ch 28.",
+      "fix": "In ch 22, replace 'the man who had proposed the match' with 'the man whose letter had asked so warmly after the warden's bride'."
     },
     {
       "id": "E07",
-      "chapter": 18,
-      "category": "timeline",
-      "issue": "Ch 18 opens at sixteen nights and ends the same day at 'Fifteen nights.' Ch 19, the next evening, also says fifteen, so the count stalls for a day.",
-      "fix": "In ch 18, change the closing 'Fifteen nights.' to 'Sixteen nights.'"
+      "chapter": 28,
+      "category": "object",
+      "issue": "Ammu's Valli cloth and resin pouch are found in the roots of the tree where she died, 'cached there before dusk'. In ch 26 to 27, though, Ammu is in the kennel and yard with Neela right up to sunset, and she turns on the cook-house roof. She had no time to reach the tree line before dusk.",
+      "fix": "In ch 28, change 'She had cached it there before dusk' to 'Muthu had found it at the cook-house corner, where she had shed it, and laid it at the tree.'"
     },
     {
       "id": "E08",
-      "chapter": 23,
+      "chapter": 30,
       "category": "timeline",
-      "issue": "Neela's nightly countdown to the pass closing gives about eleven nights left on the ch 23 morning (fifteen at ch 19, then one fewer each day). Ch 23 says the pass is sealed 'in eight days', and Devan repeats 'Eight days to the seal.' Nobody notices the three-day gap, and up to ch 18 the book treats the count and the closing as the same date ('The pass shuts in sixteen days').",
-      "fix": "In ch 23, give Neela one line after 'eight days': 'Three days ahead of the rains. The council always seals early, and I've been counting to the rains, not the seal.'"
+      "issue": "Devan says the hounds 'went to the kennel within a few nights' of the second dusk. Ch 3 (night two) already has them behind a kennel door, ch 4 says 'every night since your wedding', and ch 16 says 'from the second night'.",
+      "fix": "In ch 30, change 'The hounds went to the kennel within a few nights, the sentry after them' to 'The hounds went to the kennel that same night, the sentry a few nights after.'"
     },
     {
       "id": "E09",
-      "chapter": 22,
+      "chapter": 17,
       "category": "knowledge",
-      "issue": "Ammu says the watcher logs a night with no fresh scent-posts as refusal, and that a second gap back to back with the rain night is the one Chathu would act on. But ch 16 to 18 already had three consecutive bare nights (ch 17 'three nights'; Ammu in ch 18: 'Three nights, the cup was bare'). Under the same rule those would have been logged, and the book gives no cover and no consequence for them.",
-      "fix": "In ch 22, add to Ammu's lines: 'Your three bare nights last week already went down. That's why he sent the sweets. Another run of gaps on top of the rain night is the one he'd act on.'"
-    },
-    {
-      "id": "E10",
-      "chapter": 29,
-      "category": "object",
-      "issue": "Devan reads the marriage-writ clause aloud as 'In the event of the warden's death in office, the pass-seal passes to his wife in trust...'. The same document's wording in ch 8 is '...and the said wife, being lawfully wed, shall hold the pass-seal of Kettamala in trust from the hour of the warden's death, until the council shall name another in his place.'",
-      "fix": "In ch 29, replace the quoted clause with the ch 8 wording."
-    },
-    {
-      "id": "E11",
-      "chapter": 10,
-      "category": "injury",
-      "issue": "Devan's hand lies 'open on the blanket, palm up', yet Neela counts seven scars across the knuckles, which are on the back of the hand and can't be seen palm up.",
-      "fix": "In ch 10, change 'palm up' to 'palm down, fingers loose'. Leave the later 'his hand still lay open on the blanket'."
-    },
-    {
-      "id": "E12",
-      "chapter": 5,
-      "category": "object",
-      "issue": "In ch 4 Neela turns back in the yard at first light. Her clothes are in the chamber (she always leaves them on the sill), yet in ch 5 she walks up through the stair door, past the two west-stair guards, as a woman, and no one remarks on it.",
-      "fix": "In ch 5, add that she came in 'with a saddle-blanket from the stable round her', so Devan hears the rough wool drop before the bed creaks."
-    },
-    {
-      "id": "E13",
-      "chapter": 31,
-      "category": "timeline",
-      "issue": "In ch 28 Neela waters the forty-one kennel animals once and says the troughs will be dry in three days. Devan orders Bhaskaran's men out the morning after the return. Ch 31 says 'Rain held the first run' and that Muthu goes three days after the vow, which leaves about eight days without water. Ch 32 then reports the animals, Kirri included, alive and settled, and no one mentions the gap.",
-      "fix": "In ch 31, change 'Rain held the first run' to 'Bhaskaran's men got water through before the rain shut the wood road for a few days.' Keep Muthu's run as the second one."
+      "issue": "Watching Muthu give Sudhi a grey-sealed letter, Neela notes 'She had seen it three times now.' She has never witnessed one before: the ch 12 handoff is in Devan's POV while she is at supper in the hall.",
+      "fix": "In ch 17, change 'She had seen it three times now.' to 'It was the first time she had seen it, though Janu teased him about his mother's post.'"
     }
   ]
 }

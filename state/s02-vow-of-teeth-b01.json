@@ -281,7 +281,7 @@
       "minimum": 3.0
     },
     "14": {
-      "status": "passed",
+      "status": "continuity-fix",
       "revisions": 1,
       "scores": {
         "reader_question": 4.0,
@@ -298,7 +298,9 @@
       "words": 3037,
       "minimum": 4.0,
       "continuity_fixes": [
-        "Neela reasons from Asha's oilcloth token ('in a camphor chest, in a dead girl's room') and quotes Asha's note 'Need a second to be sure.' In ch 12 Devan folded the token and its note into his sleeve before Neela came into the room, and he never showed them to her. She has never smelled that wax or read that note. FIX: In ch 14, replace the Asha references with what she has seen herself: 'Janu's kitchen. The broken tally on the hall table, the day the patrol came in.' Change her reason to: 'The warden broke one tally open in the hall and said it wasn't enough. Here was a second, and he could have it.'"
+        "Neela reasons from Asha's oilcloth token ('in a camphor chest, in a dead girl's room') and quotes Asha's note 'Need a second to be sure.' In ch 12 Devan folded the token and its note into his sleeve before Neela came into the room, and he never showed them to her. She has never smelled that wax or read that note. FIX: In ch 14, replace the Asha references with what she has seen herself: 'Janu's kitchen. The broken tally on the hall table, the day the patrol came in.' Change her reason to: 'The warden broke one tally open in the hall and said it wasn't enough. Here was a second, and he could have it.'",
+        "In ch 14 Neela weighs that going to the narrows leaves the meeting stone's cup empty a second night, after the fever night. Nothing shows her marking it later. Yet ch 16 says she has missed the stone only once ('the night of his fever'), and in ch 18 Ammu counts only the fever night plus the three bare nights of ch 16 to 17. The narrows night is missing from both counts. FIX: In ch 14, where she goes 'by the long way to the cleft in the rocks under the second spur', add one line: she passes the meeting stone first and drags her cheek across the cup, late but marked.",
+        "Neela recalls that 'the warden had broken one tally open in the hall and said it wasn't enough.' In ch 4 Devan says only that the wax is genuine council wax and never says one is not enough. The 'need a second' idea is Asha's note, which Neela has not seen. FIX: In ch 14, change the line to: 'The warden had broken one tally open in the hall. One tally was a story; two were a case.'"
       ]
     },
     "15": {
@@ -326,7 +328,7 @@
       ]
     },
     "16": {
-      "status": "passed",
+      "status": "continuity-fix",
       "revisions": 2,
       "scores": {
         "reader_question": 4.0,
@@ -348,11 +350,12 @@
         "Neela recalls Janu's story as one about 'a leopard that took a bride' that Devan stopped with 'enough'. In ch 9 the story was a man-eating leopard taking a man above the second ford, and Devan said 'Not tonight, Janu'. FIX: In ch 16, change the sentence to 'Janu had told a story at supper once, of a man-eater of the pass that left a traveller's sandals on the road. Devan had said Not tonight, Janu, so mildly that she went red and stopped.'",
         "Neela's reread says Devan stopped Janu's leopard story at supper by saying 'I'm tired of leopards, Janu,' mildly, 'by daylight.' In ch 9 Neela was at that supper and heard 'Not tonight, Janu.' Ch 30 places the 'tired of leopards' line later, in the kitchen, by day, out of Neela's hearing. Supper is also not daylight. FIX: In ch 16, change the line to: 'Janu was halfway through it over the rice when Devan said, \"Not tonight, Janu.\" He said it quietly, with his eyes on his bowl.'",
         "The reread puts the sentry first and has the hounds 'kennelled in the first week, after the sentry was pulled.' In fact the hounds were kennelled from the second night (the ch 3 night walk and Kannan in ch 4), before Devan pulled the sentry in ch 5. Ch 30 and F344 also give hounds first, sentry second. FIX: In ch 16, swap the order: the hounds kennelled from the second night, then 'the sentry above the window pulled a few nights on.' Delete 'after the sentry was pulled.'",
-        "Neela recalls that 'Janu had called it damp-madness.' In ch 10 Janu told her the damp theory belonged to Bhaskaran's lads, and that her own theory was 'shy.' F322 repeats the error. FIX: In ch 16, change to: 'Bhaskaran's lads called it damp-madness, Janu called it shyness, and Chinna ran a wager on it at the kitchen door.'"
+        "Neela recalls that 'Janu had called it damp-madness.' In ch 10 Janu told her the damp theory belonged to Bhaskaran's lads, and that her own theory was 'shy.' F322 repeats the error. FIX: In ch 16, change to: 'Bhaskaran's lads called it damp-madness, Janu called it shyness, and Chinna ran a wager on it at the kitchen door.'",
+        "In ch 10 Janu gives the fort's theories about the barred shutters: Bhaskaran's lads say privacy, Gopan says Janu's old tale, Janu herself says the damp, and Chinna runs the wager. Ch 31 repeats that set (damp-madness, privacy, Janu's old tale). Ch 16 instead says Bhaskaran's lads called it damp-madness and Janu called it shyness. FIX: In ch 16, change the sentence to: 'Bhaskaran's lads called it privacy, Gopan called it Janu's old tale, Janu called it the damp, and Chinna ran a wager on it at the kitchen door.'"
       ]
     },
     "17": {
-      "status": "passed",
+      "status": "continuity-fix",
       "revisions": 0,
       "scores": {
         "reader_question": 4.0,
@@ -367,7 +370,11 @@
       "average": 4.0,
       "flags": [],
       "words": 3014,
-      "minimum": 3.0
+      "minimum": 3.0,
+      "continuity_fixes": [
+        "In ch 12 Sudhi rides 'with the palace green on his sleeve'. In ch 17 Devan says no one looks in the bag of 'a man in royal blue'. Blue is the registry courier's colour in ch 8, not Sudhi's. FIX: In ch 17, change 'a man in royal blue' to 'a man in palace green'.",
+        "Watching Muthu give Sudhi a grey-sealed letter, Neela notes 'She had seen it three times now.' She has never witnessed one before: the ch 12 handoff is in Devan's POV while she is at supper in the hall. FIX: In ch 17, change 'She had seen it three times now.' to 'It was the first time she had seen it, though Janu teased him about his mother's post.'"
+      ]
     },
     "18": {
       "status": "passed",
@@ -454,7 +461,7 @@
       ]
     },
     "22": {
-      "status": "passed",
+      "status": "continuity-fix",
       "revisions": 1,
       "scores": {
         "reader_question": 4.0,
@@ -471,7 +478,9 @@
       "words": 2745,
       "minimum": 3.0,
       "continuity_fixes": [
-        "Ammu says the watcher logs a night with no fresh scent-posts as refusal, and that a second gap back to back with the rain night is the one Chathu would act on. But ch 16 to 18 already had three consecutive bare nights (ch 17 'three nights'; Ammu in ch 18: 'Three nights, the cup was bare'). Under the same rule those would have been logged, and the book gives no cover and no consequence for them. FIX: In ch 22, add to Ammu's lines: 'Your three bare nights last week already went down. That's why he sent the sweets. Another run of gaps on top of the rain night is the one he'd act on.'"
+        "Ammu says the watcher logs a night with no fresh scent-posts as refusal, and that a second gap back to back with the rain night is the one Chathu would act on. But ch 16 to 18 already had three consecutive bare nights (ch 17 'three nights'; Ammu in ch 18: 'Three nights, the cup was bare'). Under the same rule those would have been logged, and the book gives no cover and no consequence for them. FIX: In ch 22, add to Ammu's lines: 'Your three bare nights last week already went down. That's why he sent the sweets. Another run of gaps on top of the rain night is the one he'd act on.'",
+        "In ch 20 Devan leaves his grey stone on the sill and keeps Kannan's white pebble as his cheek stone ('Keep Kannan's. It's the clean one.'). In ch 22 he takes 'the grey pebble from his pouch'. FIX: In ch 22, change 'take the grey pebble from his pouch' to 'take the white pebble from his pouch'.",
+        "On reading the slip, Neela thinks of Ittan as 'the man who had proposed the match'. Nothing has shown her this. Only Devan knows Ittan's name stood first on the council letter (ch 23), and Ittan says it aloud only in ch 28. FIX: In ch 22, replace 'the man who had proposed the match' with 'the man whose letter had asked so warmly after the warden's bride'."
       ]
     },
     "23": {
@@ -582,7 +591,7 @@
       ]
     },
     "28": {
-      "status": "passed",
+      "status": "continuity-fix",
       "revisions": 2,
       "scores": {
         "reader_question": 4.0,
@@ -601,7 +610,8 @@
       "words": 3086,
       "minimum": 0.0,
       "continuity_fixes": [
-        "Neela is 'on the wall by the cistern housing, where the sentry used to stand'. The cistern housing is on the east rampart (ch 19), but the pulled sentry walked the west rampart above the warden's window (ch 5). FIX: In ch 28, change it to 'on the west rampart above the chamber window, where the sentry used to stand'."
+        "Neela is 'on the wall by the cistern housing, where the sentry used to stand'. The cistern housing is on the east rampart (ch 19), but the pulled sentry walked the west rampart above the warden's window (ch 5). FIX: In ch 28, change it to 'on the west rampart above the chamber window, where the sentry used to stand'.",
+        "Ammu's Valli cloth and resin pouch are found in the roots of the tree where she died, 'cached there before dusk'. In ch 26 to 27, though, Ammu is in the kennel and yard with Neela right up to sunset, and she turns on the cook-house roof. She had no time to reach the tree line before dusk. FIX: In ch 28, change 'She had cached it there before dusk' to 'Muthu had found it at the cook-house corner, where she had shed it, and laid it at the tree.'"
       ]
     },
     "29": {
@@ -626,7 +636,7 @@
       ]
     },
     "30": {
-      "status": "passed",
+      "status": "continuity-fix",
       "revisions": 2,
       "scores": {
         "reader_question": 4.0,
@@ -647,7 +657,8 @@
       "continuity_fixes": [
         "Devan says he left the shutters 'Open, as my father kept them' on the first night, but ch 1 and ch 2 show them closed, and Neela opens them herself. FIX: In ch 30, change 'Open, as my father kept them' to 'Shut on the latch and never barred, as my father kept them'.",
         "Devan says she touched the base of his skull 'in the dark' in bed and lay down afterwards, and that he was afraid of her 'for about nine days'. The three-breath touch happened at dawn in the kalari while he drilled (ch 11, ch 12). In ch 17 he said his fear lasted 'about a breath'. FIX: In ch 30, move the scene to the pit: 'You came down the north steps while I drilled. You put your fingers at the base of my skull...you lifted your hand and told me my guard dropped on the left.' Change 'afraid' to 'wary' and 'nine days' to 'eleven days'. Have Neela answer 'You stopped breathing. I thought you were waiting for the blow.'",
-        "Devan says he stopped Janu's stories by asking her 'at the table, by day' and telling her he was 'tired of leopards', and that Neela 'weren't in the room'. In ch 9 he stopped the story at supper with Neela at the table, saying 'Not tonight, Janu'. FIX: In ch 30, change it to 'I stopped her at supper, you were there. Afterwards I told her in the kitchen, by day, that I was tired of leopards. You weren't in the kitchen.'"
+        "Devan says he stopped Janu's stories by asking her 'at the table, by day' and telling her he was 'tired of leopards', and that Neela 'weren't in the room'. In ch 9 he stopped the story at supper with Neela at the table, saying 'Not tonight, Janu'. FIX: In ch 30, change it to 'I stopped her at supper, you were there. Afterwards I told her in the kitchen, by day, that I was tired of leopards. You weren't in the kitchen.'",
+        "Devan says the hounds 'went to the kennel within a few nights' of the second dusk. Ch 3 (night two) already has them behind a kennel door, ch 4 says 'every night since your wedding', and ch 16 says 'from the second night'. FIX: In ch 30, change 'The hounds went to the kennel within a few nights, the sentry after them' to 'The hounds went to the kennel that same night, the sentry a few nights after.'"
       ]
     },
     "31": {
@@ -1545,10 +1556,14 @@
     {
       "at": "2026-10-20T00:54:07",
       "event": "done: S5 critique ch 31"
+    },
+    {
+      "at": "2026-10-20T01:05:23",
+      "event": "done: S7 continuity"
     }
   ],
-  "updated_at": "2026-10-20T00:54:07",
+  "updated_at": "2026-10-20T01:05:23",
   "midpoint_chapter": 16,
-  "continuity_attempts": 2,
-  "continuity_last_errors": 13
+  "continuity_attempts": 3,
+  "continuity_last_errors": 9
 }
