@@ -1,0 +1,41 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 4.0,
+    "stakes_and_cost": 3.0,
+    "prose": 4.0,
+    "continuity": 5.0
+  },
+  "reasons": {
+    "reader_question": "Clear question carried out: can this pair carry seal, count and confession through a hostile assembly? The final image delivers no new threat.",
+    "change": "Rohan learns the truth, admits he always knew, and publicly bends. Power over Kiran is surrendered, and the lie becomes shared knowledge.",
+    "romance_movement": "The repair is new and two-sided, with named fault and the ledger line. The hand-holding moves from refused touch to permitted touch.",
+    "shown_chemistry": "Shown through the dead hand laid in his palm, the 'very good at not moving' banter and the tilted count page. Little is narrated.",
+    "character_logic": "All three choices fit. Rohan never weighs what a confessed harbourer does to his credibility as crown witness the next morning.",
+    "stakes_and_cost": "His harbourer confession is waived at once by Asha's 'Nobody will ask'. The writ to deliver the Salt Fox stays off-stage.",
+    "prose": "Concrete and controlled, with a strong broom-fray image. A 'found' tic recurs, plus 'on a borrowed coat', 'warrant' for writ and one 'the weight of'.",
+    "continuity": "Matches F102, F104, F157, F200 and F245. The coat ownership left over from ch28 and 'half an ear' against F063 are wording risks, not conflicts."
+  },
+  "fixes": [
+    "At \"I'll have that cut on a tooth... Nobody will ask. Who'd dare?\", Asha cancels the cost of the public bend (Stakes without depth). Have her name a real price instead: a warden captain who confesses harbouring gives the regent's side a way to discredit his seal testimony. Rohan answers that he will say it before the bell himself. The bend then costs him something tomorrow.",
+    "At \"He took the first step downhill. The rope drew taut\", the ending reveals nothing that makes the next chapter necessary (chapter checklist 5). Use a story-caused sight from the spur. For example, through Lalit's spyglass they see Varun's twenty in grey wool with shoulder bells already ringed around the herald's stand. Close on that, so the descent is a walk into a known trap.",
+    "Tidy three precision slips. In \"Day twenty. He had ridden into Kothi Shilak with a warrant\", change warrant to writ. In \"eight spans from the fire, as far as the rope allowed\", the rope binds the two of them, not the fire, so cut the clause. In \"Rohan opened his coat\", Meera wore his coat in ch28, so add half a line showing it is back on him. Change \"on a borrowed coat with half an ear\" to \"in a borrowed coat with a torn ear\"."
+  ],
+  "reader_question": "Can a warden who has just confessed to harbouring, and a smuggler with dead fingers and an incriminating ledger, win a regent's assembly by midmorning?",
+  "techniques_landed": [
+    12,
+    18,
+    20
+  ],
+  "new_facts_assessment": "All four are necessary and consistent. F250 extends F102 and the ch9 beat cleanly. F251 fits F104 and F197 and earns 'Sorry about the hymn'. F252 applies F016 correctly. F253 is harmless ledger voice. Two fixes needed: Rohan's 'warrant' should be his writ (F090), and 'half an ear' overstates the fingernail rim of F063.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Stakes without depth"
+  ],
+  "average": 4.0,
+  "minimum": 3.0,
+  "passed": true
+}
