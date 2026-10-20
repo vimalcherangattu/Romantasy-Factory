@@ -78,7 +78,7 @@
       }
     },
     "03": {
-      "status": "passed",
+      "status": "edited",
       "revisions": 0,
       "scores": {
         "reader_question": 4.0,
@@ -92,11 +92,22 @@
       },
       "average": 3.62,
       "flags": [],
-      "words": 2800,
+      "words": 2790,
       "minimum": 3.0,
       "continuity_fixes": [
         "Neela recalls leaving 'the bar propped against the wall' after the wedding night and finding it back in its brackets 'this morning'. No bar was used on night one, and Devan only bars the shutters at this chapter's dusk. FIX: In ch 3, replace the two sentences about last night's bar with: 'Last night there had been no bar across them at all. Tonight there was, and a man who barred a window looked at its bar.'"
-      ]
+      ],
+      "style": {
+        "words": 2790,
+        "banned_hits": {},
+        "ai_tell_hits": {},
+        "ai_tells_per_1000": 0.0,
+        "top_4gram": "with his back to",
+        "top_4gram_count": 2,
+        "longest_paragraph_words": 123,
+        "em_dashes_per_1000": 0.0,
+        "reading_ease": 93.8
+      }
     },
     "04": {
       "status": "passed",
@@ -1708,9 +1719,13 @@
     {
       "at": "2026-10-20T07:47:06",
       "event": "done: S8 line edit ch 2"
+    },
+    {
+      "at": "2026-10-20T07:47:38",
+      "event": "done: S8 line edit ch 3"
     }
   ],
-  "updated_at": "2026-10-20T07:47:06",
+  "updated_at": "2026-10-20T07:47:38",
   "midpoint_chapter": 16,
   "continuity_attempts": 3,
   "continuity_last_errors": 2
