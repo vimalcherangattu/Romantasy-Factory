@@ -254,9 +254,10 @@ def cover(book_id: str, art: Path = typer.Option(..., exists=True, help="Cover a
             typer.echo(f"Paperback: {info['pages']} pages, spine {info.get('spine_in')} in, wrap {info.get('wrap_in')} in")
         except Exception as exc:  # noqa: BLE001
             typer.secho(f"warning: paperback build failed: {exc}", fg=typer.colors.YELLOW)
-    disclosure = pkg / "ai-disclosure.md"
-    if disclosure.exists():
-        disclosure.write_text(disclosure.read_text().replace("the owner's image tool (fill in before upload)", tool))
+    b["cover_tool"] = tool  # kept in state so repackage rewrites the disclosure with it
+    state.save_book(cfg, b)
+    if meta and (pkg / "ai-disclosure.md").exists():
+        package.write_disclosure(cfg, b, meta)
     review_copy = cfg.paths.review / book_id
     if review_copy.exists():
         shutil.copy(out, review_copy / "cover.jpg")

@@ -174,6 +174,29 @@ def upload_checklist(cfg: Config, book: dict, meta: dict) -> str:
     return "\n".join(rows) + "\n"
 
 
+COVER_TOOL_PLACEHOLDER = "the owner's image tool (fill in before upload)"
+
+
+def cover_tool(cfg: Config, book: dict) -> str:
+    """The image tool `factory cover` recorded in book state. Books covered before it was recorded
+    fall back to the tool named in the existing ai-disclosure.md, which is then kept in state."""
+    if book.get("cover_tool"):
+        return book["cover_tool"]
+    m = re.search(r"^\| Images \|.*Tool: (.+?) \|\s*$", read_text(_pkg(cfg, book) / "ai-disclosure.md"), re.M)
+    if m and m.group(1) != COVER_TOOL_PLACEHOLDER:
+        book["cover_tool"] = m.group(1)
+        return m.group(1)
+    return COVER_TOOL_PLACEHOLDER
+
+
+def write_disclosure(cfg: Config, book: dict, meta: dict) -> Path:
+    out = _pkg(cfg, book) / "ai-disclosure.md"
+    atomic_write(out, read_text(TEMPLATES / "ai-disclosure.md").format(
+        title=meta["title"], book_id=book["book_id"], pen_name=meta["pen_name"],
+        date=date.today().isoformat(), cover_tool=cover_tool(cfg, book)))
+    return out
+
+
 def build(cfg: Config, book: dict, files: dict[str, str]) -> dict:
     pkg = _pkg(cfg, book)
     pkg.mkdir(parents=True, exist_ok=True)
@@ -182,10 +205,7 @@ def build(cfg: Config, book: dict, files: dict[str, str]) -> dict:
         if name in files:
             atomic_write(pkg / name, files[name])
 
-    template = read_text(TEMPLATES / "ai-disclosure.md")
-    atomic_write(pkg / "ai-disclosure.md", template.format(
-        title=meta["title"], book_id=book["book_id"], pen_name=meta["pen_name"],
-        date=date.today().isoformat(), cover_tool="the owner's image tool (fill in before upload)"))
+    write_disclosure(cfg, book, meta)
     atomic_write(pkg / "upload-checklist.md", upload_checklist(cfg, book, meta))
     atomic_write(pkg / "browser-upload-prompt.md", browser_prompt(cfg, book, meta))
 

@@ -1,3 +1,5 @@
+import json
+
 from PIL import Image
 
 from factory import orchestrator, package, prompts, schedule, state
@@ -63,6 +65,38 @@ def test_cover_command_fills_disclosure(cfg, approved_series, tmp_path):
     text = (pkg / "ai-disclosure.md").read_text()
     assert "ElevenLabs (GPT Image 2.5)" in text and "fill in before upload" not in text
     assert Image.open(pkg / "cover.jpg").size == (1600, 2560)
+
+
+def test_repackage_keeps_cover_tool(cfg, approved_series, tmp_path):
+    from typer.testing import CliRunner
+
+    from factory.cli import app
+
+    bid = f"{approved_series}-b01"
+    orchestrator.run(cfg, book_id=bid, echo=lambda *_: None)
+    art = tmp_path / "art.png"
+    Image.new("RGB", (1024, 1536), (40, 60, 90)).save(art)
+    runner = CliRunner()
+    res = runner.invoke(app, ["cover", bid, "--art", str(art), "--tool", "ElevenLabs (FLUX 3 Image)"])
+    assert res.exit_code == 0, res.output
+    assert state.load_book(cfg, bid)["cover_tool"] == "ElevenLabs (FLUX 3 Image)"
+    res = runner.invoke(app, ["repackage", bid])
+    assert res.exit_code == 0, res.output
+    text = (cfg.paths.book_dir(approved_series, bid) / "package" / "ai-disclosure.md").read_text()
+    assert "Tool: ElevenLabs (FLUX 3 Image) |" in text and "fill in before upload" not in text
+
+
+def test_repackage_recovers_cover_tool_from_old_disclosure(cfg, approved_series):
+    bid = f"{approved_series}-b01"
+    orchestrator.run(cfg, book_id=bid, echo=lambda *_: None)
+    b = state.load_book(cfg, bid)
+    b.pop("cover_tool", None)
+    disclosure = cfg.paths.book_dir(approved_series, bid) / "package" / "ai-disclosure.md"
+    disclosure.write_text(disclosure.read_text().replace(package.COVER_TOOL_PLACEHOLDER, "ElevenLabs (FLUX 3 Image)"))
+    meta = json.loads((disclosure.parent / "metadata.json").read_text())
+    package.write_disclosure(cfg, b, meta)
+    assert "Tool: ElevenLabs (FLUX 3 Image) |" in disclosure.read_text()
+    assert b["cover_tool"] == "ElevenLabs (FLUX 3 Image)"
 
 
 def test_paperback_interior_and_wrap(cfg, approved_series, tmp_path):
