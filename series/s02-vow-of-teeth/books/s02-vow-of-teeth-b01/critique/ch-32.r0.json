@@ -2,43 +2,39 @@
   "scores": {
     "reader_question": 4.0,
     "change": 4.0,
-    "romance_movement": 3.0,
-    "shown_chemistry": 3.0,
-    "character_logic": 2.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 3.0,
     "stakes_and_cost": 3.0,
     "prose": 3.0,
     "continuity": 0.0
   },
   "reasons": {
-    "reader_question": "The closing line 'I'm going to take it' and 'I don't know yet how to hold it and not be it' leave the outline's question clear and specific, with the queen's reach as a second gap.",
-    "change": "Knowledge shifts a long way. The crown, not a councillor, paid for Devan's death, and the queen may hold Neela's number. The power balance moves from safe for the season to facing the throne.",
-    "romance_movement": "The reason is new: he shares the bundle at once and she plans as his equal. But both leads say the change aloud ('I told you at once... A month ago I would have...'), and the narration also states it ('It was the whole of what he had learned'). It is told twice instead of trusted.",
-    "shown_chemistry": "Some good responsive beats: the cold hand, the knot tied a second time, 'Don't be kind. I can't think when you're kind.' The middle of scene 2 still runs on exposition traded back and forth.",
-    "character_logic": "In ch31 they both watched Muthu carry a thick grey packet into Ittan's guardroom. Here neither mentions it, the packet sits openly on the hall table, and no one acts. Muthu leaving his secret report in plain view also breaks his habit of never mentioning his letters.",
-    "stakes_and_cost": "Taking the ledger is set up as a moral cost (becoming a master), and Ittan's fear for his wife shows the queen's reach. There is no concrete immediate price yet beyond 'two against a House'.",
-    "prose": "Mostly clean and concrete, with strong lines such as 'A man could do both. That was the worst of it.' Some muddles: 'Not clove-sweet like the council's brick red, not the dull sprig of a tally' and 'she smell it before she saw it'. The repeated 'He did not... He did not' run is mannered.",
-    "continuity": "Four conflicts. The packet has lain there 'since the morning of the vow', but F288 has Muthu carrying it at first light after the vow. 'Close to the Keeper's office' seven weeks before the wedding contradicts F051, F091 and F148, where Devan had no suspect until after the wedding. 'Under the third slat' turns the creaking shutter slat (F017) into a floor hiding place. 'Chathu said a gift is the start of a bill' contradicts F080, where Neela learned it herself."
+    "reader_question": "The ledger question is spoken outright: 'how to hold it and not be it.' The queen's reach adds a second, sharper gap.",
+    "change": "Knowledge escalates from Ittan to the crown. Power shifts: they now hold the realm's most dangerous proof, hidden in the shutter.",
+    "romance_movement": "He brings it straight to her, soaked, and she plans the counter-move. The reason is new: partnership against the crown.",
+    "shown_chemistry": "Wet prints, 'I didn't stop for a coat', the doubled knot and the repeat-test show trust through action. 'Say it again' is slightly staged.",
+    "character_logic": "Neela's inference 'he wanted you to have it' rests on a line that contradicts Ittan's silence. The registers logic is muddy.",
+    "stakes_and_cost": "Taking the ledger risks mastery, but the price of Devan's 'I'll come' (fort, office, garrison) goes unnamed.",
+    "prose": "Clean and concrete. Has echoes (read it twice, slowly x3, door x2), a muddled 'She might know yours' exchange, and the told 'Asking was easier than feeling'.",
+    "continuity": "'Ittan told me where to look' conflicts with Ittan saying only one line (F433). Neela says 'leopard' against her bible voice rule."
   },
   "fixes": [
-    "At 'It had been there since the morning of the vow': this is a continuity conflict with F288 (first light after the vow) and a case of irrational behaviour and contrived delay, because ch31 ended on Muthu entering Ittan's guardroom with this packet and ch32 never mentions it. In scene 1, at the grille, let Devan register that Muthu had been there, for example Ittan says 'your captain came at first light with a letter for the south, my friend.' Make the packet's position a choice: Devan has it held unopened in the guardroom or the hall strongbox, because opening it would tell Muthu he is read. Change the date to 'since the morning after the vow', and have Neela note it in the last scene with one line of decision.",
-    "At 'After I wrote to the council that I'd found the first forged tally, and was close to the Keeper's office': this is a continuity conflict, because before the wedding Devan had no suspect (F051) and identified the seal boxes only after it (F091, F148). Rewrite it to a motive he did have then, such as 'After I wrote to the council that the raiders' tallies carried true wax and asked to see every seal register.' The queen then acted on what he was about to find, not on what he already knew.",
-    "At 'I told you at once,' he said. 'I could have kept it': this is narrated-only chemistry, because the change is stated in dialogue and again in 'It was the whole of what he had learned.' Cut the narrated sentence at the end of scene 1 and cut his 'A month ago I would have...' speech. Let Neela notice the bundle's knot and the wet stair on his clothes and say only 'You came straight here.' He answers with an exact fact, for example 'I didn't stop for a coat,' so the reader names the change without being told."
+    "At \"No one. Ittan told me where to look.\" there is a continuity break: Ittan said only one line. Change it to \"No one. He wouldn't say. Bhaskaran's men never untied it.\" Rewrite Neela's reply as: \"Then he kept it to bargain with. A man doesn't keep the crown's receipt unless he's afraid of it.\" Cut \"Whatever he tells you, the queen will know he told\", or change it to \"If he talks at all, she'll know.\"",
+    "At \"bought a leopard to kill her own border warden\" the line breaks Neela's voice: she never says the word. Change it to \"bought one of us to kill her own border warden\" or \"bought the other one\". That keeps the bible rule, and the line lands harder because she includes herself.",
+    "At \"She might know yours.\" / \"She has since the writ.\" the dialogue is muddled and the stakes are unused. Replace it with Devan saying \"She has your name. You signed the closing writ, 'of Kettamala'. It's on her desk now.\" That calls back F271/F388, a personal cost. Then change \"on that list\" to \"in any of this\". Later, have Neela name what his 'Then I'll come' costs: the fort, the office."
   ],
-  "reader_question": "Can Neela and Devan steal Chathu's ledger without becoming its new masters, now that the queen herself is their enemy?",
+  "reader_question": "Can Neela take Chathu's ledger from the Resin House without becoming its new master, now that the queen herself may own the guild?",
   "techniques_landed": [
     26,
     20,
     3,
     12
   ],
-  "new_facts_assessment": "Letter, chit and writ (F293): necessary and consistent with Ittan's devotion and the ch6 plant, and the red-thread echo of Asha's notes is a good callback. Writ date and the chipped sunbird seal (F294): necessary, and the chip makes the match fair and retrievable. The stated motive (Devan 'close to the Keeper's office' pre-wedding) is not consistent and must be rewritten. Hiding place (F295): necessary in function, but 'third slat' conflicts with F017, which makes it a shutter slat. Move it to a defined spot, such as a hollow behind the shutter-slat housing, or pick another named place, and fix the new-facts entry. Muthu's return (F296): necessary for the teaser and consistent with F264/F291 and Pachan's pole (F232). The grey packet's placement and date need correcting against F288.",
+  "new_facts_assessment": "F433 (packet locked openly, Ittan silent) is necessary and consistent with ch31, but the chapter itself breaks it with 'Ittan told me where to look'. F434 is acceptable, though the writ and the warden's letter are both dated 'seven weeks before the wedding', which leaves no travel time to Kodiyur (four days, F208). Make one 'about six weeks' or say the queen moved within days. Unlisted new facts: the chit halves (buyer keeps one, the odiyan burns hers at the stone), the chip on the left wing tip, and that Devan recognises Chathu's mark. All are plausible and should be logged.",
   "content_rule_violation": false,
-  "failure_modes": [
-    "Irrational behaviour to extend plot",
-    "Contrived delays",
-    "Narrated-only chemistry"
-  ],
-  "average": 2.75,
+  "failure_modes": [],
+  "average": 3.12,
   "minimum": 0.0,
   "passed": false
 }

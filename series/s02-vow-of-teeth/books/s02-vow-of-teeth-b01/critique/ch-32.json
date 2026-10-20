@@ -1,40 +1,40 @@
 {
   "scores": {
     "reader_question": 4.0,
-    "change": 5.0,
+    "change": 4.0,
     "romance_movement": 4.0,
     "shown_chemistry": 4.0,
-    "character_logic": 4.0,
-    "stakes_and_cost": 4.0,
-    "prose": 4.0,
-    "continuity": 5.0
+    "character_logic": 3.0,
+    "stakes_and_cost": 3.0,
+    "prose": 3.0,
+    "continuity": 0.0
   },
   "reasons": {
-    "reader_question": "The ledger question is specific and set up by Neela's vow and Devan's 'makes you a master' line. Devan states it almost word for word, which is slightly on the nose. 'What will the queen do now that they hold her seal' competes with it rather than sharpening it.",
-    "change": "The value shift lands cleanly. The chapter opens with the case against Ittan nearly closed and ends with the crown as the enemy, its proof hidden in the shutter, and the plan to take the ledger made aloud.",
-    "romance_movement": "The change is new and earned. He brings the deadliest fact in the realm to her, still soaking wet, and asks her to read it before he speaks. She then leads the hiding and the next move. 'Then I'll come' turns them into equal partners.",
-    "shown_chemistry": "Attraction shows through responsive action: the wet prints and 'I didn't stop for a coat', taking her cold hand, the knot tied twice, and the 'Don't be kind' / 'Then I'll be exact' exchange that shows he knows how she thinks.",
-    "character_logic": "Mostly sharp. Devan measures the seals, and Neela reads why Ittan handed over the bundle. Two things blur it. The Muthu packet's route into the guardroom and into Devan's hands is unclear, so 'believing he is unread' doesn't quite hold. 'Six years wanting this man's throat' also overstates what Devan knew, since he identified Ittan only in ch23.",
-    "stakes_and_cost": "Taking the ledger risks making Neela a master, and the queen can read the guild and may know Kirri. Muthu's packet is a live threat they choose to leave sealed. The final 'I'm going to take it' carries cost, though it is stated more than felt.",
-    "prose": "Clean and specific: the willow-bark letter, the left-tip chip, 'a gift is the start of a bill'. There are no banned phrases and almost no AI tells. The main lapse is POV: the Neela scene slips into Devan's head several times. Several consecutive paragraphs in scene one open with 'He', and 'Beneath it' / 'Beneath the signature' echo each other.",
-    "continuity": "Consistent with the canon on the green sunbird wax, leaf not clove (F070), the seal in Devan's sleeve (F071), the gift locked in the granary, the creaking third slat, Chathu's 'not the only book' line, Kirri's anklet, the four-month closure and Muthu's thick grey packet (F288). F299's wording should be tightened against the bible (see new_facts_assessment), but it does not conflict."
+    "reader_question": "The ledger question is spoken outright: 'how to hold it and not be it.' The queen's reach adds a second, sharper gap.",
+    "change": "Knowledge escalates from Ittan to the crown. Power shifts: they now hold the realm's most dangerous proof, hidden in the shutter.",
+    "romance_movement": "He brings it straight to her, soaked, and she plans the counter-move. The reason is new: partnership against the crown.",
+    "shown_chemistry": "Wet prints, 'I didn't stop for a coat', the doubled knot and the repeat-test show trust through action. 'Say it again' is slightly staged.",
+    "character_logic": "Neela's inference 'he wanted you to have it' rests on a line that contradicts Ittan's silence. The registers logic is muddy.",
+    "stakes_and_cost": "Taking the ledger risks mastery, but the price of Devan's 'I'll come' (fort, office, garrison) goes unnamed.",
+    "prose": "Clean and concrete. Has echoes (read it twice, slowly x3, door x2), a muddled 'She might know yours' exchange, and the told 'Asking was easier than feeling'.",
+    "continuity": "'Ittan told me where to look' conflicts with Ittan saying only one line (F433). Neela says 'leopard' against her bible voice rule."
   },
   "fixes": [
-    "In the Neela scene, 'Then she did what he had learned she did.' and 'He heard how odd that sounded.' (also 'He took more care with the next part' and 'the look she wore when she counted exits and found one he hadn't'): POV head-hop into Devan inside a Neela-POV scene, which breaks the one-POV-per-scene rule. Rewrite these in Neela's perception. For example: 'She sat back. Asking was easier than feeling.' Then show his care from outside: 'He slowed, the way he did on a bad step.'",
-    "'He had taken the grey packet out of the guardroom himself': this risks the 'Irrational behaviour to extend plot' failure mode because the logistics are muddled. It is unclear why Muthu's packet was in a prisoner's guardroom, how Devan took it, and why Muthu would still believe himself unread. Add one or two plain sentences. Muthu left it with Bhaskaran's man for the held post. With the pass shut, the warden keeps all southbound post under seal until the roads open, so the strongbox reads as routine and the unbroken wax becomes the proof Muthu will check.",
-    "'You were never a line. You were the wife I kept.': in a chapter about who holds whom, 'kept' is owner's language. Neela, who reads every leash, lets it pass unremarked, and that dulls the theme at the hinge. Either change the line to something exact and free ('You were the wife who stayed') or have Neela catch the word ('Kept.' 'Chose. I meant chose.') before 'Don't be kind.' While revising, also fix 'six years wanting this man's throat' to 'six years wanting the throat of whoever bought Asha, and twenty days knowing it was this one', since Devan named Ittan only in ch23."
+    "At \"No one. Ittan told me where to look.\" there is a continuity break: Ittan said only one line. Change it to \"No one. He wouldn't say. Bhaskaran's men never untied it.\" Rewrite Neela's reply as: \"Then he kept it to bargain with. A man doesn't keep the crown's receipt unless he's afraid of it.\" Cut \"Whatever he tells you, the queen will know he told\", or change it to \"If he talks at all, she'll know.\"",
+    "At \"bought a leopard to kill her own border warden\" the line breaks Neela's voice: she never says the word. Change it to \"bought one of us to kill her own border warden\" or \"bought the other one\". That keeps the bible rule, and the line lands harder because she includes herself.",
+    "At \"She might know yours.\" / \"She has since the writ.\" the dialogue is muddled and the stakes are unused. Replace it with Devan saying \"She has your name. You signed the closing writ, 'of Kettamala'. It's on her desk now.\" That calls back F271/F388, a personal cost. Then change \"on that list\" to \"in any of this\". Later, have Neela name what his 'Then I'll come' costs: the fort, the office."
   ],
-  "reader_question": "Can Neela and Devan steal Chathu's ledger from the Resin House without becoming its new masters, now that the queen who bought Devan's death can read the guild?",
+  "reader_question": "Can Neela take Chathu's ledger from the Resin House without becoming its new master, now that the queen herself may own the guild?",
   "techniques_landed": [
     26,
     20,
     3,
     12
   ],
-  "new_facts_assessment": "F297 (Muthu's packet held sealed in the hall strongbox) is necessary: it puts the beat's 'letter waiting for the roads' on the page and keeps Devan from learning Muthu's master early (secret map: B2 ch9). It needs one clarifying line on how the packet came into the warden's keeping. As written, Muthu would know Devan has it, which weakens the 'unread' logic unless the warden holds all post as routine during the rains. F298 (shutter-frame hollow behind the third slat, correcting F295) is consistent with the bible's creaking slat and should replace F295 in continuity. F299 (Devan's letter to the council seven weeks before the wedding, and the queen sealing the writ in response) is useful because it gives the queen a motive. However, 'before he had any suspect' sits awkwardly beside the bible's 'after he got close to Ittan'. Reword F299 as: his request for the seal registers would have led to Ittan's box, so the queen acted as he closed on Ittan. The Varanad-mint silver hint ('I may have been wrong about what was stolen') edges toward the B2 ch20 treaty reveal but stays a suspicion, which is acceptable.",
+  "new_facts_assessment": "F433 (packet locked openly, Ittan silent) is necessary and consistent with ch31, but the chapter itself breaks it with 'Ittan told me where to look'. F434 is acceptable, though the writ and the warden's letter are both dated 'seven weeks before the wedding', which leaves no travel time to Kodiyur (four days, F208). Make one 'about six weeks' or say the queen moved within days. Unlisted new facts: the chit halves (buyer keeps one, the odiyan burns hers at the stone), the chip on the left wing tip, and that Devan recognises Chathu's mark. All are plausible and should be logged.",
   "content_rule_violation": false,
   "failure_modes": [],
-  "average": 4.25,
-  "minimum": 4.0,
-  "passed": true
+  "average": 3.12,
+  "minimum": 0.0,
+  "passed": false
 }
