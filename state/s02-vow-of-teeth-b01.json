@@ -945,7 +945,7 @@
       }
     },
     "29": {
-      "status": "passed",
+      "status": "edited",
       "revisions": 1,
       "scores": {
         "reader_question": 4.0,
@@ -959,21 +959,21 @@
       },
       "average": 4.25,
       "flags": [],
-      "words": 2991,
+      "words": 2993,
       "minimum": 4.0,
       "continuity_fixes": [
         "Devan reads the marriage-writ clause aloud as 'In the event of the warden's death in office, the pass-seal passes to his wife in trust...'. The same document's wording in ch 8 is '...and the said wife, being lawfully wed, shall hold the pass-seal of Kettamala in trust from the hour of the warden's death, until the council shall name another in his place.' FIX: In ch 29, replace the quoted clause with the ch 8 wording."
       ],
       "style": {
-        "words": 2983,
+        "words": 2993,
         "banned_hits": {},
         "ai_tell_hits": {},
         "ai_tells_per_1000": 0.0,
         "top_4gram": "keeper of the passes",
         "top_4gram_count": 2,
         "longest_paragraph_words": 98,
-        "em_dashes_per_1000": 0.34,
-        "reading_ease": 89.8
+        "em_dashes_per_1000": 0.33,
+        "reading_ease": 89.3
       },
       "owner_instructions": [
         "Consistency check for ch 30's 'crown writ' line. The summary says the pass was sealed 'with Neela's name as witness'. If ch 29 shows Neela signing the sealing writ as witness, make that one beat clear on the page. She signs her name, as his wife, to a border-law sealing under the padippura roof. Add one line of her interiority that marks it as a change from her ch 23 refusal: this is a border writ in her married name, not an odiyan's testimony before the queen. If ch 29 does not show her signing anything, add nothing here and follow the 'otherwise cut' branch in ch 30."
@@ -2361,9 +2361,13 @@
     {
       "at": "2026-10-20T09:04:48",
       "event": "done: S8 line edit ch 16"
+    },
+    {
+      "at": "2026-10-20T09:05:35",
+      "event": "done: S8 line edit ch 29"
     }
   ],
-  "updated_at": "2026-10-20T09:04:48",
+  "updated_at": "2026-10-20T09:05:35",
   "midpoint_chapter": 16,
   "continuity_attempts": 1,
   "continuity_last_errors": 1,
