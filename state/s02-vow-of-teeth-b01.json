@@ -980,7 +980,7 @@
       ]
     },
     "30": {
-      "status": "passed",
+      "status": "edited",
       "revisions": 0,
       "scores": {
         "reader_question": 3.0,
@@ -994,7 +994,7 @@
       },
       "average": 4.0,
       "flags": [],
-      "words": 2612,
+      "words": 2606,
       "minimum": 3.0,
       "continuity_fixes": [
         "Devan says he left the shutters 'Open, as my father kept them' on the first night, but ch 1 and ch 2 show them closed, and Neela opens them herself. FIX: In ch 30, change 'Open, as my father kept them' to 'Shut on the latch and never barred, as my father kept them'.",
@@ -1003,15 +1003,15 @@
         "Devan says the hounds 'went to the kennel within a few nights' of the second dusk. Ch 3 (night two) already has them behind a kennel door, ch 4 says 'every night since your wedding', and ch 16 says 'from the second night'. FIX: In ch 30, change 'The hounds went to the kennel within a few nights, the sentry after them' to 'The hounds went to the kennel that same night, the sentry a few nights after.'"
       ],
       "style": {
-        "words": 2727,
+        "words": 2606,
         "banned_hits": {},
         "ai_tell_hits": {},
         "ai_tells_per_1000": 0.0,
         "top_4gram": "pay for it she",
         "top_4gram_count": 2,
-        "longest_paragraph_words": 104,
-        "em_dashes_per_1000": 0.37,
-        "reading_ease": 96.1
+        "longest_paragraph_words": 105,
+        "em_dashes_per_1000": 0.0,
+        "reading_ease": 96.6
       },
       "owner_instructions": [
         "The re-explanation passage that relists the shutters, hounds, sentry and Janu's stories ('The second dusk I barred them. The hounds went to the kennel that same night...'): the reader solved all of this at the ch 16 midpoint. Cut the list. Keep only what is new. He decided never to use what he'd seen before he picked up the bar on the second dusk. And he says why, in his own exact register: the reason he chose, not the inventory of what he did. Two to four lines of dialogue at most.",
@@ -2365,9 +2365,13 @@
     {
       "at": "2026-10-20T09:05:35",
       "event": "done: S8 line edit ch 29"
+    },
+    {
+      "at": "2026-10-20T09:06:07",
+      "event": "done: S8 line edit ch 30"
     }
   ],
-  "updated_at": "2026-10-20T09:05:35",
+  "updated_at": "2026-10-20T09:06:07",
   "midpoint_chapter": 16,
   "continuity_attempts": 1,
   "continuity_last_errors": 1,
