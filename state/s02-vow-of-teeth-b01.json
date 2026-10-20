@@ -12,7 +12,7 @@
   ],
   "chapters": {
     "01": {
-      "status": "passed",
+      "status": "edited",
       "revisions": 0,
       "scores": {
         "reader_question": 4.0,
@@ -26,12 +26,23 @@
       },
       "average": 3.88,
       "flags": [],
-      "words": 2608,
+      "words": 2587,
       "minimum": 3.0,
       "continuity_fixes": [
         "Ch 1 says Kettamala has 'one gate and a hundred and some soldiers'. Ch 24 and ch 29 give the garrison as sixty, and ch 14 uses an east postern, which is a second gate. FIX: In ch 1, change 'A fort with one gate and a hundred and some soldiers' to 'A fort with one great gate and sixty-odd soldiers'.",
         "On the wedding night Neela lifts a bar off the shutters. Ch 10 (Janu), ch 16 and ch 30 all say the shutters were never barred before the wedding and Devan first barred them on the second dusk. FIX: In ch 1, replace 'with a bolt that slid back easily. She lifted the bar, eased the first shutter' with 'held only by an iron latch; the long teak bar hung unused on its hooks. She lifted the latch, eased the first shutter'."
-      ]
+      ],
+      "style": {
+        "words": 2587,
+        "banned_hits": {},
+        "ai_tell_hits": {},
+        "ai_tells_per_1000": 0.0,
+        "top_4gram": "the wall walk running",
+        "top_4gram_count": 2,
+        "longest_paragraph_words": 97,
+        "em_dashes_per_1000": 0.0,
+        "reading_ease": 91.3
+      }
     },
     "02": {
       "status": "passed",
@@ -1678,9 +1689,13 @@
     {
       "at": "2026-10-20T07:46:00",
       "event": "done: book-level checks"
+    },
+    {
+      "at": "2026-10-20T07:46:37",
+      "event": "done: S8 line edit ch 1"
     }
   ],
-  "updated_at": "2026-10-20T07:46:00",
+  "updated_at": "2026-10-20T07:46:37",
   "midpoint_chapter": 16,
   "continuity_attempts": 3,
   "continuity_last_errors": 2
