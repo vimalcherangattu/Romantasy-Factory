@@ -1,0 +1,40 @@
+## Keep
+
+- **Chapter 1 hooks me from the first line.** "Four exits" sets up her counting habit and her job in two words. The bangle he waits to fit until she turns her wrist ("he asked before he touched") is the first chemistry beat, and it is shown, not told. The sword laid hilt-toward-her, "I sleep badly," and the third slat she creaks on purpose to test him: I'd keep reading at every one of these. The last line, "Her spine began to bend," is a clean cliffhanger. I would not stop anywhere in this chapter.
+- **Chapter 2 is the book's best argument for itself.** "It was the most private thing he had ever seen. He did not look away. That was the job, and it was also the crime." Devan's first lie to Janu ("I'm hungry") to get Neela fed is a small act of care that proves he noticed. It also sets up the ch16 reread perfectly.
+- **The ch16 midpoint does real work.** Devan hears his own offer in the voice of the guild courier's letter ("A debt is simply mentioned"). Neela then rereads his kindness through Chathu's tin of sweets. Both are rational, and the two readings mirror each other. The hitch in his breathing, "giving it to her on purpose, so she could count him," is the moment the romance turns. Her choice to make "the mistake that hurt" is a smart heroine choosing, not a misunderstanding.
+- **Chemistry that's felt (ch30):** "At two your thumb shifted a hair, to the true place, and I thought: she knows exactly where it is." This is competence as intimacy, and it calls back ch11 without signposting. The tooth drawing blood on both thumbs is the wound-share shown on the page, not explained.
+- **Ch31 vow scene.** Naming Raiu and Ammu, then every living soul, pays off the ch1 naming habit, and "I was given a number for twenty-one of my twenty-seven years" earns it. "Two e's. Clerks always drop one." is the best Muthu beat in the book. The Kirri cloth is a costly, specific act of care.
+- **The explicit scene changes the relationship.** She leads, he says "Left" when it pulls, the matched welts line up, and "for the first time since she was six years old, she stopped counting." Then the last line of ch32, "and began to count," flips it. That's a callback earned by a changed situation.
+- **Ch32 hinge:** the chipped sunbird seal set beside the gift seal is a fair, retrievable twist (planted in ch6). "A creak is a good watchman" is a lovely use of the third slat. I want book 2.
+- The heroine changes a belief through a choice ("Leopard," then turning back in his arms). This is the market gap the book was built for, and it shows.
+
+## Fix
+
+1. **Ch31: Devan's logic over Ittan is thin, and a reader will call it "irrational behaviour to extend plot."** The careful, measuring warden leaves a key prisoner open to Muthu because "I can't order a sergeant to bar him without telling the fort why." He has just arrested a councillor in front of sixty men; nobody needs a reason. Cut that line. Have Devan's order bar everyone, Muthu included. Muthu then gets past Bhaskaran on the "warden's box" post pretext, which is already on the page and is better. The cost of Neela's chosen hour stays real: Ittan cools by morning and Muthu gets his minute. But it no longer looks as if Devan left the door open.
+
+2. **Pattern: Devan's mouth and the "weather" simile.** Ch1 has "the start of a smile… went nowhere" and "the corner of his mouth moved again." Ch16 has "The corner of his mouth moved, and was gone." Ch30 has "The corner of his mouth moved." Ch31 has "His mouth moved." Ch32 has "His mouth went crooked." For weather, ch1 has "allowed it the way a man allows weather," ch30 "looked at her as he looked at weather, closely and with respect," and ch32 "as he studied a weather sign, with respect." That's near-verbatim across two chapters. Keep at most two mouth-tells across the whole book and one weather line (ch1's is best). Swap the rest for tells that only he has: his thumb on the worn place in the sword grip (ch2), or the pebble.
+
+3. **Ch32: the "Say it again" check is used twice, and the second one is greeting-card.** It lands in ch30 ("Say it again… It holds."). In ch32, "You were never a line. You were the one thing in any of this I didn't have to guess at," repeated word for word, weakens the device and reads cheesy. Cut the repeat in ch32. Give Devan one concrete line instead, the kind of plain fact he deals in, and let Neela move straight to "Who else has seen this?"
+
+4. **Ch32 exposition and a continuity slip.** The "Eight weeks before the wedding I wrote to the council… I know now where those registers lead. To Ittan's box" paragraph is hard to follow, and the dates (writ seven weeks before, letter eight) make the reader do sums at the twist. Cut it to one sentence: he asked for the seal registers, and she paid within days. Also, in the hall scene, "His hand turned under hers, palm up" comes before "She took his hand off the map." Reorder those two lines. (In ch30 "His hand turned under hers" also appears. Vary one of them.)
+
+5. **Ch26 to 27: the climax scores lowest of the back half (3.38, 3.62), and ch27 carries eight beats.** Forced resin, the rescue and loophole, Devan's arrival and the antidote, "Leopard," the page burning, the bear charge and Devan's first strike, and Ammu's death all sit in one chapter. That is the proof chapter, and it should be the peak. Move Devan's ride-in and the antidote to the last scene of ch26, which also gives ch26 its missing both-leads beat. Then ch27 can spend its words on the naming and on Ammu's last cry. Readers remember the final sacrifice; make sure hers has room to hurt.
+
+6. **Ch3 to 4: an early sag where KU read-through is decided (3.62, 3.12).** Ch4's outline beat "Neela argues it both ways in her head" is a monologue risk. Turn it into action: she crosses the empty yard as a woman at dusk, tests the kennel latch, and Kannan catches her at it. That way the "gift or bait" question plays out in a scene. Keep the token-wax hall scene. It's the strongest beat of the chapter.
+
+7. **Ch16 and ch30: a few muddled lines and an unclear cost.** In ch16, "she had tied the kennels to his *Rain* at dusk under a clear sky, and stopped there. She had stopped short of the end of the rope" and "Fourteen loose hounds would have bayed the other one across the court every night of her life here" both need a second read. Simplify them. The ache from missed resin nights ("nine or ten days off by her count of rationed nights" in ch16; "Your nails." / "Are bad." in ch30) is a real price, but a reader can't feel a cost they can't picture. State it once, plainly, in an early chapter: what the ache does to her body and how soon. Then ch30's refusal to turn reads as a sacrifice.
+
+Reader complaints from canon/reader-appeal.md:
+- **Cheesy dialogue:** mostly avoided. The one hit is ch32 (note 3).
+- **Painful monologue:** ch16's interior runs long, but it ends in a choice, so it passes.
+- **Predictability:** Ittan is plain from his ch17 letter ("such a comfort, should anything befall the fort"). The queen's seal rescues this, so it's fine.
+- **Heroine who doesn't change:** not a problem here.
+
+## Blurb
+
+- The blurb promises this book. It names the arranged marriage, the enemies dynamic, the slow burn, open-door heat and an HFN ending, and the pages deliver all of them. The bold opening line is excellent. Keep it.
+- Add **Forced proximity** to the tropes line. They share one bed for forty days, which is a searched-for trope and a core part of the book.
+- Paragraph 4 lists four threats in a row, which reads like a list. Cut "Someone on the queen's council is selling the passes to raiders" so that Asha's death and "one careless word closer to his mouth" hit harder.
+- "Twelve kills buy release" should match the book's word, "contracts" ("Twelve contracts buy release"). Otherwise a sharp reader will notice the mismatch.
+- Optional, for amazon.in readers: add "Kerala-folklore-inspired" to the closing line. The desi texture is a selling point for that market and is currently invisible in the blurb. The owner should check the cultural framing first.
