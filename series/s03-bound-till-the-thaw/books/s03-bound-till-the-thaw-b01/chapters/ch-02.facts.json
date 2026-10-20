@@ -1,3 +1,19 @@
 {
-  "facts": []
+  "facts": [
+    {
+      "category": "knowledge",
+      "fact": "The warden report of Dilan's death records blood on the ice and a curl of frozen cartilage no longer than a fingernail, which Rohan reads as the rim of an ear.",
+      "since": "ch 2"
+    },
+    {
+      "category": "knowledge",
+      "fact": "Rohan knows a warden who lets a known load cross is harbouring it by the letter of the Closing Law; he writes no report and decides to follow the redbark toward the Salt Fox.",
+      "since": "ch 2"
+    },
+    {
+      "category": "place",
+      "fact": "The wool bales (Bindu's, with the hidden redbark) stand in the goat pen beneath the salt house; the wardens search the pen last.",
+      "since": "ch 2"
+    }
+  ]
 }
