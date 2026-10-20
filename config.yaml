@@ -68,6 +68,22 @@ models:
   beta_reader: opus
   magnet: sonnet
 
+# Reasoning effort per agent (claude --effort). Measured on book 1: reasoning was ~2/3 of output.
+# Judgement stages stay high; mechanical stages go low. Unlisted agents use the CLI default.
+effort:
+  outline: high
+  draft: medium
+  critique: medium
+  revise: medium
+  continuity: high
+  book_check: medium
+  line_edit: low
+  summary: low
+  package: low
+  market_check: low
+  author_bio: low
+  owner_notes: medium
+
 # Automation of owner steps (owner chose these on 19 Oct 2026).
 auto:
   pick_concept: true               # factory new-series --auto: an agent picks the concept

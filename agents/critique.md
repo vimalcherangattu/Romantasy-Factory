@@ -35,6 +35,10 @@ Also check:
   the page, reproduced copyrighted text, a named living author). A violation
   fails the chapter regardless of scores.
 
+## Length
+
+Keep the file short: one line (at most 25 words) per reason, and fixes of at most 80 words each.
+
 ## Fixes
 
 Give up to 3 fix instructions, most important first. Each names the place in

@@ -316,3 +316,25 @@ def test_unexpected_error_skips_book_not_night(cfg, approved_series, monkeypatch
     rep = orchestrator.run(cfg, echo=lambda *_: None)
     assert any("unexpected AttributeError" in x for x in rep.blocked)
     assert state.load_book(cfg, f"{approved_series}-b01")["status"] == "queued"
+
+
+def test_continuity_patches_apply_without_rewrite(cfg, approved_series, monkeypatch):
+    monkeypatch.setenv("FAKE_CLAUDE_MODE", "continuity_patch")
+    bid = f"{approved_series}-b01"
+    orchestrator.run(cfg, book_id=bid, echo=lambda *_: None)
+    b = state.load_book(cfg, bid)
+    assert b["status"] == "review"
+    ch1 = (cfg.paths.book_dir(approved_series, bid) / "chapters" / "ch-01.md").read_text()
+    assert ch1.startswith("# Chapter 1: The Patched Hour")
+    assert not b["chapters"]["01"].get("continuity_fixes")  # patched, not rewritten
+    facts = json.loads((cfg.paths.series_dir(approved_series) / "continuity.json").read_text())["facts"]
+    assert any(f["fact"] == "The fort has one gate" for f in facts)
+
+
+def test_minor_continuity_only_flags_not_blocks(cfg, approved_series, monkeypatch):
+    monkeypatch.setenv("FAKE_CLAUDE_MODE", "continuity_minor_always")
+    bid = f"{approved_series}-b01"
+    orchestrator.run(cfg, book_id=bid, echo=lambda *_: None)
+    b = state.load_book(cfg, bid)
+    assert b["status"] == "review"
+    assert any(f.startswith("continuity (minor)") for f in b["flags"])

@@ -82,7 +82,8 @@ def _extra_args(cfg: Config, tools: list[str] | None) -> list[str]:
     return args + ["--tools", ",".join(tools), "--allowedTools", ",".join(tools)]
 
 
-def _invoke(cfg: Config, system_prompt: str, user_prompt: str, model: str, tools: list[str] | None = None) -> dict:
+def _invoke(cfg: Config, system_prompt: str, user_prompt: str, model: str, tools: list[str] | None = None,
+            effort: str | None = None) -> dict:
     # "replace" swaps Claude Code's default coding prompt for the agent prompt: measured at
     # about 1.3k instead of 39k context tokens per call. "append" keeps the default prompt.
     flag = "--append-system-prompt" if cfg.get("claude.system_prompt_mode") == "append" else "--system-prompt"
@@ -92,6 +93,7 @@ def _invoke(cfg: Config, system_prompt: str, user_prompt: str, model: str, tools
         "--output-format", "json",
         flag, system_prompt,
         *_extra_args(cfg, tools),
+        *(["--effort", effort] if effort else []),
     ]
     try:
         proc = subprocess.run(
@@ -141,7 +143,7 @@ def call(cfg: Config, *, system_prompt: str, user_prompt: str, stage: str, book_
     last: Exception | None = None
     for attempt in range(attempts):
         try:
-            raw = _invoke(cfg, system_prompt, user_prompt, model, tools)
+            raw = _invoke(cfg, system_prompt, user_prompt, model, tools, cfg.get(f"effort.{stage}"))
             _log_usage(cfg, book_id, stage, model, raw)
             return ClaudeResult(text=raw.get("result", ""), usage=raw.get("usage") or {}, raw=raw)
         except UsageLimitError:

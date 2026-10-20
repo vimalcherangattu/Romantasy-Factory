@@ -335,16 +335,48 @@ def step_revise(cfg: Config, book: dict, n: int) -> None:
 
 # ---------- S7 ----------
 
+def _merge_new_facts(cfg: Config, book: dict, facts: list) -> None:
+    path = sdir(cfg, book) / "continuity.json"
+    cont = read_json(path, {"facts": []})
+    start = len(cont.setdefault("facts", [])) + 1
+    for i, f in enumerate(facts or []):
+        f = f if isinstance(f, dict) else {"fact": str(f)}
+        cont["facts"].append({"id": f"F{start + i:03d}", "category": f.get("category", ""),
+                              "fact": f.get("fact", ""), "since": f"{book['book_id']} (S7)"})
+    write_json(path, cont)
+
+
+def _apply_patches(cfg: Config, book: dict, errors: list) -> tuple[int, list]:
+    """Apply exact find/replace patches. Returns (patches applied, errors that need a chapter revise)."""
+    applied, fallback = 0, []
+    for e in errors:
+        ok = bool(e.get("patches"))
+        for p in e.get("patches") or []:
+            n = p.get("chapter", e.get("chapter"))
+            path = chapter_path(cfg, book, n) if isinstance(n, int) and 1 <= n <= book["chapter_count"] else None
+            text = read_text(path) if path else ""
+            find, repl = p.get("find", ""), p.get("replace", "")
+            if path and find and text.count(find) == 1:
+                atomic_write(path, text.replace(find, repl))
+                applied += 1
+            else:
+                ok = False
+        if not ok:
+            fallback.append(e)
+    return applied, fallback
+
+
 def step_continuity(cfg: Config, book: dict) -> None:
     errors: list = []
+    new_facts: list = []
 
     def check(files):
-        nonlocal errors
+        nonlocal errors, new_facts
         try:
             errors = json_text(files["errors.json"], "errors.json").get("open_errors", [])
-            json_text(files["continuity.json"], "continuity.json")
+            new_facts = json_text(files["new-facts.json"], "new-facts.json").get("facts", [])
             return []
-        except OutputError as exc:
+        except (OutputError, AttributeError) as exc:
             return [str(exc)]
 
     try:
@@ -358,33 +390,46 @@ def step_continuity(cfg: Config, book: dict) -> None:
                 "previous-books-summaries.md": previous_summaries(cfg, book),
                 "book.md": full_book(cfg, book),
             },
-            book_id=book["book_id"], expect=["errors.json", "continuity-report.md", "continuity.json"],
+            book_id=book["book_id"], expect=["errors.json", "continuity-report.md", "new-facts.json"],
             validator=check,
         )
     except agentrun.StageFailed as exc:
         raise BookBlocked(f"continuity output malformed twice: {exc}") from exc
+    attempts = book.get("continuity_attempts", 0)
     atomic_write(bdir(cfg, book) / "continuity-report.md", files["continuity-report.md"])
+    write_json(bdir(cfg, book) / f"continuity-errors-{attempts + 1}.json", {"open_errors": errors})
     write_json(bdir(cfg, book) / "continuity-errors.json", {"open_errors": errors})
+    major = [e for e in errors if str(e.get("severity", "major")).lower() != "minor"]
     if not errors:
-        write_json(sdir(cfg, book) / "continuity.json", json_text(files["continuity.json"]))
+        _merge_new_facts(cfg, book, new_facts)
         _done(book, "S7")
         return
-    attempts = book.get("continuity_attempts", 0)
     last = book.get("continuity_last_errors")
     rounds = cfg.get("quality.continuity_rounds", 3)
-    # Keep fixing while each round leaves fewer errors; block when out of rounds or no progress.
     if attempts >= rounds or (last is not None and len(errors) >= last):
-        raise BookBlocked(f"{len(errors)} continuity errors remain after {attempts} automatic fix round(s): "
-                          + "; ".join(f"ch {e.get('chapter')}: {e.get('issue')}" for e in errors))
+        if major:
+            raise BookBlocked(f"{len(major)} major continuity errors remain after {attempts} fix round(s): "
+                              + "; ".join(f"ch {e.get('chapter')}: {e.get('issue')}" for e in major))
+        # Only minor slips left: the book goes on, and they are listed for the owner.
+        book["flags"] = [f for f in book["flags"] if not f.startswith("continuity (minor)")]
+        book["flags"] += [f"continuity (minor): ch {e.get('chapter')}: {e.get('issue')}" for e in errors]
+        _merge_new_facts(cfg, book, new_facts)
+        _done(book, "S7")
+        return
     book["continuity_attempts"] = attempts + 1
     book["continuity_last_errors"] = len(errors)
-    fixable = [e for e in errors if isinstance(e.get("chapter"), int) and 1 <= e["chapter"] <= book["chapter_count"]]
-    if not fixable:
-        raise BookBlocked("continuity errors without a chapter to fix: " + json.dumps(errors))
-    for e in fixable:
-        ch = state.chapter(book, e["chapter"])
-        ch.setdefault("continuity_fixes", []).append(f"{e.get('issue')} FIX: {e.get('fix')}")
-        ch["status"] = "continuity-fix"
+    applied, fallback = _apply_patches(cfg, book, errors)
+    book.setdefault("history", []).append({"at": state.now(), "event": f"continuity round {attempts + 1}: "
+                                           f"{len(errors)} errors, {applied} patches applied, {len(fallback)} to revise"})
+    for e in fallback:
+        n = e.get("chapter")
+        if isinstance(n, int) and 1 <= n <= book["chapter_count"]:
+            ch = state.chapter(book, n)
+            ch.setdefault("continuity_fixes", []).append(f"{e.get('issue')} FIX: {e.get('fix')}")
+            ch["status"] = "continuity-fix"
+    if not applied and not any(state.chapter(book, n)["status"] == "continuity-fix"
+                               for n in range(1, book["chapter_count"] + 1)):
+        raise BookBlocked("continuity errors with nothing to patch or revise: " + json.dumps(errors)[:2000])
 
 
 # ---------- book checks ----------

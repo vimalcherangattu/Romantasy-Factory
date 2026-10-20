@@ -129,11 +129,19 @@ def respond(system: str, user: str) -> str:
                                        "content_rule_violation": False, "fixes": ["Fix A", "Fix B"]})
     if "# S7 " in system:
         k = bump("continuity")
-        errors = [{"id": "E01", "chapter": 2, "category": "injury", "issue": "hand", "fix": "switch hand"}] \
-            if ("continuity_error" in m and k == 1) or "continuity_always" in m else []
-        cont = json.loads(input_block(user, "continuity.json") or '{"facts": []}')
+        errors = []
+        if ("continuity_error" in m and k == 1) or "continuity_always" in m:
+            errors = [{"id": "E01", "chapter": 2, "severity": "major", "category": "injury", "issue": "hand",
+                       "fix": "switch hand"}]
+        if "continuity_patch" in m and k == 1:
+            heading = re.search(r"^# Chapter 1: .*$", input_block(user, "book.md"), re.MULTILINE).group(0)
+            errors = [{"id": "E02", "chapter": 1, "severity": "major", "category": "name", "issue": "title",
+                       "fix": "rename", "patches": [{"chapter": 1, "find": heading, "replace": "# Chapter 1: The Patched Hour"}]}]
+        if "continuity_minor_always" in m:
+            errors = [{"id": "E03", "chapter": 3, "severity": "minor", "category": "timeline", "issue": "which night",
+                       "fix": "say Tuesday"}]
         return block("errors.json", {"open_errors": errors}) + block("continuity-report.md", "Checked. None.") \
-            + block("continuity.json", cont)
+            + block("new-facts.json", {"facts": [{"category": "place", "fact": "The fort has one gate"}]})
     if "# Book-level checks" in system:
         return block("book-check.json", {"checks": [{"name": "central_question_resolved", "pass": True, "evidence": "ch 3"},
                                                     {"name": "real_loss", "pass": False, "evidence": "none found"}],
