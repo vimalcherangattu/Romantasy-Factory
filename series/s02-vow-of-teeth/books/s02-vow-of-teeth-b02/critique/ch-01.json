@@ -6,36 +6,34 @@
     "shown_chemistry": 4.0,
     "character_logic": 3.0,
     "stakes_and_cost": 4.0,
-    "prose": 4.0,
-    "continuity": 0.0
+    "prose": 3.0,
+    "continuity": 5.0
   },
   "reasons": {
-    "reader_question": "The silent langurs give a sharp, specific question with a clear rule behind it. The walker's link to the raid is still loose.",
-    "change": "The safe pause becomes a costed two-night plan, and an honest alliance is set. Neela ends on a clock and under a new threat.",
-    "romance_movement": "The new reason is honest, incompatible goals. 'Go together, argue after' moves them from spouses to partners with a named conflict.",
-    "shown_chemistry": "The rewarmed cloth, the habit pebble, help given then withdrawn, and the shared wrist welt are all shown. One line narrates her pleasure.",
-    "character_logic": "Her planning is smart. But Ammu, dead nine days, gets no grief beat while Raiu does. That is trauma as decoration.",
-    "stakes_and_cost": "Each smear is priced in hollow mornings and nearness to the ache. The book-or-page split gives the raid a real cost.",
-    "prose": "The prose is concrete and rhythmic with few AI tells. 'For that that', the 'small things' echo and one told reaction are weak spots.",
-    "continuity": "'Four hundred odiyans' conflicts with the bible's forty-page ledger. The west stair route conflicts with F449, where she always takes the east stair."
+    "reader_question": "The langur silence on a road nobody can walk is a concrete gap. The sunbird mark and Ittan's fear add smaller gaps.",
+    "change": "The plan is set and the smear is spent tonight. The 'four months of locked road' mercy is broken at the close: safe now becomes on a clock.",
+    "romance_movement": "The conflict of goals is named honestly for the first time and they choose to go together. The reason is new, rooted in the ledger.",
+    "shown_chemistry": "Rewarmed cloth, the pebble, 'help given, hand removed', 'I wanted to see if you would': care is responsive, not declared.",
+    "character_logic": "Devan says 'I will not choose for you', then refuses to promise it. That contradicts him, and it turns his truth-rule into a fake-out.",
+    "stakes_and_cost": "Each smear is a piece of Ammu and a step toward the ache. Spending one on scouting is a priced, felt cost.",
+    "prose": "Clean and concrete, but 'nine days' is repeated about eight times. The recap paragraph is a dump, and lines like 'That was the thing she was learning' tell.",
+    "continuity": "Consistent with the bible and facts: wound-share wrist line, Chathu's slip, sunbird seal, Muthu's black book, willow bark, langur rule."
   },
   "fixes": [
-    "'Four hundred odiyans. If you take one' — this breaks continuity. The bible's ledger frees forty odiyans in book 2, and the kennels hold forty-one. Change the line to 'Forty of us,' or to 'Every sister I have' if no count is needed.",
-    "'Neela went down by the west stair.' — this breaks continuity with F449: she always takes the east stair and avoids the west without saying why. Send her down the east stair. Keep the forty-four count only if it applies to that stair. Replace the newel beat with her glancing toward the west stair and choosing the long way, with no reason given.",
-    "'And one name that she could not add anymore' — Ammu died nine days ago and Neela is spending Ammu's resin, yet only Raiu is mourned. That is trauma as decoration. Add Ammu here as the name she cannot say aloud, and tie it to the pouch: each smear spent is the last of her sister. Keep it to two or three lines that sharpen the cost of tonight's smear."
+    "At \"Will you promise that?\" / \"I won't answer that,\" he said gently\": a character-logic slip. Devan has just said 'I will not choose for you', so refusing to promise it contradicts him. Using his truth-phrase as a fake-out also cheapens his rule. Replace the earlier line with 'I want it to be yours to choose.' Then have him answer the promise plainly: 'I won't promise what I can't swear I'd keep.' Keep 'I won't answer that' for real refusals.",
+    "At \"Then there were the other names, the ones she'd put\": an exposition dump (Endless monologue, recap form). Cut it to about 60 words. Turn the rest into action: let her touch the wedding bangle or the writ copy while she counts who hunts her. Or move 'rogue to the guild, unvouched to the crown' into a two-line exchange with Devan at the table.",
+    "At \"That was the thing she was learning about him\" and \"He answered with facts, because that was what he had\": narrated characterization. Cut both; the dialogue already shows it. Also cut 'nine days' to at most three uses. Replace the kettle simile ('the way a house sounds when a kettle won't stop') with something native to the fort, such as the cistern chain."
   ],
-  "reader_question": "Who is walking the closed Monkey Pass road toward Kettamala in the rains, when nobody can walk it?",
+  "reader_question": "Who is walking toward Kettamala on a monsoon-closed road that nobody can walk?",
   "techniques_landed": [
     1,
     5,
     22
   ],
-  "new_facts_assessment": "The wood road and lower-ford plan is necessary and consistent: the ridge watcher fits F194, and the half-day cost is clear. The receipt-shorthand fact justifies why Neela can read some marks but not others. Both facts are sound.",
+  "new_facts_assessment": "new-facts.json is empty, but the draft adds facts. These include: the ache counted from the last turning; the watcher walks the ridge track; four instalments plus a 'hook' delivery; the folded-wing sunbird; Neela avoids the west stair; Ittan's glance at the dark corner. All are consistent and useful clues, and some already appear as F446 to F452. List them all.",
   "content_rule_violation": false,
-  "failure_modes": [
-    "Trauma as decoration"
-  ],
-  "average": 3.38,
-  "minimum": 0.0,
-  "passed": false
+  "failure_modes": [],
+  "average": 3.88,
+  "minimum": 3.0,
+  "passed": true
 }
