@@ -2,42 +2,41 @@
   "scores": {
     "reader_question": 4.0,
     "change": 3.0,
-    "romance_movement": 3.0,
+    "romance_movement": 4.0,
     "shown_chemistry": 4.0,
     "character_logic": 3.0,
-    "stakes_and_cost": 2.0,
-    "prose": 4.0,
-    "continuity": 0.0
+    "stakes_and_cost": 3.0,
+    "prose": 3.0,
+    "continuity": 5.0
   },
   "reasons": {
-    "reader_question": "Specific and bodily: why do her feet curve round a newel she can't remember? Dramatic irony keeps it hot. The new grate sharpens it.",
-    "change": "She gains the garrison's names and finds the grate clue. Kandan's refusal changes nothing in the plot. The inside-informant thread from ch9 is untouched.",
-    "romance_movement": "The laugh lands, but Devan has laughed before (F318). The seven-wells cheating story repeats ch18 (F155), so the reason is partly recycled.",
-    "shown_chemistry": "His reading of her cheat, 'Unni's on both', and the nod at the tile are responsive and specific. There is no narrated attraction.",
-    "character_logic": "Kandan is well motivated. Neela 'discovering' the hollow eleventh step ignores that she already knew it (F099) and was asked about it (F328).",
-    "stakes_and_cost": "No choice costs anything. Taking the long way is free, and Kandan's hostility carries no threat to Neela, Devan or the raid.",
-    "prose": "The prose is concrete and clean. Weak spots: 'heaven knew' in a deity-free world, 'stupidly, like a girl', and one paragraph that narrates her bible habit outright.",
-    "continuity": "Conflicts with F475 (left hand bandaged), F155 (played once at eight), F099/F328 (hollow step already known), and 'nineteen days' against a recent execution."
+    "reader_question": "The file-bright bolts and Janu's matching curve turn a quirk into a clear, physical gap the reader can state in one sentence.",
+    "change": "Knowledge shifts (grate, Janu) and Kandan's roll threat lands, but no man actually names her back, so the value shift is only half-landed.",
+    "romance_movement": "New reason: he catches her cheating with his dead sister's trick and laughs. 'Unni's on both' moves them quietly and well.",
+    "shown_chemistry": "He watched her hand, not the stone, named the knee-and-nail trick, and the welt rises on him. All of it is responsive action.",
+    "character_logic": "Neela knows she was lookout at a hill-fort stair death six years ago, yet never weighs it at Asha's stair. The POV withholds.",
+    "stakes_and_cost": "Kandan's statement to Rema's roll is a real crown risk. The stair choice costs nothing but eighty-one steps.",
+    "prose": "Clean and readable. But three consecutive 'She' paragraph openings, 'smooth as' twice, and 'first sun after the rains' is cliché.",
+    "continuity": "Wound-share welt, hand injuries, Asha's slate, seven-wells rules, Unni and Kandan facts and step counts all fit the bible and facts."
   },
   "fixes": [
-    "Hand continuity: 'worked paste into the raw place with her left thumb', 'Left-handed, be kind', and Chinna's ladle on 'Neela's left knuckles'. F475 bandages the left hand, and F492 cuts the right palm. Decide which hand is usable and make every use consistent. If the ladle strikes a wounded hand, show a welt or wince on Devan's matching hand via the wound-share.",
-    "Repetitive tension: 'Her heel came down on the eleventh and it rang'. She learned this in book 1 ch10 (F099), and Devan asked about her eleventh-step turn (F328). Rewrite so she knows the note already and deliberately tests it. Make the bolts' fresh filing the only new thing. Have her recall her old 'I don't know' to Devan, so the escalation is that the pattern now frightens her.",
-    "Stakes without cost: 'Kandan she did not win.' Give his refusal teeth. For example, Kandan says he will speak to Rema at the assize about the bride, or he knows something about the warden's chamber that touches the inside informant from ch9. Also fix 'For nineteen days' to match the execution's timing, and cut 'heaven knew'."
+    "At 'Janu, who had found Asha at the foot of that stair' (Contrived delays): Neela knows she kept watch at a hill-fort stair where a young woman died six years ago. Let her reach for that link, then refuse it for a concrete reason: she was blindfolded, every fort has a west stair, she never saw this one. Use her thumbnail tell. Keep the reveal for ch16, but stop the POV hiding a thought she would have.",
+    "At 'the bolt heads were clean and sharp, and they still showed the file' (Convenient clue, worldbuilding logic): years-old iron in monsoon laterite cannot stay rust-free. Rust the bolts, but give the heads fresh bright scratches where a spanner turned them recently. Then the grate is opened, not just replaced, which ties C13 to ch9's inside-informant hook that this chapter never touches.",
+    "At 'Unni stood up when she came in' (value shift not landed): the beat promises 'a woman the men can name back', but every man still calls her 'lady'. Add one moment where Vasu or Kuttan names her house or habit back to her. Cut 'which was more than most men could have given' and 'like the first sun after the rains'. Vary the three consecutive 'She' paragraph openings."
   ],
-  "reader_question": "Why does Neela's body swing wide of the west stair's parrot newel, and who fitted new iron under its eleventh step?",
+  "reader_question": "Why does Neela's body flinch from a stair whose drain grate someone replaced years ago, and what did she see there?",
   "techniques_landed": [
-    1,
+    5,
     23,
-    5
+    1
   ],
-  "new_facts_assessment": "Kandan, the named men and the chalked tile are necessary and fit the beat. The file-bright grate is a good new clue (C13). The hollow eleventh step and Janu keeping her distance duplicate F099 and F101 from book 1 ch10, so they must be framed as things Neela already knew, not discoveries. The east route of eighty-one steps is consistent with F163 and F449. 'Fourteen at the noon meal' fits a garrison of about sixty.",
+  "new_facts_assessment": "Kandan's roll threat is necessary, consistent and adds crown stakes. The injury handedness fits F475, F492 and F473. The stair-knowledge fact fits F328 and F514. But 'She had never refused a stair in her life' sits awkwardly beside F449, where she always takes the east stair. Calling Rema 'Captain' is unestablished; she is the queen's justice.",
   "content_rule_violation": false,
   "failure_modes": [
-    "Repetitive tension",
-    "Irrational behaviour to extend plot",
-    "Plot buried by romance"
+    "Contrived delays",
+    "Irrational behaviour to extend plot"
   ],
-  "average": 2.88,
-  "minimum": 0.0,
-  "passed": false
+  "average": 3.62,
+  "minimum": 3.0,
+  "passed": true
 }
