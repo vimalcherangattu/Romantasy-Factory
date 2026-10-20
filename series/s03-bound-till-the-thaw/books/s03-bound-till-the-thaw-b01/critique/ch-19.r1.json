@@ -1,0 +1,40 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 4.0,
+    "stakes_and_cost": 3.0,
+    "prose": 4.0,
+    "continuity": 5.0
+  },
+  "reasons": {
+    "reader_question": "The ash handprints, 'cleansing' and the general riding up make a specific, ominous gap. The four-day count sharpens it.",
+    "change": "Knowledge: the marks, the pass rule, the general. Relationship: her certainty that he is the villain is gone. Power: she now holds his confession.",
+    "romance_movement": "The reason is new. Values collide at the grave, he admits his certainty is cracking, and she loses the comfort of hating him.",
+    "shown_chemistry": "Shown through action: he lifts his good arm for her ribs-side, his silent hold at the ladder, the haystack joke, his not-touching.",
+    "character_logic": "Mostly sharp. The loft reasoning is muddled, and the escape rests on the captain's whim rather than on any choice a character makes.",
+    "stakes_and_cost": "Four days is stated, but the cost of the coming choice is never named: the rope drags her to the Fair, away from Kiran.",
+    "prose": "Clean and concrete with strong lines. Small slips: 'axe adze', 'ears took the cold' (the cold lands in the hands first), echoed 'Behind'.",
+    "continuity": "Thirty-two graves, the bell burial, the good right arm, the split knuckles, the camphor pattu and the bare-hand truths are all consistent."
+  },
+  "fixes": [
+    "At 'Four. Behind her, Rohan drew a slow breath' (Stakes without depth): add two or three lines naming the cost. The Fair is at Garh Neshar, and the rope means Meera must walk there with him. After the third day, Kiran's marked door shuts behind her without a pass. Let her register this as a choice already made for her by the mountain. That cost is what makes the chapter's ending bite.",
+    "At 'She could untie the rope. It would change nothing' (muddled logic): cut the irrelevant ten-paces sum. State plainly that the house is the patrol's first door, and that the shed loft is the only cover inside eight spans. Say where Rohan's grey pattu actually is. If it hangs over a rail, show him snatching it up the ladder, so the threat is concrete and not hypothetical.",
+    "At 'Leave it, Pasang,' said the captain (convenient escape): earn the escape through a character's act. Have Nimmi call out that the goats carry the grey cough, or have her rattle the ladle at the loft mould. The captain's squeamishness then answers her lie. This also lets you fix 'Only a bound partner's ears took the cold' to the hands, per the world rule."
+  ],
+  "reader_question": "What will the regent's 'cleansing' of the marked houses be, and can anyone stop it in the four days before the Fair?",
+  "techniques_landed": [
+    15,
+    16
+  ],
+  "new_facts_assessment": "Both facts are necessary and consistent with F129: four days to the Fair, and a third-day pass rule that falls before the Fair. Supersede F176 and F177 formally. Outline risk: chapters 20 to 29 now fit into four days. Also, the general 'after the Fair' must square with Tej at Ranu in ch27, before ch30's Fair. The captain must be wrong, or the plan must move forward.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Stakes without depth"
+  ],
+  "average": 4.0,
+  "minimum": 3.0,
+  "passed": true
+}
