@@ -2918,6 +2918,13 @@
       "fact": "Updates F114: Asha's sparring note refers to 'the seventh day' (Muthu's seventh-day sparring, F060), not Thursday.",
       "since": "s02-vow-of-teeth-b01 ch 12",
       "provisional": true
+    },
+    {
+      "id": "F423",
+      "category": "timeline",
+      "fact": "Corrects F398: on the no-resin night of ch 16 the stone cup will be bare for the second time. Only the fever night (ch 13) was found bare by Ammu's jackal; the narrows night (ch 14) was marked late (F397) and passed. The watcher's log shows a second refusal, since ch 11 was a human night.",
+      "since": "s02-vow-of-teeth-b01 ch 16",
+      "provisional": true
     }
   ],
   "knowledge": [

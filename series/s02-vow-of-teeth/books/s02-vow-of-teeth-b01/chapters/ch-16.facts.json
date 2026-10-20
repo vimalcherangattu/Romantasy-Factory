@@ -1,11 +1,10 @@
 {
   "facts": [
     {
-      "id": "F398",
+      "id": "F423",
       "category": "timeline",
-      "fact": "Corrects F376: on the no-resin night of ch 16 the stone cup is bare for the third time (fever night ch 13, narrows night ch 14, tonight); the watcher's log would show a second refusal, since ch 11 was a human night.",
-      "since": "s02-vow-of-teeth-b01 ch 16",
-      "provisional": true
+      "fact": "Corrects F398: on the no-resin night of ch 16 the stone cup will be bare for the second time. Only the fever night (ch 13) was found bare by Ammu's jackal; the narrows night (ch 14) was marked late (F397) and passed. The watcher's log shows a second refusal, since ch 11 was a human night.",
+      "since": "s02-vow-of-teeth-b01 ch 16"
     }
   ]
 }
