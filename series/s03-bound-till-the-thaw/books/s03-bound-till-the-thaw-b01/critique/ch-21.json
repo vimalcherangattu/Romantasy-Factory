@@ -1,0 +1,42 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 3.0,
+    "character_logic": 3.0,
+    "stakes_and_cost": 4.0,
+    "prose": 4.0,
+    "continuity": 0.0
+  },
+  "reasons": {
+    "reader_question": "Kiran's bolt mid-sentence is sharp, but the reader likely already suspects him from the ear, badge and flinch, so it's half-answered.",
+    "change": "Ila is revealed as captive, a road plan and public seal-walk are agreed, the speech stalls, and Kiran flees.",
+    "romance_movement": "First goals-conflict as lovers is settled by trading costs. That's new, and the beat's romance_change lands.",
+    "shown_chemistry": "The bargain dialogue works. Then narration summarises it: 'something in her face unlock', 'first quarrel... each gave something up'.",
+    "character_logic": "A captain who reads orders closely would not accept a schedule that misses the Fair. Nimmi's 'should have gone yesterday' goes unanswered.",
+    "stakes_and_cost": "Real costs on both sides: his sister's margin, her half-treated children, a smuggler in daylight. The patrol's ash-house pass rule is ignored.",
+    "prose": "Clean, varied, concrete. 'He had not' openings recur, and a few explanatory lines restate what the scene already showed.",
+    "continuity": "Timeline fails: four days to the Fair, three days' stay and a day-and-a-half road cannot reach Garh Neshar 'the evening before'."
+  },
+  "fixes": [
+    "'We leave at first light on the fourth' (Timeline error). With the Fair four days off and 1.5 days of road, they must leave at first light of the third day. Rohan concedes two days, not three. The marked cases get their last dose at second dusk. Then revise 'Three isn't six', the scene-four 'third day' header, and F185 to match. Have Meera raise the patrol's third-day pass rule as part of the cost.",
+    "'curled like a child, her breath slow' (content-rule risk). This is a childlike image in a lover's tender gaze, the morning after the explicit scene. Replace it with an adult, specific image, e.g. 'curled round the count like a guard round a gate, her breath slow'.",
+    "'he saw something in her face unlock' (Narrated-only chemistry). Cut that line and 'It was the first quarrel... both mean to pull'. Show it instead: his 'I will not' is a bound promise, so let the rope hum low and level (F149). Meera feels it, opens the count and writes 'Three days. R. promised.' before taking his hand."
+  ],
+  "reader_question": "Why did Kiran run the moment Rohan began asking whose rope Dilan cut, and will Meera now learn the truth?",
+  "techniques_landed": [
+    8,
+    13,
+    15
+  ],
+  "new_facts_assessment": "The pattu, the carter's report, the seal-walk concession, the six-day course and the speech sheet are necessary and consistent. F185 is internally impossible: leaving at first light on day four with 1.5 days of road misses a Fair four days off. The new plan also ignores F179, which bars leaving marked houses after day three without a pass.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Narrated-only chemistry",
+    "Irrational behaviour to extend plot"
+  ],
+  "average": 3.25,
+  "minimum": 0.0,
+  "passed": false
+}
