@@ -2862,6 +2862,34 @@
       "fact": "While waiting for Neela's return, Devan carries his sword from the bedside floor to the window wall and replaces it hilt toward her side before she returns, so nothing in the room looks moved.",
       "since": "s02-vow-of-teeth-b01 ch 2",
       "provisional": true
+    },
+    {
+      "id": "F415",
+      "category": "object",
+      "fact": "Devan keeps a carved box under the warden's bed; Asha's first token and her last note go into it on the evening of ch 12. F267 has him carrying the token in his sleeve on sealing day, so he retrieves it later.",
+      "since": "s02-vow-of-teeth-b01 ch 12",
+      "provisional": true
+    },
+    {
+      "id": "F416",
+      "category": "relationship",
+      "fact": "As a girl Asha drew her parrot on the cistern-house walls until Janu scrubbed them off.",
+      "since": "s02-vow-of-teeth-b01 ch 12",
+      "provisional": true
+    },
+    {
+      "id": "F417",
+      "category": "relationship",
+      "fact": "In ch 12 Devan tells Neela that Asha was his sister and, after, his second at the fort. Neela first hears it here. She also tells him, touching Asha's slate, that she learns every servant's name because she was 'a number, once, for a while'.",
+      "since": "s02-vow-of-teeth-b01 ch 12",
+      "provisional": true
+    },
+    {
+      "id": "F418",
+      "category": "knowledge",
+      "fact": "Asha's last note was found under the camphor block at the bottom of the chest; Devan withholds it from Neela (matches F115). The 'Thursday' of F114 is the seventh day in the draft.",
+      "since": "s02-vow-of-teeth-b01 ch 12",
+      "provisional": true
     }
   ],
   "knowledge": [
