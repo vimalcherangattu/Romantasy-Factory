@@ -1,39 +1,39 @@
 {
   "scores": {
-    "reader_question": 4.0,
+    "reader_question": 3.0,
     "change": 4.0,
     "romance_movement": 4.0,
     "shown_chemistry": 4.0,
     "character_logic": 4.0,
     "stakes_and_cost": 4.0,
     "prose": 4.0,
-    "continuity": 0.0
+    "continuity": 5.0
   },
   "reasons": {
-    "reader_question": "The noon vow and the lit guardroom window leave a sharp question: what will she say before Muthu, and what does Ittan know that will be asked of him? It is clearer than the beat's abstract 'what does a vow mean'.",
-    "change": "Knowledge moves both ways. He learns the full twelfth contract and its terms. She learns why the shutters were barred and when he stopped being wary. The relationship moves from allies to declared lovers with a proposal on the table.",
-    "romance_movement": "The declaration is new and earned. His 'I don't say a thing I haven't measured' ties it to his never-lie rule. The proposal adds her choice. It is somewhat expected at ch30, which caps it at 4.",
-    "shown_chemistry": "Strong responsive details carry it: 'Six' / 'Six', the pebble, the tooth-prick welt, 'Sit still. You're bleeding on both of us.' A few lines still narrate trust instead of showing it.",
-    "character_logic": "She leaves the shutters open and he answers with exact facts. His correction that knowing she wouldn't kill him is not trusting her with the name is smart and in character. Her deliberate public vow before a known informant is reasoned on the page.",
-    "stakes_and_cost": "The remarriage has a named price. Muthu's grey letter will carry her own words south, on top of her name already sitting on a crown writ. She accepts it knowingly. The resin-night cost also looms for tomorrow.",
-    "prose": "Clean, concrete, with good sentence rhythm and no banned phrases. There are minor echoes: 'He did not look away' appears twice, and two 'as he would have reported' constructions. A few narrated-belief lines appear in the declaration.",
-    "continuity": "Two conflicts. Neela says Devan said he 'wouldn't answer' about the shutters in ch3, but F400 makes ch17 the first time he ever said those words to her. 'A number for twenty years' contradicts F329 and F395 (twenty-one years)."
+    "reader_question": "The thematic question is clear, but the chapter closes on a quiet image, not a specific open gap the reader must resolve.",
+    "change": "Allies become declared lovers. Her proposal moves power: she asks rather than takes, and puts her name on the record by choice.",
+    "romance_movement": "The reasons are new: his shutter motive, his kalari trust moment, and a daylight vow. Every disclosure is met smoothly, so friction is low.",
+    "shown_chemistry": "The tooth prick's shared welt, the remembered count at the nape, and the wince during the kiss all show chemistry through action.",
+    "character_logic": "Devan's warning about Muthu's letter is smart and in character. Her choice to speak anyway follows from signing the writ in chapter 29.",
+    "stakes_and_cost": "The noon vow sends her own words to the palace in Muthu's letter, which is a real risk for a rogue. The skipped resin costs her nails.",
+    "prose": "The prose is clean, with quotable lines ('It holds.'). It stacks 'She had not...' openers and uses gaze clichés ('held her gaze', 'eyes didn't leave hers').",
+    "continuity": "This matches F346, F347, F361, F370, F409, F410, F345, F348 and F427 (the letter goes 'to the palace'). No conflicts found."
   },
   "fixes": [
-    "Fix the line \"You said you wouldn't answer,\" she said. \"When I asked why you bar the shutters.\" It is a continuity conflict with F400, which makes ch17 the first time Devan ever said \"I won't answer that\" to her. Change her line to: \"You never answered. When I asked why you bar the shutters, you asked me about the terraces. And the next dusk you said 'rain.'\" Keep his reply \"It wasn't an answer. I knew it wasn't.\" The refusal then reads as evasion, not his formal phrase, and 'I still have my one refusal in the question game' stays true.",
-    "Fix the line \"I'd been a number for twenty years.\" It is a continuity conflict with F329 and F395 (Seventeen for twenty-one of her twenty-seven years, stated aloud in her ch31 vow). Change it to 'twenty-one years'. Also change Devan's \"You've spent twenty years not being written down\" to \"You've spent your whole life keeping your name off paper.\" Her page was written in resin-ink at her first turning (F319), so 'not being written down' is literally false as well.",
-    "Fix the narrated lines \"He had never in his life filled a silence with something untrue\" and \"She believed him. That was the strange part.\" These narrate trust instead of showing it. Cut both and let the existing 'Say it again… So I can check' / 'It holds' exchange carry the belief. Also cut the second \"He did not look away\" (after 'And still you offered me a bargain'), which echoes the first. Then, in the leash scene after \"I never stopped knowing she could,\" add one line from Devan that answers her disclosure directly before she turns the talk to him, such as 'And tonight?' or 'I've had forty days to say it. I never will.' Right now she discloses and immediately praises him, which skips the response-and-validation step of technique 10 on the beat's key recognition."
+    "'Far below, across the wet court, one window' — Weak ending hook: the guardroom lamp is only described. Make it change state while she watches: the lamp moves to the grille, or a figure stands in it facing her window. Keep the time before the middle watch so it seeds F287. That turns the quiet close into a specific open question.",
+    "'The same red bead, a hand's width apart' — Rule drift: the bible says a cut opens on the partner as a shallow welt, not a matching bleed. Change her line to compare his red bead with her thin raised welt ('his bead, my welt, the same joint'). The cost stays visible without bending Rule 2.",
+    "'She had not known he knew.' / 'She had not breathed.' — Repetition: four 'She had not/She had nothing' constructions, plus 'held her gaze' and 'eyes didn't leave hers'. Cut two of the 'She had not' lines. Replace the gaze beats with a physical action, such as his thumb pressing the welt or her hand going to her own nape."
   ],
-  "reader_question": "What will Neela say in her own voice at noon before Muthu, and what does the man in the guardroom know about whose hand he is?",
+  "reader_question": "What will Neela say before Muthu at noon, and what will it cost her once those words reach the palace?",
   "techniques_landed": [
     20,
     24,
     10
   ],
-  "new_facts_assessment": "All three facts are necessary and consistent in content. The shutter and protection order correction matches F102, F300 and F377. The kalari-versus-name distinction usefully reframes the ch15 bargain. 'Eleven before it, one at a time if you ask' is a clean, fair plant for the book 2 lookout reveal (consistent with F280). Bookkeeping is broken, though. The draft labels its corrections with the old IDs F349 and F347, and its third fact as F410. The ledger already holds these facts as F409, F410 and F411, so draft F410 collides with ledger F410 (the kalari correction). Renumber to F409, F410 and F411, and retire F349, F347 and F282. One fact the draft added is not declared: a ch3 refusal in so many words. It contradicts F400 and must be fixed in the text, not added to the ledger.",
+  "new_facts_assessment": "The draft lists no new facts, but it adds one: Devan has not yet used his single question-game refusal (F187). This is consistent and useful, so log it. The welt/bead wording slightly blurs the wound-share rule (F009).",
   "content_rule_violation": false,
   "failure_modes": [],
-  "average": 3.5,
-  "minimum": 0.0,
-  "passed": false
+  "average": 4.0,
+  "minimum": 3.0,
+  "passed": true
 }

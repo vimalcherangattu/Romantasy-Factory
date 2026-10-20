@@ -4,40 +4,36 @@
     "change": 4.0,
     "romance_movement": 4.0,
     "shown_chemistry": 4.0,
-    "character_logic": 3.0,
-    "stakes_and_cost": 2.0,
-    "prose": 3.0,
-    "continuity": 0.0
+    "character_logic": 4.0,
+    "stakes_and_cost": 4.0,
+    "prose": 4.0,
+    "continuity": 5.0
   },
   "reasons": {
-    "reader_question": "The beat's question ('what does a vow weigh with nothing hidden') is stated outright in the last scene rather than felt; the concrete pull is only 'will the noon wedding happen', and Ittan's 'whose hand I am' thread is not escalated, so no new question bigger than the one answered.",
-    "change": "Clear state change: every secret between them is out, both have declared, and she has asked for a remade marriage, so allies become lovers who chose with full knowledge.",
-    "romance_movement": "Moves for new reasons: the tooth confession, the shutters explained, the three-breath trust night and her first freely made request. Docked because the recognition is argued in dialogue more than proven by an act.",
-    "shown_chemistry": "Strong responsive beats: the tooth prick opening a welt on her thumb and her laughing, the breath-hitch she has listened to for weeks, the kiss broken by his rib wound pulling at hers.",
-    "character_logic": "Mostly true to voice. But Devan lists Raiu as a casual detail three chapters after Raiu died on the stair for him. The question-game turn is muddled: she says 'your turn' and he asks a question about himself. 'We don't have a week' has no stated reason.",
-    "stakes_and_cost": "Nothing the leads choose here costs anything. The proposal carries no named price, though Muthu, a known palace informant, will witness it. Ammu's death and the closed pass with a prisoner are background only.",
-    "prose": "Clean, no banned phrases or em-dash excess. Weakened by thesis-statement dialogue ('I'm not unleashable because I'm strong...'), a garbled line ('because you know, and you didn't'), recycled tags ('He said it plainly / without weight / as he would have reported a patrol') and three 'corner of his mouth moved' beats.",
-    "continuity": "Conflict. Devan says that on the second dusk he pulled the sentry, kennelled the hounds and stopped Janu's stories. The sentry still paced above the window in ch4 (F052) and was pulled in ch5 (F064, F079), and the stories stopped in ch9 (secret map). 'A stone in your cheek every night' also conflicts with F247 (only since ch20)."
+    "reader_question": "The thematic question is clear, but the chapter closes on a quiet image, not a specific open gap the reader must resolve.",
+    "change": "Allies become declared lovers. Her proposal moves power: she asks rather than takes, and puts her name on the record by choice.",
+    "romance_movement": "The reasons are new: his shutter motive, his kalari trust moment, and a daylight vow. Every disclosure is met smoothly, so friction is low.",
+    "shown_chemistry": "The tooth prick's shared welt, the remembered count at the nape, and the wince during the kiss all show chemistry through action.",
+    "character_logic": "Devan's warning about Muthu's letter is smart and in character. Her choice to speak anyway follows from signing the writ in chapter 29.",
+    "stakes_and_cost": "The noon vow sends her own words to the palace in Muthu's letter, which is a real risk for a rogue. The skipped resin costs her nails.",
+    "prose": "The prose is clean, with quotable lines ('It holds.'). It stacks 'She had not...' openers and uses gaze clichés ('held her gaze', 'eyes didn't leave hers').",
+    "continuity": "This matches F346, F347, F361, F370, F409, F410, F345, F348 and F427 (the letter goes 'to the palace'). No conflicts found."
   },
   "fixes": [
-    "Continuity, at \"The second dusk. I pulled the sentry. Kennelled the hounds\": this conflicts with ch4 (sentry still pacing, F052), ch5 (sentry pulled, F064 and F079) and ch9 (Janu's stories stopped). Rewrite as a sequence that matches the chapters. Suggested wording: \"The second dusk I barred them. The sentry went a few nights after, then the hounds. Janu's stories took me longest.\" Also change \"You put a stone in your cheek every night\" to \"every resin night since the rampart\" to match F247.",
-    "Stakes and cost, and trauma as decoration, at \"Raiu was at the stair. The sentry walked\" and \"We don't have a week. I'd rather be married than careful\": Raiu died on that stair for Devan in ch25, and Ammu three chapters ago, yet neither loss shapes this night. Fix in two parts. First, give Devan a one-line halt on Raiu's name. Second, let Neela touch Ammu's resin pouch when she asks for the morning vow, so the dead sister is present. Then replace the unexplained 'we don't have a week' with a concrete price. For example, Devan points out that Muthu will stand in that courtyard and her own words will go north in a grey-sealed letter, and she chooses to say them anyway. That gives the proposal a real cost and re-engages Ittan's 'whose hand' thread.",
-    "Prose and narrated chemistry, at \"I'm not unleashable because I'm strong,\" she said: the recognition is delivered as a stated thesis, the line 'because you know, and you didn't' is garbled, and 'That's what I was afraid of for twenty years' repeats the point. Cut this to one concrete sentence tied to the open window at her back, for example: \"There's rain on my neck and a man who's seen all of me, and I'm not counting the door.\" Fix the question-game turn too: have Devan ask \"Do you want to know when I stopped being afraid of you?\" so the turn makes sense. Vary the repeated 'He said it plainly / without weight' tags."
+    "'Far below, across the wet court, one window' — Weak ending hook: the guardroom lamp is only described. Make it change state while she watches: the lamp moves to the grille, or a figure stands in it facing her window. Keep the time before the middle watch so it seeds F287. That turns the quiet close into a specific open question.",
+    "'The same red bead, a hand's width apart' — Rule drift: the bible says a cut opens on the partner as a shallow welt, not a matching bleed. Change her line to compare his red bead with her thin raised welt ('his bead, my welt, the same joint'). The cost stays visible without bending Rule 2.",
+    "'She had not known he knew.' / 'She had not breathed.' — Repetition: four 'She had not/She had nothing' constructions, plus 'held her gaze' and 'eyes didn't leave hers'. Cut two of the 'She had not' lines. Replace the gaze beats with a physical action, such as his thumb pressing the welt or her hand going to her own nape."
   ],
-  "reader_question": "What will it mean for Neela and Devan to make a vow in daylight with nothing hidden, and what will saying it in the open cost them?",
+  "reader_question": "What will Neela say before Muthu at noon, and what will it cost her once those words reach the palace?",
   "techniques_landed": [
-    10,
     20,
-    24
+    24,
+    10
   ],
-  "new_facts_assessment": "F276 (skipped resin, Ammu's thumb kept for ch31) is necessary and consistent. Fix the line 'The resin's in the pouch with Ammu's': it implies a second, personal supply, which a rogue with no ration should not have. F277 (three counted breaths, undated, about nine days in) is necessary; it fits the breath-hitch of F083 and F165 and the ch10-11 skipped-resin window. F278 is necessary in substance but conflicts in its timing: barring on the second dusk is fine, but the sentry, hounds and stories were staged across ch4, ch5 and ch9, so it must be told as a sequence. F279 (real leopard canine, thumb welt) is consistent with F039 and the wound-share. F280 correctly holds back the lookout secret. Two facts are unlisted and should be added: Devan said 'I love you' to Asha in the kitchen the week before she died, and Devan told Janu he was 'tired of leopards'. Both are fine if that line was said by day; state that it was.",
+  "new_facts_assessment": "The draft lists no new facts, but it adds one: Devan has not yet used his single question-game refusal (F187). This is consistent and useful, so log it. The welt/bead wording slightly blurs the wound-share rule (F009).",
   "content_rule_violation": false,
-  "failure_modes": [
-    "Trauma as decoration",
-    "Plot buried by romance",
-    "Narrated-only chemistry"
-  ],
-  "average": 2.88,
-  "minimum": 0.0,
-  "passed": false
+  "failure_modes": [],
+  "average": 4.0,
+  "minimum": 3.0,
+  "passed": true
 }
