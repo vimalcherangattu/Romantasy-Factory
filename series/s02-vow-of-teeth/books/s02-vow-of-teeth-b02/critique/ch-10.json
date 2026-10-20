@@ -1,0 +1,43 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 3.0,
+    "romance_movement": 3.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 3.0,
+    "stakes_and_cost": 2.0,
+    "prose": 4.0,
+    "continuity": 0.0
+  },
+  "reasons": {
+    "reader_question": "Specific and bodily: why do her feet curve round a newel she can't remember? Dramatic irony keeps it hot. The new grate sharpens it.",
+    "change": "She gains the garrison's names and finds the grate clue. Kandan's refusal changes nothing in the plot. The inside-informant thread from ch9 is untouched.",
+    "romance_movement": "The laugh lands, but Devan has laughed before (F318). The seven-wells cheating story repeats ch18 (F155), so the reason is partly recycled.",
+    "shown_chemistry": "His reading of her cheat, 'Unni's on both', and the nod at the tile are responsive and specific. There is no narrated attraction.",
+    "character_logic": "Kandan is well motivated. Neela 'discovering' the hollow eleventh step ignores that she already knew it (F099) and was asked about it (F328).",
+    "stakes_and_cost": "No choice costs anything. Taking the long way is free, and Kandan's hostility carries no threat to Neela, Devan or the raid.",
+    "prose": "The prose is concrete and clean. Weak spots: 'heaven knew' in a deity-free world, 'stupidly, like a girl', and one paragraph that narrates her bible habit outright.",
+    "continuity": "Conflicts with F475 (left hand bandaged), F155 (played once at eight), F099/F328 (hollow step already known), and 'nineteen days' against a recent execution."
+  },
+  "fixes": [
+    "Hand continuity: 'worked paste into the raw place with her left thumb', 'Left-handed, be kind', and Chinna's ladle on 'Neela's left knuckles'. F475 bandages the left hand, and F492 cuts the right palm. Decide which hand is usable and make every use consistent. If the ladle strikes a wounded hand, show a welt or wince on Devan's matching hand via the wound-share.",
+    "Repetitive tension: 'Her heel came down on the eleventh and it rang'. She learned this in book 1 ch10 (F099), and Devan asked about her eleventh-step turn (F328). Rewrite so she knows the note already and deliberately tests it. Make the bolts' fresh filing the only new thing. Have her recall her old 'I don't know' to Devan, so the escalation is that the pattern now frightens her.",
+    "Stakes without cost: 'Kandan she did not win.' Give his refusal teeth. For example, Kandan says he will speak to Rema at the assize about the bride, or he knows something about the warden's chamber that touches the inside informant from ch9. Also fix 'For nineteen days' to match the execution's timing, and cut 'heaven knew'."
+  ],
+  "reader_question": "Why does Neela's body swing wide of the west stair's parrot newel, and who fitted new iron under its eleventh step?",
+  "techniques_landed": [
+    1,
+    23,
+    5
+  ],
+  "new_facts_assessment": "Kandan, the named men and the chalked tile are necessary and fit the beat. The file-bright grate is a good new clue (C13). The hollow eleventh step and Janu keeping her distance duplicate F099 and F101 from book 1 ch10, so they must be framed as things Neela already knew, not discoveries. The east route of eighty-one steps is consistent with F163 and F449. 'Fourteen at the noon meal' fits a garrison of about sixty.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Repetitive tension",
+    "Irrational behaviour to extend plot",
+    "Plot buried by romance"
+  ],
+  "average": 2.88,
+  "minimum": 0.0,
+  "passed": false
+}
