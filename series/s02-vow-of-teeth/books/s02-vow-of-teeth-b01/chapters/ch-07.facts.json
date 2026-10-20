@@ -1,34 +1,3 @@
 {
-  "facts": [
-    {
-      "category": "name",
-      "fact": "Ammu's market cover is 'Valli', a coast-side pepper trader's girl who came up with the last cart before the passes close.",
-      "why": "needed because Ammu must be disguised and Neela must name her in front of Muthu."
-    },
-    {
-      "category": "name",
-      "fact": "Parukutty is a soldier's widow in the lower village with a six-year-old daughter and a nine-year-old son; her husband Raman, a spearman, died on Devan's patrol in spring. She owes the salt factor six and a half measures plus a tally fee.",
-      "why": "needed because the outline requires a widow's salt debt that Devan clears."
-    },
-    {
-      "category": "knowledge",
-      "fact": "Muthu goes down to the lower market with the garrison's purse on market days, and tells Neela that Devan hates market day.",
-      "why": "needed to explain why Muthu is at the next stall without coincidence."
-    },
-    {
-      "category": "knowledge",
-      "fact": "Chathu's message to Neela: the writ is on the road; after it lands every day counts double; if the account is open when the pass closes he will force resin on her and read her page aloud at dusk.",
-      "why": "carries the outline's guild message in Chathu's debts-and-balances voice."
-    },
-    {
-      "category": "timeline",
-      "fact": "Neela counts thirty-four nights left on the morning of chapter 7.",
-      "why": "continues the countdown from ch 6 (thirty-five)."
-    },
-    {
-      "category": "name",
-      "fact": "The tune Ammu hums is a fishing song with the refrain 'Pull and pull, the tide is coming in'.",
-      "why": "gives the bible's invented fishing song a concrete refrain."
-    }
-  ]
+  "facts": []
 }

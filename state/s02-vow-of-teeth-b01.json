@@ -138,7 +138,7 @@
       "minimum": 3.0
     },
     "07": {
-      "status": "continuity-fix",
+      "status": "revised",
       "revisions": 0,
       "scores": {
         "reader_question": 4.0,
@@ -1421,9 +1421,13 @@
     {
       "at": "2026-10-20T00:18:41",
       "event": "done: S5 critique ch 5"
+    },
+    {
+      "at": "2026-10-20T00:19:18",
+      "event": "done: S6 revise ch 7"
     }
   ],
-  "updated_at": "2026-10-20T00:18:41",
+  "updated_at": "2026-10-20T00:19:18",
   "midpoint_chapter": 16,
   "continuity_attempts": 2,
   "continuity_last_errors": 13
