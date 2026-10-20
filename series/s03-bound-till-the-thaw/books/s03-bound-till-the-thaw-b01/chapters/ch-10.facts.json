@@ -1,34 +1,25 @@
 {
   "facts": [
     {
-      "category": "knowledge",
-      "fact": "Varun read the crossing party aloud at the post gate the night before: three wardens and two guides. Rohan struck the third warden's name at dawn, so only two wardens went into the gully. Meera heard this, so 'three wardens and two goat-folk' could only have come from the written plan.",
-      "why": "needed because the beat's clue (C09) requires a specific, checkable number that only the approach plan held."
-    },
-    {
-      "category": "name",
-      "fact": "Lalit is Asha's tracker, a thin young man bound to her by rope and carrying a spyglass. Asha's second pair stays at the camp, unnamed.",
-      "why": "needed because the beat names Lalit as the boaster and Asha's four make two bound pairs."
-    },
-    {
-      "category": "timeline",
-      "fact": "Asha gives Meera the whole day and the next until the light goes; after that she comes down with four.",
-      "why": "needed because the parley needs a deadline for pressure."
-    },
-    {
+      "id": "F110",
       "category": "object",
-      "fact": "Firewood count: thirty-one sticks after the first night, thirty after Rohan's first refusal, twenty-nine after the second.",
-      "why": "needed because the beat has Rohan burn two sticks and the count is a running device."
+      "fact": "Firewood count (replaces earlier F110): thirty-one sticks in the bundle at the start of chapter 10's day; Meera takes the night's five (twenty-six left), then burns one stick for each of Rohan's two refusals (twenty-five, then twenty-four).",
+      "since": "s03-bound-till-the-thaw-b01 ch 10",
+      "provisional": true
     },
     {
+      "id": "F107",
       "category": "knowledge",
-      "fact": "Rohan knows the Neshar-side road from walking it as a boy with his father and from mapping the post's end of it. He names a herdsmen's cut above the third bend, behind a stone fold, and a shrine on the way.",
-      "why": "needed because the beat has him describe the hunters' road before collapsing."
+      "fact": "Revised: Varun read the crossing party over from his written sheet in the post room the night before, with the guides present: three wardens and two guides. Rohan struck the third name at dawn. So 'three wardens and two goat-folk' could only have come from the plan or someone in that room.",
+      "since": "s03-bound-till-the-thaw-b01 ch 10",
+      "provisional": true
     },
     {
-      "category": "injury",
-      "fact": "Rohan has a lung fever with a rattling cough that has been building unspoken; it comes to a crisis at the end of chapter 10.",
-      "why": "needed because the beat ends with his collapse and burning skin."
+      "id": "F113",
+      "category": "knowledge",
+      "fact": "Meera deliberately withholds from Rohan that Asha's information came from the plan, because it came from his own post, she cannot yet rule him out, and it is leverage for Kiran's name. She notes that silence is free.",
+      "since": "s03-bound-till-the-thaw-b01 ch 10",
+      "provisional": true
     }
   ]
 }

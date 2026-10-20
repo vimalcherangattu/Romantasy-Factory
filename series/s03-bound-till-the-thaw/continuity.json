@@ -735,6 +735,27 @@
       "fact": "Rohan has a lung fever with a rattling cough that has been building unspoken; it comes to a crisis at the end of chapter 10.",
       "since": "s03-bound-till-the-thaw-b01 ch 10",
       "provisional": true
+    },
+    {
+      "id": "F113",
+      "category": "object",
+      "fact": "Firewood count (replaces earlier F110): thirty-one sticks in the bundle at the start of chapter 10's day; Meera takes the night's five (twenty-six left), then burns one stick for each of Rohan's two refusals (twenty-five, then twenty-four).",
+      "since": "s03-bound-till-the-thaw-b01 ch 10",
+      "provisional": true
+    },
+    {
+      "id": "F114",
+      "category": "knowledge",
+      "fact": "Revised: Varun read the crossing party over from his written sheet in the post room the night before, with the guides present: three wardens and two guides. Rohan struck the third name at dawn. So 'three wardens and two goat-folk' could only have come from the plan or someone in that room.",
+      "since": "s03-bound-till-the-thaw-b01 ch 10",
+      "provisional": true
+    },
+    {
+      "id": "F115",
+      "category": "knowledge",
+      "fact": "Meera deliberately withholds from Rohan that Asha's information came from the plan, because it came from his own post, she cannot yet rule him out, and it is leverage for Kiran's name. She notes that silence is free.",
+      "since": "s03-bound-till-the-thaw-b01 ch 10",
+      "provisional": true
     }
   ],
   "knowledge": [
