@@ -1026,7 +1026,7 @@
       ]
     },
     "31": {
-      "status": "passed",
+      "status": "edited",
       "revisions": 1,
       "scores": {
         "reader_question": 4.0,
@@ -1040,21 +1040,21 @@
       },
       "average": 4.0,
       "flags": [],
-      "words": 3218,
+      "words": 3220,
       "minimum": 3.0,
       "continuity_fixes": [
         "In ch 28 Neela waters the forty-one kennel animals once and says the troughs will be dry in three days. Devan orders Bhaskaran's men out the morning after the return. Ch 31 says 'Rain held the first run' and that Muthu goes three days after the vow, which leaves about eight days without water. Ch 32 then reports the animals, Kirri included, alive and settled, and no one mentions the gap. FIX: In ch 31, change 'Rain held the first run' to 'Bhaskaran's men got water through before the rain shut the wood road for a few days.' Keep Muthu's run as the second one."
       ],
       "style": {
-        "words": 3007,
+        "words": 3220,
         "banned_hits": {},
         "ai_tell_hits": {},
         "ai_tells_per_1000": 0.0,
-        "top_4gram": "he did not look",
+        "top_4gram": "it would have been",
         "top_4gram_count": 2,
-        "longest_paragraph_words": 105,
-        "em_dashes_per_1000": 0.67,
-        "reading_ease": 93.8
+        "longest_paragraph_words": 108,
+        "em_dashes_per_1000": 0.62,
+        "reading_ease": 93.5
       },
       "owner_instructions": [
         "The Ittan interruption: 'A man who offers at night can take it back by noon' and 'He had waited all that time to be caught' don't parse. Rewrite so the cost is plain. Ittan sends word he will talk now. A man like Ittan may change his mind by morning, so the first offer is now or never. Neela knows this and chooses the dawn hour with Devan anyway. Give her one short line of interiority or dialogue naming that trade: she is spending Ittan's confession to keep the hour. Cut 'He had waited all that time to be caught' unless it can be made to state a clear fact in one plain clause.",
@@ -2369,9 +2369,13 @@
     {
       "at": "2026-10-20T09:06:07",
       "event": "done: S8 line edit ch 30"
+    },
+    {
+      "at": "2026-10-20T09:06:49",
+      "event": "done: S8 line edit ch 31"
     }
   ],
-  "updated_at": "2026-10-20T09:06:07",
+  "updated_at": "2026-10-20T09:06:49",
   "midpoint_chapter": 16,
   "continuity_attempts": 1,
   "continuity_last_errors": 1,
