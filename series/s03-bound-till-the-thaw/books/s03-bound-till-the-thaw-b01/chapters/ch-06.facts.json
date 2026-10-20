@@ -1,29 +1,10 @@
 {
   "facts": [
     {
-      "category": "object",
-      "fact": "Jassi's spare cord is a braided goat-hair line he used to tether kids; Meera carries it in her pack and uses it to bind Rohan's ribs.",
-      "why": "needed because the beat calls for 'Jassi's spare cord'."
-    },
-    {
-      "category": "injury",
-      "fact": "Rohan's cracked ribs are the seventh and eighth on the left side; he also cannot raise the left arm above the shoulder (matches F068).",
-      "why": "needed because he must tell a specific truth that turns 'two or three' into 'two'."
-    },
-    {
-      "category": "object",
-      "fact": "Rohan carries a grey warden-issue pattu, smelling of camphor, rolled at his belt; it survived the avalanche.",
-      "why": "needed because the beat has him give 'his pattu'."
-    },
-    {
+      "id": "F087",
       "category": "timeline",
-      "fact": "The ribs lie happens at first light on the pitch above the waystone; the pair shelter in a hollow under the Saddle's lip for the day and night, losing a day, and Meera shakes through the night. Nineteen of Rohan's twenty days remain.",
-      "why": "needed because the shaking night must come before chapter 7's day crossing."
-    },
-    {
-      "category": "relationship",
-      "fact": "Meera first calls Rohan by his given name here, unnoticed by her, while he calls her Meera at the end.",
-      "why": "marks the first step away from Captain/Guide without ending the formal address pattern."
+      "fact": "The ribs lie happens at first light on the pitch above the waystone, with seventeen of Rohan's twenty days remaining at that dawn. The pair shelter in a hollow under the Saddle's lip for the day and night, losing a day, so sixteen remain by the following night. Meera shakes through the night.",
+      "since": "s03-bound-till-the-thaw-b01 ch 6"
     }
   ]
 }
