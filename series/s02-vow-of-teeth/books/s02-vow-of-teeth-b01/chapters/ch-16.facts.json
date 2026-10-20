@@ -1,24 +1,11 @@
 {
   "facts": [
     {
-      "category": "knowledge",
-      "fact": "Chathu never struck a new intake: he learned which girl cried at night, left warm sweets by her mat and kept her fed and gentle for years before reading her page. Neela's reason for reading Devan's gift as patience."
-    },
-    {
-      "category": "magic",
-      "fact": "On the no-resin night of ch 16 Devan's sleeping breath at first has no hitch; the catch then comes slowly, deliberately and evenly so Neela can count it."
-    },
-    {
+      "id": "F398",
       "category": "timeline",
-      "fact": "Neela reckons the ache at nine or ten days by her count of rationed and lost resin nights; she expects the pass-village watcher to log no fresh posts at next grey, and Ammu to come asking by noon."
-    },
-    {
-      "category": "knowledge",
-      "fact": "Order of Devan's protections as Neela rereads them: shutters barred from the second dusk, hounds kennelled from the second night, sentry above the window pulled a few nights on, Raiu at the stair head with the lamp unlit, Janu's story stopped with 'Not tonight, Janu' at supper."
-    },
-    {
-      "category": "knowledge",
-      "fact": "Fort theories on the barred shutters: Bhaskaran's lads say damp-madness, Janu says shyness, Chinna runs the wager (corrects F322)."
+      "fact": "Corrects F376: on the no-resin night of ch 16 the stone cup is bare for the third time (fever night ch 13, narrows night ch 14, tonight); the watcher's log would show a second refusal, since ch 11 was a human night.",
+      "since": "s02-vow-of-teeth-b01 ch 16",
+      "provisional": true
     }
   ]
 }
