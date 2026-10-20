@@ -1,0 +1,43 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 5.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 3.0,
+    "stakes_and_cost": 4.0,
+    "prose": 3.0,
+    "continuity": 0.0
+  },
+  "reasons": {
+    "reader_question": "The closing promise-versus-thaw sum makes the beat's question sharp and stateable in one sentence.",
+    "change": "Both identities confessed, Varun named, the first kiss, and a binding promise. Knowledge, power and relationship all flip.",
+    "romance_movement": "The kiss is chosen with full knowledge of each other, a new and stronger reason than the earlier refusal. It is undercut by narrated reasoning.",
+    "shown_chemistry": "Watching hands, 'That was free' / 'I watched your hands', and him refusing to move first show response well.",
+    "character_logic": "Silence is free, so 'no lies' doesn't force her confession. The Teeth point contradicts Meera's own ch15 'every crew knows the Teeth'.",
+    "stakes_and_cost": "The promise ties his life to her footing until the thaw. The kiss costs both of them the law. The firewood stakes are clear.",
+    "prose": "Leaked craft language ('the reason had been new'), a table simile used three times, repeated 'went still', and a list-like evidence chain.",
+    "continuity": "Rohan's false 'I knew' costs no heat. Lalit's count was days ago, not 'a night ago'. Varun has been buried nearly eleven days, not nine."
+  },
+  "fixes": [
+    "At '\"I knew,\" he said at last.' (Rule That Bites Back broken): Rohan states a falsehood with no lie-cold and against his voice, since he goes silent instead of lying. Replace it with a held silence, then 'I suspected.' Or let his fingertips whiten and have Meera see it before he corrects himself.",
+    "At 'A crack, a pause, and then another' (Twists without setup): ch3 planted an iron ring before the crack, not a double crack. Make the iron ring the clue, echoing the pick-strikes in ch15. Also change 'called the party a night ago' to 'on the ridge, days back', and 'Nine days under it' to eleven.",
+    "At 'the reason had been new and had been good' (craft language leaking into prose): name the actual reason in Meera's words. Cut two of the three table similes ('like a table'). Answer Meera's own ch15 objection in point five: the hunters knew which line of the Teeth, and that line was on the fallback sheet."
+  ],
+  "reader_question": "What does a promise to keep her from falling do to a man ordered to hand her to the rope at the thaw?",
+  "techniques_landed": [
+    3,
+    17,
+    22
+  ],
+  "new_facts_assessment": "Seven sticks recovered is necessary and consistent. The button token matches F052/F060. Naming the seal is necessary, but 'You have held it' implies Rohan knows about ch11 without saying how. Suspecting her since ch14 is useful. The wedding detail is harmless. Unlisted: the rope humming at a promise is new magic and needs a new-facts entry.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Twists without setup",
+    "Irrational behaviour to extend plot",
+    "Endless monologue"
+  ],
+  "average": 3.38,
+  "minimum": 0.0,
+  "passed": false
+}
