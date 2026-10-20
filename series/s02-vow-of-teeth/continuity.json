@@ -3072,6 +3072,41 @@
       "category": "plot",
       "fact": "In the guardroom after the vow, Ittan's only request to Devan was that his wife's cough medicine be sent on.",
       "since": "s02-vow-of-teeth-b01 (S7)"
+    },
+    {
+      "id": "F446",
+      "category": "object",
+      "fact": "In the margin beside three lines of Ittan's tally book is a tiny inked sunbird with folded wings, distinct from the queen's spread-winged seal; Neela cannot read it as guild shorthand.",
+      "since": "s02-vow-of-teeth-b02 ch 1",
+      "provisional": true
+    },
+    {
+      "id": "F447",
+      "category": "knowledge",
+      "fact": "Chathu enters every contract in the ledger against the subject's page, so Asha's contract entry is in the black book.",
+      "since": "s02-vow-of-teeth-b02 ch 1",
+      "provisional": true
+    },
+    {
+      "id": "F448",
+      "category": "knowledge",
+      "fact": "Ittan's tally book shows four payment slashes to the Resin House and a 'hook' mark meaning something delivered in return.",
+      "since": "s02-vow-of-teeth-b02 ch 1",
+      "provisional": true
+    },
+    {
+      "id": "F449",
+      "category": "place",
+      "fact": "Neela always takes the east stair and avoids the west stair without stating a reason.",
+      "since": "s02-vow-of-teeth-b02 ch 1",
+      "provisional": true
+    },
+    {
+      "id": "F450",
+      "category": "name",
+      "fact": "Ammu's pouch held a thumb of resin of which two smears remain on the ninth day of the rains.",
+      "since": "s02-vow-of-teeth-b02 ch 1",
+      "provisional": true
     }
   ],
   "knowledge": [

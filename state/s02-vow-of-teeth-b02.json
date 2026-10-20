@@ -10,11 +10,12 @@
   ],
   "chapters": {
     "01": {
-      "status": "pending",
+      "status": "drafted",
       "revisions": 0,
       "scores": {},
       "average": null,
-      "flags": []
+      "flags": [],
+      "words": 2360
     },
     "02": {
       "status": "pending",
@@ -247,8 +248,12 @@
     {
       "at": "2026-10-20T22:47:35",
       "event": "done: S3 outline"
+    },
+    {
+      "at": "2026-10-20T22:49:15",
+      "event": "done: S4 draft ch 1"
     }
   ],
-  "updated_at": "2026-10-20T22:47:35",
+  "updated_at": "2026-10-20T22:49:15",
   "midpoint_chapter": 16
 }
