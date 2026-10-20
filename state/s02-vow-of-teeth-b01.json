@@ -2327,12 +2327,20 @@
     {
       "at": "2026-10-20T08:42:00",
       "event": "done: S5 critique ch 32"
+    },
+    {
+      "at": "2026-10-20T08:52:26",
+      "event": "continuity round 1: 7 errors, 10 patches applied, 0 to revise"
+    },
+    {
+      "at": "2026-10-20T08:52:26",
+      "event": "done: S7 continuity"
     }
   ],
-  "updated_at": "2026-10-20T08:42:00",
+  "updated_at": "2026-10-20T08:52:26",
   "midpoint_chapter": 16,
-  "continuity_attempts": 0,
-  "continuity_last_errors": null,
+  "continuity_attempts": 1,
+  "continuity_last_errors": 1,
   "package": {
     "problems": [
       "epubcheck failed (see package/epubcheck.log)"
