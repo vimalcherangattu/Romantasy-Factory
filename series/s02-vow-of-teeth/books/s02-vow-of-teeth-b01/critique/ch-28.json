@@ -4,38 +4,38 @@
     "change": 4.0,
     "romance_movement": 4.0,
     "shown_chemistry": 4.0,
-    "character_logic": 3.0,
+    "character_logic": 4.0,
     "stakes_and_cost": 4.0,
     "prose": 4.0,
-    "continuity": 0.0
+    "continuity": 5.0
   },
   "reasons": {
-    "reader_question": "The chapter closes on a specific, well-earned question. Ittan's 'Hands go where they're sent' plus 'whose palm was open' points beyond him. Readers who caught the green-wax gift may already half-guess the queen, so the curiosity runs at intermediate rather than peak confidence.",
-    "change": "Several things are concrete and irreversible by the end. Ammu is buried and Neela is rogue with no master and only a thumb of stolen resin. The cages stay shut, and the bodies are bound. Devan now holds clove-and-wax evidence and has openly pressed Ittan.",
-    "romance_movement": "The relationship changes for new reasons. Wound-share binds them in body. He says Ammu's name back to her. 'I'd like it to have someone who is' turns grief into household, matching the beat's 'each other's only household'.",
-    "shown_chemistry": "Chemistry is shown through responsive action, not narration. He binds her wrists with his teeth and jokes 'Then I'll bleed in pairs.' He waits on the step with 'I'll be here.' He orders the fodder run that answers her promise. Her knee comes to rest against the bay's flank and his hand uncurls.",
-    "character_logic": "Mostly smart, with three lapses. Neela reacts to the wound-share as a fresh discovery, though Ammu told her an hour earlier and she recognised it in ch 27. She claims 'the only people on earth' who know her are Muthu and Devan, while Chathu, Vellan and the hunters all know. Her hands 'would not close', yet she does heavy well and fodder work with no wound-share echo on Devan.",
-    "stakes_and_cost": "Each decision carries a cost. Leaving the cages shut is a real moral price. The resin is framed as a debt. Keeping Muthu at the gate and letting Ittan sleep unsearched are both risks that carry into the sealing.",
-    "prose": "Clean and concrete, with no banned phrases and few AI tells. The kennel passage states the no-undo rule three times in a row. 'Did not' openings pile up, and the 'Is that mine?' / 'It's mine' / 'It's yours' exchange reads as confusion rather than intent.",
-    "continuity": "The line 'When you split it on Vellan I felt it, and I thought it was the bear' contradicts ch 27 and F340. There, Neela in shape recognises the tearing at once as the wound-share Ammu described ('A cut on him opens on you'). The fodder-run order (F342) also sits badly with F289/F291, where the first run was held by rain."
+    "reader_question": "Ittan's 'Hands go where they're sent' after 'Who sends the Keeper' points the reader at a sender above him, a specific gap. The muddled last line ('whose palm was open') blurs it slightly.",
+    "change": "Ammu is buried, Neela leaves as a rogue with no master or ration, the kennels stay shut, and Ittan's unbroken step tells Devan the man knew he would be alive, with someone behind him.",
+    "romance_movement": "The reason is new: the shared body ('I'll bleed in pairs'), his offer of a household ('I'd like it to have someone who is'), and her choice to keep her knee against his horse. It meets the beat's romance_change.",
+    "shown_chemistry": "Attraction and care come through actions: he binds her wrists with his teeth, says 'I'll be here' on the step, orders the fodder cart, and his hand uncurls. Narration never claims chemistry.",
+    "character_logic": "Mostly sound. Neela waters the animals but will not open the cages, Devan keeps Muthu at the gate, and Devan lets Ittan in unsearched. Devan's interior is the weak point: facing the man who paid for his death, he thinks only about evidence and never registers what Ittan meant for him or for Neela.",
+    "stakes_and_cost": "Rogue status, the empty kennels, a crown record coming, and the sealing search tomorrow all carry cost. Muthu is held at the gate, so the next move tests a loyalty.",
+    "prose": "Concrete and controlled, with no banned phrases and almost no AI tells. 'Twenty years, and it was a name' lands. Flaws: 'I can't give you your name, Kirri' reads as a slip, the closing hand metaphor is mixed, and two consecutive paragraphs open with 'She' ('She found Ammu' / 'She lay on her side').",
+    "continuity": "Consistent with F224 (left ribs), F258/F265 (red lines on him), F235 (forty-one cages), F343, F207, F050, F149 and F407. 'She remembered a stable, and an order' sits close to F336 (the order was given in the passage) but can be read as the stable mention, so it does not conflict."
   },
   "fixes": [
-    "At 'When you split it on Vellan I felt it, and I thought it was the bear', there is a continuity break with ch 27/F340 and a smart heroine forgetting what Ammu told her an hour ago (irrational behaviour). Rewrite so she already knew the rule and is shaken by its reality instead. For example: 'Ammu told me. A cut on you opens on me. She didn't say it would feel like this.' Keep 'For the rest of my life, Devan' as the turn. Untangle the 'Is that mine?' / 'It's mine' exchange so each line has one clear meaning: he asks whether the welt is his wound, and she answers 'It's yours. On me.'",
-    "At 'Bhaskaran's men go out the morning after we're home', this conflicts with F289/F291, where the first fodder run is held by rain. Make the order conditional: 'The first cart goes as soon as the wood road will take a wheel. Then every week the roads allow.' Revise F342 so the run is due within three days but may be held by rain, which keeps ch 31 intact.",
-    "At 'The only people on earth who knew what she was', there is a logic error, because Chathu, Vellan and every Resin House hunter know. Change it to 'The only people on her side of any wall who knew what she was'. Also cut the redundant 'Opening the doors would not end their caging.' The paragraph already says 'A cage could be unlocked. A caging could not.'"
+    "At 'They said you were poorly,' Ittan said, close now, and took Devan's hand: Stakes without depth. Devan is holding the hand that paid for his chamber and planned to take the widow's seal from Neela, but his interior goes straight to wax evidence. Ittan's 'And the bride?' is the natural moment. Add one or two short sentences of Devan's interiority: he knows what this man meant for her the morning after his death, and he chooses not to pull his hand away. Keep it restrained and literal, in his voice. This ties the plot escalation to Neela and lands the beat goal 'face the man who bought his death.'",
+    "At 'She did not cry again. There was none left to do it with.': internal contradiction. In the kennels she later 'wiped her face on the back of her wrapped wrist.' Either cut the face-wiping and have her wipe the bars or her hands, or change the grave line to 'She did not cry at the grave' so that the kennel tears read as the grief breaking through later.",
+    "At 'He stood very still and wondered whose palm was open.': the mixed metaphor muddies the reader question. Her closed hand, Ittan's 'hand', and an 'open palm' blur together. End on the plain question. For example, keep 'A hand went where it was sent,' then 'Then someone had sent it, and he knew of only one seal on the council that outranked the Keeper's.' Or simply 'Then whose was it?' Separately, in the kennels, change 'I can't give you your name, Kirri' to 'I can't give you back yourself, Kirri.' The original line reads as a slip, because Kirri is her name."
   ],
-  "reader_question": "If Ittan is only a hand sent by someone else, whose hand is he?",
+  "reader_question": "If Ittan is only a hand sent to Kettamala, who sent him, and what will that power do when Devan opens the Keeper's cart tomorrow?",
   "techniques_landed": [
     19,
     9,
     11
   ],
-  "new_facts_assessment": "F342 (Bhaskaran's four men leave the morning after the return; Muthu kept 'at the gate') has two good effects. It makes leaving the kennels bearable, and it keeps Muthu in place for the ch 29 search, which suits Devan's suspicion (F217, F222). However, it conflicts with F289/F291, which say the first Resin House run was held by rain and Muthu carried it in three days. One of the two must change; the dialogue can absorb the rain hold. F343 (Neela on the west rampart where the pulled sentry stood) is consistent with F064, F077 and F079 and is harmless. The new claim that this stretch of wall bends toward the padippura is fine, since the gate's position is not fixed elsewhere. Two unlisted additions also need judging. Ammu's Valli cloth was cached at the tree roots 'before dusk', which is plausible only if she slipped out before being posted to the kennel, so it is minor. Ittan's clove-oil wife's-cough cover and his clerk with tallies agree with F259 and F263 and are well used as a clue at the peak.",
+  "new_facts_assessment": "F342r (fodder run timing, Muthu kept 'at the gate') is necessary and consistent with F393 and F217. F257r (Valli cloth shed at the cook-house corner) is plausible, since Ammu rode in as Valli (F236), and consistent, though the detail is optional. Several additions are unlisted and should be logged: Muthu held the arch against 'twelve men'; Chathu took his people and the ledger into the Blackbark Wood overnight; Vellan's track drags the ruined foreleg; Ittan's wife has had her cough three winters; Ittan's clerk carries a case of tallies; Devan says Janu is the only one at Kettamala who is his. None of these conflicts with canon. The twelve-men count and the clerk's tally case will bind later chapters, so they need recording.",
   "content_rule_violation": false,
   "failure_modes": [
-    "Irrational behaviour to extend plot"
+    "Stakes without depth"
   ],
-  "average": 3.38,
-  "minimum": 0.0,
-  "passed": false
+  "average": 4.12,
+  "minimum": 4.0,
+  "passed": true
 }
