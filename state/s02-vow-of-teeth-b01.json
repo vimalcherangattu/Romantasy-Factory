@@ -335,7 +335,7 @@
       }
     },
     "11": {
-      "status": "passed",
+      "status": "edited",
       "revisions": 1,
       "scores": {
         "reader_question": 5.0,
@@ -349,11 +349,22 @@
       },
       "average": 4.38,
       "flags": [],
-      "words": 2908,
+      "words": 2903,
       "minimum": 4.0,
       "continuity_fixes": [
         "Neela remembers that Janu said 'He used to have a partner' 'at the table, to the soup.' In ch 3 Janu said it standing at the lip of the kalari pit during the tour. FIX: In ch 11, change to: 'Janu had said it at the lip of this pit, on the first morning.'"
-      ]
+      ],
+      "style": {
+        "words": 2903,
+        "banned_hits": {},
+        "ai_tell_hits": {},
+        "ai_tells_per_1000": 0.0,
+        "top_4gram": "in the dark with",
+        "top_4gram_count": 2,
+        "longest_paragraph_words": 111,
+        "em_dashes_per_1000": 0.0,
+        "reading_ease": 94.9
+      }
     },
     "12": {
       "status": "passed",
@@ -1830,9 +1841,13 @@
     {
       "at": "2026-10-20T07:51:36",
       "event": "done: S8 line edit ch 10"
+    },
+    {
+      "at": "2026-10-20T07:52:10",
+      "event": "done: S8 line edit ch 11"
     }
   ],
-  "updated_at": "2026-10-20T07:51:36",
+  "updated_at": "2026-10-20T07:52:10",
   "midpoint_chapter": 16,
   "continuity_attempts": 3,
   "continuity_last_errors": 2
