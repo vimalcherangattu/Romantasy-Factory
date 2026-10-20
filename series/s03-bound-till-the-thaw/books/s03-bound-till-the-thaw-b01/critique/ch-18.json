@@ -4,39 +4,36 @@
     "change": 4.0,
     "romance_movement": 4.0,
     "shown_chemistry": 4.0,
-    "character_logic": 2.0,
-    "stakes_and_cost": 4.0,
-    "prose": 3.0,
-    "continuity": 0.0
+    "character_logic": 3.0,
+    "stakes_and_cost": 5.0,
+    "prose": 4.0,
+    "continuity": 5.0
   },
   "reasons": {
-    "reader_question": "The badge gives a sharp, specific question, and Sunni's crossed-out name makes the guilt question concrete.",
-    "change": "Meera now holds Kiran's secret against Rohan. She has made and lost a triage bet. She lets Rohan witness her worst work.",
-    "romance_movement": "This is new movement: he stays without rescuing, and she is glad he is there. The reason is the triage, not a recycled refusal.",
-    "shown_chemistry": "The lamp held while his back is turned, the counted steps, and the palm on the floor are all responsive care. A few 'He did not' lines narrate the restraint.",
-    "character_logic": "Nimmi says 'three if I'm mean' and then rations at two while children die. Rohan refuses to let a boy haul water with no reason, which causes fatal delays.",
-    "stakes_and_cost": "Each name costs a life, Sunni's death lands, and hiding the badge puts Meera on the wrong side of the rope's honesty.",
-    "prose": "Concrete and mostly clean. Problems: the 'He did not...' anaphora repeats in three scenes, 'like a cracked cup' echoes 'cup', 'swallowed stone' is stock, and paragraphs open with 'She' back to back.",
-    "continuity": "'She had never once untied them' conflicts with the half-pinches Meera dosed Rohan in ch11-12 (F122). The hunters' redbark twist (F141) goes unmentioned."
+    "reader_question": "The badge in Kiran's fist and Meera's line drawn through Sunni give two sharp, nameable questions. Both are carried by story, not coincidence.",
+    "change": "Knowledge (the badge), power (Meera now holds a silence against Rohan) and grief all shift. Hope of arrival becomes the guilt of triage.",
+    "romance_movement": "New reason: he shares the cost of the sum without absolving her, and she lets him witness it. 'Glad he was there' is narrated.",
+    "shown_chemistry": "The lamp held with his back turned, the counted steps, the palm on the floor: all responsive care, specific to her counting habit.",
+    "character_logic": "Kiran's place in the eighteen is never decided on the page. That is Meera's most loaded choice, and it is skipped.",
+    "stakes_and_cost": "Every course has a name and a cost. The rope's quarter hours plausibly kill Sunni. The badge silence costs Meera her trust in herself.",
+    "prose": "Clean and concrete, with no banned phrases. The counting motif is overworked, 'He did not...' runs repeat, and there is one POV slip on the porch.",
+    "continuity": "The grave math (6+25=31), the redbark stock, the knuckles, the pattu, the bell and Rohan's two winters all match. 'Ten days gone' is vague but not a conflict."
   },
   "fixes": [
-    "At 'She had never once untied them' (continuity conflict): replace it with 'She had opened only one, for the captain's lungs,' to match ch11-12. Add the hunters' crown twist (F141) to the stock so the sum is honest. Cut 'three if I'm mean', or have Nimmi explain why stretching fails ('Thin it and it turns nobody').",
-    "At 'A boy could do it, and I'd' (irrational behaviour): Meera counts everything and would never accept fatal delay for a gesture. Give a world reason no one else can haul: every well person is nursing, or the villagers won't carry for a warden's household. Then have Rohan register the quarter hours himself, so the cost belongs to both of them at Sunni's death.",
-    "At 'lit with something wicked and delighted' (twist without setup): Kiran is holding Dilan's badge and sees the captain of Dilan's post tied to his sister. Add a retrievable clue: his eyes go to Rohan's face first, something flinches, and then the joke covers it. The badge then rereads as fear, and C16 is planted fairly."
+    "At 'They went down the list. Bholu's mother, yes', Kiran's inclusion in the eighteen is never decided (Irrational behaviour/missed beat). Add three or four lines in which Nimmi names Kiran. Meera must say yes in front of the rope, knowing the course costs another child, and write her own brother's name in the count with the same hand.",
+    "At 'She had seen Sunni already. The girl was seven', the bell scene arrives as pluperfect flashback at the moment of choice. This weakens technique 5 (Liked Before Threatened). Move the bell exchange on-page into scene one or two, before the triage, so readers meet and like Sunni before her name lands third-water.",
+    "At 'She counted it, because she counted everything' and its echoes ('I counted. You always count', 'She counted them', 'I counted them, as you would'), the motif is overworked (prose repetition). Cut two of the four. Also fix the POV slip in 'got to the end of the porch, and felt the rope go tight': make Meera feel the rope tug instead."
   ],
-  "reader_question": "Whose warden badge is Kiran hiding from the captain tied to his sister, and can Meera live with the count that killed Sunni?",
+  "reader_question": "Whose warden's badge is Kiran gripping and why did he flinch at Rohan, and can Meera live with the count that killed Sunni?",
   "techniques_landed": [
     5,
     13,
     19
   ],
-  "new_facts_assessment": "The three packets ruined on the Teeth are a plausible bridge to eighteen courses, but they clash with Nimmi's 'three if I'm mean', which allows 27. The figure of forty-one sick matches F053 but ignores 25 deaths since the note; one line should explain it. The quarter-hour well trip is plausible, but the reason Rohan must haul is unmotivated.",
+  "new_facts_assessment": "Stock arithmetic (8x2 + 1 + 1 = 18) and the burial math (6+25=31, matching ch17) are consistent and necessary. Revising F162's 'three if stretched' is fine, since that fact came from an earlier draft of this same chapter. F171 is needed to make the well delay unavoidable rather than contrived. F172 plants C16 fairly, and Meera's misreading is reasonable. The name 'old Lalli' sits close to Asha's tracker Lalit; consider renaming.",
   "content_rule_violation": false,
-  "failure_modes": [
-    "Irrational behaviour to extend plot",
-    "Narrated-only chemistry"
-  ],
-  "average": 3.12,
-  "minimum": 0.0,
-  "passed": false
+  "failure_modes": [],
+  "average": 4.12,
+  "minimum": 3.0,
+  "passed": true
 }

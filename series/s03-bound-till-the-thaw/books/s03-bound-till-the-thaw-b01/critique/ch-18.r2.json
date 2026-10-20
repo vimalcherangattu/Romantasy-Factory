@@ -1,0 +1,39 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 3.0,
+    "stakes_and_cost": 5.0,
+    "prose": 4.0,
+    "continuity": 5.0
+  },
+  "reasons": {
+    "reader_question": "The badge in Kiran's fist and Meera's line drawn through Sunni give two sharp, nameable questions. Both are carried by story, not coincidence.",
+    "change": "Knowledge (the badge), power (Meera now holds a silence against Rohan) and grief all shift. Hope of arrival becomes the guilt of triage.",
+    "romance_movement": "New reason: he shares the cost of the sum without absolving her, and she lets him witness it. 'Glad he was there' is narrated.",
+    "shown_chemistry": "The lamp held with his back turned, the counted steps, the palm on the floor: all responsive care, specific to her counting habit.",
+    "character_logic": "Kiran's place in the eighteen is never decided on the page. That is Meera's most loaded choice, and it is skipped.",
+    "stakes_and_cost": "Every course has a name and a cost. The rope's quarter hours plausibly kill Sunni. The badge silence costs Meera her trust in herself.",
+    "prose": "Clean and concrete, with no banned phrases. The counting motif is overworked, 'He did not...' runs repeat, and there is one POV slip on the porch.",
+    "continuity": "The grave math (6+25=31), the redbark stock, the knuckles, the pattu, the bell and Rohan's two winters all match. 'Ten days gone' is vague but not a conflict."
+  },
+  "fixes": [
+    "At 'They went down the list. Bholu's mother, yes', Kiran's inclusion in the eighteen is never decided (Irrational behaviour/missed beat). Add three or four lines in which Nimmi names Kiran. Meera must say yes in front of the rope, knowing the course costs another child, and write her own brother's name in the count with the same hand.",
+    "At 'She had seen Sunni already. The girl was seven', the bell scene arrives as pluperfect flashback at the moment of choice. This weakens technique 5 (Liked Before Threatened). Move the bell exchange on-page into scene one or two, before the triage, so readers meet and like Sunni before her name lands third-water.",
+    "At 'She counted it, because she counted everything' and its echoes ('I counted. You always count', 'She counted them', 'I counted them, as you would'), the motif is overworked (prose repetition). Cut two of the four. Also fix the POV slip in 'got to the end of the porch, and felt the rope go tight': make Meera feel the rope tug instead."
+  ],
+  "reader_question": "Whose warden's badge is Kiran gripping and why did he flinch at Rohan, and can Meera live with the count that killed Sunni?",
+  "techniques_landed": [
+    5,
+    13,
+    19
+  ],
+  "new_facts_assessment": "Stock arithmetic (8x2 + 1 + 1 = 18) and the burial math (6+25=31, matching ch17) are consistent and necessary. Revising F162's 'three if stretched' is fine, since that fact came from an earlier draft of this same chapter. F171 is needed to make the well delay unavoidable rather than contrived. F172 plants C16 fairly, and Meera's misreading is reasonable. The name 'old Lalli' sits close to Asha's tracker Lalit; consider renaming.",
+  "content_rule_violation": false,
+  "failure_modes": [],
+  "average": 4.12,
+  "minimum": 3.0,
+  "passed": true
+}
