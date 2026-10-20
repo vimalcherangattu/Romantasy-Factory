@@ -1,29 +1,19 @@
 {
   "facts": [
     {
-      "category": "name",
-      "fact": "Pinku, six, is Nimmi's healthy grandson. He follows Meera to the grove with a clay lamp and the buyer sends him home with a walnut tied with red thread.",
-      "why": "needed because the outline requires the buyer to be gentle with Nimmi's grandson; the bible gave Nimmi no family."
+      "category": "object",
+      "fact": "Ranu's grain sacks carry the regent's brass-bell store mark, the same as the redbark sack.",
+      "since": "ch 24"
     },
     {
       "category": "object",
-      "fact": "The cut-corner silver is thin square bits of Neshar silver, each with one corner clipped off cleanly by a tool; the buyer pays nineteen.",
-      "why": "needed to give clue C17 a concrete, memorable form."
+      "fact": "Meera carries Dilan's brass warden badge (taken from Kiran) in her coat, pressed under her left hand; Rohan has not been told.",
+      "since": "ch 24"
     },
     {
       "category": "object",
-      "fact": "The sack of redbark is canvas bound with tarred cord, inked with a small brass assembly bell, the regent's store mark; it holds enough to finish Ranu's twenty-three untreated, with some over.",
-      "why": "needed to show the redbark is from the regent's own stores."
-    },
-    {
-      "category": "knowledge",
-      "fact": "Varun crossed the Saddle eleven days after Meera, bound at the Shilak Cairn to a salt-road man, and left Garh Neshar with twenty men, Asha and the warrant.",
-      "why": "needed to deliver the buyer's warning; the outline gives the warning but not these details."
-    },
-    {
-      "category": "knowledge",
-      "fact": "Rohan told Varun in the post room that he carried the seal, and now gives it to Meera to hide without telling him where.",
-      "why": "needed to ground his 'Hide it where I can't lie about it' request; consistent with F058."
+      "fact": "Meera hides the seal out of Rohan's sight while he faces the wall and counts aloud to about 160; the hiding place is deliberately not shown (house, shed or woodpile within the rope's eight spans).",
+      "since": "ch 24"
     }
   ]
 }
