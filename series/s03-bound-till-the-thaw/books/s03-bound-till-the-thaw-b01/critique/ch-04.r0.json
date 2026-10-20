@@ -1,0 +1,43 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 3.0,
+    "stakes_and_cost": 4.0,
+    "prose": 3.0,
+    "continuity": 5.0
+  },
+  "reasons": {
+    "reader_question": "Clear and specific: Rohan is now carrying her contraband and is a harbourer by the letter of the law, and she has refused the Salt Fox question, so the reader wants to know whether he will still deliver her at the thaw. The quiet waystone ending does not sharpen the question further.",
+    "change": "The value shift lands. Resented dependence becomes explicit terms ('Then arrest me at the thaw... Today you carry half'). Rohan crosses into harbouring with open eyes. Each now holds evidence of the other: she has his silence, he has six packets.",
+    "romance_movement": "The reasons are new and specific. He carries the medicine and chooses complicity. He reads her chatter as grief and spends his silence on it. She watches him grieve Jassi with a bare hand. This is not a replayed refusal.",
+    "shown_chemistry": "Attraction is carried by responsive action, not narration. He lets her hide her face twice. He reads her noise as grief. She watches his bare fingers on the stone. The banter in the bet proves the two understand each other. The 'wardens' wives' joke is muddy and wastes a beat.",
+    "character_logic": "Rohan overreads the rule: he concludes white fingertips mean 'her body would keep no record', yet he has just heard that a middling lie brings frostnip. Meera hands the contraband roll to a warden with no visible calculation. The packets are found because the fold 'came away on its own', which is coincidence doing the work.",
+    "stakes_and_cost": "The cost is stated in world-rule terms: carrying the packets puts Rohan under the same rope as hers. Meera pays real lie-cold to teach the rules. Jassi's grief costs her composure on the page.",
+    "prose": "The prose is clean and concrete, with no banned phrases and essentially no AI tells. Weaknesses: one muddled sentence ('the only road to the first lay through a woman who wanted the second dead'), and two consecutive paragraphs opening with 'Then'. There are stock similes ('row of broken teeth', 'frost on a window', 'as plain as the day she was born'). 'He let her' is echoed as the closing line after an earlier 'and he let her'.",
+    "continuity": "The chapter is consistent with the bible and the facts. The rope is eight arm-spans and the bond lasts till meltwater at the cairn. The goat names, the 41/9/6 tally, the dented bell, Jassi's six winters and the lapis seal all match. The Salt Fox stays unrevealed. Two items to watch: Rohan's 'no record' inference stretches F010, and the rope-end mention comes early relative to the ch 9 plant."
+  },
+  "fixes": [
+    "At 'For this hour they could not testify to anything', the rule is applied more loosely than stated (worldbuilding collapse and character logic): Meera has just told him a middling lie means frostnip. Rewrite the inference so Rohan reasons precisely: a small lie would hide under the white, but a lie the size of 'Medicine' would bite through it. He therefore weighs the word 'Medicine' as true and the numbers as unverifiable. Also fix the clock: either start the bet right after the packet scene or stop using her returning colour as the end of his hour, because the hour of white began at the demonstration.",
+    "At 'He did not mean to open it. The fold came away on its own', the discovery is a coincidence, and Meera's handover has no visible reason (irrational behaviour to extend plot). Make the discovery a choice. Either Rohan, a warden of three winters, deliberately thumbs the fold to check what he is carrying, or Meera opens it herself because she knows he already suspects. Give her one line or gesture that shows the calculation: once he carries it, he is a harbourer too. In the same passage, replace 'the only road to the first lay through a woman who wanted the second dead' with a sentence whose referents are unambiguous.",
+    "At the closing line 'He let her.', the ending echoes the earlier 'and he let her' and closes on a quiet note rather than a reveal or interruption, so it misses chapter checklist item 5. End instead on a story-caused turn at the cairn. For example, Meera reads his steady, reddening hand aloud as the first thing he has given her for nothing, then asks a question he must either answer or refuse, and the chapter cuts before he chooses. Cut 'cut clean' from the rope-end sentence to keep the ch 9 clue fresh, and change one of the consecutive 'Then...' paragraph openers."
+  ],
+  "reader_question": "Now that Rohan is a harbourer carrying half her medicine and she has refused to deny being the Salt Fox, will he still hand her to the rope at the thaw?",
+  "techniques_landed": [
+    15,
+    16,
+    22,
+    23
+  ],
+  "new_facts_assessment": "F072 (twelve packets in three rows of four, in waxed paper) is necessary, consistent with F019 and the ch 3 oilcloth roll. F073 (the silence bet, sattu stake) is necessary for the beat and harmless, and it creates a small payoff hook at the next halt. F074 (the waystone and three-stone cairn) is necessary and consistent with the Long Saddle geography; the shelf of crossers' stones is a good, reusable detail. F075 (white fingertips 'cannot testify' for the hour) is problematic as written. Under F010 only a further small lie would hide under existing white; a middling or great lie would still show as frostnip or dead flesh. Rewrite it as a narrower inference or it will undercut the rule's credibility later. Unlisted additions: the redbark smell matching grain Rohan crushed in the salt-house yard, Jassi defying Rohan with a hay fork, and Dilan's remains buried in a wardens' row. These should be logged or checked against ch 1 and 2. The rope-end line ('a rope end in the lining of Rohan's coat, cut clean') is consistent with F020. However, it spends the clean-cut clue five chapters before the planned ch 9 private-vulnerability plant; consider cutting 'cut clean' here.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Irrational behaviour to extend plot",
+    "Worldbuilding collapse"
+  ],
+  "average": 3.88,
+  "minimum": 3.0,
+  "passed": true
+}
