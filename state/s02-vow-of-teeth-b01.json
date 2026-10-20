@@ -461,22 +461,22 @@
       ]
     },
     "22": {
-      "status": "revised",
+      "status": "passed",
       "revisions": 2,
       "scores": {
-        "reader_question": 5.0,
-        "change": 4.0,
+        "reader_question": 4.0,
+        "change": 5.0,
         "romance_movement": 4.0,
-        "shown_chemistry": 5.0,
+        "shown_chemistry": 4.0,
         "character_logic": 4.0,
-        "stakes_and_cost": 5.0,
+        "stakes_and_cost": 4.0,
         "prose": 4.0,
-        "continuity": 0.0
+        "continuity": 5.0
       },
-      "average": 3.88,
+      "average": 4.25,
       "flags": [],
       "words": 2795,
-      "minimum": 0.0,
+      "minimum": 4.0,
       "continuity_fixes": [
         "Ammu says the watcher logs a night with no fresh scent-posts as refusal, and that a second gap back to back with the rain night is the one Chathu would act on. But ch 16 to 18 already had three consecutive bare nights (ch 17 'three nights'; Ammu in ch 18: 'Three nights, the cup was bare'). Under the same rule those would have been logged, and the book gives no cover and no consequence for them. FIX: In ch 22, add to Ammu's lines: 'Your three bare nights last week already went down. That's why he sent the sweets. Another run of gaps on top of the rain night is the one he'd act on.'",
         "In ch 20 Devan leaves his grey stone on the sill and keeps Kannan's white pebble as his cheek stone ('Keep Kannan's. It's the clean one.'). In ch 22 he takes 'the grey pebble from his pouch'. FIX: In ch 22, change 'take the grey pebble from his pouch' to 'take the white pebble from his pouch'.",
@@ -1604,9 +1604,13 @@
     {
       "at": "2026-10-20T01:18:30",
       "event": "done: S6 revise ch 22"
+    },
+    {
+      "at": "2026-10-20T01:20:17",
+      "event": "done: S5 critique ch 22"
     }
   ],
-  "updated_at": "2026-10-20T01:18:30",
+  "updated_at": "2026-10-20T01:20:17",
   "midpoint_chapter": 16,
   "continuity_attempts": 3,
   "continuity_last_errors": 9

@@ -1,0 +1,39 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 5.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 4.0,
+    "stakes_and_cost": 4.0,
+    "prose": 4.0,
+    "continuity": 5.0
+  },
+  "reasons": {
+    "reader_question": "The closing image sets up a specific dilemma: Ittan's name is Devan's chance and Ammu's cage. 'Devan's only chance' is not grounded in this chapter, though; neither Vellan nor the new-moon threat is named.",
+    "change": "All three axes move. Knowledge: Ittan is the buyer. Relationship: first intimacy, he stays till morning, and she replaces the cart-fall lie with the truth. Power: Neela now holds a name Devan needs, and Ammu's safety depends on it.",
+    "romance_movement": "The reason is new: being seen by choice in lamplight, not hiding. Devan answers each term she sets and does not take the pebble. Two moments weaken it by being narrated: the explanation of his waiting and 'as if he were holding something'.",
+    "shown_chemistry": "Strong responsive action carries the scene. He sets the lamp to light her and she moves it between them. His thumb on a marma-trained hand chooses to know none of it. The sword goes under the bed. He waits on the wrist ridge until she nods. A few lines interpret the moment instead of showing it.",
+    "character_logic": "Opening the shutters so Ammu sees she is alive and chose this is smart and in character. Ammu's dare and the cloth-on-posts trick fit her habit. But in the opening Neela weighs only the stone, though she has known since ch1 that the watcher logs scent-posts and gaps now count double.",
+    "stakes_and_cost": "Real costs are on the page: the ache tally, the logged gaps, a cover that 'works once', and the slip that can trace back to Ammu. The deadline pressure behind 'only chance' is missing here, which softens the final weighing.",
+    "prose": "The prose is clean and concrete, with good short lines ('He held still beautifully'). It has no banned phrases and is within the AI-tell limit. Weak spots: two consecutive paragraphs open with 'She'; 'She knew' recurs four times; 'scalp to heel' and 'steadier than her hands' are stock; 'The pause came. Then it didn't finish.' is muddy; and the age paragraph reads as an inserted fact block.",
+    "continuity": "Matches the bible and the logged facts: second bare night, seven nights to new moon, the white pebble (F327), the cart-fall lie (F200), the cloth from the cache on the posts (F379), Chathu's resin-ink slip (F195), the Keeper's seal box (F148) and letters (F149), and 'three dawns ago' fits the cache lie of ch20. Both ages are stated before the intimate beat."
+  },
+  "fixes": [
+    "Opening, 'Tonight the cup would be empty, and Ammu would stand': this is a character-logic gap. Neela has known since the wedding night that the pass-village watcher reads her scent-posts each dawn, and that after the writ every gap counts double. Yet she weighs only the stone. Add two sentences in which she counts the watcher's log as part of the price: a second logged gap on top of the rain night, reported to Chathu. Then Ammu's morning cover answers a cost Neela knowingly accepted, instead of news she should have foreseen.",
+    "Love scene, 'she understood that the waiting was not doubt. It was a man who had spent years learning what restraint was for': this explains his restraint instead of showing it. Cut the explanation. Replace it with one responsive beat, such as Neela deliberately holding still to test him while his hand stays where it is and he says something literal and dry about drill. Do the same at 'as if he were holding something he had not expected to be given': show what his hands or face do instead.",
+    "Prose cleanup, 'She was twenty-seven and had spent twenty-one': this paragraph is an inserted fact block, and the next paragraph also opens with 'She'. Fold the ages into the lamplight beat, for example as Devan's line or her count of years against a number. Cut three of the four 'She knew'. Replace 'The pause came. Then it didn't finish.' with a clear image of him stopping at the open shutters. Change 'Chathu's plans had made her that widow' to the buyer's plan, so the leap to the Keeper is cleaner."
+  ],
+  "reader_question": "Will Neela give Devan Ittan's name, knowing the torn slip can lead Chathu straight to Ammu?",
+  "techniques_landed": [
+    14,
+    10,
+    3
+  ],
+  "new_facts_assessment": "new-facts.json is empty, but the draft relies on facts that earlier passes already logged for ch22. These are all consistent and necessary: F193/F197 (rib seam), F198 (stone signal), F199 (eight years since he lay with anyone), F200 (Chathu held her wrist; the cart lie), F379 (cloth rubbed on posts, cache now empty), F380 (gaps logged), F381 (shutters opened on purpose) and F406 (the slip traces to Ammu). The continuity file needs a cleanup. F192/F196 and F193/F197 are duplicates. F190 (watcher logs shapes) and the mechanism in F194 should be marked retired in favour of F379. F191 ('copied') conflicts with the draft's torn strip and should be retired for F195. One small inaccuracy on the page: 'Chathu's plans had made her that widow' credits Chathu with the buyer's plan. Per F273/F390 the widow plan is Ittan's; Chathu only sells the contract.",
+  "content_rule_violation": false,
+  "failure_modes": [],
+  "average": 4.25,
+  "minimum": 4.0,
+  "passed": true
+}
