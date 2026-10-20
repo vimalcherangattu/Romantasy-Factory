@@ -6,37 +6,36 @@
     "shown_chemistry": 4.0,
     "character_logic": 3.0,
     "stakes_and_cost": 3.0,
-    "prose": 3.0,
-    "continuity": 0.0
+    "prose": 4.0,
+    "continuity": 5.0
   },
   "reasons": {
-    "reader_question": "Two live questions come out of it: what the knot means, and where Asha went. The beat's question about the records lands through the final exchange.",
-    "change": "Both judgements move. He can't fit her into the file, and she logs Ketan in his own words, the first time she has recorded a warden's act this way.",
-    "romance_movement": "There is a new reason: mutual disclosure in which each one's worst picture of the other is tested. The warm hands verify him. This is not a replayed refusal.",
-    "shown_chemistry": "The dragging banter ('I wish it noted that I thought of it') and her watching his hands carry the chemistry. Narration doesn't have to.",
-    "character_logic": "She thinks Asha ties 'everything that way, out of habit', which she can't know. The rope 'drew tight at six spans' on an eight-span rope.",
-    "stakes_and_cost": "The disclosures cost little in the moment. Asha's withdrawal and the hunters get dropped. The quiet ending forces no next decision.",
-    "prose": "There is a strong comic opening. A tic repeats: six 'a man who…/the way a man…' similes. 'One habit among his many' is filler.",
-    "continuity": "Several conflicts. Heat loss starts at seven spans, inside the rope (F009). Ketan as a hill boy contradicts 'two lowland smugglers' (F033). Meera eats the goat, but new-facts says she doesn't."
+    "reader_question": "The knot and 'nobody writes down what we do for free' leave two specific gaps: Asha's purpose, and what the records omit.",
+    "change": "Asha withdraws and Meera holds the cairn-knot clue. Both leads' judgements of each other crack, and Ketan is entered in the count.",
+    "romance_movement": "This is the first two-way reversal of judgement, and the reason is new: price disclosure meets a truthful hanging confession with warm hands.",
+    "shown_chemistry": "The drag banter, her laugh he resents, the look she can't hold and the third loop shaded too dark carry it without narration.",
+    "character_logic": "Rohan's leap from 'you wrote them all down' to 'you charge the rich double' is unearned. A careful reader of files needs evidence.",
+    "stakes_and_cost": "The extra paces past the rope and the unknown food cost a little. Asha's deadline and the hunters stay vague, and the ending carries no pressure.",
+    "prose": "Clean, specific and funny, with no banned phrases or dashes. There are a few stock beats, and 'on his knees in the sun' repeats.",
+    "continuity": "This matches the stick count, the rope length, Asha's deadline, the cairn and waystone carvings, the two hangings and Rohan's habit of paying fines."
   },
   "fixes": [
-    "Continuity, rope distance. 'At six spans the line drew tight. At seven the warmth began to go': heat loss starts only beyond the rope's length (F009). Make the line draw tight at eight spans and have the leak begin with her first step past it. Check also 'a day and a night of mine still owing' against F109, where only today remains, until the light goes.",
-    "Continuity, the hangings. 'up the south ridge to his mother in the high village' clashes with F033's two lowland smugglers. Make Ketan a lowland boy, from the Taravan road, carrying salt to a mother who married into Neshar. Then fix 'I paid the widow's fine for the lean-to': either name it as Ketan's mother's own fine and drop 'lean-to', or cut it so it doesn't reuse Puja's case. Align new-facts F121 with Meera eating the goat.",
-    "Over-signposted clue (Twists without setup, in reverse). 'Somebody who tied everything that way, probably, out of habit' gives Meera knowledge she lacks and explains the clue away. Cut that sentence and 'She could see how Asha might…'. Keep only the cairn match and her unease. In the hanging scene, replace two of the 'the way a man…' similes with concrete action."
+    "'No one. I am guessing from a sum.' This is an irrational leap: knowing she logs 206 people doesn't imply double pricing. Give Rohan a concrete anomaly from the file instead. For example, a seized Taravan factor's receipt showed twice the Kothi rate, while a widow's crossing the same week left no payment record. Then he can ask from evidence.",
+    "'She got up to see to the fire.' The ending neither interrupts an action nor reveals anything (chapter checklist item 5). After the exchange, add a short beat caused by the story. For example, the hunters' two-note horn sounds from where Asha's crew went down. Or Rohan asks what else the file has missed and looks at the knot drawing. Keep the slack-rope image.",
+    "'palms up, the fingers curled a little' repeats 'on his knees in the sun' from two paragraphs earlier. Cut the echo. Also rework the stock beats 'Meera stopped breathing for a moment' and 'The back of her neck had gone cold' into a concrete action, such as her thumb tracing the tuck. Fix 'the rock rib... with the hut's roof under it', which muddles where the camp sits."
   ],
-  "reader_question": "If the warden file is this wrong about Meera, what else is the crown's record wrong about, and why is a smuggler's family knot carved on the cairn?",
+  "reader_question": "Why did Asha leave food tied in the knot carved on the cairn, and if the warden file is wrong about Meera, what else does it get wrong?",
   "techniques_landed": [
     10,
     11,
     23
   ],
-  "new_facts_assessment": "Several facts are necessary and consistent: the juniper deadfall, the second redbark half-pinch, and the file read eleven times. The cache is consistent, but the facts file says Meera doesn't eat it, and the text has her eat the goat. Ketan conflicts with 'lowland' in F033. The 'widow's fine for the lean-to' blurs into Widow Puja (F061) and needs separating. 'Forty men' is harmless.",
+  "new_facts_assessment": "F125 (bundle, eaten goat) and F126 (Ketan) are necessary and consistent, and they plant S7 and pay off misunderstanding 4. The continuity file still holds the superseded F121 (says she doesn't eat) and F123 ('high village', 'lean-to'). Retire both so they don't conflict.",
   "content_rule_violation": false,
   "failure_modes": [
-    "Twists without setup",
-    "Stakes without depth"
+    "Irrational behaviour to extend plot"
   ],
-  "average": 3.12,
-  "minimum": 0.0,
-  "passed": false
+  "average": 3.88,
+  "minimum": 3.0,
+  "passed": true
 }
