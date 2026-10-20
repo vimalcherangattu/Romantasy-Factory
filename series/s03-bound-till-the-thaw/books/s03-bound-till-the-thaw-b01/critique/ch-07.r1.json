@@ -1,0 +1,42 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 3.0,
+    "stakes_and_cost": 4.0,
+    "prose": 3.0,
+    "continuity": 5.0
+  },
+  "reasons": {
+    "reader_question": "The cut leaves a sharp, specific question: is Rohan alive, and can she haul him up with the pursuers coming. Rohan's 'who knew my road' adds a second, slower question. 'What does saving him show Asha's crew' is only implied.",
+    "change": "The value shift lands. The pair go from alone to hunted, Meera learns Rohan carries something worth a lordship, and she breaks crew secrecy for him. The power flips three times: she leads, he reads her lie, then he hangs on her axe.",
+    "romance_movement": "The reason is new. He blinds himself so he cannot testify against her crew, and she risks the shelf for his life. This is the first time each guards the other against their own side. 'For a second she could not say anything at all' narrates the effect instead of showing it.",
+    "shown_chemistry": "Chemistry comes through responsive action: the goggles cut from his crown case, 'I've improved it', him reading her whitened fingertips, and his chosen blindness. Little of it is narrated. The 'owl in a bad temper' banter proves they understand each other.",
+    "character_logic": "Meera names Bindu's mother and the shelf's history to a warden before he asks her not to tell him, which empties his request. Snow-blind Rohan reads kit at seed-size through slits, then hears paired footfalls from the foot of the Saddle. Both strain credibility.",
+    "stakes_and_cost": "Each choice is priced: time against Ranu, the crew's necks against Rohan's eyes, a small lie paid in the fingertips, nine-in-ten odds on the bridge. The bridge failure follows from a cost she chose, not from luck.",
+    "prose": "The prose is concrete and the sentence length varies, with no banned phrases and no em dashes. But there are repetitions: 'colour of fingers' recycles ch 6's image, 'corner of his mouth moved' appears twice, 'like a goat' three times, the leather slits five or more times, and 'remember for a long time afterward' echoes ch 6's tic. The step count is also muddled.",
+    "continuity": "Nothing conflicts with the bible or prior facts. Rohan's right-hand use, the tingling right fingertips and the lie-cold scale all match. The direction of the pursuers ('watch the ridge behind them', 'looking for something ahead', 'south slope') is muddled but does not contradict canon."
+  },
+  "fixes": [
+    "Fix the leak at \"Bindu's mother cut it forty winters ago, and every guide\". This is irrational behaviour to extend plot: Meera, a smuggler who will not give up her crew's names, hands a warden a named family and the shelf's long criminal use before he asks her not to. It hollows out his request and his chosen blindness. Cut the name and history from her dialogue and have her say only 'There's a shelf past the ridge. Crew-cut.' Then let Rohan cut her off with his request. Move the Bindu's-mother detail into the narration paragraph after his request, 'The pegs he named were iron...', so the reader learns what his blindness protects and he never does.",
+    "Rework the competence duet at \"The sound. A pair lifts its feet on a count.\" This is convenient competence: a snow-blind man hearing footfall rhythms from the foot of a two-day snowfield is not set up and strains belief, as does his earlier reading of tent poles and pack lengths at 'small as seeds'. Make the duet a real split. Meera, the only one with eyes, reports bare facts ('They've stopped at the first rock. One pair's coming on, one's holding'). Rohan, eyes shut, turns each fact into soldier's tactics (bounds, the half-hour cost, what they'll do next). In the first scene, cut his kit-reading down to what slits could show, such as spacing and pace. While there, fix the direction in 'Looking for something ahead' so the pursuers are clearly behind and climbing.",
+    "Cut the repetition and tics. 'the fingers stayed the colour of fingers' and 'the fingers pink and whole' recycle ch 6's distinctive image within one chapter, so replace them with a new tell, e.g. 'his nails stayed their dull warden's pink'. Keep one 'The corner of his mouth moved' and change the other to an action. Keep at most one 'like a goat'. Swap half the 'slits'/'leather slits' mentions for 'the goggles' or the angle of his head. Replace 'a thing she would remember for a long time afterward', which echoes ch 6's 'He thought of that for a long time afterward'. Mend the count: she stops counting at 363 and has already talked, so 'He waited until four hundred' should become 'He waited until she had counted to four hundred again'."
+  ],
+  "reader_question": "Is Rohan still alive at the end of the rope, and can Meera haul him out of the gully before Asha's paid trackers reach the ridge?",
+  "techniques_landed": [
+    6,
+    7,
+    16
+  ],
+  "new_facts_assessment": "F094 fits Rule 1: only pairs bind, so two ropes means two cairn bindings. It is needed to establish that Asha was paid. The line 'Nobody does that in a closed winter for love' sits oddly beside crews that bind routinely (Roop and Chand); it should say 'for nothing' or 'for salt money'. F095 is a fair plant for S2 and the ch 10 tracker clue. It must stay a question: Rohan believes Varun dead (F070) and must not suspect him before ch 16. The current phrasing is safe. F096 matches F010 and F011, with a small lie whitening the fingertips for an hour. It is filed as 'injury', but it is a magic cost. Watch for confusion with the natural cold of a bare hand; the draft handles this by having it whiten 'at once'. There is an undeclared addition: Bindu's mother cut the shelf. It is in F092, but spoken aloud to a warden it becomes evidence against a named crew family, which is a plot liability for later chapters.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Irrational behaviour to extend plot",
+    "Convenient magic"
+  ],
+  "average": 3.88,
+  "minimum": 3.0,
+  "passed": true
+}
