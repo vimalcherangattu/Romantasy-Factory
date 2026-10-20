@@ -1,0 +1,34 @@
+{
+  "facts": [
+    {
+      "category": "name",
+      "fact": "Parukutty's daughter is named Minnu (six) and her son Chandu (nine).",
+      "why": "needed because Neela habitually learns names and uses Minnu's cough as the pretext for trading for a coin."
+    },
+    {
+      "category": "object",
+      "fact": "Rema pays Parukutty's early death-gift as twelve new silver coins, more than the salt-factor debt plus tally fee; Rema writes the receipt herself because Ittan's clerk is held.",
+      "why": "needed because the beat requires the early crown-silver payment."
+    },
+    {
+      "category": "object",
+      "fact": "The widow's coin and the scouts' coins share a die flaw: the lowest leaf of the pepper sprig is doubled, and they weigh the same to a grain on the granary pepper scale. Neela trades a worn panam for one bright coin.",
+      "why": "needed because clue C14 (same mint run for widows and raiders) must be memorable and weighable; Devan holds the satchel evidence from ch 14."
+    },
+    {
+      "category": "place",
+      "fact": "The black book is kept on a dry ledge cut into the Resin House well shaft a few man-lengths down, above the water. Neela and Ammu dropped a pebble down it at eleven and noticed the wrong sound.",
+      "why": "needed because the beat requires Devan to climb the well shaft while Neela, in shape, cannot."
+    },
+    {
+      "category": "knowledge",
+      "fact": "Plan: Neela goes over the east wall as the leopard, quiets the hounds, opens the drain, and lifts the well-house bar; Devan comes over at the ridge party's signal, goes down the shaft on a rope, and holds the book from then until Neela turns back at dawn. Devan's rule: if he begins reading a page for any reason, she must stop him.",
+      "why": "needed to set up the mutual veto in chapter 12."
+    },
+    {
+      "category": "timeline",
+      "fact": "They ride from Kettamala at first light on the raid day and reach the ridge above the Resin House by dusk; the last night in the warden's chamber is the night before the raid.",
+      "why": "needed to fix when Neela skips resin."
+    }
+  ]
+}
