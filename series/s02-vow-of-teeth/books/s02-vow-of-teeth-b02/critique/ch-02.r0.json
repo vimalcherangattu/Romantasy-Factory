@@ -1,0 +1,41 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 3.0,
+    "stakes_and_cost": 4.0,
+    "prose": 3.0,
+    "continuity": 0.0
+  },
+  "reasons": {
+    "reader_question": "The ending lands cleanly: Neela steps out at the west stair, so the reader needs to know what she will say to Rema.",
+    "change": "Devan moves from master of the fort to outranked inside it: the gate, Ittan's door and the warden's chair all pass to Rema.",
+    "romance_movement": "There is a new reason: he chooses disclosure over fences, and she corrects his plan and sets the terms. The partnership is renegotiated, not replayed.",
+    "shown_chemistry": "The wrist catch at the door, 'You did well. Do it again,' and her west-stair gambit all show the bond through responsive action.",
+    "character_logic": "A warden who has seen Neela's layered inner-wrist scars in sunlight reads an identical ridge as a lamp-burn. The misread is thinly earned.",
+    "stakes_and_cost": "Three days to an assize. Being seen exposes a rogue odiyan to a crown justice who holds her name. Hiding reads as guilt.",
+    "prose": "The prose is clean and concrete with no em-dash excess. But 'dry' echoes four times, the filing motif repeats three times, and one 'in that moment' appears.",
+    "continuity": "Muthu is called 'the woman'. 'Kept her last two smears and not turned' contradicts F451, where she spends one on the ch1 night."
+  },
+  "fixes": [
+    "'His objection was to the woman beside the chair. Muthu.' This is a continuity error: Muthu is male. Change 'woman' to 'man'.",
+    "'She had kept her last two smears and not turned' contradicts F451, where she spends the first smear running the wood road on the ch1 night. Either add one clause saying the langurs' silence made them hold her in and save the smear, or have her back from the run at dawn and asleep after the hollow hunger. Log the change in new-facts.",
+    "'Lamp-burn, he thought.' This is irrational behaviour: Devan knows Neela's thick, layered inner-wrist scars intimately. Make the misread reasonable by having the guard's mark be a single smooth seam, unlike Neela's ridged layers, and no mark showing at the collar under the sash. Cut one of the three 'filed it' beats ('Devan filed that, too.' or 'He set it beside the other things') to reduce repetition."
+  ],
+  "reader_question": "What will Neela say to a crown justice who can hang her, and are the nameless escort odiyans of the queen's night-guard?",
+  "techniques_landed": [
+    11,
+    13,
+    16
+  ],
+  "new_facts_assessment": "The listed facts (seal chip, numbered escort, horn code, chair and door placement, three-day assize) are necessary and consistent. Several changes are unlisted. Neela keeping both smears conflicts with F451. Taking the west stair deliberately reverses F449; it is a strong beat but should be logged. The goat path at nineteen is harmless. Rema is 'about sixty' here and 'fifty-eight' later; harmonise. The escort not eating or breathing risks implying powers beyond the Turning rules.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Irrational behaviour to extend plot"
+  ],
+  "average": 3.25,
+  "minimum": 0.0,
+  "passed": false
+}
