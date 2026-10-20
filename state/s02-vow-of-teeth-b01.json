@@ -591,7 +591,7 @@
       ]
     },
     "28": {
-      "status": "continuity-fix",
+      "status": "revised",
       "revisions": 2,
       "scores": {
         "reader_question": 4.0,
@@ -607,7 +607,7 @@
       "flags": [
         "needs-owner"
       ],
-      "words": 3086,
+      "words": 3089,
       "minimum": 0.0,
       "continuity_fixes": [
         "Neela is 'on the wall by the cistern housing, where the sentry used to stand'. The cistern housing is on the east rampart (ch 19), but the pulled sentry walked the west rampart above the warden's window (ch 5). FIX: In ch 28, change it to 'on the west rampart above the chamber window, where the sentry used to stand'.",
@@ -1608,9 +1608,13 @@
     {
       "at": "2026-10-20T01:20:17",
       "event": "done: S5 critique ch 22"
+    },
+    {
+      "at": "2026-10-20T01:21:07",
+      "event": "done: S6 revise ch 28"
     }
   ],
-  "updated_at": "2026-10-20T01:20:17",
+  "updated_at": "2026-10-20T01:21:07",
   "midpoint_chapter": 16,
   "continuity_attempts": 3,
   "continuity_last_errors": 9

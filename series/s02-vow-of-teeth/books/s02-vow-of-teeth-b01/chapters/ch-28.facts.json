@@ -1,14 +1,16 @@
 {
   "facts": [
     {
+      "id": "F342r",
       "category": "plot",
-      "fact": "Revises F264: Devan orders Bhaskaran's men (four men, a cart and fodder) to leave Kettamala the morning after the return, reaching the kennels within three days of Neela's watering, then weekly while roads allow. Muthu offers to go himself and Devan answers 'After the sealing. I want you at the gate.' Muthu carries the later run (ch 31).",
-      "since": "ch 28"
+      "fact": "Revises F342: Devan orders the first fodder run (four of Bhaskaran's men, a cart and fodder) to leave as soon as the wood road will take a wheel, within three days if the rain allows but liable to be held a day, then weekly while roads allow. Muthu offers to go himself; Devan answers 'After the sealing. I want you at the gate.' Consistent with F289/F291/F393.",
+      "since": "s02-vow-of-teeth-b01 ch 28"
     },
     {
-      "category": "place",
-      "fact": "Neela watches the sealing arrival from the west rampart above the warden's chamber window, where the pulled sentry used to stand; the wall bends toward the gate so she overlooks the padippura.",
-      "since": "ch 28"
+      "id": "F257r",
+      "category": "object",
+      "fact": "Ammu's Valli cloth was shed at the cook-house corner; Muthu found it and laid it at the roots of the tree where she died, beside her resin pouch. Replaces the 'cached before dusk' detail.",
+      "since": "s02-vow-of-teeth-b01 ch 28"
     }
   ]
 }
