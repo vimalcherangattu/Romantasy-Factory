@@ -5,36 +5,39 @@
     "romance_movement": 4.0,
     "shown_chemistry": 4.0,
     "character_logic": 3.0,
-    "stakes_and_cost": 3.0,
+    "stakes_and_cost": 4.0,
     "prose": 3.0,
-    "continuity": 0.0
+    "continuity": 5.0
   },
   "reasons": {
-    "reader_question": "The ledger question is spoken outright: 'how to hold it and not be it.' The queen's reach adds a second, sharper gap.",
-    "change": "Knowledge escalates from Ittan to the crown. Power shifts: they now hold the realm's most dangerous proof, hidden in the shutter.",
-    "romance_movement": "He brings it straight to her, soaked, and she plans the counter-move. The reason is new: partnership against the crown.",
-    "shown_chemistry": "Wet prints, 'I didn't stop for a coat', the doubled knot and the repeat-test show trust through action. 'Say it again' is slightly staged.",
-    "character_logic": "Neela's inference 'he wanted you to have it' rests on a line that contradicts Ittan's silence. The registers logic is muddy.",
-    "stakes_and_cost": "Taking the ledger risks mastery, but the price of Devan's 'I'll come' (fort, office, garrison) goes unnamed.",
-    "prose": "Clean and concrete. Has echoes (read it twice, slowly x3, door x2), a muddled 'She might know yours' exchange, and the told 'Asking was easier than feeling'.",
-    "continuity": "'Ittan told me where to look' conflicts with Ittan saying only one line (F433). Neela says 'leopard' against her bible voice rule."
+    "reader_question": "The book-2 question is stated and dramatised ('how to hold it and not be it'), though it is spoken outright rather than left implied.",
+    "change": "Knowledge jumps from Ittan to the crown, and power shifts: they hold the queen's receipt while she holds Neela's name.",
+    "romance_movement": "The new reason is that he brings the realm's most dangerous fact to her first, wet and coatless. She plans the fight as an equal.",
+    "shown_chemistry": "The wet prints, 'Say it again', the double knot and the palm-up hand all show trust through action, not narration.",
+    "character_logic": "After learning the queen paid for his death, neither lead links Muthu's unread grey packet to the palace. Smart people would ask that.",
+    "stakes_and_cost": "Neela names the costs aloud: the fort, sixty men's trust, his office, and the queen holding both their names.",
+    "prose": "Opening recap paragraphs stall the start. 'That was all.' repeats ch31's beat, there is one POV slip, and some lines read unclear.",
+    "continuity": "Consistent with F070/F071 seal, F261, F298 hiding place, F393 fodder run and F433 packet. No conflicts found."
   },
   "fixes": [
-    "At \"No one. Ittan told me where to look.\" there is a continuity break: Ittan said only one line. Change it to \"No one. He wouldn't say. Bhaskaran's men never untied it.\" Rewrite Neela's reply as: \"Then he kept it to bargain with. A man doesn't keep the crown's receipt unless he's afraid of it.\" Cut \"Whatever he tells you, the queen will know he told\", or change it to \"If he talks at all, she'll know.\"",
-    "At \"bought a leopard to kill her own border warden\" the line breaks Neela's voice: she never says the word. Change it to \"bought one of us to kill her own border warden\" or \"bought the other one\". That keeps the bible rule, and the line lands harder because she includes herself.",
-    "At \"She might know yours.\" / \"She has since the writ.\" the dialogue is muddled and the stakes are unused. Replace it with Devan saying \"She has your name. You signed the closing writ, 'of Kettamala'. It's on her desk now.\" That calls back F271/F388, a personal cost. Then change \"on that list\" to \"in any of this\". Later, have Neela name what his 'Then I'll come' costs: the fort, the office."
+    "At 'She thought: Leave the wax whole. Let him think' the leads ignore what the queen's seal means for Muthu (Irrational behaviour). Add two or three lines: Neela asks who Muthu's thick packet goes to now that Ittan is caged. Devan says 'Kodiyur' and refuses to guess further, or names the palace as possible, not proven. Then they choose to leave it sealed as bait, so the choice is reasoned and not blind.",
+    "At 'Her eyes came up, dark and bright together' the Neela-POV scene describes her own face from outside (POV slip). Rewrite it from inside her, for example: 'That caught. She stopped looking at the walls. There was a door.' Also clarify 'If he talks at all, she'll know' by changing it to 'the queen will know', since 'she' could mean Ittan's wife.",
+    "At 'He knew the thread. Asha's notes had been tied in it' a pointed clue is raised and abandoned (Twists without setup, in reverse). Either cut the Asha link, or pay it off in one line: Ittan tied the bundle in thread from Asha's seized token wrapping, kept as a trophy. Also trim the opening recap of the grille and the packet to about four sentences so the effects reach the table sooner."
   ],
-  "reader_question": "Can Neela take Chathu's ledger from the Resin House without becoming its new master, now that the queen herself may own the guild?",
+  "reader_question": "Can Neela steal Chathu's ledger from the Resin House without becoming its new master, now that the queen herself is their enemy?",
   "techniques_landed": [
     26,
     20,
     3,
     12
   ],
-  "new_facts_assessment": "F433 (packet locked openly, Ittan silent) is necessary and consistent with ch31, but the chapter itself breaks it with 'Ittan told me where to look'. F434 is acceptable, though the writ and the warden's letter are both dated 'seven weeks before the wedding', which leaves no travel time to Kodiyur (four days, F208). Make one 'about six weeks' or say the queen moved within days. Unlisted new facts: the chit halves (buyer keeps one, the odiyan burns hers at the stone), the chip on the left wing tip, and that Devan recognises Chathu's mark. All are plausible and should be logged.",
+  "new_facts_assessment": "N1 tightens the timeline and works. N2 (split chit, buyer's half) is useful and consistent, and explains why Ittan holds it. N3's chipped wing makes the match fair and earned, and the border-school mark agrees with F143 and Devan's age. N4 is necessary for the cost ledger. An unlisted fact is the red thread matching Asha's notes: it is raised, then dropped, and creates an unplanned clue.",
   "content_rule_violation": false,
-  "failure_modes": [],
-  "average": 3.12,
-  "minimum": 0.0,
-  "passed": false
+  "failure_modes": [
+    "Irrational behaviour to extend plot",
+    "Endless monologue"
+  ],
+  "average": 3.88,
+  "minimum": 3.0,
+  "passed": true
 }
