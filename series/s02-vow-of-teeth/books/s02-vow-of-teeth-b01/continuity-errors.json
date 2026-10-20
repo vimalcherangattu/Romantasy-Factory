@@ -2,176 +2,126 @@
   "open_errors": [
     {
       "id": "E01",
-      "chapter": 13,
+      "chapter": 23,
       "severity": "major",
-      "category": "name",
-      "issue": "Chinna is a woman everywhere else in the book ('a broad woman' ch1, 'her mat' ch4, 'her bad hip' ch14 and ch31). In ch13 Neela calls Chinna 'he'.",
-      "fix": "Change the pronoun to 'she'.",
+      "category": "knowledge",
+      "issue": "Devan twice refuses to tell Neela how Asha died (ch12, ch17), and the bible holds back the west-stair link until book 2. In ch23 he tells her outright that Asha was 'dead on the west stair'. Neela already knows she kept watch on a hill-fort stair six years ago where a young woman died, so she could not plausibly fail to react, and the series secret breaks early.",
+      "fix": "Drop the location from Devan's line so Neela learns only the timing.",
       "patches": [
         {
-          "chapter": 13,
-          "find": "Tell Chinna it's for the warden. He'll hurry.",
-          "replace": "Tell Chinna it's for the warden. She'll hurry."
+          "chapter": 23,
+          "find": "Six years ago. She was dead on the west stair within the month.",
+          "replace": "Six years ago. She was dead within the month."
         }
       ]
     },
     {
       "id": "E02",
-      "chapter": 8,
+      "chapter": 32,
       "severity": "major",
       "category": "knowledge",
-      "issue": "The bible says Devan never lies to Neela. On the rampart he plainly has been laughing, yet he tells her 'I'm not.' That is a direct untruth to her.",
-      "fix": "Replace the denial with his stock refusal, which keeps the banter.",
+      "issue": "In ch6 Devan says plainly 'I don't trust gifts from the palace', locks the betel set in the granary and keeps the queen's seal. In ch32 he recalls locking it away because he distrusted the council and says he never thought to distrust the gift. This contradicts the shared distrust of the palace set up in ch6.",
+      "fix": "Make the ch32 memory match ch6: he distrusted the palace but never imagined it would pay for his death.",
       "patches": [
         {
-          "chapter": 8,
-          "find": "\"I'm not.\"\n\n\"Your ears are.\"",
-          "replace": "\"I won't answer that.\"\n\n\"Your ears are.\""
+          "chapter": 32,
+          "find": "He had locked it in the granary because he distrusted the council. He had never once thought to distrust the gift.",
+          "replace": "He had locked it in the granary because he distrusted the palace. He had never once thought the palace would pay for his death."
         }
       ]
     },
     {
       "id": "E03",
-      "chapter": 17,
+      "chapter": 30,
       "severity": "minor",
-      "category": "knowledge",
-      "issue": "Devan says that on the wedding night she slipped the latch 'carefully, so the slat wouldn't ring'. In ch1 she deliberately presses the third slat so it creaks, and in ch2 Devan hears it creak. His memory also puts the latch after the turning, which is the wrong order.",
-      "fix": "Have him describe the leopard leaving instead of the latch.",
+      "category": "timeline",
+      "issue": "Neela says Devan refused to answer when she asked why he barred the shutters, and that he said 'rain' the next dusk. In ch3 his refusal was to 'Why did your council choose me?'. 'Rain' came at the first barring that same dusk, and she never asked about the shutters. Ch4 notes he never refused on this point at all.",
+      "fix": "Have Neela recall only the 'rain' non-answer at the first barring.",
       "patches": [
         {
-          "chapter": 17,
-          "find": "Then it slipped the latch like somebody who had done it before, carefully, so the slat wouldn't ring.",
-          "replace": "Then it looked away, and went over the ledge like something that had done it a hundred times."
+          "chapter": 30,
+          "find": "\"You said you wouldn't answer,\" she said. \"When I asked why you bar the shutters. And the next dusk you said 'rain.' It was clear sky from here to the sea.\"",
+          "replace": "\"You never told me why you bar the shutters,\" she said. \"The first dusk you did it, you said 'rain.' It was clear sky from here to the sea.\""
         }
       ]
     },
     {
       "id": "E04",
-      "chapter": 23,
+      "chapter": 17,
       "severity": "minor",
-      "category": "object",
-      "issue": "Devan quotes Ittan's letter as saying 'I shall come myself this season, my friend, to see how the match has prospered.' The full letter read aloud in ch17 contains no such line. Ittan says the 'match has prospered' phrase only in person, in ch28.",
-      "fix": "Quote a line that actually appears in the ch17 letter.",
+      "category": "timeline",
+      "issue": "Ch12 twice places Asha's death in the rains (Janu: 'dark in there since the rains she died'; Devan: 'since the rains she died'). Ch17 says Ittan's letters began 'the winter Asha died'.",
+      "fix": "Align ch17 with ch12's season.",
       "patches": [
         {
-          "chapter": 23,
-          "find": "*I shall come myself this season, my friend, to see how the match has prospered.* He had thought it kindly meant.",
-          "replace": "*A man ought to look upon the gate he locks.* He had thought it kindly meant."
+          "chapter": 17,
+          "find": "Since the winter Asha died.",
+          "replace": "Since the rains Asha died."
         }
       ]
     },
     {
       "id": "E05",
-      "chapter": 23,
+      "chapter": 16,
       "severity": "minor",
-      "category": "knowledge",
-      "issue": "In ch12 Devan hid Asha's token in his sleeve before Neela came in, and he never shows it to her or describes its seal. In ch23 she nonetheless predicts the Keeper's tallies will match 'Asha's token'.",
-      "fix": "Limit her reference to the narrows tally she handled herself.",
+      "category": "timeline",
+      "issue": "Neela expects the watcher to log 'a second refusal' for the ch16 bare night. She already had two nights with no fresh posts: the human night before the kalari (ch11) and the fever night she spent on the sill (ch13). That makes ch16 the third.",
+      "fix": "Change the count to third.",
       "patches": [
         {
-          "chapter": 23,
-          "find": "Cut from the same stick, sealed with the same mark, as Asha's token and the satchel from the narrows.",
-          "replace": "Cut from the same split ash, sealed with the same mark, as the tally in the satchel from the narrows."
+          "chapter": 16,
+          "find": "A second refusal, written down for Chathu in a stranger's hand.",
+          "replace": "A third refusal, written down for Chathu in a stranger's hand."
         }
       ]
     },
     {
       "id": "E06",
-      "chapter": 12,
+      "chapter": 24,
       "severity": "minor",
-      "category": "object",
-      "issue": "Ch8 separates two beeswax impressions: the forged dot-and-split one from the dead raider's satchel, and a true one from 'Bhaskaran's gate chest'. In ch12 the dot-and-split impression is called the one 'lifted from Bhaskaran's tally', which is the name of the true one.",
-      "fix": "Name the source as the dead raider's tally.",
+      "category": "knowledge",
+      "issue": "On hearing 'collar', Neela pictures the kennels' iron wall rings and Kirri's anklet in them. She only suspects Kirri's fate after Vellan's silence later in the same scene, she learns the truth in ch26, and ch26 says she had never been inside the kennels.",
+      "fix": "Limit the image to what she has seen from outside, with no Kirri.",
       "patches": [
         {
-          "chapter": 12,
-          "find": "the impression he had lifted from Bhaskaran's tally.",
-          "replace": "the impression he had lifted from the dead raider's tally."
+          "chapter": 24,
+          "find": "She saw the kennels, the iron rings in the wall, Kirri's silver anklet with its bells cut off.",
+          "replace": "She saw the kennels' low roof behind the cook-house, and the girls she had watched led under it."
         }
       ]
     },
     {
       "id": "E07",
-      "chapter": 23,
+      "chapter": 26,
       "severity": "minor",
-      "category": "injury",
-      "issue": "In ch23 Neela says her nails split in her sleep, and Devan sees a nail ragged at the quick. Ch25 says one nail split 'that morning' (the new moon), 'where there had been one this morning', which treats it as the first split.",
-      "fix": "In ch23, make the nails itch and redden but not yet split.",
+      "category": "object",
+      "issue": "Ammu's Valli cover is 'a coast girl's blue cotton' in ch18 and ch20. In ch26 and ch28 it is brown.",
+      "fix": "Make the Valli cloth blue in both later chapters.",
       "patches": [
         {
-          "chapter": 23,
-          "find": "Two nights I've skipped. My nails split in my sleep.",
-          "replace": "Two nights I've skipped. My nails itch at the quick in my sleep."
+          "chapter": 26,
+          "find": "She was mud to the knees, in the plain brown cloth of Valli the pepper trader's girl, her braid half down.",
+          "replace": "She was mud to the knees, in the plain blue cotton of Valli the pepper trader's girl, her braid half down."
         },
         {
-          "chapter": 23,
-          "find": "It was pressed hard against the nail of her forefinger, and the nail was ragged at the quick.",
-          "replace": "It was pressed hard against the nail of her forefinger, and the skin was red at the quick."
+          "chapter": 28,
+          "find": "At the foot of the tree, in the roots, lay a small brown bundle: the cloth Ammu wore as Valli, the pepper trader's girl.",
+          "replace": "At the foot of the tree, in the roots, lay a small blue bundle: the cloth Ammu wore as Valli, the pepper trader's girl."
         }
       ]
     },
     {
       "id": "E08",
-      "chapter": 26,
+      "chapter": 31,
       "severity": "minor",
-      "category": "object",
-      "issue": "Neela is locked in one of the kennel cages and counts 'forty-one' cages. In ch28 she feeds forty-one caged animals, so the cage count is one short once her own cage is included.",
-      "fix": "Count forty-two cages in ch26, one of them hers, and make ch28 say 'occupied cage'.",
+      "category": "relationship",
+      "issue": "Ch31 says Devan had seen her dawn return only 'from across the room'. In ch28 she turned back at first light lying across his chest in the Resin House yard, in full view.",
+      "fix": "Acknowledge the yard return and make ch31 the first chosen one.",
       "patches": [
         {
-          "chapter": 26,
-          "find": "She counted the cages. Forty-one. She counted them again.",
-          "replace": "She counted the cages. Forty-two, and one of them was hers. She counted them again."
-        },
-        {
-          "chapter": 28,
-          "find": "She forked fodder from the loft into every cage, forty-one of them, and carried the cook-house scraps to the fox and the mongoose.",
-          "replace": "She forked fodder from the loft into every occupied cage, forty-one of them, and carried the cook-house scraps to the fox and the mongoose."
-        }
-      ]
-    },
-    {
-      "id": "E09",
-      "chapter": 7,
-      "severity": "minor",
-      "category": "knowledge",
-      "issue": "Neela's contract terms in ch1 say 'not before the marriage writ comes back sealed from Kodiyur'. When Ammu says 'the writ is on the road', Neela asks 'What writ?' as though she has no idea.",
-      "fix": "Have her ask to confirm it is the marriage writ.",
-      "patches": [
-        {
-          "chapter": 7,
-          "find": "\"What writ?\" she said.",
-          "replace": "\"The marriage writ?\" she said."
-        }
-      ]
-    },
-    {
-      "id": "E10",
-      "chapter": 24,
-      "severity": "minor",
-      "category": "timeline",
-      "issue": "Devan says Muthu's mother's monthly letter 'had come and been answered a fortnight ago'. In ch17, about a week before ch24, Muthu hands Sudhi a grey-sealed letter 'to his mother' on post day while Devan takes the post at the gate.",
-      "fix": "Tie the last answered letter to the last post day.",
-      "patches": [
-        {
-          "chapter": 24,
-          "find": "Her letter had come and been answered a fortnight ago.",
-          "replace": "Her letter had come and been answered on the last post day."
-        }
-      ]
-    },
-    {
-      "id": "E11",
-      "chapter": 21,
-      "severity": "minor",
-      "category": "timeline",
-      "issue": "Devan hears the cistern chain strike 'the third watch', and then Neela wakes 'well before the middle watch'. The third watch comes after the middle watch, and F188 places her waking after midnight.",
-      "fix": "Put her waking after the middle watch.",
-      "patches": [
-        {
-          "chapter": 21,
-          "find": "Well before the middle watch she woke.",
-          "replace": "Past the middle watch she woke."
+          "chapter": 31,
+          "find": "He had seen it before, from across the room. It was the first time she had let anyone watch it.",
+          "replace": "He had seen it before, from across the room and once in the mud of a yard. It was the first time she had chosen to let anyone watch it."
         }
       ]
     }

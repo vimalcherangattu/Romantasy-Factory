@@ -1,0 +1,129 @@
+{
+  "open_errors": [
+    {
+      "id": "E01",
+      "chapter": 23,
+      "severity": "major",
+      "category": "knowledge",
+      "issue": "Devan twice refuses to tell Neela how Asha died (ch12, ch17), and the bible holds back the west-stair link until book 2. In ch23 he tells her outright that Asha was 'dead on the west stair'. Neela already knows she kept watch on a hill-fort stair six years ago where a young woman died, so she could not plausibly fail to react, and the series secret breaks early.",
+      "fix": "Drop the location from Devan's line so Neela learns only the timing.",
+      "patches": [
+        {
+          "chapter": 23,
+          "find": "Six years ago. She was dead on the west stair within the month.",
+          "replace": "Six years ago. She was dead within the month."
+        }
+      ]
+    },
+    {
+      "id": "E02",
+      "chapter": 32,
+      "severity": "major",
+      "category": "knowledge",
+      "issue": "In ch6 Devan says plainly 'I don't trust gifts from the palace', locks the betel set in the granary and keeps the queen's seal. In ch32 he recalls locking it away because he distrusted the council and says he never thought to distrust the gift. This contradicts the shared distrust of the palace set up in ch6.",
+      "fix": "Make the ch32 memory match ch6: he distrusted the palace but never imagined it would pay for his death.",
+      "patches": [
+        {
+          "chapter": 32,
+          "find": "He had locked it in the granary because he distrusted the council. He had never once thought to distrust the gift.",
+          "replace": "He had locked it in the granary because he distrusted the palace. He had never once thought the palace would pay for his death."
+        }
+      ]
+    },
+    {
+      "id": "E03",
+      "chapter": 30,
+      "severity": "minor",
+      "category": "timeline",
+      "issue": "Neela says Devan refused to answer when she asked why he barred the shutters, and that he said 'rain' the next dusk. In ch3 his refusal was to 'Why did your council choose me?'. 'Rain' came at the first barring that same dusk, and she never asked about the shutters. Ch4 notes he never refused on this point at all.",
+      "fix": "Have Neela recall only the 'rain' non-answer at the first barring.",
+      "patches": [
+        {
+          "chapter": 30,
+          "find": "\"You said you wouldn't answer,\" she said. \"When I asked why you bar the shutters. And the next dusk you said 'rain.' It was clear sky from here to the sea.\"",
+          "replace": "\"You never told me why you bar the shutters,\" she said. \"The first dusk you did it, you said 'rain.' It was clear sky from here to the sea.\""
+        }
+      ]
+    },
+    {
+      "id": "E04",
+      "chapter": 17,
+      "severity": "minor",
+      "category": "timeline",
+      "issue": "Ch12 twice places Asha's death in the rains (Janu: 'dark in there since the rains she died'; Devan: 'since the rains she died'). Ch17 says Ittan's letters began 'the winter Asha died'.",
+      "fix": "Align ch17 with ch12's season.",
+      "patches": [
+        {
+          "chapter": 17,
+          "find": "Since the winter Asha died.",
+          "replace": "Since the rains Asha died."
+        }
+      ]
+    },
+    {
+      "id": "E05",
+      "chapter": 16,
+      "severity": "minor",
+      "category": "timeline",
+      "issue": "Neela expects the watcher to log 'a second refusal' for the ch16 bare night. She already had two nights with no fresh posts: the human night before the kalari (ch11) and the fever night she spent on the sill (ch13). That makes ch16 the third.",
+      "fix": "Change the count to third.",
+      "patches": [
+        {
+          "chapter": 16,
+          "find": "A second refusal, written down for Chathu in a stranger's hand.",
+          "replace": "A third refusal, written down for Chathu in a stranger's hand."
+        }
+      ]
+    },
+    {
+      "id": "E06",
+      "chapter": 24,
+      "severity": "minor",
+      "category": "knowledge",
+      "issue": "On hearing 'collar', Neela pictures the kennels' iron wall rings and Kirri's anklet in them. She only suspects Kirri's fate after Vellan's silence later in the same scene, she learns the truth in ch26, and ch26 says she had never been inside the kennels.",
+      "fix": "Limit the image to what she has seen from outside, with no Kirri.",
+      "patches": [
+        {
+          "chapter": 24,
+          "find": "She saw the kennels, the iron rings in the wall, Kirri's silver anklet with its bells cut off.",
+          "replace": "She saw the kennels' low roof behind the cook-house, and the girls she had watched led under it."
+        }
+      ]
+    },
+    {
+      "id": "E07",
+      "chapter": 26,
+      "severity": "minor",
+      "category": "object",
+      "issue": "Ammu's Valli cover is 'a coast girl's blue cotton' in ch18 and ch20. In ch26 and ch28 it is brown.",
+      "fix": "Make the Valli cloth blue in both later chapters.",
+      "patches": [
+        {
+          "chapter": 26,
+          "find": "She was mud to the knees, in the plain brown cloth of Valli the pepper trader's girl, her braid half down.",
+          "replace": "She was mud to the knees, in the plain blue cotton of Valli the pepper trader's girl, her braid half down."
+        },
+        {
+          "chapter": 28,
+          "find": "At the foot of the tree, in the roots, lay a small brown bundle: the cloth Ammu wore as Valli, the pepper trader's girl.",
+          "replace": "At the foot of the tree, in the roots, lay a small blue bundle: the cloth Ammu wore as Valli, the pepper trader's girl."
+        }
+      ]
+    },
+    {
+      "id": "E08",
+      "chapter": 31,
+      "severity": "minor",
+      "category": "relationship",
+      "issue": "Ch31 says Devan had seen her dawn return only 'from across the room'. In ch28 she turned back at first light lying across his chest in the Resin House yard, in full view.",
+      "fix": "Acknowledge the yard return and make ch31 the first chosen one.",
+      "patches": [
+        {
+          "chapter": 31,
+          "find": "He had seen it before, from across the room. It was the first time she had let anyone watch it.",
+          "replace": "He had seen it before, from across the room and once in the mud of a yard. It was the first time she had chosen to let anyone watch it."
+        }
+      ]
+    }
+  ]
+}

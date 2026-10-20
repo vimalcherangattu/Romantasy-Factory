@@ -2,37 +2,41 @@
 
 ## What I checked
 
-- **Names and roles:** every named servant, guard and guild member, including pronouns, ages and posts.
-- **Timeline:** the nights-to-the-rains count (40 down to 11), the new-moon count (9 down to 5), the seventh-day sparring requests, the post days, the Keeper's late arrival and the delayed sealing, and the ride times to the Resin House.
+- **Names and roles:** the household roster (Raiu, Unni, Bhaskaran, Gopan, Chinna, Kannan, Eravi, Pachan, Sudhi), ages (Neela 27, Devan 32, Raiu 19, Kannan nine), and who calls whom what.
+- **Timeline:**
+  - nights-left counts against the new-moon and sealing deadlines;
+  - the ford at 24, eight years ago;
+  - Asha's death six years ago, and the season it happened in;
+  - Devan's five years as warden;
+  - the post, sparring and fodder-run cadence.
 - **Magic rules:**
-  - Turning only after sunset, and the return at first light.
-  - Who is a witness: Janu sees only eyes; Devan does not see Vellan turn.
-  - The bitten-off word in ch13.
-  - The forced resin.
-  - The self-naming conditions and the burning of the witness entry.
-  - The wound-share, including the forced-resin tears appearing on Devan.
-- **Injuries:** the left-forearm arrow graze, the left-rib poison cut, the ford seam, Neela's shoulder cut, her split nails, and the torn throat and wrist scars.
-- **Who knows what:** the Asha token, Ittan's letter, the dot-and-split seals, the contract writ, and Muthu's letters.
+  - every turning (dusk only, back at first light, no speech in shape);
+  - witness status (Janu sees only eyes; the bend hides Vellan's turn from Devan);
+  - the near-caging in ch13;
+  - self-naming, the page burning and wound-share mechanics;
+  - the watcher's scent-post log.
+- **Injuries:**
+  - Devan's left-forearm arrow graze and right-arm bleeding;
+  - his left-rib poison cut and its welt on Neela;
+  - her torn throat and wrist scars mirrored on him;
+  - her split nails;
+  - Raiu's and Ammu's deaths staying permanent.
 - **Objects:**
-  - The bangle, sword, guild knife, both pebbles, the flask and Ammu's resin pouch.
-  - The tooth, the beeswax impressions, the queen's seal and the kennel count.
-- **Relationship beats:** checked against the outline and the bible.
-- **Devan's fixed trait:** that he never lies to Neela.
+  - the bangle, sword, knife (given and returned), flask, tooth, pebbles and tallies;
+  - the beeswax impressions, the green sunbird seal and the cage counts (42 cages, 41 occupied).
+- **Who knows what:** Asha's death site, Ittan's name, Muthu's letters, the self-naming loophole, Kirri's fate, and Devan's palace distrust.
 
 ## Errors found
 
-- **Major (2):**
-  - Chinna, a woman, is called "he" (ch13).
-  - Devan tells Neela an outright untruth, "I'm not," in rampart banter (ch8). This breaks his never-lies trait.
-- **Minor (9):**
-  - Devan misremembers the wedding-night slat creak (ch17).
-  - Devan misquotes Ittan's letter (ch23).
-  - Neela refers to Asha's token, which she has never seen (ch23).
-  - The beeswax impression source is ambiguous (ch12).
-  - The nails split too early compared with ch25 (ch23).
-  - The kennel cage count is off by one (ch26/28).
-  - "What writ?" contradicts the contract terms Neela knows (ch7).
-  - Devan dates Muthu's mother's letter as a fortnight ago (ch24).
-  - The watch order is inverted on the rain night (ch21).
+- **Major (2)**
+  - E01: Devan tells Neela in ch23 that Asha died on the west stair. This breaks his earlier refusals and the book-2 secret.
+  - E02: Ch32 says Devan distrusted the council, not the palace, over the wedding gift. This contradicts ch6.
+- **Minor (6)**
+  - E03: Ch30 misremembers the ch3 refusal.
+  - E04: Asha died in "winter" (ch17) but "the rains" (ch12).
+  - E05: The watcher-refusal count is off by one in ch16.
+  - E06: Neela pictures Kirri in the kennels in ch24, before she suspects it.
+  - E07: Ammu's Valli cloth changes from blue to brown.
+  - E08: Ch31 ignores the ch28 return Devan watched up close.
 
-Each error comes with exact patches in errors.json.
+Each error has exact patches in errors.json.
