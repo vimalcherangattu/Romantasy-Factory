@@ -10,27 +10,27 @@
     "continuity": 0.0
   },
   "reasons": {
-    "reader_question": "The chapter closes on Muthu's pale 'Give me a round', so the reader carries a sharp pit-confession question.",
-    "change": "Muthu goes from trusted captain to publicly named informant, and Devan's private suspicion becomes shared knowledge in the hall.",
-    "romance_movement": "The pebble kept unwatched is a new proof of the vow. Her hand on his fist under the table answers it in public.",
-    "shown_chemistry": "Shown through action: the charcoal laid away from her hand, the warm dish, the resettled cloth, the covered fist.",
-    "character_logic": "Rema's courteous outing fits a woman who speaks only cruel facts. Devan's restraint and Neela's refusal to draw the kennels both ring true.",
-    "stakes_and_cost": "Accepting the round costs Devan his eight-year refusal and a friendship. The unnamed climber on the scree adds threat.",
-    "prose": "Clean and concrete. 'For the length of a breath' appears twice, and the pebble paragraph explains its own meaning.",
-    "continuity": "'The rule had changed since the wedding' contradicts canon: self-naming happened in the Resin House yard (B1 ch27), not at a wedding."
+    "reader_question": "The chapter ends on 'Give me a round', so the reader wants Muthu's confession and Devan's answer to the eight-year refusal.",
+    "change": "Muthu's letters are now public, they are tied to the queen's household and the winter Asha died, and Devan's Ittan theory collapses.",
+    "romance_movement": "He keeps the pebble with no one watching, and her hand on his fist under the table is new. Both are quiet, inward steps.",
+    "shown_chemistry": "He moves the charcoal away from her hand, resettles her cloth, and she covers his fist without looking. All responsive action.",
+    "character_logic": "Rema's public courtesy reads as a deliberate move. Neela's lost nerve on the scree fits her history. Devan's restraint fits him.",
+    "stakes_and_cost": "Sparring Muthu costs Devan his eight-year vow and forces a confrontation with a six-year betrayal in front of the fort.",
+    "prose": "Concrete and well paced. One stock silence image, the 'It was true' echo, and one line that explains the pebble beat.",
+    "continuity": "'Known Muthu since they were nine' conflicts with their ages, Muthu 35 and Devan 32. Everything else checks against the facts."
   },
   "fixes": [
-    "'The rule had changed since the wedding. A caging needed two voices now': continuity error. Self-naming happened in the Resin House yard at dusk. Change to 'The rule had changed in the Resin House yard' or 'since the yard', so it matches B1 ch27 and F008.",
-    "'He kept it for exactly that reason. A promise made in front of witnesses is easy.': narrated meaning blunts the unwatched vow. Cut the two explanatory sentences and keep 'He wanted to know what it was worth with the witnesses removed.' Or replace them with an action, such as him almost spitting the stone out at the hour chain and setting it back.",
-    "'For the length of a breath it was the one place' and 'the silence sat between them for the length of a breath': repeated phrase. Rework one, for example 'until the chain's next clank' at supper. Also seat Neela so her bandaged right hand can reach his fist, or use her good left hand and keep the welt contact through his palm."
+    "'Devan had known Muthu since they were nine': continuity conflict. Muthu is 35 and Devan 32, so they cannot both have been nine together. Change to 'since Devan was nine and Muthu twelve, in the pit, with sesame oil on their hands', or to 'since boyhood in the pit'.",
+    "'He wanted to know what it was worth with the witnesses removed': this narrates the beat's meaning (told, not shown). Cut the sentence and let the tongue-to-teeth moment carry it. Also change 'pressed into his hand the first night' to 'the first pebble night' so readers don't take it as the wedding night (F327).",
+    "'the silence sat between them for the length of a breath': stock image, and 'It was true' / 'That's true' recur three times as an echo. Replace the silence line with a concrete beat (the cistern chain, her thumbnail on her forefinger). Keep 'That's true' in the dialogue and cut one of the narrated 'It was true' lines."
   ],
-  "reader_question": "What has Muthu been writing to the queen for six years, and what will he confess once he and Devan are in the pit?",
+  "reader_question": "What has Muthu been telling the queen's household for six years, and what will he admit once Devan finally steps into the pit with him?",
   "techniques_landed": [
     13,
     20,
     7
   ],
-  "new_facts_assessment": "All five listed facts are necessary and consistent: forty-one matches F443's occupied cages, the shin welt follows the wound-share rules, and the six-year letters fit F217. One addition is unlisted: Bhaskaran has a wife and four daughters. It is harmless but should be logged. 'Since the wedding' is an error, not a new fact.",
+  "new_facts_assessment": "Bhaskaran's wife and four daughters: harmless and characterising. Unlisted additions: Devan and Muthu 'since they were nine' (conflicts with a three-year age gap, F025/F002); Gopan's fever-year mule anecdote (harmless, consistent with F043); Neela turning eyes-open 'only twice before' (consistent with b1 ch27 and b2 ch7).",
   "content_rule_violation": false,
   "failure_modes": [],
   "average": 3.62,

@@ -1,0 +1,39 @@
+{
+  "scores": {
+    "reader_question": 5.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 4.0,
+    "stakes_and_cost": 4.0,
+    "prose": 4.0,
+    "continuity": 0.0
+  },
+  "reasons": {
+    "reader_question": "The chapter ends on 'Give me a round', so the reader wants Muthu's confession and Devan's answer to the eight-year refusal.",
+    "change": "Muthu's letters are now public, they are tied to the queen's household and the winter Asha died, and Devan's Ittan theory collapses.",
+    "romance_movement": "He keeps the pebble with no one watching, and her hand on his fist under the table is new. Both are quiet, inward steps.",
+    "shown_chemistry": "He moves the charcoal away from her hand, resettles her cloth, and she covers his fist without looking. All responsive action.",
+    "character_logic": "Rema's public courtesy reads as a deliberate move. Neela's lost nerve on the scree fits her history. Devan's restraint fits him.",
+    "stakes_and_cost": "Sparring Muthu costs Devan his eight-year vow and forces a confrontation with a six-year betrayal in front of the fort.",
+    "prose": "Concrete and well paced. One stock silence image, the 'It was true' echo, and one line that explains the pebble beat.",
+    "continuity": "'Known Muthu since they were nine' conflicts with their ages, Muthu 35 and Devan 32. Everything else checks against the facts."
+  },
+  "fixes": [
+    "'Devan had known Muthu since they were nine': continuity conflict. Muthu is 35 and Devan 32, so they cannot both have been nine together. Change to 'since Devan was nine and Muthu twelve, in the pit, with sesame oil on their hands', or to 'since boyhood in the pit'.",
+    "'He wanted to know what it was worth with the witnesses removed': this narrates the beat's meaning (told, not shown). Cut the sentence and let the tongue-to-teeth moment carry it. Also change 'pressed into his hand the first night' to 'the first pebble night' so readers don't take it as the wedding night (F327).",
+    "'the silence sat between them for the length of a breath': stock image, and 'It was true' / 'That's true' recur three times as an echo. Replace the silence line with a concrete beat (the cistern chain, her thumbnail on her forefinger). Keep 'That's true' in the dialogue and cut one of the narrated 'It was true' lines."
+  ],
+  "reader_question": "What has Muthu been telling the queen's household for six years, and what will he admit once Devan finally steps into the pit with him?",
+  "techniques_landed": [
+    13,
+    20,
+    7
+  ],
+  "new_facts_assessment": "Bhaskaran's wife and four daughters: harmless and characterising. Unlisted additions: Devan and Muthu 'since they were nine' (conflicts with a three-year age gap, F025/F002); Gopan's fever-year mule anecdote (harmless, consistent with F043); Neela turning eyes-open 'only twice before' (consistent with b1 ch27 and b2 ch7).",
+  "content_rule_violation": false,
+  "failure_modes": [],
+  "average": 3.62,
+  "minimum": 0.0,
+  "passed": false
+}
