@@ -475,7 +475,7 @@
       ]
     },
     "23": {
-      "status": "revised",
+      "status": "passed",
       "revisions": 2,
       "scores": {
         "reader_question": 4.0,
@@ -484,10 +484,10 @@
         "shown_chemistry": 4.0,
         "character_logic": 3.0,
         "stakes_and_cost": 4.0,
-        "prose": 3.0,
+        "prose": 4.0,
         "continuity": 0.0
       },
-      "average": 3.25,
+      "average": 3.38,
       "flags": [
         "needs-owner"
       ],
@@ -1515,9 +1515,13 @@
     {
       "at": "2026-10-20T00:45:06",
       "event": "done: S6 revise ch 23"
+    },
+    {
+      "at": "2026-10-20T00:47:04",
+      "event": "done: S5 critique ch 23"
     }
   ],
-  "updated_at": "2026-10-20T00:45:06",
+  "updated_at": "2026-10-20T00:47:04",
   "midpoint_chapter": 16,
   "continuity_attempts": 2,
   "continuity_last_errors": 13

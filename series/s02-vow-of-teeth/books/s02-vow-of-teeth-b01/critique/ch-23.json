@@ -6,37 +6,37 @@
     "shown_chemistry": 4.0,
     "character_logic": 3.0,
     "stakes_and_cost": 4.0,
-    "prose": 3.0,
+    "prose": 4.0,
     "continuity": 0.0
   },
   "reasons": {
-    "reader_question": "The trap is a clear, specific question with a dated deadline. The Muthu sighting adds a second gap, but Devan's dismissal of it softens that gap.",
-    "change": "Knowledge changes (Ittan named, the widow-seal motive decoded), power changes (she sets the limit on testimony) and the relationship changes (allies with a shared plan) all land on the page.",
-    "romance_movement": "The new reason is clear. She gives freely what he once tried to buy, he accepts her refusal as hers to make, and 'Not yet' moves the sparring refusal forward instead of replaying it.",
-    "shown_chemistry": "Chemistry is carried by responsive action. She notices the hands that won't stop, he notices her ragged nail, she leans her shoulder against his, and 'It's very annoying' does real banter work.",
-    "character_logic": "The plotting logic is sharp on both sides. But Devan knows Muthu goes quiet when he lies, sees him perfectly quiet off post day, and talks himself out of it with a convenient excuse.",
-    "stakes_and_cost": "Every choice has a named cost: six nights, the ache, her sister's page, and Kettamala left shut in if he rides south.",
-    "prose": "The prose is mostly clean, concrete and well varied. It falls back on 'the way...' similes repeatedly, repeats 'The corner of her mouth moved', and the final paragraph tells the reader the emotional conclusion.",
-    "continuity": "There are three conflicts. Neela discloses Vellan's name and the collar threat a chapter early (F216 places this in ch24). Ittan's letter is read 'at noon' against F202's 'one night'. And 'the fort he had lived in for eight years' contradicts Devan being raised there (F102, F217)."
+    "reader_question": "The ending sharpens the outline question into a specific one: the trap depends on Muthu opening the Keeper's boxes, and Muthu is lying to Devan's face.",
+    "change": "Devan now knows the buyer and Ittan's real aim (the widow's seal, not his corpse). The pair move from separate agendas to a shared plan, and Devan gains a new suspicion of Muthu.",
+    "romance_movement": "The movement is new and specific. She gives unasked what he once tried to buy. He accepts a limit that costs him evidence. 'Not yet' replaces never. The morning after their first night is left unacknowledged.",
+    "shown_chemistry": "Chemistry is carried by responsive beats: 'It's very annoying', the brief shoulder lean, 'braced for a blow and found a hand instead', and her reading 'Not yet' as different from no. None of it is narrated as chemistry.",
+    "character_logic": "Devan's impulse to ride to Kodiyur, and its correction, are smart. Three things weaken it. Neela hands over the very strip she feared would get Ammu caged without showing how she resolved that risk. She shrugs off a three-day shortfall in her own count. 'Nobody but Muthu and a goat-boy' ignores a garrison of about sixty.",
+    "stakes_and_cost": "Her refusal to testify costs him his best evidence. The cost of her bare nights is stated (two nights, split nails). Six nights to the moon is held against eight days to the seal. The sparring refusal carries his history.",
+    "prose": "The prose is clean and concrete, with good short sentences and no banned phrases. A few lines lean on narrated summary ('the first spark of something he had not felt in a long time'), and 'The stair took him. He didn't decide to.' is a familiar move.",
+    "continuity": "'I've been counting to the rains, not the seal' conflicts with F059 and F087. Neela's count has been explicitly 'nights left before the pass closes', and her guild deadline is the pass closing. This retcon contradicts established fact, and the chapter never treats it as a correction."
   },
   "fixes": [
-    "At \"If it's still open, Chathu sends Vellan. A man I grew up in the shadow of\" (continuity conflict with F216; contrived early disclosure): cut Vellan's name, the 'grew up in the shadow' line and the 'forces resin on me and reads my page aloud at dusk. That's what the collar is' sentences. Keep only the cost Devan asked for: 'At the moon the account closes. If it's still open, the guild settles it another way. I won't say how yet.' Then give the ache and split nails as she has them. This leaves ch24's naming of Vellan and the collar fresh.",
-    "Fix two continuity slips. At \"while he read the letter aloud at the window at noon\" change it to \"when he read the letter aloud one night\" (F202). At \"the fort he had lived in for eight years shifted under him\" change it to \"the fort he had been raised in shifted under him\" (F102, F217). Also log Asha's 'dead within the month' and Muthu's mother's cough in new-facts.json.",
-    "At \"Devan frowned, then let it go. Muthu's mother in Kodiyur\" (irrational behaviour: Devan has known Muthu's quiet tell since boyhood) and the closing \"He had told her nothing was owed. He knew now\" (told, not shown): have Devan register the quiet as the tell and choose to say nothing yet. For example, he puts the folded slip inside his shirt rather than his sleeve and goes down to greet Muthu with an ordinary question. Then end on that interrupted action instead of the explanatory debt paragraph, so the chapter ends on a revealed gap rather than a summary."
+    "At \"I've been counting to the rains, not the seal\": this is a continuity conflict and also convenient retcon. Since ch4 her count has been to the pass closing (F059), and Chathu's threat is tied to the pass closing (F087). Give the early-sealing custom to Devan, who as warden would actually know it. Then let it land on Neela as a cost: she realises the guild's clock is three nights shorter than she had counted. Show her checking the number again and pressing her split nail, and have her say the new-moon account still comes first. Log this as an explicit correction of F059's meaning in new-facts so later chapters inherit it. If you don't do that, cut the rains explanation entirely.",
+    "At \"It's Chathu's hand. I won't say more about her.\": this is a character-logic gap. Ch22 ended with Neela believing that any move on the torn strip would trace back to the satchel and get her guild-sister caged, and here she hands it over with no visible reckoning. Add two or three lines in which she sets the condition aloud: the slip is never shown to anyone who could trace it to a carrier's satchel. Then make the border-search plan explicitly the one she chooses because it convicts Ittan without the slip ever leaving Devan's shirt. This also gives the final image of the slip against his ribs its meaning.",
+    "At \"You've been at it since the dark\": romance is buried by plot here. In ch22 she asked him to stay so she could wake beside him, and he said 'I'll be here'. This line implies he left in the dark, and neither of them mentions it or the night itself. Either change it to 'since first light' and give one beat where he stayed until she woke, or let her name that he left and have him answer truly (the hands wouldn't stop, and he didn't want them near her shaking). This is the first scene after their first night, and one exchange is enough."
   ],
-  "reader_question": "Will Ittan carry the forged blank tallies up the hill into the sealing-day search before the guild's new-moon deadline brings its killer to Kettamala?",
+  "reader_question": "Can Devan spring the sealing-day trap on Ittan when the man he has trusted to open the Keeper's boxes is secretly sending grey-sealed letters off the post day?",
   "techniques_landed": [
     3,
     15,
     16
   ],
-  "new_facts_assessment": "The draft's new-facts.json is empty, but the chapter adds or restates several facts. Consistent and already logged: Kodiyur four days' hard ride (F208); the sealing-day search of every cart, in or out (F207); the blank waxed tallies as proof (F211); the Muthu sighting (F210). Unlogged but plausible: Asha died within the month of finding the first token, and Muthu's mother 'coughed all spring' (consistent with F217's living mother, but it should be logged). Conflicting: (1) Neela names Vellan, the new-moon send and the forced-resin collar to Devan, which F216 assigns to ch24 and which leaves that disclosure redundant; (2) Devan read Ittan's letter aloud 'at noon', where F202 says one night; (3) Devan has 'lived in' the fort for eight years, but F102 (his father's shutter rule, his mother's winter) and F217 (pit as boys) make it his childhood home.",
+  "new_facts_assessment": "F382 (Asha dead within a month of finding the first token) is consistent with F112 and F113. It is useful, because it gives Devan's 'six years of kind letters' line its weight. Keep it. F383 (Muthu's quiet tell known since boyhood) matches the bible voice notes and F217. It sits slightly awkwardly beside F117, where Devan believed Muthu's half-breath pause in ch12. That is acceptable if Devan simply wasn't watching for the tell then; a half-line could note that he wasn't. F384 (Neela counted to the rains; the council seals about three days earlier) is a retcon invented to reconcile the outline's 'eight days' with the earlier nightly counts. It contradicts F059 and F087, where the count and Chathu's threat are both tied to the pass closing. It also produces an unreacted-to cost: her contract deadline just moved three nights closer. It should not stand as written.",
   "content_rule_violation": false,
   "failure_modes": [
     "Irrational behaviour to extend plot",
-    "Contrived delays"
+    "Romance buried by plot"
   ],
-  "average": 3.25,
+  "average": 3.38,
   "minimum": 0.0,
   "passed": false
 }
