@@ -3107,6 +3107,20 @@
       "fact": "Ammu's pouch held a thumb of resin of which two smears remain on the ninth day of the rains.",
       "since": "s02-vow-of-teeth-b02 ch 1",
       "provisional": true
+    },
+    {
+      "id": "F451",
+      "category": "plot",
+      "fact": "Plan agreed in ch 1: Neela spends the first of her two remaining resin smears on the night of ch 1 to run the wood road ahead as the other one; the second is kept for inside the Resin House. They take the wood road by the lower ford, half a day longer, because the ridge track is walked by the pass-village watcher.",
+      "since": "s02-vow-of-teeth-b02 ch 1",
+      "provisional": true
+    },
+    {
+      "id": "F452",
+      "category": "knowledge",
+      "fact": "Ittan's tally-book margin shorthand is copied from Resin House receipts, so Neela can read the counts and payments but not the masters' name marks.",
+      "since": "s02-vow-of-teeth-b02 ch 1",
+      "provisional": true
     }
   ],
   "knowledge": [

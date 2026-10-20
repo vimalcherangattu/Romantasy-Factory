@@ -1,29 +1,12 @@
 {
   "facts": [
     {
-      "category": "object",
-      "fact": "In the margin beside three lines of Ittan's tally book is a tiny inked sunbird with folded wings, distinct from the queen's spread-winged seal; Neela cannot read it as guild shorthand.",
-      "why": "needed because the beat plants a sunbird mark that means nothing to her yet"
+      "category": "plot",
+      "fact": "Plan agreed in ch 1: Neela spends the first of her two remaining resin smears on the night of ch 1 to run the wood road ahead as the other one; the second is kept for inside the Resin House. They take the wood road by the lower ford, half a day longer, because the ridge track is walked by the pass-village watcher."
     },
     {
       "category": "knowledge",
-      "fact": "Chathu enters every contract in the ledger against the subject's page, so Asha's contract entry is in the black book.",
-      "why": "needed because Devan needs the guild's contract for Asha as court evidence"
-    },
-    {
-      "category": "knowledge",
-      "fact": "Ittan's tally book shows four payment slashes to the Resin House and a 'hook' mark meaning something delivered in return.",
-      "why": "needed to show Neela reading guild shorthand on the page"
-    },
-    {
-      "category": "place",
-      "fact": "Neela always takes the east stair and avoids the west stair without stating a reason.",
-      "why": "plants her unease for the later lookout reveal without contradicting that she does not know which fort"
-    },
-    {
-      "category": "name",
-      "fact": "Ammu's pouch held a thumb of resin of which two smears remain on the ninth day of the rains.",
-      "why": "needed because the beat sets the resin clock at two smears"
+      "fact": "Ittan's tally-book margin shorthand is copied from Resin House receipts, so Neela can read the counts and payments but not the masters' name marks."
     }
   ]
 }
