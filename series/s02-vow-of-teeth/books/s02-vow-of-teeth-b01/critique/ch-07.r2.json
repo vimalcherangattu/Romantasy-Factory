@@ -1,0 +1,41 @@
+{
+  "scores": {
+    "reader_question": 5.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 3.0,
+    "stakes_and_cost": 4.0,
+    "prose": 4.0,
+    "continuity": 0.0
+  },
+  "reasons": {
+    "reader_question": "Ammu's cut-off 'there's a way if the one who sees you is—' leaves a sharp, one-sentence gap. The last line turns it into a decision Neela will act on tonight.",
+    "change": "Knowledge moves on three fronts: the writ is coming and the forced-resin threat is now explicit; a way out of being seen exists; Kirri's silence is no longer only a joke. Neela's reading of Devan also shifts from hunter toward a man 'keeping a book against himself'.",
+    "romance_movement": "The reason is new. She watches him wipe a widow's slate unseen and refuse thanks, and her 'hunter's patience' theory cracks. 'A tidy arrangement… nobody anything to hold against you' lands as being understood.",
+    "shown_chemistry": "The basket exchange works as responsive action. She lets go late, he notes it and stays silent, and later she lets go on time. His mouth-corner response to being read is also earned. The romance stays restrained, as the beat needs.",
+    "character_logic": "Neela counts exits and names every stranger, yet she voices the most dangerous sentence of her life without clocking a captain of the guard three paces away at the next stall. The interruption needs that lapse to happen.",
+    "stakes_and_cost": "Chathu's threat has teeth, and Ammu nearly commits guild treason. Neela's closing choice to ask in writing knowingly spends Ammu's safety, which is a real cost.",
+    "prose": "Clean, concrete and readable, with no banned phrases or AI-tell clusters. Weak points: 'beat' recurs five times, a few consecutive paragraphs open with 'She', and the POV slips once to 'Devan' mid-scene after calling him 'the warden' throughout.",
+    "continuity": "'Unni… not much past twenty' conflicts with F110. Unni's name is on Asha's slate of recruits, written in her first month at the fort about nine years ago, so he would have been about eleven. Everything else matches: thirty-four nights, Chathu's message, the sentry two nights gone, Parukutty and Raman, Ammu at fourteen at the first turning, and three letters before ch18's four."
+  },
+  "fixes": [
+    "At 'He was thin as a ladle and not much past twenty.': continuity conflict with F110, because Unni was a recruit on Asha's slate about nine years ago. Replace the age with something like 'He was thin as a ladle and had held the gate for years, and he still blushed like a recruit.' Drop the age fact from new-facts.json.",
+    "At 'where a woman was selling turmeric in yellow heaps': irrational behaviour to extend plot. Neela, who counts exits and learns every name, speaks treason with a captain at three paces and never notices him. Plant the setup earlier. When she takes the stool, have Neela note that it puts her back to the lane and that the turmeric plank beside them stands empty. Muthu can then arrive behind her, seen only by Ammu, and the interruption stays fair.",
+    "At 'It was the right sort of joke, and it was a half beat too fast' and 'She let go a beat too late': echo-word repetition. 'Beat' appears five times. Keep it only for the breath-hitch callback ('stumbled on the beat'). Change the others to 'a breath too quick', 'She let go late', 'note the delay' and 'on time'. Also vary the paired 'She…' paragraph openers at 'She heard herself speak' / 'She hadn't known' and 'She thought: he is keeping a book' / 'She did not want to think it'. Change 'from Devan's hand' to 'from the warden's hand' to keep Neela's naming consistent."
+  ],
+  "reader_question": "What is the way Ammu almost named, and what does it cost to be seen by the right person?",
+  "techniques_landed": [
+    2,
+    5,
+    7
+  ],
+  "new_facts_assessment": "Most new facts are necessary and consistent. The death-gift at harvest fits the queen's habit of answering widows' petitions. The tally fee and the four widows sharpen Devan's quiet kindness and pay off his true 'salt factor' answer, which keeps his never-lies rule. The Resin House punishment for telling members what masters have not is needed to make Ammu's silence costly rather than artificial. The double hitch is a good, earned callback and supports technique 5 for Ammu's later death. The written-question plan is fine but must be honoured or explicitly abandoned in ch8. Ammu's knuckle nick is decoration unless a later chapter is told to pay it off; consider cutting it. Kirri teaching letters is harmless texture. 'Unni is not much past twenty' conflicts with F110 (his name on Asha's recruit slate from about nine years ago) and should be removed or changed.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Irrational behaviour to extend plot"
+  ],
+  "average": 3.5,
+  "minimum": 0.0,
+  "passed": false
+}
