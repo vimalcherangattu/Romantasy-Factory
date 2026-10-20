@@ -1,0 +1,41 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 3.0,
+    "stakes_and_cost": 4.0,
+    "prose": 3.0,
+    "continuity": 0.0
+  },
+  "reasons": {
+    "reader_question": "Fires on a route only Rohan and Varun drew, then Lalit guiding them, make 'who sold it' sharp and stateable.",
+    "change": "Knowledge shifts (route leaked, Asha guiding hunters), and the two-day plan collapses into being cornered tonight.",
+    "romance_movement": "The 'Guide' answer is new, true and costly; the allowed touch on the rope is a real first step.",
+    "shown_chemistry": "Counting apologies, the rope drill, 'Good', and the burned stick show responsive attention without narration.",
+    "character_logic": "Rohan lists suspects but never notes he named the cut to Meera on the second night, though she says so.",
+    "stakes_and_cost": "The stick burn, thirteen left, the two-day limit and hunters on the cut give every choice a price.",
+    "prose": "Mostly clean and specific; coin image repeats, a few generic beats ('something went across her face'), and an implausible pulse in the rope.",
+    "continuity": "Text says both 'he had drawn' and Varun 'had drawn the line'; 'six days' under the gully conflicts with nine of twenty days left."
+  },
+  "fixes": [
+    "'It was a line he had drawn on a table' conflicts with 'The other had drawn the line... was Varun' (continuity). Make it 'a line Varun had drawn at his direction', with Rohan holding the ruler. In 'He had been under it for six days', change six to the true count, about nine, so it matches nine of twenty days left.",
+    "'A dead man could not sell a road. A living clerk' leaves out a suspect (irrational behaviour). Rohan told Meera about the cut on the second night, and she reminds him. Add one line where he counts her and rules her out because she has been tied to him every hour since. That makes 'bigger list' land and sharpens the Varun answer he refuses.",
+    "'like a coin neither would pick up' repeats the opening 'fist round a coin' (echo image). Replace it with a rope or ledger image. Swap 'something went across her face and was gone' for a specific action, such as her thumb stopping on the cup. Cut 'her pulse beat in it', since a pulse can't travel through wool a hand's width away. Use the heat of her wrist near his thumb instead."
+  ],
+  "reader_question": "Who in Rohan's post sold his secret fallback route to the regent's hunters, and why is Asha's crew leading them up it?",
+  "techniques_landed": [
+    1,
+    6,
+    9
+  ],
+  "new_facts_assessment": "Rope signals are useful and consistent. The stick count matches ch12's '24 after the fever' reading but not F113 plus F118, which give 20 before ch12's night, so reconcile upstream. The route fact contradicts itself: Rohan drew it vs Varun's hand. 'Only the two of them saw it' conflicts with F111 and Meera's line that Rohan named the cut on the second night. Restate it as: drawn by Varun at Rohan's direction, single copy, and also told to Meera.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Irrational behaviour to extend plot"
+  ],
+  "average": 3.25,
+  "minimum": 0.0,
+  "passed": false
+}
