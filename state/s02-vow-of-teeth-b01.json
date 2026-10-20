@@ -355,22 +355,22 @@
       ]
     },
     "17": {
-      "status": "revised",
+      "status": "failed",
       "revisions": 0,
       "scores": {
         "reader_question": 4.0,
         "change": 4.0,
         "romance_movement": 4.0,
         "shown_chemistry": 4.0,
-        "character_logic": 3.0,
+        "character_logic": 4.0,
         "stakes_and_cost": 4.0,
         "prose": 4.0,
-        "continuity": 5.0
+        "continuity": 0.0
       },
-      "average": 4.0,
+      "average": 3.5,
       "flags": [],
       "words": 3161,
-      "minimum": 3.0,
+      "minimum": 0.0,
       "continuity_fixes": [
         "In ch 12 Sudhi rides 'with the palace green on his sleeve'. In ch 17 Devan says no one looks in the bag of 'a man in royal blue'. Blue is the registry courier's colour in ch 8, not Sudhi's. FIX: In ch 17, change 'a man in royal blue' to 'a man in palace green'.",
         "Watching Muthu give Sudhi a grey-sealed letter, Neela notes 'She had seen it three times now.' She has never witnessed one before: the ch 12 handoff is in Devan's POV while she is at supper in the hall. FIX: In ch 17, change 'She had seen it three times now.' to 'It was the first time she had seen it, though Janu teased him about his mother's post.'"
@@ -1580,9 +1580,13 @@
     {
       "at": "2026-10-20T01:11:27",
       "event": "done: S6 revise ch 17"
+    },
+    {
+      "at": "2026-10-20T01:12:53",
+      "event": "done: S5 critique ch 17"
     }
   ],
-  "updated_at": "2026-10-20T01:11:27",
+  "updated_at": "2026-10-20T01:12:53",
   "midpoint_chapter": 16,
   "continuity_attempts": 3,
   "continuity_last_errors": 9
