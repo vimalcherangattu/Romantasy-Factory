@@ -765,7 +765,7 @@
       }
     },
     "24": {
-      "status": "passed",
+      "status": "edited",
       "revisions": 2,
       "scores": {
         "reader_question": 4.0,
@@ -779,8 +779,19 @@
       },
       "average": 4.0,
       "flags": [],
-      "words": 2993,
-      "minimum": 3.0
+      "words": 3003,
+      "minimum": 3.0,
+      "style": {
+        "words": 3003,
+        "banned_hits": {},
+        "ai_tell_hits": {},
+        "ai_tells_per_1000": 0.0,
+        "top_4gram": "against the lightning scar",
+        "top_4gram_count": 2,
+        "longest_paragraph_words": 80,
+        "em_dashes_per_1000": 0.67,
+        "reading_ease": 95.4
+      }
     },
     "25": {
       "status": "passed",
@@ -2025,9 +2036,13 @@
     {
       "at": "2026-10-20T08:00:01",
       "event": "done: S8 line edit ch 23"
+    },
+    {
+      "at": "2026-10-20T08:00:35",
+      "event": "done: S8 line edit ch 24"
     }
   ],
-  "updated_at": "2026-10-20T08:00:01",
+  "updated_at": "2026-10-20T08:00:35",
   "midpoint_chapter": 16,
   "continuity_attempts": 3,
   "continuity_last_errors": 2
