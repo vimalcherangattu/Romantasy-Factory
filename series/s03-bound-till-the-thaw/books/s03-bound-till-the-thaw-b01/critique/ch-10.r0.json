@@ -1,0 +1,41 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 3.0,
+    "stakes_and_cost": 4.0,
+    "prose": 4.0,
+    "continuity": 0.0
+  },
+  "reasons": {
+    "reader_question": "A concrete double hook: a feverish man collapses mid-route, his coat is warm against her wrist, and the leak question is planted underneath.",
+    "change": "Asha moves from rival to named threat with a deadline. Meera learns of the leak. Rohan gives a first partial disclosure.",
+    "romance_movement": "The new reason is that he chooses to pay twice and then gives a part anyway. His deliberate 'Meera' and his trembling hands move the bond.",
+    "shown_chemistry": "Guess-banter, the 'bribe-sack' reply, her watching his hands, and the catch at the end all show chemistry without narrating it.",
+    "character_logic": "She hides the leak clue from Rohan with no reason on the page. She checks her fingers after lying to Asha, although lies to others are free.",
+    "stakes_and_cost": "Kiran's pardon set against Rohan's coat is a sharp personal price. The deadline and the hunters press, and the fever adds a cost.",
+    "prose": "Specific and voiced; Asha sparkles. A few muddled lines ('Rivals', 'before the rule') and a 'the weight of' tell.",
+    "continuity": "The firewood arithmetic conflicts with F105: five sticks already burning tonight means the bundle should read 26, not 31 to 30."
+  },
+  "fixes": [
+    "Continuity, at 'thirty-one down to thirty, and put it on the coals beside the five': the night's five came from the bundle, so the count should read 31 → 26, then 25 and 24 after the refusals. Correct both numbers and update F110 to match. Alternatively, have her lay the refusal sticks before the night's five, and say so on the page.",
+    "Irrational behaviour, at 'except the one thing she had already put away': give one line of reason for withholding the leak. For example: the leak came from his own post, she cannot yet rule him out, and it is leverage for Kiran's name. Silence is free under the bond, so let her note that she is choosing it.",
+    "Muddled logic, at 'She had told no lie. She had not been asked for one': lies to Asha cost nothing, so a fingers check is out of character for Meera. Cut it and let the Kiran offer cause the shaking. Clarify 'I'm asking before the rule' as 'I'm asking early', and replace 'Fine, then. Rivals.' with a thought that plainly means matching his stubbornness."
+  ],
+  "reader_question": "Can Meera keep a fevered Rohan alive with Asha's deadline running, and what will she find in his coat?",
+  "techniques_landed": [
+    4,
+    7,
+    16
+  ],
+  "new_facts_assessment": "F107 is necessary. But if Varun read the party aloud at the gate, anyone there heard it, so 'only the plan held those numbers' overclaims; make it a private reading. F108 to F112 are fine. Several facts are unlisted: the 200+100 silver bounty on Meera (who posted it?), the regent's 'queen's hand by midwinter', and Rohan's father.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Irrational behaviour to extend plot"
+  ],
+  "average": 3.38,
+  "minimum": 0.0,
+  "passed": false
+}
