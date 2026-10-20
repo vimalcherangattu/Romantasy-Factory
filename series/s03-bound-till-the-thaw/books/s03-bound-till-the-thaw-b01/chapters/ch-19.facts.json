@@ -2,13 +2,18 @@
   "facts": [
     {
       "category": "timeline",
-      "fact": "Four days remain to the Snow Fair at the end of ch19 (replaces F177's eight days, consistent with nine days at ch13 dusk). The general rides up after the Fair.",
-      "since": "ch19"
+      "fact": "Ch19 is day 12 of twenty and the Snow Fair falls at dawn of day 20, so eight days remain at the end of ch19. Supersedes F178 (four days) and restores F177's eight. The general rides up after the Fair.",
+      "since": "ch 19"
     },
     {
       "category": "object",
-      "fact": "The patrol's pass rule: no one goes in or out of a marked house after the third day without a pass (replaces F176's sixth day), so it falls before the Fair.",
-      "since": "ch19"
+      "fact": "The patrol's pass rule: no one goes in or out of a marked house after the third day without a pass (F179 stands).",
+      "since": "ch 19"
+    },
+    {
+      "category": "object",
+      "fact": "Rohan's grey pattu hangs on the shed ladder rail to dry; he snatches it up into the loft as the patrol arrives. Nimmi stops the loft search by falsely claiming her goats carry the grey cough.",
+      "since": "ch 19"
     }
   ]
 }

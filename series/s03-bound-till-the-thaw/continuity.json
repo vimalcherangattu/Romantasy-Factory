@@ -1869,6 +1869,27 @@
       "fact": "Roop and Chand's rope-bond was tied at the Shilak Cairn, so it ends at the same first meltwater as Meera and Rohan's.",
       "since": "s03-bound-till-the-thaw-b01 ch 32",
       "provisional": true
+    },
+    {
+      "id": "F275",
+      "category": "timeline",
+      "fact": "Ch19 is day 12 of twenty and the Snow Fair falls at dawn of day 20, so eight days remain at the end of ch19. Supersedes F178 (four days) and restores F177's eight. The general rides up after the Fair.",
+      "since": "s03-bound-till-the-thaw-b01 ch 19",
+      "provisional": true
+    },
+    {
+      "id": "F276",
+      "category": "object",
+      "fact": "The patrol's pass rule: no one goes in or out of a marked house after the third day without a pass (F179 stands).",
+      "since": "s03-bound-till-the-thaw-b01 ch 19",
+      "provisional": true
+    },
+    {
+      "id": "F277",
+      "category": "object",
+      "fact": "Rohan's grey pattu hangs on the shed ladder rail to dry; he snatches it up into the loft as the patrol arrives. Nimmi stops the loft search by falsely claiming her goats carry the grey cough.",
+      "since": "s03-bound-till-the-thaw-b01 ch 19",
+      "provisional": true
     }
   ],
   "knowledge": [
