@@ -309,3 +309,4 @@ timestamp,book_id,stage,model,input_tokens,output_tokens,cache_read_input_tokens
 2026-10-20T08:03:33,s02-vow-of-teeth-b01,line_edit,sonnet,2,5409,2780,6824,31517,1,0.08166799999999999
 2026-10-20T08:04:11,s02-vow-of-teeth-b01,line_edit,sonnet,2,4801,2780,6212,31636,1,0.07314
 2026-10-20T08:04:47,s02-vow-of-teeth-b01,line_edit,sonnet,2,5437,2780,6857,29066,1,0.08208
+2026-10-20T08:05:17,s02-vow-of-teeth-b01,line_edit,sonnet,2,4349,2780,5754,23279,1,0.06678799999999999
