@@ -1,0 +1,39 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 3.0,
+    "stakes_and_cost": 4.0,
+    "prose": 4.0,
+    "continuity": 5.0
+  },
+  "reasons": {
+    "reader_question": "Clear, specific and timed: can a one-armed man and his guide get down the Teeth before the storm wall and the hunters?",
+    "change": "She learns the law's origin and his secret mercy. Her hatred is openly retired. The hut is abandoned and the plan is fixed.",
+    "romance_movement": "Desire is acted on and refused for a new reason, the thaw delivery. His refusal to promise deepens it rather than replaying it.",
+    "shown_chemistry": "He refuses to lean in, the stubble rasps her glove, the 'Sleep' laugh lands, and he declines a promise to protect her hands.",
+    "character_logic": "Meera breaks her own one-question firewood rule for free. Rohan confirms he will deliver her before he knows she is the Salt Fox.",
+    "stakes_and_cost": "Real costs: a stick burned for silence, a day lost to the Teeth, a storm on an ice chimney. Extra questions cost nothing, though.",
+    "prose": "Concrete and well varied, with strong images. 'Bruise' appears three times, and a few lines tell where they could show ('different animal', 'fire's fault').",
+    "continuity": "Firewood, the bell, Puja's fine, the mother's death, the name usage and the grandfather clue are all consistent with the bible and earlier chapters."
+  },
+  "fixes": [
+    "At 'But at the thaw you deliver me. It's in your writ.' the line pre-empts the ch16 midpoint, where the writ's content is revealed and Rohan learns she is the Salt Fox. Ground it in the Closing Law: every unlawful crosser goes to the post at the thaw. Change Rohan's 'because it is true' so his warm hands confirm only that he keeps the law, not that he knows she is his named quarry.",
+    "At 'That was the day's. This is the night's.' Meera breaks the firewood rule (one question each per night) at no cost, and Rohan then asks a second question free. This is a cost ledger waived. Have her lay a stick on the fire to buy the out-of-turn question, so the wood drops to eleven. Update the count in the last scene and in new-facts.json.",
+    "The 'bruise' image is repeated: 'colour of a bruise three days old', 'struck on a bruise' and 'bruise-yellow'. Keep only the second. Also replace 'A low fire in a small room did strange things to the distance' with a concrete action, such as who shifted on the hearth stones and why. Cut 'That was a different animal altogether.'"
+  ],
+  "reader_question": "Can they get down the Goat's Teeth before the storm wall and Lalit's hunters close on them?",
+  "techniques_landed": [
+    10,
+    15,
+    25
+  ],
+  "new_facts_assessment": "The Goat's Teeth is necessary and well tied to Jassi. 'Buried seven' is fine. The grandfather story plants C14 cleanly, but the father's detailed version needs reconciling with Ila knowing 'not how'. 'The first hanged man's curse' is unlisted.",
+  "content_rule_violation": false,
+  "failure_modes": [],
+  "average": 4.0,
+  "minimum": 3.0,
+  "passed": true
+}
