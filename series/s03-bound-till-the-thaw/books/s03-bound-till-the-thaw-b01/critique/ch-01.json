@@ -1,0 +1,41 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 3.0,
+    "shown_chemistry": 3.0,
+    "character_logic": 3.0,
+    "stakes_and_cost": 4.0,
+    "prose": 3.0,
+    "continuity": 5.0
+  },
+  "reasons": {
+    "reader_question": "The ending lands the outline's question cleanly: the hanging-law captain asks for a crossing of a pass his own law has shut. A strong secondary itch (Kiran's unnamed crossing) supports it.",
+    "change": "Hope turns to threat as the beat requires. Meera's plan to leave before the sweep is broken, and the power shifts because her hunter now needs her skill.",
+    "romance_movement": "The first meeting revises her judgement (loud sadist to precise, controlled man) and he notices her before he knows her. But the revision is mostly stated in summary ('She had pictured someone loud') rather than earned beat by beat.",
+    "shown_chemistry": "The goat intervention and his look stopping on the wax at her thumbnail are good responsive details. They are diluted by narrated reactions ('she realised she had stopped breathing', 'which was worse than she had been told') and by the told gloss on 'Guide'.",
+    "character_logic": "Answering for Jassi is brave and in character. But a smuggler who hides the redbark under rehearsed drill leaves the count, a written confession with a crown-crate note and a stitched drop token, unaccounted for while wardens are in the yard. Planning to leave by noon on the sweep day also cuts it oddly fine for an expert.",
+    "stakes_and_cost": "Strong concrete stakes: forty-one sick, six buried, Kiran's single cough, two fresh pegs on the hanging tree. The next decision, guiding or refusing the captain, clearly costs either her cover or the children.",
+    "prose": "Clean, readable and specific, with no banned phrases and no em dashes. Faults: an echo of 'stillness' in consecutive Rohan paragraphs, two consecutive paragraphs opening 'She', a dossier-style crew intro ('He was forty, gruff as a gatepost'; 'shy as a sparrow with people and loud as a drum with rope' lifted near-verbatim from the bible), a self-contradiction ('begged the raw wool... who sold to them at a fair price'), a merchant comeback that doesn't parse, and the stopped-breathing cliché.",
+    "continuity": "Consistent with the bible and continuity facts on ages, the Closing Law text, Rohan's record, the rope length, Lata's wool, Kiran's ear and the bond distance for Roop and Chand. Nothing conflicts."
+  },
+  "fixes": [
+    "Character logic and technique 11 (Clue at the Peak) missing: at \"'Twelve,' Meera said, once, under her breath\" the redbark is hidden but the count is not. The count holds the scraped-stamp entry and the stitched button, and it is upstairs. Add two or three lines where Meera either shoves the ledger into her coat before the horns' echo dies, or realises it is still on the oilcloth table. Then, when Rohan's look 'stopped, very briefly, on the wax at the edge of her thumbnail', have her feel the ledger against her ribs or know where it lies. This puts C01 and C21 under pressure at the chapter's peak instead of only in its quiet opening, and makes the thumbnail glance a real threat.",
+    "Narrated-only chemistry: at \"That was Captain Rohan. She knew him by the grey of his coat and the stillness, which was worse\" the reversal of her judgement is summarised (\"She had pictured someone loud...\") and 'stillness' repeats in the next paragraph. Cut the pictured-someone-loud summary to one sentence. Delete the first 'stillness' and keep 'a stillness you could rest a ladder on'. Replace \"she realised she had stopped breathing\" with a physical act tied to her habit, for example her thumb pressing the waxed nail into her palm before she starts counting. Also trim the told gloss after 'Guide' (\"A title for the work, given as if it were a fact he had verified\") to its first fragment and let Meera's silence carry it.",
+    "Prose: at \"It would help my knees if I said please\" the comeback borrows Jassi's knees joke and doesn't make sense in Meera's mouth. Give her a line about price or salt instead, for example \"Please costs extra. You've already paid double.\" In the same pass, fix \"Bindu had begged the raw wool off a Taravan trader, Lata, who sold to them at a fair price\" (begged contradicts sold; pick 'bought'). Recast the dossier lines \"He was forty, gruff as a gatepost\" and \"She was thirty-four, shy as a sparrow\" so the ages arrive inside action or dialogue, as Meera's 29 already does, rather than as character-sheet summaries."
+  ],
+  "reader_question": "Why does the queen's warden captain, who enforces the Closing Law, want a guide to take him over the closed Long Saddle in winter?",
+  "techniques_landed": [
+    1,
+    5
+  ],
+  "new_facts_assessment": "All seven listed facts are necessary and consistent. The Roop/Chand pair correctly obeys F009. The button (F052) is defined concretely enough for a fair ch 2 match. The tally (F053) honours Nimmi's list-keeping. The gate, tree and peg detail (F054) fits F016. The rehearsed bale hide (F055) supports Bindu's knowledge of the Salt Fox. The tenth-day sweep (F051) is useful but makes Meera's noon departure look careless; consider making the sweep due tomorrow so Rohan's early horns are the surprise. Unlisted new facts the draft added should go into new-facts.json: Roop and Chand are a married couple ('improve your marriage', 'married in a cupboard'); the widow Puja and her son; Meera's mother taught her to count aloud; and the eleven-for-twelve packet error on an earlier Ranu run. All are harmless and consistent.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Narrated-only chemistry",
+    "Irrational behaviour to extend plot"
+  ],
+  "average": 3.62,
+  "minimum": 3.0,
+  "passed": true
+}
