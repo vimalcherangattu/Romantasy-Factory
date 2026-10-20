@@ -448,11 +448,12 @@
       "minimum": 3.0
     },
     "25": {
-      "status": "pending",
+      "status": "drafted",
       "revisions": 0,
       "scores": {},
       "average": null,
-      "flags": []
+      "flags": [],
+      "words": 2630
     },
     "26": {
       "status": "pending",
@@ -925,8 +926,12 @@
     {
       "at": "2026-10-20T20:58:38",
       "event": "done: S5 critique ch 24"
+    },
+    {
+      "at": "2026-10-20T21:00:19",
+      "event": "done: S4 draft ch 25"
     }
   ],
-  "updated_at": "2026-10-20T20:58:38",
+  "updated_at": "2026-10-20T21:00:19",
   "midpoint_chapter": 16
 }

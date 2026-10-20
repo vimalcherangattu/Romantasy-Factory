@@ -1,0 +1,29 @@
+{
+  "facts": [
+    {
+      "category": "place",
+      "fact": "The lockhouse in Ranu is a squat stone grain store at the foot of the village with one barred door and one slit window.",
+      "why": "needed because the outline places the closing scene in a 'lockhouse'."
+    },
+    {
+      "category": "object",
+      "fact": "Varun promises to be given the Walnut Terraces as a lordship, with the deed already drawn, to be signed when the seal is in the regent's hand; he needs Rohan alive and the village intact until the stone is found.",
+      "why": "needed because the beat requires the 'bounty' to become clear (C10 payoff)."
+    },
+    {
+      "category": "knowledge",
+      "fact": "Varun learned of Kiran's presence on Dilan's rope and his presence in Nimmi's house from his middleman's crew talk and lower-lane runners; he does not know Kiran is Meera's brother or that she is the Salt Fox.",
+      "why": "needed to ground how Varun names Kiran in front of the village."
+    },
+    {
+      "category": "object",
+      "fact": "Meera is chained by a forearm band and two spans of iron chain to Rohan's belt; the red rope stays between them.",
+      "why": "needed because Varun keeps her chained near Rohan as 'the hired guide' within the rope's eight-span limit."
+    },
+    {
+      "category": "knowledge",
+      "fact": "Varun leaves a guard on Nimmi's door rather than taking Kiran, since Kiran is too ill to run.",
+      "why": "needed so Kiran is still in the village for chapter 26."
+    }
+  ]
+}
