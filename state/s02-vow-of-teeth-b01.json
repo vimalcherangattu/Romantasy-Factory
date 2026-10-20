@@ -144,7 +144,7 @@
       }
     },
     "05": {
-      "status": "passed",
+      "status": "edited",
       "revisions": 2,
       "scores": {
         "reader_question": 4.0,
@@ -158,12 +158,23 @@
       },
       "average": 4.0,
       "flags": [],
-      "words": 2926,
+      "words": 2928,
       "minimum": 3.0,
       "continuity_fixes": [
         "Devan thinks 'Not once had she come to the bed', but ch 2 and ch 3 show her lying down in the bed with her back to him at each dawn. FIX: In ch 5, change 'Not once had she come to the bed' to 'Each time she had come to the bed shaking and lain with her back to him, as far off as the mattress allowed'.",
         "In ch 4 Neela turns back in the yard at first light. Her clothes are in the chamber (she always leaves them on the sill), yet in ch 5 she walks up through the stair door, past the two west-stair guards, as a woman, and no one remarks on it. FIX: In ch 5, add that she came in 'with a saddle-blanket from the stable round her', so Devan hears the rough wool drop before the bed creaks."
-      ]
+      ],
+      "style": {
+        "words": 2928,
+        "banned_hits": {},
+        "ai_tell_hits": {},
+        "ai_tells_per_1000": 0.0,
+        "top_4gram": "she had come back",
+        "top_4gram_count": 2,
+        "longest_paragraph_words": 107,
+        "em_dashes_per_1000": 0.68,
+        "reading_ease": 93.9
+      }
     },
     "06": {
       "status": "passed",
@@ -1738,9 +1749,13 @@
     {
       "at": "2026-10-20T07:48:14",
       "event": "done: S8 line edit ch 4"
+    },
+    {
+      "at": "2026-10-20T07:48:49",
+      "event": "done: S8 line edit ch 5"
     }
   ],
-  "updated_at": "2026-10-20T07:48:14",
+  "updated_at": "2026-10-20T07:48:49",
   "midpoint_chapter": 16,
   "continuity_attempts": 3,
   "continuity_last_errors": 2
