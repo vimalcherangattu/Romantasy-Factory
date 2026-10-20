@@ -1,0 +1,40 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 5.0,
+    "romance_movement": 5.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 4.0,
+    "stakes_and_cost": 4.0,
+    "prose": 3.0,
+    "continuity": 5.0
+  },
+  "reasons": {
+    "reader_question": "Sharp and specific: his promise binds him to her footing until the exact day his writ makes him hand her over.",
+    "change": "Identities, writ, seal and traitor are all confessed or deduced. They move from enemies hiding things to complicit lovers. Power and knowledge both shift.",
+    "romance_movement": "Full mutual confession, then a chosen first kiss. The refusal reason is new because both now know everything, and the promise turns care into a contract.",
+    "shown_chemistry": "Shown through action: he holds still and lets her choose, they watch each other's hands, and the kiss image is character-specific. The reread beat drifts into summary.",
+    "character_logic": "The no-lies pact, the collaborative deduction and his deliberate promise all fit smart versions of them. Going out together to beat the rope limit is clever.",
+    "stakes_and_cost": "The kiss is costed in harbouring and the writ. The promise carries a great-lie penalty. Losing the wood sets a hard clock.",
+    "prose": "Clean, with few tells. But the 'like a man' simile recurs about five times, 'He said it' becomes a tic, and the ending restates its own realisation.",
+    "continuity": "Sticks, button, sieve ring, party count, fallback sheet and seal all match the facts. Risks: 'as she had the night before' is unverified, and 'his life was tied' overstates the cost of a broken promise."
+  },
+  "fixes": [
+    "At \"Then everything in the last ten days is different,\" the Fair Twist (12) is delivered as summary, with abstract lines like 'Every look I gave you'. Replace them with one concrete reread from earlier chapters, spoken aloud. For example, Meera recalls the scraped crown stamp on her crates in ch1 and now names whose hands scraped it. Rohan answers with one specific Varun moment. Cut the generic 'Every look' sentence.",
+    "Repeated simile frame: 'like a man who had caught a fish', 'shape of a man bracing for weather', 'a man holding very still', 'look of a man about to set down', and 'kissed like a man reading a document'. Keep only the document-signing simile. Recast the others as plain action, for example 'He held the stick up, grinning.' Also cut two of the 'He said it flatly/simply/before she could' tags.",
+    "At \"If she fell, he must catch her,\" the ending states the realisation twice. It also overstates the rule: a broken promise strikes as a great lie, which kills flesh, not life. Rewrite as 'his hands, his body, were tied to her footing'. Delete the 'If she slipped' sentence and let the final count line carry the turn. Also change 'I watched your hands' to a variant, so the ch30 'Watch my hands' callback stays unspent."
+  ],
+  "reader_question": "What does a promise to keep her from falling do to a man whose writ makes him hand her to the rope on the day that promise expires?",
+  "techniques_landed": [
+    3,
+    12,
+    17,
+    22
+  ],
+  "new_facts_assessment": "Both new facts are necessary and consistent. The harder-snugged hitch earns Rohan's suspicion fairly, and the count page fits Meera's ledger habit and F114. One beat item is missing: the scraped crown stamps on the crates are never cited as evidence.",
+  "content_rule_violation": false,
+  "failure_modes": [],
+  "average": 4.25,
+  "minimum": 3.0,
+  "passed": true
+}

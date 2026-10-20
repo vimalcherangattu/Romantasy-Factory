@@ -2,42 +2,39 @@
   "scores": {
     "reader_question": 4.0,
     "change": 5.0,
-    "romance_movement": 4.0,
+    "romance_movement": 5.0,
     "shown_chemistry": 4.0,
-    "character_logic": 3.0,
+    "character_logic": 4.0,
     "stakes_and_cost": 4.0,
     "prose": 3.0,
-    "continuity": 0.0
+    "continuity": 5.0
   },
   "reasons": {
-    "reader_question": "Sharp closing paradox: his life is tied to her footing until the very day he must hand her over.",
-    "change": "Both identities confessed, Varun exposed as saboteur and supplier, first kiss, and a binding promise. A true midpoint pivot.",
-    "romance_movement": "Mutual confession and a costed first kiss with a new reason: full knowledge instead of half. It is undercut slightly by a recap of the old refusal.",
-    "shown_chemistry": "Watching each other's hands, 'That was free' / 'I watched your hands', and the kiss metaphor are all responsive and specific.",
-    "character_logic": "Rohan, who goes silent rather than lie, starts a lie on the no-lies night. Meera then claims 'neither of us froze'.",
-    "stakes_and_cost": "Seven sticks, the no-lies rule, complicity guilt and the promise-contract all carry concrete costs.",
-    "prose": "Clean and specific, but 'hands on his knees' recurs heavily, and the numbered deduction reads as a recap list.",
-    "continuity": "His whitened fingertips fade within seconds, against F010/F011 (a small lie lasts an hour; only time or touch clears it)."
+    "reader_question": "Sharp and specific: his promise binds him to her footing until the exact day his writ makes him hand her over.",
+    "change": "Identities, writ, seal and traitor are all confessed or deduced. They move from enemies hiding things to complicit lovers. Power and knowledge both shift.",
+    "romance_movement": "Full mutual confession, then a chosen first kiss. The refusal reason is new because both now know everything, and the promise turns care into a contract.",
+    "shown_chemistry": "Shown through action: he holds still and lets her choose, they watch each other's hands, and the kiss image is character-specific. The reread beat drifts into summary.",
+    "character_logic": "The no-lies pact, the collaborative deduction and his deliberate promise all fit smart versions of them. Going out together to beat the rope limit is clever.",
+    "stakes_and_cost": "The kiss is costed in harbouring and the writ. The promise carries a great-lie penalty. Losing the wood sets a hard clock.",
+    "prose": "Clean, with few tells. But the 'like a man' simile recurs about five times, 'He said it' becomes a tic, and the ending restates its own realisation.",
+    "continuity": "Sticks, button, sieve ring, party count, fallback sheet and seal all match the facts. Risks: 'as she had the night before' is unverified, and 'his life was tied' overstates the cost of a broken promise."
   },
   "fixes": [
-    "At '\"I knew,\" he began.' / 'The white was there, and fading': continuity and character-logic break. A small lie whitens for an hour and nothing warms it, and Rohan goes silent rather than lie. Cut the false start. He stays silent (free), then says 'I suspected.' Or keep the whitening for the full hour and change Meera's 'neither of us froze' to acknowledge it.",
-    "At 'Let's do it in order,' said Meera. 'I'll go slow.': the six-point numbered case is an evidence recap (Endless monologue). Fold it into three exchanges driven by objects on the hearth (twist, button, Lalit's number). Let Rohan supply the chimney and seal deductions himself, as a competence duet, and drop 'Two... Three... Four' as spoken counters.",
-    "At 'put both hands on his knees where she could see them': this image recurs about six times and blunts the payoff of 'I watched your hands'. Keep it at the confession and the promise only. Also replace 'for a while the wind was a long way off' (a near world-fell-away cliché) with a concrete sensation tied to the rope or her split knuckles from ch15."
+    "At \"Then everything in the last ten days is different,\" the Fair Twist (12) is delivered as summary, with abstract lines like 'Every look I gave you'. Replace them with one concrete reread from earlier chapters, spoken aloud. For example, Meera recalls the scraped crown stamp on her crates in ch1 and now names whose hands scraped it. Rohan answers with one specific Varun moment. Cut the generic 'Every look' sentence.",
+    "Repeated simile frame: 'like a man who had caught a fish', 'shape of a man bracing for weather', 'a man holding very still', 'look of a man about to set down', and 'kissed like a man reading a document'. Keep only the document-signing simile. Recast the others as plain action, for example 'He held the stick up, grinning.' Also cut two of the 'He said it flatly/simply/before she could' tags.",
+    "At \"If she fell, he must catch her,\" the ending states the realisation twice. It also overstates the rule: a broken promise strikes as a great lie, which kills flesh, not life. Rewrite as 'his hands, his body, were tied to her footing'. Delete the 'If she slipped' sentence and let the final count line carry the turn. Also change 'I watched your hands' to a variant, so the ch30 'Watch my hands' callback stays unspent."
   ],
-  "reader_question": "What will a promise to keep her from falling cost a man who is ordered to hand her to the rope at the thaw?",
+  "reader_question": "What does a promise to keep her from falling do to a man whose writ makes him hand her to the rope on the day that promise expires?",
   "techniques_landed": [
     3,
     12,
     17,
     22
   ],
-  "new_facts_assessment": "The iron strike before the slide, the chimney line on the fallback sheet and the eleven days buried are all consistent and pay off earlier clues. The rope humming at a true promise extends F081 without needing a stone; it is acceptable but borders on convenient, so keep it rare. The seal-knot fact needs a reason: Meera retied the cord his way precisely so he wouldn't notice, so the page must say how he knew she'd touched it.",
+  "new_facts_assessment": "Both new facts are necessary and consistent. The harder-snugged hitch earns Rohan's suspicion fairly, and the count page fits Meera's ledger habit and F114. One beat item is missing: the scraped crown stamps on the crates are never cited as evidence.",
   "content_rule_violation": false,
-  "failure_modes": [
-    "Endless monologue",
-    "Irrational behaviour to extend plot"
-  ],
-  "average": 3.38,
-  "minimum": 0.0,
-  "passed": false
+  "failure_modes": [],
+  "average": 4.25,
+  "minimum": 3.0,
+  "passed": true
 }
