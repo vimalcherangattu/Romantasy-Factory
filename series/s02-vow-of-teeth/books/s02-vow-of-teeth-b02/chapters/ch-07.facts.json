@@ -1,29 +1,16 @@
 {
   "facts": [
     {
-      "category": "place",
-      "fact": "The Resin House well house stands behind the kennel roof at the end of a flagged path: four posts, old tile, shuttered windows, plank door with an iron hasp, a farm lock and a teak bar in two brackets. Chathu carries the black book to it at dusk and returns without it.",
-      "why": "needed because the beat locates the ledger there and the next chapter's question depends on its lock."
+      "category": "",
+      "fact": "The Resin House kennels have hounds that stir at the cages and know every boot in the yard; they would scent an outsider on the flagged path to the well house."
     },
     {
-      "category": "place",
-      "fact": "The Resin House has eight hunters on the walls: two at the main gate, two at the drain, four under the wall. About forty members train in the yards.",
-      "why": "needed because the beat calls for the ridge survey with hunters and forty members."
+      "category": "",
+      "fact": "Pachan held a net in the yard the day Chathu bound Neela three weeks ago and looked at his boots; he gave her the sweet at ten (consistent with F232/F493)."
     },
     {
-      "category": "knowledge",
-      "fact": "Neela uses her last smear of Ammu's resin on the ridge at dusk to turn and scout the well house; Devan holds a pebble in his cheek until she is back at dawn. She now has the full flask of fresh resin from a stray nightbark on the ridge.",
-      "why": "needed because the beat empties Ammu's pouch and ends on the book being reachable only by hands."
-    },
-    {
-      "category": "injury",
-      "fact": "Neela cuts her right palm tapping the tree; a matching welt rises on Devan's right palm.",
-      "why": "needed because the beat shows the wound-share cut."
-    },
-    {
-      "category": "name",
-      "fact": "Pachan is tall, stooped, long-faced, in a grey wrap; he gave ten-year-old Neela a sweet when Chathu sat her at the table.",
-      "why": "needed because the beat has him recognise her and lower his pole."
+      "category": "",
+      "fact": "Devan proposes going in himself for the book and Neela rejects it: eight hunters, hounds and his unknown scent and boots on the flagged path."
     }
   ]
 }
