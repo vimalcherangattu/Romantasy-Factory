@@ -1,0 +1,29 @@
+{
+  "facts": [
+    {
+      "category": "place",
+      "fact": "Kesu's grandson carries Ittan's cough-medicine jar and Devan's letter down the goat path at first light, since the pass is closed to carts.",
+      "why": "needed because the jar must reach Ittan's widow while the pass is shut."
+    },
+    {
+      "category": "object",
+      "fact": "Devan seals the letter to Ittan's household in plain black wax stamped with the warden's iron disc, and offers to pay from the account of Kettamala.",
+      "why": "needed to show the kindness on the page without using council or queen's wax."
+    },
+    {
+      "category": "object",
+      "fact": "The Resin House ledger is two kinds of leaf sewn into one cover: front half plain-ink contract leaves (the 'contract books'), back half resin-ink pages. The contract leaves come loose at the stitching.",
+      "why": "needed so the first term (contract books to the court, pages to owners) is physically possible."
+    },
+    {
+      "category": "magic",
+      "fact": "Neela has one smear of Ammu's resin left in the pouch, kept for the Resin House; the other was spent earlier. The ache is close: nails split and a night sweat.",
+      "why": "needed for the beat where she keeps the last smear rather than turn tonight."
+    },
+    {
+      "category": "relationship",
+      "fact": "Neela tells Devan what the intake slip behind her burned page says ('Intake, sold at six years', two lines unread) and that she wants only to read it alone.",
+      "why": "needed for the disclosure ladder; reiterates F253 and does not add a plot fact."
+    }
+  ]
+}
