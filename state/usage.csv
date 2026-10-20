@@ -358,3 +358,4 @@ timestamp,book_id,stage,model,input_tokens,output_tokens,cache_read_input_tokens
 2026-10-20T09:11:11,s02-vow-of-teeth-b01,beta_reader,opus,2,9847,12365,53380,115293,1,0.6264609999999999
 2026-10-20T19:25:17,s03-bound-till-the-thaw-b01,draft,sonnet,2,10075,0,57161,100097,1,0.32939799999999997
 2026-10-20T19:26:20,s03-bound-till-the-thaw-b01,critique,opus,2,4271,0,56752,54761,1,0.5394439999999999
+2026-10-20T19:28:27,s03-bound-till-the-thaw-b01,draft,sonnet,2,11605,11162,45254,118409,1,0.2981862
