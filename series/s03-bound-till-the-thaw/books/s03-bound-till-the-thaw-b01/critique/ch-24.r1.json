@@ -1,0 +1,42 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 5.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 3.0,
+    "stakes_and_cost": 4.0,
+    "prose": 4.0,
+    "continuity": 0.0
+  },
+  "reasons": {
+    "reader_question": "Varun at the door at dawn, with the seal hidden and Rohan staying, is a sharp, specific question to carry out.",
+    "change": "Knowledge shifts (Varun alive, warrant, dawn), power shifts (Meera holds the seal), and the new doses change Ranu's count.",
+    "romance_movement": "The seal handover is new and earned: he trusts her with the mission. Her choosing to tell him past his promise is a fresh move.",
+    "shown_chemistry": "Watching him not ask, the softer double hitch, and 'shown by an expert' all show it through response. One paragraph explains it instead.",
+    "character_logic": "Meera's escape plan runs toward Garh Neshar, the road the riders use. Rohan never weighs the Fair against staying.",
+    "stakes_and_cost": "Staying risks arrest and the Fair, and the hidden seal is now on her. The mission cost is implied, never stated.",
+    "prose": "Mostly clean, specific and varied. 'Stomach turned over' and 'mouth had gone dry' are stock, and the deodar/pegs line is muddled.",
+    "continuity": "'Garh Neshar's two days with you on foot' contradicts F192, which gives a day and a half of road for Rohan."
+  },
+  "fixes": [
+    "At 'Garh Neshar's two days with you on foot', change to 'a day and a half' to match F192. Then repair the flight logic: Meera should propose the high back road away from the lower road the riders are digging out. Rohan should answer that she means to leave Kiran behind under the warrant either way, and that the twenty men will ride whichever road they take.",
+    "At 'She chose. It took less time than she wanted', the POV withholds a place she knows (contrived delay, scene checklist #9). Name the hiding place to the reader in one concrete line, for example inside the woodpile behind the goat shed. That turns the next chapter's search into dramatic irony rather than an artificial gap.",
+    "At 'Then we will do what is possible before they come', Rohan stays without weighing the seal mission (bible: the seal before anything). Add two lines in which he names what staying may cost: the Fair, and his writ. He should explain why hiding the seal keeps the mission alive past his arrest. The cost of the choice then becomes explicit and in character."
+  ],
+  "reader_question": "When Varun's twenty men reach Nimmi's door at dawn, will Rohan stand or run, and will the seal Meera hid survive their search?",
+  "techniques_landed": [
+    1,
+    7,
+    20
+  ],
+  "new_facts_assessment": "Bell mark on Ranu's grain sacks: consistent and useful evidence for ch28. Badge in Meera's coat: fits ch23's hand-on-coat, but the taking from Kiran needs a prior on-page beat. Hidden seal location: the POV knows it and the narration withholds it, which is a contrived gap.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Contrived delays",
+    "Irrational behaviour to extend plot"
+  ],
+  "average": 3.5,
+  "minimum": 0.0,
+  "passed": false
+}

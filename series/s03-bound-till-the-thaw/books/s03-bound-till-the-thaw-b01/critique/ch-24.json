@@ -1,42 +1,42 @@
 {
   "scores": {
     "reader_question": 4.0,
-    "change": 4.0,
+    "change": 5.0,
     "romance_movement": 4.0,
     "shown_chemistry": 4.0,
     "character_logic": 3.0,
     "stakes_and_cost": 4.0,
-    "prose": 3.0,
+    "prose": 4.0,
     "continuity": 0.0
   },
   "reasons": {
-    "reader_question": "Varun at the door with a warrant while the seal is newly hidden: clear and urgent. Naming the goat shed spends half the planned question.",
-    "change": "Knowledge shifts (Varun alive, dawn arrest) and power shifts (Meera now holds the seal and the mission).",
-    "romance_movement": "The handover is a new, costly trust act, sharpened by her held-back badge secret. Partly undercut by a narrated summary paragraph.",
-    "shown_chemistry": "Watching him not ask, the burlap crackling, her retying the hitch with his slack: responsive and specific.",
-    "character_logic": "The out-of-sight hiding is undone by naming the goat shed. Rohan, rope-bound, could deduce it, which hollows 'where I can't lie about it'.",
-    "stakes_and_cost": "Staying to dose risks Kiran, the seal and the Fair. Choosing the twenty-three over flight has a clear price.",
-    "prose": "Kunal's dialogue is strong. Garbled lines, a 'hissed' tag without a sibilant, a mouth-corner echo of ch23, and a summary paragraph that tells.",
-    "continuity": "'Four children' contradicts ch23's three. Meera cites the queen's blood in the wax before the ch30 reveal. 'Given it a keeper' contradicts ch11."
+    "reader_question": "Varun at the door at dawn, with the seal hidden and Rohan staying, is a sharp, specific question to carry out.",
+    "change": "Knowledge shifts (Varun alive, warrant, dawn), power shifts (Meera holds the seal), and the new doses change Ranu's count.",
+    "romance_movement": "The seal handover is new and earned: he trusts her with the mission. Her choosing to tell him past his promise is a fresh move.",
+    "shown_chemistry": "Watching him not ask, the softer double hitch, and 'shown by an expert' all show it through response. One paragraph explains it instead.",
+    "character_logic": "Meera's escape plan runs toward Garh Neshar, the road the riders use. Rohan never weighs the Fair against staying.",
+    "stakes_and_cost": "Staying risks arrest and the Fair, and the hidden seal is now on her. The mission cost is implied, never stated.",
+    "prose": "Mostly clean, specific and varied. 'Stomach turned over' and 'mouth had gone dry' are stock, and the deodar/pegs line is muddled.",
+    "continuity": "'Garh Neshar's two days with you on foot' contradicts F192, which gives a day and a half of road for Rohan."
   },
   "fixes": [
-    "Continuity: in 'Four children had learned it from him that morning', change to three children at midday, per ch23. In 'a queen's blood in the wax', cut the blood, which is S8 and not known until ch30. In 'given it a keeper once and taken it back', restate ch11 truly: she held it while he burned with fever and sewed it back unasked. Compress the 'She understood then' paragraph into that one corrected image.",
-    "Character logic and reader question: 'The hiding took her six minutes in the dark of the goat shed' names the place and spends the beat's out-question. Rohan can track the rope's direction anyway. Keep the location off the page. Have Rohan turn to the wall and shut his eyes and count aloud while she moves the full eight spans. Show her choosing among house, shed and woodpile without the reader learning which.",
-    "Prose: 'Twenty men could not cross the pass. Twenty men did not need to.' is muddled, because Garh Neshar is already in Neshar. Replace it with the lower road reopening behind the drift. Also fix 'He lost his stockings in the mud', which is garbled: use something concrete, such as 'He cannot stand at the woodpile without the wall'. Change 'Pinku,' she hissed to 'said' or 'whispered'. Vary 'Something happened at the corner of his mouth', which echoes ch23."
+    "At 'Garh Neshar's two days with you on foot', change to 'a day and a half' to match F192. Then repair the flight logic: Meera should propose the high back road away from the lower road the riders are digging out. Rohan should answer that she means to leave Kiran behind under the warrant either way, and that the twenty men will ride whichever road they take.",
+    "At 'She chose. It took less time than she wanted', the POV withholds a place she knows (contrived delay, scene checklist #9). Name the hiding place to the reader in one concrete line, for example inside the woodpile behind the goat shed. That turns the next chapter's search into dramatic irony rather than an artificial gap.",
+    "At 'Then we will do what is possible before they come', Rohan stays without weighing the seal mission (bible: the seal before anything). Add two lines in which he names what staying may cost: the Fair, and his writ. He should explain why hiding the seal keeps the mission alive past his arrest. The cost of the choice then becomes explicit and in character."
   ],
-  "reader_question": "What will Varun do now that he is at Nimmi's door with a warrant, and can the seal stay hidden from him?",
+  "reader_question": "When Varun's twenty men reach Nimmi's door at dawn, will Rohan stand or run, and will the seal Meera hid survive their search?",
   "techniques_landed": [
     1,
     7,
     20
   ],
-  "new_facts_assessment": "Pinku is necessary and in voice, and Kunal's gentleness with him lands. The nineteen clipped squares give C17 a usable form. The bell-marked sack is consistent with F032 and F174. Varun's crossing timing holds against F153 and F209. F219 matches F058. Three facts are on the page but unlisted: Ranu grain sacks carry the bell mark, Meera carries the badge in her coat, and the seal is hidden in the goat shed. The last one should be cut, not listed.",
+  "new_facts_assessment": "Bell mark on Ranu's grain sacks: consistent and useful evidence for ch28. Badge in Meera's coat: fits ch23's hand-on-coat, but the taking from Kiran needs a prior on-page beat. Hidden seal location: the POV knows it and the narration withholds it, which is a contrived gap.",
   "content_rule_violation": false,
   "failure_modes": [
-    "Narrated-only chemistry",
+    "Contrived delays",
     "Irrational behaviour to extend plot"
   ],
-  "average": 3.25,
+  "average": 3.5,
   "minimum": 0.0,
   "passed": false
 }
