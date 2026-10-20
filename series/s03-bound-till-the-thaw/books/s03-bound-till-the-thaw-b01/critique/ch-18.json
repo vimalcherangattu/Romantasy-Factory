@@ -1,0 +1,43 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 3.0,
+    "stakes_and_cost": 4.0,
+    "prose": 3.0,
+    "continuity": 0.0
+  },
+  "reasons": {
+    "reader_question": "The badge cut against Sunni's death leaves two sharp questions. Dramatic irony makes the badge itch harder.",
+    "change": "Meera now holds a secret against Rohan, a dead child on her own page, and a new tolerance for being witnessed.",
+    "romance_movement": "This is a new reason for closeness: he witnesses without rescuing, and she lets him. The badge silence opens a new fault line.",
+    "shown_chemistry": "The lamp held with his back turned, 'It is not the rope', and the palm on the floor are responsive care with no narration.",
+    "character_logic": "Meera is a compulsive counter, yet the triage numbers don't add up and she never notices. Sunni's dosing slot changes mid-scene.",
+    "stakes_and_cost": "Every name written costs someone. Withholding the badge from a bound warden is a free silence with a real price.",
+    "prose": "The 'cracked' echo appears six times. 'No lamp-oil in his hands' is nonsense. Some similes misfire ('shone like a field', 'rotten and delighted').",
+    "continuity": "Rohan walks a hundred paces to the well alone, breaking the eight-span rule. The sick count is given as both forty and forty-one."
+  },
+  "fixes": [
+    "Worldbuilding collapse. At 'He went down the path, filled them' and 'Two minutes. Within the length.', the well is 100 to 140 paces away, far past eight arm-spans, and nobody pays. Make Meera walk to the well with him each trip, costing her time between houses. Alternatively, let a village boy haul from the well while Rohan relays inside the span. Cut the 'within the length' line.",
+    "Irrational behaviour. At 'I make it eighteen courses' and 'Seventeen names with a course. Seventeen without', the sums fail: 12 packets at 2 courses makes 24, and 18 plus 17 is 35, not 40. Give an explicit road loss (packets split, damp) that leaves 18. Make the unlisted count 22. Use forty-one throughout. Keep Sunni at 'third water' in Nimmi's line too, not 'second water'.",
+    "Prose. 'it was true, because she had seen no lamp-oil in his hands' makes no sense. Replace it with the bond check: 'his fingertips stayed brown on the doorframe.' Then cut 'cracked' to two uses: keep Sunni's 'voice like a cracked cup' and the final laugh, and vary the rest ('split lips', 'his voice broke')."
+  ],
+  "reader_question": "Whose warden's badge is Kiran hiding from the man tied to his sister, and can Meera live with the count that killed Sunni?",
+  "techniques_landed": [
+    5,
+    13,
+    19,
+    9
+  ],
+  "new_facts_assessment": "Sunni and the named sick are necessary and well used. The dosing rules are needed but contradict the page's own arithmetic: 12 packets at 2 courses, less one pinch, makes about 23, not 18. The badge is consistent with the bible (Dilan's badge). The free-silence fact is good. The bell detail is consistent with F067. Meera knowing Rohan 'carried that rope in his coat' is unlisted; confirm she learned it on the page before ch18.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Worldbuilding collapse",
+    "Irrational behaviour to extend plot"
+  ],
+  "average": 3.25,
+  "minimum": 0.0,
+  "passed": false
+}
