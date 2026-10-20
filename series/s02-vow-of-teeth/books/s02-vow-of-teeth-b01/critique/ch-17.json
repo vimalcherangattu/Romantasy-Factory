@@ -4,37 +4,39 @@
     "change": 4.0,
     "romance_movement": 4.0,
     "shown_chemistry": 4.0,
-    "character_logic": 4.0,
+    "character_logic": 3.0,
     "stakes_and_cost": 4.0,
-    "prose": 4.0,
-    "continuity": 0.0
+    "prose": 3.0,
+    "continuity": 5.0
   },
   "reasons": {
-    "reader_question": "The beat's question lands clearly: Neela's count of 'my friend', the 'should anything befall' line and 'We'll see which, when he climbs' make Ittan a specific suspect. Ammu's call adds a second strong pull: what will Neela tell her tomorrow?",
-    "change": "Knowledge moves: three dot-and-split boxes, the Keeper's office holding one, Ittan breaking six years of habit by climbing himself. Relationship moves: 'We', the 'I won't answer that' term, and the knife given. Power also shifts, as she disarms herself to him.",
-    "romance_movement": "New reasons drive the change. He refuses to ask about the jackal so she can refuse him, and she chooses to give Ammu everything except the man. The knife gift is a fresh, costly act, not a replayed refusal. The 'chosen silence' beat is fully on the page.",
-    "shown_chemistry": "The chemistry is in responsive action. He supplies a true cover story before she asks, keeps his eyes on the beams by choice, and lets her hear his breath hitch. She hands him the knife hilt toward him, echoing his sword. One lapse: 'she had never learned how to be near a person's mouth without watching' tells desire rather than tying it to anything he does.",
-    "character_logic": "Both act smartly. She doubts his restraint as a hunter's trick and tests it. He shares his suspects but holds back the keepers' names, and he names his own blind spot about Muthu. Her gladness at his refusal about Asha is sharp, earned dramatic irony. Giving up her only blade is risky, but it is motivated as the point.",
-    "stakes_and_cost": "The costs are concrete and counted: three bare nights against the ache, the bare cup at the stone, and the watcher's log. Choosing what Ammu gets carries a real loyalty price for the next chapter.",
-    "prose": "The prose is clean, with no banned phrases, no AI tells and no em-dash excess. Sentences are short and readable, and the hitch and counting motifs pay off. Minor issues: 'In the old world' is an odd phrase, 'did not move' and 'hitch' cluster, and the 'second thing I'd mark. The first is the comfort' exchange is muddled.",
-    "continuity": "There are three conflicts. Neela has heard 'I won't answer that' from Devan before (ch14 supper, F373). The wedding-night shutters were on the latch with the bar unused (F300, F349), not barred. Later canon says Devan read Ittan's letter aloud 'one night' (F202), not in the afternoon by the west window. 'Seventeen nights' is also ambiguous between nights left and nights elapsed."
+    "reader_question": "The twelve 'my friend's and 'should anything befall the fort' make the Keeper a sharp, fair suspect. Ammu's call adds 'what will Neela tell her tomorrow'. Both questions are specific.",
+    "change": "Knowledge moves: three seal boxes, the Keeper's box, Sudhi, and Ittan climbing himself. The relationship moves: the knife is given, and she decides to hold Devan back from Ammu.",
+    "romance_movement": "The reason is new: he refuses to ask, gives her the right to say 'I won't answer that', and supplies a true lie. It ends with her disarming herself. This is genuinely new ground, not a replayed refusal.",
+    "shown_chemistry": "Strong responsive care: the hilt on her side, the never-moved knife, the hitch given on purpose, and the market cover offered before she asks. A slight overuse of the hitch weakens it by the end.",
+    "character_logic": "Devan is consistent. Neela plans to give Ammu, and so the guild, Devan's suspicion of the Keeper's own seal box. She does not weigh that the guild's client may sit on that council. A smart assassin would see that this is the most dangerous item on her list.",
+    "stakes_and_cost": "The resin ledger is priced clearly: bare cup, unhunted ridge, ache in a week. Devan's 'It's a term' costs him safety. What she tells Ammu is presented as costless when it isn't.",
+    "prose": "The dialogue is lean and good, the letter is well pastiched, and there are no banned phrases or AI tells. But the similes are stacked (coin in a cloth, stone to swallow, bitter seed, hook across a river, milk). The hitch is counted too often. The pronoun 'it slipped the latch' is confusing. The chapter likely runs about 3,300 words, over target.",
+    "continuity": "Consistent with the bible and the facts. The night count runs 18 to 17 to ch18's 16, the jackal call matches F074/F082, the grey wax matches F117, and the letter's timing fits the sealing in ch23. The wedding-night slat line sits uneasily beside F302 but can be reconciled."
   },
   "fixes": [
-    "Continuity: 'It was the first time she had heard the words in his mouth' contradicts ch14, where Neela hears Devan say 'I won't answer that' to Muthu at supper (F373). Change it to 'It was the first time he had said them to her', so the line keeps its weight without the conflict.",
-    "Continuity: 'Then it lifted the bar like somebody who had done it before' conflicts with F300 and F349. On the wedding night the shutters were held only by the iron latch and the bar hung unused; Devan barred them from the second dusk. Change 'lifted the bar' to 'slipped the latch'. Keep 'carefully, so the slat wouldn't ring', which fits the third slat.",
-    "Continuity: 'By noon the bag had been sorted. At the first clank after' places the letter reading in the afternoon by the west window, but F202 says Devan read it aloud 'one night'. Move the scene to lamplit evening: he waits for dusk, closes the door, and reads by the lamp with the rain dark behind him. Also list every new fact in new-facts.json, especially the knife gift, the dark-question terms (reconciled with F187) and the six-years-of-letters claim. Separately, clean up 'That's the second thing I'd mark. The first is the comfort.' so Neela names her two marks in order: his coming himself, then the comfort."
+    "At 'So she chose, there in the dark, what Ammu would get.': irrational behaviour. She lists 'The seal boxes. The Keeper's letter and his coming' as harmless truths. But a guild client bought this contract and may sit on that council, so telling the guild the warden suspects the Keeper's box is the most dangerous thing she could hand over. Add two or three lines where she sees this. Then either strike the Keeper's box from the list (a new choice that costs her Ammu's trust if found out) or keep it knowingly and name the risk. This makes 'all of it hers to spend' a decision, not an oversight.",
+    "At 'Then it slipped the latch like somebody who had done it before': the pronoun is unclear (woman or leopard) and the line sits uneasily with F302, where she pressed the third slat on purpose to test him. Rewrite in second person with her test acknowledged, e.g. 'You'd leaned on the slat once to see if I'd wake. Then you slipped the latch so it wouldn't ring.' Also change 'It had simply grown there on the second night' to 'the second night after he told her'. That stops it reading as dark-talk since the wedding.",
+    "Trim about 400 words for length and prose. Cut the simile stack to two: keep 'like a coin in a cloth'; drop 'like a stone she could swallow or spit', 'like a bitter seed', 'like a hook thrown across a river' and 'lay on the boards like milk'. Cut at least two of the six hitch mentions, especially 'Across the dark the hitch came... She counted it. It came again.', so the final 'The hitch stopped' lands. Make the closing 'hands empty for the first time since she was six' concrete, or cut it to end on his silence."
   ],
-  "reader_question": "Is the genial Keeper who counts 'my friend' twelve times and is climbing to seal the pass himself a friend, or the hand that bought Devan's death?",
+  "reader_question": "Is the genial Keeper who counts 'my friend' twelve times and asks after the bride a friend, or the hand that bought the knife, and what will Neela give Ammu when she comes tomorrow?",
   "techniques_landed": [
-    14,
     4,
+    9,
     10,
-    9
+    14
   ],
-  "new_facts_assessment": "new-facts.json is empty, but the draft adds several facts. These include Biscuit and Appu (F146), Devan knowing about the knife (F147), the Keeper's office holding a seal box (F148), Ittan's six years of letters and the clerk custom (F149), the 'other one' disclosure (F150), and the Parukutty cover (F151). It also adds facts not yet recorded: Neela gives her guild knife to Devan, hilt toward him; Neela has never said 'the other one' aloud even to Ammu; Devan was 'afraid for about a breath' on the first night; and 'the dark rule' of plain questions from the second night. All are useful and mostly consistent. The knife gift needs tracking against later chapters where she may still carry a blade. The dark-question terms overlap with the ch21 question-game rule (F187: one 'I won't answer' in total) and should be reconciled, or ch21 framed as formalising them. 'Six years' of letters predates Devan's five years as warden (F391); this works only if Ittan wrote to him as Asha's brother, and the draft should make that plain or say five.",
+  "new_facts_assessment": "Knife gift (F399): necessary and the chapter's strongest beat, but it slightly overshoots the beat's 'something she doesn't have'. It must be tracked in every later armed scene. Dark rule 'begins on the second night' (F400): the wording is ambiguous. On the page it can read as the second night of the marriage, which conflicts with chs 1 to 14, where she believed him asleep. Anchor it to the second night after the reveal. Ittan writing every season since the winter Asha died (F401): an excellent fair clue, consistent with F149 and F201. Devan's wedding-night fear (F402): good disclosure, but 'slipped the latch so the slat wouldn't ring' should not contradict F302 (she pressed the slat on purpose to test it). Make it clear she tested first, then opened quietly. Kodiyur high court (F403): consistent with Devan's restraint and with book 2's court goal. Withheld keeper names and full trust of Muthu (F404): fine as a starting point for the F383/F217 turn in chs 23 to 24. 'Stood at my back for eight years' undersells the boyhood friendship but does not conflict. Neela's choice of what to tell Ammu (F405): plot-useful, but its risk to Devan goes unexamined. Appu (another nine-year-old) is harmless but adds to a crowd of nine-year-olds.",
   "content_rule_violation": false,
-  "failure_modes": [],
-  "average": 3.5,
-  "minimum": 0.0,
-  "passed": false
+  "failure_modes": [
+    "Irrational behaviour to extend plot"
+  ],
+  "average": 3.88,
+  "minimum": 3.0,
+  "passed": true
 }
