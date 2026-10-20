@@ -1,0 +1,41 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 3.0,
+    "stakes_and_cost": 4.0,
+    "prose": 4.0,
+    "continuity": 0.0
+  },
+  "reasons": {
+    "reader_question": "Dawn execution under a charter clause, with the escort already at the block, makes the next chapter necessary. The garrison-mutiny half is only implied.",
+    "change": "The witness is lost, Muthu is suspected but kept, and the writ is withheld. Power moves from Devan to Rema.",
+    "romance_movement": "A new reason: Devan stops himself saying 'I'll decide it' and asks what she wants. They choose a shared legal risk as equals.",
+    "shown_chemistry": "He tells her about Ittan before she asks, she jokes about Rema's guards, and the contract handshake lingers. Shown in action, not narrated.",
+    "character_logic": "The chamber debate ignores the grey-sealed packet already locked in the hall strongbox, the obvious evidence for their argument.",
+    "stakes_and_cost": "Withholding the writ breaks the charter Devan is proud of, and Neela shares the risk as witness. The cost is clearly priced.",
+    "prose": "Clean and concrete, with good lines ('a good face for being afraid in'). There are blips: 'wet, and dry-eyed, both at once' and some hand-beat repetition.",
+    "continuity": "'In four days he had lost' conflicts: Ittan has been held since sealing day. 'God, you would' conflicts with the bible's no-deities setting."
+  },
+  "fixes": [
+    "'In four days he had lost something from the cheeks': continuity error. Ittan has been held since sealing day, through nine days of rain. Change it to 'Since the sealing he had lost'. Also, 'God, you would': the bible has no deities. Replace it with an oath native to Varanad, such as 'Salt and pepper, you would', or cut the exclamation.",
+    "The chamber argument ('Muthu is the guild's man'): this is a character-logic gap. The grey-sealed packet sits unopened in the hall strongbox (F433), and neither of them mentions it. Add two lines in which Neela asks why they don't break the wax, and Devan names the cost: Muthu learns he is read the day before the hearing, and the gate goes with him. The packet stays shut, and the debate becomes a choice.",
+    "'Sixty of us, and they walked past us': the reader question is under-delivered. Unni should ask, 'Do we stop them, sir?' Devan's silence then makes the mutiny cost explicit, matching the beat's question. Also replace 'They were wet, and dry-eyed, both at once', which contradicts itself, with a concrete image."
+  ],
+  "reader_question": "Can Devan stop Rema's dawn execution of Ittan when the queen's sash has already walked past his own garrison?",
+  "techniques_landed": [
+    4,
+    15,
+    13
+  ],
+  "new_facts_assessment": "The brown jar matches F445 and is needed. The timeline fits F457 and the end of ch 3. The charter clause and stand-down are needed for the ending. In F470, 'carried out before dawn' slightly conflicts with F288/F433 (first light). The green sash detail is new and unlisted; log it.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Irrational behaviour to extend plot"
+  ],
+  "average": 3.38,
+  "minimum": 0.0,
+  "passed": false
+}
