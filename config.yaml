@@ -28,7 +28,7 @@ quality:
   pass_average: 3.5
   pass_minimum: 3
   max_revisions: 2                 # then the chapter is marked needs-owner
-  continuity_rounds: 3             # automatic S7 fix rounds while errors keep falling
+  continuity_rounds: 4             # automatic S7 fix rounds while errors keep falling
   criteria:
     - reader_question
     - change
