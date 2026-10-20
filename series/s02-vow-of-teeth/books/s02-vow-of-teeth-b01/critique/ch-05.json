@@ -4,38 +4,38 @@
     "change": 4.0,
     "romance_movement": 4.0,
     "shown_chemistry": 3.0,
-    "character_logic": 4.0,
+    "character_logic": 3.0,
     "stakes_and_cost": 4.0,
     "prose": 4.0,
     "continuity": 5.0
   },
   "reasons": {
-    "reader_question": "The ending asks a clear question. Devan has cleared the only eye on the ledge, so has he made himself her prey? It sharpens the beat's 'protect her or trap her' question, but the last image is a routine exit, so the question has less pull than it could.",
-    "change": "His knowledge changes: her cover deflects every personal question, the scars mean a childhood in the guild, and she has a will of her own. Power changes too: he gives up the wall above his window and his own safety.",
-    "romance_movement": "The value shift lands for a new, specific reason. She tears trousseau cloth for a goat-boy and knows his mother's name, which echoes Asha's slate. He goes from 'the thing that had been sent' to 'a person'.",
-    "shown_chemistry": "The terrace exchange of questions for questions is good sparring, and 'the first time all morning she had sounded like herself' is a sharp responsive observation. But the page shows no bodily or personal desire. It shows suspicion and dawning respect only.",
-    "character_logic": "Devan's choice not to stop Janu's story, and his witness-rule reason for pulling the sentry, are smart and in character. The weak spot is Neela: a guild-trained liar volunteers 'a childhood burn' here, and the record has her telling the same man 'a fall from a cart' a week later.",
-    "stakes_and_cost": "Pulling the sentry costs a guard on the wall nearest the ford raids. It plants a question in Muthu, the queen's informant. It also leaves Devan alone with an assassin and no witness. The cold thought at the end names that cost.",
-    "prose": "The prose is clean of banned phrases and AI tells, uses few em dashes, and has strong concrete detail (berry sinkers, wet sacks and cloves). There are clunks: the inverted 'Her breaths he counted until she slept', the echo of 'come back shaking' and 'come to the bed shaking' in the first lines, and a tangled paragraph about what Muthu knows.",
-    "continuity": "The chapter is consistent with ch4's dawn (F308, F309), the sentry placed above the window (F052, F065, F314), the bar left for her to lift, the classroom resin at twenty (F041), Asha's slate (F063), Janu finding the body (F066), the hilt toward her (F038) and Kannan's age. Janu's stories are held for ch9, which follows the secret map."
+    "reader_question": "The ending makes the cost of an empty rampart concrete: no shout and no witness if she turns toward the bed.",
+    "change": "His knowledge grows: her cover deflects, the scars mean childhood use, and she has a will. He also clears the wall above his window.",
+    "romance_movement": "The value shift from instrument to person lands for a new reason: the torn trousseau cloth echoes Asha's slate.",
+    "shown_chemistry": "Devan's care shows in restraint. Neela gets little responsive exchange with him, and the terrace volley is the only real duet.",
+    "character_logic": "Letting the leopard story run is smart. His 'plain reason' for pulling the sentry doesn't follow, because paw-marks don't depend on the sentry.",
+    "stakes_and_cost": "He trades his own safety for her freedom from witnesses, sees the risk too late, and refuses to spare her the story.",
+    "prose": "Clean and concrete, with no banned phrases. Echoed knuckle images (Muthu pale, Neela white) and an opening that recaps chapter 4 at length.",
+    "continuity": "Consistent with chapter 4's ending, F309/F350/F351, the order of protections and Janu's stories stopping in chapter 9."
   },
   "fixes": [
-    "At '\"A childhood burn,\" she said, lightly. \"I was clumsy.\"' (Irrational behaviour, continuity risk): a trained liar does not use two different stories for the same scars with the same man. F200 has her say 'a fall from a cart' in the second week. Change the line to '\"A fall from a cart,\" she said, lightly. \"I was small, and clumsy.\"' Keep Devan's 'It was no child's fall'. Update F311 so the ch22 back-reference reads as her repeating this lie when he asks.",
-    "At 'Then one day there had been a captain on his knees with his hands open' (Contrived delays in reverse, an early spend of a planted secret): this gives away the core image of the ch21 disclosure ladder, the kneeling, surrendering captain. The next paragraph ('Muthu had been there. He knew what had happened. He had never been told...') is tangled. Cut it to 'Then there had been the ford, and one strike, and a silence.' Rewrite the next paragraph as: 'Muthu had been at the ford. He had seen what Devan's hand did. He had never seen what it did to Devan, and Devan meant to keep it that way.'",
-    "At 'Soft as a dropped cloth, her weight landed on the ledge.' (weak chapter-ending hook): she does this every night, so the last image repeats action instead of interrupting it. Keep the cold thought. Then add one story-caused beat specific to tonight: her weight comes onto the ledge and stops. No resin scent yet, no claws on stone. She stays crouched in the open window and listens to the bare rampart above her, and he understands she has noticed that the sentry is gone. End on her stillness, which leaves 'what will she do with the gap he made?' open. This fits F079, where she later 'no longer calls it luck'."
+    "At \"His first reason was a plain one. Whoever had sent her\": character logic. Reading paw-marks by the trough works with or without a sentry, so the reason doesn't explain the order. Replace it with a reason tied to the sentry. A lantern and a shout would drive her to ground or change her route. With the wall bare she runs her true road to her master, and he reads it at dawn.",
+    "At \"Devan stood with the water pot in his hand\": shown chemistry is one-sided. Neela acts but never responds to him. Add one beat before he leaves where she registers his stillness and does something specific. She might hold the torn strip out to him to tie off, or ask if the goat bit him too. He refuses, and that turns his exit into an exchange she can read wrongly.",
+    "At \"Soft as a dropped cloth, her weight landed\": the final line repeats her nightly exit, so the new fear goes unanswered on the page. Before she drops, have her stop on the ledge facing in for a count he can measure. That gives a breath where she could turn toward the bed. End on her going, so his cold thought becomes the reader's uncertainty."
   ],
-  "reader_question": "By pulling the one sentry who could see the ledge, has Devan just cleared the way for the woman he's protecting to kill him?",
+  "reader_question": "Now that Devan has stripped the wall above his window to keep her unwitnessed, will his silence protect Neela or leave him open to her claws?",
   "techniques_landed": [
     13,
     25,
     1
   ],
-  "new_facts_assessment": "F350 (she turns back in the yard and comes up the stair door wrapped in a stable saddle-blanket) is necessary. It follows from ch4's ending and F309, and with the hounds kennelled it is plausible. F351 is also necessary and consistent. Tracking her by paw-marks gives his stated motive ('watch who she reports to') a practical method, and the 'truer reason' applies Rule 2 correctly, setting up F278 and F344. Retiring F064 is correct, because it has him leave the bar against the wall, which contradicts F065, F314 and this chapter. Trimming F310's 'inner wrist only' is correct, because F014 puts scars at the throat as well. One flag: F311 ('a childhood burn' as her first lie) gives Neela two different cover stories for the same scars to the same man within a week (see F200). Either align the lie or note in F200 that he catches the discrepancy.",
+  "new_facts_assessment": "The draft's new-facts list is empty, but the chapter adds Kunjan Chirayil, Bindu, two years at border school, the dead father, Asha's slate, Muthu as old partner and the saddle-blanket. All are consistent and useful, and continuity already holds them (F060-F069, F309-F313, F350-F351). The empty list is a process miss.",
   "content_rule_violation": false,
   "failure_modes": [
     "Irrational behaviour to extend plot"
   ],
-  "average": 4.0,
+  "average": 3.88,
   "minimum": 3.0,
   "passed": true
 }
