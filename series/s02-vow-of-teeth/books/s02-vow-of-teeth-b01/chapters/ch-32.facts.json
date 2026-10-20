@@ -1,19 +1,18 @@
 {
   "facts": [
     {
-      "category": "knowledge",
-      "fact": "Ittan tells Devan through the guardroom grille that Muthu came at first light with a letter for the south. Devan took the grey-wax packet out unopened and locked it in the hall strongbox (key on his cord), because breaking the seal would tell Muthu he is read. It is still there nine days into the rains, and Neela decides to leave the wax whole.",
-      "since": "s02-vow-of-teeth-b01 ch 32"
+      "id": "F297r",
+      "category": "plot",
+      "fact": "Revises F297: after Muthu came out of the guardroom with the grey-sealed packet, Devan took it from his hand openly, in front of Bhaskaran and the yard, to lock it in the hall strongbox with the rest of the post for the spring rider. Muthu shrugged it off as routine. The wax stayed unbroken and Muthu believes his letters are unread. Ittan at the grille said only 'You've no idea whose hand I am, my friend' and then fell silent, the price of Neela's choice to wait an hour (ch 31).",
+      "since": "s02-vow-of-teeth-b01 ch 32",
+      "provisional": true
     },
     {
+      "id": "F299r",
       "category": "knowledge",
-      "fact": "Corrects F295: Neela and Devan hide the oilcloth bundle in a hollow in the shutter frame behind the housing of the third slat in the warden's chamber, not under a floor slat, telling neither Muthu nor the clerk.",
-      "since": "s02-vow-of-teeth-b01 ch 32"
-    },
-    {
-      "category": "knowledge",
-      "fact": "Seven weeks before the wedding Devan wrote to the council that the raiders' tallies carried true wax and asked to see every seal register. The queen sealed the payment writ in response, before he had any suspect.",
-      "since": "s02-vow-of-teeth-b01 ch 32"
+      "fact": "Revises F299: seven weeks before the wedding Devan wrote to the council that the raiders' tallies carried true wax and asked to see every seal register. He realises now that those registers lead to Ittan's box, and the queen sealed the payment writ as he closed on Ittan.",
+      "since": "s02-vow-of-teeth-b01 ch 32",
+      "provisional": true
     }
   ]
 }
