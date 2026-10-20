@@ -1,18 +1,18 @@
 {
   "facts": [
     {
-      "category": "object",
-      "fact": "Ranu's grain sacks carry the regent's brass-bell store mark, the same as the redbark sack.",
+      "category": "place",
+      "fact": "Meera hides the seal in the third stack of the woodpile behind Nimmi's goat shed, in a gap between two deodar rounds covered with loose bark and a walnut billet. The reader is shown this; Rohan is not told.",
       "since": "ch 24"
     },
     {
-      "category": "object",
-      "fact": "Meera carries Dilan's brass warden badge (taken from Kiran) in her coat, pressed under her left hand; Rohan has not been told.",
+      "category": "place",
+      "fact": "A high goat track over the shoulder above the walnut terraces runs to Garh Neshar, well away from the lower road; Meera proposes it and Rohan declines to flee by it.",
       "since": "ch 24"
     },
     {
-      "category": "object",
-      "fact": "Meera hides the seal out of Rohan's sight while he faces the wall and counts aloud to about 160; the hiding place is deliberately not shown (house, shed or woodpile within the rope's eight spans).",
+      "category": "knowledge",
+      "fact": "Rohan names the cost of staying: he may miss the Fair and lose his writ to the warrant, but a hidden seal outlives his arrest.",
       "since": "ch 24"
     }
   ]
