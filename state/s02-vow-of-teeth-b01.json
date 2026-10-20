@@ -664,7 +664,7 @@
       }
     },
     "21": {
-      "status": "passed",
+      "status": "edited",
       "revisions": 1,
       "scores": {
         "reader_question": 4.0,
@@ -678,11 +678,22 @@
       },
       "average": 4.12,
       "flags": [],
-      "words": 2757,
+      "words": 2755,
       "minimum": 3.0,
       "continuity_fixes": [
         "Devan names the story that made him stop Janu as 'the one about the leopard that waits at the foot of the bed'. The story he stopped in ch 9 was the man-eater of the pass. Devan never lies. FIX: In ch 21, change it to 'the one about the man-eater of the pass that left a man's sandals on the road'."
-      ]
+      ],
+      "style": {
+        "words": 2755,
+        "banned_hits": {},
+        "ai_tell_hits": {},
+        "ai_tells_per_1000": 0.0,
+        "top_4gram": "why won't you spar",
+        "top_4gram_count": 2,
+        "longest_paragraph_words": 115,
+        "em_dashes_per_1000": 0.73,
+        "reading_ease": 93.7
+      }
     },
     "22": {
       "status": "passed",
@@ -1980,9 +1991,13 @@
     {
       "at": "2026-10-20T07:58:14",
       "event": "done: S8 line edit ch 20"
+    },
+    {
+      "at": "2026-10-20T07:58:54",
+      "event": "done: S8 line edit ch 21"
     }
   ],
-  "updated_at": "2026-10-20T07:58:14",
+  "updated_at": "2026-10-20T07:58:54",
   "midpoint_chapter": 16,
   "continuity_attempts": 3,
   "continuity_last_errors": 2
