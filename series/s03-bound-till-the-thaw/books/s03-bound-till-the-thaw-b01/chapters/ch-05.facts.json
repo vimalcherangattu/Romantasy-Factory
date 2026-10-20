@@ -1,0 +1,24 @@
+{
+  "facts": [
+    {
+      "category": "object",
+      "fact": "The shelf at the waystone hides a cache of old dried dung cakes under the lowest slab, left by goat-crews for the next crossers; an unwritten mountain custom Meera knows.",
+      "why": "needed because the beat calls for a dung fire and the pack goats and fuel are lost."
+    },
+    {
+      "category": "knowledge",
+      "fact": "Meera has carried two hundred and six people across the pass, not counting salt, and has written each in her ledger; she tells Rohan this number in the question trade.",
+      "why": "needed because the question trade needs a true answer that costs her as evidence."
+    },
+    {
+      "category": "place",
+      "fact": "The Shilak Cairn's two-hands-and-rope carving is also on the waystone's east face, worn smooth.",
+      "why": "needed because the beat places the carving on the waystone."
+    },
+    {
+      "category": "relationship",
+      "fact": "Meera and Kiran, as children, once played at the end of a rope and felt the rope's cold; their mother screamed.",
+      "why": "gives Meera a prior memory of the distance cold."
+    }
+  ]
+}
