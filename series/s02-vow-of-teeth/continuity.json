@@ -3121,6 +3121,41 @@
       "fact": "Ittan's tally-book margin shorthand is copied from Resin House receipts, so Neela can read the counts and payments but not the masters' name marks.",
       "since": "s02-vow-of-teeth-b02 ch 1",
       "provisional": true
+    },
+    {
+      "id": "F453",
+      "category": "object",
+      "fact": "The queen's warrant for Ittan bears the same green sunbird seal as the payment writ, including the chip at the left wing tip. Devan notices and says nothing.",
+      "since": "s02-vow-of-teeth-b02 ch 2",
+      "provisional": true
+    },
+    {
+      "id": "F454",
+      "category": "name",
+      "fact": "The escort are called First, Second, Third and Fourth Guard. First Guard is a woman about Devan's age with a pale finger-long ridge on the inside of her left wrist.",
+      "since": "s02-vow-of-teeth-b02 ch 2",
+      "provisional": true
+    },
+    {
+      "id": "F455",
+      "category": "knowledge",
+      "fact": "Bhaskaran's horn code: one long note and two short means unarmed strangers at the gate, not many.",
+      "since": "s02-vow-of-teeth-b02 ch 2",
+      "provisional": true
+    },
+    {
+      "id": "F456",
+      "category": "place",
+      "fact": "Rema takes the warden's chair in the hall. Janu quarters the escort in the south range. Rema's First Guard stands at Ittan's guardroom door beside Bhaskaran's men.",
+      "since": "s02-vow-of-teeth-b02 ch 2",
+      "provisional": true
+    },
+    {
+      "id": "F457",
+      "category": "knowledge",
+      "fact": "Rema grants an assize at Kettamala in three days, with Ittan heard as witness; she decides afterwards whether she carries out a traitor, a witness or no one.",
+      "since": "s02-vow-of-teeth-b02 ch 2",
+      "provisional": true
     }
   ],
   "knowledge": [

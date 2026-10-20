@@ -1,0 +1,29 @@
+{
+  "facts": [
+    {
+      "category": "object",
+      "fact": "The queen's warrant for Ittan bears the same green sunbird seal as the payment writ, including the chip at the left wing tip. Devan notices and says nothing.",
+      "why": "needed because it ties the crown's justice to the queen's seal and raises Devan's wariness without adding a plot fact."
+    },
+    {
+      "category": "name",
+      "fact": "The escort are called First, Second, Third and Fourth Guard. First Guard is a woman about Devan's age with a pale finger-long ridge on the inside of her left wrist.",
+      "why": "needed because the beat requires a First Guard whose cuff shows a scar Devan reads as a lamp-burn."
+    },
+    {
+      "category": "knowledge",
+      "fact": "Bhaskaran's horn code: one long note and two short means unarmed strangers at the gate, not many.",
+      "why": "needed because the beat opens on Bhaskaran's horn."
+    },
+    {
+      "category": "place",
+      "fact": "Rema takes the warden's chair in the hall. Janu quarters the escort in the south range. Rema's First Guard stands at Ittan's guardroom door beside Bhaskaran's men.",
+      "why": "needed because Devan must be outranked inside his own fort."
+    },
+    {
+      "category": "knowledge",
+      "fact": "Rema grants an assize at Kettamala in three days, with Ittan heard as witness; she decides afterwards whether she carries out a traitor, a witness or no one.",
+      "why": "needed because the beat requires Rema to grant a hearing in three days."
+    }
+  ]
+}
