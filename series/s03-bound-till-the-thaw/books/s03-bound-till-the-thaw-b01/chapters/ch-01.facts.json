@@ -1,0 +1,39 @@
+{
+  "facts": [
+    {
+      "category": "name",
+      "fact": "Roop and Chand are the last crew pair to cross back from Ranu, bound to each other until the thaw. Roop carries Kiran's note.",
+      "why": "needed because the outline calls for 'the last crew pair to cross back' to deliver the note, and they need names to speak."
+    },
+    {
+      "category": "name",
+      "fact": "Jassi names his pack goats Pomegranate, Auntie, Sheriff, Magistrate and Judge.",
+      "why": "needed because the outline has Jassi naming every goat."
+    },
+    {
+      "category": "knowledge",
+      "fact": "Wardens make a sweep of Kothi Shilak every tenth day, so Meera expected a patrol on the day Rohan arrives.",
+      "why": "needed to give Meera's goal (leave before the wardens arrive) a reason to be on a deadline."
+    },
+    {
+      "category": "object",
+      "fact": "The brass button left as the token for the next drop is small, domed, plain and brand new with a stiff shank. The next courier is to carry its twin, and without the twin no crate is released.",
+      "why": "needed to define the C21 token concretely so the later match to Varun's new coat button (ch 2) is fair."
+    },
+    {
+      "category": "knowledge",
+      "fact": "Kiran's note gives Nimmi's tally as forty-one sick, nine of them under ten, and six buried.",
+      "why": "needed because the outline calls for Nimmi's tally of the sick."
+    },
+    {
+      "category": "object",
+      "fact": "The Closing Law notice is nailed to the left gatepost of Kothi Shilak, and the hanging tree is a deodar just outside the gate with one peg hammered into the trunk per hanging. Two pegs are pale from last winter.",
+      "why": "needed for the gate scene with the notice and the hanging tree."
+    },
+    {
+      "category": "relationship",
+      "fact": "Meera, with Bindu's help, hides the redbark in the middle of one of Bindu's raw wool bales. They have rehearsed this for four winters.",
+      "why": "needed because the outline has Meera hide the redbark in Bindu's wool bales."
+    }
+  ]
+}

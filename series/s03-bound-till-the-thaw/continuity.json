@@ -287,6 +287,55 @@
       "category": "object",
       "fact": "The queen's seal wax is mixed with her own blood, proof she sealed it herself.",
       "since": "bible"
+    },
+    {
+      "id": "F049",
+      "category": "name",
+      "fact": "Roop and Chand are the last crew pair to cross back from Ranu, bound to each other until the thaw. Roop carries Kiran's note.",
+      "since": "s03-bound-till-the-thaw-b01 ch 1",
+      "provisional": true
+    },
+    {
+      "id": "F050",
+      "category": "name",
+      "fact": "Jassi names his pack goats Pomegranate, Auntie, Sheriff, Magistrate and Judge.",
+      "since": "s03-bound-till-the-thaw-b01 ch 1",
+      "provisional": true
+    },
+    {
+      "id": "F051",
+      "category": "knowledge",
+      "fact": "Wardens make a sweep of Kothi Shilak every tenth day, so Meera expected a patrol on the day Rohan arrives.",
+      "since": "s03-bound-till-the-thaw-b01 ch 1",
+      "provisional": true
+    },
+    {
+      "id": "F052",
+      "category": "object",
+      "fact": "The brass button left as the token for the next drop is small, domed, plain and brand new with a stiff shank. The next courier is to carry its twin, and without the twin no crate is released.",
+      "since": "s03-bound-till-the-thaw-b01 ch 1",
+      "provisional": true
+    },
+    {
+      "id": "F053",
+      "category": "knowledge",
+      "fact": "Kiran's note gives Nimmi's tally as forty-one sick, nine of them under ten, and six buried.",
+      "since": "s03-bound-till-the-thaw-b01 ch 1",
+      "provisional": true
+    },
+    {
+      "id": "F054",
+      "category": "object",
+      "fact": "The Closing Law notice is nailed to the left gatepost of Kothi Shilak, and the hanging tree is a deodar just outside the gate with one peg hammered into the trunk per hanging. Two pegs are pale from last winter.",
+      "since": "s03-bound-till-the-thaw-b01 ch 1",
+      "provisional": true
+    },
+    {
+      "id": "F055",
+      "category": "relationship",
+      "fact": "Meera, with Bindu's help, hides the redbark in the middle of one of Bindu's raw wool bales. They have rehearsed this for four winters.",
+      "since": "s03-bound-till-the-thaw-b01 ch 1",
+      "provisional": true
     }
   ],
   "knowledge": [
