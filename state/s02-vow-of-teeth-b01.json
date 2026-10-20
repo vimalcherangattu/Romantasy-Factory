@@ -461,7 +461,7 @@
       ]
     },
     "22": {
-      "status": "continuity-fix",
+      "status": "revised",
       "revisions": 1,
       "scores": {
         "reader_question": 4.0,
@@ -475,7 +475,7 @@
       },
       "average": 4.38,
       "flags": [],
-      "words": 2745,
+      "words": 2799,
       "minimum": 3.0,
       "continuity_fixes": [
         "Ammu says the watcher logs a night with no fresh scent-posts as refusal, and that a second gap back to back with the rain night is the one Chathu would act on. But ch 16 to 18 already had three consecutive bare nights (ch 17 'three nights'; Ammu in ch 18: 'Three nights, the cup was bare'). Under the same rule those would have been logged, and the book gives no cover and no consequence for them. FIX: In ch 22, add to Ammu's lines: 'Your three bare nights last week already went down. That's why he sent the sweets. Another run of gaps on top of the rain night is the one he'd act on.'",
@@ -1592,9 +1592,13 @@
     {
       "at": "2026-10-20T01:15:43",
       "event": "done: S5 critique ch 17"
+    },
+    {
+      "at": "2026-10-20T01:16:29",
+      "event": "done: S6 revise ch 22"
     }
   ],
-  "updated_at": "2026-10-20T01:15:43",
+  "updated_at": "2026-10-20T01:16:29",
   "midpoint_chapter": 16,
   "continuity_attempts": 3,
   "continuity_last_errors": 9
