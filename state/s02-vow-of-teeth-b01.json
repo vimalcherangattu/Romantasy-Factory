@@ -892,7 +892,7 @@
       }
     },
     "28": {
-      "status": "passed",
+      "status": "edited",
       "revisions": 2,
       "scores": {
         "reader_question": 4.0,
@@ -908,12 +908,23 @@
       "flags": [
         "needs-owner"
       ],
-      "words": 3089,
+      "words": 3088,
       "minimum": 4.0,
       "continuity_fixes": [
         "Neela is 'on the wall by the cistern housing, where the sentry used to stand'. The cistern housing is on the east rampart (ch 19), but the pulled sentry walked the west rampart above the warden's window (ch 5). FIX: In ch 28, change it to 'on the west rampart above the chamber window, where the sentry used to stand'.",
         "Ammu's Valli cloth and resin pouch are found in the roots of the tree where she died, 'cached there before dusk'. In ch 26 to 27, though, Ammu is in the kennel and yard with Neela right up to sunset, and she turns on the cook-house roof. She had no time to reach the tree line before dusk. FIX: In ch 28, change 'She had cached it there before dusk' to 'Muthu had found it at the cook-house corner, where she had shed it, and laid it at the tree.'"
-      ]
+      ],
+      "style": {
+        "words": 3088,
+        "banned_hits": {},
+        "ai_tell_hits": {},
+        "ai_tells_per_1000": 0.0,
+        "top_4gram": "at the cook house",
+        "top_4gram_count": 2,
+        "longest_paragraph_words": 121,
+        "em_dashes_per_1000": 0.0,
+        "reading_ease": 94.3
+      }
     },
     "29": {
       "status": "passed",
@@ -2085,9 +2096,13 @@
     {
       "at": "2026-10-20T08:02:18",
       "event": "done: S8 line edit ch 27"
+    },
+    {
+      "at": "2026-10-20T08:02:55",
+      "event": "done: S8 line edit ch 28"
     }
   ],
-  "updated_at": "2026-10-20T08:02:18",
+  "updated_at": "2026-10-20T08:02:55",
   "midpoint_chapter": 16,
   "continuity_attempts": 3,
   "continuity_last_errors": 2
