@@ -4,36 +4,36 @@
     "change": 4.0,
     "romance_movement": 4.0,
     "shown_chemistry": 4.0,
-    "character_logic": 3.0,
-    "stakes_and_cost": 3.0,
+    "character_logic": 4.0,
+    "stakes_and_cost": 4.0,
     "prose": 4.0,
     "continuity": 0.0
   },
   "reasons": {
-    "reader_question": "The ending gives the reader two concrete things to carry: Neela's unknown noon words, which Muthu will write north, and the guardroom lamp where Ittan waits to be asked. The beat's abstract question ('what does a vow mean when nothing is hidden') sits under them but is not posed on the page.",
-    "change": "The state change is clear. The barred shutters stand open, the contract is told, both declare love, and she, not the council, proposes a daylight marriage. Allies become lovers choosing with knowledge.",
-    "romance_movement": "The reason for movement is new: full disclosure answered by his answering disclosures, then a request she could not take by force. The 'full knowledge' claim is undercut slightly because the scope of 'all of it' is never marked.",
-    "shown_chemistry": "Chemistry lands through responsive action: the tooth pricking his thumb and welting hers, 'Six' answered with 'Six', the kiss that makes him wince and bleed on both of them, the forehead lean. Little of it is narrated.",
-    "character_logic": "Devan's claim that he knew he could trust her on day eleven, at the kalari, sits badly with him offering a coercive silence-for-a-name bargain at the storm (ch15). He does not acknowledge the gap, though he is a man who never lies to her.",
-    "stakes_and_cost": "The cost of the noon vow is named, since Muthu will put her words in a grey-sealed letter after twenty years unwritten. It stays abstract and deferred four months, so the chapter's only near-term cost is the skipped resin and her nails.",
-    "prose": "The prose is clean and concrete, with no banned phrases, AI-tell counts within limits and few em dashes. Faults: 'She did not...' recurs as a tic, a few aphorisms read as manufactured ('There was no weight in it, and that was the weight'; 'like a man handed a gift he had not known could be given'), and literal Devan misquotes Ittan ('Ittan asked whose hand he was' when Ittan stated it).",
-    "continuity": "Devan says the first-night shutters were 'Shut on the latch and never barred, as my father kept them.' F102 says his father kept them open every night it did not storm (a room should breathe), and F121 repeats that rule. The new fact F349 inherits the conflict."
+    "reader_question": "The noon vow and the lit guardroom window leave a sharp question: what will she say before Muthu, and what does Ittan know that will be asked of him? It is clearer than the beat's abstract 'what does a vow mean'.",
+    "change": "Knowledge moves both ways. He learns the full twelfth contract and its terms. She learns why the shutters were barred and when he stopped being wary. The relationship moves from allies to declared lovers with a proposal on the table.",
+    "romance_movement": "The declaration is new and earned. His 'I don't say a thing I haven't measured' ties it to his never-lie rule. The proposal adds her choice. It is somewhat expected at ch30, which caps it at 4.",
+    "shown_chemistry": "Strong responsive details carry it: 'Six' / 'Six', the pebble, the tooth-prick welt, 'Sit still. You're bleeding on both of us.' A few lines still narrate trust instead of showing it.",
+    "character_logic": "She leaves the shutters open and he answers with exact facts. His correction that knowing she wouldn't kill him is not trusting her with the name is smart and in character. Her deliberate public vow before a known informant is reasoned on the page.",
+    "stakes_and_cost": "The remarriage has a named price. Muthu's grey letter will carry her own words south, on top of her name already sitting on a crown writ. She accepts it knowingly. The resin-night cost also looms for tomorrow.",
+    "prose": "Clean, concrete, with good sentence rhythm and no banned phrases. There are minor echoes: 'He did not look away' appears twice, and two 'as he would have reported' constructions. A few narrated-belief lines appear in the declaration.",
+    "continuity": "Two conflicts. Neela says Devan said he 'wouldn't answer' about the shutters in ch3, but F400 makes ch17 the first time he ever said those words to her. 'A number for twenty years' contradicts F329 and F395 (twenty-one years)."
   },
   "fixes": [
-    "At \"Shut on the latch and never barred, as my father kept them\" (continuity conflict with F102 and F121): Devan's father kept the shutters open every night it did not storm. Rewrite as \"Shut on the latch, for the wedding guests. Never barred. My father never barred them; he'd have had them open to breathe.\" Update F349 to match.",
-    "At \"Reasoning is not knowing. That was the morning I knew.\" (Irrational behaviour / character logic: day-eleven trust contradicts the ch15 coercive bargain): narrow what he knew to \"that you wouldn't do it in the dark,\" then add one exchange where he names the gap himself. For example, Neela: \"And still you offered me a bargain in the storm.\" Devan: \"Yes. Knowing you wouldn't kill me isn't the same as trusting you with the name. I was wrong to make you pay for it.\" This keeps the midpoint's moral weight and shows the repair the bible requires.",
-    "At \"Tell me the rest,\" he said. \"All of it.\" / \"So she did.\" (romance movement: 'full knowledge' is overclaimed and silently scoped): after the contract account, add two or three lines where Neela marks the limit honestly, such as \"That's this one. There were eleven before it. You can have those too, one at a time, if you ask,\" and Devan answers \"I'll ask.\" This makes the knowledge chosen and visibly incomplete, sets up the Book 2 ledger reveal fairly, and keeps her from looking foolish there. While in this section, change \"Ittan asked whose hand he was\" to \"Ittan said I'd no idea whose hand he is,\" because Devan is literal."
+    "Fix the line \"You said you wouldn't answer,\" she said. \"When I asked why you bar the shutters.\" It is a continuity conflict with F400, which makes ch17 the first time Devan ever said \"I won't answer that\" to her. Change her line to: \"You never answered. When I asked why you bar the shutters, you asked me about the terraces. And the next dusk you said 'rain.'\" Keep his reply \"It wasn't an answer. I knew it wasn't.\" The refusal then reads as evasion, not his formal phrase, and 'I still have my one refusal in the question game' stays true.",
+    "Fix the line \"I'd been a number for twenty years.\" It is a continuity conflict with F329 and F395 (Seventeen for twenty-one of her twenty-seven years, stated aloud in her ch31 vow). Change it to 'twenty-one years'. Also change Devan's \"You've spent twenty years not being written down\" to \"You've spent your whole life keeping your name off paper.\" Her page was written in resin-ink at her first turning (F319), so 'not being written down' is literally false as well.",
+    "Fix the narrated lines \"He had never in his life filled a silence with something untrue\" and \"She believed him. That was the strange part.\" These narrate trust instead of showing it. Cut both and let the existing 'Say it again… So I can check' / 'It holds' exchange carry the belief. Also cut the second \"He did not look away\" (after 'And still you offered me a bargain'), which echoes the first. Then, in the leash scene after \"I never stopped knowing she could,\" add one line from Devan that answers her disclosure directly before she turns the talk to him, such as 'And tonight?' or 'I've had forty days to say it. I never will.' Right now she discloses and immediately praises him, which skips the response-and-validation step of technique 10 on the beat's key recognition."
   ],
-  "reader_question": "What will Neela say in her own voice at noon, knowing Muthu will send every word north, and what does Ittan, awake in the guardroom, know about whose hand he is?",
+  "reader_question": "What will Neela say in her own voice at noon before Muthu, and what does the man in the guardroom know about whose hand he is?",
   "techniques_landed": [
-    10,
     20,
-    24
+    24,
+    10
   ],
-  "new_facts_assessment": "F344 (protection order; stories stopped at supper, then 'tired of leopards' in the kitchen by day) is necessary and correctly supersedes F282; F282 should be retired. F345 (said 'I love you' to Asha in the kitchen) duplicates F281 with 'badly' added; it is consistent, so keep F345 and retire F281. F346 (tooth is a real leopard canine meant for his wound, sewn in from Kodiyur) is consistent with F039 and needed; retire F279. F347 (trust at the kalari dawn, fingers at the skull, three counted breaths, about eleven days) matches the bible worksheet's ch11 pulled marma strike and should formally retire F277's 'night, feigned sleep' version. It creates a logic gap with the ch15 bargain, which the fix addresses. F348 (noon remarriage before the household; Devan's Muthu warning; words withheld) is necessary for ch31 and consistent with F283, F286 and F290. F349 conflicts with F102 and F121 on how his father kept the shutters (open, not latched shut). Correct it to: latched shut for the wedding night, never barred, though his father's rule was to leave them open. The dialogue gap of 'twenty years' against F329's twenty-one is acceptable rounding.",
+  "new_facts_assessment": "All three facts are necessary and consistent in content. The shutter and protection order correction matches F102, F300 and F377. The kalari-versus-name distinction usefully reframes the ch15 bargain. 'Eleven before it, one at a time if you ask' is a clean, fair plant for the book 2 lookout reveal (consistent with F280). Bookkeeping is broken, though. The draft labels its corrections with the old IDs F349 and F347, and its third fact as F410. The ledger already holds these facts as F409, F410 and F411, so draft F410 collides with ledger F410 (the kalari correction). Renumber to F409, F410 and F411, and retire F349, F347 and F282. One fact the draft added is not declared: a ch3 refusal in so many words. It contradicts F400 and must be fixed in the text, not added to the ledger.",
   "content_rule_violation": false,
   "failure_modes": [],
-  "average": 3.25,
+  "average": 3.5,
   "minimum": 0.0,
   "passed": false
 }
