@@ -1,0 +1,42 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 3.0,
+    "character_logic": 3.0,
+    "stakes_and_cost": 4.0,
+    "prose": 3.0,
+    "continuity": 0.0
+  },
+  "reasons": {
+    "reader_question": "Clear question at the close, but the reader already half-knows the answer from the ear, cap and badge clues, so curiosity edges toward dread.",
+    "change": "Rohan learns Ila is held at Garh Neshar, the departure is negotiated, the speech stalls, and Kiran's flight changes what Meera will now ask.",
+    "romance_movement": "Their first goal conflict as lovers is settled by costed mutual concession, and the bound promise is new. Meera is absent from the final turn.",
+    "shown_chemistry": "Mostly bargaining. 'I will want to very badly' and the handshake land, but few physical, responsive beats exist between them in the room.",
+    "character_logic": "Rohan has read the ear-rim report (F063), yet he never registers Kiran's cap-covered ears. Asking Meera's brother to name the smuggler makes him look obtuse.",
+    "stakes_and_cost": "Ila against half-treated children is a true two-value collision. The promise makes leaving early a great-lie risk, and the blockade line risks self-conviction.",
+    "prose": "Clean, with no banned phrases. Two exchanges are muddled ('goatherd's wife', the Dilan line), and 'found' recurs in the opening scene.",
+    "continuity": "The Dilan hymn line splits singer and Dilan, against F104. The road arithmetic fails. 'Twelve days' repeats chapter 20 despite elapsed time."
+  },
+  "fixes": [
+    "'He had no tune. Dilan used to say that the stones had the better ear.' This line makes Dilan someone other than the singer, which breaks F104 and the later 'I told you about the hymn.' Rewrite it as: 'His name was Dilan. He used to say the stones had the better ear.' Rohan names him plainly, so Kiran's stillness clearly answers the name.",
+    "'A day and a half of road puts us at Garh Neshar on the evening before the Fair.' With the Fair three days off and departure the morning after tomorrow, they arrive on Fair day. This is a timeline conflict. Either set the Fair four days off at chapter start, or move the departure to before dawn after tomorrow's dusk dose. Then update F192. Also change 'lived on your sister's mountain for twelve days' to the true count since the cairn (about fifteen).",
+    "'Kiran had Meera's face in a younger cut.' Rohan studies the boy closely but never registers the wool cap 'pulled down over both ears', though he read the ear-rim report (F063). Technique 13 fails here because the deceived character looks foolish. Add one beat: Rohan notices the cap, thinks of the report, and dismisses it for a specific reason ('half Ranu wears them for the fever'). His blindness then becomes a choice, which deepens the irony."
+  ],
+  "reader_question": "Why did Kiran bolt the moment Rohan asked about the smuggler on Dilan's rope, and what will he tell Meera?",
+  "techniques_landed": [
+    8,
+    13,
+    15
+  ],
+  "new_facts_assessment": "F192 is needed, because the beat's 'six days' and 'three days' conflict with F178. It is a justified deviation, but its arithmetic does not close: leaving at dawn two days out with a day and a half of road arrives on Fair day, not the evening before. F193 is consistent with F179, but the day the count starts from should be named. F194 is consistent with F149 and F012 and adds good stakes. The ledger now holds three superseded versions of this chapter's timeline and should be pruned.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Irrational behaviour to extend plot",
+    "Narrated-only chemistry"
+  ],
+  "average": 3.12,
+  "minimum": 0.0,
+  "passed": false
+}
