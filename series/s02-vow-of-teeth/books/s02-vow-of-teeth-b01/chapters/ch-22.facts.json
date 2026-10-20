@@ -1,53 +1,19 @@
 {
   "facts": [
     {
-      "id": "F190",
-      "category": "place",
-      "fact": "The guild keeps a watcher in the pass village who logs scent-posts, not faces or shapes: each dawn he walks the hill edge and reads which of an odiyan's marks have gone fresh. A night with no fresh marks on an open contract reads as refusal and is reported to Chathu. Ammu covered the second skipped night by laying her own scent over Neela's posts; the rain night of ch 21 already stood logged as a gap.",
-      "since": "s02-vow-of-teeth-b01 ch 22",
-      "provisional": true
-    },
-    {
-      "id": "F191",
       "category": "object",
-      "fact": "Chathu sends the carrier a balance sheet for every open contract; Ammu tore a strip from the foot of the carrier's satchel copy, in Chathu's resin-ink hand: 'Balance due from the Keeper on the widow's seal.'",
-      "since": "s02-vow-of-teeth-b01 ch 22",
-      "provisional": true
+      "fact": "Ammu covered the second skipped night by taking Neela's spare day cloth from the cache under the second spur (F129) and rubbing it on each scent-post, so the posts read fresh with Neela's own scent. The cloth is spent and the cache is now empty. Replaces the 'jackal scent laid over hers' mechanism in F194.",
+      "since": "s02-vow-of-teeth-b01 ch 22"
     },
     {
-      "id": "F192",
       "category": "timeline",
-      "fact": "Chapter 22 is the second consecutive night Neela skips resin (the rain night of ch 21 was the first) and seven nights remain to the new moon.",
-      "since": "s02-vow-of-teeth-b01 ch 22",
-      "provisional": true
+      "fact": "Neela's three bare nights before the rain night (ch 16 to 18) were already logged by the watcher as gaps, as was the rain night of ch 21; Chathu's sweets were his answer to the three.",
+      "since": "s02-vow-of-teeth-b01 ch 22"
     },
     {
-      "id": "F193",
-      "category": "injury",
-      "fact": "Devan has a puckered white seam at the ribs from the raider captain's knife at the ford, before the captain knelt.",
-      "since": "s02-vow-of-teeth-b01 ch 22",
-      "provisional": true
-    },
-    {
-      "id": "F194",
       "category": "knowledge",
-      "fact": "Nightly stone signal during Ammu's week of silence: the other one's scent-mark in the cup of the meeting stone means 'still working'; Ammu leaves her own mark to say she looked. Her unsplit reed (F177) is still due on the seventh night. Ammu turned back at first light and Neela reached her an hour later.",
-      "since": "s02-vow-of-teeth-b01 ch 22",
-      "provisional": true
-    },
-    {
-      "id": "F195",
-      "category": "relationship",
-      "fact": "Devan has not lain with anyone since before the ford, eight years ago.",
-      "since": "s02-vow-of-teeth-b01 ch 22",
-      "provisional": true
-    },
-    {
-      "id": "F196",
-      "category": "relationship",
-      "fact": "Chathu held Neela's wrist at her first resin. In the second week Devan asked about her scars and she lied 'a fall from a cart'; she tells him the truth in ch 22.",
-      "since": "s02-vow-of-teeth-b01 ch 22",
-      "provisional": true
+      "fact": "Neela knows the grove overlooks the warden's window and opens the shutters on purpose; she tells Ammu 'I knew it would be seen'. She also reasons that acting on the torn balance strip could expose Ammu to Chathu's caging.",
+      "since": "s02-vow-of-teeth-b01 ch 22"
     }
   ]
 }
