@@ -3513,6 +3513,20 @@
       "fact": "Muthu resealed the grey packet in the guardroom with the grey stick he carries, after Ittan read the slip and handed it back and Muthu enclosed it with his own letter. Muthu's letter reports sealing day: Ittan's carts searched, the Keeper held in the guardroom, the warden's wife signing the closing writ; Rema's arrival is not mentioned.",
       "since": "s02-vow-of-teeth-b02 ch 9",
       "provisional": true
+    },
+    {
+      "id": "F509",
+      "category": "plot",
+      "fact": "The slip 'Say nothing, and your wife is kept' reached Muthu by a lathered household rider on the off post day before sealing day (the ch23 rider), with a standing order to put it in the Keeper's hand if he were ever held. Muthu read it, delivered it to Ittan in the cell, took it back, and resealed it with his letter.",
+      "since": "s02-vow-of-teeth-b02 ch 9",
+      "provisional": true
+    },
+    {
+      "id": "F510",
+      "category": "knowledge",
+      "fact": "Devan cites Rema's written objection to Ittan's execution as proof she records against the crown, and trusts that she records, not that she is loyal to him.",
+      "since": "s02-vow-of-teeth-b02 ch 9",
+      "provisional": true
     }
   ],
   "knowledge": [
