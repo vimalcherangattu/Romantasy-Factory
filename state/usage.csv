@@ -225,3 +225,4 @@ timestamp,book_id,stage,model,input_tokens,output_tokens,cache_read_input_tokens
 2026-10-20T00:54:07,s02-vow-of-teeth-b01,critique,opus,2,5709,11557,78662,70356,1,0.7457954
 2026-10-20T01:05:23,s02-vow-of-teeth-b01,continuity,opus,2,82055,4233,243244,669461,1,3.5879066
 2026-10-20T01:06:43,s02-vow-of-teeth-b01,revise,sonnet,2,7288,10951,81629,46751,1,0.4004951
+2026-10-20T01:08:10,s02-vow-of-teeth-b01,critique,opus,2,7013,11557,79229,80767,1,0.7764114

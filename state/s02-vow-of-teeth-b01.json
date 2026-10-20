@@ -281,7 +281,7 @@
       "minimum": 3.0
     },
     "14": {
-      "status": "revised",
+      "status": "passed",
       "revisions": 1,
       "scores": {
         "reader_question": 4.0,
@@ -1564,9 +1564,13 @@
     {
       "at": "2026-10-20T01:06:43",
       "event": "done: S6 revise ch 14"
+    },
+    {
+      "at": "2026-10-20T01:08:10",
+      "event": "done: S5 critique ch 14"
     }
   ],
-  "updated_at": "2026-10-20T01:06:43",
+  "updated_at": "2026-10-20T01:08:10",
   "midpoint_chapter": 16,
   "continuity_attempts": 3,
   "continuity_last_errors": 9
