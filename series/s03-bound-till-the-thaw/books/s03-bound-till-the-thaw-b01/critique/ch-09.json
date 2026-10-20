@@ -1,0 +1,42 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 3.0,
+    "stakes_and_cost": 3.0,
+    "prose": 3.0,
+    "continuity": 5.0
+  },
+  "reasons": {
+    "reader_question": "The clean cut and the ambiguous last line ('whose hand it had been') leave a sharp, specific question; the reader can state it in one sentence.",
+    "change": "Rohan moves from sworn certainty to self-doubt about his evidence habit, and the wait decision changes their tactical position.",
+    "romance_movement": "This is the first trade of costly griefs plus a freely given silence. The reason for the change is new: she refuses to use his secret.",
+    "shown_chemistry": "Shown through his checking her warm fingers, his choice of a gentle question, her bright-eyed laugh and her turning to the wall. Little is narrated.",
+    "character_logic": "Choosing a kind question is smart. But a captain with sixteen days and a seal agrees to an open-ended wait without counting days.",
+    "stakes_and_cost": "Refusals cost wood, which is good, but waiting costs neither of them anything stated: no deadline arithmetic for him, no Ranu for her.",
+    "prose": "Mostly clean and concrete. Problems: 'report' used three times, a doubled bread/loaf image, recap phrasing ('sattu-bread jokes') and a muddled 'one winter of that' line.",
+    "continuity": "Woodpile maths (41 to 36), mother's death, age fifteen on the line, F083 and the horn all match the bible and chapters 5 to 8."
+  },
+  "fixes": [
+    "At 'He weighed it as a warden would, and found that it held', waiting has no stated cost (stakes without depth). Have Rohan count the days aloud (sixteen left to the Snow Fair, each day waited is one lost) and have Meera name Kiran and Ranu's cough. The choice to wait should visibly hurt both of their goals.",
+    "At 'in the voice of a man reading a report', 'report' echoes twice nearby, and 'flat as bread under a good knife' duplicates 'ended like a cut loaf' (repetition). Cut the second report phrasing, perhaps to 'in order, like a list'. Keep one bread image, the loaf. Also replace 'who had made him sattu-bread jokes' with a concrete remembered line of hers.",
+    "At 'A reluctance when the dead man was named', the ledger records something the page never showed: she asked readily (unearned evidence). Replace it with an observed fact, e.g. 'She asked for the man, not the reason, as if she knew the reason.' Also clarify the muddled 'one winter of that being wrong about it' or cut it."
+  ],
+  "reader_question": "If someone cut Dilan's rope clean, whose hand held the knife, and why won't Rohan let himself ask?",
+  "techniques_landed": [
+    10,
+    13,
+    25
+  ],
+  "new_facts_assessment": "All five facts are necessary and consistent. The rope-end description sets up C08 well. The 36-stick count follows from chapter 8. The oath before eleven wardens fits a post of forty. Dilan's hymn and knot detail personalise him without conflict. Unlisted: Rohan's snow-blind eyes under leather and a cairn near the hut that hums true. Both are minor and consistent with F081, but they should be logged.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Stakes without depth",
+    "Irrational behaviour to extend plot"
+  ],
+  "average": 3.75,
+  "minimum": 3.0,
+  "passed": true
+}
