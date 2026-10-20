@@ -1,0 +1,41 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 3.0,
+    "stakes_and_cost": 4.0,
+    "prose": 4.0,
+    "continuity": 0.0
+  },
+  "reasons": {
+    "reader_question": "Clear and specific by the close: Muthu is ruled out on the sword detail, so who else in the walls feeds the guild?",
+    "change": "Muthu exposed and kept, post-key taken, raid command set. Knowledge and power both shift.",
+    "romance_movement": "He asks her about command for the first time, a new reason. Her answer, drawn from Chathu's method, shapes his decision.",
+    "shown_chemistry": "Mirrored bruises touched in silence, the smudge on the gate, and 'Don't make a habit of being right' show it through action.",
+    "character_logic": "'If he sells me, she sees it, and she's the one he's selling to' muddles the test. The queen's justice is no check on a queen's informant.",
+    "stakes_and_cost": "Handing the fort to a known informant costs Devan real risk, and Muthu loses his one private trust.",
+    "prose": "Lean, varied and concrete. A few clunky lines ('the only way I know how to do it that isn't a theft'). No banned phrases.",
+    "continuity": "The letter mentions Rema's escort and green sashes, but the packet was locked away before Rema arrived. Ittan's execution was not 'the next day'."
+  },
+  "fixes": [
+    "'A line about the justice from Kodiyur, her escort, the green sashes.' This is a continuity break: Devan locked the packet away at dawn after the vow (F433), days before Rema arrived (B2 ch 2). Replace the line with sealing-day matter: Ittan's carts searched, the Keeper held in the guardroom, and the warden's wife signing the closing writ.",
+    "'I didn't know there'd be a block in the court the next day.' This is a continuity break: Ittan died only after Rema came up with a warrant, days later (B2 ch 5). Change it to 'I didn't know the queen would send a justice with a block.' Also cut 'I kept it for eleven days' to 'since the rains began', or recount the days against B1 ch 32 and B2 ch 1 to 8.",
+    "'I stood behind you in the hall, I saw the whole of it.' This contradicts Devan's scene, which shows only Muthu in the empty hall. Either place Neela at the hall door in that scene, seen by Devan, or change her line to 'You told me what was in it.' Then rework 'she's the one he's selling to' so the test logic holds, e.g. Rema watches the gate log, not his loyalty."
+  ],
+  "reader_question": "If Muthu never told the guild where Devan lays his sword or what Neela's cart order was, who inside Kettamala did?",
+  "techniques_landed": [
+    10,
+    16,
+    12
+  ],
+  "new_facts_assessment": "The grey-cloak approach, the post-key, C11 and the dark-of-moon timing are necessary and consistent. There is a seam in the slip-in-packet fact: the packet was thick and sealed when Muthu carried it in (F429), yet he says he read the slip with Ittan and then enclosed it. The draft must state that he resealed it in the guardroom. 'Eleven days' likely undercounts the time since the packet was taken in B1 ch 31.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Irrational behaviour to extend plot"
+  ],
+  "average": 3.38,
+  "minimum": 0.0,
+  "passed": false
+}
