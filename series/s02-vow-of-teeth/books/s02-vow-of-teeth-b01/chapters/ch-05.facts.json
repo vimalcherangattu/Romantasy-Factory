@@ -1,28 +1,14 @@
 {
   "facts": [
     {
-      "category": "knowledge",
-      "fact": "Devan opened both shutter leaves at the grey of dawn at the end of ch4 so Neela would see a way back that was neither guarded nor a trap; she turned back in the yard and came up the stair door as a woman after first light, so the bar was never lifted from outside that dawn. He goes to the kalari after first light."
-    },
-    {
-      "category": "injury",
-      "fact": "In sunlight Devan sees that Neela's inner-wrist scars lie thick, layer over layer, meaning more than a decade of use, so she started young. The scars are on the inner wrist only."
+      "category": "object",
+      "fact": "Neela turns back in the yard at dawn and comes up the stair door with a saddle-blanket from the stable round her; Devan hears the rough wool drop before the bed creaks.",
+      "since": "s02-vow-of-teeth-b01 ch 5"
     },
     {
       "category": "knowledge",
-      "fact": "Neela first lies about her scars on the terrace with 'a childhood burn' (before the second-week lie 'a fall from a cart', F200); Devan knows it is false."
-    },
-    {
-      "category": "name",
-      "fact": "Kunjan Chirayil kept the north warehouse in Kodiyur (smell of wet sacks and cloves); Bindu is Kannan's singing mother, learned from women at the well; Devan's father is dead and Devan spent two years at border school."
-    },
-    {
-      "category": "relationship",
-      "fact": "Asha came to the fort at nineteen and in her first month wrote every recruit's name and mother's village on a slate; Janu found Asha's body on the west stair."
-    },
-    {
-      "category": "plot",
-      "fact": "Devan has Muthu pull the sentry from the rampart above the warden's window without reason, and leaves the shutter bar in place so Neela lifts it herself."
+      "fact": "Devan's practical means for tracking Neela is reading her paw-marks in the wet laterite by the water trough each dawn. His truer reason for pulling the sentry is the witness rule: a sentry with a lantern two spans above the ledge could watch her turn and become a witness. Retire F064. F310 should say only that the wrist scars are the ones he sees.",
+      "since": "s02-vow-of-teeth-b01 ch 5"
     }
   ]
 }
