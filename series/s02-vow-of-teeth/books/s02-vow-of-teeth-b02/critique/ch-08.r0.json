@@ -1,0 +1,39 @@
+{
+  "scores": {
+    "reader_question": 5.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 4.0,
+    "stakes_and_cost": 4.0,
+    "prose": 4.0,
+    "continuity": 0.0
+  },
+  "reasons": {
+    "reader_question": "The chapter closes on Muthu's pale 'Give me a round', so the reader carries a sharp pit-confession question.",
+    "change": "Muthu goes from trusted captain to publicly named informant, and Devan's private suspicion becomes shared knowledge in the hall.",
+    "romance_movement": "The pebble kept unwatched is a new proof of the vow. Her hand on his fist under the table answers it in public.",
+    "shown_chemistry": "Shown through action: the charcoal laid away from her hand, the warm dish, the resettled cloth, the covered fist.",
+    "character_logic": "Rema's courteous outing fits a woman who speaks only cruel facts. Devan's restraint and Neela's refusal to draw the kennels both ring true.",
+    "stakes_and_cost": "Accepting the round costs Devan his eight-year refusal and a friendship. The unnamed climber on the scree adds threat.",
+    "prose": "Clean and concrete. 'For the length of a breath' appears twice, and the pebble paragraph explains its own meaning.",
+    "continuity": "'The rule had changed since the wedding' contradicts canon: self-naming happened in the Resin House yard (B1 ch27), not at a wedding."
+  },
+  "fixes": [
+    "'The rule had changed since the wedding. A caging needed two voices now': continuity error. Self-naming happened in the Resin House yard at dusk. Change to 'The rule had changed in the Resin House yard' or 'since the yard', so it matches B1 ch27 and F008.",
+    "'He kept it for exactly that reason. A promise made in front of witnesses is easy.': narrated meaning blunts the unwatched vow. Cut the two explanatory sentences and keep 'He wanted to know what it was worth with the witnesses removed.' Or replace them with an action, such as him almost spitting the stone out at the hour chain and setting it back.",
+    "'For the length of a breath it was the one place' and 'the silence sat between them for the length of a breath': repeated phrase. Rework one, for example 'until the chain's next clank' at supper. Also seat Neela so her bandaged right hand can reach his fist, or use her good left hand and keep the welt contact through his palm."
+  ],
+  "reader_question": "What has Muthu been writing to the queen for six years, and what will he confess once he and Devan are in the pit?",
+  "techniques_landed": [
+    13,
+    20,
+    7
+  ],
+  "new_facts_assessment": "All five listed facts are necessary and consistent: forty-one matches F443's occupied cages, the shin welt follows the wound-share rules, and the six-year letters fit F217. One addition is unlisted: Bhaskaran has a wife and four daughters. It is harmless but should be logged. 'Since the wedding' is an error, not a new fact.",
+  "content_rule_violation": false,
+  "failure_modes": [],
+  "average": 3.62,
+  "minimum": 0.0,
+  "passed": false
+}
