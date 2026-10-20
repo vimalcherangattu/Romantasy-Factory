@@ -1,0 +1,42 @@
+{
+  "scores": {
+    "reader_question": 5.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 3.0,
+    "stakes_and_cost": 4.0,
+    "prose": 3.0,
+    "continuity": 0.0
+  },
+  "reasons": {
+    "reader_question": "The ending names the one fatal question exactly: 'Was Kiran on Dilan's rope?' The reader carries that question and a clock.",
+    "change": "Meera moves from ignorance to full knowledge and makes a carefully worded choice. Rohan sees the ear, a quiet shift of knowledge.",
+    "romance_movement": "The reason is new: she holds his wound. His chosen not-asking makes her shame and the clock concrete.",
+    "shown_chemistry": "Forehead to his chest, his light hand, his sleeping thumb, her warm hands as shame. The care is shown through response.",
+    "character_logic": "Meera's word-built refusal is smart. Dilan's 'hanged in the morning' trip to the third bend makes no geographic sense. Rohan's ear moment strains.",
+    "stakes_and_cost": "Speaking forces Rohan to report or break, and lying costs flesh, with Hakam's hand as proof. Silence carries a moral cost.",
+    "prose": "Hook and dialogue are strong. The opening rope geography is muddled, the dilemma is restated twice, and 'her own house' and 'eight inches' slip.",
+    "continuity": "Binding at the waystone (Kothi side, F074), the third bend as destination and dawn arrival conflict with the two-day Saddle (F030, F106)."
+  },
+  "fixes": [
+    "At 'turned back the way I'd come and found the waystone by feel' (Worldbuilding collapse): the waystone sits on the Kothi side, two days of Saddle from the third bend. Yet Dilan promises hanging 'in the morning' and they arrive before dawn. Move the binding to a cairn on the Neshar-side descent after Kiran crosses, or make the destination the Shilak post. Also change 'cut his own rope above his waist' to the rope between their wrists.",
+    "At 'stayed one breath too long for chance' (Irrational behaviour / deceived character looks foolish): Rohan holds the ear report, and the boy bolted at 'whose rope'. Seven chapters of not-knowing need a reason. Add one line where Meera recognises the same chosen blindness he admitted about the Salt Fox (F148), so his silence reads as a decision, not obtuseness.",
+    "At 'It was not a choice between telling and lying' (Endless monologue): this restates the dilemma already set out two paragraphs earlier. Cut it and keep 'It cost her nothing at all.' Also fix the opening: Rohan's footsteps chase her, yet he is suddenly inside the storehouse ten paces back. Change 'her own house' to Nimmi's house, and 'Eight inches' to a measure that fits his arm across her."
+  ],
+  "reader_question": "What will Meera do when Rohan asks whether Kiran was on Dilan's rope, given that yes hangs her brother and no costs her flesh?",
+  "techniques_landed": [
+    2,
+    3,
+    13
+  ],
+  "new_facts_assessment": "The new-facts file is empty, but the draft adds facts: DIL initials, salt for 'the Dev people', the waystone binding, road-ice survival, the last words 'sorry about the hymn', and Rohan noticing the ear. The last words and the initials are good and consistent. The waystone/third-bend crossing breaks Saddle geography and must be revised and listed.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Irrational behaviour to extend plot",
+    "Endless monologue"
+  ],
+  "average": 3.38,
+  "minimum": 0.0,
+  "passed": false
+}
