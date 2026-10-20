@@ -110,7 +110,7 @@
       }
     },
     "04": {
-      "status": "passed",
+      "status": "edited",
       "revisions": 2,
       "scores": {
         "reader_question": 4.0,
@@ -126,11 +126,22 @@
       "flags": [
         "needs-owner"
       ],
-      "words": 3016,
+      "words": 3010,
       "minimum": 0.0,
       "continuity_fixes": [
         "'Chinna snored on his mat'. Chinna is a woman: ch 1 calls her 'a broad woman', and ch 18 and ch 31 mention 'her bad hip'. FIX: In ch 4, change 'Chinna snored on his mat' to 'Chinna snored on her mat'."
-      ]
+      ],
+      "style": {
+        "words": 3010,
+        "banned_hits": {},
+        "ai_tell_hits": {},
+        "ai_tells_per_1000": 0.0,
+        "top_4gram": "it to the goat",
+        "top_4gram_count": 2,
+        "longest_paragraph_words": 107,
+        "em_dashes_per_1000": 0.0,
+        "reading_ease": 93.8
+      }
     },
     "05": {
       "status": "passed",
@@ -1723,9 +1734,13 @@
     {
       "at": "2026-10-20T07:47:38",
       "event": "done: S8 line edit ch 3"
+    },
+    {
+      "at": "2026-10-20T07:48:14",
+      "event": "done: S8 line edit ch 4"
     }
   ],
-  "updated_at": "2026-10-20T07:47:38",
+  "updated_at": "2026-10-20T07:48:14",
   "midpoint_chapter": 16,
   "continuity_attempts": 3,
   "continuity_last_errors": 2
