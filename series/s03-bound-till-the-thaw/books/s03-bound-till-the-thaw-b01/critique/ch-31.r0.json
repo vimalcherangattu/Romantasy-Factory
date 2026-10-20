@@ -1,0 +1,39 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 5.0,
+    "character_logic": 4.0,
+    "stakes_and_cost": 4.0,
+    "prose": 4.0,
+    "continuity": 0.0
+  },
+  "reasons": {
+    "reader_question": "The bond's end, the open delivery order and 'how far we walk when nobody's measuring' give one sharp question for the finale.",
+    "change": "The law is drafted, Meera is on the Roll, Rohan has halved his own seal, and they cross lawfully. Power and status both move.",
+    "romance_movement": "The reason is new: she asks for something only hers, and his need to be told is met. The '207' beat deepens the bond.",
+    "shown_chemistry": "Counting half a beat behind, the three-finger glove and 'be kind quietly' are all responsive action with no narrated chemistry.",
+    "character_logic": "Meera prices the Roll aloud before choosing it. Rohan cuts his seal in half and refuses to lie about the orders. Both are smart.",
+    "stakes_and_cost": "The Roll costs her freedom for life and the seal cost costs him his authority. The writ order still hangs. Thaw costs are mostly emotional.",
+    "prose": "The prose is clean and specific, with no banned phrases or dashes. The 'He found' tic recurs five times and 'low and level' appears three times.",
+    "continuity": "The return route reverses the geography: the waystone comes before the Rope-Hut. The juniper sprig was used up in ch11 (F118)."
+  },
+  "fixes": [
+    "'At the waystone she stopped. Three small stones' / 'They passed the Rope-Hut on the second morning': continuity error. Coming from Neshar they reach the Rope-Hut (far side, below the Saddle) first, then the Saddle, then the waystone (Shilak side). Swap the two paragraphs and adjust the days. Replace 'The juniper sprig still hung above the door', since Meera burned it in ch11 (F118), with a new sprig someone has left, or the bare nail.",
+    "'He found he had no answer' / 'He found he wanted the name' / 'He found he was glad': repeated interiority tic, five 'found' constructions in one POV. Keep at most two. Turn the others into action, e.g. 'He had no answer.' Cut one of the three 'hummed, low and level' and give the night-scene rope a different, specific sound or sensation.",
+    "'When she came apart under his mouth, saying his name': the beat specifies a closed-door night, but this line plays as open door. Either fade after 'Watch mine,' she said, low, and drew his face down', or flag this to the outline as the optional third explicit scene the bible allows. Keep the 'Here. Slower.' line, because it carries her asking."
+  ],
+  "reader_question": "When meltwater runs at the cairn and the bond ends, will they choose to tie themselves again, and how will Rohan defy the writ's order to deliver her?",
+  "techniques_landed": [
+    9,
+    14,
+    24
+  ],
+  "new_facts_assessment": "Nimmi's arrival, the 207 count, the glove, the six-week drafting, the dispatches and Ila staying behind are all necessary and consistent with F025, F077, F182, F238 and F257. The two-seal licence and twelve spans of the guide's own arm fit F008. The 'I will not hand you to anyone' promise is a bound promise (F012). Chapter 32 must honour it. Ila's 'post door' is ambiguous, since they are in Garh Neshar.",
+  "content_rule_violation": false,
+  "failure_modes": [],
+  "average": 3.62,
+  "minimum": 0.0,
+  "passed": false
+}
