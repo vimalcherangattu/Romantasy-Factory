@@ -2890,6 +2890,34 @@
       "fact": "Asha's last note was found under the camphor block at the bottom of the chest; Devan withholds it from Neela (matches F115). The 'Thursday' of F114 is the seventh day in the draft.",
       "since": "s02-vow-of-teeth-b01 ch 12",
       "provisional": true
+    },
+    {
+      "id": "F419",
+      "category": "knowledge",
+      "fact": "Corrects F400: ch 12 is the first time Devan says 'I won't answer that' to Neela (about how Asha died), in daylight in Asha's room. The ch17 use is the first time inside the dark rule (the night-time ask-anything custom). F373's 'I won't answer that' to Muthu at supper in ch14 is to Muthu, not Neela.",
+      "since": "s02-vow-of-teeth-b01 ch 12",
+      "provisional": true
+    },
+    {
+      "id": "F420",
+      "category": "relationship",
+      "fact": "Refines F417: Neela already knew the name Asha from ch 5 (F063, F313). In ch 12 she asks 'Is this Asha's?' and first hears from Devan that Asha was his sister and, after, his second.",
+      "since": "s02-vow-of-teeth-b01 ch 12",
+      "provisional": true
+    },
+    {
+      "id": "F421",
+      "category": "name",
+      "fact": "Refines F110: Unni, now a guard of about twenty (F355), was the cook's boy who ran water to the recruits in Asha's time; Asha gave him a line on her slate. He was never a recruit.",
+      "since": "s02-vow-of-teeth-b01 ch 12",
+      "provisional": true
+    },
+    {
+      "id": "F422",
+      "category": "relationship",
+      "fact": "Updates F114: Asha's sparring note refers to 'the seventh day' (Muthu's seventh-day sparring, F060), not Thursday.",
+      "since": "s02-vow-of-teeth-b01 ch 12",
+      "provisional": true
     }
   ],
   "knowledge": [
