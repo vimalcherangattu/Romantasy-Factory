@@ -3,39 +3,39 @@
     "reader_question": 4.0,
     "change": 4.0,
     "romance_movement": 4.0,
-    "shown_chemistry": 3.0,
-    "character_logic": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 5.0,
     "stakes_and_cost": 4.0,
     "prose": 4.0,
-    "continuity": 5.0
+    "continuity": 0.0
   },
   "reasons": {
-    "reader_question": "The question is clear and specific: he is now her witness and won't speak, so what will he do with it. The final page drifts into reflection and only weakly sharpens that question.",
-    "change": "Big shift in knowledge and power. He came in expecting a knife and leaves as her secret witness, holding a cage in his mouth and lying to Janu to cover her.",
-    "romance_movement": "The romance moves indirectly but genuinely. Seeing her shaking and starved on the ledge turns his 'edge' into 'a person', and the reason is new: he witnessed her at her most exposed. The rice order gives his distrust the protective edge the beat calls for.",
-    "shown_chemistry": "Care is shown well through action: the slat held silent, shutters left as she mapped them, rice set where she can see it from the bed. Desire for this specific woman is almost absent, so attraction rests on pity and duty.",
-    "character_logic": "His reasoning is smart and in character: a caged odiyan tells nothing, and he wants to see who comes asking. The third reason is tangled, and he never weighs following her or what she may be doing on the hill tonight.",
-    "stakes_and_cost": "Silence costs him. He harbours the kind of thing that killed Asha, keeps it from Muthu, tells his first lie to Janu, and now carries a live word to bed every night.",
-    "prose": "Controlled and often quotable ('That was the job, and it was also the crime'; 'Not safe, then. Merely not spent.'). There are no banned phrases or counted tells. Simile density is high ('like a man' twice, plus dog, horse, coal, tomb, footprint, lamp, milk). Devan's constant counting borrows Neela's signature habit.",
-    "continuity": "Consistent with the bible and facts: the witness rule, the sword hilt toward her, the third slat, the cistern chain, Asha at 22 six years ago, two guards on the west stair, resin first smelled at twenty in a classroom, and the bangle over the scar. F304 fits the six-year timeline."
+    "reader_question": "Clear and specific: he holds the word and now the bar. What will he do with them, and when will she know?",
+    "change": "Knowledge shifts from suspicion to certainty. Power shifts too: he is her witness and chooses silence and protection.",
+    "romance_movement": "A new reason: seeing her shaking and small turns his distrust protective, shown by rice and the bar, though she never sees it.",
+    "shown_chemistry": "Shown through action: he silences the slat, keeps her mapped room unchanged, orders rice, lifts the bar. No narrated attraction.",
+    "character_logic": "His reasoning is smart and layered: a cage yields no answers, the buyer will send another, and the restraint belief runs underneath.",
+    "stakes_and_cost": "A first lie to Janu and a live word in his mouth. Barring the shutters will draw notice. The costs are real but still small.",
+    "prose": "Concrete and controlled, with no banned phrases. Several consecutive paragraphs open with He or She, and the middle stretch leans on interiority.",
+    "continuity": "Asha's note is signed 'A.', but the bible and F111 have her sign every note with a drawn parrot."
   },
   "fixes": [
-    "At \"They found her at the foot of the west stair, below the carved parrot with the broken beak\" and the parrot paragraph before it: this is premature setup that undercuts the planned clue. The secret map reserves Asha's parrot drawings for ch12 so readers link them to Neela's ch10 unease at the newel. Cut the parrot signature and the newel from this chapter. Keep 'Eat something. A.' as the note detail and have her found simply 'at the foot of the west stair', so the parrot can still land in ch12.",
-    "At \"Third: whoever had sent her had planned this with care\": the paragraph reads as a numbered list (Next:/Third:), and its logic tangles ('the bait and the mark at once'; a caged cat 'would send' word). This is Endless monologue. Merge the reasons into two plain sentences. If he cages her, the buyer learns she failed and sends someone he won't recognise. If he keeps silent, the buyer must come asking why the warden still lives, and he wants to see who. Cut the section by about a third, and add one line on why he doesn't follow her onto the hill tonight.",
-    "At \"He had never lied to Janu. He had not known he could do it so well.\": the chapter ends on rumination, which fails the checklist's ending that 'reveals or interrupts'. Replace the last paragraph with a concrete forward action that makes ch3 necessary. Have him step back into the chamber and lift the long teak bar off its hooks, deciding it goes across the shutters at dusk before any servant can stand where he stood. Or have him see her eyes open on the low table where the rice will go. End on that action, not on reflection."
+    "Continuity: '*Eat something. A.*' contradicts the bible's parrot signature (F111). Remove the initial so the note is unsigned ('*Eat something.*'), keeping the parrot drawings for the chapter 12 plant. Then log the notes-left-in-boots detail in new-facts.json.",
+    "Prose repetition: 'He got up. His knees had stiffened', then 'He caught it.', then 'He crossed to the bed.' Consecutive paragraphs open with the same word, and the dawn return repeats it with 'She was shaking' and 'She looked very small'. Recast openers, for example 'The wind swung the open leaf' and 'Across the floor, the bed waited', so no two adjacent paragraphs start alike.",
+    "Endless monologue risk: 'So he made himself think properly.' runs about 250 words of argument with no physical action, after the Asha section has already held him still. Anchor one step in a gesture, such as his thumb finding the sword's worn wire grip as he weighs Muthu's answer. Cut 'All of that was true.' and let the restraint passage follow the gesture."
   ],
-  "reader_question": "Now that Devan is her witness and has chosen silence, what will he do with the word, and what will Neela make of the food he has started leaving for her?",
+  "reader_question": "Now that Devan holds the word that could cage his wife, what will he do with it, and will she find out he saw?",
   "techniques_landed": [
     13,
     2,
     15
   ],
-  "new_facts_assessment": "F304 ('first time since Asha') is necessary and consistent. It correctly replaces the eleven-year F042, which clashed with Asha's death six years ago, and it ties Janu's grief to the rice beat. Several new details are undeclared. Asha's notes 'Eat something. A.' and the bear claws 'as long as his fingers' are consistent and harmless. Two other undeclared details are a problem: linking Asha's five-stroke parrot signature and the broken-beak parrot newel to her death scene in ch2. They are not a hard contradiction, but they front-load what the secret map plants in ch12. Readers would then decode Neela's unease at the newel in ch10 immediately, collapsing the slow suspicion that she was the lookout.",
+  "new_facts_assessment": "new-facts.json is empty but the chapter adds facts. Asha's notes signed 'A.' conflicts with the bible (parrot signature). The notes under cups and in boots are harmless texture worth logging. 'Found at the foot of the west stair' is compatible with 'on the west stair' but should be logged. Devan's first lie to Janu matches F304. The bar decision matches F300 and F409.",
   "content_rule_violation": false,
   "failure_modes": [
     "Endless monologue"
   ],
-  "average": 4.0,
-  "minimum": 3.0,
-  "passed": true
+  "average": 3.62,
+  "minimum": 0.0,
+  "passed": false
 }
