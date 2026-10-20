@@ -1,0 +1,42 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 4.0,
+    "stakes_and_cost": 4.0,
+    "prose": 3.0,
+    "continuity": 0.0
+  },
+  "reasons": {
+    "reader_question": "The cut leaves a sharp, specific question: is Rohan alive and conscious, and can she hold him? The outline's second half, what the rescue shows Asha's crew, is only lightly set up through the pair 'coming up on a count'.",
+    "change": "The value shift lands. They are now knowingly hunted by a paid, soldier-trained crew. Rohan has admitted he carries something worth a lordship. The crew shelf is exposed, and the crossing fails.",
+    "romance_movement": "The reason is new. He asks her to keep her crew out of his report, and she spends the secret for his life. His closing his eyes under the goggles turns his request into a costed act. This is the first time each guards the other against their own side.",
+    "shown_chemistry": "Attraction runs through responsive action: the goggles cut from crown leather, 'You look like an owl in a bad temper', the half-smile he puts away, 'That's what's so annoying', the blind walk on her word. One narrated line ('He was asking her to protect herself from him') tells what the scene already shows.",
+    "character_logic": "Both leads act smart. She trades the shelf for time, and he builds himself a truthful alibi. Two gaps: she makes an untrue statement on the rope with no cost. And Rohan, who told only Varun about the seal (F058), never asks who could have told the pursuers where to find him.",
+    "stakes_and_cost": "Every choice is priced. Slowing for his eyes costs a third of their lead. The shelf puts half her crew at risk of the rope. Nine-in-ten odds are stated and then the tenth arrives. His 'I shall see nothing' is now a bound statement he must keep.",
+    "prose": "Mostly clean, concrete and readable, with no banned phrases. But 'a hand's width of cairn-light each' is garbled, since cairn-light shows only at night. 'Miniature as ants on a sheet' is clumsy. Some consecutive paragraphs open with 'She'. The protect-herself paragraph narrates the romance turn.",
+    "continuity": "Rule 1 is never suspended. Meera says 'I don't care a fig for the shelf' to her bound partner. Rohan names it 'not true' and she doubles down ('It's true enough'), yet no lie-cold follows and no one checks her hands."
+  },
+  "fixes": [
+    "At \"I don't care a fig for the shelf\" (Worldbuilding collapse / rule suspended): this is a false statement to her bound partner, and nothing happens. Pick one repair. (a) Let it cost: her fingertips whiten, and Rohan's 'That is not true' becomes him reading her hand, not her face. She shoves the glove back on, says 'Fine. I care. I'm doing it anyway', and the small lie goes on the record of the body. (b) Rewrite it as a free evasion such as 'The shelf isn't what I'm counting.' Then cut 'It's true enough', which compounds the lie.",
+    "At \"a hand's width of cairn-light each, and somebody's already paid\" (garbled worldbuilding, prose): cairn-light only marks the line at night, and the phrase means nothing in daylight. Replace it with Meera's concrete inference from the bond rules. Two ropes means two bindings at the Shilak Cairn: four people spoke their true names to the stones, and someone paid them enough to do it.",
+    "At \"He was asking her to protect herself from him. It had never happened before.\" (Narrated-only chemistry): cut these two lines and the Jassi-back-stair summary after them. Rohan's speech already shows the turn. Replace them with one physical beat, such as her hand stopping on the axe haft or her looking at his unwhitened fingers. Then go straight to the wind and the four figures. In the same pass, give Rohan one line wondering who knew his route, to keep him sharp and the Varun clue alive."
+  ],
+  "reader_question": "Is Rohan still alive at the end of the rope, and can Meera haul him out of the gully before Asha's pair crests the ridge and sees the crew shelf?",
+  "techniques_landed": [
+    6,
+    7,
+    16
+  ],
+  "new_facts_assessment": "Writ case and goggles (F090): necessary and consistent. The goat stamp echoes the seal without revealing it. The red wax on the writ must stay distinct from the blood-wax of the seal planted for ch 30. Onion-skin ochre packs (F091): necessary and plausible, though colour at that distance is a stretch. Crew shelf by Bindu's mother (F092): necessary and consistent with Bindu's age and crew history. The draft puts the snow bridge before the shelf, not on it, which is acceptable. Rohan's admission (F093): consistent with his silence-not-lies habit. The log says 'regent's side' but the page says 'people in Neshar', so align the log to the page. Unlisted additions to judge: (1) a ridge-stone 'humming faintly' and 'listening' for lies. This extends F081 from the waystone to any ridge rock, so either log it as a magic fact or cut it. (2) Meera's claim 'Wardens don't cross. They have no one to tie to', which sits awkwardly with Dilan dying on the pass while chasing a smuggler. (3) Asha's saying 'the mountain eats the cheap', which is harmless texture. (4) The 'Long Saddle... Eight hundred paces to the lip' geography, which is harmless.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Worldbuilding collapse",
+    "Narrated-only chemistry"
+  ],
+  "average": 3.38,
+  "minimum": 0.0,
+  "passed": false
+}
