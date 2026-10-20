@@ -726,7 +726,7 @@ Neela had climbed to the second terrace with a bowl of Janu's rice. The hollow i
 
 "Which hounds?" she said.
 
-"All of them. Fourteen." He wiped his hand on his knee. "They sleep in the long kennel behind the stables. Can you hear them? Every night since your wedding. They howl till the middle watch, and my loft is right over that wall."
+"All of them. Fourteen." He wiped his hand on his knee. "They sleep in the long kennel behind the stables. Can you hear them? Every night since the night after your wedding. They howl till the middle watch, and my loft is right over that wall."
 
 "They didn't howl before?"
 
@@ -940,7 +940,7 @@ And above the ledge the sentry stopped. He leaned on the parapet and looked out 
 
 The sentry coughed and went on. The moment stayed, wide open, and so did the window.
 
-There was a cheaper way. She could wait a night, until the post above was bare, and take the throat in the quiet. The pass left thirty-seven nights, and she would be spending one of them on nothing.
+There was a cheaper way. It could wait a night, until the post above was bare, and take the throat in the quiet. The count of nights pulled at it like a tide, thirty-seven of them, and this one spent on nothing.
 
 But the other one did not weigh nights. It weighed an open palm laid flat on a table where a furious man could see it, and a voice that never rose. *Who is he hunting?* It had no words for the question. There was only the shape of the wanting, and the long cold climb that did not begin.
 
@@ -950,17 +950,21 @@ It turned from the window and went down into the shadow of the wall. It lay unde
 
 The sky began to grey behind the pass. The chain clanked the last hour.
 
-Above her, the shutter moved.
+The first ache of the turning woke in its haunches. Too late for the wall. The pair on the far walk was coming back, and the lantern on the rampart had not moved off the ledge.
 
-Not a crack. Both leaves swung back against the laterite, wide, and stayed there. No lamp. No face. Only an open window thirty feet up, where she had left one leaf ajar, and the black square waiting like a held door.
+It went the only way left that had no eyes in it. Through the gap at the bottom of the stable door, into the warm black where the horses shifted and blew and could tell no one anything. It lay down in the straw of an empty stall, far back, where no lantern reached.
 
-The first burn of the dawn turning ran up her legs. Someone had opened it for her. Or for whatever came to the sill next.
+The burn took her there, in the dark, with her face in the straw.
+
+When she could stand she pulled a saddle-blanket off the rail and wrapped herself in it. Through the slats she saw the grey come up behind the pass, and high on the west wall the warden's shutters standing wide, both leaves, where she had left one ajar. No lamp. No face. Only an open window, and nobody in it.
+
+She did not know who it had been opened for. She knew only that, for the first time since the wedding, she wanted the name of the man he hunted more than she wanted his throat.
 
 # Chapter 5: The Man Who Doesn't Spar
 
 She had come back shaking again.
 
-Devan had lain with his eyes shut and listened to it. At the grey of dawn he had thrown both shutter leaves wide and stood a moment at the empty sill. Down in the yard the shadow under the water trough lay thicker than a shadow should. When he looked again it was gone. She had not come to the sill. She had turned back in the yard.
+Devan had lain with his eyes shut and listened to it. At the grey of dawn he had thrown both shutter leaves wide and stood a moment at the empty sill. Down in the yard the shadow under the water trough lay thicker than a shadow should. When he looked again it was gone. She had not come to the sill. Wherever she had turned back, it was somewhere below, out of every eye on the wall.
 
 Some time after first light he heard the stair door, then bare feet, then rough wool dropping to the floor. A saddle-blanket from the stable, by the smell of horse. Then came the long breath of a woman who had run all night and was trying not to show it. A hand missed the bed-post twice before it found it. The bed creaked.
 
@@ -1410,7 +1414,7 @@ It came from the far end of the lower market, under the tamarind, thin and cheer
 
 She did not turn her head. She finished with the lamp-oil man, who had shorted his measure by a thumb, and paid him the fair price with a smile that cost him the other thumb. Then she said to the boy at her elbow, "Unni. Isn't your mother's stall by the fish racks?"
 
-Unni went the colour of a plum. He was thin as a ladle and not much past twenty. "Janu said I wasn't to leave you, lady."
+Unni went the colour of a plum. He was thin as a ladle and had kept the gate for years, and he still blushed like a recruit. "Janu said I wasn't to leave you, lady."
 
 "Janu said you weren't to lose me. The whole market can see me, and I can see the whole market. Go and let your mother feed you. I'll call it guarding."
 
@@ -4979,7 +4983,7 @@ He turned on the third step.
 
 "Eight days," he said.
 
-"Three days ahead of the rains. The council always seals early, and I've been counting to the rains, not the seal." She drew breath. "A warden who rides to the capital with the sealing at his back doesn't ride home in time. You'd leave Kettamala shut in with the sealing day coming and nobody but Muthu and a goat-boy. And you don't need to go to him. He's coming to us."
+"Eight days." She drew breath. "A warden who rides to the capital with the sealing at his back doesn't ride home in time. You'd leave Kettamala shut in with the sealing day coming and nobody but Muthu and a goat-boy. And you don't need to go to him. He's coming to us."
 
 He stood on the step and let that settle.
 
@@ -5591,7 +5595,7 @@ The captain came at a run from the stable door, where he had been standing with 
 
 Muthu nodded. He was not laughing. In five weeks of barracks noise she had never seen his mouth so still, and she knew what the stillness meant, because Devan had told her. She looked at him anyway, straight, and said the rest.
 
-"If I'm not back by first light on the second day, put him in a cart and start up the wood road. Meet me on it. It saves a day he hasn't got."
+"I told him I'd be back before the third dusk. Forget waiting for me. At first light tomorrow, put him in a cart and start up the wood road. Meet me on it coming back. It saves a day he hasn't got."
 
 "Neela—"
 
@@ -5733,7 +5737,7 @@ She went cold from the scalp down. Nobody had said a cart in Chathu's hearing. O
 
 "A house pays its debts in news, child." He smiled, sadly, and did not say more.
 
-So the order had been hers. *Meet me on the road,* she had said, and had named the hour, and someone had carried it out of Kettamala faster than she had ridden. She had built the trap herself and sent a dying man to walk into it.
+So the order had been hers. *Meet me on the road,* she had said, and had named the hour, and someone had carried it out of Kettamala faster than any cart. She had built the trap herself and sent a dying man to walk into it.
 
 "You sold her," she said. Her voice, when it came, was hoarse. "Kirri. You told her it was release."
 
@@ -5773,7 +5777,7 @@ Then they left her alone with the light climbing the grille.
 
 *Dusk,* she thought. *Maybe ten hours.*
 
-*Second dusk is tonight. Muthu will have started at first light, as I told him. If he doesn't meet me, he keeps coming, and he reaches the gate at tonight's dusk.*
+*Second dusk is tonight. Muthu will have started at first light yesterday, as I told him. If he doesn't meet me, he keeps coming, and he reaches the gate at tonight's dusk.*
 
 That was the arithmetic. A sick man in a cart, at the gate of a yard full of hunters, and Vellan waiting. She worked at the knot until the leather bit. It held.
 
@@ -5979,7 +5983,7 @@ Devan got a knee under him and no more. His arm shook. He had no sword. The grea
 
 It stopped in the air.
 
-She saw him find the place. She saw him think of the ford, and the eight years. His fingers crooked tighter and hesitated, the way they had when he told her about the raider captain. His face went very still. He did not close his eyes.
+She saw him find the place. His two fingers crooked the way they had when he told her about the raider captain, and stopped there, half a breath, with his eyes open on the bear.
 
 The hand went in, hard and exact, to the hollow of the shoulder.
 
@@ -5989,13 +5993,15 @@ Devan pitched forward on his hands and stayed there, his head hanging.
 
 A hot tearing line opened along her own ribs.
 
-*A cut on him opens on you.* Ammu had said it not an hour ago. His old wound had split under the strike, and now it was hers as well. She saw him sway and clap a hand to his side.
+*A cut on him opens on you.* Ammu had said it not an hour ago. The poisoned cut along his ribs tore open under the strike, and now a welt of it burned along hers as well. She saw him sway and clap a hand to his side.
 
 He lifted his head. He looked at what he had done, and at her.
 
 He did not look sorry. That was the thing. She had been braced for sorry.
 
-Chathu's voice rose behind them. "Leave the cat! She'll keep till the bear's done. The jackal has Pachan's key. Take the jackal!"
+Chathu's voice rose behind them. "Leave the cat! She'll keep till the bear's done. The girl has Pachan's key. Take the girl!"
+
+*The girl.* Not the word. Not yet. He was too busy with his bear to remember he was Ammu's witness, and the moment he remembered, one word in her hearing would make her a jackal until she died.
 
 Then she heard it from the cook-house roof. Three short yips, a pause, and one long rising note.
 
@@ -6015,7 +6021,7 @@ Devan's hand found her shoulder. It did not grip. It rested.
 
 "Don't," he said. "They want you to follow."
 
-She stood trembling under it. The cat's whole body said run. She weighed it the way she weighed a wall. Ammu was thirty strides ahead, and the nets were thrown for a leopard as much as a jackal. His tunic was black and wet down the left side where the old line had split, and the same fire lay along her own ribs. If she ran and a spear found her, he would bleed for it, with no blood to spare. If she ran, she ran alone, and left him in the mud of a yard that still had hunters in it. If she stayed, Ammu ran alone.
+She stood trembling under it. The cat's whole body said run. She weighed it the way she weighed a wall. Ammu was thirty strides ahead, and the nets were thrown for a leopard as much as a jackal. His tunic was black and wet down the left side where the poisoned cut had torn open, and a welt of the same fire lay along her own ribs. If she ran and a spear found her, he would bleed for it, with no blood to spare. If she ran, she ran alone, and left him in the mud of a yard that still had hunters in it. If she stayed, Ammu ran alone.
 
 Nobody ordered her. His hand stayed light, and he did not say it twice.
 
