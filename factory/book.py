@@ -406,18 +406,21 @@ def step_continuity(cfg: Config, book: dict) -> None:
         return
     last = book.get("continuity_last_errors")
     rounds = cfg.get("quality.continuity_rounds", 3)
-    if attempts >= rounds or (last is not None and len(errors) >= last):
+    # Progress is measured on major errors only; a checker that finds new minor slips each pass
+    # must not stop a book whose real problems are shrinking.
+    if not major or attempts >= rounds or (last is not None and len(major) >= last):
         if major:
             raise BookBlocked(f"{len(major)} major continuity errors remain after {attempts} fix round(s): "
                               + "; ".join(f"ch {e.get('chapter')}: {e.get('issue')}" for e in major))
-        # Only minor slips left: the book goes on, and they are listed for the owner.
+        # Only minor slips left: patch what can be patched, list the rest for the owner, go on.
+        _, unpatched = _apply_patches(cfg, book, errors)
         book["flags"] = [f for f in book["flags"] if not f.startswith("continuity (minor)")]
-        book["flags"] += [f"continuity (minor): ch {e.get('chapter')}: {e.get('issue')}" for e in errors]
+        book["flags"] += [f"continuity (minor): ch {e.get('chapter')}: {e.get('issue')}" for e in unpatched]
         _merge_new_facts(cfg, book, new_facts)
         _done(book, "S7")
         return
     book["continuity_attempts"] = attempts + 1
-    book["continuity_last_errors"] = len(errors)
+    book["continuity_last_errors"] = len(major)
     applied, fallback = _apply_patches(cfg, book, errors)
     book.setdefault("history", []).append({"at": state.now(), "event": f"continuity round {attempts + 1}: "
                                            f"{len(errors)} errors, {applied} patches applied, {len(fallback)} to revise"})
