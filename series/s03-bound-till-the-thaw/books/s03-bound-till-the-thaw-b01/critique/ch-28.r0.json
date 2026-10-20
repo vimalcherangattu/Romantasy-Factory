@@ -1,0 +1,38 @@
+{
+  "scores": {
+    "reader_question": 5.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 4.0,
+    "stakes_and_cost": 4.0,
+    "prose": 3.0,
+    "continuity": 0.0
+  },
+  "reasons": {
+    "reader_question": "Kiran's interrupted confession lands on Rohan's unasked question about the hand; the reader knows exactly what is coming and fears the response.",
+    "change": "Captive to free, armed with seal, ledger page, button and Asha's confirmation of Varun. The value shift lands cleanly.",
+    "romance_movement": "The new reason is her body's limit. She hands over the pack and lets him retie the hitch, so her need for help becomes physical.",
+    "shown_chemistry": "Palm held a breath too long, the retied hitch, the sattu joke. All responsive action and no narrated chemistry.",
+    "character_logic": "Meera trades evidence because a bound promise is too dangerous. Asha refusing the button and Rohan offering only true testimony both fit.",
+    "stakes_and_cost": "She gives away her own neck on a page. Two fingers are due a day after the Fair. Rohan carries the pack on unhealed ribs.",
+    "prose": "Mostly concrete and clean, but one garbled paragraph about the hiding. Asha lacks her bible voice: invented oaths, mercantile brashness.",
+    "continuity": "Internal contradictions: the sentries took her pack, yet she carries it. Nimmi took the seal last night but heard of it this morning."
+  },
+  "fixes": [
+    "Continuity hole: 'the sentries, who had taken her pack and her knife' conflicts with her later carrying the pack. Add a line at the lockhouse where Lalit drags her pack and knife from the sentries' pile and hands them over. Also make 'The count's in my coat' read 'in my shirt' to match the opening.",
+    "Timing contradiction: 'He told me this morning that the lady' sits beside 'I took it out last night'. Change it to 'He told me at dusk' so the telling comes before the move. Make 'after the soldiers marked the door' read 'after the torches came down the lane', since doors were marked days ago.",
+    "Garbled paragraph: 'He had watched her hide it, in a way'. Replace it with one clear sentence: he faced the wall and counted to a hundred and sixty, and he kept his word not to ask where. Separately, give Asha one invented oath and a priced remark in the trade scene to restore her bible voice."
+  ],
+  "reader_question": "When Rohan hears Kiran was on Dilan's rope, will he arrest him, and how will he face Meera's lie and her two dead fingers?",
+  "techniques_landed": [
+    12,
+    16
+  ],
+  "new_facts_assessment": "All six are necessary and mostly consistent. Nimmi's move of the seal is needed but its timing contradicts itself. The count escaping the search is plausible, but it later moves from shirt to coat. The runner's bad left foot and the left-handed scrape are good, but technique 11 is weak because the clue is not marked at a peak. The pony, Varun's midnight exit and the amputation timing are all sound.",
+  "content_rule_violation": false,
+  "failure_modes": [],
+  "average": 3.5,
+  "minimum": 0.0,
+  "passed": false
+}
