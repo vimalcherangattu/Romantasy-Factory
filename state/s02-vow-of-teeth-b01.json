@@ -1107,9 +1107,7 @@
     }
   },
   "chapter_count": 32,
-  "flags": [
-    "package: paperback build failed: No module named 'weasyprint'"
-  ],
+  "flags": [],
   "errors": [
     "10 continuity errors remain after 3 automatic fix round(s): ch 5: The bible says Devan never lies to Neela. In ch 5 he tells Neela and Kannan 'I have to see Bhaskaran about the gate', and the narration says 'It was not true.'; ch 8: Neela asks why Raiu was moved and Devan answers 'Oil.' The narration has already said 'It did not save oil.' That is a direct lie to Neela, which breaks his fixed voice rule. Ch 17 and ch 30 also rely on him never having lied to her.; ch 13: Chinna is a woman (ch 1 'a broad woman', ch 18, ch 21 'Chinna's got a bad hip', ch 31 'her bad hip'). In ch 13 Neela says 'Tell Chinna it's for the warden. He'll hurry.'; ch 14: In the supper scene, ch 14 reads 'Chinna at the kitchen door with his bad hip.' Chinna is a woman.; ch 17: Devan says that on the wedding night she 'slipped the latch like somebody who had done it before, carefully, so the slat wouldn't ring.' In ch 1 Neela leaned on the third slat on purpose to make it creak, and in ch 2 Devan's POV records that 'The third slat creaked.'; ch 20: Ch 20 calls Neela's lie that Devan 'thinks I'm a bride who sleeps badly' 'a first lie'. In ch 18 she had already lied to Ammu several times ('Nobody's seen', 'To learn his sleep', 'He sleeps like a log'), and ch 18 records that as her first lie told to protect someone else.; ch 24: In ch 17 Neela gives her only knife, the plain six-inch guild knife, to Devan and lays it on his side of the sword (F399). In ch 24 Devan thinks of her asleep 'with her knife under the mattress'. In ch 25 she runs down the stair with 'the plain guild knife in her hand', and in ch 26 it is in her belt. No scene shows the knife going back to her.; ch 7: Ch 7 says Unni is 'not much past twenty'. In ch 12, Asha's slate lists Unni among the recruits she wrote down in her first month at the fort, which was about nine years ago (she arrived at 19 and died at 22, six years ago). That would make him a recruit at about eleven.; ch 11: Ch 11 has Neela recall that Janu said 'He used to have a partner' 'in the first week, over the supper pots.' In ch 3 Janu said it at the lip of the kalari pit during the tour.; ch 16: Ch 16 says Neela 'had missed it twice already, the fever night and the night of the narrows', meaning the cup at the meeting stone. In ch 14 she dragged a late scent-mark across the cup on her way back from the narrows. In ch 18 Ammu counts bare cups without the narrows night ('Three nights... Four, if I count the night of the fever').",
     "3 major continuity errors remain after 1 fix round(s): ch 5: Devan never lies to Neela (bible fixed trait). In ch5 he tells her 'I have to see Bhaskaran about the gate', and the narration then says 'It was not true.'; ch 8: Devan gives Neela 'Oil' as his reason for sending Raiu away, and the narration flatly says 'It did not save oil.' That makes the answer a lie to Neela, which breaks his fixed trait. It should read as a true but evasive answer, like 'Rain'.; ch 32: Ch32 says Devan locked the palace gift away because he distrusted the council and 'never once thought to distrust the gift'. In ch6 he says aloud 'I don't trust gifts from the palace', bans the set from their chamber, and keeps the queen's seal in his sleeve.",
@@ -2403,16 +2401,30 @@
       "event": "approved by owner"
     }
   ],
-  "updated_at": "2026-10-20T17:41:11",
+  "updated_at": "2026-10-20T18:18:32",
   "midpoint_chapter": 16,
   "continuity_attempts": 1,
   "continuity_last_errors": 1,
   "package": {
-    "problems": [
-      "paperback build failed: No module named 'weasyprint'"
-    ],
+    "problems": [],
     "epubcheck": true,
-    "docx_headings": true
+    "docx_headings": true,
+    "paperback": {
+      "pages": 311,
+      "gutter_in": 0.625,
+      "interior": "interior.pdf",
+      "spine_in": 0.7775,
+      "wrap_in": [
+        12.0267,
+        8.75
+      ],
+      "wrap_px": [
+        3608,
+        2625
+      ],
+      "spine_text": "VOW OF TEETH     ANYA KALLOOR",
+      "paper": "cream"
+    }
   },
   "beta": {
     "verdict": "revise",
@@ -2421,5 +2433,6 @@
     "notes": "series/s02-vow-of-teeth/books/s02-vow-of-teeth-b01/beta-notes-2.md"
   },
   "beta_rounds": 1,
-  "pending_owner_notes": null
+  "pending_owner_notes": null,
+  "cover_tool": "ElevenLabs (FLUX 3 Image)"
 }
