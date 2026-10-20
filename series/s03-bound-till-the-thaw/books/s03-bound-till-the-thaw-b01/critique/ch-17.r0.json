@@ -1,0 +1,42 @@
+{
+  "scores": {
+    "reader_question": 3.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 2.0,
+    "stakes_and_cost": 4.0,
+    "prose": 4.0,
+    "continuity": 0.0
+  },
+  "reasons": {
+    "reader_question": "The ending 'Yes' raises what Ranu does with the warden, but Kiran and Nimmi's house are never raised, so half the outline question is missing.",
+    "change": "Rohan moves from 'the post signed it' to owning the blockade dead aloud, and he accepts following her lead on the rope.",
+    "romance_movement": "The reason is new: his protection collides with her command, and he defers. The pardon truth and the grief she holds deepen the bond.",
+    "shown_chemistry": "Snow pressed into split knuckles, hands shown palms up, stepping into her footprints: responsive actions, not narration.",
+    "character_logic": "Meera reaches Ranu, where her brother is dying, and never asks for Kiran or offers the redbark at a child's grave. Not a smart version of her.",
+    "stakes_and_cost": "No pardon, owning the graves, and obedience as the promise's price all cost something. The hunter threat evaporates during the descent.",
+    "prose": "The grave count is strong and concrete. Some stock lines remain ('face like a shut door', 'came out of someone else'), plus a muddy Varun transition.",
+    "continuity": "Conflicts: Jassi (40) is called 'a boy'. Rohan 'drew' the fallback route with a ruler, but ch16 and F130 say Varun drew it while Rohan held the ruler."
+  },
+  "fixes": [
+    "Continuity: change 'and a boy named Jassi was dead' to 'and Jassi, forty winters a goatherd, was dead'. In 'He had drawn it again two nights before the crossing', make Varun draw it in his neat hand while Rohan held the ruler, matching ch16 and F130.",
+    "Irrational behaviour: at '\"Nimmi,\" said Meera.' Meera's first word must be Kiran, and her hand should go to the pack holding the twelve packets. Let Nimmi cut her off with the flat line to Rohan, so 'Yes' still ends the chapter. Earlier, when she smells the walnut leaf, have her quicken her pace, so the reader carries the Kiran question out.",
+    "Character logic: 'For ten days he had been the man who went first' and 'He had never walked behind a guide in his life' contradict ten days of following Meera as his guide. Reframe both as a habit she has tolerated until now: taking the downhill place on the rope, and going first through doors. The conflict then turns on his promise newly making that habit dangerous."
+  ],
+  "reader_question": "What will Ranu, and Nimmi, do with the captain who just admitted he signs the blockade that filled thirty-one graves?",
+  "techniques_landed": [
+    14,
+    15,
+    19
+  ],
+  "new_facts_assessment": "The graves, the count of 31, the south-slope route, walking uphill and the split right knuckles are all necessary and consistent (right arm, F068). Two facts are unlisted and conflict with canon: Jassi as 'a boy', and Rohan drawing the route himself.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Irrational behaviour to extend plot",
+    "Stakes without depth"
+  ],
+  "average": 3.12,
+  "minimum": 0.0,
+  "passed": false
+}
