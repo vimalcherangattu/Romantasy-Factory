@@ -1,42 +1,41 @@
 {
   "scores": {
     "reader_question": 4.0,
-    "change": 4.0,
+    "change": 3.0,
     "romance_movement": 4.0,
     "shown_chemistry": 4.0,
     "character_logic": 3.0,
     "stakes_and_cost": 4.0,
-    "prose": 3.0,
-    "continuity": 0.0
+    "prose": 4.0,
+    "continuity": 5.0
   },
   "reasons": {
-    "reader_question": "Clear twin question: what are the numbered escort, and what will Neela swear to? The salve sharpens it without answering it.",
-    "change": "Neela gains the cuff clue, the resin scent and an oath date. The power shifts as she coaches the warden.",
-    "romance_movement": "The reason is new: she sees him fail and teaches him, then he asks for her real self and waits.",
-    "shown_chemistry": "The coaching drill, his startled laugh and 'Of course you were' with no knife show chemistry through response.",
-    "character_logic": "Neela lets resin-smelling salve sit on her skin at night with no thought of turning risk. Her denial is too passive.",
-    "stakes_and_cost": "The oath forces a choice between cover, truth and the word, and each answer has a named cost.",
-    "prose": "The technique name 'Shaped gaps' leaks into narration. 'Hands loose' echoes four times, and the 'undid something' line is narrated.",
-    "continuity": "Rema reads the ward line 'off the closing writ', which F427 says read 'Neela, of Kettamala'. Devan's 'last new moon' is now wrong. Kannan's 'Ammu/Valli's dog back home' is impossible."
+    "reader_question": "Escort's numbers, dry packs, hounds and resin-smelling salve converge on one clear gap; the oath sharpens it.",
+    "change": "Knowledge shifts (resin scent, First Guard's cuff) and she is now named for oath, but she ends mostly in denial.",
+    "romance_movement": "New reason: she sees him fail and coaches him, a competence reversal; his 'I'll wait' raises disclosure stakes.",
+    "shown_chemistry": "Coaching rounds, his startled laugh and 'Of course you were' with no knife show responsiveness without narration.",
+    "character_logic": "Having demanded 'tell me everything' in ch2, she sits beside Devan with a resin-smelling pot and says nothing, with no stated reason.",
+    "stakes_and_cost": "Sworn testimony with no safe answer to 'what are you'; she spends her one refusal to hold it off.",
+    "prose": "Clean and concrete. Minor echoes ('a hair' twice), consecutive 'She' paragraph openers in the dispensary, and Kannan's clunky 'My mother Bindu's dog'.",
+    "continuity": "Consistent with F454-F466, Eravi, nail splits, Muthu's tell and the question-game refusal rule. Soft points are noted in the fixes."
   },
   "fixes": [
-    "Continuity. Change 'reading it off the closing writ' to the marriage papers, to match F427. In 'Bhaskaran passed a tally of that wax at the last new moon', replace the date with 'the new moon before my wedding'. Cut 'Ammu... I mean Valli's dog back home'. Give Kannan his own memory, such as his mother Bindu's dog when a snake was in the thatch.",
-    "Character logic and a meta leak. After 'It was warm. Then the smell reached her', Neela, an odiyan at night, must register the danger at once. Have her check that it touched only the nail, wipe it on her cloth under Eravi's eyes, and count the minute. Cut '*Shaped gaps*, she thought' and replace it with a concrete question in her voice.",
-    "Prose echo and narrated feeling. 'Hands loose' appears four times (Neela, First Guard twice, Devan). Keep only Devan's at the end of the drill. Replace 'It undid something in her chest... much more dangerous' with an action, such as her stepping out of the arch instead of leaving. Also clarify 'You have a pass in the game': the pass refuses an answer, so she should spend it on her own 'Ask me something else'."
+    "At 'She set the pot on the bench,' Neela holds back the resin smell from Devan in the same chapter where she demanded he tell her everything. That withholding needs a stated cost. Add one beat where she nearly names it and stops. Reason: say 'resin' aloud about a crown guard and it becomes something she must swear to at assize, or something Devan must act on. Alternatively, have Devan notice the pot and let it lie.",
+    "At 'leave the pot in the strongbox with the rest' there is a continuity problem: the hall strongbox key hangs on Devan's cord (F297). Either she comes down to ask him for it, which gives her a motive for entering the hall, or she means her own chest. As written she cannot open the box alone.",
+    "At 'the one word in the world she could not give away, in any room, to any ear': she self-named to Devan in book 1, so she has already given it to one ear. Revise to 'could not give again, to anyone but the man already holding it.' This sharpens the oath stakes and stops a reader from flagging the contradiction. Also cut one of the two 'a hair' echoes in the hall scene."
   ],
-  "reader_question": "What are the nameless, sleepless escort who carry nightbark salve, and what will Neela say when sworn to tell the court what she is?",
+  "reader_question": "Are the crown escort odiyans carrying nightbark, and what will Neela swear to when the court asks what she is?",
   "techniques_landed": [
     1,
-    11,
-    25
+    25,
+    11
   ],
-  "new_facts_assessment": "The salve from Fourth Guard is necessary and consistent; it plants C05 well. The oath as household witness is necessary and matches F457. Hounds loosed at dusk is fine, but Devan's motive should surface later. The eleven-names count and eight pillars are harmless texture, though 'beyond the household' is not on the page. First Guard's cuff gesture is a good C04 plant, consistent with F460.",
+  "new_facts_assessment": "No new facts are declared, but the draft adds several: the hall's eight pillars, Janu's count of eleven names, the hounds loosed at dusk after nine kennelled days, Fourth Guard's salve, and the oath set for the morning after next. All match the provisional F462-F466 except the oath date. 'Morning after next' must be checked against Rema's 'three days' (F457). 'As the fort's hounds had always run it' glosses over Devan kennelling them nightly through book 1 (F377).",
   "content_rule_violation": false,
   "failure_modes": [
-    "Irrational behaviour to extend plot",
-    "Narrated-only chemistry"
+    "Irrational behaviour to extend plot"
   ],
-  "average": 3.25,
-  "minimum": 0.0,
-  "passed": false
+  "average": 3.88,
+  "minimum": 3.0,
+  "passed": true
 }
