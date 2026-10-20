@@ -1,0 +1,41 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 3.0,
+    "stakes_and_cost": 4.0,
+    "prose": 3.0,
+    "continuity": 5.0
+  },
+  "reasons": {
+    "reader_question": "The sealed second case and 'any other the crown has sealed' give a sharp question; the guards' identity is pushed further by 'It passes'.",
+    "change": "The witness is dead and Devan names his restraint publicly. Neela learns the escort carry old nightbark. Sparring becomes a standing date.",
+    "romance_movement": "The reason is new: she offers combat, not comfort. He gifts a point, she refuses it, earns one, and 'Same time tomorrow?' sets a ritual.",
+    "shown_chemistry": "Strong responsive action: he moves the lamp off her bad hand, opens his guard, and his slow smile answers her grin. One pronoun slip blurs a key line.",
+    "character_logic": "Devan's public objection is smart. Neela is passive against her beat goal, and she carelessly shows split nails to the people she thinks are hunting her.",
+    "stakes_and_cost": "Devan's refusal costs Ittan's life and the case's witness. Neela's sworn testimony and the unknown writ make her next words dangerous.",
+    "prose": "Mostly clean and concrete. It repeats ch4's ferry image, has 'long moment/long time' echoes, an anachronistic 'pencil mark', and two logic slips in pronouns and the wound-share.",
+    "continuity": "The draft agrees with the wound-share (F265), the goat path (F094), First Guard's cuff (F466) and the sixty-man garrison. Only minor slips occur within the chapter itself."
+  },
+  "fixes": [
+    "Fix the logic slips. Change 'I don't want one he gave me' to 'you gave me'. Rewrite 'did not welt on him because he had not bled' so the bruise doesn't carry because her skin didn't break. Change 'buried a man this day on my own warrant' to 'under my clause', which squares with 'the queen's warrant outranks the hearing'. Make the second case match the first ('held against her coat'), not 'hung from her hip'.",
+    "Repetitive image: 'as if she waited for a ferry' repeats ch4's Ittan 'like a man waiting for a ferry'. Give First Guard her own image, for example 'as if she stood a watch she had stood a hundred times'. Cut one of 'Rema looked at him for a long moment' or 'He looked at her for a long time'. Replace 'as small as a pencil mark' with a period-true image such as 'as thin as a stylus line'.",
+    "Irrational behaviour: 'She had forgotten it. The bandage had come loose'. A guild-trained woman who believes these four came to cage her would not idly show her split nails. Make it a choice. She loosens the bandage and lays the hand on the post on purpose to test First Guard's cuff reaction. This also gives Neela agency in a chapter where she mostly stands behind Devan."
+  ],
+  "reader_question": "What crown-sealed matter is in Rema's second writ case, and are the green-sashed escort guild hunters or something the queen made of odiyans?",
+  "techniques_landed": [
+    4,
+    11,
+    9
+  ],
+  "new_facts_assessment": "All six are necessary and consistent. The knuckle welt fits F009/F265, the escort's goat-path exit fits F094, and the spar extends F347 well. Within the chapter, Rema's case is 'held against her coat' then 'hung from her hip', and the bruise line misassigns who bled.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Irrational behaviour to extend plot"
+  ],
+  "average": 3.88,
+  "minimum": 3.0,
+  "passed": true
+}
