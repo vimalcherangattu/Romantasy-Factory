@@ -1,0 +1,42 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 2.0,
+    "stakes_and_cost": 4.0,
+    "prose": 3.0,
+    "continuity": 0.0
+  },
+  "reasons": {
+    "reader_question": "The badge gives a sharp, specific question, and Sunni's crossed-out name makes the guilt question concrete.",
+    "change": "Meera now holds Kiran's secret against Rohan. She has made and lost a triage bet. She lets Rohan witness her worst work.",
+    "romance_movement": "This is new movement: he stays without rescuing, and she is glad he is there. The reason is the triage, not a recycled refusal.",
+    "shown_chemistry": "The lamp held while his back is turned, the counted steps, and the palm on the floor are all responsive care. A few 'He did not' lines narrate the restraint.",
+    "character_logic": "Nimmi says 'three if I'm mean' and then rations at two while children die. Rohan refuses to let a boy haul water with no reason, which causes fatal delays.",
+    "stakes_and_cost": "Each name costs a life, Sunni's death lands, and hiding the badge puts Meera on the wrong side of the rope's honesty.",
+    "prose": "Concrete and mostly clean. Problems: the 'He did not...' anaphora repeats in three scenes, 'like a cracked cup' echoes 'cup', 'swallowed stone' is stock, and paragraphs open with 'She' back to back.",
+    "continuity": "'She had never once untied them' conflicts with the half-pinches Meera dosed Rohan in ch11-12 (F122). The hunters' redbark twist (F141) goes unmentioned."
+  },
+  "fixes": [
+    "At 'She had never once untied them' (continuity conflict): replace it with 'She had opened only one, for the captain's lungs,' to match ch11-12. Add the hunters' crown twist (F141) to the stock so the sum is honest. Cut 'three if I'm mean', or have Nimmi explain why stretching fails ('Thin it and it turns nobody').",
+    "At 'A boy could do it, and I'd' (irrational behaviour): Meera counts everything and would never accept fatal delay for a gesture. Give a world reason no one else can haul: every well person is nursing, or the villagers won't carry for a warden's household. Then have Rohan register the quarter hours himself, so the cost belongs to both of them at Sunni's death.",
+    "At 'lit with something wicked and delighted' (twist without setup): Kiran is holding Dilan's badge and sees the captain of Dilan's post tied to his sister. Add a retrievable clue: his eyes go to Rohan's face first, something flinches, and then the joke covers it. The badge then rereads as fear, and C16 is planted fairly."
+  ],
+  "reader_question": "Whose warden badge is Kiran hiding from the captain tied to his sister, and can Meera live with the count that killed Sunni?",
+  "techniques_landed": [
+    5,
+    13,
+    19
+  ],
+  "new_facts_assessment": "The three packets ruined on the Teeth are a plausible bridge to eighteen courses, but they clash with Nimmi's 'three if I'm mean', which allows 27. The figure of forty-one sick matches F053 but ignores 25 deaths since the note; one line should explain it. The quarter-hour well trip is plausible, but the reason Rohan must haul is unmotivated.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Irrational behaviour to extend plot",
+    "Narrated-only chemistry"
+  ],
+  "average": 3.12,
+  "minimum": 0.0,
+  "passed": false
+}
