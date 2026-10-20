@@ -1,29 +1,3 @@
 {
-  "facts": [
-    {
-      "category": "place",
-      "fact": "The Rope-Hut has a sprig of juniper nailed above its door and a door facing downhill; it lies about an hour's descent by cairn-light from the crew ledge on the south slope.",
-      "why": "needed to link the crew ledge of chapter 7 to the Rope-Hut"
-    },
-    {
-      "category": "knowledge",
-      "fact": "Asha's four, after losing the tracks on the bare ridge, cast east along the Saddle's lip rather than finding the ledge.",
-      "why": "needed to explain how Meera and Rohan escape them before the Rope-Hut"
-    },
-    {
-      "category": "object",
-      "fact": "Meera hauls Rohan out of the gully with a sliding-grip two-to-one drag on the red rope anchored to her axe, which Bindu calls the lazy woman's lift.",
-      "why": "the beat requires a crew pulley trick"
-    },
-    {
-      "category": "object",
-      "fact": "The crown redbark wrappers carry a faint round sieve-mark pressed into the wax along the fold, from the lowland guild stores' silk sieve with a ring in the weave.",
-      "why": "clue C07: Rohan identifies the redbark as crown-grade"
-    },
-    {
-      "category": "knowledge",
-      "fact": "The regent's hunters announce themselves with a two-note falling horn call that Meera recognises, and they climb the Neshar-side road with torches in a long line of fourteen or more.",
-      "why": "needed to identify the torches at the chapter's end"
-    }
-  ]
+  "facts": []
 }
