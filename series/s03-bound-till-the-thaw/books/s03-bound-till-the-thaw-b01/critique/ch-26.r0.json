@@ -1,0 +1,44 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 3.0,
+    "stakes_and_cost": 5.0,
+    "prose": 4.0,
+    "continuity": 5.0
+  },
+  "reasons": {
+    "reader_question": "Clear twin question: will she survive the cold, and will Ranu, Kiran and the hidden seal survive tonight's fire?",
+    "change": "Meera is maimed, the lie is on the record of her body, and she learns the fire order; knowledge and power both shift.",
+    "romance_movement": "First lie since the bond, met by his chosen not-knowing. The reason is new and lands as the third trust beat.",
+    "shown_chemistry": "The hovering cuffed hand, the palm laid flat, the shift away and the look asking if she's cold all show care without narration.",
+    "character_logic": "The lie is smart bookkeeping, but Rohan hears 'burn the cough' and only says it can't be stopped; a captain would act.",
+    "stakes_and_cost": "Two fingers lost for good, and the fire threatens Kiran, Pinku, Nimmi's eight and the seal in the woodpile.",
+    "prose": "Strong, quotable lines ('It was not courage. It was bookkeeping.'). The mercy/belief rumination repeats, and several consecutive paragraphs open with 'She'.",
+    "continuity": "Band over glove, badge letters, woodpile seal, Pinku and the counts all match. 'Three weeks' and the Hakam backstory are close to the edge."
+  },
+  "fixes": [
+    "At '\"I'm well,\" said Meera. Nothing happened.' the rule is softened (Convenient magic, technique 22). She believes she is not well, so this is a lie, and it changes whether he offers the loophole. Either give her a free evasion ('Ask me after dark') or a plain truth ('I'm cold'). Cut Rohan's 'kind of truth the cold can't catch' line, or let her right fingertips whiten so he sees them.",
+    "At '\"There is no way to move them.\"' Rohan is passive (Irrational behaviour). Before Meera says 'I'm thinking', have him act. He strikes the door and demands Varun, and offers to name terms if the houses stand. The guard refuses or laughs. Meera then weighs telling him the seal sits in the woodpile beside the sealed shed. That truth is free but endangers the stone, and she holds it as a choice.",
+    "At 'Rohan had not offered. She would remember that' the mercy-or-belief question is replayed after it was already closed (Endless monologue). Cut that paragraph to two lines. Also cut or clarify 'She hoped the dead boy had understood her'. Recast the 'She did not look / She made / She drew' run so consecutive paragraphs don't open with 'She'."
+  ],
+  "reader_question": "Will Meera live through the night of lie-cold, and can anyone stop the regent's men from burning Ranu, Kiran and the hidden seal?",
+  "techniques_landed": [
+    14,
+    18,
+    19,
+    22
+  ],
+  "new_facts_assessment": "The sealed 'burn the cough' order is necessary and fits F227 and Tej's ch27 refusal, so it must not be resolved here. The finger and wrist injury fact fits F025. The guard source fact is fine. Several facts are unlisted: Hakam was 'born that way' (check against ch2, F056); Nimmi has eight who cannot be moved; Rohan wears a felt jerkin; soldiers nail the goat shed shut. The goat shed fact affects reaching the seal and must be logged.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Convenient magic",
+    "Irrational behaviour to extend plot",
+    "Endless monologue"
+  ],
+  "average": 4.12,
+  "minimum": 3.0,
+  "passed": true
+}
