@@ -505,22 +505,22 @@
       }
     },
     "16": {
-      "status": "revised",
+      "status": "passed",
       "revisions": 0,
       "scores": {
         "reader_question": 4.0,
         "change": 4.0,
         "romance_movement": 4.0,
-        "shown_chemistry": 5.0,
+        "shown_chemistry": 4.0,
         "character_logic": 4.0,
         "stakes_and_cost": 4.0,
-        "prose": 3.0,
-        "continuity": 0.0
+        "prose": 4.0,
+        "continuity": 5.0
       },
-      "average": 3.5,
+      "average": 4.12,
       "flags": [],
       "words": 2793,
-      "minimum": 0.0,
+      "minimum": 4.0,
       "continuity_fixes": [
         "Neela recalls Janu's story as one about 'a leopard that took a bride' that Devan stopped with 'enough'. In ch 9 the story was a man-eating leopard taking a man above the second ford, and Devan said 'Not tonight, Janu'. FIX: In ch 16, change the sentence to 'Janu had told a story at supper once, of a man-eater of the pass that left a traveller's sandals on the road. Devan had said Not tonight, Janu, so mildly that she went red and stopped.'",
         "Neela's reread says Devan stopped Janu's leopard story at supper by saying 'I'm tired of leopards, Janu,' mildly, 'by daylight.' In ch 9 Neela was at that supper and heard 'Not tonight, Janu.' Ch 30 places the 'tired of leopards' line later, in the kitchen, by day, out of Neela's hearing. Supper is also not daylight. FIX: In ch 16, change the line to: 'Janu was halfway through it over the rice when Devan said, \"Not tonight, Janu.\" He said it quietly, with his eyes on his bowl.'",
@@ -2271,9 +2271,13 @@
     {
       "at": "2026-10-20T08:24:34",
       "event": "done: S6 revise ch 16"
+    },
+    {
+      "at": "2026-10-20T08:26:08",
+      "event": "done: S5 critique ch 16"
     }
   ],
-  "updated_at": "2026-10-20T08:24:34",
+  "updated_at": "2026-10-20T08:26:08",
   "midpoint_chapter": 16,
   "continuity_attempts": 0,
   "continuity_last_errors": null,

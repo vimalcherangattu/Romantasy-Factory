@@ -4,39 +4,39 @@
     "change": 4.0,
     "romance_movement": 4.0,
     "shown_chemistry": 4.0,
-    "character_logic": 3.0,
-    "stakes_and_cost": 3.0,
-    "prose": 3.0,
-    "continuity": 0.0
+    "character_logic": 4.0,
+    "stakes_and_cost": 4.0,
+    "prose": 4.0,
+    "continuity": 5.0
   },
   "reasons": {
-    "reader_question": "The question is clear and specific: is the gift mercy or patience? The closing reread of the breath-hitch as a man who chooses to be heard awake sharpens it, but it escalates only a little beyond the beat's own question.",
-    "change": "Power moves for real. Devan gives up his only lever with no terms, and Neela spends a resin night human beside him for the first time since the reveal. Both states differ from the chapter's start.",
-    "romance_movement": "The reason is new. He names his own offer as the guild's leash and withdraws it, and her distrust is rational and drawn from Chathu's gifts. The cost to Devan of being disbelieved is barely shown, so 'costs them both' lands only on her side.",
-    "shown_chemistry": "Responsive action carries it: palms turned out and then dropped, 'I want the name. I'd be a liar to say otherwise', her watching his mouth 'the way she'd watch a lock for the click', and the sword hilt toward her. Banter is sparse but sharp ('That's a motto').",
-    "character_logic": "Devan's turn is earned and in voice. Neela's 'experiment' doesn't hold up. A human body can't be caged, so a resin-free night tests nothing about his silence, yet the text frames it as checking 'whether the floor held'. The 'If she was wrong' reasoning is also garbled.",
-    "stakes_and_cost": "The skipped resin carries a cost, but the ache maths is vague and possibly against the rules. Nothing touches the contract clock, Ammu or guild duty tonight, so the night costs little beyond a feeling of nakedness.",
-    "prose": "The prose is concrete and mostly clean. The reread runs as a catalogue of fragment paragraphs that open 'The shutters.', 'The hounds.', 'The cat.', 'The corridor lamp.', which breaks the consecutive-opener rule. 'He set...' and 'He had meant...' also open adjacent paragraphs. Muddled lines include 'Master. He had said it to himself once' and 'Even so, she could not have done anything different.'",
-    "continuity": "Three conflicts. (1) Ch15 ends with Neela seeing him light the pit lamps after first light and hearing him drill, but ch16 has him come down 'in the dark' and stand unable to take a step. (2) The west-stair vow was made six years ago, at Asha's death, yet 'He had drilled alone for eight years' because of it, which conflicts with the bible: he stopped sparring at 24 after the raider captain. That also pre-empts the ch21 disclosure. (3) 'Janu screaming below him' with fresh blood sits awkwardly with F066, where Janu found the body the morning after."
+    "reader_question": "Two concrete gaps leave the chapter: is his gift mercy or Chathu-style patience, and what happens when Ammu climbs the spur by noon.",
+    "change": "Devan gives up his only leverage over her, and Neela reads the whole first half again as either a protective fence or a trap.",
+    "romance_movement": "There is a new reason she refuses: Chathu's gentle grooming rather than plain fear of the word. His first unconditional choice moves them.",
+    "shown_chemistry": "Shown through restraint: palms turned out, sword hilt toward her, the hitch offered so she can count it. Little desire is on the page.",
+    "character_logic": "Both act like smart versions of themselves. Her no-resin test is costly for something she admits cannot prove anything, but she owns that.",
+    "stakes_and_cost": "The night carries named costs: a second bare cup, a logged refusal for Chathu, Ammu at the spur by noon, and the ache running on.",
+    "prose": "Concrete and well varied, with no banned phrases. The cost ledger is stated twice, the two-mistakes passage reads like an essay, and Neela's dry humour is missing.",
+    "continuity": "Matches F048, F054, F087, F145, F323, F374, F375, F377 and F423. 'Twenty-one years on the guild's page' is loose wording but defensible."
   },
   "fixes": [
-    "Fix continuity at \"He had come down in the dark as he did every dawn\" and \"He had drilled alone for eight years so he would never\". Ch15 has Neela watch him light the lamps after first light and hear him drilling. Change the opening to say he came down after leaving her, ran the forms by rote while she watched from the sill, and then stalled mid-form once the rain eased and the guild letter surfaced. Separately, keep the eight years tied to his unnamed old reason (the ch21 secret). Make the west-stair vow, six years ago, the moment he extended that rule to the word in his mouth. Change 'Janu screaming below him' to the morning Janu found Asha, to match F066.",
-    "Fix character logic at \"Three steps in a dark house, to see whether the floor held.\" (Irrational behaviour). A human Neela can't be caged, so a resin-free night tests nothing about his silence. Name what she is actually testing. She can lie human and unarmed with her back to a man who is awake and stronger, and see whether he uses the dark for anything else: moving the sword, touching her, reaching for her knife. Or she can test whether she herself can sleep in his presence. Also rewrite the garbled \"If she was wrong, she would lose her life\" passage. State which belief, if wrong, kills her (trusting him) and which costs only 'this' (distrusting an honest man), so her choice of the safe error reads as deliberate.",
-    "Fix stakes at \"a fever she would meet in nine days or ten\" and prose in the reread catalogue (\"The shutters.\" / \"The hounds.\" / \"The cat.\" / \"The corridor lamp.\"). Either give the running count of skipped nights against the full-moon rule, so the ache date follows from the bible, or replace the number with a concrete cost tonight: the meeting-stone report to Ammu goes unmade a second time and the guild clock tightens. Then recast the catalogue so consecutive paragraphs don't open on 'The'. Fold two items into one paragraph and lead others with Neela's action ('She had called it...', 'Fourteen hounds...')."
+    "'It had a price, and she made herself read it off' (failure: Endless monologue/repetition). The posts, cup, Ammu, double days and ache appear here and again at 'Somewhere past midnight she counted something else.' Cut this paragraph to two sentences on what she gives up (Ammu's trust, one day nearer the ache). Keep the logistics for the midnight beat so the chapter ends on the new information.",
+    "'stood for twenty-one years on the guild's page' (continuity risk). Her page was written at her first turning eleven years ago (F319). Only her number and intake go back twenty-one years. Change it to 'for twenty-one years in the guild's yard' or 'under the guild's number' so it cannot be read as conflicting with the ledger rule.",
+    "'So there were two mistakes open to her' (failure: interiority replaces action, and Neela's voice is flat). The weighing reads as an argument. Turn it into a physical choice, for example her thumbnail dragging along her nail (F328) while she counts. Give her one dry under-the-breath line, such as a wry note that a sensible woman would take the resin. That keeps her voice and resets tension before the night."
   ],
-  "reader_question": "Is Devan's unconditional silence real mercy, or a hunter's patience saving the word for the dusk she is most useful caged?",
+  "reader_question": "Is Devan's unconditional gift mercy, or a hunter's patience saving the word for the dusk she is most useful caged, and what will Ammu do when she finds the cup bare?",
   "techniques_landed": [
     17,
     12,
-    20
+    20,
+    3
   ],
-  "new_facts_assessment": "F143 (the border-school letter): necessary and well used. It gives Devan a guild master's voice he has never heard in person, and it fits F041/F067 (age twenty, border school). Keep it. F144 (the west-stair vow): its purpose is good, but as written it conflicts with the bible's timeline. The vow is six years old and the eight years of solitary drilling come from the raider-captain killing. Either make the stair vow a hardening of an older vow, or cut the 'eight years' link. Also make the scene match F066, where Janu found Asha's body the morning after. F145 (the nineteen-nights count): this half is consistent with ch15's twenty. The 'ache in nine or ten days' half is unsupported. The bible says the ache comes after a full moon without resin, and the page doesn't establish enough skipped nights to put it ten days out. Either state the running tally (how many nights have counted against her) or drop the specific number.",
+  "new_facts_assessment": "F423 is necessary and consistent. It correctly retires F398 against F397, where the narrows mark came late but counted. The rice line implies Devan briefed Janu, which is undeclared but harmless and consistent with F284. Devan's second vow (F144) and Chathu's gentleness (F374) are already logged.",
   "content_rule_violation": false,
   "failure_modes": [
-    "Irrational behaviour to extend plot",
-    "Repetitive tension"
+    "Endless monologue"
   ],
-  "average": 3.12,
-  "minimum": 0.0,
-  "passed": false
+  "average": 4.12,
+  "minimum": 4.0,
+  "passed": true
 }
