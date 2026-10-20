@@ -6,37 +6,37 @@
     "shown_chemistry": 4.0,
     "character_logic": 3.0,
     "stakes_and_cost": 4.0,
-    "prose": 4.0,
+    "prose": 3.0,
     "continuity": 0.0
   },
   "reasons": {
-    "reader_question": "The ending poses a specific, urgent question: what is in Muthu's thick packet, and what will Ittan tell him first now that Bhaskaran let him in? It is sharper than the outlined 'how long can the fort keep them safe'.",
-    "change": "The bargain becomes a public marriage, and she lets him see her turn back. Power also shifts: by waiting an hour, Neela hands the first word with Ittan to the man who reports on them. Both changes are clear and named.",
-    "romance_movement": "The reason for change is new. The change is a daylight vow in her own words and a return witnessed by choice, then an explicit scene she leads with nothing owed. It loses a point because the closing future-talk drifts into a list.",
-    "shown_chemistry": "Strong responsive care: the warmed cloth and dish she never asked for, the 'Left' cue during sex, the pebble set down and kept. A few lines narrate his feeling from inside Neela's head.",
-    "character_logic": "Devan already suspects Muthu, yet his order is a blanket 'nobody goes in' that a captain can override. Bhaskaran then lets the suspected man through without a beat of resistance. The cliffhanger works only because the smartest man in the fort left an obvious gap.",
-    "stakes_and_cost": "Choosing the hour over Ittan costs a real thing, the first word with a prisoner who may recant. Entrusting Kirri's cloth to Muthu is a knowing, costly trust. Grief for Raiu and Ammu is held, not waived.",
-    "prose": "Clean and concrete, with good short-sentence control and no banned phrases or AI tells. Strong lines: 'He said it as a count', 'It sat on the same bench as the laughing'. There is a POV slip in the opening, some '...and he did not' rhythm repetition, and it runs slightly long.",
-    "continuity": "Conflict: the leopard lies 'along his left side, away from the bound ribs', but Devan's wound is on the left ribs (F224), and the same chapter says 'careful of the left side'. Minor: Muthu's entry is later than first light, while F297 has Ittan say he came at first light."
+    "reader_question": "Specific and urgent: what will Muthu and his thick grey packet get from Ittan before Devan does? Sharper than the outline's question.",
+    "change": "Bargain becomes chosen marriage. Neela spends Ittan's first confession to keep her hour, and the guardroom falls to Muthu.",
+    "romance_movement": "New reason: she lets him witness the return and leads by daylight. The pebble set down shows the bond is now mutual.",
+    "shown_chemistry": "Dish, cloth rewarmed at the brazier, 'Left' during the scene, matched welts. All responsive. Some sex beats drift generic.",
+    "character_logic": "'Ittan has waited six years' is a non sequitur. Devan's order only stops non-captains, so it is leaky. Both are muddy.",
+    "stakes_and_cost": "Waiting an hour costs the first word with Ittan. Kirri's cloth goes via the informer. Both choices are knowingly paid for.",
+    "prose": "Strong lines ('promised her less than he meant', 'said it as a count'). 'Cheese' jars, the climax goes generic, and the vow roll goes to summary.",
+    "continuity": "The ending calls Devan 'the captain' and Muthu 'second to the captain'. Muthu is captain and Devan is warden (F025, F092)."
   },
   "fixes": [
-    "In \"She lay along his left side, away from the bound ribs\" (continuity error: Devan's wound is on the left ribs, F224, and the dawn scene says 'careful of the left side'): change to \"She lay along his right side, away from the bound ribs\".",
-    "In \"I sent Unni to Bhaskaran with an order: nobody goes into that room until I come\" (irrational behaviour to extend plot: Devan suspects Muthu, yet leaves a gap any captain can walk through): make the cost explicit in the same speech. Have Devan add something like \"Bhaskaran will hold it against anyone but his captain. I can't order a sergeant to bar Muthu without telling the fort why.\" Then her 'He can wait an hour' is a choice made knowing Muthu might get there first. At the end, give Bhaskaran one visible hesitation (spear shifts, a word exchanged) before he steps aside, so the cliffhanger reads as rank, not convenience.",
-    "In \"steadily, for whatever was coming up it, and gladly when it was her\" (POV slip and narrated chemistry: in Neela's close third she cannot know he watches 'gladly'): replace it with an observable sign she reads, such as a change in his stance or his hands unclasping as she reaches the tenth step. Apply the same treatment to \"He had never wasted words and he did not now\", which tells the reader what the short vow already shows; cut it."
+    "Ending, 'He was second to the captain and no one else': this is a rank continuity error, since Muthu is the captain and Devan the warden. Change it to 'He was the warden's second, and no one else in the fort was.' Change 'at the open shutter, at the captain' to 'at the warden'. Check every 'captain' in the Bhaskaran exchange so that the word refers only to Muthu.",
+    "At 'Ittan has waited six years,' she said: this is a character-logic slip. Ittan hasn't waited; he bought deaths. Replace it with a line that names her real reasoning and her price, for example: 'Asha waited six years. Ittan can wait an hour.' The line should also show she knows Muthu may reach him first. Keep 'She knew the price, and she paid it.'",
+    "From 'She rode him through the grey light' to 'When she came it was long and shaking': the climax goes generic. Tie it to this couple. Have her count his breath, find the hitch, and stop counting for the first time. Separately, cut 'It would have been cheese' and use a period-true word, for example 'It would have been too much.'"
   ],
-  "reader_question": "What is in the thick grey-sealed packet Muthu carries into Ittan's guardroom, and what will Ittan tell him now that he has the first word?",
+  "reader_question": "What will Muthu, carrying a packet thicker than any month's letter, say to Ittan before Devan gets there, and whose hand will Ittan name?",
   "techniques_landed": [
     9,
     20,
     23,
     24
   ],
-  "new_facts_assessment": "The fodder-run correction (water through earlier, second run in three days, pass shut until the rains break) is necessary and finally squares F289/F291 with F020. Keep it and retire the two earlier versions. The middle-watch order to Bhaskaran is necessary, but as written it creates the logic hole: Devan suspects Muthu (F217, F383) and still words the order so a captain can walk through it. Muthu enters well after first light, after the dawn turning, the meal, the sex and the talk, which strains F297's 'came at first light'. Either adjust ch32's line to 'this morning' or move Muthu's crossing earlier. The age statements (27 and 32, given before the dawn scene) are correct and satisfy the content rules.",
+  "new_facts_assessment": "The draft lists none, yet it adds Ittan's middle-watch request, Bhaskaran's order, the second fodder run, Chinna's void wager and Muthu's packet. These match F284 to F294 and F393/F394, and the packet sets up F297. All are needed. The file is wrong to be empty.",
   "content_rule_violation": false,
   "failure_modes": [
     "Irrational behaviour to extend plot"
   ],
-  "average": 3.38,
+  "average": 3.25,
   "minimum": 0.0,
   "passed": false
 }
