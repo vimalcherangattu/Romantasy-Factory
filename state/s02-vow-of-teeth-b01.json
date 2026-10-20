@@ -370,10 +370,10 @@
       "minimum": 3.0
     },
     "18": {
-      "status": "revised",
+      "status": "passed",
       "revisions": 1,
       "scores": {
-        "reader_question": 3.0,
+        "reader_question": 4.0,
         "change": 4.0,
         "romance_movement": 4.0,
         "shown_chemistry": 5.0,
@@ -382,10 +382,10 @@
         "prose": 4.0,
         "continuity": 5.0
       },
-      "average": 4.12,
+      "average": 4.25,
       "flags": [],
       "words": 2759,
-      "minimum": 3.0,
+      "minimum": 4.0,
       "continuity_fixes": [
         "Ammu says she has written to Kirri 'eleven times'. In ch 7 she had written three letters, and the bible fixes the count at three (C08). FIX: In ch 18, change 'I've written eleven times to the address she gave' to 'I've written four times now to the address she gave'.",
         "Ch 18 opens at sixteen nights and ends the same day at 'Fifteen nights.' Ch 19, the next evening, also says fifteen, so the count stalls for a day. FIX: In ch 18, change the closing 'Fifteen nights.' to 'Sixteen nights.'"
@@ -1499,9 +1499,13 @@
     {
       "at": "2026-10-20T00:39:48",
       "event": "done: S6 revise ch 18"
+    },
+    {
+      "at": "2026-10-20T00:41:53",
+      "event": "done: S5 critique ch 18"
     }
   ],
-  "updated_at": "2026-10-20T00:39:48",
+  "updated_at": "2026-10-20T00:41:53",
   "midpoint_chapter": 16,
   "continuity_attempts": 2,
   "continuity_last_errors": 13

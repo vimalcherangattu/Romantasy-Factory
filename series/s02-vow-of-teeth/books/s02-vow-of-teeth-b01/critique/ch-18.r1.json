@@ -1,6 +1,6 @@
 {
   "scores": {
-    "reader_question": 3.0,
+    "reader_question": 4.0,
     "change": 4.0,
     "romance_movement": 4.0,
     "shown_chemistry": 5.0,
@@ -10,33 +10,31 @@
     "continuity": 5.0
   },
   "reasons": {
-    "reader_question": "'Where is Kirri?' is planted well through the anklet promise, the four letters and Chathu's pat on the hand. But Neela's walk home ('the kennels... girls who had gone in as punishment and not come out as girls') nearly answers it, so curiosity collapses into foregone dread.",
-    "change": "Neela leaves the stone having chosen Devan's safety over her sister's trust. She ends the night holding two ledger lines she won't strike out. That is a clear shift in loyalty and in self-knowledge.",
-    "romance_movement": "The movement is new: for the first time they play, and they are caught being alike. His counting of her elbow and her matching knuckle stripe are new grounds for closeness, and the lie to Ammu prices it exactly as the beat asks.",
-    "shown_chemistry": "Entirely shown through responsive action: he counts her elbow four times, cheats back via the trestle, grins, and holds his rapped knuckles beside hers 'as if they had matched a lock'.",
-    "character_logic": "The lie is smartly built: nearly true, then deflected by turning the question back the guild way. Her reason for withholding is costly, since Ammu would stop a second witness. Ammu's 'you've never once asked me why I'm asking' prompt, followed by Neela asking on cue, feels engineered.",
-    "stakes_and_cost": "Ammu wants a mark in the cup tomorrow night, which means resin and the turning. Chathu's double-counting days and the itching nails add pressure. The cost of the next choice is concrete.",
-    "prose": "Strong and specific, with no banned phrases and no AI tells. The seven-wells scene is quotable. The closing paragraph goes muddy ('no hand's length of dark', 'kept his silence in a pebble'). Consecutive paragraphs open with 'She' several times, and 'Somewhere' echoes in the game scene.",
-    "continuity": "No hard conflicts: the sixteen-night count, three bare nights, four letters, the Valli cover, the damp theory, Chinna's wager and Vellan in the yard all match. Three soft spots need tidying: 'twenty days' is now stale, Valli selling bangles is an unlogged addition to her pepper-trader cover, and 'Fifteen nights' at the same day's end breaks the count rhythm."
+    "reader_question": "The Kirri question is specific and planted where the reader is already worried: a missing anklet, four unanswered letters and Chathu's pat on the hand. A second question rides under it: will she leave the mark tomorrow, and where?",
+    "change": "Neela's loyalty moves. She tells Ammu 'Nobody's seen' to protect Devan, and she now quietly doubts release. Ammu leaves with a false belief that the next chapters will test.",
+    "romance_movement": "The lightness is new: their first shared cheat and her first laugh 'for nothing'. The chapter ties that laugh to the lie, so the step has a price. Ch17 already gave her a startled laugh, which slightly blunts 'first'.",
+    "shown_chemistry": "Shown through response, not narration. He counts her elbow and answers her cheat with a better one. The matched knuckle stripes 'as if they had matched a lock' is a line readers will quote.",
+    "character_logic": "Neela's reason to lie is clear and smart: a second witness is 'a hole in the wall, and holes were stopped'. Ammu accepts the lie because she wants to, which fits her creed. Two small snags: a four-year-old Asha beating eight-year-old Devan, and Neela answering 'who shut the shutters' with the damp joke.",
+    "stakes_and_cost": "The next decision is concrete and costly. A mark in the cup means resin at dusk, turning where Ammu can watch, and giving up the human nights with him, with the ache already itching at her nails.",
+    "prose": "Clean, concrete and low on AI tells, with good callbacks (the shutter-slat clack, the cut-off bells). Weak spots: the mannered inverted tags ('said Ammu', 'said Neela', 'said Muthu'), Janu's garbled 'Seven wells, and I'll have the new lady learn it', the unclear 'Keep it.', and 'ledger' used twice as a metaphor in one chapter.",
+    "continuity": "Consistent with the bible and the facts: sixteen nights, four letters, Valli at the kitchen door, Chinna's wagers, the bad left arm, the Vellan yard memory, the sword hilt toward her. 'The shutters he closed every evening' matches the bible, though ch17 showed them open at dusk on no-resin nights."
   },
   "fixes": [
-    "At 'and the girls who had gone in as punishment and not come out as girls', the thought tips the reader's question into a near-answer. This is the Contrived delays failure mode: the POV all but knows and then 'would not finish the thought'. Cut that clause and the 'Nine' count. Instead, give Neela two rival explanations she weighs (technique 4). Kirri is drowned with her boat and Chathu is sparing them, or Kirri never left. Let her choose not to ask Chathu, because asking would show she doubts release. That keeps 'Where is Kirri?' genuinely open and makes her silence a costly decision rather than a refusal to think.",
-    "At 'a man who kept his silence in a pebble', the closing image is muddled. It also reads as a pre-echo of the cheek-pebble Devan only adopts in ch20 (F175), which Neela cannot know about yet. Replace it with a concrete image she does own, such as the hilt turned toward her or the shutters he closes at dusk. Rewrite 'no hand's length of dark between her and' plainly: a resin night means she must turn where Ammu can see, and leave him. Change 'Fifteen nights' back to 'Sixteen nights'. In ch17 the count dropped overnight, not at day's end.",
-    "At 'I think,' said Ammu slowly, 'that you've never once asked me why I'm asking', the exchange is engineered. Ammu feeds Neela the line and Neela obeys it, so the creed arrives on cue. Instead, have Ammu break unprompted, mid-tease ('Because I'm scared'), when Neela's deflection lands too well. Also fix two small slips nearby. In 'Devan has watched me for twenty days', the count is now about twenty-four, so use 'since the wedding night'. In 'then there's you with a boat', the boat is Kirri's dream; Neela's prize is her page and birth name, so change it to 'you with your own name'."
+    "Ending, 'with her fingers closed round it until the cistern chain clanked': the chapter ends on a held pose. It neither interrupts an action nor reveals anything (chapter checklist item 5), so ch19 is not yet necessary. Make the story force the choice. Have her uncork the flask and test-smear one wrist so the scar burns. Have her decide where tomorrow's mark will be made: in the open, on the east rampart, where Ammu can watch from the grove. Close on that decision, or on Devan's step on the stair as her wrist still stings. Ch19's dusk then becomes a promise, not a coincidence.",
+    "Ledger passage, 'She read the two lines together, and did not strike out either.': the beat asks her to book the lie and the laugh as the same debt. The page lists them side by side but never joins them, so the Cost Ledger (technique 14) stops one step short. Add one line that enters them as a single account, for example a third line in the same hand saying the laugh was bought with the lie and she owes on both. Also cut 'I have told her small lies before, to keep us out of trouble'. It weakens the beat's 'first lie to her sister'. Keep only 'This is the first I have told her to keep someone else safe.'",
+    "Ammu's exit, '\"Keep it.\" Ammu was already going': it is unclear whether Ammu is telling her to keep the bangle, the secret or the sweets, so the button on the scene goes blurry. Make it pointed and in Ammu's voice, for example 'Keep it. Gold's worth more than a page,' so it lands as a joke with a knife in it. In the same pass, fix Janu's 'Seven wells, and I'll have the new lady learn it' to plain syntax ('We'll play seven wells, and the new lady will learn it'). Change about half the inverted tags ('said Ammu', 'said Neela') to 'Ammu said' or to action beats."
   ],
-  "reader_question": "Where is Kirri, and did 'release' put her in the kennels Neela refuses to think about?",
+  "reader_question": "Where is Kirri, if her anklet never came and Chathu will only say she is where she wished to be?",
   "techniques_landed": [
     15,
     23,
     2,
     14
   ],
-  "new_facts_assessment": "F153b correcting eleven letters to four matches the page ('I've written four times now') and duplicates the already-logged F325. It is consistent and necessary: four letters in two years is more believable for a guild member under watch. Other new on-page details are already logged (F152, F154 to F161) and are consistent. Three items are unlogged. First, Valli's bangle tray and blue cotton: harmless, but log it as an extension of F084. Second, Ammu working the kitchen door as Valli: plausible, and it supplies F159. Third, the implication that Neela has told Ammu 'small lies before': this softens the beat's 'first lie' into 'first lie for someone else's sake', which is acceptable and arguably better. The C09 clue (Kirri's anklet, bells cut off, never removed) is planted clearly enough to pay off in ch26 and ch32.",
+  "new_facts_assessment": "The draft's new-facts.json is empty, but the chapter adds facts. Most match provisional entries F152-F161: the anklet with its bells cut off, four letters (F325), the seven wells rules, Asha beating Devan at eight, Kannan's white pebble, Chinna's dawn-window gossip, the itching nails, three weeks at the inn. Facts not listed anywhere: (1) Chinna's second wager, on whether the wife tamed the warden or he tamed her; fine and usable at F285. (2) Ammu came to the gate 'yesterday' and was told Neela was abed; harmless but must be logged. (3) Ammu's cover now carries a tray of cheap bangles, while F084 calls Valli a pepper trader's girl; reconcilable, but it should be logged or changed to pepper. (4) Neela's lie that Devan walks the wall at the middle watch; Ammu may test this, so it needs logging. (5) Ammu asks for 'a stone' in the cup as a mark; later chapters use scent-marks and reeds (F177, F198), so log it as superseded or make it 'a mark'. (6) The age logic of F155: Asha was four years younger (F114), so she was four when she beat Devan at eight. Consider making Devan twelve. All are necessary or harmless texture, and none breaks canon.",
   "content_rule_violation": false,
-  "failure_modes": [
-    "Contrived delays"
-  ],
-  "average": 4.12,
-  "minimum": 3.0,
+  "failure_modes": [],
+  "average": 4.25,
+  "minimum": 4.0,
   "passed": true
 }
