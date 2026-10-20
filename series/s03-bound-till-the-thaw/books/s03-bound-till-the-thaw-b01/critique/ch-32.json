@@ -1,41 +1,39 @@
 {
   "scores": {
-    "reader_question": 5.0,
-    "change": 4.0,
-    "romance_movement": 4.0,
+    "reader_question": 4.0,
+    "change": 5.0,
+    "romance_movement": 5.0,
     "shown_chemistry": 4.0,
     "character_logic": 4.0,
     "stakes_and_cost": 4.0,
     "prose": 4.0,
-    "continuity": 0.0
+    "continuity": 5.0
   },
   "reasons": {
-    "reader_question": "Specific and urgent: what is the Old Bargain and who pays. The Kiran hint and the queen's interest in the map sharpen it.",
-    "change": "Bond becomes choice, book peace becomes series threat, and the wardens accept Rohan's defiance. Gopal yields too quickly for a real power contest.",
-    "romance_movement": "The walk away and return is a new, freely chosen proof. The name change is undercut because she has used 'Rohan' since ch6.",
-    "shown_chemistry": "The swapped knots, his not following, and his 'sixteen and a half' count are strong. 'Better than he had ever done anything' is narrated.",
-    "character_logic": "Rohan's public declaration before the thaw is smart and in character. Meera's 'how long does a pass stand open' question doesn't follow logically.",
-    "stakes_and_cost": "Rohan risks the queen's verdict on his writ, and the fourth-winter deadline lands on named people. The betrothal itself costs nothing.",
-    "prose": "Clean, concrete and dash-free, with no banned phrases. Muddled lines: 'gloves in a story', 'It sounded like her own', 'There were no words, and there were words.'",
-    "continuity": "'Saying it in the dark' contradicts her daylight 'Come on, Rohan' (ch31) and F159. Roop and Chand's bond is placed at the wrong cairn."
+    "reader_question": "The Bargain warning, the mismatched carved hands and the grandfather's gloves make a sharp question. Meera's leap to Kiran is fuzzy.",
+    "change": "Mountain bond becomes chosen betrothal, Rohan publicly refuses the writ, and the book's peace turns into a series threat.",
+    "romance_movement": "The reason is new: she is free to walk away, walks fourteen spans and chooses to come back. The knot swap seals it.",
+    "shown_chemistry": "Shown in action: 'Sixteen and a half', each tying the other's knot, 'take my word', 'I do'. The cheer section drifts into crowd summary.",
+    "character_logic": "Rohan's public defiance and Gopal's salute are earned. Meera reads a threat to Kiran into a silence from before the Bargain was known.",
+    "stakes_and_cost": "Rohan's career, the queen's judgement and a four-winter deadline are named and tied to Kiran, though only loosely.",
+    "prose": "Tight and specific with no banned phrases. Jassi's bell speech is muddled, and the jogini passage mixes its similes.",
+    "continuity": "Consistent with the bible and earlier facts. Roop and Chand's cairn origin is shaky but not an outright conflict."
   },
   "fixes": [
-    "At \"I've been saying it in the dark since the Saddle\" (continuity conflict): she said 'Rohan' in daylight in ch17 and at the end of ch31. Rewrite it as 'I've said it when I needed you to hear. Now they can hear it too.' Move 'Rohan, not Captain' out of her vow and make it a public correction after Gopal says 'Captain'. Cut 'It sounded like her own.'",
-    "At \"He had once said, half laughing, that he owed a life\" (twist without setup): the remark never appeared on the page. Tie her fear to what she saw in ch31 instead: Dilan's rope end by the ink, and Kiran's 'It is for the next one' silence. Add one line placing Kiran at Garh Neshar with Ila. Log both facts in new-facts.",
-    "At \"How long does a pass like this have to stand open\" (character logic, muddled prose): the question and the answer 'Sixty winters' don't connect. Change her question to 'When was your Closing Law written?' and his answer to 'Sixty winters ago. The spring after they found my grandfather.' Replace 'a pair of gloves in a story' with 'the gloves his father told of, laid one on the other on a flat stone.' Fix Roop and Chand's cairn line too."
+    "'the goat is warm and fat and under your roof': the speech is muddled. Whose roof is it, and who is 'a man who's looking after her'? Bindu's 'He did' is also unclear. Name the arrangement plainly, for example: Badami is in the salt-house pen and Bindu feeds her until the roads open to the orchard. Make Bindu's line say clearly that Jassi needed the bell rung for him.",
+    "'Her stomach turned over now, cold with a fear': this is a character-logic gap. Kiran could not have known of the Bargain at the drafting table. Reword so Meera fears the future, not the past. She knows the boy who nodded at 'for the next one' is looking for a debt to pay, and he will hear of this one. One or two sentences; keep the rest.",
+    "'Their bond had been tied at this same cairn': this is a continuity risk. Roop and Chand crossed back from Ranu (F049), so they would have bound on the Neshar side. Cut the sentence, or make their bond end at their own cairn the same morning. Then drop the new fact F274."
   ],
-  "reader_question": "What is the Old Bargain the jogini say is unpaid, and will Kiran try to be the one who pays it?",
+  "reader_question": "What is the Old Bargain the stones say is unpaid, what did Rohan's grandfather pay at that cairn, and will Kiran try to pay it himself?",
   "techniques_landed": [
     3,
     20,
     26
   ],
-  "new_facts_assessment": "The new-facts list is empty, but the draft adds facts. Gopal, the bell, the cream rope and the carving are already tracked (F267 to F271) and consistent. Not logged: Kiran's earlier 'owed a life' remark, which was never shown on the page and so reads as a clue added after the fact. Also not logged: Roop and Chand's bond ending at the Shilak Cairn, which conflicts with them crossing back from Ranu (F049) unless they were tied at Shilak. Kiran's absence from his sister's betrothal is unexplained.",
+  "new_facts_assessment": "Kiran staying at Garh Neshar is necessary because it keeps him offstage for Book 4, and it fits ch31, where only Ila is said to stay; consider one line confirming it. The Kiran-silence fact is useful setup, but as written it implies he anticipated a bargain nobody had heard of; the fear needs rewording. Roop and Chand being tied at the Shilak Cairn is questionable. They crossed back from Ranu (F049), so they would have bound on the Neshar side, not at the Kothi-side cairn. The fact is unnecessary and risky.",
   "content_rule_violation": false,
-  "failure_modes": [
-    "Twists without setup"
-  ],
-  "average": 3.62,
-  "minimum": 0.0,
-  "passed": false
+  "failure_modes": [],
+  "average": 4.38,
+  "minimum": 4.0,
+  "passed": true
 }

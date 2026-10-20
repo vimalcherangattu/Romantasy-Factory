@@ -1,0 +1,39 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 5.0,
+    "romance_movement": 5.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 4.0,
+    "stakes_and_cost": 4.0,
+    "prose": 4.0,
+    "continuity": 5.0
+  },
+  "reasons": {
+    "reader_question": "The Bargain warning, the mismatched carved hands and the grandfather's gloves make a sharp question. Meera's leap to Kiran is fuzzy.",
+    "change": "Mountain bond becomes chosen betrothal, Rohan publicly refuses the writ, and the book's peace turns into a series threat.",
+    "romance_movement": "The reason is new: she is free to walk away, walks fourteen spans and chooses to come back. The knot swap seals it.",
+    "shown_chemistry": "Shown in action: 'Sixteen and a half', each tying the other's knot, 'take my word', 'I do'. The cheer section drifts into crowd summary.",
+    "character_logic": "Rohan's public defiance and Gopal's salute are earned. Meera reads a threat to Kiran into a silence from before the Bargain was known.",
+    "stakes_and_cost": "Rohan's career, the queen's judgement and a four-winter deadline are named and tied to Kiran, though only loosely.",
+    "prose": "Tight and specific with no banned phrases. Jassi's bell speech is muddled, and the jogini passage mixes its similes.",
+    "continuity": "Consistent with the bible and earlier facts. Roop and Chand's cairn origin is shaky but not an outright conflict."
+  },
+  "fixes": [
+    "'the goat is warm and fat and under your roof': the speech is muddled. Whose roof is it, and who is 'a man who's looking after her'? Bindu's 'He did' is also unclear. Name the arrangement plainly, for example: Badami is in the salt-house pen and Bindu feeds her until the roads open to the orchard. Make Bindu's line say clearly that Jassi needed the bell rung for him.",
+    "'Her stomach turned over now, cold with a fear': this is a character-logic gap. Kiran could not have known of the Bargain at the drafting table. Reword so Meera fears the future, not the past. She knows the boy who nodded at 'for the next one' is looking for a debt to pay, and he will hear of this one. One or two sentences; keep the rest.",
+    "'Their bond had been tied at this same cairn': this is a continuity risk. Roop and Chand crossed back from Ranu (F049), so they would have bound on the Neshar side. Cut the sentence, or make their bond end at their own cairn the same morning. Then drop the new fact F274."
+  ],
+  "reader_question": "What is the Old Bargain the stones say is unpaid, what did Rohan's grandfather pay at that cairn, and will Kiran try to pay it himself?",
+  "techniques_landed": [
+    3,
+    20,
+    26
+  ],
+  "new_facts_assessment": "Kiran staying at Garh Neshar is necessary because it keeps him offstage for Book 4, and it fits ch31, where only Ila is said to stay; consider one line confirming it. The Kiran-silence fact is useful setup, but as written it implies he anticipated a bargain nobody had heard of; the fear needs rewording. Roop and Chand being tied at the Shilak Cairn is questionable. They crossed back from Ranu (F049), so they would have bound on the Neshar side, not at the Kothi-side cairn. The fact is unnecessary and risky.",
+  "content_rule_violation": false,
+  "failure_modes": [],
+  "average": 4.38,
+  "minimum": 4.0,
+  "passed": true
+}
