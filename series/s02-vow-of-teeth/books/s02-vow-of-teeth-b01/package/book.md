@@ -7081,7 +7081,7 @@ Below the signature was the seal.
 
 Green wax. A small bird pressed into it, wings spread, the long curved beak of a sunbird. He raised the writ to his face and breathed. Crushed leaf, with no clove in it anywhere.
 
-He did not need to compare. He did it anyway, because he was a man who measured. From his sleeve, wrapped in a scrap of linen, he drew the cut seal off the palace wedding gift. It had been there since the sandalwood box came up the road with its silver betel set and its courteous note, and Janu had wanted the thing hung in the hall for the honour.
+He did not need to compare. He did it anyway, because he was a man who measured. From his sleeve, wrapped in a scrap of linen, he drew the seal he had lifted whole off the palace wedding gift. It had been there since the sandalwood box came up the road with its silver betel set and its courteous note, and Janu had wanted the thing hung in the hall for the honour.
 
 He laid the two side by side under the lamp.
 
