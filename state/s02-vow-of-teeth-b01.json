@@ -428,7 +428,7 @@
       }
     },
     "14": {
-      "status": "passed",
+      "status": "edited",
       "revisions": 1,
       "scores": {
         "reader_question": 4.0,
@@ -442,13 +442,24 @@
       },
       "average": 4.12,
       "flags": [],
-      "words": 3193,
+      "words": 3185,
       "minimum": 4.0,
       "continuity_fixes": [
         "Neela reasons from Asha's oilcloth token ('in a camphor chest, in a dead girl's room') and quotes Asha's note 'Need a second to be sure.' In ch 12 Devan folded the token and its note into his sleeve before Neela came into the room, and he never showed them to her. She has never smelled that wax or read that note. FIX: In ch 14, replace the Asha references with what she has seen herself: 'Janu's kitchen. The broken tally on the hall table, the day the patrol came in.' Change her reason to: 'The warden broke one tally open in the hall and said it wasn't enough. Here was a second, and he could have it.'",
         "In ch 14 Neela weighs that going to the narrows leaves the meeting stone's cup empty a second night, after the fever night. Nothing shows her marking it later. Yet ch 16 says she has missed the stone only once ('the night of his fever'), and in ch 18 Ammu counts only the fever night plus the three bare nights of ch 16 to 17. The narrows night is missing from both counts. FIX: In ch 14, where she goes 'by the long way to the cleft in the rocks under the second spur', add one line: she passes the meeting stone first and drags her cheek across the cup, late but marked.",
         "Neela recalls that 'the warden had broken one tally open in the hall and said it wasn't enough.' In ch 4 Devan says only that the wax is genuine council wax and never says one is not enough. The 'need a second' idea is Asha's note, which Neela has not seen. FIX: In ch 14, change the line to: 'The warden had broken one tally open in the hall. One tally was a story; two were a case.'"
-      ]
+      ],
+      "style": {
+        "words": 3185,
+        "banned_hits": {},
+        "ai_tell_hits": {},
+        "ai_tells_per_1000": 0.0,
+        "top_4gram": "by the cart road",
+        "top_4gram_count": 2,
+        "longest_paragraph_words": 101,
+        "em_dashes_per_1000": 0.31,
+        "reading_ease": 94.1
+      }
     },
     "15": {
       "status": "passed",
@@ -1875,9 +1886,13 @@
     {
       "at": "2026-10-20T07:53:27",
       "event": "done: S8 line edit ch 13"
+    },
+    {
+      "at": "2026-10-20T07:54:09",
+      "event": "done: S8 line edit ch 14"
     }
   ],
-  "updated_at": "2026-10-20T07:53:27",
+  "updated_at": "2026-10-20T07:54:09",
   "midpoint_chapter": 16,
   "continuity_attempts": 3,
   "continuity_last_errors": 2
