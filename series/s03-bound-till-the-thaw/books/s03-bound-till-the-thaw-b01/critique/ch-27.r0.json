@@ -1,0 +1,41 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 3.0,
+    "stakes_and_cost": 4.0,
+    "prose": 4.0,
+    "continuity": 5.0
+  },
+  "reasons": {
+    "reader_question": "The ending lands cleanly: Asha's key, knife and 'Price first' set a specific question. Meera trying to stand adds the physical one.",
+    "change": "Rohan watches a sealed order bent without collapse, cracking 'if I bend once', and he trades his Dilan oath for her life.",
+    "romance_movement": "The reason is new: he renounces the question itself and binds his body to the promise. Meera's side is mostly passive, though.",
+    "shown_chemistry": "The flat hymn and her 'That's flat' / 'I know' exchange is earned banter. The gloved care and the strip padding the iron band show attention.",
+    "character_logic": "Keeping the glove on while she dies is framed as him not wanting to know. A smart Rohan needs a reason rooted in her autonomy.",
+    "stakes_and_cost": "His fingertips chill, his eleven-warden oath is forfeited and the torches nearly fire. The relief is clearly provisional, and Asha's price looms.",
+    "prose": "Concrete and well varied. Problems: the coat 'he was now sitting in' slip, the 'burial rolls' voice reused from ch26, and a stock 'undid something in his chest'.",
+    "continuity": "No conflict with the bible or ch26. Tej riding up before the Fair overrides provisional F178, which is bible-sanctioned since Rohan never names him."
+  },
+  "fixes": [
+    "At 'and he did not take off the glove': the refusal reads as self-protection ('he would know'), not as respect for her. Add one or two sentences in which Rohan recalls her drawing the hand into her lap under the pattu in ch26. Taking the cold would take what she chose to keep, and the knowledge could hang Kiran. Let him weigh that against the fall-promise pressing in his fingers, then choose.",
+    "At 'Live, Guide. I won't ask you anything else.': read literally, the promise bars every question until the thaw, which is a Rule-That-Bites-Back hazard. Add a beat of Rohan fixing the scope in thought: he means the question of the rope's far end and Kiran, nothing more. The rope hums because that narrower intent is sincere. Name it plainly so later chapters can't trip on it.",
+    "At 'It was a coat he was now sitting in': the coat is over Meera's shoulders, not on him. Change it to 'a coat wrapped round her'. Replace 'the voice he used for burial rolls' (an image reused from ch26) with a new one. Cut the stock 'undid something in his chest that he had not known was tied'; make it a concrete physical act, such as his hands unclenching from the coat."
+  ],
+  "reader_question": "What price will Asha demand for the key, and can Meera still stand and walk?",
+  "techniques_landed": [
+    7,
+    9,
+    25
+  ],
+  "new_facts_assessment": "The slatted shutter and the returned coat, gloves and pattu are necessary and consistent with ch25-26. The grandfather's neatly laid gloves are a good S4 clue and ambiguous enough. Dilan's latrine week and Ila's kitchen and Tamar's Shoulder fit F104 and F184. The slate cloak with no bell fits F174 and keeps Tej unnamed. However, forty soldiers witnessing his order strains S6's 'mercy unknown'; later books should explain why no soldier talks. Fingertips chilling before a promise breaks extends F012. It needs one line stating that this is the rope's warning, not the breach.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Irrational behaviour to extend plot"
+  ],
+  "average": 4.0,
+  "minimum": 3.0,
+  "passed": true
+}
