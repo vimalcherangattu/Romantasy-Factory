@@ -5,38 +5,37 @@
     "romance_movement": 4.0,
     "shown_chemistry": 4.0,
     "character_logic": 3.0,
-    "stakes_and_cost": 3.0,
-    "prose": 3.0,
+    "stakes_and_cost": 4.0,
+    "prose": 4.0,
     "continuity": 0.0
   },
   "reasons": {
-    "reader_question": "Clear, specific closing gap: someone walking an impassable road toward the fort. The sunbird and Ittan's fear add smaller live questions.",
-    "change": "Safe-for-now becomes a two-smear clock, and an alliance with a named conflict of goals. The final beat adds a new external threat.",
-    "romance_movement": "The new reason is the honest page-versus-book conflict. 'I won't answer that' about the blade-at-throat choice deepens trust without replaying a refusal.",
-    "shown_chemistry": "Rewarmed cloth, the pebble, and help given then hand removed are all responsive. One or two lines narrate the feeling instead.",
-    "character_logic": "Neela says 'leopard' aloud twice, breaking her fixed voice rule in the same chapter where she says 'the other one'. Her east-stair habit contradicts canon.",
-    "stakes_and_cost": "The resin cost is concrete, but the beat goal 'make a plan' never becomes a plan. No route or timing is chosen, so no decision is priced.",
-    "prose": "Mostly clean and concrete, with no banned phrases. Weak spots: 'a leopard she had not yet been' is garbled, and two narrated-feeling lines tell.",
-    "continuity": "Fails on two counts. 'Always' taking the east stair conflicts with F337/F099/F338. 'Her page was ash' conflicts with F012/F253, since the intake slip survives with Chathu."
+    "reader_question": "The silent langurs give a sharp, specific question with a clear rule behind it. The walker's link to the raid is still loose.",
+    "change": "The safe pause becomes a costed two-night plan, and an honest alliance is set. Neela ends on a clock and under a new threat.",
+    "romance_movement": "The new reason is honest, incompatible goals. 'Go together, argue after' moves them from spouses to partners with a named conflict.",
+    "shown_chemistry": "The rewarmed cloth, the habit pebble, help given then withdrawn, and the shared wrist welt are all shown. One line narrates her pleasure.",
+    "character_logic": "Her planning is smart. But Ammu, dead nine days, gets no grief beat while Raiu does. That is trauma as decoration.",
+    "stakes_and_cost": "Each smear is priced in hollow mornings and nearness to the ache. The book-or-page split gives the raid a real cost.",
+    "prose": "The prose is concrete and rhythmic with few AI tells. 'For that that', the 'small things' echo and one told reaction are weak spots.",
+    "continuity": "'Four hundred odiyans' conflicts with the bible's forty-page ledger. The west stair route conflicts with F449, where she always takes the east stair."
   },
   "fixes": [
-    "At 'Neela went down by the east stair. She always did.' there is a continuity conflict: F337 makes the west stair the only way to the chamber, and earlier chapters put her on it. Have her take the west stair, counting forty-four steps fast and keeping her hand off the parrot newel without knowing why. Delete F449 and plant the unease through action instead.",
-    "At 'Her page was ash, her witness entry burned' there is a continuity conflict with F012/F253: only the witness entry burned, and Chathu pocketed the intake slip. Rewrite as 'Her witness entry was ash. The slip with her birth name was in Chathu's keeping.' This also gives her personal stake in wanting every page back in the ledger.",
-    "At 'Two nights of a leopard is all the raid gets' and 'They bark at leopards', Neela breaks her fixed voice: she never says the word. Use 'the other one' and 'They bark at cats', and fix the garbled 'a leopard she had not yet been'. Then add one concrete plan choice (which night she spends the first smear, and the wood-road route) so the beat goal lands with a cost."
+    "'Four hundred odiyans. If you take one' — this breaks continuity. The bible's ledger frees forty odiyans in book 2, and the kennels hold forty-one. Change the line to 'Forty of us,' or to 'Every sister I have' if no count is needed.",
+    "'Neela went down by the west stair.' — this breaks continuity with F449: she always takes the east stair and avoids the west without saying why. Send her down the east stair. Keep the forty-four count only if it applies to that stair. Replace the newel beat with her glancing toward the west stair and choosing the long way, with no reason given.",
+    "'And one name that she could not add anymore' — Ammu died nine days ago and Neela is spending Ammu's resin, yet only Raiu is mourned. That is trauma as decoration. Add Ammu here as the name she cannot say aloud, and tie it to the pouch: each smear spent is the last of her sister. Keep it to two or three lines that sharpen the cost of tonight's smear."
   ],
-  "reader_question": "Who is walking the closed Monkey Pass road toward Kettamala in the rains, when nobody can?",
+  "reader_question": "Who is walking the closed Monkey Pass road toward Kettamala in the rains, when nobody can walk it?",
   "techniques_landed": [
     1,
     5,
     22
   ],
-  "new_facts_assessment": "Folded-wing sunbird: good clue, consistent with F070. Chathu enters contracts against pages: necessary and consistent. Slash/hook marks: fine, but a clerk's tally using Resin House shorthand needs one line saying Ittan copied guild receipts. East stair habit (F449): conflicts with F337 (the west stair is the only way to the chamber) and with earlier chapters showing her on it; cut it. Resin pouch: consistent with F257/F276, though it is miscategorised as 'name'.",
+  "new_facts_assessment": "The wood road and lower-ford plan is necessary and consistent: the ridge watcher fits F194, and the half-day cost is clear. The receipt-shorthand fact justifies why Neela can read some marks but not others. Both facts are sound.",
   "content_rule_violation": false,
   "failure_modes": [
-    "Irrational behaviour to extend plot",
-    "Narrated-only chemistry"
+    "Trauma as decoration"
   ],
-  "average": 3.12,
+  "average": 3.38,
   "minimum": 0.0,
   "passed": false
 }

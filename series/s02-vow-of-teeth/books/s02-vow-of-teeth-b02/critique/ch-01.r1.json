@@ -1,0 +1,41 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 3.0,
+    "stakes_and_cost": 4.0,
+    "prose": 4.0,
+    "continuity": 0.0
+  },
+  "reasons": {
+    "reader_question": "The silent langurs give a sharp, specific question with a clear rule behind it. The walker's link to the raid is still loose.",
+    "change": "The safe pause becomes a costed two-night plan, and an honest alliance is set. Neela ends on a clock and under a new threat.",
+    "romance_movement": "The new reason is honest, incompatible goals. 'Go together, argue after' moves them from spouses to partners with a named conflict.",
+    "shown_chemistry": "The rewarmed cloth, the habit pebble, help given then withdrawn, and the shared wrist welt are all shown. One line narrates her pleasure.",
+    "character_logic": "Her planning is smart. But Ammu, dead nine days, gets no grief beat while Raiu does. That is trauma as decoration.",
+    "stakes_and_cost": "Each smear is priced in hollow mornings and nearness to the ache. The book-or-page split gives the raid a real cost.",
+    "prose": "The prose is concrete and rhythmic with few AI tells. 'For that that', the 'small things' echo and one told reaction are weak spots.",
+    "continuity": "'Four hundred odiyans' conflicts with the bible's forty-page ledger. The west stair route conflicts with F449, where she always takes the east stair."
+  },
+  "fixes": [
+    "'Four hundred odiyans. If you take one' — this breaks continuity. The bible's ledger frees forty odiyans in book 2, and the kennels hold forty-one. Change the line to 'Forty of us,' or to 'Every sister I have' if no count is needed.",
+    "'Neela went down by the west stair.' — this breaks continuity with F449: she always takes the east stair and avoids the west without saying why. Send her down the east stair. Keep the forty-four count only if it applies to that stair. Replace the newel beat with her glancing toward the west stair and choosing the long way, with no reason given.",
+    "'And one name that she could not add anymore' — Ammu died nine days ago and Neela is spending Ammu's resin, yet only Raiu is mourned. That is trauma as decoration. Add Ammu here as the name she cannot say aloud, and tie it to the pouch: each smear spent is the last of her sister. Keep it to two or three lines that sharpen the cost of tonight's smear."
+  ],
+  "reader_question": "Who is walking the closed Monkey Pass road toward Kettamala in the rains, when nobody can walk it?",
+  "techniques_landed": [
+    1,
+    5,
+    22
+  ],
+  "new_facts_assessment": "The wood road and lower-ford plan is necessary and consistent: the ridge watcher fits F194, and the half-day cost is clear. The receipt-shorthand fact justifies why Neela can read some marks but not others. Both facts are sound.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Trauma as decoration"
+  ],
+  "average": 3.38,
+  "minimum": 0.0,
+  "passed": false
+}
