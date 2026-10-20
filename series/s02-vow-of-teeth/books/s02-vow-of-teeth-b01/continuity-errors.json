@@ -2,164 +2,94 @@
   "open_errors": [
     {
       "id": "E01",
-      "chapter": 1,
-      "category": "object",
-      "issue": "Ch 1 says Kettamala has 'one gate and a hundred and some soldiers'. Ch 24 and ch 29 give the garrison as sixty, and ch 14 uses an east postern, which is a second gate.",
-      "fix": "In ch 1, change 'A fort with one gate and a hundred and some soldiers' to 'A fort with one great gate and sixty-odd soldiers'."
+      "chapter": 14,
+      "category": "knowledge",
+      "issue": "Neela reasons from Asha's oilcloth token ('in a camphor chest, in a dead girl's room') and quotes Asha's note 'Need a second to be sure.' In ch 12 Devan folded the token and its note into his sleeve before Neela came into the room, and he never showed them to her. She has never smelled that wax or read that note.",
+      "fix": "In ch 14, replace the Asha references with what she has seen herself: 'Janu's kitchen. The broken tally on the hall table, the day the patrol came in.' Change her reason to: 'The warden broke one tally open in the hall and said it wasn't enough. Here was a second, and he could have it.'"
     },
     {
       "id": "E02",
-      "chapter": 1,
-      "category": "object",
-      "issue": "On the wedding night Neela lifts a bar off the shutters. Ch 10 (Janu), ch 16 and ch 30 all say the shutters were never barred before the wedding and Devan first barred them on the second dusk.",
-      "fix": "In ch 1, replace 'with a bolt that slid back easily. She lifted the bar, eased the first shutter' with 'held only by an iron latch; the long teak bar hung unused on its hooks. She lifted the latch, eased the first shutter'."
+      "chapter": 16,
+      "category": "knowledge",
+      "issue": "Neela's reread says Devan stopped Janu's leopard story at supper by saying 'I'm tired of leopards, Janu,' mildly, 'by daylight.' In ch 9 Neela was at that supper and heard 'Not tonight, Janu.' Ch 30 places the 'tired of leopards' line later, in the kitchen, by day, out of Neela's hearing. Supper is also not daylight.",
+      "fix": "In ch 16, change the line to: 'Janu was halfway through it over the rice when Devan said, \"Not tonight, Janu.\" He said it quietly, with his eyes on his bowl.'"
     },
     {
       "id": "E03",
-      "chapter": 2,
-      "category": "object",
-      "issue": "Devan watches her 'lift the bar from the west shutters' on the wedding night, but the bar is first used on the second dusk (ch 3, ch 10, ch 30).",
-      "fix": "In ch 2, change 'he watched her lift the bar from the west shutters' to 'he watched her lift the latch on the west shutters'."
+      "chapter": 16,
+      "category": "timeline",
+      "issue": "The reread puts the sentry first and has the hounds 'kennelled in the first week, after the sentry was pulled.' In fact the hounds were kennelled from the second night (the ch 3 night walk and Kannan in ch 4), before Devan pulled the sentry in ch 5. Ch 30 and F344 also give hounds first, sentry second.",
+      "fix": "In ch 16, swap the order: the hounds kennelled from the second night, then 'the sentry above the window pulled a few nights on.' Delete 'after the sentry was pulled.'"
     },
     {
       "id": "E04",
-      "chapter": 3,
-      "category": "object",
-      "issue": "Neela recalls leaving 'the bar propped against the wall' after the wedding night and finding it back in its brackets 'this morning'. No bar was used on night one, and Devan only bars the shutters at this chapter's dusk.",
-      "fix": "In ch 3, replace the two sentences about last night's bar with: 'Last night there had been no bar across them at all. Tonight there was, and a man who barred a window looked at its bar.'"
+      "chapter": 16,
+      "category": "name",
+      "issue": "Neela recalls that 'Janu had called it damp-madness.' In ch 10 Janu told her the damp theory belonged to Bhaskaran's lads, and that her own theory was 'shy.' F322 repeats the error.",
+      "fix": "In ch 16, change to: 'Bhaskaran's lads called it damp-madness, Janu called it shyness, and Chinna ran a wager on it at the kitchen door.'"
     },
     {
       "id": "E05",
-      "chapter": 30,
-      "category": "object",
-      "issue": "Devan says he left the shutters 'Open, as my father kept them' on the first night, but ch 1 and ch 2 show them closed, and Neela opens them herself.",
-      "fix": "In ch 30, change 'Open, as my father kept them' to 'Shut on the latch and never barred, as my father kept them'."
+      "chapter": 11,
+      "category": "knowledge",
+      "issue": "Neela remembers that Janu said 'He used to have a partner' 'at the table, to the soup.' In ch 3 Janu said it standing at the lip of the kalari pit during the tour.",
+      "fix": "In ch 11, change to: 'Janu had said it at the lip of this pit, on the first morning.'"
     },
     {
       "id": "E06",
-      "chapter": 2,
-      "category": "name",
-      "issue": "Asha's parrot signature is 'a quick three-stroke bird, beak open'. Ch 12 describes it as five strokes with the beak always whole.",
-      "fix": "In ch 2, change 'A quick three-stroke bird, beak open, always laughing at something' to 'A quick five-stroke bird with a whole beak, always laughing at something'."
+      "chapter": 7,
+      "category": "timeline",
+      "issue": "'She had known him eight days' falls on the morning she counts thirty-four nights left, which is day 6. Ch 9 (thirty-two nights left) is the first point where 'eight days' fits.",
+      "fix": "In ch 7, change 'eight days' to 'six days'."
     },
     {
       "id": "E07",
-      "chapter": 4,
-      "category": "name",
-      "issue": "'Chinna snored on his mat'. Chinna is a woman: ch 1 calls her 'a broad woman', and ch 18 and ch 31 mention 'her bad hip'.",
-      "fix": "In ch 4, change 'Chinna snored on his mat' to 'Chinna snored on her mat'."
+      "chapter": 18,
+      "category": "timeline",
+      "issue": "Ch 18 opens at sixteen nights and ends the same day at 'Fifteen nights.' Ch 19, the next evening, also says fifteen, so the count stalls for a day.",
+      "fix": "In ch 18, change the closing 'Fifteen nights.' to 'Sixteen nights.'"
     },
     {
       "id": "E08",
-      "chapter": 5,
-      "category": "relationship",
-      "issue": "Devan thinks 'Not once had she come to the bed', but ch 2 and ch 3 show her lying down in the bed with her back to him at each dawn.",
-      "fix": "In ch 5, change 'Not once had she come to the bed' to 'Each time she had come to the bed shaking and lain with her back to him, as far off as the mattress allowed'."
+      "chapter": 23,
+      "category": "timeline",
+      "issue": "Neela's nightly countdown to the pass closing gives about eleven nights left on the ch 23 morning (fifteen at ch 19, then one fewer each day). Ch 23 says the pass is sealed 'in eight days', and Devan repeats 'Eight days to the seal.' Nobody notices the three-day gap, and up to ch 18 the book treats the count and the closing as the same date ('The pass shuts in sixteen days').",
+      "fix": "In ch 23, give Neela one line after 'eight days': 'Three days ahead of the rains. The council always seals early, and I've been counting to the rains, not the seal.'"
     },
     {
       "id": "E09",
-      "chapter": 8,
-      "category": "timeline",
-      "issue": "Muthu says 'Tomorrow's the seventh day', but he made his seventh-day request in ch 5, only about three days earlier.",
-      "fix": "In ch 8, change 'Tomorrow's the seventh day' to 'Four days to the seventh day'."
+      "chapter": 22,
+      "category": "knowledge",
+      "issue": "Ammu says the watcher logs a night with no fresh scent-posts as refusal, and that a second gap back to back with the rain night is the one Chathu would act on. But ch 16 to 18 already had three consecutive bare nights (ch 17 'three nights'; Ammu in ch 18: 'Three nights, the cup was bare'). Under the same rule those would have been logged, and the book gives no cover and no consequence for them.",
+      "fix": "In ch 22, add to Ammu's lines: 'Your three bare nights last week already went down. That's why he sent the sweets. Another run of gaps on top of the rain night is the one he'd act on.'"
     },
     {
       "id": "E10",
-      "chapter": 12,
-      "category": "knowledge",
-      "issue": "Muthu claims his mother 'writes me every week' and Devan believes him. In ch 24 Devan already knows she writes once a month, and he would have caught the false claim.",
-      "fix": "In ch 12, change 'She writes me every week, I answer once a month' to 'She writes me once a month, I answer once a month'."
+      "chapter": 29,
+      "category": "object",
+      "issue": "Devan reads the marriage-writ clause aloud as 'In the event of the warden's death in office, the pass-seal passes to his wife in trust...'. The same document's wording in ch 8 is '...and the said wife, being lawfully wed, shall hold the pass-seal of Kettamala in trust from the hour of the warden's death, until the council shall name another in his place.'",
+      "fix": "In ch 29, replace the quoted clause with the ch 8 wording."
     },
     {
       "id": "E11",
-      "chapter": 15,
-      "category": "timeline",
-      "issue": "Neela recalls 'last night's supper' and the bowl-of-milk line. That supper was in ch 14, eight nights before the storm.",
-      "fix": "In ch 15, change 'And last night's supper, over Janu's fish' to 'And that supper eight nights ago, over Janu's fish'."
+      "chapter": 10,
+      "category": "injury",
+      "issue": "Devan's hand lies 'open on the blanket, palm up', yet Neela counts seven scars across the knuckles, which are on the back of the hand and can't be seen palm up.",
+      "fix": "In ch 10, change 'palm up' to 'palm down, fingers loose'. Leave the later 'his hand still lay open on the blanket'."
     },
     {
       "id": "E12",
-      "chapter": 15,
-      "category": "place",
-      "issue": "The drop from the warden's window is called 'forty feet'. Ch 4 gives the wall under the window as thirty feet.",
-      "fix": "In ch 15, change 'a drop of forty feet' to 'a drop of thirty feet'."
+      "chapter": 5,
+      "category": "object",
+      "issue": "In ch 4 Neela turns back in the yard at first light. Her clothes are in the chamber (she always leaves them on the sill), yet in ch 5 she walks up through the stair door, past the two west-stair guards, as a woman, and no one remarks on it.",
+      "fix": "In ch 5, add that she came in 'with a saddle-blanket from the stable round her', so Devan hears the rough wool drop before the bed creaks."
     },
     {
       "id": "E13",
-      "chapter": 16,
-      "category": "knowledge",
-      "issue": "Neela recalls Janu's story as one about 'a leopard that took a bride' that Devan stopped with 'enough'. In ch 9 the story was a man-eating leopard taking a man above the second ford, and Devan said 'Not tonight, Janu'.",
-      "fix": "In ch 16, change the sentence to 'Janu had told a story at supper once, of a man-eater of the pass that left a traveller's sandals on the road. Devan had said Not tonight, Janu, so mildly that she went red and stopped.'"
-    },
-    {
-      "id": "E14",
-      "chapter": 18,
-      "category": "relationship",
-      "issue": "Ammu says she has written to Kirri 'eleven times'. In ch 7 she had written three letters, and the bible fixes the count at three (C08).",
-      "fix": "In ch 18, change 'I've written eleven times to the address she gave' to 'I've written four times now to the address she gave'."
-    },
-    {
-      "id": "E15",
-      "chapter": 20,
-      "category": "relationship",
-      "issue": "'Devan had closed the shutters himself before the light went, as he did each evening.' In ch 16 he promised the shutters were hers and that he would not touch them, and in ch 17 they stand open.",
-      "fix": "In ch 20, change it to 'Neela had closed the shutters herself before the light went, slat by slat'."
-    },
-    {
-      "id": "E16",
-      "chapter": 21,
-      "category": "knowledge",
-      "issue": "Devan names the story that made him stop Janu as 'the one about the leopard that waits at the foot of the bed'. The story he stopped in ch 9 was the man-eater of the pass. Devan never lies.",
-      "fix": "In ch 21, change it to 'the one about the man-eater of the pass that left a man's sandals on the road'."
-    },
-    {
-      "id": "E17",
-      "chapter": 23,
+      "chapter": 31,
       "category": "timeline",
-      "issue": "Neela 'had been in the room that night, on her side of the bed with her face to the wall, while he read the letter aloud to the dark'. In ch 17 he read Ittan's letter at noon by the west window, and they discussed it face to face.",
-      "fix": "In ch 23, change it to 'She had stood by the chest while he read the letter aloud at the window at noon, and she had counted the friends in it'."
-    },
-    {
-      "id": "E18",
-      "chapter": 25,
-      "category": "timeline",
-      "issue": "Neela tells Devan Muthu should follow 'if I'm not back by the second dusk'. Her actual order in ch 26, which Chathu's timing depends on, is first light on the second day, meeting her on the wood road.",
-      "fix": "In ch 25, change 'If I'm not back by the second dusk, he's to bring you after me' to 'If I'm not back by first light on the second day, he's to bring you up the wood road after me'."
-    },
-    {
-      "id": "E19",
-      "chapter": 27,
-      "category": "relationship",
-      "issue": "Ammu says 'I wrote her every month', which would be about two dozen letters in two years. Ch 7 has three letters.",
-      "fix": "In ch 27, change 'I wrote her every month' to 'I wrote her and wrote her'."
-    },
-    {
-      "id": "E20",
-      "chapter": 27,
-      "category": "magic",
-      "issue": "'She had never said it. Not in twenty-one years.' Her night-shape was fixed at her first turning at 16, eleven years ago. Twenty-one years is her time in the guild.",
-      "fix": "In ch 27, change 'Not in twenty-one years' to 'Not in eleven years'."
-    },
-    {
-      "id": "E21",
-      "chapter": 28,
-      "category": "place",
-      "issue": "Neela is 'on the wall by the cistern housing, where the sentry used to stand'. The cistern housing is on the east rampart (ch 19), but the pulled sentry walked the west rampart above the warden's window (ch 5).",
-      "fix": "In ch 28, change it to 'on the west rampart above the chamber window, where the sentry used to stand'."
-    },
-    {
-      "id": "E22",
-      "chapter": 30,
-      "category": "knowledge",
-      "issue": "Devan says she touched the base of his skull 'in the dark' in bed and lay down afterwards, and that he was afraid of her 'for about nine days'. The three-breath touch happened at dawn in the kalari while he drilled (ch 11, ch 12). In ch 17 he said his fear lasted 'about a breath'.",
-      "fix": "In ch 30, move the scene to the pit: 'You came down the north steps while I drilled. You put your fingers at the base of my skull...you lifted your hand and told me my guard dropped on the left.' Change 'afraid' to 'wary' and 'nine days' to 'eleven days'. Have Neela answer 'You stopped breathing. I thought you were waiting for the blow.'"
-    },
-    {
-      "id": "E23",
-      "chapter": 30,
-      "category": "knowledge",
-      "issue": "Devan says he stopped Janu's stories by asking her 'at the table, by day' and telling her he was 'tired of leopards', and that Neela 'weren't in the room'. In ch 9 he stopped the story at supper with Neela at the table, saying 'Not tonight, Janu'.",
-      "fix": "In ch 30, change it to 'I stopped her at supper, you were there. Afterwards I told her in the kitchen, by day, that I was tired of leopards. You weren't in the kitchen.'"
+      "issue": "In ch 28 Neela waters the forty-one kennel animals once and says the troughs will be dry in three days. Devan orders Bhaskaran's men out the morning after the return. Ch 31 says 'Rain held the first run' and that Muthu goes three days after the vow, which leaves about eight days without water. Ch 32 then reports the animals, Kirri included, alive and settled, and no one mentions the gap.",
+      "fix": "In ch 31, change 'Rain held the first run' to 'Bhaskaran's men got water through before the rain shut the wood road for a few days.' Keep Muthu's run as the second one."
     }
   ]
 }

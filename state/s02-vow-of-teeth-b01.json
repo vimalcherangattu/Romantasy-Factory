@@ -98,7 +98,7 @@
       ]
     },
     "05": {
-      "status": "passed",
+      "status": "continuity-fix",
       "revisions": 2,
       "scores": {
         "reader_question": 4.0,
@@ -115,7 +115,8 @@
       "words": 2870,
       "minimum": 3.0,
       "continuity_fixes": [
-        "Devan thinks 'Not once had she come to the bed', but ch 2 and ch 3 show her lying down in the bed with her back to him at each dawn. FIX: In ch 5, change 'Not once had she come to the bed' to 'Each time she had come to the bed shaking and lain with her back to him, as far off as the mattress allowed'."
+        "Devan thinks 'Not once had she come to the bed', but ch 2 and ch 3 show her lying down in the bed with her back to him at each dawn. FIX: In ch 5, change 'Not once had she come to the bed' to 'Each time she had come to the bed shaking and lain with her back to him, as far off as the mattress allowed'.",
+        "In ch 4 Neela turns back in the yard at first light. Her clothes are in the chamber (she always leaves them on the sill), yet in ch 5 she walks up through the stair door, past the two west-stair guards, as a woman, and no one remarks on it. FIX: In ch 5, add that she came in 'with a saddle-blanket from the stable round her', so Devan hears the rough wool drop before the bed creaks."
       ]
     },
     "06": {
@@ -137,7 +138,7 @@
       "minimum": 3.0
     },
     "07": {
-      "status": "passed",
+      "status": "continuity-fix",
       "revisions": 0,
       "scores": {
         "reader_question": 4.0,
@@ -152,7 +153,10 @@
       "average": 4.0,
       "flags": [],
       "words": 2771,
-      "minimum": 3.0
+      "minimum": 3.0,
+      "continuity_fixes": [
+        "'She had known him eight days' falls on the morning she counts thirty-four nights left, which is day 6. Ch 9 (thirty-two nights left) is the first point where 'eight days' fits. FIX: In ch 7, change 'eight days' to 'six days'."
+      ]
     },
     "08": {
       "status": "passed",
@@ -194,7 +198,7 @@
       "minimum": 3.0
     },
     "10": {
-      "status": "passed",
+      "status": "continuity-fix",
       "revisions": 1,
       "scores": {
         "reader_question": 4.0,
@@ -209,10 +213,13 @@
       "average": 4.12,
       "flags": [],
       "words": 2260,
-      "minimum": 4.0
+      "minimum": 4.0,
+      "continuity_fixes": [
+        "Devan's hand lies 'open on the blanket, palm up', yet Neela counts seven scars across the knuckles, which are on the back of the hand and can't be seen palm up. FIX: In ch 10, change 'palm up' to 'palm down, fingers loose'. Leave the later 'his hand still lay open on the blanket'."
+      ]
     },
     "11": {
-      "status": "passed",
+      "status": "continuity-fix",
       "revisions": 0,
       "scores": {
         "reader_question": 5.0,
@@ -227,7 +234,10 @@
       "average": 4.12,
       "flags": [],
       "words": 2731,
-      "minimum": 3.0
+      "minimum": 3.0,
+      "continuity_fixes": [
+        "Neela remembers that Janu said 'He used to have a partner' 'at the table, to the soup.' In ch 3 Janu said it standing at the lip of the kalari pit during the tour. FIX: In ch 11, change to: 'Janu had said it at the lip of this pit, on the first morning.'"
+      ]
     },
     "12": {
       "status": "passed",
@@ -269,7 +279,7 @@
       "minimum": 3.0
     },
     "14": {
-      "status": "passed",
+      "status": "continuity-fix",
       "revisions": 1,
       "scores": {
         "reader_question": 4.0,
@@ -284,7 +294,10 @@
       "average": 4.0,
       "flags": [],
       "words": 2931,
-      "minimum": 3.0
+      "minimum": 3.0,
+      "continuity_fixes": [
+        "Neela reasons from Asha's oilcloth token ('in a camphor chest, in a dead girl's room') and quotes Asha's note 'Need a second to be sure.' In ch 12 Devan folded the token and its note into his sleeve before Neela came into the room, and he never showed them to her. She has never smelled that wax or read that note. FIX: In ch 14, replace the Asha references with what she has seen herself: 'Janu's kitchen. The broken tally on the hall table, the day the patrol came in.' Change her reason to: 'The warden broke one tally open in the hall and said it wasn't enough. Here was a second, and he could have it.'"
+      ]
     },
     "15": {
       "status": "passed",
@@ -311,7 +324,7 @@
       ]
     },
     "16": {
-      "status": "passed",
+      "status": "continuity-fix",
       "revisions": 2,
       "scores": {
         "reader_question": 4.0,
@@ -330,7 +343,10 @@
       "words": 2824,
       "minimum": 0.0,
       "continuity_fixes": [
-        "Neela recalls Janu's story as one about 'a leopard that took a bride' that Devan stopped with 'enough'. In ch 9 the story was a man-eating leopard taking a man above the second ford, and Devan said 'Not tonight, Janu'. FIX: In ch 16, change the sentence to 'Janu had told a story at supper once, of a man-eater of the pass that left a traveller's sandals on the road. Devan had said Not tonight, Janu, so mildly that she went red and stopped.'"
+        "Neela recalls Janu's story as one about 'a leopard that took a bride' that Devan stopped with 'enough'. In ch 9 the story was a man-eating leopard taking a man above the second ford, and Devan said 'Not tonight, Janu'. FIX: In ch 16, change the sentence to 'Janu had told a story at supper once, of a man-eater of the pass that left a traveller's sandals on the road. Devan had said Not tonight, Janu, so mildly that she went red and stopped.'",
+        "Neela's reread says Devan stopped Janu's leopard story at supper by saying 'I'm tired of leopards, Janu,' mildly, 'by daylight.' In ch 9 Neela was at that supper and heard 'Not tonight, Janu.' Ch 30 places the 'tired of leopards' line later, in the kitchen, by day, out of Neela's hearing. Supper is also not daylight. FIX: In ch 16, change the line to: 'Janu was halfway through it over the rice when Devan said, \"Not tonight, Janu.\" He said it quietly, with his eyes on his bowl.'",
+        "The reread puts the sentry first and has the hounds 'kennelled in the first week, after the sentry was pulled.' In fact the hounds were kennelled from the second night (the ch 3 night walk and Kannan in ch 4), before Devan pulled the sentry in ch 5. Ch 30 and F344 also give hounds first, sentry second. FIX: In ch 16, swap the order: the hounds kennelled from the second night, then 'the sentry above the window pulled a few nights on.' Delete 'after the sentry was pulled.'",
+        "Neela recalls that 'Janu had called it damp-madness.' In ch 10 Janu told her the damp theory belonged to Bhaskaran's lads, and that her own theory was 'shy.' F322 repeats the error. FIX: In ch 16, change to: 'Bhaskaran's lads called it damp-madness, Janu called it shyness, and Chinna ran a wager on it at the kitchen door.'"
       ]
     },
     "17": {
@@ -352,7 +368,7 @@
       "minimum": 3.0
     },
     "18": {
-      "status": "passed",
+      "status": "continuity-fix",
       "revisions": 1,
       "scores": {
         "reader_question": 3.0,
@@ -369,7 +385,8 @@
       "words": 2681,
       "minimum": 3.0,
       "continuity_fixes": [
-        "Ammu says she has written to Kirri 'eleven times'. In ch 7 she had written three letters, and the bible fixes the count at three (C08). FIX: In ch 18, change 'I've written eleven times to the address she gave' to 'I've written four times now to the address she gave'."
+        "Ammu says she has written to Kirri 'eleven times'. In ch 7 she had written three letters, and the bible fixes the count at three (C08). FIX: In ch 18, change 'I've written eleven times to the address she gave' to 'I've written four times now to the address she gave'.",
+        "Ch 18 opens at sixteen nights and ends the same day at 'Fifteen nights.' Ch 19, the next evening, also says fifteen, so the count stalls for a day. FIX: In ch 18, change the closing 'Fifteen nights.' to 'Sixteen nights.'"
       ]
     },
     "19": {
@@ -435,7 +452,7 @@
       ]
     },
     "22": {
-      "status": "passed",
+      "status": "continuity-fix",
       "revisions": 1,
       "scores": {
         "reader_question": 4.0,
@@ -450,10 +467,13 @@
       "average": 3.88,
       "flags": [],
       "words": 2580,
-      "minimum": 3.0
+      "minimum": 3.0,
+      "continuity_fixes": [
+        "Ammu says the watcher logs a night with no fresh scent-posts as refusal, and that a second gap back to back with the rain night is the one Chathu would act on. But ch 16 to 18 already had three consecutive bare nights (ch 17 'three nights'; Ammu in ch 18: 'Three nights, the cup was bare'). Under the same rule those would have been logged, and the book gives no cover and no consequence for them. FIX: In ch 22, add to Ammu's lines: 'Your three bare nights last week already went down. That's why he sent the sweets. Another run of gaps on top of the rain night is the one he'd act on.'"
+      ]
     },
     "23": {
-      "status": "passed",
+      "status": "continuity-fix",
       "revisions": 2,
       "scores": {
         "reader_question": 4.0,
@@ -472,7 +492,8 @@
       "words": 2983,
       "minimum": 0.0,
       "continuity_fixes": [
-        "Neela 'had been in the room that night, on her side of the bed with her face to the wall, while he read the letter aloud to the dark'. In ch 17 he read Ittan's letter at noon by the west window, and they discussed it face to face. FIX: In ch 23, change it to 'She had stood by the chest while he read the letter aloud at the window at noon, and she had counted the friends in it'."
+        "Neela 'had been in the room that night, on her side of the bed with her face to the wall, while he read the letter aloud to the dark'. In ch 17 he read Ittan's letter at noon by the west window, and they discussed it face to face. FIX: In ch 23, change it to 'She had stood by the chest while he read the letter aloud at the window at noon, and she had counted the friends in it'.",
+        "Neela's nightly countdown to the pass closing gives about eleven nights left on the ch 23 morning (fifteen at ch 19, then one fewer each day). Ch 23 says the pass is sealed 'in eight days', and Devan repeats 'Eight days to the seal.' Nobody notices the three-day gap, and up to ch 18 the book treats the count and the closing as the same date ('The pass shuts in sixteen days'). FIX: In ch 23, give Neela one line after 'eight days': 'Three days ahead of the rains. The council always seals early, and I've been counting to the rains, not the seal.'"
       ]
     },
     "24": {
@@ -582,7 +603,7 @@
       ]
     },
     "29": {
-      "status": "passed",
+      "status": "continuity-fix",
       "revisions": 1,
       "scores": {
         "reader_question": 4.0,
@@ -597,7 +618,10 @@
       "average": 4.0,
       "flags": [],
       "words": 2917,
-      "minimum": 3.0
+      "minimum": 3.0,
+      "continuity_fixes": [
+        "Devan reads the marriage-writ clause aloud as 'In the event of the warden's death in office, the pass-seal passes to his wife in trust...'. The same document's wording in ch 8 is '...and the said wife, being lawfully wed, shall hold the pass-seal of Kettamala in trust from the hour of the warden's death, until the council shall name another in his place.' FIX: In ch 29, replace the quoted clause with the ch 8 wording."
+      ]
     },
     "30": {
       "status": "passed",
@@ -625,7 +649,7 @@
       ]
     },
     "31": {
-      "status": "passed",
+      "status": "continuity-fix",
       "revisions": 2,
       "scores": {
         "reader_question": 4.0,
@@ -640,7 +664,10 @@
       "average": 4.12,
       "flags": [],
       "words": 2869,
-      "minimum": 3.0
+      "minimum": 3.0,
+      "continuity_fixes": [
+        "In ch 28 Neela waters the forty-one kennel animals once and says the troughs will be dry in three days. Devan orders Bhaskaran's men out the morning after the return. Ch 31 says 'Rain held the first run' and that Muthu goes three days after the vow, which leaves about eight days without water. Ch 32 then reports the animals, Kirri included, alive and settled, and no one mentions the gap. FIX: In ch 31, change 'Rain held the first run' to 'Bhaskaran's men got water through before the rain shut the wood road for a few days.' Keep Muthu's run as the second one."
+      ]
     },
     "32": {
       "status": "passed",
@@ -1382,9 +1409,14 @@
     {
       "at": "2026-10-20T00:03:51",
       "event": "done: S5 critique ch 30"
+    },
+    {
+      "at": "2026-10-20T00:15:38",
+      "event": "done: S7 continuity"
     }
   ],
-  "updated_at": "2026-10-20T00:03:51",
+  "updated_at": "2026-10-20T00:15:38",
   "midpoint_chapter": 16,
-  "continuity_attempts": 1
+  "continuity_attempts": 2,
+  "continuity_last_errors": 13
 }

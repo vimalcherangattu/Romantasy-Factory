@@ -1,87 +1,46 @@
-# Continuity report: Vow of Teeth (book 1, chapters 1 to 32)
+# Continuity report: Vow of Teeth (s02-vow-of-teeth-b01)
 
 ## What I checked
 
-- Names, titles and pronouns for the full cast and household.
-- The day count against the nights Neela counts: the 40-day deadline, the new moon, the sealing day and the post days.
-- The three world rules: turning, witness and self-naming, and the ledger. This covered forced resin, the self-naming at ch 27, the page burning with the intake slip surviving, and the wound-share.
-- Injuries: the arrow graze, Vellan's poisoned cut, the torn resin scars, the scout's knife, Raiu's death and Ammu's death.
-- Who knows what, in each chapter.
-- Objects and places: the shutters and bar, sword, kindi, pebble, tooth, seals, tallies, cistern, stairs and kennels.
-- How the relationship develops, against the outline beats.
+All 32 chapters were checked against the series bible, the outline and continuity.json (F001–F349), and against each other. I covered:
 
-## Errors found: 23 (see errors.json)
+- **Names and titles:** names, attributions and who knows whose name.
+- **Timeline:** the nightly countdown, new-moon arithmetic, sealing day, post days and ages.
+- **World rules:** the turning, the witness word, self-naming, wound-share, the ache and ledger pages.
+- **Injuries:** Devan's forearm, Devan's ribs, Neela's torn resin scars, and the wound-share welts.
+- **Knowledge:** who knows what, especially what Neela saw in ch 12 and the reread in ch 16.
+- **Objects and places:** the shutter bar, sword, kindi, pebbles, tallies, writ, seals, clothes and caches.
+- **Relationship state:** the order of Devan's protections and the bargain withdrawn.
 
-**The shutter bar on the wedding night (E02 to E05).**
-- Ch 1 to 3 have a bar lifted on night one.
-- Ch 10, ch 16 and ch 30 say the shutters were never barred until the second dusk.
-- Ch 30 says the shutters stood open on night one.
+The world rules hold throughout. Devan never says the word. Janu sees only eyes. Devan does not witness Vellan's turning. The self-naming happens during a dusk turning, to Devan, while he is looking. The page's witness entry burns and the intake slip survives. Wound-share applies only after the self-naming. Ammu stays dead.
 
-**Janu's leopard stories (E13, E16, E23).**
-- Ch 16, ch 21 and ch 30 each misdescribe the story Devan stopped in ch 9.
-- They also misdescribe how he stopped it and whether Neela was present.
+## Errors found (13)
 
-**Ammu's letters to Kirri (E14, E19).** The count is three in ch 7, eleven in ch 18 and "every month" in ch 27.
+- **E01 (ch 14):** Neela knows Asha's token and note, which Devan hid from her in ch 12.
+- **E02 (ch 16):** The reread misquotes how Devan stopped Janu's story ("tired of leopards" instead of "Not tonight, Janu").
+- **E03 (ch 16):** The reread puts the hounds after the sentry; the hounds came first.
+- **E04 (ch 16):** The reread gives Janu the damp-madness theory; in ch 10 it was Bhaskaran's lads'.
+- **E05 (ch 11):** The reread puts Janu's "partner" remark at the table; it was at the pit lip.
+- **E06 (ch 7):** "Known him eight days" falls on day 6.
+- **E07 (ch 18):** The countdown stalls at fifteen across two evenings.
+- **E08 (ch 23):** The countdown gives about eleven nights left, but the pass is sealed in eight days, and no one notices.
+- **E09 (ch 22):** The watcher's gap rule clashes with the three earlier bare nights, which had no consequence.
+- **E10 (ch 29):** The quoted writ clause differs from ch 8.
+- **E11 (ch 10):** Knuckle scars are seen on a palm-up hand.
+- **E12 (ch 5):** Neela returns through the fort after a yard turn-back with no clothes.
+- **E13 (ch 31):** The kennel animals go about eight days without water and nobody remarks on it.
 
-**The skull-touch scene (E22).** Ch 30 relocates the ch 11 kalari moment into the bed.
+Note: F322 (Janu as the source of the damp theory) records the E04 error. F137 (Asha's note) depends on the E01 error. F350 restates the ch 10 attribution.
 
-**Smaller errors.**
-- Garrison size and number of gates (E01).
-- The parrot drawing's stroke count (E06).
-- Chinna's pronoun (E07).
-- Neela "never came to the bed" (E08).
-- Muthu's seventh day (E09).
-- Muthu's mother's letter frequency (E10).
-- "Last night's supper" (E11).
-- The height of the window drop (E12).
-- Devan closing the shutters after promising not to (E15).
-- Where Ittan's letter was read (E17).
-- Neela's orders to Muthu (E18).
-- The years since her night-shape was fixed (E20).
-- The sentry's wall (E21).
+## New facts established by this book (added F350–F368)
 
-No magic rule is broken. Forced resin before sunset follows the outline and the forced-resin loophole.
+- Neela self-named to Devan in the Resin House yard (ch 27). All other witnesses are void, and she is rogue.
+- Ammu's death and burial. Kirri confirmed caged.
+- Vellan crippled by Devan's marma strike, the first blow Devan has struck in eight years.
+- Chathu fled with the ledger, then was back at the Resin House by nine days into the rains.
+- The pass was sealed by the warden's seal alone, with Neela as household witness. Kettamala is cut off for about four months.
+- Devan and Neela declared love (ch 30) and made daylight vows (ch 31).
+- Ammu's resin was part-used at the ch 31 dusk.
+- Neela resolves to take the ledger, and Devan will come.
 
-## New facts established by this book (added to continuity.json)
-
-**Self-naming and wound-share.**
-- Neela self-named to Devan at dusk in the Resin House yard (ch 27).
-- She is rogue. Devan is her only witness.
-- They share wounds: his rib cut shows on her side, and her torn scars show on his throat and wrists.
-
-**Deaths and wounds.**
-- Ammu is dead and buried at the tree line of the Resin House.
-- Raiu is dead.
-- Devan struck Vellan: his first blow at a living creature in eight years. Vellan's bear foreleg is ruined.
-
-**Ittan and the pass.**
-- Ittan was arrested on sealing day and is held in the padippura guardroom.
-- The pass is sealed under the warden's seal alone, with Neela's name as household witness.
-- Kettamala is cut off for about four months.
-
-**The relationship.**
-- First explicit scene: ch 22. Second: dawn of ch 31.
-- They declared their love in ch 30 and remade their vows by daylight in ch 31.
-- Neela gave Devan the guild leopard tooth.
-
-**The queen's payment writ.**
-- The payment writ to the Resin House carries the queen's sunbird seal.
-- It is hidden behind the third shutter slat.
-
-**Loose threads.**
-- Chathu holds the ledger and the intake slip.
-- Muthu's thick grey packet is locked, unopened, in the hall strongbox.
-- Neela means to take the ledger, and Devan will come with her.
-
-## Corrections recorded
-
-The new canonical facts supersede several stale provisional ones:
-
-| Stale fact | Topic | Superseded by |
-|---|---|---|
-| F064 | Shutter bar left in place | F065 |
-| F202 | Where the letter was read | F306 |
-| F277 | Where the skull-touch happened | F305 |
-| F282 | Order of the protections | F303 |
-
-Empty categories on F237 to F243 have been filled in.
+The knowledge list now gives each character's end-of-book state.
