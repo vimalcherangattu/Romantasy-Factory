@@ -1,3 +1,19 @@
 {
-  "facts": []
+  "facts": [
+    {
+      "category": "place",
+      "fact": "Kiran stayed at Garh Neshar with Ila to mend when Meera and Rohan crossed back; he was too weak for the road and is absent from the Shilak Cairn at the thaw.",
+      "since": "ch 32"
+    },
+    {
+      "category": "knowledge",
+      "fact": "In chapter 31, Meera was in the room when Kiran sat silent at the drafting table beside Dilan's rope end and answered Rohan's 'It is for the next one' with a nod; at the thaw she reads that silence as a sign Kiran means to pay the Old Bargain himself.",
+      "since": "ch 32"
+    },
+    {
+      "category": "name",
+      "fact": "Roop and Chand's rope-bond was tied at the Shilak Cairn, so it ends at the same first meltwater as Meera and Rohan's.",
+      "since": "ch 32"
+    }
+  ]
 }
