@@ -2,17 +2,13 @@
   "facts": [
     {
       "category": "knowledge",
-      "fact": "Revises F137: Neela drops the satchel on the patrol path because the warden broke a council-wax tally open in the hall (which she saw herself) and said one was not enough; this is a second. She has not seen Asha's token or note. A bag on the path also makes the camp read as raiders rather than a cat-kill, and she knows it tells Devan someone stood there before him."
+      "fact": "On the dawn of ch14, from the east terrace, Neela sees a single man come over the far ridge beyond the narrows and go down toward the dark scout camp while the patrol is bunched on the shelf; the scrub hides him and he does not reappear. She cannot act. No shot or horn follows.",
+      "since": "ch 14"
     },
     {
       "category": "knowledge",
-      "fact": "On the ridge Neela counts the cost of skipping the stone a second night: an empty cup for Ammu, Valli absent from the gate, and Chathu's 'every day counts double' (F087). She chooses the narrows anyway.",
-      "provisional": true
-    },
-    {
-      "category": "knowledge",
-      "fact": "At supper Devan shows only the coin's edge and says 'I won't answer that' when Muthu asks if it is loot; he does not voice his conclusion about Varanad silver or the second tally before the hall. Neela notes that he says less than he knows.",
-      "provisional": true
+      "fact": "Returning from the narrows in shape, Neela stops at the meeting stone in the pala grove and drags her cheek across the cup, a late scent-mark, before going to the cache.",
+      "since": "ch 14"
     }
   ]
 }
