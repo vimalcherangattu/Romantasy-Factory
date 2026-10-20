@@ -1,29 +1,16 @@
 {
   "facts": [
     {
-      "category": "name",
-      "fact": "Sunni, seven, is a sick child in Ranu; her mother is unnamed. Other named sick: Hira the weaver (blue lip), Bholu's mother, old Lalli, the Dev boy and his father, Kamla's two small children.",
-      "why": "needed because the beat requires a named child who dies and triage choices on the page."
+      "category": "",
+      "fact": "Three of the twelve redbark packets were ruined on the Goat's Teeth (two split along the fold, one damp-set like clay); nine sound packets at two courses each give eighteen courses."
     },
     {
-      "category": "object",
-      "fact": "A course of redbark is a pinch in hot walnut-leaf tea morning and night for three days; a packet is two courses (three if stretched). Nimmi can brew six cups at a time, so doses go out in waves.",
-      "why": "needed to make the eighteen-courses arithmetic and the delay that kills Sunni concrete."
+      "category": "",
+      "fact": "Forty-one are sick in Ranu: eighteen get a course (Sunni last on the list, third water at dusk) and twenty-three do not."
     },
     {
-      "category": "object",
-      "fact": "The badge under Kiran's pillow is brass gone brown, palm-wide, stamped with the queen's goat head, with a small dent in the rim.",
-      "why": "needed to describe clue C16 on the page."
-    },
-    {
-      "category": "knowledge",
-      "fact": "Meera now knows Kiran holds a warden's badge and withholds it from Rohan as a free silence; she does not yet know whose it is.",
-      "why": "needed for the beat and the chapter's dramatic irony."
-    },
-    {
-      "category": "relationship",
-      "fact": "Sunni rings Badami's dented bell, which Meera lends her; Sunni dies holding it.",
-      "why": "needed to make Sunni liked before the threat."
+      "category": "",
+      "fact": "Each trip to the nearest well (a hundred paces from Nimmi's house) takes Meera and Rohan about a quarter hour together, because the rope forces Meera to walk it with him; this delays the waters."
     }
   ]
 }
