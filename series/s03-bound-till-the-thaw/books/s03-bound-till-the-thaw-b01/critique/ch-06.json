@@ -1,41 +1,42 @@
 {
   "scores": {
-    "reader_question": 3.0,
+    "reader_question": 4.0,
     "change": 4.0,
     "romance_movement": 4.0,
     "shown_chemistry": 4.0,
     "character_logic": 3.0,
     "stakes_and_cost": 4.0,
-    "prose": 3.0,
-    "continuity": 0.0
+    "prose": 4.0,
+    "continuity": 5.0
   },
   "reasons": {
-    "reader_question": "The refusal sets up the beat's question, but 'I will not lie to you' blurs what he is refusing, and the last line points at a vague 'question' rather than a specific one.",
-    "change": "Clear shift from pride to debt: Rohan ends owing her in a currency the law cannot clerk, first-name use begins, and the pace and terms of the rope are reset.",
-    "romance_movement": "There is a new reason for the change. She pays for his lie in her own flesh, which is the bible's first rational trust choice, and he answers with the pattu and a costed refusal.",
-    "shown_chemistry": "Chemistry is carried by action: the glove pulled off with her teeth, the knotless binding across his spine, her red ears, the camphor joke. 'He thought of that for a long time afterward' is the one narrated nudge.",
-    "character_logic": "Bible-Rohan goes silent instead of lying, and he has just been caught by white fingertips. He lies anyway with no visible calculation. Later he refuses a promise, then says 'I will not lie to you', which is a statement of intent and so a promise under F012.",
-    "stakes_and_cost": "The lie costs a day Ranu doesn't have, and Meera pays frostnip and a night of shaking. The refusal costs her reassurance. Every choice is priced.",
-    "prose": "Strong images (tide off a flat shore, sail in a squall) and clean dialogue. Several lines are muddled ('I'm not made of this', 'Ask me what I want to know again', 'a captain does not ask first'), with echo phrasing ('without remarking on it' / 'did not remark on it') and many 'did not' and 'He knew' openers.",
-    "continuity": "'He had nineteen' days conflicts with F023 and the timeline. Day 1 is the arrival, chapter 5 already opens at a dawn after a night on the pass, so this dawn is at least day 3, with 18 or fewer days left before the lost day. The promise penalty is also inflated to 'the greatest lie... and the heart' against F012's 'great lie'."
+    "reader_question": "The refusal leaves a sharp, specific question: what will Rohan do on the night the truth would hang her? But the closing image is reflective rather than forward-pulling, so the end-of-chapter urge to resume is softer than it could be.",
+    "change": "Knowledge changes: she learns the full injury and that he lies under pressure. Relationship changes: he now owes her, she uses his name, and she asks for a promise and is refused. Power tilts to her as the one who pays.",
+    "romance_movement": "The reason it moves is new. This is the first rational trust choice, paid in her own flesh. The refusal of the promise is a new, rule-based reason for distance rather than a recycled one.",
+    "shown_chemistry": "Responsive action carries it: the knotless binding across his spine, her pace slowed by a third without comment, her red ears, the camphor pattu, and the 'Terrible' / 'I am told it is' exchange. Very little is narrated.",
+    "character_logic": "Rohan's voice note says he goes silent instead of lying, and silence is free. Yet he picks a middling lie without weighing refusal. He also lies the morning after she counted his white fingertips, so a smart Rohan's choice is underargued.",
+    "stakes_and_cost": "Every choice is priced: the day lost against Ranu, a night of shaking she takes on herself, and a refused promise that costs her reassurance and him her ease.",
+    "prose": "Clean, concrete and readable, with no banned phrases and AI tells within limits. Flaws: consecutive paragraphs open with 'She' in the ledger section, 'stayed as they were' recurs three times, the price/bill ledger metaphor is restated several times, and 'He thought of that for a long time afterward' is a told flash-forward.",
+    "continuity": "The chapter is consistent with the rope rules, the loophole, the promise rule, the ribs (F068/F085), the pattu, Jassi's cord and chapter 5's small lie and six-count. Seventeen to sixteen days matches F089. Stale provisional F087 ('nineteen remain') and F088 ('he calls her Meera at the end') should be retired, not treated as conflicts."
   },
   "fixes": [
-    "At \"he had nineteen and a regent counting them\" (continuity conflict): the twenty days run from the day-1 arrival, and at least two nights have passed on the pass, so nineteen is impossible. Change it to the correct remaining figure (for example 'seventeen' at this dawn, 'sixteen' after the lost day). Make the 'days of the twenty' arithmetic match, and correct new fact F087.",
-    "At \"I will not lie to you, Meera. I will show you.\" (character logic / rule that bites back): under F012 a statement of intent while bound is a promise, so this line is the promise he just refused. Cut 'I will not lie to you', keep 'I'll show you. Watch my hands.', and have him say only what is true now ('I have not lied to you since the binding'). In the same scene, change \"struck as by the greatest lie, in the hands and the feet and the heart\" to 'struck as by a great lie, flesh dead in the hands and feet', to match F012.",
-    "At \"\\\"They are fine,\\\" said Rohan.\" (irrational behaviour to extend plot): a man who goes silent rather than lie, and who was just caught at six counts, needs a visible calculation. Add two or three sentences before the line in which he prices the lie: middling cold, a night of shaking, against a lost day, and he decides his hands can pay for nineteen hours of Ranu. The lie then reads as a costed choice that her loophole overturns, and it sets up the tally scene's debt."
+    "At 'He weighed it as he weighed everything. A middling lie' (Irrational behaviour to extend plot): Rohan's established habit is free silence, and he declined the Garh Neshar question in chapter 5. Add two or three sentences where he considers declining and rejects it: a refusal from him is as good as a yes, so she would halt them anyway. Have him also bet on the glove hiding the frostnip, since she watched bare fingertips last night. The lie should read as a smart man's gamble, not an oversight.",
+    "At 'Watch my hands, and you will see it is so' and the closing 'I'll show you. Watch my hands.' (Reinterpretation Callback diluted): the bible saves 'Watch my hands' for the chapter 30 declaration. Using it twice here as a pledge pre-spends that payoff. Cut it from the pattu exchange; there, have him simply hold his bare hands to the fire for her to see. Keep only the beat line 'No. I'll show you.' at the end, and render it in his formal voice: 'I will show you.' Let the action, open palms on his knees, do the work.",
+    "At 'There would come a night, and he knew it' (beat drift): the beat says he resolves never to lie and refuses only to dress it as a promise. The draft instead has him reserving the right to lie to save her. That undercuts his reassurance that follows and muddies the reader question. Make his reason rest on this chapter's new knowledge: a broken bound promise strikes as a great lie, and he has just watched her take his cold. He will not hand her a debt she would pay with her fingers. Then end on a sharper, story-caused turn that makes chapter 7 necessary: she answers, or she reaches for the rope and tests the distance, rather than ending on reflective silence."
   ],
-  "reader_question": "If Rohan won't bind himself with a promise, how will he prove he won't lie to her, and what happens on the night the truth would hang her?",
+  "reader_question": "When the night comes that the truth would hang Meera, will Rohan lie to her and freeze for it, or let the truth convict her?",
   "techniques_landed": [
     9,
     14,
     22
   ],
-  "new_facts_assessment": "Jassi's goat-hair cord: necessary, consistent and emotionally loaded; keep. Seventh and eighth left ribs: consistent with F068 and ch5's 'two, perhaps three'. Note that ch5 already told Meera 'two, perhaps three', so the confession's real new content is the arm, the breath and the hidden stops. The draft should lean on those. Camphor warden pattu: necessary and good texture, though the line 'a captain does not ask first' is unclear. Timeline (nineteen days remain): conflicts with F023 and the day-1 arrival; recompute and correct F087. First-name use: consistent with F046's 'until it changes'. Meera's 'Rohan' is well placed. Rohan's 'Meera' at the end is earned, but do not let it end the Guide pattern yet. Unlisted change: the promise penalty restated as 'the greatest lie, in the hands and the feet and the heart' overstates F012 (a great lie kills flesh, not the heart) and must be corrected.",
+  "new_facts_assessment": "The draft's F087 (seventeen days at dawn, sixteen by night, a lost day in the hollow) is necessary and fits the chapter 1 to 5 timeline, which runs about three days. It duplicates the existing F089 and reuses the ID F087, which already holds a conflicting 'nineteen remain' entry. Keep the seventeen/sixteen version as F089 and delete the old provisional F087. Also delete or rewrite provisional F088: Rohan never calls her Meera in this draft, and only her first use of 'Rohan' is on the page. The details 'seventh and eighth ribs' and 'Meera has bound ribs twice before' are harmless texture, consistent with existing facts.",
   "content_rule_violation": false,
   "failure_modes": [
-    "Irrational behaviour to extend plot"
+    "Irrational behaviour to extend plot",
+    "Reinterpretation Callback signposted/diluted"
   ],
-  "average": 3.12,
-  "minimum": 0.0,
-  "passed": false
+  "average": 4.0,
+  "minimum": 3.0,
+  "passed": true
 }
