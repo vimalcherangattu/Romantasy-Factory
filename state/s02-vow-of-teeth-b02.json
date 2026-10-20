@@ -194,8 +194,8 @@
       "minimum": 3.0
     },
     "11": {
-      "status": "failed",
-      "revisions": 0,
+      "status": "revised",
+      "revisions": 1,
       "scores": {
         "reader_question": 3.0,
         "change": 4.0,
@@ -208,7 +208,7 @@
       },
       "average": 3.0,
       "flags": [],
-      "words": 2821,
+      "words": 2900,
       "minimum": 0.0
     },
     "12": {
@@ -564,8 +564,12 @@
     {
       "at": "2026-10-20T23:55:36",
       "event": "done: S5 critique ch 11"
+    },
+    {
+      "at": "2026-10-20T23:56:41",
+      "event": "done: S6 revise ch 11"
     }
   ],
-  "updated_at": "2026-10-20T23:55:36",
+  "updated_at": "2026-10-20T23:56:41",
   "midpoint_chapter": 16
 }
