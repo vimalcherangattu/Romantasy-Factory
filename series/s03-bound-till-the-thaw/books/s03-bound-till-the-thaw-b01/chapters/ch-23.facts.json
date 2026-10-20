@@ -1,24 +1,34 @@
 {
   "facts": [
     {
-      "category": "timeline",
-      "fact": "Heavy snow in the night drifts the lower road shut at the gully bend; the carter turns back and Meera and Rohan lose a day, now leaving at first light the next morning.",
-      "why": "needed because the outline has them still in Ranu for the grove meeting and Varun's dawn arrival in chapter 24, while chapter 21 set departure for this morning."
-    },
-    {
+      "id": "F204",
       "category": "object",
-      "fact": "A crew meeting signal is a hand's length of undyed wool cord with three hard knots and a long tail ending in a loop, left on Nimmi's latch; it means the walnut grove behind her house at moonrise. The buyer uses it, and Kiran's crew use it too.",
-      "why": "needed because the outline calls for a knotted cord at Nimmi's door as the crew signal."
+      "fact": "The crew meeting signal is a hand's length of undyed wool cord with two plain knots and no tail, cut square; tied on Nimmi's latch it means the walnut grove behind her house at night. Kiran's crew use it. The buyer's signal is different: three hard knots and a long tail ending in a loop, whose loop points to the grove. Meera identifies the difference herself. Revises F204.",
+      "since": "s03-bound-till-the-thaw-b01 ch 23"
     },
     {
+      "id": "F206",
       "category": "knowledge",
-      "fact": "Nimmi says a masked buyer has paid the lower-lane runners for any crossing medicine for two winters, in silver without haggling, and some of it reached Ranu by the back road; she has never met him.",
-      "why": "needed because the beat has Nimmi tell Meera and Rohan about the buyer."
+      "fact": "The Shilak post file lists the two-knot cord as a seized crew signal, and the three-and-tail as an unknown signal found twice on lower-lane latches and never answered. Rohan has never found anyone at the other end. Revises F206.",
+      "since": "s03-bound-till-the-thaw-b01 ch 23"
     },
     {
+      "id": "F207",
+      "category": "timeline",
+      "fact": "The snow costs a day that makes the night-before-the-Fair arrival impossible; Rohan writes Ila that he will push the road and reach the meadow on the morning of the Fair. Seventeen days since the cairn.",
+      "since": "s03-bound-till-the-thaw-b01 ch 23"
+    },
+    {
+      "id": "F208",
+      "category": "magic",
+      "fact": "Rohan deliberately promises Meera he will not interrupt her at the grove and will not ask afterwards what was said; the rope hums low and level and Meera feels it. It is a promise he can guarantee himself.",
+      "since": "s03-bound-till-the-thaw-b01 ch 23"
+    },
+    {
+      "id": "F209",
       "category": "knowledge",
-      "fact": "The Shilak post file lists the three-and-tail cord as a seized crew signal; Rohan has seen it in files but never found anyone at the other end.",
-      "why": "needed so Rohan recognises the signal on the page."
+      "fact": "Lower-lane runners receive the buyer's silver in a pouch tied with the three-and-tail knot, and none will say who from.",
+      "since": "s03-bound-till-the-thaw-b01 ch 23"
     }
   ]
 }
