@@ -1,18 +1,28 @@
 {
   "facts": [
     {
-      "id": "F297r",
-      "category": "plot",
-      "fact": "Revises F297: after Muthu came out of the guardroom with the grey-sealed packet, Devan took it from his hand openly, in front of Bhaskaran and the yard, to lock it in the hall strongbox with the rest of the post for the spring rider. Muthu shrugged it off as routine. The wax stayed unbroken and Muthu believes his letters are unread. Ittan at the grille said only 'You've no idea whose hand I am, my friend' and then fell silent, the price of Neela's choice to wait an hour (ch 31).",
-      "since": "s02-vow-of-teeth-b01 ch 32",
-      "provisional": true
+      "id": "N1",
+      "category": "knowledge",
+      "fact": "Revises F434: Devan wrote to the council eight weeks before the wedding; the queen sealed the payment writ, dated seven weeks before the wedding, within days of his letter.",
+      "since": "ch 32"
     },
     {
-      "id": "F299r",
-      "category": "knowledge",
-      "fact": "Revises F299: seven weeks before the wedding Devan wrote to the council that the raiders' tallies carried true wax and asked to see every seal register. He realises now that those registers lead to Ittan's box, and the queen sealed the payment writ as he closed on Ittan.",
-      "since": "s02-vow-of-teeth-b01 ch 32",
-      "provisional": true
+      "id": "N2",
+      "category": "object",
+      "fact": "The guild contract chit is split in two: the buyer keeps one half, and the odiyan burns her half at the meeting stone when it is given to her. The chit Devan found is the buyer's half.",
+      "since": "ch 32"
+    },
+    {
+      "id": "N3",
+      "category": "object",
+      "fact": "The queen's sunbird seal on the writ has a chip at the left wing tip, matching the cut wedding-gift seal. Devan recognises Chathu's mark from a seized courier's letter seen at border school.",
+      "since": "ch 32"
+    },
+    {
+      "id": "N4",
+      "category": "plot",
+      "fact": "Neela names the cost of Devan's 'Then I'll come': the fort, the garrison's trust and his office. Devan knows the queen holds Neela's name from the closing writ (F271, F388).",
+      "since": "ch 32"
     }
   ]
 }
