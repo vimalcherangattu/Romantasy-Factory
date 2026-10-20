@@ -1,0 +1,41 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 3.0,
+    "stakes_and_cost": 4.0,
+    "prose": 4.0,
+    "continuity": 0.0
+  },
+  "reasons": {
+    "reader_question": "The buyer's summons, plus 'He doesn't send for me for free', gives a specific question about who he is and his price.",
+    "change": "The redbark is nearly gone, the buyer's channel is opened, a day is lost, and Rohan has staked his post on the petition.",
+    "romance_movement": "The reason is new. Her secret about Kiran builds distance just as he offers his career through an honest limit. The door closing hand-to-finger lands the shift.",
+    "shown_chemistry": "Her rough laugh, his looking at her face, her hand on his wrist, and his choice not to reach after it are all responsive action.",
+    "character_logic": "Rohan weighs every promise for an hour, then casually says 'I will not ask afterwards'. Nimmi contradicts herself about who uses the cord.",
+    "stakes_and_cost": "The petition costs his post and the delay costs a day. The grove meeting carries an unnamed price, so the cost is clear.",
+    "prose": "Clean, concrete and rhythmic. The word-count device miscounts ('Ten'), and the shelf and door images echo chapter 22. The 'parcel for a funeral' simile strains.",
+    "continuity": "'Carried it twelve days' conflicts with F153 (eleven days already by ch16). The cord signal is internally contradictory. The letter's Fair arrival ignores the lost day."
+  },
+  "fixes": [
+    "Continuity: 'Eight spans. I have carried it twelve days.' F153 already puts eleven days at ch16, so change this to the correct count (about seventeen) or to 'since the cairn'. In the letter, 'at Garh Neshar the night before the Fair', either state the new arithmetic after the snow (a forced pace, a shorter route) or have Rohan write the true, later estimate. He should not promise Ila a date the lost day has made impossible.",
+    "Contradiction: 'Nobody else uses three and the tail. It's him.' Earlier Nimmi says Kiran's lot use the knotted cord. Make the crew signal a different count (two knots, no tail), so the three-and-tail is the buyer's alone. Let Meera recognise the difference herself. That uses her expertise and makes the identification earned rather than asserted. Update F204 to match.",
+    "Technique 22 dropped: 'I will not interrupt you, and I will not ask afterwards'. Rohan just spent an hour refusing to add promises, so a bound man wouldn't swear this lightly. Either rephrase it as intent ('I mean not to ask') or let the rope hum low and level. Then have Meera feel it and register what he has bound himself to. Also fix the word count: 'Do it. Two words. Ten.' is wrong by the chapter's own tally."
+  ],
+  "reader_question": "Who is the masked buyer who has funded Ranu's medicine, and what will he demand of Meera at the grove tonight?",
+  "techniques_landed": [
+    9,
+    22,
+    23
+  ],
+  "new_facts_assessment": "The lost day is needed to keep them in Ranu for ch24, but its cost to the Fair arithmetic is never stated. The buyer fact is consistent with Kunal and necessary. The Shilak-file fact is useful. The cord signal is necessary but self-contradictory: Kiran's crew use it, yet 'nobody else uses three and the tail'.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Irrational behaviour to extend plot"
+  ],
+  "average": 3.38,
+  "minimum": 0.0,
+  "passed": false
+}
