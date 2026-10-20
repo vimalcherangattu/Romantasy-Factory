@@ -4,37 +4,35 @@
     "change": 4.0,
     "romance_movement": 4.0,
     "shown_chemistry": 4.0,
-    "character_logic": 3.0,
+    "character_logic": 4.0,
     "stakes_and_cost": 4.0,
     "prose": 4.0,
     "continuity": 5.0
   },
   "reasons": {
-    "reader_question": "The chapter ends on two sharp questions: why fresh Varanad silver is in Thurai purses, and whether the 'pepper-store cat' line means he knows. Valli's absence adds a third, though it is only mentioned in passing.",
-    "change": "Neela crosses from passive non-killer (ch13) to active protector and throws away the cleanest exit she has had. Devan gains a second council-wax tally and the coin, and now knows someone stood on the ledge before him.",
-    "romance_movement": "The reason is new: in ch13 she stayed out of a fever's way, and here she kills to stop the ambush. His sideways thanks (the fish pushed across, the bowl of milk) moves them, but the shift is one-way and quiet.",
-    "shown_chemistry": "Shown through action and banter: 'Then I'll look at it asleep', her wait for his breath-hitch, the fish dish, the milk line. Only 'Something crossed his face too fast to name' slips into narration.",
-    "character_logic": "Neela's reasoning holds, but Devan lays out the coin deduction and the second tally at a loud supper in front of Muthu and the hall. A warden hunting a council traitor, whose sister wrote 'tell nobody at the gate', would not. Neela also skips Ammu's stone a second night without weighing it.",
-    "stakes_and_cost": "The cost is explicit: the clean road thrown in a ravine, the hunger refused, a cut shoulder, and a bag that tells him someone was there. The second missed guild contact goes uncosted, and Chathu's threat is not felt.",
-    "prose": "Concrete and often quotable ('Bronze, which smelled of nothing and so of something'). It breaks the paragraph-opening rule: three consecutive paragraphs start 'She' on the terrace and two in the closing beat. There are minor reaches ('like a tide through a drain') and one stock face-beat.",
-    "continuity": "Consistent with the bible and prior chapters. The resin and turning rules hold, the cache matches F129, the bar is lifted by her (F065), the left forearm wound matches F119, the night count fits, Muthu says 'leopard' as a non-witness, and the clove council wax matches F050."
+    "reader_question": "The chapter leaves two clear questions: why unspent Varanad silver sits in a raider scout's purse, and whether Devan's pepper-store cat line means he knows. It loses a point because the coin's importance belongs to Devan's silence, not to Neela's own inference.",
+    "change": "Knowledge changes (new coin, a second tally reaches Devan), relationship changes (she becomes his protector by choice) and power changes (he now knows someone stood on the ledge before him and holds that over the table).",
+    "romance_movement": "The reason is new: her first chosen act of protection, made against a clean exit, answered by his sideways thanks. The leads share only two short scenes, so most of the movement is indirect and works.",
+    "shown_chemistry": "Shown through responsive action, not narration: 'Then I'll look at it asleep', his mouth going still when pleased, the fish dish pushed to her side without a glance, the milk for the cat. Neela waiting for his breath hitch adds to it. None of it is narrated chemistry.",
+    "character_logic": "Neela's reasoning for the satchel and her refusal of the hunger are smart and fit her character. Devan riding a day after septic fever is stubborn, but the Raman motive justifies it. The ridge timing ('stars came out' then 'four hours to first light') blurs her watch.",
+    "stakes_and_cost": "Saving him costs her the cleanest road in twelve contracts, a second empty cup at the stone, an unexplained missed Valli, and a night of hunger unfed. The costs are counted on the ridge but not yet felt as consequences, and the dawn danger is defused before the reader fears it.",
+    "prose": "Concrete and well voiced ('like the bite in a flatbread', 'It was a lie, and it was a good one. She used it.'). The ridge sum has muddled lines ('It came out the same'; 'who would be dead by a stranger's hand and save her the trouble'), and 'twelve days' echoes. No banned phrases or AI tells found.",
+    "continuity": "Consistent with F083, F085, F119, F129-F136, F133, F134 and F371-F373. The night count (28) fits ch13 (29) and ch15 (20 nights, eight later). Devan avoids the night-shape word ('A cat'). The Muthu glance is a soft risk, but it is Neela's inference, not a stated fact."
   },
   "fixes": [
-    "At supper, 'Raiders don't carry silver that has not met a hand' has Devan spell out sensitive evidence to a listening hall and to Muthu, the secret palace informant. This fails 'would a smart version of this person do this?'. Keep the coin on the table but cut his conclusion to one dry, literal line, such as 'Look at the edge.' and 'I won't answer that.' when Muthu presses. Or stage the beat after the hall empties, with only Janu, Muthu and Neela present. Have Neela notice that he says less than he knows, which also sharpens the reader's question about Muthu.",
-    "At 'She did not go to the stone. She went to the narrows.', Neela abandons Ammu's meeting for a second night with no thought of the price. That is an uncosted choice. Add two or three lines on the ridge, while she 'made herself do the sum', in which she counts the cost: a second empty cup at the stone, Valli absent from the gate, and Chathu's 'every day counts double' threat (F087). Let her choose the narrows knowing it.",
-    "On the terrace, 'She could see the narrows from here' and the paragraphs around it open with 'She' three times running, which breaks the style guide's paragraph-opening rule. Technique 6 (probable-but-uncertain) also never lands, because the threat ends before the patrol is in danger. Rework the watching paragraphs so that Neela, seeing the column bunch and stop, fears whoever waited 'beyond the cut' for the mirror's flash. Make it a real, probable threat she cannot reach by day. Vary the paragraph openings, for example 'At the third clank...' and 'Birds were already turning...'."
+    "Technique 6 (Probable-but-Uncertain) is tagged but underpowered: Neela defuses the ambush at night, so the dawn patrol carries almost no suspense. Rework the terrace passage at 'Birds were already turning above the lip of the cliff' so the threat is probable and specific. For example, she sees a second figure come over the far ridge beyond the cut and start down toward the dark camp while the column is still bunched on the shelf, then loses him in the scrub. Hold that uncertainty until the riders come home by the cart road.",
+    "The ridge sum loses clarity at 'She counted it all, to the last coin. It came out the same.' and at 'who would be dead by a stranger's hand and save her the trouble'. A reader can't tell which way the sum points, and the second clause argues for letting him die inside the 'other side' paragraph, which is about the costs of intervening. Fix both: end the costs paragraph on a cost, and make the result explicit (for example: 'Every column said lie still.'). Also fix the time jump after 'She lay there while the stars came out' by marking the hours passing ('The cistern chain came up faint from the fort, once, twice...') before 'Four hours to first light'.",
+    "At 'Her eyes went, without her leave, to Muthu's big, open, listening face' the chapter points Neela, and through her Devan, at Muthu ten chapters early. Devan still believes Muthu (F117) and the inside-informant inference belongs to ch24 (F220). Spending that suspicion now weakens the later payoff. Have her glance take in the whole hall instead (Chinna at the kitchen door, the servers, the open door to the yard), so the reader suspects someone in the house without Muthu being singled out."
   ],
-  "reader_question": "Why are Thurai raider scouts carrying never-handled Varanad silver, and does Devan know his wife is the cat who saved him?",
+  "reader_question": "Why would raider scouts carry freshly minted, never-handled Varanad silver, and does Devan's 'the pepper-store cat has been busy' mean he knows it was her?",
   "techniques_landed": [
     18,
     11
   ],
-  "new_facts_assessment": "F136 (Neela knows the narrows only by sight) is necessary. It explains how she reads the route from the terraces and keeps her uncanny pass knowledge (F094) separate. F137 (deliberate satchel drop) is necessary and consistent: it ties to Asha's 'Need a second to be sure' (F112) and costs her by alerting Devan. The new fact that the coin bears a pepper sprig fits the council wax's sprig mark (F050) and plants C20, the Varanad-coin treaty clue, as the secret map requires. No conflicts.",
+  "new_facts_assessment": "F371 (revised satchel motive) is necessary and an improvement. It removes the impossible knowledge of Asha's note and grounds the drop in the hall tally Neela saw herself, which fits F049-F050 and F112-F113. F372 (counting the cost of a second missed stone) is needed to make technique 18 cost something, and it fits F087, F122, F127 and F133. F373 (Devan shows only the coin's edge and says 'I won't answer that' to Muthu) fits his voice and sets up the inside-informant thread. It must not be read as Devan already suspecting Muthu, since F117 has him believing Muthu until ch24 (F217).",
   "content_rule_violation": false,
-  "failure_modes": [
-    "Irrational behaviour to extend plot"
-  ],
-  "average": 4.0,
-  "minimum": 3.0,
+  "failure_modes": [],
+  "average": 4.12,
+  "minimum": 4.0,
   "passed": true
 }
