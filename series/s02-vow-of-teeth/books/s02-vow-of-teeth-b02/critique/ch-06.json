@@ -1,0 +1,42 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 3.0,
+    "stakes_and_cost": 4.0,
+    "prose": 3.0,
+    "continuity": 0.0
+  },
+  "reasons": {
+    "reader_question": "Clear and specific question (raiding the guild's groves). The ending states it as a rhetorical question instead of making the reader feel it.",
+    "change": "Devan learns the ledger is two books, they agree a first term, and a raid plan forms. Knowledge, relationship and plan all move.",
+    "romance_movement": "Their first values fight ends in a stated term. Devan improves her rule with 'no clerks'. Disagreement survives respect, which is a new reason for closeness.",
+    "shown_chemistry": "Shown through the pebble caught in his cheek, the quick hard handclasp, 'You're a nuisance' / 'Yes', and him standing before her without touching. Little narrated attraction.",
+    "character_logic": "Leaving tomorrow ignores Rema's open sitting, her summons to swear Neela, and the unopened second case. Devan abandoning the assize goes unaddressed.",
+    "stakes_and_cost": "The term costs Devan a court-ready book. Handing back a page costs new witnesses. The grove raid risks capture, with the wound-share on Devan.",
+    "prose": "Mostly clean and concrete. Some lines state the beat ('Each of them was right'), the 'Neither knew yet' line is outline copy, and the recap ending is flat.",
+    "continuity": "The contract leaves are 'written plain', which conflicts with the bible's B2 ch16 guild cipher (F452). 'One smear' conflicts with F450/F458's two unspent smears."
+  },
+  "fixes": [
+    "At 'The front half is ink. Ordinary, a clerk's hand' and 'It'll be written plain': Worldbuilding collapse. This contradicts the bible's B2 ch16 rule that Devan can't read guild cipher. Make the contract leaves ordinary, unmagical ink in Resin House cipher. Have Neela say she will have to read them aloud to him. That raises the cost and keeps the midpoint intact. Change 'written plain' to 'written true'.",
+    "At 'There's a smear of Ammu's resin left in the pouch. One.': Continuity conflict with F450/F458, which show two smears unspent. Either have her keep both ('Two. One to get over the wall as the other one, one for inside'), or point to an earlier on-page spending the record supports. Also change Devan's 'That's how I lived for eight years' to six, the years since Asha died.",
+    "At 'Could a hunted rogue take resin from the very trees' to the end: a flat rhetorical-question ending, and the character logic ignores Rema. Have Devan raise Rema's summons ('She'll call you to swear') and the sealed second case. Neela chooses the groves anyway and names the cost of being absent. End on a concrete action in progress, such as her uncorking the empty flask, not 'She said she'd find out.'"
+  ],
+  "reader_question": "Can a hunted rogue steal resin from the guild's own groves, and get inside the Resin House to take the contract leaves without becoming the ledger's new master?",
+  "techniques_landed": [
+    15,
+    10,
+    14
+  ],
+  "new_facts_assessment": "The goat-path jar and black-wax letter are necessary and consistent (F467, F269). The two-part ledger is necessary, but calling the contract leaves 'plain' and clerk-readable breaks the B2 ch16 cipher midpoint. 'One smear left, other spent' has no supporting fact: F458 shows both unspent. The intake slip disclosure is consistent with F253. 'Eight years' of shutting books should be six (Asha).",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Irrational behaviour to extend plot",
+    "Narrated-only chemistry"
+  ],
+  "average": 3.25,
+  "minimum": 0.0,
+  "passed": false
+}
