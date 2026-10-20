@@ -399,7 +399,7 @@
       }
     },
     "13": {
-      "status": "passed",
+      "status": "edited",
       "revisions": 2,
       "scores": {
         "reader_question": 4.0,
@@ -414,7 +414,18 @@
       "average": 4.0,
       "flags": [],
       "words": 2890,
-      "minimum": 3.0
+      "minimum": 3.0,
+      "style": {
+        "words": 2890,
+        "banned_hits": {},
+        "ai_tell_hits": {},
+        "ai_tells_per_1000": 0.0,
+        "top_4gram": "on the sill the",
+        "top_4gram_count": 2,
+        "longest_paragraph_words": 119,
+        "em_dashes_per_1000": 2.77,
+        "reading_ease": 92.4
+      }
     },
     "14": {
       "status": "passed",
@@ -1860,9 +1871,13 @@
     {
       "at": "2026-10-20T07:52:45",
       "event": "done: S8 line edit ch 12"
+    },
+    {
+      "at": "2026-10-20T07:53:27",
+      "event": "done: S8 line edit ch 13"
     }
   ],
-  "updated_at": "2026-10-20T07:52:45",
+  "updated_at": "2026-10-20T07:53:27",
   "midpoint_chapter": 16,
   "continuity_attempts": 3,
   "continuity_last_errors": 2
