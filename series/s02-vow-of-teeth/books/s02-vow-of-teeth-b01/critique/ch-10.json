@@ -5,35 +5,37 @@
     "romance_movement": 4.0,
     "shown_chemistry": 4.0,
     "character_logic": 4.0,
-    "stakes_and_cost": 4.0,
+    "stakes_and_cost": 3.0,
     "prose": 4.0,
-    "continuity": 5.0
+    "continuity": 0.0
   },
   "reasons": {
-    "reader_question": "The kalari and marma plan lands the beat's question cleanly. The ending states the plan rather than interrupting anything, so the pull to the next chapter comes from the plan, not from urgency.",
-    "change": "Clear value shift. She opens thinking of the window as her way in and ends knowing the barred shutters make a beast kill point at her, so she switches method from claws to hands and decides to skip resin.",
-    "romance_movement": "New reason for the change: she stands over him and studies his scarred hand instead of his throat, counts past sixty, and looks back, 'which she did not do'. The beat's self-deception ('tells herself that is the only reason') is implied more than dramatised.",
-    "shown_chemistry": "The muzzle stopping a hair from his palm and his fingers curling toward her is responsive, physical and unnarrated. Counting his knuckle scars shows attention, not a label.",
-    "character_logic": "Her case against the beast kill is sharp and earned from earlier chapters. Two gaps: she plans to catch him drilling before first light while he lies abed at first light in front of her, and she never weighs that she'd be attacking a trained fighter in his own pit.",
-    "stakes_and_cost": "The costs are personal and concrete: hanging, Chathu settling his loss on Ammu, and the ache counted against tomorrow's skipped resin.",
-    "prose": "Concrete, rhythmic, and in Neela's voice (counting, naming). No banned phrases or AI tells. The bar logic is restated in the night scene, 'the hitch came and went' appears three times, and 'by noon' is echoed.",
-    "continuity": "Consistent with F038, F064/F065 (she lifts the bar herself), F077, F078, F083, F090, F092, F101–F105 and the 31-night count. One small drift: F099 puts the drain slot under the eleventh step, but the draft places it at the turn."
+    "reader_question": "The chapter ends on a concrete gap: will a human-hands marma strike in the kalari pit work, and is Devan even there at the hour the fort believes? It is close to the beat's question, but the closing hitch sentence blurs whether the reader carries 'can she' or 'will she'.",
+    "change": "Knowledge and power both shift. She sees that the barred shutters turn any beast kill into a hanging for the bride, so the beast plan dies and a new plan replaces it. The value shift 'window open -> a plan he has quietly made impossible' lands cleanly.",
+    "romance_movement": "The romance moves for a new reason. Over his throat she ends up reading his scarred hand, nearly touches it with her muzzle, and looks back, 'which she did not do'. Her tactical excuse is visibly thinning, as the beat requires, though he never responds awake.",
+    "shown_chemistry": "Attraction is shown through action and attention: counting his knuckle scars, whiskers trembling at his wrist, his fingers curling a finger's width from her nose. The reader knows from earlier chapters that he may be feigning sleep, which charges the moment. Nothing is narrated as chemistry.",
+    "character_logic": "She argues the bar both ways like a professional and correctly abandons the beast kill. One weakness: she rediscovers her doubt about his dawn rising as if it were new, when she already noted it in ch6 (F078), which makes her look slower than she is.",
+    "stakes_and_cost": "Practical costs are named: the ache counts a skipped night, it is his ground, she gets one strike, and Ammu is Chathu's coin. The emotional cost of a bare-handed kill after the hand moment is never felt at dawn; the plan is called 'good' and the hand vanishes from her mind.",
+    "prose": "Concrete and sensory, with no banned phrases, no em-dash overuse and good rhythm (the 'Forty-five. Forty-six.' hook works). Tics recur, though: 'She did not like' appears twice here and twice in ch9, and 'told herself' appears three times. 'Gone queer from the damp' may jar a modern reader.",
+    "continuity": "Conflict with F322: Janu is established as the source of the damp-madness theory, but here Bhaskaran's lads say damp and Janu says 'shy'. Everything else checks out against the bible and facts: 31 nights, Raiu at the stair head, unlit lamp, pulled sentry, kindi spout toward the pillow, sword hilt-first, the breath hitch, the ginger tom, the clause read two days ago."
   },
   "fixes": [
-    "Night scene, 'A barred room, a hushed fort that knew about the bar': this restates scene two's reasoning word for word (redundant interiority). It also misses the beat's self-deception. Cut the summary sentence and replace it with two or three short lines in which the tactical reason arrives late and she has to repeat it. For example: 'No beast could carry this kill. That was why. She told herself so twice, and the second time she was still looking at his hand.' That dramatises the reason wearing thin without narrating it.",
-    "Ending, 'He rose in the last dark hour, alone' through 'She went to find her clothes.': the plan rests on Janu's word, yet Devan is asleep in front of her at first light, and smart Neela doesn't register this (character logic gap). The chapter also closes on a soft exit rather than a reveal (chapter checklist item 5). Have her notice, in one or two lines, that he is still abed at first light when Janu says he goes down before it. She decides she will see the pit for herself tomorrow. End on the hitch landing exactly as she thinks the word 'pit' or 'door', so the dramatic irony (technique 13) closes the chapter and makes chapter 11 necessary.",
-    "Hand passage, 'It was a hand that had hit things for a long time and then stopped': this reads as if he no longer strikes anything, which clashes with his daily kalari drill (F032). Make it 'stopped hitting anything that hit back', or tie it to wood and stone only, so it stays a clue to the eight-year gap. Also add a beat in the dawn plan acknowledging his skill ('the pit was his; she would have one strike'). Then list the knuckle scars and the 'door' marma point in new-facts.json, and fix the drain slot to sit under the eleventh step per F099."
+    "Continuity (F322 conflict). At \"I say shy. Shy men bolt doors.\" Janu must own the damp theory. Give Bhaskaran's lads the privacy or new-wife theory, and Chinna whatever is left. Have Janu say something like \"I say it's the damp. It gets into a man's head up here.\" Then cut or rework Neela's \"He doesn't strike me as shy\" exchange so it answers damp (e.g. \"He doesn't strike me as damp.\" / \"He doesn't strike you as anything, he's a locked chest\"). Keep \"Ask him\" as Janu's push.",
+    "Repetitive tension / character logic. At \"Janu said he rose in the last dark hour. Neela had never seen it.\" she rediscovers a doubt she already logged in ch6 (F078). Rewrite it as accumulated evidence: this is the third or fourth first light she has found him abed, and she has been explaining it away. The snag then becomes her admitting she has been relying on Janu's story for a week, a sharper self-indictment. Cut \"She did not like any of the three.\" so the paragraph ends on the decision.",
+    "Stakes and cost. At \"It was a good plan. She told it to the kindi\" the hand moment from the night scene drops out of her head entirely, so the new plan costs her nothing emotionally. Add one or two lines where, as she pictures the strike at 'the door', the scarred right hand comes up unbidden: either as the hand that would block her, or as the thing she would be ending. She files it as tactics, the way she filed 'no beast could carry this kill'. This keeps the romance cost alive into the cliff and earns the beat's 'tactical reason wearing thin'."
   ],
-  "reader_question": "Can Neela kill Devan with her bare hands at his dawn drill, and will she actually strike when she gets there?",
+  "reader_question": "Can Neela kill Devan with her bare hands in his own kalari pit before dawn, when she isn't even sure he is there at that hour?",
   "techniques_landed": [
     4,
     11,
     13
   ],
-  "new_facts_assessment": "new-facts.json is empty, but the draft adds facts the pipeline must log. (1) A marma point a thumb's width below the skull called 'the door', which kills silently and looks like a fall: necessary for ch11 and consistent with marma as skill (F015). (2) Seven pale knuckle scars on Devan's right hand and a white line across the thumb base: useful, but 'hit things for a long time and then stopped' sits oddly against his daily drill (F032). It needs to read clearly as 'stopped hitting people'. (3) Janu has run the house thirty years and thinks Devan 'shy': harmless and consistent with F024. (4) Muthu complained of wall duty: offered only as Neela's guess, so it is not a fact. (5) 'Two days ago' for reading the writ clause: consistent with F092/F098. Everything else in the chapter is already logged as F099–F105.",
+  "new_facts_assessment": "F361 (marma 'the door', a thumb's width below the skull): necessary. It sets up ch11 and matches F347, where Devan says she put her fingers at the base of his skull. Keep it. F362 (seven knuckle scars and the thumb line on the right hand): consistent with his solo drilling and his eight years without sparring, it pays forward to the loss of his right hand in book 3, and it gives the beat's 'old scars' a specific reading. Keep it. F363 (at first light she sees him abed and resolves to scout the pit): consistent with F078 and F309, and it bridges into ch11. However, F078 already records this same doubt at first light in ch6, so the snag is a recycled discovery rather than a new fact. It should be framed as confirmation of an earlier unease, not a fresh surprise.",
   "content_rule_violation": false,
-  "failure_modes": [],
-  "average": 4.12,
-  "minimum": 4.0,
-  "passed": true
+  "failure_modes": [
+    "Repetitive tension"
+  ],
+  "average": 3.38,
+  "minimum": 0.0,
+  "passed": false
 }
