@@ -1,0 +1,42 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 3.0,
+    "stakes_and_cost": 3.0,
+    "prose": 3.0,
+    "continuity": 0.0
+  },
+  "reasons": {
+    "reader_question": "Clear, specific closing gap: someone walking an impassable road toward the fort. The sunbird and Ittan's fear add smaller live questions.",
+    "change": "Safe-for-now becomes a two-smear clock, and an alliance with a named conflict of goals. The final beat adds a new external threat.",
+    "romance_movement": "The new reason is the honest page-versus-book conflict. 'I won't answer that' about the blade-at-throat choice deepens trust without replaying a refusal.",
+    "shown_chemistry": "Rewarmed cloth, the pebble, and help given then hand removed are all responsive. One or two lines narrate the feeling instead.",
+    "character_logic": "Neela says 'leopard' aloud twice, breaking her fixed voice rule in the same chapter where she says 'the other one'. Her east-stair habit contradicts canon.",
+    "stakes_and_cost": "The resin cost is concrete, but the beat goal 'make a plan' never becomes a plan. No route or timing is chosen, so no decision is priced.",
+    "prose": "Mostly clean and concrete, with no banned phrases. Weak spots: 'a leopard she had not yet been' is garbled, and two narrated-feeling lines tell.",
+    "continuity": "Fails on two counts. 'Always' taking the east stair conflicts with F337/F099/F338. 'Her page was ash' conflicts with F012/F253, since the intake slip survives with Chathu."
+  },
+  "fixes": [
+    "At 'Neela went down by the east stair. She always did.' there is a continuity conflict: F337 makes the west stair the only way to the chamber, and earlier chapters put her on it. Have her take the west stair, counting forty-four steps fast and keeping her hand off the parrot newel without knowing why. Delete F449 and plant the unease through action instead.",
+    "At 'Her page was ash, her witness entry burned' there is a continuity conflict with F012/F253: only the witness entry burned, and Chathu pocketed the intake slip. Rewrite as 'Her witness entry was ash. The slip with her birth name was in Chathu's keeping.' This also gives her personal stake in wanting every page back in the ledger.",
+    "At 'Two nights of a leopard is all the raid gets' and 'They bark at leopards', Neela breaks her fixed voice: she never says the word. Use 'the other one' and 'They bark at cats', and fix the garbled 'a leopard she had not yet been'. Then add one concrete plan choice (which night she spends the first smear, and the wood-road route) so the beat goal lands with a cost."
+  ],
+  "reader_question": "Who is walking the closed Monkey Pass road toward Kettamala in the rains, when nobody can?",
+  "techniques_landed": [
+    1,
+    5,
+    22
+  ],
+  "new_facts_assessment": "Folded-wing sunbird: good clue, consistent with F070. Chathu enters contracts against pages: necessary and consistent. Slash/hook marks: fine, but a clerk's tally using Resin House shorthand needs one line saying Ittan copied guild receipts. East stair habit (F449): conflicts with F337 (the west stair is the only way to the chamber) and with earlier chapters showing her on it; cut it. Resin pouch: consistent with F257/F276, though it is miscategorised as 'name'.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Irrational behaviour to extend plot",
+    "Narrated-only chemistry"
+  ],
+  "average": 3.12,
+  "minimum": 0.0,
+  "passed": false
+}
