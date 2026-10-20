@@ -45,7 +45,7 @@
       }
     },
     "02": {
-      "status": "passed",
+      "status": "edited",
       "revisions": 1,
       "scores": {
         "reader_question": 4.0,
@@ -59,22 +59,22 @@
       },
       "average": 4.0,
       "flags": [],
-      "words": 2431,
+      "words": 2426,
       "minimum": 3.0,
       "continuity_fixes": [
         "Devan watches her 'lift the bar from the west shutters' on the wedding night, but the bar is first used on the second dusk (ch 3, ch 10, ch 30). FIX: In ch 2, change 'he watched her lift the bar from the west shutters' to 'he watched her lift the latch on the west shutters'.",
         "Asha's parrot signature is 'a quick three-stroke bird, beak open'. Ch 12 describes it as five strokes with the beak always whole. FIX: In ch 2, change 'A quick three-stroke bird, beak open, always laughing at something' to 'A quick five-stroke bird with a whole beak, always laughing at something'."
       ],
       "style": {
-        "words": 2396,
+        "words": 2426,
         "banned_hits": {},
         "ai_tell_hits": {},
         "ai_tells_per_1000": 0.0,
-        "top_4gram": "he lay on his",
+        "top_4gram": "lay on his left",
         "top_4gram_count": 2,
-        "longest_paragraph_words": 99,
+        "longest_paragraph_words": 97,
         "em_dashes_per_1000": 0.0,
-        "reading_ease": 92.4
+        "reading_ease": 92.0
       },
       "owner_instructions": [
         "Asha introduction (the memory of bear wounds inside walls no bear could climb): the chapter never says Asha was Devan's sister, so ch 16's \"his sister's blood\" is the first time a reader learns it. In the first sentence that names Asha, state that she was his sister and also his second at the fort. Use one clause and a concrete marker, such as 'Asha, his sister, his second on this wall', so the rage that pulls him to the ledge is personal from the start. Owner's note overrides the outline's 'his second' alone.",
@@ -2345,9 +2345,13 @@
     {
       "at": "2026-10-20T09:02:25",
       "event": "done: book-level checks"
+    },
+    {
+      "at": "2026-10-20T09:03:03",
+      "event": "done: S8 line edit ch 2"
     }
   ],
-  "updated_at": "2026-10-20T09:02:25",
+  "updated_at": "2026-10-20T09:03:03",
   "midpoint_chapter": 16,
   "continuity_attempts": 1,
   "continuity_last_errors": 1,
