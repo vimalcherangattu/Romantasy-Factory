@@ -7,7 +7,8 @@
   "stage": "S3",
   "done": [
     "S3",
-    "S7"
+    "S7",
+    "book_check"
   ],
   "chapters": {
     "01": {
@@ -1673,9 +1674,13 @@
     {
       "at": "2026-10-20T07:44:54",
       "event": "S7 closed by Claude: last 2 major continuity errors (ch 23 early reveal, ch 32 gift contradiction) patched by hand; minor slips listed"
+    },
+    {
+      "at": "2026-10-20T07:46:00",
+      "event": "done: book-level checks"
     }
   ],
-  "updated_at": "2026-10-20T07:44:54",
+  "updated_at": "2026-10-20T07:46:00",
   "midpoint_chapter": 16,
   "continuity_attempts": 3,
   "continuity_last_errors": 2

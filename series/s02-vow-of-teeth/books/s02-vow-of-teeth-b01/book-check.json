@@ -1,0 +1,90 @@
+{
+  "checks": [
+    {
+      "name": "central_question_resolved",
+      "pass": true,
+      "evidence": "Central question: 'Will Neela kill the husband she was sold to?' The book answers no, through a chain of chosen refusals. Ch 11: she lifts her fingers off the killing point after three counted breaths ('You'd have had me.' 'Yes.'). Ch 13: she nurses him through the fever. Ch 14: she kills the ambush scouts. Ch 27: she rides into the guild for the antidote and self-names to him. Ch 30: she gives him the leopard tooth meant for his wound and both declare love. Ch 31: she remarries him in daylight. The external plot also closes: ch 29 arrests Ittan, the buyer, and seals the pass. Only the ch 32 hinge stays open: the queen's own seal on the payment writ, and the ledger."
+    },
+    {
+      "name": "clues_paid_off",
+      "pass": true,
+      "evidence": "Every non-series clue pays off on the page. C01-C05 (barred shutters, kennelled hounds, 'Leave the cat', unlit lamp, stopped leopard stories) are all named in Neela's reread in ch 16, and C01 is explained again in ch 30. C06/C07: the self-naming loophole and 'that's all the verse ever was', ch 27. C08/C09: Kirri found caged as a civet wearing the anklet, ch 26. C15/C26/C30: blank tallies in council wax, the writ's widow clause read aloud, and Chathu's slip produced at the arrest, ch 29. C17: Ittan climbs himself and is arrested, ch 28-29. C18/C19: the queen's green wax matched to the gift seal, recasting 'only a hand', ch 32. C24/C25: the raider captain at twenty-four, ch 21. C27: the tooth given, ch 30. C31: the pebble set on the sill, ch 31. C32: the shutter reason answered, ch 30. All remaining clues are logged as series threads. No orphaned clue found."
+    },
+    {
+      "name": "midpoint_reversal",
+      "pass": true,
+      "evidence": "Ch 16 (midpoint, of 32): Devan hears his storm bargain as 'what the guild does' and withdraws it with no terms: 'Because I don't want to own anyone.' Neela rereads the whole first half (shutters, hounds, the cat, the unlit lamp, the stopped stories, the morning rice) as a fence built around her secret. She cannot yet trust it, and as a test sleeps human beside him with the knife untouched. The romance moves from master and captive to a gift she must test, and ch 17 opens 'new terms of living'."
+    },
+    {
+      "name": "heroine_belief_change",
+      "pass": true,
+      "evidence": "Opening belief: anyone who truly sees her will leash her. In ch 1 she guards against a third witness: 'A third would hold a cage in his mouth every night she slept under his roof.' Ch 27 proof choice, at the dusk turning, deliberately to the man watching her: 'Neela turns to face Devan... \"Look at me,\" she said... To him, then. Her voice cracked and held. \"Leopard.\"' She hands him the word that could cage her and makes him her only witness. Ch 30 states the change: 'There's rain on my neck and a man who's seen all of me, and I'm not counting the door.'"
+    },
+    {
+      "name": "real_loss",
+      "pass": true,
+      "evidence": "Ch 25: Raiu is mauled on the west stair and dies under Neela's hands as she says his name. Ch 27-28: Ammu draws Vellan off as the jackal, is speared, and is buried by Muthu: 'Neela said her name, closes her eyes.' Kirri stays caged: 'No caging is ever undone', ch 28. All three losses are mourned again by name in the ch 31 vow and none is reversed."
+    },
+    {
+      "name": "love_interest_goal",
+      "pass": true,
+      "evidence": "Devan's goal is to find the council member selling forged pass-tokens to Thurai raiders. It is set in ch 4 ('Someone on the queen's council.' / 'If I knew, he'd be in a cell.'), and Neela notes 'her name wasn't in any of them.' It is tied to Asha's death and Raman's patrol, pursued through the wax-seal comparisons in ch 8 and 12, and closed by the arrest in ch 29."
+    },
+    {
+      "name": "series_hinge",
+      "pass": true,
+      "evidence": "Ch 32: the payment writ that bought the warden's death bears the queen's green sunbird seal, matching the palace wedding-gift seal ('It's the same hand'). Neela asks 'what else does the queen own?' Chathu holds the ledger and Kirri is still in the kennels. She says 'I'm going to take it,' he says 'Then I'll come,' and Muthu's unopened grey-wax packet waits in the strongbox for the roads to open."
+    }
+  ],
+  "series_threads": [
+    {
+      "clue": "C10",
+      "thread": "Neela's stomach-drop at the broken-beaked parrot newel and her compulsive counting on the west stair suggest she was present at Kettamala as a child, possibly connected to the stair where Asha died. Book 2."
+    },
+    {
+      "clue": "C11",
+      "thread": "Asha's parrot signature always drawn with a whole beak. Neela goes white on hearing it in ch 12. It links Asha to Neela's buried past. Book 2."
+    },
+    {
+      "clue": "C12",
+      "thread": "Neela counts stairs in her sleep and whimpers 'It's broken'. Devan assumes it is guild trauma. The true stair and what broke are unrevealed. Book 2."
+    },
+    {
+      "clue": "C13",
+      "thread": "Raiu's bear wounds on the west stair match Asha's. Devan's realisation was scattered by the poison in ch 25. Vellan, as the bear, as Asha's killer is not yet confirmed. Book 2."
+    },
+    {
+      "clue": "C14",
+      "thread": "The sloth bear guarding the Resin House yard, and Vellan's escape into the Blackbark Wood with Chathu."
+    },
+    {
+      "clue": "C16",
+      "thread": "Muthu's 'for my mother' grey-wax letters to the palace rider, and whom he reports to."
+    },
+    {
+      "clue": "C20",
+      "thread": "Raider scouts carry new Varanad-minted silver. Ch 32 hints the crown itself funds the raids."
+    },
+    {
+      "clue": "C21",
+      "thread": "Chathu: 'the ledger isn't the only book.' This points to another record, possibly sold to the crown. Also the unread lines on Neela's intake slip, which Chathu pocketed."
+    },
+    {
+      "clue": "C22",
+      "thread": "Neela knows a pass goat path without a map. Part of the hidden-childhood-in-the-pass thread."
+    },
+    {
+      "clue": "C23",
+      "thread": "Neela gags at crushed lantana with no known reason. Same childhood thread."
+    },
+    {
+      "clue": "C28",
+      "thread": "Muthu goes quiet over the second palace letter. Ch 32 leaves his thick packet unopened in the strongbox for the spring rider."
+    },
+    {
+      "clue": "C29",
+      "thread": "Vellan's carved birds, and the unknown insider who let him into the barred chamber."
+    }
+  ],
+  "summary": "Vow of Teeth meets every structural promise in canon/novel-structure.md. The central question (will Neela kill her husband) is answered no through escalating chosen refusals. The arc closes with her self-naming in ch 27, recognition and declaration in ch 30, and a daylight remarriage in ch 31. The external case resolves with Ittan's arrest under border law in ch 29. The ch 16 midpoint reversal (Devan withdraws his bargain and Neela rereads the first half) changes the romance from captivity to a tested gift. Neela's belief change is shown in a choice she could not make in ch 1: she says 'Leopard' to the man watching her. Raiu, Ammu and Kirri are real losses that stay lost. Devan's token-seller hunt is his own goal, set in ch 4. All non-series clues pay off on the page. The twelve series threads cluster around three lines: Neela's lost childhood at the pass (stair, parrot beak, goat path, lantana), Muthu's reports, and the guild's other book. The ch 32 hinge, the queen's seal on the payment writ, opens book two cleanly. No check fails."
+}
