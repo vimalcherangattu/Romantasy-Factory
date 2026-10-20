@@ -3,160 +3,85 @@
     {
       "id": "E01",
       "chapter": 5,
-      "severity": "major",
-      "category": "name",
-      "issue": "Devan never lies to Neela (bible voice note). On the terrace he tells her and Kannan he has to see Bhaskaran about the gate, and the narration confirms it was not true.",
-      "fix": "Give him a true excuse for walking away, and change the narration so it no longer calls the line a lie.",
+      "severity": "minor",
+      "category": "timeline",
+      "issue": "Ch 5 says Asha 'had come to the fort at nineteen', and ch 12 speaks of 'her first month at the fort'. But Janu raised Devan and Asha at Kettamala. As a girl Asha drew parrots on the cistern-house walls (ch 12). She played seven wells there at four (ch 18). She once held her warden father's seal (ch 29). She grew up in the fort, so at nineteen she took up her post rather than arrived.",
+      "fix": "Make nineteen the age she took her officer's post at the fort, not the age she came to it.",
       "patches": [
         {
           "chapter": 5,
-          "find": "He set the water pot on the wall. He said, \"I have to see Bhaskaran about the gate,\" and walked down the terrace steps without looking back.",
-          "replace": "He set the water pot on the wall. He said, \"I need a moment,\" and walked down the terrace steps without looking back."
+          "find": "She had come to the fort at nineteen, and in her first month she had gone through the recruits with a slate and a bit of chalk, writing down names and villages and mothers.",
+          "replace": "She had taken her post as an officer of the fort at nineteen, and in her first month she had gone through the recruits with a slate and a bit of chalk, writing down names and villages and mothers."
         },
         {
-          "chapter": 5,
-          "find": "It was not true. The wall by the cistern was near enough that he could stand there, palm flat on the cold laterite, until the chain went and covered the sound of his own breathing.",
-          "replace": "It was true, and it was all he would say. The wall by the cistern was near enough that he could stand there, palm flat on the cold laterite, until the chain went and covered the sound of his own breathing."
+          "chapter": 12,
+          "find": "Her first month at the fort she had written the name of every recruit on it, with his mother's village beside, because she said a man fights harder for a captain who knows where his mother lives.",
+          "replace": "Her first month as an officer of the fort she had written the name of every recruit on it, with his mother's village beside, because she said a man fights harder for a captain who knows where his mother lives."
         }
       ]
     },
     {
       "id": "E02",
-      "chapter": 8,
-      "severity": "major",
-      "category": "name",
-      "issue": "Devan never lies to Neela. Asked why Raiu was sent from the passage, he answers \"Oil.\", and the narration has just said the order did not save oil.",
-      "fix": "Replace the false reason with a true one that reveals nothing, and adjust her reply to match.",
+      "chapter": 32,
+      "severity": "minor",
+      "category": "object",
+      "issue": "In ch 6 Devan slides his knife under the queen's green wax and 'the whole seal came away in one piece, the bird still crisp on its face'. In ch 32 the gift seal is described as one somebody 'cut in half to open a gift'.",
+      "fix": "Describe the gift seal as prised off its cord, not cut in half.",
       "patches": [
         {
-          "chapter": 8,
-          "find": "\"Oil.\"",
-          "replace": "\"So the passage stays dark.\""
-        },
-        {
-          "chapter": 8,
-          "find": "\"Then I'll be sparing with mine,\" she said, and pinched out the wick.",
-          "replace": "\"Then mine can keep it company,\" she said, and pinched out the wick."
+          "chapter": 32,
+          "find": "The one on the writ was fuller and brighter, because nobody had cut that one in half to open a gift.",
+          "replace": "The one on the writ was fuller and brighter, because nobody had prised that one off a knot of cord to open a gift."
         }
       ]
     },
     {
       "id": "E03",
-      "chapter": 14,
-      "severity": "major",
-      "category": "knowledge",
-      "issue": "Devan tells Neela \"I'll be asleep\" at dusk. In ch 15 he says he has been awake for every dusk turning she made in the room, so the statement was knowingly false.",
-      "fix": "Make his line literally true (in bed) and match her reply.",
+      "chapter": 26,
+      "severity": "minor",
+      "category": "object",
+      "issue": "Ammu's Valli cover is 'a coast girl's blue cotton' in ch 18 and 'her blue cotton' in ch 20. In ch 26 it becomes 'the plain brown cloth of Valli', and in ch 28 'a small brown bundle'.",
+      "fix": "Keep Valli's cloth blue throughout.",
       "patches": [
         {
-          "chapter": 14,
-          "find": "\"I'll be asleep.\"",
-          "replace": "\"I'll be in bed.\""
+          "chapter": 26,
+          "find": "She was mud to the knees, in the plain brown cloth of Valli the pepper trader's girl, her braid half down.",
+          "replace": "She was mud to the knees, in the plain blue cotton of Valli the pepper trader's girl, her braid half down."
         },
         {
-          "chapter": 14,
-          "find": "\"Then I'll look at it asleep.\"",
-          "replace": "\"Then I'll look at it in bed.\""
+          "chapter": 28,
+          "find": "At the foot of the tree, in the roots, lay a small brown bundle: the cloth Ammu wore as Valli, the pepper trader's girl.",
+          "replace": "At the foot of the tree, in the roots, lay a small blue bundle: the cloth Ammu wore as Valli, the pepper trader's girl."
         }
       ]
     },
     {
       "id": "E04",
-      "chapter": 19,
-      "severity": "major",
-      "category": "knowledge",
-      "issue": "Devan tells Neela he didn't know his breath hitches. In his own POV (ch 2, ch 5) he knows his breath has a small hitch, and in ch 16 and 17 he produces it deliberately for her to count. This is a lie to Neela.",
-      "fix": "Have him say he didn't know she counted it, which is true at this point.",
+      "chapter": 5,
+      "severity": "minor",
+      "category": "injury",
+      "issue": "Ch 5 says Devan 'had seen these scars by lamplight on the wedding night'. But he pinched out the lamp before she turned (ch 1 and ch 2), and he watched her by starlight and in the dawn grey. He also saw the wrist scar on the rampart at sunset (ch 1), which makes 'not seen them in sun' too absolute.",
+      "fix": "Change lamplight to starlight and the dawn grey, and contrast it with full sun.",
       "patches": [
         {
-          "chapter": 19,
-          "find": "\"I didn't know it did that.\"\n\n\"It does.\"",
-          "replace": "\"I didn't know you counted it.\"\n\n\"I do.\""
+          "chapter": 5,
+          "find": "He had seen these scars by lamplight on the wedding night. He had not seen them in sun.",
+          "replace": "He had seen these scars by starlight on the wedding night, and in the grey of the dawn after. He had not seen them in full sun."
         }
       ]
     },
     {
       "id": "E05",
-      "chapter": 25,
-      "severity": "major",
-      "category": "injury",
-      "issue": "Freshly cut with blackbark gall and going numb, Devan tells Neela \"I'm fine.\" He never lies to her.",
-      "fix": "Replace with a true short answer.",
-      "patches": [
-        {
-          "chapter": 25,
-          "find": "\"I'm fine.\"",
-          "replace": "\"I'm awake.\""
-        }
-      ]
-    },
-    {
-      "id": "E06",
-      "chapter": 29,
-      "severity": "major",
-      "category": "name",
-      "issue": "Devan tells Neela his shaking is 'the ribs', and she immediately says it isn't. A false reason given to her breaks his never-lies trait.",
-      "fix": "Have him give a partial truth and let her correct the rest.",
-      "patches": [
-        {
-          "chapter": 29,
-          "find": "\"It's the ribs.\"",
-          "replace": "\"Some of it's the ribs.\""
-        },
-        {
-          "chapter": 29,
-          "find": "\"It isn't.\" She kept her hand where it was. \"I know where the ribs are.\"",
-          "replace": "\"Not this part.\" She kept her hand where it was. \"I know where the ribs are.\""
-        }
-      ]
-    },
-    {
-      "id": "E07",
-      "chapter": 10,
+      "chapter": 1,
       "severity": "minor",
-      "category": "object",
-      "issue": "When not in use the shutter bar hangs on hooks on the wall (ch 1, ch 3), and the iron brackets hold it across the shutters. In ch 10, by day with the shutters open, the bar is said to lie along the wall on its two iron brackets.",
-      "fix": "Put the idle bar on its hooks.",
+      "category": "knowledge",
+      "issue": "On the wedding day Neela already thinks of Devan as 'A man who drilled alone at dawn.' Later chapters treat this as news. Janu tells her in ch 3 ('Every day before light'), and Neela files it as worth knowing. Ch 6 says she knew his early rising 'only from Janu's grumbling and from the pit lamps'. Ch 11 says rising was something she had 'only ever heard of, from Janu and from the lamps'.",
+      "fix": "Replace the ch 1 tally item with something she knows from the guild's drawings.",
       "patches": [
         {
-          "chapter": 10,
-          "find": "The bar lay along the wall on its two iron brackets, seasoned teak, thick as her forearm.",
-          "replace": "The bar lay along the wall on its two hooks, seasoned teak, thick as her forearm."
-        }
-      ]
-    },
-    {
-      "id": "E08",
-      "chapter": 9,
-      "severity": "minor",
-      "category": "name",
-      "issue": "Bindu is Kannan's singing mother, known at the fort from ch 5. In ch 9 'Bindu, who sang' is listed among pass-village women whose names Neela learns for the first time on the road.",
-      "fix": "Give the village woman a different name.",
-      "patches": [
-        {
-          "chapter": 9,
-          "find": "Bindu, who sang. A grandfather called Kesu with one eye.",
-          "replace": "Saroja, who sang at the well. A grandfather called Kesu with one eye."
-        }
-      ]
-    },
-    {
-      "id": "E09",
-      "chapter": 18,
-      "severity": "minor",
-      "category": "name",
-      "issue": "Ammu's market cover is Valli, a coast-side pepper trader's girl (ch 7, ch 26, ch 28). In ch 18 she carries a tray of cheap bangles and is called a bangle seller.",
-      "fix": "Keep her in the pepper-trader cover.",
-      "patches": [
-        {
-          "chapter": 18,
-          "find": "Her cover was a coast girl's blue cotton and a tray of cheap bangles, and under it she looked sharp as a split reed.",
-          "replace": "Her cover was a coast girl's blue cotton and a pepper trader's sack, and under it she looked sharp as a split reed."
-        },
-        {
-          "chapter": 18,
-          "find": "Then, light again, a bangle seller once more:",
-          "replace": "Then, light again, Valli the pepper girl once more:"
+          "chapter": 1,
+          "find": "So: forty days. A man who drilled alone at dawn. A fort with one great gate and sixty-odd soldiers.",
+          "replace": "So: forty days. A man in a high west room. A fort with one great gate and sixty-odd soldiers."
         }
       ]
     }

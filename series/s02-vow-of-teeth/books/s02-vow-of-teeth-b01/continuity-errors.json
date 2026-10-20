@@ -2,121 +2,86 @@
   "open_errors": [
     {
       "id": "E01",
-      "chapter": 3,
+      "chapter": 5,
       "severity": "minor",
-      "category": "object",
-      "issue": "At the end of ch 2 Devan lifts the bar off its hooks and leans it against the wall beside the window. At dusk in ch 3 he lifts it 'from its hooks on the wall'.",
-      "fix": "Have him take the bar from where he leaned it.",
+      "category": "timeline",
+      "issue": "Ch 5 says Asha 'had come to the fort at nineteen', and ch 12 speaks of 'her first month at the fort'. But Janu raised Devan and Asha at Kettamala. As a girl Asha drew parrots on the cistern-house walls (ch 12). She played seven wells there at four (ch 18). She once held her warden father's seal (ch 29). She grew up in the fort, so at nineteen she took up her post rather than arrived.",
+      "fix": "Make nineteen the age she took her officer's post at the fort, not the age she came to it.",
       "patches": [
         {
-          "chapter": 3,
-          "find": "He lifted the long teak bar from its hooks on the wall and dropped it into the iron brackets, and the whole window shut like a mouth.",
-          "replace": "He lifted the long teak bar from where it leaned against the wall and dropped it into the iron brackets, and the whole window shut like a mouth."
+          "chapter": 5,
+          "find": "She had come to the fort at nineteen, and in her first month she had gone through the recruits with a slate and a bit of chalk, writing down names and villages and mothers.",
+          "replace": "She had taken her post as an officer of the fort at nineteen, and in her first month she had gone through the recruits with a slate and a bit of chalk, writing down names and villages and mothers."
+        },
+        {
+          "chapter": 12,
+          "find": "Her first month at the fort she had written the name of every recruit on it, with his mother's village beside, because she said a man fights harder for a captain who knows where his mother lives.",
+          "replace": "Her first month as an officer of the fort she had written the name of every recruit on it, with his mother's village beside, because she said a man fights harder for a captain who knows where his mother lives."
         }
       ]
     },
     {
       "id": "E02",
-      "chapter": 16,
+      "chapter": 32,
       "severity": "minor",
-      "category": "place",
-      "issue": "In ch 8 the unlit lamp is the corridor lamp across from the chamber door, and Raiu is moved to the head of the stair. Neela's ch 16 reread places the unlit lamp 'at the stair head'.",
-      "fix": "Call it the corridor lamp outside the door.",
+      "category": "object",
+      "issue": "In ch 6 Devan slides his knife under the queen's green wax and 'the whole seal came away in one piece, the bird still crisp on its face'. In ch 32 the gift seal is described as one somebody 'cut in half to open a gift'.",
+      "fix": "Describe the gift seal as prised off its cord, not cut in half.",
       "patches": [
         {
-          "chapter": 16,
-          "find": "The lamp at the stair head, left unlit, so nothing would light her coming in at dawn half-dressed.",
-          "replace": "The corridor lamp outside the door, left unlit, so nothing would light her coming in at dawn half-dressed."
+          "chapter": 32,
+          "find": "The one on the writ was fuller and brighter, because nobody had cut that one in half to open a gift.",
+          "replace": "The one on the writ was fuller and brighter, because nobody had prised that one off a knot of cord to open a gift."
         }
       ]
     },
     {
       "id": "E03",
-      "chapter": 17,
+      "chapter": 26,
       "severity": "minor",
-      "category": "timeline",
-      "issue": "Ch 12 twice dates Asha's death to the rains ('since the rains she died'). Ch 17 says Ittan's letters began 'the winter Asha died'.",
-      "fix": "Make ch 17 match the rains.",
+      "category": "object",
+      "issue": "Ammu's Valli cover is 'a coast girl's blue cotton' in ch 18 and 'her blue cotton' in ch 20. In ch 26 it becomes 'the plain brown cloth of Valli', and in ch 28 'a small brown bundle'.",
+      "fix": "Keep Valli's cloth blue throughout.",
       "patches": [
         {
-          "chapter": 17,
-          "find": "He has written me a kind letter every season for six years. Since the winter Asha died.",
-          "replace": "He has written me a kind letter every season for six years. Since the rains Asha died."
+          "chapter": 26,
+          "find": "She was mud to the knees, in the plain brown cloth of Valli the pepper trader's girl, her braid half down.",
+          "replace": "She was mud to the knees, in the plain blue cotton of Valli the pepper trader's girl, her braid half down."
+        },
+        {
+          "chapter": 28,
+          "find": "At the foot of the tree, in the roots, lay a small brown bundle: the cloth Ammu wore as Valli, the pepper trader's girl.",
+          "replace": "At the foot of the tree, in the roots, lay a small blue bundle: the cloth Ammu wore as Valli, the pepper trader's girl."
         }
       ]
     },
     {
       "id": "E04",
-      "chapter": 18,
+      "chapter": 5,
       "severity": "minor",
-      "category": "relationship",
-      "issue": "In ch 16 Devan gives the shutters to Neela: 'The shutters are yours... I won't touch them.' From ch 17 on she opens and closes them herself. Ch 18 still calls them 'the shutters he closed every evening'.",
-      "fix": "Reflect that he no longer handles the shutters.",
+      "category": "injury",
+      "issue": "Ch 5 says Devan 'had seen these scars by lamplight on the wedding night'. But he pinched out the lamp before she turned (ch 1 and ch 2), and he watched her by starlight and in the dawn grey. He also saw the wrist scar on the rampart at sunset (ch 1), which makes 'not seen them in sun' too absolute.",
+      "fix": "Change lamplight to starlight and the dawn grey, and contrast it with full sun.",
       "patches": [
         {
-          "chapter": 18,
-          "find": "and leaving behind the shutters he closed every evening and the sword he laid hilt-first on her side of the bed.",
-          "replace": "and leaving behind the shutters he no longer touched and the sword he laid hilt-first on her side of the bed."
+          "chapter": 5,
+          "find": "He had seen these scars by lamplight on the wedding night. He had not seen them in sun.",
+          "replace": "He had seen these scars by starlight on the wedding night, and in the grey of the dawn after. He had not seen them in full sun."
         }
       ]
     },
     {
       "id": "E05",
-      "chapter": 29,
+      "chapter": 1,
       "severity": "minor",
-      "category": "timeline",
-      "issue": "The pass is sealed that same day, and the chapter later stresses that for four months nothing goes down, 'no rider'. Yet earlier in ch 29 Devan expects Muthu's letter to reach the palace 'before the week was out' and the council to hear 'within a month'.",
-      "fix": "Tie both expectations to the roads opening.",
-      "patches": [
-        {
-          "chapter": 29,
-          "find": "whatever was said in this court would reach the palace in a grey-sealed letter before the week was out.",
-          "replace": "whatever was said in this court would go to the palace in a grey-sealed letter as soon as the road opened."
-        },
-        {
-          "chapter": 29,
-          "find": "The council would hear of it within a month.",
-          "replace": "The council would hear of it when the rains broke."
-        }
-      ]
-    },
-    {
-      "id": "E06",
-      "chapter": 30,
-      "severity": "minor",
-      "category": "timeline",
-      "issue": "Neela recalls that when she asked why he barred the shutters he 'asked me about the terraces'. That never happens. In ch 3 he answers 'Rain' at dusk and repeats it the next dusk (ch 4). Devan also says she has carried the question 'since the third day', but the first barring is the second dusk (day 2).",
-      "fix": "Match the recalled exchange and the day to ch 3 and ch 4.",
-      "patches": [
-        {
-          "chapter": 30,
-          "find": "When I asked why you bar the shutters, you asked me about the terraces. And the next dusk you said 'rain.'",
-          "replace": "When I asked why you bar the shutters, you said 'rain.' And the next dusk you said it again."
-        },
-        {
-          "chapter": 30,
-          "find": "You've been carrying one since the third day.",
-          "replace": "You've been carrying one since the second day."
-        }
-      ]
-    },
-    {
-      "id": "E07",
-      "chapter": 32,
-      "severity": "major",
       "category": "knowledge",
-      "issue": "Ch 29 states that once the pass is sealed no rider or writ can go down for four months. Muthu's packet is held in the strongbox 'for the spring rider'. Yet in ch 32 Devan says the closing writ with Neela's name is 'on her desk now', and Neela says the queen 'has my name already'. The queen cannot hold it until the roads open.",
-      "fix": "Make the queen's knowledge of the name a future event.",
+      "issue": "On the wedding day Neela already thinks of Devan as 'A man who drilled alone at dawn.' Later chapters treat this as news. Janu tells her in ch 3 ('Every day before light'), and Neela files it as worth knowing. Ch 6 says she knew his early rising 'only from Janu's grumbling and from the pit lamps'. Ch 11 says rising was something she had 'only ever heard of, from Janu and from the lamps'.",
+      "fix": "Replace the ch 1 tally item with something she knows from the guild's drawings.",
       "patches": [
         {
-          "chapter": 32,
-          "find": "She has your name. You signed the closing writ, 'of Kettamala'. It's on her desk now.",
-          "replace": "She'll have your name. You signed the closing writ, 'of Kettamala'. It goes to her desk with the first rider."
-        },
-        {
-          "chapter": 32,
-          "find": "She has my name already, Devan. Soon she'll have yours beside it.",
-          "replace": "She'll have my name with the first rider, Devan. Soon she'll have yours beside it."
+          "chapter": 1,
+          "find": "So: forty days. A man who drilled alone at dawn. A fort with one great gate and sixty-odd soldiers.",
+          "replace": "So: forty days. A man in a high west room. A fort with one great gate and sixty-odd soldiers."
         }
       ]
     }
