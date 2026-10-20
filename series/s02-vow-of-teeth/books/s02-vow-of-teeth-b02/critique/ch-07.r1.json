@@ -1,0 +1,41 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 3.0,
+    "stakes_and_cost": 4.0,
+    "prose": 4.0,
+    "continuity": 5.0
+  },
+  "reasons": {
+    "reader_question": "A clear, specific gap: the book sits behind a barred door that needs paws to reach and hands to open.",
+    "change": "She moves from empty-handed to holding a full flask and the book's location; she also loses Ammu's last resin.",
+    "romance_movement": "This is their first fieldwork as a team on her ground. The shared cut, the cloth and 'We are two people' make the bond concrete, and the reason is new.",
+    "shown_chemistry": "Attraction is shown through action: the linen already folded, the hand six inches from hers, the pebble, his hand on her stirrup, his back turned at dawn.",
+    "character_logic": "The final obstacle ignores that she can skip resin and go in human at night. Spending Ammu's smear while holding fresh resin is also unexplained.",
+    "stakes_and_cost": "Pachan's hook at her throat by day lands. The ending says 'someone pays for that' but names no one.",
+    "prose": "Clean and concrete, with good counting voice. 'Thirty paces' appears three times, and a few lines go muddy (the birds exchange, 'the cache is empty').",
+    "continuity": "Ages, wound-share, cage count, Chathu's break, Ammu's last smear and Pachan all agree with the bible and continuity facts."
+  },
+  "fixes": [
+    "At 'He didn't need a lock. He needed us to be two people.' (Irrational behaviour to extend plot): Neela could skip resin and go in human at night, as she planned in ch 6. Add one concrete bar, such as the hounds being kept loose on the flagged path after dusk and knowing her scent as rogue, or the hasp key living on Chathu's cord. Then 'hands and dark' becomes a true trap.",
+    "At 'held out the last thumb of resin, the one smear she had kept' (Character logic, cost ledger): she now holds a full flask of fresh resin, so spending Ammu's last smear needs a reason. Add one line: raw sap must stand a night before it takes, or she won't risk untried sap below hunters. This makes the empty pouch a cost she chose.",
+    "At '\"A man who kills with his hands full of birds,\" Devan said. \"I won't answer that.\"' (voice slip): Devan uses 'I won't answer that' only when he can't speak truly, never after he has already answered. Cut the first sentence or the refusal. Also fix 'The cache is empty, the horses are half a day down', which clashes with leaving the horses in the ravine by noon."
+  ],
+  "reader_question": "How can they open a barred door that only the other one can reach, when she can't have hands and stealth in the same night?",
+  "techniques_landed": [
+    6,
+    11,
+    14
+  ],
+  "new_facts_assessment": "The hounds are necessary and consistent, since they are seen stirring in the scout scene before Neela cites them. Pachan holding the net agrees with F232, F249 and F493 and deepens his choice. Devan's proposal and her rejection are needed for the ending. All three are acceptable, but the hounds fact must also cover why a human Neela at night fails.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Irrational behaviour to extend plot"
+  ],
+  "average": 4.0,
+  "minimum": 3.0,
+  "passed": true
+}
