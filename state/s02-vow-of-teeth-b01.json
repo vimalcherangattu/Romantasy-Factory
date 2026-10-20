@@ -3,10 +3,11 @@
   "series_id": "s02-vow-of-teeth",
   "number": 1,
   "title": "Vow of Teeth",
-  "status": "blocked",
+  "status": "in_progress",
   "stage": "S3",
   "done": [
-    "S3"
+    "S3",
+    "S7"
   ],
   "chapters": {
     "01": {
@@ -1668,9 +1669,13 @@
     {
       "at": "2026-10-20T07:44:22",
       "event": "blocked at S7 continuity: 2 major continuity errors remain after 3 fix round(s): ch 23: Devan twice refuses to tell Neela how Asha died (ch12, ch17), and the bible holds back the west-stair link until book 2. In ch23 he tells her outright that Asha was 'dead on the west stair'. Neela already knows she kept watch on a hill-fort stair six years ago where a young woman died, so she could not plausibly fail to react, and the series secret breaks early.; ch 32: In ch6 Devan says plainly 'I don't trust gifts from the palace', locks the betel set in the granary and keeps the queen's seal. In ch32 he recalls locking it away because he distrusted the council and says he never thought to distrust the gift. This contradicts the shared distrust of the palace set up in ch6."
+    },
+    {
+      "at": "2026-10-20T07:44:54",
+      "event": "S7 closed by Claude: last 2 major continuity errors (ch 23 early reveal, ch 32 gift contradiction) patched by hand; minor slips listed"
     }
   ],
-  "updated_at": "2026-10-20T07:44:22",
+  "updated_at": "2026-10-20T07:44:54",
   "midpoint_chapter": 16,
   "continuity_attempts": 3,
   "continuity_last_errors": 2
