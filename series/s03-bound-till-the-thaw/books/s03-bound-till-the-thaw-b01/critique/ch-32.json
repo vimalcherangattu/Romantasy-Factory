@@ -1,41 +1,41 @@
 {
   "scores": {
-    "reader_question": 4.0,
+    "reader_question": 5.0,
     "change": 4.0,
     "romance_movement": 4.0,
     "shown_chemistry": 4.0,
     "character_logic": 4.0,
-    "stakes_and_cost": 3.0,
-    "prose": 3.0,
+    "stakes_and_cost": 4.0,
+    "prose": 4.0,
     "continuity": 0.0
   },
   "reasons": {
-    "reader_question": "The jogini's warning plus the uneven carved hands and the cut rope give a sharp, specific series question, though the payer stays unnamed.",
-    "change": "The bond ends, Rohan declares publicly before his wardens, the betrothal is chosen, and the pass gains a deadline.",
-    "romance_movement": "The new reason is choice without proof. Swapped knots and 'You'll have to take my word' make it fresh.",
-    "shown_chemistry": "He stands still while she walks away. 'Sixteen and a half' and 'last time you get to check' show care through action.",
-    "character_logic": "Gopal's reminder, Rohan's public framing and Meera's walk-and-return all suit smart versions of these people.",
-    "stakes_and_cost": "Betrothal and declaration cost nothing on the page. The Bargain threat is communal and not yet tied to a named loved one.",
-    "prose": "Strong images, but there are negation-pattern tells, a told epiphany, an ambiguous 'never been spoken to', a 'no Captain' typo and an off-voice 'ain't'.",
-    "continuity": "'Twenty-nine days' conflicts with ch23 (seventeen days at Ranu) plus six weeks of drafting; the bond has lasted about two months."
+    "reader_question": "Specific and urgent: what is the Old Bargain and who pays. The Kiran hint and the queen's interest in the map sharpen it.",
+    "change": "Bond becomes choice, book peace becomes series threat, and the wardens accept Rohan's defiance. Gopal yields too quickly for a real power contest.",
+    "romance_movement": "The walk away and return is a new, freely chosen proof. The name change is undercut because she has used 'Rohan' since ch6.",
+    "shown_chemistry": "The swapped knots, his not following, and his 'sixteen and a half' count are strong. 'Better than he had ever done anything' is narrated.",
+    "character_logic": "Rohan's public declaration before the thaw is smart and in character. Meera's 'how long does a pass stand open' question doesn't follow logically.",
+    "stakes_and_cost": "Rohan risks the queen's verdict on his writ, and the fourth-winter deadline lands on named people. The betrothal itself costs nothing.",
+    "prose": "Clean, concrete and dash-free, with no banned phrases. Muddled lines: 'gloves in a story', 'It sounded like her own', 'There were no words, and there were words.'",
+    "continuity": "'Saying it in the dark' contradicts her daylight 'Come on, Rohan' (ch31) and F159. Roop and Chand's bond is placed at the wrong cairn."
   },
   "fixes": [
-    "Continuity: in 'sat tight on her pulse for twenty-nine days' and the repeat 'waited at that distance for twenty-nine days', replace the figure with the true span of about two months (for example 'since before midwinter'). Also fix 'For three weeks and more they had not touched a rope', 'saying it for a month in the dark' and 'They'd had that for a month' so every duration fits ch23 plus six weeks of drafting plus the crossing home.",
-    "Stakes without depth: after 'Who is to pay?' said Chand, give Meera one beat that ties the debt to a named person. For example, she thinks of Kiran at the drafting table, who owes a life and believes his is the coin, or of Rohan's grandfather's gloves laid on a stone (F236). One line of fear for a specific loved one will make the series hinge cost her something now.",
-    "Prose: change 'She had never been spoken to in her life' to 'Nothing had ever spoken to her through her skin.' Fix the typo in 'And it's Rohan, no Captain' (use 'not Captain'). Change Hakam's 'ain't' to 'isn't'. Cut the told epiphany 'And she saw what it was... with nothing to prove it' to one line, or let the dialogue carry it. Vary the stacked 'It did not... It did not' and 'It was not... It was' constructions."
+    "At \"I've been saying it in the dark since the Saddle\" (continuity conflict): she said 'Rohan' in daylight in ch17 and at the end of ch31. Rewrite it as 'I've said it when I needed you to hear. Now they can hear it too.' Move 'Rohan, not Captain' out of her vow and make it a public correction after Gopal says 'Captain'. Cut 'It sounded like her own.'",
+    "At \"He had once said, half laughing, that he owed a life\" (twist without setup): the remark never appeared on the page. Tie her fear to what she saw in ch31 instead: Dilan's rope end by the ink, and Kiran's 'It is for the next one' silence. Add one line placing Kiran at Garh Neshar with Ila. Log both facts in new-facts.",
+    "At \"How long does a pass like this have to stand open\" (character logic, muddled prose): the question and the answer 'Sixty winters' don't connect. Change her question to 'When was your Closing Law written?' and his answer to 'Sixty winters ago. The spring after they found my grandfather.' Replace 'a pair of gloves in a story' with 'the gloves his father told of, laid one on the other on a flat stone.' Fix Roop and Chand's cairn line too."
   ],
-  "reader_question": "What is the Old Bargain the founders never paid, and who will be made to pay it before the fourth winter closes the pass?",
+  "reader_question": "What is the Old Bargain the jogini say is unpaid, and will Kiran try to be the one who pays it?",
   "techniques_landed": [
     3,
     20,
     26
   ],
-  "new_facts_assessment": "Gopal, Badami's working bell (a smart fix for F173), the cream two-span rope with swapped knots, and the carving detail are all necessary and consistent; the carving pays S3/S7 fairly. One fact is unlisted: Roop and Chand's bond ended 'weeks ago at the thaw's first rumour' (F049). It is vague and only works if they were tied at a Neshar-side cairn, so state that or cut it. The 'twenty-nine days' and 'a month' durations break the timeline.",
+  "new_facts_assessment": "The new-facts list is empty, but the draft adds facts. Gopal, the bell, the cream rope and the carving are already tracked (F267 to F271) and consistent. Not logged: Kiran's earlier 'owed a life' remark, which was never shown on the page and so reads as a clue added after the fact. Also not logged: Roop and Chand's bond ending at the Shilak Cairn, which conflicts with them crossing back from Ranu (F049) unless they were tied at Shilak. Kiran's absence from his sister's betrothal is unexplained.",
   "content_rule_violation": false,
   "failure_modes": [
-    "Stakes without depth"
+    "Twists without setup"
   ],
-  "average": 3.25,
+  "average": 3.62,
   "minimum": 0.0,
   "passed": false
 }
