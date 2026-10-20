@@ -2,73 +2,168 @@
   "open_errors": [
     {
       "id": "E01",
-      "chapter": 5,
-      "category": "character",
-      "issue": "The bible says Devan never lies to Neela. In ch 5 he tells Neela and Kannan 'I have to see Bhaskaran about the gate', and the narration says 'It was not true.'",
-      "fix": "In ch 5, change his line to a true one, such as 'I need a moment,' and cut 'It was not true.' The walk to the cistern wall can stay as it is."
+      "chapter": 14,
+      "severity": "major",
+      "category": "name",
+      "issue": "Chinna is a woman ('a broad woman who slapped the leaf plates down', ch1; 'her bad hip', ch31). In ch14 the narration gives her 'his bad hip'.",
+      "fix": "Change the pronoun to 'her'.",
+      "patches": [
+        {
+          "chapter": 14,
+          "find": "Chinna at the kitchen door with his bad hip",
+          "replace": "Chinna at the kitchen door with her bad hip"
+        }
+      ]
     },
     {
       "id": "E02",
-      "chapter": 8,
-      "category": "character",
-      "issue": "Neela asks why Raiu was moved and Devan answers 'Oil.' The narration has already said 'It did not save oil.' That is a direct lie to Neela, which breaks his fixed voice rule. Ch 17 and ch 30 also rely on him never having lied to her.",
-      "fix": "In ch 8, replace Devan's answer 'Oil.' with 'I won't answer that.' Keep her next line, 'Then I'll be sparing with mine,' as it is."
+      "chapter": 17,
+      "severity": "major",
+      "category": "knowledge",
+      "issue": "In ch17, Devan answers 'How did she die?' with 'I won't answer that', and the narration says it was the first time he had said those words to her. He already refused her the same question with the same words in ch12, and said them to her twice in ch3.",
+      "fix": "Make it the second refusal of that question.",
+      "patches": [
+        {
+          "chapter": 17,
+          "find": "It was the first time he had said them to her. The words sat in the dark as plainly as the sword on the boards.",
+          "replace": "It was the second time he had refused her that question. Tonight the words sat in the dark as plainly as the sword on the boards."
+        }
+      ]
     },
     {
       "id": "E03",
-      "chapter": 13,
-      "category": "name",
-      "issue": "Chinna is a woman (ch 1 'a broad woman', ch 18, ch 21 'Chinna's got a bad hip', ch 31 'her bad hip'). In ch 13 Neela says 'Tell Chinna it's for the warden. He'll hurry.'",
-      "fix": "In ch 13, change 'He'll hurry.' to 'She'll hurry.'"
+      "chapter": 16,
+      "severity": "minor",
+      "category": "timeline",
+      "issue": "On the narrows night (ch14) Neela leaves a late scent-mark in the cup of the meeting stone, and in ch18 Ammu counts the bare cups as three plus the fever night, which excludes the narrows night. Ch16 instead says she missed the stone on both the fever night and the narrows night, and calls tonight the third bare cup.",
+      "fix": "Count only the fever night as missed, and make tonight's the second bare cup.",
+      "patches": [
+        {
+          "chapter": 16,
+          "find": "She had missed it twice already, the fever night and the night of the narrows, and Ammu's jackal had found the stone empty. Chathu had said every day counted double now. A third bare cup would tell Ammu that something was wrong, and Ammu would come asking.",
+          "replace": "She had missed it once already, on the fever night, and her mark on the night of the narrows had come late. Chathu had said every day counted double now. A second bare cup would tell Ammu that something was wrong, and Ammu would come asking."
+        }
+      ]
     },
     {
       "id": "E04",
-      "chapter": 14,
-      "category": "name",
-      "issue": "In the supper scene, ch 14 reads 'Chinna at the kitchen door with his bad hip.' Chinna is a woman.",
-      "fix": "In ch 14, change 'his bad hip' to 'her bad hip'."
+      "chapter": 24,
+      "severity": "minor",
+      "category": "object",
+      "issue": "In ch17 Neela gives her only knife to Devan, laying it on his side of the sword. Ch24 then has it back under her mattress, and in ch25 and ch26 she carries it, with no explanation of how it returned.",
+      "fix": "In ch24, say Devan put the knife back under her mattress and she let it lie. This covers ch25 and ch26.",
+      "patches": [
+        {
+          "chapter": 24,
+          "find": "One of them was still asleep in his bed, with her knife under the mattress.",
+          "replace": "One of them was still asleep in his bed. He had slid her knife back under her side of the mattress the night after she gave it him, and she had let it lie."
+        }
+      ]
     },
     {
       "id": "E05",
-      "chapter": 17,
-      "category": "object",
-      "issue": "Devan says that on the wedding night she 'slipped the latch like somebody who had done it before, carefully, so the slat wouldn't ring.' In ch 1 Neela leaned on the third slat on purpose to make it creak, and in ch 2 Devan's POV records that 'The third slat creaked.'",
-      "fix": "In ch 17, change the line to: 'Then it slipped the latch like somebody who had done it before, and leaned on the third slat to see if the creak would wake me.'"
+      "chapter": 1,
+      "severity": "minor",
+      "category": "place",
+      "issue": "The warden's window changes layout. Ch1 calls it 'three tall teak shutters', and ch1 and ch3 treat the 'third' as a third shutter. Elsewhere it has two leaves ('both leaves', ch4, ch5, ch30) and the creak comes from the third slat (bible).",
+      "fix": "Make it two shutter leaves throughout, with the third slat as the creaking part.",
+      "patches": [
+        {
+          "chapter": 1,
+          "find": "three tall teak shutters, closed against the dark.",
+          "replace": "two tall teak shutter leaves, closed against the dark."
+        },
+        {
+          "chapter": 1,
+          "find": "The third she did on purpose.",
+          "replace": "The third slat she did on purpose."
+        },
+        {
+          "chapter": 3,
+          "find": "he pulled the second to, then the third. The third slat creaked.",
+          "replace": "he pulled the second to. The third slat creaked."
+        }
+      ]
     },
     {
       "id": "E06",
-      "chapter": 20,
-      "category": "knowledge",
-      "issue": "Ch 20 calls Neela's lie that Devan 'thinks I'm a bride who sleeps badly' 'a first lie'. In ch 18 she had already lied to Ammu several times ('Nobody's seen', 'To learn his sleep', 'He sleeps like a log'), and ch 18 records that as her first lie told to protect someone else.",
-      "fix": "In ch 20, change 'So it was a first lie' to 'So it was the first lie of the morning'."
+      "chapter": 1,
+      "severity": "minor",
+      "category": "place",
+      "issue": "Ch1 first places Raiu with his torch 'outside the hall'. Later in the same chapter, Devan says Raiu has been on the chamber corridor since dusk and that she never went near him at the feast.",
+      "fix": "Place Raiu outside the warden's chamber from the start.",
+      "patches": [
+        {
+          "chapter": 1,
+          "find": "Raiu held the corridor torch outside the hall,",
+          "replace": "Raiu held the corridor torch outside the warden's chamber,"
+        }
+      ]
     },
     {
       "id": "E07",
-      "chapter": 24,
-      "category": "object",
-      "issue": "In ch 17 Neela gives her only knife, the plain six-inch guild knife, to Devan and lays it on his side of the sword (F399). In ch 24 Devan thinks of her asleep 'with her knife under the mattress'. In ch 25 she runs down the stair with 'the plain guild knife in her hand', and in ch 26 it is in her belt. No scene shows the knife going back to her.",
-      "fix": "In ch 24's rampart scene, after 'I'll double the watch,' add a short beat where Devan takes the guild knife from his belt and holds it out to her hilt first ('Vellan's coming. It's yours.'). Change his POV line to 'with the knife he had given back to her under the mattress.'"
+      "chapter": 11,
+      "severity": "minor",
+      "category": "timeline",
+      "issue": "Neela recalls Janu's 'He used to have a partner' as said over the supper pots. In ch3 Janu said it standing at the lip of the kalari pit.",
+      "fix": "Correct where the remark was made.",
+      "patches": [
+        {
+          "chapter": 11,
+          "find": "Janu had said it in the first week, over the supper pots.",
+          "replace": "Janu had said it in the first week, at the lip of this same pit."
+        }
+      ]
     },
     {
       "id": "E08",
-      "chapter": 7,
-      "category": "timeline",
-      "issue": "Ch 7 says Unni is 'not much past twenty'. In ch 12, Asha's slate lists Unni among the recruits she wrote down in her first month at the fort, which was about nine years ago (she arrived at 19 and died at 22, six years ago). That would make him a recruit at about eleven.",
-      "fix": "In ch 7, change 'not much past twenty' to 'five-and-twenty and still blushing like a boy'."
+      "chapter": 17,
+      "severity": "minor",
+      "category": "object",
+      "issue": "The sword always lies on the floor on Neela's side, hilt toward her (ch1, ch16, ch22, and her own question in ch17). In ch17, though, it lies 'between them', and Devan lies 'a hand's length from' it.",
+      "fix": "Keep the sword on her side of the bed.",
+      "patches": [
+        {
+          "chapter": 17,
+          "find": "and he lay at the far edge of the bed with the sword on the boards between them.",
+          "replace": "and he lay at the far edge of the bed with the sword on the boards on her side."
+        },
+        {
+          "chapter": 17,
+          "find": "Devan lay with his eyes shut and his boots off, a hand's length from the sword,",
+          "replace": "Devan lay with his eyes shut and his boots off, the whole bed between him and the sword,"
+        }
+      ]
     },
     {
       "id": "E09",
-      "chapter": 11,
-      "category": "timeline",
-      "issue": "Ch 11 has Neela recall that Janu said 'He used to have a partner' 'in the first week, over the supper pots.' In ch 3 Janu said it at the lip of the kalari pit during the tour.",
-      "fix": "In ch 11, change 'over the supper pots' to 'at the lip of this pit'."
-    },
-    {
-      "id": "E10",
-      "chapter": 16,
-      "category": "timeline",
-      "issue": "Ch 16 says Neela 'had missed it twice already, the fever night and the night of the narrows', meaning the cup at the meeting stone. In ch 14 she dragged a late scent-mark across the cup on her way back from the narrows. In ch 18 Ammu counts bare cups without the narrows night ('Three nights... Four, if I count the night of the fever').",
-      "fix": "In ch 16, change the clause to: 'She had missed it outright on the fever night, and marked it only late and cold on the night of the narrows.'"
+      "chapter": 3,
+      "severity": "minor",
+      "category": "world",
+      "issue": "The bible states that Varanad has no deities. Several exclamations and comparisons assume gods or real-world worship: 'God help us' (ch3), 'like a god in a temple' (ch5), 'like a man entering a church' (ch9) and 'Gods' (ch13).",
+      "fix": "Replace each with a secular expression.",
+      "patches": [
+        {
+          "chapter": 3,
+          "find": "\"God help us,\" said Janu, and meant it kindly.",
+          "replace": "\"Pity the fort,\" said Janu, and meant it kindly."
+        },
+        {
+          "chapter": 5,
+          "find": "But my warden says no at dawn on the seventh day, like a god in a temple.",
+          "replace": "But my warden says no at dawn on the seventh day, like the cistern chain on the hour."
+        },
+        {
+          "chapter": 9,
+          "find": "Devan went into the yard like a man entering a church.",
+          "replace": "Devan went into the yard like a man entering a sickroom."
+        },
+        {
+          "chapter": 13,
+          "find": "Gods, it's the, it's the—",
+          "replace": "Mercy, it's the, it's the—"
+        }
+      ]
     }
   ]
 }
