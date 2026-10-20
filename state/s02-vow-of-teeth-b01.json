@@ -355,8 +355,8 @@
       ]
     },
     "17": {
-      "status": "failed",
-      "revisions": 0,
+      "status": "revised",
+      "revisions": 1,
       "scores": {
         "reader_question": 4.0,
         "change": 4.0,
@@ -369,7 +369,7 @@
       },
       "average": 3.5,
       "flags": [],
-      "words": 3161,
+      "words": 3168,
       "minimum": 0.0,
       "continuity_fixes": [
         "In ch 12 Sudhi rides 'with the palace green on his sleeve'. In ch 17 Devan says no one looks in the bag of 'a man in royal blue'. Blue is the registry courier's colour in ch 8, not Sudhi's. FIX: In ch 17, change 'a man in royal blue' to 'a man in palace green'.",
@@ -1584,9 +1584,13 @@
     {
       "at": "2026-10-20T01:12:53",
       "event": "done: S5 critique ch 17"
+    },
+    {
+      "at": "2026-10-20T01:13:53",
+      "event": "done: S6 revise ch 17"
     }
   ],
-  "updated_at": "2026-10-20T01:12:53",
+  "updated_at": "2026-10-20T01:13:53",
   "midpoint_chapter": 16,
   "continuity_attempts": 3,
   "continuity_last_errors": 9

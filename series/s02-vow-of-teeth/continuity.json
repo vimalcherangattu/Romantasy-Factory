@@ -2750,6 +2750,55 @@
       "fact": "Corrects F376: on the no-resin night of ch 16 the stone cup is bare for the third time (fever night ch 13, narrows night ch 14, tonight); the watcher's log would show a second refusal, since ch 11 was a human night.",
       "since": "s02-vow-of-teeth-b01 ch 16",
       "provisional": true
+    },
+    {
+      "id": "F399",
+      "category": "object",
+      "fact": "Neela gives her plain six-inch guild knife to Devan, laying it on the boards on his side of the sword, hilt toward him, and says it is the only thing she has that is hers. She is unarmed afterward; later chapters must not show her carrying a blade without explanation (Devan may return it, or she may take another).",
+      "since": "s02-vow-of-teeth-b01 ch 17",
+      "provisional": true
+    },
+    {
+      "id": "F400",
+      "category": "knowledge",
+      "fact": "The 'dark rule' begins on the second night: in the dark she may ask him anything and he answers or says 'I won't answer that'. The ch17 'I won't answer that' about Asha's death is the first time he has said those words to her. Ch21's question game formalises this by limiting each player to one 'I won't answer' in total (F187).",
+      "since": "s02-vow-of-teeth-b01 ch 17",
+      "provisional": true
+    },
+    {
+      "id": "F401",
+      "category": "knowledge",
+      "fact": "Ittan has written Devan a kind letter every season for six years, beginning the winter Asha died (Devan was not yet warden for the first year). Devan reads the Keeper's letter aloud to Neela at lamplit dusk on the ninth day, after the post arrives.",
+      "since": "s02-vow-of-teeth-b01 ch 17",
+      "provisional": true
+    },
+    {
+      "id": "F402",
+      "category": "knowledge",
+      "fact": "Devan admits he was afraid for about a breath on the wedding night when he saw her turn, then afraid that she would look round. He says the shutters were held by the latch and she slipped it carefully so the third slat wouldn't ring.",
+      "since": "s02-vow-of-teeth-b01 ch 17",
+      "provisional": true
+    },
+    {
+      "id": "F403",
+      "category": "knowledge",
+      "fact": "Devan says that if he learns the buyer's name he would take it to the high court at Kodiyur with the seals and would not kill him.",
+      "since": "s02-vow-of-teeth-b01 ch 17",
+      "provisional": true
+    },
+    {
+      "id": "F404",
+      "category": "knowledge",
+      "fact": "Devan knows the names of the three keepers whose boxes carry the dot-and-split seal but does not tell Neela; he distrusts Muthu not at all and has no doubt of him.",
+      "since": "s02-vow-of-teeth-b01 ch 17",
+      "provisional": true
+    },
+    {
+      "id": "F405",
+      "category": "knowledge",
+      "fact": "Neela resolves to tell Ammu the seal boxes, the Keeper's letter and coming, the pass and the rider, but not that Devan is her witness.",
+      "since": "s02-vow-of-teeth-b01 ch 17",
+      "provisional": true
     }
   ],
   "knowledge": [
