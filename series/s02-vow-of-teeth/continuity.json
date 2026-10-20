@@ -3331,6 +3331,48 @@
       "fact": "Neela tells Devan what the intake slip behind her burned page says ('Intake, sold at six years', two lines unread) and that she wants only to read it alone.",
       "since": "s02-vow-of-teeth-b02 ch 6",
       "provisional": true
+    },
+    {
+      "id": "F483",
+      "category": "magic",
+      "fact": "Corrects F481 and the ch 1 count (F450/F451): by the evening of ch 6 Neela has exactly one smear of Ammu's resin left, kept for the Resin House. She spent the other two nights earlier, on the ridge, to see who walked the road. The ache is close: split nails and a night sweat, and she is past her last proper resin (no day count given).",
+      "since": "s02-vow-of-teeth-b02 ch 6",
+      "provisional": true
+    },
+    {
+      "id": "F484",
+      "category": "plot",
+      "fact": "Neela and Devan decide in ch 6 to ride for the groves that night at full dark, reaching the nightbark by noon of the next day. Devan will tell Rema at first light that he and his wife have gone to fetch the guild's paper. Neela will go over the compound wall as a woman, by a drain, and keep the smear for the night inside.",
+      "since": "s02-vow-of-teeth-b02 ch 6",
+      "provisional": true
+    },
+    {
+      "id": "F485",
+      "category": "object",
+      "fact": "The front half of the ledger is plain ink in Resin House cipher (the contract leaves, which come loose at the stitching); Devan cannot read it, so Neela must read every contract aloud to him.",
+      "since": "s02-vow-of-teeth-b02 ch 6",
+      "provisional": true
+    },
+    {
+      "id": "F486",
+      "category": "plot",
+      "fact": "First term of the handover: contract leaves go to Rema, the high court or any bench; pages go back to their owners, read aloud by the holder by daylight. Devan adds that no clerks may be in the room, only the holder, the owner and whoever she chooses. Neela cannot yet promise to burn the back half.",
+      "since": "s02-vow-of-teeth-b02 ch 6",
+      "provisional": true
+    },
+    {
+      "id": "F487",
+      "category": "knowledge",
+      "fact": "Nightbark can be tapped at noon, and burns like fire only on bare skin.",
+      "since": "s02-vow-of-teeth-b02 ch 6",
+      "provisional": true
+    },
+    {
+      "id": "F488",
+      "category": "object",
+      "fact": "Devan's letter to Ittan's household says the Keeper died at dawn by the queen's warrant, quotes Ittan's request that the window be kept open in rain, and names the account of Kettamala as payer.",
+      "since": "s02-vow-of-teeth-b02 ch 6",
+      "provisional": true
     }
   ],
   "knowledge": [
