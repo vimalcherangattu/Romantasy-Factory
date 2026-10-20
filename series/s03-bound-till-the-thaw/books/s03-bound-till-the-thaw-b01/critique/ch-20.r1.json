@@ -1,0 +1,39 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 5.0,
+    "romance_movement": 5.0,
+    "shown_chemistry": 5.0,
+    "character_logic": 4.0,
+    "stakes_and_cost": 4.0,
+    "prose": 4.0,
+    "continuity": 5.0
+  },
+  "reasons": {
+    "reader_question": "Kiran's shuttered face and closed fist on the badge pose a sharp, specific question. The thaw and writ question stays secondary.",
+    "change": "They are now lovers by choice, Rohan is in her count, and harbouring is knowing. Kiran's survival flips the next chapter's terrain.",
+    "romance_movement": "The new reason is a verified blockade confession plus being written into her ledger. This is not a replayed refusal.",
+    "shown_chemistry": "Goat fat warmed first, the remembered knuckles and the rib-shaped rules. Desire is proven through responsive action, not narration.",
+    "character_logic": "Both act smartly. The 'partly a lie' moment bends the lie-cold rule, and 'back of that coat' contradicts her leading.",
+    "stakes_and_cost": "Harbouring is now knowing, the writ still stands and he withholds a promise. The cost is clear but no new decision is forced tonight.",
+    "prose": "Strong and specific, but a few stock beats: the held breath let go, 'closed like a shutter' and a summarising afterglow line.",
+    "continuity": "Counts, 206 carried, eleven trips, the badge dent and ages all match. No hard conflict found."
+  },
+  "fixes": [
+    "At \"That's partly a lie. I'll start again.\": the world rule is quietly suspended (Rule That Bites Back). A believed-false statement to her bound partner should whiten her fingertips. Have her stop mid-sentence before completing the claim. Alternatively, show a faint whitening at the tips that he sees, which she then corrects aloud. Then let 'Look at my hands' land on hands that are warming back, not untouched.",
+    "At \"she found she was holding her breath, and let it go\": this is a near-variant of a banned cliché, and it echoes ch19's closing breath beat. Replace it with a concrete reaction tied to these two, such as her fingers curling around his thumb when he stops. Also rework \"Kiran's face closed like a shutter\" into a Kiran-specific tell, such as the joke dying on his mouth and his gaze going to Rohan's hands.",
+    "At \"looking at the back of that coat for twelve days\": this is a logic and continuity slip. Meera leads and ordered him behind her (ch17), and the day count is nearer fifteen. Change it to something she has actually watched, such as the coat across the hut fire every night since the Saddle. Avoid a day number, or use one that matches the timeline."
+  ],
+  "reader_question": "What is Kiran hiding in his fist, and why does the sight of Rohan close his face like that?",
+  "techniques_landed": [
+    9,
+    10,
+    14
+  ],
+  "new_facts_assessment": "The draft listed no new facts but added several. First, Meera's forearm burn-scar: new, harmless, and should be logged. Second, a 'post commander' who writes the blockade order: this needs checking against Rohan's authority, since it shifts his culpability. Third, the order is signed 'in the autumn, before first snow': fine. Fourth, the ash handprint on the storehouse lintel: this implies the storehouse was marked, which fits since it is part of Nimmi's house. All are consistent so far but must be entered in new-facts.json.",
+  "content_rule_violation": false,
+  "failure_modes": [],
+  "average": 4.5,
+  "minimum": 4.0,
+  "passed": true
+}
