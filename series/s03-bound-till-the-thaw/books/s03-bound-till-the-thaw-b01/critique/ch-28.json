@@ -1,40 +1,42 @@
 {
   "scores": {
-    "reader_question": 4.0,
+    "reader_question": 5.0,
     "change": 4.0,
     "romance_movement": 4.0,
     "shown_chemistry": 4.0,
-    "character_logic": 3.0,
+    "character_logic": 4.0,
     "stakes_and_cost": 4.0,
-    "prose": 4.0,
+    "prose": 3.0,
     "continuity": 0.0
   },
   "reasons": {
-    "reader_question": "The closing line hands the reader a sharp, specific question: how will Rohan answer Kiran's confession about Dilan's rope?",
-    "change": "Meera goes from chained captive to free, holding the seal, the button and Asha's testimony against Varun. The value shift lands.",
-    "romance_movement": "Her handing Rohan the pack is the new reason for change. The skin touch with no cold marks that the lie is spent.",
-    "shown_chemistry": "Shown through action: he reties the double hitch, takes the pack without a speech, and they trade the sattu callback.",
-    "character_logic": "Meera names the chulha corner before anyone has told her the seal moved. Rohan knows a hiding place he was never told.",
-    "stakes_and_cost": "Nimmi gives a fingers-off deadline. Kiran's confession and the ledger page both carry the cost of exposure to Meera.",
-    "prose": "Clean and concrete with good voice. 'Her whole face changed' and 'something near pleasure' tell rather than show.",
-    "continuity": "Rohan says 'The seal's in the woodpile' but was never told (F223). 'Eleven winters' conflicts with the chapter's own ten."
+    "reader_question": "Two linked gaps close the chapter: Rohan has seen the dead fingers, and Kiran is about to confess. The question is specific and urgent.",
+    "change": "Meera starts captive and leaves free, holding the seal, with Varun's runner named. The value shift from captive to armed with proof lands cleanly.",
+    "romance_movement": "She hands him her load for the first time. This is a new reason, her need made physical, and his knot-retying echoes chapter 11.",
+    "shown_chemistry": "The palm held a breath too long, the hitch retied, and the sattu payment joke all show response through action, not narration.",
+    "character_logic": "Mostly sharp. Giving her only page of evidence to Varun's hireling is a big gamble, and the text barely weighs it.",
+    "stakes_and_cost": "Two fingers have a deadline, the ledger page incriminates her, and Kiran's confession threatens everything. Each choice costs something.",
+    "prose": "Clean and concrete with no banned phrases. The 'put it in a column' tic repeats, and some images are murky ('colour of a shut eye', 'thrown nail').",
+    "continuity": "Rohan promised while bound 'I won't ask you anything else' (ch27), then asks 'May I carry that?' with no cold. This breaks F012."
   },
   "fixes": [
-    "The line '\"The seal's in the woodpile,\" said Rohan' breaks continuity: Rohan never learned the hiding place (F223), and later the text says he never asked. Meera also names 'the chulha corner' before Nimmi reveals the move. Fix: Meera asks for Nimmi's woodpile. Cut 'It was. It isn't now.' Let Nimmi's doorway speech give the move as a surprise.",
-    "'Eleven winters of drops, the day and the hour' conflicts with 'ten winters' later in the chapter and with the bible (Meera began smuggling 10 winters ago). Change it to ten. Also check 'In the grove he had faced the wall': the hiding happened near the woodpile behind the shed, not in the grove. Rewrite as 'At the shed he had faced the wall.'",
-    "'hands tied in three nested loops, snug as a bird's nest' leaves technique 11 unlanded because no one registers the clue. Add one beat where Meera notices the knot matches the juniper bundle and the cairn carving, as in her count's note 'Same as cairn'. Then Asha's sharp look cuts her off, so the clue sits at the escape's peak."
+    "At \"May I carry that?\": this breaks the world rule. Rohan's bound promise in ch27 ('I won't ask you anything else') makes any question a broken promise, which strikes as a great lie. Make him offer instead: \"Give it here. I'll take the left.\" Better still, have him visibly stop at the question and rephrase. That shows he's keeping his word, deepens the moment, and costs one line.",
+    "At \"She had no lie on her now that his hand could reach\": this is convenient magic. A new loophole rule appears exactly when it lets them touch without exposure. Either cut the claim and have her offer the stone by its cord so their skin never meets, or establish the rule earlier and add it to new-facts.json. Remember the touch is on her right hand while the lie-cold sat in the left.",
+    "At \"a place in his coat where a badge had lain until a night ago\": this is a continuity slip. Meera has carried Dilan's badge since ch24 (F221), and she reaches 'past the brass badge' earlier in this chapter. Change it to \"where a badge had lain until his sister took it\". Then cut one of the repeated 'put it in a column' lines to break the tic."
   ],
-  "reader_question": "What will Rohan do when Kiran tells him he was the smuggler on Dilan's rope?",
+  "reader_question": "Now that Rohan has seen the price of Meera's lie and Kiran is about to confess, what will Rohan do with the truth about Dilan's rope?",
   "techniques_landed": [
+    11,
     12,
     16
   ],
-  "new_facts_assessment": "The draft's file is empty, but F240 to F245 are already logged and are consistent. Unlisted additions: the runner drinks in salt-road inns; the salt road is unwardened for fifty winters and illegal in nine places; Pinku watched from the tree. All are minor and harmless. Log them.",
+  "new_facts_assessment": "The four listed facts are necessary and consistent. The sentry knot plants S7 well, the runner detail pays off S2, and the salt road overlaps F224 but does not conflict. Several facts are unlisted. First, spent lie-cold cannot be detected by touch ('She had no lie on her now'), which is a significant rule extension that should be listed or cut. Second, the crate marks (a bell scored through the stamp, a left-handed scrape). Third, ten winters of drops via this middleman, which needs to square with Varun's timeline. Fourth, Kiran's badge 'until a night ago', which conflicts with Meera carrying it since ch24 (F221).",
   "content_rule_violation": false,
   "failure_modes": [
-    "Irrational behaviour to extend plot"
+    "Convenient magic",
+    "Worldbuilding collapse"
   ],
-  "average": 3.38,
+  "average": 3.5,
   "minimum": 0.0,
   "passed": false
 }
