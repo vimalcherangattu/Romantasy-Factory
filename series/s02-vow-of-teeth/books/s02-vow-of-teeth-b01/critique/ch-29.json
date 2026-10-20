@@ -1,41 +1,41 @@
 {
   "scores": {
     "reader_question": 4.0,
-    "change": 4.0,
+    "change": 5.0,
     "romance_movement": 4.0,
     "shown_chemistry": 4.0,
     "character_logic": 4.0,
     "stakes_and_cost": 4.0,
-    "prose": 3.0,
-    "continuity": 0.0
+    "prose": 4.0,
+    "continuity": 5.0
   },
   "reasons": {
-    "reader_question": "Ittan's 'whose hand I am' and his glance down the coast road leave a sharp, specific question about who sent him.",
-    "change": "Devan uses power openly and arrests a councillor. Ittan falls, Muthu's loyalty wavers, and the fort is sealed and cut off.",
-    "romance_movement": "She leaves the wall to stand beside him publicly, then signs her name on a crown writ. Both reasons are new, and both are costly.",
-    "shown_chemistry": "The umbrella, 'I know where the ribs are', the wound-share tug and her hand already in his are all shown through action.",
-    "character_logic": "Devan sets the trap with care and reasons through Muthu's hesitation. Ittan's passive submission is plausible but thin.",
-    "stakes_and_cost": "Her name on a crown record next to the word 'rogue', a council writ coming, and an unknown master beyond the wall.",
-    "prose": "Clean and concrete, but the token-logic and Muthu-cost paragraphs read as exposition. It also has clichés and a clove image echoed from ch28.",
-    "continuity": "Asha 'held it for a week... he had taken it back crossly' implies Devan held the warden's seal before his wardenship. That conflicts with the timeline and F401."
+    "reader_question": "'You've no idea whose hand I am' plus his glance down the coast road sharpens ch28's 'only a hand' into a specific, escalated gap.",
+    "change": "Ittan is arrested, proof is public, the pass is sealed on one seal, and Neela's name is on a crown record. Power, knowledge and status all shift.",
+    "romance_movement": "She chooses to stand beside him publicly and signs as his household. The reason is new, but her choice is more stated than earned on the page.",
+    "shown_chemistry": "Responsive beats land: sleeve touching sleeve, Janu's umbrella, 'I know where the ribs are', her fingers over his wrist binding.",
+    "character_logic": "The overnight guard on the chest and testing Muthu are smart. But Devan expects news at the palace 'within the week' just before sealing the road.",
+    "stakes_and_cost": "Her name on the writ gives the crown a rogue record, and his open arrest invites a council writ. Both costs are concrete and named.",
+    "prose": "Concrete and well paced. One self-contradiction ('quiet... every soldier heard'), the told 'between two loyalties', and a vague closing echo.",
+    "continuity": "Matches F424 token logic, F217/F222 Muthu test, F265/F275 wound-share and F389 writ clause, with no conflict against the bible."
   },
   "fixes": [
-    "'Asha had held it for a week once, as a joke, and he had taken it back crossly' is a continuity conflict. Devan became warden five years ago, a year after Asha died, so he could not have held the seal in her lifetime. Change the line to 'and their father had taken it back crossly', or cut Devan from the memory.",
-    "'In Kodiyur's terms she had refused once already' is an unsupported new fact and slips into Neela's head inside Devan's POV. It is also exposition that replaces action. Cut the paragraph. Let her single line ('It's yours to press. I'm only the one who stands here.') and the pen carry the choice, with Devan reading only her hands.",
-    "Rework four phrases. 'with the clove drifting after him' repeats ch28's 'the clove drifted off in his wake' (repeated image). Replace 'as a man looks at a road that forks', 'Rain on the tiles was the only answer' and the opaque 'one board in a floor' simile with concrete beats specific to Muthu, Bhaskaran and the court. Trim the 'He knew what reading it aloud would cost' paragraph to two sentences."
+    "At 'In a widow's hand, thirty-six open gates.' Devan explains the widow mechanism before Neela's slip and the writ clause. This deflates the beat-4 reveal (Answer-and-Escalate out of order). Cut the widow wording here. Let Bhaskaran ask 'Then what use are they?' and have Devan answer only 'Ask who could number them.' That saves 'widow' for the slip and writ.",
+    "At 'reach the palace in a grey-sealed letter before the week was out' and 'The council would hear of it within a month', Devan expects news to travel days or weeks out. Yet he seals a pass that shuts for four months that same morning. This is a logic slip. Change both lines to 'when the rains break' or 'in spring' so the cost is deferred, not contradicted.",
+    "At 'Now it sounded like the answer to a question he had not yet learned to ask', the echo is vague and inaccurate. In ch28 Devan already asked 'Who sends the Keeper?' Replace it with a concrete thought that ties his ch28 question to Ittan's glance down the coast road toward Kodiyur. Separately, change 'Neela's voice came quiet... every soldier heard it' to 'low, but the court had gone silent'."
   ],
-  "reader_question": "Whose hand is Ittan, and what will they do now that the pass has closed with the Keeper in a cell?",
+  "reader_question": "Whose hand was Ittan, and who down the coast road sent him to take Kettamala's seal?",
   "techniques_landed": [
     3,
-    24,
-    16
+    16,
+    24
   ],
-  "new_facts_assessment": "F424 is a necessary repair to the token logic, and it is consistent with F049 and F211. Retire F385, F390 and F273 so they do not contradict it. F425 is useful and fits Muthu's arc toward B2 ch28. F426 is fine on the location, but Neela's 'earlier refusal to put her word before the queen' has no on-page precedent in the facts. Either cut it or confirm that it happened in ch30 or ch31. Separately, 'go north' for Muthu's letter clashes with F297's 'for the south'. Pick one direction for Kodiyur.",
+  "new_facts_assessment": "F426 revision duplicates F427 already in continuity, so merge them, not add both. It is consistent: gate-chamber over the padippura, Neela signs 'of Kettamala', writ bound for Kodiyur. Unlisted additions (seal is an iron disc worn by eleven wardens, father wore it, Asha held it once) are small, consistent with F269, and harmless.",
   "content_rule_violation": false,
   "failure_modes": [
-    "Endless monologue"
+    "Irrational behaviour to extend plot"
   ],
-  "average": 3.38,
-  "minimum": 0.0,
-  "passed": false
+  "average": 4.25,
+  "minimum": 4.0,
+  "passed": true
 }

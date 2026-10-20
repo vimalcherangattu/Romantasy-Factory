@@ -1,41 +1,41 @@
 {
   "scores": {
     "reader_question": 4.0,
-    "change": 4.0,
+    "change": 5.0,
     "romance_movement": 4.0,
     "shown_chemistry": 4.0,
-    "character_logic": 3.0,
+    "character_logic": 4.0,
     "stakes_and_cost": 4.0,
-    "prose": 3.0,
-    "continuity": 0.0
+    "prose": 4.0,
+    "continuity": 5.0
   },
   "reasons": {
-    "reader_question": "The chapter ends on a specific question, 'Who sent Ittan?'. Ittan's 'You've no idea whose hand I am' and his glance past the wall feed it, and it echoes ch28's 'I am only a hand'.",
-    "change": "Power moves from Ittan to Devan. Devan uses authority openly for the first time in office. Neela's name goes onto a crown record. The fort is cut off for four months.",
-    "romance_movement": "The romance moves for a new reason. She chooses to be seen publicly as his wife, and she signs a crown writ at a real cost of rogue exposure. This is a step past the private trust built in ch27 and ch28.",
-    "shown_chemistry": "Chemistry is shown through response, not narration: the sleeve touch, Unni's salt-fish baskets, Janu's silent umbrella, 'I know where the ribs are', and the bangle pressed into his palm. The wound-share pull is used well.",
-    "character_logic": "Devan's handling of Muthu and of the slip is smart. But the new two-impression pass rule sits badly with Bhaskaran having passed a dot-and-split token at his gate (F049). The 36 blanks' purpose is explained by a rule invented on the spot.",
-    "stakes_and_cost": "Each step carries a named cost: the council's writ and rider, Neela's name matched against rogue odiyans, a prisoner who knows more, and four months sealed in.",
-    "prose": "The prose is mostly clean and concrete, with no banned phrases. Weaknesses: heavy simile density (board, fish in a basket, breath, thread, lamp, plaster, horses on a bridge); 'kept his voice level' followed shortly by 'kept his voice even'; 'rain' recurring in nearly every paragraph; and an expository block explaining the token scheme.",
-    "continuity": "Conflict: 'eight years of a warden' contradicts the bible, where Devan was made warden five years before book 1. Also, F383 has Devan keeping the slip since ch23, yet here Neela produces it and he reads it as new. And 'two lines' of writing contradicts the one-line strip in F195."
+    "reader_question": "'You've no idea whose hand I am' plus his glance down the coast road sharpens ch28's 'only a hand' into a specific, escalated gap.",
+    "change": "Ittan is arrested, proof is public, the pass is sealed on one seal, and Neela's name is on a crown record. Power, knowledge and status all shift.",
+    "romance_movement": "She chooses to stand beside him publicly and signs as his household. The reason is new, but her choice is more stated than earned on the page.",
+    "shown_chemistry": "Responsive beats land: sleeve touching sleeve, Janu's umbrella, 'I know where the ribs are', her fingers over his wrist binding.",
+    "character_logic": "The overnight guard on the chest and testing Muthu are smart. But Devan expects news at the palace 'within the week' just before sealing the road.",
+    "stakes_and_cost": "Her name on the writ gives the crown a rogue record, and his open arrest invites a council writ. Both costs are concrete and named.",
+    "prose": "Concrete and well paced. One self-contradiction ('quiet... every soldier heard'), the told 'between two loyalties', and a vague closing echo.",
+    "continuity": "Matches F424 token logic, F217/F222 Muthu test, F265/F275 wound-share and F389 writ clause, with no conflict against the bible."
   },
   "fixes": [
-    "In \"It was eight years of a warden who commanded patrols\": a continuity conflict with the bible, where Devan has been warden five years. Rewrite as \"It was eight years of a man who never struck first, and five of a warden who never once turned his power on anyone.\" Update the new-facts entry to match.",
-    "In \"Dot and split,\" Bhaskaran said. ... \"That's the one that went through my gate\": the two-impression rule was invented for this scene (Worldbuilding collapse), and it collides with F049. Have Bhaskaran add one line that reconciles them, e.g. \"I pressed our gate mark beside it myself. The wax was true.\" Then have Devan reason that the blanks were for passes no warden would ever stamp, which is why the widow mattered. That turns the expository paragraph into dialogue and closes the logic hole.",
-    "In \"She held it out to him, not to Ittan\": F383 has Devan keeping the slip inside his shirt since ch23, and F195 describes a one-line strip. Either show that he returned it to her ('the slip he had given back to her keeping, the night Muthu's rider went down') or have Devan produce it himself while Neela stands witness. Change \"two lines of cramped writing\" to \"one line\". Also cut the repeated \"kept his voice even\" in the Muthu exchange (use an action beat instead), and trim two of the similes in the arrest section."
+    "At 'In a widow's hand, thirty-six open gates.' Devan explains the widow mechanism before Neela's slip and the writ clause. This deflates the beat-4 reveal (Answer-and-Escalate out of order). Cut the widow wording here. Let Bhaskaran ask 'Then what use are they?' and have Devan answer only 'Ask who could number them.' That saves 'widow' for the slip and writ.",
+    "At 'reach the palace in a grey-sealed letter before the week was out' and 'The council would hear of it within a month', Devan expects news to travel days or weeks out. Yet he seals a pass that shuts for four months that same morning. This is a logic slip. Change both lines to 'when the rains break' or 'in spring' so the cost is deferred, not contradicted.",
+    "At 'Now it sounded like the answer to a question he had not yet learned to ask', the echo is vague and inaccurate. In ch28 Devan already asked 'Who sends the Keeper?' Replace it with a concrete thought that ties his ch28 question to Ittan's glance down the coast road toward Kodiyur. Separately, change 'Neela's voice came quiet... every soldier heard it' to 'low, but the court had gone silent'."
   ],
-  "reader_question": "Who sent Ittan up the mountain, and whose hand is he?",
+  "reader_question": "Whose hand was Ittan, and who down the coast road sent him to take Kettamala's seal?",
   "techniques_landed": [
     3,
     16,
     24
   ],
-  "new_facts_assessment": "Two-impression pass rule (F385): necessary to explain the 36 blanks, but introduced in this chapter only for this set piece. It strains against F049 and Bhaskaran's 'That's the one that went through my gate', unless the gate impression was pressed by the fort itself. Ittan counting on 'eight years' of unused power (F386): the emotional logic is good, but the phrasing ties it to wardenship, which conflicts with Devan's five years in office. The clerk's pry-bar attempt is necessary and consistent with F272. Black tacky resin-ink slip (F387): consistent with F195's resin-ink hand, but the object's custody conflicts with F383. Neela's name enabling a crown rogue match (F388): necessary and consistent with Rule 3 and the B2 hunt. Writ clause (F389): consistent with F092. Direction note: Ittan glances 'toward the north road' and Muthu's letter 'would go north', but Kodiyur lies down the pass on the coast and F297 says Muthu's letter is 'for the south'. If the north glance is a deliberate misdirection plant, list it as a clue. If not, align the direction.",
+  "new_facts_assessment": "F426 revision duplicates F427 already in continuity, so merge them, not add both. It is consistent: gate-chamber over the padippura, Neela signs 'of Kettamala', writ bound for Kodiyur. Unlisted additions (seal is an iron disc worn by eleven wardens, father wore it, Asha held it once) are small, consistent with F269, and harmless.",
   "content_rule_violation": false,
   "failure_modes": [
-    "Worldbuilding collapse"
+    "Irrational behaviour to extend plot"
   ],
-  "average": 3.25,
-  "minimum": 0.0,
-  "passed": false
+  "average": 4.25,
+  "minimum": 4.0,
+  "passed": true
 }
