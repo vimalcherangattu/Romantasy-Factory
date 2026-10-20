@@ -326,7 +326,7 @@
       ]
     },
     "16": {
-      "status": "revised",
+      "status": "passed",
       "revisions": 2,
       "scores": {
         "reader_question": 4.0,
@@ -335,10 +335,10 @@
         "shown_chemistry": 4.0,
         "character_logic": 4.0,
         "stakes_and_cost": 4.0,
-        "prose": 4.0,
+        "prose": 3.0,
         "continuity": 0.0
       },
-      "average": 3.5,
+      "average": 3.38,
       "flags": [
         "needs-owner"
       ],
@@ -1491,9 +1491,13 @@
     {
       "at": "2026-10-20T00:37:33",
       "event": "done: S6 revise ch 16"
+    },
+    {
+      "at": "2026-10-20T00:39:04",
+      "event": "done: S5 critique ch 16"
     }
   ],
-  "updated_at": "2026-10-20T00:37:33",
+  "updated_at": "2026-10-20T00:39:04",
   "midpoint_chapter": 16,
   "continuity_attempts": 2,
   "continuity_last_errors": 13

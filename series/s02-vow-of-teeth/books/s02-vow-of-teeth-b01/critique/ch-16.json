@@ -6,36 +6,35 @@
     "shown_chemistry": 4.0,
     "character_logic": 4.0,
     "stakes_and_cost": 4.0,
-    "prose": 4.0,
+    "prose": 3.0,
     "continuity": 0.0
   },
   "reasons": {
-    "reader_question": "The question is stated and specific (mercy or patience). The reader has just seen Devan's sincerity in his own POV, so for the reader it works as anomalous suspense: when will she believe it, and what will disbelief cost? It works, but it is not a true gap.",
-    "change": "Power changes for real. The bargain is withdrawn with no terms, the shutters are handed to her, and she runs her first deliberate trust experiment. Value shift master/captive to untrusted gift lands.",
-    "romance_movement": "The relationship moves for a new reason: a gift with no string, and her rational refusal of it. The closing doubt, though, reuses chapter 15's structure (hunter image, hitch, 'cannot tell X or Y'), which dulls the turn.",
-    "shown_chemistry": "Shown through responsive action. He turns his palms out, then feels foolish. She watches his mouth 'the way she'd watch a lock for the click.' The sword is set down hilt toward her. She feels 'so naked' while clothed. 'It won't be the worst thing I've wanted and not had.'",
-    "character_logic": "Her asymmetric-error reasoning is excellent and very in character. Devan's self-recognition through the courier letter is earned. One lapse: she 'now understood' the hitch meant a waking man, though she worked that out in chapter 15.",
-    "stakes_and_cost": "The cost of the experiment is named precisely: a second bare cup, Ammu coming asking, the ache's ledger. It is narrated as an inventory rather than felt on the page, and none of it is paid by the chapter's end.",
-    "prose": "Clean, concrete and quotable in places ('rang solid all the way through'). There are no banned phrases or AI tells and no em-dash excess. Weak spots: the reread runs as a checklist; 'One mistake' and 'One night' open consecutive paragraphs; the hunter image is recycled from the previous chapter.",
-    "continuity": "Conflict with chapters 4 and 5. The hounds are already kennelled in ch4 (F054, F056), and the sentry above the window is still pacing in ch4 (F052) and only pulled in ch5 (F064/F314). The draft says the hounds were kennelled 'after the sentry was pulled'. F282 (ch30) repeats the wrong order and needs correcting downstream."
+    "reader_question": "The beat's question, mercy or patience, is stated outright and then made sharper by a deadline: the cup is bare at grey and Ammu climbs the spur by noon.",
+    "change": "Power changes hands for real. Devan gives up the bargain with no terms, and Neela moves from refusing him to running a deliberate test of him.",
+    "romance_movement": "The reason is new. He names his own offer as the guild's leash and withdraws it, and her distrust is rational and costs her the report. This is not a replay of ch15's refusal.",
+    "shown_chemistry": "Chemistry comes through responsive action, not narration: the hilt laid toward her, the shutters left to her, 'It won't be the worst thing I've wanted and not had', and the breath he lets her count.",
+    "character_logic": "Devan's self-recognition comes from a planted memory (border school, F143). Neela weighs two mistakes like a professional and states the cost of skipping resin before she pays it.",
+    "stakes_and_cost": "Skipping resin costs her the stone report, a second refusal logged by the watcher, Ammu's visit and a night against the ache. All of it is named.",
+    "prose": "The prose is mostly clean, concrete and free of banned phrases, but it has slips. Neela's narration says 'leopard' twice, which breaks her voice rule. The breath passage contradicts itself. 'The hounds first.' comes after the shutters. 'Twenty-seven years' sits oddly against 21 years in the guild.",
+    "continuity": "'She had missed it once already, the night of his fever' conflicts with F372. In ch14 she knowingly skipped the stone a second night for the narrows, so tonight's bare cup is the third, not the second."
   },
   "fixes": [
-    "Continuity. At 'The sentry above the window had been pulled a few nights on. Then the hounds.' and 'kennelled in the first week, after the sentry was pulled', the order contradicts ch4/ch5 (hounds already kennelled in ch4, sentry pulled in ch5). Reverse it: the hounds kennelled within the first nights, then the sentry pulled. For example: 'The hounds first: fourteen of them... kennelled before the week was out. Then the sentry above the window.' Flag F282 for the same correction.",
-    "Repetitive tension. 'She had spent twenty days calling it chance.' replays a discovery Neela already made in chapter 15, and the hunter paragraph ('A hunter doesn't strike the first time he sees the deer') recycles chapter 15's 'A hunter knew that' image and its closing cadence. Make the hitch beat new information: tonight, with no resin on her, the hitch stops, or he lets it come deliberately and evenly so she can count him. Recast the hunter as something specific to her guild life (for example how Chathu gentled a new intake with sweets), so her doubt has a stronger reason, not the same one.",
-    "Ending lacks a story-caused hook (chapter checklist 5). At 'When she finally slept, it was human, with her back to him', the chapter closes on rest while the cost she named sits unpaid mid-chapter. End on the bill coming due. Before sleep takes her, she counts the hours to grey, when the pass-village watcher walks the hill edge and finds no fresh mark of hers (F301): a second refusal written down, the cup bare again, and Ammu's next move now certain. Keep it to two or three lines so the quiet image still closes the scene."
+    "Continuity, at 'She had missed it once already, the night of his fever': this contradicts F372, where she also skipped the stone in ch14 to hunt the narrows. Rewrite to 'She had missed it twice already, the fever night and the night of the narrows', and change 'A second bare cup' to 'A third bare cup'. Keep the watcher's 'second refusal' as it stands, since ch11 was a human night.",
+    "Character voice, at 'because with no resin on her there would be no leopard to cage' and 'No resin meant no leopard on the second spur': Neela never says or thinks the word and calls her night-self 'the other one'. Replace both with 'no other one to cage' and 'no other one on the second spur'. Her refusal to name it is a character trait, and in this chapter it is also the whole theme.",
+    "Prose clarity, at 'he was holding it clean for her, with no cover left': the passage says he keeps his breath unnaturally smooth, then that he lets the hitch come so she can count him, and it never explains why the hitch proves he is awake. State the logic in one sentence, for example: 'The hitch had never been sleep. It had been him, all twenty nights, and now he was giving it to her on purpose.' Then cut 'with no cover left to hide behind'. While here, change 'for twenty-seven years' to 'for twenty-one years' to match 'owned for twenty-one years' in ch15."
   ],
-  "reader_question": "Is Devan's unconditional gift of silence mercy, or a hunter's patience, and what will Neela's refusal to trust it cost her with Ammu and the guild?",
+  "reader_question": "Is Devan's unconditional gift true mercy, or Chathu's patient craft saving the word for the dusk she is most useful caged?",
   "techniques_landed": [
     17,
     12,
-    20
+    20,
+    3
   ],
-  "new_facts_assessment": "The draft's new-facts list is empty, but the chapter adds facts already logged as F143, F144, F145, F322, F323 and F324. These are the border-school courier letter, the west-stair vow, the nineteen nights and the ache due in nine or ten days, Janu as the source of the damp-madness theory, the dusk itch on a resin-free night, and the sword set down again. It also adds unlogged details: Gopan laying wagers, Devan's exact words 'I'm tired of leopards, Janu', and Devan being twenty in his second school year. The empty list is a process failure that the reviser must fix. On substance: the courier letter and the stair vow are necessary and strong; they motivate the withdrawal and prepare Devan's arc. The ache 'nine or ten days off' is thinly justified against Rule 1 (a full moon without resin) given how few nights she has skipped; one clause tying the count to skipped or rationed nights would close it. The hound/sentry ordering is inconsistent (see continuity). Everything else agrees with the bible and the fact sheet.",
+  "new_facts_assessment": "F374 (Chathu's gentle grooming) is necessary and consistent. It builds on the jaggery-sesame sweets (F080, F234) and gives Neela a rational basis for the misreading the bible requires. F375 (the deliberate hitch) is a strong link to F083 and F277. As written, though, it implies Devan knows she counts his breath before she tells him in ch19 (F165); that is acceptable, but the prose needs to make the mechanism clear. F376 agrees with F145 on the ache, but its premise that this is only the second bare cup conflicts with F372 and must be corrected. F377 needs checking: 'hounds kennelled from the second night' puts the shutters and the hounds on the same night, while F048 dates the kennelling to ch4 and F344 sequences the hounds after the shutters; 'from the first days' would be safer. F378 legitimately replaces this chapter's own earlier F322. It quietly drops F103's 'Janu's old tale' theory, which is tolerable because 'shyness' reads as the privacy theory.",
   "content_rule_violation": false,
-  "failure_modes": [
-    "Repetitive tension"
-  ],
-  "average": 3.5,
+  "failure_modes": [],
+  "average": 3.38,
   "minimum": 0.0,
   "passed": false
 }
