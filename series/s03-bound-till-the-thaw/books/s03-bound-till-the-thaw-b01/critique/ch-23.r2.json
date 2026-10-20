@@ -1,0 +1,41 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 3.0,
+    "stakes_and_cost": 4.0,
+    "prose": 4.0,
+    "continuity": 0.0
+  },
+  "reasons": {
+    "reader_question": "Sharp and specific: who sent the unanswered three-and-tail cord, is it bait for Rohan, and will the new grove promise break him?",
+    "change": "Knowledge (a buyer's signal distinct from crew), relationship (her door narrows), and power (Rohan stakes his post and binds himself again).",
+    "romance_movement": "New reasons: he offers his career as honest intent, while her hidden badge makes her withdraw. The distance he feels is earned, not recycled.",
+    "shown_chemistry": "Her doubled-over laugh, her hand on his bare wrist, and his choice not to reach after it all carry attraction without narration.",
+    "character_logic": "He refuses an unguaranteeable promise on principle, then volunteers one at dusk he expects to break. The letter also reveals his route to the road the regent holds.",
+    "stakes_and_cost": "Lost day, career on the petition, possible trap, and a vow that could strike like a great lie. Each choice has a named price.",
+    "prose": "Clean, concrete and readable, with good short lines. A few told beats ('It was the right word', door image) and a slightly long weighing paragraph.",
+    "continuity": "'I carry what you know the name of' implies Ila knows of the seal, but F058/F147 say only Varun and the queen knew. Two-versus-three-winters mismatch on the buyer."
+  },
+  "fixes": [
+    "'I carry what you know the name of.' Continuity conflict: Ila cannot know about the seal (F058, F147). Change it to something she can't decode, such as 'I carry my errand still.' Cut the line giving his Fair-morning arrival, or have him decide not to send the letter, since the regent's men hold the road.",
+    "'I will not interrupt you, and I will not ask afterwards' is irrational. He refused an unguaranteeable promise hours earlier. Make the cost chosen: Meera asks for a promise, he names aloud the vow it could collide with, and he gives it anyway. Or let him phrase it 'I intend' and have her ask him to swear.",
+    "'The cord had hung on lower-lane latches for three winters' contradicts Nimmi's 'last winter and the one before'. Align both to two winters, matching F205 and the file's 'twice found', and revise F212 to match."
+  ],
+  "reader_question": "Who is the masked buyer behind the never-answered three-and-tail cord, is it a trap for Rohan, and what will his grove promise cost him?",
+  "techniques_landed": [
+    9,
+    22,
+    23
+  ],
+  "new_facts_assessment": "F212 is needed and consistent. F214 fits the twenty-three untreated and the doses. F213 is strong cost setup but contradicts F210 ('a promise he can guarantee'), so retire F210. F212's 'three winters' clashes with F205's two winters of buying; pick one.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Irrational behaviour to extend plot"
+  ],
+  "average": 3.38,
+  "minimum": 0.0,
+  "passed": false
+}

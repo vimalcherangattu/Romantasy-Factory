@@ -6,37 +6,36 @@
     "shown_chemistry": 4.0,
     "character_logic": 3.0,
     "stakes_and_cost": 4.0,
-    "prose": 3.0,
+    "prose": 4.0,
     "continuity": 0.0
   },
   "reasons": {
-    "reader_question": "The unknown three-and-tail cord, never answered in the files, sharpens 'who is the buyer and what does he want' into a concrete moonrise meeting.",
-    "change": "Rohan stakes his career on a petition, binds himself not to interrupt or ask, and the buyer reaches out. Knowledge and power both shift.",
-    "romance_movement": "The petition and the grove promise are new. But the opening 'keep the rule when it suits him' beat replays chapter 22 almost line for line.",
-    "shown_chemistry": "Her doubled-over laugh at 'sleeves', her hand on his bare wrist and his choice not to reach after it are all responsive action.",
-    "character_logic": "A careful warden who carries the seal days from the Fair agrees to answer a never-answered signal with no thought of a regent trap.",
-    "stakes_and_cost": "The petition risks his post. The grove promise ties his hands against his chapter 16 vow not to let her fall, which is a real cost ledger.",
-    "prose": "Mostly clean and concrete. One POV slip into Meera's knowledge, stacked similes (door after winter, cracked jug), and an echoed chapter 22 line.",
-    "continuity": "'The first night in the hut, when she had taken his cold' conflicts with F087: the loophole was taken on the pitch above the waystone, in chapter 6."
+    "reader_question": "Sharp and specific: who sent the unanswered three-and-tail cord, is it bait for Rohan, and will the new grove promise break him?",
+    "change": "Knowledge (a buyer's signal distinct from crew), relationship (her door narrows), and power (Rohan stakes his post and binds himself again).",
+    "romance_movement": "New reasons: he offers his career as honest intent, while her hidden badge makes her withdraw. The distance he feels is earned, not recycled.",
+    "shown_chemistry": "Her doubled-over laugh, her hand on his bare wrist, and his choice not to reach after it all carry attraction without narration.",
+    "character_logic": "He refuses an unguaranteeable promise on principle, then volunteers one at dusk he expects to break. The letter also reveals his route to the road the regent holds.",
+    "stakes_and_cost": "Lost day, career on the petition, possible trap, and a vow that could strike like a great lie. Each choice has a named price.",
+    "prose": "Clean, concrete and readable, with good short lines. A few told beats ('It was the right word', door image) and a slightly long weighing paragraph.",
+    "continuity": "'I carry what you know the name of' implies Ila knows of the seal, but F058/F147 say only Varun and the queen knew. Two-versus-three-winters mismatch on the buyer."
   },
   "fixes": [
-    "At 'A man bound to silence while she carried her brother's name', the narration slips out of Rohan's POV and states Meera's knowledge. It also contradicts 'He had a notion about it.' Rewrite this from Rohan's outside: he sees her hand go to her coat and her face close, and reads only that his promise weighed more than he meant. He must not narrate what she knows.",
-    "At 'as he had noticed the first night in the hut, when she had taken his cold', this is a continuity error. She took his lie-cold in chapter 6, on the pitch above the waystone at first light (F087), before the Rope-Hut. Change the line to 'as he had noticed on the pitch above the waystone, when she had taken his cold'.",
-    "At 'Then we go to the grove,' he said, the plot-driven agreement goes unexamined. Add two or three lines in which Rohan weighs that the cord was never answered and might be the regent's bait for a man in grey. Show that his promise not to interrupt now cuts against his vow not to let her fall, so he makes it knowing what it costs. Also cut 'A man who kept the rule only when it suited him', which echoes chapter 22."
+    "'I carry what you know the name of.' Continuity conflict: Ila cannot know about the seal (F058, F147). Change it to something she can't decode, such as 'I carry my errand still.' Cut the line giving his Fair-morning arrival, or have him decide not to send the letter, since the regent's men hold the road.",
+    "'I will not interrupt you, and I will not ask afterwards' is irrational. He refused an unguaranteeable promise hours earlier. Make the cost chosen: Meera asks for a promise, he names aloud the vow it could collide with, and he gives it anyway. Or let him phrase it 'I intend' and have her ask him to swear.",
+    "'The cord had hung on lower-lane latches for three winters' contradicts Nimmi's 'last winter and the one before'. Align both to two winters, matching F205 and the file's 'twice found', and revise F212 to match."
   ],
-  "reader_question": "Who is the masked buyer behind the three-knotted cord, and what will he demand of Meera at the grove tonight while Rohan is sworn not to interrupt?",
+  "reader_question": "Who is the masked buyer behind the never-answered three-and-tail cord, is it a trap for Rohan, and what will his grove promise cost him?",
   "techniques_landed": [
     9,
     22,
     23
   ],
-  "new_facts_assessment": "The draft's IDs collide. F204 and F206 are reused while continuity.json already logs these revisions as F207 to F211; renumber them. The facts are consistent and useful. The F208 grove promise is load-bearing and must be tracked through chapters 24 to 26. The 'moonrise' time is stated but not sourced or logged. 'Four doses' for three named patients is unclear.",
+  "new_facts_assessment": "F212 is needed and consistent. F214 fits the twenty-three untreated and the doses. F213 is strong cost setup but contradicts F210 ('a promise he can guarantee'), so retire F210. F212's 'three winters' clashes with F205's two winters of buying; pick one.",
   "content_rule_violation": false,
   "failure_modes": [
-    "Repetitive tension",
     "Irrational behaviour to extend plot"
   ],
-  "average": 3.25,
+  "average": 3.38,
   "minimum": 0.0,
   "passed": false
 }
