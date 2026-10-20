@@ -1,0 +1,41 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 3.0,
+    "stakes_and_cost": 4.0,
+    "prose": 4.0,
+    "continuity": 0.0
+  },
+  "reasons": {
+    "reader_question": "The one question is named and sharp, but showing Rohan doing the ear 'sum' blurs whether he will even need to ask.",
+    "change": "Meera moves from ignorance to complicit knowledge, and Rohan visibly chooses not to probe. The power shifts quietly to her.",
+    "romance_movement": "There is a new reason: she now holds a secret about his own wound, and his kindness makes it worse. The shame at her warm hands lands.",
+    "shown_chemistry": "'Is he warm?', forehead to chest and the sleeping thumb are responsive and specific. Chemistry is not narrated.",
+    "character_logic": "Meera refuses to promise, then says 'I won't tell him', which is a promise in all but name. Rohan reading the ear outright weakens the beat.",
+    "stakes_and_cost": "The deodar pegs, Hakam's fingers and the great-lie rule make the future question cost flesh or her brother's neck.",
+    "prose": "Concrete and well varied, with a strong Kiran voice. The final interior runs slightly long, and 'the sum' or 'plain arithmetic' imagery repeats.",
+    "continuity": "'The Fair three days off' conflicts with F192. After the one conceded day the Fair is two days off. 'Written I do not know' misstates ch21."
+  },
+  "fixes": [
+    "Fix the continuity error in 'with Kiran barely mended and the Fair three days off'. Per F192 they leave at tomorrow's first light, so change this to 'the Fair two days off'. Also change 'had he a thing he must do before the thaw' to 'before the Fair', since the Fair is the deadline that presses now.",
+    "Fix the character-logic slip in 'I won't tell him. I won't say anything he hasn't the right'. She has just refused to promise, so this line is a promise in disguise. Recast it as a stated present choice that binds nothing, such as 'I'm not going in there tonight. I'm not saying I never will.' Have Kiran notice the difference, and have her register that she chose the wording to keep the mountain out of it.",
+    "Weaken 'She watched the sum come up behind his face' so the dramatic irony and the closing 'He did not have the name yet' hold. Keep his eyes on the ear one breath too long, then make Meera unable to tell whether he connected it. Her fear is that he might have. Separately, change 'written *I do not know what I will do*' to 'said', because he spoke that line in ch21."
+  ],
+  "reader_question": "When Rohan finally asks 'Was Kiran on Dilan's rope?', will Meera lie and pay in flesh, or tell the truth and hang her brother?",
+  "techniques_landed": [
+    2,
+    3,
+    13
+  ],
+  "new_facts_assessment": "F200 is a necessary and consistent revision of F197. Binding at the waystone fits F078 and F081, though the text should call the waystone a jogini cairn so Rule 1 holds. F201 is risky: if Rohan does the ear sum on the page, the 'reader knows seven chapters first' irony erodes before ch26 and ch29. Keep it ambiguous. F202 is a necessary retcon; verify that the ch9 to ch15 drafts allow a hut telling of Dilan's name and the vow.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Irrational behaviour to extend plot"
+  ],
+  "average": 3.38,
+  "minimum": 0.0,
+  "passed": false
+}

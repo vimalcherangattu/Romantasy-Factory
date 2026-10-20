@@ -10,32 +10,30 @@
     "continuity": 0.0
   },
   "reasons": {
-    "reader_question": "The question is clear and specific, but the last line states it outright instead of leaving the reader to arrive at it.",
-    "change": "Knowledge flips hard. Meera now holds S1, has a new duty of silence to Kiran, and her secret now runs on a clock.",
-    "romance_movement": "New reason: Rohan's chosen restraint makes her silence feel like betrayal. Their intimacy now carries a secret about his own wound.",
-    "shown_chemistry": "\"Is he warm?\", his hand on her back and the sleeping thumb on her hip all show responsive care without narration.",
-    "character_logic": "Rohan holds the ear-rim report and sees Kiran bolt, yet shows no flicker of suspicion. He also claims Meera's silence rule as his own.",
-    "stakes_and_cost": "Both outcomes are costed: speaking hangs Kiran, lying costs her hand. Her refusal to promise follows the world rules.",
-    "prose": "Concrete and well paced. The 'Silence is free' motif is overused, and the closing question passage is muddled and runs long.",
-    "continuity": "Kiran crosses alone in winter and survives, which breaks Rule 1. Also 'three winters of searching' should be two, and 'Jassi's tree' is wrong."
+    "reader_question": "The one question is named and sharp, but showing Rohan doing the ear 'sum' blurs whether he will even need to ask.",
+    "change": "Meera moves from ignorance to complicit knowledge, and Rohan visibly chooses not to probe. The power shifts quietly to her.",
+    "romance_movement": "There is a new reason: she now holds a secret about his own wound, and his kindness makes it worse. The shame at her warm hands lands.",
+    "shown_chemistry": "'Is he warm?', forehead to chest and the sleeping thumb are responsive and specific. Chemistry is not narrated.",
+    "character_logic": "Meera refuses to promise, then says 'I won't tell him', which is a promise in all but name. Rohan reading the ear outright weakens the beat.",
+    "stakes_and_cost": "The deodar pegs, Hakam's fingers and the great-lie rule make the future question cost flesh or her brother's neck.",
+    "prose": "Concrete and well varied, with a strong Kiran voice. The final interior runs slightly long, and 'the sum' or 'plain arithmetic' imagery repeats.",
+    "continuity": "'The Fair three days off' conflicts with F192. After the one conceded day the Fair is two days off. 'Written I do not know' misstates ch21."
   },
   "fixes": [
-    "Worldbuilding collapse at \"I had four loads of salt for the Dev people, and I'd gone up alone.\" Rule 1 says a lone winter crosser loses the path and dies. Make the crossing obey the rule. For example, Dilan binds them properly at the waystone, so 'so I couldn't run' becomes literal. Then have Kiran survive because dawn finds him off the closed pass, on the road ice below the third bend.",
-    "Fix three continuity slips. In \"Eleven wardens, a vow, three winters of searching\", Dilan died two winters ago, so change to two. In \"I'm only afraid of Jassi's tree\", Jassi died in the avalanche, so use \"the deodar at the gate\". In \"Silence is free. I made that rule myself\", the rule is Meera's and the mountain's, so change to \"You made that rule in the hut. I keep it.\"",
-    "Character logic and monologue in \"That one she could answer, and live. Yes.\" Saying yes ends Kiran, so the logic contradicts itself. Cut the list of questions to two lines and go straight to 'Was Kiran on Dilan's rope?'. Earlier, at the storehouse door, add one beat where Rohan's eyes go to the ruined ear before he lays the question down. That way his restraint reads as a choice, not as blindness."
+    "Fix the continuity error in 'with Kiran barely mended and the Fair three days off'. Per F192 they leave at tomorrow's first light, so change this to 'the Fair two days off'. Also change 'had he a thing he must do before the thaw' to 'before the Fair', since the Fair is the deadline that presses now.",
+    "Fix the character-logic slip in 'I won't tell him. I won't say anything he hasn't the right'. She has just refused to promise, so this line is a promise in disguise. Recast it as a stated present choice that binds nothing, such as 'I'm not going in there tonight. I'm not saying I never will.' Have Kiran notice the difference, and have her register that she chose the wording to keep the mountain out of it.",
+    "Weaken 'She watched the sum come up behind his face' so the dramatic irony and the closing 'He did not have the name yet' hold. Keep his eyes on the ear one breath too long, then make Meera unable to tell whether he connected it. Her fear is that he might have. Separately, change 'written *I do not know what I will do*' to 'said', because he spoke that line in ch21."
   ],
-  "reader_question": "When Rohan finally asks whether Kiran was on Dilan's rope, will Meera tell the truth and hang her brother, or lie and lose her hand?",
+  "reader_question": "When Rohan finally asks 'Was Kiran on Dilan's rope?', will Meera lie and pay in flesh, or tell the truth and hang her brother?",
   "techniques_landed": [
     2,
     3,
     13
   ],
-  "new_facts_assessment": "The woodpile placement and the DIL scratch are useful and consistent. The F063 ear-tearing payoff is excellent. F197's lone storm crossing breaks the rule that lone winter crossers die, so revise it. F198 needs Meera to have seen the rope end; ch9 was private, so cite a later telling. F199 is a sound application of the promise rule.",
+  "new_facts_assessment": "F200 is a necessary and consistent revision of F197. Binding at the waystone fits F078 and F081, though the text should call the waystone a jogini cairn so Rule 1 holds. F201 is risky: if Rohan does the ear sum on the page, the 'reader knows seven chapters first' irony erodes before ch26 and ch29. Keep it ambiguous. F202 is a necessary retcon; verify that the ch9 to ch15 drafts allow a hut telling of Dilan's name and the vow.",
   "content_rule_violation": false,
   "failure_modes": [
-    "Worldbuilding collapse",
-    "Irrational behaviour to extend plot",
-    "Endless monologue"
+    "Irrational behaviour to extend plot"
   ],
   "average": 3.38,
   "minimum": 0.0,
