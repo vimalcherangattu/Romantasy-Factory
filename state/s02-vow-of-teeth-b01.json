@@ -3,7 +3,7 @@
   "series_id": "s02-vow-of-teeth",
   "number": 1,
   "title": "Vow of Teeth",
-  "status": "in_progress",
+  "status": "revising",
   "stage": "S3",
   "done": [
     "S3",
@@ -1070,7 +1070,7 @@
     "3 major continuity errors remain after 1 fix round(s): ch 5: Devan never lies to Neela (bible fixed trait). In ch5 he tells her 'I have to see Bhaskaran about the gate', and the narration then says 'It was not true.'; ch 8: Devan gives Neela 'Oil' as his reason for sending Raiu away, and the narration flatly says 'It did not save oil.' That makes the answer a lie to Neela, which breaks his fixed trait. It should read as a true but evasive answer, like 'Rain'.; ch 32: Ch32 says Devan locked the palace gift away because he distrusted the council and 'never once thought to distrust the gift'. In ch6 he says aloud 'I don't trust gifts from the palace', bans the set from their chamber, and keeps the queen's seal in his sleeve.",
     "2 major continuity errors remain after 3 fix round(s): ch 23: Devan twice refuses to tell Neela how Asha died (ch12, ch17), and the bible holds back the west-stair link until book 2. In ch23 he tells her outright that Asha was 'dead on the west stair'. Neela already knows she kept watch on a hill-fort stair six years ago where a young woman died, so she could not plausibly fail to react, and the series secret breaks early.; ch 32: In ch6 Devan says plainly 'I don't trust gifts from the palace', locks the betel set in the granary and keeps the queen's seal. In ch32 he recalls locking it away because he distrusted the council and says he never thought to distrust the gift. This contradicts the shared distrust of the palace set up in ch6."
   ],
-  "revision_round": 0,
+  "revision_round": 1,
   "asin": null,
   "created_at": "2026-10-19T17:42:11",
   "review_at": null,
@@ -2176,9 +2176,13 @@
     {
       "at": "2026-10-20T08:10:01",
       "event": "done: S10 package"
+    },
+    {
+      "at": "2026-10-20T08:11:37",
+      "event": "done: beta read"
     }
   ],
-  "updated_at": "2026-10-20T08:10:01",
+  "updated_at": "2026-10-20T08:11:37",
   "midpoint_chapter": 16,
   "continuity_attempts": 3,
   "continuity_last_errors": 2,
@@ -2194,5 +2198,13 @@
       "interior": "interior.pdf"
     },
     "cover": "missing: generate art from cover-prompt.md, then run `factory cover`"
-  }
+  },
+  "beta": {
+    "verdict": "revise",
+    "predicted_rating": 4.2,
+    "summary": "The opening two chapters are a genuine hook, and the midpoint's 'the hitch had never been sleep' is the best romance beat I read. The back end slips into clue-explaining Q&A, ownership language that undercuts Devan's arc, and a few logic snags, all fixable in one pass.",
+    "notes": "series/s02-vow-of-teeth/books/s02-vow-of-teeth-b01/beta-notes-1.md"
+  },
+  "beta_rounds": 1,
+  "pending_owner_notes": "/home/user/Romantasy-Factory/series/s02-vow-of-teeth/books/s02-vow-of-teeth-b01/beta-notes-1.md"
 }

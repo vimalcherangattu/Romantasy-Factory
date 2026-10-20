@@ -1,0 +1,35 @@
+## Keep
+
+- **Chapter 1 sells the book.** The four exits, the bangle closed over the scar, and the sword laid "hilt toward her hand" with "I sleep badly." Raiu's name and "How long did it take you to learn it?" do character, banter and plot in four lines. I'd have kept reading at the last line, "Her spine began to bend," and so would anyone who bought on the blurb. Both ages (32, 27) are stated early.
+- **Chapter 2 is the strongest chapter in the sample.** The turning is written as "the most private thing he had ever seen. He did not look away. That was the job, and it was also the crime." Holding the third slat silent with his palm "as he would on a horse's neck" is chemistry shown through action. So is "Rice and plantains... I'm hungry." The lie to Janu, from a man who never lies, is a good first crack.
+- **The ch 16 ending is the felt-chemistry moment of the book.** "The hitch had never been sleep. It had been him, all twenty nights, and now he was giving it to her on purpose, so she could count him." This pays off ch 1's breath-count, and it is disclosure through action. Her rational refusal to trust ("The first mistake ended her. The other only hurt") makes the midpoint a values problem, not a misunderstanding.
+- **The withdrawal speech in ch 16** ("I can't unwitness myself. I can only tell you I won't, and let you watch whether I do") is the right kind of declaration: specific, costly, testable.
+- **Ch 30 callbacks land.** "I'm not counting the door." / "Six." Also "Say it again, so I can check." / "It holds." The tooth drawing blood on both thumbs is a good unannounced way to show the wound-share.
+- **Ch 31.** Muthu's "I'll write the weather" and Neela's "Then write my name spelled right" is the best supporting-cast beat. The leopard's head pushed into his hand after "Not the cat. Neela." works. The dawn scene changes the relationship, because she lets him see the return for the first time, and she leads it. That earns its place under the content rules.
+- **Ch 32 is a clean series hinge.** It answers the book's question, puts the queen's sunbird seal beside the gift seal, hides the evidence behind the creaking slat, and ends on "Then I'll come." Ittan's letter about his wife's willow bark keeps him from being a strawman.
+
+## Fix
+
+1. **Ch 16, Neela's reread is a clue checklist.** The run from "The shutters had gone up barred..." to "She had never once asked who told Janu" walks C01–C05 in order like an evidence log. Lines such as "Bhaskaran's lads called it privacy, Gopan called it Janu's old tale, Janu called it the damp, and Chinna ran a wager on it" are recap, not discovery. Cut it by half. Let one or two items land physically: she lifts the unused bar, or she hears the kennels quiet below. Let the rest arrive as a quick cascade. The section is the main reason this chapter scored 3.5. The Chathu-and-the-sweets paragraph is the part to keep at full length.
+
+2. **Ch 30 re-explains what ch 16 already revealed.** The shutters, hounds, sentry and Janu's stories are listed a second time ("The second dusk I barred them. The hounds went to the kennel that same night..."). The reader solved this at the midpoint. Keep only what's new: that he decided before he picked up the bar, and why. Spend the saved words on the trust moment at the skull, which is the real payoff.
+
+3. **Ownership language leaks into Devan's lines and undercuts his arc (ch 30, ch 32).** His whole change is "I don't want to own anyone." Yet in ch 30 he says "I wanted the thing to stay mine to hold, and no one else's," and in ch 32 "You were never a line. You were the wife I kept." "The wife I kept" is the line that doesn't work. It's a stock comfort line, and it contradicts him in a book about leashes. Neela's reply, "Don't be kind. I can't think when you're kind," is also stock. Replace both with his exactness, the register he uses everywhere else. Ch 31's "It's yours. I'm only holding it" is the model.
+
+4. **Ch 30 has unclear lines that pull a reader out.** "You've just watched me sign a crown writ": what writ? In ch 23 she refused to testify before the crown, so if she signed something in ch 29, state it here in one clause and own it as a change. Otherwise cut the line. Also "Neela is the name I have for you," "I wrote it with your name beside mine," and "You've bled on me before I've had my supper" read as half-formed. Make each concrete or cut it.
+
+5. **Ch 31, the Ittan interruption is muddled.** "A man who offers at night can take it back by noon" and "He had waited all that time to be caught" don't parse. Make the cost plain: Ittan may change his mind, so the first word is now or never, and she chooses the hour anyway. Then ch 32's grille scene reads as the price of that choice.
+
+6. **Ch 31–32, the packet logistics don't hold.** In ch 31 Muthu carries the grey packet into the guardroom. In ch 32 Devan "had taken the grey packet out of the guardroom himself" and locked it in the strongbox, while wanting Muthu "to go on believing he was not" read. Muthu would know his packet left the guardroom. Then Devan sends Muthu to the Resin House anyway. Add one line that closes the gap. Either Ittan refused the packet and Muthu left it for the spring rider, or Devan openly takes custody "for the rider" so Muthu thinks it's routine. The hinge depends on Muthu feeling unread.
+
+7. **Ch 31, the vow's title-drop.** "My promises have teeth in them. I'll keep them with those" is the one line a reviewer would quote as cheesy. Either cut it, or make it a private joke he answers. The naming of Raiu, Ammu and the living household already carries the vow.
+
+8. **Small consistency checks across the sample.** "Twenty years" (ch 30, ch 31 dialogue) vs "twenty-one of my twenty-seven years" (ch 16, ch 31 vow): pick one. Ch 31 says the resin "burned her for eleven years" while she has hidden turning "since I was sixteen"; that's consistent, but make sure ch 16's twenty-one-year count is about the guild intake, not the resin. Asha is "his second at the fort" in the outline and his sister in ch 16, ch 30 and the blurb. Ch 2 never says sister. Add it there so ch 16's "his sister's blood" isn't the first time a reader learns it.
+
+## Blurb
+
+- It promises the book I read. The arranged marriage, assassin bride, his silence and the word-cage rule are all on the page. Heat ("open-door", two explicit scenes, slow burn to a ch 19 kiss) and darkness (named deaths, caged sisters, no cruelty from him toward her) match.
+- Add **forced proximity**. One bed, one window, forty days is the book's engine, and it's a searched tag. Consider "he falls first" too, since ch 2 earns it.
+- Cut one proper noun for a first read: drop "Kettamala" or "of the Resin House" from paragraph two. Neela, Devan, Chathu, the Resin House and Kettamala are a lot for 150 words.
+- Romance-first readers will want a hint of a complete arc. A phrase like "a complete romance in a dark series" would reassure them without spoiling the remarriage.
+- "His sister died under contract" is fine, but only once fix 8 puts "sister" in ch 2.
