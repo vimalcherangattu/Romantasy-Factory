@@ -1065,7 +1065,7 @@
       ]
     },
     "32": {
-      "status": "passed",
+      "status": "edited",
       "revisions": 1,
       "scores": {
         "reader_question": 4.0,
@@ -1079,18 +1079,18 @@
       },
       "average": 3.88,
       "flags": [],
-      "words": 2736,
+      "words": 2744,
       "minimum": 3.0,
       "style": {
-        "words": 2443,
+        "words": 2744,
         "banned_hits": {},
         "ai_tell_hits": {},
         "ai_tells_per_1000": 0.0,
-        "top_4gram": "locked it in the",
+        "top_4gram": "with the rest of",
         "top_4gram_count": 2,
-        "longest_paragraph_words": 88,
+        "longest_paragraph_words": 90,
         "em_dashes_per_1000": 0.0,
-        "reading_ease": 93.8
+        "reading_ease": 94.3
       },
       "owner_instructions": [
         "'You were never a line. You were the wife I kept.' is a stock comfort line, and 'the wife I kept' contradicts his arc in a book about leashes. Replace it with his exactness and no possessive framing. For example: 'You were never a line. You were the one thing on that list I didn't have to guess at.' Or, closer to ch 31's model: 'You were never a line. You were the person I was holding it for.'",
@@ -2373,9 +2373,13 @@
     {
       "at": "2026-10-20T09:06:49",
       "event": "done: S8 line edit ch 31"
+    },
+    {
+      "at": "2026-10-20T09:07:23",
+      "event": "done: S8 line edit ch 32"
     }
   ],
-  "updated_at": "2026-10-20T09:06:49",
+  "updated_at": "2026-10-20T09:07:23",
   "midpoint_chapter": 16,
   "continuity_attempts": 1,
   "continuity_last_errors": 1,
