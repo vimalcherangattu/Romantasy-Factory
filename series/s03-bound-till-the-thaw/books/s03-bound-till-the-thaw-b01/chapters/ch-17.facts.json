@@ -1,29 +1,3 @@
 {
-  "facts": [
-    {
-      "category": "place",
-      "fact": "The Ranu graves lie in rows on the terraced slope above the village, cut into frozen ground; the smaller mounds are child-length and some carry toys or pine boughs.",
-      "why": "needed because the beat requires Rohan to count new graves on the slope."
-    },
-    {
-      "category": "knowledge",
-      "fact": "Rohan counts thirty-one new graves; Nimmi says thirty-one died this winter, before midwinter.",
-      "why": "needed because the outline fixes the figure at thirty-one."
-    },
-    {
-      "category": "knowledge",
-      "fact": "Meera and Rohan leave the Rope-Hut by the winter line down the south slope to the Neshar road at the third bend, because the Goat's Teeth chimney is plugged by the slab.",
-      "why": "needed to move them from the hut to Ranu after ch15-16."
-    },
-    {
-      "category": "knowledge",
-      "fact": "Meera now calls Rohan by name when she wants to be heard, and tells him to walk behind her and uphill of her so he can anchor the rope.",
-      "why": "needed to show the promise being kept by deferring to her."
-    },
-    {
-      "category": "injury",
-      "fact": "Rohan splits his right knuckles on the herdsmen's stone fold in anger over Varun.",
-      "why": "needed because the beat has him let anger show over Varun."
-    }
-  ]
+  "facts": []
 }
