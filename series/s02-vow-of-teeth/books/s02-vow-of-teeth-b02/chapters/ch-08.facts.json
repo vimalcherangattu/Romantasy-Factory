@@ -1,0 +1,29 @@
+{
+  "facts": [
+    {
+      "category": "place",
+      "fact": "The Resin House cook-house door is barred from inside once the long table has eaten; the east side of the compound is described only by wall and drain counts.",
+      "why": "needed because the raid plan on the tally board needs a third exit detail; Neela supplies it from memory."
+    },
+    {
+      "category": "knowledge",
+      "fact": "Bhaskaran's men who carried water to the Resin House kennels reported 'forty-odd' iron cages in a row with a door at each end; Neela confirms forty-one.",
+      "why": "needed because Bhaskaran draws the kennels roof from his men's account (consistent with F264, F235)."
+    },
+    {
+      "category": "injury",
+      "fact": "Neela scrapes her left shin on the scree in shape; a thin welt matching it shows on Devan's left shin, and he feels two sharp stings around the middle watch.",
+      "why": "needed because the wound-share is how Devan follows her night scouting without seeing it."
+    },
+    {
+      "category": "knowledge",
+      "fact": "Neela's scouting reading: Rema's escort went down the goat path toward the lightning boulder and cart road, but the trail was lost on the scree in three days of rain; something heavier than a leopard went up the scree toward the shoulder the same night, leaving a long drag in fresh gravel.",
+      "why": "needed because the beat requires her dawn report; the heavy animal is left unnamed."
+    },
+    {
+      "category": "knowledge",
+      "fact": "Rema says Muthu has not missed a month in six years of letters to the queen's household; Devan realises six years matches the winter Asha died and that his captain's 'letters to his mother' were a lie.",
+      "why": "needed because the supper beat names the letters before the hall and sets up chapter 9's confession."
+    }
+  ]
+}
