@@ -2,13 +2,17 @@
   "facts": [
     {
       "category": "knowledge",
-      "fact": "Neela knows the lower narrows and the shelf only by sight from the east terraces and by hearsay of its going; she has not crossed it before this night.",
-      "since": "ch14 revision"
+      "fact": "Revises F137: Neela drops the satchel on the patrol path because the warden broke a council-wax tally open in the hall (which she saw herself) and said one was not enough; this is a second. She has not seen Asha's token or note. A bag on the path also makes the camp read as raiders rather than a cat-kill, and she knows it tells Devan someone stood there before him."
     },
     {
       "category": "knowledge",
-      "fact": "Neela drops the satchel on the patrol path deliberately: Asha's note asked for a second token, so Devan gets it, and a bag on the path makes the camp read as raiders rather than a cat-kill. She knows it tells Devan someone stood there before him.",
-      "since": "ch14 revision"
+      "fact": "On the ridge Neela counts the cost of skipping the stone a second night: an empty cup for Ammu, Valli absent from the gate, and Chathu's 'every day counts double' (F087). She chooses the narrows anyway.",
+      "provisional": true
+    },
+    {
+      "category": "knowledge",
+      "fact": "At supper Devan shows only the coin's edge and says 'I won't answer that' when Muthu asks if it is loot; he does not voice his conclusion about Varanad silver or the second tally before the hall. Neela notes that he says less than he knows.",
+      "provisional": true
     }
   ]
 }

@@ -281,7 +281,7 @@
       "minimum": 3.0
     },
     "14": {
-      "status": "continuity-fix",
+      "status": "revised",
       "revisions": 1,
       "scores": {
         "reader_question": 4.0,
@@ -295,7 +295,7 @@
       },
       "average": 4.0,
       "flags": [],
-      "words": 2931,
+      "words": 3037,
       "minimum": 3.0,
       "continuity_fixes": [
         "Neela reasons from Asha's oilcloth token ('in a camphor chest, in a dead girl's room') and quotes Asha's note 'Need a second to be sure.' In ch 12 Devan folded the token and its note into his sleeve before Neela came into the room, and he never showed them to her. She has never smelled that wax or read that note. FIX: In ch 14, replace the Asha references with what she has seen herself: 'Janu's kitchen. The broken tally on the hall table, the day the patrol came in.' Change her reason to: 'The warden broke one tally open in the hall and said it wasn't enough. Here was a second, and he could have it.'"
@@ -1479,9 +1479,13 @@
     {
       "at": "2026-10-20T00:34:19",
       "event": "done: S5 critique ch 11"
+    },
+    {
+      "at": "2026-10-20T00:35:13",
+      "event": "done: S6 revise ch 14"
     }
   ],
-  "updated_at": "2026-10-20T00:34:19",
+  "updated_at": "2026-10-20T00:35:13",
   "midpoint_chapter": 16,
   "continuity_attempts": 2,
   "continuity_last_errors": 13
