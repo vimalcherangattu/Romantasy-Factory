@@ -600,22 +600,24 @@
       "minimum": 3.0
     },
     "30": {
-      "status": "revised",
+      "status": "passed",
       "revisions": 2,
       "scores": {
         "reader_question": 4.0,
         "change": 4.0,
         "romance_movement": 4.0,
         "shown_chemistry": 4.0,
-        "character_logic": 4.0,
-        "stakes_and_cost": 4.0,
-        "prose": 3.0,
-        "continuity": 5.0
+        "character_logic": 3.0,
+        "stakes_and_cost": 3.0,
+        "prose": 4.0,
+        "continuity": 0.0
       },
-      "average": 4.0,
-      "flags": [],
+      "average": 3.25,
+      "flags": [
+        "needs-owner"
+      ],
       "words": 2667,
-      "minimum": 3.0,
+      "minimum": 0.0,
       "continuity_fixes": [
         "Devan says he left the shutters 'Open, as my father kept them' on the first night, but ch 1 and ch 2 show them closed, and Neela opens them herself. FIX: In ch 30, change 'Open, as my father kept them' to 'Shut on the latch and never barred, as my father kept them'.",
         "Devan says she touched the base of his skull 'in the dark' in bed and lay down afterwards, and that he was afraid of her 'for about nine days'. The three-breath touch happened at dawn in the kalari while he drilled (ch 11, ch 12). In ch 17 he said his fear lasted 'about a breath'. FIX: In ch 30, move the scene to the pit: 'You came down the north steps while I drilled. You put your fingers at the base of my skull...you lifted your hand and told me my guard dropped on the left.' Change 'afraid' to 'wary' and 'nine days' to 'eleven days'. Have Neela answer 'You stopped breathing. I thought you were waiting for the blow.'",
@@ -1376,9 +1378,13 @@
     {
       "at": "2026-10-20T00:02:15",
       "event": "done: S6 revise ch 30"
+    },
+    {
+      "at": "2026-10-20T00:03:51",
+      "event": "done: S5 critique ch 30"
     }
   ],
-  "updated_at": "2026-10-20T00:02:15",
+  "updated_at": "2026-10-20T00:03:51",
   "midpoint_chapter": 16,
   "continuity_attempts": 1
 }

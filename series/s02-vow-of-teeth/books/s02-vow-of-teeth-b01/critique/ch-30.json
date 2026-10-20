@@ -4,36 +4,36 @@
     "change": 4.0,
     "romance_movement": 4.0,
     "shown_chemistry": 4.0,
-    "character_logic": 4.0,
-    "stakes_and_cost": 4.0,
-    "prose": 3.0,
-    "continuity": 5.0
+    "character_logic": 3.0,
+    "stakes_and_cost": 3.0,
+    "prose": 4.0,
+    "continuity": 0.0
   },
   "reasons": {
-    "reader_question": "The chapter carries the beat's question, and two concrete hooks give it edge: Muthu's grey-sealed letter will record her daylight vow, and Ittan sits awake in the guardroom 'waiting for whatever he knew to be asked'. Devan states the question almost word for word, which blunts it.",
-    "change": "They move from allies to declared lovers with full knowledge. Her open shutters and her proposal change the terms of the marriage. Each party also gains new knowledge: the full contract, and why he barred the shutters.",
-    "romance_movement": "The relationship changes for new reasons. His shutter confession and the three-breaths reveal reframe the first half, and her proposal is the first thing she has asked for that she could not take.",
-    "shown_chemistry": "Chemistry comes through responsive action. The tooth prick opens a welt on her thumb, she says 'Six' and he answers 'Six', the pebble sits in his fist, and his reopened ribs pull at hers during the kiss. One narrated line weakens it: 'with a care she had come to know'.",
-    "character_logic": "Both act like smart versions of themselves. She skips resin and accepts the ache to be a woman in the window. He warns her about Muthu instead of flattering her. She chooses to be written down because the writ has already exposed her.",
-    "stakes_and_cost": "The noon vow has a named cost: her own words go north in Muthu's letter, after twenty years unwritten. The ache is still counting. Tomorrow's dusk turning in front of him is a chosen exposure.",
-    "prose": "The voice is clean, with no banned phrases and few AI tells. But laughter repeats four times, the 'corner of his mouth' tic three times, and 'She did not' chains recur. A few lines are stilted ('a knife six inches from my hand', 'You may use your one refusal'), and the closing exchange restates the theme on the nose.",
-    "continuity": "Consistent with the bible and earlier chapters. The order is right: hounds kennelled (ch4), then the sentry pulled (ch5), then Janu's stories (ch9). Other matches: the six-inch knife, the breath hitch, Ammu's resin pouch, the welt-only wound-share, the sixty-man garrison, and the four-month closure. The closing line wobbles on Rule 2 (see fixes) but can be read as past-conditional."
+    "reader_question": "The ending gives the reader two concrete things to carry: Neela's unknown noon words, which Muthu will write north, and the guardroom lamp where Ittan waits to be asked. The beat's abstract question ('what does a vow mean when nothing is hidden') sits under them but is not posed on the page.",
+    "change": "The state change is clear. The barred shutters stand open, the contract is told, both declare love, and she, not the council, proposes a daylight marriage. Allies become lovers choosing with knowledge.",
+    "romance_movement": "The reason for movement is new: full disclosure answered by his answering disclosures, then a request she could not take by force. The 'full knowledge' claim is undercut slightly because the scope of 'all of it' is never marked.",
+    "shown_chemistry": "Chemistry lands through responsive action: the tooth pricking his thumb and welting hers, 'Six' answered with 'Six', the kiss that makes him wince and bleed on both of them, the forehead lean. Little of it is narrated.",
+    "character_logic": "Devan's claim that he knew he could trust her on day eleven, at the kalari, sits badly with him offering a coercive silence-for-a-name bargain at the storm (ch15). He does not acknowledge the gap, though he is a man who never lies to her.",
+    "stakes_and_cost": "The cost of the noon vow is named, since Muthu will put her words in a grey-sealed letter after twenty years unwritten. It stays abstract and deferred four months, so the chapter's only near-term cost is the skipped resin and her nails.",
+    "prose": "The prose is clean and concrete, with no banned phrases, AI-tell counts within limits and few em dashes. Faults: 'She did not...' recurs as a tic, a few aphorisms read as manufactured ('There was no weight in it, and that was the weight'; 'like a man handed a gift he had not known could be given'), and literal Devan misquotes Ittan ('Ittan asked whose hand he was' when Ittan stated it).",
+    "continuity": "Devan says the first-night shutters were 'Shut on the latch and never barred, as my father kept them.' F102 says his father kept them open every night it did not storm (a room should breathe), and F121 repeats that rule. The new fact F349 inherits the conflict."
   },
   "fixes": [
-    "'because the one person who could have used it was holding her hand' (final section). This is a Rule 2 wobble that edges toward convenient-magic confusion. After self-naming, a caging needs both voices, so Devan alone could never have used it. Rewrite so the rule stays exact, for example: 'and the dark did nothing, because nothing in it could be said against her now without her own voice'.",
-    "'I don't know what one weighs with nothing hidden.' / 'Neither do I... That's why I want to say it.' These lines restate the chapter's reader question as dialogue, which is on the nose. Cut the last exchange and replace it with a concrete beat that leaves the question open. For example, he asks what words she'll use, and she says he'll hear them at noon with everyone else, a small daylight refusal that turns her old secrecy into a gift.",
-    "'I asked her at the table, by day' versus 'I said it to Janu, in a kitchen'. This is an internal inconsistency plus repetitive beats. Choose one location (the kitchen table) and use it in both lines. Trim the laughing beats from four to two: keep 'She laughed, and it hurt, and she let it' and the laugh against his cheek. Cut 'His mouth moved, a little' and 'A faint pull at the corner of his mouth' so the mouth tic appears once. Also log the chapter's new facts in new-facts.json."
+    "At \"Shut on the latch and never barred, as my father kept them\" (continuity conflict with F102 and F121): Devan's father kept the shutters open every night it did not storm. Rewrite as \"Shut on the latch, for the wedding guests. Never barred. My father never barred them; he'd have had them open to breathe.\" Update F349 to match.",
+    "At \"Reasoning is not knowing. That was the morning I knew.\" (Irrational behaviour / character logic: day-eleven trust contradicts the ch15 coercive bargain): narrow what he knew to \"that you wouldn't do it in the dark,\" then add one exchange where he names the gap himself. For example, Neela: \"And still you offered me a bargain in the storm.\" Devan: \"Yes. Knowing you wouldn't kill me isn't the same as trusting you with the name. I was wrong to make you pay for it.\" This keeps the midpoint's moral weight and shows the repair the bible requires.",
+    "At \"Tell me the rest,\" he said. \"All of it.\" / \"So she did.\" (romance movement: 'full knowledge' is overclaimed and silently scoped): after the contract account, add two or three lines where Neela marks the limit honestly, such as \"That's this one. There were eleven before it. You can have those too, one at a time, if you ask,\" and Devan answers \"I'll ask.\" This makes the knowledge chosen and visibly incomplete, sets up the Book 2 ledger reveal fairly, and keeps her from looking foolish there. While in this section, change \"Ittan asked whose hand he was\" to \"Ittan said I'd no idea whose hand he is,\" because Devan is literal."
   ],
-  "reader_question": "What will a daylight vow cost Neela when every word of it goes north in Muthu's letter, and what does a vow even weigh with nothing hidden?",
+  "reader_question": "What will Neela say in her own voice at noon, knowing Muthu will send every word north, and what does Ittan, awake in the guardroom, know about whose hand he is?",
   "techniques_landed": [
     10,
     20,
     24
   ],
-  "new_facts_assessment": "The draft's new-facts.json is empty, but the chapter adds several facts. All are necessary for the beat and consistent with canon, and they need logging. The facts are: Devan told Janu by day that he was 'tired of leopards' (safe under Rule 2, since it was daytime and she was not in shape); Devan's last 'I love you' was to Asha in the kitchen the week before she died; the tooth is a real canine from the House store; Devan was afraid of her for about nine days; the undated three-breaths night; and the noon remarriage before Muthu. One correction: existing continuity fact F282 lists the order as sentry, then hounds. The chapter's order (hounds, then sentry, then Janu) matches ch4 and ch5, so F282 should be corrected to match the chapter. Within the chapter, Devan says he asked Janu 'at the table' and then 'in a kitchen'. Pick one.",
+  "new_facts_assessment": "F344 (protection order; stories stopped at supper, then 'tired of leopards' in the kitchen by day) is necessary and correctly supersedes F282; F282 should be retired. F345 (said 'I love you' to Asha in the kitchen) duplicates F281 with 'badly' added; it is consistent, so keep F345 and retire F281. F346 (tooth is a real leopard canine meant for his wound, sewn in from Kodiyur) is consistent with F039 and needed; retire F279. F347 (trust at the kalari dawn, fingers at the skull, three counted breaths, about eleven days) matches the bible worksheet's ch11 pulled marma strike and should formally retire F277's 'night, feigned sleep' version. It creates a logic gap with the ch15 bargain, which the fix addresses. F348 (noon remarriage before the household; Devan's Muthu warning; words withheld) is necessary for ch31 and consistent with F283, F286 and F290. F349 conflicts with F102 and F121 on how his father kept the shutters (open, not latched shut). Correct it to: latched shut for the wedding night, never barred, though his father's rule was to leave them open. The dialogue gap of 'twenty years' against F329's twenty-one is acceptable rounding.",
   "content_rule_violation": false,
   "failure_modes": [],
-  "average": 4.0,
-  "minimum": 3.0,
-  "passed": true
+  "average": 3.25,
+  "minimum": 0.0,
+  "passed": false
 }
