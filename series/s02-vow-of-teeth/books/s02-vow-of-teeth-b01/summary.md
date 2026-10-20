@@ -1,64 +1,78 @@
 # Vow of Teeth — summary
 
 ## Plot
-**Act 1 (ch 1–8).** Neela, ledger number Seventeen of the Resin House guild, is sold as bride to Devan, 32, warden of Kettamala, with orders to kill him like a leopard kill after the marriage writ returns and before the rains. She turns into a leopard by resin at dusk. Devan wakes and watches the first turning (ch 2) but keeps silent. He bars the shutters, kennels the hounds, pulls the sentry, leaves the lamp unlit and stops Janu's leopard stories to shield her from other witnesses. Forged pass-tokens bear genuine council wax (ch 4). Ammu relays Chathu's threat of forced resin (ch 7). The writ arrives (ch 8) with a clause: a widowed wife holds the pass-seal.
 
-**Act 2a (ch 9–16).** She pulls a marma strike in the kalari (ch 11). Devan finds Asha's notes and first token (ch 12). She saves him from fever (ch 13) and from ambush scouts carrying Varanad silver (ch 14). In the first storm he catches her turning back and offers silence for the buyer's name (ch 15). Midpoint (ch 16): he withdraws the offer with no terms ("I don't want to own anyone").
+**Act 1 (ch 1–8).** Neela, guild assassin "Seventeen" of the Resin House (an odiyan: resin lets her turn into a leopard at dusk), is sold as bride to Devan, warden of Kettamala. Her twelfth contract is to kill him in his chamber like a leopard kill, leaving a guild tooth, after the marriage writ returns sealed and before the monsoon closes the Monkey Pass (about 40 days). Devan watches her first turning (ch 2) and becomes her witness: one word spoken in her hearing while she is in shape cages her for life. He keeps silent, bars the west shutters, kennels the hounds, pulls the rampart sentry and leaves the corridor lamp unlit. Both hunt a council token-seller, since forged tallies bear genuine council wax (ch 4). Ch 6 brings the palace's green-wax gift. Ch 7: Ammu hints at "a way, but it costs". Ch 8: the writ gives the widow the pass-seal.
 
-**Act 2b (ch 17–24).** Honest nights. Ittan's genial "my friend" letter. Neela lies to Ammu to protect Devan (ch 18). They kiss on the rampart and Ammu sees (ch 19). Devan gives her a pebble to plug his mouth (ch 20). They trade disclosures (ch 21); first intimacy (ch 22). Neela gives him Ittan's name from a stolen slip (ch 22–23). Vellan warns her and leaves a carved bird on her pillow (ch 24).
+**Act 2a (ch 9–16).** Shared competence on the goat path (9). Neela finds she cannot kill him (10–11): at the dawn drill she holds the killing point for three breaths and pulls it. Devan finds Asha's notes and first forged token (12). Neela keeps him alive through fever (13) and kills ambush scouts carrying Varanad silver (14). Ch 15: he reveals he has watched every turning and offers silence for the buyer's name; she refuses. **Midpoint, ch 16:** he withdraws the offer, unconditionally ("I don't want to own anyone"). She rereads his kindnesses as a fence, not a trap.
 
-**Act 3 (ch 25–32).** New moon: Vellan, as a sloth bear, mauls Raiu dead and poisons Devan with blackbark gall (ch 25). Neela rides to the Resin House for the antidote and is caged; she finds Kirri as a civet (ch 26). Ammu frees her and tells her the self-naming loophole. Neela says "Leopard" to Devan; Chathu's page burns; Devan strikes the bear; Ammu dies as a jackal (ch 27). Ittan is arrested at the sealing (ch 29) and the pass closes. Declaration (ch 30), daylight vows (ch 31). Hinge (ch 32): the payment writ for Devan's death bears the queen's green sunbird seal.
+**Act 2b (ch 17–25).** Honest dark-talk; Ittan's genial "my friend" letter (17). She lies to Ammu to protect him (18). Ch 19: she kisses Devan on the rampart, flees as the resin takes her, and Ammu sees. Ch 20: Devan gives her the pebble-in-cheek trick; Ammu sings the "name given back" verse. Devan tells her of the raider captain he killed at 24; she tells him she is Seventeen (21). First night together (22); she learns the buyer is Ittan, Keeper of the Passes. Ch 23: she gives Devan the name unasked; they plan to search Ittan's carts on sealing day. She refuses to testify to the queen. Vellan warns her (24) and leaves a carved bird on her pillow. New moon (25): Vellan, poisoned blade, mauls Raiu to death as a bear. Devan is poisoned with blackbark gall and Neela rides for the antidote.
+
+**Act 3 (ch 26–32).** Neela is caged in the Resin House kennels, finds Kirri as a civet in the silver anklet, and hears Chathu's "the ledger isn't the only book" (26). Ch 27: Ammu frees her and explains the self-naming loophole. Neela says "Leopard" to Devan; her page burns, and Devan breaks Vellan's charge with a marma strike, his first blow in eight years. Ammu dies as the jackal. Ch 28: wound-share revealed, Ammu buried, Chathu and Vellan flee with the ledger; Ittan arrives untroubled ("I am only a hand"). Ch 29: carts searched, 36 blank dot-and-split tallies and a tally book found, Ittan arrested, pass sealed with Neela's name beside the warden's. Ch 30: tooth and full confession; they declare love. Ch 31: daylight vows, then Muthu enters Ittan's cell with a thick grey packet. Ch 32: Ittan's effects hold the guild chit and a payment writ sealed with the queen's own green sunbird wax, matching the gift seal.
 
 ## Romance
-Devan and Neela are married in truth and in love. Key moments: pulled strike (11), withdrawn bargain (16), rampart kiss (19), pebble (20), first night (22), "Leopard" (27), mutual "I love you" and the tooth (30), daylight vows with Neela's own words (31).
-- Disclosed: she told him the whole contract, Ittan, Vellan's name and the tooth. Devan told her about the raider captain he killed at 24, why he barred the shutters, and when he began to trust her.
-- Withheld by her: guild shapes (Vellan's bear was never named aloud by her).
-- Promises: he never lies; no terms or leverage; he keeps the pebble though caging now needs both voices. She promised Kirri and the forty-one caged animals she will return. He said "Then I'll come."
-- Wound-share: his cuts and the resin wounds show on her, and vice versa, for life.
+
+Devan (32) and Neela (27) are married in truth. Key beats: ch 11 pulled strike; ch 16 withdrawn bargain; ch 19 kiss; ch 20 pebble; ch 22 first night; ch 27 "Leopard"; ch 30 mutual "I love you"; ch 31 daylight vows and dawn love scene with her leading.
+
+Disclosed: she has told him the whole contract, the tooth, and the guild's outline; he knows her number, her stair-counting and her shape-name. He has told her about Asha, the captain he killed, and why he barred the shutters. Withheld: neither knows her birth name or why she counts stairs. She will not name Vellan's shape (he deduced a bear). She refuses to testify to the crown.
+
+Binds: wound-share (his cuts open on her, hers on him, for life). A caging now needs two voices, hers and a witness's, so Devan cannot cage her alone. He keeps the pebble as symbol. He promised never to hold her silence over her. Vows: "I won't lie to you. What you give me, I won't hold over you."
 
 ## Character states
-- **Neela:** rogue, page burned, no guild protection; wound-share welt on her ribs; split nails and ache from skipped resin; carries Ammu's resin pouch. Has no known birth name. Believes being seen by the right person makes her unleashable.
-- **Devan:** wounded ribs, poison cured; has struck a living person again; arrested a councillor openly, so the council and crown will answer. Does not yet suspect Muthu is confirmed; he holds Muthu's unopened grey packet.
-- **Muthu:** loyal in action (held the Resin House gate), but writes grey-wax letters south. Neela and Devan both suspect him. He lied about writing "the weather."
-- **Janu, Gopan, Bhaskaran, Unni, Kannan, Chinna, Eravi:** alive, loyal, and know none of the odiyan secret except Janu's partial glimpse.
-- **Ittan:** held in the guardroom; "only a hand"; devoted to his sick wife.
-- **Chathu:** fled into Blackbark Wood with the ledger and Vellan; has a slip from Neela's intake page.
-- **Vellan:** sloth bear, foreleg ruined by Devan.
-- **Dead:** Raiu, Ammu. **Caged:** Kirri and forty-one others.
+
+- **Neela:** Rogue; guild page burned; crown would hunt her. Raw split nails and wrist/throat wounds; Ammu's resin pouch (a small amount left). Signed the closing writ as "of Kettamala". Vowed to retrieve Chathu's ledger and free the Resin House animals.
+- **Devan:** Healing ribs (poison antidote worked), shares her wounds. Has used authority and force openly. Believes Muthu may be Ittan's man but is keeping him close.
+- **Ammu:** Dead (spear, ch 27). **Raiu:** dead (ch 25).
+- **Kirri:** Caged as a civet, mind fading; irreversible.
+- **Chathu:** Fled to Blackbark Wood with the ledger, Vellan, and the intake slip. Muthu saw him again at the Resin House, holding the black book.
+- **Vellan:** Sloth-bear shape, foreleg lamed, with Chathu.
+- **Ittan:** Held in the guardroom; refuses to speak; devoted to his ailing wife.
+- **Muthu:** Loyal in action (held the gate, took the fodder carts) but sends grey-wax letters; Devan keeps the latest packet locked, wax whole.
+- **Janu, Gopan, Bhaskaran, Unni, Kannan, Chinna, Eravi:** at Kettamala, loyal.
 
 ## World changes
-- Pass sealed by the warden alone, with Neela's name as witness; Kettamala is cut off about four months.
-- Self-naming loophole is known to Neela only: once per life, voids prior witnesses, shares wounds.
-- Caging cannot be undone.
-- Hounds run the yard again; shutters stay open at dusk.
-- Devan used border law against a councillor.
+
+- The pass is sealed four months; Kettamala is cut off.
+- Ittan is arrested, the first warden use of the sealing-day charter against a councillor.
+- Hounds can run the yard again.
+- Muthu's fodder carts run to the Resin House.
+- The self-naming loophole is known (once per life, to one witness during the dusk turning).
+- The guild is without its enforcer's cover or leader (both in hiding), and a page has burned.
 
 ## Open threads
-- C10: Neela's dread at the broken-beak parrot newel and compulsive counting on the west stair.
-- C11: Asha's notes signed with a whole-beaked parrot; the west stair parrot's beak is broken.
-- C12: Neela counts stairs in her sleep: "It's broken."
-- C13: Bear claw marks on Raiu match Asha's. Devan's realisation was erased by the poison. Vellan as Asha's killer is unconfirmed.
-- C14: Sloth bear guarding the Resin House yard; Vellan's escape with Chathu.
-- C16: Muthu's plain grey-sealed letters "for my mother."
-- C20: raiders carry fresh Varanad-minted silver; the crown may fund raids.
-- C21: Chathu: "the ledger isn't the only book"; the intake slip he pocketed.
-- C22: Neela knows a goat path without a map.
-- C23: Neela gags at crushed lantana.
-- C28: Muthu goes quiet over a second palace letter; his thick packet sits unopened in the strongbox.
-- C29: Vellan's carved birds, and the insider who let him into the barred chamber and told the guild where the sword lay.
-- Hinge: the queen paid the guild; Chathu holds the ledger; Kirri is caged; Neela and Devan vow to take the ledger without becoming its masters.
-- Ittan's knowledge, and whose hand he is.
-- Neela's lost birth name and childhood in the pass.
+
+- **C10:** Neela's dread at the parrot newel and step-counting on the west stair. Not explained; ties to Asha's death.
+- **C11:** Asha's parrot signature (whole beak; she called the broken newel "an insult to a bird"). Links to C10.
+- **C12:** Neela counts steps asleep and whimpers "It's broken". Possibly a buried pre-age-six memory.
+- **C13:** Bear claw marks on Raiu match Asha's wounds; Devan's realisation was cut off by poison. Vellan's link to Asha's death is unconfirmed, and who let him inside the walls.
+- **C14:** The sloth bear guarding the Resin House yard was Vellan; he survives, lamed.
+- **C16:** Muthu's grey-wax letters "to his mother". Latest packet held for the spring rider.
+- **C20:** Raider scouts carried fresh Varanad-minted silver; suggests the crown funds the raids.
+- **C21:** Chathu: "the ledger isn't the only book." A second record, perhaps the queen's.
+- **C22:** Neela knows a goat path without a map; hints at a childhood in the Kettamala hills.
+- **C23:** Neela gags at lantana; another lost-origin clue.
+- **C28:** Muthu went quiet when asked about a second letter; someone leaked the cart order to Chathu and the sword's position to Vellan.
+- **C29:** Vellan's carved bird in the barred chamber; someone inside lets the guild in.
+- **Hinge:** The queen paid the guild for Devan's death. What else does she own? Neela means to steal the ledger without becoming its master; Devan will come.
+- Whose hand Ittan is (the queen, implied).
+- Neela's birth name, held in Chathu's ledger/intake slip.
+- Kirri's caging and the other 41 caged animals.
+- Neela and Devan's names now on the closing writ and Muthu's letter; both will reach the palace.
 
 ## Callbacks available
-- "I won't answer that."
-- The third slat's creak; the hilt-first sword.
-- Counting exits, steps and Devan's breath hitch.
-- The river pebble.
-- Tin of warm jaggery sweets: "a gift is the start of a bill."
-- Green sunbird seal and the cut wedding-gift wax.
-- Leopard tooth, now in Devan's keeping.
-- Kirri's bell-less silver anklet; Ammu's fishing song "Pull and pull, the tide is coming in"; the jackal call "tomorrow, I will find you."
-- The tappers' verse "the name given back at the closing of day."
-- Ginger tom "keeps the rats down."
-- Hidden bundle behind the third slat.
+
+- "I won't answer that" (his refusal formula, now a reciprocal rule).
+- The hilt-toward-her sword on the floor.
+- The third slat's creak.
+- The hitch a third of the way through his breath, now deliberate and counted by her.
+- Kannan's white river pebble.
+- The bangle over the resin scar.
+- The leopard tooth (in Devan's keeping).
+- The silver anklet without bells; Neela's promise to send it "in a fish basket".
+- Ammu's fishing song ("Pull and pull, the tide is coming in") and the jackal call (three yips, a pause, one long note: "Tomorrow, I will find you").
+- Tin of warm jaggery sweets: "A gift is the start of a bill."
+- Vellan's carved birds ("the blade isn't guilty, only the hand").
+- Green sunbird wax; Ittan's "my friend", "only a hand".
+- The hollow in the third-slat frame, now hiding the chit, writ and gift seal.
+- Neela's counting of doors ("six"); the wound-share welts.
+- Janu's unfinished leopard story.
