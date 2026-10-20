@@ -4983,7 +4983,7 @@ He turned on the third step.
 
 "Eight days," he said.
 
-"Eight days." She drew breath. "A warden who rides to the capital with the sealing at his back doesn't ride home in time. You'd leave Kettamala shut in with the sealing day coming and nobody but Muthu and a goat-boy. And you don't need to go to him. He's coming to us."
+She drew breath. "A warden who rides to the capital with the sealing at his back doesn't ride home in time. You'd leave Kettamala shut in with the sealing day coming and nobody but Muthu and a goat-boy. And you don't need to go to him. He's coming to us."
 
 He stood on the step and let that settle.
 
