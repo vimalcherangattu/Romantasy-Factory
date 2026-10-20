@@ -1,0 +1,179 @@
+{
+  "open_errors": [
+    {
+      "id": "E01",
+      "chapter": 19,
+      "severity": "major",
+      "category": "timeline",
+      "issue": "Chapter 19 falls on day 12 of twenty: Sunni dies at dawn after the day-11 arrival. Nimmi says the Fair is 'four days' off, but chapter 21 (day 15) says five days remain and chapter 22 (day 16) says four, so the count goes up. Chapter 19's 'third day' door rule also cannot fit. Counted from the day-12 patrol, the doors would shut around day 15, yet chapter 21 has the rule biting only after they leave on day 17. A sixth-day rule and eight days to the Fair fit every later chapter.",
+      "fix": "Make the Fair eight days off at chapter 19 and the patrol's door rule bite after the sixth day, in chapters 19 and 21.",
+      "patches": [
+        {
+          "chapter": 19,
+          "find": "no one go in or out after the third day without a pass.",
+          "replace": "no one go in or out after the sixth day without a pass."
+        },
+        {
+          "chapter": 19,
+          "find": "\"Four days, if the road holds.\"",
+          "replace": "\"Eight days, if the road holds.\""
+        },
+        {
+          "chapter": 19,
+          "find": "They had to be walking by the third day, and the third day was when the doors shut.",
+          "replace": "They had to be walking by the sixth day, and the sixth day was when the doors shut."
+        },
+        {
+          "chapter": 19,
+          "find": "Nimmi would have thirty-four cups left to pour, alone,",
+          "replace": "Nimmi would still have cups to pour, alone,"
+        },
+        {
+          "chapter": 19,
+          "find": "*Third day. Thirty-four cups. Nimmi alone. I go.*",
+          "replace": "*Sixth day. Nimmi alone. I go.*"
+        },
+        {
+          "chapter": 19,
+          "find": "I walk away from that door on the third day, and I leave her with the cups.",
+          "replace": "I walk away from that door on the sixth day, and I leave her with the cups."
+        },
+        {
+          "chapter": 19,
+          "find": "\"Then we go on the third day,\" he said.",
+          "replace": "\"Then we go on the sixth day,\" he said."
+        },
+        {
+          "chapter": 21,
+          "find": "\"The patrol,\" she said. \"Third day, their rule bites.",
+          "replace": "\"The patrol,\" she said. \"Sixth day, their rule bites."
+        }
+      ]
+    },
+    {
+      "id": "E02",
+      "chapter": 2,
+      "severity": "minor",
+      "category": "relationship",
+      "issue": "Chapter 2 says Varun's smile got him through 'two years of Rohan's temper'. Chapters 16 and 17 say Rohan has known Varun ten years and that Varun held his horse when Rohan was newly made captain.",
+      "fix": "Change two years to ten years.",
+      "patches": [
+        {
+          "chapter": 2,
+          "find": "the officers' mess and two years of Rohan's temper.",
+          "replace": "the officers' mess and ten years of Rohan's temper."
+        }
+      ]
+    },
+    {
+      "id": "E03",
+      "chapter": 1,
+      "severity": "minor",
+      "category": "object",
+      "issue": "Meera records the redbark crate lids as 'four of four', but the next paragraph says the same last delivery was seven crates.",
+      "fix": "Make the last delivery four crates.",
+      "patches": [
+        {
+          "chapter": 1,
+          "find": "Seven crates had waited at the mill below the village,",
+          "replace": "Four crates had waited at the mill below the village,"
+        }
+      ]
+    },
+    {
+      "id": "E04",
+      "chapter": 18,
+      "severity": "minor",
+      "category": "timeline",
+      "issue": "In chapter 17 Meera and Rohan stop for their noon meal while still high on the descent, then pass the stone fold, the birches and the walnut terraces before reaching Ranu. In chapter 18 Rohan carries the first water at noon on the arrival day.",
+      "fix": "Move the first water trip to the afternoon.",
+      "patches": [
+        {
+          "chapter": 18,
+          "find": "At noon he took two buckets from the porch before anyone had asked,",
+          "replace": "That afternoon he took two buckets from the porch before anyone had asked,"
+        }
+      ]
+    },
+    {
+      "id": "E05",
+      "chapter": 21,
+      "severity": "minor",
+      "category": "object",
+      "issue": "In chapter 21 Meera says the first wave is 'the three youngest and the weaver'. In chapter 18 Hira the weaver was written down as 'no course' and given no redbark.",
+      "fix": "Replace the weaver with a patient who was given a course.",
+      "patches": [
+        {
+          "chapter": 21,
+          "find": "The first wave is the three youngest and the weaver.",
+          "replace": "The first wave is the three youngest and Bholu's mother."
+        }
+      ]
+    },
+    {
+      "id": "E06",
+      "chapter": 22,
+      "severity": "minor",
+      "category": "knowledge",
+      "issue": "In chapter 22 Kiran says he has never known what Dilan's 'sorry about the hymn' meant. In chapter 29 he says Dilan sang the hymn all the way down the line and that he told him to shut up, so he knew exactly what it referred to.",
+      "fix": "Have Kiran understand the apology in chapter 22.",
+      "patches": [
+        {
+          "chapter": 22,
+          "find": "\"He said *sorry about the hymn.* I don't know what that means. I've never known what it means.\"",
+          "replace": "\"He said *sorry about the hymn.* He'd sung it the whole way down and I'd told him to shut up. That's what he chose to be sorry for.\""
+        }
+      ]
+    },
+    {
+      "id": "E07",
+      "chapter": 20,
+      "severity": "minor",
+      "category": "magic",
+      "issue": "Meera calls her own statement 'partly a lie' to her bound partner, then shows warm hands. Any lie she believed false when she said it would whiten her fingertips for an hour. The bible says the cost is never waived.",
+      "fix": "Make the statement one she believed when she said it and only then found to be untrue, so it was never a lie.",
+      "patches": [
+        {
+          "chapter": 20,
+          "find": "She stopped. \"That's partly a lie. I'll start again.\"",
+          "replace": "She stopped. \"That's not true. I didn't know it till I heard it. I'll start again.\""
+        }
+      ]
+    },
+    {
+      "id": "E08",
+      "chapter": 26,
+      "severity": "minor",
+      "category": "magic",
+      "issue": "Meera tells Rohan 'I'm well' while she believes she is far from well, and the cold takes nothing. The narration waves this through ('no jurisdiction over well'). Under the bible's definition it is a lie told to be believed and should cost heat.",
+      "fix": "Replace the claim with a literal truth.",
+      "patches": [
+        {
+          "chapter": 26,
+          "find": "\"I'm well,\" said Meera.",
+          "replace": "\"I'm breathing,\" said Meera."
+        },
+        {
+          "chapter": 26,
+          "find": "It was true by the measure of the rope, though she was a long way from well, and she supposed it was true in the narrow sense that she was breathing. The mountain had no jurisdiction over *well*.",
+          "replace": "It was true by the measure of the rope, though she was a long way from well. She had chosen the word because it was the only one the cold could not catch."
+        }
+      ]
+    },
+    {
+      "id": "E09",
+      "chapter": 25,
+      "severity": "minor",
+      "category": "object",
+      "issue": "In chapter 25 Varun's men run their hands down every seam of Rohan's coat and find only the speech and the knife. In chapter 30 Rohan takes the queen's wax tin, with her line folded under the wafer, out of the same coat.",
+      "fix": "Have the search find the tin and dismiss it as worthless without the stone.",
+      "patches": [
+        {
+          "chapter": 25,
+          "find": "They found his knife.",
+          "replace": "They found his knife. They found a flat tin of dark wax, and Varun opened it, sniffed, and shut it again, because without the stone it was only wax."
+        }
+      ]
+    }
+  ]
+}

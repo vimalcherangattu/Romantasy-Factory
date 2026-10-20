@@ -2,59 +2,34 @@
 
 ## What I checked
 
-- **Names and forms of address:** Guide, Captain and Rohan; Didi; Captain-ji.
-- **Ages and counts:** cast ages, packets, courses, sick and graves, firewood sticks.
-- **Timeline:** days elapsed from the deadline and the cairn binding, travel times, and the Fair countdown.
-- **Rope-bond rules:** distance, lie-cold sizes, the loophole and bound promises.
-- **Injuries:** ribs, the fingers, Kiran's ear.
-- **Who knows what:** the Salt Fox, Varun, Dilan's rope, Ila, Puja's fine.
-- **Objects and places:** the seal, packets, button, badge, bells, speech, Jassi's cairn, the carvings.
-- **Relationship state and series clues:** C01–C26.
+- **Bible and continuity facts:** I checked the book against the series bible and continuity.json (F001–F280).
+- **Names and forms of address:** Guide, Captain, Captain-ji, Didi, and when Meera starts saying "Rohan".
+- **Ages and offices of both leads:** both are stated on the page before the first intimate beat.
+- **Day-by-day timeline:** I counted day 1 (Rohan arrives) through day 20 (the Snow Fair dawn).
+- **Running counts:** the firewood count, Varun's days under the slide, redbark courses, graves, and the rope's length against paces.
+- **Magic rules:** the lie-cold scale, what is free, the loophole and every promise made while bound.
+- **Injuries:** Rohan's left ribs, left arm and right knuckles; Meera's split knuckles, dead left fingers and the amputation.
+- **Who knows what:** the seal, Kiran on Dilan's rope, Varun, the fallback route.
+- **Objects:** both bells, the brass buttons, the badge, the seal's knot, the pattus, the writ and its case, the wax tin.
 
-## Errors found: 31 (1 major, 30 minor)
+## Errors found (9)
 
-**Major (E01): the Snow Fair countdown.** The days-to-Fair figures in ch13, ch19, ch21, ch22 and ch23 conflict with the twenty-day frame in ch6 and ch29. They also conflict with the events: as written, the arrest and the salt-road walk would bring them to Garh Neshar a day after the Fair. The patches realign the book to the Fair at dawn of day twenty:
+- **E01 (major, timeline):** In chapter 19 the Fair is "four days" off. It should be eight, because chapter 21 gives five and chapter 22 gives four. The "third day" door rule cannot fit the later chapters either. Changed to eight days and a sixth-day rule in chapters 19 and 21.
+- **E02 (minor):** Chapter 2 gives Varun "two years" with Rohan; chapters 16 and 17 say ten.
+- **E03 (minor):** Chapter 1 has "four of four" crate lids against "seven crates" in the same delivery.
+- **E04 (minor):** In chapter 18 the first water goes out at noon, though the pair reached Ranu after noon.
+- **E05 (minor):** In chapter 21 the weaver is in the first dose wave, though chapter 18 gave him no course.
+- **E06 (minor):** In chapter 22 Kiran says he doesn't know what "sorry about the hymn" means; chapter 29 shows he does.
+- **E07 (minor, magic):** In chapter 20 Meera calls her own statement "partly a lie" with no cost.
+- **E08 (minor, magic):** In chapter 26 Meera says "I'm well" without believing it, and the cold takes nothing.
+- **E09 (minor, object):** In chapter 25 the search misses the queen's wax tin that Rohan produces in chapter 30.
 
-- Kiran sleeps two days, so ch21 opens on day 15.
-- The days left now read eleven (ch13), eight (ch19), five (ch21) and four (ch22).
-- Rohan's one-day concession leaves one spare day. The snow takes it, and Varun's day forces the night push.
+## Notes
 
-**Minor errors by area:**
+The book's own day count does not match several provisional facts:
 
-- **Bond and time counts:**
-  - Bond-day figures: E02.
-  - Varun's days buried: E03.
-  - Twelve versus fifteen years: E18.
-  - Thirty-two graves after Sunni: E28.
-- **Seal location:** the seal moves from ribs to nape (E04).
-- **Packets and dosing:**
-  - Packet size: E05.
-  - The six packets never returned: E06.
-  - Dose rule: E10.
-- **Repeats and slips in dialogue:**
-  - The sattu wager paid twice: E07.
-  - Rohan's misattributed "I told you", which would be a costed lie: E08.
-- **Who knows what:**
-  - Jassi's tenure: E09.
-  - Puja's fine: E11.
-  - First use of her name: E12.
-  - The three-wardens sheet against the ch2 yard announcement: E13.
-  - The eleven-wardens oath: E21.
-  - Ila already mentioned: E20.
-- **Objects:**
-  - Button direction: E14.
-  - Badge given, not taken: E23.
-  - The speech confiscated: E25.
-  - Jassi's cairn stones: E30.
-- **Places and staging:**
-  - Crevasse versus gully: E15.
-  - Rope end in the cuff: E16.
-  - Dilan's non-existent cairn: E17.
-- **Smaller details:**
-  - The harbouring framing: E19.
-  - Kamla's son's age: E22.
-  - Gate pegs: E24.
-  - Warden count: E26.
-  - Hakam's fingers: E27.
-- **Scope of the bound promise:** E29.
-- **The carving knot Meera already knows:** E31.
+- At chapter 13 the book has eleven days to the Fair, not nine (F129).
+- At chapter 16 Varun has been under the slide eight days, not eleven (F153).
+- The book also contradicts F178, F179, F276 and F278 on the days to the Fair and the patrol's door rule.
+
+The text is consistent with itself on these points, so I corrected the facts in new-facts.json rather than the text.
