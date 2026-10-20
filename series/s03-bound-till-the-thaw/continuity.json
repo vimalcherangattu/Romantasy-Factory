@@ -532,6 +532,41 @@
       "fact": "Rohan hunted the Salt Fox crew for one winter because the law required it, and has hunted it two more winters for Dilan's sake; Meera notes the exact accounting.",
       "since": "s03-bound-till-the-thaw-b01 ch 5",
       "provisional": true
+    },
+    {
+      "id": "F084",
+      "category": "object",
+      "fact": "Jassi's spare cord is a braided goat-hair line he used to tether kids; Meera carries it in her pack and uses it to bind Rohan's ribs.",
+      "since": "s03-bound-till-the-thaw-b01 ch 6",
+      "provisional": true
+    },
+    {
+      "id": "F085",
+      "category": "injury",
+      "fact": "Rohan's cracked ribs are the seventh and eighth on the left side; he also cannot raise the left arm above the shoulder (matches F068).",
+      "since": "s03-bound-till-the-thaw-b01 ch 6",
+      "provisional": true
+    },
+    {
+      "id": "F086",
+      "category": "object",
+      "fact": "Rohan carries a grey warden-issue pattu, smelling of camphor, rolled at his belt; it survived the avalanche.",
+      "since": "s03-bound-till-the-thaw-b01 ch 6",
+      "provisional": true
+    },
+    {
+      "id": "F087",
+      "category": "timeline",
+      "fact": "The ribs lie happens at first light on the pitch above the waystone; the pair shelter in a hollow under the Saddle's lip for the day and night, losing a day, and Meera shakes through the night. Nineteen of Rohan's twenty days remain.",
+      "since": "s03-bound-till-the-thaw-b01 ch 6",
+      "provisional": true
+    },
+    {
+      "id": "F088",
+      "category": "relationship",
+      "fact": "Meera first calls Rohan by his given name here, unnoticed by her, while he calls her Meera at the end.",
+      "since": "s03-bound-till-the-thaw-b01 ch 6",
+      "provisional": true
     }
   ],
   "knowledge": [
