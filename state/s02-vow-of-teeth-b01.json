@@ -507,7 +507,7 @@
       }
     },
     "16": {
-      "status": "passed",
+      "status": "edited",
       "revisions": 0,
       "scores": {
         "reader_question": 4.0,
@@ -531,15 +531,15 @@
         "In ch 10 Janu gives the fort's theories about the barred shutters: Bhaskaran's lads say privacy, Gopan says Janu's old tale, Janu herself says the damp, and Chinna runs the wager. Ch 31 repeats that set (damp-madness, privacy, Janu's old tale). Ch 16 instead says Bhaskaran's lads called it damp-madness and Janu called it shyness. FIX: In ch 16, change the sentence to: 'Bhaskaran's lads called it privacy, Gopan called it Janu's old tale, Janu called it the damp, and Chinna ran a wager on it at the kitchen door.'"
       ],
       "style": {
-        "words": 2947,
+        "words": 2793,
         "banned_hits": {},
         "ai_tell_hits": {},
         "ai_tells_per_1000": 0.0,
-        "top_4gram": "he heard it in",
+        "top_4gram": "to the west window",
         "top_4gram_count": 2,
         "longest_paragraph_words": 109,
         "em_dashes_per_1000": 0.0,
-        "reading_ease": 93.2
+        "reading_ease": 93.8
       },
       "owner_instructions": [
         "Neela's reread, from 'The shutters had gone up barred...' through 'She had never once asked who told Janu': it walks clues C01 to C05 in order like an evidence log. That is the main reason the chapter scored 3.5. Cut the section to about half its current length.",
@@ -2357,9 +2357,13 @@
     {
       "at": "2026-10-20T09:04:16",
       "event": "done: S8 line edit ch 12"
+    },
+    {
+      "at": "2026-10-20T09:04:48",
+      "event": "done: S8 line edit ch 16"
     }
   ],
-  "updated_at": "2026-10-20T09:04:16",
+  "updated_at": "2026-10-20T09:04:48",
   "midpoint_chapter": 16,
   "continuity_attempts": 1,
   "continuity_last_errors": 1,
