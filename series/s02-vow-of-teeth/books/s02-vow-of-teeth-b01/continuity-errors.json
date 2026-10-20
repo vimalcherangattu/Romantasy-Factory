@@ -2,66 +2,73 @@
   "open_errors": [
     {
       "id": "E01",
-      "chapter": 14,
-      "category": "timeline",
-      "issue": "In ch 14 Neela weighs that going to the narrows leaves the meeting stone's cup empty a second night, after the fever night. Nothing shows her marking it later. Yet ch 16 says she has missed the stone only once ('the night of his fever'), and in ch 18 Ammu counts only the fever night plus the three bare nights of ch 16 to 17. The narrows night is missing from both counts.",
-      "fix": "In ch 14, where she goes 'by the long way to the cleft in the rocks under the second spur', add one line: she passes the meeting stone first and drags her cheek across the cup, late but marked."
+      "chapter": 5,
+      "category": "character",
+      "issue": "The bible says Devan never lies to Neela. In ch 5 he tells Neela and Kannan 'I have to see Bhaskaran about the gate', and the narration says 'It was not true.'",
+      "fix": "In ch 5, change his line to a true one, such as 'I need a moment,' and cut 'It was not true.' The walk to the cistern wall can stay as it is."
     },
     {
       "id": "E02",
-      "chapter": 14,
-      "category": "knowledge",
-      "issue": "Neela recalls that 'the warden had broken one tally open in the hall and said it wasn't enough.' In ch 4 Devan says only that the wax is genuine council wax and never says one is not enough. The 'need a second' idea is Asha's note, which Neela has not seen.",
-      "fix": "In ch 14, change the line to: 'The warden had broken one tally open in the hall. One tally was a story; two were a case.'"
+      "chapter": 8,
+      "category": "character",
+      "issue": "Neela asks why Raiu was moved and Devan answers 'Oil.' The narration has already said 'It did not save oil.' That is a direct lie to Neela, which breaks his fixed voice rule. Ch 17 and ch 30 also rely on him never having lied to her.",
+      "fix": "In ch 8, replace Devan's answer 'Oil.' with 'I won't answer that.' Keep her next line, 'Then I'll be sparing with mine,' as it is."
     },
     {
       "id": "E03",
-      "chapter": 16,
+      "chapter": 13,
       "category": "name",
-      "issue": "In ch 10 Janu gives the fort's theories about the barred shutters: Bhaskaran's lads say privacy, Gopan says Janu's old tale, Janu herself says the damp, and Chinna runs the wager. Ch 31 repeats that set (damp-madness, privacy, Janu's old tale). Ch 16 instead says Bhaskaran's lads called it damp-madness and Janu called it shyness.",
-      "fix": "In ch 16, change the sentence to: 'Bhaskaran's lads called it privacy, Gopan called it Janu's old tale, Janu called it the damp, and Chinna ran a wager on it at the kitchen door.'"
+      "issue": "Chinna is a woman (ch 1 'a broad woman', ch 18, ch 21 'Chinna's got a bad hip', ch 31 'her bad hip'). In ch 13 Neela says 'Tell Chinna it's for the warden. He'll hurry.'",
+      "fix": "In ch 13, change 'He'll hurry.' to 'She'll hurry.'"
     },
     {
       "id": "E04",
-      "chapter": 17,
-      "category": "object",
-      "issue": "In ch 12 Sudhi rides 'with the palace green on his sleeve'. In ch 17 Devan says no one looks in the bag of 'a man in royal blue'. Blue is the registry courier's colour in ch 8, not Sudhi's.",
-      "fix": "In ch 17, change 'a man in royal blue' to 'a man in palace green'."
+      "chapter": 14,
+      "category": "name",
+      "issue": "In the supper scene, ch 14 reads 'Chinna at the kitchen door with his bad hip.' Chinna is a woman.",
+      "fix": "In ch 14, change 'his bad hip' to 'her bad hip'."
     },
     {
       "id": "E05",
-      "chapter": 22,
+      "chapter": 17,
       "category": "object",
-      "issue": "In ch 20 Devan leaves his grey stone on the sill and keeps Kannan's white pebble as his cheek stone ('Keep Kannan's. It's the clean one.'). In ch 22 he takes 'the grey pebble from his pouch'.",
-      "fix": "In ch 22, change 'take the grey pebble from his pouch' to 'take the white pebble from his pouch'."
+      "issue": "Devan says that on the wedding night she 'slipped the latch like somebody who had done it before, carefully, so the slat wouldn't ring.' In ch 1 Neela leaned on the third slat on purpose to make it creak, and in ch 2 Devan's POV records that 'The third slat creaked.'",
+      "fix": "In ch 17, change the line to: 'Then it slipped the latch like somebody who had done it before, and leaned on the third slat to see if the creak would wake me.'"
     },
     {
       "id": "E06",
-      "chapter": 22,
+      "chapter": 20,
       "category": "knowledge",
-      "issue": "On reading the slip, Neela thinks of Ittan as 'the man who had proposed the match'. Nothing has shown her this. Only Devan knows Ittan's name stood first on the council letter (ch 23), and Ittan says it aloud only in ch 28.",
-      "fix": "In ch 22, replace 'the man who had proposed the match' with 'the man whose letter had asked so warmly after the warden's bride'."
+      "issue": "Ch 20 calls Neela's lie that Devan 'thinks I'm a bride who sleeps badly' 'a first lie'. In ch 18 she had already lied to Ammu several times ('Nobody's seen', 'To learn his sleep', 'He sleeps like a log'), and ch 18 records that as her first lie told to protect someone else.",
+      "fix": "In ch 20, change 'So it was a first lie' to 'So it was the first lie of the morning'."
     },
     {
       "id": "E07",
-      "chapter": 28,
+      "chapter": 24,
       "category": "object",
-      "issue": "Ammu's Valli cloth and resin pouch are found in the roots of the tree where she died, 'cached there before dusk'. In ch 26 to 27, though, Ammu is in the kennel and yard with Neela right up to sunset, and she turns on the cook-house roof. She had no time to reach the tree line before dusk.",
-      "fix": "In ch 28, change 'She had cached it there before dusk' to 'Muthu had found it at the cook-house corner, where she had shed it, and laid it at the tree.'"
+      "issue": "In ch 17 Neela gives her only knife, the plain six-inch guild knife, to Devan and lays it on his side of the sword (F399). In ch 24 Devan thinks of her asleep 'with her knife under the mattress'. In ch 25 she runs down the stair with 'the plain guild knife in her hand', and in ch 26 it is in her belt. No scene shows the knife going back to her.",
+      "fix": "In ch 24's rampart scene, after 'I'll double the watch,' add a short beat where Devan takes the guild knife from his belt and holds it out to her hilt first ('Vellan's coming. It's yours.'). Change his POV line to 'with the knife he had given back to her under the mattress.'"
     },
     {
       "id": "E08",
-      "chapter": 30,
+      "chapter": 7,
       "category": "timeline",
-      "issue": "Devan says the hounds 'went to the kennel within a few nights' of the second dusk. Ch 3 (night two) already has them behind a kennel door, ch 4 says 'every night since your wedding', and ch 16 says 'from the second night'.",
-      "fix": "In ch 30, change 'The hounds went to the kennel within a few nights, the sentry after them' to 'The hounds went to the kennel that same night, the sentry a few nights after.'"
+      "issue": "Ch 7 says Unni is 'not much past twenty'. In ch 12, Asha's slate lists Unni among the recruits she wrote down in her first month at the fort, which was about nine years ago (she arrived at 19 and died at 22, six years ago). That would make him a recruit at about eleven.",
+      "fix": "In ch 7, change 'not much past twenty' to 'five-and-twenty and still blushing like a boy'."
     },
     {
       "id": "E09",
-      "chapter": 17,
-      "category": "knowledge",
-      "issue": "Watching Muthu give Sudhi a grey-sealed letter, Neela notes 'She had seen it three times now.' She has never witnessed one before: the ch 12 handoff is in Devan's POV while she is at supper in the hall.",
-      "fix": "In ch 17, change 'She had seen it three times now.' to 'It was the first time she had seen it, though Janu teased him about his mother's post.'"
+      "chapter": 11,
+      "category": "timeline",
+      "issue": "Ch 11 has Neela recall that Janu said 'He used to have a partner' 'in the first week, over the supper pots.' In ch 3 Janu said it at the lip of the kalari pit during the tour.",
+      "fix": "In ch 11, change 'over the supper pots' to 'at the lip of this pit'."
+    },
+    {
+      "id": "E10",
+      "chapter": 16,
+      "category": "timeline",
+      "issue": "Ch 16 says Neela 'had missed it twice already, the fever night and the night of the narrows', meaning the cup at the meeting stone. In ch 14 she dragged a late scent-mark across the cup on her way back from the narrows. In ch 18 Ammu counts bare cups without the narrows night ('Three nights... Four, if I count the night of the fever').",
+      "fix": "In ch 16, change the clause to: 'She had missed it outright on the fever night, and marked it only late and cold on the night of the narrows.'"
     }
   ]
 }
