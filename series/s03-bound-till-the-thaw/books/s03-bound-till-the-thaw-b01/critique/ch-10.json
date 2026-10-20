@@ -1,41 +1,42 @@
 {
   "scores": {
-    "reader_question": 4.0,
+    "reader_question": 5.0,
     "change": 4.0,
     "romance_movement": 4.0,
-    "shown_chemistry": 4.0,
-    "character_logic": 3.0,
+    "shown_chemistry": 3.0,
+    "character_logic": 4.0,
     "stakes_and_cost": 4.0,
-    "prose": 4.0,
-    "continuity": 0.0
+    "prose": 3.0,
+    "continuity": 5.0
   },
   "reasons": {
-    "reader_question": "A concrete double hook: a feverish man collapses mid-route, his coat is warm against her wrist, and the leak question is planted underneath.",
-    "change": "Asha moves from rival to named threat with a deadline. Meera learns of the leak. Rohan gives a first partial disclosure.",
-    "romance_movement": "The new reason is that he chooses to pay twice and then gives a part anyway. His deliberate 'Meera' and his trembling hands move the bond.",
-    "shown_chemistry": "Guess-banter, the 'bribe-sack' reply, her watching his hands, and the catch at the end all show chemistry without narrating it.",
-    "character_logic": "She hides the leak clue from Rohan with no reason on the page. She checks her fingers after lying to Asha, although lies to others are free.",
-    "stakes_and_cost": "Kiran's pardon set against Rohan's coat is a sharp personal price. The deadline and the hunters press, and the fever adds a cost.",
-    "prose": "Specific and voiced; Asha sparkles. A few muddled lines ('Rivals', 'before the rule') and a 'the weight of' tell.",
-    "continuity": "The firewood arithmetic conflicts with F105: five sticks already burning tonight means the bundle should read 26, not 31 to 30."
+    "reader_question": "Collapse mid-route with the coat warm against her wrist makes survival and the coat's secret urgent and specific.",
+    "change": "Meera now knows the leak came from the plan, holds it as leverage, has a deadline and a partial answer.",
+    "romance_movement": "The reason is new. He pays two sticks and still opens the door. She hides the leak. Neither move replays chapter 9.",
+    "shown_chemistry": "The catch, the trembling hands and the deliberate 'Meera' land. Her reactions are told too often ('she was not ready for that').",
+    "character_logic": "Meera withholding the leak is smart. The 'Not that one' exchange and the second question break her own rule without explanation.",
+    "stakes_and_cost": "Kiran's name on the pardon list is set against Rohan's coat. Burned wood and a hidden fever give each choice a price.",
+    "prose": "The voice is sharp and Asha is vivid. Some interiority is told, the deduction paragraph is clunky and 'long red string' repeats from chapter 9.",
+    "continuity": "Firewood math, the struck third name, ribs, the rope length and forms of address all agree with the facts and chapter 9."
   },
   "fixes": [
-    "Continuity, at 'thirty-one down to thirty, and put it on the coals beside the five': the night's five came from the bundle, so the count should read 31 → 26, then 25 and 24 after the refusals. Correct both numbers and update F110 to match. Alternatively, have her lay the refusal sticks before the night's five, and say so on the page.",
-    "Irrational behaviour, at 'except the one thing she had already put away': give one line of reason for withholding the leak. For example: the leak came from his own post, she cannot yet rule him out, and it is leverage for Kiran's name. Silence is free under the bond, so let her note that she is choosing it.",
-    "Muddled logic, at 'She had told no lie. She had not been asked for one': lies to Asha cost nothing, so a fingers check is out of character for Meera. Cut it and let the Kiran offer cause the shaking. Clarify 'I'm asking before the rule' as 'I'm asking early', and replace 'Fine, then. Rivals.' with a thought that plainly means matching his stubbornness."
+    "At \"Not that one. I'm asking early, so you've\": character logic breaks. Her rule allows one question a night. She announces one, says 'not that one', then asks twice. Make her name the coat question once, accept his refusal, then say she is spending tomorrow night's question too. That makes the second refusal and stick legitimate. Cut 'Two can play at stubborn', which misreads her own rule.",
+    "At \"She noted to herself that she was choosing it\": the withholding is narrated, not shown. Turn it into action. She starts to say 'three wardens', stops, and fills the gap with Asha's price instead. Rohan sees the stop and lets it pass. Likewise cut 'and she was not ready for that' after he opens the door. Show it in her hands or a fumbled stick.",
+    "At \"long red string of the hunters' fires\" (twice here, once in chapter 9): a distinctive image repeats within 3 chapters. Replace both uses with a fresh image tied to Meera's counting, such as a tally of sparks she re-marks. At \"The stones in the wall gave their long low note\", make it the cairn above the hut humming through the slates, matching chapter 9, or list the new magic fact."
   ],
-  "reader_question": "Can Meera keep a fevered Rohan alive with Asha's deadline running, and what will she find in his coat?",
+  "reader_question": "Can Meera keep the fevered Rohan alive, and will she open the coat she is now holding?",
   "techniques_landed": [
     4,
     7,
     16
   ],
-  "new_facts_assessment": "F107 is necessary. But if Varun read the party aloud at the gate, anyone there heard it, so 'only the plan held those numbers' overclaims; make it a private reading. F108 to F112 are fine. Several facts are unlisted: the 200+100 silver bounty on Meera (who posted it?), the regent's 'queen's hand by midwinter', and Rohan's father.",
+  "new_facts_assessment": "F110/F113 firewood count is consistent with F105 and chapter 9 (36-5=31, then 26, 25, 24). F107/F114 'post room' reading is necessary for the C09 deduction and fits F057. Retire the superseded F107 and F110 to avoid ledger clutter. F113/F115 withholding is in character and sets up chapter 16. One fact is unlisted: the hut's wall stones 'gave their long low note... true'. This extends lie-detection to the Rope-Hut itself beyond F081. Either list it or move the sound to the cairn above the hut, as chapter 9 did.",
   "content_rule_violation": false,
   "failure_modes": [
-    "Irrational behaviour to extend plot"
+    "Narrated-only chemistry",
+    "Repetitive imagery"
   ],
-  "average": 3.38,
-  "minimum": 0.0,
-  "passed": false
+  "average": 4.0,
+  "minimum": 3.0,
+  "passed": true
 }
