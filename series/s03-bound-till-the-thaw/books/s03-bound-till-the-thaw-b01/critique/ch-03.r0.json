@@ -1,0 +1,41 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 3.0,
+    "stakes_and_cost": 4.0,
+    "prose": 4.0,
+    "continuity": 5.0
+  },
+  "reasons": {
+    "reader_question": "The chapter ends with two sharp open questions. What will a bound warden do with 'my brother is dying there'? And what was the iron ring before the slide? The second question is planted lightly, so the main pull is the bond itself.",
+    "change": "The value shift lands cleanly: a living crew becomes Meera alone on a rope with her enemy. Command passes to her, Jassi is gone and the approach is closed.",
+    "romance_movement": "The movement has new reasons: a life debt, a handover of command, a truth given for free. It is let down because the most charged beat, Rohan naming 'the medicine', gets no relational reaction.",
+    "shown_chemistry": "Chemistry is carried by responsive action, with little narration. Examples are 'You'll try.' / 'Yes.', the thumb on her wrist with neither moving, and him taking orders 'the way a man takes a wage'. One line, 'It was somehow worse than if he had argued', tells where it could show.",
+    "character_logic": "Two lapses. Rohan grabs Meera's coat although the crossing order put thirty paces between them. Rohan reveals that he knows about the medicine, which he chose to hide in ch 2, and Meera, a smuggler, barely registers that a warden has just named her cargo.",
+    "stakes_and_cost": "The costs are real and land on the page: the stated one-in-four odds, Jassi's death after the liking was earned, the command handover, and a free truth that is also evidence under the Closing Law.",
+    "prose": "The prose is concrete and rhythmic, with a strong goat-and-bell texture. Problems: 'for a long moment' appears twice, 'like a held breath let go' is stock, and the counting motif is pushed close to tic.",
+    "continuity": "Nothing conflicts with the bible or prior chapters. Two items need tracking: the redbark is now in Meera's pack in oilcloth after ch 2 showed it in the goats' fleece, and the cairn 'recross' text is an unlisted new rule."
+  },
+  "fixes": [
+    "At \"And the medicine?\" / She stopped.\" Problem: Irrational behaviour to extend plot. In ch 2 Rohan chose to hide that he had found the redbark, and here a smuggler hears a warden name her cargo and only 'stops'. Fix it one of two ways. Option one: give Meera a beat of recognition and calculation (he knew in the yard, so why didn't he seize it?) and let her silence be a choice with a visible cost. Option two: cut his question and let his later 'Why Ranu?' carry the probe. Either way, record the knowledge change in new-facts.",
+    "At \"A hand fisted in the back of her coat\". Problem: the physical staging contradicts itself, which reads as convenient rescue. The crossing order put the walkers thirty paces apart, and the scene places Rohan 'behind her', yet he reaches her instantly. Fix it in the crossing scene. Show that Rohan broke spacing and closed the gap on her heels, with Meera noticing and resenting it. Or have him already within reach because he ignored her rule. Either version keeps the rescue earned and adds a character beat.",
+    "At \"The pair that crosses this ring may not recross\". Problem: worldbuilding drift. This is an unlisted rule with unclear meaning that is not in Rule 1. Replace it with a quotation that matches the bible: one rope, one pair, until meltwater runs at this cairn. Or cut it. Also replace 'like a held breath let go' with a sensory detail specific to the cairn's hum, and remove one of the two 'for a long moment'."
+  ],
+  "reader_question": "Rohan knows about the medicine and now knows it is bound for her dying brother in Ranu, so what will a warden tied to her until the thaw do with that truth?",
+  "techniques_landed": [
+    5,
+    6,
+    19
+  ],
+  "new_facts_assessment": "All listed facts are necessary and consistent with F050, F057 and the bible.\n\n- Badami and her bell: they serve C25 well. The bell becomes a strong object for later callback.\n- Rohan's cracked left ribs and arm restriction: consistent, and they set up ch 6, where he lies that his ribs are fine.\n- Goat losses and lost probes/poles: fine.\n- Rohan believes Varun is dead: fine.\n- The odds: fine.\n\nThree facts are not listed:\n\n- The cairn text 'The pair that crosses this ring may not recross it for any hand of the crown'. This is a new world rule, absent from the bible, and its meaning is unclear. It risks conflicting with Rule 1. Cut it or define it in new-facts.\n- The redbark now sits in Meera's pack in an oilcloth roll of twelve packets. In ch 2 it was hidden in Bindu's fleece under the goat straps, so the transfer needs one line or a listed fact.\n- Rohan openly asks 'And the medicine?' This tells Meera that the warden knows about the cargo. That is a major change in what each character knows, and it should be listed and dramatised.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Irrational behaviour to extend plot"
+  ],
+  "average": 4.0,
+  "minimum": 3.0,
+  "passed": true
+}
