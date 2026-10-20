@@ -1,7 +1,7 @@
 Upload the Kindle ebook "Vow of Teeth" (s02-vow-of-teeth-b01) to KDP.
 
-Files are in: /Users/vimalcherangattu/romantasy-factory/series/s02-vow-of-teeth/books/s02-vow-of-teeth-b01/package
-Follow /Users/vimalcherangattu/romantasy-factory/series/s02-vow-of-teeth/books/s02-vow-of-teeth-b01/package/upload-checklist.md page by page, using metadata.json, blurb.md and ai-disclosure.md.
+Files are in: /home/user/Romantasy-Factory/series/s02-vow-of-teeth/books/s02-vow-of-teeth-b01/package
+Follow /home/user/Romantasy-Factory/series/s02-vow-of-teeth/books/s02-vow-of-teeth-b01/package/upload-checklist.md page by page, using metadata.json, blurb.md and ai-disclosure.md.
 
 Rules:
 - I am signed in to kdp.amazon.com in this browser. Never type passwords, 2FA codes, tax or bank details.
