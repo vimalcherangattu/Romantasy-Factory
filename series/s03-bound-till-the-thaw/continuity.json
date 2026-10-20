@@ -1204,6 +1204,27 @@
       "fact": "The patrol's pass rule: no one goes in or out of a marked house after the third day without a pass (replaces F176's sixth day), so it falls before the Fair.",
       "since": "s03-bound-till-the-thaw-b01 ch 19",
       "provisional": true
+    },
+    {
+      "id": "F180",
+      "category": "place",
+      "fact": "Nimmi gives Meera and Rohan her storehouse, a plank room against the back wall of her house, full of sacks of dried walnut leaf, with a clay brazier, blankets and a lamp. It shares a wall with the room where Kiran lies.",
+      "since": "s03-bound-till-the-thaw-b01 ch 20",
+      "provisional": true
+    },
+    {
+      "id": "F181",
+      "category": "knowledge",
+      "fact": "Meera's count has a separate ruled-off line near the back reading 'Shilak closed. Three winters. By order.' with Nimmi's yearly death numbers under it. She writes Rohan's name beside it and adds 'Carried water, eleven trips.'",
+      "since": "s03-bound-till-the-thaw-b01 ch 20",
+      "provisional": true
+    },
+    {
+      "id": "F182",
+      "category": "relationship",
+      "fact": "Meera mentioned in the Rope-Hut that the cold gets into her knuckles; Rohan remembers it and treats her split hands with goat fat from Nimmi's shelf.",
+      "since": "s03-bound-till-the-thaw-b01 ch 20",
+      "provisional": true
     }
   ],
   "knowledge": [
