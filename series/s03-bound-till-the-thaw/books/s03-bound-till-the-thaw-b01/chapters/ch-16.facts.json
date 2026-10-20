@@ -1,29 +1,14 @@
 {
   "facts": [
     {
-      "category": "magic",
-      "fact": "A sincere promise made while bound makes the rope hum a low, level note that Meera feels through her wrist; the sound stays even rather than climbing, as a true answer does at the waystone.",
-      "since": "s06 ch 16"
-    },
-    {
       "category": "knowledge",
-      "fact": "Rohan noticed on waking that the seal's cord was retied in the warden's double hitch, and wondered who taught Meera that knot.",
-      "since": "s06 ch 16"
+      "fact": "Rohan noticed the seal cord was retied in his double hitch but snugged harder than he snugs it, which is why he wondered who taught Meera the hitch.",
+      "since": "s03-bound-till-the-thaw-b01 ch 16"
     },
     {
-      "category": "knowledge",
-      "fact": "Meera heard one clean iron strike on stone before the avalanche's first crack in ch3, and now recognises it as a pick set to start the slide, matching the hunters' picks on the Teeth.",
-      "since": "s06 ch 16"
-    },
-    {
-      "category": "knowledge",
-      "fact": "The hunters came up the one chimney line of the Goat's Teeth that lets out behind the stone fold on the herdsmen's cut, the line drawn on Rohan and Varun's single fallback sheet.",
-      "since": "s06 ch 16"
-    },
-    {
-      "category": "timeline",
-      "fact": "Varun has been buried about eleven days at ch16 (revises the nine-day figure in F131).",
-      "since": "s06 ch 16"
+      "category": "object",
+      "fact": "Meera wrote Lalit's called party number ('three wardens, two goat-folk') in the count; she shows the page to Rohan.",
+      "since": "s03-bound-till-the-thaw-b01 ch 16"
     }
   ]
 }
