@@ -2,41 +2,40 @@
   "scores": {
     "reader_question": 4.0,
     "change": 4.0,
-    "romance_movement": 3.0,
-    "shown_chemistry": 3.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
     "character_logic": 3.0,
-    "stakes_and_cost": 4.0,
+    "stakes_and_cost": 3.0,
     "prose": 4.0,
     "continuity": 0.0
   },
   "reasons": {
-    "reader_question": "The closing image is specific and strong: Rohan pockets a redbark grain he can identify and tells no one, after choosing not to cut the bales. It sets the exact question the beat asks for.",
-    "change": "Knowledge shifts (Rohan now holds proof of contraband), the crossing party is fixed, and Rohan moves from control to compromise when he accepts the guide's terms. All three are clear by the end.",
-    "romance_movement": "Both beat reasons are on the page and new: she chooses the pass for Jassi, and she witnesses the Puja kindness. But the respect is reported in one interior line ('He liked less that he understood why'), and the night look ends in a mutual walk-past with no reaction from either.",
-    "shown_chemistry": "The best chemistry is her counting his stride and the lock-and-gate sparring over the law. Otherwise it is mostly Rohan observing her. There is little responsive action between them, and nothing she does that answers something specific of his.",
-    "character_logic": "Rohan's refusal ('no place for a woman who has told me she buried her mother') is a non sequitur for a precise man. He also never asks the name of the guide he is about to cross with. Accepting Varun's route without the guides' view fits the trust the plot needs.",
-    "stakes_and_cost": "Pocketing the redbark in silence breaks his own 'if I bend once' belief and his duty under the Closing Law. The cost is real but unstated, which suits the restraint. Meera's 'you may not come back' adds personal risk.",
-    "prose": "The line work is clean, concrete and quotable ('It hanged a man for crossing and let him keep the rope'), with no banned phrases and no AI tells. Flaws: the pronoun muddle around Hakam ('Hakam there has three fingers. Her husband...'), 'She was good at not looking' echoing ch1's 'good at not thinking', and the button simile ('bright as a coin out of the mint') sitting very close to ch1's 'bright as a new coin', which makes the clue signposted.",
-    "continuity": "The chapter contradicts itself and its own POV knowledge. 'It was the first time she had used the title' comes after she has already said 'Captain' twice in the same scene. Rohan names 'Bindu' in close POV although he never learns her name on the page. New fact F059 says 'arm's depth' but the page says 'to the hilt'."
+    "reader_question": "The ending is sharp. A by-the-book captain finds redbark in the fleece, pockets it and stays silent, and the reader can say why that matters in one sentence. The Varun button opens a second, quieter question.",
+    "change": "Knowledge shifts both ways. Rohan now holds physical proof that the medicine is in the village. Meera has seen him pay a fine she cannot explain. The crossing party is fixed, which moves the plot toward chapter 3.",
+    "romance_movement": "The movement is new and fits the beat. Respect starts against his judgement ('He did not like that she wanted to go. He liked less that he understood why'), tied to his memory of Dilan. Her silent witness at the salt-house door is a new reason for her to doubt her picture of him.",
+    "shown_chemistry": "Chemistry comes through action. She counts his stride, the count skips when he nears the bale, she refuses her name, and 'Count them' turns her honesty into a challenge. He doesn't want her name 'by force, not yet.' One line narrates rather than shows: 'This time it sounded less like respect than like a name written down so it would not be lost.'",
+    "character_logic": "Mostly smart people acting smart. But Rohan leaps from 'torn skin frozen to it' to 'the rim of an ear' with no grounding. Varun, a careful schemer, wears a drop token sewn openly on his uniform in the drop village. Rohan's silence about the redbark is never given even a sliver of motive, so it risks reading as plot convenience rather than strategy.",
+    "stakes_and_cost": "Meera's choice to cross with 'a captain who hangs smugglers' carries a clear cost. Rohan's two bends, leaving the bale uncut and pocketing the powder, cost him nothing on the page. Under the Closing Law, knowing about contraband and letting it travel should be dangerous to a captain whose writ orders him to bring in the Salt Fox.",
+    "prose": "The prose is clean, concrete and fast, with strong lines ('It hanged a man for crossing and let him keep the rope'). Minor flaws: 'and nothing else' closes two early paragraphs, 'Her mouth did something that was not quite a smile' is stock, and 'plainly awake and plainly watching' is a small tic. 'Guide Jassi' muddies the address the chapter has just tied to Meera.",
+    "continuity": "Chapter 1 hides the redbark in Bindu's bale in the goat pen under the salt house, with Bindu sitting on it there. This chapter puts the bales and Bindu on the top floor. The bales could not have been moved three floors with wardens already in the yard."
   },
   "fixes": [
-    "At 'It was the first time she had used the title' (continuity error): she has already said 'Captain' twice in this scene ('\"Captain,\" said the guide' and 'over my dead body, Captain'). Either cut both earlier uses so she first says 'Captain' here, or rewrite the line so Rohan notices that this time the title sounds different, like a name written down so it won't be lost.",
-    "At 'no place for a woman who has told me she buried her mother' (irrational behaviour): the reason does not follow, and it is out of character for a man who reasons in law and arithmetic. Replace it with a reason rooted in his own ledger. For example, he refuses because a guide who argues with a warden in front of the village is a guide who will lie to him on the ice, or because Dilan was a volunteer too. Then let her 'Name him' break that reason.",
-    "At 'Across the yard Bindu bent over the next pack' (POV slip): Rohan never learns her name on the page. Keep her as 'the ropemaker' or 'the thin woman', or add an earlier line where Jassi or the guide names her within his hearing. While fixing names, have Rohan ask the guide's name once in the yard scene and have her evade it. That makes his calling her 'Guide' a choice on both sides instead of an oversight."
+    "At 'On the top floor six wool bales stood against the north wall' (continuity break): chapter 1 hid the redbark in Bindu's bale in the goat pen under the salt house, with her sitting on it. Move this scene to the cellar pen. Rohan comes back down to the pen last, or searches it last, and finds Bindu on the bales among the goats. Keep the probe and the skipped count exactly as written, and change 'eleven steps from the cellar door to the ladder' only if the route needs it.",
+    "At 'It was small and domed and plain, and so new its shank still stood stiff' (irrational behaviour to extend plot, and a signposted clue): this repeats chapter 1's button description nearly word for word. It also has a careful traitor wearing the drop token openly, and Varun's later wink 'Chosen, proposed. Forgive me. A lieutenant's habit' double-flags him. Keep only one matching detail (the stiff shank), describe the rest in Rohan's terms ('brass, cheap, wrong'). Cut the 'Chosen, proposed' line so the gully choice reads as plain competence and the clue stays fair.",
+    "At 'Then he went to find his lieutenant, and said nothing' (stakes without cost): Rohan's silence costs him nothing on the page. Add one or two short sentences before this line naming his risk under the Closing Law, for example that a warden who knows a load and lets it cross is harbouring by the letter. Give a sliver of strategic motive (follow the medicine to the Fox) without resolving the question. While revising, ground 'A man who loses the rim of an ear leaves that' with one concrete detail from the report, such as a curl of frozen cartilage, so the leap is earned."
   ],
-  "reader_question": "Rohan now knows the redbark is in the wool, so why is he keeping it from his lieutenant, and what will he do with the guide at the thaw?",
+  "reader_question": "Rohan has found redbark grains in the crew's fleece and knows the bale he refused to cut was the hiding place, so why is a captain who 'hangs smugglers' keeping silent, and what will he do with what he's pocketed?",
   "techniques_landed": [
     13,
     15,
     16
   ],
-  "new_facts_assessment": "Hakam (F056) is useful texture, but the page makes his gender unclear: 'Her husband' follows his name, so either fix the pronoun or split it into two villagers. The party of four (F057) is necessary and consistent with the bible's two-pair rule. F058 (Varun knows of the seal) is not on the page at all; the draft admits this. Remove it from the facts or put it on the page, since it matters for Asha's knowledge chain. The probe spike (F059) is a good, necessary object, but the fact text says 'arm's depth' while the page says 'to the hilt'; make them agree. The brass button (F060) plants C22 well, but its wording repeats ch1's simile too closely. Puja's fine (F061) is concrete and consistent with ch1's mention of Puja and her son. The mother's death from grey cough (F062) is consistent with the bible's fever in a closed winter ten winters ago, and it gives Rohan public knowledge he can use later.",
+  "new_facts_assessment": "new-facts.json is empty, but the draft adds facts that should have been listed:\n- Hakam, the three-fingered man. Harmless.\n- Meera's mother dying of the grey cough ten winters ago. Consistent with the timeline.\n- The warden iron probe spike. Useful, and makes the uncut bale plausible.\n- The Dilan report wording: 'blood on the ice, and torn skin frozen to it'. Needed for C03, but the ear inference needs grounding.\n- The crossing party of Rohan, Varun, Jassi and Meera. Matches the beat.\n- Varun's pedlar-button story, his summer walk of the approaches, and the face cornice versus the sheltered gully. All necessary for C04 and C22, and consistent with the avalanche in chapter 3.\n- Puja's fine of eighteen silver for salt in her late husband's lean-to. Consistent with chapter 1's mention of widow Puja's son.\n- Every warden post keeps redbark for winter coughs. Valuable: it lets Rohan identify the powder and quietly supports the crown-stores theft (S2).\n- Varun has served under Rohan for two years. New and harmless.\n- Rohan once argued for the Closing Law in a council room. New and useful for his arc.\nThe one conflicting addition is the location of the wool bales on the top floor, which contradicts chapter 1. A risk to flag: the brass button is described almost word for word as in chapter 1. Meera is about to cross paired with Varun, so the bible's chapter 16 reveal needs her not to see or connect that button. Later Meera chapters must keep it out of her sightline or give her a reason to miss it.",
   "content_rule_violation": false,
   "failure_modes": [
-    "Irrational behaviour to extend plot",
-    "Narrated-only chemistry"
+    "Irrational behaviour to extend plot"
   ],
-  "average": 3.12,
+  "average": 3.25,
   "minimum": 0.0,
   "passed": false
 }

@@ -1,0 +1,41 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 3.0,
+    "stakes_and_cost": 3.0,
+    "prose": 4.0,
+    "continuity": 0.0
+  },
+  "reasons": {
+    "reader_question": "The ending is sharp. A by-the-book captain finds redbark in the fleece, pockets it and stays silent, and the reader can say why that matters in one sentence. The Varun button opens a second, quieter question.",
+    "change": "Knowledge shifts both ways. Rohan now holds physical proof that the medicine is in the village. Meera has seen him pay a fine she cannot explain. The crossing party is fixed, which moves the plot toward chapter 3.",
+    "romance_movement": "The movement is new and fits the beat. Respect starts against his judgement ('He did not like that she wanted to go. He liked less that he understood why'), tied to his memory of Dilan. Her silent witness at the salt-house door is a new reason for her to doubt her picture of him.",
+    "shown_chemistry": "Chemistry comes through action. She counts his stride, the count skips when he nears the bale, she refuses her name, and 'Count them' turns her honesty into a challenge. He doesn't want her name 'by force, not yet.' One line narrates rather than shows: 'This time it sounded less like respect than like a name written down so it would not be lost.'",
+    "character_logic": "Mostly smart people acting smart. But Rohan leaps from 'torn skin frozen to it' to 'the rim of an ear' with no grounding. Varun, a careful schemer, wears a drop token sewn openly on his uniform in the drop village. Rohan's silence about the redbark is never given even a sliver of motive, so it risks reading as plot convenience rather than strategy.",
+    "stakes_and_cost": "Meera's choice to cross with 'a captain who hangs smugglers' carries a clear cost. Rohan's two bends, leaving the bale uncut and pocketing the powder, cost him nothing on the page. Under the Closing Law, knowing about contraband and letting it travel should be dangerous to a captain whose writ orders him to bring in the Salt Fox.",
+    "prose": "The prose is clean, concrete and fast, with strong lines ('It hanged a man for crossing and let him keep the rope'). Minor flaws: 'and nothing else' closes two early paragraphs, 'Her mouth did something that was not quite a smile' is stock, and 'plainly awake and plainly watching' is a small tic. 'Guide Jassi' muddies the address the chapter has just tied to Meera.",
+    "continuity": "Chapter 1 hides the redbark in Bindu's bale in the goat pen under the salt house, with Bindu sitting on it there. This chapter puts the bales and Bindu on the top floor. The bales could not have been moved three floors with wardens already in the yard."
+  },
+  "fixes": [
+    "At 'On the top floor six wool bales stood against the north wall' (continuity break): chapter 1 hid the redbark in Bindu's bale in the goat pen under the salt house, with her sitting on it. Move this scene to the cellar pen. Rohan comes back down to the pen last, or searches it last, and finds Bindu on the bales among the goats. Keep the probe and the skipped count exactly as written, and change 'eleven steps from the cellar door to the ladder' only if the route needs it.",
+    "At 'It was small and domed and plain, and so new its shank still stood stiff' (irrational behaviour to extend plot, and a signposted clue): this repeats chapter 1's button description nearly word for word. It also has a careful traitor wearing the drop token openly, and Varun's later wink 'Chosen, proposed. Forgive me. A lieutenant's habit' double-flags him. Keep only one matching detail (the stiff shank), describe the rest in Rohan's terms ('brass, cheap, wrong'). Cut the 'Chosen, proposed' line so the gully choice reads as plain competence and the clue stays fair.",
+    "At 'Then he went to find his lieutenant, and said nothing' (stakes without cost): Rohan's silence costs him nothing on the page. Add one or two short sentences before this line naming his risk under the Closing Law, for example that a warden who knows a load and lets it cross is harbouring by the letter. Give a sliver of strategic motive (follow the medicine to the Fox) without resolving the question. While revising, ground 'A man who loses the rim of an ear leaves that' with one concrete detail from the report, such as a curl of frozen cartilage, so the leap is earned."
+  ],
+  "reader_question": "Rohan has found redbark grains in the crew's fleece and knows the bale he refused to cut was the hiding place, so why is a captain who 'hangs smugglers' keeping silent, and what will he do with what he's pocketed?",
+  "techniques_landed": [
+    13,
+    15,
+    16
+  ],
+  "new_facts_assessment": "new-facts.json is empty, but the draft adds facts that should have been listed:\n- Hakam, the three-fingered man. Harmless.\n- Meera's mother dying of the grey cough ten winters ago. Consistent with the timeline.\n- The warden iron probe spike. Useful, and makes the uncut bale plausible.\n- The Dilan report wording: 'blood on the ice, and torn skin frozen to it'. Needed for C03, but the ear inference needs grounding.\n- The crossing party of Rohan, Varun, Jassi and Meera. Matches the beat.\n- Varun's pedlar-button story, his summer walk of the approaches, and the face cornice versus the sheltered gully. All necessary for C04 and C22, and consistent with the avalanche in chapter 3.\n- Puja's fine of eighteen silver for salt in her late husband's lean-to. Consistent with chapter 1's mention of widow Puja's son.\n- Every warden post keeps redbark for winter coughs. Valuable: it lets Rohan identify the powder and quietly supports the crown-stores theft (S2).\n- Varun has served under Rohan for two years. New and harmless.\n- Rohan once argued for the Closing Law in a council room. New and useful for his arc.\nThe one conflicting addition is the location of the wool bales on the top floor, which contradicts chapter 1. A risk to flag: the brass button is described almost word for word as in chapter 1. Meera is about to cross paired with Varun, so the bible's chapter 16 reveal needs her not to see or connect that button. Later Meera chapters must keep it out of her sightline or give her a reason to miss it.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Irrational behaviour to extend plot"
+  ],
+  "average": 3.25,
+  "minimum": 0.0,
+  "passed": false
+}

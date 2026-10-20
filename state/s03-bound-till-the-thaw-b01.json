@@ -28,19 +28,19 @@
       "minimum": 3.0
     },
     "02": {
-      "status": "revised",
+      "status": "failed",
       "revisions": 1,
       "scores": {
         "reader_question": 4.0,
         "change": 4.0,
-        "romance_movement": 3.0,
-        "shown_chemistry": 3.0,
+        "romance_movement": 4.0,
+        "shown_chemistry": 4.0,
         "character_logic": 3.0,
-        "stakes_and_cost": 4.0,
+        "stakes_and_cost": 3.0,
         "prose": 4.0,
         "continuity": 0.0
       },
-      "average": 3.12,
+      "average": 3.25,
       "flags": [],
       "words": 2742,
       "minimum": 0.0
@@ -289,8 +289,12 @@
     {
       "at": "2026-10-20T01:57:51",
       "event": "done: S6 revise ch 2"
+    },
+    {
+      "at": "2026-10-20T01:59:39",
+      "event": "done: S5 critique ch 2"
     }
   ],
-  "updated_at": "2026-10-20T01:57:51",
+  "updated_at": "2026-10-20T01:59:39",
   "midpoint_chapter": 16
 }
