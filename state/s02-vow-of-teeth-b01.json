@@ -959,7 +959,7 @@
       }
     },
     "30": {
-      "status": "passed",
+      "status": "edited",
       "revisions": 2,
       "scores": {
         "reader_question": 4.0,
@@ -975,14 +975,25 @@
       "flags": [
         "needs-owner"
       ],
-      "words": 2739,
+      "words": 2727,
       "minimum": 0.0,
       "continuity_fixes": [
         "Devan says he left the shutters 'Open, as my father kept them' on the first night, but ch 1 and ch 2 show them closed, and Neela opens them herself. FIX: In ch 30, change 'Open, as my father kept them' to 'Shut on the latch and never barred, as my father kept them'.",
         "Devan says she touched the base of his skull 'in the dark' in bed and lay down afterwards, and that he was afraid of her 'for about nine days'. The three-breath touch happened at dawn in the kalari while he drilled (ch 11, ch 12). In ch 17 he said his fear lasted 'about a breath'. FIX: In ch 30, move the scene to the pit: 'You came down the north steps while I drilled. You put your fingers at the base of my skull...you lifted your hand and told me my guard dropped on the left.' Change 'afraid' to 'wary' and 'nine days' to 'eleven days'. Have Neela answer 'You stopped breathing. I thought you were waiting for the blow.'",
         "Devan says he stopped Janu's stories by asking her 'at the table, by day' and telling her he was 'tired of leopards', and that Neela 'weren't in the room'. In ch 9 he stopped the story at supper with Neela at the table, saying 'Not tonight, Janu'. FIX: In ch 30, change it to 'I stopped her at supper, you were there. Afterwards I told her in the kitchen, by day, that I was tired of leopards. You weren't in the kitchen.'",
         "Devan says the hounds 'went to the kennel within a few nights' of the second dusk. Ch 3 (night two) already has them behind a kennel door, ch 4 says 'every night since your wedding', and ch 16 says 'from the second night'. FIX: In ch 30, change 'The hounds went to the kennel within a few nights, the sentry after them' to 'The hounds went to the kennel that same night, the sentry a few nights after.'"
-      ]
+      ],
+      "style": {
+        "words": 2727,
+        "banned_hits": {},
+        "ai_tell_hits": {},
+        "ai_tells_per_1000": 0.0,
+        "top_4gram": "pay for it she",
+        "top_4gram_count": 2,
+        "longest_paragraph_words": 104,
+        "em_dashes_per_1000": 0.37,
+        "reading_ease": 96.1
+      }
     },
     "31": {
       "status": "passed",
@@ -2115,9 +2126,13 @@
     {
       "at": "2026-10-20T08:03:33",
       "event": "done: S8 line edit ch 29"
+    },
+    {
+      "at": "2026-10-20T08:04:11",
+      "event": "done: S8 line edit ch 30"
     }
   ],
-  "updated_at": "2026-10-20T08:03:33",
+  "updated_at": "2026-10-20T08:04:11",
   "midpoint_chapter": 16,
   "continuity_attempts": 3,
   "continuity_last_errors": 2
