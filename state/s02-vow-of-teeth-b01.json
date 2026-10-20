@@ -370,7 +370,7 @@
       "minimum": 3.0
     },
     "18": {
-      "status": "continuity-fix",
+      "status": "revised",
       "revisions": 1,
       "scores": {
         "reader_question": 3.0,
@@ -384,7 +384,7 @@
       },
       "average": 4.12,
       "flags": [],
-      "words": 2681,
+      "words": 2759,
       "minimum": 3.0,
       "continuity_fixes": [
         "Ammu says she has written to Kirri 'eleven times'. In ch 7 she had written three letters, and the bible fixes the count at three (C08). FIX: In ch 18, change 'I've written eleven times to the address she gave' to 'I've written four times now to the address she gave'.",
@@ -1495,9 +1495,13 @@
     {
       "at": "2026-10-20T00:39:04",
       "event": "done: S5 critique ch 16"
+    },
+    {
+      "at": "2026-10-20T00:39:48",
+      "event": "done: S6 revise ch 18"
     }
   ],
-  "updated_at": "2026-10-20T00:39:04",
+  "updated_at": "2026-10-20T00:39:48",
   "midpoint_chapter": 16,
   "continuity_attempts": 2,
   "continuity_last_errors": 13
