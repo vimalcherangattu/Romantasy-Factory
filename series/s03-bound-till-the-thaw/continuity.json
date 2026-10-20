@@ -1288,6 +1288,27 @@
       "fact": "When Rohan says 'I will not' (pull the rope at the second dusk), the rope hums low and level; Meera feels it, writes 'Two days. R. promised.' in the count and takes his hand (applies F149).",
       "since": "s03-bound-till-the-thaw-b01 ch 21",
       "provisional": true
+    },
+    {
+      "id": "F192",
+      "category": "timeline",
+      "fact": "Recount after Kiran's day of sleep: the Fair is three days off at chapter start. Rohan concedes one day in Ranu; the two marked cases take their last dose at dusk tomorrow; they leave at first light the morning after; a day and a half of road lands them at Garh Neshar the evening before the Fair. Supersedes F185 and F189.",
+      "since": "s03-bound-till-the-thaw-b01 ch 21",
+      "provisional": true
+    },
+    {
+      "id": "F193",
+      "category": "object",
+      "fact": "The patrol's pass rule bites on the third day, the day after Meera and Rohan leave, so Nimmi must finish the waves behind a shut door (consistent with F179). Meera says six days would treat everyone properly; Nimmi carries the remaining waves alone after tomorrow's dusk. Supersedes F187 and F190.",
+      "since": "s03-bound-till-the-thaw-b01 ch 21",
+      "provisional": true
+    },
+    {
+      "id": "F194",
+      "category": "magic",
+      "fact": "When Rohan says he will not pull the rope at tomorrow's dusk, the rope hums low and level; Meera writes 'One day. R. promised.' in the count and takes his hand. Supersedes F191's wording.",
+      "since": "s03-bound-till-the-thaw-b01 ch 21",
+      "provisional": true
     }
   ],
   "knowledge": [
