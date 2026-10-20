@@ -356,3 +356,4 @@ timestamp,book_id,stage,model,input_tokens,output_tokens,cache_read_input_tokens
 2026-10-20T09:08:01,s02-vow-of-teeth-b01,summary,sonnet,2,3353,0,186339,31586,1,0.77889
 2026-10-20T09:08:47,s02-vow-of-teeth-b01,package,sonnet,2,4919,8762,45086,39119,1,0.2304142
 2026-10-20T09:11:11,s02-vow-of-teeth-b01,beta_reader,opus,2,9847,12365,53380,115293,1,0.6264609999999999
+2026-10-20T19:25:17,s03-bound-till-the-thaw-b01,draft,sonnet,2,10075,0,57161,100097,1,0.32939799999999997
