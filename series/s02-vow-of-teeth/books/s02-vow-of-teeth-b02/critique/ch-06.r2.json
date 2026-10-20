@@ -1,0 +1,39 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 3.0,
+    "stakes_and_cost": 4.0,
+    "prose": 4.0,
+    "continuity": 0.0
+  },
+  "reasons": {
+    "reader_question": "Clear forward question (raid the groves, dry flask), plus an ironic undertow: what the contract leaves hold about the hill fort.",
+    "change": "Knowledge (two-part ledger), a stated term and a ride tonight all change the state; the plan gains its fault line.",
+    "romance_movement": "First values fight ends in a term and 'I'd rather that than a silence'. The reason is new and respect survives disagreement.",
+    "shown_chemistry": "Shown in action: he rises and does not touch her, the quick hard handshake, 'You're a nuisance' / 'Yes.'",
+    "character_logic": "Devan promises to tell Rema 'at first light' after riding out at full dark. That is a hole for a literal, exact man.",
+    "stakes_and_cost": "Leaving forfeits her answer to Rema's sealed case and reads as flight; the ache clock and her last smear give real cost.",
+    "prose": "Clean and voiced. Mild echoes ('cost her something', 'She did not answer' twice, 'took it' twice); the question-for-question line is muddy.",
+    "continuity": "Ch 5 has Devan say the jar 'goes down at noon'; here it goes at first light. Night/dusk order inside the chapter also breaks."
+  },
+  "fixes": [
+    "\"At dusk he went to close the shutters\": continuity break. The sitting opened at lamp-lighting and ran two hours, and the letter scene is already night. Reset this scene to late night. Drop or recast the dusk burn as the night sweat. Change 'At full dark' to 'within the hour'. Replace 'the last of the light' and 'the dark going blue' with lamplight or moonlight imagery.",
+    "\"Kesu's grandson would carry it down the goat path at first light\": contradicts ch 5, where Devan tells Ittan the jar 'goes down at noon. Warmed.' Have the jar go down at noon with Kesu's grandson, with this letter following by the next walker. Or have Devan note he missed the hour and say why. Cut 'wrapped in wet cloth against the cold', which clashes with 'warmed'.",
+    "\"I'll tell her at first light that my wife\": character-logic hole, since they ride at full dark. Have Devan say he will wake Rema before they ride, or leave a sealed word with Janu for first light. Let Neela name the risk that Rema reads a letter as flight, which keeps the cost on the page."
+  ],
+  "reader_question": "Can a hunted rogue with one smear left steal resin from the guild's own trees before the ache takes her, and what will the contract leaves say about her when she reads them aloud?",
+  "techniques_landed": [
+    15,
+    10,
+    14
+  ],
+  "new_facts_assessment": "Two-part ledger (F480/F485) is necessary and fits the bible's B2 midpoint. Handover term and no-clerks rule fit Rule 3. Noon tapping and bare-skin burn are fine. The resin recount (F483) is plausible but must match ch 3, when the hounds ran loose. F478 (first light) contradicts ch 5's 'noon'.",
+  "content_rule_violation": false,
+  "failure_modes": [],
+  "average": 3.38,
+  "minimum": 0.0,
+  "passed": false
+}

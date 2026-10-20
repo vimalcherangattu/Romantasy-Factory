@@ -6,36 +6,34 @@
     "shown_chemistry": 4.0,
     "character_logic": 3.0,
     "stakes_and_cost": 4.0,
-    "prose": 3.0,
+    "prose": 4.0,
     "continuity": 0.0
   },
   "reasons": {
-    "reader_question": "The groves raid is set up clearly, with the ache, Rema's sealed case and hunters pressing. The dry-flask ending blurs it slightly.",
-    "change": "Knowledge and relationship both move: ledger structure stated, first term agreed, a mission chosen. The fault line is named on the page.",
-    "romance_movement": "The first values fight ends in a stated term and 'I'd rather that than a silence'. Disagreement survives respect, which is a new reason.",
-    "shown_chemistry": "Responsive acts carry it: he adds the no-clerks rule, offers to hand her a cloth, gives her a plain answer about the stakes. Little narration.",
-    "character_logic": "Leaving 'tomorrow, by day' cannot reach groves a day's ride off by noon. A dusk smear 'over the wall' contradicts the daylight plan.",
-    "stakes_and_cost": "Each choice is priced: missing Rema's swearing reads as flight, the ache is coming, resin is scarce, his leaving leaves the fort to Muthu.",
-    "prose": "Clean and voiced, but the sum/arithmetic motif is overworked. 'A name she did not know the fort of' is muddled, and some beats echo.",
-    "continuity": "'Eleven days past forced resin' conflicts with the timeline (about sixteen days). Two smears kept contradicts the beat's 'last smear' and F481."
+    "reader_question": "Clear forward question (raid the groves, dry flask), plus an ironic undertow: what the contract leaves hold about the hill fort.",
+    "change": "Knowledge (two-part ledger), a stated term and a ride tonight all change the state; the plan gains its fault line.",
+    "romance_movement": "First values fight ends in a term and 'I'd rather that than a silence'. The reason is new and respect survives disagreement.",
+    "shown_chemistry": "Shown in action: he rises and does not touch her, the quick hard handshake, 'You're a nuisance' / 'Yes.'",
+    "character_logic": "Devan promises to tell Rema 'at first light' after riding out at full dark. That is a hole for a literal, exact man.",
+    "stakes_and_cost": "Leaving forfeits her answer to Rema's sealed case and reads as flight; the ache clock and her last smear give real cost.",
+    "prose": "Clean and voiced. Mild echoes ('cost her something', 'She did not answer' twice, 'took it' twice); the question-for-question line is muddy.",
+    "continuity": "Ch 5 has Devan say the jar 'goes down at noon'; here it goes at first light. Night/dusk order inside the chapter also breaks."
   },
   "fixes": [
-    "At 'eleven days past forced resin and getting worse': the count conflicts with the timeline. The forced resin fell in B1 ch27, at least twelve days before the rains began, plus nine days of rain and several since. Change it to 'past her last proper resin' or give the correct count. Then reconcile the smear count: either match the beat ('the last smear') or keep two and correct F481. List both facts in new-facts.json.",
-    "At 'Tomorrow,' he said. / 'By day, with a knife and a flask': this is irrational behaviour to extend plot. The groves are a day's hard ride off, so they cannot tap at noon tomorrow. Her plan also spends a smear 'to get over the wall as the other one', which needs dusk. Make it 'We ride tonight', so they reach the groves by the next noon. Or make the wall smear part of a later night stage.",
-    "At 'a name she did not know the fort of': this is muddled prose that also hints she knows the victim's name, a continuity risk. Rewrite it as 'a stair she could not place, a woman she never saw, and a number.' Also cut one of the four sum/arithmetic echoes (keep 'I'm doing the arithmetic'). Sharpen the last line so the dry flask points at the raid, e.g. 'Then we'd better fill it.'"
+    "\"At dusk he went to close the shutters\": continuity break. The sitting opened at lamp-lighting and ran two hours, and the letter scene is already night. Reset this scene to late night. Drop or recast the dusk burn as the night sweat. Change 'At full dark' to 'within the hour'. Replace 'the last of the light' and 'the dark going blue' with lamplight or moonlight imagery.",
+    "\"Kesu's grandson would carry it down the goat path at first light\": contradicts ch 5, where Devan tells Ittan the jar 'goes down at noon. Warmed.' Have the jar go down at noon with Kesu's grandson, with this letter following by the next walker. Or have Devan note he missed the hour and say why. Cut 'wrapped in wet cloth against the cold', which clashes with 'warmed'.",
+    "\"I'll tell her at first light that my wife\": character-logic hole, since they ride at full dark. Have Devan say he will wake Rema before they ride, or leave a sealed word with Janu for first light. Let Neela name the risk that Rema reads a letter as flight, which keeps the cost on the page."
   ],
-  "reader_question": "Can a rogue odiyan with two smears of resin and the ache coming on raid the guild's own groves and ledger before Rema opens the case that may name her?",
+  "reader_question": "Can a hunted rogue with one smear left steal resin from the guild's own trees before the ache takes her, and what will the contract leaves say about her when she reads them aloud?",
   "techniques_landed": [
     15,
     10,
     14
   ],
-  "new_facts_assessment": "new-facts.json is empty but the draft adds several facts, and all must be listed. 1) The front half of the ledger is plain ink in Resin House cipher. 2) The 'no clerks in the room' handover term. 3) Nightbark can be tapped at noon and burns only on bare skin. 4) Two smears are kept, contradicting F481. 5) The text of Devan's letter. Most are necessary and consistent with the bible. The smear count and the day count need reconciling.",
+  "new_facts_assessment": "Two-part ledger (F480/F485) is necessary and fits the bible's B2 midpoint. Handover term and no-clerks rule fit Rule 3. Noon tapping and bare-skin burn are fine. The resin recount (F483) is plausible but must match ch 3, when the hounds ran loose. F478 (first light) contradicts ch 5's 'noon'.",
   "content_rule_violation": false,
-  "failure_modes": [
-    "Irrational behaviour to extend plot"
-  ],
-  "average": 3.25,
+  "failure_modes": [],
+  "average": 3.38,
   "minimum": 0.0,
   "passed": false
 }
