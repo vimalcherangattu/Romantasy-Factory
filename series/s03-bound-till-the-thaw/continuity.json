@@ -602,6 +602,27 @@
       "fact": "Rohan tells Meera that he carries a thing the regent's side would pay a lordship for, and that he believes the four pursuers have been told where to find him. He declines to name it.",
       "since": "s03-bound-till-the-thaw-b01 ch 7",
       "provisional": true
+    },
+    {
+      "id": "F094",
+      "category": "knowledge",
+      "fact": "Meera infers from the two ropes that Asha's four are two bound pairs who each spoke their true names at the Shilak Cairn, and that someone paid them enough to do it.",
+      "since": "s03-bound-till-the-thaw-b01 ch 7",
+      "provisional": true
+    },
+    {
+      "id": "F095",
+      "category": "knowledge",
+      "fact": "Rohan wonders aloud who knew his route, saying it was chosen for him and only a handful saw it.",
+      "since": "s03-bound-till-the-thaw-b01 ch 7",
+      "provisional": true
+    },
+    {
+      "id": "F096",
+      "category": "injury",
+      "fact": "Meera tells a small lie to Rohan ('I don't care a fig for the shelf'); her right fingertips whiten for an hour and Rohan reads it from her hand.",
+      "since": "s03-bound-till-the-thaw-b01 ch 7",
+      "provisional": true
     }
   ],
   "knowledge": [

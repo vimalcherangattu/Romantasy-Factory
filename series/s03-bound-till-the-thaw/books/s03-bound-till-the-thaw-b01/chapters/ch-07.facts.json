@@ -1,24 +1,22 @@
 {
   "facts": [
     {
-      "category": "object",
-      "fact": "Rohan's writ is a folded creamy paper with red wax, carried in a boiled-leather writ case stamped with a goat. Meera cuts a strip from the case to make snow goggles, and Rohan moves the paper inside his coat.",
-      "why": "needed because the beat has her cut goggle slits from a strip of leather from his writ case."
-    },
-    {
-      "category": "object",
-      "fact": "Asha's crew is recognisable by packs covered in onion-skin ochre canvas.",
-      "why": "needed because Meera must identify the distant pairs as Asha's crew."
-    },
-    {
-      "category": "place",
-      "fact": "The crew ledge is a shelf cut by Bindu's mother forty winters ago into the cornice on the south face, with iron pegs and a cache of three days' food and two dry blankets. It is reached across a gully with an eight-pace snow bridge.",
-      "why": "needed because the beat requires a hidden crew ledge and a snow bridge that fails."
-    },
-    {
+      "id": "F094",
       "category": "knowledge",
-      "fact": "Rohan tells Meera that he carries a thing the regent's side would pay a lordship for, and that he believes the four pursuers have been told where to find him. He declines to name it.",
-      "why": "needed for the beat in which he admits carrying something valuable without saying what."
+      "fact": "Meera infers from the two ropes that Asha's four are two bound pairs who each spoke their true names at the Shilak Cairn, and that someone paid them enough to do it.",
+      "since": "s03-bound-till-the-thaw-b01 ch 7"
+    },
+    {
+      "id": "F095",
+      "category": "knowledge",
+      "fact": "Rohan wonders aloud who knew his route, saying it was chosen for him and only a handful saw it.",
+      "since": "s03-bound-till-the-thaw-b01 ch 7"
+    },
+    {
+      "id": "F096",
+      "category": "injury",
+      "fact": "Meera tells a small lie to Rohan ('I don't care a fig for the shelf'); her right fingertips whiten for an hour and Rohan reads it from her hand.",
+      "since": "s03-bound-till-the-thaw-b01 ch 7"
     }
   ]
 }
