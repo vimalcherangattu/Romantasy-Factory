@@ -1,29 +1,18 @@
 {
   "facts": [
     {
-      "category": "place",
-      "fact": "A wind-felled juniper lies about ten paces downslope of the Rope-Hut door, just past the rope's eight-span reach from the sill; Meera burns its wet deadfall by day and saves the dry stick bundle for nights.",
-      "why": "needed because the beat requires her to drag Rohan to the door to reach the deadfall."
-    },
-    {
+      "id": "F121",
       "category": "object",
-      "fact": "Asha's crew leaves a bundle hung in the deadfall juniper: sattu, dried apricots, a twist of salt and a strip of smoked goat, tied in the three-nested-loop knot that matches the cairn carving. Meera sketches it in the count and does not eat or decide its purpose yet.",
-      "why": "needed because the beat has Asha's crew leave a tied-off food cache whose knot plants clue C12."
+      "fact": "Asha's crew leaves a bundle hung in the deadfall juniper: sattu, dried apricots, a twist of salt and a strip of smoked goat, tied in the three-nested-loop knot that matches the cairn carving. Meera sketches it in the count as 'Same as cairn'. She eats a strip of the goat at noon; Rohan does not. She has not decided its purpose.",
+      "since": "s03-bound-till-the-thaw-b01 ch 12",
+      "provisional": true
     },
     {
-      "category": "knowledge",
-      "fact": "Rohan takes a second half-pinch of redbark at first light this chapter; his fever has broken but he cannot walk.",
-      "why": "needed to bridge ch 11's fever to a lucid but weak Rohan."
-    },
-    {
+      "id": "F123",
       "category": "name",
-      "fact": "The second man Rohan hanged was Ketan, seventeen, carrying forty pounds of salt to his mother in a high village; the first was an unnamed lowland runner of about thirty-one who carried powder for the regent's men. Rohan paid the mother's fine for the lean-to afterwards.",
-      "why": "needed because the beat requires Rohan to describe the boy he hanged."
-    },
-    {
-      "category": "knowledge",
-      "fact": "The Shilak post's file on the guides records only the high price of a crossing, not the double rate for the rich or the free crossings for the poor. Rohan has read it eleven times.",
-      "why": "needed to support Rohan's line that the double price is in no record."
+      "fact": "The second man Rohan hanged was Ketan, seventeen, a lowland boy from the Taravan road carrying forty pounds of salt over the closed pass to his mother, who had married into Neshar and had a cough. The first was an unnamed lowland runner of about thirty-one who carried powder for the regent's men. Rohan afterwards paid the fine the post levied on Ketan's mother.",
+      "since": "s03-bound-till-the-thaw-b01 ch 12",
+      "provisional": true
     }
   ]
 }
