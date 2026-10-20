@@ -3,38 +3,40 @@
     "reader_question": 4.0,
     "change": 4.0,
     "romance_movement": 4.0,
-    "shown_chemistry": 4.0,
+    "shown_chemistry": 5.0,
     "character_logic": 4.0,
     "stakes_and_cost": 4.0,
     "prose": 3.0,
     "continuity": 0.0
   },
   "reasons": {
-    "reader_question": "The beat's question, mercy or patience, is stated outright and then made sharper by a deadline: the cup is bare at grey and Ammu climbs the spur by noon.",
-    "change": "Power changes hands for real. Devan gives up the bargain with no terms, and Neela moves from refusing him to running a deliberate test of him.",
-    "romance_movement": "The reason is new. He names his own offer as the guild's leash and withdraws it, and her distrust is rational and costs her the report. This is not a replay of ch15's refusal.",
-    "shown_chemistry": "Chemistry comes through responsive action, not narration: the hilt laid toward her, the shutters left to her, 'It won't be the worst thing I've wanted and not had', and the breath he lets her count.",
-    "character_logic": "Devan's self-recognition comes from a planted memory (border school, F143). Neela weighs two mistakes like a professional and states the cost of skipping resin before she pays it.",
-    "stakes_and_cost": "Skipping resin costs her the stone report, a second refusal logged by the watcher, Ammu's visit and a night against the ache. All of it is named.",
-    "prose": "The prose is mostly clean, concrete and free of banned phrases, but it has slips. Neela's narration says 'leopard' twice, which breaks her voice rule. The breath passage contradicts itself. 'The hounds first.' comes after the shutters. 'Twenty-seven years' sits oddly against 21 years in the guild.",
-    "continuity": "'She had missed it once already, the night of his fever' conflicts with F372. In ch14 she knowingly skipped the stone a second night for the narrows, so tonight's bare cup is the third, not the second."
+    "reader_question": "The beat's question lands cleanly in the last scene ('could not make the number come out to mercy or to patience'), and the bare cup and Ammu due by noon give it a deadline.",
+    "change": "Power shifts: Devan gives up his leverage with no terms, and Neela moves from a captive under a bargain to a tester running a deliberate experiment. Her knowledge of the first half is also recast.",
+    "romance_movement": "The reason is new. He names his own offer as the guild's leash and withdraws it, and her distrust is now rational policy rather than reflex. It falls short of a 5 because her verdict hedges more than the beat's 'one conclusion'.",
+    "shown_chemistry": "Responsive action carries it: hands turned palm out then let fall, 'the shutters are yours', the sword set hilt toward her, and the breath-hitch given on purpose so she can count him. That last image is quotable.",
+    "character_logic": "Both act smartly. Devan hears the debt-letter in his own voice and acts before dusk, and Neela frames two asymmetric mistakes and tests only what tonight can test. The Raiu/unlit-lamp rationale is muddled.",
+    "stakes_and_cost": "Skipping resin is priced on the page: a fresh refusal in the watcher's log, a bare cup, Ammu climbing by noon, and the ache ledger. The emotional cost ('the one that hurt') is chosen knowingly.",
+    "prose": "Devan's scene is strong ('You cannot hand a woman her own cage back with terms attached'). Neela's reread slides into a list ('Then the hounds.' / 'Then there was the cat.' open consecutive paragraphs), and the hounds paragraph is muddled. 'He did not' recurs heavily. There are no banned phrases or AI-tell overages.",
+    "continuity": "Two conflicts. 'Missed it twice already, the fever night and the night of the narrows' contradicts F397, where she marked the cup late on the narrows night. The shutter theories ('Bhaskaran's lads called it privacy... Janu called it the damp') contradict F378 (lads say damp-madness, Janu says shyness), and the change is not logged."
   },
   "fixes": [
-    "Continuity, at 'She had missed it once already, the night of his fever': this contradicts F372, where she also skipped the stone in ch14 to hunt the narrows. Rewrite to 'She had missed it twice already, the fever night and the night of the narrows', and change 'A second bare cup' to 'A third bare cup'. Keep the watcher's 'second refusal' as it stands, since ch11 was a human night.",
-    "Character voice, at 'because with no resin on her there would be no leopard to cage' and 'No resin meant no leopard on the second spur': Neela never says or thinks the word and calls her night-self 'the other one'. Replace both with 'no other one to cage' and 'no other one on the second spur'. Her refusal to name it is a character trait, and in this chapter it is also the whole theme.",
-    "Prose clarity, at 'he was holding it clean for her, with no cover left': the passage says he keeps his breath unnaturally smooth, then that he lets the hitch come so she can count him, and it never explains why the hitch proves he is awake. State the logic in one sentence, for example: 'The hitch had never been sleep. It had been him, all twenty nights, and now he was giving it to her on purpose.' Then cut 'with no cover left to hide behind'. While here, change 'for twenty-seven years' to 'for twenty-one years' to match 'owned for twenty-one years' in ch15."
+    "Continuity: 'She had missed it twice already, the fever night and the night of the narrows' contradicts F397 (late scent-mark on the narrows night). Rewrite so that only the fever night is a bare cup Ammu's jackal found, and the narrows mark came late. Then restate tonight's cost to match: a second bare cup, or a late mark that has already been noticed. Correct 'A third bare cup would tell Ammu' accordingly and replace F398 with the corrected count.",
+    "Continuity and repetition: 'Bhaskaran's lads called it privacy, Gopan called it Janu's old tale' re-attributes the fort's theories against F378. Use F378's attribution (Bhaskaran's lads say damp-madness, Janu says shyness, Chinna runs the wager) or log a correcting fact. In the same passage, break the list rhythm. 'Then the hounds.' and 'Then there was the cat.' open consecutive paragraphs, so open one on a concrete remembered sense (the silence of the yard at dusk, the empty rampart) instead.",
+    "Prose and character logic: 'A dog bays at a cat on a wall. She had noticed that' muddles the inference. State it plainly: fourteen loose hounds would have bayed the other one across the yard every night, and she had tied the kennels to his 'Rain' and stopped short. Also fix 'so that no one in the passage would see a shadow cross the window'. The passage cannot see the chamber window, so give the unlit lamp a working reason, for example that no lamp at the door would light her coming in at dawn half-dressed."
   ],
-  "reader_question": "Is Devan's unconditional gift true mercy, or Chathu's patient craft saving the word for the dusk she is most useful caged?",
+  "reader_question": "Is Devan's unconditional gift of his silence mercy, or a hunter's patience saving the word for when she is most useful caged?",
   "techniques_landed": [
     17,
     12,
     20,
     3
   ],
-  "new_facts_assessment": "F374 (Chathu's gentle grooming) is necessary and consistent. It builds on the jaggery-sesame sweets (F080, F234) and gives Neela a rational basis for the misreading the bible requires. F375 (the deliberate hitch) is a strong link to F083 and F277. As written, though, it implies Devan knows she counts his breath before she tells him in ch19 (F165); that is acceptable, but the prose needs to make the mechanism clear. F376 agrees with F145 on the ache, but its premise that this is only the second bare cup conflicts with F372 and must be corrected. F377 needs checking: 'hounds kennelled from the second night' puts the shutters and the hounds on the same night, while F048 dates the kennelling to ch4 and F344 sequences the hounds after the shutters; 'from the first days' would be safer. F378 legitimately replaces this chapter's own earlier F322. It quietly drops F103's 'Janu's old tale' theory, which is tolerable because 'shyness' reads as the privacy theory.",
+  "new_facts_assessment": "F398 is necessary in intent, since the chapter needs to price the bare cup, but it is inconsistent: it calls the narrows night a bare cup, while F397 (ch 14) has Neela drag her cheek across the cup on her way back. The count of bare cups must be rebuilt from F126/F127 (fever night bare), F397 (narrows marked late) and whatever ch 15's storm night established. The 'second refusal' logic (ch 11 human night, ch 16 now) is sound and consistent with F301 and F380. The draft also silently re-attributes the shutter theories against F378 and logs nothing; either match F378 or file a correcting fact. The other details are already in continuity (F143, F144, F145, F323, F324, F374, F375, F377) and are used consistently: the twelve years since border school at twenty, nineteen nights, the hilt toward her, and Chathu's sweets.",
   "content_rule_violation": false,
-  "failure_modes": [],
-  "average": 3.38,
+  "failure_modes": [
+    "Endless monologue (mild: the first-half reread reads as an itemised catalogue rather than live recollection)"
+  ],
+  "average": 3.5,
   "minimum": 0.0,
   "passed": false
 }
