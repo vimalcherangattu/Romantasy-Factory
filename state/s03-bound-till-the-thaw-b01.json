@@ -3,11 +3,238 @@
   "series_id": "s03-bound-till-the-thaw",
   "number": 1,
   "title": "Bound till the Thaw",
-  "status": "queued",
+  "status": "in_progress",
   "stage": "S3",
-  "done": [],
-  "chapters": {},
-  "chapter_count": 0,
+  "done": [
+    "S3"
+  ],
+  "chapters": {
+    "01": {
+      "status": "pending",
+      "revisions": 0,
+      "scores": {},
+      "average": null,
+      "flags": []
+    },
+    "02": {
+      "status": "pending",
+      "revisions": 0,
+      "scores": {},
+      "average": null,
+      "flags": []
+    },
+    "03": {
+      "status": "pending",
+      "revisions": 0,
+      "scores": {},
+      "average": null,
+      "flags": []
+    },
+    "04": {
+      "status": "pending",
+      "revisions": 0,
+      "scores": {},
+      "average": null,
+      "flags": []
+    },
+    "05": {
+      "status": "pending",
+      "revisions": 0,
+      "scores": {},
+      "average": null,
+      "flags": []
+    },
+    "06": {
+      "status": "pending",
+      "revisions": 0,
+      "scores": {},
+      "average": null,
+      "flags": []
+    },
+    "07": {
+      "status": "pending",
+      "revisions": 0,
+      "scores": {},
+      "average": null,
+      "flags": []
+    },
+    "08": {
+      "status": "pending",
+      "revisions": 0,
+      "scores": {},
+      "average": null,
+      "flags": []
+    },
+    "09": {
+      "status": "pending",
+      "revisions": 0,
+      "scores": {},
+      "average": null,
+      "flags": []
+    },
+    "10": {
+      "status": "pending",
+      "revisions": 0,
+      "scores": {},
+      "average": null,
+      "flags": []
+    },
+    "11": {
+      "status": "pending",
+      "revisions": 0,
+      "scores": {},
+      "average": null,
+      "flags": []
+    },
+    "12": {
+      "status": "pending",
+      "revisions": 0,
+      "scores": {},
+      "average": null,
+      "flags": []
+    },
+    "13": {
+      "status": "pending",
+      "revisions": 0,
+      "scores": {},
+      "average": null,
+      "flags": []
+    },
+    "14": {
+      "status": "pending",
+      "revisions": 0,
+      "scores": {},
+      "average": null,
+      "flags": []
+    },
+    "15": {
+      "status": "pending",
+      "revisions": 0,
+      "scores": {},
+      "average": null,
+      "flags": []
+    },
+    "16": {
+      "status": "pending",
+      "revisions": 0,
+      "scores": {},
+      "average": null,
+      "flags": []
+    },
+    "17": {
+      "status": "pending",
+      "revisions": 0,
+      "scores": {},
+      "average": null,
+      "flags": []
+    },
+    "18": {
+      "status": "pending",
+      "revisions": 0,
+      "scores": {},
+      "average": null,
+      "flags": []
+    },
+    "19": {
+      "status": "pending",
+      "revisions": 0,
+      "scores": {},
+      "average": null,
+      "flags": []
+    },
+    "20": {
+      "status": "pending",
+      "revisions": 0,
+      "scores": {},
+      "average": null,
+      "flags": []
+    },
+    "21": {
+      "status": "pending",
+      "revisions": 0,
+      "scores": {},
+      "average": null,
+      "flags": []
+    },
+    "22": {
+      "status": "pending",
+      "revisions": 0,
+      "scores": {},
+      "average": null,
+      "flags": []
+    },
+    "23": {
+      "status": "pending",
+      "revisions": 0,
+      "scores": {},
+      "average": null,
+      "flags": []
+    },
+    "24": {
+      "status": "pending",
+      "revisions": 0,
+      "scores": {},
+      "average": null,
+      "flags": []
+    },
+    "25": {
+      "status": "pending",
+      "revisions": 0,
+      "scores": {},
+      "average": null,
+      "flags": []
+    },
+    "26": {
+      "status": "pending",
+      "revisions": 0,
+      "scores": {},
+      "average": null,
+      "flags": []
+    },
+    "27": {
+      "status": "pending",
+      "revisions": 0,
+      "scores": {},
+      "average": null,
+      "flags": []
+    },
+    "28": {
+      "status": "pending",
+      "revisions": 0,
+      "scores": {},
+      "average": null,
+      "flags": []
+    },
+    "29": {
+      "status": "pending",
+      "revisions": 0,
+      "scores": {},
+      "average": null,
+      "flags": []
+    },
+    "30": {
+      "status": "pending",
+      "revisions": 0,
+      "scores": {},
+      "average": null,
+      "flags": []
+    },
+    "31": {
+      "status": "pending",
+      "revisions": 0,
+      "scores": {},
+      "average": null,
+      "flags": []
+    },
+    "32": {
+      "status": "pending",
+      "revisions": 0,
+      "scores": {},
+      "average": null,
+      "flags": []
+    }
+  },
+  "chapter_count": 32,
   "flags": [],
   "errors": [],
   "revision_round": 0,
@@ -16,6 +243,12 @@
   "review_at": null,
   "approved_at": null,
   "published_at": null,
-  "history": [],
-  "updated_at": "2026-10-19T17:50:53"
+  "history": [
+    {
+      "at": "2026-10-20T01:48:32",
+      "event": "done: S3 outline"
+    }
+  ],
+  "updated_at": "2026-10-20T01:48:32",
+  "midpoint_chapter": 16
 }
