@@ -208,7 +208,7 @@
       }
     },
     "07": {
-      "status": "passed",
+      "status": "edited",
       "revisions": 2,
       "scores": {
         "reader_question": 5.0,
@@ -224,11 +224,22 @@
       "flags": [
         "needs-owner"
       ],
-      "words": 3033,
+      "words": 3035,
       "minimum": 0.0,
       "continuity_fixes": [
         "'She had known him eight days' falls on the morning she counts thirty-four nights left, which is day 6. Ch 9 (thirty-two nights left) is the first point where 'eight days' fits. FIX: In ch 7, change 'eight days' to 'six days'."
-      ]
+      ],
+      "style": {
+        "words": 3035,
+        "banned_hits": {},
+        "ai_tell_hits": {},
+        "ai_tells_per_1000": 0.0,
+        "top_4gram": "there's a way chechi",
+        "top_4gram_count": 3,
+        "longest_paragraph_words": 93,
+        "em_dashes_per_1000": 0.99,
+        "reading_ease": 91.0
+      }
     },
     "08": {
       "status": "passed",
@@ -1770,9 +1781,13 @@
     {
       "at": "2026-10-20T07:49:23",
       "event": "done: S8 line edit ch 6"
+    },
+    {
+      "at": "2026-10-20T07:50:02",
+      "event": "done: S8 line edit ch 7"
     }
   ],
-  "updated_at": "2026-10-20T07:49:23",
+  "updated_at": "2026-10-20T07:50:02",
   "midpoint_chapter": 16,
   "continuity_attempts": 3,
   "continuity_last_errors": 2
