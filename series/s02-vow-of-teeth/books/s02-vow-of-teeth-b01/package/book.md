@@ -41,7 +41,9 @@ She flexed her fingers. The bangle slid a thumb's width and stopped. "Fine," she
 Something in his mouth might have been the start of a smile. It went nowhere. Behind them the whole fort stood in the last light, a few hundred faces in the courtyard below, and an old woman with a lamp stood closest of all, breathing hard through her nose.
 
 
-<center>\* \* \*</center>
+::: {.scene-break}
+\* \* \*
+:::
 
 
 Twelve.
@@ -69,7 +71,9 @@ Janu's mouth shut with a click. Devan looked at the sky, and the corner of his m
 "I'll note it," said the warden of Kettamala, "for the council."
 
 
-<center>\* \* \*</center>
+::: {.scene-break}
+\* \* \*
+:::
 
 
 The feast ran long, as feasts did.
@@ -117,7 +121,9 @@ He was silent a moment. Raiu looked at the ceiling.
 "Then ask me again tomorrow," Neela said, and went into the chamber ahead of him.
 
 
-<center>\* \* \*</center>
+::: {.scene-break}
+\* \* \*
+:::
 
 
 She'd meant to be quicker about it. But the guild's rule was to learn a room before you needed it, and she stood just inside the door and did that while he latched it behind them.
@@ -199,7 +205,9 @@ Either he was a fool, or he wanted her to think so, or he wanted to see what she
 He pinched the lamp himself. Dark rushed in, with the smell of hot oil and a draught from the third slat.
 
 
-<center>\* \* \*</center>
+::: {.scene-break}
+\* \* \*
+:::
 
 
 She lay on her back and counted his breaths.
@@ -277,7 +285,9 @@ The cat looked at him for three heartbeats. He counted them because counting was
 The bangle sat on the sill beside the folded cloth, small and bright, with nobody to wear it.
 
 
-<center>\* \* \*</center>
+::: {.scene-break}
+\* \* \*
+:::
 
 
 He did not say it.
@@ -297,7 +307,9 @@ When the cistern chain clanked the next hour, he rose. He went to the window bar
 Then he sat down on the cold floor with his back to the wall, and waited, and let himself think about the west stair.
 
 
-<center>\* \* \*</center>
+::: {.scene-break}
+\* \* \*
+:::
 
 
 Asha, his sister, his second on this wall, had left notes on his table, under his cup, inside his boots. *Eat something.* She had been twenty-two and fast and funny, and afraid of exactly one thing, which was the dark.
@@ -315,7 +327,9 @@ It would be so easy. She would come back along the ledge in the grey, a beast wi
 The rage was not hot. It was cold and level and quiet, and it felt like clear thinking, which was why he distrusted it.
 
 
-<center>\* \* \*</center>
+::: {.scene-break}
+\* \* \*
+:::
 
 
 He got up, crossed the dark room to where the sword lay by the bed, and carried it back to the wall. He sat with it across his knees and made himself think properly.
@@ -337,7 +351,9 @@ The word was the same. One sentence, and he would be a man who had used it.
 Not safe, then. Merely not spent.
 
 
-<center>\* \* \*</center>
+::: {.scene-break}
+\* \* \*
+:::
 
 
 The chain clanked the last hour of the night. Grey crept up behind the pass, thin as milk in water.
@@ -373,7 +389,9 @@ Then the mattress dipped on the far side, and a body lowered itself into the dar
 She did not touch the sword.
 
 
-<center>\* \* \*</center>
+::: {.scene-break}
+\* \* \*
+:::
 
 
 The chain clanked dawn.
@@ -443,7 +461,9 @@ Janu looked at her for a long moment. Her mouth opened, then shut. "Well," she s
 Neela washed. Her hands steadied somewhere around the second mouthful of plantain. She counted it as a small debt owed, and filed it where she kept the others.
 
 
-<center>\* \* \*</center>
+::: {.scene-break}
+\* \* \*
+:::
 
 
 The tour began at the pepper terraces, which Janu introduced as if they were relatives.
@@ -495,7 +515,9 @@ Muthu's laugh broke in the middle. Then it came back, bigger than before. "Janu,
 "Pity the fort," said Janu, and meant it kindly.
 
 
-<center>\* \* \*</center>
+::: {.scene-break}
+\* \* \*
+:::
 
 
 She found him in the afternoon on the highest terrace, with his back to her and a handful of green berries in his palm.
@@ -609,7 +631,9 @@ That should have comforted her. A man with no cunning had nothing to hide behind
 He nodded once, like a man settling a small account, and turned back to the vines. Indifference, she decided. Almost a relief.
 
 
-<center>\* \* \*</center>
+::: {.scene-break}
+\* \* \*
+:::
 
 
 He was closing the shutters when she came back at dusk.
@@ -637,7 +661,9 @@ But she stayed in the doorway, because the bar was a good one. A hand's width of
 The way in she had planned all week had just been shut. The hand that opened it again would be hers.
 
 
-<center>\* \* \*</center>
+::: {.scene-break}
+\* \* \*
+:::
 
 
 She counted his breath again.
@@ -663,7 +689,9 @@ The burn took her. The wind rushed in, loaded with a thousand smells. She did no
 She did not know which of them was the problem, the man or the bar. She would work that out in daylight.
 
 
-<center>\* \* \*</center>
+::: {.scene-break}
+\* \* \*
+:::
 
 
 The chain clanked the last hour, and the sky went grey behind the pass.
@@ -733,7 +761,9 @@ Both readings ended in the same place, which was in the yard, with her eyes open
 "No," she said, and gave it to the goat.
 
 
-<center>\* \* \*</center>
+::: {.scene-break}
+\* \* \*
+:::
 
 
 The hooves came an hour later.
@@ -819,7 +849,9 @@ Dull brick red. A pressed mark of a pepper sprig, crisp at every leaf. She raise
 He took the halves back. For a moment his fingers were against her palm, dry and rough at the pads. Then they weren't. She went back to her pillar with her hand held very still.
 
 
-<center>\* \* \*</center>
+::: {.scene-break}
+\* \* \*
+:::
 
 
 She caught him on the outer stair, where the hall's shadow ended and the court began, and fell into step beside him as if she had been going the same way.
@@ -865,7 +897,9 @@ That made him easier to listen to, which was a bad sign.
 "So do I," said Devan, and went down into the court.
 
 
-<center>\* \* \*</center>
+::: {.scene-break}
+\* \* \*
+:::
 
 
 He barred the shutters at dusk. "Rain," he said again, and again the sky was washed clean.
@@ -975,7 +1009,9 @@ Muthu's face did something quick and unguarded. Then the grin came back over it 
 Devan stood in the empty pit with the second lamp guttering and finished the form. The strike stopped a hand's width from the post.
 
 
-<center>\* \* \*</center>
+::: {.scene-break}
+\* \* \*
+:::
 
 
 After the day watch changed, he took her out to the terraces, because a warden walking his wife through his pepper was the most natural thing in the world. It also kept her where he could see her hands.
@@ -1035,7 +1071,9 @@ It was no child's burn, and they both knew it. He said, "The stakes want mending
 Behind him the bangle clicked against a stake. He didn't turn around.
 
 
-<center>\* \* \*</center>
+::: {.scene-break}
+\* \* \*
+:::
 
 
 The yelp came from above them, and then a boy's furious wail.
@@ -1077,7 +1115,9 @@ He had been so sure what she was. The thing that had been sent. The thing like t
 He did not know what to do with a person.
 
 
-<center>\* \* \*</center>
+::: {.scene-break}
+\* \* \*
+:::
 
 
 Supper was rice and a dark fish curry, and Janu served it herself and sat down at the end of the table to scold them while they ate. Muthu had come in from the gate and taken the bench opposite, heaping his plate. The hall smelled of tamarind and lamp oil.
@@ -1113,7 +1153,9 @@ So he sat, and let the old woman tell it, and watched the white knuckles, and at
 She excused herself soon after. Devan watched her cross the hall, back straight, steps even, and counted the times she looked at the doors. Two. The west door and the east.
 
 
-<center>\* \* \*</center>
+::: {.scene-break}
+\* \* \*
+:::
 
 
 He let Muthu finish his meal. Then he walked him out under the arch of the hall, where the torchlight did not reach the corner and the pigeons had gone to roost.
@@ -1261,7 +1303,9 @@ She lifted the finger. The lid closed on its own weight.
 She avoided his sleeve, where the green wax was. She avoided his face. She took the lamp by its bird and went out into the passage, and counted her steps up the stair to forty, to be sure they were even.
 
 
-<center>\* \* \*</center>
+::: {.scene-break}
+\* \* \*
+:::
 
 
 At dusk the lamp stood at the window with a thin line of evening running down its stem. The shutters were barred. The sword lay on the floor, hilt toward her. The man who owned both was already in the bed with his back to the door, breathing slowly and evenly, which she had learned meant nothing.
@@ -1307,7 +1351,9 @@ The leopard could not speak. It could not leave a word. It could only press its 
 She stayed until the wind moved, then turned for the fort. The grey was a long way off still. She ran the paths home with her head up, and the hunger forgotten.
 
 
-<center>\* \* \*</center>
+::: {.scene-break}
+\* \* \*
+:::
 
 
 She took the terraces at a lope and the wall in three bounds and was crouched on the ledge before the chain rang the last hour of the dark. She hadn't thought of it as the last. Now it was. The sky behind the eastern wall was the colour of a dove's back, and the shutter stood open the width of her shoulders.
@@ -1485,7 +1531,9 @@ It was not nothing. There were few things the Resin House punished harder than f
 Ammu measured. Neela watched her, and the girl did not look up once, and under her breath she hummed. It was the fishing song. Pull, and pull, and the tide was coming in.
 
 
-<center>\* \* \*</center>
+::: {.scene-break}
+\* \* \*
+:::
 
 
 He came at the foot of the lane, as Muthu had said, in his plain brown coat with no sword and no escort. He stopped at the edge of the market and looked at nothing, the way a man looks when he has been told where to find something.
@@ -1641,7 +1689,9 @@ She looked at him over her shoulder, head a little on one side, and he watched h
 "Then mine can keep it company," she said, and pinched out the wick.
 
 
-<center>\* \* \*</center>
+::: {.scene-break}
+\* \* \*
+:::
 
 
 Muthu came to the hall with the morning meal still on his chin.
@@ -1691,7 +1741,9 @@ It was the only odd note in the whole talk, and too small to hold. Muthu liked t
 Devan stayed with the wax. Three seals. Three councillors, or three people with keys. Not one name yet, but the circle was thinner than the fort wall had been that morning. He began to put the squares away in a cloth and found he was thinking about a bride.
 
 
-<center>\* \* \*</center>
+::: {.scene-break}
+\* \* \*
+:::
 
 
 At noon the sun stood straight over Kettamala and the red stone gave the heat back. Devan sat in the shade of the parapet's turn with his sword across his knees and watched the pass. A cart crawled up it. On the far cliff the langurs argued, loud and unconcerned. When strangers came, they would go quiet. They were not quiet.
@@ -1769,7 +1821,9 @@ She wiped her fingers on her sleeve. Her mouth opened, and she closed it again.
 "I will now." He took the dish, and neither of them said anything about anything else. It was the kindest silence anyone had given him in years, and the most dangerous.
 
 
-<center>\* \* \*</center>
+::: {.scene-break}
+\* \* \*
+:::
 
 
 Unni came up the steps two at a time, red in the face, with a leather case held against his chest in both arms.
@@ -1839,7 +1893,9 @@ Neela said, "Will I be inspected as well?"
 Janu laughed so hard she had to sit.
 
 
-<center>\* \* \*</center>
+::: {.scene-break}
+\* \* \*
+:::
 
 
 Thirty-two nights.
@@ -1939,7 +1995,9 @@ The old well was where she had known it would be. They came down through the tho
 Neela stood still a moment with the bridle in her hand. She had a strong wish to sit down.
 
 
-<center>\* \* \*</center>
+::: {.scene-break}
+\* \* \*
+:::
 
 
 The waystation was a low laterite house with a well, a long carters' shed, and a yard trodden to powder. No one lived there between the seasons. A spiked board by the door said that the warden's tally was needed for the pass. The gate stood open.
@@ -1993,7 +2051,9 @@ She did not like it. She was careful to be clear to herself about that.
 "Good." He seemed to mean it. "I'd distrust you if you could."
 
 
-<center>\* \* \*</center>
+::: {.scene-break}
+\* \* \*
+:::
 
 
 They rode home at dusk by the cart road. The twenty men with bars had reached the fall by late afternoon and cut a lane through it, wide enough for ponies led single file, and the langurs had greeted the sight of them with a roar of professional outrage.
@@ -2103,7 +2163,9 @@ Neela stood in the steaming court. The whole fort knew.
 That was the part that turned in her like a key.
 
 
-<center>\* \* \*</center>
+::: {.scene-break}
+\* \* \*
+:::
 
 
 She did her sums in the warden's chamber, with the door shut and the shutters open to the afternoon.
@@ -2131,7 +2193,9 @@ Neither reading cost her a seam. She tried them again from the other end and the
 She did not like not knowing. She liked even less how much she wanted to.
 
 
-<center>\* \* \*</center>
+::: {.scene-break}
+\* \* \*
+:::
 
 
 Thirty-one nights.
@@ -2173,7 +2237,9 @@ She drew back. She went across the stone floor, past the kindi and the hilt-firs
 His hand still lay open on the blanket.
 
 
-<center>\* \* \*</center>
+::: {.scene-break}
+\* \* \*
+:::
 
 
 First light found her on the ledge, human, grey with cold and shaking from her teeth to her heels. The hollow came behind it, the sick wide hunger of the morning after. She went in over the sill with nothing on her and nothing in her, and crossed the room on a floor that felt like ice.
@@ -2247,7 +2313,9 @@ He turned to the right, fast, with the right hand sweeping high. And the left ha
 She had not come to be useful. She had come to kill him. She went down the north steps anyway.
 
 
-<center>\* \* \*</center>
+::: {.scene-break}
+\* \* \*
+:::
 
 
 He stopped before her foot reached the third step.
@@ -2319,7 +2387,9 @@ He weighed her. She had given him a true thing again, wrapped in a false one, an
 "Go on," he said.
 
 
-<center>\* \* \*</center>
+::: {.scene-break}
+\* \* \*
+:::
 
 
 "Take it from the turn."
@@ -2389,7 +2459,9 @@ She did not explain. She had no explanation to give him that she could stand to 
 Neela turned, and went up the north steps.
 
 
-<center>\* \* \*</center>
+::: {.scene-break}
+\* \* \*
+:::
 
 
 Her knees did not give out until the top.
@@ -2401,7 +2473,9 @@ Below her, he had not gone back to his forms. He stood in the middle of the swep
 She went into the lantana with her breath held, and the smell found her anyway. At the bend she gagged again. Nothing came up.
 
 
-<center>\* \* \*</center>
+::: {.scene-break}
+\* \* \*
+:::
 
 
 The chamber was empty and the shutters were still barred.
@@ -2457,7 +2531,9 @@ He had one thing she needed, and it sat behind his teeth. She had one thing he n
 He weighed it anyway.
 
 
-<center>\* \* \*</center>
+::: {.scene-break}
+\* \* \*
+:::
 
 
 Janu was waiting in the kitchen passage, which she never did. She had a key on a cord in her fist, and she held it out the way she held out a cup to a child she suspected of fever.
@@ -2475,7 +2551,9 @@ He took the key. The cord was warm from her hand.
 She walked back to her pots without looking at him, and the pots took a beating.
 
 
-<center>\* \* \*</center>
+::: {.scene-break}
+\* \* \*
+:::
 
 
 The room was at the end of the south passage, the last door before the wall. It smelled of dust and camphor and mice.
@@ -2511,7 +2589,9 @@ One of three seals in the council's keeping, then and now. Whoever held it had b
 He sat very still. Far off, the cistern chain began to clank the hour below, as if in another house.
 
 
-<center>\* \* \*</center>
+::: {.scene-break}
+\* \* \*
+:::
 
 
 "May I come in?"
@@ -2621,7 +2701,9 @@ They sat there. After some time he noticed that he had moved. He was no longer a
 He did not move back. He was less alone in the room than he had been when he opened it.
 
 
-<center>\* \* \*</center>
+::: {.scene-break}
+\* \* \*
+:::
 
 
 At dusk he went down to the padippura to count the watch.
@@ -2653,7 +2735,9 @@ And the wax was grey. The wax on Asha's tally was brick red. Grey was not counci
 He believed him. He went up.
 
 
-<center>\* \* \*</center>
+::: {.scene-break}
+\* \* \*
+:::
 
 
 The chamber was empty. Neela was at supper in the hall, with Janu piling a plate in front of her; he could hear Janu's voice through the floor.
@@ -2687,7 +2771,9 @@ By the time the padippura came up out of the dust, the arm was a hot post. By th
 "It's nothing," said Devan, and sat down on the mounting block, because the ground was making another suggestion.
 
 
-<center>\* \* \*</center>
+::: {.scene-break}
+\* \* \*
+:::
 
 
 By evening he had been bled twice.
@@ -2731,7 +2817,9 @@ It came out in a thick voice he hardly recognised. Every face in the room turned
 Neela's eyes met his, level in the failing light, and for a moment she looked as if she would say something. Then she looked away and took up the lamp.
 
 
-<center>\* \* \*</center>
+::: {.scene-break}
+\* \* \*
+:::
 
 
 He lost some time.
@@ -2815,7 +2903,9 @@ She sat. After a while she took his right hand, the bled one, and held it in bot
 He lay with blood pooling under his tongue, and he did not swallow it.
 
 
-<center>\* \* \*</center>
+::: {.scene-break}
+\* \* \*
+:::
 
 
 The other one lay behind the curtain with her chin on her paws and listened.
@@ -2857,7 +2947,9 @@ The other one's ears turned toward it before she had decided anything. She and A
 She did not answer. She could not have, with that throat. The call came again, longer, and went up and up, and then the hills took it.
 
 
-<center>\* \* \*</center>
+::: {.scene-break}
+\* \* \*
+:::
 
 
 The grey came, and the change took her.
@@ -2939,7 +3031,9 @@ Devan was looking at her. Muthu's ears went red.
 His mouth went still, the way it did when he was pleased and hiding it. Muthu barked a laugh in spite of himself. "She's said no to you in four lines, Warden. I've been at it eight years."
 
 
-<center>\* \* \*</center>
+::: {.scene-break}
+\* \* \*
+:::
 
 
 By dusk he was in bed, flat on his back, his right hand on his chest and his eyes shut. Janu had banged the room into order and gone. The shutters were closed.
@@ -3019,7 +3113,9 @@ She went by the long way to the cleft in the rocks under the second spur, and on
 The cleft held a bundle she had hidden that morning, because she had woken on the floor beside his bed and never meant to wake there again. A day cloth, a shawl, a water gourd. The guild taught it: *keep your dawn where you can reach it.* She lay down in the cleft with her nose in her paws, and shook, and let the night go by with its hunger unfed.
 
 
-<center>\* \* \*</center>
+::: {.scene-break}
+\* \* \*
+:::
 
 
 The cut on her shoulder pulled first, a hot thread through the cold. Then the change took her.
@@ -3047,7 +3143,9 @@ He did not look at the terrace. He lifted his head and looked at the hills. He l
 Neela stayed very still against her wall. A thin cut on her shoulder, a night of fasting in her belly, one clean road thrown in a ravine: she did not feel brave. She felt like a woman who had put her own foot through a floor.
 
 
-<center>\* \* \*</center>
+::: {.scene-break}
+\* \* \*
+:::
 
 
 At supper she ate like a field hand.
@@ -3135,7 +3233,9 @@ She went up the terraces low, as fast as the slope allowed. The pepper vines sla
 The change came on in earnest at the base of the wall. She climbed it with her claws going soft on the stone.
 
 
-<center>\* \* \*</center>
+::: {.scene-break}
+\* \* \*
+:::
 
 
 The ledge was still a reach above her when her front paw became a hand.
@@ -3265,7 +3365,9 @@ At a respectful distance, the way one gives room to a dog of uncertain temper, h
 The door closed softly behind him. She heard his feet go down the passage at the same unhurried pace, never breaking stride. He had stepped over the sword where it lay and left it there. He would go to the kalari with nothing, as he did every dawn.
 
 
-<center>\* \* \*</center>
+::: {.scene-break}
+\* \* \*
+:::
 
 
 Neela stayed where she was until her legs gave.
@@ -3349,7 +3451,9 @@ Devan hadn't. But when Muthu was gone he found he had planted his left foot. He 
 You cannot hand a woman her own cage back with terms attached. You hand it over, or you do not.
 
 
-<center>\* \* \*</center>
+::: {.scene-break}
+\* \* \*
+:::
 
 
 At dusk the room was grey, and the shutters stood open on a sky the colour of wet ash. Rain tapped the sill. The cistern chain clanked once, far below.
@@ -3381,7 +3485,9 @@ It came sharp and quick from behind him, the question of a woman who had been ho
 He stopped, his back to her and the latch cold under his thumb.
 
 
-<center>\* \* \*</center>
+::: {.scene-break}
+\* \* \*
+:::
 
 
 "Because I don't want to own anyone."
@@ -3537,7 +3643,9 @@ Two nights without resin, and she'd paid the ledger for both. No hunting the rid
 She lay in the dark and spent the night anyway.
 
 
-<center>\* \* \*</center>
+::: {.scene-break}
+\* \* \*
+:::
 
 
 Sudhi came up the hill on the ninth day with the royal post in an oilcloth bag, a steaming pony, and a face the colour of a boiled prawn.
@@ -3639,7 +3747,9 @@ Devan looked at her. She had expected the old, shut look. Instead he looked as i
 She didn't answer, which was an answer of a kind.
 
 
-<center>\* \* \*</center>
+::: {.scene-break}
+\* \* \*
+:::
 
 
 Later, past the middle watch, with the lamp out. The shutters open, the rain gone to a mist that smelled of red earth.
@@ -3849,7 +3959,9 @@ Neela stood a long time by the stone with the sweets tin in her basket. Where wa
 She would not ask. She knew what that cost, and she paid it anyway. She stood and listened for the small silver sound of bells that had been cut off, then made herself walk home.
 
 
-<center>\* \* \*</center>
+::: {.scene-break}
+\* \* \*
+:::
 
 
 By evening the rain had gone, and the hall at Kettamala smelled of wet cloth and frying onions and lamp oil.
@@ -3923,7 +4035,9 @@ She had never had this. Not once, in eleven contracts and twenty-seven years. A 
 She was still smiling when she looked down and saw her bangle shining in the lamplight, and thought of Ammu's cold hand.
 
 
-<center>\* \* \*</center>
+::: {.scene-break}
+\* \* \*
+:::
 
 
 Later, in the chamber, she sat on the chest with the shutters open on the dark.
@@ -4077,7 +4191,9 @@ A man who wanted to catch a woman would have followed. A man who wanted to keep 
 She could not tell whether that was the kindest thing done for her in years, or the coldest. She noted that she could not tell, and she went down into the dark.
 
 
-<center>\* \* \*</center>
+::: {.scene-break}
+\* \* \*
+:::
 
 
 Four turns of stair. A niche at the second, where the wall made a shelf for a lamp that Gopan never lit. She tore the day cloth off her shoulders and shoved it in the niche with the flask on top, and the burn took her at the knees.
@@ -4222,7 +4338,9 @@ Neela sat with the shawl round her and counted the ridges in the cleft wall. Nin
 She looked at her shaking hands, and then she began to dress.
 
 
-<center>\* \* \*</center>
+::: {.scene-break}
+\* \* \*
+:::
 
 
 By dusk she had worked out three ways to say it, and discarded all of them.
@@ -4474,7 +4592,9 @@ She went quiet.
 He didn't. They drank in the sound of the rain.
 
 
-<center>\* \* \*</center>
+::: {.scene-break}
+\* \* \*
+:::
 
 
 She did not take the resin that night.
@@ -4652,7 +4772,9 @@ His rhythm broke before hers, and he put his face into her neck, a hand's width 
 His mouth closed over the pale band at her throat, gently, and a long shudder went through her from scalp to heel. No one had ever been allowed to put anything there but resin. He kissed the scars one by one, as if reading a line he had to get right. She broke a second time with her hand tangled in his hair, and he followed her with her name in his mouth, and the shutters were open the whole time and nothing in the dark moved.
 
 
-<center>\* \* \*</center>
+::: {.scene-break}
+\* \* \*
+:::
 
 
 Afterwards he lay with his head on her shoulder and she traced the seam at his ribs.
@@ -4686,7 +4808,9 @@ Her nails ached at the quick, a dull, small warning.
 *Two,* she thought. *Two nights.* She added the second one to the tally in her head and found she did not mind the sum. She laid her hand in his open one and slept.
 
 
-<center>\* \* \*</center>
+::: {.scene-break}
+\* \* \*
+:::
 
 
 An hour after first light she went up the second spur alone, in her day kasavu with the shawl over it, and found Ammu sitting by the stone with her back to the slab and her arms round her knees.
@@ -5038,7 +5162,9 @@ They walked the wall together. Devan kept his face easy and his own counsel. Bel
 One of them was still asleep in his bed. He had slid her knife back under her side of the mattress the night after she gave it him, and she had let it lie.
 
 
-<center>\* \* \*</center>
+::: {.scene-break}
+\* \* \*
+:::
 
 
 The stone was warm under Neela's hand, and the cup in its top was empty.
@@ -5120,7 +5246,9 @@ She stayed until her hands stopped shaking. Then she went down the hill and did 
 She broke a line.
 
 
-<center>\* \* \*</center>
+::: {.scene-break}
+\* \* \*
+:::
 
 
 "His name is Vellan," she said.
@@ -5202,7 +5330,9 @@ He did not answer at once. His jaw worked, and his eyes went down to the yard, w
 "I'll bar the shutters. Raiu's at the door."
 
 
-<center>\* \* \*</center>
+::: {.scene-break}
+\* \* \*
+:::
 
 
 The shutter bar went across at full dark. She heard it settle in its brackets, and the third slat gave its small creak, and Devan went to see the west stair for himself. He would be gone an hour. He had kissed her hand at the door, just the knuckles, and gone down the passage with a sword at his hip and fourteen hounds' worth of worry on his shoulders.
@@ -5322,7 +5452,9 @@ The bear saw them. It dropped to all fours. Its head swung up the stair, from la
 Neela did not follow. She was already on her knees beside Raiu.
 
 
-<center>\* \* \*</center>
+::: {.scene-break}
+\* \* \*
+:::
 
 
 The boy was nineteen.
@@ -5352,7 +5484,9 @@ She was across the step in a moment, her bloody hand at his side. She opened his
 He watched her see it. Her face did not change. Only her mouth went small.
 
 
-<center>\* \* \*</center>
+::: {.scene-break}
+\* \* \*
+:::
 
 
 Eravi came with his case, stooped and wheezing, and hung his lamp from the bedpost.
@@ -5388,7 +5522,9 @@ Neela only looked at him. She wore the face she wore when she had already counte
 "Eravi," she said, "give him whatever will keep him still, and keep him cool. Janu, vinegar and cold cloths, and don't let the fever frighten you. It doesn't kill. Muthu." She paused, and he saw her choose, and he saw her check that the choice was hers. "I need to talk to you outside."
 
 
-<center>\* \* \*</center>
+::: {.scene-break}
+\* \* \*
+:::
 
 
 He should have stayed on the bed.
@@ -5466,7 +5602,9 @@ Muthu nodded. He was not laughing. In five weeks of barracks noise she had never
 She swung up. Bhaskaran opened the wicket at the padippura without a word. Then there was only the road and the dark, and the cistern chain clanking the hour behind her like a door being shut.
 
 
-<center>\* \* \*</center>
+::: {.scene-break}
+\* \* \*
+:::
 
 
 Rain began before dawn.
@@ -5486,7 +5624,9 @@ She had never hated a word so much.
 She tied the mare in a thicket a mile out and went in on foot along the old drain path she and Ammu had used as children, when the cook was asleep.
 
 
-<center>\* \* \*</center>
+::: {.scene-break}
+\* \* \*
+:::
 
 
 The Resin House rose out of the wet wood in tiers of dark roof, with tapping sheds along the east side and the long training yard lying open between them like a swept palm. No lamps burned in the yard. They never had. Chathu said light was for those with something to show.
@@ -5520,7 +5660,9 @@ They pulled her down. A knee found her back. Someone wrenched the knife away, an
 The bear dropped to all fours and went into the shadow without looking back.
 
 
-<center>\* \* \*</center>
+::: {.scene-break}
+\* \* \*
+:::
 
 
 The kennels lay under the oldest roof, behind the cook-house and a shuttered well. She had been told once what they were for. She had never been inside.
@@ -5550,7 +5692,9 @@ She hung there by her wrists in the smell of straw and old fear and bitter resin
 She counted the cages. Forty-two, and one of them was hers. She counted them again.
 
 
-<center>\* \* \*</center>
+::: {.scene-break}
+\* \* \*
+:::
 
 
 Chathu came at dawn.
@@ -5616,7 +5760,9 @@ She said nothing.
 He took up the lamp and went away down the aisle with his uneven step. The tin stayed on the bar, the steam still lifting from the lid.
 
 
-<center>\* \* \*</center>
+::: {.scene-break}
+\* \* \*
+:::
 
 
 They came for her an hour later and bound her better.
@@ -5720,7 +5866,9 @@ They went out past the cages. Neela stopped at the small one. The civet lay curl
 Neela put two bloody fingers through the bars and touched the grey fur. It was warm. She took her hand back.
 
 
-<center>\* \* \*</center>
+::: {.scene-break}
+\* \* \*
+:::
 
 
 Last light lay red along the yard wall.
@@ -5784,7 +5932,9 @@ It went out of her like a thrown stone. Something in her chest unlatched and lat
 Then her jaw lengthened, and her voice was gone.
 
 
-<center>\* \* \*</center>
+::: {.scene-break}
+\* \* \*
+:::
 
 
 Chathu began to read.
@@ -5886,7 +6036,9 @@ At the gate, the steel noise had gone quiet too, and somewhere in the arch, a bi
 Chathu's lamp passed along the yard wall and went into the dark. Neela did not look at it.
 
 
-<center>\* \* \*</center>
+::: {.scene-break}
+\* \* \*
+:::
 
 
 She could not turn back before dawn.
@@ -5940,7 +6092,9 @@ It nearly made her laugh. The laugh came up through her chest and caught, and sh
 Muthu found them like that. He stood a way off with a horse blanket, his face grey under the stubble and one sleeve black to the elbow, and made no noise at all. He set the blanket down on the mud and walked back to the gate.
 
 
-<center>\* \* \*</center>
+::: {.scene-break}
+\* \* \*
+:::
 
 
 The yard was empty. That was the first wrong thing.
@@ -5980,7 +6134,9 @@ She turned to him. He said it again, carefully, like a man learning a name he ha
 "She hummed when she was afraid. A fishing song. *Pull and pull, the tide is coming in.*" Her mouth would not go on. He did not ask her to. He took hold of one end of the coat, and Muthu took the other, and they laid her down.
 
 
-<center>\* \* \*</center>
+::: {.scene-break}
+\* \* \*
+:::
 
 
 She would not leave without the kennels.
@@ -6030,7 +6186,9 @@ Muthu's hands went still on the spade. "Aye," he said.
 It was not enough. It was all that was on offer. Neela nodded once, and Devan nodded back.
 
 
-<center>\* \* \*</center>
+::: {.scene-break}
+\* \* \*
+:::
 
 
 They rode all day.
@@ -6052,7 +6210,9 @@ Late in the day Devan roused and looked back over Muthu's shoulder. He said, in 
 She did not answer. She rode. But she moved the mare up until her knee touched the bay's flank, and she kept it there. Devan turned his face forward again. After a while his hand, on the bay's neck, uncurled.
 
 
-<center>\* \* \*</center>
+::: {.scene-break}
+\* \* \*
+:::
 
 
 Two days after they rode in, the Keeper of the Passes came up to Kettamala with five carts.
@@ -6144,7 +6304,9 @@ Muthu's thumb worked twice at the frayed end of the rope. He glanced at the Keep
 Devan marked the hand that cut. It was too early to trust it.
 
 
-<center>\* \* \*</center>
+::: {.scene-break}
+\* \* \*
+:::
 
 
 She came down the west stair while the third cart was being emptied.
@@ -6170,7 +6332,9 @@ She stopped at his right side, close enough that her sleeve touched his.
 Janu stood at the kitchen door with her arms folded. She took one long look at the two of them side by side and went back inside. A minute later a kitchen boy came out with an oiled umbrella and held it over them without a word. Devan found he had nothing to say for a while after that.
 
 
-<center>\* \* \*</center>
+::: {.scene-break}
+\* \* \*
+:::
 
 
 The chest was in the first cart, as he had known it would be.
@@ -6226,7 +6390,9 @@ Ittan had not moved. He laid his ringed hand on the rim of the lead cart. "Those
 "You'll answer here first."
 
 
-<center>\* \* \*</center>
+::: {.scene-break}
+\* \* \*
+:::
 
 
 "There's one more thing."
@@ -6254,7 +6420,9 @@ He folded the writ.
 For the first time, Ittan said nothing.
 
 
-<center>\* \* \*</center>
+::: {.scene-break}
+\* \* \*
+:::
 
 
 It broke slowly, a fine line first.
@@ -6292,7 +6460,9 @@ His wrist ached. He glanced down. She had put two fingers lightly over the bindi
 "Not this part." She kept her hand where it was. "I know where the ribs are."
 
 
-<center>\* \* \*</center>
+::: {.scene-break}
+\* \* \*
+:::
 
 
 The downpour came in full as they climbed to the gate-chamber.
@@ -6408,7 +6578,9 @@ He wrapped it in a corner of the blanket. Then he went still.
 "Ask your question," he said. "You've been carrying one since the second day."
 
 
-<center>\* \* \*</center>
+::: {.scene-break}
+\* \* \*
+:::
 
 
 She had not known he knew.
@@ -6462,7 +6634,9 @@ Her mouth went dry.
 She had nothing ready to say. No one had ever told her what he had seen when she thought no one was watching, and then told her where he had been wrong, with neither one a bill.
 
 
-<center>\* \* \*</center>
+::: {.scene-break}
+\* \* \*
+:::
 
 
 "I thought it would be a leash," she said.
@@ -6494,7 +6668,9 @@ Her voice came out strange. She went on anyway.
 His hand stayed over hers. That was the comfort. He had never pretended to offer another kind.
 
 
-<center>\* \* \*</center>
+::: {.scene-break}
+\* \* \*
+:::
 
 
 She had meant to say it carefully. She had practised on the ride and on the stair and while she unpicked the tooth. In the end it came out the way things came out of her now, which was plainly.
@@ -6530,7 +6706,9 @@ Then she kissed him, in the open window at dusk, with the shutters wide and the 
 "Unavoidable." He leaned his forehead on hers. "I think I'll learn it."
 
 
-<center>\* \* \*</center>
+::: {.scene-break}
+\* \* \*
+:::
 
 
 It was a long time before she said the last of it. She had to say it to the lamp first, and then to the floor. Her hand went to the pouch at her waist, to the small hard thumb of Ammu's resin, and rested there.
@@ -6616,7 +6794,9 @@ He drew a breath.
 That was all. She had been promised things before, by people who wanted something. Nobody had ever promised her less than he meant.
 
 
-<center>\* \* \*</center>
+::: {.scene-break}
+\* \* \*
+:::
 
 
 Janu wept first. She wept loudly, with her apron up, and complained in the same breath.
@@ -6674,7 +6854,9 @@ His eyes came up. For a moment the big face had nothing on it at all.
 He ate. He did not say the weather again.
 
 
-<center>\* \* \*</center>
+::: {.scene-break}
+\* \* \*
+:::
 
 
 By dusk the rain had settled to a steady fall, and the chamber smelled of wet laterite and lamp oil.
@@ -6714,7 +6896,9 @@ She looked at him, and he looked back.
 She pushed her head into his hand. He let it be as heavy as it wanted.
 
 
-<center>\* \* \*</center>
+::: {.scene-break}
+\* \* \*
+:::
 
 
 The bed took her with a groan. She lay along his right side, away from the bound ribs, with her chin on his thigh and her tail over his feet. He lay back in the lamplight with the curtain tied wide and the rain coming in on the sill, and he talked a while to the ceiling, low and without hurry, about nothing. Pepper. The fourteen hounds. A cousin's boat.
@@ -6726,7 +6910,9 @@ Near the middle watch, a low voice came at the door, and a boot shifted on the b
 Later he went to the brazier. She heard the coals stir. When he came back he sat awhile on the bed's edge with the folded cloth in his hands, turning it to the heat, and he did not lie down again. He was awake when the window greyed.
 
 
-<center>\* \* \*</center>
+::: {.scene-break}
+\* \* \*
+:::
 
 
 First light came grey and wet.
@@ -6798,7 +6984,9 @@ Afterward she lay on him, listening to his heart come down.
 "You are." His chest moved under her cheek. "I wouldn't change it."
 
 
-<center>\* \* \*</center>
+::: {.scene-break}
+\* \* \*
+:::
 
 
 The rain was still coming down when they spoke again. Neither had pulled the blanket up. It had stopped mattering.
@@ -6908,7 +7096,9 @@ The queen had sent the box herself, with her blessing on the match. He had locke
 Devan folded the chit and the writ into the oilcloth and tied the red thread round them. He did not take them to Bhaskaran, or the clerk, or the strongbox. He left the records room with the bundle in his bare hand and went up the wet stair, and the rain ran in under the arch and soaked his shoulders.
 
 
-<center>\* \* \*</center>
+::: {.scene-break}
+\* \* \*
+:::
 
 
 Neela was in the warden's chamber with a bowl of rice and the window open. Her hair was still damp from the wash-house. When the door opened she looked up.
@@ -7002,7 +7192,9 @@ She bent over the papers. "We keep these where nobody finds them. Not Muthu. Not
 They fitted the strip, the writ and the seal back inside the oilcloth. He tied the red thread. She tied it a second time, harder, as if the knot could close a door.
 
 
-<center>\* \* \*</center>
+::: {.scene-break}
+\* \* \*
+:::
 
 
 Nine days into the rains, the cart came back from the Resin House mud to the axle, and Muthu with it.
