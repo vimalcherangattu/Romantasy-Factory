@@ -1,42 +1,39 @@
 {
   "scores": {
-    "reader_question": 4.0,
-    "change": 5.0,
-    "romance_movement": 5.0,
+    "reader_question": 5.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
     "shown_chemistry": 5.0,
-    "character_logic": 3.0,
-    "stakes_and_cost": 4.0,
+    "character_logic": 4.0,
+    "stakes_and_cost": 5.0,
     "prose": 4.0,
-    "continuity": 5.0
+    "continuity": 0.0
   },
   "reasons": {
-    "reader_question": "The question is clear and specific: will she give Devan Ittan's name, and what will it cost Ammu? The cost half rests on shaky reasoning, which blurs the edge.",
-    "change": "All three axes move. Relationship: first intimacy on her terms and he stays till morning. Knowledge: she learns the buyer is the Keeper. Power: she now holds Devan's life in one hand and Ammu's in the other.",
-    "romance_movement": "The reason for the change is new. She chooses to be seen, tells the truth about the scars that replaces the 'fall from a cart' lie, and asks him to stay. This turns the earlier silence into presence she has chosen.",
-    "shown_chemistry": "Attraction is shown through responsive action. She moves the lamp so it lights 'Both of us'. He sets down the pebble, asks before each touch and deliberately does not use his marma knowledge. Her 'No one holds my wrists' is answered with 'No one will'. 'Out of practice' gives a real laugh.",
-    "character_logic": "Opening the shutters on purpose is motivated and costly. The closing dilemma does not hold up: the strip is already missing from the carrier's sheet, so Ammu is exposed whether or not Devan acts. The forced either/or feels manufactured.",
-    "stakes_and_cost": "The costs are concrete. The ache counts a second bare night, the cloth is spent, the cache is empty and the trick 'works once'. Ammu risked the rampart guard. The next decision is framed as his life against hers.",
-    "prose": "The prose is mostly concrete and well varied, with strong lines ('nothing in the dark moved', 'He held still beautifully'). A few stock phrases slip into the explicit scene and the slip reveal. The age-statement paragraph reads like a compliance insert.",
-    "continuity": "Consistent with the bible and the facts: ages, scars, the seam at the ribs and the left forearm, the sword hilt toward her, the breath hitch, seven nights to the new moon, the widow's seal charter line (F092), the Keeper's seal box (F148) and the letters (F149). The grey pebble in the pouch sits uneasily with F327 (grey left on the sill) but does not strictly conflict."
+    "reader_question": "The chapter closes on a specific, costly choice: giving Devan the Keeper's name may be his only chance and may also be Ammu's cage. 'Will she tell him?' carries real weight.",
+    "change": "Knowledge shifts hard: Neela now holds Ittan's name and the widow's-seal plan. Her relationship with Ammu also shifts, because Ammu has seen the lit window and Neela's lie to her is exposed without a word said.",
+    "romance_movement": "The reason for the change is new. She chooses to be seen in lamplight and to retract the 'fall from a cart' lie, and asks him to stay while she is awake and unguarded. It goes beyond a step up in heat.",
+    "shown_chemistry": "Chemistry comes through responsive action: he sets the lamp to light her not him and she moves it to the shelf between them; he chooses not to use his marma knowledge; his thumb waits on the ridge for her nod; she directs the pace and angle.",
+    "character_logic": "Mostly sharp. Her reasoning through the slip's exposure is the work of a smart operative. Leaving the shutters open in full view of the grove is thematically motivated ('seen on purpose'), but it exposes her lie to Ammu, and the page only half acknowledges that cost.",
+    "stakes_and_cost": "Costs pile up concretely: the second bare night counts toward the ache, the cache is spent, the trick 'works once', and acting on the slip points Chathu at the one jackal near the satchel.",
+    "prose": "The prose is concrete and controlled, with no banned phrases and AI tells within limits. It loses points for echoes ('catch her breath' / 'her breath caught' in one paragraph; 'handed' twice in the explicit scene) and a closing paragraph that states the dilemma outright.",
+    "continuity": "Conflict with F087. Ammu says the three bare nights of last week are 'why he wrote that every day counts double', but Chathu sent that message in chapter 7, weeks before the chapter 16 to 18 gaps. Everything else checks out: both ages are stated before intimacy, the two-night and seven-nights counts match, and so do the cache cloth (F379), the scar lie (F200) and the white pebble (F327)."
   },
   "fixes": [
-    "'If Devan moved on Ittan, the carrier's sheet would come up short a strip' (failure mode: Artificial misunderstandings / Irrational behaviour to extend plot). The strip is missing either way, so the dilemma does not hold. Make speaking specifically costly. For example: a missing foot-strip can be put down to rain or rats until the Keeper falls. Then Chathu will ask who read that one line, and only one jackal was near the satchel. Rewrite her route-tracing paragraph so the danger to Ammu is triggered by Devan acting on the name, not by the theft itself.",
-    "'That's why he sent the sweets' (failure mode: Twists without setup). The draft relies on a sweets delivery that is not established for this contract. Either replace it with an established pressure, such as 'That's why he wrote that every day counts double' (F087) or the split reed (F162), or plant a tin arriving in an earlier chapter. Also cut or reword the opening simile 'the way Chathu counted a tin of sweets' to match.",
-    "'each time the waiting was its own caress' and 'every time it undid her a little more' (prose: cliché in the explicit scene). Replace both with specific responsive action, such as his thumb stopping on the wrist ridge until she nods, or her breath catching on the cover name. Change 'Her eyes stung with gratitude' to a physical beat that does not name the emotion, for example she has to look at the lamp. Cut 'something close to awe' and 'It weighed more than paper should'."
+    "At \"That's why he wrote that every day counts double.\" (continuity break with F087, which was sent in chapter 7 before these gaps): rewrite Ammu's line as \"And the writ's landed, so every gap counts double now.\" This keeps the escalation without making Chathu's chapter 7 message a reply to nights that hadn't happened yet.",
+    "At \"the angle that made her catch her breath\" and \"her breath caught on it\" (echo within a paragraph): keep the first phrase and replace the second with a different physical response tied to the name, for example \"and something low in her gave at the sound of it.\" Also vary one of the two uses of 'handed' (\"had finally been handed a use for it\" / \"as if he had been handed something\"), for example change the second to \"as if he were holding something he had not expected to be given.\"",
+    "At \"The lie she had told on the last dawn\" (ambiguous timing, since the lie was at the cache dawn of chapter 20, not yesterday): change it to \"The lie she had told at the cache, three dawns ago,\" so the reader retrieves the right scene. Then cut \"She could not see how to keep faith with both.\" The preceding sentence and the silent rice cake already carry the dilemma, and stating it outright flattens the ending."
   ],
-  "reader_question": "Will Neela give Devan Ittan's name, knowing the torn strip could lead Chathu straight to Ammu?",
+  "reader_question": "Will Neela give Devan the Keeper's name when doing so may lead Chathu straight to Ammu?",
   "techniques_landed": [
     14,
     10,
     3
   ],
-  "new_facts_assessment": "F379 (Ammu rubs Neela's cached day cloth on the posts) is necessary and fits the bible. It explains how a jackal can fake a leopard's fresh scent and sets up F246, where the covered posts are later found out. The chapter keeps the beat's 'went out as the jackal herself' by having her carry the cloth in her teeth. F380 (three bare nights logged, sweets as Chathu's answer) is plausible on the ch16 to 18 count, but no sweets delivery during this contract is on the record. Either plant it in an earlier chapter or swap it for an established pressure such as F087. F381 is consistent. Its second half, the reasoning that acting on the strip exposes Ammu, is logically weak because the strip is already missing. Note for the bible keeper: F379 to F381 duplicate entries already in continuity, and F192/F196 and F193/F197 are also duplicated. Pebble: either state that Devan went back to the grey stone after F327 or make it Kannan's white pebble.",
+  "new_facts_assessment": "F406 (the torn strip is blamed on rats until someone acts on it, then traced to Ammu) is necessary. It gives the 'will she tell him' question its cost, and it fits F381, F205 and F209, where Neela later withholds her source. Moving Chathu's pressure from sweets to 'every day counts double' properly retires the sweets clause in F380. However, the chapter makes the F087 message a reaction to recent gaps, which its chapter 7 timing contradicts. Record the pressure as 'the writ has landed, so each gap now counts double', not as a new letter. One smaller point: Ammu says the cache is empty, yet Neela brings a shawl. That is fine if Neela carried her own from the fort, but it should not imply that the cache shawl survived. Retire the duplicate entries F192/F196 and F193/F197.",
   "content_rule_violation": false,
-  "failure_modes": [
-    "Artificial misunderstandings",
-    "Irrational behaviour to extend plot"
-  ],
-  "average": 4.38,
-  "minimum": 3.0,
-  "passed": true
+  "failure_modes": [],
+  "average": 3.88,
+  "minimum": 0.0,
+  "passed": false
 }
