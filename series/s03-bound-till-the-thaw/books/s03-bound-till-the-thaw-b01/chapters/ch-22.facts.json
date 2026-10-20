@@ -1,29 +1,22 @@
 {
   "facts": [
     {
-      "category": "place",
-      "fact": "The woodpile where Kiran stops is behind Nimmi's goat shed, about ten paces from the storehouse door, within the rope's eight spans.",
-      "why": "needed because the beat keeps Rohan inside while the siblings talk within rope's length."
-    },
-    {
-      "category": "object",
-      "fact": "The initials 'DIL' are scratched with a nail point on the back of the badge; Kiran wore it on a string against his skin.",
-      "why": "needed because Meera must learn whose badge it is without Kiran speaking the name."
-    },
-    {
+      "id": "F200",
       "category": "knowledge",
-      "fact": "On the storm night Dilan caught Kiran on the Saddle's lip, roped them waist to waist to walk him down, and the ice shelf above the third bend gave way under Dilan. Dilan cut his own rope with his knife as it dragged Kiran toward the lip. Kiran lay on the ice until dawn, his ear frozen to the shelf, and walked home with the badge from the snow by his hand. Dilan's last words to him were 'sorry about the hymn.'",
-      "why": "needed to dramatise the C02 payoff and S1 as the beat requires."
+      "fact": "Revises F197: on the storm night Kiran went up the Saddle alone with four loads of salt for the Dev people, lost the line within the hour and turned back to the waystone. Dilan, who had followed his tracks, rope-bound them there (knots on each wrist, names spoken to the stones, destination the third bend) and led him down the winter line. The ice shelf above the third bend gave way and they slid onto the road ice below it. Dilan cut his own rope; Kiran lay on the road ice, off the closed pass, until dawn, with his ear frozen to the glaze.",
+      "since": "s03-bound-till-the-thaw-b01 ch 22"
     },
     {
+      "id": "F201",
       "category": "knowledge",
-      "fact": "Meera has heard Dilan's name and the hymn story from Rohan before this chapter, and recognises the badge from it.",
-      "why": "needed because she must connect the badge to the dead warden."
+      "fact": "Rohan sees Kiran's torn ear in the passage as Kiran is led past, his eyes lingering on the missing rim, then chooses not to ask. Meera watches the choice.",
+      "since": "s03-bound-till-the-thaw-b01 ch 22"
     },
     {
-      "category": "relationship",
-      "fact": "Meera refuses to promise Kiran silence because a promise made while bound would strike her as a great lie if broken; she offers silence, which is free.",
-      "why": "applies the promise rule so her secrecy is not a lie."
+      "id": "F202",
+      "category": "knowledge",
+      "fact": "Meera learned Dilan's name, the hymn and the rope end from Rohan in the hut, in a telling after chapter 9.",
+      "since": "s03-bound-till-the-thaw-b01 ch 22"
     }
   ]
 }
