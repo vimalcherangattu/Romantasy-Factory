@@ -1,0 +1,42 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 3.0,
+    "stakes_and_cost": 3.0,
+    "prose": 4.0,
+    "continuity": 5.0
+  },
+  "reasons": {
+    "reader_question": "The torches and the regent's two-note horn on the Neshar road, plus 'Nobody should have known which pass', give a sharp, specific question. It falls short of a 5 because the reader already half-suspects Varun, so the gap is about how rather than who.",
+    "change": "Three things shift. Knowledge: the redbark is crown stock, sieve-marked. Power: a second, larger pursuit appears on the far side. Relationship: the fire becomes a crime they share by choice.",
+    "romance_movement": "The reason is new. He names harbouring aloud and sits down at the fire anyway ('It seems a sound policy'). She accepts the shelf and the pattu, which is her letting him carry something. Her new bodily awareness of him also lands, though partly through narration.",
+    "shown_chemistry": "Mostly shown through responsive action: the shared broken laugh, her silently slowing by a third, the sattu bet collected, 'Look at my hands', and his camphor pattu handed over because she has been shaking for two days. One passage near the end tells instead of shows.",
+    "character_logic": "Rohan's restraint over the crown mark is smart and in character. Meera's 'I thought it was guild leavings' sits badly against the crown stamp scraped off the crates (F019); a woman as exact as her would have noticed it. After the bridge collapse she also never checks his cracked ribs.",
+    "stakes_and_cost": "Harbouring and the forty-one sticks are costed clearly. But the chapter ends on observation, not a decision. She doesn't weigh waking him or telling him, so the next choice carries no stated emotional price.",
+    "prose": "The prose is clean, concrete and well paced, with no banned phrases, no em dashes and good dialogue. There are flaws. The line 'Sleep did not come for a long time after' is out of sequence. 'Every line of him seemed to reach her...' is narrated. 'A dozen winters, in summer' is muddled. The number forty-one is reused (the haul count, the sticks, and Nimmi's tally in F053), which reads as accidental.",
+    "continuity": "Nothing hard-conflicts with the bible or the facts. Rope length, rib side and the left arm, Jassi's cord, the pattu, the sattu bet, the ledge's origin and Asha's ochre packs all match. The guild-versus-crown wording and Meera's ignorance of the scraped stamp need watching, but neither is a contradiction."
+  },
+  "fixes": [
+    "At 'Meera wrapped the packet again and put it in its row. Sleep did not come for a long time after.': this is a sequence break. The next scene is supper and the shelf negotiation, and she only lies down after that, so the sleeplessness happens twice and out of order. Cut 'Sleep did not come for a long time after.' End the scene on a concrete act that uses her contradiction habit: she opens the count and writes the round mark beside the middleman's entry, and he watches her do it.",
+    "At 'He never told me it was crown stock. I thought it was guild leavings. I swear it.': this is a character-logic failure. F019 puts a scraped-off crown stamp on the crates, and a ledger-keeper this exact would have seen it. Replace it with a truth that costs her: 'I saw a stamp scraped off the crates. I didn't ask whose. He never told me, and I never wanted to know.' Her fingers stay warm because she never knew. Her complicity becomes chosen ignorance, which raises the cost and sets up the chapter 16 mirror more fairly.",
+    "At 'Every line of him seemed to reach her across the dark, she thought, with some alarm': this is narrated chemistry. Cut the sentence and show her awareness through one responsive action. For example, she shifts the red rope so it doesn't pull his bound wrist when he turns, or she notices his breath hitch on the left side and makes a silent decision about it. Then, in the final scene, add a choice with a price: she decides not to wake him yet, and has to weigh that one night's sleep against warning him."
+  ],
+  "reader_question": "Who on the Hemkot side told the regent's hunters there was a man to hunt and which pass he would come down?",
+  "techniques_landed": [
+    9,
+    11,
+    23
+  ],
+  "new_facts_assessment": "new-facts.json is empty, but the draft adds several facts. Already logged: the hut's juniper sprig and downhill door (F097), Asha casting east (F098), the lazy woman's lift (F099), the sieve-mark (F100) and the horn (F101). Unlogged: Bindu's mother taught Meera the lift at fourteen; one night's fire is five sticks; the next woodpile is two days past the hut; 'forty more' wardens at the post; the warden mess serves sattu unsalted; and the middleman sells 'through my brother's runners' while Meera sends silver down. All are consistent and mostly useful. The runners line is consequential because it ties Kiran to Varun's supply chain, so it must be logged and kept compatible with S2. The 'lowland guild stores' versus 'crown storehouse' wording blurs who owns the sieve and should be made to say crown stores plainly. The woodpile numbers are good setup for the nightly stick-per-refused-question device in chapters 9 to 15.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Narrated-only chemistry",
+    "Irrational behaviour to extend plot"
+  ],
+  "average": 3.88,
+  "minimum": 3.0,
+  "passed": true
+}
