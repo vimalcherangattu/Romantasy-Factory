@@ -1,0 +1,40 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 4.0,
+    "stakes_and_cost": 4.0,
+    "prose": 4.0,
+    "continuity": 5.0
+  },
+  "reasons": {
+    "reader_question": "Cleansing, the general and the third-day door make a specific dread with a clock; the ending's settled decision softens the pull a little.",
+    "change": "New knowledge (ash marks, the general, the third-day door), a cracked certainty in Rohan, and Meera's decision to leave Nimmi.",
+    "romance_movement": "The reason is new. He confesses his doubt about the law during danger and hands her evidence; she loses the comfort of hating him.",
+    "shown_chemistry": "Spine to chest in the hay, his arm closing round her, the haystack joke, his waiting without touching: all responsive action.",
+    "character_logic": "Mostly sharp. A whispered confession with twelve soldiers below is risky, but Meera names that risk herself.",
+    "stakes_and_cost": "Thirty-four cups poured alone behind a shut door is a named, personal cost; his confession gives her a weapon against him.",
+    "prose": "Clean, concrete and varied. The closing line is muddled and a few explanatory lines repeat rules the reader already knows.",
+    "continuity": "Matches the ribs, knuckles, pattu, bell burial, thirty-two graves, patrol details and the four-day and third-day facts."
+  },
+  "fixes": [
+    "'Until then I carry every bucket': Rohan makes a promise while bound and nobody registers it, which wastes the Rule That Bites Back (F012, F149). Have the rope hum low and level and Meera feel it through her wrist. Replace the muddled 'carried the last one first' with a plain, costly clause so the chapter ends on a contract with the cold.",
+    "'The passes were open in winter to anyone': the grain-wagon case largely repeats ch14 (F137), a repetitive-tension risk. Cut that speech to two sentences. Keep the new material: 'weigh dead I can see against dead I cannot' and the crack in his voice. Spend the saved words on Meera's reply, so the collision escalates instead of replaying.",
+    "'Nimmi had opened the cut yesterday, a forearm deep': Sunni died at dawn in ch18, so a grave dug yesterday reads as a slip. Make it deliberate and grim: 'Nimmi kept one cut open ahead of the dying.' That turns the oddity into characterisation of her 'Hope wastes medicine' belief."
+  ],
+  "reader_question": "What does the regent mean by 'cleansing' the marked houses, and can Meera and Rohan reach the Fair before the doors shut on Ranu?",
+  "techniques_landed": [
+    15,
+    16
+  ],
+  "new_facts_assessment": "F300 keeps F178/F179 and fits the road times. F301 is needed and sets up F183. F302's arithmetic works: 17 running courses with two cups each left at the door is 34. All are consistent. One ambiguity: 'Nimmi had opened the cut yesterday' implies the grave was dug before Sunni died at dawn in ch18.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Repetitive tension"
+  ],
+  "average": 4.12,
+  "minimum": 4.0,
+  "passed": true
+}
