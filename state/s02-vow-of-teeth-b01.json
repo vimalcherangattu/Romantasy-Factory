@@ -303,7 +303,7 @@
       }
     },
     "10": {
-      "status": "passed",
+      "status": "edited",
       "revisions": 2,
       "scores": {
         "reader_question": 4.0,
@@ -317,11 +317,22 @@
       },
       "average": 4.12,
       "flags": [],
-      "words": 2514,
+      "words": 2507,
       "minimum": 4.0,
       "continuity_fixes": [
         "Devan's hand lies 'open on the blanket, palm up', yet Neela counts seven scars across the knuckles, which are on the back of the hand and can't be seen palm up. FIX: In ch 10, change 'palm up' to 'palm down, fingers loose'. Leave the later 'his hand still lay open on the blanket'."
-      ]
+      ],
+      "style": {
+        "words": 2507,
+        "banned_hits": {},
+        "ai_tell_hits": {},
+        "ai_tells_per_1000": 0.0,
+        "top_4gram": "forty five forty six",
+        "top_4gram_count": 2,
+        "longest_paragraph_words": 90,
+        "em_dashes_per_1000": 0.0,
+        "reading_ease": 93.3
+      }
     },
     "11": {
       "status": "passed",
@@ -1815,9 +1826,13 @@
     {
       "at": "2026-10-20T07:51:05",
       "event": "done: S8 line edit ch 9"
+    },
+    {
+      "at": "2026-10-20T07:51:36",
+      "event": "done: S8 line edit ch 10"
     }
   ],
-  "updated_at": "2026-10-20T07:51:05",
+  "updated_at": "2026-10-20T07:51:36",
   "midpoint_chapter": 16,
   "continuity_attempts": 3,
   "continuity_last_errors": 2
