@@ -3471,6 +3471,41 @@
       "fact": "Sergeant Bhaskaran has a wife and four daughters.",
       "since": "s02-vow-of-teeth-b02 ch 8",
       "provisional": true
+    },
+    {
+      "id": "F503",
+      "category": "knowledge",
+      "fact": "A man in a grey cloak from the queen's household approached Muthu the winter Asha died and asked for a monthly letter 'to keep the warden safe'. Muthu's mother is alive and writes to him on the ninth-day post, as F217 says.",
+      "since": "s02-vow-of-teeth-b02 ch 9",
+      "provisional": true
+    },
+    {
+      "id": "F504",
+      "category": "object",
+      "fact": "The thick grey packet Devan locked away holds Muthu's month-report on two leaves plus the household's order slip ('Say nothing, and your wife is kept') in a clerk's round hand. Ittan read the slip and handed it back, and Muthu enclosed it with his own letter.",
+      "since": "s02-vow-of-teeth-b02 ch 9",
+      "provisional": true
+    },
+    {
+      "id": "F505",
+      "category": "object",
+      "fact": "Muthu keeps a small brass post-key on a cord at his belt for the gate's post chest; Devan takes it so all post passes through Devan's hand.",
+      "since": "s02-vow-of-teeth-b02 ch 9",
+      "provisional": true
+    },
+    {
+      "id": "F506",
+      "category": "knowledge",
+      "fact": "Muthu's letters to the household never mention where Devan lays his sword, yet Vellan knew (F214/F220), which points to an informant who has been in the warden's chamber. Neela and Devan conclude it is not Muthu. This is clue C11.",
+      "since": "s02-vow-of-teeth-b02 ch 9",
+      "provisional": true
+    },
+    {
+      "id": "F507",
+      "category": "plot",
+      "fact": "The raid on the Resin House goes in on the dark of the moon, with Devan leading the ridge party and Muthu holding Kettamala with Rema inside the walls.",
+      "since": "s02-vow-of-teeth-b02 ch 9",
+      "provisional": true
     }
   ],
   "knowledge": [
