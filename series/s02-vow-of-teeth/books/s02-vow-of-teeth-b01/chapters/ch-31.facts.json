@@ -1,3 +1,29 @@
 {
-  "facts": []
+  "facts": [
+    {
+      "category": "plot",
+      "fact": "At the middle watch Ittan woke in the guardroom and asked, through Unni, to speak only to the warden, saying he would tell Devan whose hand he is. Devan sent Unni to Bhaskaran with an order that nobody enters the guardroom until Devan comes, and told Neela only at dawn after she had turned back and eaten.",
+      "since": "s02-vow-of-teeth-b01 ch 31"
+    },
+    {
+      "category": "plot",
+      "fact": "Bhaskaran will hold Devan's order against anyone except Muthu, who is his captain. Devan cannot bar Muthu without telling the fort why. Bhaskaran steps aside for Muthu, who enters the guardroom with a grey-sealed packet thicker than any month's letter and gets the first word with Ittan.",
+      "since": "s02-vow-of-teeth-b01 ch 31"
+    },
+    {
+      "category": "plot",
+      "fact": "Neela chooses to wait an hour at dawn rather than send Devan to Ittan, knowing Muthu may reach Ittan first.",
+      "since": "s02-vow-of-teeth-b01 ch 31"
+    },
+    {
+      "category": "plot",
+      "fact": "Bhaskaran's men got water to the Resin House kennels before the rain shut the wood road; the road opens between downpours. Muthu drives the second run in three days with fodder, water and a clean cloth for Kirri's cage.",
+      "since": "s02-vow-of-teeth-b01 ch 31"
+    },
+    {
+      "category": "knowledge",
+      "fact": "Chinna's wager on why the warden barred his shutters has no winner; she keeps the stakes and does not ask what was right.",
+      "since": "s02-vow-of-teeth-b01 ch 31"
+    }
+  ]
 }
