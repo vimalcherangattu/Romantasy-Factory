@@ -1,0 +1,41 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 3.0,
+    "stakes_and_cost": 4.0,
+    "prose": 3.0,
+    "continuity": 0.0
+  },
+  "reasons": {
+    "reader_question": "The ending is strong. Rohan's 'It's nothing' whitens his fingers under the cairn-light while Meera counts, and Kiran's ear quietly sharpens the Dilan thread.",
+    "change": "Rohan now holds evidence against her (206 crossings, written down). He has committed harbouring on purpose. Both have felt that the other's body is their own survival.",
+    "romance_movement": "The reasons are new. She says his body is hers to keep, and he answers 'mine to keep in turn.' He sits at her fire and returns half her ration. Trust moves without a recycled refusal.",
+    "shown_chemistry": "The chemistry comes through action: his palms turned up to the fire, half the cup handed back, his unasked listening, her hauling him in. A few lines still narrate ('surprised her more than anything').",
+    "character_logic": "Mostly sharp. Rohan's motive line ('three winters') undercuts his own answer, and the invented 'summer, then autumn' exchange makes him misquote her for no reason.",
+    "stakes_and_cost": "Each step has a price. Sitting at the fire is a hanging crime, the count is spoken evidence, the distance cold costs them both, and the rib lie sets up ch. 6.",
+    "prose": "The prose is clean and readable. It repeats images from ch. 4 ('like frost on a window', sky/eyes 'the colour of iron') and leans on 'X was free' several times. 'His eyes held hers' is a stock line.",
+    "continuity": "The memory 'ten winters back, when she and Kiran had been children' conflicts with the bible. Ten winters ago Meera was 19 and Kiran 14, and that was the winter their mother died."
+  },
+  "fixes": [
+    "In 'ten winters back, when she and Kiran had been children playing at the end of a rope', there is a continuity error: Meera was 19 and Kiran 14 that winter, and children cannot be bound by play. Replace it with a real bound crossing before their mother's death. For example: 'the winter she was fifteen, on her first bound crossing with her mother, when she had gone back for a dropped mitten and her mother had screamed.' Update new-facts.json to match.",
+    "In 'I have not found a better reason in three winters, and I have looked', the motive contradicts itself (Irrational behaviour). Dilan died two winters ago, but Rohan has hunted the crew for three, so the stated reason postdates the hunt. Meera's flat 'Two winters' / 'Yes' leaves the reader wondering whether he lied with no cold to show for it. Make the gap the point. For example: 'I hunted the crew one winter because the law said so. I have hunted it two more for him.' Let Meera's correction become her noticing that the timing is precise.",
+    "Cut or rewrite 'You walked it in summer, you said, and then in autumn', and 'She had said no such thing.' Rohan misquoting her contradicts the next line, which says he listened and kept everything. It also raises the unanswered question of whether her 'turn of the year' claim was a lie. Have him quote something she actually said in ch. 4 (for example the rock band or the dry seam). In the same pass, replace the reused ch. 4 images ('like frost on a window' on his fingertips; eyes 'the colour of cold iron') with fresh ones."
+  ],
+  "reader_question": "How big was Rohan's 'It's nothing' lie, and what will it cost him on the climb to the Long Saddle?",
+  "techniques_landed": [
+    1,
+    4,
+    10
+  ],
+  "new_facts_assessment": "The dung-cake cache is necessary and consistent, and it is a nice unwritten-law texture. The count of 206 is necessary, plausible over ten winters, and makes the trade costly. The carving on the waystone's east face plants C06 correctly. The childhood rope memory conflicts with the timeline: at ten winters back they were not children. Binding also requires a cairn ritual, so 'playing at the end of a rope' needs a real bound pair. Two facts are unlogged and should be added. First, the waystone hums and rises in pitch at a lie, which extends F015 beyond the Shilak Cairn. Second, the 'first chronicle of the Shilak post' wording of the founding story.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Irrational behaviour to extend plot"
+  ],
+  "average": 3.25,
+  "minimum": 0.0,
+  "passed": false
+}
