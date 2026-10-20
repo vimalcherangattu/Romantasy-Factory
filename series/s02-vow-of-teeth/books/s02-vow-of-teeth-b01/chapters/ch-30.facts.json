@@ -1,33 +1,21 @@
 {
   "facts": [
     {
+      "id": "F349",
       "category": "knowledge",
-      "fact": "Devan stopped Janu's leopard stories at supper with Neela present (ch 9), then told Janu in the kitchen, by day, that he was 'tired of leopards'. He never said the night-shape to Neela. Order of his protections: shutters barred second dusk, hounds kennelled, sentry pulled, Janu's stories last (matches ch 4, 5, 9; corrects F282's order).",
+      "fact": "Corrects F349: Devan tells Neela that on the wedding night the shutters were shut on the latch for the wedding guests and never barred, because his father never barred them and kept them open to breathe (consistent with F102, F121, F300). He barred them from the second dusk, kennelled the hounds that same night (F377), pulled the sentry a few nights after, and stopped Janu's stories last, so no servant could become her witness.",
       "since": "ch 30"
     },
     {
+      "id": "F347",
       "category": "relationship",
-      "fact": "Devan says he said 'I love you' to Asha, badly, in the kitchen the week before she died, and to no one since until Neela.",
+      "fact": "Corrects F347: Devan's day-eleven moment at the kalari (fingers at the skull, three breaths) taught him she would not kill him in the dark; it did not mean he trusted her with the name. He admits the ch15 silence-for-a-name bargain was a mistake and says he was wrong to make her pay for it.",
       "since": "ch 30"
     },
     {
-      "category": "object",
-      "fact": "The guild tooth is a real leopard canine from the Resin House store, meant to be left in Devan's wound; Neela wore it sewn in her waistband from Kodiyur. Devan pricks his thumb on it and a welt rises on her thumb.",
-      "since": "ch 30"
-    },
-    {
-      "category": "relationship",
-      "fact": "Devan was wary of Neela for about eleven days. The moment he trusted her was the dawn at the kalari when she came down the north steps, put her fingers at the base of his skull (marma point), counted three breaths aloud, lifted her hand and told him his guard dropped on the left. He did not turn, and held his breath.",
-      "since": "ch 30"
-    },
-    {
-      "category": "plot",
-      "fact": "Neela asks Devan to remarry her at noon tomorrow in the courtyard before Janu, Muthu, Kannan and the household. Devan warns Muthu will report her words north in a grey-sealed letter; she chooses to speak anyway and will not tell Devan the words beforehand.",
-      "since": "ch 30"
-    },
-    {
+      "id": "F410",
       "category": "knowledge",
-      "fact": "Devan tells Neela the first night he left the shutters shut on the latch, never barred, as his father kept them, and watched her climb to the sill; he barred them from the second dusk so no servant could become her witness.",
+      "fact": "Neela tells Devan the twelfth contract only and says there were eleven before it, which he may have one at a time if he asks; he says he will ask. Sets up the lookout-at-Asha's-death reveal in book 2.",
       "since": "ch 30"
     }
   ]

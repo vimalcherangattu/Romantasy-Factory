@@ -2820,6 +2820,27 @@
       "fact": "Ammu's Valli cloth was shed at the cook-house corner; Muthu found it and laid it at the roots of the tree where she died, beside her resin pouch. Replaces the 'cached before dusk' detail.",
       "since": "s02-vow-of-teeth-b01 ch 28",
       "provisional": true
+    },
+    {
+      "id": "F409",
+      "category": "knowledge",
+      "fact": "Corrects F349: Devan tells Neela that on the wedding night the shutters were shut on the latch for the wedding guests and never barred, because his father never barred them and kept them open to breathe (consistent with F102, F121, F300). He barred them from the second dusk, kennelled the hounds that same night (F377), pulled the sentry a few nights after, and stopped Janu's stories last, so no servant could become her witness.",
+      "since": "s02-vow-of-teeth-b01 ch 30",
+      "provisional": true
+    },
+    {
+      "id": "F410",
+      "category": "relationship",
+      "fact": "Corrects F347: Devan's day-eleven moment at the kalari (fingers at the skull, three breaths) taught him she would not kill him in the dark; it did not mean he trusted her with the name. He admits the ch15 silence-for-a-name bargain was a mistake and says he was wrong to make her pay for it.",
+      "since": "s02-vow-of-teeth-b01 ch 30",
+      "provisional": true
+    },
+    {
+      "id": "F411",
+      "category": "knowledge",
+      "fact": "Neela tells Devan the twelfth contract only and says there were eleven before it, which he may have one at a time if he asks; he says he will ask. Sets up the lookout-at-Asha's-death reveal in book 2.",
+      "since": "s02-vow-of-teeth-b01 ch 30",
+      "provisional": true
     }
   ],
   "knowledge": [
