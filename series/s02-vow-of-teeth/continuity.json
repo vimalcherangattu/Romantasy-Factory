@@ -2925,6 +2925,27 @@
       "fact": "Corrects F398: on the no-resin night of ch 16 the stone cup will be bare for the second time. Only the fever night (ch 13) was found bare by Ammu's jackal; the narrows night (ch 14) was marked late (F397) and passed. The watcher's log shows a second refusal, since ch 11 was a human night.",
       "since": "s02-vow-of-teeth-b01 ch 16",
       "provisional": true
+    },
+    {
+      "id": "F424",
+      "category": "knowledge",
+      "fact": "Token logic, replacing the two-impression wording of F385/F390: Bhaskaran's gate stamps only a stick carrying a clerk's number that matches a cart on the roll. Ittan's 36 blanks carry council wax with the dot-and-split but no clerk's number, so no gate would ever stamp them. Only a holder of the pass-seal (a widow in trust, with the Keeper as adviser) could number and stamp all 36 at once, with no roll to check against.",
+      "since": "s02-vow-of-teeth-b01 ch 29",
+      "provisional": true
+    },
+    {
+      "id": "F425",
+      "category": "knowledge",
+      "fact": "Muthu's quiet when he hesitates at the first cart is not his lying tell: Devan reads it as a man holding his breath between two loyalties. His objection about the queen's council and a writ is honest.",
+      "since": "s02-vow-of-teeth-b01 ch 29",
+      "provisional": true
+    },
+    {
+      "id": "F426",
+      "category": "plot",
+      "fact": "Clarifies F271: the closing is done in the gate-chamber directly over the padippura, under the same roof. Neela signs as the warden's wife, 'of Kettamala', on a border-law writ. She marks it as different from her earlier refusal to put her word before the queen as an odiyan's testimony.",
+      "since": "s02-vow-of-teeth-b01 ch 29",
+      "provisional": true
     }
   ],
   "knowledge": [

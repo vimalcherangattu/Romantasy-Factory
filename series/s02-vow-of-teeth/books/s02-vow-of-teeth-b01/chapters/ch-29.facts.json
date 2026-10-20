@@ -1,21 +1,21 @@
 {
   "facts": [
     {
-      "id": "F385",
+      "id": "F424",
       "category": "knowledge",
-      "fact": "A spring pass opens on two impressions: council wax on the token and the warden's gate impression beside it. Bhaskaran pressed the gate mark beside the dot-and-split tally he passed, so that wax was true. Ittan's 36 blanks carry only the council wax; no warden would ever stamp them, so they were meant for a widow holding the seal in trust, with the Keeper as adviser, who could press the second impression on all of them. No gate roll counts a widow's impression. Replaces F273 and the earlier F385.",
+      "fact": "Token logic, replacing the two-impression wording of F385/F390: Bhaskaran's gate stamps only a stick carrying a clerk's number that matches a cart on the roll. Ittan's 36 blanks carry council wax with the dot-and-split but no clerk's number, so no gate would ever stamp them. Only a holder of the pass-seal (a widow in trust, with the Keeper as adviser) could number and stamp all 36 at once, with no roll to check against.",
       "since": "s02-vow-of-teeth-b01 ch 29"
     },
     {
-      "id": "F386",
+      "id": "F425",
+      "category": "knowledge",
+      "fact": "Muthu's quiet when he hesitates at the first cart is not his lying tell: Devan reads it as a man holding his breath between two loyalties. His objection about the queen's council and a writ is honest.",
+      "since": "s02-vow-of-teeth-b01 ch 29"
+    },
+    {
+      "id": "F426",
       "category": "plot",
-      "fact": "Before the search Ittan says no warden has opened a Keeper's cart in living memory, counting on Devan's habit: eight years of a man who never struck first, and five of a warden who never once turned his power on anyone (Devan has been warden five years). At the middle watch the clerk came with a lantern and a pry-bar to the chest's ropes and was seized by Bhaskaran's men. Refines F272.",
-      "since": "s02-vow-of-teeth-b01 ch 29"
-    },
-    {
-      "id": "F390",
-      "category": "object",
-      "fact": "Chathu's slip is a single line in black tacky resin-ink. Devan, who had kept it since ch23 (F383), gave it back into Neela's keeping the night before sealing so that she would be the one to bring it forward in court.",
+      "fact": "Clarifies F271: the closing is done in the gate-chamber directly over the padippura, under the same roof. Neela signs as the warden's wife, 'of Kettamala', on a border-law writ. She marks it as different from her earlier refusal to put her word before the queen as an odiyan's testimony.",
       "since": "s02-vow-of-teeth-b01 ch 29"
     }
   ]
