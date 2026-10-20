@@ -1,41 +1,42 @@
 {
   "scores": {
-    "reader_question": 4.0,
+    "reader_question": 5.0,
     "change": 4.0,
     "romance_movement": 4.0,
     "shown_chemistry": 4.0,
     "character_logic": 3.0,
     "stakes_and_cost": 4.0,
-    "prose": 3.0,
-    "continuity": 0.0
+    "prose": 4.0,
+    "continuity": 5.0
   },
   "reasons": {
-    "reader_question": "The ending lands cleanly: Neela steps out at the west stair, so the reader needs to know what she will say to Rema.",
-    "change": "Devan moves from master of the fort to outranked inside it: the gate, Ittan's door and the warden's chair all pass to Rema.",
-    "romance_movement": "There is a new reason: he chooses disclosure over fences, and she corrects his plan and sets the terms. The partnership is renegotiated, not replayed.",
-    "shown_chemistry": "The wrist catch at the door, 'You did well. Do it again,' and her west-stair gambit all show the bond through responsive action.",
-    "character_logic": "A warden who has seen Neela's layered inner-wrist scars in sunlight reads an identical ridge as a lamp-burn. The misread is thinly earned.",
-    "stakes_and_cost": "Three days to an assize. Being seen exposes a rogue odiyan to a crown justice who holds her name. Hiding reads as guilt.",
-    "prose": "The prose is clean and concrete with no em-dash excess. But 'dry' echoes four times, the filing motif repeats three times, and one 'in that moment' appears.",
-    "continuity": "Muthu is called 'the woman'. 'Kept her last two smears and not turned' contradicts F451, where she spends one on the ch1 night."
+    "reader_question": "Neela's name at the west stair with 'She is here' makes the question concrete: what she says to a justice who can hang her.",
+    "change": "The power shift lands. Rema takes the chair, the door and the clock, and Devan names that his fort was 'quietly put to one side'.",
+    "romance_movement": "The reason is new: he confesses the fence he nearly built and chooses disclosure, and she bargains for 'everything, before I ask'.",
+    "shown_chemistry": "She catches his wrist the way she corrects his guard. 'You did well. Do it again.' He notices her late breath. All responsive, none narrated.",
+    "character_logic": "Devan is sharp. Neela's west-stair reversal has no clear reason ('She won't have noticed which I use. I will.'), and the line before muddles it further.",
+    "stakes_and_cost": "Being seen costs her: her name is on a crown writ and her scars are on her wrists in front of a justice. Rema's three days put the clock on.",
+    "prose": "Clean and specific overall. The rain-in-ropes image echoes chapter 1, 'rope' recurs three times, and one line of Neela's dialogue is garbled.",
+    "continuity": "Consistent with the seal chip, the writ hollow, the willow bark, the garrison of sixty and Muthu's quiet tell. 'Ten years' of scars is approximate but fine."
   },
   "fixes": [
-    "'His objection was to the woman beside the chair. Muthu.' This is a continuity error: Muthu is male. Change 'woman' to 'man'.",
-    "'She had kept her last two smears and not turned' contradicts F451, where she spends the first smear running the wood road on the ch1 night. Either add one clause saying the langurs' silence made them hold her in and save the smear, or have her back from the run at dawn and asleep after the hollow hunger. Log the change in new-facts.",
-    "'Lamp-burn, he thought.' This is irrational behaviour: Devan knows Neela's thick, layered inner-wrist scars intimately. Make the misread reasonable by having the guard's mark be a single smooth seam, unlike Neela's ridged layers, and no mark showing at the collar under the sash. Cut one of the three 'filed it' beats ('Devan filed that, too.' or 'He set it beside the other things') to reduce repetition."
+    "'Then I'll take the west.' Problem: irrational behaviour, because her motive is opaque and the east-stair exchange before it confuses things. Cut the exchange. Give one line of clear reason: 'I've used the east stair every day since the vow. A watcher counts habits. Today I break one.' Devan notes she has avoided the west stair since the vow and does not ask why. Keep her late breath as the cost.",
+    "'the skin at her throat was bare, unmarked.' Problem: a twist without setup or a rule conflict. If the escort are crown odiyans, F014 requires throat scars. Instead, her collar is buttoned high and never gapes. Make the wrist seam 'pale, faintly raised, one line' so Devan's lamp-burn reading stays reasonable and the clue stays retrievable. Keep the contrast with Neela's layered ridges.",
+    "'At the gate the rain came down in ropes' and 'Hide me for three days and she'll find out'. Problem: a repeated image (chapter 1 has 'rain in ropes') plus a rope echo (ropes, built like a rope). Use another rain image, and recast the guard as 'built like a bowstring'. Rewrite Neela's line: 'Hide me three days and she finds out anyway. Then she asks every servant who carried my tray.'"
   ],
-  "reader_question": "What will Neela say to a crown justice who can hang her, and are the nameless escort odiyans of the queen's night-guard?",
+  "reader_question": "What will Neela say, scars bound and name on a crown writ, to a justice who can hang her, and are Rema's sleepless escort what Devan fears?",
   "techniques_landed": [
     11,
     13,
     16
   ],
-  "new_facts_assessment": "The listed facts (seal chip, numbered escort, horn code, chair and door placement, three-day assize) are necessary and consistent. Several changes are unlisted. Neela keeping both smears conflicts with F451. Taking the west stair deliberately reverses F449; it is a strong beat but should be logged. The goat path at nineteen is harmless. Rema is 'about sixty' here and 'fifty-eight' later; harmonise. The escort not eating or breathing risks implying powers beyond the Turning rules.",
+  "new_facts_assessment": "Langur-silence skip (F458): necessary and consistent with chapter 1's ending. Rema 58: fine. West-stair reversal: useful for the parrot-newel ending, but its motive is unclear on the page. First Guard's smooth seam and bare throat: these risk contradicting F014 (every odiyan scarred at the throat) if the escort prove to be crown odiyans. The clue would then be unfair. Recommend ambiguity rather than a bare throat.",
   "content_rule_violation": false,
   "failure_modes": [
-    "Irrational behaviour to extend plot"
+    "Irrational behaviour to extend plot",
+    "Twists without setup"
   ],
-  "average": 3.25,
-  "minimum": 0.0,
-  "passed": false
+  "average": 4.12,
+  "minimum": 3.0,
+  "passed": true
 }
