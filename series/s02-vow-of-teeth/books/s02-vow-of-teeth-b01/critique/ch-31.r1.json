@@ -2,39 +2,41 @@
   "scores": {
     "reader_question": 4.0,
     "change": 4.0,
-    "romance_movement": 5.0,
+    "romance_movement": 4.0,
     "shown_chemistry": 4.0,
-    "character_logic": 4.0,
-    "stakes_and_cost": 3.0,
+    "character_logic": 3.0,
+    "stakes_and_cost": 4.0,
     "prose": 4.0,
-    "continuity": 0.0
+    "continuity": 5.0
   },
   "reasons": {
-    "reader_question": "The ending is specific and makes the next chapter necessary: whose hand is Ittan, and why is Muthu taking a thick grey-sealed packet to Ittan's guardroom? It drifts from the beat's 'how long can the fort keep them safe', which is only touched by the 'four months' talk.",
-    "change": "The bargain becomes a public marriage in the vow. Knowledge also moves: Ittan will talk, and Neela openly reads Muthu's lie. That covers relationship, knowledge and a shift in household standing.",
-    "romance_movement": "The reasons are new and specific: she chooses to let him witness the dawn return, the first time anyone has seen it, and she leads the explicit scene. A kept secret becomes a shared life, which is exactly the beat's romance change.",
-    "shown_chemistry": "The responsive care is strong: the dish and cloth set ready, the cloth rewarmed in the night, 'Left' said once, the scar kissed with 'It's yours. I'm only holding it.' A few narrated lines dilute it ('It was more than she had ever been promised', 'an attention that undid her').",
-    "character_logic": "Most choices are smart. She names the dead in public and trusts Muthu with Kirri's cloth because there is no other cart. The weak point: Neela listens 'all night' in leopard shape, yet never hears Unni come to the stair head at the middle watch.",
-    "stakes_and_cost": "The external costs are named: Muthu will report every word, and Kirri's dignity goes in the informant's cart. The intimate choices themselves now cost little, because self-naming has removed the danger. Grief is the main felt cost.",
-    "prose": "Concrete and well varied, with quotable lines ('The yard took the names and kept them'; grief and laughter on the same bench), no banned phrases and only light dash use. Flaws: 'The rain drummed' appears twice, plus 'steady drum'; 'under a oilcloth' is a typo; 'come back shaking through his lashes' is a dangling modifier; 'A cloth for Kirri's anklet. The anklet itself, if she'll let him' is unclear.",
-    "continuity": "Two conflicts. 'The pass stays shut till spring' contradicts the four-month monsoon closure (F020), and the same scene says 'four months'; spring has already passed (F108, Raman died in spring). Separately, 'Two e's would be a waste. One, then an l, then an a' spells 'Nela', which contradicts the name Neela as written on the crown writ (F271)."
+    "reader_question": "Sharp closing image: what will Muthu say to Ittan first, and what is in that thick packet? Only loosely tied to the beat's rain-safety question.",
+    "change": "Bargain becomes marriage, the return is witnessed by choice, and Muthu takes the first word with Ittan. Power shifts against them at the close.",
+    "romance_movement": "New reason for the change: she chooses to be seen returning and writes her own vow. The explicit scene changes who leads and who is waited for.",
+    "shown_chemistry": "Chemistry is acted out: the warmed cloth and dish, the 'Left' cue, the lashes banter, the cut teeth line. A few lines tell it, e.g. 'She had never been waited for.'",
+    "character_logic": "Devan alone spends the middle-watch window on Ittan's confession, then offers Neela the choice once its value is mostly gone. He also leaves the guardroom open to a captain he suspects.",
+    "stakes_and_cost": "The dawn hour is bought with Ittan's confession, and Kirri's cloth is trusted to the informant. Both costs are named and chosen.",
+    "prose": "Clean, varied and specific. The hitch sentence repeats verbatim, 'the court roared' appears twice, and one line of dialogue has an unclear speaker.",
+    "continuity": "Ages, scars, wound-share limits, Raiu, Gopan, Unni, Kirri's anklet, the fodder run and the guardroom set-up all match the bible and facts."
   },
   "fixes": [
-    "At 'The pass stays shut till spring, but the wood road' (continuity conflict with F020 and with 'four months' a few lines later): change it to 'The pass stays shut till the rains break' or 'four months yet', and correct F289 to match.",
-    "At 'Two e's would be a waste. One, then an l' (continuity: this spells 'Nela', not Neela): keep the joke but make the spelling correct. For example: 'Two e's. Clerks always drop one. Then an l, then an a.' This keeps the beat in which she knowingly lets him report her.",
-    "At 'Unni came to the stair head at the middle watch' (character logic: Neela in leopard shape 'listened to it all night' and would hear a guard and a whispered exchange at the door): either have her register a low voice at the door during the night, which she files and Devan now explains, or move Unni's message to the brazier moment as a scratch at the door she heard and misread. Then Devan's admitted holding-back plays fair with the POV."
+    "At 'I'd have gone down myself. I wanted you to turn back first.' (irrational behaviour): Devan quietly sits on Ittan's offer for hours, then hands Neela a spent choice. Give him a rule-based reason he could not leave the chamber at the middle watch, such as open shutters with Unni at the door. Or have him own the delay as his mistake, so Neela's choice to stay stays hers and stays costly.",
+    "At the second 'A third of the way through each long count it hitched' (repetition): this sentence appears verbatim twice. Keep the night-watch version. In the dawn scene, vary it so the callback lands without echo, e.g. 'the small catch came where it always came.' Also cut one of the two 'the court roared' lines.",
+    "At 'A tremor went through him. \"Does it hurt?\"' (unclear speaker): the reader cannot tell who asks or who answers. Add a short tag, e.g. 'Does it hurt?' she asked. Next, at 'I heard you cut it', add a clause showing how Devan knew a line was missing, so his reply doesn't read as knowledge he couldn't have."
   ],
-  "reader_question": "Whose hand will Ittan say he is, and what is in the thick grey-sealed packet Muthu is carrying to him at dawn?",
+  "reader_question": "What will Ittan tell Muthu, who has reached him first with a thick grey-sealed packet, and what does that cost Neela and Devan?",
   "techniques_landed": [
     9,
     20,
     23,
     24
   ],
-  "new_facts_assessment": "F287 (Ittan asks for the warden) is necessary and sets up the ch32 hinge (queen's seal). It is consistent with 'I am only a hand' (ch28) and 'whose hand he was' (ch30). However, Neela listening all night in shape and not hearing Unni at the stair strains it. F288 (Muthu's thick packet to the guardroom) is a strong, fair escalation that fits his informant role; it should not reveal the queen's seal early. F289 is useful in that the rain held the fodder run and the wood road drains in a day, but 'Monkey Pass stays shut until spring' conflicts with F020's four months and must be corrected. The rewarmed cloth is fine. F290 is consistent with Muthu's quiet tell (F239) and Devan's ch30 warning (F283), and gives Neela an active, characterful choice.",
+  "new_facts_assessment": "The Ittan and Unni request, Bhaskaran's order and Muthu entering the guardroom are necessary set-up for ch32 and agree with F297 and F393. The second fodder run and the closed wager are consistent and small. No conflicts found.",
   "content_rule_violation": false,
-  "failure_modes": [],
-  "average": 3.5,
-  "minimum": 0.0,
-  "passed": false
+  "failure_modes": [
+    "Irrational behaviour to extend plot"
+  ],
+  "average": 4.0,
+  "minimum": 3.0,
+  "passed": true
 }

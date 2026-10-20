@@ -1024,7 +1024,7 @@
       ]
     },
     "31": {
-      "status": "revised",
+      "status": "passed",
       "revisions": 1,
       "scores": {
         "reader_question": 4.0,
@@ -1033,13 +1033,13 @@
         "shown_chemistry": 4.0,
         "character_logic": 3.0,
         "stakes_and_cost": 4.0,
-        "prose": 3.0,
-        "continuity": 0.0
+        "prose": 4.0,
+        "continuity": 5.0
       },
-      "average": 3.25,
+      "average": 4.0,
       "flags": [],
       "words": 3218,
-      "minimum": 0.0,
+      "minimum": 3.0,
       "continuity_fixes": [
         "In ch 28 Neela waters the forty-one kennel animals once and says the troughs will be dry in three days. Devan orders Bhaskaran's men out the morning after the return. Ch 31 says 'Rain held the first run' and that Muthu goes three days after the vow, which leaves about eight days without water. Ch 32 then reports the animals, Kirri included, alive and settled, and no one mentions the gap. FIX: In ch 31, change 'Rain held the first run' to 'Bhaskaran's men got water through before the rain shut the wood road for a few days.' Keep Muthu's run as the second one."
       ],
@@ -2307,9 +2307,13 @@
     {
       "at": "2026-10-20T08:36:21",
       "event": "done: S6 revise ch 31"
+    },
+    {
+      "at": "2026-10-20T08:37:31",
+      "event": "done: S5 critique ch 31"
     }
   ],
-  "updated_at": "2026-10-20T08:36:21",
+  "updated_at": "2026-10-20T08:37:31",
   "midpoint_chapter": 16,
   "continuity_attempts": 0,
   "continuity_last_errors": null,
