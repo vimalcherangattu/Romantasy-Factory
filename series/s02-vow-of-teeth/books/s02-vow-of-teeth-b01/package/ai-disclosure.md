@@ -11,7 +11,7 @@ Generated: 2026-10-20
   rules in this project's `canon/` files. The publisher reviewed it and
   approved it before upload.
 - **Cover art: AI-generated.** The image was generated from `cover-prompt.md`
-  in the owner's image tool (fill in before upload). Title and pen-name type were added by the project's
+  in ElevenLabs (FLUX 3 Image). Title and pen-name type were added by the project's
   typesetting script.
 - **Blurb, keywords and metadata: AI-generated**, reviewed by the publisher.
 
@@ -25,7 +25,7 @@ the publisher before publication (review sheet in `review/s02-vow-of-teeth-b01/`
 | Question | Answer |
 |---|---|
 | Texts | Yes: AI-generated. Entire work, with human review and editing. Tool: Claude (Anthropic) |
-| Images | Yes: AI-generated. Cover. Tool: the owner's image tool (fill in before upload) |
+| Images | Yes: AI-generated. Cover. Tool: ElevenLabs (FLUX 3 Image) |
 | Translations | No |
 
 Re-check the wording of KDP's AI questions at upload; answer them truthfully

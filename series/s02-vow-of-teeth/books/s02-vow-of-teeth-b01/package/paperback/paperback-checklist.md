@@ -13,7 +13,7 @@ editions and copies the details. Claude fills this in the browser like the ebook
 | Paperback cover finish | Matte |
 | Manuscript | `paperback/interior.pdf` (311 pages, gutter 0.625 in) |
 | Cover | Upload a cover you already have: `paperback/cover-wrap.pdf` |
-| Cover size | ? x ? in, spine None in |
+| Cover size | 12.0267 x 8.75 in, spine 0.7775 in |
 | AI-generated content | Same answers as the ebook (`ai-disclosure.md`) |
 | Previewer | Check the spine text sits inside the spine and the barcode area is clear |
 | Territories | All |

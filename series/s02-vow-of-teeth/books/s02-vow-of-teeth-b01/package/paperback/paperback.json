@@ -1,5 +1,16 @@
 {
   "pages": 311,
   "gutter_in": 0.625,
-  "interior": "interior.pdf"
+  "interior": "interior.pdf",
+  "spine_in": 0.7775,
+  "wrap_in": [
+    12.0267,
+    8.75
+  ],
+  "wrap_px": [
+    3608,
+    2625
+  ],
+  "spine_text": "VOW OF TEETH     ANYA KALLOOR",
+  "paper": "cream"
 }
