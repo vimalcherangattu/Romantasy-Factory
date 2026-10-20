@@ -1,29 +1,14 @@
 {
   "facts": [
     {
-      "category": "object",
-      "fact": "Sunni's mother returns Badami's dented bell and Meera tells her to bury it with Sunni; the bell is buried with the child and Meera no longer carries it.",
-      "why": "needed because the bell was lent to Sunni in ch 18 and she died holding it; this resolves the object."
-    },
-    {
-      "category": "name",
-      "fact": "The regent's patrol wears grey wool with a small brass bell stitched on each shoulder; the captain has a red moustache and one soldier is called Pasang.",
-      "why": "needed to show a regent's patrol on the page."
-    },
-    {
-      "category": "place",
-      "fact": "Nimmi's goat shed is a lean-to behind her house with three goats and a hay loft; the patrol marks its door with an ash handprint.",
-      "why": "needed for the hiding scene."
-    },
-    {
-      "category": "object",
-      "fact": "The patrol marks every sick house with a plate-wide ash handprint on the lintel, and says no one may go in or out of a marked house after the sixth day without a pass.",
-      "why": "needed to plant C26 (the cleansing order) concretely."
-    },
-    {
       "category": "timeline",
-      "fact": "Nimmi estimates eight days until the Snow Fair if the road holds, with the general to ride up after it.",
-      "why": "needed to answer 'how long' as a reader question."
+      "fact": "Four days remain to the Snow Fair at the end of ch19 (replaces F177's eight days, consistent with nine days at ch13 dusk). The general rides up after the Fair.",
+      "since": "ch19"
+    },
+    {
+      "category": "object",
+      "fact": "The patrol's pass rule: no one goes in or out of a marked house after the third day without a pass (replaces F176's sixth day), so it falls before the Fair.",
+      "since": "ch19"
     }
   ]
 }

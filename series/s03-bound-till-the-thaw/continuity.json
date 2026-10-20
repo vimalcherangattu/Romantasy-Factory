@@ -1190,6 +1190,20 @@
       "fact": "Nimmi estimates eight days until the Snow Fair if the road holds, with the general to ride up after it.",
       "since": "s03-bound-till-the-thaw-b01 ch 19",
       "provisional": true
+    },
+    {
+      "id": "F178",
+      "category": "timeline",
+      "fact": "Four days remain to the Snow Fair at the end of ch19 (replaces F177's eight days, consistent with nine days at ch13 dusk). The general rides up after the Fair.",
+      "since": "s03-bound-till-the-thaw-b01 ch 19",
+      "provisional": true
+    },
+    {
+      "id": "F179",
+      "category": "object",
+      "fact": "The patrol's pass rule: no one goes in or out of a marked house after the third day without a pass (replaces F176's sixth day), so it falls before the Fair.",
+      "since": "s03-bound-till-the-thaw-b01 ch 19",
+      "provisional": true
     }
   ],
   "knowledge": [
