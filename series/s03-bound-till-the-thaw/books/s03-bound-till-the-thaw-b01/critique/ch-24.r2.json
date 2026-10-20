@@ -1,0 +1,42 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 3.0,
+    "stakes_and_cost": 4.0,
+    "prose": 4.0,
+    "continuity": 5.0
+  },
+  "reasons": {
+    "reader_question": "Varun's dawn arrival and the hidden seal pose a sharp question, but showing the hiding place drops half of the beat's question.",
+    "change": "Knowledge shifts (Varun is alive, a warrant, dawn) and power shifts (Meera now holds the seal and the Fair).",
+    "romance_movement": "The seal handover is a new kind of trust, not a replayed refusal; the badge under her hand sets a cost against it.",
+    "shown_chemistry": "Rohan visibly not asking, her looser hitch, and 'shown by an expert' carry the attraction through action.",
+    "character_logic": "Meera proposes fleeing and Rohan must remind her of Kiran, her whole want; this is out of character and inverts her role as leader.",
+    "stakes_and_cost": "Staying costs the Fair and the writ, and the cost is spoken; fleeing costs Kiran. The decision is costly both ways.",
+    "prose": "Clean, varied and free of banned phrases; a few told lines ('Not a stone. The whole Fair') and an odd simile ('blue as a shut eye').",
+    "continuity": "Consistent with the bible and F001 to F221; the shown hiding place supersedes the provisional F222 rather than breaking canon."
+  },
+  "fixes": [
+    "At 'We could be gone in an hour.' (Irrational behaviour): Meera forgetting Kiran breaks her want and her role as leader. Because the rope keeps them together, have her name the dilemma herself: flight saves the seal and abandons Kiran. Let her choose to stay and give the doses. Then Rohan's contribution becomes the seal plan, not a correction of her.",
+    "At 'She chose the woodpile behind the goat shed.' (beat deviation): the beat's outgoing question asks where the seal is hidden. Cut the shown location and keep only her reasoning about lofts, houses and logs. Return her with empty hands at the count of a hundred and sixty. Remove F223 from new-facts, or justify the dramatic irony explicitly.",
+    "At 'She understood what he was putting in her hand. Not a stone.' (Narrated-only chemistry): the paragraph explains a moment the action already shows. Trim it to one concrete beat, such as her noticing the stone is warm from his nape. Also replace 'blue as a shut eye'. Clarify 'Three hangings in a gate full of pegs' so it matches F054 (one peg per hanging)."
+  ],
+  "reader_question": "Will Rohan surrender to Varun at dawn, and will the seal in the woodpile and Dilan's badge in Meera's coat survive the search?",
+  "techniques_landed": [
+    1,
+    7,
+    20
+  ],
+  "new_facts_assessment": "Goat track (F224) and the spoken cost of staying (F225) are necessary and consistent. The woodpile reveal (F223) is consistent but contradicts the beat's open question and the provisional F222; decide on one.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Irrational behaviour to extend plot",
+    "Narrated-only chemistry"
+  ],
+  "average": 4.0,
+  "minimum": 3.0,
+  "passed": true
+}
