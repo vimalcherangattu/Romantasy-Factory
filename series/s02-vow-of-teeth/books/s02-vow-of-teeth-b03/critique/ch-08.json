@@ -4,38 +4,36 @@
     "change": 4.0,
     "romance_movement": 4.0,
     "shown_chemistry": 4.0,
-    "character_logic": 3.0,
+    "character_logic": 4.0,
     "stakes_and_cost": 4.0,
-    "prose": 3.0,
-    "continuity": 0.0
+    "prose": 4.0,
+    "continuity": 5.0
   },
   "reasons": {
-    "reader_question": "The horn makes the question concrete: crown riders at Muthu's gate. Neela's unfinished consent and the Thurai odiyan sharpen it.",
-    "change": "Devan strikes first in public, the shelf becomes a costed plan, and one die links crown silver to the scouts.",
-    "romance_movement": "The romance has a new reason to move: he asks consent for what his war costs her body. The interruption is earned.",
-    "shown_chemistry": "Chemistry is shown in action: she runs and binds both arms, and the clerk banter and 'grey is cheap' echo prove they understand each other.",
-    "character_logic": "Devan knows scouts used this lip before (F130), yet posts no lookout there and leaves his spear by the pole. His math is also wrong.",
-    "stakes_and_cost": "Nineteen-to-one odds and a shared-wound cost give his decision to hold the pass a real price for her.",
-    "prose": "The prose is mostly clean and concrete. It slips into lazy tells: 'face did something complicated', a narrated delay, and repeated 'very still'.",
-    "continuity": "Three conflicts: the wound-share welt is on her forearm against his upper-arm graze; Thilak's years contradict F561; 'next light' contradicts leaving this morning."
+    "reader_question": "The crown riders at the gate, with Muthu holding it, plus Neela's cut-off answer, give a sharp, specific pull into the next chapter.",
+    "change": "Devan strikes first in front of forty men. Biju dies and the count drops to seventy-five. The doubled-leaf die ties the scouts' purse to crown silver.",
+    "romance_movement": "The consent question is a new reason, rooted in the wound-share. She begins to answer, so equality now extends to his body.",
+    "shown_chemistry": "She checks the girth three times, runs the narrows holding her matching welt and binds both arms, and the clerk banter lands.",
+    "character_logic": "The lookout set facing the road is a plausible, costed error. Devan refusing to build on the coin fits his voice. 'Once' muddies his reasoning.",
+    "stakes_and_cost": "The numbers are concrete, Biju is a real loss, and the consent ask is costly to voice. The departure of the six is delayed.",
+    "prose": "Lean and concrete, with a strong open. A few told lines ('He was an honest man') and a soft final paragraph.",
+    "continuity": "Consistent with the bible: wound-share welts, the horn codes, forty-two odiyans, Thilak's twenty-two years, Vellan withholding Asha's words, F521."
   },
   "fixes": [
-    "Fix the continuity breaks. At 'Her own forearm had a welt on it', move the welt to her left upper arm, shoulder to elbow, so the wound-share mirrors his graze. At 'tapped bark for twenty-two years', change it to 'been a member twenty-two years, a tapper before that' (F561). At 'Six ride south at the next light', change it to 'Six ride south this morning'.",
-    "Irrational behaviour: at 'from the high side of the cut where nobody was working', add one earlier line placing a lookout on the lip. Then show him silently killed or drawn off, so the gang is caught through a cost rather than carelessness. Keep Devan's spear within reach by habit. Have him say 'Eighteen' and let Kandan push 'Nineteen if the six don't come back', so the count fits a precise man.",
-    "Narrated chemistry: cut 'It was the kind of delay that happens when two people are each waiting for the other to say go.' Replace it with an action, such as Neela checking the pony's girth a third time while watching him. Replace 'His face did something complicated' with a concrete reaction, such as Thilak wiping his hand on his mundu twice. Vary one of the 'very still' beats."
+    "At \"The crown paid them once,\" Devan said\" the logic is muddy (character logic): 'once' reads as a count, not a limit on the evidence. Rewrite it as: \"'The crown's mint struck it,' Devan said. 'That's all the coin can swear to.'\" Keep his following lines. Then let \"Who pays them now?\" land alone as the escalated question.",
+    "At \"The man by the tower had it now\" there is a twist without setup. Neela never saw coin on the sleeping raider (F786), only resin and scars. Cut him from the coin chain so the line reads \"The scouts had it in spring. Rema's coin, from the crown's own chest.\" Keep the tower raider for the smell and scars only, where he is earned.",
+    "At \"He was thinking, absurdly, of Muthu\" the ending goes soft (an interior close instead of action). Replace it with a choice in motion. Devan orders Kandan to hold the shelf and starts up the cut, and remembers concretely that Muthu wrote to the queen's household for six years and now holds the gate alone. Cut 'absurdly'."
   ],
-  "reader_question": "What do the queen's riders want at Muthu's gate, and what was Neela about to choose?",
+  "reader_question": "What do the queen's riders want at Kettamala's gate now that Muthu holds it, and what was Neela about to consent to?",
   "techniques_landed": [
     7,
-    11
+    11,
+    15
   ],
-  "new_facts_assessment": "Replacing 'seventy' with forty-two odiyans fixes a real conflict. The horn code is necessary and distinct from F455. The scout kill and the coin match are needed for C08. The injury fact contradicts itself: the graze runs shoulder to elbow but the welt sits on her forearm. Several facts are unlisted: forty volunteers, where F776 had Kandan with nine; Vasu rescued; 'third wound this week'; the horn carrying a mile down the cut.",
+  "new_facts_assessment": "Biju's death is necessary: it pays off Kandan's 'nineteen' line and stays a real loss. The spear habit is consistent. Forty volunteers is a plausible growth from F776's nine. The horn carrying a mile is fine. Two problems remain. The unlisted claim that 'the man by the tower had it' (the coin) has no prior support. F798 records Neela's welt on her forearm, but the page puts it shoulder to elbow, which is correct under the wound-share mirror. Update F798.",
   "content_rule_violation": false,
-  "failure_modes": [
-    "Irrational behaviour to extend plot",
-    "Narrated-only chemistry"
-  ],
-  "average": 3.25,
-  "minimum": 0.0,
-  "passed": false
+  "failure_modes": [],
+  "average": 4.12,
+  "minimum": 4.0,
+  "passed": true
 }
