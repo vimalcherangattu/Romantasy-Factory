@@ -1,0 +1,42 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 3.0,
+    "shown_chemistry": 2.0,
+    "character_logic": 3.0,
+    "stakes_and_cost": 4.0,
+    "prose": 3.0,
+    "continuity": 0.0
+  },
+  "reasons": {
+    "reader_question": "Clear question: what Neela answers before the realm at dusk. A second live itch is why the two sheaves smell different.",
+    "change": "Hidden power turns visible: Janu sits, Neela refuses to kneel, and Neela forces the answer into the open on her terms.",
+    "romance_movement": "Devan's silent stand behind her during the offer lands, but Neela never looks or responds, so the shift stays one-sided.",
+    "shown_chemistry": "The leads share no exchange. One stopped breath is the only responsive beat between them in about 2,900 words.",
+    "character_logic": "The queen is strong and honest. Devan's 'dry little sentence' happens off-page against his promise to say it before he does it.",
+    "stakes_and_cost": "Two nights, fourteen hundred Thurai and a public choice that may cost the spears give real, named cost.",
+    "prose": "Clean and concrete. Echoes 'a step behind' four times and 'eleven' often. Uses the cliché 'That was the horror' and a garbled Ammu line.",
+    "continuity": "Several conflicts: Devan wore the disc five years, not eleven; Thrissur is a real place; the tower burned; Lata already came north."
+  },
+  "fixes": [
+    "Continuity. Fix five lines. In 'the man who wore it eleven years', Devan wore the disc five years (F391). Replace 'at the Thrissur fair' with an invented fair. Change 'with the tower and the ladders' to 'a new tower', since the old one burned. Cut 'eleven years since the warden's mother died'. In 'had been offered their pages in Kodiyur and had said no', account for Lata (F883).",
+    "Contrived delay. 'through that dry little sentence of his at the gate' reports a key beat off-page, and the page contradicts it ('Majesty.' He said no more.). Put the sentence on the page at the padippura. Devan tells the queen to her face that he holds her wax and will read it after Neela answers. This keeps his ch 21 promise and shows Neela hearing it.",
+    "Narrated-only chemistry. 'She felt him there like a wall at her back' contradicts Devan's vow to stand at her back, not as her wall (F671). Replace it with a physical beat. After 'Devan said nothing', give one responsive exchange once the hall exhales: a glance, a touch at her bound hand, or a dry line. Also fix 'sent Ammu's killer to a stair' to name Vellan and the west stair, Raiu's death."
+  ],
+  "reader_question": "What will Neela answer the queen at the dusk before the assault, in front of everyone, and what does Devan's writ do to the spears?",
+  "techniques_landed": [
+    15,
+    16
+  ],
+  "new_facts_assessment": "The gate sentence is necessary, but the page contradicts it: Devan says only 'Majesty' and nothing more. The Asha fair detail is fine, but the draft names the real city Thrissur, which breaks the bible's no-real-places rule. The side-by-side sheaves are consistent with F865 and F870 and plant the clue well. Parukutty's petition overlaps F520: Rema already paid her death-gift early, so restate it for the other three widows. The two-night timeline is fine, though 'with the tower' conflicts with the tower burning in ch 19 to 20.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Contrived delays",
+    "Narrated-only chemistry",
+    "Worldbuilding collapse"
+  ],
+  "average": 2.88,
+  "minimum": 0.0,
+  "passed": false
+}
