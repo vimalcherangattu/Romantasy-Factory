@@ -3,7 +3,7 @@
   "series_id": "s03-bound-till-the-thaw",
   "number": 1,
   "title": "Bound till the Thaw",
-  "status": "blocked",
+  "status": "in_progress",
   "stage": "S3",
   "done": [
     "S3"
@@ -1199,10 +1199,14 @@
     {
       "at": "2026-10-21T09:44:37",
       "event": "blocked at S7 continuity: 2 major continuity errors remain after 2 fix round(s): ch 25: Varun was assigned as Meera's rope partner in ch 2 and walked behind her up the gully in ch 3, so he knows her face as Jassi's second. In ch 25 he asks 'Who is the woman?' and the narration says 'He did not know her'. He should not know she is the Salt Fox, but he should recognise her.; ch 26: Meera tells her bound partner 'I'm well' while believing she is dying of cold, and says it to be believed. Nothing happens, and the narration says the mountain 'had no jurisdiction over well'. The bible defines a lie as a statement believed false and said to be believed. It also says the rule is never suspended in a crisis."
+    },
+    {
+      "at": "2026-10-21T10:47:17",
+      "event": "unblocked by owner"
     }
   ],
-  "updated_at": "2026-10-21T09:44:37",
+  "updated_at": "2026-10-21T10:47:17",
   "midpoint_chapter": 16,
-  "continuity_attempts": 2,
-  "continuity_last_errors": 1
+  "continuity_attempts": 0,
+  "continuity_last_errors": null
 }
