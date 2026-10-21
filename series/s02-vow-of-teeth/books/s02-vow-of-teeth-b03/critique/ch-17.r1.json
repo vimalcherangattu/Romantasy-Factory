@@ -1,0 +1,39 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 3.0,
+    "character_logic": 4.0,
+    "stakes_and_cost": 4.0,
+    "prose": 3.0,
+    "continuity": 0.0
+  },
+  "reasons": {
+    "reader_question": "Tower plus an unnamed river beast that Koman can't scent gives a sharp, specific two-part question, with Neela's reaction hanging behind it.",
+    "change": "Devan refuses the office, sends the answer unshared and summons Rema. Power and the relationship both shift on the page.",
+    "romance_movement": "This is a new reason: he protects her consent by breaking their term. The repair owed is stated clearly and is not a recycled refusal.",
+    "shown_chemistry": "Leads are apart, so chemistry runs through the thumb-holding and the thumbprint seal. It is touching but mostly interior recollection.",
+    "character_logic": "His refusal follows from his values. But Muthu, now seal-holder, argues for the deal without one word about losing the seal himself.",
+    "stakes_and_cost": "The cost is concrete: three hundred spears, his fort, a broken term with Neela, and the dead counted on Kandan's tile.",
+    "prose": "Strong lines ('a man at a door') sit beside garbled ones ('crown has not leave to give', 'leading his dead horse') and 'sat' echoes.",
+    "continuity": "There are three conflicts: 'eight years' as warden (it is five or six), the thumb's white line on the left hand (F362 says right), and Kamalakshi asking Vellan (F877 says Kuttu)."
+  },
+  "fixes": [
+    "Continuity. At 'Every night for eight years he had told himself', change eight to five or six, since Devan was warden from five years before book 1. At 'The print came up whorled and plain, with the old white line', drop the white line or move it to the right thumb (F362). At 'Kamalakshi asked me', change the asker to Kuttu, or log the change as a correction of F877.",
+    "Garbled lines. At 'the crown has not leave to give', rewrite plainly, e.g. 'the crown gives me no leave to call you'. At 'went down the cut leading his dead horse', say 'his spent horse'. At 'a boy from Kalladi who had carried a spear', note that Rajan is dead: 'too late for a boy from Kalladi'. Otherwise the line reads as if he would benefit.",
+    "Character logic. At 'Devan,' he said at last. 'That's three hundred spears.', Muthu now holds the seal (F683) and argues for a deal that takes it from him. Give him one honest line that names his own stake and sets it aside, e.g. 'I'd hand you the disc tonight.' This makes his urging selfless and sharpens the values collision."
+  ],
+  "reader_question": "Can seventy-odd defenders on the shelf survive a tower that overlooks their wall, and what unnamed creature just came ashore below them?",
+  "techniques_landed": [
+    1,
+    13,
+    15
+  ],
+  "new_facts_assessment": "new-facts.json is empty, yet the draft adds facts. These include the say-it-before-you-do-it term made in the tack room, Rema titled 'Justice', and Kamalakshi asking Vellan whom he would self-name to. The term is necessary and plausible but must be logged. 'Justice' needs checking against F707 (clerk). Kamalakshi contradicts F877. The beast is a good fresh gap, consistent with F786.",
+  "content_rule_violation": false,
+  "failure_modes": [],
+  "average": 3.25,
+  "minimum": 0.0,
+  "passed": false
+}
