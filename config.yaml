@@ -115,6 +115,9 @@ claude:
 
 schedule:
   books_per_day: 1                 # set after the M3 pilot (PRD section 9)
+  reviews_per_week: 1              # owner, 21 Oct 2026: at most 1 book reaches review per Mon-Sun week (IST)
+  stop_after_review: true          # end the run as soon as a book reaches review
+  # Runs: Saturday and Sunday nights only (scheduled task fires Sun and Mon 00:52 IST), max 2 x 110 min.
   start: "00:45"                   # nightly window opens (the scheduled task fires at 00:52 IST)
   wake: "00:40"
   stop_by: "08:00"

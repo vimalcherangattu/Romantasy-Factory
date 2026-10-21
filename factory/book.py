@@ -5,7 +5,8 @@ resume from state on the next run.
 """
 
 import json
-from datetime import date
+from datetime import date, datetime, timedelta
+from zoneinfo import ZoneInfo
 from pathlib import Path
 from typing import Callable
 
@@ -681,9 +682,36 @@ def reviews_today(cfg: Config) -> int:
     return sum(1 for b in state.all_books(cfg) if (b.get("review_at") or "").startswith(today))
 
 
+def week_start_local(cfg: Config, when: datetime | None = None) -> datetime:
+    """Monday 00:00 of the current week in the configured timezone (the review cap's week)."""
+    tz = ZoneInfo(cfg.get("timezone", "Asia/Kolkata"))
+    when = (when or datetime.now(tz)).astimezone(tz)
+    return (when - timedelta(days=when.weekday())).replace(hour=0, minute=0, second=0, microsecond=0)
+
+
+def reviews_this_week(cfg: Config, when: datetime | None = None) -> list[str]:
+    """Books that reached review this Mon-Sun week. review_at is naive local time of the machine that wrote it."""
+    start = week_start_local(cfg, when)
+    out = []
+    for b in state.all_books(cfg):
+        if b.get("review_at"):
+            at = datetime.fromisoformat(b["review_at"])
+            at = at.astimezone(start.tzinfo) if at.tzinfo is None else at
+            if start <= at < start + timedelta(weeks=1):
+                out.append(b["book_id"])
+    return out
+
+
+def weekly_cap_reached(cfg: Config) -> bool:
+    cap = cfg.get("schedule.reviews_per_week")
+    return cap is not None and len(reviews_this_week(cfg)) >= int(cap)
+
+
 def step_review(cfg: Config, book: dict) -> None:
     if reviews_today(cfg) >= cfg.get("schedule.books_per_day", 1):
         raise DailyQuotaReached(f"{cfg.get('schedule.books_per_day', 1)} book(s) already staged for review today")
+    if weekly_cap_reached(cfg):
+        raise DailyQuotaReached(f"{cfg.get('schedule.reviews_per_week')} book(s) already reached review this week (Mon-Sun)")
     review.build_sheet(cfg, book)
     book["status"] = "review"
     book["review_at"] = state.now()

@@ -371,3 +371,22 @@ def test_minor_continuity_only_flags_not_blocks(cfg, approved_series, monkeypatc
     b = state.load_book(cfg, bid)
     assert b["status"] == "review"
     assert any(f.startswith("continuity (minor)") for f in b["flags"])
+
+
+def test_stop_after_review_and_weekly_cap(cfg, approved_series):
+    cfg.data["schedule"]["stop_after_review"] = True
+    cfg.data["schedule"]["reviews_per_week"] = 1
+    rep = orchestrator.run(cfg, echo=lambda *_: None)
+    assert "reached review" in rep.stop_reason
+    assert rep.ready == [f"{approved_series}-b01"]
+    # next run the same week does nothing
+    rep = orchestrator.run(cfg, echo=lambda *_: None)
+    assert rep.stop_reason.startswith("weekly cap reached") and not rep.steps
+
+
+def test_week_is_monday_to_sunday_ist(cfg):
+    tz = ZoneInfo("Asia/Kolkata")
+    sun_late = datetime(2026, 10, 25, 23, 30, tzinfo=tz)
+    mon_early = datetime(2026, 10, 26, 0, 52, tzinfo=tz)
+    assert bookmod.week_start_local(cfg, sun_late).date().isoformat() == "2026-10-19"
+    assert bookmod.week_start_local(cfg, mon_early).date().isoformat() == "2026-10-26"

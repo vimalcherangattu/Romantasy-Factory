@@ -79,7 +79,10 @@ def run(cfg: Config, *, book_id: str | None = None, max_steps: int | None = None
     deadline = time_module.monotonic() + max_minutes * 60 if max_minutes else None
     skip: set[str] = set()
     with run_lock(cfg):
-        while True:
+        if bookmod.weekly_cap_reached(cfg) and not book_id:
+            rep.stop_reason = (f"weekly cap reached: {', '.join(bookmod.reviews_this_week(cfg))} already reached "
+                               f"review this week (Mon-Sun); nothing run")
+        while not rep.stop_reason:
             if deadline and time_module.monotonic() >= deadline:
                 rep.stop_reason = f"time budget of {max_minutes:g} minutes reached; continue with another run"
                 break
@@ -136,6 +139,9 @@ def run(cfg: Config, *, book_id: str | None = None, max_steps: int | None = None
             rep.steps.append(label)
             if b["status"] == "review":
                 rep.ready.append(b["book_id"])
+                if cfg.get("schedule.stop_after_review", False):
+                    rep.stop_reason = f"{b['book_id']} reached review; stopping (schedule.stop_after_review)"
+                    break
             if max_steps and len(rep.steps) >= max_steps:
                 rep.stop_reason = f"step limit ({max_steps}) reached"
                 break

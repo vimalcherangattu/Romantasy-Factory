@@ -44,7 +44,11 @@ def factory_root(tmp_path, monkeypatch):
 
 @pytest.fixture
 def cfg(factory_root):
-    return configmod.load(factory_root)
+    c = configmod.load(factory_root)
+    # the weekly review cap and stop-after-review are tested on their own
+    c.data["schedule"]["reviews_per_week"] = None
+    c.data["schedule"]["stop_after_review"] = False
+    return c
 
 
 @pytest.fixture
