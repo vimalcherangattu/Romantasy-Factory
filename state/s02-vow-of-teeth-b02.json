@@ -306,7 +306,7 @@
       }
     },
     "11": {
-      "status": "passed",
+      "status": "edited",
       "revisions": 1,
       "scores": {
         "reader_question": 4.0,
@@ -320,8 +320,19 @@
       },
       "average": 4.0,
       "flags": [],
-      "words": 2900,
-      "minimum": 3.0
+      "words": 2885,
+      "minimum": 3.0,
+      "style": {
+        "words": 2885,
+        "banned_hits": {},
+        "ai_tell_hits": {},
+        "ai_tells_per_1000": 0.0,
+        "top_4gram": "her bandaged hand against",
+        "top_4gram_count": 2,
+        "longest_paragraph_words": 129,
+        "em_dashes_per_1000": 0.0,
+        "reading_ease": 95.9
+      }
     },
     "12": {
       "status": "passed",
@@ -1397,9 +1408,13 @@
     {
       "at": "2026-10-21T07:25:21",
       "event": "done: S8 line edit ch 10"
+    },
+    {
+      "at": "2026-10-21T07:25:56",
+      "event": "done: S8 line edit ch 11"
     }
   ],
-  "updated_at": "2026-10-21T07:25:21",
+  "updated_at": "2026-10-21T07:25:56",
   "midpoint_chapter": 16,
   "continuity_attempts": 1,
   "continuity_last_errors": 2
