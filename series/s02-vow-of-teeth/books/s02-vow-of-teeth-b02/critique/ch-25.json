@@ -1,0 +1,42 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 3.0,
+    "character_logic": 3.0,
+    "stakes_and_cost": 3.0,
+    "prose": 4.0,
+    "continuity": 0.0
+  },
+  "reasons": {
+    "reader_question": "A sharp binary: cage the forty with their pages or be hunted. The ending line lands, but the 'hunted' half is unexplained under the rules.",
+    "change": "Power shifts to Chathu, she learns her delay cost the forty, and Vellan reappears in daylight. Her self-image as protector breaks.",
+    "romance_movement": "This reason is new: Devan withholds 'I told you' and she reads it as a man refusing another kind of blow. It echoes ch24's coin-of-forgiveness move.",
+    "shown_chemistry": "The restraint is explained twice, by her narration and by his long speech. Physical response is limited to slack reins and a jaw muscle.",
+    "character_logic": "Odiyans keep human minds in shape, so why would forty hunt her? Neither lead considers simply riding out of reach before dusk.",
+    "stakes_and_cost": "Caging carries a heavy, clear cost. Refusing carries a thin one, because the hunt threat isn't grounded in a rule.",
+    "prose": "The prose is clean and concrete, with no banned phrases or dashes. It has small contradictions ('big and cracked' then 'high and steady') and one over-explained paragraph.",
+    "continuity": "'A hundred and forty' conflicts with F567's forty. 'Six men' remain although Vasu rode away. 'We are nine' miscounts eleven. Pavi has an otter's white chin by day."
+  },
+  "fixes": [
+    "At 'Forty animals with their minds whole and every hunger' (worldbuilding collapse): Rule 1 keeps the human mind, so give the hunt a rule-based engine. Chathu, their living first-turning witness, will cage from the wall any of the forty who refuses to hunt her. Add that hunters hold the wood road behind them, so retreat is cut off. One or two sentences make both horns real.",
+    "Continuity repairs: change 'beside a hundred and forty' to 'beside forty' (F567). Change 'six men in Kettamala brown' to five, because Vasu rode to Kettamala, and drop 'Pavi's white chin', an otter trait, for her curled old-broken hand. Make 'We are nine' 'We are eleven', or have him count spears. Reconcile 'two hands above the trees' with 'perhaps two hours' once the sun touches the treetops.",
+    "At 'There's no use in me saying it. It wouldn't undo' (narrated-only chemistry): cut Devan's explanation to one line and delete 'Now she knew what it was'. Show the restraint through a responsive act tied to her habit, such as quietly counting the hunters with her aloud or turning his horse so she can't see Meenu. Avoid echoing ch24's coin-and-carrying logic."
+  ],
+  "reader_question": "At dusk, will Neela read her sisters' and brothers' pages aloud to cage them, or let Chathu turn them loose on her and Devan?",
+  "techniques_landed": [
+    18,
+    6,
+    14
+  ],
+  "new_facts_assessment": "All five listed facts serve the beat. F606 is wrong as stated: Vasu left, so five spearmen and Pavi remain. Vellan's human-form limp is plausible and a good tell. Several facts are unlisted: nightbark takes forty years to bear, Chathu learned the lesson at twenty-six, and Thilak brought tea for nine days, all harmless. 'Pazhaya' looks lifted from the village Pazhayangadi (F563) as a person's name. Replace it.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Worldbuilding collapse",
+    "Narrated-only chemistry"
+  ],
+  "average": 3.12,
+  "minimum": 0.0,
+  "passed": false
+}
