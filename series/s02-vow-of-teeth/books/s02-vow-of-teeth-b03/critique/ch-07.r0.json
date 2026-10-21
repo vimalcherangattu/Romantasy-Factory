@@ -1,0 +1,41 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 4.0,
+    "stakes_and_cost": 3.0,
+    "prose": 3.0,
+    "continuity": 5.0
+  },
+  "reasons": {
+    "reader_question": "Grey men, a counted cart and a new yellow bird give a specific gap; Devan's caveat keeps it uncertain instead of answered.",
+    "change": "Neela gains a mother, a name spoken by someone who knew her, and the first link between her village and organised taking.",
+    "romance_movement": "The reason is new: she makes him keeper of her history, not her leash, and he repeats the name once, correctly.",
+    "shown_chemistry": "Shown through action: he stays at the well, then says he could see her, offers a hedged guess, and turns down a promise.",
+    "character_logic": "Ponni's net cover, Neela's silence to the gorge and Devan's refusal to build on grey all fit smart versions of them.",
+    "stakes_and_cost": "Kodiyur risk is stated, but the cost of giving the name is narrated ('it cost her'), not felt on the page.",
+    "prose": "Stone similes stack up, a near-banned breath line appears, there are muddled metaphors, and the ending is a soft rumination.",
+    "continuity": "Consistent with F094, F503, F577, F673, F724, F729 and F756. Only the new-facts file mislabels six-year-old Indu as a baby."
+  },
+  "fixes": [
+    "Ending, 'She lay awake a long time wondering who had held the tally': a reflective close breaks chapter-checklist item 5. End on a story-caused reveal instead. Neela opens Ittan's tally book (F578) to the brown-ink 'Nellimala. Second harvest... By leave' line and sees the folded-wing sunbird inked beside it. She cuts off as she pictures it small and yellow on a tailboard. This uses established facts only.",
+    "'I ran with you in my arm for the first bend': Indu was six (F577), and Ponni already has two boys by the collar, so carrying her in one arm strains belief. Change it to 'I had you by the wrist for the first bend, dragging'. Correct 'baby Indu' in new-facts. Also clarify 'Nellimala, till I was put out of it' as the fishing huts below the old footings, rebuilt after the burning and abandoned at the Thurai landing.",
+    "Prose, 'like a swallowed stone' / 'like stones in a bag' / 'like a stone on a wall': this is a repeated image cluster. Keep one. Cut 'She let out the breath she had held since the well', which echoes a banned phrase. Rewrite 'on the open palm of her mouth' and 'a cell's worth of mercy'. Replace 'It was a gift, and it cost her' with a shown hesitation: she starts the name, stops, counts, then says it."
+  ],
+  "reader_question": "Did the queen's own grey-clad men stand at the top of the goat path counting Nellimala's children onto a cart?",
+  "techniques_landed": [
+    2,
+    10,
+    11
+  ],
+  "new_facts_assessment": "Ponni, Ammini, the harvest account and Devan's caveat are all necessary and consistent. Fix 'baby Indu' in new-facts: she was six (F577). 'Nellimala, till I was put out of it' needs clarifying, because the village burned 21 years ago. Devan being 'grey-eyed' and Kirri being seventeen in the memory were added but not listed. Both are harmless and should be logged. The Chathu rewrite clue is necessary and fits the Ledger rule, since he was Kirri's witness.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Endless monologue"
+  ],
+  "average": 3.88,
+  "minimum": 3.0,
+  "passed": true
+}
