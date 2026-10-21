@@ -1,0 +1,41 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 5.0,
+    "romance_movement": 5.0,
+    "shown_chemistry": 5.0,
+    "character_logic": 4.0,
+    "stakes_and_cost": 4.0,
+    "prose": 4.0,
+    "continuity": 0.0
+  },
+  "reasons": {
+    "reader_question": "Clear: what will she do with forty pages and a surrendered Vellan by dawn? The closing 'them' blurs which.",
+    "change": "The hunt is broken with no caging, Devan becomes Vellan's witness, and Vellan surrenders. Power, knowledge and relationship all move.",
+    "romance_movement": "The bed bargain holds at its heaviest test, and Devan lets go. The reason is new and earned by ch 26's handover.",
+    "shown_chemistry": "He carries her, turns his body to take the bite, and asks 'Tell me what to do with my hands.' All of it is action, not narration.",
+    "character_logic": "Taking the only deterrent while still pinned is risky but fits her. Madhavi's release on 'I won't' is slightly convenient.",
+    "stakes_and_cost": "The Madhavi bite and the paw on her breastbone make the cost of not reading physical. The final decision is still open.",
+    "prose": "Concrete and varied. It has one AI tell ('the weight of'), 'She could not help it' twice, and the odd 'swore me twice'.",
+    "continuity": "The bargain is placed 'in the Resin House', but it was sworn at Kettamala in ch 12. Two further slips: six years of barred shutters, and the salt-boiler's daughter."
+  },
+  "fixes": [
+    "'You swore me twice, in the Resin House': continuity break. The ledger-veto bargain was sworn at Kettamala in ch 12, in bed, per the beat. Change it to 'You swore it to me twice, in our bed at Kettamala,' and fix the grammar of 'swore me'.",
+    "'Six years in that fort, barring shutters and counting breaths': continuity break. Devan only barred shutters from the second dusk of the marriage (F102, F409). Replace it with his real six years, such as Asha's notes and the stair he swore on. Also, 'a salt-boiler's daughter's whole night-shape' gives Madhavi Thulasi's intake detail (F563, F623). Give Madhavi her own detail, or none.",
+    "'She felt the weight of that against her ribs': this is an AI tell. Cut it to 'It sat against her ribs like a second heartbeat.' Remove one of the two 'She could not help it'. In the last line, change 'what she was going to do with them' to name both the forty pages and Vellan, so the reader question is sharp."
+  ],
+  "reader_question": "Now that the night is over and Vellan kneels unresisting, what will Neela do with forty pages before the House wakes?",
+  "techniques_landed": [
+    18,
+    20,
+    6
+  ],
+  "new_facts_assessment": "Welt-not-wound mechanism fits the bible ('shallow welt') but contradicts provisional F625 ('opens identically'); retire F625's wording. Madhavi, Thilak's tea and the plain-ink line (fits F551's thirty-six contracts) are necessary and consistent.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Convenient magic"
+  ],
+  "average": 3.88,
+  "minimum": 0.0,
+  "passed": false
+}
