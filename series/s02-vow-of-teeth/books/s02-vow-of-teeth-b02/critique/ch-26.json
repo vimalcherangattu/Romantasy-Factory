@@ -1,42 +1,42 @@
 {
   "scores": {
-    "reader_question": 4.0,
+    "reader_question": 5.0,
     "change": 4.0,
-    "romance_movement": 5.0,
+    "romance_movement": 4.0,
     "shown_chemistry": 4.0,
     "character_logic": 3.0,
-    "stakes_and_cost": 4.0,
+    "stakes_and_cost": 5.0,
     "prose": 4.0,
-    "continuity": 0.0
+    "continuity": 5.0
   },
   "reasons": {
-    "reader_question": "The torn page against his ribs and her forty pages make 'will either read before dawn' sharp and specific.",
-    "change": "Power passes: Devan now holds Vellan's leash, she is human and unarmed, and the men are gone. The hill is theirs alone.",
-    "romance_movement": "A new and costly trust. She hands him his sister's killer's page and trusts him not to read it, and both name the cost.",
-    "shown_chemistry": "He holds back the comfort she didn't ask for, she covers his hand over the page, they count together. Mostly shown, with a few told lines.",
-    "character_logic": "If the tapping sheds hold her own six men, why not send Pavi for the flask? The gap reads as withheld for plot.",
-    "stakes_and_cost": "Each step costs something: the page as a burden, the pack slowing him, every bite opening on him, the men sent off.",
-    "prose": "Clean and concrete. 'A kind of private face a man wears' names the technique, and a few told summaries undercut what is shown.",
-    "continuity": "'It began before the sun went' with claws on stone inside sixty heartbeats implies a turning by day, which breaks Rule 1."
+    "reader_question": "Vellan's folded page sits against Devan's ribs as the bear comes through the gate. Will he read it? The question is sharp and specific.",
+    "change": "The plan collapses. She is human and unarmed, the pages are split between them, and the pack is loose. Power over Vellan shifts to Devan.",
+    "romance_movement": "Her handing him his sister's killer is a new, costly trust. The 'I'll hold on till you do' exchange reverses the ledger-veto roles.",
+    "shown_chemistry": "He declines to comfort her and counts for her. She covers his hand on the page. The care is responsive, and he offers no overt declaration.",
+    "character_logic": "The two leads flee a predator pack on foot while their horses are present. The forty pages leave the ledger without being shown on the page.",
+    "stakes_and_cost": "Every bite on her opens on him. The page tempts six years of grief. Both refusals to read carry a cost they name.",
+    "prose": "The prose is mostly clean and concrete. A few narrated summaries restate the trust beat, and there is one AI tell ('the weight of').",
+    "continuity": "This is consistent with F480, F491, F144, F193, F527, F615 and F616. Thirty-nine plus the hitching bear makes forty."
   },
   "fixes": [
-    "'It began before the sun went. He heard': this conflicts with Rule 1, because no one turns by day. Move the first cry to the moment the sun's rim drops below the nightbark, for example 'It began as the sun went.' Keep 'the last red light' at the gate consistent with dusk, not grey light after.",
-    "'It's in the shed,' she said. 'Which shed?': irrational behaviour to extend plot. The six are 'in the sheds', so the reader asks why Pavi can't fetch the flask. Add one exchange stating the cost: the store sits inside the wall, or Chathu's hunters cleared it at noon, or Pavi tried and found the box empty.",
-    "'There was a kind of private face a man wears': this is narrated technique and an AI tell. Cut the sentence and open on the hand going to the folded page. Also cut 'A bear, written plain', since she asked him not to read it. Make him look away from the line instead, which shows the trust being kept."
+    "At 'He took the lamp from the saddle and trimmed it', the leads run on foot while horses stand by, which is irrational behaviour to extend the plot. Add one beat: the mare bolts at the first cries and Devan sends their mounts east with Bhaskaran, or Devan says riders crash blind in the nightbark and the pack must be drawn away from his nine men. That makes 'Run' a choice.",
+    "At 'The pages? The forty?' 'Here.' She touched her ribs.', the forty pages leave the ledger off-page, so the reader stumbles. In the flat-rock scene, after she hands over Vellan's page, show her cutting the other forty free at the stitching and binding them in oilcloth with a strip of her wrap. Then the later exchange is a check, not a reveal.",
+    "At 'It was the cruelest thing she had ever given him. It was also the most trusting.', the narration restates a trust beat that her line 'That's the most I've ever given anyone' already carries. Cut the two narrated sentences and keep 'He saw that she knew both' as the beat. Also change 'the weight of other people's names' to 'other people's names' to remove the AI tell."
   ],
-  "reader_question": "Will Devan read Vellan's page, or Neela the forty's, before dawn, and what will each bite on her cost him?",
+  "reader_question": "When Vellan comes for them in the wood, will Devan unfold and read the page against his ribs before dawn?",
   "techniques_landed": [
     7,
     14,
-    25
+    25,
+    9
   ],
-  "new_facts_assessment": "The flask in the store is needed and reconciles with F491, but it needs a line on why the store is out of reach. The pages under her wrap and the ledger on his pack are consistent with F617. Sending Bhaskaran east to the cairn is sound and echoes F532. Unlisted new facts: Neela's 'bad ankle' has no prior injury in continuity, so list it or tie it to the bear rake or shin scrape. Bhaskaran's salute 'at the pass the morning Raiu died' places Raiu's death oddly, since Raiu died at dusk on the west stair (F225).",
+  "new_facts_assessment": "Pavi's noon drain attempt is necessary and fits ch25. Pavi and the five going east is necessary, and it clears the hill of witnesses. The pyre salute is harmless texture. 'No bad ankle' never appears on the page and should be dropped from the log.",
   "content_rule_violation": false,
   "failure_modes": [
-    "Irrational behaviour to extend plot",
-    "Worldbuilding collapse"
+    "Irrational behaviour to extend plot"
   ],
-  "average": 3.5,
-  "minimum": 0.0,
-  "passed": false
+  "average": 4.25,
+  "minimum": 3.0,
+  "passed": true
 }

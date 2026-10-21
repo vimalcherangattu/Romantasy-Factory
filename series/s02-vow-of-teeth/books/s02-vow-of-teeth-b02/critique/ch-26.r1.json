@@ -1,0 +1,42 @@
+{
+  "scores": {
+    "reader_question": 5.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 3.0,
+    "stakes_and_cost": 5.0,
+    "prose": 4.0,
+    "continuity": 5.0
+  },
+  "reasons": {
+    "reader_question": "Vellan's folded page sits against Devan's ribs as the bear comes through the gate. Will he read it? The question is sharp and specific.",
+    "change": "The plan collapses. She is human and unarmed, the pages are split between them, and the pack is loose. Power over Vellan shifts to Devan.",
+    "romance_movement": "Her handing him his sister's killer is a new, costly trust. The 'I'll hold on till you do' exchange reverses the ledger-veto roles.",
+    "shown_chemistry": "He declines to comfort her and counts for her. She covers his hand on the page. The care is responsive, and he offers no overt declaration.",
+    "character_logic": "The two leads flee a predator pack on foot while their horses are present. The forty pages leave the ledger without being shown on the page.",
+    "stakes_and_cost": "Every bite on her opens on him. The page tempts six years of grief. Both refusals to read carry a cost they name.",
+    "prose": "The prose is mostly clean and concrete. A few narrated summaries restate the trust beat, and there is one AI tell ('the weight of').",
+    "continuity": "This is consistent with F480, F491, F144, F193, F527, F615 and F616. Thirty-nine plus the hitching bear makes forty."
+  },
+  "fixes": [
+    "At 'He took the lamp from the saddle and trimmed it', the leads run on foot while horses stand by, which is irrational behaviour to extend the plot. Add one beat: the mare bolts at the first cries and Devan sends their mounts east with Bhaskaran, or Devan says riders crash blind in the nightbark and the pack must be drawn away from his nine men. That makes 'Run' a choice.",
+    "At 'The pages? The forty?' 'Here.' She touched her ribs.', the forty pages leave the ledger off-page, so the reader stumbles. In the flat-rock scene, after she hands over Vellan's page, show her cutting the other forty free at the stitching and binding them in oilcloth with a strip of her wrap. Then the later exchange is a check, not a reveal.",
+    "At 'It was the cruelest thing she had ever given him. It was also the most trusting.', the narration restates a trust beat that her line 'That's the most I've ever given anyone' already carries. Cut the two narrated sentences and keep 'He saw that she knew both' as the beat. Also change 'the weight of other people's names' to 'other people's names' to remove the AI tell."
+  ],
+  "reader_question": "When Vellan comes for them in the wood, will Devan unfold and read the page against his ribs before dawn?",
+  "techniques_landed": [
+    7,
+    14,
+    25,
+    9
+  ],
+  "new_facts_assessment": "Pavi's noon drain attempt is necessary and fits ch25. Pavi and the five going east is necessary, and it clears the hill of witnesses. The pyre salute is harmless texture. 'No bad ankle' never appears on the page and should be dropped from the log.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Irrational behaviour to extend plot"
+  ],
+  "average": 4.25,
+  "minimum": 3.0,
+  "passed": true
+}
