@@ -1,14 +1,16 @@
 {
   "facts": [
     {
-      "category": "object",
-      "fact": "Devan's chest/back at ch21: nine fresh silk stitches on the right ribs beside the old ford seam, and the ladder-hook cut across the back, dressed; Neela feels the right-rib ache while kissing past the stitches.",
-      "since": "s02-vow-of-teeth-b03 ch 21"
+      "category": "knowledge",
+      "fact": "Defender count at ch21 dawn, per Devan: forty-two odiyans, twenty-two queen's riders and forty garrison volunteers (104), less six dead (Biju, Sankaran, Chami, Rajan and two more) = ninety-eight. Replaces 'seventy-odd' in F914."
     },
     {
-      "category": "plot",
-      "fact": "At dawn Devan tells Neela the exact cost of reading the writ: three hundred spears under captains who do not know him, about seventy-odd defenders, fourteen hundred Thurai beyond the cut; he says the reading may cost the spears and the pass. The cut gift seal is in the bundle (Devan kept it in his sleeve, F071).",
-      "since": "s02-vow-of-teeth-b03 ch 21"
+      "category": "object",
+      "fact": "Devan says he added the cut gift seal to the oilcloth bundle on the hill, alongside the chit and writ (refines F744)."
+    },
+    {
+      "category": "relationship",
+      "fact": "Term set at dawn ch21: Devan reads the writ at the gate as his own account; Neela gives the Company's refusal and reasons in her own voice; Devan stands a step behind and does not speak for her."
     }
   ]
 }
