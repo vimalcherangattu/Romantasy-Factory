@@ -4640,6 +4640,27 @@
       "fact": "Kamalakshi's age is not given in this chapter; the earlier 'twenty-two' echo of her ledger number is removed.",
       "since": "s02-vow-of-teeth-b02 ch 32",
       "provisional": true
+    },
+    {
+      "id": "F670",
+      "category": "knowledge",
+      "fact": "The queen's night-guard hide their throat scars under a lime-and-ochre paste; the wrist scars are real and hidden by cuffs. This reconciles First Guard's bare throat and smooth seam (F460) with the odiyan scar rule (F014).",
+      "since": "s02-vow-of-teeth-b02 ch 32",
+      "provisional": true
+    },
+    {
+      "id": "F671",
+      "category": "plot",
+      "fact": "At the shelter Neela gives the forty a standing vote to remove her from keeping the ledger and plank, no reason needed. Devan states aloud he stands at her back, not as her wall, and that he goes where the vote sends her. Replaces the vow in F668.",
+      "since": "s02-vow-of-teeth-b02 ch 32",
+      "provisional": true
+    },
+    {
+      "id": "F672",
+      "category": "knowledge",
+      "fact": "Neela counted the cut stubs twice at the Resin House and told only Devan; she crossed the Monkey Pass once as a child, at six, not by choice. Corrects ch 32 draft wording.",
+      "since": "s02-vow-of-teeth-b02 ch 32",
+      "provisional": true
     }
   ],
   "knowledge": [
