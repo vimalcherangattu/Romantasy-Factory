@@ -482,7 +482,7 @@
       }
     },
     "17": {
-      "status": "passed",
+      "status": "edited",
       "revisions": 0,
       "scores": {
         "reader_question": 4.0,
@@ -496,8 +496,19 @@
       },
       "average": 3.88,
       "flags": [],
-      "words": 2603,
-      "minimum": 3.0
+      "words": 2585,
+      "minimum": 3.0,
+      "style": {
+        "words": 2585,
+        "banned_hits": {},
+        "ai_tell_hits": {},
+        "ai_tells_per_1000": 0.0,
+        "top_4gram": "he stood in the",
+        "top_4gram_count": 3,
+        "longest_paragraph_words": 105,
+        "em_dashes_per_1000": 0.39,
+        "reading_ease": 95.0
+      }
     },
     "18": {
       "status": "passed",
@@ -1487,9 +1498,13 @@
     {
       "at": "2026-10-21T07:29:11",
       "event": "done: S8 line edit ch 16"
+    },
+    {
+      "at": "2026-10-21T07:29:52",
+      "event": "done: S8 line edit ch 17"
     }
   ],
-  "updated_at": "2026-10-21T07:29:11",
+  "updated_at": "2026-10-21T07:29:52",
   "midpoint_chapter": 16,
   "continuity_attempts": 1,
   "continuity_last_errors": 2
