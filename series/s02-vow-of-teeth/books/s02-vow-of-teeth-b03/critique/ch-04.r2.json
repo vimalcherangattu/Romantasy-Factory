@@ -1,0 +1,39 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 4.0,
+    "stakes_and_cost": 4.0,
+    "prose": 3.0,
+    "continuity": 5.0
+  },
+  "reasons": {
+    "reader_question": "Specific: the advance guard is already in the gorge, Devan has no seal and no garrison, and the signal flame has died. Can they hold?",
+    "change": "Law blocks the garrison, Muthu's drover loophole buys one night, and the three-day estimate collapses. Hope turns to emergency.",
+    "romance_movement": "New reason: he spends his pass, then answers anyway, and he asks her before acting. Both changes follow the beat and are earned.",
+    "shown_chemistry": "Rope burns mirrored by the wound-share, his palm on the stone under hers, the caught wrist. All shown through action, none narrated.",
+    "character_logic": "Muthu's loophole and his demand for 'a reason I can write down' fit him. Neela lifting the bowl herself spares Janu. Devan's restraint is consistent.",
+    "stakes_and_cost": "Neela weighs the cost aloud: the six delayed, hours lost on the Kodiyur stair. Janu's withheld hand is a personal price.",
+    "prose": "Strong voice and counting, but 'like a man...' similes stack up, one creak-scene line is overwritten, and the Janu paragraph's syntax collapses.",
+    "continuity": "Consistent with seal, sixty men, forehead kiss, the given-away knife and the spent pass. Warden's-chamber geography is ambiguous but not contradictory."
+  },
+  "fixes": [
+    "Janu scene, 'told this woman whose hands had held the lamp': garbled syntax obscures the emotional turn. Rewrite as clear sentences. Neela had confessed to Janu at the stair foot. Janu kissed her forehead after. But Janu's hands found Asha's body, and they cannot yet touch the hand that kept the lamp. Cut 'The hand that took a bowl from a stranger's, that she could not yet carry.'",
+    "Prose repetition: 'like a man holding a snake by the neck', 'like a man who had been holding a wall up', 'like a man walking round a hole in a floor', 'a man stands between two doors'. Four man-similes stack up in one chapter. Keep the two-doors line, which pays off F425. Replace the others with concrete action (Muthu pinching the paper's corner; Devan's eyes skipping the stair). Also cut 'as if it had been handed to him in the dark and he was reading it by feel' to one plain clause.",
+    "Geography, 'The warden's chamber was at the end of the north range, up its own stair': this is ambiguous against F337, where the west stair is the only way to the warden's door. State that the line of light sits at the head of the west stair. This removes the continuity risk, and it doubles the meaning of Devan not looking: the stair where Asha died and the room he lost."
+  ],
+  "reader_question": "With the Thurai advance guard already in the gorge and the second signal fire gone dark, can a stripped warden and the Company hold the narrows without the garrison?",
+  "techniques_landed": [
+    7,
+    14,
+    20
+  ],
+  "new_facts_assessment": "Muthu sleeping in the warden's chamber is necessary and fits his holding the seal (F683, F709). 'North range, up its own stair' must stay compatible with F337, where the west stair is the only way to the warden's door. Name that stair as the west stair to lock it. Janu's 'burn not fresh' fits F766. Parukutty's cough (F767) is consistent. No conflicts.",
+  "content_rule_violation": false,
+  "failure_modes": [],
+  "average": 4.0,
+  "minimum": 3.0,
+  "passed": true
+}
