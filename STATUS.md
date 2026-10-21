@@ -10,15 +10,13 @@ Last updated: 2026-10-21
 - KDP week of 18 Oct: ebook slots 2/2 used. Week of 25 Oct: 1 ebook + 1 paperback reserved for
   Any Fool Can Have a Baby, Book 1 (parenting series).
 - Weekly review cap already reached for the week of 19-25 Oct (both Odiyan books reached review).
-- 64 tests pass (`pytest`).
-- Usage logged to date: 827 calls, 7.87M output tokens (`state/usage.csv`).
+- 64 tests pass. Usage to date: 827 calls, 7.87M output tokens (`state/usage.csv`).
 
 ## In progress
 - s03-bound-till-the-thaw-b01 (Mira Sangla, The Winter Passes): 32/32 chapters, in the S7
   continuity check. Hand patches applied to ch 19, 21, 25 and 26, then unblocked.
 - s02-vow-of-teeth-b03 (Crown of Night): drafting, around ch 22 of 32. The daytime run was stopped
-  on 21 Oct when the weekend-only rule came in.
-- Queued: s03 b02-b04. s01 is archived.
+  on 21 Oct when the weekend-only rule came in. Queued: s03 b02-b04; s01 archived.
 
 ## Next step
 - Sat night (Sun 25 Oct, 00:52 IST): covers only, because the weekly cap is reached.
