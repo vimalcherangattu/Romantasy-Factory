@@ -1,41 +1,41 @@
 {
   "scores": {
     "reader_question": 4.0,
-    "change": 4.0,
+    "change": 3.0,
     "romance_movement": 3.0,
     "shown_chemistry": 3.0,
     "character_logic": 3.0,
-    "stakes_and_cost": 3.0,
+    "stakes_and_cost": 4.0,
     "prose": 3.0,
-    "continuity": 0.0
+    "continuity": 5.0
   },
   "reasons": {
-    "reader_question": "Door or snare is stated outright and earned by Usha's openness. The leaf's location sharpens it into a concrete gamble.",
-    "change": "The queen's terms are known, the treaty is read in her own words, Devan's goal sets hard, and the crown leaf's location is offered.",
-    "romance_movement": "Beat lands, but the reason 'never once counted' rings false. He has felt shared welts since book 2. The realisation is narrated, not acted.",
-    "shown_chemistry": "Good small acts: half-step to shield, careful of her hand, breath-count, cold hand in his. 'He was glad of it' narrates instead.",
-    "character_logic": "Neela hands the queen's agent a lever over both lives with no visible weighing. Devan never reacts to the strategic cost.",
-    "stakes_and_cost": "Kodiyur's noon gun against the gorge in three days is never set side by side, so the choice costs nothing yet.",
-    "prose": "Clean and concrete with strong lines. But 'four words' heads a three-word order, a board creaks on a rock slab, and Usha is placed inside then outside.",
-    "continuity": "The escort stayed about three days, not nine (F474). The self-naming was the binding dusk, not the new-moon night (F244). 'Tuesday' breaks the weekday convention (F422)."
+    "reader_question": "The door-or-snare question is sharp, and the folded-wing bird adds a second specific gap about the crown leaf.",
+    "change": "Devan learns the treaty logic and Usha's door, but his goal was already set by the ch1 vote. The letter only hardens it.",
+    "romance_movement": "The new reason (the queen now knows his body is a lever on hers) is real, but it is reasoned in narration, not acted.",
+    "shown_chemistry": "Good small acts: careful of her hand, the cold hand into his, her stepping level unasked. The key shift is still told.",
+    "character_logic": "Devan just bound himself to the Company's vote, yet he never puts the queen's pardon, made to the forty, before them.",
+    "stakes_and_cost": "The closing arithmetic (four days to Kodiyur, three to the gorge) makes the choice cost the pass or her safety.",
+    "prose": "Concrete and mostly clean. It has repeated 'last of the light', a redundant door/snare ending paragraph and a clumsy double attribution.",
+    "continuity": "Self-naming timing, the chipped seal, the folded-wing stubs, the watcher log, the drill origin and Pazhayangadi all match the facts."
   },
   "fixes": [
-    "Continuity. In 'For nine days her escort had slept in his south range', change nine to three (the escort left on execution day, F474). In 'the night of the new moon', change to 'two nights past the new moon', and revise F743 to match. Replace 'on Tuesday' with 'three days back'. Fix 'four words' to 'three words'.",
-    "Repetitive tension and character logic at 'understood he had never once, until this moment, counted'. He has felt shared welts since book 2 (F540), so cut the claim of first awareness. The new reason should be that Neela has now told the queen's agent. His body is a known lever on her, and any spear aimed at him in the gorge is aimed at her. Let him look at Usha's back as he thinks it.",
-    "Stakes without depth at the ending 'Door or snare,' Neela said. Before 'I can't tell', add two lines that set the cost. Kodiyur is four hard days away (F208), while the raiders reach the gorge in three (F737). Taking the door means leaving the pass he just swore to hold, or sending Neela alone. Have one of them say it plainly."
+    "At 'Nothing in that letter would change it, and nothing in an answer could.' there is irrational behaviour: Devan bound himself to the vote, and the forty heard a pardon addressed to them. Add a short exchange from the doorway. Kuttu or Thilak asks 'And our names?' Devan answers that the pardon is theirs to vote at dawn, and the pass is his. This gives the Company a real split as a cost.",
+    "At 'His body was a known lever on hers.' the chemistry is narrated only. Convert the beat's romance change into a choice. In the drill scene, he stops his strike short of a cracked post edge or eases off because a split knuckle would welt on her. Or in the final scene, he names that the gorge now risks her body before she says it. Cut the reasoning paragraph to two sentences.",
+    "At '\"Door or snare,\" Neela said.' / '\"Kodiyur is four days at a hard ride,\" she went on' the prose is redundant. Cut 'A woman who had given her name...' to one line so Neela's 'Door or snare' lands fresh, and merge her two speeches into one attributed line. Vary the three uses of 'the last of the light'. Explain or drop Neela's still-bandaged left hand, which is months after the injury in book 2."
   ],
-  "reader_question": "Is Usha's message about the crown leaf in the queen's room a door opened for Neela, or the queen's snare?",
+  "reader_question": "Is Usha's message about the crown leaf a door opened for Neela or the queen's snare, and which will the pass cost them?",
   "techniques_landed": [
     1,
     25
   ],
-  "new_facts_assessment": "F743 is useful but wrongly dates the burned page to the new-moon night; the self-naming was the binding dusk two nights later. F744, carrying the oilcloth up the hill, is plausible since they left Kettamala, but should get one clause on the page. F745, F746 and F747 are necessary and consistent. F748 needs 'Tuesday' replaced, because the world avoids weekday names (F422). Technique 13 does not land; Usha's dawn words are reported, not ironic.",
+  "new_facts_assessment": "F743 (two nights past the new moon) agrees with F244 and correctly replaces the new-moon wording. F748 drops the weekday, which is good. F749 is consistent with F208 and F737. Unlisted but consistent additions: Usha's pared right-wrist twin seam (fits F684) and the palace 'sea stair' (fits the sea-cliff palace, so it should be logged). The IDs F743, F748 and F749 collide with existing continuity entries of different content, and the orchestrator should renumber them.",
   "content_rule_violation": false,
   "failure_modes": [
     "Narrated-only chemistry",
-    "Stakes without depth"
+    "Irrational behaviour to extend plot"
   ],
-  "average": 2.88,
-  "minimum": 0.0,
-  "passed": false
+  "average": 3.5,
+  "minimum": 3.0,
+  "passed": true
 }
