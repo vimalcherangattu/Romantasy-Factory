@@ -1,41 +1,41 @@
 {
   "scores": {
-    "reader_question": 5.0,
+    "reader_question": 4.0,
     "change": 4.0,
     "romance_movement": 4.0,
-    "shown_chemistry": 5.0,
+    "shown_chemistry": 4.0,
     "character_logic": 3.0,
-    "stakes_and_cost": 4.0,
+    "stakes_and_cost": 3.0,
     "prose": 4.0,
-    "continuity": 0.0
+    "continuity": 5.0
   },
   "reasons": {
-    "reader_question": "The interrupted sentence plus a council vote called early gives one sharp, nameable question: what did Devan answer the queen?",
-    "change": "The tower falls, the guards fight free and see the pair, and the offer vote is forced a day and a half early.",
-    "romance_movement": "This is a reunion as a combat partnership, witnessed. Its new reason is public: the shared back becomes a model. The dawn talk mostly reaffirms.",
-    "shown_chemistry": "Mirrored hands, 'It's the same', the warmed cloth, the steaming cup and the shared salve coolness. All of it is responsive action, none of it narrated.",
-    "character_logic": "Devan holds still and watches her for a full minute while a ladder hook bites beside his knee. A commander would act.",
-    "stakes_and_cost": "Two named dead and seven hurt. The column is coming, and an unknown answer to the queen sits under the vote.",
-    "prose": "Clean, concrete and varied. Usha's paragraph explains the theme ('a witness is a leash') instead of showing it. The Lata 'bare hands, in shape' joke reads oddly.",
-    "continuity": "'The sixth since you left' conflicts with the timeline: four days to Kodiyur, days there, four days back (F208, F885). Also an unexplained extra Usha rider."
+    "reader_question": "Sharp and specific: what Devan wrote back to the queen, and how that answer will land in a vote called early.",
+    "change": "Reunion, the guards fight unbound, the column is a day and a half off, and the vote is moved up. Knowledge and power both shift.",
+    "romance_movement": "Back to back in the open, watched and copied by Usha and Sajan. The reason is new, though the dawn half recycles familiar care beats.",
+    "shown_chemistry": "Watching her turn, calling targets, salving palms she feels in her own. Responsive action throughout, and 'I do arithmetic' earns its laugh.",
+    "character_logic": "Devan broke their 'say it before you do it' term, yet at dawn he banters and takes salve before raising it, and never finishes the sentence.",
+    "stakes_and_cost": "The tower assault has no stated odds. The two deaths come later as a report, so the fight never feels probably lost.",
+    "prose": "Clean and concrete, with no banned phrases and one em dash. The queen-distance paragraph is muddled and the double 'screamed' is deliberate but heavy.",
+    "continuity": "Consistent with F771, F787, F813, F866, F878 and F899. The palm-matching detail strains F627's welt-only rule but does not contradict it."
   },
   "fixes": [
-    "Continuity conflict at '\"The sixth since you left,\" said Devan'. The ride south took four days, Kodiyur took several, and the ride back took four more, so six dawns is impossible. Change it to the true count (about the tenth or eleventh) or to 'I lost count after nine. I've warmed that cloth every one.' Keep the 'warmed every one' payoff.",
-    "Unset-up fact at 'Usha's rider came in off the road at grey'. Every rider of hers is on the shelf and counted ('All twenty-two'). Change the source to someone already established, such as Koman reading the road at grey or the pass-village beacon boy (F763). Alternatively, add one earlier line showing Usha posting a rear watcher who is not one of the twenty-two.",
-    "Narrated meaning and logic strain at 'The guards had been told for years that a witness is a leash.' Cut the explanation and show Usha changing, for example by breaking off to put her own back to Sajan's. Also cover the earlier line 'long enough for the hook of a ladder to bite the stone beside his knee': give Devan a one-handed action there, such as kicking the hook loose without looking away, so his stillness reads as choice, not negligence."
+    "Contrived delays at \"Whatever it was, it was written plainly across his scorched face, and he did not say it.\" Devan can finish five words while walking to the fire, so the withheld answer is artificial. Make silence a choice that costs him: he says \"I'll say it at the fire, to all of them, or the vote isn't clean.\" Then Neela must walk in not knowing, by his decision, which honours the Company's vote rule.",
+    "Character logic at \"It was the closest to a joke he'd made in days\". Devan knows he broke their term (F878), yet he spends the dawn on rice, salve and banter first. Move \"I have to say something before the others come\" to just after he hands her the cloth. Let her cut him off to tell the noon-signal story because she needs to confess first. The delay then becomes hers, a new reason.",
+    "Technique 6 missing at \"Then the second wave came over the gap\". The assault has no odds, so harm never feels probable. Add one stated count from Neela's leopard view, set against the shelf's thinned wall: roughly three hundred bronze caps (F819) on the river road, and the Company short since the sally (F854). Keep the deaths for dawn, but make one fall visibly mid-fight."
   ],
-  "reader_question": "How did Devan answer the queen's letter before Neela returned, and how will he vote on the offer?",
+  "reader_question": "What did Devan answer the queen before Neela could be told, and will his voice at the fire say yes to her offer?",
   "techniques_landed": [
     7,
     9
   ],
-  "new_facts_assessment": "F899 is necessary and consistent with Devan's established witness-protection habit (F547, F635), and strong. F900 is necessary to motivate the early vote but unsupported: all 22 riders arrived with Neela and are counted alive, so 'a rider of hers' on the road behind is a 23rd person nobody set up. The sea-room detail and the noon-signal explanation fit F895. Technique 6 is only partial: the assault's odds are never set on the page before the fight, so harm feels likely but not quantified.",
+  "new_facts_assessment": "F901 is necessary and consistent: Koman as road-reader matches F771/F778, and nine-plus dawns fits the Kodiyur round trip. Unlisted new facts need logging: Usha's night-shape is a fox, plus a heron and a snouted guard; Lata unhorses a man in shape; dead named as Chami's cousin and a Kalladi woman. Clarify whether an odiyan died, since 'forty-two voices' assumes none.",
   "content_rule_violation": false,
   "failure_modes": [
-    "Narrated-only chemistry",
-    "Irrational behaviour to extend plot"
+    "Contrived delays",
+    "Stakes without depth"
   ],
-  "average": 3.62,
-  "minimum": 0.0,
-  "passed": false
+  "average": 3.88,
+  "minimum": 3.0,
+  "passed": true
 }
