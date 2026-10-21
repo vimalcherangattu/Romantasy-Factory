@@ -6289,6 +6289,34 @@
       "fact": "Corrects F905: Koman reports the long shape came into the river after the tower fell at the middle watch and watched the shelf until the stump stopped smoking. It took nothing.",
       "since": "s02-vow-of-teeth-b03 ch 20",
       "provisional": true
+    },
+    {
+      "id": "F909",
+      "category": "plot",
+      "fact": "The Company's council ended by agreeing that nobody answers the queen until she has spoken in the open at the gate; no vote on her offer was taken.",
+      "since": "s02-vow-of-teeth-b03 ch 21",
+      "provisional": true
+    },
+    {
+      "id": "F910",
+      "category": "object",
+      "fact": "Devan took the oilcloth bundle (chit, payment writ, cut gift seal) from his pack and returned it to the shutter-frame hollow behind the third slat for the night.",
+      "since": "s02-vow-of-teeth-b03 ch 21",
+      "provisional": true
+    },
+    {
+      "id": "F911",
+      "category": "object",
+      "fact": "The grey river pebble Devan left on the warden's chamber sill in book 1 is still there, undisturbed.",
+      "since": "s02-vow-of-teeth-b03 ch 21",
+      "provisional": true
+    },
+    {
+      "id": "F912",
+      "category": "knowledge",
+      "fact": "Devan tells Neela he will tell the queen to her face first, then read the payment writ aloud at the gate in daylight before the Company and the garrison.",
+      "since": "s02-vow-of-teeth-b03 ch 21",
+      "provisional": true
     }
   ],
   "knowledge": [
