@@ -891,7 +891,7 @@
       }
     },
     "30": {
-      "status": "passed",
+      "status": "edited",
       "revisions": 1,
       "scores": {
         "reader_question": 3.0,
@@ -905,18 +905,18 @@
       },
       "average": 4.0,
       "flags": [],
-      "words": 2596,
+      "words": 2645,
       "minimum": 3.0,
       "style": {
-        "words": 2410,
+        "words": 2645,
         "banned_hits": {},
         "ai_tell_hits": {},
         "ai_tells_per_1000": 0.0,
         "top_4gram": "of the finding the",
         "top_4gram_count": 2,
-        "longest_paragraph_words": 96,
+        "longest_paragraph_words": 94,
         "em_dashes_per_1000": 0.0,
-        "reading_ease": 93.9
+        "reading_ease": 94.0
       },
       "owner_instructions": [
         "Rema's line that the writ was 'ready before your wife's name reached her desk' and Neela's sum ('before the closing writ... could have reached Kodiyur'). Problem: in ch 2 Rema already knew the closing writ named Neela, so the closing writ reached Kodiyur before she left, and the timeline contradicts itself. Fix: change Rema's line so the writ was dated before the execution and before the closing writ reached Kodiyur. Add one line to Neela's sum that squares it: the queen did not need the closing writ, because Muthu's letters had already carried the bride and her vow words to the queen's household (established in ch 9). One line, no lecture.",
@@ -1958,9 +1958,13 @@
     {
       "at": "2026-10-21T09:12:52",
       "event": "done: S8 line edit ch 24"
+    },
+    {
+      "at": "2026-10-21T09:13:26",
+      "event": "done: S8 line edit ch 30"
     }
   ],
-  "updated_at": "2026-10-21T09:12:52",
+  "updated_at": "2026-10-21T09:13:26",
   "midpoint_chapter": 16,
   "continuity_attempts": 0,
   "continuity_last_errors": null,
