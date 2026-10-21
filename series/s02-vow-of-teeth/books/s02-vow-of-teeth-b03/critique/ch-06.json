@@ -1,0 +1,41 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 3.0,
+    "stakes_and_cost": 3.0,
+    "prose": 4.0,
+    "continuity": 5.0
+  },
+  "reasons": {
+    "reader_question": "The old woman's stare at Neela's knotting hands is specific and caused by the story. The scarred clove-bark raider adds a second sharp gap.",
+    "change": "Her village becomes real through smell. She now has camp counts, a siege tower and a foreign odiyan clue. Her grief moves from deferred to met.",
+    "romance_movement": "Devan enters her grief without fixing it, and he matches it with his 'six years of a stair'. The reason is new, though Neela's own movement is small.",
+    "shown_chemistry": "Crushing the lantana and breathing it in is quotable responsive care. The warm cloth and the rice packet recycle earlier books' ritual almost beat for beat.",
+    "character_logic": "A trained scout with six hours left lies grieving when she could sweep for more clove-bark sleepers. The text claims she 'could do nothing' without a reason.",
+    "stakes_and_cost": "The tower and a foreign odiyan raise the threat, but no decision in the chapter costs anything. The ending's pull carries no stated price.",
+    "prose": "Clean and readable, with no banned phrases or tells. Minor problems: a 'like a fist' echo, the near-tell 'kin to one', an ambiguous 'carried her away', and a recap paragraph.",
+    "continuity": "Consistent with the self-naming rules, the turning limits, Indu of Nellimala (F577), the double hitch origin (F358, F729) and the pebble (F327). No hard conflicts."
+  },
+  "fixes": [
+    "At 'Hours stood between her and the grey,' the scout idles to make room for the grief beat (irrational behaviour). Give her a hard reason she cannot keep working, or let her spend an hour sweeping downwind first. For example, the horse lines catch leopard scent, a horse screams and the sentries wake, so she must lie still on the bank. Then let the grief come. Keep it to one short paragraph.",
+    "At 'Pavi and the others would go south at the next light,' F755 names Neela as one of the six for Kodiyur. State plainly that she leaves with them at first light. Then the stop at the net-mender costs her: she either delays the party or walks away from the woman. Plant one line of that cost in the final scene so the cliffhanger carries a price.",
+    "In 'Devan stood three paces off with his back to her,' the warm cloth and the rice-and-curd packet repeat book 2 ch15 and book 1 ch31 nearly verbatim (repeated image). Compress them into two sentences so the lantana crush carries the care. Also cut the second 'like a fist'. Change 'It carried her away, up the hill' to 'It carried her scent away, up the hill.'"
+  ],
+  "reader_question": "Who is the old net-mender who knows Neela's knot, and what does she know about the child Indu?",
+  "techniques_landed": [
+    9,
+    11,
+    22
+  ],
+  "new_facts_assessment": "Camp counts, the tower and the boulder cache are necessary and consistent; the cache is distinct from the old cache at F129. The C12 raider is well placed, and his ridged scars nearly name him outright. The pebble-as-ritual follows F008. The 'three noon trees' may conflict with F660, which places them on Pachan's grove map rather than near the shelter: clarify. 'Pavi and the others would go south' blurs F755, which lists Neela among the six.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Irrational behaviour to extend plot"
+  ],
+  "average": 3.88,
+  "minimum": 3.0,
+  "passed": true
+}
