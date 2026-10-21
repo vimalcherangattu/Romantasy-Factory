@@ -1,0 +1,41 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 5.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 3.0,
+    "stakes_and_cost": 4.0,
+    "prose": 4.0,
+    "continuity": 0.0
+  },
+  "reasons": {
+    "reader_question": "The lookout leaf she cannot hand on, plus the uncounted sunbird stubs, give two specific gaps. The question drifts slightly from the beat's court question.",
+    "change": "The guild is emptied, every page is given away, Chathu is bound and the resin is unrationed. Neela ends holding nothing but her names.",
+    "romance_movement": "There is new recognition: he gives Vellan his back and counts seventeen steps for her. The unspoken nod lands, but it is underplayed.",
+    "shown_chemistry": "The 'Seventeen' step-count callback and the silent nod show what they understand. Her watching him turn his back is responsive, not narrated.",
+    "character_logic": "Muthu's men guard Chathu in the yard during public readings, so they become witnesses nobody chose. Pavi is present though she was sent east.",
+    "stakes_and_cost": "Thilak burns his village, Kirri stays lost and the yard gains witnesses. The lookout leaf leaves a clear cost hanging.",
+    "prose": "The prose is clean and concrete, with good restraint. There are repeated tics: 'heard how it sounded' twice, the 'tappers burned their rags' basket twice, and 'scraped bare' echoing ch27.",
+    "continuity": "Four separate conflicts: 'Four days to Kettamala' contradicts F018; Fourth Guard at Kettamala contradicts F474; forty-one cages contradicts F443; 'forty pages today' contradicts the eighty-two read."
+  },
+  "fixes": [
+    "Continuity. Change \"Four days to Kettamala,\" he said to \"A day's hard ride to Kettamala\" (F018). Rewrite \"Fourth Guard watched me do it\": Rema's escort left by the goat path (F474), so use Unni. Change \"forty-one cages in two rows\" to forty-two cages in a row, forty-one filled (F443, F498). Fix \"She had read forty pages today\" to count all eighty-two.",
+    "Irrational behaviour. At \"Chathu sat on the cook-house step between two of Muthu's men\", soldiers hear every public reading and become unchosen witnesses, which breaks Neela's promise. Before she reads, have her send the two men out to the apron to face the road. Put Chathu under Thilak and Kuttu instead. Add one line placing Pavi back from the cairn camp (F621).",
+    "Prose repetition. \"She said it as a request, and she heard how it sounded\" and \"She heard how that sounded, and she said it again\" repeat a tic: cut the second. The basket \"where the tappers burned their rag(s)\" is described twice: on the second use, say only \"the gate basket\". \"His face was scraped bare\" echoes ch27's \"scraped to the bone\": find a new image."
+  ],
+  "reader_question": "Will Neela put her own 'Lookout, Seventeen' leaf before the court, and what do the many sunbird-marked stubs cut from the ledger hide?",
+  "techniques_landed": [
+    24,
+    16,
+    20
+  ],
+  "new_facts_assessment": "Most facts are necessary and fit. Kamalakshi pays off F568. Thilak as Four/boar fits F561. The sunbird stubs plant C22 cleanly against F446. The dusk gag on Chathu is smart, since he remains a live witness. Problems: Kirri's number Twelve and 'of the coast' are fine but vague. F639 (41 kennel pages) conflicts with the text's 'forty pages today'. Thirty volunteers out of about sixty (F218) leaves Kettamala thin, and nobody remarks on it. Muthu's night ride is doubtful against F602.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Irrational behaviour to extend plot"
+  ],
+  "average": 3.5,
+  "minimum": 0.0,
+  "passed": false
+}
