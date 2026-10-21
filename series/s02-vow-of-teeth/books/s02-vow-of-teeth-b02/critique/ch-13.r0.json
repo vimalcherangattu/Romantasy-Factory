@@ -1,0 +1,39 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 5.0,
+    "character_logic": 4.0,
+    "stakes_and_cost": 4.0,
+    "prose": 3.0,
+    "continuity": 5.0
+  },
+  "reasons": {
+    "reader_question": "Quiet hounds, two-day bear musk and still lights give a sharp question about what waits inside the walls.",
+    "change": "Devan gives up the fight and the sword. Her turning becomes a gift. Neela gains knowledge of the musk and the silent hounds.",
+    "romance_movement": "The beat lands with a new reason: she holds the door open on purpose. 'Watched in secret' explicitly becomes 'invited'.",
+    "shown_chemistry": "The stone and rice, 'Evening' to the other one, the head-push, her body on his aching seam: all responsive action.",
+    "character_logic": "Smart planning overall. Devan says he'll stay 'with the lamp men' but camps alone with her, a small internal slip.",
+    "stakes_and_cost": "Three in ten, no sword for Devan, the wound-share and dawn hunger make each choice cost. Lying beside him costs little.",
+    "prose": "Clean and concrete. Tics: three 'like a man' similes, 'like a lit book', 'if she had had nails', a told prolepsis.",
+    "continuity": "Hunter count, plan, names and Asha details match. The wound-share wording and the 'second night' line need tightening."
+  },
+  "fixes": [
+    "'A spear in your flank is a spear in mine, a hand's breadth lower': this is rule drift, and the literal Devan should state the rule exactly. Rewrite it as: 'A spear in your flank opens a welt in mine, in the same place. If it's deep enough to kill you, it drags me down after you.' Keep 'Two bodies for one mistake.'",
+    "'She had said it on the second night, in the dark': this is a continuity risk. She could not speak of the shape to Devan before the ch15 reveal and her ch17 disclosure. Re-anchor it to a dark-rule night after ch17, for example 'the night of the question game', and drop 'had not thought he was listening', or change it to 'had not thought he would keep it'.",
+    "'as flatly as a man reading a tally' / 'like a man setting down something heavy' / 'like a man receiving something': the repeated 'like a man' simile is a verbal tic. Keep only the last one and replace the others with action beats. Cut 'Her nails would have been aching if she had had nails' (leopards have claws) and 'She would remember it later, when she had time to be grateful' (a told prolepsis)."
+  ],
+  "reader_question": "Why are the Resin House hounds already quiet, and is Vellan the bear waiting inside the walls for Neela alone?",
+  "techniques_landed": [
+    6,
+    9,
+    14
+  ],
+  "new_facts_assessment": "F532 is necessary but clashes with Devan's line 'I stay on the ridge with the lamp men'. Make one match the other. F533 is necessary, consistent with F523, and sets up ch14. F534 is risky: on the second night of the marriage Neela could not admit to the shape (F150, ch15 reveal), so anchor it to a later night. F535 is good, fair setup for Vellan (F003) and the two-day timing is plausible.",
+  "content_rule_violation": false,
+  "failure_modes": [],
+  "average": 4.12,
+  "minimum": 3.0,
+  "passed": true
+}
