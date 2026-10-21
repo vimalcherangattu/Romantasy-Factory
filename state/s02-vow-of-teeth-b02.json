@@ -921,7 +921,7 @@
       }
     },
     "32": {
-      "status": "passed",
+      "status": "edited",
       "revisions": 2,
       "scores": {
         "reader_question": 4.0,
@@ -937,8 +937,19 @@
       "flags": [
         "needs-owner"
       ],
-      "words": 3027,
-      "minimum": 0.0
+      "words": 3029,
+      "minimum": 0.0,
+      "style": {
+        "words": 3029,
+        "banned_hits": {},
+        "ai_tell_hits": {},
+        "ai_tells_per_1000": 0.0,
+        "top_4gram": "it was the name",
+        "top_4gram_count": 3,
+        "longest_paragraph_words": 79,
+        "em_dashes_per_1000": 0.0,
+        "reading_ease": 92.5
+      }
     }
   },
   "chapter_count": 32,
@@ -1712,9 +1723,13 @@
     {
       "at": "2026-10-21T07:38:11",
       "event": "done: S8 line edit ch 31"
+    },
+    {
+      "at": "2026-10-21T07:38:55",
+      "event": "done: S8 line edit ch 32"
     }
   ],
-  "updated_at": "2026-10-21T07:38:11",
+  "updated_at": "2026-10-21T07:38:55",
   "midpoint_chapter": 16,
   "continuity_attempts": 1,
   "continuity_last_errors": 2
