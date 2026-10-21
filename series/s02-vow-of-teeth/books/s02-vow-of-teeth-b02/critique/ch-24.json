@@ -4,38 +4,38 @@
     "change": 4.0,
     "romance_movement": 4.0,
     "shown_chemistry": 4.0,
-    "character_logic": 4.0,
-    "stakes_and_cost": 5.0,
-    "prose": 3.0,
+    "character_logic": 3.0,
+    "stakes_and_cost": 3.0,
+    "prose": 4.0,
     "continuity": 0.0
   },
   "reasons": {
-    "reader_question": "The closing line leaves a specific dread: what did Chathu do with the forty? It would be sharper if the ending hinted at one concrete fate.",
-    "change": "The informant is named and held, the House falls, Muthu is repaired and the bargain over forgiveness is remade. Knowledge, power and relationship all shift.",
-    "romance_movement": "The new reason lands: forgiveness stops being the price of staying. Neela's 'worst possible thing' line proves she takes it in.",
-    "shown_chemistry": "The plate, the kindi, not looking away and 'I didn't touch him' all show care in action. The sex scene is serviceable but generic in its middle.",
-    "character_logic": "Letting the runner go and keeping the hand is smart. Riding at grey has stated reasons. Eravi's confession is credible.",
-    "stakes_and_cost": "Choosing the grey over the night visibly costs the forty. The night without resin costs Neela the ache. Both are paid on the page.",
-    "prose": "Concrete and readable. The 'I'm thirty-two years old' line reads as compliance exposition. 'Her eyes flew to his' is a cliché. 'Devan did not' openings repeat.",
-    "continuity": "Eravi 'found her', but Janu found Asha's body (F066, F591). The Muthu suspicion conflicts with F506. The first scene had no pebble (F183)."
+    "reader_question": "Vasu's broken report leaves a sharp question: what has Chathu done with the forty? The final 'Anything' slightly blurs it.",
+    "change": "The informant is named and held, the Muthu breach is repaired, the House is lost, and Chathu knows the fort's state.",
+    "romance_movement": "There is a new reason: forgiveness is decoupled from staying, and the private declaration lands. This is not a replayed refusal.",
+    "shown_chemistry": "Responsive acts carry it: he holds still while she undresses him, the kindi, the plate. 'The worst possible thing... only one I could stand' earns it.",
+    "character_logic": "Devan refuses a night ride because the road drowns horses, then Vasu rides it in the night. The jar also can't reach Chathu before the attack.",
+    "stakes_and_cost": "The cost of the grey-over-night choice is the chapter's sting, but the Vasu timing hollows it. The ache cost is only named, not felt.",
+    "prose": "Concrete and controlled ('He watched them be still'). Mild echo of hands-kept-still beats. Muthu's apology speech reads a touch prepared.",
+    "continuity": "Two conflicts. 'Six years, when I learned they weren't' clashes with F501 (learned in B2 ch8). 'The next week' sickroom clashes with ch13/ch25 spacing."
   },
   "fixes": [
-    "'I found her in the morning.' The canon says Janu found Asha's body (F066, F591). Change this to 'Janu found her. They brought me to her in the grey,' and keep his line about writing the bear report.",
-    "'Last week I read your face for a traitor's'. This conflicts with F506, where they cleared Muthu in ch 9, and 'I told Rema it was you' is unlisted. Rewrite the apology around six years of reading his grey letters as betrayal and taking the post-key. Also note that the wife threat came later (F503, F504), not at the start.",
-    "'in the dark with a pebble in his cheek'. The first explicit scene was a no-resin night, so there was no pebble (F183). Use rain and her scars instead. Also cut 'I'm thirty-two years old' from his speech. Put Devan's age in a natural beat earlier, such as Muthu's 'two grown men' banter."
+    "At 'They came back out of the wood in the night' (Irrational behaviour to extend plot): this contradicts 'That wood road drowns a horse in the dark' and the day's-ride distance. Have the gate shut at yesterday's dusk on Chathu's own scouting, before any jar. Vasu rides out at dawn the day before, is held at the flooded ford overnight, and arrives at grey. The jar then confirms what Chathu has already done, and Devan's grey-over-night choice still costs.",
+    "At 'And for six years, when I learned they weren't' (continuity conflict with F501): Devan learned the truth only from Rema in book 2 ch8. Change it to 'And since Rema told me they weren't, I read every one as betrayal.' Also fix the staging. 'Waited until the door had shut. Then he said, in front of Bhaskaran' is muddled, so state that Bhaskaran stays inside by the door.",
+    "At 'The next week I stood in the passage outside your sickroom' (continuity conflict): the fever sickbed was book 1 ch13, and the cart order came after the poisoning in ch25, weeks later. Change it to 'After the bear, when they carried you up, I stood in the passage outside your sickroom.' Separately, either make 'Her bitten nails scored his shoulder' raise a matching welt on her (wound-share), or soften it to a grip."
   ],
-  "reader_question": "What has Chathu done with the forty odiyans now that his hunters hold the Resin House walls?",
+  "reader_question": "What has Chathu done with the forty now that his hunters hold the Resin House?",
   "techniques_landed": [
     12,
-    14,
-    9
+    9,
+    14
   ],
-  "new_facts_assessment": "Listed facts work. The salve note matches F590, and the late rider is good cost. Bhaskaran's return needs to agree with F588. Unlisted and conflicting: Eravi found Asha's body, Devan told Rema it was Muthu, and Devan hears Asha's voice nightly.",
+  "new_facts_assessment": "The draft listed none but added several facts: Eravi's drunken wrong dose, the tapper's widow, Fourth Guard's salve pot as a message conduit, Bhaskaran riding back with Devan, Vasu's six in the sheds, and the hunters retaking the House at night. Most are consistent and necessary (matching F596 to F603). The hunters' timing is not, given the jar went out the same night and the Resin House is a day's ride (F018).",
   "content_rule_violation": false,
   "failure_modes": [
-    "Contrived delays"
+    "Irrational behaviour to extend plot"
   ],
-  "average": 3.5,
+  "average": 3.25,
   "minimum": 0.0,
   "passed": false
 }
