@@ -5127,6 +5127,48 @@
       "fact": "First Guard is a few years past thirty, wears a green sash at the left hip, climbs alone with open hands and sleeves pulled to the knuckles. Her left wrist shows a single pared-flat seam.",
       "since": "s02-vow-of-teeth-b03 ch 1",
       "provisional": true
+    },
+    {
+      "id": "F743",
+      "category": "knowledge",
+      "fact": "Usha knows from the queen's household that a ledger page burned of itself at the Resin House on the new-moon night (Neela's self-naming), and asks what the naming cost; she does not name the shape. Neela tells her publicly only the wound-share.",
+      "since": "s02-vow-of-teeth-b03 ch 2",
+      "provisional": true
+    },
+    {
+      "id": "F744",
+      "category": "object",
+      "fact": "Devan carries the oilcloth bundle (hide contract chit and the queen's payment writ, tied with red thread) in his pack on the hill, not in the shutter frame at Kettamala.",
+      "since": "s02-vow-of-teeth-b03 ch 2",
+      "provisional": true
+    },
+    {
+      "id": "F745",
+      "category": "knowledge",
+      "fact": "Usha says the pass-village watcher's scent log goes to a cell at Kettamala and on to whoever opens the prisoner's post, which is the queen's household. This matches F666 and F713.",
+      "since": "s02-vow-of-teeth-b03 ch 2",
+      "provisional": true
+    },
+    {
+      "id": "F746",
+      "category": "knowledge",
+      "fact": "Devan orders 'Nobody smears tonight' so no stranger can witness a turning; the Company obeys without asking why.",
+      "since": "s02-vow-of-teeth-b03 ch 2",
+      "provisional": true
+    },
+    {
+      "id": "F747",
+      "category": "name",
+      "fact": "Usha is First Guard's given name, offered unasked; the letter calls the forty 'those who came down from the Resin House'.",
+      "since": "s02-vow-of-teeth-b03 ch 2",
+      "provisional": true
+    },
+    {
+      "id": "F748",
+      "category": "knowledge",
+      "fact": "Devan's 'Tuesday' nick while shaving: Neela finds the welt on her chin over her rice. Neela mentions it to Usha as a joke.",
+      "since": "s02-vow-of-teeth-b03 ch 2",
+      "provisional": true
     }
   ],
   "knowledge": [
