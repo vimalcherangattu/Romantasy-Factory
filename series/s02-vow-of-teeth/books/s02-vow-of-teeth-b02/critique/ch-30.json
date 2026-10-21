@@ -10,27 +10,27 @@
     "continuity": 0.0
   },
   "reasons": {
-    "reader_question": "Specific and earned: three days, a sealed pass, a queen who remembers roads, and Devan's honest 'I don't know yet.'",
-    "change": "Clear power shift: the seal moves to Muthu, Devan loses office, and Neela becomes the reason in the public record.",
-    "romance_movement": "The public declaration happens under a real loss. Her refusal to leave alone answers his, so the reason is new.",
-    "shown_chemistry": "Strong responsive beats: his shaking hand, his slowed pace on her bad calf, and him drawing the room's eyes off her.",
-    "character_logic": "Rema's honest loophole, Neela's offer to leave and Devan's refusal all fit their characters. Muthu's oath is earned by B2 ch28.",
-    "stakes_and_cost": "Losing the fort is irreversible and has a deadline. Rema's warning attaches the next cost to the road itself.",
-    "prose": "Clean and readable. Problems: an ambiguous 'her husband's death', a doubled 'first time' about Muthu, and a muddled 'I'm talking' exchange.",
-    "continuity": "The writ is dated 11 days before the execution, which falls after the B1 ch27 yard self-naming. The chapter says the writ predates the yard."
+    "reader_question": "The closing 'Where?' / 'I don't know yet' plus Rema's warning sharpen a specific gap: where to go in a sealed country the queen watches.",
+    "change": "Devan loses fort, office and seal. Neela moves from wife to the cause. Muthu gets the pass. Kandan's salute shifts the garrison.",
+    "romance_movement": "There are new public declarations at the price of office, his refusal answered by her 'Beside'. The speeches lean slightly on the nose.",
+    "shown_chemistry": "His shaking hand, the slower pace on her bad side and the sleeve touch work well. Two lines explain the care instead of trusting it.",
+    "character_logic": "Neela's offer to leave is smart and costly, and Rema names the loophole honestly. Her 'tonight' clashes with Rema's 'by sunset'.",
+    "stakes_and_cost": "Three days to leave a closed country, rogue status and a queen who 'keeps every road'. Every next choice costs.",
+    "prose": "Clean and readable with good images ('field under wind'). Pen-laying is repeated, 'did not look at' recurs, and one AI tell appears ('the weight of it').",
+    "continuity": "Neela 'stood in a kennel aisle that morning', but the assize is two days after the return from the Resin House (F644, F643)."
   },
   "fixes": [
-    "'before Neela had ever stood in the Resin House yard': continuity conflict. The writ (11 days before the execution) postdates the B1 ch27 self-naming. Change it to 'before the closing writ with her name on it could have reached Kodiyur.' Also change Rema's 'ready before you were a name in the council's mouth' to 'ready before your wife's name reached her desk', so the anticipation reads correctly.",
-    "'The queen had sealed her husband's death': ambiguous pronoun. It reads as the queen's own husband. Rewrite as 'The queen had sealed Devan's death, and then, when that plan slipped, sealed his exile.'",
-    "'\"I'm talking,\" Muthu said, unsteady. \"You've noticed.\"': this muddles his established quiet-when-lying tell and invites false suspicion. Either have Neela note in one line that this quiet is not his lying quiet, or cut the exchange. Cut one of the two adjacent 'first time Neela had…seen' sentences about Muthu."
+    "Line: 'She had stood in a kennel aisle that morning'. Problem: continuity break. The kennel reading happened at the Resin House at least two days before the assize (F643, F644). Change the line to 'She had stood in the kennel aisle at the Resin House and not wept', or name the day ('three days ago').",
+    "Line: 'because he knew she hated being looked at'. Problem: narrated-only chemistry. The text explains the care instead of showing it. Cut the explanatory clause and show her body register the eyes leaving her, for example her count restarting. Also cut 'She had counted that kind of thing since the first week, and she had never once seen him fail at it'. Keep 'She saw him do it' and let the slower pace stand alone.",
+    "Line: 'I carried it three days down a road'. Problem: this conflicts with Kodiyur being four days at a hard ride (F208). Change it to 'five days'. Also align Neela's 'I'll go tonight... gone before the sun is' with Rema's 'If she is gone by sunset'. Pick one deadline, sunset today, and have Neela say it. Delete 'the fat man's' (Ittan's build is unestablished) or log it as a new fact."
   ],
-  "reader_question": "Where can a stripped warden and a confessed odiyan go in a rain-closed country when the queen will learn their road?",
+  "reader_question": "Where can a stripped warden and a confessed odiyan go in three days when the passes are shut and the queen will learn their road?",
   "techniques_landed": [
     19,
     22,
     9
   ],
-  "new_facts_assessment": "All four facts are necessary for the beat. Kandan's insult, Rema's record promise and Muthu's oath are consistent with the bible and continuity. The writ's date is consistent, but the chapter draws a wrong inference from it: the date falls after the Resin House yard self-naming, not before.",
+  "new_facts_assessment": "Nothing is listed, but the draft adds several things. Rema has been 'thirty years a clerk', which is harmless. Ittan is called 'the fat man', which is unestablished and should be cut or logged. Rema 'carried it three days down a road', but Kodiyur is four days at a hard ride (F208), so this needs fixing. The writ's clause giving the seal to Muthu fits F092. The date of eleven days before the execution matches F648.",
   "content_rule_violation": false,
   "failure_modes": [
     "Narrated-only chemistry"
