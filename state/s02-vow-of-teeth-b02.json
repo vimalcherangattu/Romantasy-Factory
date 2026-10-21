@@ -46,7 +46,7 @@
       ]
     },
     "02": {
-      "status": "passed",
+      "status": "edited",
       "revisions": 0,
       "scores": {
         "reader_question": 4.0,
@@ -60,18 +60,18 @@
       },
       "average": 4.12,
       "flags": [],
-      "words": 2510,
+      "words": 2544,
       "minimum": 4.0,
       "style": {
-        "words": 2541,
+        "words": 2544,
         "banned_hits": {},
         "ai_tell_hits": {},
         "ai_tells_per_1000": 0.0,
         "top_4gram": "the length of a",
         "top_4gram_count": 3,
-        "longest_paragraph_words": 88,
+        "longest_paragraph_words": 96,
         "em_dashes_per_1000": 0.0,
-        "reading_ease": 94.1
+        "reading_ease": 93.5
       },
       "owner_instructions": [
         "Escort tells. Problem: ch 2 stacks too many clues to the ch 32 reveal (dry packs, unscuffed boots, numbers, the smooth seam, never sleeping, the sash), so genre readers solve it by ch 3 (Twists without setup, inverted: over-setup). Fix: cut two tells. (a) Cut Rema's remark that she 'never once saw them sleep'. Keep that the escort fixed the crossing ropes by night, because the outline relies on the night travel as the clue. (b) Cut the line where Devan 'could not catch' the First Guard's sash rising, or any version of a sash that doesn't move with breath. Keep the dry packs, the barely worn boots, the numbers instead of names, and the pale ridge on the inner wrist that Devan reads as a lamp-burn.",
@@ -1934,9 +1934,13 @@
     {
       "at": "2026-10-21T09:09:20",
       "event": "done: S8 line edit ch 1"
+    },
+    {
+      "at": "2026-10-21T09:09:52",
+      "event": "done: S8 line edit ch 2"
     }
   ],
-  "updated_at": "2026-10-21T09:09:20",
+  "updated_at": "2026-10-21T09:09:52",
   "midpoint_chapter": 16,
   "continuity_attempts": 0,
   "continuity_last_errors": null,
