@@ -1,0 +1,40 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 3.0,
+    "character_logic": 4.0,
+    "stakes_and_cost": 4.0,
+    "prose": 3.0,
+    "continuity": 0.0
+  },
+  "reasons": {
+    "reader_question": "The blistered palms give a concrete gap: why are Devan's bare hands in fire, and has the shelf fallen?",
+    "change": "She moves from a private temptation to a public refusal to choose alone, and says it aloud at the fire.",
+    "romance_movement": "The fear of his vote is new and specific. Dramatic irony works because the reader knows he already refused.",
+    "shown_chemistry": "The leads are apart. The bond shows through the blisters, but her fear of his voice is mostly narrated.",
+    "character_logic": "Baring her scars and deferring to the vote are smart. Charging twenty-odd riders blind toward smoke is impulsive but in character.",
+    "stakes_and_cost": "The vote risks his yes, the guards' safety and Sanu's brother. The ride down risks everyone.",
+    "prose": "No dashes and few tells, but the jackal and lying-awake passages turn abstract. 'Said nothing' and 'in a yard in the rain' repeat.",
+    "continuity": "The rider counts are wrong (22+5+Neela is 28, not 27), the scars are 'twenty years' old, and 'twenty-seven' voters conflicts with the Company."
+  },
+  "fixes": [
+    "Continuity. At 'twenty-seven horses were raising it' and 'Twenty-seven odiyans sat round a small fire', change both to twenty-eight (twenty-two guards plus Neela and her five). At 'among the twenty-seven that mattered, and the hundred that did', use the Company's real count (forty-two hands) or cut the numbers. At 'Twenty years' worth, a decade deep', change to 'Eleven years' worth', which matches her first turning at sixteen and F310.",
+    "Technique 20 muddled. 'I'm coming back with the answer' contradicts 'It was a promise to be found.' Choose one reading, for example: the call never meant 'I'll arrive', it meant 'don't decide without me.' Make it the hinge that sends her to the vote, in one line, so the callback causes the decision instead of sitting beside it. Also let her link the net-mender to Ammini (F790); she knows it now.",
+    "Abstraction and a POV leak. 'a patience, folded small and kept near' gives no image. Show what the queen actually gave Usha (a letter, a token, an order) and one thing Usha does with it on the road. Separately, at 'a man on a shelf who had been told you will think it a lever', Neela can't know the wording of Devan's letter. Cut the quote or have her guess it."
+  ],
+  "reader_question": "Why are Devan's bare hands in fire under that smoke column, and what is left of the shelf when Neela gets there?",
+  "techniques_landed": [
+    10,
+    15,
+    20,
+    13
+  ],
+  "new_facts_assessment": "The Sajan/Sanu brothers, Lata joining at the Salt Gate, the tin and the four-day ride are all needed and consistent with F208, F824, F861 and F868. However, Lata's joining makes the party 28, which the page miscounts as 27. Extending the one-night 'nobody smears' order (F746) to the road is a stretch, since most riders are guards, not Company, but it is harmless. The jackal reinterpretation is a valid technique-20 beat, but on the page it gives two contradictory meanings.",
+  "content_rule_violation": false,
+  "failure_modes": [],
+  "average": 3.25,
+  "minimum": 0.0,
+  "passed": false
+}
