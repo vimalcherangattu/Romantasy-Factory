@@ -5029,6 +5029,55 @@
       "category": "knowledge",
       "fact": "Calling forced-turned members by their names, rather than their numbers, made some break off the hunt in the wood before dawn.",
       "since": "s02-vow-of-teeth-b02 (S7)"
+    },
+    {
+      "id": "F729",
+      "category": "knowledge",
+      "fact": "Neela has no memory of learning the fisherman's double hitch; Ammu always said a net-mender behind the sheds taught them both, but the knot has simply always been in Neela's fingers (hint of Nellimala childhood).",
+      "since": "s02-vow-of-teeth-b03 ch 1",
+      "provisional": true
+    },
+    {
+      "id": "F730",
+      "category": "name",
+      "fact": "Meenu, Madhavi, Pavi, Thulasi, Kuttu, Kamalakshi and Thilak are among the forty-one odiyans at the shelter; Vellan sits by the door carving a bird.",
+      "since": "s02-vow-of-teeth-b03 ch 1",
+      "provisional": true
+    },
+    {
+      "id": "F731",
+      "category": "knowledge",
+      "fact": "The Company is a half-joking name Kuttu coined for the forty and the plank; it has not been formally agreed. Forty-one odiyans, Vellan included, share the thin resin.",
+      "since": "s02-vow-of-teeth-b03 ch 1",
+      "provisional": true
+    },
+    {
+      "id": "F732",
+      "category": "place",
+      "fact": "From the shelter's ridge, after the cloud lifts, the sea and the Nellimala strand are visible; Neela recognises the bay's curve though she has never seen it from this side.",
+      "since": "s02-vow-of-teeth-b03 ch 1",
+      "provisional": true
+    },
+    {
+      "id": "F733",
+      "category": "knowledge",
+      "fact": "Devan counts fifty-eight Thurai ships plus two fishing boats, about sixty; he says a controlled raid is six to twelve boats.",
+      "since": "s02-vow-of-teeth-b03 ch 1",
+      "provisional": true
+    },
+    {
+      "id": "F734",
+      "category": "knowledge",
+      "fact": "Muthu is reading the crown's order from the gate chamber stair: the crown holds Kodiyur and the forts, the garrison stays inside the walls, and hill villages bear what comes. Kettamala's garrison will not go down.",
+      "since": "s02-vow-of-teeth-b03 ch 1",
+      "provisional": true
+    },
+    {
+      "id": "F735",
+      "category": "knowledge",
+      "fact": "Four members did not raise a hand in the resin vote and Neela directs the cup to them; the Company votes an even pinch for seven nights.",
+      "since": "s02-vow-of-teeth-b03 ch 1",
+      "provisional": true
     }
   ],
   "knowledge": [
