@@ -1,0 +1,42 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 3.0,
+    "stakes_and_cost": 4.0,
+    "prose": 3.0,
+    "continuity": 0.0
+  },
+  "reasons": {
+    "reader_question": "Clear and specific: will she go to Chathu, whose every gift is a bill? The 'Not yet' ending sharpens it.",
+    "change": "The Company splits by two votes, a party of six is named, and Neela finds the hole in her plan.",
+    "romance_movement": "First public lost vote between equals, absorbed with humour. The question-trade adds a new disclosure about wanting him to offer.",
+    "shown_chemistry": "Both counting hands, the hitch banter and his held breath before answering are all shown, not narrated.",
+    "character_logic": "The council and Devan are sound. Neela's inference that Chathu is under the palace rock contradicts the evidence she cites.",
+    "stakes_and_cost": "Shared wounds across a hundred miles and the villages against the thirty give a real, two-sided cost.",
+    "prose": "Mostly clean and concrete. Some strained lines ('a lie in a kind coat', 'eleven inches apart') and a muddy gap paragraph.",
+    "continuity": "Chathu sent south in a closed cart conflicts with F745/F666 (his cell is at Kettamala) and with the pass being shut to carts (F020)."
+  },
+  "fixes": [
+    "'After the assize Rema had ordered him south in a closed cart' (continuity conflict, broken logic): Usha said Chathu's cell is at Kettamala, and no cart crosses the shut pass. Rewrite so Neela knows he is held at Kettamala under the household's eye, and that Rema's order is to walk him down the goat path to Kodiyur's cells when the court sits. Then the reason to reach him is new: he will be moved soon, or must be fetched first. Update F752/F756.",
+    "'since the night he named her the other one' (continuity slip): Neela gave Devan the phrase herself (F150); he did not name her. Change it to 'since the night she told him the other one' or 'since the night she gave him her other name'.",
+    "'A page, a reading, a voice. She turned it over' (vague clue at the peak): the gap is the chapter's planted clue, and as written it is too formless to recall later. Keep it unsolved, but let her snag on one concrete word, 'read', and the thought that a page is not the only way to cage. Cut 'a lie in a kind coat' and the hollow-step simile's second sentence."
+  ],
+  "reader_question": "Will Neela go to Chathu, the man who sold every page, for the palace stairs, knowing every gift of his is a bill?",
+  "techniques_landed": [
+    4,
+    10,
+    15
+  ],
+  "new_facts_assessment": "Resin 36/6 correction is consistent and needed. Meenu's cage, Devan's grey and Kamalakshi's rice are harmless texture. Ammu teaching the page rule in the kennel straw is plausible but unestablished; keep it. The Chathu fact (closed cart south, Neela watched it go) conflicts with F745, F666 and F020, and its inference is self-contradicting. Unlisted: Pavi's curled hand is specified as left.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Irrational behaviour to extend plot",
+    "Worldbuilding collapse"
+  ],
+  "average": 3.25,
+  "minimum": 0.0,
+  "passed": false
+}
