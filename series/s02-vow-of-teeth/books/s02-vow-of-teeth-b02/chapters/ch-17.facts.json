@@ -1,24 +1,24 @@
 {
   "facts": [
     {
-      "category": "object",
-      "fact": "Devan carries Kannan's white pebble in his belt pouch at the Resin House and puts it in his cheek at dusk of ch 17 although Neela took no resin, to slow his own words while angry.",
-      "why": "needed because the beat requires the pebble at dusk with no resin; consistent with F175/F327."
-    },
-    {
-      "category": "name",
-      "fact": "Devan made his slow open-hand drill at twenty-five, the winter after the ford, ending with two fingers stopped a hair short of the post.",
-      "why": "needed to give the hand-mastering drill a history."
+      "category": "plot",
+      "fact": "A rider from Kettamala brings Bhaskaran a strip in Rema's hand at the Resin House gate: she expects the Keeper's quire within two days or she comes for it. Devan tells Bhaskaran to say he is sitting on it and hearing all of it first, and risks a charge by doing so."
     },
     {
       "category": "object",
-      "fact": "Pavi offers a clay pot of green salve; Devan has it left on Chathu's desk for Neela. He also sets a brass water pot spout-left by her mat and has the mat moved away from the door.",
-      "why": "needed for the responsive-care beat."
+      "fact": "Asha at ten drew the west-stair parrot newel whole, saying a broken beak insulted the bird, and drew it mended on every note thereafter (consistent with F111)."
     },
     {
       "category": "plot",
-      "fact": "Devan decides not to hand the Keeper's quire to Rema until he has heard all eleven contracts, and will not lie to Rema about the lookout leaf.",
-      "why": "needed to set the chapter's goal and the reader question."
+      "fact": "Devan orders both ends of the master's-room passage left open with no man posted, moves the mat to the wall away from the door, and sets a brass water pot spout-left by it."
+    },
+    {
+      "category": "object",
+      "fact": "Pavi's green salve smells of crushed leaf and smoke, distinct from Eravi's tamarind-scented salve (F462)."
+    },
+    {
+      "category": "knowledge",
+      "fact": "Devan's palms are rope-burned from the well shaft rope and the pry bar."
     }
   ]
 }
