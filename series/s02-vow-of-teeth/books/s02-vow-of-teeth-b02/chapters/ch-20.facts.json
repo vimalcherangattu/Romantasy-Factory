@@ -1,0 +1,34 @@
+{
+  "facts": [
+    {
+      "category": "timeline",
+      "fact": "Two hunter arrows hit Neela's left ribs: a scoring graze at lamp-lighting (the welt Devan felt in ch 19) and a second, bleeding graze at dawn in the grove. Both from the wood, one shot each.",
+      "why": "needed to reconcile ch 19's lamp-lighting welt with the outline's dawn arrow."
+    },
+    {
+      "category": "object",
+      "fact": "The tin of warm jaggery-sesame sweets was left on the Resin House gatepost by hunters during the night, still warm, with Chathu's note ('The book is not yours to carry. Bring it home, and the account closes... Come home. C.') and Neela's intake slip beneath.",
+      "why": "needed because the outline places the tin, slip and note at the gate."
+    },
+    {
+      "category": "knowledge",
+      "fact": "The ledger's key is a grid of cipher letters against plain ones at the back of the contract leaves, with a leaf of masters' marks: sunbird alone means 'by leave', hook means delivered, slash means paid.",
+      "why": "needed because the outline has Neela use the ledger's cipher key to read the slip and Ittan's tally book."
+    },
+    {
+      "category": "knowledge",
+      "fact": "Ittan's tally book has two columns: his own extra passes (hook) on the left and sunbird-marked 'by leave' passes on the right. The oldest leaves are copied in brown ink from an earlier book. 'Nellimala. Second harvest. Two boats of Thurai men, the coast road to the foot of the pass. By leave.' is twenty-one years back.",
+      "why": "needed for the outline's 'allowed column' reveal that her village was burned by agreement."
+    },
+    {
+      "category": "name",
+      "fact": "Neela's birth name is Indu, of Nellimala, on the coast side of the Monkey Pass, a day below Kettamala; she will keep both names.",
+      "why": "named in the outline beat."
+    },
+    {
+      "category": "object",
+      "fact": "Neela carries Ittan's oilcloth tally book in her wrap since the night they took the ledger.",
+      "why": "needed so she has the tally book at the Resin House."
+    }
+  ]
+}
