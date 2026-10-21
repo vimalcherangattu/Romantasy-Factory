@@ -70,7 +70,7 @@
       }
     },
     "03": {
-      "status": "passed",
+      "status": "edited",
       "revisions": 1,
       "scores": {
         "reader_question": 4.0,
@@ -84,8 +84,19 @@
       },
       "average": 3.88,
       "flags": [],
-      "words": 3071,
-      "minimum": 3.0
+      "words": 3067,
+      "minimum": 3.0,
+      "style": {
+        "words": 3067,
+        "banned_hits": {},
+        "ai_tell_hits": {},
+        "ai_tells_per_1000": 0.0,
+        "top_4gram": "ward of kunjan chirayil",
+        "top_4gram_count": 2,
+        "longest_paragraph_words": 83,
+        "em_dashes_per_1000": 0.65,
+        "reading_ease": 94.0
+      }
     },
     "04": {
       "status": "passed",
@@ -1277,9 +1288,13 @@
     {
       "at": "2026-10-21T07:20:44",
       "event": "done: S8 line edit ch 2"
+    },
+    {
+      "at": "2026-10-21T07:21:23",
+      "event": "done: S8 line edit ch 3"
     }
   ],
-  "updated_at": "2026-10-21T07:20:44",
+  "updated_at": "2026-10-21T07:21:23",
   "midpoint_chapter": 16,
   "continuity_attempts": 1,
   "continuity_last_errors": 2
