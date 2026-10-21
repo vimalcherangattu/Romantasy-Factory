@@ -1,3 +1,14 @@
 {
-  "facts": []
+  "facts": [
+    {
+      "category": "knowledge",
+      "fact": "Ledger-veto signal agreed in ch 12: on the raid night Neela is a leopard and cannot take the book from Devan's hand, so if he begins to read a page she closes her teeth on his right wrist, a hold that does not break skin (a bite would open on her too). He then shuts the book and sets it on the well curb without giving a reason.",
+      "since": "s02-oath-of-claws-b02 ch 12"
+    },
+    {
+      "category": "knowledge",
+      "fact": "Neela's stated fear: Chathu keeps intake slips with the pages, and she could turn other women's leaves by night hunting hers. If Devan refuses the bargain she will not go over the Resin House wall.",
+      "since": "s02-oath-of-claws-b02 ch 12"
+    }
+  ]
 }
