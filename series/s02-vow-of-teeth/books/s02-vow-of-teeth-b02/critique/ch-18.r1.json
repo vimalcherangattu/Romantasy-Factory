@@ -1,0 +1,41 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 3.0,
+    "character_logic": 4.0,
+    "stakes_and_cost": 4.0,
+    "prose": 4.0,
+    "continuity": 0.0
+  },
+  "reasons": {
+    "reader_question": "Thilak's tea and her silent acceptance make 'how long before she becomes Chathu' sharp and specific.",
+    "change": "She moves from rogue to master in all but name: the yard obeys her, a member calls her Master, she lets it stand.",
+    "romance_movement": "The strain is new: his gentle Chathu warning, her 'I'm not Chathu', and the line meaning less to her afterward.",
+    "shown_chemistry": "The kindi callback and his attention land, but the leave-taking leans on narration ('with his whole face', 'That was what made it land').",
+    "character_logic": "Her reasons to wait are smart and rule-true. Choosing not to whisper Twenty-two's name is plausible and self-aware.",
+    "stakes_and_cost": "Holding the pages costs her the girl's trust and her own name. The bowed 'Master Seventeen' prices the choice well.",
+    "prose": "Clean, varied and concrete, with few tells. A couple of narrated beats explain the emotion the scene already shows.",
+    "continuity": "Fourteen Kettamala men (six ride, eight stay) conflicts with the ten who came in at the raid (F545). Chinna's cousin is unexplained."
+  },
+  "fixes": [
+    "'He had split the Kettamala men in two, six to go with him, eight to stay': continuity conflict with F545, where ten men came in. Change it to 'four to go with him, six to stay', and keep Bhaskaran among the six. Add the corrected split to new-facts.json.",
+    "'Chinna's cousin, or a woman who might have been, passed': this is an unexplained new fact, because Chinna works at Kettamala, a day's ride away. Replace it with a named Resin House member Neela half-knows, such as Pavi passing with a basket. Also cut 'The pebble was gone from his cheek, or he had learned to speak around it'. He uses the pebble only at night, so by day the line confuses.",
+    "'She watched it enter him. He did not answer it.': a missed values collision (technique 15). Devan, who gives exact facts, lets the vouching pass unexamined. Give him one literal line, such as 'A vouched house has a master. The crown will write your name beside forty.' Neela should answer it, so the later Chathu warning builds on a stated cost rather than silence."
+  ],
+  "reader_question": "How long can Neela hold forty lives and Chathu's tea before she becomes Chathu?",
+  "techniques_landed": [
+    15,
+    14,
+    13
+  ],
+  "new_facts_assessment": "The draft lists no facts but adds several. The elder sister keeping bees is good and necessary texture. Twenty-two's four-syllable name is fine. The fourteen-man Kettamala split conflicts with F545 (ten men). 'Chinna's cousin' at the Resin House is unnecessary and confusing, since Chinna is Kettamala's kitchen woman. The pebble aside is ambiguous by day. All of these should be listed or removed.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Narrated-only chemistry"
+  ],
+  "average": 3.38,
+  "minimum": 0.0,
+  "passed": false
+}
