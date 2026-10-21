@@ -1,67 +1,58 @@
-# Continuity report: Bound till the Thaw (Book 1, 32 chapters)
+# Continuity report: Bound till the Thaw (Book 1, chapters 1–32)
 
 ## What I checked
 
-- **Names and address:** Captain, Guide, Captain-ji, Didi, and when Meera starts using "Rohan".
-- **Ages:** Meera 29, Rohan 35, Kiran 22 at the Dilan crossing, Asha 28, Nimmi 50.
-- **Day count:** the twenty-day count to the Snow Fair.
-- **Firewood:** the juniper count from 41 down to 7.
-- **Redbark:** twelve packets, three ruined, eighteen courses.
-- **Graves:** 31, then 32 after Sunni.
-- **Injuries:** Rohan's left ribs and arm, his split knuckles, Meera's hands, the two dead fingers and the amputation.
-- **Rope-bond rules:** distance limit, lie-cold scale, the loophole, and promises.
-- **Who knows what:** Varun, Kiran and Dilan, the seal, and the Salt Fox.
-- **Objects:** bells, the badge, the brass button, the seal cord and its knots, the pattus, the writ case and the count.
-- **Places:** Rope-Hut layout, the waystone, the Teeth, Ranu, and the cairn's position.
-
-## Timeline
-
-The book's own day count is internally consistent:
-
-| Point in the book | Day | Days left / other count |
-|---|---|---|
-| Ch6 dawn | 4 | 17 left |
-| Ch13 dusk | 9 | 11 left; Varun buried 7 days |
-| Ch16 | 10 | Varun buried 8 days |
-| Ch19 | 12 | Nimmi: 8 days to the Fair |
-| Ch21 | 15 | 5 days left |
-| Ch22 | 16 | 4 days left |
-| Ch29 | 20 | Fair at dawn of day 20 |
-
-The patrol's door rule reads "after the sixth day" every time it appears in the text.
-
-Several provisional facts disagree with each other and with the book:
-- F129 and F131 give nine days at ch13.
-- F153 gives eleven days for Varun at ch16.
-- F178, F179, F276 and F278 give four days and a third-day rule.
-
-The text is right and those facts should be superseded. Corrected versions are in new-facts.json.
+- **Bible and continuity facts:** the whole book against the series bible and continuity.json, including the bible's fixed character traits and every world-rule clause.
+- **Names and forms of address:** Guide, Captain, Captain-ji, Didi.
+- **Ages and calendar:**
+  - Day-by-day calendar: the twenty-day deadline, Varun's days under the slide, the Ranu door rule and the days left to the Fair.
+  - Firewood counts from 41 down to 7.
+  - Redbark courses: 12 packets, then 9 sound, then 18 courses, then 23 untreated.
+  - Grave counts: 31, then 32 with Sunni.
+- **Magic rules:**
+  - Distance limit and lie-cold sizes.
+  - Taking the cold (the loophole).
+  - Promises made while bound, and the free categories.
+- **Injuries:**
+  - Rohan's left ribs and his split right knuckles.
+  - Meera's split knuckles and her left ring and little fingers.
+  - Kiran's left ear.
+- **Who knows what:**
+  - Dilan's rope and the badge.
+  - The seal's whereabouts.
+  - Varun's survival.
+  - The three-wardens party figure.
+- **Objects:**
+  - Both bells, the seal and its hitch, the button token.
+  - The writ and writ case, both pattus.
+  - The count, the badge and the wax tin.
+- **Places:** the layouts of the Rope-Hut and Nimmi's house.
 
 ## Errors found
 
-**Major (2)**
-- **E01 (ch19):** Rohan says there were no wardens before the Closing Law. This contradicts his grandfather the warden and Saro.
-- **E02 (ch20):** Meera calls something she said "partly a lie", yet her hands stay warm. The lie-cost is waived.
+Nine errors in total: one major, eight minor.
 
-**Minor (15)**
-- **Rules and magic:**
-  - The promise rule is missing from ch4.
-  - Two of Rohan's statements of intent are broken (ch12, ch17).
-  - Ch16 says the hut has no stones to ring.
-- **Places and objects:**
-  - The juniper sprig reappears in ch15.
-  - Rope reach is measured to the doorway instead of the tree (ch12).
-  - The waystone's carved hands are "the same size" (ch5).
-  - The cairn's position is wrong in ch31.
-- **People and history:**
-  - Varun's ten years appear as "two years" (ch2).
-  - "Twelve paces back" was never said (ch16).
-  - Rohan's lead position is misremembered (ch17).
-  - Hakam's fingers are blamed on a lie in ch22 but on frost in ch26.
-- **Medicine and evidence:**
-  - "The weaver" is listed in the first wave though he had no course (ch21).
-  - Kamla's two get doses and rally with no explanation (ch23).
-  - Meera says "nine packets" crossed (ch24).
-  - The torn ledger page reappears at the Fair (ch30).
+| ID | Ch | Severity | Error |
+|---|---|---|---|
+| E01 | 18 | major | Kiran's frostbitten ear is shown openly to Rohan on arrival. That breaks the who-knows-what set up by ch 21 and ch 22, where the ear is under a cap and Rohan sees it first in the passage. |
+| E02 | 1 | minor | The red rope is described as raw wool spun by the crew. The bible says it was spun in Lata's house. |
+| E03 | 2 | minor | The writ is drawn from his coat, but ch 7 places it in a case on his belt. |
+| E04 | 10 | minor | Meera recalls the gully party as "on the rope" though they were never roped. |
+| E05 | 13 | minor | Rohan's "Nothing." is a free false statement. |
+| E06 | 15 | minor | The redbark colour slips to "pale brown". |
+| E07 | 25 | minor | The coat search misses the writ and the queen's wax tin that appear later. |
+| E08 | 28 | minor | The stitched-in button token comes out without unpicking the stitches. |
+| E09 | 30 | minor | Varun says "last night" for an escape made the day before. |
 
-Every error comes with exact patches.
+## Checked but not counted as errors
+
+**Book timeline vs. continuity.json.** The book's own timeline is consistent: the Fair falls at dawn of the twentieth day after Rohan's arrival. Several provisional facts in continuity.json disagree with the final text:
+
+- F129: nine days left at ch 13 (the book says eleven).
+- F131 and F153: Varun buried nine and eleven days (the book says seven and eight).
+- F178, F179 and F276: four days left, and a third-day door rule (the book says eight days and a sixth-day door rule).
+- F114: the party sheet.
+
+I treated the book as authoritative and logged the actual figures in new-facts.json.
+
+**Off-by-one day mentions.** "Fifteen days" (ch 23) and "sixteen days" (ch 26) are approximate counts in dialogue and narration. I left them unchanged.

@@ -508,7 +508,7 @@
       "minimum": 3.0
     },
     "28": {
-      "status": "passed",
+      "status": "continuity-fix",
       "revisions": 2,
       "scores": {
         "reader_question": 5.0,
@@ -525,7 +525,10 @@
         "needs-owner"
       ],
       "words": 2883,
-      "minimum": 0.0
+      "minimum": 0.0,
+      "continuity_fixes": [
+        "In ch 1 the brass button token was stitched into the ledger's spine 'where only a person who unpicked the binding would find it'. In ch 28 it simply comes out when Meera reaches in with two fingers. FIX: Have her pick the stitches to free it."
+      ]
     },
     "29": {
       "status": "passed",
@@ -1175,10 +1178,18 @@
     {
       "at": "2026-10-21T09:20:42",
       "event": "done: S5 critique ch 17"
+    },
+    {
+      "at": "2026-10-21T09:31:12",
+      "event": "continuity round 2: 9 errors, 8 patches applied, 1 to revise"
+    },
+    {
+      "at": "2026-10-21T09:31:12",
+      "event": "done: S7 continuity"
     }
   ],
-  "updated_at": "2026-10-21T09:20:42",
+  "updated_at": "2026-10-21T09:31:12",
   "midpoint_chapter": 16,
-  "continuity_attempts": 1,
-  "continuity_last_errors": 2
+  "continuity_attempts": 2,
+  "continuity_last_errors": 1
 }
