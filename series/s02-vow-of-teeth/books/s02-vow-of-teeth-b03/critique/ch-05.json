@@ -1,0 +1,41 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 3.0,
+    "stakes_and_cost": 3.0,
+    "prose": 3.0,
+    "continuity": 0.0
+  },
+  "reasons": {
+    "reader_question": "The seed-barley reveal sharply escalates the threat, and the folded-wing bird on the mirror adds a concrete second gap.",
+    "change": "Devan moves from a man with no seal to a leader followed by consent, strikes first openly, and the raid becomes an occupation.",
+    "romance_movement": "He sits and accepts her care in front of soldiers, and she sees the men accept her. Both changes are new and visible.",
+    "shown_chemistry": "The shared welt, the hard thumb on the knot and 'Sit, Devan' are all action. Neela's interior is offstage in his POV, but that is acceptable.",
+    "character_logic": "Devan already names the mirror man before Koman, so the hired nose adds almost nothing. Thirty odiyans also fail to scent Koman approaching.",
+    "stakes_and_cost": "Vellan's withheld words cost Devan, but the lip assault happens offstage, so the odds never feel probable-but-uncertain.",
+    "prose": "Mostly clean. Three 'stood in the road' openings, 'the weight of', 'cold went through him like a blade' and the sail simile soften it.",
+    "continuity": "'The first blow he had ever chosen to throw at a man since the ford' conflicts with Devan striking Vellan in B1 ch27 and B2 ch15."
+  },
+  "fixes": [
+    "In 'The first blow he had ever chosen to throw at a man since the ford', Devan already struck Vellan (B1 ch27, B2 ch15), so the line breaks continuity. Rewrite it as 'The first time since the ford he had struck first, with nobody's life on the edge of it but his own choice.' This keeps the beat's novelty (striking first, openly) without erasing the earlier blows.",
+    "In 'A second man up the scree on the lip, left of the cut, with a bronze mirror', Devan pre-empts Koman, which makes the hired nose redundant (irrational plot logic). Have Devan know only that a mirror waits somewhere along the lip, which is too long a front for the animals to search before dawn. Koman then pins it as 'left of the cut, cold sweat and brass', so his nose decides the plan. Have the leopard or bear scent him first so his arrival isn't unnoticed.",
+    "In 'At his left shoulder stood a spotted shape' and later 'The bear had come down the slope to his left side', two animals hold the same flank, which confuses the beat (the bear holds his left). Put the leopard on his right, then send her up the scree. Show one brief uncertain sound from the lip, such as the grunting cry followed by too long a silence, to make the mirror's capture probable-but-uncertain (technique 6). Reconcile 'thirty-odd' and 'forty-odd' to thirty-six."
+  ],
+  "reader_question": "Can ten men and a Company short on resin hold a forty-pace gorge against an army that has come with seed to stay, and why does the raiders' mirror carry the queen's folded-wing bird?",
+  "techniques_landed": [
+    3,
+    16
+  ],
+  "new_facts_assessment": "Koman is necessary and fits F194/F301. He should say whether his scent log still goes to the queen's household (F666, F745), since that bears on his loyalty. The mirror bird is a fair, ambiguous C10 plant. The twenty-three-man count and the occupation orders are consistent with the B3 ch1 treaty collapse. The forearm slash and welt follow the F627 wound-share logic. The volunteer count is off by one: Kandan, Sankaran, Kuttan and five more ground spears, which makes eight, plus Vasu makes nine, not the stated ten. The chapter also says 'thirty-odd shapes' early and 'forty-odd who changed' at the end, while F757 gives 36.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Irrational behaviour to extend plot",
+    "Stakes without depth"
+  ],
+  "average": 3.12,
+  "minimum": 0.0,
+  "passed": false
+}
