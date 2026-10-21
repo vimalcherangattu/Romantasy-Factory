@@ -2,38 +2,40 @@
   "scores": {
     "reader_question": 4.0,
     "change": 4.0,
-    "romance_movement": 4.0,
+    "romance_movement": 3.0,
     "shown_chemistry": 4.0,
-    "character_logic": 4.0,
+    "character_logic": 3.0,
     "stakes_and_cost": 4.0,
-    "prose": 4.0,
-    "continuity": 0.0
+    "prose": 3.0,
+    "continuity": 5.0
   },
   "reasons": {
-    "reader_question": "Closing image of her raised hand makes the palace-wrist problem concrete and urgent. The question is specific and stated through the surgeon detail.",
-    "change": "Muthu moves from two loyalties to one, in writing before the yard. Neela gains the cuff and surgeon intelligence. Janu's door opens slightly.",
-    "romance_movement": "Her reframing of restraint as respect is a new reason, and his lack of an answer is a real beat. The speech leans on stating the theme.",
-    "shown_chemistry": "Knee touch left for her to decide, the shared laugh at the goat, and wounds closing together all carry it without narration.",
-    "character_logic": "Neela refuses to manipulate. Devan withholds the cut's details from the rider's ears. Muthu's open letter fits his arc and his hostage cost.",
-    "stakes_and_cost": "Muthu's kept woman pays for his letter, and Neela leaves at first light toward a surgeon who will read her. Costs are named.",
-    "prose": "Several quotable lines (hands open, door on the latch). A few muddy sentences, and Neela's speech to Devan is slightly on the nose.",
-    "continuity": "'Eleven turnings' conflicts with the world: Neela has turned nightly for over a decade (F310, Rule 1). The rest of the chapter is consistent."
+    "reader_question": "The closing image of the raised hand makes the wrist problem specific and urgent. The surgeon's blade gives it a deadline.",
+    "change": "Muthu's double loyalty ends in an open black-wax letter. Neela gains the cuff and surgeon intelligence. Both shifts are clear.",
+    "romance_movement": "The declaration lands, but 'restraint was respect' is late for married lovers in book 3. The reason echoes earlier reinterpretations.",
+    "shown_chemistry": "Shared laughter at the goat, the knee touch that lets her decide, and his empty-handed 'I haven't anything ready' are responsive, not narrated.",
+    "character_logic": "Muthu and Devan act smartly. Neela 'having it wrong' until today strains, since he explained his protections in book 1. Muthu's closing motive is muddled.",
+    "stakes_and_cost": "Muthu's open refusal endangers his kept wife. Neela leaves at first light toward a surgeon who will read her wrists.",
+    "prose": "The opening line is garbled. 'He never had to' is a cliché. There are heavy runs of 'He did not... He did not' anaphora. Otherwise imagery is concrete and strong.",
+    "continuity": "No hard conflicts. The welt from shoulder to elbow matches ch8's text. The seal, the wax and C11's round hand all match the record."
   },
   "fixes": [
-    "'Eleven turnings, burned and scarred again.' Continuity conflict: 'turning' is the world's term for the nightly change, and Neela has turned hundreds of times. Rewrite to match the tree-ring image, e.g. 'Eleven years of nights, burned and scarred again.' Never count her scars in turnings.",
-    "'That's respect. I don't think I had a word for it before.' Neela states the theme instead of showing it. Replace the abstract label with one concrete act she now rereads, such as the kindi spout turned left or the knife he never moved. Keep 'They had a number, and they had a leash.'",
-    "'with Pavi and the six behind them' Pavi is one of the six (F755), so the count reads wrong. Change it to 'with Pavi and the rest of the six behind them'. Also clarify 'filed it with the hard words' to 'put it down to the hard words', so the reader sees Neela misread the clue."
+    "Opening, '\"Said it,\" Neela panted, \"the day I—\"': this garbles ch8's interrupted line, and the interior gloss and the cistern finish then word it differently. Open on her exact unfinished words from ch8 ('I chose that the day I—'). Then use one consistent completion ('the day I said the word to you') in both later places.",
+    "Cistern speech, 'When I came here, I thought you didn't touch me': this is Repetitive tension and strained character logic. She has understood his protections since his book 1 confession. Make the new reason today's evidence. She has now seen him keep his hands off another man's choice, so his restraint is a principle he holds for everyone, not a courtship tactic toward her. Let that be what she admires aloud.",
+    "Muthu's line, 'I'd like one thing in this fort that I did on purpose': the motive is muddled, because he has just done the letter on purpose. Replace it with a clear reason, such as wanting one gift that goes unreported and unpaid, or a debt to Devan. Also place the Company so it is not in the lower court while it was apparently at the shelf; for example, open with them climbing in behind her."
   ],
-  "reader_question": "How can Neela pass inside the palace when the surgeon will know her layered wrists at arm's length?",
+  "reader_question": "How can Neela pass inside the palace when a surgeon reads guards' wrists, and hers carry eleven years of layered ridges?",
   "techniques_landed": [
     9,
     16,
     23
   ],
-  "new_facts_assessment": "Biju at seventeen is consistent and gives Devan's cost weight. Muthu's thumb on one line plants C11 fairly at a peak of attention, matching F808. Devan withholding the cut's place, depth and timing departs from the beat ('tells Muthu the shelf plan'). It is the smarter choice and in character, so accept it.",
+  "new_facts_assessment": "The draft lists no new facts, but it adds several. Muthu says the escort drank at his table while lodged in the south range; F807 says gate chamber, so reconcile it. Other additions: the brass-cornered pouch, the kindi spout 'turned left' (versus 'toward the pillow' in F105/F182), Bhaskaran's thirty-to-one goat wager, and the Company waiting in the lower court while it was apparently at the shelf. None is necessary except the cuff details. Log or align them all.",
   "content_rule_violation": false,
-  "failure_modes": [],
-  "average": 3.5,
-  "minimum": 0.0,
-  "passed": false
+  "failure_modes": [
+    "Repetitive tension"
+  ],
+  "average": 3.75,
+  "minimum": 3.0,
+  "passed": true
 }

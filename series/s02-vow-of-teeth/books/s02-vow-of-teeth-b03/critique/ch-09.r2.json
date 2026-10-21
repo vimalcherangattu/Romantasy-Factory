@@ -1,0 +1,41 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 3.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 3.0,
+    "stakes_and_cost": 4.0,
+    "prose": 3.0,
+    "continuity": 5.0
+  },
+  "reasons": {
+    "reader_question": "The closing image of the raised hand makes the wrist problem specific and urgent. The surgeon's blade gives it a deadline.",
+    "change": "Muthu's double loyalty ends in an open black-wax letter. Neela gains the cuff and surgeon intelligence. Both shifts are clear.",
+    "romance_movement": "The declaration lands, but 'restraint was respect' is late for married lovers in book 3. The reason echoes earlier reinterpretations.",
+    "shown_chemistry": "Shared laughter at the goat, the knee touch that lets her decide, and his empty-handed 'I haven't anything ready' are responsive, not narrated.",
+    "character_logic": "Muthu and Devan act smartly. Neela 'having it wrong' until today strains, since he explained his protections in book 1. Muthu's closing motive is muddled.",
+    "stakes_and_cost": "Muthu's open refusal endangers his kept wife. Neela leaves at first light toward a surgeon who will read her wrists.",
+    "prose": "The opening line is garbled. 'He never had to' is a cliché. There are heavy runs of 'He did not... He did not' anaphora. Otherwise imagery is concrete and strong.",
+    "continuity": "No hard conflicts. The welt from shoulder to elbow matches ch8's text. The seal, the wax and C11's round hand all match the record."
+  },
+  "fixes": [
+    "Opening, '\"Said it,\" Neela panted, \"the day I—\"': this garbles ch8's interrupted line, and the interior gloss and the cistern finish then word it differently. Open on her exact unfinished words from ch8 ('I chose that the day I—'). Then use one consistent completion ('the day I said the word to you') in both later places.",
+    "Cistern speech, 'When I came here, I thought you didn't touch me': this is Repetitive tension and strained character logic. She has understood his protections since his book 1 confession. Make the new reason today's evidence. She has now seen him keep his hands off another man's choice, so his restraint is a principle he holds for everyone, not a courtship tactic toward her. Let that be what she admires aloud.",
+    "Muthu's line, 'I'd like one thing in this fort that I did on purpose': the motive is muddled, because he has just done the letter on purpose. Replace it with a clear reason, such as wanting one gift that goes unreported and unpaid, or a debt to Devan. Also place the Company so it is not in the lower court while it was apparently at the shelf; for example, open with them climbing in behind her."
+  ],
+  "reader_question": "How can Neela pass inside the palace when a surgeon reads guards' wrists, and hers carry eleven years of layered ridges?",
+  "techniques_landed": [
+    9,
+    16,
+    23
+  ],
+  "new_facts_assessment": "The draft lists no new facts, but it adds several. Muthu says the escort drank at his table while lodged in the south range; F807 says gate chamber, so reconcile it. Other additions: the brass-cornered pouch, the kindi spout 'turned left' (versus 'toward the pillow' in F105/F182), Bhaskaran's thirty-to-one goat wager, and the Company waiting in the lower court while it was apparently at the shelf. None is necessary except the cuff details. Log or align them all.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Repetitive tension"
+  ],
+  "average": 3.75,
+  "minimum": 3.0,
+  "passed": true
+}
