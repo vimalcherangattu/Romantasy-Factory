@@ -504,7 +504,7 @@
       ]
     },
     "17": {
-      "status": "passed",
+      "status": "edited",
       "revisions": 0,
       "scores": {
         "reader_question": 4.0,
@@ -518,18 +518,18 @@
       },
       "average": 4.0,
       "flags": [],
-      "words": 2864,
+      "words": 2869,
       "minimum": 3.0,
       "style": {
-        "words": 2585,
+        "words": 2869,
         "banned_hits": {},
         "ai_tell_hits": {},
         "ai_tells_per_1000": 0.0,
-        "top_4gram": "he stood in the",
+        "top_4gram": "it as he had",
         "top_4gram_count": 3,
-        "longest_paragraph_words": 105,
-        "em_dashes_per_1000": 0.39,
-        "reading_ease": 95.0
+        "longest_paragraph_words": 106,
+        "em_dashes_per_1000": 0.35,
+        "reading_ease": 95.7
       },
       "owner_instructions": [
         "KEEP: Devan's withdrawal stays disciplined, not cruel. Keep \"I know,\" said evenly, and the 'not forgiveness, and not the opposite' framing. Do not add any coldness aimed at Neela."
@@ -1950,9 +1950,13 @@
     {
       "at": "2026-10-21T09:11:32",
       "event": "done: S8 line edit ch 16"
+    },
+    {
+      "at": "2026-10-21T09:12:12",
+      "event": "done: S8 line edit ch 17"
     }
   ],
-  "updated_at": "2026-10-21T09:11:32",
+  "updated_at": "2026-10-21T09:12:12",
   "midpoint_chapter": 16,
   "continuity_attempts": 0,
   "continuity_last_errors": null,
