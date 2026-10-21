@@ -656,7 +656,7 @@
       }
     },
     "23": {
-      "status": "passed",
+      "status": "edited",
       "revisions": 2,
       "scores": {
         "reader_question": 5.0,
@@ -672,8 +672,19 @@
       "flags": [
         "needs-owner"
       ],
-      "words": 2974,
-      "minimum": 0.0
+      "words": 2968,
+      "minimum": 0.0,
+      "style": {
+        "words": 2968,
+        "banned_hits": {},
+        "ai_tell_hits": {},
+        "ai_tells_per_1000": 0.0,
+        "top_4gram": "eyes were on the",
+        "top_4gram_count": 3,
+        "longest_paragraph_words": 109,
+        "em_dashes_per_1000": 0.0,
+        "reading_ease": 98.3
+      }
     },
     "24": {
       "status": "passed",
@@ -1577,9 +1588,13 @@
     {
       "at": "2026-10-21T07:32:49",
       "event": "done: S8 line edit ch 22"
+    },
+    {
+      "at": "2026-10-21T07:33:30",
+      "event": "done: S8 line edit ch 23"
     }
   ],
-  "updated_at": "2026-10-21T07:32:49",
+  "updated_at": "2026-10-21T07:33:30",
   "midpoint_chapter": 16,
   "continuity_attempts": 1,
   "continuity_last_errors": 2
