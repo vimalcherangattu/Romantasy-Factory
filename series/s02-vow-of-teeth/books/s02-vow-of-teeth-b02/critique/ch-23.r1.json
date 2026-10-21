@@ -1,0 +1,41 @@
+{
+  "scores": {
+    "reader_question": 5.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 3.0,
+    "stakes_and_cost": 4.0,
+    "prose": 4.0,
+    "continuity": 0.0
+  },
+  "reasons": {
+    "reader_question": "The ending names one man, one key and a lit window. The question is specific and urgent.",
+    "change": "Janu knows, Neela has started repair, and the fort's physician becomes the prime suspect. Knowledge and relationship both shift.",
+    "romance_movement": "Devan looks at her again, and the reason is new: he watched her confess without excuse. He states it a little too neatly.",
+    "shown_chemistry": "The eighty-six court stones, his open hands and the red earth on her sleeve all show care through action, not narration.",
+    "character_logic": "Janu and Neela ring true. Devan shouting for Gopan in an open court with the dispensary window lit is careless for a hunter of an informant.",
+    "stakes_and_cost": "Janu withholds forgiveness, and accusing the old physician now risks the fort. Both costs are real.",
+    "prose": "Clean and restrained, with no banned phrases. There is some explanatory interiority, and Devan's 'I can look at that' speech is on the nose.",
+    "continuity": "'I sat on the bench' at the assize conflicts with F572, where Neela was absent. Gopan's month-long fever conflicts with F043."
+  },
+  "fixes": [
+    "'Rema read it out at the assize, and I sat on the bench': this breaks continuity, because F572 has Neela absent from the witness bench at the assize. Rewrite so she heard it another way. For example: 'Every man in this fort can tell you how she was found. I've heard it told at the well and let them tell it.' The confession of complicity stays intact.",
+    "'Then he turned his head and called across the court, \"Gopan!\"': this is a character-logic failure. Devan suspects an informant inside the fort, yet he shouts with the dispensary window burning. Have him wait until Gopan reaches the stair lamps on his round, then crouch and speak low. Add one beat where Neela glances at the lit window before anyone says 'physician'. That glance sharpens the final image.",
+    "'And the fever year I lay a month' and 'I looked down from the stair, saw the lock': these break continuity and logic. F043 says Gopan missed only one hour in the fever year, and the grate is hidden from above. Change it to 'the fever year I kept the chain from a cot and the sergeant's lads walked my rounds', and have him say he checked the lock by feel from the outside path before the lantana closed it."
+  ],
+  "reader_question": "Did Eravi, the fort's kindly physician, open the old postern for the bear that killed Asha, and is he the guild's eyes inside Kettamala?",
+  "techniques_landed": [
+    24,
+    20,
+    12
+  ],
+  "new_facts_assessment": "The postern refit explanation (step lip, lantana, absence in the fever year) is needed and fair. However, the month abed conflicts with F043 ('missed one hour'), and 'looked down from the stair, saw the lock' contradicts the grate being hidden from above. The old lock moved to new iron is a good, necessary clue that ties the key to Eravi.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Irrational behaviour to extend plot"
+  ],
+  "average": 3.5,
+  "minimum": 0.0,
+  "passed": false
+}
