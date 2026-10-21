@@ -7,33 +7,35 @@
     "character_logic": 4.0,
     "stakes_and_cost": 4.0,
     "prose": 4.0,
-    "continuity": 0.0
+    "continuity": 5.0
   },
   "reasons": {
-    "reader_question": "The marriage question is sharp. The unbroken green seal adds a second specific gap about the queen.",
-    "change": "Knowledge shifts completely: release proven false, Neela named lookout, the queen's hand exposed. The relationship shifts from trust to rupture.",
-    "romance_movement": "There is a new reason for distance: a past crime neither chose. 'I know' without forgiveness is fresh, not a replayed refusal.",
-    "shown_chemistry": "Devan watching her covering hand, 'Leave it', and her not following show mutual understanding through action.",
-    "character_logic": "Her hand-covering method, Devan's evidentiary seal logic and his walk all fit smart versions of them.",
-    "stakes_and_cost": "Every word she reads costs her. The next choice (follow him, open the seal) is loaded, though not yet framed as a decision.",
-    "prose": "Clean and concrete with a strong reading rhythm. A few stock similes ('sleeping child in a cradle', 'something moved behind his eyes') and many 'She did not' openings.",
-    "continuity": "'The warden's sister' conflicts with F401/F440: six years ago Devan's father was warden, so Asha was the warden's daughter."
+    "reader_question": "Clear: can Devan stay with the lookout at Asha's death? The unbroken green seal adds a second, sharper hook.",
+    "change": "A major knowledge shift. Both learn the fort, Vellan's hand and her role together, and release is proven a lie.",
+    "romance_movement": "New reason for distance: a crime neither chose. 'I know' without forgiveness lands, though Devan's interior cost stays offstage.",
+    "shown_chemistry": "Shown through action: her hand covering the next line, him watching it, squaring the leaves, the kindi memory, her giving him room.",
+    "character_logic": "The covered-hand method is smart and in character. Reading 'Released' first is self-serving but announced honestly.",
+    "stakes_and_cost": "The cost is felt, but the coming choice (the leaf before Rema, her exposure) is only implied, never named.",
+    "prose": "Tight and concrete. A few 'It was not X. It was Y.' turns and one over-explained callback paragraph.",
+    "continuity": "Matches F549 to F556, F182, F179, F325, F329 and F515. 'Warden's daughter' follows F555, not the beat's 'sister'."
   },
   "fixes": [
-    "'Kettamala, the warden's sister, the west stair.' Continuity conflict: Devan became warden five years ago (F401, F440, timeline), so a six-year-old leaf would read 'the warden's daughter'. Change the leaf text here and in new-facts F552. Optionally add one line after it, Devan saying 'My father was warden then,' so the cipher lands as his family's fact.",
-    "'as carefully as a man lays a sleeping child in a cradle' and 'Something moved behind his eyes and was put away.' These are stock images and weaken the climax. Replace them with character-specific action: he squares the leaves the way he squares the gate roll at a change of watch. For the second, use a physical tell already on file, such as his hands going flat on his knees.",
-    "'She had been called through that door eleven times, once before each contract.' The count is ambiguous: she had twelve contracts including Devan's, and the lookout job was Thirty's contract, not hers. Say 'twelve times', or add a clause that the lookout night came with no summons. That small absence would sharpen the reveal."
+    "At 'The parrot newel, smooth as a river stone under her palm', the callback is signposted. The list of every reread clue is followed by two summary lines ('She had thought it a nerve...', 'She had held a lamp at the foot...'). Cut both summaries. Keep the newel, the step and Janu's ten paces, then end on a physical act: her palm closing as if on the beak. Trust the reader to connect it.",
+    "At 'It was not forgiveness, and it was not the opposite', the AI-tell 'not X, not Y' construction appears again after 'It was not a movement. It was the stopping of one.' Keep the stair-stopping line. Replace the forgiveness line with a concrete beat: Devan's hands stay flat on his knees, or he says 'I know' and looks at the leaf, not at her.",
+    "At 'His cloak hung on the peg by the door, where he had put it that morning', the staging is off: they have only just entered Chathu's room. Change it to 'where he had hung it coming in'. In the same passage, add one line of Neela foreseeing the cost: Rema will read this leaf, and her number goes on a crown record. That makes the next decision's price explicit."
   ],
-  "reader_question": "Can Devan stay married to the woman who held the lamp at his sister's death, and what has the queen sealed inside the green quire?",
+  "reader_question": "Can Devan and Neela's marriage survive her being the lookout at his sister's murder, and what does the queen's sealed quire hide?",
   "techniques_landed": [
     17,
     3,
     12
   ],
-  "new_facts_assessment": "Kennel tags, the Released leaf, Vellan as Thirty, the Keeper's quire and the green-sealed quire are all necessary and consistent with F443/F480/F526/F070. The blindfold-and-lamp memory fits the bible. Asha's leaf text (F552) needs 'the warden's daughter' to match the timeline. 'Third cage from the end' fits F550.",
+  "new_facts_assessment": "The draft lists no new facts, but it adds some. The hook mark on the queen's quire, matching the Keeper's hook, is a new plot link; it should be logged and checked against F575 (hook = delivered) and F664. Also unlisted: the tin on Chathu's shelf, the abacus and yearly account books, and Devan's cloak on a peg in Chathu's room. All are harmless, but the hook link must be logged.",
   "content_rule_violation": false,
-  "failure_modes": [],
-  "average": 3.62,
-  "minimum": 0.0,
-  "passed": false
+  "failure_modes": [
+    "Twists without setup (risk: signposted callback in the rereading paragraph)"
+  ],
+  "average": 4.25,
+  "minimum": 4.0,
+  "passed": true
 }
