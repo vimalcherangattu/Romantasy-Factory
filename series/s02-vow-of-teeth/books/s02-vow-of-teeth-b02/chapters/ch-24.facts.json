@@ -2,28 +2,18 @@
   "facts": [
     {
       "category": "knowledge",
-      "fact": "Eravi came to Kettamala twenty years ago at forty from a coast clinic; a tapper's widow sold him cheap Resin House poppy and willow bark, paid for in news of weather and sickness. Six years ago a big gentle-spoken guild man asked him to open the old slop-gate postern for one night; Eravi wrote Asha's death up as a bear and kept the key.",
-      "why": "needed because the beat requires his twenty-year trade and the six-year-old postern unlocking."
-    },
-    {
-      "category": "knowledge",
-      "fact": "Eravi gave the guild three pieces of news since the wedding: the sword hilt toward Neela (seen while sitting by Devan's sickbed), the cart order overheard in the passage outside the sickroom, and the drained west stair lamps. He was told the lamps were only meant to frighten.",
-      "why": "needed because the beat lists what he passed on."
+      "fact": "A note in the salve pot, a week before tonight, asked Eravi how many the Resin House holds and on which day the pages go back. Eravi asked Neela (ch 22), got no answer, and wrote that he did not know; Chathu does not have the reading day.",
+      "since": "s02-oath-of-claws-b02 ch 24"
     },
     {
       "category": "plot",
-      "fact": "Devan holds Eravi in the gate chamber over the padippura, under Bhaskaran's man, writing a dated account for Rema.",
-      "why": "needed to dispose of the informant before the next chapter."
+      "fact": "Devan orders Bhaskaran to send his best rider to Vasu at the Resin House at first light, because the wood road cannot be ridden by night; the horse is saddled in the yard when Vasu arrives first, so the warning is too late.",
+      "since": "s02-oath-of-claws-b02 ch 24"
     },
     {
-      "category": "name",
-      "fact": "Bhaskaran is at Kettamala; his men under Vasu (mother keeps ducks at Kalladi) were left at the Resin House with Pavi, and Vasu is the rider who comes off the wood road at first grey.",
-      "why": "needed because the beat has Bhaskaran at the fort and his lads locked out."
-    },
-    {
-      "category": "relationship",
-      "fact": "Devan and Muthu agree he will ask Muthu straight in future and Muthu will say 'I can't' when he cannot answer.",
-      "why": "needed for the apology and Muthu accepting it."
+      "category": "knowledge",
+      "fact": "Bhaskaran rode back from the Resin House with Devan that morning; Vasu leads the six men left there.",
+      "since": "s02-oath-of-claws-b02 ch 24"
     }
   ]
 }
