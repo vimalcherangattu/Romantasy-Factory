@@ -3,40 +3,37 @@
     "reader_question": 4.0,
     "change": 5.0,
     "romance_movement": 4.0,
-    "shown_chemistry": 3.0,
-    "character_logic": 3.0,
-    "stakes_and_cost": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 4.0,
+    "stakes_and_cost": 5.0,
     "prose": 3.0,
-    "continuity": 0.0
+    "continuity": 5.0
   },
   "reasons": {
-    "reader_question": "The final 'Yes' under oath, with the unopened green-thread case, leaves a sharp question about what the crown now does to Neela and Devan.",
-    "change": "Asha's name goes on record, the conspiracy is found, and Neela exposes herself publicly. Knowledge and power both shift hard.",
-    "romance_movement": "The reason is new: she overrides his offer to carry the cost, saying 'It was never only yours.' His response is told more than played.",
-    "shown_chemistry": "The leaf handover, his steady fingers and the wound-share drag work. The win/grief paragraph narrates feeling instead of showing a response.",
-    "character_logic": "Neela's choice is earned. But Devan announcing 'under whose seal' before Muthu and the queen's justice tips off the crown, which a careful Devan wouldn't do.",
-    "stakes_and_cost": "Neela pays with her name on a crown record and an oath confession. Devan's next move now risks his office.",
-    "prose": "Chathu's testimony is garbled, the Asha/'girl on the stair' sentence muddles referents, and Janu's ten-pace line is misplaced in the hall.",
-    "continuity": "Rema's escort left by the goat path (F474, F642) yet stand in the hall. Devan carried Asha's note 'six years' though he found it in B1 ch12."
+    "reader_question": "The 'Yes' ending lands hard, but the beat's specific question about the queen's sealed writ on harbouring is only faintly seeded.",
+    "change": "Asha's death is now on record, and Neela is a self-declared odiyan under oath before sixty witnesses. Power and knowledge both flip.",
+    "romance_movement": "He offered to carry the cost and she takes it from him. His public hand over hers is a new, chosen alliance.",
+    "shown_chemistry": "Shown through acts: the wrist-drag, 'You told me what you'd do. I decided the rest,' and the hand placed where the hall can see.",
+    "character_logic": "Both choices fit their arcs. Devan's attempt to 'read' a cipher leaf he cannot read is shaky, and so is his claim about a document.",
+    "stakes_and_cost": "Neela's confession puts her name on a crown record as a rogue. Devan chooses not to shield her, and both know what it costs.",
+    "prose": "Clean and quotable in places. The 'did not look/hadn't turned' tic recurs about six times, and 'counted every tick of the sun' is awkward.",
+    "continuity": "No hard conflict. Wound-share, the leaf wording, the lamp count, Rema's age and the green case all match the facts."
   },
   "fixes": [
-    "'Rema's First Guard stood at the dais step' and 'Fourth Guard, with her blistered heel': continuity break, because the escort left on foot by the goat path (F474, F500, F642). Cut both guards and give the dais step to Bhaskaran's men. Keep 'with her escort shut out' only as past-tense context, or change it to 'alone'.",
-    "'He had carried that line six years like a coal': continuity break, because Devan found the note under the camphor block in book 1 ch12 (F115, F418). Change to 'since the night he found it under the camphor block'. Also check 'in a lamplit pit with a stolen book' against where he said 'My father was warden then' (ch16 at the Resin House), and correct the location.",
-    "'seven years since the cold month, six years gone' and 'set against the warden's daughter's keeping': prose failure, garbled testimony. Rewrite in Chathu's clean ledger voice, for example 'The cold month, six years gone, by the Keeper's hand. Four slashes paid, one hook delivered.' Also fix 'It had never occurred to anyone...' so it clearly means Neela. Replace Janu's hall 'ten-pace line' with a hall-specific boundary, such as the hearth step."
+    "At 'I hold one document more. I will not lay', the reader can't tell which document is meant, since the green-thread quire was pointedly buckled under his flap. Devan hasn't read that sealed quire and never lies. Make explicit that he means the payment writ he holds back (not on his person). Or have him say only 'what it concerns, I'll say there,' so his statement stays strictly true.",
+    "At 'Her eyes went to the sealed case at her feet', the glance is too vague to seed the beat's outgoing question. Tie it to Rema's posted order from ch 28, which barred aid to rogue odiyans on pain of the queen's displeasure. Add one line in which her hand rests on the case's sunbird wax as she frames the oath, so the reader carries out a question about what the crown has already written.",
+    "At 'He drew breath to read, and a bench scraped', Devan cannot read guild cipher (F485). Give him his own plain-hand transcription (F589) laid beside the leaf, which makes Neela's reading from the original matter more. Separately, cut half of the 'She did not look at him/hadn't turned' beats. Keep the last one, 'She did not look for him', so it lands."
   ],
-  "reader_question": "Now that Neela has sworn she is an odiyan before the queen's justice, what will the queen's sealed writ do to the warden who harbours her?",
+  "reader_question": "Now that Neela has sworn she is an odiyan before Rema's pen, what will the crown do to her and to the warden who married her?",
   "techniques_landed": [
     15,
     16,
     20
   ],
-  "new_facts_assessment": "F644 (noon hearing, Chathu ungagged by day) is necessary and consistent. F646 is necessary and makes Neela's stand a choice. F645 risks confusion with the ledger quire in green thread under the queen's wax that Devan holds (F554); state that Rema's case is separate.",
+  "new_facts_assessment": "new-facts.json is empty, but the draft adds unlisted facts. Rema's green case is 'her own' (consistent with F645). Chathu has kept accounts forty years (fine at 61). Janu keeps to the hearth step and then sits by Neela's place: this is significant, and if Neela has not yet confessed to Janu it may pre-empt the bible's west-stair confession. 'Sixty men' in the hall sits uneasily with Bhaskaran's men still holding the cairn camp (F637); make it 'the garrison' or 'forty-odd'. All of these should be listed.",
   "content_rule_violation": false,
-  "failure_modes": [
-    "Narrated-only chemistry",
-    "Irrational behaviour to extend plot"
-  ],
-  "average": 3.25,
-  "minimum": 0.0,
-  "passed": false
+  "failure_modes": [],
+  "average": 4.25,
+  "minimum": 3.0,
+  "passed": true
 }

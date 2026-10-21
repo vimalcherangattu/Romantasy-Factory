@@ -1,0 +1,39 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 5.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 4.0,
+    "stakes_and_cost": 5.0,
+    "prose": 3.0,
+    "continuity": 5.0
+  },
+  "reasons": {
+    "reader_question": "The 'Yes' ending lands hard, but the beat's specific question about the queen's sealed writ on harbouring is only faintly seeded.",
+    "change": "Asha's death is now on record, and Neela is a self-declared odiyan under oath before sixty witnesses. Power and knowledge both flip.",
+    "romance_movement": "He offered to carry the cost and she takes it from him. His public hand over hers is a new, chosen alliance.",
+    "shown_chemistry": "Shown through acts: the wrist-drag, 'You told me what you'd do. I decided the rest,' and the hand placed where the hall can see.",
+    "character_logic": "Both choices fit their arcs. Devan's attempt to 'read' a cipher leaf he cannot read is shaky, and so is his claim about a document.",
+    "stakes_and_cost": "Neela's confession puts her name on a crown record as a rogue. Devan chooses not to shield her, and both know what it costs.",
+    "prose": "Clean and quotable in places. The 'did not look/hadn't turned' tic recurs about six times, and 'counted every tick of the sun' is awkward.",
+    "continuity": "No hard conflict. Wound-share, the leaf wording, the lamp count, Rema's age and the green case all match the facts."
+  },
+  "fixes": [
+    "At 'I hold one document more. I will not lay', the reader can't tell which document is meant, since the green-thread quire was pointedly buckled under his flap. Devan hasn't read that sealed quire and never lies. Make explicit that he means the payment writ he holds back (not on his person). Or have him say only 'what it concerns, I'll say there,' so his statement stays strictly true.",
+    "At 'Her eyes went to the sealed case at her feet', the glance is too vague to seed the beat's outgoing question. Tie it to Rema's posted order from ch 28, which barred aid to rogue odiyans on pain of the queen's displeasure. Add one line in which her hand rests on the case's sunbird wax as she frames the oath, so the reader carries out a question about what the crown has already written.",
+    "At 'He drew breath to read, and a bench scraped', Devan cannot read guild cipher (F485). Give him his own plain-hand transcription (F589) laid beside the leaf, which makes Neela's reading from the original matter more. Separately, cut half of the 'She did not look at him/hadn't turned' beats. Keep the last one, 'She did not look for him', so it lands."
+  ],
+  "reader_question": "Now that Neela has sworn she is an odiyan before Rema's pen, what will the crown do to her and to the warden who married her?",
+  "techniques_landed": [
+    15,
+    16,
+    20
+  ],
+  "new_facts_assessment": "new-facts.json is empty, but the draft adds unlisted facts. Rema's green case is 'her own' (consistent with F645). Chathu has kept accounts forty years (fine at 61). Janu keeps to the hearth step and then sits by Neela's place: this is significant, and if Neela has not yet confessed to Janu it may pre-empt the bible's west-stair confession. 'Sixty men' in the hall sits uneasily with Bhaskaran's men still holding the cairn camp (F637); make it 'the garrison' or 'forty-odd'. All of these should be listed.",
+  "content_rule_violation": false,
+  "failure_modes": [],
+  "average": 4.25,
+  "minimum": 3.0,
+  "passed": true
+}
