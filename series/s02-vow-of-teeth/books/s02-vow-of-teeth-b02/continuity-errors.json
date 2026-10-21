@@ -2,191 +2,91 @@
   "open_errors": [
     {
       "id": "E01",
-      "chapter": 8,
-      "severity": "major",
-      "category": "knowledge",
-      "issue": "In ch 4 Devan argues outright that Muthu is the queen's man ('Muthu is the queen's... The queen's household'). In ch 8 the narration says he had only ever suspected Ittan and had never thought of the house with the green wax.",
-      "fix": "Have Devan's ch 8 reflection admit he had already guessed the palace and was shaken by the six years, not by the queen's household itself.",
+      "chapter": 4,
+      "severity": "minor",
+      "category": "timeline",
+      "issue": "Devan says he has watched Muthu write grey-wax letters 'for a year'. Everywhere else he has seen them for six years: ch 8 counts six years of letters, ch 19 says Muthu 'had written to Kodiyur every month for six years', and ch 24 says 'For six years I let you carry grey letters'.",
+      "fix": "Change 'for a year' to 'for six years'.",
       "patches": [
         {
-          "chapter": 8,
-          "find": "Muthu had told him the grey-sealed letters went to his mother in Kodiyur, and Devan had believed it, and then he had stopped believing it and had thought *Ittan*.",
-          "replace": "Muthu had told him the grey-sealed letters went to his mother in Kodiyur, and Devan had believed it, and then he had stopped believing it and had thought *Ittan*, and then *the palace*."
-        },
-        {
-          "chapter": 8,
-          "find": "He had not thought of the house with the green wax, and the sunbird, and a payment writ dated seven weeks before his wedding.",
-          "replace": "He had guessed the palace. He had not guessed six years of it, or how near those letters sat to the green wax, and the sunbird, and a payment writ dated seven weeks before his wedding."
+          "chapter": 4,
+          "find": "I've watched him write grey-wax letters for a year.",
+          "replace": "I've watched him write grey-wax letters for six years."
         }
       ]
     },
     {
       "id": "E02",
-      "chapter": 19,
-      "severity": "major",
-      "category": "knowledge",
-      "issue": "Muthu confesses the household slip to Devan in the kalari in ch 9. In ch 19 Devan thinks it is a slip Muthu 'never told me of', and in ch 24 he says Muthu 'still told me nothing'.",
-      "fix": "Make both lines say Muthu told him only in the pit.",
+      "chapter": 5,
+      "severity": "minor",
+      "category": "timeline",
+      "issue": "Neela says Janu told her about Devan's eight years without sparring 'in the second week'. In book 1 Janu told her this in ch 3, the day after the wedding, which is the first week (F047).",
+      "fix": "Change 'second week' to 'first week'.",
       "patches": [
         {
-          "chapter": 19,
-          "find": "He did not say *the reason is a slip you carried in to the Keeper, and never told me of.*",
-          "replace": "He did not say *the reason is a slip you carried in to the Keeper, and told me of only in the pit.*"
-        },
-        {
-          "chapter": 24,
-          "find": "The slip that threatened Ittan's wife came later, and you carried it to him, and you still told me nothing.",
-          "replace": "The slip that threatened Ittan's wife came later, and you carried it to him, and you told me nothing until the pit."
+          "chapter": 5,
+          "find": "Janu told me in the second week. Eight years.",
+          "replace": "Janu told me in the first week. Eight years."
         }
       ]
     },
     {
       "id": "E03",
-      "chapter": 24,
+      "chapter": 7,
       "severity": "minor",
-      "category": "timeline",
-      "issue": "Devan refuses to send a rider at night because 'That wood road drowns a horse in the dark'. Yet he rode that same road alone in the dark three nights earlier (ch 19 to 20).",
-      "fix": "Have Devan cite his own near-drowning on that night ride as the reason.",
+      "category": "knowledge",
+      "issue": "The narration says the words of the tappers' song 'had never come, not past the first verses'. Neela heard Ammu sing the last verse ('the name given back') in book 1 ch 20, and she recalls that line in ch 27 of this book. Read literally, the ch 7 line says she does not know it.",
+      "fix": "Make it clear she knows the last verse from Ammu.",
       "patches": [
         {
-          "chapter": 24,
-          "find": "That wood road drowns a horse in the dark.",
-          "replace": "I rode that road in the dark three nights back and nearly drowned the mare."
+          "chapter": 7,
+          "find": "The words had never come, not past the first verses.",
+          "replace": "The words had never come back to her whole, only the first verses and the last, which Ammu had sung her once."
         }
       ]
     },
     {
       "id": "E04",
-      "chapter": 6,
+      "chapter": 25,
       "severity": "minor",
-      "category": "timeline",
-      "issue": "Devan says he will tell Rema at first light that they have gone, but they agree to ride that same night at full dark, so he will already be on the road at first light.",
-      "fix": "Muthu carries the word to Rema at first light.",
+      "category": "object",
+      "issue": "The five Kettamala men outside the Resin House wall are described in 'Kettamala brown'. Every other description of the garrison has them in grey (ch 28 'Garrison grey', ch 29 and ch 30 'in their grey').",
+      "fix": "Change brown to grey.",
       "patches": [
         {
-          "chapter": 6,
-          "find": "I'll tell her at first light that my wife and I have gone to fetch it.",
-          "replace": "Muthu can tell her at first light that my wife and I have gone to fetch it."
+          "chapter": 25,
+          "find": "five men in Kettamala brown huddled round a cold fire",
+          "replace": "five men in Kettamala grey huddled round a cold fire"
         }
       ]
     },
     {
       "id": "E05",
-      "chapter": 6,
+      "chapter": 25,
       "severity": "minor",
-      "category": "magic",
-      "issue": "Neela says she spent a smear and turned on the night of the execution, which means she was in shape until first light. In the same speech she says she woke in bed in a sweat 'last night', which was that same night.",
-      "fix": "Move the night sweat to an earlier night when she was human.",
+      "category": "knowledge",
+      "issue": "The narration says Devan 'had never seen that face by day'. In ch 7 he watched Vellan cross the Resin House yard in daylight from the ridge and said 'That's him'.",
+      "fix": "Allow for the earlier sighting, which was distant.",
       "patches": [
         {
-          "chapter": 6,
-          "find": "My nails split on the stair this morning, and last night I woke in a sweat that wasn't the rain.",
-          "replace": "My nails split on the stair this morning, and the night the justice came I woke in a sweat that wasn't the rain."
+          "chapter": 25,
+          "find": "He had never seen that face by day, and he knew it, the way you know a stair in the dark.",
+          "replace": "He had seen that face by day only once, from a ridge, too far to read, and he knew it, the way you know a stair in the dark."
         }
       ]
     },
     {
       "id": "E06",
-      "chapter": 7,
-      "severity": "minor",
-      "category": "object",
-      "issue": "From the ridge Devan says the black book is 'no larger than a tally book' (hand-sized). In ch 15 it is 'thick as his forearm' and holds the whole ledger.",
-      "fix": "Drop the size comparison.",
-      "patches": [
-        {
-          "chapter": 7,
-          "find": "It's no larger than a tally book.",
-          "replace": "It's smaller than I thought."
-        }
-      ]
-    },
-    {
-      "id": "E07",
-      "chapter": 7,
-      "severity": "minor",
-      "category": "name",
-      "issue": "Neela describes the forty as 'mostly women, a few boys under twenty'. The forty include grown men such as Thilak (41, a member for twenty-two years), and ch 15 shows 'men and women'.",
-      "fix": "Allow for adult men in the count.",
-      "patches": [
-        {
-          "chapter": 7,
-          "find": "Forty in the yards. Mostly women, a few boys under twenty.",
-          "replace": "Forty in the yards. Mostly women, and men of every age down to boys."
-        }
-      ]
-    },
-    {
-      "id": "E08",
-      "chapter": 11,
-      "severity": "minor",
-      "category": "place",
-      "issue": "In ch 7 Neela says she has never been inside the well house. In ch 11 she and Ammu dropped a pebble down the well as children, which would have meant going in.",
-      "fix": "Have the pebble go in through a shutter gap.",
-      "patches": [
-        {
-          "chapter": 11,
-          "find": "We dropped a pebble down that well.",
-          "replace": "We dropped a pebble down that well, through a gap in the shutter."
-        }
-      ]
-    },
-    {
-      "id": "E09",
-      "chapter": 20,
-      "severity": "minor",
-      "category": "knowledge",
-      "issue": "Devan says the sunbird is 'on my sister's price'. Asha's leaf carries the Keeper's hook (ch 16), and in ch 21 Devan works out that Ittan bought Asha's death while the queen bought his own.",
-      "fix": "Point the sunbird at Devan's own death writ.",
-      "patches": [
-        {
-          "chapter": 20,
-          "find": "It's on my sister's price. It's on your village.",
-          "replace": "It's on my own death. It's on your village."
-        }
-      ]
-    },
-    {
-      "id": "E10",
-      "chapter": 21,
-      "severity": "minor",
-      "category": "object",
-      "issue": "Asha kept her lists on a slate (book 1 ch 12; ch 10 here). The chalk-on-tile method is Neela's own copy of it.",
-      "fix": "Asha used her slate.",
-      "patches": [
-        {
-          "chapter": 21,
-          "find": "He made himself list it, the way Asha used to, with a stub of chalk on the back of a tile.",
-          "replace": "He made himself list it, the way Asha used to, with a stub of chalk on her slate."
-        }
-      ]
-    },
-    {
-      "id": "E11",
-      "chapter": 26,
-      "severity": "minor",
-      "category": "timeline",
-      "issue": "In ch 25 the sun is 'a hand above the trees' on arrival and then 'touched the tops of the nightbark'. Ch 26 opens later with the sun 'a hand and a half above the nightbark', which puts it higher than before.",
-      "fix": "Keep the sun setting.",
-      "patches": [
-        {
-          "chapter": 26,
-          "find": "They had climbed the bare shoulder above the road, and the sun was a hand and a half above the nightbark.",
-          "replace": "They had climbed the bare shoulder above the road, and the sun was sinking into the tops of the nightbark."
-        }
-      ]
-    },
-    {
-      "id": "E12",
-      "chapter": 10,
+      "chapter": 32,
       "severity": "minor",
       "category": "injury",
-      "issue": "Kandan says Raiu is 'not a month in the ground', but Raiu was burned on a pyre (ch 26 'Raiu's pyre', ch 30 'after Raiu burned').",
-      "fix": "Refer to the burning, not a burial.",
+      "issue": "Vellan says the night-guard's wrist scars are 'there, same as yours'. In ch 2, First Guard's wrist shows a single smooth, flat seam, explicitly 'nothing like' Neela's layered ridges, and Neela repeats this in ch 32. Vellan explains the bare throat (paste) but not the smooth seam, so the clue does not resolve under the scar rule (F014).",
+      "fix": "Have Vellan explain why the wrist ridges show as a smooth seam.",
       "patches": [
         {
-          "chapter": 10,
-          "find": "Raiu not a month in the ground, and our lord bows.",
-          "replace": "Raiu not a month burned, and our lord bows."
+          "chapter": 32,
+          "find": "The wrists they hide in cuffs. The scars are there, same as yours.",
+          "replace": "The wrists they hide in cuffs, and a palace surgeon pares the old ridges smooth, so a slipped cuff shows one seam. The scars are there under it, same as yours."
         }
       ]
     }

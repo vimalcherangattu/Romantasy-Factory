@@ -4,174 +4,89 @@
       "id": "E01",
       "chapter": 4,
       "severity": "minor",
-      "category": "relationship",
-      "issue": "Ch 4 says Devan has known Muthu since he was twelve, and Neela puts the friendship at twenty years. Ch 8 says they met when Devan was nine and Muthu twelve, and ch 9 says twenty-three years. Devan is 32 and Muthu 35.",
-      "fix": "Make ch 4 match the nine-and-twelve meeting, and soften Neela's estimate.",
+      "category": "timeline",
+      "issue": "Devan says he has watched Muthu write grey-wax letters 'for a year'. Everywhere else he has seen them for six years: ch 8 counts six years of letters, ch 19 says Muthu 'had written to Kodiyur every month for six years', and ch 24 says 'For six years I let you carry grey letters'.",
+      "fix": "Change 'for a year' to 'for six years'.",
       "patches": [
         {
           "chapter": 4,
-          "find": "He had known Muthu since he was twelve.",
-          "replace": "He had known Muthu since he was nine and Muthu twelve."
-        },
-        {
-          "chapter": 4,
-          "find": "I think you're a man who has kept one friend for twenty years and doesn't mean to lose him in a night.",
-          "replace": "I think you're a man who has kept one friend for more than twenty years and doesn't mean to lose him in a night."
+          "find": "I've watched him write grey-wax letters for a year.",
+          "replace": "I've watched him write grey-wax letters for six years."
         }
       ]
     },
     {
       "id": "E02",
-      "chapter": 6,
+      "chapter": 5,
       "severity": "minor",
-      "category": "magic",
-      "issue": "Neela says she spent one of Ammu's two smears 'the night after the justice came'. That night is ch 3, and she spends it human: in the dispensary after nightfall, then coaching Devan in the hall. Ch 4's night she lies awake beside him. The only open night is after the execution, when the escort walked out.",
-      "fix": "Move the spent smear to the night of the execution.",
+      "category": "timeline",
+      "issue": "Neela says Janu told her about Devan's eight years without sparring 'in the second week'. In book 1 Janu told her this in ch 3, the day after the wedding, which is the first week (F047).",
+      "fix": "Change 'second week' to 'first week'.",
       "patches": [
         {
-          "chapter": 6,
-          "find": "I spent the other the night after the justice came, on the ridge, to see who walked the road.",
-          "replace": "I spent the other the night of the execution, on the ridge, to see who walked the road."
+          "chapter": 5,
+          "find": "Janu told me in the second week. Eight years.",
+          "replace": "Janu told me in the first week. Eight years."
         }
       ]
     },
     {
       "id": "E03",
-      "chapter": 4,
+      "chapter": 7,
       "severity": "minor",
-      "category": "object",
-      "issue": "Ittan asked in ch 1 (and Devan told Rema in ch 2) that his wife's willow bark be boiled slowly. In ch 4 he says her medicine is a sweet honey-and-root syrup and 'she won't take the bitter', which contradicts the bitter willow bark.",
-      "fix": "Make the syrup what she takes after the willow bark.",
+      "category": "knowledge",
+      "issue": "The narration says the words of the tappers' song 'had never come, not past the first verses'. Neela heard Ammu sing the last verse ('the name given back') in book 1 ch 20, and she recalls that line in ch 27 of this book. Read literally, the ch 7 line says she does not know it.",
+      "fix": "Make it clear she knows the last verse from Ammu.",
       "patches": [
         {
-          "chapter": 4,
-          "find": "The physicians make it, honey and root, the sweet kind. She won't take the bitter.",
-          "replace": "The physicians make it, honey and root, the sweet kind, to take after the willow bark. She won't take the bark without it."
+          "chapter": 7,
+          "find": "The words had never come, not past the first verses.",
+          "replace": "The words had never come back to her whole, only the first verses and the last, which Ammu had sung her once."
         }
       ]
     },
     {
       "id": "E04",
-      "chapter": 15,
+      "chapter": 25,
       "severity": "minor",
       "category": "object",
-      "issue": "Ch 13 has eight men with Bhaskaran leading them. Ch 18 splits the Kettamala men two with Devan and six under Bhaskaran. Ch 21 and 24 leave six under Vasu after Bhaskaran rides home, so the party was nine. Ch 15 counts 'Eight in all' with Bhaskaran among them.",
-      "fix": "Count eight spearmen plus Bhaskaran in the yard.",
+      "issue": "The five Kettamala men outside the Resin House wall are described in 'Kettamala brown'. Every other description of the garrison has them in grey (ch 28 'Garrison grey', ch 29 and ch 30 'in their grey').",
+      "fix": "Change brown to grey.",
       "patches": [
         {
-          "chapter": 15,
-          "find": "Eight in all. They ran in a line across the yard with Bhaskaran at the head, his face a shut gate.",
-          "replace": "Eight spears, and Bhaskaran with them. They ran in a line across the yard with Bhaskaran at the head, his face a shut gate."
+          "chapter": 25,
+          "find": "five men in Kettamala brown huddled round a cold fire",
+          "replace": "five men in Kettamala grey huddled round a cold fire"
         }
       ]
     },
     {
       "id": "E05",
-      "chapter": 16,
+      "chapter": 25,
       "severity": "minor",
       "category": "knowledge",
-      "issue": "Ch 16 says Neela's palm 'had touched it once, at twenty-one'. She laid her hand on the newel in ch 2 before Rema. Ch 22 says she touched it once, for Rema, and her ch 22 memory of the lookout night has no touch.",
-      "fix": "Point the remembered touch at the ch 2 morning.",
+      "issue": "The narration says Devan 'had never seen that face by day'. In ch 7 he watched Vellan cross the Resin House yard in daylight from the ridge and said 'That's him'.",
+      "fix": "Allow for the earlier sighting, which was distant.",
       "patches": [
         {
-          "chapter": 16,
-          "find": "The parrot newel, smooth as a river stone under a palm that had touched it once, at twenty-one, in the dark.",
-          "replace": "The parrot newel, smooth as a river stone under her palm the morning Rema came."
+          "chapter": 25,
+          "find": "He had never seen that face by day, and he knew it, the way you know a stair in the dark.",
+          "replace": "He had seen that face by day only once, from a ridge, too far to read, and he knew it, the way you know a stair in the dark."
         }
       ]
     },
     {
       "id": "E06",
-      "chapter": 18,
-      "severity": "minor",
-      "category": "timeline",
-      "issue": "Neela tells the fourth contract (the barge boy) 'and then the buyer', which makes the buyer the fifth. The next line, 'the fifth through the ninth', counts the fifth twice.",
-      "fix": "Start the run at the sixth.",
-      "patches": [
-        {
-          "chapter": 18,
-          "find": "She gave him the fifth through the ninth.",
-          "replace": "She gave him the sixth through the ninth."
-        }
-      ]
-    },
-    {
-      "id": "E07",
-      "chapter": 19,
-      "severity": "minor",
-      "category": "timeline",
-      "issue": "Devan tells Rema he stayed three nights at the Resin House. He was there the raid night (ch 14 to 15) and the night across the sill (ch 17), left in the afternoon of ch 18, and spent the third night riding.",
-      "fix": "Two nights.",
-      "patches": [
-        {
-          "chapter": 19,
-          "find": "A day's ride. I stayed three nights.",
-          "replace": "A day's ride. I stayed two nights."
-        }
-      ]
-    },
-    {
-      "id": "E08",
-      "chapter": 19,
-      "severity": "major",
-      "category": "knowledge",
-      "issue": "Devan recalls taking the post-key while the grey packet was still locked in the strongbox and Muthu did not know he was known. In ch 9 he broke the packet open with Muthu beside him, after Muthu confessed, and only then took the key.",
-      "fix": "Match the recollection to ch 9.",
-      "patches": [
-        {
-          "chapter": 19,
-          "find": "He had worn it since the day he took it from Muthu's belt, with a grey packet locked in the strongbox and a captain who wrote to Kodiyur every month and did not know he was known.",
-          "replace": "He had worn it since the day he took it from Muthu's belt, with a grey packet broken open on the long table and a captain who had written to Kodiyur every month for six years."
-        }
-      ]
-    },
-    {
-      "id": "E09",
-      "chapter": 27,
-      "severity": "minor",
-      "category": "magic",
-      "issue": "Vellan turns back 'streaked at the throat and wrists where the forced resin had torn him'. He was never forced: he is Chathu's enforcer, he was not among the thirty-nine on the wall, and ch 32 shows his scars as old and pale. Only a forced turning tears.",
-      "fix": "Show old scars instead of fresh tears.",
-      "patches": [
-        {
-          "chapter": 27,
-          "find": "and a big bearded man lay shuddering among the roots, bare to the waist, streaked at the throat and wrists where the forced resin had torn him.",
-          "replace": "and a big bearded man lay shuddering among the roots, bare to the waist, the old resin scars pale at his throat and wrists."
-        }
-      ]
-    },
-    {
-      "id": "E10",
-      "chapter": 30,
-      "severity": "minor",
-      "category": "timeline",
-      "issue": "Kandan is said to have called Neela a witch at the barracks door 'the week Raiu burned'. Neela was away at the Resin House that week. In ch 10 she overhears him from behind the barracks door, with Raiu 'not a month in the ground'.",
-      "fix": "Match ch 10's place and timing.",
-      "patches": [
-        {
-          "chapter": 30,
-          "find": "He had said it flat at the barracks door the week Raiu burned, with the scar white through his brow and his mother's lame leg in his voice.",
-          "replace": "He had said it flat behind the barracks door, not a month after Raiu burned, with the scar white through his brow and his mother's lame leg in his voice."
-        }
-      ]
-    },
-    {
-      "id": "E11",
       "chapter": 32,
       "severity": "minor",
-      "category": "object",
-      "issue": "In ch 28 Neela cuts the back half of the ledger from its cover and wraps it, but the chapter then says she 'kept only' the contract books and the green quire. Ch 32 has her pull out 'the whole bound body' of the ledger and open its back half.",
-      "fix": "Ch 28 keeps the cut-away back half; ch 32 pulls that out instead of a whole bound book.",
+      "category": "injury",
+      "issue": "Vellan says the night-guard's wrist scars are 'there, same as yours'. In ch 2, First Guard's wrist shows a single smooth, flat seam, explicitly 'nothing like' Neela's layered ridges, and Neela repeats this in ch 32. Vellan explains the bare throat (paste) but not the smooth seam, so the clue does not resolve under the scar rule (F014).",
+      "fix": "Have Vellan explain why the wrist ridges show as a smooth seam.",
       "patches": [
         {
-          "chapter": 28,
-          "find": "She kept only what she had meant to keep: the contract books, loose-stitched, and the last quire in its green thread under the wax of a spread-winged bird.",
-          "replace": "She kept the emptied back half, wrapped, and what she had meant to keep: the contract books, loose-stitched, and the last quire in its green thread under the wax of a spread-winged bird."
-        },
-        {
           "chapter": 32,
-          "find": "She pulled the ledger from the pack, the whole bound body of it, and opened the back half where the pages had been cut away.",
-          "replace": "She pulled the cut-away back half of the ledger from the pack and opened it where the pages had been cut away."
+          "find": "The wrists they hide in cuffs. The scars are there, same as yours.",
+          "replace": "The wrists they hide in cuffs, and a palace surgeon pares the old ridges smooth, so a slipped cuff shows one seam. The scars are there under it, same as yours."
         }
       ]
     }
