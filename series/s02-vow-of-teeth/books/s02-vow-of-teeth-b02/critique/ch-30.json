@@ -1,41 +1,42 @@
 {
   "scores": {
-    "reader_question": 4.0,
+    "reader_question": 3.0,
     "change": 5.0,
-    "romance_movement": 5.0,
+    "romance_movement": 4.0,
     "shown_chemistry": 4.0,
-    "character_logic": 4.0,
+    "character_logic": 3.0,
     "stakes_and_cost": 4.0,
     "prose": 4.0,
-    "continuity": 0.0
+    "continuity": 5.0
   },
   "reasons": {
-    "reader_question": "Clear and specific: three days, rains, three blocked roads, forty people. Where do they go, and what does vouching for the forty cost?",
-    "change": "He loses fort, office and seal. She goes from wife to public cause. The garrison's loyalty is shown, and Muthu's loyalty shifts to the border.",
-    "romance_movement": "A new reason: love chosen in public at the price of his office. Two declarations before sixty men, and he leaves the final choice to her.",
-    "shown_chemistry": "He draws the hall's eyes off her, walks on her bad-calf side, his hand shakes. Her declaration runs slightly speechy.",
-    "character_logic": "Her offer to leave is smart and costly. His refusal fits a man who never lies. The quire offer arrives with little motive.",
-    "stakes_and_cost": "Loss is irreversible and personal. The road choice ends as an impasse, not a decision with a named price.",
-    "prose": "Clean and concrete, no banned phrases, no em dashes. 'Fist to breast' and 'did not look at her' repeat. The final paragraph is muddled.",
-    "continuity": "Muthu's letters carrying 'her vow words' to the queen conflicts with F433/F297 (packet locked unsent) and F635 (burned)."
+    "reader_question": "The road question lands, but the forty's road was already chosen in book 2 ch 18 (F567). The quiet ending interrupts nothing.",
+    "change": "Value shift lands fully. Devan goes from warden to stripped, the seal goes to Muthu, and Neela becomes the publicly declared reason.",
+    "romance_movement": "Mutual public declarations under real loss. The reason is new: he chooses truth about her over office, and she chooses him again openly.",
+    "shown_chemistry": "Strong responsive care. He draws sixty eyes off her so her count resets, walks on her bad-calf side, and his hand shakes in hers.",
+    "character_logic": "Neela's offer is smart. Her later claim that the forty make her 'vouched' contradicts 'nobody could vouch for her' and should have been raised in the hall.",
+    "stakes_and_cost": "Fort, office and the crown record are named and paid. The final choice costs his safety and her name on a roll.",
+    "prose": "Clean, concrete and readable. There is one cliché ('hung in the rafters like smoke'), a 'jaw worked'/'face worked' echo, and a muddled Muthu-quiet line.",
+    "continuity": "Seal, chip, garrison size, five years as warden, Kandan's slur, Rema's age, the forty at the cairn: all match the bible and continuity facts."
   },
   "fixes": [
-    "'Muthu's grey letters had already carried the bride, and her vow words, south' breaks continuity: the vow packet was locked unsent (F433) and later burned (F635). Change it to Muthu's monthly letters before the wedding reporting the bride's arrival. Drop the vow words. Replace 'south' with 'to Kodiyur' (F427).",
-    "'Before Rema could go on, Devan unbuckled the pack' repeats the ch 31 beat in F656 (Rema leaves the quire with Devan). Either cut the quire exchange from this chapter or flag ch 31 for revision. If you keep it, give Devan a reason to offer it now, such as losing his office and his court standing.",
-    "'Three ways out, and every one of them a road' ends on rumination (Endless monologue) and the list is muddled ('the Keeper's seal gone from it'). End on a choice or a story-caused interruption. For example, Neela says 'The forty, then' and names the cost aloud. Also fix 'over the wound that was not his', which is unclear."
+    "At 'If I go to the forty, I'm a master with a vouched house', the logic is broken and the beat replays ch 18 (F567). Make the cost new and plug the hole. Have Neela say a master vouches others but nobody vouches the master, so the forty are safe on a roll and she stays hunted, now beside forty names. Then end on a story-caused interruption, such as Bhaskaran's one-long-two-short horn, instead of 'Tell me when we go.'",
+    "At 'She knew his lying quiet, and this was its opposite', the line is muddled: quiet is Muthu's lying tell (F383), so readers can't tell whether his oath is true. Rewrite so Neela braces for the lie because he has gone quiet, then sees his eyes hold on Devan's without the half-breath pause. This shows the oath is honest through her established reading of him.",
+    "At 'the word hung in the rafters like smoke' and 'His jaw worked once' / 'His face worked, once', there is a cliché and an echo. Replace the smoke image with a specific hall detail, such as the cistern chain or a pillar count. Change one 'worked' beat to a concrete action, such as Muthu's knuckles whitening on the disc. Also cut 'solid as a wall' or swap it for something only Devan does."
   ],
-  "reader_question": "With three days, the pass shut and every road mud, where can a stripped warden and a confessed odiyan take themselves, and does joining the forty hand the queen Neela's name?",
+  "reader_question": "Where can a stripped warden and a confessed odiyan go in a closed country, and who in the house will tell the queen which road they took?",
   "techniques_landed": [
     19,
     22,
     9
   ],
-  "new_facts_assessment": "Rema's thirty years, the five-day carry, and Muthu named in trust (consistent with F092 custom) are fine. Rema's sunset offer is needed. Rema refusing the green quire here duplicates F656, set in ch 31, so ch 31 would replay it. Keep the refusal in one chapter only and retire the other fact.",
+  "new_facts_assessment": "The draft lists no new facts, but it adds several. (1) The writ's exact wording and the warning that it predates the closing writ's arrival in Kodiyur: necessary and consistent with F648. (2) Devan publicly owning that he has known since the wedding night and that he told a man 'rain': consistent with F054. (3) Neela's claim that going to the forty makes her 'a master with a vouched house': this needs clarifying, because it implies vouching was available and seems to undo the writ's 'unvouched' finding. (4) Rema's warning that 'someone always writes': a useful plant, but it should be logged. The quire hand-back that F711 attributes to ch 30 is absent; ch 31's F656 covers it, so this is not a conflict.",
   "content_rule_violation": false,
   "failure_modes": [
-    "Endless monologue"
+    "Repetitive tension",
+    "Irrational behaviour to extend plot"
   ],
-  "average": 3.75,
-  "minimum": 0.0,
-  "passed": false
+  "average": 4.0,
+  "minimum": 3.0,
+  "passed": true
 }
