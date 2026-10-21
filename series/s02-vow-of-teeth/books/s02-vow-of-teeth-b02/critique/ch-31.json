@@ -4,36 +4,38 @@
     "change": 4.0,
     "romance_movement": 4.0,
     "shown_chemistry": 4.0,
-    "character_logic": 4.0,
+    "character_logic": 3.0,
     "stakes_and_cost": 3.0,
     "prose": 4.0,
-    "continuity": 0.0
+    "continuity": 5.0
   },
   "reasons": {
-    "reader_question": "The quire question is only gestured at in two lines; the reader is never told what it might hold or why it matters now.",
-    "change": "Clear shift from warden and bride to partners, shutters opened, Janu repaired; Devan owns his lie to her.",
-    "romance_movement": "New terms of equals, her eyes kept open, both names spoken; the reason is new, coming from the loss of fort and office.",
-    "shown_chemistry": "Responsive acts throughout: she recalls his wall at his back, he counts with her through the pull, the shared bite turns into laughter.",
-    "character_logic": "Choices fit both characters; giving all the resin to the forty is costly but in character and named as a choice.",
-    "stakes_and_cost": "The ache bill is named well, but the departure is already settled, so the next decision costs little on the page.",
-    "prose": "Concrete and varied. Slips: Devan stands twice, two consecutive paragraphs open with 'He', the stair image echoes, the bite dialogue is muddled.",
-    "continuity": "'Six weeks' of barring conflicts with the timeline (well past 40 days plus the rains); 'not the warden after tomorrow' conflicts with the seal handed over in ch30."
+    "reader_question": "The quire question is named in exposition and again at the close. It has no fresh pressure or clue, so the itch is mild.",
+    "change": "Warden and bride become partners with spoken terms. The barred room is opened and they leave the fort. The value shift lands cleanly.",
+    "romance_movement": "The equals' bargain is a new reason for change, rooted in his wall-at-back need and her leash fear. The two breath-hitch reveals deepen it.",
+    "shown_chemistry": "Responsive acts carry it: the slat line, counting through her dusk pull, his gait, the bite laugh, the open eyes. Narration rarely labels feeling.",
+    "character_logic": "Neela asking 'Why does it hurt me?' ignores a rule she has lived with for a book. Rema handing over crown-sealed evidence is asserted, not motivated.",
+    "stakes_and_cost": "The dusk ache is named and chosen, which is good. Nothing else costs tonight, and the dawn departure carries no threat or decision.",
+    "prose": "Concrete and well paced with no banned phrases. A few soft spots: 'lost the thread of the evening', 'fingers that still did not know how to be gentle'.",
+    "continuity": "Consistent with F298, F323, F344, F627, F637, F652 and F655. Ages are stated before the intimate beat. No conflicts found."
   },
   "fixes": [
-    "Continuity. At 'bar them out of habit, six weeks of it' and 'In six weeks, in all the rooms', the timeline is wrong: the shutters have been barred since the wedding, which is now months ago. Change both to 'since the wedding' or 'all those months'. At 'You're not the warden after tomorrow', Devan was already stripped and gave Muthu the seal in ch30. Change it to 'You're not the warden now'.",
-    "Vague reader question. At 'the quire stitched round in green thread', give one or two lines saying what the quire is: the queen's sealed contracts, possibly linked to the cut-away crown stubs. Say why Rema left it, and that opening it is now theirs to choose. Replace the muddled closer 'The only page nobody held' with a concrete choice or image about breaking that wax on the road.",
-    "Prose slips. Devan stands twice: 'He was on his feet before he knew it' and later 'He stood to meet her'. Cut the second, or have him sit in between. Change the opening of 'He took it out and sat' so it doesn't follow 'He slid...' with the same word. Cut one of the two stair similes ('a stair she had missed in the dark' / 'missing the eleventh step'). Clarify the bite lines 'I feel yours. I felt mine first.'"
+    "At \"That's my bite,\" she said. \"Why does it hurt me?\" the problem is Irrational behaviour. Neela has known the wound-share since book 1, chapter 28. Have her say something knowing instead, such as \"So that's the price of biting you.\" Cut Devan's explanatory reply and go straight to the shared laugh.",
+    "At \"It was his father's rule in an old woman's mouth\" the problem is a signposted callback that fails technique 20. The interior paragraph explains the meaning of the leopard story's end. Cut everything through \"to tell him the opposite\". Keep only the table and Neela's hand finding his. Let the later act of opening the shutters make the connection unstated.",
+    "At \"Rema had looked at that wax, said a seal\" the problem is a weak reader question and thin stakes. Give Rema's choice a reason in one line: she won't carry it to the queen it names. Name the cost of breaking it, which is treason in law. At dawn, have Neela see a folded-wing sunbird faintly pressed into the green thread, so the closing question has a concrete clue."
   ],
-  "reader_question": "What will the queen's green-sealed quire reveal, and what will they do with it now that no court is left to receive it?",
+  "reader_question": "Will they break the queen's seal on the green-stitched quire, and what does it prove about the folded-wing sunbird stubs?",
   "techniques_landed": [
     20,
     25,
     23
   ],
-  "new_facts_assessment": "Dusk pull is consistent with F323. Giving the season's flasks to the forty fits F637, but sits uneasily with F616 (her own boxed flask); add one line that she gave hers too. Unlisted: the cut betel seal was moved into the bundle (fine), Rema never took the quire (needs listing), and Devan's new reason for stopping Janu's stories supersedes F651.",
+  "new_facts_assessment": "The resin flask going to the forty is necessary and consistent with F616, F637 and F655. The Janu reason supersedes F651 and fits F344's order. Rema leaving the quire with Devan is needed for the reader question, but it strains F554 (Rema or the high court would break it) and her role as crown recorder. It needs one line of her reason.",
   "content_rule_violation": false,
-  "failure_modes": [],
-  "average": 3.25,
-  "minimum": 0.0,
-  "passed": false
+  "failure_modes": [
+    "Irrational behaviour to extend plot"
+  ],
+  "average": 3.75,
+  "minimum": 3.0,
+  "passed": true
 }
