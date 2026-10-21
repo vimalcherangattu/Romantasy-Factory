@@ -6,36 +6,36 @@
     "shown_chemistry": 3.0,
     "character_logic": 4.0,
     "stakes_and_cost": 4.0,
-    "prose": 2.0,
-    "continuity": 0.0
+    "prose": 3.0,
+    "continuity": 5.0
   },
   "reasons": {
-    "reader_question": "The herald's ultimatum names a village, a man and a dawn. The thirteen-hour clock sharpens it into one clear question.",
-    "change": "Devan moves from alone to backed: Muthu's paper sortie, the dead named on Kandan's tile, the shared toddy. The value shift lands.",
-    "romance_movement": "The noon welts keep the bargain alive and he holds his post. The 'If you bleed, I won't' refrain repeats ch10 more than it advances.",
-    "shown_chemistry": "The boulder scene shows care through action and restraint. Elsewhere Neela is felt only as the welt and the refrain.",
-    "character_logic": "Devan's restraint, Muthu's loophole and Kandan's question all track. Kandan's 'order he'd defied' grudge is muddled.",
-    "stakes_and_cost": "Kesu's village against the shelf and the bargain is costly either way, and it is tied to a named man and a well.",
-    "prose": "Strong spare voice, but the technique label 'Probable but uncertain' leaks onto the page, alongside several garbled lines and a broken hour count.",
-    "continuity": "'Not for the captain at the ford' contradicts the bible: Devan killed the ford captain with that two-finger strike."
+    "reader_question": "Herald's ultimatum gives a sharp, specific question with a ticking clock (thirteen hours to dawn, nineteen to noon).",
+    "change": "Alone to backed lands: Muthu's sortie, Kandan asks to learn, the first unordered cup. Knowledge shifts with the herald's terms.",
+    "romance_movement": "The bargain is kept and the noon welts work, but he never weighs riding after her, so holding the post costs him nothing on the page.",
+    "shown_chemistry": "Imagining her counting bends and the shaking hand on day four are good. The rest is maintenance of ch10, not new response.",
+    "character_logic": "Muthu's paper loophole and 'Because it works' ring true. The '260 down of 300' count while the line bends doesn't add up.",
+    "stakes_and_cost": "Three named dead, a bad letter, Muthu risking the rope, and Kesu's village set against the pass he swore to hold.",
+    "prose": "Clean and concrete with no banned phrases. But a heavy 'He did not' tic, a retrospective 'Devan said afterward' slip, and 'that fort' at the shelf.",
+    "continuity": "Consistent with F558, F720, F801, F803, F812, F820, F821. 'A month ago' for Kandan's witch remark is loose but not a hard conflict."
   },
   "fixes": [
-    "'Not for the captain at the ford, not now.' Continuity break: the bible and F181 say he killed the ford captain with exactly these two fingers. Rewrite as 'Not since the captain at the ford. Not now.' This also gives Kandan's later line 'The one from the ford' its proper weight.",
-    "'Probable but uncertain. He had stood in this ground' is a technique label leaking into narration (AI tell). Cut the label and keep only concrete uncertainty: the quarter-hour guess and the men knowing he'd said it. Also fix the clock in 'It was thirteen hours to dawn' and 'sixteen hours away': noon falls about six hours after dawn, so use 'nineteen hours'.",
-    "Repair the garbled lines. 'That was Thilak's old tapping word, from Thulasi' becomes plainly 'Thulasi called it.' Replace 'gate chamber's cousin' with a concrete place. Change Muthu's 'forty-one of our men' to a number consistent with his thirty. Untangle 'It's the only reason I can write it down' into one clean line: refugees are the reason he can write down."
+    "End scene, 'There was a well in it, and a cattle shed': the stake is tied only to Kesu (Stakes without depth / Romance buried by plot). Per F789, Ponni, who carried baby Indu up the goat path, sleeps in Kesu's cattle shed. Have Devan name her here. Then the dawn choice also sets Neela's past against her 'choose the line' and the vote clause, which turns the closing question into a romance question.",
+    "Midday scene, 'Two hundred and sixty down, perhaps. Devan had stopped': if 260 of a 300-man assault are down, the line cannot bend (character logic). Recast this as the Thurai reinforcing from the 1,400, or as wounded who climb again. Also reconcile 'Sixty-one on the lip' with the later 'seventy, then sixty-eight' by saying whether Muthu's thirty are counted.",
+    "Opening fight, 'Somewhere under all of it he was saying': he never weighs going after her, so the kept bargain costs nothing. Add two or three lines where the forearm cut makes the road tug at him: the mare in the lines, an hour's ride. Then show him choose the spear. Also trim the 'He did not' tic by half, cut 'Devan said afterward', and change 'in that fort' to 'on that shelf'."
   ],
-  "reader_question": "Will Devan leave the shelf, and break the noon bargain, to save Kesu's village before dawn?",
+  "reader_question": "Will Devan leave the shelf, against the bargain and the Company's vote, to save Kesu's village before dawn?",
   "techniques_landed": [
+    6,
     19,
-    23,
-    6
+    23
   ],
-  "new_facts_assessment": "Chami, Rajan, the ladders, the bronze caps and the dead-tile are necessary and consistent. Muthu's post-book entry matches F806's open plain ink and black wax. 'Without the fort's full strength being counted' is not on the page, and Muthu's 'forty-one of our men' muddles the thirty. Kesu's village at the goat-path foot fits F094 and F741. The first-noon sting is a sound bridge to F812.",
+  "new_facts_assessment": "new-facts.json is empty, but the draft adds facts. Asha wrote his letters from fourteen: fine. Sankaran's mother returned after her husband died: fine. Muthu told the garrison about the ford ('Everyone knows'): plausible but needs logging. Seven villages are in the admiral's reach: necessary. Kandan learned the low guard: fine. 'A month ago' for the witch remark (F647) sits loosely on the timeline and should be softened to 'not long ago'. All of these must be listed.",
   "content_rule_violation": false,
   "failure_modes": [
-    "Repetitive tension"
+    "Romance buried by plot"
   ],
-  "average": 3.0,
-  "minimum": 0.0,
-  "passed": false
+  "average": 3.75,
+  "minimum": 3.0,
+  "passed": true
 }
