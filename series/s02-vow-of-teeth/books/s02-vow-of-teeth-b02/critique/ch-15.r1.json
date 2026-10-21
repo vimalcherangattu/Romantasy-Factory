@@ -1,0 +1,39 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 5.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 4.0,
+    "stakes_and_cost": 4.0,
+    "prose": 3.0,
+    "continuity": 5.0
+  },
+  "reasons": {
+    "reader_question": "Clear exit question: what will Neela do with forty people who now wait on her? Devan's hidden want for one page adds dramatic irony.",
+    "change": "Power changes outright. The master flees, the ledger passes to Devan and then to Neela, and the guild ends the chapter masterless.",
+    "romance_movement": "The new reason is a public refusal of mastery and the night-veto given back to her. Neela's inner response is thin.",
+    "shown_chemistry": "Shown through action: the cloth held out behind him, 'Don't. Eat.', the leaf packet, her thumbnail tell, the welts he feels as hers.",
+    "character_logic": "Raising the book is unplanned but smart. Chathu running is well reasoned. Lowering the spears fits Devan's restraint.",
+    "stakes_and_cost": "Taking the book makes her what Chathu was. The cost is named and witnessed, and the welts make the fight physical.",
+    "prose": "Strong sensory detail is undercut by a POV slip into Vellan, mallet and tally echoes, and stacked 'did not' constructions.",
+    "continuity": "Consistent with the bible and facts. The eight-man party matches F532, and the drafter's earlier F545 'ten men' should be retired."
+  },
+  "fixes": [
+    "'A man inside it knows more. He had hunted in the dark a long time, and he had never once been seen.' This is a POV break: Devan's close third slips into Vellan's history. Replace it with what Devan sees, for example: 'It looked at the lamps the way a man looks at a crowd.' Keep the drag-and-step retreat.",
+    "'there is one page I want more than I have wanted anything in eight years' is a continuity slip: Asha died six years ago, and eight years belongs to the ford. Change it to 'six years' and make the page specific to the contract for the west stair. That sharpens the dramatic irony (lookout: Seventeen) and the exit question, without having him say it aloud.",
+    "There are echoes and stacked negatives: 'like a mallet raised to a post' and 'a sound like a mallet on wet timber', 'flat as a tally' and 'as if reading a tally', and 'did not strike first' used three times in four lines. Recast the first mallet as a woodcutter's maul and cut the middle 'did not strike first now'. Then add one beat of Neela's response as she takes the book, a look or a word to the rows, so the handover is met as well as given."
+  ],
+  "reader_question": "Now that Neela holds the ledger before forty waiting members, will she open it, and what will she find (including Asha's contract)?",
+  "techniques_landed": [
+    6,
+    16,
+    22
+  ],
+  "new_facts_assessment": "The draft lists no new facts, but it adds several. The ridge party is eight men (six over the wall, two through the drain), which matches F532; retire F545's 'ten'. Kuttan is named in the party. Pavi in human form has a white chin scar and a curled right hand, consistent with F539. Chathu's line 'eleven years of feeding' is ambiguous: Neela came at six, 21 years ago. Devan's 'five years warden' matches F391. All of these are needed except the 'eleven years' line, which should be clarified or cut. Log them in new-facts.json.",
+  "content_rule_violation": false,
+  "failure_modes": [],
+  "average": 4.12,
+  "minimum": 3.0,
+  "passed": true
+}

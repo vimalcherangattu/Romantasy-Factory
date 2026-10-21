@@ -268,22 +268,22 @@
       "minimum": 3.0
     },
     "15": {
-      "status": "revised",
+      "status": "passed",
       "revisions": 1,
       "scores": {
         "reader_question": 4.0,
-        "change": 4.0,
+        "change": 5.0,
         "romance_movement": 4.0,
         "shown_chemistry": 4.0,
-        "character_logic": 3.0,
+        "character_logic": 4.0,
         "stakes_and_cost": 4.0,
         "prose": 3.0,
-        "continuity": 0.0
+        "continuity": 5.0
       },
-      "average": 3.25,
+      "average": 4.12,
       "flags": [],
       "words": 2860,
-      "minimum": 0.0
+      "minimum": 3.0
     },
     "16": {
       "status": "pending",
@@ -678,8 +678,12 @@
     {
       "at": "2026-10-21T00:17:37",
       "event": "done: S6 revise ch 15"
+    },
+    {
+      "at": "2026-10-21T00:18:54",
+      "event": "done: S5 critique ch 15"
     }
   ],
-  "updated_at": "2026-10-21T00:17:37",
+  "updated_at": "2026-10-21T00:18:54",
   "midpoint_chapter": 16
 }
