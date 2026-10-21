@@ -5,35 +5,35 @@
     "romance_movement": 4.0,
     "shown_chemistry": 3.0,
     "character_logic": 4.0,
-    "stakes_and_cost": 4.0,
-    "prose": 3.0,
-    "continuity": 0.0
+    "stakes_and_cost": 5.0,
+    "prose": 4.0,
+    "continuity": 5.0
   },
   "reasons": {
-    "reader_question": "The welt at the assize gives a sharp, specific question: what happened to Neela at the House, and how badly?",
-    "change": "Devan wins the yard openly, rearms Muthu's loyalty, spends his last courtesy with the court and walks out on it.",
-    "romance_movement": "The leads are apart, but the shared welt forces 'apart by choice' into a ride he isn't ready for. The reason is new.",
-    "shown_chemistry": "Mostly absent by design. Composing her dry answer and riding 'as if mortal' show the bond, but only briefly.",
-    "character_logic": "The open-hand yard speech and the key returned with a risk he counts fit Devan. Granting Eravi leave absently is earned by distraction.",
-    "stakes_and_cost": "Every choice is priced: the court's third refusal, Kandan's contempt, Muthu possibly writing, abandoning the assize.",
-    "prose": "Clean and concrete overall. It is marred by a garbled Bhaskaran sentence, 'stone-haunted weeks', 'the word no and yes', and an expository key paragraph.",
-    "continuity": "Raiu's mother is dead (F186, F334); Bhaskaran stayed at the Resin House (F564, F566); departure time and nights away conflict (F524)."
+    "reader_question": "Specific and urgent: what cut Neela at the House, and what will walking out on a crown court cost Devan?",
+    "change": "Garrison walks without force, Muthu gets the key back, and Rema's count hits three. Devan abandons the court for Neela.",
+    "romance_movement": "Value shift lands: he chooses her over court and readiness, with the wound-share as a new reason to move.",
+    "shown_chemistry": "She is absent. Composing her dry answer and his body saying her name are good but brief; most of the pull is implied.",
+    "character_logic": "Yard, key and court choices fit him. The patrol's reason is murky, and leaving the court is reckless but earned by the bond.",
+    "stakes_and_cost": "Every choice is priced: the garrison's opinion, Muthu's possible letter, the third refusal on the roll, and the empty witness bench.",
+    "prose": "Lean and quotable ('it was true, and it was thin'). The open-hand motif is overworked, and one muddled 'hurt woman's name' line.",
+    "continuity": "Consistent with F462, F504, F505, F511, F516, F544, F566 and the bible. 'In this yard' protects the never-struck claim."
   },
   "fixes": [
-    "'Who tells Raiu's mother?' is a continuity break: Raiu's mother has been dead four years (F334), and Devan would know it. Change Kandan's line to 'Who tells the next man's mother?' or name Kandan's own mother, Kalyani. Then make Devan's answer 'I do. Every one. Not you.' and keep Raman's widow.",
-    "'on Bhaskaran's word. Bhaskaran, who was at the narrows' is wrong: Bhaskaran stayed at the Resin House (ch 18), and the sentence is garbled. Give the order to the duty corporal, not 'Bhaskaran's second'. Change 'send for Bhaskaran' to 'send for Unni's gate watch', and 'Bhaskaran's lads' to 'Kandan's six'. Rewrite the line as: 'The padippura swung wide for him on Unni's word.'",
-    "'leaves at full dark with his wife' and 'I stayed one night' conflict with the timeline: they rode at first light (F524) and spent several nights at the House. Devan never lies, so fix his answer to 'Three nights.' Change 'eleven hours of road' to 'a night and a morning of road', and change Muthu's 'two days' to 'four days'."
+    "'Somebody had camped on the lip above it' reads as the book-1 scouts Neela killed, so ordering a monsoon patrol now looks unmotivated. Give a fresh trigger: Unni's watch saw a mirror flash from the lip two dusks ago. That makes the order urgent and Kandan's refusal costlier.",
+    "'A hurt woman's name had been lying in his chest since noon' is unclear. It also pre-empts the welt, since he cannot know she is hurt yet. Replace it with the concrete thing nagging him: his parting line, 'Chathu thought the ledger was mercy too', and her face when he said it.",
+    "'He opened it, and showed them.' The open-hand metaphor slides into a literal gesture that Kandan then looks at, and the motif recurs five times through 'paid it open-handed'. Make the gesture literal once (palm turned out at his side), and cut 'paid it open-handed' and 'with his hand still open'."
   ],
-  "reader_question": "What has happened to Neela at the Resin House, and who reached her while Devan sat at Rema's table?",
+  "reader_question": "What has happened to Neela at the Resin House, and will Devan's walkout from Rema's assize cost him the fort?",
   "techniques_landed": [
     7,
-    14,
-    16
+    16,
+    14
   ],
-  "new_facts_assessment": "The post-key return is necessary and consistent with F504 and F505. The Eravi request and salve smell plant C18 well and match F462. The patrol fact is fine, but it leans on book-1 mirror scouts as if they were current. The timeline fact (left at full dark, one night away, eleven hours of road) conflicts with F524 and with chapters 16 to 18.",
+  "new_facts_assessment": "The draft lists none, but it adds Rema's white headcloth, Eravi's spectacles, Janu cleaning when afraid, the welt under the left arm over the ford seam, and Sankaran present at Kettamala. These are harmless texture. Sankaran's whereabouts (he was in the raid party) and the patrol's target should be logged. The Eravi salve clue (C18) is planted fairly and is ambiguous enough.",
   "content_rule_violation": false,
   "failure_modes": [],
-  "average": 3.25,
-  "minimum": 0.0,
-  "passed": false
+  "average": 4.12,
+  "minimum": 3.0,
+  "passed": true
 }

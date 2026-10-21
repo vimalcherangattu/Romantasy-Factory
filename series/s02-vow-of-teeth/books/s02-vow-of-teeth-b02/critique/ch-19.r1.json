@@ -1,0 +1,39 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 3.0,
+    "character_logic": 4.0,
+    "stakes_and_cost": 5.0,
+    "prose": 4.0,
+    "continuity": 5.0
+  },
+  "reasons": {
+    "reader_question": "Specific and urgent: what cut Neela at the House, and what will walking out on a crown court cost Devan?",
+    "change": "Garrison walks without force, Muthu gets the key back, and Rema's count hits three. Devan abandons the court for Neela.",
+    "romance_movement": "Value shift lands: he chooses her over court and readiness, with the wound-share as a new reason to move.",
+    "shown_chemistry": "She is absent. Composing her dry answer and his body saying her name are good but brief; most of the pull is implied.",
+    "character_logic": "Yard, key and court choices fit him. The patrol's reason is murky, and leaving the court is reckless but earned by the bond.",
+    "stakes_and_cost": "Every choice is priced: the garrison's opinion, Muthu's possible letter, the third refusal on the roll, and the empty witness bench.",
+    "prose": "Lean and quotable ('it was true, and it was thin'). The open-hand motif is overworked, and one muddled 'hurt woman's name' line.",
+    "continuity": "Consistent with F462, F504, F505, F511, F516, F544, F566 and the bible. 'In this yard' protects the never-struck claim."
+  },
+  "fixes": [
+    "'Somebody had camped on the lip above it' reads as the book-1 scouts Neela killed, so ordering a monsoon patrol now looks unmotivated. Give a fresh trigger: Unni's watch saw a mirror flash from the lip two dusks ago. That makes the order urgent and Kandan's refusal costlier.",
+    "'A hurt woman's name had been lying in his chest since noon' is unclear. It also pre-empts the welt, since he cannot know she is hurt yet. Replace it with the concrete thing nagging him: his parting line, 'Chathu thought the ledger was mercy too', and her face when he said it.",
+    "'He opened it, and showed them.' The open-hand metaphor slides into a literal gesture that Kandan then looks at, and the motif recurs five times through 'paid it open-handed'. Make the gesture literal once (palm turned out at his side), and cut 'paid it open-handed' and 'with his hand still open'."
+  ],
+  "reader_question": "What has happened to Neela at the Resin House, and will Devan's walkout from Rema's assize cost him the fort?",
+  "techniques_landed": [
+    7,
+    16,
+    14
+  ],
+  "new_facts_assessment": "The draft lists none, but it adds Rema's white headcloth, Eravi's spectacles, Janu cleaning when afraid, the welt under the left arm over the ford seam, and Sankaran present at Kettamala. These are harmless texture. Sankaran's whereabouts (he was in the raid party) and the patrol's target should be logged. The Eravi salve clue (C18) is planted fairly and is ambiguous enough.",
+  "content_rule_violation": false,
+  "failure_modes": [],
+  "average": 4.12,
+  "minimum": 3.0,
+  "passed": true
+}
