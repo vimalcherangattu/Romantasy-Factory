@@ -1,3 +1,34 @@
 {
-  "facts": []
+  "facts": [
+    {
+      "category": "magic",
+      "fact": "Neela counts the ache from a moon after the last night she turns; nobody has tested the count on purpose.",
+      "since": "s02-vow-of-teeth-b02 ch 1"
+    },
+    {
+      "category": "knowledge",
+      "fact": "The pass-village watcher walks the ridge track, so Neela and Devan choose the wood road by the lower ford, half a day longer.",
+      "since": "s02-vow-of-teeth-b02 ch 1"
+    },
+    {
+      "category": "object",
+      "fact": "Ittan's tally book records four slash payments to the Resin House and a hook (delivery); a folded-wing sunbird is inked beside three lines and Neela cannot read it.",
+      "since": "s02-vow-of-teeth-b02 ch 1"
+    },
+    {
+      "category": "place",
+      "fact": "Neela takes the east stair and avoids the west stair without stating a reason.",
+      "since": "s02-vow-of-teeth-b02 ch 1"
+    },
+    {
+      "category": "knowledge",
+      "fact": "Ittan asks only after his wife's willow-bark medicine and glances repeatedly at the dark corner of the guardroom; Neela judges he fears someone other than Devan.",
+      "since": "s02-vow-of-teeth-b02 ch 1"
+    },
+    {
+      "category": "plot",
+      "fact": "Devan will not promise to let Neela choose in a life-or-death moment: 'I won't promise what I can't swear I'd keep.'",
+      "since": "s02-vow-of-teeth-b02 ch 1"
+    }
+  ]
 }
