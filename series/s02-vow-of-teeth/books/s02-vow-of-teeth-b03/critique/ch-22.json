@@ -3,40 +3,39 @@
     "reader_question": 4.0,
     "change": 4.0,
     "romance_movement": 3.0,
-    "shown_chemistry": 2.0,
+    "shown_chemistry": 3.0,
     "character_logic": 3.0,
     "stakes_and_cost": 4.0,
     "prose": 3.0,
     "continuity": 0.0
   },
   "reasons": {
-    "reader_question": "Clear question: what Neela answers before the realm at dusk. A second live itch is why the two sheaves smell different.",
-    "change": "Hidden power turns visible: Janu sits, Neela refuses to kneel, and Neela forces the answer into the open on her terms.",
-    "romance_movement": "Devan's silent stand behind her during the offer lands, but Neela never looks or responds, so the shift stays one-sided.",
-    "shown_chemistry": "The leads share no exchange. One stopped breath is the only responsive beat between them in about 2,900 words.",
-    "character_logic": "The queen is strong and honest. Devan's 'dry little sentence' happens off-page against his promise to say it before he does it.",
-    "stakes_and_cost": "Two nights, fourteen hundred Thurai and a public choice that may cost the spears give real, named cost.",
-    "prose": "Clean and concrete. Echoes 'a step behind' four times and 'eleven' often. Uses the cliché 'That was the horror' and a garbled Ammu line.",
-    "continuity": "Several conflicts: Devan wore the disc five years, not eleven; Thrissur is a real place; the tower burned; Lata already came north."
+    "reader_question": "Clear question out: what Neela answers before the realm in two nights. The pages' smell adds a sharp second itch.",
+    "change": "Power goes visible: Neela sets the time and place of the answer, Janu sits, the deadline is fixed, and the queen's virtue is seen.",
+    "romance_movement": "The household sees Devan's silent restraint, which is a new public reason. The private beat is one hand-hold and a joke, thin after chapter 21.",
+    "shown_chemistry": "The reach-back and the 'wide advice' banter work. The 'man keeping a promise' line narrates, and the welt-of-heat image blurs.",
+    "character_logic": "The queen's step knowledge comes from a key she couldn't have used today. Neela's blurted 'Parukutty' and Devan's reason to defer go unexplained.",
+    "stakes_and_cost": "Two nights to the assault, fourteen hundred Thurai, and a public answer that may cost the spears. The cost is stated and felt.",
+    "prose": "Strong queen lines. Breath motif used four times, 'brows lifted a little' twice, and several muddled sentences (Chathu's lie, physician's key, welt of heat).",
+    "continuity": "Calls the payment writ 'the second writ' (conflicts F648). Treaty 'failed in the spring' conflicts with the landing after the rains. 'Warden's clerk paid' conflicts with F520."
   },
   "fixes": [
-    "Continuity. Fix five lines. In 'the man who wore it eleven years', Devan wore the disc five years (F391). Replace 'at the Thrissur fair' with an invented fair. Change 'with the tower and the ladders' to 'a new tower', since the old one burned. Cut 'eleven years since the warden's mother died'. In 'had been offered their pages in Kodiyur and had said no', account for Lata (F883).",
-    "Contrived delay. 'through that dry little sentence of his at the gate' reports a key beat off-page, and the page contradicts it ('Majesty.' He said no more.). Put the sentence on the page at the padippura. Devan tells the queen to her face that he holds her wax and will read it after Neela answers. This keeps his ch 21 promise and shows Neela hearing it.",
-    "Narrated-only chemistry. 'She felt him there like a wall at her back' contradicts Devan's vow to stand at her back, not as her wall (F671). Replace it with a physical beat. After 'Devan said nothing', give one responsive exchange once the hall exhales: a glance, a touch at her bound hand, or a dry line. Also fix 'sent Ammu's killer to a stair' to name Vellan and the west stair, Raiu's death."
+    "At 'I signed the second writ. The one in the bundle', the payment writ is miscalled: F648's second writ is Rema's sealed case. Change it to 'I sealed the payment writ, the one in the bundle'. At 'It failed in the spring', the treaty collapsed when the fleet landed after the rains. Change it to 'It failed this season, when the fleet crossed the bar.'",
+    "At 'the warden's clerk paid mine early', Rema paid Parukutty (F520), so change it to 'the Justice paid mine early.' At 'I asked the physician's old key where it opened' (convenient knowledge), replace it with 'Rema's roll took down the physician's account: the postern, the eleventh step.' List the Kolathur fair, Lata and the step knowledge in new-facts.json.",
+    "Repetitive prose: 'Nobody in the court breathed', 'A breath went through the garrison', 'let her own breath out' and 'let their breath out together' all reuse the same beat. Keep one and replace the others with concrete sounds (spear butts, Janu's tray). Cut the second 'her brows lifted a little'. Replace 'A welt of his own heat rose on his hand through hers' with a plain touch: his thumb finds the blister strip and stays."
   ],
-  "reader_question": "What will Neela answer the queen at the dusk before the assault, in front of everyone, and what does Devan's writ do to the spears?",
+  "reader_question": "What will Neela answer the queen at dusk, in the open before the realm, and what will Devan's reading of the writ do to three hundred spears?",
   "techniques_landed": [
     15,
     16
   ],
-  "new_facts_assessment": "The gate sentence is necessary, but the page contradicts it: Devan says only 'Majesty' and nothing more. The Asha fair detail is fine, but the draft names the real city Thrissur, which breaks the bible's no-real-places rule. The side-by-side sheaves are consistent with F865 and F870 and plant the clue well. Parukutty's petition overlaps F520: Rema already paid her death-gift early, so restate it for the other three widows. The two-night timeline is fine, though 'with the tower' conflicts with the tower burning in ch 19 to 20.",
+  "new_facts_assessment": "new-facts.json is empty, yet the draft adds facts. Lata already on the shelf with Usha's riders fits F883. The queen meeting Asha at the 'Kolathur fair' is a new place name and should be listed. Kamalakshi in the court and Ammu's age in Rema's roll are fine. The 304-spear count and ink-stained fingers are harmless. The queen identifying the eleventh step via 'the physician's old key' is unsupported: Eravi is held and she arrived today. 'Second writ' and 'failed in the spring' conflict with canon. All should be listed or fixed.",
   "content_rule_violation": false,
   "failure_modes": [
-    "Contrived delays",
     "Narrated-only chemistry",
-    "Worldbuilding collapse"
+    "Romance buried by plot"
   ],
-  "average": 2.88,
+  "average": 3.0,
   "minimum": 0.0,
   "passed": false
 }
