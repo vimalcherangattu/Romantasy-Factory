@@ -1,0 +1,42 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 5.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 3.0,
+    "stakes_and_cost": 4.0,
+    "prose": 4.0,
+    "continuity": 0.0
+  },
+  "reasons": {
+    "reader_question": "The torn page against his ribs and her forty pages make 'will either read before dawn' sharp and specific.",
+    "change": "Power passes: Devan now holds Vellan's leash, she is human and unarmed, and the men are gone. The hill is theirs alone.",
+    "romance_movement": "A new and costly trust. She hands him his sister's killer's page and trusts him not to read it, and both name the cost.",
+    "shown_chemistry": "He holds back the comfort she didn't ask for, she covers his hand over the page, they count together. Mostly shown, with a few told lines.",
+    "character_logic": "If the tapping sheds hold her own six men, why not send Pavi for the flask? The gap reads as withheld for plot.",
+    "stakes_and_cost": "Each step costs something: the page as a burden, the pack slowing him, every bite opening on him, the men sent off.",
+    "prose": "Clean and concrete. 'A kind of private face a man wears' names the technique, and a few told summaries undercut what is shown.",
+    "continuity": "'It began before the sun went' with claws on stone inside sixty heartbeats implies a turning by day, which breaks Rule 1."
+  },
+  "fixes": [
+    "'It began before the sun went. He heard': this conflicts with Rule 1, because no one turns by day. Move the first cry to the moment the sun's rim drops below the nightbark, for example 'It began as the sun went.' Keep 'the last red light' at the gate consistent with dusk, not grey light after.",
+    "'It's in the shed,' she said. 'Which shed?': irrational behaviour to extend plot. The six are 'in the sheds', so the reader asks why Pavi can't fetch the flask. Add one exchange stating the cost: the store sits inside the wall, or Chathu's hunters cleared it at noon, or Pavi tried and found the box empty.",
+    "'There was a kind of private face a man wears': this is narrated technique and an AI tell. Cut the sentence and open on the hand going to the folded page. Also cut 'A bear, written plain', since she asked him not to read it. Make him look away from the line instead, which shows the trust being kept."
+  ],
+  "reader_question": "Will Devan read Vellan's page, or Neela the forty's, before dawn, and what will each bite on her cost him?",
+  "techniques_landed": [
+    7,
+    14,
+    25
+  ],
+  "new_facts_assessment": "The flask in the store is needed and reconciles with F491, but it needs a line on why the store is out of reach. The pages under her wrap and the ledger on his pack are consistent with F617. Sending Bhaskaran east to the cairn is sound and echoes F532. Unlisted new facts: Neela's 'bad ankle' has no prior injury in continuity, so list it or tie it to the bear rake or shin scrape. Bhaskaran's salute 'at the pass the morning Raiu died' places Raiu's death oddly, since Raiu died at dusk on the west stair (F225).",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Irrational behaviour to extend plot",
+    "Worldbuilding collapse"
+  ],
+  "average": 3.5,
+  "minimum": 0.0,
+  "passed": false
+}
