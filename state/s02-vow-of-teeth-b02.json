@@ -892,7 +892,7 @@
       }
     },
     "31": {
-      "status": "passed",
+      "status": "edited",
       "revisions": 2,
       "scores": {
         "reader_question": 3.0,
@@ -906,8 +906,19 @@
       },
       "average": 3.75,
       "flags": [],
-      "words": 2820,
-      "minimum": 3.0
+      "words": 2804,
+      "minimum": 3.0,
+      "style": {
+        "words": 2804,
+        "banned_hits": {},
+        "ai_tell_hits": {},
+        "ai_tells_per_1000": 0.0,
+        "top_4gram": "had said a room",
+        "top_4gram_count": 2,
+        "longest_paragraph_words": 132,
+        "em_dashes_per_1000": 0.0,
+        "reading_ease": 95.3
+      }
     },
     "32": {
       "status": "passed",
@@ -1697,9 +1708,13 @@
     {
       "at": "2026-10-21T07:37:38",
       "event": "done: S8 line edit ch 30"
+    },
+    {
+      "at": "2026-10-21T07:38:11",
+      "event": "done: S8 line edit ch 31"
     }
   ],
-  "updated_at": "2026-10-21T07:37:38",
+  "updated_at": "2026-10-21T07:38:11",
   "midpoint_chapter": 16,
   "continuity_attempts": 1,
   "continuity_last_errors": 2
