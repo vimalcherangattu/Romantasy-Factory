@@ -2,28 +2,18 @@
   "facts": [
     {
       "category": "name",
-      "fact": "Sanu's birth name is Chandrika, a tailor's daughter of Pallikara by the river, sold at seven; Usha's birth name is Ushakumari, a potter's daughter from a hill village.",
-      "why": "needed because the beat requires the guards to hear their birth names at the reading"
+      "fact": "Corrects F863: Sanu (Fourth Guard) is male; his birth name Chandrika, given after his mother's mother, is on his intake roll as a tailor's son of Pallikara, sold at seven.",
+      "since": "s02-vow-of-teeth-b03 ch 16"
+    },
+    {
+      "category": "name",
+      "fact": "Corrects F865: Usha's crown-leaf ledger number is Nineteen, not Four (Four is Thilak's, F632).",
+      "since": "s02-vow-of-teeth-b03 ch 16"
     },
     {
       "category": "knowledge",
-      "fact": "At the shelter, Kamalakshi asked Neela what stops a master writing a page again; Neela answered that Chathu never needed to.",
-      "why": "needed because the beat says Kamalakshi's question snaps into place"
-    },
-    {
-      "category": "object",
-      "fact": "Usha's fresh crown-leaf page is dated and written the night before in the queen's hand with Usha as ledger number Four, and the queen leaves it and Chathu's forty fresh pages with Neela.",
-      "why": "needed so the queen's demonstration is a physical object and Neela can carry it north"
-    },
-    {
-      "category": "plot",
-      "fact": "The queen says a rider leaves the Salt Gate at dusk carrying the same offer (three hundred spears and Kettamala restored) to Devan, so he will have it before Neela does.",
-      "why": "needed to price Devan's office against Neela's answer and set up chapter 17"
-    },
-    {
-      "category": "knowledge",
-      "fact": "The queen says she has known of self-naming for nine days, since Usha told her what a burning ledger page means.",
-      "why": "needed so she can name the cost of self-naming in the offer scene"
+      "fact": "Neela half-notices that Chathu's grey-brown common-ink fingertips (F838) and his unanswered steward's list (F837) do not fit the forty black-ink pages the queen says he wrote at her table. She fails to resolve it under the queen's calm (clue C03/C17 stays live).",
+      "since": "s02-vow-of-teeth-b03 ch 16"
     }
   ]
 }

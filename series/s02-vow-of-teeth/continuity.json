@@ -6002,6 +6002,27 @@
       "fact": "The queen says she has known of self-naming for nine days, since Usha told her what a burning ledger page means.",
       "since": "s02-vow-of-teeth-b03 ch 16",
       "provisional": true
+    },
+    {
+      "id": "F868",
+      "category": "name",
+      "fact": "Corrects F863: Sanu (Fourth Guard) is male; his birth name Chandrika, given after his mother's mother, is on his intake roll as a tailor's son of Pallikara, sold at seven.",
+      "since": "s02-vow-of-teeth-b03 ch 16",
+      "provisional": true
+    },
+    {
+      "id": "F869",
+      "category": "name",
+      "fact": "Corrects F865: Usha's crown-leaf ledger number is Nineteen, not Four (Four is Thilak's, F632).",
+      "since": "s02-vow-of-teeth-b03 ch 16",
+      "provisional": true
+    },
+    {
+      "id": "F870",
+      "category": "knowledge",
+      "fact": "Neela half-notices that Chathu's grey-brown common-ink fingertips (F838) and his unanswered steward's list (F837) do not fit the forty black-ink pages the queen says he wrote at her table. She fails to resolve it under the queen's calm (clue C03/C17 stays live).",
+      "since": "s02-vow-of-teeth-b03 ch 16",
+      "provisional": true
     }
   ],
   "knowledge": [
