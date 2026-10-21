@@ -1,0 +1,42 @@
+{
+  "scores": {
+    "reader_question": 5.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 3.0,
+    "stakes_and_cost": 4.0,
+    "prose": 4.0,
+    "continuity": 0.0
+  },
+  "reasons": {
+    "reader_question": "Gopan's final line, against ch22's resin-scented satchel and Eravi's questions, leaves one sharp question: did the physician open the postern?",
+    "change": "Janu now knows Neela's part. Neela has answered for it. The fort's locked-gate story breaks open and the suspect becomes the inside informant.",
+    "romance_movement": "Devan looks at her again for a new reason: he watched her refuse to excuse herself. This is earned, not a replayed refusal.",
+    "shown_chemistry": "The counted court stones, his open hands, letting her keep the red earth on her sleeve: care shown through restraint and noticing.",
+    "character_logic": "Janu and Neela are exact. Gopan's key claim has no reason behind it, the lock geometry is muddled, and Neela's glance pre-solves the twist.",
+    "stakes_and_cost": "No forgiveness, a promised full account, and a new threat inside the walls. Confronting the kindly physician will cost trust.",
+    "prose": "Restrained and strong. Some echoes ('small quick step', 'arm's length', 'stopped'), one confused line from Devan, and 'a muscle moved in her cheek'.",
+    "continuity": "'Since the ledger's last quire' conflicts with F554: the last quire is sealed and unread. Asha's leaf was in the Keeper's quire. 'Three days' also looks short."
+  },
+  "fixes": [
+    "Continuity: 'Since the ledger's last quire he had found the table'. The last quire is the queen's sealed quire, never opened (F554). Change it to 'Since the Keeper's quire'. Replace 'You haven't, for three days' with a count that fits the ch16 to ch22 span (for example 'not since the wood'), or check the day count and state it correctly.",
+    "Character logic: 'Only the physician keeps that key.' This has no reason, so it reads as plot convenience. Give Gopan one line on why: for example, the slop-gate was how the dispensary's soiled cloths and the fever dead went out, so the old warden gave Eravi the key. Also clarify whether the lock hangs on the inner face, so Gopan feeling it through the bars makes physical sense.",
+    "Contrived delay / pre-solved twist: 'Her eyes went, before she could stop them, across'. Neela's glance at the dispensary before Gopan speaks gives the reveal away and weakens technique 12. Cut the glance and Devan's following it. Let the ch22 clues (resin satchel, 'which day') rise in her memory only after 'Only the physician keeps that key', so the surprise lands first and the reread follows."
+  ],
+  "reader_question": "Did Eravi, the fort's own physician and sole keeper of the postern key, let Asha's killer in, and is he still feeding the guild?",
+  "techniques_landed": [
+    24,
+    20,
+    12
+  ],
+  "new_facts_assessment": "The draft's new-facts list is empty, yet the chapter adds the postern, the physician's key, the reused lock, Gopan's blind spots and Janu's sleep (F591 to F595). All are necessary, consistent with F515, F518 and F185, and set up the Eravi turn. Smaller additions (86 court stones, outside-path rounds) are harmless. Gopan's 'kept the chain from a cot' reconciles with F043. The draft must list its facts.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Irrational behaviour to extend plot",
+    "Contrived delays"
+  ],
+  "average": 3.5,
+  "minimum": 0.0,
+  "passed": false
+}
