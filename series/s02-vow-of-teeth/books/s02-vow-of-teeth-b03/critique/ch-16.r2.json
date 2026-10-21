@@ -1,0 +1,43 @@
+{
+  "scores": {
+    "reader_question": 5.0,
+    "change": 5.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 3.0,
+    "character_logic": 3.0,
+    "stakes_and_cost": 5.0,
+    "prose": 3.0,
+    "continuity": 5.0
+  },
+  "reasons": {
+    "reader_question": "Sharp and double: will she take the queen's knives, and what does Devan answer when the rider's offer reaches him first?",
+    "change": "The theft is voided, the queen's hand is owned, and the queen now holds levers on all seventy, Devan included.",
+    "romance_movement": "Devan's office is put against her answer, and she sees their bond as her only freedom. The reason is new.",
+    "shown_chemistry": "Devan is offstage. The chin-welt memory and the missed thumb signal carry it, but this is still largely interior.",
+    "character_logic": "The queen left the lock open before the theft, yet Usha says she told her only last night. Who tipped her?",
+    "stakes_and_cost": "Every option costs something: the leash, wound-share rogues, or Devan's fort. A deadline is set at the pass.",
+    "prose": "Strong images (the fly in the ink). But the noon-gun paragraph is garbled, and 'did not look away' and 'patient' recur.",
+    "continuity": "Matches F792, F837-F841, F864-F870, the 82 readings and the wound-share rules. Sanu, Usha's number and the queen's age all check."
+  },
+  "fixes": [
+    "At \"'Last night,' Usha said. 'After the lamp.'\" the cause is broken: the queen left the lock open before the theft, but Usha's tip-off comes after it (Irrational behaviour to extend plot). Have Usha confess she told the queen the day she gave Neela the landing count. Keep 'last night' for reporting the shed vote only. One added line from the queen can then confirm that the open lock was her answer.",
+    "At \"A day behind, she had pricked early. Now late\" the grammar collapses at the chapter's key emotional cost. Rewrite as two clean sentences: yesterday she signalled early; today she is a quarter hour late. Earlier, add one beat where she feels the gun's blow through the barrel and takes it for a cart on the quay. A noon gun that shakes rock then passes unnoticed needs that cover to be believed.",
+    "\"She did not look away\" / \"Nirmala did not look away\" and \"patient\" or \"patiently\" (four uses) repeat inside the queen scene and flatten her. Cut to one 'look away' and one 'patient'. Then shorten the paragraph \"She had told herself it was freedom...\" to the Ammu, Chathu and rampart list and the thumb memory, so the belief cracks through an image rather than through summary (Endless monologue)."
+  ],
+  "reader_question": "Will Neela take command of the queen's page-free night-guard, and what will Devan choose when the queen's rider puts Kettamala in his hands first?",
+  "techniques_landed": [
+    3,
+    12,
+    17,
+    22
+  ],
+  "new_facts_assessment": "The new-facts file is empty, but the draft adds facts. Necessary: the rider with 300 spears at dusk (F866), and Chathu writing four evenings (F841). Unlisted: the grandfather's masons' spray slot, the queen caging none in thirty years, an unbreakable promise to her people, and the queen missing her noon audience (F835). All are consistent but must be logged.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Irrational behaviour to extend plot",
+    "Endless monologue"
+  ],
+  "average": 4.12,
+  "minimum": 3.0,
+  "passed": true
+}
