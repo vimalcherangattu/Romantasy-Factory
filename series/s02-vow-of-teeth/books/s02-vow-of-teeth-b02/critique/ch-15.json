@@ -1,0 +1,40 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 3.0,
+    "stakes_and_cost": 4.0,
+    "prose": 3.0,
+    "continuity": 0.0
+  },
+  "reasons": {
+    "reader_question": "The ending poses a specific question: forty people now treat Neela as master, so what will she do with the book?",
+    "change": "Power moves from Chathu to Devan to Neela. The raid becomes a guild without a master, matching the value shift.",
+    "romance_movement": "His public handover and the mirrored night-veto are new. He trusts her with the leash that has hunted her all her life.",
+    "shown_chemistry": "He holds the cloth out with his back turned, passes the food back, and answers her 'Thank you' with 'Don't. Eat.' These are strong. The 'In that look he saw everything' paragraph narrates instead.",
+    "character_logic": "His rules-lawyering on 'not first' and Chathu's flight hold up. The headcount muddle and 'eight hunters' make the standoff maths unclear.",
+    "stakes_and_cost": "The wound-share makes every claw his. Taking the book makes her what Chathu was. Real cost on both sides.",
+    "prose": "Too many 'as a man' similes and two child similes. 'This was another thing' is repeated. 'Hurts for plans' is garbled. 'Fifteen cuts' is inflated.",
+    "continuity": "'Devan had never seen him before' conflicts with B1 ch27. Ten men conflicts with the eight-man ridge party (F532). The vow timeline doesn't hold together."
+  },
+  "fixes": [
+    "'Devan had never seen him before. He knew him': this is a continuity break, because Devan stood in this yard in B1 ch27 while Chathu read Neela's page and it burned. Rewrite so he recognises Chathu from that dusk, for example by the same soft way he holds a lamp. Let the memory of the burning page sharpen what Chathu sees now.",
+    "'Eight lamps rose over the coping at once, and under each': this breaks continuity with F532's eight-man ridge party and with the later 'eight points', 'forty to eight' and 'eight men'. Make it six over the wall and two through the drain, eight in all. Change 'eight hunters and a bear' to 'eight spears and a bear'. Change 'fifteen cuts' to match the four welts described.",
+    "'He had made that vow on a stair six years ago, and he had kept it for eight years before that': the timeline is incoherent, and with 'He knew whose blade' and 'in the half-light of a stair' it risks a POV leak about Asha's killer before B2 ch16. Use: 'He had not struck first in eight years.' Make the shoulder seam his own ch27 blow. Cut the stair line from his reading of the bear."
+  ],
+  "reader_question": "Now that forty members follow whoever holds the book, will Neela become their master, and what will she find when she opens it?",
+  "techniques_landed": [
+    16,
+    22
+  ],
+  "new_facts_assessment": "Shearing the hinge rivets is clever and consistent. The welt mapping fits the wound-share, though 'fifteen cuts' and blood running into the belt overshoot 'shallow welt'. Ten men conflicts with F532's eight-man party, and the text itself says 'eight' afterwards. The order to face the gate and the cloth and leaf packet are necessary, and they echo F284 well. Technique 6 lands only weakly through 'three in ten' and 'forty to eight'.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Narrated-only chemistry"
+  ],
+  "average": 3.25,
+  "minimum": 0.0,
+  "passed": false
+}
