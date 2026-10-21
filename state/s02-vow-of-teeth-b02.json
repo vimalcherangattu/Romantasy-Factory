@@ -277,7 +277,7 @@
       }
     },
     "10": {
-      "status": "passed",
+      "status": "edited",
       "revisions": 1,
       "scores": {
         "reader_question": 4.0,
@@ -291,8 +291,19 @@
       },
       "average": 3.62,
       "flags": [],
-      "words": 2693,
-      "minimum": 3.0
+      "words": 2674,
+      "minimum": 3.0,
+      "style": {
+        "words": 2674,
+        "banned_hits": {},
+        "ai_tell_hits": {},
+        "ai_tells_per_1000": 0.0,
+        "top_4gram": "i was on the",
+        "top_4gram_count": 2,
+        "longest_paragraph_words": 88,
+        "em_dashes_per_1000": 0.0,
+        "reading_ease": 93.6
+      }
     },
     "11": {
       "status": "passed",
@@ -1382,9 +1393,13 @@
     {
       "at": "2026-10-21T07:24:50",
       "event": "done: S8 line edit ch 9"
+    },
+    {
+      "at": "2026-10-21T07:25:21",
+      "event": "done: S8 line edit ch 10"
     }
   ],
-  "updated_at": "2026-10-21T07:24:50",
+  "updated_at": "2026-10-21T07:25:21",
   "midpoint_chapter": 16,
   "continuity_attempts": 1,
   "continuity_last_errors": 2
