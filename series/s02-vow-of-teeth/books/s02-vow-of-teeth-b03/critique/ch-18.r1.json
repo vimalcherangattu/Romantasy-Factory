@@ -1,0 +1,42 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 3.0,
+    "shown_chemistry": 3.0,
+    "character_logic": 4.0,
+    "stakes_and_cost": 4.0,
+    "prose": 3.0,
+    "continuity": 0.0
+  },
+  "reasons": {
+    "reader_question": "Blistering palms and black smoke make 'what is Devan holding in fire, and is he alive' sharp and urgent.",
+    "change": "Neela moves from a private temptation to a Company vote, a clear value shift caused by Ammu's reread call.",
+    "romance_movement": "New reason: she fears his vote, not his refusal. It is mostly narrated in one paragraph rather than dramatised.",
+    "shown_chemistry": "Devan is absent; the only link is the burned palms. The fear-of-his-voice paragraph tells rather than shows.",
+    "character_logic": "Baring scars and refusing to decide alone fit Neela; the guards' arguments are motivated, and Lata's ride north rings true.",
+    "stakes_and_cost": "The offer's cost is honest on both sides; the ending puts Devan's body, and hers, at immediate risk.",
+    "prose": "Mostly concrete and clean. Some told rumination, the odd 'second, quieter horse' simile, and many 'She did not' sentence openings.",
+    "continuity": "Ammu's last jackal call was at the Resin House (F252), not above Kettamala; 'six years and a grave' conflicts with Ammu's recent death."
+  },
+  "fixes": [
+    "'She had heard it a last time on the hill above Kettamala': continuity break. Ammu's final call came at the Resin House before she drew Vellan off (F252). Make that the last hearing, with Neela in shape in the yard. Separately, replace 'across six years and a grave' with a span that fits, such as 'across a season and a grave'.",
+    "'Usha had read its single line to herself and never broken the seal again': internal contradiction with 'held the strip up unopened'. Either the queen speaks the line aloud at the Hill Gate where Neela hears it and the seal stays whole, or Usha breaks it once and shows the broken sunbird at the post. Then make the same change in new-facts.",
+    "'She was afraid of it. Not of a no.': narrated-only chemistry. Anchor the fear in one remembered Devan action: his flat 'yes' when the Company voted the sally, or the pebble in his cheek. Cut the abstract 'reading her own life in it' line. Also fix 'one of forty-two': earlier votes counted forty-two odiyans without Devan, and twenty-two guards now ride with them."
+  ],
+  "reader_question": "What is Devan gripping in fire at the shelf, and will he survive it before she reaches him?",
+  "techniques_landed": [
+    10,
+    15,
+    20
+  ],
+  "new_facts_assessment": "The Usha strip is useful but contradicts itself: she reads it, yet it stays 'unopened' and its seal is 'never broken again'; Neela also can't know the line. The net-mender inference fits F729/F790. The jackal reading 'don't decide without me' conflicts with draft fact F886 ('wait, I will be found'); retire one. Also unlisted: the question-for-a-question custom at the long table.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Endless monologue",
+    "Narrated-only chemistry"
+  ],
+  "average": 3.12,
+  "minimum": 0.0,
+  "passed": false
+}

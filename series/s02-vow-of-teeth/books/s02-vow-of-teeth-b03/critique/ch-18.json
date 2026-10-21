@@ -2,7 +2,7 @@
   "scores": {
     "reader_question": 4.0,
     "change": 4.0,
-    "romance_movement": 4.0,
+    "romance_movement": 3.0,
     "shown_chemistry": 3.0,
     "character_logic": 4.0,
     "stakes_and_cost": 4.0,
@@ -10,31 +10,33 @@
     "continuity": 0.0
   },
   "reasons": {
-    "reader_question": "The blistered palms give a concrete gap: why are Devan's bare hands in fire, and has the shelf fallen?",
-    "change": "She moves from a private temptation to a public refusal to choose alone, and says it aloud at the fire.",
-    "romance_movement": "The fear of his vote is new and specific. Dramatic irony works because the reader knows he already refused.",
-    "shown_chemistry": "The leads are apart. The bond shows through the blisters, but her fear of his voice is mostly narrated.",
-    "character_logic": "Baring her scars and deferring to the vote are smart. Charging twenty-odd riders blind toward smoke is impulsive but in character.",
-    "stakes_and_cost": "The vote risks his yes, the guards' safety and Sanu's brother. The ride down risks everyone.",
-    "prose": "No dashes and few tells, but the jackal and lying-awake passages turn abstract. 'Said nothing' and 'in a yard in the rain' repeat.",
-    "continuity": "The rider counts are wrong (22+5+Neela is 28, not 27), the scars are 'twenty years' old, and 'twenty-seven' voters conflicts with the Company."
+    "reader_question": "Blistering palms and black smoke make 'what is Devan holding in fire, and is he alive' sharp and urgent.",
+    "change": "Neela moves from a private temptation to a Company vote, a clear value shift caused by Ammu's reread call.",
+    "romance_movement": "New reason: she fears his vote, not his refusal. It is mostly narrated in one paragraph rather than dramatised.",
+    "shown_chemistry": "Devan is absent; the only link is the burned palms. The fear-of-his-voice paragraph tells rather than shows.",
+    "character_logic": "Baring scars and refusing to decide alone fit Neela; the guards' arguments are motivated, and Lata's ride north rings true.",
+    "stakes_and_cost": "The offer's cost is honest on both sides; the ending puts Devan's body, and hers, at immediate risk.",
+    "prose": "Mostly concrete and clean. Some told rumination, the odd 'second, quieter horse' simile, and many 'She did not' sentence openings.",
+    "continuity": "Ammu's last jackal call was at the Resin House (F252), not above Kettamala; 'six years and a grave' conflicts with Ammu's recent death."
   },
   "fixes": [
-    "Continuity. At 'twenty-seven horses were raising it' and 'Twenty-seven odiyans sat round a small fire', change both to twenty-eight (twenty-two guards plus Neela and her five). At 'among the twenty-seven that mattered, and the hundred that did', use the Company's real count (forty-two hands) or cut the numbers. At 'Twenty years' worth, a decade deep', change to 'Eleven years' worth', which matches her first turning at sixteen and F310.",
-    "Technique 20 muddled. 'I'm coming back with the answer' contradicts 'It was a promise to be found.' Choose one reading, for example: the call never meant 'I'll arrive', it meant 'don't decide without me.' Make it the hinge that sends her to the vote, in one line, so the callback causes the decision instead of sitting beside it. Also let her link the net-mender to Ammini (F790); she knows it now.",
-    "Abstraction and a POV leak. 'a patience, folded small and kept near' gives no image. Show what the queen actually gave Usha (a letter, a token, an order) and one thing Usha does with it on the road. Separately, at 'a man on a shelf who had been told you will think it a lever', Neela can't know the wording of Devan's letter. Cut the quote or have her guess it."
+    "'She had heard it a last time on the hill above Kettamala': continuity break. Ammu's final call came at the Resin House before she drew Vellan off (F252). Make that the last hearing, with Neela in shape in the yard. Separately, replace 'across six years and a grave' with a span that fits, such as 'across a season and a grave'.",
+    "'Usha had read its single line to herself and never broken the seal again': internal contradiction with 'held the strip up unopened'. Either the queen speaks the line aloud at the Hill Gate where Neela hears it and the seal stays whole, or Usha breaks it once and shows the broken sunbird at the post. Then make the same change in new-facts.",
+    "'She was afraid of it. Not of a no.': narrated-only chemistry. Anchor the fear in one remembered Devan action: his flat 'yes' when the Company voted the sally, or the pebble in his cheek. Cut the abstract 'reading her own life in it' line. Also fix 'one of forty-two': earlier votes counted forty-two odiyans without Devan, and twenty-two guards now ride with them."
   ],
-  "reader_question": "Why are Devan's bare hands in fire under that smoke column, and what is left of the shelf when Neela gets there?",
+  "reader_question": "What is Devan gripping in fire at the shelf, and will he survive it before she reaches him?",
   "techniques_landed": [
     10,
     15,
-    20,
-    13
+    20
   ],
-  "new_facts_assessment": "The Sajan/Sanu brothers, Lata joining at the Salt Gate, the tin and the four-day ride are all needed and consistent with F208, F824, F861 and F868. However, Lata's joining makes the party 28, which the page miscounts as 27. Extending the one-night 'nobody smears' order (F746) to the road is a stretch, since most riders are guards, not Company, but it is harmless. The jackal reinterpretation is a valid technique-20 beat, but on the page it gives two contradictory meanings.",
+  "new_facts_assessment": "The Usha strip is useful but contradicts itself: she reads it, yet it stays 'unopened' and its seal is 'never broken again'; Neela also can't know the line. The net-mender inference fits F729/F790. The jackal reading 'don't decide without me' conflicts with draft fact F886 ('wait, I will be found'); retire one. Also unlisted: the question-for-a-question custom at the long table.",
   "content_rule_violation": false,
-  "failure_modes": [],
-  "average": 3.25,
+  "failure_modes": [
+    "Endless monologue",
+    "Narrated-only chemistry"
+  ],
+  "average": 3.12,
   "minimum": 0.0,
   "passed": false
 }
