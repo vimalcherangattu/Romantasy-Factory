@@ -1,42 +1,41 @@
 {
   "scores": {
-    "reader_question": 4.0,
+    "reader_question": 5.0,
     "change": 4.0,
-    "romance_movement": 3.0,
+    "romance_movement": 4.0,
     "shown_chemistry": 4.0,
     "character_logic": 3.0,
     "stakes_and_cost": 4.0,
-    "prose": 3.0,
+    "prose": 4.0,
     "continuity": 0.0
   },
   "reasons": {
-    "reader_question": "Clear hinge question: can they free the queen's guard when the queen is a live witness to every turning? The 'what will it cost Varanad' half stays faint.",
-    "change": "Big knowledge shift: crown leaf confirmed, night-guard named as odiyans, Vellan arrives masterless. Neela moves from shelter to a purpose.",
-    "romance_movement": "Shared purpose lands ('counting ahead, you taught me that'), but the beat's 'sworn in the open' partnership stays private and mostly restates ch 31's terms.",
-    "shown_chemistry": "The 'whose three' count, the cups, and the cloth for Vellan are responsive. 'Felt the care in that as plainly as a hand on her back' narrates it.",
-    "character_logic": "Refusing the flask and staying Thilak's knife fit Neela. Nobody notes that the watcher's log of their trail also reaches Chathu's buyers.",
-    "stakes_and_cost": "Costs are named: reading thirty pages adds witnesses, the queen finds them by new moon, and the season's resin runs out.",
-    "prose": "Clean, varied and dash-free, but 'didn't say' recurs for Devan, 'twenty-two' is used three ways, and the queen's 'unfinished sentence' line is vague.",
-    "continuity": "Vellan says thirty-one guards against the bible's thirty and his own 'thirty-first'. 40+30 is called seventy-one. Stubs move from the back half (F638) into the sealed quire."
+    "reader_question": "The question is sharp and has a clock: thirty named guards held by the queen, and the trail is readable after the new moon.",
+    "change": "Knowledge shifts from suspicion to a confirmed list plus Vellan's testimony. Power shifts too: Neela binds herself to the forty's vote.",
+    "romance_movement": "The private partnership terms from ch31 are now sworn in public and bound to the vote. The new reason is accountability to the forty, which lands the HFN.",
+    "shown_chemistry": "'Whose three?' / 'You count slower', the cup of hot water and 'I looked' / 'very long look' show understanding through action and banter.",
+    "character_logic": "Neela acts stunned that Chathu sold to the crown, though she read 'Sell to the crown when spent' on Vellan's leaf (F629). The watcher logs scent-posts while the forty stayed human.",
+    "stakes_and_cost": "Reading the thirty pages creates new witnesses, and not reading them leaves the guards caged. Add the new-moon deadline, no resin of Neela's own, and a removable leadership.",
+    "prose": "Concrete and clean, with no banned phrases or dashes. There are minor stock beats ('Nobody breathed', 'something under the world'), and Vellan's reveal runs speech-heavy.",
+    "continuity": "Two conflicts. 'Ten years of resin' clashes with her first turning at 16, eleven years ago. 'Indu. A village name' clashes with F577: Indu is her name, Nellimala the village."
   },
   "fixes": [
-    "'Thirty-one, when I last counted' and 'Seventy-one?': continuity break. Make Vellan say 'Thirty. I'd have been the thirty-first,' and have Devan say 'Seventy. Seventy-one if Vellan stays.' Move the stubs back to the ledger's rear half. Neela opens the quire's sheet, then pulls the ledger from the pack and lays the thirty back-half stubs she already counted (F638) beside the list, so the match is the reveal.",
-    "'We'll need to start the plank': the beat asks for a partnership sworn in the open, which never happens. End with Neela and Devan carrying the plank out to the forty at the fire. Each says aloud what they will do for the thirty, as a shared purpose made before witnesses. Keep it short, two lines each, so it reads as a vow rather than a speech.",
-    "'I'm the only man in Varanad who'd walk it': character logic gap. If the watcher logged their trail, others can read it. Have Neela ask at once who else reads that log. Vellan answers that the log goes to Chathu's cell and then to whoever opens his post, so the clock to the new moon is real. Also cut 'she felt the care in that as plainly as a hand on her back' and let the basket act alone."
+    "Continuity. In 'Mine are layered. Ten years of resin, ridge on ridge', change to 'Eleven years' to match her first turning at 16. In 'Indu. A village name. A girl in a house', change to 'Her own name, out of Nellimala' (F577). Indu is her name, not the village.",
+    "Character logic. At 'There was no rule. Chathu only never said', Neela forgets reading 'Sell to the crown when spent' on Vellan's leaf (F629). Add one line where she recalls that leaf and admits she took it as Chathu's threat for one man, not a trade. The heading then confirms scale and pattern rather than repeating a known shock.",
+    "Character logic and world rule. 'He logged a forty-strong trail going up the hills' breaks the scent-post mechanism (F194), because the forty stayed human and left no marks. Ground it differently. The watcher could find the Resin House posts all gone cold at once, with forty horses' dung on the goat path, and Kesu's grandson seen coming down. Keep the new-moon deadline."
   ],
-  "reader_question": "Can Neela and Devan free the queen's thirty odiyan guards when the queen holds their pages and witnessed every first turning?",
+  "reader_question": "Can Neela free the queen's thirty odiyan night-guard before the new-moon scent log leads the crown to the forty, and what will reading their pages cost?",
   "techniques_landed": [
-    26,
     3,
-    20
+    20,
+    26
   ],
-  "new_facts_assessment": "Shelter, inventory and the carved bird are necessary and consistent; the spare flask fits Neela's flask going to the forty (F657). Problems: Vellan's 'thirty-one' guards conflicts with the bible's thirty guards and with his own 'I'd have been the thirty-first'. Putting the cut stubs inside the green-sealed front quire conflicts with F638, which places them in the back half and has Neela already counting them. Kamalakshi given age twenty-two echoes her ledger number and needs confirming. The bird 'smells of the sheds' sits awkwardly with Vellan carrying no resin scent.",
+  "new_facts_assessment": "The draft lists no new facts but adds several. The thirty pages went to Kodiyur in a green-sealed box. The sales ran over twenty years with rising sums. Pepper hunters cut wild vine. Kamalakshi laughs for the first time. Vellan makes a page-holding claim. All are plausible and useful and should be logged. One beat deviation is defensible: the outline has the others turn when Vellan arrives, but here the forty stay human, which avoids making Vellan a witness.",
   "content_rule_violation": false,
   "failure_modes": [
-    "Narrated-only chemistry",
     "Irrational behaviour to extend plot"
   ],
-  "average": 3.12,
+  "average": 3.5,
   "minimum": 0.0,
   "passed": false
 }

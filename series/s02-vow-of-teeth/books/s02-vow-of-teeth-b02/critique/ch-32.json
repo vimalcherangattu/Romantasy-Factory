@@ -1,6 +1,6 @@
 {
   "scores": {
-    "reader_question": 4.0,
+    "reader_question": 5.0,
     "change": 4.0,
     "romance_movement": 4.0,
     "shown_chemistry": 4.0,
@@ -10,33 +10,32 @@
     "continuity": 0.0
   },
   "reasons": {
-    "reader_question": "Clear and specific: can they reach the queen's thirty sold guards before the new-moon log exposes the forty's trail?",
-    "change": "Knowledge (thirty sold, guards are odiyans), power (the forty's vote) and partnership all shift by the end.",
-    "romance_movement": "A private partnership becomes a public vow under the forty's vote, and Devan inverts the 'at your back' promise. The reason is new.",
-    "shown_chemistry": "'You count slower', the two hot cups and 'You taught me that' show attraction through response, not narration.",
-    "character_logic": "Devan breaks the 'tell each other before we do it' term a day after making it. Vellan's scar account doesn't fit what Devan saw.",
-    "stakes_and_cost": "Refusing the spare flask, the new-moon deadline and the open vote all carry real costs.",
-    "prose": "Clean, concrete and dash-free, with good rhythm. Some summarising tells ('giving them the gift of it', 'made her throat tight').",
-    "continuity": "Bible puts the queen-witnessed-every-turning discovery at book 3's midpoint (ch16). This chapter reveals it here and builds Neela's dilemma on it."
+    "reader_question": "The question is sharp and has a clock: thirty named guards held by the queen, and the trail is readable after the new moon.",
+    "change": "Knowledge shifts from suspicion to a confirmed list plus Vellan's testimony. Power shifts too: Neela binds herself to the forty's vote.",
+    "romance_movement": "The private partnership terms from ch31 are now sworn in public and bound to the vote. The new reason is accountability to the forty, which lands the HFN.",
+    "shown_chemistry": "'Whose three?' / 'You count slower', the cup of hot water and 'I looked' / 'very long look' show understanding through action and banter.",
+    "character_logic": "Neela acts stunned that Chathu sold to the crown, though she read 'Sell to the crown when spent' on Vellan's leaf (F629). The watcher logs scent-posts while the forty stayed human.",
+    "stakes_and_cost": "Reading the thirty pages creates new witnesses, and not reading them leaves the guards caged. Add the new-moon deadline, no resin of Neela's own, and a removable leadership.",
+    "prose": "Concrete and clean, with no banned phrases or dashes. There are minor stock beats ('Nobody breathed', 'something under the world'), and Vellan's reveal runs speech-heavy.",
+    "continuity": "Two conflicts. 'Ten years of resin' clashes with her first turning at 16, eleven years ago. 'Indu. A village name' clashes with F577: Indu is her name, Nellimala the village."
   },
   "fixes": [
-    "At \"And she witnessed every one of their first turnings\": continuity conflict. The bible saves this discovery for book 3, ch16. Cut Vellan's lines about the queen witnessing turnings and Chathu bringing her. In the night scene, rewrite \"and she's a witness to every one\" so the dilemma rests on the pages alone: reading them back adds new witnesses; leaving them lets her cage any of the thirty.",
-    "At \"The scars are there, same as yours\": worldbuilding collapse. This contradicts the single smooth seam Devan saw on First Guard (F460). Have Vellan say the paste covers wrists and throat both, laid on thick each morning. What Devan saw as a seam was the paste's edge drying and cracking under the cuff. Keep Neela's cold realisation.",
-    "At \"It was not what they had agreed in the dark\": irrational behaviour. Ch31's first term was 'we tell each other what we're doing before we do it', and Devan breaks it the next day unremarked. Either show Devan's glance and her nod before he speaks, or have Neela name the breach afterwards ('You said before, not after') and let him answer it."
+    "Continuity. In 'Mine are layered. Ten years of resin, ridge on ridge', change to 'Eleven years' to match her first turning at 16. In 'Indu. A village name. A girl in a house', change to 'Her own name, out of Nellimala' (F577). Indu is her name, not the village.",
+    "Character logic. At 'There was no rule. Chathu only never said', Neela forgets reading 'Sell to the crown when spent' on Vellan's leaf (F629). Add one line where she recalls that leaf and admits she took it as Chathu's threat for one man, not a trade. The heading then confirms scale and pattern rather than repeating a known shock.",
+    "Character logic and world rule. 'He logged a forty-strong trail going up the hills' breaks the scent-post mechanism (F194), because the forty stayed human and left no marks. Ground it differently. The watcher could find the Resin House posts all gone cold at once, with forty horses' dung on the goat path, and Kesu's grandson seen coming down. Keep the new-moon deadline."
   ],
-  "reader_question": "Can Neela and Devan free the queen's thirty sold night-guard before the new moon puts the forty's trail in the queen's hands, and at what cost to Varanad?",
+  "reader_question": "Can Neela free the queen's thirty odiyan night-guard before the new-moon scent log leads the crown to the forty, and what will reading their pages cost?",
   "techniques_landed": [
-    26,
     3,
-    20
+    20,
+    26
   ],
-  "new_facts_assessment": "F670 (lime-and-ochre paste) is useful but half-works: it explains the bare throat, but 'the scars are there, same as yours' contradicts F460's single smooth seam. F671 (standing vote, Devan at her back) is necessary and lands Book 2's question. It replaces F668 correctly, but 'not what they had agreed in the dark' undercuts ch31's terms. F672 is consistent with ch31, where Devan already knows of the stubs.",
+  "new_facts_assessment": "The draft lists no new facts but adds several. The thirty pages went to Kodiyur in a green-sealed box. The sales ran over twenty years with rising sums. Pepper hunters cut wild vine. Kamalakshi laughs for the first time. Vellan makes a page-holding claim. All are plausible and useful and should be logged. One beat deviation is defensible: the outline has the others turn when Vellan arrives, but here the forty stay human, which avoids making Vellan a witness.",
   "content_rule_violation": false,
   "failure_modes": [
-    "Irrational behaviour to extend plot",
-    "Contrived delays"
+    "Irrational behaviour to extend plot"
   ],
-  "average": 3.38,
+  "average": 3.5,
   "minimum": 0.0,
   "passed": false
 }
