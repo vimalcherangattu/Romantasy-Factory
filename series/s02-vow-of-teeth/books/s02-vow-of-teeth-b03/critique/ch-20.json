@@ -4,38 +4,36 @@
     "change": 4.0,
     "romance_movement": 4.0,
     "shown_chemistry": 4.0,
-    "character_logic": 3.0,
+    "character_logic": 4.0,
     "stakes_and_cost": 4.0,
     "prose": 4.0,
-    "continuity": 0.0
+    "continuity": 5.0
   },
   "reasons": {
-    "reader_question": "Clear and urgent: the queen arrives at noon before or after the vote. Ch19's 'queen's own banners' already hinted at it, which blunts the reveal.",
-    "change": "Self-naming's cost is now public, three bonds are offered, the breach is named, and the queen's personal arrival raises the stakes.",
-    "romance_movement": "The new reason is the first broken term, repaired with terms that cost him. She speaks against him; he stands a step behind.",
-    "shown_chemistry": "Palms on cold stone a hand's width apart and 'Don't say it like a report' show response without narration.",
-    "character_logic": "Neela hands out pages saying 'nobody can read them against you' without the daylight reading the rule requires. Muthu at the distant cairn fire is implausible.",
-    "stakes_and_cost": "Each binding has a priced yes: knees, daughters, a wife's words. Neela's public dissent tonight costs Devan face before the Company.",
-    "prose": "Specific and well varied. Echoes: 'learned' three times, 'a long moment' twice, and a stock 'muscle in her cheek worked'.",
-    "continuity": "'Letter came the day after you left' conflicts with F866/F873. 'Banners I can't swear to' conflicts with F901."
+    "reader_question": "The queen arrives at noon in person, and the river watcher is still unexplained. Both are concrete, though the river thread is thinly framed.",
+    "change": "The secret cost goes public. Three pairs form and two refusals stand. The breach is named and new terms are set for the gate.",
+    "romance_movement": "The first broken term is repaired for a new reason. He took a price from her hands, and she now holds the gate and a public voice against him.",
+    "shown_chemistry": "Palms side by side on cold stone, the welt-ease felt half a breath behind, and 'You said that fast' all show attraction without narration.",
+    "character_logic": "Neela lays out the offer without urging, which is smart. Devan's failure on the road is owned rather than excused. One line misstates the wound-share.",
+    "stakes_and_cost": "Every pairing names a price: knees, daughters, a wife. Tonight Devan must face Neela speaking against him, and tomorrow he must stay silent at the gate.",
+    "prose": "Lean and specific, with no banned phrases and no em dashes. There are small echoes ('Her voice dropped'/'Her voice stayed low'), and the river inference is told.",
+    "continuity": "Consistent with F849, F862, F878, F882, F902 to F908, F792 and the self-naming rules. Nothing conflicts."
   },
   "fixes": [
-    "Continuity: in 'Her letter came the day after you left', the queen's rider left the Salt Gate in ch16 and reached Devan in ch17, while Neela was in Kodiyur. Change the line to 'Her letter came while you were still in Kodiyur.' Also, ch19 says Usha confirmed the banners. Replace 'The banners I can't swear to. The pairs I can.' with 'The banners say her household. The pairs say her.'",
-    "Worldbuilding collapse: at 'Burn them, read them, keep them. Nobody can read them against you', F011 says a page is safe in its subject's hands only after the holder reads it aloud in full, by daylight, before her. Have Neela say she will read each page at noon, to its owner alone or with whoever they choose. Note that this gives them new living witnesses, which is one more reason self-naming is the only full freedom.",
-    "At 'Muthu answered it before the third blast died. He met them at the cairn fire', the cairn is a mile down the cut from his walls (F902). Have him meet them at the padippura with the gate already open. Also cut the echoes: change 'which he had learned was worse than shouting' to a concrete tell, and replace the stock 'A muscle in her cheek worked and stilled' with her thumbnail dragging her forefinger nail (F328)."
+    "At \"When I swing a blade I send the blow\" (character logic, rule error): the wound-share carries wounds he takes, not blows he deals. Rewrite as \"When a blade finds me, it finds the one person I would never choose to hurt.\" That keeps the rule exact and the line sharp.",
+    "At \"She was looking at the measure.\" (disclosure missing its response step): Devan's biggest public disclosure gets no answer from Neela until the cistern scene. Add one small responsive act from her before Kuttu or Lata speaks. For example, she shifts the measure so the light falls off his blistered hands, or she says his name once, flat, to the court. This completes disclosure, response and feeling understood.",
+    "At \"Whatever lay in that river wanted nothing from the dead.\" (told inference, vague question): replace the narrated deduction with one exchange. Devan asks Koman a single exact question, such as which end of the wall it watched or whether it moved when the queen's riders turned. Koman's literal answer then makes the river thread a specific gap tied to the riders or the crown."
   ],
-  "reader_question": "What will Queen Nirmala do when she rides to Kettamala's gate at noon tomorrow, before the Company has answered her and with Devan sworn not to speak for Neela?",
+  "reader_question": "What will the queen do when she rides up to Kettamala's gate tomorrow at noon, and what is the thing in the river counting?",
   "techniques_landed": [
     10,
     15,
     16
   ],
-  "new_facts_assessment": "F907 (repair terms) is necessary and consistent with F878. F908 rightly aligns the river shape with ch19's middle-watch tower fall. The draft did not log three new facts. First, the letter timing ('the day after you left') conflicts with ch16/17. Second, Usha's doubt about the banners conflicts with F901. Third, Pavi's age of 24 and her wrist are consistent with F539 but were not logged.",
+  "new_facts_assessment": "The draft lists no new facts but adds several minor ones: Bhaskaran has carried the horn twenty years; Pavi's crooked wrist mirrors her otter's forepaw; Thilak has brought Pavi tea for a month; Usha reads the queen's presence from paired outriders (matches F906). All are consistent and earn their place. Koman's 'eleven years I've read that water' loosely stretches F771, which says he read the hill edge. Log these, or change 'water' to 'hill'.",
   "content_rule_violation": false,
-  "failure_modes": [
-    "Worldbuilding collapse"
-  ],
-  "average": 3.38,
-  "minimum": 0.0,
-  "passed": false
+  "failure_modes": [],
+  "average": 4.12,
+  "minimum": 4.0,
+  "passed": true
 }
