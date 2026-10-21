@@ -1,0 +1,39 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 5.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 4.0,
+    "stakes_and_cost": 3.0,
+    "prose": 4.0,
+    "continuity": 5.0
+  },
+  "reasons": {
+    "reader_question": "The closing line hands over a sharp, specific question: what can Devan prove now that the crown's own bird marks the raids?",
+    "change": "The chapter shifts knowledge and identity: a number becomes Indu of Nellimala, and the raids are shown to be agreed by the crown.",
+    "romance_movement": "This is a new reason to move: they are now injured parties together, and he gives her name back by daylight. The touch escalates slightly.",
+    "shown_chemistry": "Care is shown through specific action: the warmed water, 'which side', the door sightline, and fingers on the knuckle scars. Nothing is narrated as chemistry.",
+    "character_logic": "She protects Thilak first, then decodes, then refuses a bribe she knows is a leash. All smart, and true to her counting habit.",
+    "stakes_and_cost": "The fire's cost is named (forty drawers). But Chathu's threat to Thilak is settled cheaply within the chapter, with no price paid.",
+    "prose": "Clean and concrete with good rhythm. A few stock phrases slip in, and 'mouth went dry' and 'throat was dry' echo each other.",
+    "continuity": "Ages, the twenty-one years, Devan at eleven, the thirteenth tin, the welt, the forty-leaf tally book and the folded sunbird all match the bible and facts."
+  },
+  "fixes": [
+    "The line '\"It's the same bird,\" Devan said. \"It's on my sister's price.\"' adds an unlisted plot fact that the crown gave leave for Asha's death (twist without setup). Either show the exact tally-book line for Asha under the bird and add it to new-facts.json, or change the line to keep Asha as Ittan's own hooked sale. For example: 'It's on your village. And my sister found the man who kept this book.'",
+    "The line 'Tell Thilak I want him under this roof before the light goes' sets up a threat that ends with Thilak 'bewildered, alive' and no cost, so the cost is waived. Make protecting him cost something visible. Kuttan could come back with an arrow-graze, a hunter could be seen on the north path, or Neela could order all forty indoors at dusk and lose the grove watch, leaving trees unguarded.",
+    "The phrases 'closed like a key in a lock' and 'light as breath' are stock images, and 'Her mouth went dry' echoes 'Her throat was dry'. Rework them as specific details. For example: 'the brown tear met the brown tear, fibre to fibre'; 'he pressed the salve on with the flat of his thumb, the way he greased a mare's heel'. Cut or change one of the dryness lines."
+  ],
+  "reader_question": "Now that the crown's own mark sits on the raids, what can Devan bring to the high court, and against whom?",
+  "techniques_landed": [
+    3,
+    9,
+    20
+  ],
+  "new_facts_assessment": "The listed facts are necessary and consistent: the warmed water, the grey mare's off hind, the dawn-change error, the roll leaf's cipher split, and the thirteenth tin. One fact is not listed and is high-impact: Devan's line 'It's on my sister's price' says the folded 'by leave' bird marks Asha's killing. That would make the crown a party to Asha's murder, which the bible attributes to Ittan's own purchase. It must be either listed and checked against the outline, or cut. The members'-cipher lines repeat what F253 says the original slip held; this is acceptable, since the desk slip is the torn stub.",
+  "content_rule_violation": false,
+  "failure_modes": [],
+  "average": 4.12,
+  "minimum": 3.0,
+  "passed": true
+}
