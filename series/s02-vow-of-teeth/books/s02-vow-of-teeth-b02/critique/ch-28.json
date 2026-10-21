@@ -1,41 +1,42 @@
 {
   "scores": {
     "reader_question": 4.0,
-    "change": 5.0,
+    "change": 4.0,
     "romance_movement": 4.0,
     "shown_chemistry": 4.0,
     "character_logic": 3.0,
     "stakes_and_cost": 4.0,
-    "prose": 4.0,
-    "continuity": 0.0
+    "prose": 3.0,
+    "continuity": 5.0
   },
   "reasons": {
-    "reader_question": "The lookout leaf she cannot hand on, plus the uncounted sunbird stubs, give two specific gaps. The question drifts slightly from the beat's court question.",
-    "change": "The guild is emptied, every page is given away, Chathu is bound and the resin is unrationed. Neela ends holding nothing but her names.",
-    "romance_movement": "There is new recognition: he gives Vellan his back and counts seventeen steps for her. The unspoken nod lands, but it is underplayed.",
-    "shown_chemistry": "The 'Seventeen' step-count callback and the silent nod show what they understand. Her watching him turn his back is responsive, not narrated.",
-    "character_logic": "Muthu's men guard Chathu in the yard during public readings, so they become witnesses nobody chose. Pavi is present though she was sent east.",
-    "stakes_and_cost": "Thilak burns his village, Kirri stays lost and the yard gains witnesses. The lookout leaf leaves a clear cost hanging.",
-    "prose": "The prose is clean and concrete, with good restraint. There are repeated tics: 'heard how it sounded' twice, the 'tappers burned their rags' basket twice, and 'scraped bare' echoing ch27.",
-    "continuity": "Four separate conflicts: 'Four days to Kettamala' contradicts F018; Fourth Guard at Kettamala contradicts F474; forty-one cages contradicts F443; 'forty pages today' contradicts the eighty-two read."
+    "reader_question": "Two sharp hooks: the folded-wing sunbird stubs, and Neela's own lookout leaf. Both are specific, though the beat's court question is only implied.",
+    "change": "Neela ends holding nothing. Muthu burns his second loyalty, Chathu is bound and empty-handed, and the forty own their pages. The value shift lands.",
+    "romance_movement": "The reason is new. Each watches the other refuse power. He turns his back on his sister's killer after she freed him; recognition without a declaration.",
+    "shown_chemistry": "Devan's 'Seventeen... I learned it from someone' and the unspoken nod show the attraction through action. The step-count logic blurs it, though.",
+    "character_logic": "The Vellan page exchange is muddled. Chathu's surrender and the grove-burning threat resolve off-page. The ending decision ignores that Devan carries the leaf and already knows it.",
+    "stakes_and_cost": "Every reader gains thirty-nine witnesses. Thilak loses his village and Kirri stays lost. Neela must now decide about her own lookout leaf.",
+    "prose": "Concrete and restrained, but with an unclear 'When she reached him', clustered 'did not', the 41-versus-17 step confusion and 'nobody owns anyone... by dawn'.",
+    "continuity": "Kennel nine, forty-two cages, Ammu's four letters, the wound-share, Devan as Vellan's dawn witness and the gag at dusk are all consistent with canon."
   },
   "fixes": [
-    "Continuity. Change \"Four days to Kettamala,\" he said to \"A day's hard ride to Kettamala\" (F018). Rewrite \"Fourth Guard watched me do it\": Rema's escort left by the goat path (F474), so use Unni. Change \"forty-one cages in two rows\" to forty-two cages in a row, forty-one filled (F443, F498). Fix \"She had read forty pages today\" to count all eighty-two.",
-    "Irrational behaviour. At \"Chathu sat on the cook-house step between two of Muthu's men\", soldiers hear every public reading and become unchosen witnesses, which breaks Neela's promise. Before she reads, have her send the two men out to the apron to face the road. Put Chathu under Thilak and Kuttu instead. Add one line placing Pavi back from the cairn camp (F621).",
-    "Prose repetition. \"She said it as a request, and she heard how it sounded\" and \"She heard how that sounded, and she said it again\" repeat a tic: cut the second. The basket \"where the tappers burned their rag(s)\" is described twice: on the second use, say only \"the gate basket\". \"His face was scraped bare\" echoes ch27's \"scraped to the bone\": find a new image."
+    "'She counted them twice. Then she closed the book': contrived delay. The POV knows the number and the narration hides it. State the count (for example 'thirty-one'), let her fail to read its meaning, and say she keeps the stubbed back half. As written, 'kept only what she had meant to keep' implies she discards it.",
+    "'Not me you should be giving it to' / 'You were holding it six hours': muddled logic. The page is already Vellan's, and Devan's power is the dawn witness word, not paper. Cut both lines. Have Vellan say the page isn't his real leash, the word in Devan's mouth is. Then go straight to Devan stepping forward.",
+    "'She could not hand that one on to anyone': the ending ignores that Devan buckled the contract books under his flap and has known the leaf since B2 ch16. Reframe the choice as whether she reads 'Lookout, Seventeen' aloud before Rema herself, or lets Devan submit it silently. Also align the step counts (41 vs 17) or cut hers."
   ],
-  "reader_question": "Will Neela put her own 'Lookout, Seventeen' leaf before the court, and what do the many sunbird-marked stubs cut from the ledger hide?",
+  "reader_question": "What do the cut sunbird leaves hide, and will Neela put her own 'Lookout, Seventeen' leaf before the court?",
   "techniques_landed": [
     24,
     16,
     20
   ],
-  "new_facts_assessment": "Most facts are necessary and fit. Kamalakshi pays off F568. Thilak as Four/boar fits F561. The sunbird stubs plant C22 cleanly against F446. The dusk gag on Chathu is smart, since he remains a live witness. Problems: Kirri's number Twelve and 'of the coast' are fine but vague. F639 (41 kennel pages) conflicts with the text's 'forty pages today'. Thirty volunteers out of about sixty (F218) leaves Kettamala thin, and nobody remarks on it. Muthu's night ride is doubtful against F602.",
+  "new_facts_assessment": "F640 overstates the case. Chathu sits in the yard on the step and Vellan is at the well, so they hear the pages too. Reword it to 'only the forty, Devan, Vellan and Chathu'. F641 is fine. F642: the page shows only that Unni watched the letter being written; trim to that. F643 is consistent with F443. Some facts are unlisted: Ammu's unsent fifth letter, Thilak and Thirteen both boars, and Chathu's off-page capture. They are minor but should be logged.",
   "content_rule_violation": false,
   "failure_modes": [
+    "Contrived delays",
     "Irrational behaviour to extend plot"
   ],
-  "average": 3.5,
-  "minimum": 0.0,
-  "passed": false
+  "average": 3.88,
+  "minimum": 3.0,
+  "passed": true
 }

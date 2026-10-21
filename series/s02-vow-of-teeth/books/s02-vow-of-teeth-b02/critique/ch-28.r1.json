@@ -1,0 +1,42 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 3.0,
+    "stakes_and_cost": 4.0,
+    "prose": 3.0,
+    "continuity": 5.0
+  },
+  "reasons": {
+    "reader_question": "Two sharp hooks: the folded-wing sunbird stubs, and Neela's own lookout leaf. Both are specific, though the beat's court question is only implied.",
+    "change": "Neela ends holding nothing. Muthu burns his second loyalty, Chathu is bound and empty-handed, and the forty own their pages. The value shift lands.",
+    "romance_movement": "The reason is new. Each watches the other refuse power. He turns his back on his sister's killer after she freed him; recognition without a declaration.",
+    "shown_chemistry": "Devan's 'Seventeen... I learned it from someone' and the unspoken nod show the attraction through action. The step-count logic blurs it, though.",
+    "character_logic": "The Vellan page exchange is muddled. Chathu's surrender and the grove-burning threat resolve off-page. The ending decision ignores that Devan carries the leaf and already knows it.",
+    "stakes_and_cost": "Every reader gains thirty-nine witnesses. Thilak loses his village and Kirri stays lost. Neela must now decide about her own lookout leaf.",
+    "prose": "Concrete and restrained, but with an unclear 'When she reached him', clustered 'did not', the 41-versus-17 step confusion and 'nobody owns anyone... by dawn'.",
+    "continuity": "Kennel nine, forty-two cages, Ammu's four letters, the wound-share, Devan as Vellan's dawn witness and the gag at dusk are all consistent with canon."
+  },
+  "fixes": [
+    "'She counted them twice. Then she closed the book': contrived delay. The POV knows the number and the narration hides it. State the count (for example 'thirty-one'), let her fail to read its meaning, and say she keeps the stubbed back half. As written, 'kept only what she had meant to keep' implies she discards it.",
+    "'Not me you should be giving it to' / 'You were holding it six hours': muddled logic. The page is already Vellan's, and Devan's power is the dawn witness word, not paper. Cut both lines. Have Vellan say the page isn't his real leash, the word in Devan's mouth is. Then go straight to Devan stepping forward.",
+    "'She could not hand that one on to anyone': the ending ignores that Devan buckled the contract books under his flap and has known the leaf since B2 ch16. Reframe the choice as whether she reads 'Lookout, Seventeen' aloud before Rema herself, or lets Devan submit it silently. Also align the step counts (41 vs 17) or cut hers."
+  ],
+  "reader_question": "What do the cut sunbird leaves hide, and will Neela put her own 'Lookout, Seventeen' leaf before the court?",
+  "techniques_landed": [
+    24,
+    16,
+    20
+  ],
+  "new_facts_assessment": "F640 overstates the case. Chathu sits in the yard on the step and Vellan is at the well, so they hear the pages too. Reword it to 'only the forty, Devan, Vellan and Chathu'. F641 is fine. F642: the page shows only that Unni watched the letter being written; trim to that. F643 is consistent with F443. Some facts are unlisted: Ammu's unsent fifth letter, Thilak and Thirteen both boars, and Chathu's off-page capture. They are minor but should be logged.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Contrived delays",
+    "Irrational behaviour to extend plot"
+  ],
+  "average": 3.88,
+  "minimum": 3.0,
+  "passed": true
+}
