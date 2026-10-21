@@ -12,7 +12,7 @@
   ],
   "chapters": {
     "01": {
-      "status": "passed",
+      "status": "edited",
       "revisions": 0,
       "scores": {
         "reader_question": 4.0,
@@ -26,18 +26,18 @@
       },
       "average": 4.0,
       "flags": [],
-      "words": 2482,
+      "words": 2469,
       "minimum": 3.0,
       "style": {
-        "words": 2562,
+        "words": 2469,
         "banned_hits": {},
         "ai_tell_hits": {},
         "ai_tells_per_1000": 0.0,
         "top_4gram": "of the other one",
-        "top_4gram_count": 3,
-        "longest_paragraph_words": 117,
+        "top_4gram_count": 2,
+        "longest_paragraph_words": 86,
         "em_dashes_per_1000": 0.0,
-        "reading_ease": 93.6
+        "reading_ease": 93.7
       },
       "owner_instructions": [
         "KEEP: Do not touch the opening page. Keep the counting, \"Two.\" on its own line, the cloth \"warm from the brazier... rewarmed in the night by a man who said nothing about it,\" and the langur ending (\"It did not come as a hush. It came as a hole.\"). Keep the goals argument word for word: \"I need one page.\" / \"All of them.\" / \"Then we go together. And argue after.\" Do not soften either side.",
@@ -1930,9 +1930,13 @@
     {
       "at": "2026-10-21T09:08:45",
       "event": "done: book-level checks"
+    },
+    {
+      "at": "2026-10-21T09:09:20",
+      "event": "done: S8 line edit ch 1"
     }
   ],
-  "updated_at": "2026-10-21T09:08:45",
+  "updated_at": "2026-10-21T09:09:20",
   "midpoint_chapter": 16,
   "continuity_attempts": 0,
   "continuity_last_errors": null,
