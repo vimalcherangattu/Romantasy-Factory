@@ -1,34 +1,25 @@
 {
   "facts": [
     {
+      "id": "F743",
       "category": "knowledge",
-      "fact": "Usha knows from the queen's household that a ledger page burned of itself at the Resin House on the new-moon night (Neela's self-naming), and asks what the naming cost; she does not name the shape. Neela tells her publicly only the wound-share.",
-      "why": "needed because the beat has Usha ask what the naming cost; the Chathu post reaching the household makes it plausible."
+      "fact": "Usha knows from the queen's household that a ledger page burned of itself at the Resin House two nights past the new moon (the dusk of Neela's self-naming, not the new-moon night itself), and asks what the naming cost; she does not name the shape. Neela tells her publicly only the wound-share. Revises the earlier new-moon wording.",
+      "since": "s02-vow-of-teeth-b03 ch 2",
+      "provisional": true
     },
     {
-      "category": "object",
-      "fact": "Devan carries the oilcloth bundle (hide contract chit and the queen's payment writ, tied with red thread) in his pack on the hill, not in the shutter frame at Kettamala.",
-      "why": "needed because the beat has him check it in his pack."
-    },
-    {
+      "id": "F748",
       "category": "knowledge",
-      "fact": "Usha says the pass-village watcher's scent log goes to a cell at Kettamala and on to whoever opens the prisoner's post, which is the queen's household. This matches F666 and F713.",
-      "why": "needed because the beat has Usha explain how she found the shelter."
+      "fact": "Neela tells Usha that Devan nicked his chin shaving 'three days back' and she found the welt over her rice. No weekday names are used.",
+      "since": "s02-vow-of-teeth-b03 ch 2",
+      "provisional": true
     },
     {
-      "category": "knowledge",
-      "fact": "Devan orders 'Nobody smears tonight' so no stranger can witness a turning; the Company obeys without asking why.",
-      "why": "needed to keep Usha from becoming a witness at dusk, per the chapter goal."
-    },
-    {
-      "category": "name",
-      "fact": "Usha is First Guard's given name, offered unasked; the letter calls the forty 'those who came down from the Resin House'.",
-      "why": "beat requires the name and the letter's address."
-    },
-    {
-      "category": "knowledge",
-      "fact": "Devan's 'Tuesday' nick while shaving: Neela finds the welt on her chin over her rice. Neela mentions it to Usha as a joke.",
-      "why": "illustrates the wound-share in dialogue; a minor texture detail."
+      "id": "F749",
+      "category": "plot",
+      "fact": "At the end of ch 2 Neela and Devan state the cost of Usha's door aloud: Kodiyur is four hard days away and the raiders reach the gorge in three, so taking the door means Devan leaving the pass he swore to the Company's fire to hold, or Neela going alone.",
+      "since": "s02-vow-of-teeth-b03 ch 2",
+      "provisional": true
     }
   ]
 }
