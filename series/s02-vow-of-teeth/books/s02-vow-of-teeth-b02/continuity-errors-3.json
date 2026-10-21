@@ -2,146 +2,151 @@
   "open_errors": [
     {
       "id": "E01",
-      "chapter": 24,
+      "chapter": 17,
       "severity": "major",
-      "category": "knowledge",
-      "issue": "The slip 'Say nothing, and your wife is kept' threatened Ittan's invalid wife (ch 9: 'His wife's an invalid... so long as he kept quiet'). Chapters 19 and 24 treat it as a threat against Muthu's own wife. Muthu has no wife anywhere in the bible or the books.",
-      "fix": "Make Devan's thoughts and his apology refer to the slip Muthu carried, which threatened Ittan's wife.",
+      "category": "character",
+      "issue": "In ch 17 Devan promises Neela 'I am not going back to the fort without you.' In ch 18 he rides back to Kettamala alone and leaves her at the Resin House. The bible fixes that Devan never lies to Neela, so this reads as a broken promise.",
+      "fix": "Limit the promise to today, so his ride back in ch 18 is not a lie.",
       "patches": [
         {
-          "chapter": 19,
-          "find": "He did not say *the reason is that you are told to say nothing, and your wife is kept.*",
-          "replace": "He did not say *the reason is the slip you carried into a cell: say nothing, and your wife is kept.*"
-        },
-        {
-          "chapter": 24,
-          "find": "The threat to your wife came later, on a slip, and you still told me nothing.",
-          "replace": "The slip that threatened Ittan's wife came later, through your hands, and you still told me nothing."
+          "chapter": 17,
+          "find": "I am not going back to the fort without you. I'm not going to the horses.",
+          "replace": "I am not going back to the fort today. I'm not going to the horses."
         }
       ]
     },
     {
       "id": "E02",
-      "chapter": 5,
+      "chapter": 9,
       "severity": "minor",
-      "category": "injury",
-      "issue": "First Guard's left hand closes on her own left cuff, which is not physically possible. In ch 3 she uses her right hand for the same gesture.",
-      "fix": "Make it her right hand.",
+      "category": "place",
+      "issue": "Neela sleeps in the warden's chamber, not the hall. The hall is the downstairs room where the post strongbox is opened later in the same chapter.",
+      "fix": "Say chamber instead of hall.",
       "patches": [
         {
-          "chapter": 5,
-          "find": "Then her left hand went to her left cuff and closed on it, and stayed there.",
-          "replace": "Then her right hand went to her left cuff and closed on it, and stayed there."
+          "chapter": 9,
+          "find": "A bruise broke no skin, so the woman he had left sleeping in the hall above would feel none of it.",
+          "replace": "A bruise broke no skin, so the woman he had left sleeping in the chamber above would feel none of it."
         }
       ]
     },
     {
       "id": "E03",
-      "chapter": 6,
+      "chapter": 11,
       "severity": "minor",
-      "category": "timeline",
-      "issue": "They agree to ride at full dark that night, yet Devan says he will tell Rema at first light. By then he will already be on the wood road.",
-      "fix": "He leaves word for Rema instead of telling her in person.",
+      "category": "object",
+      "issue": "Neela filled the flask in ch 7 and smeared resin from it for the scouting night in ch 8. In ch 11 it is still described as full.",
+      "fix": "Make it nearly full.",
       "patches": [
         {
-          "chapter": 6,
-          "find": "I'll tell her at first light that my wife and I have gone to fetch it.",
-          "replace": "I'll leave word for her at first light that my wife and I have gone to fetch it."
+          "chapter": 11,
+          "find": "It was full. Black and cold and very small, with a cork she had cut herself.",
+          "replace": "It was nearly full, less one night's smear. Black and cold and very small, with a cork she had cut herself."
         }
       ]
     },
     {
       "id": "E04",
-      "chapter": 9,
+      "chapter": 15,
       "severity": "minor",
       "category": "magic",
-      "issue": "Muthu's blow bruises Devan, and the share shows on Neela as a plum-coloured bruise. Everywhere else the wound-share raises a shallow welt on the partner, not the original injury.",
-      "fix": "Make Neela's mark a welt.",
+      "issue": "Under the wound-share, Neela's cuts appear on Devan as shallow welts that do not open (ch 7, ch 20, ch 27). In the shaft his welts 'tore wider' and 'tore a little', which means they opened.",
+      "fix": "Make the welts burn rather than tear.",
       "patches": [
         {
-          "chapter": 9,
-          "find": "Across her ribs, under the cloth, a bruise had come up the colour of a plum.",
-          "replace": "Across her ribs, under the cloth, a welt had come up where his bruise was."
+          "chapter": 15,
+          "find": "The fourth welt tore wider as he leaned, and he hissed through his nose and leaned harder.",
+          "replace": "The fourth welt burned hotter as he leaned, and he hissed through his nose and leaned harder."
+        },
+        {
+          "chapter": 15,
+          "find": "Each pull opened something.",
+          "replace": "Each pull dragged at something."
+        },
+        {
+          "chapter": 15,
+          "find": "The welts on his back stretched and tore a little at every reach, and the sacking on his boots slid on the wet stone.",
+          "replace": "The welts on his back stretched and burned at every reach, and the sacking on his boots slid on the wet stone."
         }
       ]
     },
     {
       "id": "E05",
-      "chapter": 10,
+      "chapter": 17,
       "severity": "minor",
       "category": "timeline",
-      "issue": "Kandan says Raiu is 'in the ground'. Raiu was burned on a pyre (ch 26 'Raiu's pyre', ch 30 'not a month after Raiu burned').",
-      "fix": "Replace the burial wording with the pyre.",
+      "issue": "Devan is 32 and grew up at Kettamala, yet ch 17 says he has walked past the newel for 'twenty-two years'. That figure is Asha's age, not his.",
+      "fix": "Say all his life.",
       "patches": [
         {
-          "chapter": 10,
-          "find": "Raiu not a month in the ground, and our lord bows.",
-          "replace": "Raiu not a month off the pyre, and our lord bows."
+          "chapter": 17,
+          "find": "He had walked past it for twenty-two years, and for six of them he had not been able to put a hand on it.",
+          "replace": "He had walked past it all his life, and for the last six years he had not been able to put a hand on it."
         }
       ]
     },
     {
       "id": "E06",
-      "chapter": 20,
+      "chapter": 18,
       "severity": "minor",
-      "category": "object",
-      "issue": "In ch 20 Neela matches the leaf under the sweets to 'her torn slip' lying on the master's desk. That slip appears nowhere earlier in the book. Ch 1 and ch 6 say Chathu took her intake slip from the mud and kept it. The four-line leaf under the sweets is that slip.",
-      "fix": "Make the leaf her own intake slip and drop the unexplained desk slip.",
+      "category": "timeline",
+      "issue": "Devan, who speaks in exact facts, calls Neela 'a child on a stair'. She was 21 that night: she says so in this chapter, and ch 23 states plainly that she had not been a child.",
+      "fix": "Give her real age.",
       "patches": [
         {
-          "chapter": 20,
-          "find": "It was not her slip. It was the rest of the roll leaf her slip had been cut from.",
-          "replace": "It was her slip, the roll leaf she had last seen in the mud of the yard under Chathu's thumb."
-        },
-        {
-          "chapter": 20,
-          "find": "The black book lay where she had left it. Beside it, under a river stone, lay her torn slip, with half its entry gone at the tear. She laid the new leaf against it, edge to edge. The brown tear met the brown tear and closed like a key in a lock. Neither of them spoke.",
-          "replace": "The black book lay where she had left it. She laid the leaf beside it and weighted its corner with a river stone. Neither of them spoke."
+          "chapter": 18,
+          "find": "You were a child on a stair, and a man had your eyes covered.",
+          "replace": "You were twenty-one, on a stair, and a man had your eyes covered."
         }
       ]
     },
     {
       "id": "E07",
-      "chapter": 20,
+      "chapter": 21,
       "severity": "minor",
-      "category": "object",
-      "issue": "Chathu's dented sweets tin sits on the shelf of the master's room in chs 16, 17 and 18, inside the House Neela holds. In ch 20 the same dented tin turns up warm on the gatepost, left by hunters outside the wall.",
-      "fix": "Make the gatepost tin a twin of the one on the shelf.",
+      "category": "knowledge",
+      "issue": "Devan states the treaty's price, 'no fleet landing', as known fact. The tally book shows only raids allowed 'by leave'. Nothing on the page tells him what the queen got in return.",
+      "fix": "Make the price his guess.",
       "patches": [
         {
-          "chapter": 20,
-          "find": "She knew the dent in the lid.",
-          "replace": "It was the twin of the tin on Chathu's shelf, down to the dent in the lid."
+          "chapter": 21,
+          "find": "The queen's: limited, counted, through the passes she chose, in exchange for no fleet landing.",
+          "replace": "The queen's: limited, counted, through the passes she chose, bought with something he could only guess at."
+        },
+        {
+          "chapter": 21,
+          "find": "Now he could see the whole bargain, and he felt like a man who has walked a long time along a wall and finds it has no door.",
+          "replace": "Now he could see the outline of the bargain, and he felt like a man who has walked a long time along a wall and finds it has no door."
         }
       ]
     },
     {
       "id": "E08",
-      "chapter": 21,
+      "chapter": 24,
       "severity": "minor",
-      "category": "object",
-      "issue": "Devan recalls Asha listing with chalk on the back of a tile. The tile was Neela's (ch 10). Asha used a slate.",
-      "fix": "Change the tile to Asha's slate.",
+      "category": "timeline",
+      "issue": "They left the Resin House at grey dawn and rode a day and a half (ch 21–22), so they reached Kettamala in the afternoon. Ch 24 says Bhaskaran rode back 'that morning'.",
+      "fix": "Say that day.",
       "patches": [
         {
-          "chapter": 21,
-          "find": "He made himself list it, the way Asha used to, with a stub of chalk on the back of a tile.",
-          "replace": "He made himself list it, the way Asha used to, with a stub of chalk on her slate."
+          "chapter": 24,
+          "find": "He had ridden back from the Resin House at Devan's stirrup that morning and had not said ten words since.",
+          "replace": "He had ridden back from the Resin House at Devan's stirrup that day and had not said ten words since."
         }
       ]
     },
     {
       "id": "E09",
-      "chapter": 22,
+      "chapter": 24,
       "severity": "minor",
-      "category": "timeline",
-      "issue": "Janu says Neela has spent 'two nights in a wood'. She left on the raid morning and returns about six nights later.",
-      "fix": "Change the count to most of a week.",
+      "category": "count",
+      "issue": "Vasu was one of the six men left at the House, and he has ridden to Kettamala. He still says 'Six of us and Pavi' are in the sheds. Ch 25 correctly shows five men there.",
+      "fix": "Make it five.",
       "patches": [
         {
-          "chapter": 22,
-          "find": "Two nights in a wood with men, and nobody thought to hand you a plate.",
-          "replace": "Most of a week in a wood with men, and nobody thought to hand you a plate."
+          "chapter": 24,
+          "find": "Bhaskaran's lads are outside the wall, in the sheds. Six of us and Pavi.",
+          "replace": "Bhaskaran's lads are outside the wall, in the sheds. The other five and Pavi."
         }
       ]
     },
@@ -150,58 +155,88 @@
       "chapter": 25,
       "severity": "minor",
       "category": "name",
-      "issue": "Rema has a clerk read Eravi's account into the roll. Elsewhere Rema has no clerk: Ittan's clerk is held, she writes receipts herself, and her clerk's chair stands empty (ch 11, 19, 29).",
-      "fix": "Rema reads the account herself.",
+      "issue": "Rema has no clerk: she writes her own receipts because Ittan's clerk is held (ch 11), and the clerk's chair is empty in ch 29. Ch 25 has her ask 'a clerk' to read Eravi's account.",
+      "fix": "Rema reads it herself.",
       "patches": [
         {
           "chapter": 25,
-          "find": "Rema had called the sitting at first grey, the moment Vasu's news was in, and had just asked a clerk to read Eravi's dated account into the roll for the second time.",
-          "replace": "Rema had called the sitting at first grey, the moment Vasu's news was in, and had just begun reading Eravi's dated account into the roll for the second time herself."
+          "find": "and had just asked a clerk to read Eravi's dated account into the roll for the second time.",
+          "replace": "and had just begun to read Eravi's dated account into the roll for the second time."
         }
       ]
     },
     {
       "id": "E11",
-      "chapter": 25,
+      "chapter": 27,
       "severity": "minor",
-      "category": "timeline",
-      "issue": "Neela says Devan struck a man for her 'this winter'. The book takes place in the monsoon.",
-      "fix": "Change 'this winter' to 'this season'.",
+      "category": "object",
+      "issue": "Neela carries Ammu's cord pouch in ch 1 and ch 6, and keeps it empty after ch 7. In ch 27 a cord pouch also lies beside Ammu's cloth at the blackbark tree, so the pouch is in two places.",
+      "fix": "Remove the pouch from the tree.",
       "patches": [
         {
-          "chapter": 25,
-          "find": "you have already struck a man for me this winter",
-          "replace": "you have already struck a man for me this season"
+          "chapter": 27,
+          "find": "A rag of blue cotton, rained on and dried and rained on again, with a cord pouch beside it, held down by a flat stone.",
+          "replace": "A rag of blue cotton, rained on and dried and rained on again, held down by a flat stone."
         }
       ]
     },
     {
       "id": "E12",
-      "chapter": 29,
+      "chapter": 27,
       "severity": "minor",
-      "category": "timeline",
-      "issue": "Devan says the second tally came off a raider 'last spring'. The scouts were killed at the narrows in book 1, a few weeks before the rains, in the same year.",
-      "fix": "Date it before the rains.",
+      "category": "body",
+      "issue": "Clothes do not survive a turning: Neela always comes back naked and needs a cloth. Yet Vellan turns back at dawn 'bare to the waist', as if he were still wearing something below.",
+      "fix": "Make him naked when he turns back.",
       "patches": [
         {
-          "chapter": 29,
-          "find": "Last spring a second came off a raider's body in the lower narrows.",
-          "replace": "Before the rains a second came off a raider's body in the lower narrows."
+          "chapter": 27,
+          "find": "a big bearded man lay shuddering among the roots, bare to the waist, the old resin scars pale at his throat and wrists.",
+          "replace": "a big bearded man lay shuddering among the roots, naked, the old resin scars pale at his throat and wrists."
         }
       ]
     },
     {
       "id": "E13",
+      "chapter": 30,
+      "severity": "minor",
+      "category": "place",
+      "issue": "Neela rules out the goat path as 'no way for a pony'. In ch 32 the forty take forty horses up it, and the watcher later finds their dung on it.",
+      "fix": "Make the path hard for ponies, not impossible.",
+      "patches": [
+        {
+          "chapter": 30,
+          "find": "The goat path, ropes and scree, no way for a pony, let alone forty frightened people carrying their season's flasks.",
+          "replace": "The goat path, ropes and scree, hard on a pony and harder on forty frightened people carrying their season's flasks."
+        }
+      ]
+    },
+    {
+      "id": "E14",
+      "chapter": 6,
+      "severity": "minor",
+      "category": "count",
+      "issue": "The kennels hold forty-one caged odiyans (ch 7, ch 14, ch 28). Neela, who is exact about counts, says 'forty more in the kennels'.",
+      "fix": "Say forty-one.",
+      "patches": [
+        {
+          "chapter": 6,
+          "find": "It holds forty lives, and forty more in the kennels who can't be helped by anything now.",
+          "replace": "It holds forty lives, and forty-one more in the kennels who can't be helped by anything now."
+        }
+      ]
+    },
+    {
+      "id": "E15",
       "chapter": 32,
       "severity": "minor",
-      "category": "magic",
-      "issue": "Vellan says the night-guard's wrist scars are 'the same as yours'. Devan saw a single smooth, flat seam on First Guard (ch 2), not thick ridges. Under the world rule every odiyan carries ridged resin scars, so the visible seam needs an explanation.",
-      "fix": "Have the paste cover the wrists too, wearing thin into one line where the cuff rubs.",
+      "category": "knowledge",
+      "issue": "Neela says she 'told Devan in the rain that no guild sells to the crown'. No such conversation appears on the page. Her reasoning that the crown hangs odiyans and does not hire them was private, in ch 3.",
+      "fix": "Make it her own private reasoning.",
       "patches": [
         {
           "chapter": 32,
-          "find": "The queen won't have scarred throats at her door. The wrists they hide in cuffs. The scars are there, same as yours.",
-          "replace": "The queen won't have scarred throats at her door. The wrists they paste and cuff both, and where a cuff rubs the paste wears to one smooth line. The scars are there, same as yours."
+          "find": "I told Devan in the rain that no guild sells to the crown.",
+          "replace": "I told myself in the hall that the crown hangs odiyans, it doesn't hire them."
         }
       ]
     }

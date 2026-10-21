@@ -2,43 +2,41 @@
 
 ## What I checked
 
-- **Names, ages and titles:** Neela 27, Devan 32, Rema 58, Thilak 41, Pavi 24, Muthu 35, Janu 61, and the garrison names.
-- **Number and name usage:** Seventeen, Thirty, Twelve, Four, Thirteen, Twenty-two/Kamalakshi, Indu of Nellimala.
-- **Magic rules:**
-  - dusk and dawn turnings, and nobody turning back early;
-  - witnessing (the forty turn unseen in the sheds; Devan becomes Vellan's witness at dawn);
-  - page handover read in full by daylight;
-  - caging only by a page or a live witness;
-  - the dusk pull on resin-free nights;
-  - the ache.
-- **Wound-share consistency:** the palm cut, shin, knuckles, hook, claw lines, both arrow grazes, calf and thigh bites, and the shoulder bite.
-- **Hand and bandage sides:** Neela's left nails, right palm and right wrist; First Guard's left-wrist seam.
-- **Who-knows-what:**
-  - Muthu's letters;
-  - the lookout leaf;
-  - Eravi as informant;
-  - the stubs and the sealed quire;
-  - the crown leaf.
-- **Objects:** the pebbles, flasks, Ammu's pouch, the bundle behind the third slat, the post-key and strongbox key, and the green-sealed quire.
-- **Places:** the west stair (44 steps, hollow eleventh, the postern grate), the east route (81 steps), the kennel row (42 cages, 41 occupied), the well house and the drain culvert.
-- **Timeline:** a day-by-day reconstruction from nine days into the rains through the raid, the assize, the stripping and the climb.
+- **Bible:** world rules (turning, witness word, ledger, wound-share, the ache, forced resin) and each character's fixed traits. In particular, Devan never lies to Neela, and Neela never says the word.
+- **Continuity facts:** every entry F001–F717, including the earlier book 2 draft facts.
+- **Outline and book 1 summary.**
+- **The book against itself:**
+  - Counts: garrison, hunters, the eight ridge-party men and how they were split, kennel cages, pages, smears and flasks.
+  - Ages and dates: the twenty-one years, Asha's death, the eleven contracts, the queen's writ.
+  - Travel times between Kettamala, the Resin House and Kodiyur.
+  - Injuries and which side or limb carries them.
+  - Who knows what: the lookout leaf, Vellan as the bear, Eravi, Muthu, the crown leaf.
+  - Objects: Ammu's pouch, the pebbles, the flask, the ledger halves, the green quire, the post-key.
 
 ## Errors found
 
-- **E01 (major):** In ch 4, Devan already knows Muthu's letters to the queen span six years, which spoils the ch 8 reveal.
-- **E02 (minor):** The time since Ammu's death and the binding is miscounted in ch 1 and ch 14.
-- **E03 (minor):** In ch 1, Neela has "been a name for nine days", which contradicts her years as Neela.
-- **E04 (minor):** In ch 2, Devan "never asked" about the stair, though he asked about the eleventh step.
-- **E05 (minor):** In ch 5, First Guard's left hand grips her own left cuff.
-- **E06 (minor):** In ch 5, Eravi applied the salve with his "thumb", but ch 3 says his little finger.
-- **E07 (minor):** In ch 16, "Find me in daylight" is placed on the rampart instead of after it.
-- **E08 (minor):** In ch 16, Devan "never mentioned" the kindi, though he told her in book 1.
-- **E09 (minor):** In ch 22, Janu's "two nights" should be about a week.
-- **E10 (minor):** The day counts in ch 23 and ch 24 are off.
-- **E11 (minor):** In ch 29, "last spring" should be this spring.
+15 errors: 1 major, 14 minor.
 
-## Notes, not errors
+- **E01 (major), ch 17:** Devan promises not to go back to the fort without Neela, then rides back alone in ch 18. This breaks his never-lies trait.
+- **Minor, by chapter:**
+  - Ch 6: the kennel count is off by one (E14).
+  - Ch 9: Neela is "sleeping in the hall" instead of the chamber (E02).
+  - Ch 11: the flask is "full" after a night's use (E03).
+  - Ch 15: welts tear open, against the wound-share rule (E04).
+  - Ch 17: Devan "twenty-two years" at the newel (E05).
+  - Ch 18: Devan calls 21-year-old Neela "a child" (E06).
+  - Ch 21: Devan knows the treaty's fleet term without a source (E07).
+  - Ch 24: Bhaskaran arrives "that morning" (E08), and Vasu miscounts the men in the sheds (E09).
+  - Ch 25: Rema uses a clerk she does not have (E10).
+  - Ch 27: Ammu's pouch is in two places (E11), and Vellan is "bare to the waist" after turning (E12).
+  - Ch 30: the goat path is "no way for a pony", but horses climb it in ch 32 (E13).
+  - Ch 32: Neela recalls a conversation that never happened on the page (E15).
 
-- **Raid party and spear counts:** these are consistent inside the book (Bhaskaran plus eight; two rode back with Devan and six stayed). They contradict provisional facts F545 and F566, so the correction is logged in new-facts.
-- **Neela's smears:** the book is consistent that she spent one smear on the night the langurs went silent. This supersedes F458 and F483.
-- **Vellan's lame leg:** the book uses a hind leg, explained in ch 7 as the thigh hit coming down. The book 1 summary says "foreleg"; the provisional facts already follow the hind leg.
+## Changes from earlier draft facts
+
+The final text differs from several earlier draft facts. The text is internally consistent on each point, and the changes are recorded in new-facts.json:
+
+- **Smear:** the first smear was spent on the pass road the night the langurs went silent (not F458, not F483).
+- **Raid party:** eight men came into the yard at the raid (not ten, F545).
+- **Split at the House:** two men rode out with Devan and six stayed (not F566).
+- **Box in the shaft:** the box sat on the ledge with its chain slack (not hanging, F538).
