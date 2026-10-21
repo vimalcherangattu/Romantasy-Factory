@@ -964,7 +964,7 @@
       ]
     },
     "32": {
-      "status": "passed",
+      "status": "edited",
       "revisions": 1,
       "scores": {
         "reader_question": 4.0,
@@ -978,18 +978,18 @@
       },
       "average": 4.12,
       "flags": [],
-      "words": 3083,
+      "words": 3081,
       "minimum": 4.0,
       "style": {
-        "words": 3029,
+        "words": 3081,
         "banned_hits": {},
         "ai_tell_hits": {},
         "ai_tells_per_1000": 0.0,
-        "top_4gram": "it was the name",
-        "top_4gram_count": 3,
-        "longest_paragraph_words": 79,
+        "top_4gram": "sold to the crown",
+        "top_4gram_count": 2,
+        "longest_paragraph_words": 90,
         "em_dashes_per_1000": 0.0,
-        "reading_ease": 92.5
+        "reading_ease": 92.2
       },
       "owner_instructions": [
         "KEEP: Keep \"Sold to the crown,\" the thirty stubs matched by finger, Vellan walking in without resin, Kamalakshi's \"I haven't forgiven you\" over the whole-beaked bird, and the recall vote. Keep Vellan's lines about the green road and being bought at nine.",
@@ -1966,9 +1966,13 @@
     {
       "at": "2026-10-21T09:13:59",
       "event": "done: S8 line edit ch 31"
+    },
+    {
+      "at": "2026-10-21T09:14:35",
+      "event": "done: S8 line edit ch 32"
     }
   ],
-  "updated_at": "2026-10-21T09:13:59",
+  "updated_at": "2026-10-21T09:14:35",
   "midpoint_chapter": 16,
   "continuity_attempts": 0,
   "continuity_last_errors": null,
