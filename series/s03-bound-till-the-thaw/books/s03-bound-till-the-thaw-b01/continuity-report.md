@@ -1,58 +1,53 @@
 # Continuity report: Bound till the Thaw (Book 1, chapters 1–32)
 
-## What I checked
+## What was checked
 
-- **Bible and continuity facts:** the whole book against the series bible and continuity.json, including the bible's fixed character traits and every world-rule clause.
-- **Names and forms of address:** Guide, Captain, Captain-ji, Didi.
-- **Ages and calendar:**
-  - Day-by-day calendar: the twenty-day deadline, Varun's days under the slide, the Ranu door rule and the days left to the Fair.
-  - Firewood counts from 41 down to 7.
-  - Redbark courses: 12 packets, then 9 sound, then 18 courses, then 23 untreated.
-  - Grave counts: 31, then 32 with Sunni.
-- **Magic rules:**
-  - Distance limit and lie-cold sizes.
-  - Taking the cold (the loophole).
-  - Promises made while bound, and the free categories.
-- **Injuries:**
-  - Rohan's left ribs and his split right knuckles.
-  - Meera's split knuckles and her left ring and little fingers.
-  - Kiran's left ear.
-- **Who knows what:**
-  - Dilan's rope and the badge.
-  - The seal's whereabouts.
-  - Varun's survival.
-  - The three-wardens party figure.
+- **Names and address forms:** Guide, Captain and Captain-ji; Varun's knowledge of Meera.
+- **Ages:** Meera 29, Rohan 35, Kiran 22 at Dilan's death, Asha 28, Ila 30, Dilan 23.
+- **Day count:** checked against the twenty-day deadline, from day 1 at Kothi Shilak to the Fair at dawn of day 20.
+- **Running counts:**
+  - firewood: 41, 36, 31, 24, 19, 13, 12, 11, then 7 recovered;
+  - redbark: 12 packets, 3 ruined, 18 courses;
+  - Ranu graves: 31, then 32 with Sunni;
+  - the 206 people carried.
+- **Rope-bond rules:**
+  - distance limits;
+  - lie size and its cost;
+  - the loophole;
+  - promises and the hum the rope gives;
+  - the bond ending at the thaw.
+- **Injuries:** Rohan's left 7th and 8th ribs and left arm; Meera's left ring and little fingers; Kiran's left ear; Rohan's split right knuckles.
 - **Objects:**
-  - Both bells, the seal and its hitch, the button token.
-  - The writ and writ case, both pattus.
-  - The count, the badge and the wax tin.
-- **Places:** the layouts of the Rope-Hut and Nimmi's house.
+  - the seal and its double hitch;
+  - Dilan's rope end and badge;
+  - both of Badami's bells;
+  - the brass button twins;
+  - the pattus, the coat and the writ case.
+- **Who knows what and when**, against the secret map: S1, S2, S5, S6 and S7.
+- **Directions on the Saddle**, and where Asha's pursuers are relative to the leads.
 
-## Errors found
+## Errors found (10)
 
-Nine errors in total: one major, eight minor.
+- **Major (2):**
+  - Varun fails to recognise Meera, though he was her assigned rope partner and walked behind her up the gully (ch 25).
+  - Meera tells a free lie, "I'm well", which waives the lie-cold rule (ch 26).
+- **Minor (8):**
+  - Asha's pursuers are placed on the wrong slope (ch 7).
+  - The callback to Rohan's earlier Salt Fox question names the wrong night (ch 13).
+  - Kiran sleeps a day too long, which pushes the Fair to day 21 (ch 21).
+  - Kiran claims not to understand "sorry about the hymn" (ch 22).
+  - Dilan cuts the rope "above his waist" although they were bound at the wrist (ch 22).
+  - Varun claims never to have seen a jogini binding, though he crossed bound himself (ch 25).
+  - The button's binding stitches are dated ten winters back instead of this crossing (ch 28).
+  - The scope of Rohan's "no more questions" promise is misstated (ch 28).
 
-| ID | Ch | Severity | Error |
-|---|---|---|---|
-| E01 | 18 | major | Kiran's frostbitten ear is shown openly to Rohan on arrival. That breaks the who-knows-what set up by ch 21 and ch 22, where the ear is under a cap and Rohan sees it first in the passage. |
-| E02 | 1 | minor | The red rope is described as raw wool spun by the crew. The bible says it was spun in Lata's house. |
-| E03 | 2 | minor | The writ is drawn from his coat, but ch 7 places it in a case on his belt. |
-| E04 | 10 | minor | Meera recalls the gully party as "on the rope" though they were never roped. |
-| E05 | 13 | minor | Rohan's "Nothing." is a free false statement. |
-| E06 | 15 | minor | The redbark colour slips to "pale brown". |
-| E07 | 25 | minor | The coat search misses the writ and the queen's wax tin that appear later. |
-| E08 | 28 | minor | The stitched-in button token comes out without unpicking the stitches. |
-| E09 | 30 | minor | Varun says "last night" for an escape made the day before. |
+Each error has exact patches in `errors.json`.
 
-## Checked but not counted as errors
+## Noted but not flagged
 
-**Book timeline vs. continuity.json.** The book's own timeline is consistent: the Fair falls at dawn of the twentieth day after Rohan's arrival. Several provisional facts in continuity.json disagree with the final text:
-
-- F129: nine days left at ch 13 (the book says eleven).
-- F131 and F153: Varun buried nine and eleven days (the book says seven and eight).
-- F178, F179 and F276: four days left, and a third-day door rule (the book says eight days and a sixth-day door rule).
-- F114: the party sheet.
-
-I treated the book as authoritative and logged the actual figures in new-facts.json.
-
-**Off-by-one day mentions.** "Fifteen days" (ch 23) and "sixteen days" (ch 26) are approximate counts in dialogue and narration. I left them unchanged.
+- Many provisional facts in `continuity.json` disagree with the current text, so the text was taken as authoritative:
+  - F107 and F114 (the guides heard the party read);
+  - F129 and F131 (nine days left, Varun buried nine days);
+  - F153 (eleven days at ch 16);
+  - F176 and F179 (the patrol's third-day versus sixth-day door rule).
+- The current text is internally consistent on all of these. The three-day rule facts F179 and F276 should be retired in favour of the sixth day.

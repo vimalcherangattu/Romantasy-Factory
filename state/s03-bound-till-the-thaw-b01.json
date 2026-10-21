@@ -3,7 +3,7 @@
   "series_id": "s03-bound-till-the-thaw",
   "number": 1,
   "title": "Bound till the Thaw",
-  "status": "in_progress",
+  "status": "blocked",
   "stage": "S3",
   "done": [
     "S3"
@@ -606,7 +606,8 @@
   "chapter_count": 32,
   "flags": [],
   "errors": [
-    "1 major continuity errors remain after 1 fix round(s): ch 19: Chapter 19 falls on day 12 of twenty: Sunni dies at dawn after the day-11 arrival. Nimmi says the Fair is 'four days' off, but chapter 21 (day 15) says five days remain and chapter 22 (day 16) says four, so the count goes up. Chapter 19's 'third day' door rule also cannot fit. Counted from the day-12 patrol, the doors would shut around day 15, yet chapter 21 has the rule biting only after they leave on day 17. A sixth-day rule and eight days to the Fair fit every later chapter."
+    "1 major continuity errors remain after 1 fix round(s): ch 19: Chapter 19 falls on day 12 of twenty: Sunni dies at dawn after the day-11 arrival. Nimmi says the Fair is 'four days' off, but chapter 21 (day 15) says five days remain and chapter 22 (day 16) says four, so the count goes up. Chapter 19's 'third day' door rule also cannot fit. Counted from the day-12 patrol, the doors would shut around day 15, yet chapter 21 has the rule biting only after they leave on day 17. A sixth-day rule and eight days to the Fair fit every later chapter.",
+    "2 major continuity errors remain after 2 fix round(s): ch 25: Varun was assigned as Meera's rope partner in ch 2 and walked behind her up the gully in ch 3, so he knows her face as Jassi's second. In ch 25 he asks 'Who is the woman?' and the narration says 'He did not know her'. He should not know she is the Salt Fox, but he should recognise her.; ch 26: Meera tells her bound partner 'I'm well' while believing she is dying of cold, and says it to be believed. Nothing happens, and the narration says the mountain 'had no jurisdiction over well'. The bible defines a lie as a statement believed false and said to be believed. It also says the rule is never suspended in a crisis."
   ],
   "revision_round": 0,
   "asin": null,
@@ -1194,9 +1195,13 @@
     {
       "at": "2026-10-21T09:33:15",
       "event": "done: S5 critique ch 28"
+    },
+    {
+      "at": "2026-10-21T09:44:37",
+      "event": "blocked at S7 continuity: 2 major continuity errors remain after 2 fix round(s): ch 25: Varun was assigned as Meera's rope partner in ch 2 and walked behind her up the gully in ch 3, so he knows her face as Jassi's second. In ch 25 he asks 'Who is the woman?' and the narration says 'He did not know her'. He should not know she is the Salt Fox, but he should recognise her.; ch 26: Meera tells her bound partner 'I'm well' while believing she is dying of cold, and says it to be believed. Nothing happens, and the narration says the mountain 'had no jurisdiction over well'. The bible defines a lie as a statement believed false and said to be believed. It also says the rule is never suspended in a crisis."
     }
   ],
-  "updated_at": "2026-10-21T09:33:15",
+  "updated_at": "2026-10-21T09:44:37",
   "midpoint_chapter": 16,
   "continuity_attempts": 2,
   "continuity_last_errors": 1
