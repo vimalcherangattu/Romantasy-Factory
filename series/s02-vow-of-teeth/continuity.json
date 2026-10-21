@@ -4458,6 +4458,27 @@
       "fact": "The Resin House kennel aisle has forty-two cages in a single row, forty-one filled. Neela reads eighty-two pages in the day: the forty, Vellan's, and forty-one kennel pages.",
       "since": "s02-vow-of-teeth-b02 ch 28",
       "provisional": true
+    },
+    {
+      "id": "F644",
+      "category": "place",
+      "fact": "The assize hearing in the hall is held at noon, two days after the return from the Resin House, in daylight so Chathu is ungagged.",
+      "since": "s02-vow-of-teeth-b02 ch 29",
+      "provisional": true
+    },
+    {
+      "id": "F645",
+      "category": "object",
+      "fact": "Rema keeps a second sealed case tied in green thread at her feet, unopened during the assize; she glances at it when Devan mentions the seal.",
+      "since": "s02-vow-of-teeth-b02 ch 29",
+      "provisional": true
+    },
+    {
+      "id": "F646",
+      "category": "knowledge",
+      "fact": "The night before the assize Devan told Neela he would put the lookout leaf before Rema himself, bearing the cost; she did not answer.",
+      "since": "s02-vow-of-teeth-b02 ch 29",
+      "provisional": true
     }
   ],
   "knowledge": [
