@@ -1,0 +1,41 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 4.0,
+    "stakes_and_cost": 5.0,
+    "prose": 3.0,
+    "continuity": 0.0
+  },
+  "reasons": {
+    "reader_question": "The closing line leaves a specific dread: what did Chathu do with the forty? It would be sharper if the ending hinted at one concrete fate.",
+    "change": "The informant is named and held, the House falls, Muthu is repaired and the bargain over forgiveness is remade. Knowledge, power and relationship all shift.",
+    "romance_movement": "The new reason lands: forgiveness stops being the price of staying. Neela's 'worst possible thing' line proves she takes it in.",
+    "shown_chemistry": "The plate, the kindi, not looking away and 'I didn't touch him' all show care in action. The sex scene is serviceable but generic in its middle.",
+    "character_logic": "Letting the runner go and keeping the hand is smart. Riding at grey has stated reasons. Eravi's confession is credible.",
+    "stakes_and_cost": "Choosing the grey over the night visibly costs the forty. The night without resin costs Neela the ache. Both are paid on the page.",
+    "prose": "Concrete and readable. The 'I'm thirty-two years old' line reads as compliance exposition. 'Her eyes flew to his' is a cliché. 'Devan did not' openings repeat.",
+    "continuity": "Eravi 'found her', but Janu found Asha's body (F066, F591). The Muthu suspicion conflicts with F506. The first scene had no pebble (F183)."
+  },
+  "fixes": [
+    "'I found her in the morning.' The canon says Janu found Asha's body (F066, F591). Change this to 'Janu found her. They brought me to her in the grey,' and keep his line about writing the bear report.",
+    "'Last week I read your face for a traitor's'. This conflicts with F506, where they cleared Muthu in ch 9, and 'I told Rema it was you' is unlisted. Rewrite the apology around six years of reading his grey letters as betrayal and taking the post-key. Also note that the wife threat came later (F503, F504), not at the start.",
+    "'in the dark with a pebble in his cheek'. The first explicit scene was a no-resin night, so there was no pebble (F183). Use rain and her scars instead. Also cut 'I'm thirty-two years old' from his speech. Put Devan's age in a natural beat earlier, such as Muthu's 'two grown men' banter."
+  ],
+  "reader_question": "What has Chathu done with the forty odiyans now that his hunters hold the Resin House walls?",
+  "techniques_landed": [
+    12,
+    14,
+    9
+  ],
+  "new_facts_assessment": "Listed facts work. The salve note matches F590, and the late rider is good cost. Bhaskaran's return needs to agree with F588. Unlisted and conflicting: Eravi found Asha's body, Devan told Rema it was Muthu, and Devan hears Asha's voice nightly.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Contrived delays"
+  ],
+  "average": 3.5,
+  "minimum": 0.0,
+  "passed": false
+}

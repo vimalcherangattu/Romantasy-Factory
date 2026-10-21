@@ -4,38 +4,38 @@
     "change": 4.0,
     "romance_movement": 4.0,
     "shown_chemistry": 4.0,
-    "character_logic": 3.0,
-    "stakes_and_cost": 4.0,
+    "character_logic": 4.0,
+    "stakes_and_cost": 5.0,
     "prose": 3.0,
     "continuity": 0.0
   },
   "reasons": {
-    "reader_question": "The closing line makes the forty's fate concrete and urgent, and Neela's white face at the rail personalises it.",
-    "change": "The informant is named and confesses, Muthu's trust is repaired, and the private declaration is made: three state changes.",
-    "romance_movement": "Choosing without forgiving is a new reason and reframes repair; the explicit scene follows from it rather than repeating ch22.",
-    "shown_chemistry": "Plantain eaten, eyes held, a hand on her scar, 'Stay where you are': responsive, though the kindi line narrates care outright.",
-    "character_logic": "Devan learns the House is betrayed and masterless, sends no warning, and accepts 'only three' despite the jar and the reading-day question.",
-    "stakes_and_cost": "Raiu's death is costed at last, and the ending forces a ride that strips the fort, though Devan's own choice isn't costed on page.",
-    "prose": "Clean and concrete, but the age-and-history speech is clunky, 'said nothing' recurs, and the sex scene's phrasing is generic.",
-    "continuity": "Devan claims eight years without striking anyone; he struck Vellan in B1 ch27 and B2 ch15. Other timeline slips too."
+    "reader_question": "The closing line leaves a specific dread: what did Chathu do with the forty? It would be sharper if the ending hinted at one concrete fate.",
+    "change": "The informant is named and held, the House falls, Muthu is repaired and the bargain over forgiveness is remade. Knowledge, power and relationship all shift.",
+    "romance_movement": "The new reason lands: forgiveness stops being the price of staying. Neela's 'worst possible thing' line proves she takes it in.",
+    "shown_chemistry": "The plate, the kindi, not looking away and 'I didn't touch him' all show care in action. The sex scene is serviceable but generic in its middle.",
+    "character_logic": "Letting the runner go and keeping the hand is smart. Riding at grey has stated reasons. Eravi's confession is credible.",
+    "stakes_and_cost": "Choosing the grey over the night visibly costs the forty. The night without resin costs Neela the ache. Both are paid on the page.",
+    "prose": "Concrete and readable. The 'I'm thirty-two years old' line reads as compliance exposition. 'Her eyes flew to his' is a cliché. 'Devan did not' openings repeat.",
+    "continuity": "Eravi 'found her', but Janu found Asha's body (F066, F591). The Muthu suspicion conflicts with F506. The first scene had no pebble (F183)."
   },
   "fixes": [
-    "Continuity. At 'I haven't struck a living thing for eight years', the line contradicts B1 ch27 and B2 ch15, where Devan struck Vellan. Rewrite it as 'I went eight years without striking a living thing, and then I struck a bear twice for you.' That keeps the declaration and makes it truer.",
-    "Continuity. At 'Two weeks ago, in a bed, with Neela curled', the sword leak dates from the B1 ch13 fever, when Neela was behind the curtain. Change it to 'in the fever, before the storm'. Change 'letters I knew you were not writing' to 'letters I believed were to your mother' (F117, F501). Add one line showing Bhaskaran rode back from the Resin House with Devan (F588).",
-    "Character logic. After 'He held out his hand for the key', Devan knows Chathu will hear the House is masterless, yet he goes to bed. Have him order a rider to the Resin House at first light because the wood road can't be ridden by night. Have him press Eravi on why he asked the reading day (F590). Vasu then arrives as the rider Devan sent too late, which costs Devan the choice."
+    "'I found her in the morning.' The canon says Janu found Asha's body (F066, F591). Change this to 'Janu found her. They brought me to her in the grey,' and keep his line about writing the bear report.",
+    "'Last week I read your face for a traitor's'. This conflicts with F506, where they cleared Muthu in ch 9, and 'I told Rema it was you' is unlisted. Rewrite the apology around six years of reading his grey letters as betrayal and taking the post-key. Also note that the wife threat came later (F503, F504), not at the start.",
+    "'in the dark with a pebble in his cheek'. The first explicit scene was a no-resin night, so there was no pebble (F183). Use rain and her scars instead. Also cut 'I'm thirty-two years old' from his speech. Put Devan's age in a natural beat earlier, such as Muthu's 'two grown men' banter."
   ],
   "reader_question": "What has Chathu done with the forty odiyans now that his hunters hold the Resin House walls?",
   "techniques_landed": [
     12,
+    14,
     9
   ],
-  "new_facts_assessment": "Eravi's history and the three leaks are needed and fit F570, F590 and F593. 'Only three since the wedding' clashes with tonight's jar and his reading-day question (F590). Bhaskaran at Kettamala conflicts with F566/F588, which leave him at the Resin House; his return needs one line. Vasu as rider fits F512. Technique 14 is only gestured at in the last paragraph.",
+  "new_facts_assessment": "Listed facts work. The salve note matches F590, and the late rider is good cost. Bhaskaran's return needs to agree with F588. Unlisted and conflicting: Eravi found Asha's body, Devan told Rema it was Muthu, and Devan hears Asha's voice nightly.",
   "content_rule_violation": false,
   "failure_modes": [
-    "Irrational behaviour to extend plot",
-    "Narrated-only chemistry"
+    "Contrived delays"
   ],
-  "average": 3.25,
+  "average": 3.5,
   "minimum": 0.0,
   "passed": false
 }
