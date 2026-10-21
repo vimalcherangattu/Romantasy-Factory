@@ -1,42 +1,39 @@
 {
   "scores": {
-    "reader_question": 5.0,
+    "reader_question": 4.0,
     "change": 4.0,
     "romance_movement": 4.0,
     "shown_chemistry": 4.0,
-    "character_logic": 3.0,
+    "character_logic": 4.0,
     "stakes_and_cost": 4.0,
     "prose": 4.0,
     "continuity": 5.0
   },
   "reasons": {
-    "reader_question": "Neela's name at the west stair with 'She is here' makes the question concrete: what she says to a justice who can hang her.",
-    "change": "The power shift lands. Rema takes the chair, the door and the clock, and Devan names that his fort was 'quietly put to one side'.",
-    "romance_movement": "The reason is new: he confesses the fence he nearly built and chooses disclosure, and she bargains for 'everything, before I ask'.",
-    "shown_chemistry": "She catches his wrist the way she corrects his guard. 'You did well. Do it again.' He notices her late breath. All responsive, none narrated.",
-    "character_logic": "Devan is sharp. Neela's west-stair reversal has no clear reason ('She won't have noticed which I use. I will.'), and the line before muddles it further.",
-    "stakes_and_cost": "Being seen costs her: her name is on a crown writ and her scars are on her wrists in front of a justice. Rema's three days put the clock on.",
-    "prose": "Clean and specific overall. The rain-in-ropes image echoes chapter 1, 'rope' recurs three times, and one line of Neela's dialogue is garbled.",
-    "continuity": "Consistent with the seal chip, the writ hollow, the willow bark, the garrison of sixty and Muthu's quiet tell. 'Ten years' of scars is approximate but fine."
+    "reader_question": "The ending puts Neela, a rogue odiyan, face to face with a crown justice. The escort numbers add a second, sharp question.",
+    "change": "Devan goes from master to sharer: Rema takes his chair, guards his prisoner's door and sets the clock. Partly narrated in 'put to one side'.",
+    "romance_movement": "New reason for change: he names the fence he almost built and chooses disclosure instead. She accepts, sets terms and breaks a habit.",
+    "shown_chemistry": "The wrist catch like a kalari correction, 'You did well. Do it again,' and him crouching so she needn't look up. All responsive, none narrated.",
+    "character_logic": "Mostly sharp. Telling the queen's justice his whole Asha theory is risky but fits a man who won't lie. Neela's habit-breaking is reasoned.",
+    "stakes_and_cost": "She has three days and must face questioning under oath-like scrutiny with her name on a crown writ. The shared guard costs him his own door.",
+    "prose": "Clean, specific, no banned phrases or dashes. A few 'length of a breath' echoes, and the 'He had a whole fort' paragraph tells the value shift.",
+    "continuity": "Seal chip, slat hollow, goat path at nineteen, willow bark, east-stair habit and garrison of sixty all match. No hard conflicts."
   },
   "fixes": [
-    "'Then I'll take the west.' Problem: irrational behaviour, because her motive is opaque and the east-stair exchange before it confuses things. Cut the exchange. Give one line of clear reason: 'I've used the east stair every day since the vow. A watcher counts habits. Today I break one.' Devan notes she has avoided the west stair since the vow and does not ask why. Keep her late breath as the cost.",
-    "'the skin at her throat was bare, unmarked.' Problem: a twist without setup or a rule conflict. If the escort are crown odiyans, F014 requires throat scars. Instead, her collar is buttoned high and never gapes. Make the wrist seam 'pale, faintly raised, one line' so Devan's lamp-burn reading stays reasonable and the clue stays retrievable. Keep the contrast with Neela's layered ridges.",
-    "'At the gate the rain came down in ropes' and 'Hide me for three days and she'll find out'. Problem: a repeated image (chapter 1 has 'rain in ropes') plus a rope echo (ropes, built like a rope). Use another rain image, and recast the guard as 'built like a bowstring'. Rewrite Neela's line: 'Hide me three days and she finds out anyway. Then she asks every servant who carried my tray.'"
+    "At 'I do not ask how they do it.' the beat is only half landed: Rema never says she 'never once saw them sleep'. Add it as tired praise ('Three nights on the road, and I never once saw one of them sleep'). Give Devan a one-line reaction tied to the night-watch hours, so the clue sits at the peak.",
+    "At 'Her hem had dried to the knee.' this is an unfair clue (convenient magic). Nothing in the rules explains a hem drying in a wet hall, and readers will audit it. Replace it with a rule-backed oddity. Options: she doesn't shiver while the others drip, or she stands the way the fort's own night sentries stand, weight back, eyes unfocused. Or cut it and let the dry packs carry the scene.",
+    "At 'She is here,' said Neela from the foot of the west stair, the geography is muddled. The parrot newel stands in the lower court (F100), while Rema sits by the hall brazier. Add one clause: the west stair foot opens through the hall door, or Neela has crossed the court and stands in the doorway with the newel behind her. The final image stays, and the blocking stays readable."
   ],
-  "reader_question": "What will Neela say, scars bound and name on a crown writ, to a justice who can hang her, and are Rema's sleepless escort what Devan fears?",
+  "reader_question": "What will Neela say, standing on Asha's stair, to a crown justice who can hang her and who travels with numbered guards like her?",
   "techniques_landed": [
     11,
     13,
     16
   ],
-  "new_facts_assessment": "Langur-silence skip (F458): necessary and consistent with chapter 1's ending. Rema 58: fine. West-stair reversal: useful for the parrot-newel ending, but its motive is unclear on the page. First Guard's smooth seam and bare throat: these risk contradicting F014 (every odiyan scarred at the throat) if the escort prove to be crown odiyans. The clue would then be unfair. Recommend ambiguity rather than a bare throat.",
+  "new_facts_assessment": "The new-facts file is empty, but the draft adds several facts. Devan taught the horn code himself. Kettamala is 'the only wall for a hundred miles'. The escort don't eat in the hall. Muthu goes quiet under Rema's look. The First Guard's hem dries to the knee. The first four are harmless and consistent but must be listed. The dried hem has no world-rule basis and risks reading as unexplained magic.",
   "content_rule_violation": false,
-  "failure_modes": [
-    "Irrational behaviour to extend plot",
-    "Twists without setup"
-  ],
+  "failure_modes": [],
   "average": 4.12,
-  "minimum": 3.0,
+  "minimum": 4.0,
   "passed": true
 }
