@@ -99,7 +99,7 @@
       }
     },
     "04": {
-      "status": "passed",
+      "status": "edited",
       "revisions": 1,
       "scores": {
         "reader_question": 5.0,
@@ -114,7 +114,18 @@
       "average": 4.25,
       "flags": [],
       "words": 3018,
-      "minimum": 3.0
+      "minimum": 3.0,
+      "style": {
+        "words": 3018,
+        "banned_hits": {},
+        "ai_tell_hits": {},
+        "ai_tells_per_1000": 0.0,
+        "top_4gram": "looked at his hands",
+        "top_4gram_count": 2,
+        "longest_paragraph_words": 86,
+        "em_dashes_per_1000": 0.66,
+        "reading_ease": 95.2
+      }
     },
     "05": {
       "status": "passed",
@@ -1292,9 +1303,13 @@
     {
       "at": "2026-10-21T07:21:23",
       "event": "done: S8 line edit ch 3"
+    },
+    {
+      "at": "2026-10-21T07:21:59",
+      "event": "done: S8 line edit ch 4"
     }
   ],
-  "updated_at": "2026-10-21T07:21:23",
+  "updated_at": "2026-10-21T07:21:59",
   "midpoint_chapter": 16,
   "continuity_attempts": 1,
   "continuity_last_errors": 2
