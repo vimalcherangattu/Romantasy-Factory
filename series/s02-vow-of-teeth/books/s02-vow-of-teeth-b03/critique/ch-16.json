@@ -1,43 +1,40 @@
 {
   "scores": {
-    "reader_question": 4.0,
-    "change": 4.0,
+    "reader_question": 5.0,
+    "change": 5.0,
     "romance_movement": 4.0,
     "shown_chemistry": 3.0,
-    "character_logic": 3.0,
-    "stakes_and_cost": 4.0,
+    "character_logic": 4.0,
+    "stakes_and_cost": 5.0,
     "prose": 3.0,
     "continuity": 0.0
   },
   "reasons": {
-    "reader_question": "A clear forced choice: take the queen's knives or not, with Devan's fort priced against her answer. The rider deadline makes it sharp.",
-    "change": "The handover victory becomes paper: the queen is a living witness and holds fresh pages. Neela's belief cracks and Devan is now a lever.",
-    "romance_movement": "Indirect but new. She sees the wound-bond as her only freedom and that she can't decide his life. The missed signal adds a cost.",
-    "shown_chemistry": "The thumb welts and the shaving-nick memory work. The key insight is still delivered as italic thought rather than action toward him.",
-    "character_logic": "Neela accepts the forty 'Chathu' pages at once, though she saw his dry grey-brown fingertips and knows he hadn't answered the steward (F837, F838).",
-    "stakes_and_cost": "Every option costs: a leash, or thirty bleeding pairs, or Devan losing Kettamala. The rider arriving before her makes delay costly.",
-    "prose": "Mostly clean and controlled, but with muddled lines: 'Thulasi's friend, no, that's a wrong lead', 'white grub of the fly', the brown-hand contradiction, and many 'She did not' openings.",
-    "continuity": "Conflicts: Sanu is a man (F718) yet his roll reads 'tailor's daughter'. The queen walked 'since the gun' before noon fired. Usha's number Four is Thilak's (F632)."
+    "reader_question": "Sharp and specific: take the queen's knives or not, with Devan's fort priced against the answer and a rider already on the road.",
+    "change": "Knowledge and power both flip. The theft was permitted, the queen is the page, and Neela leaves holding paper while the queen holds leverage.",
+    "romance_movement": "Devan is absent, but the realisation that the only freedom bleeds when he does is new, and the lever on his office is new.",
+    "shown_chemistry": "Shown only through the thumb-prick ritual and the chin-welt memory. That works, but it is thin with Devan offstage for the whole chapter.",
+    "character_logic": "The queen arriving alone by day is shrewd. Neela missing the signal is earned by shock. Explaining self-naming to someone who knows it feels staged.",
+    "stakes_and_cost": "Every option costs: precious knives, rogue marks, Devan's house, a leash from a kind hand. She can't answer before the rider does.",
+    "prose": "Clean and concrete, with quotable lines. Weakened by a repeated 'She said it [adverb]' tic and consecutive 'She' paragraph openers in the noon section.",
+    "continuity": "'by Friday' breaks the series' no-weekday-names convention (F750, F422). Kamalakshi's 'fresh page' and the 'an hour late' timing also wobble."
   },
   "fixes": [
-    "Opening, 'belonged to a girl who had stopped answering to it at six' (also 'a tailor's daughter'): continuity conflict. Sanu is male (F718), and 'six' contradicts 'sold at seven' four lines later. Make the roll read 'a tailor's son', and keep Chandrika as a name given after his mother's mother. Recast the opening line around 'a boy', or the given name, and align both ages to seven.",
-    "'I've been walking since the gun and I would like': continuity error. The noon gun hasn't fired yet; it fires unnoticed mid-scene. Change it to 'since the sixth bell' or 'since the audience hall emptied'. Also change 'Ledger number Four, crown leaf' to an unused number (not Four, Twelve, Seventeen or Thirty). Or state on the page that the crown leaf numbers its guards apart from the Resin House roll.",
-    "'Black tacky ink, a master's hand. Not the thin untidy brown': contradictory, and the narration flatly confirms a claim the beat frames as 'she says'. Cut the brown-hand line. Let Neela flash on Chathu's dry grey-brown fingertips in the cell (F838) and the unanswered steward (F837), and then fail to resolve it under the queen's calm. This keeps her smart and keeps the fair-twist clue alive."
+    "Continuity: in Usha's line 'you'd run thirty of us into rogue lives by Friday', the series uses no weekday names (F750, F422). Replace 'by Friday' with 'before the week was out' or 'before the next new moon'.",
+    "Prose tic: 'She said it simply', 'She said it with no shame', 'Nirmala said it gently' and 'The queen said it with what looked like pain' repeat one tag shape. Keep one. Turn the rest into action beats or bare dialogue. Also vary the consecutive openers 'She had been counting' / 'She opened her hand' / 'She had missed it'.",
+    "Timing and detail slips: 'Now an hour late, and no word' contradicts 'the last quarter hour'. Change it to 'Now late, the gun a quarter hour gone, and no word'. In 'Kamalakshi had asked it straight, with her fresh page in her fist', her page was returned, not fresh: use 'her own page'. Cut 'in the autumn of this year'."
   ],
-  "reader_question": "Will Neela take command of the queen's page-free night-guard, and what will Devan lose, or choose, when the rider reaches him first?",
+  "reader_question": "Will Neela take command of the queen's page-free night-guard to buy back Devan's fort, or refuse and let the rider decide his life before she can answer?",
   "techniques_landed": [
     3,
     12,
     17,
     22
   ],
-  "new_facts_assessment": "The rider to Devan and the queen's nine days of knowing are necessary and consistent. The Kamalakshi exchange is a fair retro-plant beside F792. Sanu's birth record as 'a tailor's daughter' conflicts with the established male Fourth Guard (F718). Usha's 'ledger number Four' collides with Thilak's Four (F632) unless the crown leaf numbers separately, which the page never says. The 'widow's wrap' implies an unlisted fact that the queen is widowed.",
+  "new_facts_assessment": "Sanu-male correction is necessary and matches F718 and the on-page 'tailor's son'. Usha as Nineteen fits the ledger-order reading. The Chathu-ink clue is fairly planted, retrievable and correctly left unresolved.",
   "content_rule_violation": false,
-  "failure_modes": [
-    "Irrational behaviour to extend plot",
-    "Twists without setup"
-  ],
-  "average": 3.12,
+  "failure_modes": [],
+  "average": 3.62,
   "minimum": 0.0,
   "passed": false
 }
