@@ -1,0 +1,39 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 5.0,
+    "romance_movement": 5.0,
+    "shown_chemistry": 5.0,
+    "character_logic": 4.0,
+    "stakes_and_cost": 4.0,
+    "prose": 4.0,
+    "continuity": 5.0
+  },
+  "reasons": {
+    "reader_question": "Clear and specific: forty pages, Vellan, and a waking House. The last line states the question outright, which flattens it slightly.",
+    "change": "The hunt is broken without a caging, Devan becomes Vellan's witness, and Vellan is disarmed by his own price. Power and knowledge both shift.",
+    "romance_movement": "The bed-bargain is tested at maximum pressure on Asha's killer and holds both ways. The reason for the change is new, not a replayed refusal.",
+    "shown_chemistry": "\"Tell me what to do with my hands,\" the shaking grip opening, and the carry show attraction through responsive action.",
+    "character_logic": "Smart choices throughout. Madhavi's release and Vellan's stop are earned, though Madhavi's 'something pulled hard' is a little convenient.",
+    "stakes_and_cost": "The shared bites make every risk double. Refusing the packet costs Devan blood. The dawn witnessing costs Devan a weapon he never wanted.",
+    "prose": "Lean and concrete, with good rhythm. Minor faults: one garbled sentence, an echoed 'voice for a charge' line, and a redundant double close.",
+    "continuity": "Consistent with the wound-share limits, F553, F551, F408 and the ch26 setup. Two soft spots are flagged in the fixes."
+  },
+  "fixes": [
+    "\"None of them was caged. She had not said\" and \"The night was over. Nothing in the wood had been caged\" say the same thing twice. Cut the second. Then replace the flat closing line with a concrete prompt, such as the House bell, a hunter's horn, or Vellan asking for his page. That way the forty-pages question arrives through action, not a summary.",
+    "\"He set it on the root, and it ran with him, smoking\" is a garbled sentence that reads as an AI tell. Rewrite it plainly, for example: \"He set it on the root, where it went on smoking, a small stubborn light.\" Also change \"the voice he used for a charge\", which echoes ch26's \"voice he used for reading a charge\". Give Devan a fresh marker.",
+    "\"Six years of Asha's notes tied in red thread, and a stair he had sworn on\" risks a continuity break. Neela has no recorded knowledge of the stair oath (F144). Replace it with something she witnessed, such as the parrot newel or Asha's slate. Separately, change \"where the forced resin had torn him\" to plain resin scars, unless Vellan's forcing is intended and logged as a new fact."
+  ],
+  "reader_question": "What will Neela do with the forty pages, and with Vellan, before the House wakes?",
+  "techniques_landed": [
+    18,
+    20,
+    6
+  ],
+  "new_facts_assessment": "The draft lists no new facts, but it adds several. Thilak's nine days of tea is fine and is already logged as F630. Madhavi as a brindled animal is fine. The draft also implies Vellan was forced ('where the forced resin had torn him'), which is unlisted and doubtful for Chathu's willing enforcer. Neela knowing of Devan's stair oath has no recorded disclosure (F144 says he never told her).",
+  "content_rule_violation": false,
+  "failure_modes": [],
+  "average": 4.5,
+  "minimum": 4.0,
+  "passed": true
+}
