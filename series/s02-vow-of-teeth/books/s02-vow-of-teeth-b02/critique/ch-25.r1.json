@@ -1,0 +1,42 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 5.0,
+    "character_logic": 3.0,
+    "stakes_and_cost": 4.0,
+    "prose": 4.0,
+    "continuity": 0.0
+  },
+  "reasons": {
+    "reader_question": "Clear and timed: cage the forty with their pages or be hunted by them before an hour runs out. Slightly blurred by Chathu's separate groves bargain.",
+    "change": "Knowledge and power both shift: her delay handed Chathu the forty, the road is shut behind them, and her vouching becomes his leverage.",
+    "romance_movement": "There is a new reason to trust him: he withholds a justified 'I told you so' and states shared cost without steering her choice.",
+    "shown_chemistry": "He counts the wall in her order, learned from her moving lips, and turns his horse between her and Meenu. This is responsive care, not narration.",
+    "character_logic": "She never weighs reading the pages back by daylight now, with the forty in earshot. A smart Neela would consider it and reject it for a reason.",
+    "stakes_and_cost": "Forty named people, eleven against them, and every option costs her mastery, her siblings or Devan's soul. The groves threat adds the ache.",
+    "prose": "Clean and specific, with no banned phrases and few tells. 'She hadn't.' is ambiguous, and the Thilak irony line reads awkwardly.",
+    "continuity": "Neela counts forty on the wall while Pavi, a member on the 31+9 plank, waits outside. That makes forty-one. The ride timing is also tight against 'a day's hard ride'."
+  },
+  "fixes": [
+    "At 'Forty. They stood where the hunters had put them', the count conflicts with Pavi outside the wall, since she is one of the forty on the plank. Make Neela's count thirty-nine and have her register Pavi's absence as the one Chathu doesn't hold. Change Chathu's 'all forty' to 'every one of them on this wall'. Alternatively, move Pavi onto the wall and drop her from the shed group, keeping F611 consistent.",
+    "Near 'She had less than an hour. She had a bag', this is irrational behaviour to extend plot. The sun is still up and the forty are within hearing, so the daylight handover is open to her. Add three or four lines where Neela weighs reading the pages back now and rejects it for a world-rule reason. For example, Chathu stays a living witness who can cage them regardless, and a reading shouts every night-shape to his hunters. This sharpens the binary rather than leaving a visible gap.",
+    "At 'Within the hour they were on the wood road', the timing stretches F018 (a day's hard ride), because they leave a sitting assize and arrive with the sun a hand high. Say the assize sat from first grey, or that they left at the grey with Vasu. Also clarify 'She hadn't.' after Chathu's counting line, for example 'She hadn't thought he would.' Add Meenu to new-facts."
+  ],
+  "reader_question": "With less than an hour to dusk, will Neela read the forty's pages to cage her sisters and brothers, or let them be forced into the wood to hunt her and Devan?",
+  "techniques_landed": [
+    6,
+    9,
+    14,
+    18
+  ],
+  "new_facts_assessment": "Chathu caging refusers as first witness fits Rule 2 and tightens the trap. The hunters on the road behind them is necessary and is shown on the page. The eleven-and-five correction is consistent once Vasu is gone, but it exposes the Pavi count problem. Madhavi is fine. Meenu is a new member name and is not listed. Thilak's 'nine days' of tea is unlisted but harmless. Vellan's human hitch (F608) is good continuity.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Irrational behaviour to extend plot"
+  ],
+  "average": 3.5,
+  "minimum": 0.0,
+  "passed": false
+}
