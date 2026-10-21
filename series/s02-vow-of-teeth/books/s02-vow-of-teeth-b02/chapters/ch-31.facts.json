@@ -1,9 +1,19 @@
 {
   "facts": [
     {
-      "category": "magic",
-      "fact": "On the last night Neela feels the dusk pull at the open shutters (throat burn, ten counts, passes) and names the cost: she has no resin of her own for the road, the forty hold the season's flasks, and each bare night counts toward the ache.",
-      "since": "s02-oath-of-claws-b02 ch 31"
+      "category": "object",
+      "fact": "Rema looked at the green-sealed last quire of the ledger's front half, said a seal the queen laid on was not hers to break, and left it with Devan; it travels in his pack, and whether to open it is now Neela and Devan's choice. Neela thinks it holds the queen's sealed contracts with the Resin House, possibly tied to the folded-wing sunbird stubs in the back half.",
+      "since": "s02-vow-of-teeth-b02 ch 31"
+    },
+    {
+      "category": "object",
+      "fact": "Neela's own resin flask went with the season's flasks given to the forty; she has none for the road.",
+      "since": "s02-vow-of-teeth-b02 ch 31"
+    },
+    {
+      "category": "knowledge",
+      "fact": "Devan owns to Janu that he stopped her leopard stories so the kitchen would stop looking at the bride's window; this supersedes F651's reason.",
+      "since": "s02-vow-of-teeth-b02 ch 31"
     }
   ]
 }
