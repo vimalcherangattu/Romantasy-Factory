@@ -1,29 +1,3 @@
 {
-  "facts": [
-    {
-      "category": "name",
-      "fact": "Koman is the old guild watcher from the pass village above the gorge. He walked the hill edge for the Resin House eleven years, has not been paid since the House fell, and is hired by Devan's personal word at seven panam to the moon from Devan's own pocket.",
-      "why": "needed because the outline names an unpaid old watcher with no name"
-    },
-    {
-      "category": "object",
-      "fact": "The raiders' bronze signal mirror carries a small folded-wing sunbird scratched beside its handle on the back. Devan notices and does not understand it. Planted as clue C10, echoing the folded-wing sunbird in Ittan's tally book and the ledger stubs.",
-      "why": "needed to plant C10 on the page"
-    },
-    {
-      "category": "knowledge",
-      "fact": "The Thurai advance guard is twenty-three men. The captured sergeant says they carry cutting-saws, mortar lime and seed barley, with orders to leave the vines and cooperative villages standing, and that the admiral expects the queen not to come.",
-      "why": "supports the outline's reveal that this is an occupation, not a raid"
-    },
-    {
-      "category": "injury",
-      "fact": "Devan has a shallow knife slash on the outside of his right forearm from the picket fight. A matching welt rose on Neela's right forearm. She binds it with a strip torn from her cloth hem.",
-      "why": "needed for the beat of the cut and the shared welt"
-    },
-    {
-      "category": "name",
-      "fact": "Corporal Kandan's nine volunteers include Vasu, Sankaran and Kuttan. Five others are unnamed on the page.",
-      "why": "fills the outline's nine volunteers, using established garrison names"
-    }
-  ]
+  "facts": []
 }
