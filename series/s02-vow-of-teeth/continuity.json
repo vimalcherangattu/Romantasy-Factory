@@ -4003,6 +4003,27 @@
       "fact": "Neela carries Ittan's oilcloth tally book in her wrap since the night they took the ledger.",
       "since": "s02-vow-of-teeth-b02 ch 20",
       "provisional": true
+    },
+    {
+      "id": "F579",
+      "category": "object",
+      "fact": "The leaf under the sweets is the Resin House roll leaf from which Neela's torn desk slip (F565) was cut; it has fastening-holes along one edge, two lines in the members' cipher and two in the masters' cipher. It is Chathu's down payment, not the desk slip.",
+      "since": "s02-vow-of-teeth-b02 ch 20",
+      "provisional": true
+    },
+    {
+      "id": "F580",
+      "category": "knowledge",
+      "fact": "Neela reads members' cipher already; the masters' cipher and marks are on a separate key leaf at the back of the contract leaves, found two nights before ch 20. Only some lines of Ittan's right-hand column carry the sunbird mark.",
+      "since": "s02-vow-of-teeth-b02 ch 20",
+      "provisional": true
+    },
+    {
+      "id": "F581",
+      "category": "plot",
+      "fact": "Chathu's note promises the rest (who sold her, every roll he did not burn) if she comes home, and threatens Thilak, who walks the north tapping path at dusk. Neela has Kuttan fetch Thilak inside the tapping shed compound before dark.",
+      "since": "s02-vow-of-teeth-b02 ch 20",
+      "provisional": true
     }
   ],
   "knowledge": [
