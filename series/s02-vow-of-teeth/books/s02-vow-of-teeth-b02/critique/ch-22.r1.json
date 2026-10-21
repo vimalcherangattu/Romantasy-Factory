@@ -1,0 +1,39 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 4.0,
+    "stakes_and_cost": 4.0,
+    "prose": 3.0,
+    "continuity": 5.0
+  },
+  "reasons": {
+    "reader_question": "Janu stopping ten paces off with lamps poised makes the question sharp and immediate; Eravi's leak adds a second, well-defined thread.",
+    "change": "Knowledge shifts: she recovers Asha's voice and her own silence. Her decision moves from 'tonight' to speaking Janu's name.",
+    "romance_movement": "Devan's terms are new: presence without rescue, 'say go and I'll go'. It is costly restraint and distinct from earlier protections.",
+    "shown_chemistry": "Boots kept twenty paces off, the newel joke that costs him, the Asha callback. Responsive, though one line narrates his understanding.",
+    "character_logic": "Neela files rather than confronts, which is smart. Eravi exposing a sentence only four people heard is slightly careless for an informant.",
+    "stakes_and_cost": "Confession risks Janu's love and Neela's place; the reading-day leak threatens the forty. The cost is clear before she speaks.",
+    "prose": "Strong stair sequence, but the opening Unni exchange is garbled, 'tasted like ash' and 'eyes missed nothing' are cliché, and 'foot of the stair' recurs.",
+    "continuity": "Consistent with F099, F101, F109, F323, F328, F449, F459, F553, F570 and F590. Ages 21/22 and Janu at 61 match."
+  },
+  "fixes": [
+    "Opening, \"She gave him her thanks and his mother's name\": garbled prose. Unni's \"Yes, wife of the warden\" also reads stiff. Rewrite so the beat is plain: she thanks Unni and asks after his mother's salt fish by name, and he flushes. Then give his line natural address, e.g. \"Yes, lady.\" This also lands her name-learning habit cleanly.",
+    "Courtyard, \"She saw him understand it, all of it\": narrated chemistry that overclaims, since Devan cannot know about the recovered voice. Replace it with an observed action, such as his eyes going to her damp palm-print on the newel, then to the stair head. Let \"You're going to tell Janu\" be his inference from the place, not omniscience.",
+    "Repetition and cliché: \"at the foot of the stair\" appears three or more times, plus \"They tasted like ash\" and \"her eyes missed nothing\". Vary the stair phrasing, e.g. 'below the first tread' or 'by the bird'. Replace the ash line with something specific, such as the curry leaf sticking in her throat. Cut \"missed nothing\" for a concrete look at the saddlebag."
+  ],
+  "reader_question": "What will Janu, who found Asha's body, do when Neela tells her she held the lamp at the stair foot and said nothing?",
+  "techniques_landed": [
+    11,
+    2,
+    9
+  ],
+  "new_facts_assessment": "The draft lists none, but it adds facts: the recovered voice ('Who's there?') and Neela's silence, which Devan never heard; Janu's nightly dusk lamp round past the stair; Neela never having touched the newel; the dispensary off the north court. All are consistent and necessary, but they must be logged. The voice detail especially needs logging, since it refines F553 ('no one came').",
+  "content_rule_violation": false,
+  "failure_modes": [],
+  "average": 4.0,
+  "minimum": 3.0,
+  "passed": true
+}
