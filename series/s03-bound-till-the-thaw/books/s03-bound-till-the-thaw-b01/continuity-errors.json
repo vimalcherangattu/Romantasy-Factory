@@ -4,104 +4,184 @@
       "id": "E01",
       "chapter": 19,
       "severity": "major",
-      "category": "timeline",
-      "issue": "Chapter 19 falls on day 12 of twenty: Sunni dies at dawn after the day-11 arrival. Nimmi says the Fair is 'four days' off, but chapter 21 (day 15) says five days remain and chapter 22 (day 16) says four, so the count goes up. Chapter 19's 'third day' door rule also cannot fit. Counted from the day-12 patrol, the doors would shut around day 15, yet chapter 21 has the rule biting only after they leave on day 17. A sixth-day rule and eight days to the Fair fit every later chapter.",
-      "fix": "Make the Fair eight days off at chapter 19 and the patrol's door rule bite after the sixth day, in chapters 19 and 21.",
+      "category": "world",
+      "issue": "Rohan says there were no wardens on Shilak before the Closing Law. Ch14 makes his grandfather a warden of the Shilak post the winter before the law, and the founder Saro was a warden 300 winters ago. The line undercuts two series secrets (S3, S4).",
+      "fix": "Make the pre-law wardens keepers of the cairns who stopped no one.",
       "patches": [
         {
           "chapter": 19,
-          "find": "no one go in or out after the third day without a pass.",
-          "replace": "no one go in or out after the sixth day without a pass."
-        },
-        {
-          "chapter": 19,
-          "find": "\"Four days, if the road holds.\"",
-          "replace": "\"Eight days, if the road holds.\""
-        },
-        {
-          "chapter": 19,
-          "find": "They had to be walking by the third day, and the third day was when the doors shut.",
-          "replace": "They had to be walking by the sixth day, and the sixth day was when the doors shut."
-        },
-        {
-          "chapter": 19,
-          "find": "Nimmi would have thirty-four cups left to pour, alone,",
-          "replace": "Nimmi would still have cups to pour, alone,"
-        },
-        {
-          "chapter": 19,
-          "find": "*Third day. Thirty-four cups. Nimmi alone. I go.*",
-          "replace": "*Sixth day. Nimmi alone. I go.*"
-        },
-        {
-          "chapter": 19,
-          "find": "I walk away from that door on the third day, and I leave her with the cups.",
-          "replace": "I walk away from that door on the sixth day, and I leave her with the cups."
-        },
-        {
-          "chapter": 19,
-          "find": "\"Then we go on the third day,\" he said.",
-          "replace": "\"Then we go on the sixth day,\" he said."
-        },
-        {
-          "chapter": 21,
-          "find": "\"The patrol,\" she said. \"Third day, their rule bites.",
-          "replace": "\"The patrol,\" she said. \"Sixth day, their rule bites."
+          "find": "Before the Closing Law there were no wardens on Shilak. The passes were open in winter to anyone who could pay the road.",
+          "replace": "Before the Closing Law the wardens on Shilak kept the cairns and stopped no one. The passes were open in winter to anyone who could pay the road."
         }
       ]
     },
     {
       "id": "E02",
-      "chapter": 2,
-      "severity": "minor",
-      "category": "relationship",
-      "issue": "Chapter 2 says Varun's smile got him through 'two years of Rohan's temper'. Chapters 16 and 17 say Rohan has known Varun ten years and that Varun held his horse when Rohan was newly made captain.",
-      "fix": "Change two years to ten years.",
+      "chapter": 20,
+      "severity": "major",
+      "category": "magic",
+      "issue": "Meera tells Rohan she is 'not looking for something to hold on to', then calls it 'partly a lie'. A moment later she shows him her hands and says they are warm. A lie to a bound partner always costs heat, so this waives the cost.",
+      "fix": "Have her correct an incomplete statement instead of admitting a lie.",
       "patches": [
         {
-          "chapter": 2,
-          "find": "the officers' mess and two years of Rohan's temper.",
-          "replace": "the officers' mess and ten years of Rohan's temper."
+          "chapter": 20,
+          "find": "\"That's partly a lie. I'll start again.\"",
+          "replace": "\"That isn't the whole of it. I'll start again.\""
         }
       ]
     },
     {
       "id": "E03",
-      "chapter": 1,
+      "chapter": 4,
       "severity": "minor",
-      "category": "object",
-      "issue": "Meera records the redbark crate lids as 'four of four', but the next paragraph says the same last delivery was seven crates.",
-      "fix": "Make the last delivery four crates.",
+      "category": "magic",
+      "issue": "In ch6 Rohan remembers Meera stating the promise rule 'among the rules, in the middle'. Her three rules in ch4 never mention promises.",
+      "fix": "Add the promise rule to rule two, the middle rule.",
       "patches": [
         {
-          "chapter": 1,
-          "find": "Seven crates had waited at the mill below the village,",
-          "replace": "Four crates had waited at the mill below the village,"
+          "chapter": 4,
+          "find": "\"Kills the liar.\" She said it as flatly as she had said the odds on the gully.",
+          "replace": "\"Kills the liar. And a promise made on this rope is a contract. Break it while we're bound and it strikes you like a great lie.\" She said it as flatly as she had said the odds on the gully."
         }
       ]
     },
     {
       "id": "E04",
-      "chapter": 18,
+      "chapter": 2,
       "severity": "minor",
-      "category": "timeline",
-      "issue": "In chapter 17 Meera and Rohan stop for their noon meal while still high on the descent, then pass the stone fold, the birches and the walnut terraces before reaching Ranu. In chapter 18 Rohan carries the first water at noon on the arrival day.",
-      "fix": "Move the first water trip to the afternoon.",
+      "category": "relationship",
+      "issue": "Varun is said to have had 'two years of Rohan's temper'. Ch16 and ch17 say Rohan has known Varun for ten years and Varun held his horse when he was newly made captain.",
+      "fix": "Change two years to ten.",
       "patches": [
         {
-          "chapter": 18,
-          "find": "At noon he took two buckets from the porch before anyone had asked,",
-          "replace": "That afternoon he took two buckets from the porch before anyone had asked,"
+          "chapter": 2,
+          "find": "He looked up with the warm, lopsided smile that had got him through the officers' mess and two years of Rohan's temper.",
+          "replace": "He looked up with the warm, lopsided smile that had got him through the officers' mess and ten years of Rohan's temper."
         }
       ]
     },
     {
       "id": "E05",
+      "chapter": 5,
+      "severity": "minor",
+      "category": "object",
+      "issue": "Rohan says the carved hands are the same size. Ch32 makes it a key clue that the same carving shows one broad worker's hand and one long narrow hand.",
+      "fix": "Make the waystone carving too worn to compare.",
+      "patches": [
+        {
+          "chapter": 5,
+          "find": "\"The hands are the same size,\" he said. \"No rank. No sword.\"",
+          "replace": "\"The hands are worn too smooth to tell apart,\" he said. \"No rank. No sword.\""
+        }
+      ]
+    },
+    {
+      "id": "E06",
+      "chapter": 12,
+      "severity": "minor",
+      "category": "place",
+      "issue": "The Rope-Hut is barely one body-length long and the rope is eight arm-spans, so Meera cannot stop three steps short of the doorway. The limit she meets is the tree, ten paces outside.",
+      "fix": "Change 'doorway' to 'tree'.",
+      "patches": [
+        {
+          "chapter": 12,
+          "find": "If he stayed on the dirt by the chulha, she stopped three steps short of the doorway.",
+          "replace": "If he stayed on the dirt by the chulha, she stopped three steps short of the tree."
+        }
+      ]
+    },
+    {
+      "id": "E07",
+      "chapter": 12,
+      "severity": "minor",
+      "category": "magic",
+      "issue": "Rohan makes flat statements of intent to his bound partner and then does not carry them out. In ch12 he says 'I will not be dragged' and is dragged. In ch17 he says 'I will take the door' and does not. Elsewhere 'I will not' hums as a promise (ch21), and breaking one would strike him as a great lie.",
+      "fix": "Soften both lines so they are wishes or requests, not statements of intent.",
+      "patches": [
+        {
+          "chapter": 12,
+          "find": "\"I will not be dragged.\"",
+          "replace": "\"I would rather not be dragged.\""
+        },
+        {
+          "chapter": 17,
+          "find": "\"I will take the door as well. I will kick the drift clear and test the sill before you put a foot on it.\"",
+          "replace": "\"Let me take the door as well. Let me kick the drift clear and test the sill before you put a foot on it.\""
+        }
+      ]
+    },
+    {
+      "id": "E08",
+      "chapter": 15,
+      "severity": "minor",
+      "category": "object",
+      "issue": "Meera stripped the juniper sprig above the Rope-Hut door into the steam pot in ch11, and ch31 says the nail is bare. Ch15 still shows the sprig above the door.",
+      "fix": "Show the bare nail instead of the sprig.",
+      "patches": [
+        {
+          "chapter": 15,
+          "find": "When the door of the Rope-Hut came out of the whiteness it was dark already, and the juniper sprig above it was stiff with ice.",
+          "replace": "When the door of the Rope-Hut came out of the whiteness it was dark already, and the bare nail above it was furred with ice."
+        }
+      ]
+    },
+    {
+      "id": "E09",
+      "chapter": 16,
+      "severity": "minor",
+      "category": "place",
+      "issue": "The text says 'The hut had no stones to ring'. The Rope-Hut is built of stacked stone, and its wall stones hum at true words in ch10 and ch11.",
+      "fix": "Say that the wall stones stayed silent.",
+      "patches": [
+        {
+          "chapter": 16,
+          "find": "The hut had no stones to ring.",
+          "replace": "The stones in the wall kept silent."
+        }
+      ]
+    },
+    {
+      "id": "E10",
+      "chapter": 16,
+      "severity": "minor",
+      "category": "knowledge",
+      "issue": "Meera says 'You said twelve paces back' about Varun lagging. Rohan never gave that figure; in ch3 Varun simply dropped back to fix a strap.",
+      "fix": "Refer to the strap.",
+      "patches": [
+        {
+          "chapter": 16,
+          "find": "\"And he lagged. You said twelve paces back.\"",
+          "replace": "\"And he lagged. He dropped back for a strap just before it went.\""
+        }
+      ]
+    },
+    {
+      "id": "E11",
+      "chapter": 17,
+      "severity": "minor",
+      "category": "relationship",
+      "issue": "Ch17 says that for ten days Rohan took the downhill place on the rope and went first through every door. In fact he walked in her steps behind her (ch3, ch4, ch7) and she entered the hut first (ch8).",
+      "fix": "Make it a habit he kept reaching for and she kept stopping.",
+      "patches": [
+        {
+          "chapter": 17,
+          "find": "For ten days he had taken the downhill place on the rope and gone first through every door, and she had let him, with a look and nothing more.",
+          "replace": "For ten days he had reached for the downhill place on the rope and the first step through every door, and she had turned him back, with a look and nothing more."
+        },
+        {
+          "chapter": 17,
+          "find": "Behind. Uphill. For ten days he had taken the downhill place on the rope, and she had put up with it.",
+          "replace": "Behind. Uphill. For ten days he had kept reaching for the downhill place on the rope, and she had put up with it."
+        }
+      ]
+    },
+    {
+      "id": "E12",
       "chapter": 21,
       "severity": "minor",
       "category": "object",
-      "issue": "In chapter 21 Meera says the first wave is 'the three youngest and the weaver'. In chapter 18 Hira the weaver was written down as 'no course' and given no redbark.",
-      "fix": "Replace the weaver with a patient who was given a course.",
+      "issue": "Meera lists 'the weaver' in the first redbark wave. Hira the weaver was refused a course in ch18.",
+      "fix": "Replace the weaver with Bholu's mother, who did get a course.",
       "patches": [
         {
           "chapter": 21,
@@ -111,67 +191,77 @@
       ]
     },
     {
-      "id": "E06",
+      "id": "E13",
       "chapter": 22,
       "severity": "minor",
-      "category": "knowledge",
-      "issue": "In chapter 22 Kiran says he has never known what Dilan's 'sorry about the hymn' meant. In chapter 29 he says Dilan sang the hymn all the way down the line and that he told him to shut up, so he knew exactly what it referred to.",
-      "fix": "Have Kiran understand the apology in chapter 22.",
+      "category": "injury",
+      "issue": "Ch22 offers Hakam's three-fingered hand as proof of what a great lie does. Ch26 says Hakam's fingers were 'the mountain's doing', in contrast to Meera's own lie.",
+      "fix": "Make Hakam's loss frost, compared with what a great lie does.",
       "patches": [
         {
           "chapter": 22,
-          "find": "\"He said *sorry about the hymn.* I don't know what that means. I've never known what it means.\"",
-          "replace": "\"He said *sorry about the hymn.* He'd sung it the whole way down and I'd told him to shut up. That's what he chose to be sorry for.\""
+          "find": "She had seen Hakam's hand in the yard of Kothi Shilak, three fingers where there should have been five.",
+          "replace": "It did what the frost had done to Hakam's hand in the yard of Kothi Shilak: three fingers where there should have been five."
         }
       ]
     },
     {
-      "id": "E07",
-      "chapter": 20,
-      "severity": "minor",
-      "category": "magic",
-      "issue": "Meera calls her own statement 'partly a lie' to her bound partner, then shows warm hands. Any lie she believed false when she said it would whiten her fingertips for an hour. The bible says the cost is never waived.",
-      "fix": "Make the statement one she believed when she said it and only then found to be untrue, so it was never a lie.",
-      "patches": [
-        {
-          "chapter": 20,
-          "find": "She stopped. \"That's partly a lie. I'll start again.\"",
-          "replace": "She stopped. \"That's not true. I didn't know it till I heard it. I'll start again.\""
-        }
-      ]
-    },
-    {
-      "id": "E08",
-      "chapter": 26,
-      "severity": "minor",
-      "category": "magic",
-      "issue": "Meera tells Rohan 'I'm well' while she believes she is far from well, and the cold takes nothing. The narration waves this through ('no jurisdiction over well'). Under the bible's definition it is a lie told to be believed and should cost heat.",
-      "fix": "Replace the claim with a literal truth.",
-      "patches": [
-        {
-          "chapter": 26,
-          "find": "\"I'm well,\" said Meera.",
-          "replace": "\"I'm breathing,\" said Meera."
-        },
-        {
-          "chapter": 26,
-          "find": "It was true by the measure of the rope, though she was a long way from well, and she supposed it was true in the narrow sense that she was breathing. The mountain had no jurisdiction over *well*.",
-          "replace": "It was true by the measure of the rope, though she was a long way from well. She had chosen the word because it was the only one the cold could not catch."
-        }
-      ]
-    },
-    {
-      "id": "E09",
-      "chapter": 25,
+      "id": "E14",
+      "chapter": 23,
       "severity": "minor",
       "category": "object",
-      "issue": "In chapter 25 Varun's men run their hands down every seam of Rohan's coat and find only the speech and the knife. In chapter 30 Rohan takes the queen's wax tin, with her line folded under the wafer, out of the same coat.",
-      "fix": "Have the search find the tin and dismiss it as worthless without the stone.",
+      "issue": "In ch18 Kamla's two are judged 'gone too deep' and get no course, and all eighteen courses are assigned. In ch23 the same children sit up to play the knot game, and three spare doses appear for them without explanation.",
+      "fix": "Source the doses from Sunni's unfinished course and note that the children rallied.",
       "patches": [
         {
-          "chapter": 25,
-          "find": "They found his knife.",
-          "replace": "They found his knife. They found a flat tin of dark wax, and Varun opened it, sniffed, and shut it again, because without the stone it was only wax."
+          "chapter": 23,
+          "find": "\"Three doses,\" she said. \"The Dev boy's father. Kamla's two. After that I brew walnut leaf and I swear at it.\"",
+          "replace": "\"Three doses, what Sunni never finished,\" she said. \"The Dev boy's father. Kamla's two, who came up out of that sleep on walnut leaf and spite. After that I brew walnut leaf and I swear at it.\""
+        }
+      ]
+    },
+    {
+      "id": "E15",
+      "chapter": 24,
+      "severity": "minor",
+      "category": "object",
+      "issue": "Meera tells the buyer that nine packets crossed Shilak. Twelve crossed; three were ruined on the Goat's Teeth.",
+      "fix": "Say twelve crossed and nine came through sound.",
+      "patches": [
+        {
+          "chapter": 24,
+          "find": "\"Nine packets of redbark crossed Shilak in my pack,\" she said. \"They're in Ranu. You'll want to know that.\"",
+          "replace": "\"Twelve packets of redbark crossed Shilak in my pack,\" she said. \"Nine came through sound. They're in Ranu. You'll want to know that.\""
+        }
+      ]
+    },
+    {
+      "id": "E16",
+      "chapter": 30,
+      "severity": "minor",
+      "category": "object",
+      "issue": "In ch28 Meera tore the middleman page (ten winters of drop dates and crate marks) out of the count and gave it to Asha. At the Fair it is presented as part of the count, and the page is never returned.",
+      "fix": "Have Asha lay the torn page beside the count while she testifies.",
+      "patches": [
+        {
+          "chapter": 30,
+          "find": "I have the weeks written, and the runner's name, a thin man with a bad left foot.",
+          "replace": "I have the weeks written, and the runner's name, a thin man with a bad left foot.\" She drew a folded page from her sleeve and laid it beside the count. \"That's the guide's page back, torn from her book, and every date on it matches mine."
+        }
+      ]
+    },
+    {
+      "id": "E17",
+      "chapter": 31,
+      "severity": "minor",
+      "category": "place",
+      "issue": "Coming down from the Saddle, they see the cairn 'beyond' Kothi Shilak. The Shilak Cairn stands above the village, between it and the pass: in ch3 it is reached up the gully, and in ch32 the villagers come up to it.",
+      "fix": "Place the cairn on the near slope, between the travellers and the village.",
+      "patches": [
+        {
+          "chapter": 31,
+          "find": "and beyond it the small grey ring of the cairn.",
+          "replace": "and between it and them, on the near slope, the small grey ring of the cairn."
         }
       ]
     }
