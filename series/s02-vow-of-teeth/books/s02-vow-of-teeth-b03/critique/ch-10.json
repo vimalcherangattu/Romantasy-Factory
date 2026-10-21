@@ -1,0 +1,41 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 4.0,
+    "stakes_and_cost": 4.0,
+    "prose": 3.0,
+    "continuity": 0.0
+  },
+  "reasons": {
+    "reader_question": "The forearm welt mid-road makes the shelf fight concrete and urgent. 'She kept the bargain' half-answers the second part too early.",
+    "change": "They leave with a sworn rule and a noon signal. She is on the road and he is already fighting.",
+    "romance_movement": "The new term (pain is not a summons) is rehearsed in bed and tested at dawn. His fear disclosure is new and costly.",
+    "shown_chemistry": "Kissing the three thorn dots, mapping his scars and the bite test are all responsive actions, not narration.",
+    "character_logic": "Both act like disciplined professionals naming the debt in advance. Devan's 'unless the vote sends me' fits his never-lie rule.",
+    "stakes_and_cost": "The resin ration, the welt she must ignore and the choose-the-line pact all cost. 'Tonight costs nothing yet' softens the beat.",
+    "prose": "Strong lines, but 'She lay the leaf', the stacked age statement and the doubled 'That's what you/I married' blunt the beat line.",
+    "continuity": "Treats share-warmth (F653) and the shoulder bite (F726) as first discoveries. Puts the unlit-lamp history (F090) in the wrong corridor."
+  },
+  "fixes": [
+    "Continuity, at 'I didn't know it did that either' and 'Nobody told us': F653 already established the warmth on their last Kettamala night, and F726 the shoulder bite with a matching welt. Rewrite as recognition, not discovery: 'It still does that.' Then make the bite test new by its purpose. Last time the bite was play; tonight he must sit with the reflex and not move, and the beat turns on that refusal.",
+    "Continuity, at 'For three weeks of the wedding, the lamp in that corridor': the dark lamp and Raiu's post were outside the warden's chamber in book 1 (F090), not this guest corridor. Change it to: 'In the first weeks of the marriage the lamp outside the warden's door had been kept dark, and a boy posted at the stair.' Name Raiu once to earn the grief. The point stands: Janu now lights what Devan once darkened.",
+    "Prose, at 'She was twenty-seven. He was thirty-two. Neither of them': the age line reads as a checklist. Fold it in earlier, for example 'twenty-seven years and she had never once chosen a night slowly'. Also fix 'She lay the leaf' to 'laid'. Cut Neela's first 'That's what you married' in the bargain scene, so that 'That's what I married' lands once, at the beat, with full force."
+  ],
+  "reader_question": "What is happening to Devan at the shelf, and can Neela keep riding as more welts open?",
+  "techniques_landed": [
+    9,
+    14,
+    22
+  ],
+  "new_facts_assessment": "Lime thorns: fine and useful. Tooth on Devan's cord: plausible, but F346 has it in Neela's waistband, so give one bridging clause. 'Nellimala five nights back': doubtful, since ch6 to ch9 reads as about two nights; recheck it. Share-warmth: not new (F653), and the draft wrongly frames it as a discovery. Lamp: the clay lamp is fine, but its 'left dark for weeks' history belongs to the warden's chamber corridor (F090), not the guest corridor. Rice, curd and cloth: a good echo of F284 and F548.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Repetitive tension"
+  ],
+  "average": 3.38,
+  "minimum": 0.0,
+  "passed": false
+}
