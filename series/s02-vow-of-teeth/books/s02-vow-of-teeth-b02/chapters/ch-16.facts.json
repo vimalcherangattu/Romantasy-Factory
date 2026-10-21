@@ -1,0 +1,34 @@
+{
+  "facts": [
+    {
+      "category": "object",
+      "fact": "The Resin House ledger's front half opens with a tidy index in Chathu's hand (year, place, leaf). The first heading is 'Released': one leaf listing twelve names, each with a tick and the margin note 'Kennel, N'. Kirri's is 'Kennel, nine'.",
+      "why": "needed because the beat requires released members cross-referenced to cages (Kirri to kennel nine, eleven more to cages)."
+    },
+    {
+      "category": "object",
+      "fact": "Kennel doors carry wired tags with painted numbers (white paint). Kirri's cage tag reads nine; Neela saw it in ch 14 and did not read it. The numbers follow the kennel roll, not position in the aisle.",
+      "why": "needed because 'kennel nine' must match Kirri's cage, which was third from the end of forty-two."
+    },
+    {
+      "category": "name",
+      "fact": "Vellan's ledger number is Thirty. His entries run to thirty-six contracts with no 'released' beside any. Neela tells Devan this and turns past them unread.",
+      "why": "needed because the beat has Vellan's entries run several leaves and sets 'Hand, Thirty' on Asha's contract."
+    },
+    {
+      "category": "object",
+      "fact": "Chathu files contracts bought by Ittan in a separately sewn 'Keeper's' quire marked with the hooked mark. Asha's leaf reads: 'The cold month, six years gone. Kettamala, the warden's sister, the west stair. Buyer, the Keeper. Hand, Thirty. Lookout, Seventeen. Closed. Paid in full.'",
+      "why": "needed to give the contract leaf a findable place and its exact text."
+    },
+    {
+      "category": "knowledge",
+      "fact": "Neela remembers being unblindfolded at the foot of the west stair with a shuttered lamp, told to open it twice if anyone entered the court below. No one came. She counted to three hundred and ten, was blindfolded again and walked out.",
+      "why": "needed to reread the stair, the newel and the lamp as her crime without adding any plot beyond the beat."
+    },
+    {
+      "category": "object",
+      "fact": "The last quire of the ledger's front half is stitched round all four edges in green thread under a lump of green wax pressed with the queen's spread-winged sunbird. Devan refuses to break it; Rema or the high court will.",
+      "why": "needed because the beat requires the green-stitched last quire and Devan's order to leave it whole."
+    }
+  ]
+}
