@@ -6,36 +6,36 @@
     "shown_chemistry": 3.0,
     "character_logic": 3.0,
     "stakes_and_cost": 4.0,
-    "prose": 3.0,
+    "prose": 4.0,
     "continuity": 0.0
   },
   "reasons": {
-    "reader_question": "Chathu's summons is a specific, story-caused hook; the man in grey who counts children sharpens it.",
-    "change": "Neela moves from outsider to inside the thirty, learns their split, the courier chain, the sea-stair gap and Chathu's summons.",
-    "romance_movement": "The welt and her refusal to ride are strong, but the reason to stay replays 'If you bleed, I won't' from ch11.",
-    "shown_chemistry": "Done through the body: noon thorns, the welt, her lean toward the door. It works, though it echoes ch11's thumb beat closely.",
-    "character_logic": "She admits a bonded wound before Lata, who is loyal to the queen. A smart Neela would not hand that over unasked.",
-    "stakes_and_cost": "Staying while Devan bleeds costs her, and the Chathu summons promises a costlier choice.",
-    "prose": "Mostly concrete and quick. 'For what felt like the length of a verse', 'pulse hammering' and some told interiority at the knife soften it.",
-    "continuity": "Conflicts: scars 'to the elbow' (inner wrist only, F310); 'three men died at Kettamala' (only Raiu); Keeper's widow unaware of a months-old execution (F478)."
+    "reader_question": "The Chathu summons lands as a clean reveal; why he asks, and how he knows she's in Kodiyur, is specific and pressing.",
+    "change": "Neela moves from outsider to inside the thirty, learns their split, the paring and the salve-pot channel.",
+    "romance_movement": "The welt and her refusal to stand are felt, but this mirrors ch11's noon thorns rather than adding a new reason.",
+    "shown_chemistry": "The body leaning toward the door and 'Three. Alive.' are good; otherwise Devan exists only as pain and memory.",
+    "character_logic": "Absolving Sanu and staying are smart; Usha's 'I've stood both sides' explains away the suspicion Neela is meant to shelve.",
+    "stakes_and_cost": "Staying costs her visibly, and Chathu's cell is a loaded next step with a guild master as bait.",
+    "prose": "Concrete and readable with no banned phrases; some stock beats ('flinched as if she had hit him') and repeated 'Neela said nothing'.",
+    "continuity": "The queen tells each guard its shape aloud 'to the animal' after the first turning; under Rule 2 that cages them for life."
   },
   "fixes": [
-    "'She had her own scars to the elbow' breaks continuity: resin scars are inner-wrist and throat only (F014, F310). Change it to 'Her own scars lay thick on the inner wrist, ridge on ridge, the first laid down at sixteen.' The contrast with Lata's pared seam stays intact.",
-    "'Three men died at Kettamala,' Sanu says: only Raiu died on the stair. Rewrite as 'A man died at Kettamala. On the stair, in the dark. I've done sums on it. The lamps.' Have Neela supply Raiu's name in her reply ('His name was Raiu.'). That fixes the count and adds her name-habit.",
-    "'the Keeper's widow, who had not yet heard of her husband's death' contradicts Devan's letter sent months ago (F478, F488). Replace it with 'the Keeper's widow, who still kept his window open in the rain'. This keeps Thankam's palace gossip and echoes Ittan's request without a timeline conflict."
+    "At 'she kneels down, there on the floor, and tells you your shape aloud', a world rule is suspended (Worldbuilding collapse): a witness speaking the shape to someone in shape before dawn cages them. Keep the lamp and the intimacy, but move the naming. She sits the night through, and at first light, when the guard turns back, she kneels and tells the woman her shape. Lata's line becomes 'To you. Gently.'",
+    "At 'It's twelve if the rain's off and nine if it's blowing. I've stood both sides.', Usha's last sentence explains the anomaly the beat wants Neela to shelve (Shaped Gap weakened). Cut 'I've stood both sides.' Let the exact count stand unexplained, so Neela's choice not to ask carries real suspicion and the C-clue keeps its edge.",
+    "At 'I carried notes. For a year. Not to the palace. Out. Up the hill.', there is no route for a Kodiyur guard to deliver to a fort four days away for a year (Convenient logistics). Have Sanu hand the notes, sealed in salve pots, to the ninth-day post rider bound for Kettamala. He went up himself only once, with Rema's escort, when he left the pot at Eravi's dispensary for the blistered heel."
   ],
-  "reader_question": "How did Chathu know Neela would come to Kodiyur, and what does he want with her?",
+  "reader_question": "Why has Chathu, caged in the queen's cells, asked for Seventeen, and how does he know she would come?",
   "techniques_landed": [
     1,
-    2,
-    13
+    2
   ],
-  "new_facts_assessment": "The shed, the Salt/Hill Gate split, the disguise, Rukmini and Pappu, the three guards and the sea-stair timing are all necessary and consistent with F670, F684, F718, F742 and F807. The grey-cloaked man who 'counts' Sanu echoes F503/F791 well. Two unlisted additions conflict: Sanu's 'three men died at Kettamala', and Thankam's Keeper's widow 'not yet heard of her husband's death', despite Devan's letter (F478, F488). The unlisted 'scars to the elbow' breaks F014/F310.",
+  "new_facts_assessment": "The draft lists no new facts but adds several. Thankam pares the guards' wrists and seems to offer Neela the same, with a fortnight to heal; this is consistent with F684 and useful. The notes rode in the salve pot's lid; this is consistent with F462/F704. Sanu thought the notes were medicine orders for the Keeper's wife; this is fine. The Keeper's widow keeps the window open in rain, a good callback to F488. The queen kneels and speaks each guard's shape aloud to the animal; this breaks the witness rule and must change. Sanu carrying notes 'for a year' up to a fort four days away is fuzzy and needs a mechanism.",
   "content_rule_violation": false,
   "failure_modes": [
+    "Worldbuilding collapse",
     "Repetitive tension"
   ],
-  "average": 3.0,
+  "average": 3.12,
   "minimum": 0.0,
   "passed": false
 }

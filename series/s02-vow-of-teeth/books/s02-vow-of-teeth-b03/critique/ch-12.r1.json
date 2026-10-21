@@ -1,0 +1,41 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 3.0,
+    "shown_chemistry": 3.0,
+    "character_logic": 3.0,
+    "stakes_and_cost": 4.0,
+    "prose": 4.0,
+    "continuity": 0.0
+  },
+  "reasons": {
+    "reader_question": "The Chathu summons lands as a clean reveal; why he asks, and how he knows she's in Kodiyur, is specific and pressing.",
+    "change": "Neela moves from outsider to inside the thirty, learns their split, the paring and the salve-pot channel.",
+    "romance_movement": "The welt and her refusal to stand are felt, but this mirrors ch11's noon thorns rather than adding a new reason.",
+    "shown_chemistry": "The body leaning toward the door and 'Three. Alive.' are good; otherwise Devan exists only as pain and memory.",
+    "character_logic": "Absolving Sanu and staying are smart; Usha's 'I've stood both sides' explains away the suspicion Neela is meant to shelve.",
+    "stakes_and_cost": "Staying costs her visibly, and Chathu's cell is a loaded next step with a guild master as bait.",
+    "prose": "Concrete and readable with no banned phrases; some stock beats ('flinched as if she had hit him') and repeated 'Neela said nothing'.",
+    "continuity": "The queen tells each guard its shape aloud 'to the animal' after the first turning; under Rule 2 that cages them for life."
+  },
+  "fixes": [
+    "At 'she kneels down, there on the floor, and tells you your shape aloud', a world rule is suspended (Worldbuilding collapse): a witness speaking the shape to someone in shape before dawn cages them. Keep the lamp and the intimacy, but move the naming. She sits the night through, and at first light, when the guard turns back, she kneels and tells the woman her shape. Lata's line becomes 'To you. Gently.'",
+    "At 'It's twelve if the rain's off and nine if it's blowing. I've stood both sides.', Usha's last sentence explains the anomaly the beat wants Neela to shelve (Shaped Gap weakened). Cut 'I've stood both sides.' Let the exact count stand unexplained, so Neela's choice not to ask carries real suspicion and the C-clue keeps its edge.",
+    "At 'I carried notes. For a year. Not to the palace. Out. Up the hill.', there is no route for a Kodiyur guard to deliver to a fort four days away for a year (Convenient logistics). Have Sanu hand the notes, sealed in salve pots, to the ninth-day post rider bound for Kettamala. He went up himself only once, with Rema's escort, when he left the pot at Eravi's dispensary for the blistered heel."
+  ],
+  "reader_question": "Why has Chathu, caged in the queen's cells, asked for Seventeen, and how does he know she would come?",
+  "techniques_landed": [
+    1,
+    2
+  ],
+  "new_facts_assessment": "The draft lists no new facts but adds several. Thankam pares the guards' wrists and seems to offer Neela the same, with a fortnight to heal; this is consistent with F684 and useful. The notes rode in the salve pot's lid; this is consistent with F462/F704. Sanu thought the notes were medicine orders for the Keeper's wife; this is fine. The Keeper's widow keeps the window open in rain, a good callback to F488. The queen kneels and speaks each guard's shape aloud to the animal; this breaks the witness rule and must change. Sanu carrying notes 'for a year' up to a fort four days away is fuzzy and needs a mechanism.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Worldbuilding collapse",
+    "Repetitive tension"
+  ],
+  "average": 3.12,
+  "minimum": 0.0,
+  "passed": false
+}
