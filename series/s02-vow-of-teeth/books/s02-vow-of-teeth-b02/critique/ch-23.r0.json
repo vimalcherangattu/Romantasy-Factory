@@ -1,0 +1,41 @@
+{
+  "scores": {
+    "reader_question": 5.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 3.0,
+    "stakes_and_cost": 4.0,
+    "prose": 4.0,
+    "continuity": 0.0
+  },
+  "reasons": {
+    "reader_question": "Gopan's last line points straight at Eravi, backed by the satchel, the cuffs and the questions. The reader can state the question in one sentence.",
+    "change": "Janu's ten paces are crossed and her guilt is spoken. Neela owns her act. The fort's physician becomes the prime suspect for the inside door.",
+    "romance_movement": "Devan looks at her again because she refused to defend herself. The reason is new and exactly matches the beat.",
+    "shown_chemistry": "Counting eighty-six court stones, open hands, and the red-earth joke all show restraint and attention as responsive action, not narration.",
+    "character_logic": "Gopan walks this court and the stair lamps every dusk yet never noticed a smith rebuilding a postern. Neela's six-year leap from new iron is loose.",
+    "stakes_and_cost": "No forgiveness, a debt to tell the rest in order, and a suspect who knows the reading day. The next move clearly costs something.",
+    "prose": "Clean and controlled, but negation stacking ('did not') is a tic, and the lamp-in-a-window image repeats from chapter 22.",
+    "continuity": "Devan 'told me on the first night we talked in the dark' conflicts with F400/F419. The newel is 'wood' here but stone in ch 22 and earlier in this chapter."
+  },
+  "fixes": [
+    "Continuity. At 'You told me that on the first night we talked in the dark', Devan refused to answer about Asha's death in the dark rule (F400, F419). Change it to 'Rema read it out at the assize' or 'Your men still say it'. Also change 'her hand closed on the wood' to 'on the stone', to match ch 22 and this chapter's opening.",
+    "Character logic. At 'Wood's gone, I see. New iron', explain why the cistern keeper never saw a smith under the stair, for example lantana or the step's lip hiding the grate, or work done in a fever week. Have Neela say outright that the postern existed six years ago and that the new iron means someone still uses it. Note the lock was refitted to the same key.",
+    "Prose and repetition. 'as a man looks at a lamp he has put in a window' echoes ch 22's 'a man leaving a lamp lit in a window'. Replace it with a fresh image, such as reading a page with a thumb over one line. Also cut about a third of the 'She did not / He did not' constructions, especially Janu's exit and the confession's run-up."
+  ],
+  "reader_question": "Did Eravi, the fort's own physician, open the postern under the west stair to let Asha's killer in, and is he still the house's informant?",
+  "techniques_landed": [
+    24,
+    20,
+    12
+  ],
+  "new_facts_assessment": "Janu's sleep at the kitchen fire is necessary, fits F066/F101 and pays off the bible need. The slop-gate postern is necessary and consistent with F515, but needs a reason Gopan missed the refit and a link between the new iron and the old key. The physician-only key is required and fits the Eravi clues (F570, F590). Keep all three with those patches.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Irrational behaviour to extend plot"
+  ],
+  "average": 3.5,
+  "minimum": 0.0,
+  "passed": false
+}
