@@ -1,0 +1,41 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 3.0,
+    "stakes_and_cost": 4.0,
+    "prose": 3.0,
+    "continuity": 0.0
+  },
+  "reasons": {
+    "reader_question": "The question is clear and pointed: what did Devan answer, and how will he vote? Neela's misquoted echo of his line blurs it.",
+    "change": "The tower falls, the guards see the pair fight back to back, a crown column is coming, and the vote is moved up.",
+    "romance_movement": "Reunion under fire. He trusts her at his back in public, and the shared blisters and salve turn the wound-share into a sign of unity, which is new.",
+    "shown_chemistry": "Chemistry comes through action: called targets, a shoulder leaned like a wall, warm water for her teeth, and her taking the salve pot from his teeth.",
+    "character_logic": "Devan, who once ordered 'nobody smears' and made men face away, lets twenty-two guards turn in the open before the garrison. That makes them new witnesses.",
+    "stakes_and_cost": "Two named dead and seven hurt. The early vote on the queen's offer costs both leads something real.",
+    "prose": "There are strong images, but also a garbled sentence ('turned back crouched'), a present-tense slip ('That is true.') and a told line about the pebble pledge.",
+    "continuity": "The guards are counted as four named plus nineteen, which makes twenty-three against F883's twenty-two and the chapter's own 'All twenty-two'. Devan's cut-off line is misquoted."
+  },
+  "fixes": [
+    "At 'Usha, Sanu, Sajan, Lata, and the nineteen who had come with them', the head count breaks continuity: four plus nineteen is twenty-three, but F883 and this chapter's 'All twenty-two' say twenty-two. Change 'nineteen' to 'eighteen'. Recheck every guard count in the chapter.",
+    "At 'I answered it here, on the cart, before you could—', the interrupted action misfires: Neela later echoes '*I answered it before I.*', which he never said. Use the beat's line, 'The queen sent me a letter. I answered it before I—', and keep her echo identical. Also clarify 'Is this the third dawn?' / 'The sixth'; as written it means nothing.",
+    "At 'No voice behind them that could say a word and cage them', the world rule is waived. The queen remains a live witness, and the garrison watched the guards turn at dusk, which makes them new witnesses. Add Devan ordering the wall pairs to face the road at sunset, as he did before. Have Kandan stare only after the turning. Reword the line so the threat is a day and a half away, not gone."
+  ],
+  "reader_question": "What did Devan write back to the queen before Neela could be told, and which way will he vote at the fire?",
+  "techniques_landed": [
+    7,
+    9
+  ],
+  "new_facts_assessment": "The resin split, the ram's horn and the named dead are necessary and consistent. The queen at Neela's elbow 'the day after the gun' fits F857. Usha's word of the column has no stated source (scout or rider) and needs one line. Technique 6 is only partial: the assault resolves with little doubt about the outcome.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Worldbuilding collapse",
+    "Irrational behaviour to extend plot"
+  ],
+  "average": 3.25,
+  "minimum": 0.0,
+  "passed": false
+}
