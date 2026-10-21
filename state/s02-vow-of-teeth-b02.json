@@ -12,7 +12,7 @@
   ],
   "chapters": {
     "01": {
-      "status": "passed",
+      "status": "edited",
       "revisions": 2,
       "scores": {
         "reader_question": 4.0,
@@ -26,8 +26,19 @@
       },
       "average": 3.88,
       "flags": [],
-      "words": 2563,
-      "minimum": 3.0
+      "words": 2562,
+      "minimum": 3.0,
+      "style": {
+        "words": 2562,
+        "banned_hits": {},
+        "ai_tell_hits": {},
+        "ai_tells_per_1000": 0.0,
+        "top_4gram": "of the other one",
+        "top_4gram_count": 3,
+        "longest_paragraph_words": 117,
+        "em_dashes_per_1000": 0.0,
+        "reading_ease": 93.6
+      }
     },
     "02": {
       "status": "passed",
@@ -1247,9 +1258,13 @@
     {
       "at": "2026-10-21T07:19:36",
       "event": "done: book-level checks"
+    },
+    {
+      "at": "2026-10-21T07:20:14",
+      "event": "done: S8 line edit ch 1"
     }
   ],
-  "updated_at": "2026-10-21T07:19:36",
+  "updated_at": "2026-10-21T07:20:14",
   "midpoint_chapter": 16,
   "continuity_attempts": 1,
   "continuity_last_errors": 2
