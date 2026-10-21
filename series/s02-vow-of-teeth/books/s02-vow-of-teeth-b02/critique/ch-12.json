@@ -5,37 +5,38 @@
     "romance_movement": 4.0,
     "shown_chemistry": 4.0,
     "character_logic": 3.0,
-    "stakes_and_cost": 4.0,
+    "stakes_and_cost": 3.0,
     "prose": 3.0,
     "continuity": 0.0
   },
   "reasons": {
-    "reader_question": "The stair in her untold contracts, which Devan has deferred, gives a specific, dread-laden question the reader can answer through dramatic irony.",
-    "change": "A mutual veto over the ledger becomes a new marriage term, and Devan now knows her first kill. Power and knowledge both shift.",
-    "romance_movement": "The reason is new: they write a check on each other's power the night before holding forty lives. The sex scene itself adds little that is new.",
-    "shown_chemistry": "Consent check-ins, the wrist-pulse moment and 'like something he'd been carrying uphill' are responsive and specific. A few lines still sound generic.",
-    "character_logic": "Devan's deferral is smart. Neela's interior line about the 'lookout's turn' muddles what she has disclosed and when the lookout job happened.",
-    "stakes_and_cost": "The ache is spent before the wall climb, the veto costs each of them their own good reasons, and the deferred second contract is a loaded cost.",
-    "prose": "Mostly clean and concrete, but 'hot and slow' and 'eyes gone dark' are generic. The breath-hitch 'a third of the way along' is repeated three times.",
-    "continuity": "'Had not lain with anyone for eight years' contradicts book 1 ch22 and ch31, and the chapter frames this night as their first. 'Foot of the sealing' contradicts F411 (ch30)."
+    "reader_question": "The stair sits under the blindfolded memory, so the reader dreads which untold contract is Asha's. Specific and well primed.",
+    "change": "The marriage gains a written mutual veto, and the first contract is now told. Both are real shifts in knowledge and relationship.",
+    "romance_movement": "The new term (each a lock on the other) has a new reason. Disclosure is met by responsive care, not absolution.",
+    "shown_chemistry": "Check-ins, the stillness under her grip and the arm across her are all responsive actions. A few lines narrate her release instead.",
+    "character_logic": "The bargain ignores that she will be a leopard all raid night. Her stated fear (reading her name) isn't a caging danger.",
+    "stakes_and_cost": "The ache is named but stays abstract. The bargain costs neither of them anything tonight, so the veto feels free.",
+    "prose": "Clean and voiced, but 'stillness' repeats. The defensive stair exposition and the vague knife line muddy key beats.",
+    "continuity": "Eleven contracts were offered the night BEFORE the vow (bk1 ch30), not 'the night after the vow'."
   },
   "fixes": [
-    "'He was thirty-two and had not lain with anyone for eight years': this is a continuity break, because they slept together in book 1 ch22 and ch31. Replace it with a line marking what is new tonight, for example the last night in this room before the raid, the first night without dawn's return. Rework 'It was nothing like the rampart' to contrast with their earlier nights.",
-    "'She had told him she had a lookout's turn and no more': this muddles the timeline. The stair job was at 21, after her first kill at 19, and F280 says she never mentioned a lookout job. Rewrite it so she has never told him of a stair, and the pre-nineteen lookout errand is a different thing. Also change 'at the foot of the sealing' to the chamber night after the vow (F411).",
-    "'She had been a woman with a number and a leopard's weight': this paragraph tells its way into generic climax ('hot and slow', 'bolder than any command'). Replace it with one responsive action tied to what she has learned of him, such as his stillness when she pins his wrist. Cut one of the three 'a third of the way along' hitch repeats."
+    "Continuity: change 'She had told him in this room, the night after the vow' to 'the night before the vow', matching book 1 ch30 (F411, F348).",
+    "Irrational behaviour: in the bargain ('So whoever holds it, and begins to read'), add that tomorrow she is a leopard and cannot take anything from his hand. Pay off ch11's 'something that works on a leopard': agree a signal, such as her teeth closing on his wrist, at which he shuts the book and sets it on the curb.",
+    "Character logic and prose: cut 'She had never told him of a stair. The market-gate errand...'. It patches continuity and doesn't dramatise. Sharpen 'If I hold that book with my name in it': she fears turning other women's pages by night to hunt her intake slip. Replace the vague 'leave you the knife' with a concrete cost."
   ],
-  "reader_question": "When Devan finally asks for the second contract, will it be the stair where Asha died, and will it break him?",
+  "reader_question": "Which of Neela's ten untold contracts, above all the blindfolded stair, will break Devan when he finally asks?",
   "techniques_landed": [
     10,
     13,
     14
   ],
-  "new_facts_assessment": "Raghu's contract is necessary, consistent with F361 and F367, and morally pointed. The hooked mark (C15) is a fair, light echo of F448. The veto bargain matches F523 and rule 3. The contract glimpses are fine as texture. The hearth door is unnecessary unless it pays off later; drop it or flag it for a payoff.",
+  "new_facts_assessment": "new-facts.json is empty, though the draft adds Raghu, the Kodiyur enforcer, age nineteen, the hooked mark and four remembered contracts. These match provisional F525-F528 and are consistent and useful (the hooked mark echoes F448, clue C15). F529 (hearth door) from an earlier draft is now absent: retire it or restore it. The draft should list its facts.",
   "content_rule_violation": false,
   "failure_modes": [
+    "Irrational behaviour to extend plot",
     "Narrated-only chemistry"
   ],
-  "average": 3.25,
+  "average": 3.12,
   "minimum": 0.0,
   "passed": false
 }

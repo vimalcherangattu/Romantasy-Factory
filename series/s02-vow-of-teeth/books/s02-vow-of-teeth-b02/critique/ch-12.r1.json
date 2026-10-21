@@ -1,0 +1,42 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 3.0,
+    "stakes_and_cost": 3.0,
+    "prose": 3.0,
+    "continuity": 0.0
+  },
+  "reasons": {
+    "reader_question": "The stair sits under the blindfolded memory, so the reader dreads which untold contract is Asha's. Specific and well primed.",
+    "change": "The marriage gains a written mutual veto, and the first contract is now told. Both are real shifts in knowledge and relationship.",
+    "romance_movement": "The new term (each a lock on the other) has a new reason. Disclosure is met by responsive care, not absolution.",
+    "shown_chemistry": "Check-ins, the stillness under her grip and the arm across her are all responsive actions. A few lines narrate her release instead.",
+    "character_logic": "The bargain ignores that she will be a leopard all raid night. Her stated fear (reading her name) isn't a caging danger.",
+    "stakes_and_cost": "The ache is named but stays abstract. The bargain costs neither of them anything tonight, so the veto feels free.",
+    "prose": "Clean and voiced, but 'stillness' repeats. The defensive stair exposition and the vague knife line muddy key beats.",
+    "continuity": "Eleven contracts were offered the night BEFORE the vow (bk1 ch30), not 'the night after the vow'."
+  },
+  "fixes": [
+    "Continuity: change 'She had told him in this room, the night after the vow' to 'the night before the vow', matching book 1 ch30 (F411, F348).",
+    "Irrational behaviour: in the bargain ('So whoever holds it, and begins to read'), add that tomorrow she is a leopard and cannot take anything from his hand. Pay off ch11's 'something that works on a leopard': agree a signal, such as her teeth closing on his wrist, at which he shuts the book and sets it on the curb.",
+    "Character logic and prose: cut 'She had never told him of a stair. The market-gate errand...'. It patches continuity and doesn't dramatise. Sharpen 'If I hold that book with my name in it': she fears turning other women's pages by night to hunt her intake slip. Replace the vague 'leave you the knife' with a concrete cost."
+  ],
+  "reader_question": "Which of Neela's ten untold contracts, above all the blindfolded stair, will break Devan when he finally asks?",
+  "techniques_landed": [
+    10,
+    13,
+    14
+  ],
+  "new_facts_assessment": "new-facts.json is empty, though the draft adds Raghu, the Kodiyur enforcer, age nineteen, the hooked mark and four remembered contracts. These match provisional F525-F528 and are consistent and useful (the hooked mark echoes F448, clue C15). F529 (hearth door) from an earlier draft is now absent: retire it or restore it. The draft should list its facts.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Irrational behaviour to extend plot",
+    "Narrated-only chemistry"
+  ],
+  "average": 3.12,
+  "minimum": 0.0,
+  "passed": false
+}
