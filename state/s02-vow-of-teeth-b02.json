@@ -834,7 +834,7 @@
       }
     },
     "29": {
-      "status": "passed",
+      "status": "edited",
       "revisions": 1,
       "scores": {
         "reader_question": 4.0,
@@ -848,8 +848,19 @@
       },
       "average": 4.25,
       "flags": [],
-      "words": 2557,
-      "minimum": 3.0
+      "words": 2535,
+      "minimum": 3.0,
+      "style": {
+        "words": 2535,
+        "banned_hits": {},
+        "ai_tell_hits": {},
+        "ai_tells_per_1000": 0.0,
+        "top_4gram": "it and the cost",
+        "top_4gram_count": 2,
+        "longest_paragraph_words": 103,
+        "em_dashes_per_1000": 0.39,
+        "reading_ease": 92.1
+      }
     },
     "30": {
       "status": "passed",
@@ -1667,9 +1678,13 @@
     {
       "at": "2026-10-21T07:36:31",
       "event": "done: S8 line edit ch 28"
+    },
+    {
+      "at": "2026-10-21T07:37:04",
+      "event": "done: S8 line edit ch 29"
     }
   ],
-  "updated_at": "2026-10-21T07:36:31",
+  "updated_at": "2026-10-21T07:37:04",
   "midpoint_chapter": 16,
   "continuity_attempts": 1,
   "continuity_last_errors": 2
