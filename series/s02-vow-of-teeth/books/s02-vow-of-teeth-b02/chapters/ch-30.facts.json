@@ -1,24 +1,3 @@
 {
-  "facts": [
-    {
-      "category": "knowledge",
-      "fact": "Kandan called Neela a witch to her face at the barracks door the week Raiu burned.",
-      "why": "needed because the beat says Kandan, who called her a witch, is the first to salute Devan."
-    },
-    {
-      "category": "object",
-      "fact": "The queen's second writ is dated eleven days before Ittan's execution and bears the sunbird seal with the chip at the left wing tip; Rema was told to open it only if Neela answered yes under oath.",
-      "why": "needed because the beat requires the writ be dated before the execution and opened by Rema."
-    },
-    {
-      "category": "timeline",
-      "fact": "Rema tells them she will record that they left within three days and will not record where they went.",
-      "why": "needed because the beat has Rema warn that the queen will remember where they go."
-    },
-    {
-      "category": "relationship",
-      "fact": "Muthu swears to hold the seal for the border and the villages, not for the queen's household, Devan's house or his own.",
-      "why": "needed because the beat has Muthu swear to the border, not the household."
-    }
-  ]
+  "facts": []
 }
