@@ -4,39 +4,36 @@
     "change": 4.0,
     "romance_movement": 4.0,
     "shown_chemistry": 4.0,
-    "character_logic": 3.0,
-    "stakes_and_cost": 3.0,
-    "prose": 3.0,
+    "character_logic": 4.0,
+    "stakes_and_cost": 4.0,
+    "prose": 4.0,
     "continuity": 0.0
   },
   "reasons": {
-    "reader_question": "Closing 'How' on her wrists and the surgeon's blade gives a sharp, nameable question; the crown's answer to Muthu's defiance is a second one.",
-    "change": "Muthu's split loyalty becomes one public written oath, and Neela gains palace intelligence. Both are real shifts in power and knowledge.",
-    "romance_movement": "Her restraint-as-respect reframe is new and closes the ch8 consent question. Devan having no answer ready moves them on, though it is reflective, not dramatised.",
-    "shown_chemistry": "The knee that touches and waits, the hoarse goat-laugh and the hour at the cistern all show attraction through action, not narration.",
-    "character_logic": "Devan recites the cut, the numbers and the timing to a crown rider one chapter after tracing raider pay to the crown's mint.",
-    "stakes_and_cost": "Muthu's refusal risks the woman the household holds, but the page barely weighs it. His black wax reads as free relief.",
-    "prose": "Heavy 'It was not X. It was Y' tic (five or more uses). 'Pot on her hip' and 'turned her hand over' repeat, and speech is set in italics.",
-    "continuity": "Muthu says the escort were 'four days in my gate chamber'; F456 quarters them in the south range. The C11 hand clue in new facts is absent."
+    "reader_question": "Closing image of her raised hand makes the palace-wrist problem concrete and urgent. The question is specific and stated through the surgeon detail.",
+    "change": "Muthu moves from two loyalties to one, in writing before the yard. Neela gains the cuff and surgeon intelligence. Janu's door opens slightly.",
+    "romance_movement": "Her reframing of restraint as respect is a new reason, and his lack of an answer is a real beat. The speech leans on stating the theme.",
+    "shown_chemistry": "Knee touch left for her to decide, the shared laugh at the goat, and wounds closing together all carry it without narration.",
+    "character_logic": "Neela refuses to manipulate. Devan withholds the cut's details from the rider's ears. Muthu's open letter fits his arc and his hostage cost.",
+    "stakes_and_cost": "Muthu's kept woman pays for his letter, and Neela leaves at first light toward a surgeon who will read her. Costs are named.",
+    "prose": "Several quotable lines (hands open, door on the latch). A few muddy sentences, and Neela's speech to Devan is slightly on the nose.",
+    "continuity": "'Eleven turnings' conflicts with the world: Neela has turned nightly for over a decade (F310, Rule 1). The rest of the chapter is consistent."
   },
   "fixes": [
-    "At 'He read it through, slowly, with his lips moving' (Twists without setup: C11 missing): add the round clerk's hand. Muthu's thumb stops on one line, he reads it twice, and his eyes go to his own belt pouch. Neela sees the double read and files it as the hard words. Keep it ambiguous so it can match F504's slip later.",
-    "At 'The escort were four days in my gate chamber' (continuity break with F456): change to 'The escort were four days in the south range, and every night they took a cup at my table,' so Muthu still had cause to watch their cuffs. Then either cut 'a crown that had paid his mother's physician' or list it as a new fact and square it with F503.",
-    "At 'Corporal Kandan and forty volunteers are at the lower narrows' (Irrational behaviour): Devan has just traced Thurai pay to the crown's die. Have him glance at the rider and give only the cost, not the cut's place, depth or timing: 'There's a host three days off and the Company on the road between.' Neela notes what he left out. The beat holds and he stays smart."
+    "'Eleven turnings, burned and scarred again.' Continuity conflict: 'turning' is the world's term for the nightly change, and Neela has turned hundreds of times. Rewrite to match the tree-ring image, e.g. 'Eleven years of nights, burned and scarred again.' Never count her scars in turnings.",
+    "'That's respect. I don't think I had a word for it before.' Neela states the theme instead of showing it. Replace the abstract label with one concrete act she now rereads, such as the kindi spout turned left or the knife he never moved. Keep 'They had a number, and they had a leash.'",
+    "'with Pavi and the six behind them' Pavi is one of the six (F755), so the count reads wrong. Change it to 'with Pavi and the rest of the six behind them'. Also clarify 'filed it with the hard words' to 'put it down to the hard words', so the reader sees Neela misread the clue."
   ],
-  "reader_question": "Can Neela get into the palace when its surgeon will read her layered wrist scars before she reads her face?",
+  "reader_question": "How can Neela pass inside the palace when the surgeon will know her layered wrists at arm's length?",
   "techniques_landed": [
     9,
     16,
     23
   ],
-  "new_facts_assessment": "Ribbon, goat and black-wax letter are on the page and consistent (F306/F683/F269). Cuff detail is useful and fits F670/F684, but 'four days in my gate chamber' conflicts with F456. F808 (clerk's round hand, clue C11) is claimed but never appears in the text, so the clue is unplanted. Unlisted additions: the crown paid Muthu's mother's physician, Biju was seventeen, and Neela has been 'two months' in the house; the last is doubtful against the book 1 and 2 timeline.",
+  "new_facts_assessment": "Biju at seventeen is consistent and gives Devan's cost weight. Muthu's thumb on one line plants C11 fairly at a peak of attention, matching F808. Devan withholding the cut's place, depth and timing departs from the beat ('tells Muthu the shelf plan'). It is the smarter choice and in character, so accept it.",
   "content_rule_violation": false,
-  "failure_modes": [
-    "Irrational behaviour to extend plot",
-    "Twists without setup"
-  ],
-  "average": 3.12,
+  "failure_modes": [],
+  "average": 3.5,
   "minimum": 0.0,
   "passed": false
 }
