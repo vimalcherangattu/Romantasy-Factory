@@ -7,33 +7,35 @@
     "character_logic": 4.0,
     "stakes_and_cost": 4.0,
     "prose": 4.0,
-    "continuity": 0.0
+    "continuity": 5.0
   },
   "reasons": {
-    "reader_question": "The marriage question is sharp. The unbroken green seal adds a second specific gap about the queen.",
-    "change": "Knowledge shifts completely: release proven false, Neela named lookout, the queen's hand exposed. The relationship shifts from trust to rupture.",
-    "romance_movement": "There is a new reason for distance: a past crime neither chose. 'I know' without forgiveness is fresh, not a replayed refusal.",
-    "shown_chemistry": "Devan watching her covering hand, 'Leave it', and her not following show mutual understanding through action.",
-    "character_logic": "Her hand-covering method, Devan's evidentiary seal logic and his walk all fit smart versions of them.",
-    "stakes_and_cost": "Every word she reads costs her. The next choice (follow him, open the seal) is loaded, though not yet framed as a decision.",
-    "prose": "Clean and concrete with a strong reading rhythm. A few stock similes ('sleeping child in a cradle', 'something moved behind his eyes') and many 'She did not' openings.",
-    "continuity": "'The warden's sister' conflicts with F401/F440: six years ago Devan's father was warden, so Asha was the warden's daughter."
+    "reader_question": "Devan walking into the rain leaves a sharp, specific question; the green seal adds a second, bigger one.",
+    "change": "Knowledge and relationship both flip: release proven a lie, Neela named lookout, and Devan withdraws.",
+    "romance_movement": "The midpoint mirror lands with a new reason, a crime neither chose. Devan's 'I know' is withheld, so the break reads as quiet.",
+    "shown_chemistry": "He watches her hand instead of saying 'I trust you'. She knows not to follow. Both are responsive acts, not narration.",
+    "character_logic": "Leaving the seal whole and reading under a covering palm are smart. Neela shows no reaction at 'west stair' before 'Lookout'.",
+    "stakes_and_cost": "Bow-or-own, follow-or-wait and the sealed quire all carry cost. The next choice is painful but not yet forced.",
+    "prose": "Concrete and controlled. A heavy 'did not' tic, one bible-summary paragraph, consecutive 'She' openers and one unclear line.",
+    "continuity": "Consistent with F325, F440, F515, F539, F550, F553. 'Daughter' over the beat's 'sister' correctly fits F440."
   },
   "fixes": [
-    "'Kettamala, the warden's sister, the west stair.' Continuity conflict: Devan became warden five years ago (F401, F440, timeline), so a six-year-old leaf would read 'the warden's daughter'. Change the leaf text here and in new-facts F552. Optionally add one line after it, Devan saying 'My father was warden then,' so the cipher lands as his family's fact.",
-    "'as carefully as a man lays a sleeping child in a cradle' and 'Something moved behind his eyes and was put away.' These are stock images and weaken the climax. Replace them with character-specific action: he squares the leaves the way he squares the gate roll at a change of watch. For the second, use a physical tell already on file, such as his hands going flat on his knees.",
-    "'She had been called through that door eleven times, once before each contract.' The count is ambiguous: she had twelve contracts including Devan's, and the lookout job was Thirty's contract, not hers. Say 'twelve times', or add a clause that the lookout night came with no summons. That small absence would sharpen the reveal."
+    "At \"Kettamala, the warden's daughter, the west stair.\" the POV holds back what Neela must already sense (contrived delay). She knows she was lookout at a hill fort six years ago. Add one physical beat as she reads 'west stair', such as her palm stopping, her count starting or her thumbnail on her forefinger (F328). Then she forces the hand down. The reveal becomes dread confirmed, not surprise withheld.",
+    "At \"She did not follow. She had learned that much\" the paragraph restates the bible's voice notes as narration (narrated-only chemistry). Replace it with one concrete remembered act that taught her this, such as the kindi filled unmentioned or 'find me in daylight' (F179). Let her choice not to follow come from that memory.",
+    "Cut about a third of the 'She/He did not' sentences, e.g. 'She did not look at the tin twice', 'He did not stand' and 'She did not move her hand'. Recast them as positive actions. Fix the consecutive paragraph openers 'She stopped.' and 'She had seen that numeral.' Clarify 'before she was told to stop': who told her? Otherwise change it to 'until she chose another name'."
   ],
-  "reader_question": "Can Devan stay married to the woman who held the lamp at his sister's death, and what has the queen sealed inside the green quire?",
+  "reader_question": "Will Devan come back in from the rain to the woman who held the lamp at his sister's death, and what does the queen's sealed quire prove?",
   "techniques_landed": [
     17,
     3,
     12
   ],
-  "new_facts_assessment": "Kennel tags, the Released leaf, Vellan as Thirty, the Keeper's quire and the green-sealed quire are all necessary and consistent with F443/F480/F526/F070. The blindfold-and-lamp memory fits the bible. Asha's leaf text (F552) needs 'the warden's daughter' to match the timeline. 'Third cage from the end' fits F550.",
+  "new_facts_assessment": "F552 revision ('warden's daughter', 'My father was warden then') is necessary and fixes the beat against F440 and F391. Keep it and retire the 'sister' wording. The summons fact is consistent with twelve contracts including Devan's and sharpens the lookout night. It is texture, harmless. ID clash: the draft's F555 and F556 duplicate entries already in continuity.json, so renumber.",
   "content_rule_violation": false,
-  "failure_modes": [],
-  "average": 3.62,
-  "minimum": 0.0,
-  "passed": false
+  "failure_modes": [
+    "Contrived delays"
+  ],
+  "average": 4.25,
+  "minimum": 4.0,
+  "passed": true
 }

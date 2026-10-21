@@ -1,0 +1,41 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 5.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 4.0,
+    "stakes_and_cost": 4.0,
+    "prose": 4.0,
+    "continuity": 5.0
+  },
+  "reasons": {
+    "reader_question": "Devan walking into the rain leaves a sharp, specific question; the green seal adds a second, bigger one.",
+    "change": "Knowledge and relationship both flip: release proven a lie, Neela named lookout, and Devan withdraws.",
+    "romance_movement": "The midpoint mirror lands with a new reason, a crime neither chose. Devan's 'I know' is withheld, so the break reads as quiet.",
+    "shown_chemistry": "He watches her hand instead of saying 'I trust you'. She knows not to follow. Both are responsive acts, not narration.",
+    "character_logic": "Leaving the seal whole and reading under a covering palm are smart. Neela shows no reaction at 'west stair' before 'Lookout'.",
+    "stakes_and_cost": "Bow-or-own, follow-or-wait and the sealed quire all carry cost. The next choice is painful but not yet forced.",
+    "prose": "Concrete and controlled. A heavy 'did not' tic, one bible-summary paragraph, consecutive 'She' openers and one unclear line.",
+    "continuity": "Consistent with F325, F440, F515, F539, F550, F553. 'Daughter' over the beat's 'sister' correctly fits F440."
+  },
+  "fixes": [
+    "At \"Kettamala, the warden's daughter, the west stair.\" the POV holds back what Neela must already sense (contrived delay). She knows she was lookout at a hill fort six years ago. Add one physical beat as she reads 'west stair', such as her palm stopping, her count starting or her thumbnail on her forefinger (F328). Then she forces the hand down. The reveal becomes dread confirmed, not surprise withheld.",
+    "At \"She did not follow. She had learned that much\" the paragraph restates the bible's voice notes as narration (narrated-only chemistry). Replace it with one concrete remembered act that taught her this, such as the kindi filled unmentioned or 'find me in daylight' (F179). Let her choice not to follow come from that memory.",
+    "Cut about a third of the 'She/He did not' sentences, e.g. 'She did not look at the tin twice', 'He did not stand' and 'She did not move her hand'. Recast them as positive actions. Fix the consecutive paragraph openers 'She stopped.' and 'She had seen that numeral.' Clarify 'before she was told to stop': who told her? Otherwise change it to 'until she chose another name'."
+  ],
+  "reader_question": "Will Devan come back in from the rain to the woman who held the lamp at his sister's death, and what does the queen's sealed quire prove?",
+  "techniques_landed": [
+    17,
+    3,
+    12
+  ],
+  "new_facts_assessment": "F552 revision ('warden's daughter', 'My father was warden then') is necessary and fixes the beat against F440 and F391. Keep it and retire the 'sister' wording. The summons fact is consistent with twelve contracts including Devan's and sharpens the lookout night. It is texture, harmless. ID clash: the draft's F555 and F556 duplicate entries already in continuity.json, so renumber.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Contrived delays"
+  ],
+  "average": 4.25,
+  "minimum": 4.0,
+  "passed": true
+}
