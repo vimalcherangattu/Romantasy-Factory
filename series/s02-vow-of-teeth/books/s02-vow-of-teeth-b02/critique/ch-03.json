@@ -4,38 +4,39 @@
     "change": 3.0,
     "romance_movement": 4.0,
     "shown_chemistry": 4.0,
-    "character_logic": 3.0,
-    "stakes_and_cost": 4.0,
-    "prose": 4.0,
+    "character_logic": 2.0,
+    "stakes_and_cost": 3.0,
+    "prose": 3.0,
     "continuity": 5.0
   },
   "reasons": {
-    "reader_question": "Escort's numbers, dry packs, hounds and resin-smelling salve converge on one clear gap; the oath sharpens it.",
-    "change": "Knowledge shifts (resin scent, First Guard's cuff) and she is now named for oath, but she ends mostly in denial.",
-    "romance_movement": "New reason: she sees him fail and coaches him, a competence reversal; his 'I'll wait' raises disclosure stakes.",
-    "shown_chemistry": "Coaching rounds, his startled laugh and 'Of course you were' with no knife show responsiveness without narration.",
-    "character_logic": "Having demanded 'tell me everything' in ch2, she sits beside Devan with a resin-smelling pot and says nothing, with no stated reason.",
-    "stakes_and_cost": "Sworn testimony with no safe answer to 'what are you'; she spends her one refusal to hold it off.",
-    "prose": "Clean and concrete. Minor echoes ('a hair' twice), consecutive 'She' paragraph openers in the dispensary, and Kannan's clunky 'My mother Bindu's dog'.",
-    "continuity": "Consistent with F454-F466, Eravi, nail splits, Muthu's tell and the question-game refusal rule. Soft points are noted in the fixes."
+    "reader_question": "The question is sharp. The escort are hollowed numbers with dry packs, the salve smells of resin, and the oath is three days off.",
+    "change": "Neela gains a resin clue and learns she will be sworn, but she buries the clue. Her knowledge state barely moves by the end.",
+    "romance_movement": "The power seesaw is new: she is the expert performer and he is the failing one. His question about what she is opens a fresh gap.",
+    "shown_chemistry": "The coaching drill, the shed phrases, his surprised laugh and his 'I'll wait' are all responsive action. None of it is narrated chemistry.",
+    "character_logic": "She withholds the resin smell from Devan right after demanding 'tell me everything'. Her odiyan dismissal is a non-sequitur a guild veteran wouldn't accept.",
+    "stakes_and_cost": "The oath is real pressure. But the cost of telling Devan about the salve is asserted, not made specific or forced by a rule.",
+    "prose": "Mostly concrete and quick. 'Let it lie' recurs five times, 'filed' repeats, and the odiyan-sum paragraph is knotted and hard to parse.",
+    "continuity": "No hard conflicts. Eravi applying resin salve barehanded without a burn is borderline against the bible and needs handling."
   },
   "fixes": [
-    "At 'She set the pot on the bench,' Neela holds back the resin smell from Devan in the same chapter where she demanded he tell her everything. That withholding needs a stated cost. Add one beat where she nearly names it and stops. Reason: say 'resin' aloud about a crown guard and it becomes something she must swear to at assize, or something Devan must act on. Alternatively, have Devan notice the pot and let it lie.",
-    "At 'leave the pot in the strongbox with the rest' there is a continuity problem: the hall strongbox key hangs on Devan's cord (F297). Either she comes down to ask him for it, which gives her a motive for entering the hall, or she means her own chest. As written she cannot open the box alone.",
-    "At 'the one word in the world she could not give away, in any room, to any ear': she self-named to Devan in book 1, so she has already given it to one ear. Revise to 'could not give again, to anyone but the man already holding it.' This sharpens the oath stakes and stops a reader from flagging the contradiction. Also cut one of the two 'a hair' echoes in the hall scene."
+    "At 'She opened her mouth to say whose it was', the silence is an artificial misunderstanding: it breaks her ch 2 demand that he tell her everything. Make speaking costly through his rule instead. Devan never lies, so if Rema asks him under oath what his wife suspects, he must answer. Neela says aloud, 'Don't ask me what's in it. You'd have to tell her.' He lets it lie because he understands.",
+    "At 'An odiyan cannot keep shape by day, so no queen', the reasoning fails because odiyans are human by day. Replace it with a rationalisation a guild veteran could believe. A single smooth seam is not ten years of layered ridges. First Guard's throat is unscarred, and the crown hangs unvouched odiyans. Keep the self-deception, but make it smart.",
+    "At 'worked a smear on her first nail with the tip of his little finger', resin burns non-odiyan bare skin. Have Neela notice his finger doesn't redden, and fold that into 'many barks are bitter' so the denial costs more. This also plants Eravi. Separately, cut 'let it lie' to two uses and the second 'filed' to one."
   ],
-  "reader_question": "Are the crown escort odiyans carrying nightbark, and what will Neela swear to when the court asks what she is?",
+  "reader_question": "What are the four numbered guards, why does their salve smell of nightbark, and what will Neela swear to when Rema asks what she is?",
   "techniques_landed": [
     1,
     25,
     11
   ],
-  "new_facts_assessment": "No new facts are declared, but the draft adds several: the hall's eight pillars, Janu's count of eleven names, the hounds loosed at dusk after nine kennelled days, Fourth Guard's salve, and the oath set for the morning after next. All match the provisional F462-F466 except the oath date. 'Morning after next' must be checked against Rema's 'three days' (F457). 'As the fort's hounds had always run it' glosses over Devan kennelling them nightly through book 1 (F377).",
+  "new_facts_assessment": "new-facts.json is empty, but the draft adds facts. The escort's dry packs and unasked needs, Kannan's snake-dog story, and three split nails tonight should be listed. The 'one pass each' carryover from the B1 question game and Neela withholding the resin smell from Devan also belong there. Most are useful and consistent. Eravi fingering the salve barehanded must be reconciled with resin burning non-odiyan skin, or turned into a noticed clue.",
   "content_rule_violation": false,
   "failure_modes": [
+    "Artificial misunderstandings",
     "Irrational behaviour to extend plot"
   ],
-  "average": 3.88,
-  "minimum": 3.0,
-  "passed": true
+  "average": 3.5,
+  "minimum": 2.0,
+  "passed": false
 }
