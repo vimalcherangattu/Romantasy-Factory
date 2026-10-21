@@ -1,0 +1,40 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 3.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 3.0,
+    "stakes_and_cost": 4.0,
+    "prose": 3.0,
+    "continuity": 0.0
+  },
+  "reasons": {
+    "reader_question": "Specific and urgent: the queen herself reaches the gate at noon tomorrow, with the vote tonight and the river watcher unexplained.",
+    "change": "Self-naming is now public. Three pairs are forming or refused, the breach is named, and the queen's personal approach raises the stakes.",
+    "romance_movement": "The breach and its cost land well ('I carried a thing that was gone'). Forgiveness then comes within a page, and no changed behaviour is shown.",
+    "shown_chemistry": "Palms side by side on the cold stone with the shared ease half a breath behind. He reads her stillness. The care is shown, not narrated.",
+    "character_logic": "Devan's public disclosure fits his growth. Neela's anger dissolves too fast for a woman who 'nearly' trusts. 'Said no to the pass' muddles his reason.",
+    "stakes_and_cost": "Every ask carries a named price: knees, daughters, a crooked wrist. The queen's arrival makes tonight's vote cost the fort or the pass.",
+    "prose": "Clean, varied, no banned phrases. Clunky spots: 'white scar of a chin', 'Hear the rest... Then that's all of it'. The chain-clank beat is overused.",
+    "continuity": "Ch19 has the burning ladder at sunset, not 'this morning'. 'A few weeks' bonded conflicts with the bond dating from book 1, ch27."
+  },
+  "fixes": [
+    "Continuity. 'This morning I took a burning ladder in my hands' conflicts with ch19, where the ladder burned at sunset. Change it to 'Last night at dusk'. 'I've been on the other end of it a few weeks' conflicts with a bond dating from the Resin House yard (book 1). Change it to 'since the night she named herself to me' or 'more than a year'.",
+    "Rushed repair (forgiven instantly). After '\"Hear the rest,\" she said. \"I'm still angry.\"' she says nothing more. Give her the rest: for example, that tonight she will speak against him if she must, and that he will not answer for her at the gate. Then show changed behaviour now: he tells her, before doing it, what he means to say to the queen tomorrow. Change 'It's mended' to 'It's mending'.",
+    "Clarity. 'I said no to the pass, not to spare you' muddles his reason, since he refused Kettamala, not the pass. State the reason plainly, e.g. 'I said no because the fort isn't worth the Company's vote.' Also add the three hundred spears and Kettamala to Neela's summary at 'Command of thirty knives with no pages', so the Company hears the offer whole."
+  ],
+  "reader_question": "What will the queen do when she arrives at Kettamala's gate at noon tomorrow, before or after the Company votes?",
+  "techniques_landed": [
+    10,
+    15
+  ],
+  "new_facts_assessment": "F902, F903, F906 are necessary and consistent. F904 fits ch19's broken-off sentence, but the line 'I said no to the pass' contradicts its content. F905's 'from first grey through the tower fire' clashes with ch19, where the tower collapsed at the middle watch; reword it to the smoking stump.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Betrayal forgiven instantly (repair without changed behaviour)"
+  ],
+  "average": 3.12,
+  "minimum": 0.0,
+  "passed": false
+}
