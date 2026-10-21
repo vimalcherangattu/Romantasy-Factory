@@ -1,0 +1,42 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 5.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 3.0,
+    "character_logic": 3.0,
+    "stakes_and_cost": 4.0,
+    "prose": 3.0,
+    "continuity": 0.0
+  },
+  "reasons": {
+    "reader_question": "The final 'Yes' under oath, with the unopened green-thread case, leaves a sharp question about what the crown now does to Neela and Devan.",
+    "change": "Asha's name goes on record, the conspiracy is found, and Neela exposes herself publicly. Knowledge and power both shift hard.",
+    "romance_movement": "The reason is new: she overrides his offer to carry the cost, saying 'It was never only yours.' His response is told more than played.",
+    "shown_chemistry": "The leaf handover, his steady fingers and the wound-share drag work. The win/grief paragraph narrates feeling instead of showing a response.",
+    "character_logic": "Neela's choice is earned. But Devan announcing 'under whose seal' before Muthu and the queen's justice tips off the crown, which a careful Devan wouldn't do.",
+    "stakes_and_cost": "Neela pays with her name on a crown record and an oath confession. Devan's next move now risks his office.",
+    "prose": "Chathu's testimony is garbled, the Asha/'girl on the stair' sentence muddles referents, and Janu's ten-pace line is misplaced in the hall.",
+    "continuity": "Rema's escort left by the goat path (F474, F642) yet stand in the hall. Devan carried Asha's note 'six years' though he found it in B1 ch12."
+  },
+  "fixes": [
+    "'Rema's First Guard stood at the dais step' and 'Fourth Guard, with her blistered heel': continuity break, because the escort left on foot by the goat path (F474, F500, F642). Cut both guards and give the dais step to Bhaskaran's men. Keep 'with her escort shut out' only as past-tense context, or change it to 'alone'.",
+    "'He had carried that line six years like a coal': continuity break, because Devan found the note under the camphor block in book 1 ch12 (F115, F418). Change to 'since the night he found it under the camphor block'. Also check 'in a lamplit pit with a stolen book' against where he said 'My father was warden then' (ch16 at the Resin House), and correct the location.",
+    "'seven years since the cold month, six years gone' and 'set against the warden's daughter's keeping': prose failure, garbled testimony. Rewrite in Chathu's clean ledger voice, for example 'The cold month, six years gone, by the Keeper's hand. Four slashes paid, one hook delivered.' Also fix 'It had never occurred to anyone...' so it clearly means Neela. Replace Janu's hall 'ten-pace line' with a hall-specific boundary, such as the hearth step."
+  ],
+  "reader_question": "Now that Neela has sworn she is an odiyan before the queen's justice, what will the queen's sealed writ do to the warden who harbours her?",
+  "techniques_landed": [
+    15,
+    16,
+    20
+  ],
+  "new_facts_assessment": "F644 (noon hearing, Chathu ungagged by day) is necessary and consistent. F646 is necessary and makes Neela's stand a choice. F645 risks confusion with the ledger quire in green thread under the queen's wax that Devan holds (F554); state that Rema's case is separate.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Narrated-only chemistry",
+    "Irrational behaviour to extend plot"
+  ],
+  "average": 3.25,
+  "minimum": 0.0,
+  "passed": false
+}
