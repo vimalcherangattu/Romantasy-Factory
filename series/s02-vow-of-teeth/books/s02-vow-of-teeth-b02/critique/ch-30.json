@@ -4,38 +4,38 @@
     "change": 4.0,
     "romance_movement": 4.0,
     "shown_chemistry": 4.0,
-    "character_logic": 4.0,
+    "character_logic": 3.0,
     "stakes_and_cost": 4.0,
     "prose": 3.0,
-    "continuity": 0.0
+    "continuity": 5.0
   },
   "reasons": {
-    "reader_question": "The closing 'Where?' / 'I don't know yet' plus Rema's warning sharpen a specific gap: where to go in a sealed country the queen watches.",
-    "change": "Devan loses fort, office and seal. Neela moves from wife to the cause. Muthu gets the pass. Kandan's salute shifts the garrison.",
-    "romance_movement": "There are new public declarations at the price of office, his refusal answered by her 'Beside'. The speeches lean slightly on the nose.",
-    "shown_chemistry": "His shaking hand, the slower pace on her bad side and the sleeve touch work well. Two lines explain the care instead of trusting it.",
-    "character_logic": "Neela's offer to leave is smart and costly, and Rema names the loophole honestly. Her 'tonight' clashes with Rema's 'by sunset'.",
-    "stakes_and_cost": "Three days to leave a closed country, rogue status and a queen who 'keeps every road'. Every next choice costs.",
-    "prose": "Clean and readable with good images ('field under wind'). Pen-laying is repeated, 'did not look at' recurs, and one AI tell appears ('the weight of it').",
-    "continuity": "Neela 'stood in a kennel aisle that morning', but the assize is two days after the return from the Resin House (F644, F643)."
+    "reader_question": "Rema's 'three days, and a closed country' plus 'she will remember' gives a sharp where-and-who-follows question, though the closure is overstated.",
+    "change": "Power shifts hard: Devan loses fort and office, Muthu holds the seal, and the garrison's loyalty is shown openly.",
+    "romance_movement": "Their first public mutual declaration at real cost; the reason (unvouched rule, public loss) is new, not a replayed refusal.",
+    "shown_chemistry": "He draws sixty eyes off her so her count resets, walks her bad-calf side, and his shaking hand: responsive, not narrated.",
+    "character_logic": "Both forget the forty at the cairn camp and the Resin House they hold; 'Where? I don't know yet' ignores obvious options.",
+    "stakes_and_cost": "Rema's sunset loophole makes the choice cost a fort, and the queen's memory prices any road they take.",
+    "prose": "Clean of banned phrases, but the 'It was not X' negation tic repeats, the opener is muddled, and the closing line is a cliché.",
+    "continuity": "Writ date, sunbird chip, iron disc, Kandan and garrison names all match; 'Nothing came in' overstates canon closure but is POV hyperbole."
   },
   "fixes": [
-    "Line: 'She had stood in a kennel aisle that morning'. Problem: continuity break. The kennel reading happened at the Resin House at least two days before the assize (F643, F644). Change the line to 'She had stood in the kennel aisle at the Resin House and not wept', or name the day ('three days ago').",
-    "Line: 'because he knew she hated being looked at'. Problem: narrated-only chemistry. The text explains the care instead of showing it. Cut the explanatory clause and show her body register the eyes leaving her, for example her count restarting. Also cut 'She had counted that kind of thing since the first week, and she had never once seen him fail at it'. Keep 'She saw him do it' and let the slower pace stand alone.",
-    "Line: 'I carried it three days down a road'. Problem: this conflicts with Kodiyur being four days at a hard ride (F208). Change it to 'five days'. Also align Neela's 'I'll go tonight... gone before the sun is' with Rema's 'If she is gone by sunset'. Pick one deadline, sunset today, and have Neela say it. Delete 'the fat man's' (Ittan's build is unestablished) or log it as a new fact."
+    "At 'She had never before stood in one that had no way out at all' (Irrational behaviour to extend plot): the forty wait at the cairn camp and the Resin House is theirs by the wood road, open between downpours. Cut the 'nothing came in' absolute. Have Neela weigh the real option: going to the forty makes her a vouched house's master with the crown writing her name beside forty (F567). Make 'Where?' a costly choice, not ignorance.",
+    "At 'She doesn't get to leave alone, because I won't be left' (chemistry without cruelty): this reads as Devan overriding her offer, and 'I won't answer for it to anyone but her' clashes with him dictating to the record. Recast so he refuses the false record ('I'll not have it written I turned you out. That would be a lie.') and leaves her choice to her, so her declaration answers his rather than obeying it.",
+    "At 'It was the most honest thing anyone had ever said' (prose cliché, weak ending): replace it with a concrete beat that sharpens the question, such as the cistern chain marking the first of seventy-two hours, or Neela realising which road the queen expects. Also cut two of the four 'It was not...' negation sentences, and fix the muddled opener 'one held breath, and not one of them let go of it'."
   ],
-  "reader_question": "Where can a stripped warden and a confessed odiyan go in three days when the passes are shut and the queen will learn their road?",
+  "reader_question": "Where can a stripped warden and a confessed odiyan go in three days, when every road they take will be remembered by the queen?",
   "techniques_landed": [
     19,
     22,
     9
   ],
-  "new_facts_assessment": "Nothing is listed, but the draft adds several things. Rema has been 'thirty years a clerk', which is harmless. Ittan is called 'the fat man', which is unestablished and should be cut or logged. Rema 'carried it three days down a road', but Kodiyur is four days at a hard ride (F208), so this needs fixing. The writ's clause giving the seal to Muthu fits F092. The date of eleven days before the execution matches F648.",
+  "new_facts_assessment": "The draft lists none but adds several: Rema's thirty years as clerk, her five-day carry from Kodiyur, the writ naming Muthu by office, and Rema's sunset-departure loophole. All are consistent and necessary, but they should be logged. Neela's narrated 'nothing came in and nothing went out' must not become a fact: Rema came in during the rains, and the goat path and wood road are open (F431, F478).",
   "content_rule_violation": false,
   "failure_modes": [
-    "Narrated-only chemistry"
+    "Irrational behaviour to extend plot"
   ],
-  "average": 3.38,
-  "minimum": 0.0,
-  "passed": false
+  "average": 3.88,
+  "minimum": 3.0,
+  "passed": true
 }

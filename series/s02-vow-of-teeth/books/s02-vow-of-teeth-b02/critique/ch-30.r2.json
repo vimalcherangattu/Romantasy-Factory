@@ -1,0 +1,41 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 3.0,
+    "stakes_and_cost": 4.0,
+    "prose": 3.0,
+    "continuity": 5.0
+  },
+  "reasons": {
+    "reader_question": "Rema's 'three days, and a closed country' plus 'she will remember' gives a sharp where-and-who-follows question, though the closure is overstated.",
+    "change": "Power shifts hard: Devan loses fort and office, Muthu holds the seal, and the garrison's loyalty is shown openly.",
+    "romance_movement": "Their first public mutual declaration at real cost; the reason (unvouched rule, public loss) is new, not a replayed refusal.",
+    "shown_chemistry": "He draws sixty eyes off her so her count resets, walks her bad-calf side, and his shaking hand: responsive, not narrated.",
+    "character_logic": "Both forget the forty at the cairn camp and the Resin House they hold; 'Where? I don't know yet' ignores obvious options.",
+    "stakes_and_cost": "Rema's sunset loophole makes the choice cost a fort, and the queen's memory prices any road they take.",
+    "prose": "Clean of banned phrases, but the 'It was not X' negation tic repeats, the opener is muddled, and the closing line is a cliché.",
+    "continuity": "Writ date, sunbird chip, iron disc, Kandan and garrison names all match; 'Nothing came in' overstates canon closure but is POV hyperbole."
+  },
+  "fixes": [
+    "At 'She had never before stood in one that had no way out at all' (Irrational behaviour to extend plot): the forty wait at the cairn camp and the Resin House is theirs by the wood road, open between downpours. Cut the 'nothing came in' absolute. Have Neela weigh the real option: going to the forty makes her a vouched house's master with the crown writing her name beside forty (F567). Make 'Where?' a costly choice, not ignorance.",
+    "At 'She doesn't get to leave alone, because I won't be left' (chemistry without cruelty): this reads as Devan overriding her offer, and 'I won't answer for it to anyone but her' clashes with him dictating to the record. Recast so he refuses the false record ('I'll not have it written I turned you out. That would be a lie.') and leaves her choice to her, so her declaration answers his rather than obeying it.",
+    "At 'It was the most honest thing anyone had ever said' (prose cliché, weak ending): replace it with a concrete beat that sharpens the question, such as the cistern chain marking the first of seventy-two hours, or Neela realising which road the queen expects. Also cut two of the four 'It was not...' negation sentences, and fix the muddled opener 'one held breath, and not one of them let go of it'."
+  ],
+  "reader_question": "Where can a stripped warden and a confessed odiyan go in three days, when every road they take will be remembered by the queen?",
+  "techniques_landed": [
+    19,
+    22,
+    9
+  ],
+  "new_facts_assessment": "The draft lists none but adds several: Rema's thirty years as clerk, her five-day carry from Kodiyur, the writ naming Muthu by office, and Rema's sunset-departure loophole. All are consistent and necessary, but they should be logged. Neela's narrated 'nothing came in and nothing went out' must not become a fact: Rema came in during the rains, and the goat path and wood road are open (F431, F478).",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Irrational behaviour to extend plot"
+  ],
+  "average": 3.88,
+  "minimum": 3.0,
+  "passed": true
+}
