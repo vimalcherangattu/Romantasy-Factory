@@ -1,41 +1,41 @@
 {
   "scores": {
-    "reader_question": 5.0,
+    "reader_question": 4.0,
     "change": 4.0,
     "romance_movement": 4.0,
     "shown_chemistry": 4.0,
-    "character_logic": 3.0,
+    "character_logic": 4.0,
     "stakes_and_cost": 4.0,
     "prose": 4.0,
-    "continuity": 0.0
+    "continuity": 5.0
   },
   "reasons": {
-    "reader_question": "The question is sharp and has a clock: thirty named guards held by the queen, and the trail is readable after the new moon.",
-    "change": "Knowledge shifts from suspicion to a confirmed list plus Vellan's testimony. Power shifts too: Neela binds herself to the forty's vote.",
-    "romance_movement": "The private partnership terms from ch31 are now sworn in public and bound to the vote. The new reason is accountability to the forty, which lands the HFN.",
-    "shown_chemistry": "'Whose three?' / 'You count slower', the cup of hot water and 'I looked' / 'very long look' show understanding through action and banter.",
-    "character_logic": "Neela acts stunned that Chathu sold to the crown, though she read 'Sell to the crown when spent' on Vellan's leaf (F629). The watcher logs scent-posts while the forty stayed human.",
-    "stakes_and_cost": "Reading the thirty pages creates new witnesses, and not reading them leaves the guards caged. Add the new-moon deadline, no resin of Neela's own, and a removable leadership.",
-    "prose": "Concrete and clean, with no banned phrases or dashes. There are minor stock beats ('Nobody breathed', 'something under the world'), and Vellan's reveal runs speech-heavy.",
-    "continuity": "Two conflicts. 'Ten years of resin' clashes with her first turning at 16, eleven years ago. 'Indu. A village name' clashes with F577: Indu is her name, Nellimala the village."
+    "reader_question": "Clear and specific: can they reach the thirty pages in Kodiyur, and free the queen's guard, before the new-moon log exposes the shelter?",
+    "change": "Knowledge (queen's guard are odiyans, thirty sold), power (Neela gives the forty a standing vote over her), and a public vow all shift.",
+    "romance_movement": "Partnership goes public and binds Devan to the vote. 'At her back, not a wall' repeats ch31's private term instead of adding a new one.",
+    "shown_chemistry": "Tearing the seal 'on three, yours, you count slower', the hot water, and 'I looked' show response. Neela gives no answer to Devan's restraint facing Vellan.",
+    "character_logic": "Devan names his broken rule, Vellan's arrival and warning are motivated, and Neela's vote follows her vow. All choices fit smart versions of them.",
+    "stakes_and_cost": "Thirty readings mean thirty sets of new witnesses, a season of flasks, a new-moon deadline, and power handed away. Each is concrete and costly.",
+    "prose": "Lean and concrete, no em dashes or banned phrases. Flaws: 'cracked in the middle' twice, edge-of-firelight placement four times, an over-explained reinterpretation paragraph.",
+    "continuity": "Consistent with F608, F629, F633, F643, F664, F665, F671, F684, F712. Neela's past claim 'no guild sells to the crown' is unlisted but not contradicted."
   },
   "fixes": [
-    "Continuity. In 'Mine are layered. Ten years of resin, ridge on ridge', change to 'Eleven years' to match her first turning at 16. In 'Indu. A village name. A girl in a house', change to 'Her own name, out of Nellimala' (F577). Indu is her name, not the village.",
-    "Character logic. At 'There was no rule. Chathu only never said', Neela forgets reading 'Sell to the crown when spent' on Vellan's leaf (F629). Add one line where she recalls that leaf and admits she took it as Chathu's threat for one man, not a trade. The heading then confirms scale and pattern rather than repeating a known shock.",
-    "Character logic and world rule. 'He logged a forty-strong trail going up the hills' breaks the scent-post mechanism (F194), because the forty stayed human and left no marks. Ground it differently. The watcher could find the Resin House posts all gone cold at once, with forty horses' dung on the goat path, and Kesu's grandson seen coming down. Keep the new-moon deadline."
+    "At 'She had even been told. Sell to the crown when spent', this is a signposted callback: the paragraph explains a reinterpretation the reader already made. Cut it to one line, for example 'Sell to the crown when spent. She had read it aloud herself.' Then move straight to 'Vellan did not answer.' This keeps the seam realisation as the single payoff.",
+    "At 'Then he took one of Janu's cloths from his pack', Devan's restraint toward his sister's killer is the most loaded beat, and Neela registers nothing. Add one responsive action from her (technique 9) tied to his kalari breathing. She might count his breath under her own, or set her hand at his back where he can find it. This makes the later 'at her back' vow earned, not restated.",
+    "At 'I've been a wall most of my life', the line echoes ch31's private terms almost verbatim. Replace it with a new public term that only works before witnesses, such as 'Any of you may tell me to stand down, and I will.' Also fix two prose echoes: change the second 'cracked in the middle' (at the laugh), and change 'once paid for a warden's death' to 'once paid for a warden to die'."
   ],
-  "reader_question": "Can Neela free the queen's thirty odiyan night-guard before the new-moon scent log leads the crown to the forty, and what will reading their pages cost?",
+  "reader_question": "Can Neela and Devan reach the thirty pages held in the queen's crown leaf and free her night-guard before the watcher's new-moon log leads the crown to the shelter?",
   "techniques_landed": [
+    26,
     3,
-    20,
-    26
+    20
   ],
-  "new_facts_assessment": "The draft lists no new facts but adds several. The thirty pages went to Kodiyur in a green-sealed box. The sales ran over twenty years with rising sums. Pepper hunters cut wild vine. Kamalakshi laughs for the first time. Vellan makes a page-holding claim. All are plausible and useful and should be logged. One beat deviation is defensible: the outline has the others turn when Vellan arrives, but here the forty stay human, which avoids making Vellan a witness.",
+  "new_facts_assessment": "All five listed facts are necessary and consistent: the watcher's log ties to F194/F687, the Vellan's-leaf reread to F629, and the twenty-year sales fit Vellan sold at nine. The shelter use and Kamalakshi's laugh are harmless texture. Two facts are unlisted and should be logged: Neela once told Devan 'in the rain' that no guild sells to the crown, and the term 'the green road' (Chathu's name for crown sales).",
   "content_rule_violation": false,
   "failure_modes": [
-    "Irrational behaviour to extend plot"
+    "Signposted callback (technique 20 fails-when)"
   ],
-  "average": 3.5,
-  "minimum": 0.0,
-  "passed": false
+  "average": 4.12,
+  "minimum": 4.0,
+  "passed": true
 }

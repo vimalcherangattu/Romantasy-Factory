@@ -2,40 +2,40 @@
   "scores": {
     "reader_question": 4.0,
     "change": 4.0,
-    "romance_movement": 3.0,
+    "romance_movement": 4.0,
     "shown_chemistry": 4.0,
     "character_logic": 4.0,
     "stakes_and_cost": 4.0,
     "prose": 4.0,
-    "continuity": 0.0
+    "continuity": 5.0
   },
   "reasons": {
-    "reader_question": "Clear hinge question: can they free thirty guards whose pages and witness both sit with the queen? Sharpened by the new-moon trail deadline.",
-    "change": "Knowledge shifts (queen owns thirty odiyans), power shifts (free but trackable by new moon), and the pair commit publicly before the forty.",
-    "romance_movement": "The public vow moves the partnership outward, but it largely restates ch31's private 'partners' terms; the vow lines are generic.",
-    "shown_chemistry": "Tearing the seal 'on three' ('You count slower'), hot-water cups and 'You taught me that' show attunement without narration.",
-    "character_logic": "Neela checks Vellan's scent, forbids turning, refuses the spare flask; all smart. Vellan's arrival and restraint with shapes fit his arc.",
-    "stakes_and_cost": "Ache waits, the spare flask is refused at personal cost, the new-moon log gives a deadline, and reading thirty pages adds witnesses.",
-    "prose": "Clean and concrete; minor echoes ('She let it' twice), some told interiority ('knew exactly what it cost him') and a stock final vow.",
-    "continuity": "'Counted those stubs twice in Kettamala and told no one' conflicts with F638 (counted at the Resin House) and ch31, where Devan knows her stub theory."
+    "reader_question": "Clear and specific: can they reach the thirty pages in Kodiyur, and free the queen's guard, before the new-moon log exposes the shelter?",
+    "change": "Knowledge (queen's guard are odiyans, thirty sold), power (Neela gives the forty a standing vote over her), and a public vow all shift.",
+    "romance_movement": "Partnership goes public and binds Devan to the vote. 'At her back, not a wall' repeats ch31's private term instead of adding a new one.",
+    "shown_chemistry": "Tearing the seal 'on three, yours, you count slower', the hot water, and 'I looked' show response. Neela gives no answer to Devan's restraint facing Vellan.",
+    "character_logic": "Devan names his broken rule, Vellan's arrival and warning are motivated, and Neela's vote follows her vow. All choices fit smart versions of them.",
+    "stakes_and_cost": "Thirty readings mean thirty sets of new witnesses, a season of flasks, a new-moon deadline, and power handed away. Each is concrete and costly.",
+    "prose": "Lean and concrete, no em dashes or banned phrases. Flaws: 'cracked in the middle' twice, edge-of-firelight placement four times, an over-explained reinterpretation paragraph.",
+    "continuity": "Consistent with F608, F629, F633, F643, F664, F665, F671, F684, F712. Neela's past claim 'no guild sells to the crown' is unlisted but not contradicted."
   },
   "fixes": [
-    "'She had counted those stubs twice in Kettamala and told no one' (continuity): F638 places the count at the Resin House, and ch31 shows Devan already knows her stub theory. Change it to 'twice at the Resin House, and told no one but Devan.' Also fix 'the pass she had crossed twice as a child, once in each direction'. She crossed it once, at six. Make that 'once as a child, and not by choice'.",
-    "'They're not hunters and they're not soldiers. They're sold.' (continuity, worldbuilding collapse): confirming the escort as odiyans contradicts F460, First Guard's bare throat, against F014. Add one exchange. Neela: 'Her throat was clean.' Vellan: 'Lime-and-ochre paste. The queen won't have scarred throats at her door.' Keep the scars real, so the rule holds and the detail turns into a clue.",
-    "'I'll not do it without you,' she said. 'Nor I without you.' (repetitive tension, generic vow): this restates ch31's private terms. Make the public vow new and costly. For example, Neela gives the forty the vote to remove her. Or Devan says aloud, before Vellan, that he stands at her back, not as her wall. Either way, the forty hold something over them both."
+    "At 'She had even been told. Sell to the crown when spent', this is a signposted callback: the paragraph explains a reinterpretation the reader already made. Cut it to one line, for example 'Sell to the crown when spent. She had read it aloud herself.' Then move straight to 'Vellan did not answer.' This keeps the seam realisation as the single payoff.",
+    "At 'Then he took one of Janu's cloths from his pack', Devan's restraint toward his sister's killer is the most loaded beat, and Neela registers nothing. Add one responsive action from her (technique 9) tied to his kalari breathing. She might count his breath under her own, or set her hand at his back where he can find it. This makes the later 'at her back' vow earned, not restated.",
+    "At 'I've been a wall most of my life', the line echoes ch31's private terms almost verbatim. Replace it with a new public term that only works before witnesses, such as 'Any of you may tell me to stand down, and I will.' Also fix two prose echoes: change the second 'cracked in the middle' (at the laugh), and change 'once paid for a warden's death' to 'once paid for a warden to die'."
   ],
-  "reader_question": "Can Neela and Devan free the queen's thirty night-guard, whose pages and living witness are both in the queen's hands, before their trail is read at the new moon?",
+  "reader_question": "Can Neela and Devan reach the thirty pages held in the queen's crown leaf and free her night-guard before the watcher's new-moon log leads the crown to the shelter?",
   "techniques_landed": [
     26,
     3,
     20
   ],
-  "new_facts_assessment": "Stub/sheet match (F664) is necessary and fixes F661 well. Thirty, not thirty-one (F665), is consistent. The watcher-log deadline (F666) is useful and consistent with F190/F194. The plank (F667) is a good callback. The vow (F668) fits the beat. Dropping Kamalakshi's age (F669) is fine; she is not in a romantic role. Two issues remain. First, the chapter confirms the escort as odiyans, which collides with F460 (First Guard's throat bare of scars) against F014. Second, the beat said 'while the others turn'. The draft has nobody turn. That is defensible but undocumented in new facts.",
+  "new_facts_assessment": "All five listed facts are necessary and consistent: the watcher's log ties to F194/F687, the Vellan's-leaf reread to F629, and the twenty-year sales fit Vellan sold at nine. The shelter use and Kamalakshi's laugh are harmless texture. Two facts are unlisted and should be logged: Neela once told Devan 'in the rain' that no guild sells to the crown, and the term 'the green road' (Chathu's name for crown sales).",
   "content_rule_violation": false,
   "failure_modes": [
-    "Repetitive tension"
+    "Signposted callback (technique 20 fails-when)"
   ],
-  "average": 3.38,
-  "minimum": 0.0,
-  "passed": false
+  "average": 4.12,
+  "minimum": 4.0,
+  "passed": true
 }
