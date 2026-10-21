@@ -298,7 +298,7 @@
       "minimum": 3.0
     },
     "17": {
-      "status": "revised",
+      "status": "passed",
       "revisions": 1,
       "scores": {
         "reader_question": 4.0,
@@ -307,13 +307,13 @@
         "shown_chemistry": 4.0,
         "character_logic": 4.0,
         "stakes_and_cost": 4.0,
-        "prose": 3.0,
+        "prose": 4.0,
         "continuity": 5.0
       },
-      "average": 4.0,
+      "average": 4.12,
       "flags": [],
       "words": 2789,
-      "minimum": 3.0,
+      "minimum": 4.0,
       "continuity_fixes": [
         "Ch17 says that for ten days Rohan took the downhill place on the rope and went first through every door. In fact he walked in her steps behind her (ch3, ch4, ch7) and she entered the hut first (ch8). FIX: Make it a habit he kept reaching for and she kept stopping."
       ]
@@ -1171,9 +1171,13 @@
     {
       "at": "2026-10-21T09:19:28",
       "event": "done: S6 revise ch 17"
+    },
+    {
+      "at": "2026-10-21T09:20:42",
+      "event": "done: S5 critique ch 17"
     }
   ],
-  "updated_at": "2026-10-21T09:19:28",
+  "updated_at": "2026-10-21T09:20:42",
   "midpoint_chapter": 16,
   "continuity_attempts": 1,
   "continuity_last_errors": 2
