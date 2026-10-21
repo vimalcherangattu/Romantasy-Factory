@@ -1,41 +1,41 @@
 {
   "scores": {
-    "reader_question": 4.0,
+    "reader_question": 5.0,
     "change": 4.0,
     "romance_movement": 4.0,
     "shown_chemistry": 4.0,
     "character_logic": 3.0,
-    "stakes_and_cost": 4.0,
-    "prose": 3.0,
-    "continuity": 0.0
+    "stakes_and_cost": 3.0,
+    "prose": 4.0,
+    "continuity": 5.0
   },
   "reasons": {
-    "reader_question": "The closing line makes the forty's fate concrete and urgent, and Neela's white face at the rail personalises it.",
-    "change": "The informant is named and confesses, Muthu's trust is repaired, and the private declaration is made: three state changes.",
-    "romance_movement": "Choosing without forgiving is a new reason and reframes repair; the explicit scene follows from it rather than repeating ch22.",
-    "shown_chemistry": "Plantain eaten, eyes held, a hand on her scar, 'Stay where you are': responsive, though the kindi line narrates care outright.",
-    "character_logic": "Devan learns the House is betrayed and masterless, sends no warning, and accepts 'only three' despite the jar and the reading-day question.",
-    "stakes_and_cost": "Raiu's death is costed at last, and the ending forces a ride that strips the fort, though Devan's own choice isn't costed on page.",
-    "prose": "Clean and concrete, but the age-and-history speech is clunky, 'said nothing' recurs, and the sex scene's phrasing is generic.",
-    "continuity": "Devan claims eight years without striking anyone; he struck Vellan in B1 ch27 and B2 ch15. Other timeline slips too."
+    "reader_question": "The closing image of the forty standing in rows, none looking down, gives a sharp, specific, eerie question.",
+    "change": "The informant is named and confessed, Muthu is repaired, the lovers' terms are reset, and the House is lost.",
+    "romance_movement": "There is a new reason: forgiveness stops being the price of staying. 'I choose you knowing' lands, though it is heavily spoken rather than enacted.",
+    "shown_chemistry": "Responsive care shows on the page: the kindi, the warmed cloth, 'Don't. It's all right.', the matched welts and the pebble.",
+    "character_logic": "Eravi's 'first thing I sent that was true' contradicts his three true reports, and Devan's self-blame ignores that the gate shut before he chose.",
+    "stakes_and_cost": "The ache and the rider delay are named as costs, but the delay cost nothing because the gate was already shut, so the cost ledger misfires.",
+    "prose": "The prose is concrete and clean, with few tells. One narrated-theme paragraph and the stagey Muthu exchange dip.",
+    "continuity": "Consistent with F144, F182, F501, F505, F573, F582, F590, F596 and F601. Ages are stated before the intimate beat."
   },
   "fixes": [
-    "Continuity. At 'I haven't struck a living thing for eight years', the line contradicts B1 ch27 and B2 ch15, where Devan struck Vellan. Rewrite it as 'I went eight years without striking a living thing, and then I struck a bear twice for you.' That keeps the declaration and makes it truer.",
-    "Continuity. At 'Two weeks ago, in a bed, with Neela curled', the sword leak dates from the B1 ch13 fever, when Neela was behind the curtain. Change it to 'in the fever, before the storm'. Change 'letters I knew you were not writing' to 'letters I believed were to your mother' (F117, F501). Add one line showing Bhaskaran rode back from the Resin House with Devan (F588).",
-    "Character logic. After 'He held out his hand for the key', Devan knows Chathu will hear the House is masterless, yet he goes to bed. Have him order a rider to the Resin House at first light because the wood road can't be ridden by night. Have him press Eravi on why he asked the reading day (F590). Vasu then arrives as the rider Devan sent too late, which costs Devan the choice."
+    "Fix Eravi's line 'Tonight was the first thing I sent that was true' (irrational behaviour). It contradicts the sword, cart and lamp reports, which were true. Change it to 'Tonight was the first thing I sent that I knew would cost them nothing they hadn't already taken', or cut it. That keeps his 'paying less' bargain coherent and still lets Devan see the self-deception.",
+    "Fix 'He had chosen the grey over the night' (technique 14 misfiring). The gate shut at yesterday's noon, before Devan's choice, so his guilt rings false. Move the cost to a real choice: he rode home that morning with Bhaskaran and left the House without a master. Have Devan count that, and have Neela recognise she agreed to it. The cost then lands on both leads.",
+    "Rework the paragraph beginning 'Every step of this had a price' (narrated theme). Cut the summarising lines. Replace them with one concrete beat: Devan's eye goes to the eleventh step where Raiu bled, or Eravi's hand on the key he 'kept'. The ledger of costs should be felt, not stated."
   ],
-  "reader_question": "What has Chathu done with the forty odiyans now that his hunters hold the Resin House walls?",
+  "reader_question": "What has Chathu done to the forty, who stand on the wall in rows and won't look down?",
   "techniques_landed": [
     12,
     9
   ],
-  "new_facts_assessment": "Eravi's history and the three leaks are needed and fit F570, F590 and F593. 'Only three since the wedding' clashes with tonight's jar and his reading-day question (F590). Bhaskaran at Kettamala conflicts with F566/F588, which leave him at the Resin House; his return needs one line. Vasu as rider fits F512. Technique 14 is only gestured at in the last paragraph.",
+  "new_facts_assessment": "The drunken dose, the tapper's widow and the gate-shutting timeline are necessary and consistent. Fourth Guard's salve pot as a message conduit implicates the crown escort in guild traffic. That is a large implication, unexplained since the escort left by the goat path. Either state how notes reach the pot via the widow, or flag it as a deliberate crown clue. The Bhaskaran and Vasu split fits F588 and F603.",
   "content_rule_violation": false,
   "failure_modes": [
     "Irrational behaviour to extend plot",
-    "Narrated-only chemistry"
+    "Stakes without depth"
   ],
-  "average": 3.25,
-  "minimum": 0.0,
-  "passed": false
+  "average": 4.0,
+  "minimum": 3.0,
+  "passed": true
 }
