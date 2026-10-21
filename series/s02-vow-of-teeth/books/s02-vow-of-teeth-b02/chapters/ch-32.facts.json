@@ -1,29 +1,28 @@
 {
   "facts": [
     {
-      "category": "place",
-      "fact": "The pepper hunters' shelter above the tree line is a stacked-stone hut with a turf roof, one low door and a hearth, used in the dry months by wild-pepper cutters; Kesu's grandson drew the route on a tally stick.",
-      "why": "needed because the beat sends them to a pepper hunters' shelter above the tree line."
-    },
-    {
       "category": "object",
-      "fact": "Thilak's inventory: forty-one season flasks (forty plus a spare Pavi carried), nine hooked tapping knives, and a small copy of Pachan's grove map showing the north slope and three trees that run best at noon. Neela refuses the spare flask.",
-      "why": "beat names the flasks, tapping knives and grove map; the spare and Neela's refusal keep her ache plausible."
-    },
-    {
-      "category": "object",
-      "fact": "The sealed last quire holds one sheet headed 'Sold to the crown' listing thirty ledger numbers with years and sums in panam, each with a folded-wing sunbird in the margin, and behind it the cut stubs of thirty leaves.",
-      "why": "required reveal of the beat."
+      "fact": "The sealed last quire holds only the single 'Sold to the crown' sheet (thirty ledger numbers, years, sums, folded-wing sunbird in each margin). The thirty cut stubs remain in the ledger's back half (per F638), each carrying its ledger number in the margin beside a folded-wing bird; Neela lays them beside the sheet and every one matches. Corrects F661."
     },
     {
       "category": "knowledge",
-      "fact": "Vellan holds his own page (read to him by Neela earlier) and walks up unscented by resin; he says the queen's night-guard numbers thirty-one, that four escort guards crossed the shut pass by the goat path (he taught two of them), and that the queen witnessed each guard's first turning. He does not name any night-shape aloud.",
-      "why": "beat requires Vellan to confirm the queen's guard are odiyans and the escort among them."
+      "fact": "Vellan says the queen's night-guard numbers thirty (not thirty-one); 'I'd have been the thirty-first'. Corrects F662."
+    },
+    {
+      "category": "knowledge",
+      "fact": "The pass-village watcher's scent-post log goes to Chathu's cell and then to whoever opens his post, the queen's household; the next entry goes in at the new moon, after which anyone can follow the forty's trail."
     },
     {
       "category": "object",
-      "fact": "Vellan gives Kamalakshi a carved wooden bird; she keeps it but says she has not forgiven him. Devan leaves a folded cloth beside him.",
-      "why": "ties Vellan's established bird-carving habit to the scene."
+      "fact": "Neela's lamp-black plank of the forty's names travelled up the hill lashed to a packhorse, carried by Kuttu's insistence."
+    },
+    {
+      "category": "plot",
+      "fact": "At the shelter Neela and Devan carry the plank out to the forty and each speaks a two-line vow before them: she to read the thirty their pages by daylight and be no one's master; he to stand in the door and not close it."
+    },
+    {
+      "category": "name",
+      "fact": "Kamalakshi's age is not given in this chapter; the earlier 'twenty-two' echo of her ledger number is removed."
     }
   ]
 }
