@@ -1,13 +1,10 @@
 {
   "facts": [
     {
+      "id": "F852",
       "category": "injury",
-      "fact": "All fifteen odiyans of the sally came back up the cut at grey, shaking with the morning hunger; Thulasi took a horse's hoof on a foreleg and will limp for a month.",
-      "since": "ch14 revision"
-    },
-    {
-      "category": "knowledge",
-      "fact": "Rescued from Kesu's village: Kesu, Ponni and thirty more, thirty-two in all, as Devan counts."
+      "fact": "Replaces F852: the fifteen odiyans of the sally turned back human at first light in the thorn below the village (F844), bare and shaking with the morning hunger, and climbed the back of the cut in blankets the villagers left, reaching the shelf at mid-morning. Thulasi took a horse's hoof on a foreleg (cracked, not broken through); she can walk but cannot hold a spear human this week, and Vellan stays by her. With the fifteen spent until dusk, tomorrow's shelf wall is sixteen hands thinner. No one died.",
+      "since": "s02-vow-of-teeth-b03 ch 14"
     }
   ]
 }
