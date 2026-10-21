@@ -1,0 +1,41 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 3.0,
+    "stakes_and_cost": 4.0,
+    "prose": 4.0,
+    "continuity": 0.0
+  },
+  "reasons": {
+    "reader_question": "Ends on 'Janu' with the lamps stopped; the reader must learn how Janu takes the confession.",
+    "change": "Neela recovers Asha's voice and her own silence, and she now suspects Eravi. Both change her knowledge and her duty.",
+    "romance_movement": "Devan offers presence without rescue and promises 'say go and I'll go'. This is a new kind of care, granted on her terms.",
+    "shown_chemistry": "He keeps his boots twenty paces off, and the newel joke costs him. Responsive action, not narration.",
+    "character_logic": "Neela's filing is sharp. Eravi blurting 'when it falls' to her face is a careless informant serving the plot.",
+    "stakes_and_cost": "Confessing to the woman who raised Asha costs her home and standing. The cost is clear and personal.",
+    "prose": "The stair memory is strong. The Eravi bleeding line, 'Everyone on that stair would have known it' and 'loosened something in her chest' are weak.",
+    "continuity": "'She had never used it' clashes with F099, F518, F459 and F338. 'Seventeen days' and the half-hour clank also conflict."
+  },
+  "fixes": [
+    "'She had never used it. In seventeen days at Kettamala': this breaks continuity. She counted this stair in B1 ch10, shouted from its head in B1 ch25 and took it for Rema in B2 ch2. Rewrite as: she has avoided it and climbed it only when forced. Cut 'seventeen days'. Keep the known eleventh step, and make the new thing tonight her bare hand on the newel at dusk.",
+    "'None of them had been within a day's ride': this is false, because Devan rode in with her and is in the fort. Change it to: none of them would tell a fort physician, and Devan had been at her side every hour since. Also change 'Forty-one with the girl' to 'Forty, I heard', so it matches F562. Then have Eravi's slip come out as a kindly afterthought, so the informant looks less careless.",
+    "'The cistern chain clanked the half-hour': the chain sounds only on the hour (bible), so cut 'half-hour' or make it the hour. Also fix 'a gentle hand for a man who bleeds people'. Eravi is the one who bleeds people (F118), so give him 'for a man who breaks them' or cut the line."
+  ],
+  "reader_question": "What will Janu do when Neela tells her she held the lamp the night Asha died?",
+  "techniques_landed": [
+    11,
+    2,
+    9
+  ],
+  "new_facts_assessment": "The Eravi question is necessary and matches F590 and F570. Two details are wrong. 'None within a day's ride' is false because Devan rode in with her. 'Forty-one with the girl' conflicts with the forty members of F562.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Irrational behaviour to extend plot"
+  ],
+  "average": 3.38,
+  "minimum": 0.0,
+  "passed": false
+}
