@@ -471,7 +471,7 @@
       }
     },
     "16": {
-      "status": "passed",
+      "status": "edited",
       "revisions": 0,
       "scores": {
         "reader_question": 4.0,
@@ -485,18 +485,18 @@
       },
       "average": 4.25,
       "flags": [],
-      "words": 2511,
+      "words": 2517,
       "minimum": 4.0,
       "style": {
-        "words": 2409,
+        "words": 2517,
         "banned_hits": {},
         "ai_tell_hits": {},
         "ai_tells_per_1000": 0.0,
-        "top_4gram": "at the foot of",
+        "top_4gram": "the name of the",
         "top_4gram_count": 3,
         "longest_paragraph_words": 107,
-        "em_dashes_per_1000": 0.42,
-        "reading_ease": 95.4
+        "em_dashes_per_1000": 0.4,
+        "reading_ease": 94.9
       },
       "owner_instructions": [
         "KEEP: Do not change the midpoint. Keep her palm covering the leaf and sliding down one line at a time, \"Lookout,\" she read. \"Seventeen.\", Devan's \"Say what you did\" and her plain answer counting to three hundred and ten, \"I need to walk,\" and the cloak left on the peg.",
@@ -1946,9 +1946,13 @@
     {
       "at": "2026-10-21T09:11:01",
       "event": "done: S8 line edit ch 5"
+    },
+    {
+      "at": "2026-10-21T09:11:32",
+      "event": "done: S8 line edit ch 16"
     }
   ],
-  "updated_at": "2026-10-21T09:11:01",
+  "updated_at": "2026-10-21T09:11:32",
   "midpoint_chapter": 16,
   "continuity_attempts": 0,
   "continuity_last_errors": null,
