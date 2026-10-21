@@ -1895,12 +1895,20 @@
     {
       "at": "2026-10-21T08:14:40",
       "event": "done: S5 critique ch 32"
+    },
+    {
+      "at": "2026-10-21T08:23:46",
+      "event": "continuity round 1: 14 errors, 21 patches applied, 0 to revise"
+    },
+    {
+      "at": "2026-10-21T08:23:46",
+      "event": "done: S7 continuity"
     }
   ],
-  "updated_at": "2026-10-21T08:14:40",
+  "updated_at": "2026-10-21T08:23:46",
   "midpoint_chapter": 16,
-  "continuity_attempts": 0,
-  "continuity_last_errors": null,
+  "continuity_attempts": 1,
+  "continuity_last_errors": 4,
   "package": {
     "problems": [],
     "epubcheck": true,
