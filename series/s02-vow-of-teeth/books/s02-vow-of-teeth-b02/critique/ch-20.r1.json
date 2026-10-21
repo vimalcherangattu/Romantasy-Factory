@@ -1,0 +1,42 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 5.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 3.0,
+    "stakes_and_cost": 4.0,
+    "prose": 4.0,
+    "continuity": 0.0
+  },
+  "reasons": {
+    "reader_question": "The closing line gives the outlined question a sharp form: his whole case for the high court now carries the queen's bird.",
+    "change": "Knowledge (name, village, raids by leave), power (she refuses Chathu) and relationship (shared injury) all turn.",
+    "romance_movement": "There is a new reason: the same crown wounded both. The daylight naming lands. One summary paragraph narrates the shift instead of trusting the scene.",
+    "shown_chemistry": "The care is specific: 'Which side do you want me?', warm water from an old disclosure, the bandage tied away from her arm, two fingers on his scars.",
+    "character_logic": "She decodes a masters'-cipher grid she says she hasn't learned, from memory, at the gatepost. That is convenient. The Thilak order and the burned tin are smart.",
+    "stakes_and_cost": "Burning the tin costs her 'who sold you', forty others' rolls and Chathu's goodwill, and Thilak is threatened. The cost is clear and chosen.",
+    "prose": "The prose is clean, concrete and varied, with no banned phrases. A few lines tell what the scene shows, and 'eleven tins and eleven stairs' is muddled.",
+    "continuity": "The leaf is 'whole' yet the slip was 'cut from' it. The text says 'plain hand', but F579 says members' cipher. 'Eleven tins' ignores the kennel tin in F234."
+  },
+  "fixes": [
+    "'This was the roll leaf it had been cut from, whole.' This is a continuity break: a leaf a slip was cut from cannot be whole. Make it 'the rest of the roll leaf', with its torn edge matching her desk slip. Make the two readable lines members' cipher, per F579, not 'plain hand'.",
+    "'She took it from the table in her head now': convenient magic or knowledge. She hasn't learned the masters' key. Have her carry the leaf to the master's desk and decode it there against the key grid, letter by letter. Alternatively, establish that she copied the grid into her wrap two nights ago.",
+    "'It was the first time since the stair-leaf that neither of them was waiting': this narrates the romance change. Cut the paragraph. Let the two fingers on his scars carry it, plus one line from Devan that names the shared bird in his literal voice. Also change 'eleven tins and eleven stairs' to match F234."
+  ],
+  "reader_question": "If the crown itself gave leave for the raids, what can Devan prove, and to which court?",
+  "techniques_landed": [
+    3,
+    9,
+    20
+  ],
+  "new_facts_assessment": "Fact 1 is useful but self-contradictory ('whole' leaf a slip was cut from), and the text says plain hand, not members' cipher. Fact 2 is necessary but undercut by decoding from memory. Fact 3 is good stakes. Unlisted facts: the cold-water disclosure, the mare's off hind, and the error of the dawn-change pairs.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Convenient magic",
+    "Narrated-only chemistry"
+  ],
+  "average": 3.5,
+  "minimum": 0.0,
+  "passed": false
+}
