@@ -1,0 +1,42 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 3.0,
+    "shown_chemistry": 3.0,
+    "character_logic": 4.0,
+    "stakes_and_cost": 4.0,
+    "prose": 4.0,
+    "continuity": 5.0
+  },
+  "reasons": {
+    "reader_question": "The ending gives a sharp, specific question: did the hook welt tear open on Neela on the sea stair, and did it expose her?",
+    "change": "The village burns but its people live. The wall is sixteen hands thinner. Devan lets a man guard his back, and the noon signal is broken.",
+    "romance_movement": "The romance moves only after the fight. Devan never weighs the cost to Neela beforehand, so the beat 'chooses the line, as she asked' is missing.",
+    "shown_chemistry": "The late thumb pricks and 'Alive' are good responsive care. Otherwise she is present only in his worry, which reads as told.",
+    "character_logic": "The vote, the cost count, the knee strike and the self-stitching are all smart and in character. Turning toward the rope is a believable, human mistake.",
+    "stakes_and_cost": "Costs are explicit and paid: resin, the wall, Thulasi's leg, the missed signal. The odds of one in three mostly hold.",
+    "prose": "Prose is concrete and strong. Weaknesses: a doubled 'did not say it' beat for Kamalakshi, and Devan borrowing Neela's counting tell. The last line slips out of Devan's POV.",
+    "continuity": "Matches F844, F847, F849, F850, F851, F854 and the wound-share rules. The goat path timing and the head counts (36, 32, 11) agree."
+  },
+  "fixes": [
+    "At 'He counted it on his fingers because he', the cost list names three costs to the Company and none to Neela (Romance buried by plot). Add a fourth finger, or one line of interiority: he will be in the fight near noon and any cut is hers. Then he votes anyway. That turns the beat 'chooses the line, knows what it costs her' into a choice instead of a later discovery.",
+    "At 'had a welt rising hot along her ribs in the wrong place' and 'had already decided whether to scream', the narration states as fact what Devan cannot know (POV slip, contrived certainty). Keep it inside his head: 'would have a welt rising... if she was on the stair', and end on what he imagines she must decide, not what she decided.",
+    "At 'Fifteen odiyans went down the slope to a flat', only Devan turns away, and nothing stops Kandan's ten from watching the turning (world-rule exposure, compare F532, F618). Add one order: Kandan's men face up the path. Separately, cut 'She did not say I told you. She did not need to.', which repeats 'She did not say it' a few lines earlier."
+  ],
+  "reader_question": "Did Devan's hook wound rise on Neela's ribs while she climbed the sea stair under the noon gun, and did it give her away?",
+  "techniques_landed": [
+    6,
+    13,
+    14
+  ],
+  "new_facts_assessment": "F854 (labelled F852 in the draft) is needed and consistent. It follows F844's thorn turn-back and the dawn rule, and it sets up next chapter's thin wall. Dedupe it against F852 and retire F852. Other small additions are harmless: Kesu's sixty years at the well, Vasu as runner, the three-pronged boarding hook.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Romance buried by plot",
+    "Narrated-only chemistry"
+  ],
+  "average": 3.88,
+  "minimum": 3.0,
+  "passed": true
+}
