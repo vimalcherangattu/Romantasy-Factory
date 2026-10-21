@@ -511,7 +511,7 @@
       }
     },
     "18": {
-      "status": "passed",
+      "status": "edited",
       "revisions": 2,
       "scores": {
         "reader_question": 5.0,
@@ -525,8 +525,19 @@
       },
       "average": 4.25,
       "flags": [],
-      "words": 2707,
-      "minimum": 4.0
+      "words": 2699,
+      "minimum": 4.0,
+      "style": {
+        "words": 2699,
+        "banned_hits": {},
+        "ai_tell_hits": {},
+        "ai_tells_per_1000": 0.0,
+        "top_4gram": "she gave him the",
+        "top_4gram_count": 2,
+        "longest_paragraph_words": 100,
+        "em_dashes_per_1000": 0.37,
+        "reading_ease": 94.2
+      }
     },
     "19": {
       "status": "passed",
@@ -1502,9 +1513,13 @@
     {
       "at": "2026-10-21T07:29:52",
       "event": "done: S8 line edit ch 17"
+    },
+    {
+      "at": "2026-10-21T07:30:25",
+      "event": "done: S8 line edit ch 18"
     }
   ],
-  "updated_at": "2026-10-21T07:29:52",
+  "updated_at": "2026-10-21T07:30:25",
   "midpoint_chapter": 16,
   "continuity_attempts": 1,
   "continuity_last_errors": 2
