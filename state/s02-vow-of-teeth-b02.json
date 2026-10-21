@@ -1992,7 +1992,7 @@
       "event": "done: review sheet"
     }
   ],
-  "updated_at": "2026-10-21T09:18:44",
+  "updated_at": "2026-10-21T12:24:22",
   "midpoint_chapter": 16,
   "continuity_attempts": 0,
   "continuity_last_errors": null,
@@ -2014,5 +2014,6 @@
     "notes": "series/s02-vow-of-teeth/books/s02-vow-of-teeth-b02/beta-notes-2.md"
   },
   "beta_rounds": 1,
-  "pending_owner_notes": null
+  "pending_owner_notes": null,
+  "cover_tool": "ElevenLabs (FLUX 3 Image)"
 }

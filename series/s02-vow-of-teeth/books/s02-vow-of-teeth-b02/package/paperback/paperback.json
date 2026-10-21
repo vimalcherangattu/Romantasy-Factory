@@ -1,5 +1,16 @@
 {
   "pages": 293,
   "gutter_in": 0.5,
-  "interior": "interior.pdf"
+  "interior": "interior.pdf",
+  "spine_in": 0.7325,
+  "wrap_in": [
+    11.9833,
+    8.75
+  ],
+  "wrap_px": [
+    3595,
+    2625
+  ],
+  "spine_text": "OATH OF CLAWS     ANYA KALLOOR",
+  "paper": "cream"
 }
