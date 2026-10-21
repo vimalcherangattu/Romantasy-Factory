@@ -2,39 +2,40 @@
   "scores": {
     "reader_question": 4.0,
     "change": 4.0,
-    "romance_movement": 3.0,
+    "romance_movement": 4.0,
     "shown_chemistry": 4.0,
     "character_logic": 3.0,
     "stakes_and_cost": 4.0,
-    "prose": 3.0,
+    "prose": 4.0,
     "continuity": 0.0
   },
   "reasons": {
-    "reader_question": "Specific and urgent: the queen herself reaches the gate at noon tomorrow, with the vote tonight and the river watcher unexplained.",
-    "change": "Self-naming is now public. Three pairs are forming or refused, the breach is named, and the queen's personal approach raises the stakes.",
-    "romance_movement": "The breach and its cost land well ('I carried a thing that was gone'). Forgiveness then comes within a page, and no changed behaviour is shown.",
-    "shown_chemistry": "Palms side by side on the cold stone with the shared ease half a breath behind. He reads her stillness. The care is shown, not narrated.",
-    "character_logic": "Devan's public disclosure fits his growth. Neela's anger dissolves too fast for a woman who 'nearly' trusts. 'Said no to the pass' muddles his reason.",
-    "stakes_and_cost": "Every ask carries a named price: knees, daughters, a crooked wrist. The queen's arrival makes tonight's vote cost the fort or the pass.",
-    "prose": "Clean, varied, no banned phrases. Clunky spots: 'white scar of a chin', 'Hear the rest... Then that's all of it'. The chain-clank beat is overused.",
-    "continuity": "Ch19 has the burning ladder at sunset, not 'this morning'. 'A few weeks' bonded conflicts with the bond dating from book 1, ch27."
+    "reader_question": "Clear and urgent: the queen arrives at noon before or after the vote. Ch19's 'queen's own banners' already hinted at it, which blunts the reveal.",
+    "change": "Self-naming's cost is now public, three bonds are offered, the breach is named, and the queen's personal arrival raises the stakes.",
+    "romance_movement": "The new reason is the first broken term, repaired with terms that cost him. She speaks against him; he stands a step behind.",
+    "shown_chemistry": "Palms on cold stone a hand's width apart and 'Don't say it like a report' show response without narration.",
+    "character_logic": "Neela hands out pages saying 'nobody can read them against you' without the daylight reading the rule requires. Muthu at the distant cairn fire is implausible.",
+    "stakes_and_cost": "Each binding has a priced yes: knees, daughters, a wife's words. Neela's public dissent tonight costs Devan face before the Company.",
+    "prose": "Specific and well varied. Echoes: 'learned' three times, 'a long moment' twice, and a stock 'muscle in her cheek worked'.",
+    "continuity": "'Letter came the day after you left' conflicts with F866/F873. 'Banners I can't swear to' conflicts with F901."
   },
   "fixes": [
-    "Continuity. 'This morning I took a burning ladder in my hands' conflicts with ch19, where the ladder burned at sunset. Change it to 'Last night at dusk'. 'I've been on the other end of it a few weeks' conflicts with a bond dating from the Resin House yard (book 1). Change it to 'since the night she named herself to me' or 'more than a year'.",
-    "Rushed repair (forgiven instantly). After '\"Hear the rest,\" she said. \"I'm still angry.\"' she says nothing more. Give her the rest: for example, that tonight she will speak against him if she must, and that he will not answer for her at the gate. Then show changed behaviour now: he tells her, before doing it, what he means to say to the queen tomorrow. Change 'It's mended' to 'It's mending'.",
-    "Clarity. 'I said no to the pass, not to spare you' muddles his reason, since he refused Kettamala, not the pass. State the reason plainly, e.g. 'I said no because the fort isn't worth the Company's vote.' Also add the three hundred spears and Kettamala to Neela's summary at 'Command of thirty knives with no pages', so the Company hears the offer whole."
+    "Continuity: in 'Her letter came the day after you left', the queen's rider left the Salt Gate in ch16 and reached Devan in ch17, while Neela was in Kodiyur. Change the line to 'Her letter came while you were still in Kodiyur.' Also, ch19 says Usha confirmed the banners. Replace 'The banners I can't swear to. The pairs I can.' with 'The banners say her household. The pairs say her.'",
+    "Worldbuilding collapse: at 'Burn them, read them, keep them. Nobody can read them against you', F011 says a page is safe in its subject's hands only after the holder reads it aloud in full, by daylight, before her. Have Neela say she will read each page at noon, to its owner alone or with whoever they choose. Note that this gives them new living witnesses, which is one more reason self-naming is the only full freedom.",
+    "At 'Muthu answered it before the third blast died. He met them at the cairn fire', the cairn is a mile down the cut from his walls (F902). Have him meet them at the padippura with the gate already open. Also cut the echoes: change 'which he had learned was worse than shouting' to a concrete tell, and replace the stock 'A muscle in her cheek worked and stilled' with her thumbnail dragging her forefinger nail (F328)."
   ],
-  "reader_question": "What will the queen do when she arrives at Kettamala's gate at noon tomorrow, before or after the Company votes?",
+  "reader_question": "What will Queen Nirmala do when she rides to Kettamala's gate at noon tomorrow, before the Company has answered her and with Devan sworn not to speak for Neela?",
   "techniques_landed": [
     10,
-    15
+    15,
+    16
   ],
-  "new_facts_assessment": "F902, F903, F906 are necessary and consistent. F904 fits ch19's broken-off sentence, but the line 'I said no to the pass' contradicts its content. F905's 'from first grey through the tower fire' clashes with ch19, where the tower collapsed at the middle watch; reword it to the smoking stump.",
+  "new_facts_assessment": "F907 (repair terms) is necessary and consistent with F878. F908 rightly aligns the river shape with ch19's middle-watch tower fall. The draft did not log three new facts. First, the letter timing ('the day after you left') conflicts with ch16/17. Second, Usha's doubt about the banners conflicts with F901. Third, Pavi's age of 24 and her wrist are consistent with F539 but were not logged.",
   "content_rule_violation": false,
   "failure_modes": [
-    "Betrayal forgiven instantly (repair without changed behaviour)"
+    "Worldbuilding collapse"
   ],
-  "average": 3.12,
+  "average": 3.38,
   "minimum": 0.0,
   "passed": false
 }
