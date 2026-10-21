@@ -1,20 +1,19 @@
 {
   "facts": [
     {
-      "category": "magic",
-      "fact": "Chathu, first witness at every one of the forty's turnings, will cage from the wall any of the forty who refuses to hunt Neela and Devan after the forced turning."
-    },
-    {
-      "category": "place",
-      "fact": "Chathu's hunters hold the wood road behind Neela's party, so there is no riding home before dawn."
-    },
-    {
-      "category": "place",
-      "fact": "Corrects F606: Bhaskaran, eight spearmen, Devan and Neela ride in (eleven); five Kettamala men and Pavi are outside the wall, since Vasu rode to Kettamala."
-    },
-    {
       "category": "name",
-      "fact": "Madhavi is one of the forty (replaces a name that echoed a village)."
+      "fact": "Meenu is one of the forty, a member who cried at the roll leaf; at the Resin House wall she is pressed against the stone.",
+      "since": "s02-vow-of-teeth-b02 ch 25"
+    },
+    {
+      "category": "timeline",
+      "fact": "Rema called the assize at first grey on the morning of ch 25; Devan, Neela, Bhaskaran and eight spearmen leave within the hour and reach the Resin House late afternoon with the sun a hand above the trees.",
+      "since": "s02-vow-of-teeth-b02 ch 25"
+    },
+    {
+      "category": "magic",
+      "fact": "Neela counts thirty-nine of the forty on the wall; Pavi is outside with the five Kettamala men. Neela rejects a daylight reading at once: a full reading would announce every night-shape to the hunters, and Chathu, first witness at every turning, can still cage regardless.",
+      "since": "s02-vow-of-teeth-b02 ch 25"
     }
   ]
 }
