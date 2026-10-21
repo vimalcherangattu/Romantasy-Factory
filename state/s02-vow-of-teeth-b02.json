@@ -863,7 +863,7 @@
       }
     },
     "30": {
-      "status": "passed",
+      "status": "edited",
       "revisions": 2,
       "scores": {
         "reader_question": 4.0,
@@ -877,8 +877,19 @@
       },
       "average": 3.88,
       "flags": [],
-      "words": 2428,
-      "minimum": 3.0
+      "words": 2410,
+      "minimum": 3.0,
+      "style": {
+        "words": 2410,
+        "banned_hits": {},
+        "ai_tell_hits": {},
+        "ai_tells_per_1000": 0.0,
+        "top_4gram": "of the finding the",
+        "top_4gram_count": 2,
+        "longest_paragraph_words": 96,
+        "em_dashes_per_1000": 0.0,
+        "reading_ease": 93.9
+      }
     },
     "31": {
       "status": "passed",
@@ -1682,9 +1693,13 @@
     {
       "at": "2026-10-21T07:37:04",
       "event": "done: S8 line edit ch 29"
+    },
+    {
+      "at": "2026-10-21T07:37:38",
+      "event": "done: S8 line edit ch 30"
     }
   ],
-  "updated_at": "2026-10-21T07:37:04",
+  "updated_at": "2026-10-21T07:37:38",
   "midpoint_chapter": 16,
   "continuity_attempts": 1,
   "continuity_last_errors": 2
