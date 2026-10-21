@@ -627,7 +627,7 @@
       }
     },
     "22": {
-      "status": "passed",
+      "status": "edited",
       "revisions": 1,
       "scores": {
         "reader_question": 4.0,
@@ -641,8 +641,19 @@
       },
       "average": 4.0,
       "flags": [],
-      "words": 2492,
-      "minimum": 3.0
+      "words": 2476,
+      "minimum": 3.0,
+      "style": {
+        "words": 2476,
+        "banned_hits": {},
+        "ai_tell_hits": {},
+        "ai_tells_per_1000": 0.0,
+        "top_4gram": "she stood with her",
+        "top_4gram_count": 2,
+        "longest_paragraph_words": 90,
+        "em_dashes_per_1000": 0.0,
+        "reading_ease": 94.1
+      }
     },
     "23": {
       "status": "passed",
@@ -1562,9 +1573,13 @@
     {
       "at": "2026-10-21T07:32:16",
       "event": "done: S8 line edit ch 21"
+    },
+    {
+      "at": "2026-10-21T07:32:49",
+      "event": "done: S8 line edit ch 22"
     }
   ],
-  "updated_at": "2026-10-21T07:32:16",
+  "updated_at": "2026-10-21T07:32:49",
   "midpoint_chapter": 16,
   "continuity_attempts": 1,
   "continuity_last_errors": 2
