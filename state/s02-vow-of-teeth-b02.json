@@ -3,7 +3,7 @@
   "series_id": "s02-vow-of-teeth",
   "number": 2,
   "title": "Oath of Claws",
-  "status": "review",
+  "status": "approved",
   "stage": "S3",
   "done": [
     "S3",
@@ -1016,7 +1016,7 @@
   "asin": null,
   "created_at": "2026-10-19T17:42:11",
   "review_at": "2026-10-21T09:18:44",
-  "approved_at": null,
+  "approved_at": "2026-10-21T12:25:26",
   "published_at": null,
   "history": [
     {
@@ -1990,9 +1990,13 @@
     {
       "at": "2026-10-21T09:18:44",
       "event": "done: review sheet"
+    },
+    {
+      "at": "2026-10-21T12:25:26",
+      "event": "approved by owner"
     }
   ],
-  "updated_at": "2026-10-21T12:24:22",
+  "updated_at": "2026-10-21T12:25:26",
   "midpoint_chapter": 16,
   "continuity_attempts": 0,
   "continuity_last_errors": null,
