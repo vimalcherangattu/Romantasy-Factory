@@ -1,0 +1,39 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 3.0,
+    "character_logic": 4.0,
+    "stakes_and_cost": 4.0,
+    "prose": 3.0,
+    "continuity": 0.0
+  },
+  "reasons": {
+    "reader_question": "The welt at the assize gives a sharp, specific question: what happened to Neela at the House, and how badly?",
+    "change": "Devan wins the yard openly, rearms Muthu's loyalty, spends his last courtesy with the court and walks out on it.",
+    "romance_movement": "The leads are apart, but the shared welt forces 'apart by choice' into a ride he isn't ready for. The reason is new.",
+    "shown_chemistry": "Mostly absent by design. Composing her dry answer and riding 'as if mortal' show the bond, but only briefly.",
+    "character_logic": "The open-hand yard speech and the key returned with a risk he counts fit Devan. Granting Eravi leave absently is earned by distraction.",
+    "stakes_and_cost": "Every choice is priced: the court's third refusal, Kandan's contempt, Muthu possibly writing, abandoning the assize.",
+    "prose": "Clean and concrete overall. It is marred by a garbled Bhaskaran sentence, 'stone-haunted weeks', 'the word no and yes', and an expository key paragraph.",
+    "continuity": "Raiu's mother is dead (F186, F334); Bhaskaran stayed at the Resin House (F564, F566); departure time and nights away conflict (F524)."
+  },
+  "fixes": [
+    "'Who tells Raiu's mother?' is a continuity break: Raiu's mother has been dead four years (F334), and Devan would know it. Change Kandan's line to 'Who tells the next man's mother?' or name Kandan's own mother, Kalyani. Then make Devan's answer 'I do. Every one. Not you.' and keep Raman's widow.",
+    "'on Bhaskaran's word. Bhaskaran, who was at the narrows' is wrong: Bhaskaran stayed at the Resin House (ch 18), and the sentence is garbled. Give the order to the duty corporal, not 'Bhaskaran's second'. Change 'send for Bhaskaran' to 'send for Unni's gate watch', and 'Bhaskaran's lads' to 'Kandan's six'. Rewrite the line as: 'The padippura swung wide for him on Unni's word.'",
+    "'leaves at full dark with his wife' and 'I stayed one night' conflict with the timeline: they rode at first light (F524) and spent several nights at the House. Devan never lies, so fix his answer to 'Three nights.' Change 'eleven hours of road' to 'a night and a morning of road', and change Muthu's 'two days' to 'four days'."
+  ],
+  "reader_question": "What has happened to Neela at the Resin House, and who reached her while Devan sat at Rema's table?",
+  "techniques_landed": [
+    7,
+    14,
+    16
+  ],
+  "new_facts_assessment": "The post-key return is necessary and consistent with F504 and F505. The Eravi request and salve smell plant C18 well and match F462. The patrol fact is fine, but it leans on book-1 mirror scouts as if they were current. The timeline fact (left at full dark, one night away, eleven hours of road) conflicts with F524 and with chapters 16 to 18.",
+  "content_rule_violation": false,
+  "failure_modes": [],
+  "average": 3.25,
+  "minimum": 0.0,
+  "passed": false
+}
