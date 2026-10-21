@@ -1,0 +1,41 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 3.0,
+    "stakes_and_cost": 4.0,
+    "prose": 4.0,
+    "continuity": 5.0
+  },
+  "reasons": {
+    "reader_question": "Sharp, specific question: cage thirty-nine of her own at dusk, or be hunted by them. The countdown is clear.",
+    "change": "She loses the House, sees that her delay caused it, and ends trapped with the road behind her held.",
+    "romance_movement": "His refusal to say 'I warned you' is the new reason for trust, and it lands on the page as the beat asks.",
+    "shown_chemistry": "Devan counting the posts back in her order, learned from her lips, and the horse's shoulder screening Meenu. Strong technique 9.",
+    "character_logic": "Neela never considers self-naming, the loophole she used herself. It could void Chathu's witness at the forced turning. The binary feels rigged.",
+    "stakes_and_cost": "Both choices cost her family, her name and Devan's body. The unaddressed third option weakens the cost.",
+    "prose": "Clean, concrete and phone-readable, with no banned phrases or dashes. A few soft lines ('That was the worst of it') and a flat restated ending.",
+    "continuity": "Counts (eleven, five plus Pavi, 31/9), the grey mare, the ledger, the wall order and the rules all agree with the bible and facts."
+  },
+  "fixes": [
+    "At 'She turned it over and it did not hold', the failure mode is irrational behaviour: Neela ignores self-naming, which she did herself. Add two or three sentences in which she weighs it and finds a concrete bar. For example, each of the forty needs a chosen person looking at them in the minute of turning, none of them knows the rule, and shouting it from bowshot teaches Chathu to cage first. Alternatively, leave it as the unformed hope that drives ch26.",
+    "At 'You kept the book! So did he.', the line confuses: it says Chathu has a book, and Neela's 'Not the pages' gloss has to repair it. Keep the beat line, but have Thilak turn his head toward the grove trunks as he says 'ours'. Then cut 'Not the pages', so the reader gets the trees from the action rather than from her inference.",
+    "At 'She did not yet know which of those', the ending restates the dilemma instead of interrupting an action or revealing something, which breaks the chapter checklist. End on a story-caused act: as the sun's rim touches the nightbark, two hunters carry the resin pot and paddles up onto the wall. Or Twenty-two calls down, 'Seventeen, does my page say what I am?' Cut the summary line."
+  ],
+  "reader_question": "Will Neela read her sisters' and brothers' pages to cage them at dusk, or let them be forced to hunt her and Devan?",
+  "techniques_landed": [
+    18,
+    6,
+    14
+  ],
+  "new_facts_assessment": "Meenu is harmless and useful. The assize timeline agrees with Vasu's first-grey arrival (F599, F602). The thirty-nine count and the rejected daylight reading agree with Rules 2 and 3. Some additions are unlisted: Thilak's 'tea for nine days' needs checking against the ch18–21 stay length. Devan's ridge-road request (F605) must exist earlier or be marked new. Chathu 'twenty-six when I learned' and Vellan's human hitch (F608) are fine.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Irrational behaviour to extend plot"
+  ],
+  "average": 4.0,
+  "minimum": 3.0,
+  "passed": true
+}

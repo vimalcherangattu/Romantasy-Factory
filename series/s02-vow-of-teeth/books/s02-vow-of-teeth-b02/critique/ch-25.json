@@ -3,40 +3,39 @@
     "reader_question": 4.0,
     "change": 4.0,
     "romance_movement": 4.0,
-    "shown_chemistry": 5.0,
+    "shown_chemistry": 4.0,
     "character_logic": 3.0,
     "stakes_and_cost": 4.0,
     "prose": 4.0,
-    "continuity": 0.0
+    "continuity": 5.0
   },
   "reasons": {
-    "reader_question": "Clear and timed: cage the forty with their pages or be hunted by them before an hour runs out. Slightly blurred by Chathu's separate groves bargain.",
-    "change": "Knowledge and power both shift: her delay handed Chathu the forty, the road is shut behind them, and her vouching becomes his leverage.",
-    "romance_movement": "There is a new reason to trust him: he withholds a justified 'I told you so' and states shared cost without steering her choice.",
-    "shown_chemistry": "He counts the wall in her order, learned from her moving lips, and turns his horse between her and Meenu. This is responsive care, not narration.",
-    "character_logic": "She never weighs reading the pages back by daylight now, with the forty in earshot. A smart Neela would consider it and reject it for a reason.",
-    "stakes_and_cost": "Forty named people, eleven against them, and every option costs her mastery, her siblings or Devan's soul. The groves threat adds the ache.",
-    "prose": "Clean and specific, with no banned phrases and few tells. 'She hadn't.' is ambiguous, and the Thilak irony line reads awkwardly.",
-    "continuity": "Neela counts forty on the wall while Pavi, a member on the 31+9 plank, waits outside. That makes forty-one. The ride timing is also tight against 'a day's hard ride'."
+    "reader_question": "Sharp, specific question: cage thirty-nine of her own at dusk, or be hunted by them. The countdown is clear.",
+    "change": "She loses the House, sees that her delay caused it, and ends trapped with the road behind her held.",
+    "romance_movement": "His refusal to say 'I warned you' is the new reason for trust, and it lands on the page as the beat asks.",
+    "shown_chemistry": "Devan counting the posts back in her order, learned from her lips, and the horse's shoulder screening Meenu. Strong technique 9.",
+    "character_logic": "Neela never considers self-naming, the loophole she used herself. It could void Chathu's witness at the forced turning. The binary feels rigged.",
+    "stakes_and_cost": "Both choices cost her family, her name and Devan's body. The unaddressed third option weakens the cost.",
+    "prose": "Clean, concrete and phone-readable, with no banned phrases or dashes. A few soft lines ('That was the worst of it') and a flat restated ending.",
+    "continuity": "Counts (eleven, five plus Pavi, 31/9), the grey mare, the ledger, the wall order and the rules all agree with the bible and facts."
   },
   "fixes": [
-    "At 'Forty. They stood where the hunters had put them', the count conflicts with Pavi outside the wall, since she is one of the forty on the plank. Make Neela's count thirty-nine and have her register Pavi's absence as the one Chathu doesn't hold. Change Chathu's 'all forty' to 'every one of them on this wall'. Alternatively, move Pavi onto the wall and drop her from the shed group, keeping F611 consistent.",
-    "Near 'She had less than an hour. She had a bag', this is irrational behaviour to extend plot. The sun is still up and the forty are within hearing, so the daylight handover is open to her. Add three or four lines where Neela weighs reading the pages back now and rejects it for a world-rule reason. For example, Chathu stays a living witness who can cage them regardless, and a reading shouts every night-shape to his hunters. This sharpens the binary rather than leaving a visible gap.",
-    "At 'Within the hour they were on the wood road', the timing stretches F018 (a day's hard ride), because they leave a sitting assize and arrive with the sun a hand high. Say the assize sat from first grey, or that they left at the grey with Vasu. Also clarify 'She hadn't.' after Chathu's counting line, for example 'She hadn't thought he would.' Add Meenu to new-facts."
+    "At 'She turned it over and it did not hold', the failure mode is irrational behaviour: Neela ignores self-naming, which she did herself. Add two or three sentences in which she weighs it and finds a concrete bar. For example, each of the forty needs a chosen person looking at them in the minute of turning, none of them knows the rule, and shouting it from bowshot teaches Chathu to cage first. Alternatively, leave it as the unformed hope that drives ch26.",
+    "At 'You kept the book! So did he.', the line confuses: it says Chathu has a book, and Neela's 'Not the pages' gloss has to repair it. Keep the beat line, but have Thilak turn his head toward the grove trunks as he says 'ours'. Then cut 'Not the pages', so the reader gets the trees from the action rather than from her inference.",
+    "At 'She did not yet know which of those', the ending restates the dilemma instead of interrupting an action or revealing something, which breaks the chapter checklist. End on a story-caused act: as the sun's rim touches the nightbark, two hunters carry the resin pot and paddles up onto the wall. Or Twenty-two calls down, 'Seventeen, does my page say what I am?' Cut the summary line."
   ],
-  "reader_question": "With less than an hour to dusk, will Neela read the forty's pages to cage her sisters and brothers, or let them be forced into the wood to hunt her and Devan?",
+  "reader_question": "Will Neela read her sisters' and brothers' pages to cage them at dusk, or let them be forced to hunt her and Devan?",
   "techniques_landed": [
+    18,
     6,
-    9,
-    14,
-    18
+    14
   ],
-  "new_facts_assessment": "Chathu caging refusers as first witness fits Rule 2 and tightens the trap. The hunters on the road behind them is necessary and is shown on the page. The eleven-and-five correction is consistent once Vasu is gone, but it exposes the Pavi count problem. Madhavi is fine. Meenu is a new member name and is not listed. Thilak's 'nine days' of tea is unlisted but harmless. Vellan's human hitch (F608) is good continuity.",
+  "new_facts_assessment": "Meenu is harmless and useful. The assize timeline agrees with Vasu's first-grey arrival (F599, F602). The thirty-nine count and the rejected daylight reading agree with Rules 2 and 3. Some additions are unlisted: Thilak's 'tea for nine days' needs checking against the ch18–21 stay length. Devan's ridge-road request (F605) must exist earlier or be marked new. Chathu 'twenty-six when I learned' and Vellan's human hitch (F608) are fine.",
   "content_rule_violation": false,
   "failure_modes": [
     "Irrational behaviour to extend plot"
   ],
-  "average": 3.5,
-  "minimum": 0.0,
-  "passed": false
+  "average": 4.0,
+  "minimum": 3.0,
+  "passed": true
 }
