@@ -1,3 +1,24 @@
 {
-  "facts": []
+  "facts": [
+    {
+      "category": "relationship",
+      "fact": "Devan and Neela's term, made in the tack room during the rain: 'say it before you do it'. In ch 17 Devan breaks it by answering the queen's letter before Neela can be told.",
+      "since": "s02-vow-of-teeth-b03 ch 17"
+    },
+    {
+      "category": "name",
+      "fact": "Devan addresses Rema as 'Justice Rema' in his letter, following the outline; F707 calls her a clerk of thirty years, so the title is an honorific his letter uses.",
+      "since": "s02-vow-of-teeth-b03 ch 17"
+    },
+    {
+      "category": "knowledge",
+      "fact": "Kuttu (not Kamalakshi) asked Vellan whom he would self-name to; Vellan refused ('I've handed enough people my wounds'). Matches F877.",
+      "since": "s02-vow-of-teeth-b03 ch 17"
+    },
+    {
+      "category": "knowledge",
+      "fact": "Muthu, now holding the iron disc, says he would hand it back tonight if a yes cost him it, yet urges Devan to accept the queen's offer for the pass.",
+      "since": "s02-vow-of-teeth-b03 ch 17"
+    }
+  ]
 }
