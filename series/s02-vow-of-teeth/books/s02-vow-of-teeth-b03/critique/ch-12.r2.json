@@ -1,0 +1,41 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 3.0,
+    "shown_chemistry": 3.0,
+    "character_logic": 4.0,
+    "stakes_and_cost": 4.0,
+    "prose": 3.0,
+    "continuity": 0.0
+  },
+  "reasons": {
+    "reader_question": "The closing line is sharp and specific: Chathu summoning Seventeen. The unexplained welt adds a second live question.",
+    "change": "Neela gets inside Kodiyur, learns of the conduit to Eravi, the split in the thirty and the sea-stair gap, and gains Usha's trust.",
+    "romance_movement": "Her first real test of the bargain is to stay despite the welt. The pull toward the door is narrated, not dramatised.",
+    "shown_chemistry": "The thorns and the welt carry the bond physically, but her response is mostly summary and repeats ch11's line.",
+    "character_logic": "Asking for names and not prying at Usha's timings both fit. Admitting the wound-share to three unvetted guards is a small risk she doesn't weigh.",
+    "stakes_and_cost": "Staying while Devan bleeds costs her; Chathu's summons is a trap she will feel she has to answer.",
+    "prose": "Concrete port texture, but outline language leaks ('in a page of dust'), Thankam's key line is garbled, and Sanu's confession is a block of exposition.",
+    "continuity": "Sajan's 'only person alive who's ever held a light to you' and 'tells you your shape' conflict with Chathu witnessing first turnings and holding pages for the thirty (F664)."
+  },
+  "fixes": [
+    "Continuity, at 'the only person alive who's ever held a light to you' and 'she kneels down and tells you your shape'. Chathu witnessed the thirty's first turnings and wrote their pages (F664), so the queen can be neither the first nor the only witness. Change to 'the first night in her service', drop 'tells you your shape' (they already know it), and give Sajan: 'one of two alive who've held a light to you, and she keeps the other in her cells.' That also sets up Chathu's summons.",
+    "At 'It'll chafe worse on the next fortnight, on a hard wall': the subtext is muddled, so the knife clue (C16/C19) blurs. Make Thankam's double meaning legible while still addressed to Lata: 'That cuff will chafe. Come to me before it ridges worse. A fortnight to heal, and nobody need read the wrist again.' Then show Neela's hand pressing her own cuff flat.",
+    "At 'for a long, awful moment her whole body leaned toward the door': the romance choice is narrated, and 'If you bleed, I won't' replays ch11. Dramatise it: she stands, takes two steps, counts the doors, sits back down, and presses the welt against the post so the pain stays hers. Give the choice one new reason, such as Sanu watching her to learn whether bargains hold."
+  ],
+  "reader_question": "How did Chathu know Neela would come to Kodiyur, and what does he want with her?",
+  "techniques_landed": [
+    1,
+    2,
+    13
+  ],
+  "new_facts_assessment": "new-facts.json is empty, but the draft adds Rukmini and Pappu, Sajan, Lata and Sanu, Thankam, the shed, the man in grey who counts, the sea-stair timings, the chain being up eleven days and the gate entries. These match F824 to F831 and are needed. One exception: framing the queen as the first and only witness conflicts with the bible.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Contrived delays"
+  ],
+  "average": 3.12,
+  "minimum": 0.0,
+  "passed": false
+}

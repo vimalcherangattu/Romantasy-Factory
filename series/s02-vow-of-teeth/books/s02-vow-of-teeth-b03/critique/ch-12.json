@@ -4,36 +4,36 @@
     "change": 4.0,
     "romance_movement": 3.0,
     "shown_chemistry": 3.0,
-    "character_logic": 3.0,
+    "character_logic": 4.0,
     "stakes_and_cost": 4.0,
-    "prose": 4.0,
+    "prose": 3.0,
     "continuity": 0.0
   },
   "reasons": {
-    "reader_question": "The Chathu summons lands as a clean reveal; why he asks, and how he knows she's in Kodiyur, is specific and pressing.",
-    "change": "Neela moves from outsider to inside the thirty, learns their split, the paring and the salve-pot channel.",
-    "romance_movement": "The welt and her refusal to stand are felt, but this mirrors ch11's noon thorns rather than adding a new reason.",
-    "shown_chemistry": "The body leaning toward the door and 'Three. Alive.' are good; otherwise Devan exists only as pain and memory.",
-    "character_logic": "Absolving Sanu and staying are smart; Usha's 'I've stood both sides' explains away the suspicion Neela is meant to shelve.",
-    "stakes_and_cost": "Staying costs her visibly, and Chathu's cell is a loaded next step with a guild master as bait.",
-    "prose": "Concrete and readable with no banned phrases; some stock beats ('flinched as if she had hit him') and repeated 'Neela said nothing'.",
-    "continuity": "The queen tells each guard its shape aloud 'to the animal' after the first turning; under Rule 2 that cages them for life."
+    "reader_question": "The closing line is sharp and specific: Chathu summoning Seventeen. The unexplained welt adds a second live question.",
+    "change": "Neela gets inside Kodiyur, learns of the conduit to Eravi, the split in the thirty and the sea-stair gap, and gains Usha's trust.",
+    "romance_movement": "Her first real test of the bargain is to stay despite the welt. The pull toward the door is narrated, not dramatised.",
+    "shown_chemistry": "The thorns and the welt carry the bond physically, but her response is mostly summary and repeats ch11's line.",
+    "character_logic": "Asking for names and not prying at Usha's timings both fit. Admitting the wound-share to three unvetted guards is a small risk she doesn't weigh.",
+    "stakes_and_cost": "Staying while Devan bleeds costs her; Chathu's summons is a trap she will feel she has to answer.",
+    "prose": "Concrete port texture, but outline language leaks ('in a page of dust'), Thankam's key line is garbled, and Sanu's confession is a block of exposition.",
+    "continuity": "Sajan's 'only person alive who's ever held a light to you' and 'tells you your shape' conflict with Chathu witnessing first turnings and holding pages for the thirty (F664)."
   },
   "fixes": [
-    "At 'she kneels down, there on the floor, and tells you your shape aloud', a world rule is suspended (Worldbuilding collapse): a witness speaking the shape to someone in shape before dawn cages them. Keep the lamp and the intimacy, but move the naming. She sits the night through, and at first light, when the guard turns back, she kneels and tells the woman her shape. Lata's line becomes 'To you. Gently.'",
-    "At 'It's twelve if the rain's off and nine if it's blowing. I've stood both sides.', Usha's last sentence explains the anomaly the beat wants Neela to shelve (Shaped Gap weakened). Cut 'I've stood both sides.' Let the exact count stand unexplained, so Neela's choice not to ask carries real suspicion and the C-clue keeps its edge.",
-    "At 'I carried notes. For a year. Not to the palace. Out. Up the hill.', there is no route for a Kodiyur guard to deliver to a fort four days away for a year (Convenient logistics). Have Sanu hand the notes, sealed in salve pots, to the ninth-day post rider bound for Kettamala. He went up himself only once, with Rema's escort, when he left the pot at Eravi's dispensary for the blistered heel."
+    "Continuity, at 'the only person alive who's ever held a light to you' and 'she kneels down and tells you your shape'. Chathu witnessed the thirty's first turnings and wrote their pages (F664), so the queen can be neither the first nor the only witness. Change to 'the first night in her service', drop 'tells you your shape' (they already know it), and give Sajan: 'one of two alive who've held a light to you, and she keeps the other in her cells.' That also sets up Chathu's summons.",
+    "At 'It'll chafe worse on the next fortnight, on a hard wall': the subtext is muddled, so the knife clue (C16/C19) blurs. Make Thankam's double meaning legible while still addressed to Lata: 'That cuff will chafe. Come to me before it ridges worse. A fortnight to heal, and nobody need read the wrist again.' Then show Neela's hand pressing her own cuff flat.",
+    "At 'for a long, awful moment her whole body leaned toward the door': the romance choice is narrated, and 'If you bleed, I won't' replays ch11. Dramatise it: she stands, takes two steps, counts the doors, sits back down, and presses the welt against the post so the pain stays hers. Give the choice one new reason, such as Sanu watching her to learn whether bargains hold."
   ],
-  "reader_question": "Why has Chathu, caged in the queen's cells, asked for Seventeen, and how does he know she would come?",
+  "reader_question": "How did Chathu know Neela would come to Kodiyur, and what does he want with her?",
   "techniques_landed": [
     1,
-    2
+    2,
+    13
   ],
-  "new_facts_assessment": "The draft lists no new facts but adds several. Thankam pares the guards' wrists and seems to offer Neela the same, with a fortnight to heal; this is consistent with F684 and useful. The notes rode in the salve pot's lid; this is consistent with F462/F704. Sanu thought the notes were medicine orders for the Keeper's wife; this is fine. The Keeper's widow keeps the window open in rain, a good callback to F488. The queen kneels and speaks each guard's shape aloud to the animal; this breaks the witness rule and must change. Sanu carrying notes 'for a year' up to a fort four days away is fuzzy and needs a mechanism.",
+  "new_facts_assessment": "new-facts.json is empty, but the draft adds Rukmini and Pappu, Sajan, Lata and Sanu, Thankam, the shed, the man in grey who counts, the sea-stair timings, the chain being up eleven days and the gate entries. These match F824 to F831 and are needed. One exception: framing the queen as the first and only witness conflicts with the bible.",
   "content_rule_violation": false,
   "failure_modes": [
-    "Worldbuilding collapse",
-    "Repetitive tension"
+    "Contrived delays"
   ],
   "average": 3.12,
   "minimum": 0.0,
