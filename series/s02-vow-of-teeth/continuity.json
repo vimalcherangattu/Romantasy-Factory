@@ -5491,6 +5491,48 @@
       "fact": "The Company's members read their own intake rolls by the fire at the lightning boulder the night before the Kodiyur party leaves at first light.",
       "since": "s02-vow-of-teeth-b03 ch 7",
       "provisional": true
+    },
+    {
+      "id": "F795",
+      "category": "knowledge",
+      "fact": "Devan's count at the shelf: about fourteen hundred Thurai (sixty hulls, twenty-odd each) against forty-two odiyans, six of whom leave for Kodiyur next light, so thirty-six remain, plus forty garrison volunteers: seventy-six defenders. This replaces the outline's 'seventy odiyans', which conflicts with F740 (forty-two odiyans).",
+      "since": "s02-vow-of-teeth-b03 ch 8",
+      "provisional": true
+    },
+    {
+      "id": "F796",
+      "category": "timeline",
+      "fact": "The Kodiyur party reached the shelf on foot with a pack pony at first light, and Neela stopped there to see Devan's wall plan; the scout attack delays their departure.",
+      "since": "s02-vow-of-teeth-b03 ch 8",
+      "provisional": true
+    },
+    {
+      "id": "F797",
+      "category": "knowledge",
+      "fact": "Bhaskaran's horn code for the queen's riders at the gate is two long notes, a short, and a long (distinct from F455's one long and two short for unarmed strangers). The horn carries down the cut from Kettamala to the lower narrows.",
+      "since": "s02-vow-of-teeth-b03 ch 8",
+      "provisional": true
+    },
+    {
+      "id": "F798",
+      "category": "injury",
+      "fact": "Devan takes a shallow arrow graze along his left upper arm, shoulder to elbow; a matching welt rises on Neela's left forearm. The outline's 'since the snow' is rendered as 'since the night at the Resin House', as there is no snow in Varanad's rules.",
+      "since": "s02-vow-of-teeth-b03 ch 8",
+      "provisional": true
+    },
+    {
+      "id": "F799",
+      "category": "knowledge",
+      "fact": "Devan kills a Thurai scout with a spear thrust before the man's blade rises, striking first for the first time in eight years. Four scouts die and two flee up the slope with Kandan's men in pursuit.",
+      "since": "s02-vow-of-teeth-b03 ch 8",
+      "provisional": true
+    },
+    {
+      "id": "F800",
+      "category": "object",
+      "fact": "The dead scout's purse holds eleven new Varanad silver coins, all with the doubled lowest pepper leaf, matching Parukutty's coin and weighing the same to a grain.",
+      "since": "s02-vow-of-teeth-b03 ch 8",
+      "provisional": true
     }
   ],
   "knowledge": [
