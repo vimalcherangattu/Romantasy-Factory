@@ -1,19 +1,20 @@
 {
   "facts": [
     {
-      "category": "object",
-      "fact": "Neela's flask of resin is in the Resin House tapping-shed store, boxed with every member's ration and tagged, because she put it there the week she took the House so no one could say she kept more.",
-      "why": "needed because the outline says she has no resin and her flask is in the House stores; reconciles with the full flask she had in b2 ch7."
-    },
-    {
-      "category": "object",
-      "fact": "Neela binds the forty pages (without Vellan's) flat in oilcloth under her wrap against her ribs; the bound ledger body and the lamp ride on Devan's canvas pack.",
-      "why": "needed because the outline has Devan carry the ledger and lamp while ch27 has her holding forty pages."
+      "category": "plot",
+      "fact": "Pavi tried the drain grate at noon before Neela's party arrived to reach the flask in the store; it was pinned again and two hunters sat on it."
     },
     {
       "category": "plot",
-      "fact": "Devan sends Bhaskaran and the Kettamala spearmen east along the ridge toward the old cairn camp, with orders not to look at the wall after sunset, so none of them witness a forced turning.",
-      "why": "needed because eleven armed men on the slope would otherwise see the turnings and become witnesses."
+      "fact": "Neela's flask is in the store inside the Resin House wall; Neela has no bad ankle, only the ache."
+    },
+    {
+      "category": "plot",
+      "fact": "Devan sends Pavi and the five Kettamala men from the sheds east with Bhaskaran's party."
+    },
+    {
+      "category": "knowledge",
+      "fact": "Bhaskaran salutes at Raiu's pyre."
     }
   ]
 }
