@@ -1,0 +1,41 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 3.0,
+    "stakes_and_cost": 4.0,
+    "prose": 3.0,
+    "continuity": 0.0
+  },
+  "reasons": {
+    "reader_question": "Strong and specific: the reader knows the blindfolded stair is Asha's, so 'which will break him' carries dramatic irony.",
+    "change": "Trust now has a written check, the teeth signal. Devan defers the second contract, so knowledge is held back by choice.",
+    "romance_movement": "The new term is a mutual veto, with refusal tied to the raid. The reason is new, not a replayed refusal.",
+    "shown_chemistry": "Shown through check-ins, laughter at 'I always do', his stillness under her hands and the wrist kiss. The climax beats are generic.",
+    "character_logic": "Her fear of hunting 'mine' among the leaves ignores that her entry burned and Chathu pocketed her slip (ch 11, F253).",
+    "stakes_and_cost": "The ache is paid on the raid, her threat to stay off the wall is real, and ten unconfessed contracts loom.",
+    "prose": "Mostly clean. Narrated summary in 'a witness and a wound... a lock' and 'felt like a joint'. Some consecutive 'She' paragraph openers.",
+    "continuity": "Neela says 'Tomorrow night I'm a leopard'. The bible voice note says she never says the word and calls herself 'the other one'."
+  },
+  "fixes": [
+    "'Tomorrow night I'm a leopard. I can't take' breaks Neela's fixed voice rule: she never says the word, and the previous chapter is careful about it. Change it to 'Tomorrow night I'm the other one. I can't take anything from your hand.' Leave Devan's 'No' as is.",
+    "In 'I'd read my own leaf first... hunting for mine', her fear doesn't fit the established facts. Her witness entry burned and Chathu kept her slip (ch 11, F253), so the logic is broken. Rewrite: she fears Chathu has tucked her slip back among the pages, and she would turn forty women's leaves by lamplight looking for one scrap that may not be there. This keeps the stakes and fixes the logic.",
+    "'The wound-share ran between them like a wire' and 'Instead it felt like a joint' are narrated summary: the chapter tells the reader what the bargain means. Cut both and end the scene on an action, such as his thumb settling on his own right wrist where her teeth will go. Also rework 'It built in her. When it broke' into one physical detail specific to her scars or the bangle. Vary the paired 'She did not know' openers."
+  ],
+  "reader_question": "Which of Neela's ten untold contracts, above all the blindfolded stair she can't place, will break Devan when he finally asks?",
+  "techniques_landed": [
+    13,
+    10,
+    14
+  ],
+  "new_facts_assessment": "F530 (teeth on the right wrist, a hold that breaks no skin because of the wound-share, book set on the well curb) is necessary for the raid and consistent with the world rules. F531 is useful: refusing the bargain costs her the raid. But 'hunting for mine' conflicts with ch 11, where Chathu pocketed her intake slip and her witness entry burned. The fear must be reframed around that slip.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Narrated-only chemistry"
+  ],
+  "average": 3.25,
+  "minimum": 0.0,
+  "passed": false
+}
