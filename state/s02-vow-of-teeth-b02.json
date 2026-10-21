@@ -3,7 +3,7 @@
   "series_id": "s02-vow-of-teeth",
   "number": 2,
   "title": "Oath of Claws",
-  "status": "in_progress",
+  "status": "revising",
   "stage": "S3",
   "done": [
     "S3",
@@ -959,7 +959,7 @@
   "errors": [
     "1 major continuity errors remain after 2 fix round(s): ch 24: The slip 'Say nothing, and your wife is kept' threatened Ittan's invalid wife (ch 9: 'His wife's an invalid... so long as he kept quiet'). Chapters 19 and 24 treat it as a threat against Muthu's own wife. Muthu has no wife anywhere in the bible or the books."
   ],
-  "revision_round": 0,
+  "revision_round": 1,
   "asin": null,
   "created_at": "2026-10-19T17:42:11",
   "review_at": null,
@@ -1737,9 +1737,13 @@
     {
       "at": "2026-10-21T07:40:55",
       "event": "done: S10 package"
+    },
+    {
+      "at": "2026-10-21T07:42:26",
+      "event": "done: beta read"
     }
   ],
-  "updated_at": "2026-10-21T07:40:55",
+  "updated_at": "2026-10-21T07:42:26",
   "midpoint_chapter": 16,
   "continuity_attempts": 1,
   "continuity_last_errors": 2,
@@ -1753,5 +1757,13 @@
       "interior": "interior.pdf"
     },
     "cover": "missing: generate art from cover-prompt.md, then run `factory cover`"
-  }
+  },
+  "beta": {
+    "verdict": "revise",
+    "predicted_rating": 4.0,
+    "summary": "A strong, honest book. The ch 16 reading, with her hand sliding down the leaf, is the best midpoint this series has produced, and the ending answers its question and pulls hard toward book 2. The escort clue is telegraphed far too early, the closing chapters explain their own callbacks and lean on a few repeated tells, and the blurb mislabels the hero and uses an unglossed term, so one revision round would lift it.",
+    "notes": "series/s02-vow-of-teeth/books/s02-vow-of-teeth-b02/beta-notes-1.md"
+  },
+  "beta_rounds": 1,
+  "pending_owner_notes": "/home/user/Romantasy-Factory/series/s02-vow-of-teeth/books/s02-vow-of-teeth-b02/beta-notes-1.md"
 }
