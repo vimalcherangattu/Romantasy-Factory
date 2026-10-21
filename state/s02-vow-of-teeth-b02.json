@@ -3,7 +3,7 @@
   "series_id": "s02-vow-of-teeth",
   "number": 2,
   "title": "Oath of Claws",
-  "status": "blocked",
+  "status": "in_progress",
   "stage": "S3",
   "done": [
     "S3"
@@ -1916,12 +1916,16 @@
     {
       "at": "2026-10-21T08:46:06",
       "event": "blocked at S7 continuity: 1 major continuity errors remain after 2 fix round(s): ch 17: In ch 17 Devan promises Neela 'I am not going back to the fort without you.' In ch 18 he rides back to Kettamala alone and leaves her at the Resin House. The bible fixes that Devan never lies to Neela, so this reads as a broken promise."
+    },
+    {
+      "at": "2026-10-21T08:55:29",
+      "event": "unblocked by owner"
     }
   ],
-  "updated_at": "2026-10-21T08:46:06",
+  "updated_at": "2026-10-21T08:55:29",
   "midpoint_chapter": 16,
-  "continuity_attempts": 2,
-  "continuity_last_errors": 1,
+  "continuity_attempts": 0,
+  "continuity_last_errors": null,
   "package": {
     "problems": [],
     "epubcheck": true,
