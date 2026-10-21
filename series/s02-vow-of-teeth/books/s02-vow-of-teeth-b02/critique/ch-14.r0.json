@@ -1,0 +1,39 @@
+{
+  "scores": {
+    "reader_question": 5.0,
+    "change": 4.0,
+    "romance_movement": 3.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 4.0,
+    "stakes_and_cost": 4.0,
+    "prose": 3.0,
+    "continuity": 0.0
+  },
+  "reasons": {
+    "reader_question": "The chapter ends with her stepping between a lame bear and a shaft holding a man who will feel every blow. The question is concrete and urgent.",
+    "change": "The book is within reach, Pavi turns out to be a silent ally, and shapes on the watch is new knowledge. Neela moves from unseen to found.",
+    "romance_movement": "The first combat wound-share and his 'Then it's mine' are new, but the shared beat is brief and mostly logistics.",
+    "shown_chemistry": "The palm between her ears that does not linger, 'Hold the door', and the welt read through his hand all show chemistry through action.",
+    "character_logic": "Sparing the hunter and the claw on the rotten staple are smart. She smothers the flame with her cheek and ignores that it will burn Devan.",
+    "stakes_and_cost": "Every hit lands twice, Kirri is left behind, and Pavi takes a risk. The final choice clearly costs both of them.",
+    "prose": "The prose is mostly clean and strong ('no one in the eyes to sink'), but the welt passage is tangled and 'walked a rope into hell' is a cliché.",
+    "continuity": "The box hangs on a chain, but F522 puts the book on a dry ledge. The draft has forty-one cages; F443 says forty-two."
+  },
+  "fixes": [
+    "Continuity conflict at 'a square of iron hung on the chain a few man-lengths down'. F522 says the book sits on a dry ledge cut into the shaft. Have the chain lower the padlocked box so it rests on that ledge above the water, which keeps both facts. At 'forty-one, in a row', write forty-two cages, forty-one holding odiyans, and one standing empty: the one she was put in (F443). Neela's noticing the empty cage adds weight.",
+    "Confused wound-share at 'a hot wet line along her side that was not a wound on her at all'. The POV muddles whose body carries the welt. Keep her own cut as the burning line on her ribs. Then show his welt from outside: his shirt dark where his hand presses over the old seam, and his wince matching her breath. Cut 'A welt. A shallow one.'",
+    "Character logic and cliché at 'He had told her he wouldn't, because she could not answer'. This contradicts ch13, where he talks precisely because she can't answer (F534). Make the reason stealth: a voice carries across a yard. Replace 'walked a rope into hell a hundred times' with a concrete detail. Also, at 'She put her whole cheek over it', either have her smother the flame with straw or note his cheek stinging."
+  ],
+  "reader_question": "Can Neela hold Vellan's bear off the well while every wound she takes opens on Devan as he climbs the shaft?",
+  "techniques_landed": [
+    5,
+    6,
+    7
+  ],
+  "new_facts_assessment": "The drain, the rotten staple, the cowed hounds, the drag-step and Pavi are all necessary and consistent; the drag-step pays off the girlhood memory well. The box on a chain conflicts with F522's dry ledge, so the two must be reconciled. Shapes on the watch is a good open question but needs a later answer. The pin left 'where Devan would feel it with his boot' implies he uses the drain, yet he comes over the wall as F533 plans.",
+  "content_rule_violation": false,
+  "failure_modes": [],
+  "average": 3.38,
+  "minimum": 0.0,
+  "passed": false
+}
