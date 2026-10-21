@@ -6,34 +6,36 @@
     "shown_chemistry": 4.0,
     "character_logic": 3.0,
     "stakes_and_cost": 4.0,
-    "prose": 3.0,
+    "prose": 4.0,
     "continuity": 5.0
   },
   "reasons": {
-    "reader_question": "The langur silence on a road nobody can walk is a concrete gap. The sunbird mark and Ittan's fear add smaller gaps.",
-    "change": "The plan is set and the smear is spent tonight. The 'four months of locked road' mercy is broken at the close: safe now becomes on a clock.",
-    "romance_movement": "The conflict of goals is named honestly for the first time and they choose to go together. The reason is new, rooted in the ledger.",
-    "shown_chemistry": "Rewarmed cloth, the pebble, 'help given, hand removed', 'I wanted to see if you would': care is responsive, not declared.",
-    "character_logic": "Devan says 'I will not choose for you', then refuses to promise it. That contradicts him, and it turns his truth-rule into a fake-out.",
-    "stakes_and_cost": "Each smear is a piece of Ammu and a step toward the ache. Spending one on scouting is a priced, felt cost.",
-    "prose": "Clean and concrete, but 'nine days' is repeated about eight times. The recap paragraph is a dump, and lines like 'That was the thing she was learning' tell.",
-    "continuity": "Consistent with the bible and facts: wound-share wrist line, Chathu's slip, sunbird seal, Muthu's black book, willow bark, langur rule."
+    "reader_question": "The langur silence on an impassable road gives a crisp, specific question; the Ittan corner-glance thread is vaguer and does not link to it.",
+    "change": "Safe-for-now becomes on-a-clock: two smears, a spent-tonight plan, an agreed raid, and a stranger on the road.",
+    "romance_movement": "A new reason for friction (one page against all pages), plus his honest refusal to promise, moves them from spouses to a working alliance.",
+    "shown_chemistry": "Shown through responsive acts: the rewarmed cloth, the released elbow, her stilled hand on the oilcloth, 'I wanted to see if you would.'",
+    "character_logic": "Spending half her last resin to scout a road goes almost unchallenged; Devan offers no cheaper human-day alternative for her to reject.",
+    "stakes_and_cost": "Each smear is a piece of Ammu and a night nearer the ache; the cost is named and tied to a loved, dead person.",
+    "prose": "Tight and sensory with no banned phrases; one exposition dump on hunters, and the 'Chathu writes them' line confuses whose hand is meant.",
+    "continuity": "Consistent with the cloth, pebble, wound-share welts, writ name, Muthu's black book, willow-bark request and the langur sign."
   },
   "fixes": [
-    "At \"Will you promise that?\" / \"I won't answer that,\" he said gently\": a character-logic slip. Devan has just said 'I will not choose for you', so refusing to promise it contradicts him. Using his truth-phrase as a fake-out also cheapens his rule. Replace the earlier line with 'I want it to be yours to choose.' Then have him answer the promise plainly: 'I won't promise what I can't swear I'd keep.' Keep 'I won't answer that' for real refusals.",
-    "At \"Then there were the other names, the ones she'd put\": an exposition dump (Endless monologue, recap form). Cut it to about 60 words. Turn the rest into action: let her touch the wedding bangle or the writ copy while she counts who hunts her. Or move 'rogue to the guild, unvouched to the crown' into a two-line exchange with Devan at the table.",
-    "At \"That was the thing she was learning about him\" and \"He answered with facts, because that was what he had\": narrated characterization. Cut both; the dialogue already shows it. Also cut 'nine days' to at most three uses. Replace the kettle simile ('the way a house sounds when a kettle won't stop') with something native to the fort, such as the cistern chain."
+    "At 'his gaze slid past Devan's shoulder... to the dark corner by the door', the fear-object is vague and reads like a hidden presence in the room (Shaped Gap without shape). Make his glance go to the grille facing the south road. Have him ask once, too casually, 'The pass is truly shut? Nobody comes up in the rains?' This ties his fear to the langur ending and makes that ending answer-and-escalate.",
+    "At '\"You've priced it.\" \"I counted it,\"', the costly choice to burn a smear on scouting goes unchallenged (would a smart version do this?). Have Devan offer a cheaper option first, such as Kesu's grandson or two men walking the ford by day. She refuses it for a concrete reason, for example day eyes can't read scent of hunters or day men leave tracks the watcher reads. Then the spend reads as necessary.",
+    "At 'Or a death. Chathu writes them all the same.', it is unclear whose hand this is, since the book is in a clerk's hand copied from guild receipts. Change it to 'Or a death. The house marks them all the same.' Also cut the paragraph 'To the guild she was rogue. To the crown she was unvouched' down to one sentence, and move the rest into a line of dialogue with Devan."
   ],
-  "reader_question": "Who is walking toward Kettamala on a monsoon-closed road that nobody can walk?",
+  "reader_question": "Who is walking toward Kettamala on a pass road nobody can walk in the rains?",
   "techniques_landed": [
     1,
     5,
     22
   ],
-  "new_facts_assessment": "new-facts.json is empty, but the draft adds facts. These include: the ache counted from the last turning; the watcher walks the ridge track; four instalments plus a 'hook' delivery; the folded-wing sunbird; Neela avoids the west stair; Ittan's glance at the dark corner. All are consistent and useful clues, and some already appear as F446 to F452. List them all.",
+  "new_facts_assessment": "All six are consistent. The ache count matches the full-moon rule. The ridge-track watcher fits the scent-post watcher (F194). The tally marks fit later reinterpretation (F575/F576). The east-stair avoidance is a fair clue. The no-promise line fits Devan's never-lie voice. Keep all.",
   "content_rule_violation": false,
-  "failure_modes": [],
-  "average": 3.88,
+  "failure_modes": [
+    "Irrational behaviour to extend plot"
+  ],
+  "average": 4.0,
   "minimum": 3.0,
   "passed": true
 }
