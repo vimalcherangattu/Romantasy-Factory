@@ -1,3 +1,19 @@
 {
-  "facts": []
+  "facts": [
+    {
+      "category": "plot",
+      "fact": "Devan splits the ten Kettamala men who came in at the raid (F545): four ride out with him, six stay at the Resin House, Bhaskaran among the six.",
+      "since": "s02-vow-of-teeth-b02 ch 18"
+    },
+    {
+      "category": "plot",
+      "fact": "Neela tells Devan she will vouch for the forty as the Resin House under her own name; Devan answers that a vouched house has a master and the crown will write her name beside forty. Neela accepts that cost.",
+      "since": "s02-vow-of-teeth-b02 ch 18"
+    },
+    {
+      "category": "name",
+      "fact": "Neela's elder-sister contract (the third) involved two coast-house sisters; the elder kept bees. Twenty-two's intake name has four syllables.",
+      "since": "s02-vow-of-teeth-b02 ch 18"
+    }
+  ]
 }
