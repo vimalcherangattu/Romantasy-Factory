@@ -1,0 +1,43 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 3.0,
+    "stakes_and_cost": 3.0,
+    "prose": 4.0,
+    "continuity": 0.0
+  },
+  "reasons": {
+    "reader_question": "The occupation reveal turns raid odds into a siege question, and Vellan's withheld words add a personal hook.",
+    "change": "Devan goes from no seal to ten consenting spears, a hired nose and a struck first blow. Power and knowledge both shift.",
+    "romance_movement": "For the first time he sits and takes her care in public, then she wins Kandan. The reason is new.",
+    "shown_chemistry": "Shown through action: the welt, 'I nearly dropped him', 'Sit, Devan', the thumb on the knot, the tile read twice.",
+    "character_logic": "Devan guards the volunteers' eyes but not the prisoners'. He hires Koman without weighing that the log goes to the queen.",
+    "stakes_and_cost": "Costs are spent offstage: road pinches, the Kodiyur delay. The ending tallies resources but names no next choice and its price.",
+    "prose": "Concrete and well varied. Two consecutive paragraphs open with 'It'. The scree head-count (36/35) muddles the action.",
+    "continuity": "'He did not know what he was seeing' conflicts with F575/F576: Devan knows the folded-wing sunbird means 'by leave'."
+  },
+  "fixes": [
+    "At 'He did not know what he was seeing', the POV withholds what Devan knows (contrived delay, continuity). Devan read the cipher key with Neela: the folded-wing sunbird means 'by leave'. Have him recognise it at once and feel it as a blow, but not know whose leave or for what. Then the sergeant's 'We were told she would not come' should land on that knowledge. He pockets the mirror and tells no one yet.",
+    "At 'It did not kill. It put the man down', the witness rule fails to bite (worldbuilding collapse). The bear turns back at first sun while standing on a prisoner, the picket sits pinned beside it, and the mirror man is held on the lip among turning odiyans. Before dawn, have Devan order the prisoners hooded or turned face to the rock, and the mirror man's eyes bound. Give it one line of cost: a spare cloth lost, or Vellan held apart.",
+    "At 'Then it went out' and 'Nothing flashed', the two lines conflict (irrational behaviour). Make the half-flash real, and have Devan doubt aloud whether the ships read it ('Maybe a day'). That sharpens technique 6 and the closing tally. At 'He could say it, and it would be fair', add one line where Devan recalls Koman's log goes to the queen's household and hires him anyway, a named risk."
+  ],
+  "reader_question": "If the queen's own 'by leave' mark is on a Thurai mirror and the army has come to stay, can ten men and the Company hold the pass alone?",
+  "techniques_landed": [
+    3,
+    6,
+    16
+  ],
+  "new_facts_assessment": "Koman is necessary and in keeping with F194/F301, but the draft ignores that his log feeds the queen's household (F666/F745). The occupation orders are strong and consistent with the treaty plot. The mirror flash fact says it 'flashes briefly', yet the page says 'Nothing flashed'; reconcile them. Meenu, one of the road six, is in shape at dawn, so the road pinches were spent; the cost goes unflagged. The C10 sunbird is a good plant, but Devan's ignorance of it contradicts his book 2 knowledge.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Contrived delays",
+    "Worldbuilding collapse",
+    "Irrational behaviour to extend plot"
+  ],
+  "average": 3.25,
+  "minimum": 0.0,
+  "passed": false
+}

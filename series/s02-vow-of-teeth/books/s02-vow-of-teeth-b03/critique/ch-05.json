@@ -4,38 +4,40 @@
     "change": 4.0,
     "romance_movement": 4.0,
     "shown_chemistry": 4.0,
-    "character_logic": 4.0,
-    "stakes_and_cost": 4.0,
+    "character_logic": 3.0,
+    "stakes_and_cost": 3.0,
     "prose": 4.0,
     "continuity": 0.0
   },
   "reasons": {
-    "reader_question": "Occupation reveal gives a sharp exit question; Asha's withheld words and the sunbird mirror add strong secondary hooks.",
-    "change": "Devan moves from no office to leading by consent, strikes first openly, and learns the raid is an occupation.",
-    "romance_movement": "He accepts her care before soldiers for the first time, which is a new reason. Her side is shown through one loosened face.",
-    "shown_chemistry": "The welt, the hard thumb on the knot and Kandan's gourd show the bond. 'Something in her face loosened' is narrated.",
-    "character_logic": "Smart choices: announcing himself, the non-lethal thrust, hiring Koman from his own pocket. Koman's scent reach is a little convenient.",
-    "stakes_and_cost": "Mirror at first sun, the men's witness risk, Vellan's price on Asha's words and a fixed army each cost something real.",
-    "prose": "Mostly clean and concrete. Some clichés ('went cold from the crown of his head') and a few vague abstractions.",
-    "continuity": "The leopard stays at Devan's right through the knife fight, yet Neela says she was on the lip holding the mirror man."
+    "reader_question": "The occupation reveal turns raid odds into a siege question, and Vellan's withheld words add a personal hook.",
+    "change": "Devan goes from no seal to ten consenting spears, a hired nose and a struck first blow. Power and knowledge both shift.",
+    "romance_movement": "For the first time he sits and takes her care in public, then she wins Kandan. The reason is new.",
+    "shown_chemistry": "Shown through action: the welt, 'I nearly dropped him', 'Sit, Devan', the thumb on the knot, the tile read twice.",
+    "character_logic": "Devan guards the volunteers' eyes but not the prisoners'. He hires Koman without weighing that the log goes to the queen.",
+    "stakes_and_cost": "Costs are spent offstage: road pinches, the Kodiyur delay. The ending tallies resources but names no next choice and its price.",
+    "prose": "Concrete and well varied. Two consecutive paragraphs open with 'It'. The scree head-count (36/35) muddles the action.",
+    "continuity": "'He did not know what he was seeing' conflicts with F575/F576: Devan knows the folded-wing sunbird means 'by leave'."
   },
   "fixes": [
-    "Continuity, at 'I had the mirror man's wrist in my teeth': the leopard is still at Devan's right after the Koman scene, so she cannot have been on the lip during the knife fight. Send her up the scree at the end of scene one, after the nine turn their backs. Cut 'The spotted shape at Devan's right had already turned its head' and start scene four with the slope already empty. Her line then holds.",
-    "Narrated chemistry, at 'She saw it. He saw her see it. Something in her face loosened.': replace the abstraction with a choice. She hands the gourd back and says 'Kandan' aloud, the man who called her witch. He takes it without looking away, or gives one short word. Her change then shows in the volunteers' response to an act, not in Devan's reading of her face.",
-    "Probable-but-uncertain suspense, at 'There was a short grunting cry from the lip': the mirror race happens offstage and the odds are never felt. Add one visible near-miss. First light touches the cliff top, a glint flickers on the lip, and Devan's count runs out. Then the dark holds. Also cut the cliché 'went cold from the crown of his head to his heels' in favour of a concrete physical beat."
+    "At 'He did not know what he was seeing', the POV withholds what Devan knows (contrived delay, continuity). Devan read the cipher key with Neela: the folded-wing sunbird means 'by leave'. Have him recognise it at once and feel it as a blow, but not know whose leave or for what. Then the sergeant's 'We were told she would not come' should land on that knowledge. He pockets the mirror and tells no one yet.",
+    "At 'It did not kill. It put the man down', the witness rule fails to bite (worldbuilding collapse). The bear turns back at first sun while standing on a prisoner, the picket sits pinned beside it, and the mirror man is held on the lip among turning odiyans. Before dawn, have Devan order the prisoners hooded or turned face to the rock, and the mirror man's eyes bound. Give it one line of cost: a spare cloth lost, or Vellan held apart.",
+    "At 'Then it went out' and 'Nothing flashed', the two lines conflict (irrational behaviour). Make the half-flash real, and have Devan doubt aloud whether the ships read it ('Maybe a day'). That sharpens technique 6 and the closing tally. At 'He could say it, and it would be fair', add one line where Devan recalls Koman's log goes to the queen's household and hires him anyway, a named risk."
   ],
-  "reader_question": "Can ten men and thirty-six odiyans hold a forty-pace gorge against an army that has come to stay, with the queen expected not to come?",
+  "reader_question": "If the queen's own 'by leave' mark is on a Thurai mirror and the army has come to stay, can ten men and the Company hold the pass alone?",
   "techniques_landed": [
     3,
+    6,
     16
   ],
-  "new_facts_assessment": "new-facts.json is empty, yet the draft adds Koman (watcher, 7 panam, personal word), the sergeant's saws, lime and seed barley, the folded-wing sunbird on the mirror (C10), Kandan's nine defying Muthu, the cloths on Kuttu's packhorse, and Vellan withholding Asha's words. All of these are necessary and consistent with the bible, and should be listed. Risk: Meenu turns at the gorge although her pinch was a road pinch (F755, F757). Confirm that the 36 shapes include Neela and Meenu, or adjust the count.",
+  "new_facts_assessment": "Koman is necessary and in keeping with F194/F301, but the draft ignores that his log feeds the queen's household (F666/F745). The occupation orders are strong and consistent with the treaty plot. The mirror flash fact says it 'flashes briefly', yet the page says 'Nothing flashed'; reconcile them. Meenu, one of the road six, is in shape at dawn, so the road pinches were spent; the cost goes unflagged. The C10 sunbird is a good plant, but Devan's ignorance of it contradicts his book 2 knowledge.",
   "content_rule_violation": false,
   "failure_modes": [
-    "Narrated-only chemistry",
-    "Convenient magic"
+    "Contrived delays",
+    "Worldbuilding collapse",
+    "Irrational behaviour to extend plot"
   ],
-  "average": 3.5,
+  "average": 3.25,
   "minimum": 0.0,
   "passed": false
 }
