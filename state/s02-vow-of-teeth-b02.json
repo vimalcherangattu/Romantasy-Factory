@@ -718,7 +718,7 @@
       }
     },
     "25": {
-      "status": "passed",
+      "status": "edited",
       "revisions": 2,
       "scores": {
         "reader_question": 4.0,
@@ -732,8 +732,19 @@
       },
       "average": 4.0,
       "flags": [],
-      "words": 2705,
-      "minimum": 3.0
+      "words": 2697,
+      "minimum": 3.0,
+      "style": {
+        "words": 2697,
+        "banned_hits": {},
+        "ai_tell_hits": {},
+        "ai_tells_per_1000": 0.0,
+        "top_4gram": "went along the wall",
+        "top_4gram_count": 2,
+        "longest_paragraph_words": 107,
+        "em_dashes_per_1000": 0.0,
+        "reading_ease": 92.9
+      }
     },
     "26": {
       "status": "passed",
@@ -1607,9 +1618,13 @@
     {
       "at": "2026-10-21T07:34:07",
       "event": "done: S8 line edit ch 24"
+    },
+    {
+      "at": "2026-10-21T07:34:42",
+      "event": "done: S8 line edit ch 25"
     }
   ],
-  "updated_at": "2026-10-21T07:34:07",
+  "updated_at": "2026-10-21T07:34:42",
   "midpoint_chapter": 16,
   "continuity_attempts": 1,
   "continuity_last_errors": 2
