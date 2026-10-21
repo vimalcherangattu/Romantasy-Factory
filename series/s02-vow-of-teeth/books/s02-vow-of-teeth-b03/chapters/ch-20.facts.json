@@ -1,29 +1,14 @@
 {
   "facts": [
     {
-      "category": "place",
-      "fact": "The Company climbs the cart road to Kettamala's lower court for the council on Muthu's open leave; the cairn fire and shelf lie about a mile down the cut.",
-      "why": "needed because the outline sets the council in the lower court while ch 19 ends with a summons to the fire."
-    },
-    {
       "category": "relationship",
-      "fact": "Pavi asks Thilak and he says yes; Kuttu asks Bhaskaran, who says yes at the gate arch and says he must tell his wife. Kamalakshi refuses everyone and Vellan refuses. Sajan neither accepts nor refuses Sanu.",
-      "why": "needed because the outline's self-naming asks require specific answers."
+      "fact": "Repair terms after the breach in ch 20: tonight Neela will speak against Devan before the Company if she thinks him wrong, and at the gate tomorrow he will not answer for her. Devan tells her beforehand what he will say to the queen (he refused Kettamala alone; the Company has not voted; he will say nothing of what she is unless she does), and will stand a step behind her.",
+      "since": "s02-vow-of-teeth-b03 ch 20"
     },
     {
       "category": "knowledge",
-      "fact": "Devan's written reply to the queen refused Kettamala and said the spears were not his to take or leave, and that the Company would answer for itself. Muthu witnessed it and the rider left by morning.",
-      "why": "needed to pin the breach of the tell-before-acting term without breaking his oath to the Company's vote."
-    },
-    {
-      "category": "knowledge",
-      "fact": "Koman reports the long shape in the river at the shingle bank from first grey through the tower fire. It took nothing and watched the shelf.",
-      "why": "outline beat; extends the river-creature sighting from ch 17."
-    },
-    {
-      "category": "knowledge",
-      "fact": "Usha confirms the queen rides with the column because the outriders go in pairs on both flanks when she is present; she read them from the lip with Koman at midday.",
-      "why": "needed to explain how the queen's presence is known without a new rider of Usha's (F901)."
+      "fact": "Corrects F905: Koman reports the long shape came into the river after the tower fell at the middle watch and watched the shelf until the stump stopped smoking. It took nothing.",
+      "since": "s02-vow-of-teeth-b03 ch 20"
     }
   ]
 }
