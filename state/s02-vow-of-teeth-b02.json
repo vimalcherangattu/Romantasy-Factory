@@ -7,7 +7,8 @@
   "stage": "S3",
   "done": [
     "S3",
-    "S7"
+    "S7",
+    "book_check"
   ],
   "chapters": {
     "01": {
@@ -1925,9 +1926,13 @@
     {
       "at": "2026-10-21T09:07:35",
       "event": "done: S7 continuity"
+    },
+    {
+      "at": "2026-10-21T09:08:45",
+      "event": "done: book-level checks"
     }
   ],
-  "updated_at": "2026-10-21T09:07:35",
+  "updated_at": "2026-10-21T09:08:45",
   "midpoint_chapter": 16,
   "continuity_attempts": 0,
   "continuity_last_errors": null,
