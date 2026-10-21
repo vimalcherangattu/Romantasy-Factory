@@ -1,12 +1,9 @@
 {
   "facts": [
     {
-      "fact": "Before Neela turns on the shelf, Devan orders the wall pairs to face the road with backs to the shelf and count sixty, so the garrison does not witness any turning; Kandan turns round only after the animals are in shape.",
-      "category": "plot"
-    },
-    {
-      "fact": "Usha's word of the crown column comes from a rider of hers who came in off the road at grey.",
-      "category": "knowledge"
+      "id": "F900",
+      "category": "knowledge",
+      "fact": "Revises F900: Usha's word of the crown column reaches the council through Koman, the pass-village watcher, who read the road from the lip at grey; Usha confirms the banners are the queen's own. No extra rider of Usha's exists. Devan says he lost count of the dawns after nine."
     }
   ]
 }
