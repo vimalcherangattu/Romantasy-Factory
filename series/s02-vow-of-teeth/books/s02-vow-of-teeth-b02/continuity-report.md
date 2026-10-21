@@ -2,47 +2,38 @@
 
 ## What I checked
 
-- Names, ages and titles against the bible and continuity.json: Neela 27, Devan 32, Muthu 35, Rema 58, Janu 61, Thilak 41, Pavi 24, Unni about 20, ledger numbers, intake names.
-- Timeline:
-  - Days of rain and the execution schedule.
-  - The raid on the dark of the moon.
-  - Devan's and Neela's travel between Kettamala and the Resin House.
-  - Nights away from the fort.
-  - The assize sequence and the three-day leave.
-  - The next new moon in the hinge.
-- Magic rules: resin count (Ammu's two smears, then the flask), dusk pulls on bare nights, forced turnings, witness by sight (Vellan's dawn return makes Devan a witness), the page and handover rules, and wound-share mechanics, where the partner gets a welt.
-- Injuries and bodies: the arrow and the ribs, the calf and thigh bites, the claw welts, Vellan's left-leg hitch, the nails, First Guard's scars.
-- Who knows what:
-  - Muthu's letters and the slip.
-  - Eravi's leaks.
-  - The lookout reveal and Janu.
-  - The green quire and the stubs.
-- Objects and places: the pebbles, the flask, the tins, the slips, the ledger halves, the west stair, the grate, the postern, the cages and kennel tags.
-- Relationship state against the outline beats.
+- **Names, ages and roles** against the bible and continuity.json: Rema, Kandan, Thilak, Pavi, Kamalakshi, Muthu, Eravi and the garrison names.
+- **Timeline:**
+  - Day counts from the rains through Rema's arrival, the execution, the grove trip, the raid on the dark of the moon, and Devan's four-day absence.
+  - The new-moon log, and the date of the queen's writ against the closing writ's travel time.
+- **Magic rules:**
+  - Turning hours, and the night spent in shape.
+  - The two-voice caging after self-naming.
+  - Handover by daylight reading, and Thilak's burned roll.
+  - The forced turnings, and the ache and resin counts (Ammu's two smears, the full flask, the season's flasks).
+- **Injuries and the wound-share:** her left nails and right palm, his welts from the claws, hook, shin, calf and thigh, and Vellan's left hind leg.
+- **Who knows what:** Muthu's letters and slip, Eravi's leaks, the lookout leaf, the sunbird column, and the witnessing of Vellan's turning.
+- **Objects and places:** the third-slat bundle, the pebbles, the green quire, the kennel count, the well house and the west-stair postern.
+- **Relationship state** across the three explicit scenes, the withdrawal and the declaration.
 
 ## Errors found
 
-Thirteen. One is major:
+Twelve in total.
 
-- **E01:** Chapters 19 and 24 turn the slip's threat against Ittan's wife into a threat against Muthu's own wife.
+**Major (2):**
+- **E01, ch 8:** Devan's suspicion of the queen's household, which he argued in ch 4, is erased.
+- **E02, ch 19 and 24:** Devan twice says Muthu never told him about the slip, but Muthu confessed it in ch 9.
 
-Twelve are minor:
+**Minor (10):**
+- **E03, ch 24:** Devan says the wood road can't be ridden at night, though he rode it himself in ch 19.
+- **E04, ch 6:** Devan plans to tell Rema "at first light" after they have already ridden at dark.
+- **E05, ch 6:** Neela wakes in a night sweat on a night she spent in shape.
+- **E06, ch 7:** the ledger's size from the ridge.
+- **E07, ch 7:** the forty are described as mostly women and boys, though they include grown men.
+- **E08, ch 11:** a pebble dropped down the well, though she has never been inside the well house.
+- **E09, ch 20:** the sunbird is placed on Asha's price instead of Devan's own.
+- **E10, ch 21:** Asha's slate is called a tile.
+- **E11, ch 26:** the sun stands higher after it had already touched the trees.
+- **E12, ch 10:** Raiu is "in the ground" though he was burned on a pyre.
 
-- First Guard's impossible same-side cuff grip (ch 5).
-- Devan telling Rema at first light after riding at dark (ch 6).
-- A bruise instead of a welt in the wound-share (ch 9).
-- Burial wording for Raiu, who was cremated (ch 10).
-- An unexplained torn "desk slip" (ch 20).
-- The dented sweets tin in two places (ch 20).
-- Asha's slate called a tile (ch 21).
-- Janu's "two nights" for a week away (ch 22).
-- A clerk Rema does not have (ch 25).
-- "This winter" during the monsoon (ch 25).
-- "Last spring" for the scouts' tally (ch 29).
-- Night-guard scars described as both a smooth seam and "same as yours" (ch 32).
-
-Each error has exact patches in errors.json.
-
-## Notes
-
-- Several provisional facts from earlier drafts no longer match the text: F545 (ten raid men), F565/F579 (desk slip), F529 (hearth door) and F647 (witch said to her face). The text is internally consistent on these points, so I did not patch them. I logged corrections in new-facts.json.
+All fixes are single-sentence patches. Nothing else conflicts with the bible's world rules.

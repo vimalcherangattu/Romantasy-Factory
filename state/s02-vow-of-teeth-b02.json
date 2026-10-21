@@ -1229,10 +1229,18 @@
     {
       "at": "2026-10-21T02:34:34",
       "event": "unblocked by owner"
+    },
+    {
+      "at": "2026-10-21T07:08:39",
+      "event": "continuity round 1: 12 errors, 14 patches applied, 0 to revise"
+    },
+    {
+      "at": "2026-10-21T07:08:39",
+      "event": "done: S7 continuity"
     }
   ],
-  "updated_at": "2026-10-21T02:34:34",
+  "updated_at": "2026-10-21T07:08:39",
   "midpoint_chapter": 16,
-  "continuity_attempts": 0,
-  "continuity_last_errors": null
+  "continuity_attempts": 1,
+  "continuity_last_errors": 2
 }

@@ -2,531 +2,191 @@
   "open_errors": [
     {
       "id": "E01",
-      "chapter": 1,
-      "severity": "minor",
-      "category": "timeline",
-      "issue": "Ammu is called 'nine days dead' on the morning that is nine days into the rains. She died at the Resin House about four days before the sealing (ride back, Ittan's arrival two days later, then sealing day), so she has been dead closer to two weeks.",
-      "fix": "Loosen the count so it no longer equals the rains count.",
+      "chapter": 8,
+      "severity": "major",
+      "category": "knowledge",
+      "issue": "In ch 4 Devan argues outright that Muthu is the queen's man ('Muthu is the queen's... The queen's household'). In ch 8 the narration says he had only ever suspected Ittan and had never thought of the house with the green wax.",
+      "fix": "Have Devan's ch 8 reflection admit he had already guessed the palace and was shaken by the six years, not by the queen's household itself.",
       "patches": [
         {
-          "chapter": 1,
-          "find": "Ammu. Nine days dead, and her thumb of resin sat in the cord pouch against Neela's hip.",
-          "replace": "Ammu. Not two weeks dead, and her thumb of resin sat in the cord pouch against Neela's hip."
+          "chapter": 8,
+          "find": "Muthu had told him the grey-sealed letters went to his mother in Kodiyur, and Devan had believed it, and then he had stopped believing it and had thought *Ittan*.",
+          "replace": "Muthu had told him the grey-sealed letters went to his mother in Kodiyur, and Devan had believed it, and then he had stopped believing it and had thought *Ittan*, and then *the palace*."
+        },
+        {
+          "chapter": 8,
+          "find": "He had not thought of the house with the green wax, and the sunbird, and a payment writ dated seven weeks before his wedding.",
+          "replace": "He had guessed the palace. He had not guessed six years of it, or how near those letters sat to the green wax, and the sunbird, and a payment writ dated seven weeks before his wedding."
         }
       ]
     },
     {
       "id": "E02",
-      "chapter": 1,
-      "severity": "minor",
-      "category": "object",
-      "issue": "Neela says Ittan paid in four instalments but reads out only three slashes. Chathu confirms 'four slashes paid, one hook delivered' in ch 29.",
-      "fix": "Add the fourth slash.",
+      "chapter": 19,
+      "severity": "major",
+      "category": "knowledge",
+      "issue": "Muthu confesses the household slip to Devan in the kalari in ch 9. In ch 19 Devan thinks it is a slip Muthu 'never told me of', and in ch 24 he says Muthu 'still told me nothing'.",
+      "fix": "Make both lines say Muthu told him only in the pit.",
       "patches": [
         {
-          "chapter": 1,
-          "find": "Ittan paid the house in instalments. Four of them. Look. Slash, slash, slash, hook.",
-          "replace": "Ittan paid the house in instalments. Four of them. Look. Slash, slash, slash, slash, hook."
+          "chapter": 19,
+          "find": "He did not say *the reason is a slip you carried in to the Keeper, and never told me of.*",
+          "replace": "He did not say *the reason is a slip you carried in to the Keeper, and told me of only in the pit.*"
+        },
+        {
+          "chapter": 24,
+          "find": "The slip that threatened Ittan's wife came later, and you carried it to him, and you still told me nothing.",
+          "replace": "The slip that threatened Ittan's wife came later, and you carried it to him, and you told me nothing until the pit."
         }
       ]
     },
     {
       "id": "E03",
-      "chapter": 2,
+      "chapter": 24,
       "severity": "minor",
       "category": "timeline",
-      "issue": "Devan thinks he walked the goat path only once, at nineteen. He also walked it with Neela in book 1, ch 9.",
-      "fix": "Make nineteen his first time on the path, not his only time.",
+      "issue": "Devan refuses to send a rider at night because 'That wood road drowns a horse in the dark'. Yet he rode that same road alone in the dark three nights earlier (ch 19 to 20).",
+      "fix": "Have Devan cite his own near-drowning on that night ride as the reason.",
       "patches": [
         {
-          "chapter": 2,
-          "find": "He had walked that goat path once, at nineteen, on a dare. It had taken the skin off his knees.",
-          "replace": "He had walked that goat path first at nineteen, on a dare. It had taken the skin off his knees."
+          "chapter": 24,
+          "find": "That wood road drowns a horse in the dark.",
+          "replace": "I rode that road in the dark three nights back and nearly drowned the mare."
         }
       ]
     },
     {
       "id": "E04",
-      "chapter": 5,
+      "chapter": 6,
       "severity": "minor",
-      "category": "knowledge",
-      "issue": "The text says Neela had never said she knew the goat path. She walked it with Devan in book 1 and tells him in ch 20 that she 'couldn't say how' she knew it.",
-      "fix": "What she never said is how she knew it.",
+      "category": "timeline",
+      "issue": "Devan says he will tell Rema at first light that they have gone, but they agree to ride that same night at full dark, so he will already be on the road at first light.",
+      "fix": "Muthu carries the word to Rema at first light.",
       "patches": [
         {
-          "chapter": 5,
-          "find": "Neela had never said she knew it.",
-          "replace": "Neela had never said how she knew it."
+          "chapter": 6,
+          "find": "I'll tell her at first light that my wife and I have gone to fetch it.",
+          "replace": "Muthu can tell her at first light that my wife and I have gone to fetch it."
         }
       ]
     },
     {
       "id": "E05",
-      "chapter": 5,
+      "chapter": 6,
       "severity": "minor",
-      "category": "timeline",
-      "issue": "Devan tells Ittan the medicine jar 'goes down at noon'. In ch 6 the letter is written that night and Kesu's grandson carries the jar at first light. Devan's statements are meant to be exact.",
-      "fix": "Make the promise match the first-light runner.",
+      "category": "magic",
+      "issue": "Neela says she spent a smear and turned on the night of the execution, which means she was in shape until first light. In the same speech she says she woke in bed in a sweat 'last night', which was that same night.",
+      "fix": "Move the night sweat to an earlier night when she was human.",
       "patches": [
         {
-          "chapter": 5,
-          "find": "It goes down at noon",
-          "replace": "It goes down with the first runner"
+          "chapter": 6,
+          "find": "My nails split on the stair this morning, and last night I woke in a sweat that wasn't the rain.",
+          "replace": "My nails split on the stair this morning, and the night the justice came I woke in a sweat that wasn't the rain."
         }
       ]
     },
     {
       "id": "E06",
-      "chapter": 5,
+      "chapter": 7,
       "severity": "minor",
-      "category": "injury",
-      "issue": "Neela takes the opening on the left side of Devan's guard but touches his right ribs. Going in under his left guard brings her to his left side.",
-      "fix": "Change the touch to his left ribs.",
+      "category": "object",
+      "issue": "From the ridge Devan says the black book is 'no larger than a tally book' (hand-sized). In ch 15 it is 'thick as his forearm' and holds the whole ledger.",
+      "fix": "Drop the size comparison.",
       "patches": [
         {
-          "chapter": 5,
-          "find": "She went in under it and laid two fingers against his right ribs, light as a leaf, and stepped out.",
-          "replace": "She went in under it and laid two fingers against his left ribs, light as a leaf, and stepped out."
+          "chapter": 7,
+          "find": "It's no larger than a tally book.",
+          "replace": "It's smaller than I thought."
         }
       ]
     },
     {
       "id": "E07",
-      "chapter": 5,
+      "chapter": 7,
       "severity": "minor",
-      "category": "magic",
-      "issue": "This chapter says an unbled bruise does not pass through the wound-share. Later chapters share unbled blows: Muthu's blow to Devan bruises Neela (ch 9), Chinna's ladle welts Devan (ch 10), and the love-bite welts Neela (ch 31).",
-      "fix": "Let the bruise rise faintly on him.",
+      "category": "name",
+      "issue": "Neela describes the forty as 'mostly women, a few boys under twenty'. The forty include grown men such as Thilak (41, a member for twenty-two years), and ch 15 shows 'men and women'.",
+      "fix": "Allow for adult men in the count.",
       "patches": [
         {
-          "chapter": 5,
-          "find": "It took longer, and it cost her a bruise on the shoulder that did not welt on him because he had not bled.",
-          "replace": "It took longer, and it cost her a bruise on the shoulder that rose as a faint welt on his."
+          "chapter": 7,
+          "find": "Forty in the yards. Mostly women, a few boys under twenty.",
+          "replace": "Forty in the yards. Mostly women, and men of every age down to boys."
         }
       ]
     },
     {
       "id": "E08",
-      "chapter": 6,
+      "chapter": 11,
       "severity": "minor",
-      "category": "timeline",
-      "issue": "Bhaskaran's cart is placed at 'the last new moon'. Relative to this chapter the last new moon is Vellan's attack night. The tally passed at the new moon before the wedding, as ch 3 says.",
-      "fix": "Name the right new moon.",
+      "category": "place",
+      "issue": "In ch 7 Neela says she has never been inside the well house. In ch 11 she and Ammu dropped a pebble down the well as children, which would have meant going in.",
+      "fix": "Have the pebble go in through a shutter gap.",
       "patches": [
         {
-          "chapter": 6,
-          "find": "made Bhaskaran swear to the cart that passed on a council tally at the last new moon.",
-          "replace": "made Bhaskaran swear to the cart that passed on a council tally at the new moon before the wedding."
+          "chapter": 11,
+          "find": "We dropped a pebble down that well.",
+          "replace": "We dropped a pebble down that well, through a gap in the shutter."
         }
       ]
     },
     {
       "id": "E09",
-      "chapter": 6,
+      "chapter": 20,
       "severity": "minor",
-      "category": "timeline",
-      "issue": "Two problems with the order of events. (1) The sitting opens at lamp-lighting, after the escort leave at dusk, and runs two hours. The letter is then written behind barred shutters. Yet the chapter then reaches 'dusk' again, with the dusk burn. (2) Neela says she spent a smear 'two nights ago' on the ridge, but the only night she could have turned is the night after Rema arrived. On ch 4's night she was in bed, human.",
-      "fix": "Move the shutter scene to the next dusk and name the night the smear was spent.",
+      "category": "knowledge",
+      "issue": "Devan says the sunbird is 'on my sister's price'. Asha's leaf carries the Keeper's hook (ch 16), and in ch 21 Devan works out that Ittan bought Asha's death while the queen bought his own.",
+      "fix": "Point the sunbird at Devan's own death writ.",
       "patches": [
         {
-          "chapter": 6,
-          "find": "At dusk he went to close the shutters, and she stopped him.",
-          "replace": "At dusk the next day he went to close the shutters, and she stopped him."
-        },
-        {
-          "chapter": 6,
-          "find": "There's one smear of Ammu's resin left in the pouch. I spent the other two nights ago, on the ridge, to see who walked the road.",
-          "replace": "There's one smear of Ammu's resin left in the pouch. I spent the other the night after the justice came, on the ridge, to see who walked the road."
+          "chapter": 20,
+          "find": "It's on my sister's price. It's on your village.",
+          "replace": "It's on my own death. It's on your village."
         }
       ]
     },
     {
       "id": "E10",
-      "chapter": 6,
+      "chapter": 21,
       "severity": "minor",
       "category": "object",
-      "issue": "The flask Neela carried out of Kodiyur is called 'never filled' and smelling of nothing. In book 1 she carried her resin in that corked flask.",
-      "fix": "The flask was drained, not never filled.",
+      "issue": "Asha kept her lists on a slate (book 1 ch 12; ch 10 here). The chalk-on-tile method is Neela's own copy of it.",
+      "fix": "Asha used her slate.",
       "patches": [
         {
-          "chapter": 6,
-          "find": "She took the flask from the sill, the one she had carried out of Kodiyur and never filled, and thumbed out the cork. It was dry inside, and it smelled of nothing at all.",
-          "replace": "She took the flask from the sill, the one she had carried out of Kodiyur and drained weeks ago, and thumbed out the cork. It was dry inside, and it smelled of almost nothing at all."
+          "chapter": 21,
+          "find": "He made himself list it, the way Asha used to, with a stub of chalk on the back of a tile.",
+          "replace": "He made himself list it, the way Asha used to, with a stub of chalk on her slate."
         }
       ]
     },
     {
       "id": "E11",
-      "chapter": 15,
-      "severity": "major",
-      "category": "magic",
-      "issue": "The book states the wound-share rule plainly: on the partner a wound rises as a shallow welt that weeps but does not open or bleed (ch 20: 'did not bleed'; ch 27). Yet Devan's shared welts bleed in ch 7 (a bead of blood), in ch 15 (blood runs down his back into his belt) and in ch 16 (blood dried stiff down his shirt).",
-      "fix": "The shared welts weep but do not bleed.",
+      "chapter": 26,
+      "severity": "minor",
+      "category": "timeline",
+      "issue": "In ch 25 the sun is 'a hand above the trees' on arrival and then 'touched the tops of the nightbark'. Ch 26 opens later with the sun 'a hand and a half above the nightbark', which puts it higher than before.",
+      "fix": "Keep the sun setting.",
       "patches": [
         {
-          "chapter": 7,
-          "find": "The welt stood up as she watched, and a bead of blood came to its edge.",
-          "replace": "The welt stood up as she watched, hot and weeping at one edge, though it did not open."
-        },
-        {
-          "chapter": 15,
-          "find": "He stood, and she stood, and in the lamp's glare blood ran down his back into his belt.",
-          "replace": "He stood, and she stood, and in the lamp's glare the welts on his back wept into his belt."
-        },
-        {
-          "chapter": 16,
-          "find": "He stood with his arms at his sides and blood dried stiff down the back of his shirt.",
-          "replace": "He stood with his arms at his sides and his shirt dried stiff across the back where the welts had wept."
+          "chapter": 26,
+          "find": "They had climbed the bare shoulder above the road, and the sun was a hand and a half above the nightbark.",
+          "replace": "They had climbed the bare shoulder above the road, and the sun was sinking into the tops of the nightbark."
         }
       ]
     },
     {
       "id": "E12",
-      "chapter": 8,
-      "severity": "major",
-      "category": "relationship",
-      "issue": "Ch 13's romance beat is the first turning Devan is invited to watch: 'She had never done that for anyone', and before it he had only watched by stealth. But in ch 8 she deliberately keeps her eyes on his face through a full turning 'because she had asked him to', and in ch 7 she turns 'watched by the one pair of eyes she would allow'.",
-      "fix": "In ch 7 and ch 8 he looks away as she turns, which keeps ch 13 the first invited turning.",
-      "patches": [
-        {
-          "chapter": 7,
-          "find": "The last thing she knew as a woman was his hand, steady, not on her, just near, and the knowledge of being watched by the one pair of eyes she would allow.",
-          "replace": "The last thing she knew as a woman was his hand, steady, not on her, just near, and his face turned away toward the dark, as she had asked."
-        },
-        {
-          "chapter": 8,
-          "find": "Then she did what she had done only twice before, and not once in front of anyone but him. She did not turn away. She kept her eyes on his face for the whole minute while the rest of her went out of true. He watched all of it, because she had asked him to, and a thing watched on request is not the same as a thing stolen.",
-          "replace": "Then she turned her face to the window, as she always had, and he looked at the dark wall and listened to her breath go out of true."
-        }
-      ]
-    },
-    {
-      "id": "E13",
-      "chapter": 8,
+      "chapter": 10,
       "severity": "minor",
       "category": "injury",
-      "issue": "Neela's left hand is called 'the good one'. Her left fingers have been bandaged for split nails since ch 3 (kept behind her in the ch 5 spar). Ch 10 names her scabbed right as her 'one good hand'.",
-      "fix": "Describe her left as still bound at the nails.",
-      "patches": [
-        {
-          "chapter": 8,
-          "find": "It was her left, the good one, and it came across without a glance from her, her face turned politely to the queen's justice.",
-          "replace": "It was her left, the nails still bound, and it came across without a glance from her, her face turned politely to the queen's justice."
-        }
-      ]
-    },
-    {
-      "id": "E14",
-      "chapter": 9,
-      "severity": "minor",
-      "category": "timeline",
-      "issue": "Muthu says the lathered rider brought the slip 'the day before the sealing'. That rider is the off-post-day rider from book 1 ch 23, eight days before the planned sealing.",
-      "fix": "Correct the interval.",
-      "patches": [
-        {
-          "chapter": 9,
-          "find": "A rider brought the slip off post day, the day before the sealing.",
-          "replace": "A rider brought the slip off post day, a week and more before the sealing."
-        }
-      ]
-    },
-    {
-      "id": "E15",
-      "chapter": 10,
-      "severity": "minor",
-      "category": "name",
-      "issue": "Kandan calls Rema 'Captain Rema'. She is a justice of the high court.",
-      "fix": "Use her proper title.",
+      "issue": "Kandan says Raiu is 'not a month in the ground', but Raiu was burned on a pyre (ch 26 'Raiu's pyre', ch 30 'after Raiu burned').",
+      "fix": "Refer to the burning, not a burial.",
       "patches": [
         {
           "chapter": 10,
-          "find": "Captain Rema still sits in the south range taking statements for her roll.",
-          "replace": "Justice Rema still sits in the south range taking statements for her roll."
-        }
-      ]
-    },
-    {
-      "id": "E16",
-      "chapter": 10,
-      "severity": "minor",
-      "category": "name",
-      "issue": "Kannan is nine in ch 3 ('a nine-year-old's contempt') and ten a few days later in ch 10.",
-      "fix": "Keep him nine.",
-      "patches": [
-        {
-          "chapter": 10,
-          "find": "Devan stayed to be beaten by a ten-year-old.",
-          "replace": "Devan stayed to be beaten by a nine-year-old."
-        }
-      ]
-    },
-    {
-      "id": "E17",
-      "chapter": 10,
-      "severity": "minor",
-      "category": "place",
-      "issue": "Ch 10 dates the new iron grate to 'years ago'. In ch 23 the file-bright, rustless bolts mean it was put in lately, within two damp winters.",
-      "fix": "Make the ch 10 estimate recent.",
-      "patches": [
-        {
-          "chapter": 10,
-          "find": "Someone had pulled out whatever stood here before and put this in, years ago but not centuries.",
-          "replace": "Someone had pulled out whatever stood here before and put this in, and not long ago."
-        }
-      ]
-    },
-    {
-      "id": "E18",
-      "chapter": 11,
-      "severity": "minor",
-      "category": "timeline",
-      "issue": "Neela says she has 'killed eleven people'. Her eleven contracts include two sisters (ch 18), so she has killed more than eleven.",
-      "fix": "Count contracts, not people.",
-      "patches": [
-        {
-          "chapter": 11,
-          "find": "I've killed eleven people for a promise that I'd get it back.",
-          "replace": "I've killed for eleven contracts on a promise that I'd get it back."
-        }
-      ]
-    },
-    {
-      "id": "E19",
-      "chapter": 11,
-      "severity": "minor",
-      "category": "timeline",
-      "issue": "Ch 11 ends with the sky gone to ash and the dusk burn already passed. Neela then asks Devan to stay 'through dusk'. Ch 12 opens 'the hour before the burn', and dusk passes during the love scene.",
-      "fix": "End ch 11 before sunset.",
-      "patches": [
-        {
-          "chapter": 11,
-          "find": "On the last evening, the sky over Kettamala went the colour of old brass and then of ash.",
-          "replace": "On the last evening, the sky over Kettamala went the colour of old brass."
-        },
-        {
-          "chapter": 11,
-          "find": "The first burn of dusk lit in her wrists, a faint pull at the scars. She breathed through it as she always did, and it passed, and left her human.",
-          "replace": "The sun still stood above the ridge. The burn at dusk was an hour off, and it would find her human."
-        }
-      ]
-    },
-    {
-      "id": "E20",
-      "chapter": 13,
-      "severity": "minor",
-      "category": "relationship",
-      "issue": "The callback reverses who asked: 'A man had told her once to stay with him through dusk'. In ch 11 and ch 12 it was Neela who asked Devan to stay with her through dusk to the light.",
-      "fix": "Restore the correct speaker.",
-      "patches": [
-        {
-          "chapter": 13,
-          "find": "A man had told her once to stay with him through dusk, all the way to the light, and she had made him say it twice.",
-          "replace": "She had asked a man once to stay with her through dusk, all the way to the light, and he had."
-        }
-      ]
-    },
-    {
-      "id": "E21",
-      "chapter": 14,
-      "severity": "minor",
-      "category": "injury",
-      "issue": "Vellan's limp is called an 'old break' that Neela heard as a child of nine. Ch 7 establishes the lameness as new, from Devan's blow in the yard a month ago.",
-      "fix": "Make the limp new and keep the childhood memory to the bear's tread.",
-      "patches": [
-        {
-          "chapter": 14,
-          "find": "Old break. Old pain. She had heard that step on the long-ago nights when she was nine and had pretended to be asleep.",
-          "replace": "New pain, a month old. But the weight behind it she had heard on the long-ago nights when she was nine and had pretended to be asleep."
-        }
-      ]
-    },
-    {
-      "id": "E22",
-      "chapter": 15,
-      "severity": "minor",
-      "category": "timeline",
-      "issue": "The text calls this 'the second time in a month Devan had hit a living thing'. He struck Muthu repeatedly in the ch 9 kalari round.",
-      "fix": "Limit the count to the bear.",
-      "patches": [
-        {
-          "chapter": 15,
-          "find": "It was the second time in a month Devan had hit a living thing.",
-          "replace": "It was the second time in a month Devan had struck the bear."
-        }
-      ]
-    },
-    {
-      "id": "E23",
-      "chapter": 17,
-      "severity": "minor",
-      "category": "object",
-      "issue": "Asha's note is said to lie in the carved box 'under a cut wax seal'. The cut gift seal is hidden in the third-slat hollow with the chit and writ (ch 31).",
-      "fix": "Remove the seal from the box.",
-      "patches": [
-        {
-          "chapter": 17,
-          "find": "The note lay in a carved box under his bed at Kettamala, under a cut wax seal.",
-          "replace": "The note lay in a carved box under his bed at Kettamala."
-        }
-      ]
-    },
-    {
-      "id": "E24",
-      "chapter": 18,
-      "severity": "minor",
-      "category": "timeline",
-      "issue": "Headcount and Bhaskaran's position don't agree. The raid party is Bhaskaran's eight (ch 13, ch 15, ch 17), but ch 18 splits ten men four and six with Bhaskaran among the six. Ch 21 then says Neela leaves Bhaskaran at the House, while ch 24 has him riding back with Devan and Vasu leading six men at the House.",
-      "fix": "Devan takes two men back, six stay under Bhaskaran, and Bhaskaran rides home with them in ch 22, leaving Vasu's six.",
-      "patches": [
-        {
-          "chapter": 18,
-          "find": "He had split the Kettamala men, four to go with him, six to stay. He told the six their orders, and Bhaskaran, who was among them, took his with a face she could not read and a quick, almost privately bitter nod.",
-          "replace": "He had split the Kettamala men, two to go with him, six to stay under Bhaskaran. He told the six their orders, and Bhaskaran took his with a face she could not read and a quick, almost privately bitter nod."
-        },
-        {
-          "chapter": 18,
-          "find": "The four went after him, mud flying behind.",
-          "replace": "The two went after him, mud flying behind."
-        },
-        {
-          "chapter": 21,
-          "find": "I'll leave Bhaskaran and the six,",
-          "replace": "I'll leave the six, with Vasu over them,"
-        }
-      ]
-    },
-    {
-      "id": "E25",
-      "chapter": 20,
-      "severity": "minor",
-      "category": "place",
-      "issue": "Neela is said to have known the slip's words 'since the yard at Kettamala'. She read the slip in the mud of the Resin House yard (book 1 ch 27) and told Devan about it in the warden's chamber (ch 6).",
-      "fix": "Correct the places.",
-      "patches": [
-        {
-          "chapter": 20,
-          "find": "She had known them since the yard at Kettamala, when she had told Devan what the slip behind her page said and had not been able to say the rest.",
-          "replace": "She had known them since the mud of the Resin House yard, and had told Devan in his chamber what the slip behind her page said, without being able to say the rest."
-        }
-      ]
-    },
-    {
-      "id": "E26",
-      "chapter": 22,
-      "severity": "minor",
-      "category": "object",
-      "issue": "The text says 'She had never touched the newel' and that she once went 'up' the west stair under Rema's eyes. In ch 2 she came down the west stair and stood with her hand on the parrot's broken beak, and ch 3 recalls the beak under her palm.",
-      "fix": "Acknowledge the ch 2 touch and the direction she went.",
-      "patches": [
-        {
-          "chapter": 22,
-          "find": "Once she had gone up it on purpose, under Rema's eyes, and her knees had known the difference.",
-          "replace": "Once she had come down it on purpose, under Rema's eyes, and her knees had known the difference."
-        },
-        {
-          "chapter": 22,
-          "find": "She had never touched the newel.",
-          "replace": "She had touched the newel once, for Rema's benefit, and not let herself feel it."
-        }
-      ]
-    },
-    {
-      "id": "E27",
-      "chapter": 24,
-      "severity": "minor",
-      "category": "timeline",
-      "issue": "Eravi says he overheard the cart order 'the next week' after seeing the sword by the fever sickbed. The fever was book 1 ch 13 and the cart order book 1 ch 25, weeks apart. Vellan already knew about the sword by book 1 ch 24.",
-      "fix": "Make the gap weeks.",
-      "patches": [
-        {
-          "chapter": 24,
-          "find": "The next week I stood in the passage outside your sickroom while she gave the captain his orders.",
-          "replace": "Weeks later I stood in the passage outside your sickroom while she gave the captain his orders."
-        }
-      ]
-    },
-    {
-      "id": "E28",
-      "chapter": 24,
-      "severity": "minor",
-      "category": "knowledge",
-      "issue": "Devan says that 'for six years, when I learned they weren't', he read the letters as betrayal. He learned the letters weren't to Muthu's mother only weeks ago.",
-      "fix": "Drop the six years from the second clause.",
-      "patches": [
-        {
-          "chapter": 24,
-          "find": "And for six years, when I learned they weren't, I read every one of them as betrayal.",
-          "replace": "And when I learned they weren't, I read every one of them as betrayal."
-        }
-      ]
-    },
-    {
-      "id": "E29",
-      "chapter": 25,
-      "severity": "minor",
-      "category": "timeline",
-      "issue": "Thilak is said to have brought Neela tea 'for nine days'. She held the House only from the evening of ch 18 until she left at dawn after ch 21, a few days.",
-      "fix": "Remove the day count in both places.",
-      "patches": [
-        {
-          "chapter": 25,
-          "find": "He had brought her tea for nine days and never once asked her for a thing.",
-          "replace": "He had brought her tea every evening she held the House and never once asked her for a thing."
-        },
-        {
-          "chapter": 27,
-          "find": "You brought me tea for nine days.",
-          "replace": "You brought me tea every evening I held the House."
-        }
-      ]
-    },
-    {
-      "id": "E30",
-      "chapter": 28,
-      "severity": "minor",
-      "category": "timeline",
-      "issue": "Neela says Devan held Vellan's page 'six hours'. He held it from before sunset to near dawn on a long monsoon night.",
-      "fix": "Say all night.",
-      "patches": [
-        {
-          "chapter": 28,
-          "find": "You were holding it six hours",
-          "replace": "You were holding it all night"
-        }
-      ]
-    },
-    {
-      "id": "E31",
-      "chapter": 32,
-      "severity": "minor",
-      "category": "place",
-      "issue": "Kodiyur and the queen's household are called 'north'. The book places the Blackbark Wood north of Kettamala and the coast and capital the other way (ch 8: 'not north... I'd have said the coast'; ch 19: the Resin House 'a day's ride north').",
-      "fix": "Name Kodiyur instead of a compass direction, in both places.",
-      "patches": [
-        {
-          "chapter": 19,
-          "find": "with a grey packet locked in the strongbox and a captain who wrote north every month and did not know he was known.",
-          "replace": "with a grey packet locked in the strongbox and a captain who wrote to Kodiyur every month and did not know he was known."
-        },
-        {
-          "chapter": 32,
-          "find": "They went north, in a green-sealed box.",
-          "replace": "They went to Kodiyur, in a green-sealed box."
-        }
-      ]
-    },
-    {
-      "id": "E32",
-      "chapter": 30,
-      "severity": "minor",
-      "category": "place",
-      "issue": "Neela counts four doors in the hall. In ch 5 she counted three.",
-      "fix": "Match the earlier count.",
-      "patches": [
-        {
-          "chapter": 30,
-          "find": "Neela counted four doors, sixty men and one held breath, and not one of them let go of it.",
-          "replace": "Neela counted three doors, sixty men and one held breath, and not one of them let go of it."
+          "find": "Raiu not a month in the ground, and our lord bows.",
+          "replace": "Raiu not a month burned, and our lord bows."
         }
       ]
     }
