@@ -1,42 +1,39 @@
 {
   "scores": {
     "reader_question": 4.0,
-    "change": 3.0,
+    "change": 4.0,
     "romance_movement": 3.0,
     "shown_chemistry": 4.0,
-    "character_logic": 3.0,
-    "stakes_and_cost": 3.0,
-    "prose": 3.0,
+    "character_logic": 4.0,
+    "stakes_and_cost": 4.0,
+    "prose": 4.0,
     "continuity": 0.0
   },
   "reasons": {
-    "reader_question": "The dawn beat states the question plainly ('a rope or only as a light') and the queen arrives at noon. It is clear and urgent.",
-    "change": "Both temptations are now spoken, her refusal has a form, and the writ plan is set. Power is unchanged, and most of the plan was agreed in ch20.",
-    "romance_movement": "Asking to be seen is new and earned. 'Yours to speak, mine to stand behind' restates ch20's 'step behind me' terms rather than moving them.",
-    "shown_chemistry": "His thumb on her blister, 'I won't make it smaller', her counting his hitch while he lies still for her. All responsive and specific.",
-    "character_logic": "The disclosures fit both characters. Devan unpacking damning evidence into a wall of a room Muthu has slept in, for one night, is thinly motivated.",
-    "stakes_and_cost": "Reading a queen's murder writ aloud before three hundred of her spears should cost something, but nobody in the chapter names the price.",
-    "prose": "Clean and concrete overall. The pebble and slat callbacks are explained to the reader, the 'her sleeve' line is wrong, and some feelings are narrated.",
-    "continuity": "The papers did not kill Asha: her contract was the Keeper's. Devan's fresh stitched hook wound (F849) is missing, and his back wounds are called welts."
+    "reader_question": "Dawn sets a sharp question: will reading the writ cost the queen's spears and the pass, and is it rope or light?",
+    "change": "Both temptations are now confessed, the plan for noon is fixed, and the evidence is out of the wall and ready to read.",
+    "romance_movement": "The new reason is mutual confession of temptation. The beat's split of work (she speaks, he stands behind) never lands on the page.",
+    "shown_chemistry": "His thumb on her blister, his laugh, her counting his breath and the pebble close are all responsive action, not narration.",
+    "character_logic": "Devan's 'tell her first' fits his never-lie rule. Neela grants 'Then read it' quickly, given yesterday's breach.",
+    "stakes_and_cost": "Devan gives exact numbers for what the reading may cost: three hundred spears, the pass, the allies' trust.",
+    "prose": "The writing is clean and specific. A few tells weaken it: 'her breath caught', 'had not known she wanted it', and a generic middle to the sex scene.",
+    "continuity": "'Loud when he lied' inverts Muthu's fixed tell (he goes quiet when lying, bible/F383/ch20). The defender count is also muddled."
   },
   "fixes": [
-    "At 'They had killed Raiu, and Ammu, and Asha before them' (continuity): Asha's death was bought by the Keeper through a separate contract (F552, F679), not this chit or writ. Cut Asha, or write that the same hands had killed Asha. Also fix 'keep a thing in her sleeve against me was Chathu': the pronoun is wrong, and Devan himself kept the seal in his sleeve. Make it 'his sleeve' and let Neela notice the irony.",
-    "At 'the white seam along his ribs showed under the lamp' (continuity, wound-share logic): Devan has a nine-stitch hook tear on his right ribs (F849), and Neela carries the matching welt (F862). His back holds the ladder-hook cut; the welts are hers. Show her kissing past fresh stitches to the old seam, with the shared ache landing in her own side. This makes the care physical and costly.",
-    "At 'Yours to speak,' he said. 'Mine to stand behind.' (Repetitive tension): this restates ch20's 'step behind me'. Make the dawn exchange carry the new cost. Neela asks what three hundred spears do when their queen is named a murderer at the gate, and Devan answers with exact facts, no comfort. Also cut 'It had stood for a lie once... Tonight it was only a stone' and 'She had been wrong about a great many things' (signposted callback) and let the images work alone."
+    "'He was loud when he lied and quiet when it counted': continuity error. Muthu goes quiet when he lies (bible, F383, and ch20's 'not his lying quiet'). Rewrite as 'He went quiet when he lied and loud when he joked, and he was neither now.'",
+    "'Then read it,' she said.': the beat's split of work is missing (her voice, his back). After Devan states his plan, have Neela set the term aloud: he reads the writ, and she gives her own refusal and reasons. Have Devan answer that he will stand a step behind her and not speak for her. Let her ask whether reading the writ is answering for her. His answer is that the writ is his account, and the Company's answer is hers.",
+    "'seventy-odd of us, fewer since Biju': the defender count conflicts with F803. Recount with the figures on record. That is forty-two odiyans with the Kodiyur six back, the twenty-two queen's riders, and the garrison volunteers, less the named dead (Biju, Sankaran, Chami, Rajan and two more). Cut the unclear phrase 'Muthu's thirty are in that count'."
   ],
-  "reader_question": "When Devan reads the queen's payment writ aloud at the gate, will he use it as a weapon to break her or only as a light, and what will that cost the pass?",
+  "reader_question": "When Devan reads the queen's payment writ at the gate, will he use it as a weapon, and will it cost them the spears and the pass?",
   "techniques_landed": [
     9,
     10,
     20
   ],
-  "new_facts_assessment": "Ending the council without a vote is necessary and fits ch20's repair terms (F907), though ch20 promised a vote; the draft explains the change. Returning the bundle to the hollow is needed for the beat but weakly motivated, and it quietly adds the cut gift seal to a bundle that F293 and F744 list as chit and writ only. That is plausible given F071, but the draft should flag it. The undisturbed pebble is plausible and consistent with F327. Devan's plan to warn the queen before reading the writ is consistent and pays off the 'say it before you do it' term (F878).",
+  "new_facts_assessment": "The stitches and back cut match F849 and are needed for the scene. The gift seal in the bundle fits F071 but extends F744, which listed only the chit and the writ. Keep it, but have Devan note that he added the seal. The defender line 'seventy-odd... Muthu's thirty are in that count' conflicts with F803 (36 odiyans plus 40 volunteers). It ignores the returned six and the 22 riders. Restate the count consistently.",
   "content_rule_violation": false,
-  "failure_modes": [
-    "Repetitive tension",
-    "Stakes without depth"
-  ],
-  "average": 2.88,
+  "failure_modes": [],
+  "average": 3.38,
   "minimum": 0.0,
   "passed": false
 }

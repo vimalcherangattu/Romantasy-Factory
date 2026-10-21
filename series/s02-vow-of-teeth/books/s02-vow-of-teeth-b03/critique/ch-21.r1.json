@@ -1,0 +1,39 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 3.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 4.0,
+    "stakes_and_cost": 4.0,
+    "prose": 4.0,
+    "continuity": 0.0
+  },
+  "reasons": {
+    "reader_question": "Dawn sets a sharp question: will reading the writ cost the queen's spears and the pass, and is it rope or light?",
+    "change": "Both temptations are now confessed, the plan for noon is fixed, and the evidence is out of the wall and ready to read.",
+    "romance_movement": "The new reason is mutual confession of temptation. The beat's split of work (she speaks, he stands behind) never lands on the page.",
+    "shown_chemistry": "His thumb on her blister, his laugh, her counting his breath and the pebble close are all responsive action, not narration.",
+    "character_logic": "Devan's 'tell her first' fits his never-lie rule. Neela grants 'Then read it' quickly, given yesterday's breach.",
+    "stakes_and_cost": "Devan gives exact numbers for what the reading may cost: three hundred spears, the pass, the allies' trust.",
+    "prose": "The writing is clean and specific. A few tells weaken it: 'her breath caught', 'had not known she wanted it', and a generic middle to the sex scene.",
+    "continuity": "'Loud when he lied' inverts Muthu's fixed tell (he goes quiet when lying, bible/F383/ch20). The defender count is also muddled."
+  },
+  "fixes": [
+    "'He was loud when he lied and quiet when it counted': continuity error. Muthu goes quiet when he lies (bible, F383, and ch20's 'not his lying quiet'). Rewrite as 'He went quiet when he lied and loud when he joked, and he was neither now.'",
+    "'Then read it,' she said.': the beat's split of work is missing (her voice, his back). After Devan states his plan, have Neela set the term aloud: he reads the writ, and she gives her own refusal and reasons. Have Devan answer that he will stand a step behind her and not speak for her. Let her ask whether reading the writ is answering for her. His answer is that the writ is his account, and the Company's answer is hers.",
+    "'seventy-odd of us, fewer since Biju': the defender count conflicts with F803. Recount with the figures on record. That is forty-two odiyans with the Kodiyur six back, the twenty-two queen's riders, and the garrison volunteers, less the named dead (Biju, Sankaran, Chami, Rajan and two more). Cut the unclear phrase 'Muthu's thirty are in that count'."
+  ],
+  "reader_question": "When Devan reads the queen's payment writ at the gate, will he use it as a weapon, and will it cost them the spears and the pass?",
+  "techniques_landed": [
+    9,
+    10,
+    20
+  ],
+  "new_facts_assessment": "The stitches and back cut match F849 and are needed for the scene. The gift seal in the bundle fits F071 but extends F744, which listed only the chit and the writ. Keep it, but have Devan note that he added the seal. The defender line 'seventy-odd... Muthu's thirty are in that count' conflicts with F803 (36 odiyans plus 40 volunteers). It ignores the returned six and the 22 riders. Restate the count consistently.",
+  "content_rule_violation": false,
+  "failure_modes": [],
+  "average": 3.38,
+  "minimum": 0.0,
+  "passed": false
+}
