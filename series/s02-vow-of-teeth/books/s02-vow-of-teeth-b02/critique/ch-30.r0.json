@@ -1,41 +1,41 @@
 {
   "scores": {
     "reader_question": 4.0,
-    "change": 4.0,
-    "romance_movement": 4.0,
+    "change": 5.0,
+    "romance_movement": 5.0,
     "shown_chemistry": 4.0,
     "character_logic": 4.0,
     "stakes_and_cost": 4.0,
-    "prose": 3.0,
+    "prose": 4.0,
     "continuity": 0.0
   },
   "reasons": {
-    "reader_question": "Specific and earned: three days, a sealed pass, a queen who remembers roads, and Devan's honest 'I don't know yet.'",
-    "change": "Clear power shift: the seal moves to Muthu, Devan loses office, and Neela becomes the reason in the public record.",
-    "romance_movement": "The public declaration happens under a real loss. Her refusal to leave alone answers his, so the reason is new.",
-    "shown_chemistry": "Strong responsive beats: his shaking hand, his slowed pace on her bad calf, and him drawing the room's eyes off her.",
-    "character_logic": "Rema's honest loophole, Neela's offer to leave and Devan's refusal all fit their characters. Muthu's oath is earned by B2 ch28.",
-    "stakes_and_cost": "Losing the fort is irreversible and has a deadline. Rema's warning attaches the next cost to the road itself.",
-    "prose": "Clean and readable. Problems: an ambiguous 'her husband's death', a doubled 'first time' about Muthu, and a muddled 'I'm talking' exchange.",
-    "continuity": "The writ is dated 11 days before the execution, which falls after the B1 ch27 yard self-naming. The chapter says the writ predates the yard."
+    "reader_question": "Clear and specific: three days, rains, three blocked roads, forty people. Where do they go, and what does vouching for the forty cost?",
+    "change": "He loses fort, office and seal. She goes from wife to public cause. The garrison's loyalty is shown, and Muthu's loyalty shifts to the border.",
+    "romance_movement": "A new reason: love chosen in public at the price of his office. Two declarations before sixty men, and he leaves the final choice to her.",
+    "shown_chemistry": "He draws the hall's eyes off her, walks on her bad-calf side, his hand shakes. Her declaration runs slightly speechy.",
+    "character_logic": "Her offer to leave is smart and costly. His refusal fits a man who never lies. The quire offer arrives with little motive.",
+    "stakes_and_cost": "Loss is irreversible and personal. The road choice ends as an impasse, not a decision with a named price.",
+    "prose": "Clean and concrete, no banned phrases, no em dashes. 'Fist to breast' and 'did not look at her' repeat. The final paragraph is muddled.",
+    "continuity": "Muthu's letters carrying 'her vow words' to the queen conflicts with F433/F297 (packet locked unsent) and F635 (burned)."
   },
   "fixes": [
-    "'before Neela had ever stood in the Resin House yard': continuity conflict. The writ (11 days before the execution) postdates the B1 ch27 self-naming. Change it to 'before the closing writ with her name on it could have reached Kodiyur.' Also change Rema's 'ready before you were a name in the council's mouth' to 'ready before your wife's name reached her desk', so the anticipation reads correctly.",
-    "'The queen had sealed her husband's death': ambiguous pronoun. It reads as the queen's own husband. Rewrite as 'The queen had sealed Devan's death, and then, when that plan slipped, sealed his exile.'",
-    "'\"I'm talking,\" Muthu said, unsteady. \"You've noticed.\"': this muddles his established quiet-when-lying tell and invites false suspicion. Either have Neela note in one line that this quiet is not his lying quiet, or cut the exchange. Cut one of the two adjacent 'first time Neela had…seen' sentences about Muthu."
+    "'Muthu's grey letters had already carried the bride, and her vow words, south' breaks continuity: the vow packet was locked unsent (F433) and later burned (F635). Change it to Muthu's monthly letters before the wedding reporting the bride's arrival. Drop the vow words. Replace 'south' with 'to Kodiyur' (F427).",
+    "'Before Rema could go on, Devan unbuckled the pack' repeats the ch 31 beat in F656 (Rema leaves the quire with Devan). Either cut the quire exchange from this chapter or flag ch 31 for revision. If you keep it, give Devan a reason to offer it now, such as losing his office and his court standing.",
+    "'Three ways out, and every one of them a road' ends on rumination (Endless monologue) and the list is muddled ('the Keeper's seal gone from it'). End on a choice or a story-caused interruption. For example, Neela says 'The forty, then' and names the cost aloud. Also fix 'over the wound that was not his', which is unclear."
   ],
-  "reader_question": "Where can a stripped warden and a confessed odiyan go in a rain-closed country when the queen will learn their road?",
+  "reader_question": "With three days, the pass shut and every road mud, where can a stripped warden and a confessed odiyan take themselves, and does joining the forty hand the queen Neela's name?",
   "techniques_landed": [
     19,
     22,
     9
   ],
-  "new_facts_assessment": "All four facts are necessary for the beat. Kandan's insult, Rema's record promise and Muthu's oath are consistent with the bible and continuity. The writ's date is consistent, but the chapter draws a wrong inference from it: the date falls after the Resin House yard self-naming, not before.",
+  "new_facts_assessment": "Rema's thirty years, the five-day carry, and Muthu named in trust (consistent with F092 custom) are fine. Rema's sunset offer is needed. Rema refusing the green quire here duplicates F656, set in ch 31, so ch 31 would replay it. Keep the refusal in one chapter only and retire the other fact.",
   "content_rule_violation": false,
   "failure_modes": [
-    "Narrated-only chemistry"
+    "Endless monologue"
   ],
-  "average": 3.38,
+  "average": 3.75,
   "minimum": 0.0,
   "passed": false
 }
