@@ -2,40 +2,38 @@
   "scores": {
     "reader_question": 4.0,
     "change": 4.0,
-    "romance_movement": 4.0,
-    "shown_chemistry": 4.0,
+    "romance_movement": 5.0,
+    "shown_chemistry": 5.0,
     "character_logic": 4.0,
     "stakes_and_cost": 4.0,
-    "prose": 3.0,
-    "continuity": 0.0
+    "prose": 4.0,
+    "continuity": 5.0
   },
   "reasons": {
-    "reader_question": "The forearm welt mid-road makes the shelf fight concrete and urgent. 'She kept the bargain' half-answers the second part too early.",
-    "change": "They leave with a sworn rule and a noon signal. She is on the road and he is already fighting.",
-    "romance_movement": "The new term (pain is not a summons) is rehearsed in bed and tested at dawn. His fear disclosure is new and costly.",
-    "shown_chemistry": "Kissing the three thorn dots, mapping his scars and the bite test are all responsive actions, not narration.",
-    "character_logic": "Both act like disciplined professionals naming the debt in advance. Devan's 'unless the vote sends me' fits his never-lie rule.",
-    "stakes_and_cost": "The resin ration, the welt she must ignore and the choose-the-line pact all cost. 'Tonight costs nothing yet' softens the beat.",
-    "prose": "Strong lines, but 'She lay the leaf', the stacked age statement and the doubled 'That's what you/I married' blunt the beat line.",
-    "continuity": "Treats share-warmth (F653) and the shoulder bite (F726) as first discoveries. Puts the unlit-lamp history (F090) in the wrong corridor."
+    "reader_question": "The welt an hour out, with the host said to be days off, makes 'what is he fighting already?' sharp. The langur silence adds a quiet second gap.",
+    "change": "The bargain is sworn, the signal is practised, Janu tacitly accepts her, and the party leaves. The first test of the bargain lands on the page.",
+    "romance_movement": "There is a new term, 'pain is not a summons'. It is dramatised in the bite, set against his fear, then tested alone on the road. The reason is new.",
+    "shown_chemistry": "Kissing the three thorn dots, mapping his scars by name, and him shaking to hold still: all responsive action, almost no narrated feeling.",
+    "character_logic": "She saves resin for roofs, names the debt aloud, and refuses to turn back. His admitted fear fits his honesty. The thorn-versus-tooth signal muddles their plan.",
+    "stakes_and_cost": "Each night costs a pinch and every welt is a choice not to go to him. The final welt makes the cost immediate, though only grazes so far.",
+    "prose": "Clean, varied and specific. It reuses ch9's 'a door left on the latch', has some stock sex-scene phrasing, and starts consecutive paragraphs with 'She'.",
+    "continuity": "Consistent with the six pinches, the vote, the Nellimala turning, the ch9 grey hair, the breath hitch, the shoulder bite and Muthu in the north range. Minor ambiguities are noted in the fixes."
   },
   "fixes": [
-    "Continuity, at 'I didn't know it did that either' and 'Nobody told us': F653 already established the warmth on their last Kettamala night, and F726 the shoulder bite with a matching welt. Rewrite as recognition, not discovery: 'It still does that.' Then make the bite test new by its purpose. Last time the bite was play; tonight he must sit with the reflex and not move, and the beat turns on that refusal.",
-    "Continuity, at 'For three weeks of the wedding, the lamp in that corridor': the dark lamp and Raiu's post were outside the warden's chamber in book 1 (F090), not this guest corridor. Change it to: 'In the first weeks of the marriage the lamp outside the warden's door had been kept dark, and a boy posted at the stair.' Name Raiu once to earn the grief. The point stands: Janu now lights what Devan once darkened.",
-    "Prose, at 'She was twenty-seven. He was thirty-two. Neither of them': the age line reads as a checklist. Fold it in earlier, for example 'twenty-seven years and she had never once chosen a night slowly'. Also fix 'She lay the leaf' to 'laid'. Cut Neela's first 'That's what you married' in the bargain scene, so that 'That's what I married' lands once, at the beat, with full force."
+    "At 'It was a door left on the latch.': this repeats ch9's distinctive image verbatim (repetition rule). Replace it with a callback to Janu's unfinished leopard story (F651): keep a door and a lamp open and she walks in. Let Neela recognise the story's ending in the lit lamp, without stating it. That pays off the reinterpretation and makes the lamp mean welcome, not just tolerance.",
+    "At 'He took the thorn. He did not prick himself.': the beat and F812 have Devan prick on the leopard tooth, but the page sets out 'three each' thorns and he practises with a thorn, so the tooth is shown and never used. Have him set the thorn aside and press his thumb to the tooth's point. Keep the thorns for Neela only, and fix 'Three each' to 'Three for me'.",
+    "At 'Far behind and above her, in the cut': the geography contradicts 'the gorge below' a paragraph earlier, and 'spent a week' blurs the ch9 timeline. 'his blood hot on her wrist' breaks F627, where the welt weeps but does not open and is her skin. State whether her road bypasses the shelf. Say 'the days he had spent' and end on 'his welt hot on her wrist'."
   ],
-  "reader_question": "What is happening to Devan at the shelf, and can Neela keep riding as more welts open?",
+  "reader_question": "What is Devan already fighting at the cut when the host was days away, and can Neela keep riding while his wounds open on her?",
   "techniques_landed": [
     9,
     14,
     22
   ],
-  "new_facts_assessment": "Lime thorns: fine and useful. Tooth on Devan's cord: plausible, but F346 has it in Neela's waistband, so give one bridging clause. 'Nellimala five nights back': doubtful, since ch6 to ch9 reads as about two nights; recheck it. Share-warmth: not new (F653), and the draft wrongly frames it as a discovery. Lamp: the clay lamp is fine, but its 'left dark for weeks' history belongs to the warden's chamber corridor (F090), not the guest corridor. Rice, curd and cloth: a good echo of F284 and F548.",
+  "new_facts_assessment": "Moving the tooth to Devan's neck is necessary. It is consistent with F346 and F726, but 'the last night at Kettamala' is ambiguous because they are at Kettamala now. Pavi's curled human hand and the 'stick' origin of the brow scar are unlisted additions and should be listed or cut.",
   "content_rule_violation": false,
-  "failure_modes": [
-    "Repetitive tension"
-  ],
-  "average": 3.38,
-  "minimum": 0.0,
-  "passed": false
+  "failure_modes": [],
+  "average": 4.38,
+  "minimum": 4.0,
+  "passed": true
 }
