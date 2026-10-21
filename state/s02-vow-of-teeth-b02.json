@@ -598,7 +598,7 @@
       }
     },
     "21": {
-      "status": "passed",
+      "status": "edited",
       "revisions": 0,
       "scores": {
         "reader_question": 4.0,
@@ -612,8 +612,19 @@
       },
       "average": 4.0,
       "flags": [],
-      "words": 2602,
-      "minimum": 3.0
+      "words": 2590,
+      "minimum": 3.0,
+      "style": {
+        "words": 2590,
+        "banned_hits": {},
+        "ai_tell_hits": {},
+        "ai_tells_per_1000": 0.0,
+        "top_4gram": "the dressing under his",
+        "top_4gram_count": 2,
+        "longest_paragraph_words": 103,
+        "em_dashes_per_1000": 0.0,
+        "reading_ease": 96.3
+      }
     },
     "22": {
       "status": "passed",
@@ -1547,9 +1558,13 @@
     {
       "at": "2026-10-21T07:31:44",
       "event": "done: S8 line edit ch 20"
+    },
+    {
+      "at": "2026-10-21T07:32:16",
+      "event": "done: S8 line edit ch 21"
     }
   ],
-  "updated_at": "2026-10-21T07:31:44",
+  "updated_at": "2026-10-21T07:32:16",
   "midpoint_chapter": 16,
   "continuity_attempts": 1,
   "continuity_last_errors": 2
