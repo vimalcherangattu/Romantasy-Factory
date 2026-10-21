@@ -4,38 +4,36 @@
     "change": 4.0,
     "romance_movement": 4.0,
     "shown_chemistry": 4.0,
-    "character_logic": 3.0,
-    "stakes_and_cost": 4.0,
-    "prose": 3.0,
+    "character_logic": 4.0,
+    "stakes_and_cost": 3.0,
+    "prose": 4.0,
     "continuity": 5.0
   },
   "reasons": {
-    "reader_question": "The sealed second case and 'any other the crown has sealed' give a sharp question; the guards' identity is pushed further by 'It passes'.",
-    "change": "The witness is dead and Devan names his restraint publicly. Neela learns the escort carry old nightbark. Sparring becomes a standing date.",
-    "romance_movement": "The reason is new: she offers combat, not comfort. He gifts a point, she refuses it, earns one, and 'Same time tomorrow?' sets a ritual.",
-    "shown_chemistry": "Strong responsive action: he moves the lamp off her bad hand, opens his guard, and his slow smile answers her grin. One pronoun slip blurs a key line.",
-    "character_logic": "Devan's public objection is smart. Neela is passive against her beat goal, and she carelessly shows split nails to the people she thinks are hunting her.",
-    "stakes_and_cost": "Devan's refusal costs Ittan's life and the case's witness. Neela's sworn testimony and the unknown writ make her next words dangerous.",
-    "prose": "Mostly clean and concrete. It repeats ch4's ferry image, has 'long moment/long time' echoes, an anachronistic 'pencil mark', and two logic slips in pronouns and the wound-share.",
-    "continuity": "The draft agrees with the wound-share (F265), the goat path (F094), First Guard's cuff (F466) and the sixty-man garrison. Only minor slips occur within the chapter itself."
+    "reader_question": "Second sealed case plus 'It passes' leaves a sharp, nameable question about the escort and Rema's real business.",
+    "change": "The witness is dead; Neela's 'hunters for me' theory breaks at the gate; Rema stays and holds a second writ.",
+    "romance_movement": "A new reason drives it: she offers a fight instead of comfort, and he gives, then earns, a point inside his guard.",
+    "shown_chemistry": "The lamp moved and returned, the gifted opening refused, the grin read 'like a map'. All of it is action, none narrated.",
+    "character_logic": "Devan names his power openly and declines it. Neela's nail gamble is reasoned and costed. Rema's restraint fits her.",
+    "stakes_and_cost": "Neela does nothing toward the beat goal of delaying the execution. Her one risk comes late, and the sparring costs only a bruise.",
+    "prose": "Clean and concrete, no banned phrases. One muddy referent, a vague 'lock' image, and two consecutive 'She' paragraph openings.",
+    "continuity": "Matches F460, F462, F465, F473 to F477, F343 and the wound-share limits. The salve's 'thumb' is a near-miss on F692's fingertip, not a conflict."
   },
   "fixes": [
-    "Fix the logic slips. Change 'I don't want one he gave me' to 'you gave me'. Rewrite 'did not welt on him because he had not bled' so the bruise doesn't carry because her skin didn't break. Change 'buried a man this day on my own warrant' to 'under my clause', which squares with 'the queen's warrant outranks the hearing'. Make the second case match the first ('held against her coat'), not 'hung from her hip'.",
-    "Repetitive image: 'as if she waited for a ferry' repeats ch4's Ittan 'like a man waiting for a ferry'. Give First Guard her own image, for example 'as if she stood a watch she had stood a hundred times'. Cut one of 'Rema looked at him for a long moment' or 'He looked at her for a long time'. Replace 'as small as a pencil mark' with a period-true image such as 'as thin as a stylus line'.",
-    "Irrational behaviour: 'She had forgotten it. The bandage had come loose'. A guild-trained woman who believes these four came to cage her would not idly show her split nails. Make it a choice. She loosens the bandage and lays the hand on the post on purpose to test First Guard's cuff reaction. This also gives Neela agency in a chapter where she mostly stands behind Devan."
+    "At 'Neela stopped a pace behind his left shoulder', the beat goal (help Devan delay without exposing herself) never shows on the page, which weakens stakes. Give her one quiet, costed act before Devan speaks. For example, she murmurs the sitting-witness clause to him, or asks Rema as household witness whether the writ's witness may be heard before the stroke. Rema refuses, and her eyes stay on Neela a breath too long.",
+    "At 'Three times now. The salve on Eravi's thumb', the count is unclear and 'thumb' drifts from F692's fingertip. Name the three instances outright: Eravi's fingertip and the salve, the hounds cowering in ch 3 (F695), and the wind off the escort now. Keep the dispensary ruling-out as part of the first.",
+    "At 'It looked like strength. She thought it was probably both', 'both' has no stated pair, and 'behind that lock' is vague. Rewrite so both halves are named: 'It looked like strength. It looked like fear held on a short rope. She thought it was both.' In the pit, change the opening of either 'She did. It took longer' or 'She let him see her pleased' so two consecutive paragraphs don't start with 'She'."
   ],
-  "reader_question": "What crown-sealed matter is in Rema's second writ case, and are the green-sashed escort guild hunters or something the queen made of odiyans?",
+  "reader_question": "What has Rema carried sealed up the mountain for 'any other the crown has sealed', and why would a queen's guard know the ache passes?",
   "techniques_landed": [
     4,
     11,
     9
   ],
-  "new_facts_assessment": "All six are necessary and consistent. The knuckle welt fits F009/F265, the escort's goat-path exit fits F094, and the spar extends F347 well. Within the chapter, Rema's case is 'held against her coat' then 'hung from her hip', and the bruise line misassigns who bled.",
+  "new_facts_assessment": "new-facts.json is empty, but the draft adds facts: Chathu's bell at the Resin House long table, Devan's left guard mended within a week, the hall's three doors, and the jar going 'with the first runner'. All are minor and consistent with continuity. They should still be listed.",
   "content_rule_violation": false,
-  "failure_modes": [
-    "Irrational behaviour to extend plot"
-  ],
-  "average": 3.88,
+  "failure_modes": [],
+  "average": 4.0,
   "minimum": 3.0,
   "passed": true
 }
