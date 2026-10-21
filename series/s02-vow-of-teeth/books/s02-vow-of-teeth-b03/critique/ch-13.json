@@ -1,0 +1,42 @@
+{
+  "scores": {
+    "reader_question": 5.0,
+    "change": 4.0,
+    "romance_movement": 3.0,
+    "shown_chemistry": 2.0,
+    "character_logic": 3.0,
+    "stakes_and_cost": 4.0,
+    "prose": 4.0,
+    "continuity": 0.0
+  },
+  "reasons": {
+    "reader_question": "The ending makes the beat question sharp: Chathu's 'Not yet' could be protection or a sale, and the missing knock adds a second question.",
+    "change": "Neela gains the route and chooses a debt; the value shift lands. Power is unchanged because she is still hidden and undiscovered.",
+    "romance_movement": "Her resolve to tell Devan before she pays is new and fits the vow, but it takes two sentences and the logic is muddled.",
+    "shown_chemistry": "Devan is absent and appears only as one confused thought. Nothing responsive shows on the page, even through memory.",
+    "character_logic": "Taking the sweet is well reasoned. She never questions how a caged man sat four nights in the queen's room, or how she can tell Devan.",
+    "stakes_and_cost": "The sweet is a chosen debt with a stated growth path. The steward makes the next step dangerous, and she cannot leave the cell.",
+    "prose": "The prose is concrete and controlled, and the gift-as-bill passage is quotable. The pity section narrates its feelings and leans on stacked similes.",
+    "continuity": "'Ammu's hand on the paddle' conflicts with F444, where hunters held the paddle and Ammu held the pot. 'Resin burning down her throat' implies she swallowed it."
+  },
+  "fixes": [
+    "Fix the continuity break at 'She remembered Ammu's hand on the paddle, and the resin burning down her throat.' Per F444 the hunters held the paddle while Ammu held the pot, and resin is smeared on the skin, not swallowed. Rewrite it as 'She remembered Ammu holding the pot while the hunters' paddle came down, and the resin burning on her throat.' This keeps Chathu's guilt and corrects both facts.",
+    "Fix the muddled romance beat at 'He would say I won't answer that to everything but the truth'. Devan uses that phrase only when he cannot tell the truth, so the line contradicts his voice. Neela also knows the thorns carry only 'alive'. Have her face the distance directly: she cannot reach him, so she will not pay the debt until she can say it to his face, even if that means refusing Chathu later. That gives the vow a cost.",
+    "Fix the logic gap at 'I sat in that room four nights'. A smart Neela would ask how a caged man sat at the queen's table. Add one exchange: she asks when, and he says the queen had him brought up to write and sent him down again. Let her register that the route comes from the queen's own hand, which feeds the saved-or-sold doubt. Also give one clause for where the 'dead guard's boots' came from, or cut the word 'dead'."
+  ],
+  "reader_question": "Did Chathu's 'Not yet' just protect Neela, or sell her to the queen's steward, and why did Usha never knock?",
+  "techniques_landed": [
+    7,
+    11,
+    20
+  ],
+  "new_facts_assessment": "Mani, the stair counts, the chest, the noon gun, the ink stain, the warm tin and the queen's request are all needed and consistent with F830 and F831. Five things need attention. Usha said the sea stair runs from the lower cells to the water gate, while Chathu has it rising from the water gate to the queen's passage; reconcile the two. 'A dead guard's boots' is unlisted and unexplained. 'I sat in that room four nights' is unlisted and implies the queen brings him up from the cells, which needs a line. 'Wept the first night in the cell' sits oddly, since Ammu died a book earlier.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Irrational behaviour to extend plot",
+    "Narrated-only chemistry"
+  ],
+  "average": 3.12,
+  "minimum": 0.0,
+  "passed": false
+}
