@@ -6,15 +6,11 @@
   "status": "revising",
   "stage": "S3",
   "done": [
-    "S3",
-    "S7",
-    "book_check",
-    "S9",
-    "S10"
+    "S3"
   ],
   "chapters": {
     "01": {
-      "status": "edited",
+      "status": "owner-revise",
       "revisions": 2,
       "scores": {
         "reader_question": 4.0,
@@ -40,10 +36,15 @@
         "longest_paragraph_words": 117,
         "em_dashes_per_1000": 0.0,
         "reading_ease": 93.6
-      }
+      },
+      "owner_instructions": [
+        "KEEP: Do not touch the opening page. Keep the counting, \"Two.\" on its own line, the cloth \"warm from the brazier... rewarmed in the night by a man who said nothing about it,\" and the langur ending (\"It did not come as a hush. It came as a hole.\"). Keep the goals argument word for word: \"I need one page.\" / \"All of them.\" / \"Then we go together. And argue after.\" Do not soften either side.",
+        "Goals argument, the narration after his refusal. Problem: \"It was the most honest refusal she had ever been given, and it pleased her more than a promise.\" tells us what the dialogue has already shown (Narrated-only chemistry). Fix: cut the sentence. If the beat needs a landing, replace it with one physical reaction that shows she is pleased without naming it. For example, she pushes the tally book an inch toward him, or her hand stops on the page. Do not use \"honest\" in the replacement.",
+        "Whole chapter. Check for any \"He never lied to her\" or a close variant and cut it. The book keeps that line once at most, in ch 30 (see ch 30 and ch 31)."
+      ]
     },
     "02": {
-      "status": "edited",
+      "status": "owner-revise",
       "revisions": 1,
       "scores": {
         "reader_question": 5.0,
@@ -69,10 +70,15 @@
         "longest_paragraph_words": 88,
         "em_dashes_per_1000": 0.0,
         "reading_ease": 94.1
-      }
+      },
+      "owner_instructions": [
+        "Escort tells. Problem: ch 2 stacks too many clues to the ch 32 reveal (dry packs, unscuffed boots, numbers, the smooth seam, never sleeping, the sash), so genre readers solve it by ch 3 (Twists without setup, inverted: over-setup). Fix: cut two tells. (a) Cut Rema's remark that she 'never once saw them sleep'. Keep that the escort fixed the crossing ropes by night, because the outline relies on the night travel as the clue. (b) Cut the line where Devan 'could not catch' the First Guard's sash rising, or any version of a sash that doesn't move with breath. Keep the dry packs, the barely worn boots, the numbers instead of names, and the pale ridge on the inner wrist that Devan reads as a lamp-burn.",
+        "Devan tells Neela everything before she asks. Make sure the pale ridge on the First Guard's inner wrist, and that he took it for a lamp-burn, is plainly part of what he reports, in one or two lines. Ch 32 now has Neela work out the wrist seam herself from this report. Keep the 'Which wrist?' exchange and her late breath as written. Ch 3 now gives her an on-page reason to dismiss it.",
+        "Keep this chapter's established fact that Rema knows the closing writ named Neela. Ch 30 is being adjusted to square with it, so do not change it here."
+      ]
     },
     "03": {
-      "status": "edited",
+      "status": "owner-revise",
       "revisions": 1,
       "scores": {
         "reader_question": 4.0,
@@ -98,7 +104,11 @@
         "longest_paragraph_words": 83,
         "em_dashes_per_1000": 0.65,
         "reading_ease": 94.0
-      }
+      },
+      "owner_instructions": [
+        "Early in the chapter, before or just after she asks the escort their names. Problem: Neela is the expert on odiyan scars, and with no reason to dismiss the wrist ridge, her failing to connect it for 30 chapters reads as Irrational behaviour to extend plot. Fix: give her a short, explicit rule-out in her own interiority, turned into a choice. She thinks of the ridge Devan described, weighs it as an odiyan wrist seam, and rejects the idea for stated reasons. An odiyan can't hold a road by day in shape. The crown hangs unvouched odiyans. No guild sells to the crown. A lamp-burn sits in the same place. She decides they are crown men with something else to hide, and files it. Keep it to three to five sentences. This must read as a sensible belief that ch 32 overturns, not as a guess she sits on.",
+        "Keep the numbers beat and the hounds whining at the escort's quarters. Do not add any new escort tell in this chapter to replace the two cut from ch 2."
+      ]
     },
     "04": {
       "status": "edited",
@@ -130,7 +140,7 @@
       }
     },
     "05": {
-      "status": "edited",
+      "status": "owner-revise",
       "revisions": 0,
       "scores": {
         "reader_question": 4.0,
@@ -156,7 +166,11 @@
         "longest_paragraph_words": 86,
         "em_dashes_per_1000": 0.0,
         "reading_ease": 94.1
-      }
+      },
+      "owner_instructions": [
+        "Nightbark on the wind at the execution. Make her reading of the smell follow from her ch 3 rule-out. Nightbark on human men means guild hunters carrying resin to take rogues, which is the outline's beat, because odiyan crown guards are impossible by her rule. Add one clause that ties the conclusion to that belief, for example 'not odiyans, then, but men who carry what odiyans need'. Do not let her consider and drop the odiyan idea a second time.",
+        "Keep the First Guard's \"It passes\" exactly. It is a series clue (C20)."
+      ]
     },
     "06": {
       "status": "edited",
@@ -455,7 +469,7 @@
       }
     },
     "16": {
-      "status": "edited",
+      "status": "owner-revise",
       "revisions": 1,
       "scores": {
         "reader_question": 4.0,
@@ -481,10 +495,14 @@
         "longest_paragraph_words": 107,
         "em_dashes_per_1000": 0.42,
         "reading_ease": 95.4
-      }
+      },
+      "owner_instructions": [
+        "KEEP: Do not change the midpoint. Keep her palm covering the leaf and sliding down one line at a time, \"Lookout,\" she read. \"Seventeen.\", Devan's \"Say what you did\" and her plain answer counting to three hundred and ten, \"I need to walk,\" and the cloak left on the peg.",
+        "Keep Devan's line that only Rema or the high court can break the green seal, \"Not us.\" Ch 30 and ch 32 now pay off this principle on the page (see those chapters)."
+      ]
     },
     "17": {
-      "status": "edited",
+      "status": "owner-revise",
       "revisions": 0,
       "scores": {
         "reader_question": 4.0,
@@ -510,7 +528,10 @@
         "longest_paragraph_words": 105,
         "em_dashes_per_1000": 0.39,
         "reading_ease": 95.0
-      }
+      },
+      "owner_instructions": [
+        "KEEP: Devan's withdrawal stays disciplined, not cruel. Keep \"I know,\" said evenly, and the 'not forgiveness, and not the opposite' framing. Do not add any coldness aimed at Neela."
+      ]
     },
     "18": {
       "status": "edited",
@@ -689,7 +710,7 @@
       }
     },
     "24": {
-      "status": "edited",
+      "status": "owner-revise",
       "revisions": 2,
       "scores": {
         "reader_question": 4.0,
@@ -717,7 +738,12 @@
         "longest_paragraph_words": 113,
         "em_dashes_per_1000": 0.3,
         "reading_ease": 96.0
-      }
+      },
+      "owner_instructions": [
+        "Second explicit scene. Problem: the critic scored the first two explicit scenes (ch 12 and ch 24) at 3.25. Ch 24 carries the Eravi reveal, Muthu's apology, the declaration and the scene, so the scene risks being squeezed into something interchangeable. Fix: check that the scene has room to change the relationship on the page (heat rule: every explicit scene must change the relationship). Tie its physical beats to the new terms, so that staying is a choice and not a reward for forgiveness. Give it at least one specific detail only these two could share, from this book's established material (the wound-share, the pebble, the dark rule, his care for her healing graze), and not stock gestures. Keep \"I choose you knowing.\" / \"Don't forgive me yet.\" / his answer that he won't forgive, he'll choose.",
+        "If the chapter is over length or crowded, make room without cutting any plot fact. Tighten Eravi's confession to the facts the later chapters need (twenty years of medicines paid in news, the postern unlocked six years ago for 'a guild man', the cart order, the sword, the drained stair lamps, tonight's jar). Keep Muthu's apology to a short, plain exchange in front of Bhaskaran.",
+        "Restate or keep clear that both leads are adults before the scene (Neela 27, Devan 32), as the outline requires, and keep the scene plainly consensual with check-ins."
+      ]
     },
     "25": {
       "status": "edited",
@@ -865,7 +891,7 @@
       }
     },
     "30": {
-      "status": "edited",
+      "status": "owner-revise",
       "revisions": 2,
       "scores": {
         "reader_question": 4.0,
@@ -891,10 +917,18 @@
         "longest_paragraph_words": 96,
         "em_dashes_per_1000": 0.0,
         "reading_ease": 93.9
-      }
+      },
+      "owner_instructions": [
+        "Rema's line that the writ was 'ready before your wife's name reached her desk' and Neela's sum ('before the closing writ... could have reached Kodiyur'). Problem: in ch 2 Rema already knew the closing writ named Neela, so the closing writ reached Kodiyur before she left, and the timeline contradicts itself. Fix: change Rema's line so the writ was dated before the execution and before the closing writ reached Kodiyur. Add one line to Neela's sum that squares it: the queen did not need the closing writ, because Muthu's letters had already carried the bride and her vow words to the queen's household (established in ch 9). One line, no lecture.",
+        "Neela's declaration to the hall. Problem: \"Not behind. Beside.\" caps a strong speech with a slogan. Fix: end her speech on \"Wherever he walks out of this hall, I walk out beside him\" and cut the coda after it.",
+        "KEEP: Keep Neela's line to the garrison \"I'd think less of you if you didn't.\" It stays hers; the ch 32 echo is removed instead. Keep Kandan's salute and \"It was not for her. She knew that, and was glad of it\" exactly.",
+        "\"He never lied to her.\" Problem: it appears twice in this chapter, and ch 31 echoes it (Narrated-only chemistry). Fix: keep at most one instance in this chapter, and only if a beat truly needs it. Otherwise cut both. This is the only chapter in the book where it may survive.",
+        "Private scene with Rema. Problem: in ch 31 we are told after the fact that Rema refused to break the green quire's seal and left it with them, so the couple's choice to break it in ch 32 has no on-page ground (Devan's ch 16 principle was 'Rema can break it. The high court can. Not us.'). Fix: show the refusal here, in a few lines. Devan offers her the sealed green quire. Rema declines to break a seal under the queen's own wax in a court the queen can overrule, and will not carry it to a high court she cannot promise will sit. She hands it back. Keep it brief and in her honest, law-bound voice, beside her warning that the queen will remember where they go.",
+        "Final line. Problem 1: \"It was the most honest thing anyone had ever said to her.\" tells instead of shows. Problem 2: the closing claim that she 'had never before stood in one that had no way out at all' is contradicted when forty-two people leave by goat track two chapters later. Fix: replace the ending with action that shows her fear. She counts the exits, as she always does, and each one is a road she can't take forty people down in the rains. End on the shape of 'no road she could take forty people down in the rains', not on 'no way out'."
+      ]
     },
     "31": {
-      "status": "edited",
+      "status": "owner-revise",
       "revisions": 2,
       "scores": {
         "reader_question": 3.0,
@@ -920,10 +954,17 @@
         "longest_paragraph_words": 132,
         "em_dashes_per_1000": 0.0,
         "reading_ease": 95.3
-      }
+      },
+      "owner_instructions": [
+        "KEEP: Keep the bedroom scene's core. The shutters open on purpose, the shared bite welt (\"You bit yourself through me\"), her eyes open for the first time, the new terms, \"It's a terrible word. I'll keep it.\", and the breath-counting coda where she counts his breathing to know he's still there. Keep the third slat creaking.",
+        "Janu's leopard story, after \"one night she walked in\". Problem: Devan's following paragraph decodes the callback (\"It was his father's rule in an old woman's mouth... waiting all along to tell him the opposite\"), which signposts it. Fix: cut that paragraph down to the image of the story's ending and Neela's hand under the table. No interpretation. Let the open shutters in the bedroom scene carry the meaning.",
+        "The Raiu apology. Problem: it is thin (\"He never said much\"), and Raiu already appears in ch 30. Fix: cut the Raiu apology from this chapter and leave Raiu to ch 30. Do not invent a new memory, which could contradict book 1.",
+        "Cut any echo of \"He never lied to her\" in this chapter (see ch 30).",
+        "Cut the after-the-fact telling that Rema refused to break the green seal and left it with them. Ch 30 now shows it on the page. A single glancing reference (the quire in his pack, still sealed) is fine."
+      ]
     },
     "32": {
-      "status": "edited",
+      "status": "owner-revise",
       "revisions": 2,
       "scores": {
         "reader_question": 4.0,
@@ -951,7 +992,16 @@
         "longest_paragraph_words": 79,
         "em_dashes_per_1000": 0.0,
         "reading_ease": 92.5
-      }
+      },
+      "owner_instructions": [
+        "KEEP: Keep \"Sold to the crown,\" the thirty stubs matched by finger, Vellan walking in without resin, Kamalakshi's \"I haven't forgiven you\" over the whole-beaked bird, and the recall vote. Keep Vellan's lines about the green road and being bought at nine.",
+        "Breaking the green seal. Problem: they break it after Devan insisted in ch 16 that only Rema or the high court could, and \"No court was left to keep it for\" glosses a reversal of his own principle. Fix: give Devan one beat, a line or two of dialogue, where he names that he is breaking his own evidence rule and why. Rema refused it (ch 30), no high court will sit for a stripped warden, and thirty people's pages may be listed inside. Neela can answer in one line. Then they break it.",
+        "Vellan's reveal speech. Problem: it answers the clues one by one like a checklist (\"Lime-and-ochre paste... a palace surgeon pares the old ridges smooth, so a slipped cuff shows one seam\"), a monologue doing the critic's work (Endless monologue / exposition). Fix: split it. Neela works out the wrist seam herself, aloud, from what Devan told her in ch 2: the pale ridge he took for a lamp-burn, and the single smooth seam where an odiyan's wrist would show the torn ridges. As the scar expert, she reasons that the old ridges were pared. Vellan only confirms, briefly, and adds what she couldn't know (that it is a palace surgeon). Keep the throat-paint detail in at most one short line from him.",
+        "Make the reveal overturn her belief, not confirm a guess. Have her name the rule she held in ch 3, that no guild sells to the crown and no odiyan keeps a road by day, as the stubs and Vellan prove it wrong. Revise or cut the 'she had let him' admission so it no longer implies she had suspected all along. Replace it with the shock of a belief failing.",
+        "Vellan to Kamalakshi, \"I'd think less of you if you had.\" Problem: it echoes Neela's ch 30 line, so two characters share the author's phrasing. Fix: rewrite it in his own grumble: \"Good. Don't.\"",
+        "\"It was not what they had agreed in the dark.\" Problem: it confuses, because his public pledge matches the ch 31 terms ('at your back'). Fix: cut the sentence and say plainly what is new. He binds himself to the forty's vote: if they vote her out, he goes too.",
+        "The goat-track departure (consistency with the ch 30 ending). Make clear in a line or two that the hill route is the dangerous one: slick scree, the rains, people roped together, a near slip. It must read as the road no one would choose, not as an easy exit."
+      ]
     }
   },
   "chapter_count": 32,
@@ -1741,12 +1791,16 @@
     {
       "at": "2026-10-21T07:42:26",
       "event": "done: beta read"
+    },
+    {
+      "at": "2026-10-21T07:44:11",
+      "event": "done: owner notes plan"
     }
   ],
-  "updated_at": "2026-10-21T07:42:26",
+  "updated_at": "2026-10-21T07:44:11",
   "midpoint_chapter": 16,
-  "continuity_attempts": 1,
-  "continuity_last_errors": 2,
+  "continuity_attempts": 0,
+  "continuity_last_errors": null,
   "package": {
     "problems": [],
     "epubcheck": true,
@@ -1765,5 +1819,5 @@
     "notes": "series/s02-vow-of-teeth/books/s02-vow-of-teeth-b02/beta-notes-1.md"
   },
   "beta_rounds": 1,
-  "pending_owner_notes": "/home/user/Romantasy-Factory/series/s02-vow-of-teeth/books/s02-vow-of-teeth-b02/beta-notes-1.md"
+  "pending_owner_notes": null
 }
