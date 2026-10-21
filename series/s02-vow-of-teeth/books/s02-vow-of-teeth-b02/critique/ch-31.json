@@ -3,39 +3,37 @@
     "reader_question": 3.0,
     "change": 4.0,
     "romance_movement": 4.0,
-    "shown_chemistry": 4.0,
-    "character_logic": 3.0,
+    "shown_chemistry": 5.0,
+    "character_logic": 4.0,
     "stakes_and_cost": 3.0,
     "prose": 4.0,
     "continuity": 5.0
   },
   "reasons": {
-    "reader_question": "The quire question is named in exposition and again at the close. It has no fresh pressure or clue, so the itch is mild.",
-    "change": "Warden and bride become partners with spoken terms. The barred room is opened and they leave the fort. The value shift lands cleanly.",
-    "romance_movement": "The equals' bargain is a new reason for change, rooted in his wall-at-back need and her leash fear. The two breath-hitch reveals deepen it.",
-    "shown_chemistry": "Responsive acts carry it: the slat line, counting through her dusk pull, his gait, the bite laugh, the open eyes. Narration rarely labels feeling.",
-    "character_logic": "Neela asking 'Why does it hurt me?' ignores a rule she has lived with for a book. Rema handing over crown-sealed evidence is asserted, not motivated.",
-    "stakes_and_cost": "The dusk ache is named and chosen, which is good. Nothing else costs tonight, and the dawn departure carries no threat or decision.",
-    "prose": "Concrete and well paced with no banned phrases. A few soft spots: 'lost the thread of the evening', 'fingers that still did not know how to be gentle'.",
-    "continuity": "Consistent with F298, F323, F344, F627, F637, F652 and F655. Ages are stated before the intimate beat. No conflicts found."
+    "reader_question": "The beat's quire question carries out, but the closing mark ('someone else's hand, or the same hand') is vague, not a sharp gap.",
+    "change": "Warden and bride become partners with stated terms. The open shutters and his confession to Janu close old debts.",
+    "romance_movement": "The bargain of equals is new, and the 'at your back, not the wall' term pays off his need. The hitch adds reciprocity.",
+    "shown_chemistry": "The bite welt on her own shoulder, the counted dusk pull, the 'Rain' callback and the breath counting are all responsive and specific.",
+    "character_logic": "His owning the lie to Janu fits him. Devan first seeing a mark on a quire he has carried for days strains a bit.",
+    "stakes_and_cost": "The ache bill is named and chosen. Otherwise nothing at the end forces a costly decision; they simply walk down.",
+    "prose": "Clean, varied and concrete. Lapses: summary sex lines, 'His throat closed', an on-the-nose 'Partners' and a slightly sentimental 'You were.'",
+    "continuity": "Consistent with the bible and facts: slat creak, sunbird chip, the hitches (F652), the flasks with the forty, the forehead kiss, the ages."
   },
   "fixes": [
-    "At \"That's my bite,\" she said. \"Why does it hurt me?\" the problem is Irrational behaviour. Neela has known the wound-share since book 1, chapter 28. Have her say something knowing instead, such as \"So that's the price of biting you.\" Cut Devan's explanatory reply and go straight to the shared laugh.",
-    "At \"It was his father's rule in an old woman's mouth\" the problem is a signposted callback that fails technique 20. The interior paragraph explains the meaning of the leopard story's end. Cut everything through \"to tell him the opposite\". Keep only the table and Neela's hand finding his. Let the later act of opening the shutters make the connection unstated.",
-    "At \"Rema had looked at that wax, said a seal\" the problem is a weak reader question and thin stakes. Give Rema's choice a reason in one line: she won't carry it to the queen it names. Name the cost of breaking it, which is treason in law. At dawn, have Neela see a folded-wing sunbird faintly pressed into the green thread, so the closing question has a concrete clue."
+    "'In the grey light he saw what the lamp had hidden': convenient discovery and a vague reader question. Make the print sit over the queen's wax, so someone resealed the quire after her. Have Neela read the mark from the stubs ('That's the crown's sale mark'). End on a choice: open it on the road and commit treason, or carry it shut. That makes the cost explicit.",
+    "'After that there wasn't much laughing... he forgot the room entirely': generic summary in an explicit scene that must be specific. Replace it with one concrete, world-tied beat. For example, he keeps the count going against her ribs and she matches it, or the rain on her back from the open sill. Keep the eyes-open payoff.",
+    "'Nobody won the shutters wager,' she said. 'I'm keeping the stakes.': this recycles the book 1 ch 31 beat (F285/F432), and Devan has since declared the reason in the hall. Pay off the new bags wager instead (Devan refused none) so the laugh lands fresh."
   ],
-  "reader_question": "Will they break the queen's seal on the green-stitched quire, and what does it prove about the folded-wing sunbird stubs?",
+  "reader_question": "What does the second, folded-wing mark pressed into the queen's seal mean, and will they commit treason to open the quire?",
   "techniques_landed": [
     20,
     25,
     23
   ],
-  "new_facts_assessment": "The resin flask going to the forty is necessary and consistent with F616, F637 and F655. The Janu reason supersedes F651 and fits F344's order. Rema leaving the quire with Devan is needed for the reader question, but it strains F554 (Rema or the high court would break it) and her role as crown recorder. It needs one line of her reason.",
+  "new_facts_assessment": "The folded-wing print in the quire thread fits F446, F638 and F664 and feeds the hinge. 'Treason in law' is a sensible new rule. Discovery timing is weak: Rema and Devan handled the quire before, so tie the reveal to a reason it shows only now.",
   "content_rule_violation": false,
-  "failure_modes": [
-    "Irrational behaviour to extend plot"
-  ],
-  "average": 3.75,
+  "failure_modes": [],
+  "average": 4.0,
   "minimum": 3.0,
   "passed": true
 }
