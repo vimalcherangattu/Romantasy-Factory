@@ -1,0 +1,42 @@
+{
+  "scores": {
+    "reader_question": 5.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 3.0,
+    "stakes_and_cost": 4.0,
+    "prose": 3.0,
+    "continuity": 0.0
+  },
+  "reasons": {
+    "reader_question": "The ending names Chathu, the sweets ledger and 'Let me see whether I can bear it', so the question is sharp and specific.",
+    "change": "Decision made and split by two hands. The party is named, the resin is split, and a new hole in the plan opens.",
+    "romance_movement": "The first public lost vote between equals, met with banter and a disclosure exchange. The reason is new, as the beat asks.",
+    "shown_chemistry": "Counted hands, 'wall she's decided to like' and the 'counts servants' callback show care through response, not narration.",
+    "character_logic": "Neela pushes a vote for a route she can't map, and only sees the hole afterwards. A smart planner asks first.",
+    "stakes_and_cost": "Wound-share across the distance, villages against the thirty, and Chathu's help billed like every gift. Costs are named and personal.",
+    "prose": "Mostly clean and concrete, but some sentences are muddled ('the thing a husband could, or a wife with a plank'). There is one 'the weight of' tell and a logic-blurred Q&A.",
+    "continuity": "Chathu sent south by closed cart conflicts with F636, F745 and F478. 'Eleven miles' contradicts the four days' ride, and 'a hundred miles' sits in the same chapter."
+  },
+  "fixes": [
+    "'Rema had sent him south in a closed cart' conflicts with canon (F636 horseback to Kettamala; F745 a Kettamala cell; F478 pass shut to carts). Rewrite it: after the assize the queen's household sent men up the goat path and took him down roped, on foot, within days of Usha's report. Change 'in a cart on the wood road' to 'roped to a saddle'. Also replace 'eleven miles of road away' with 'four days of road away', to match 'a hundred miles of country'.",
+    "'And she stopped. Because she did not know the sea stair': the hole appears only after she has won the vote, which is irrational behaviour to extend the plot. Have Madhavi ask in council 'Who knows the stair?' and Neela answer 'Usha's sentence', knowing it is thin. The post-vote realisation then becomes that they can't trust Usha's route, so they need an independent map. That makes Chathu the only check, not the only knowledge.",
+    "'neither of them reached for the thing a husband could' is muddled prose. Replace it with one plain line: 'Neither of them said husband, or warden, or master. Neither had those words left.' Also clarify 'I wanted you to say it so I could say no': 'I wanted you to offer, so I could be the one to refuse.' Cut 'It had the weight of the rule behind it', an AI tell, and fix Thilak's 'pepper-sacks' (he tapped nightbark)."
+  ],
+  "reader_question": "Will Neela go to Chathu, the man whose every gift is a bill, for the map of the queen's sea stair?",
+  "techniques_landed": [
+    4,
+    10,
+    15
+  ],
+  "new_facts_assessment": "Chathu in the queen's cells is required by the beat, but the stated route conflicts with canon. F636 has him taken to Kettamala on horseback, F745 (last chapter) still has his log going to a Kettamala cell, and F478 says the pass is closed to carts. The transfer needs a canon-safe route and timing. Neela never seeing the palace is necessary and consistent with F753 and F062. The vote tallies add up (43 present, Thulasi abstaining). The 37-to-6 resin 'hands' reads oddly, since Devan takes no resin; it should say it is a vote count. The party of six matches the beat.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Irrational behaviour to extend plot",
+    "Contrived delays"
+  ],
+  "average": 3.38,
+  "minimum": 0.0,
+  "passed": false
+}
