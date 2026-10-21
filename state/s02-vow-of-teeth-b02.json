@@ -10,7 +10,8 @@
     "S7",
     "book_check",
     "S9",
-    "S10"
+    "S10",
+    "beta_read"
   ],
   "chapters": {
     "01": {
@@ -1980,9 +1981,13 @@
     {
       "at": "2026-10-21T09:17:06",
       "event": "done: S10 package"
+    },
+    {
+      "at": "2026-10-21T09:18:40",
+      "event": "done: beta read"
     }
   ],
-  "updated_at": "2026-10-21T09:17:06",
+  "updated_at": "2026-10-21T09:18:40",
   "midpoint_chapter": 16,
   "continuity_attempts": 0,
   "continuity_last_errors": null,
@@ -1999,9 +2004,9 @@
   },
   "beta": {
     "verdict": "revise",
-    "predicted_rating": 4.0,
-    "summary": "A strong, honest book. The ch 16 reading, with her hand sliding down the leaf, is the best midpoint this series has produced, and the ending answers its question and pulls hard toward book 2. The escort clue is telegraphed far too early, the closing chapters explain their own callbacks and lean on a few repeated tells, and the blurb mislabels the hero and uses an unglossed term, so one revision round would lift it.",
-    "notes": "series/s02-vow-of-teeth/books/s02-vow-of-teeth-b02/beta-notes-1.md"
+    "predicted_rating": 4.1,
+    "summary": "A strong book 2 with a midpoint that lands, a heroine who changes on the page, and an ending that pays off the ledger question and pulls hard into book 3. The blurb promises a cage-word danger the book has already retired, the escort twist is over-signalled in ch 2 and then over-explained in ch 32, and a POV slip plus some continuity slips need a light pass.",
+    "notes": "series/s02-vow-of-teeth/books/s02-vow-of-teeth-b02/beta-notes-2.md"
   },
   "beta_rounds": 1,
   "pending_owner_notes": null
