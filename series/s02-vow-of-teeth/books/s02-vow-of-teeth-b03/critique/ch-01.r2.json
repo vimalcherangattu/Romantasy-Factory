@@ -1,0 +1,42 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 3.0,
+    "shown_chemistry": 3.0,
+    "character_logic": 3.0,
+    "stakes_and_cost": 3.0,
+    "prose": 3.0,
+    "continuity": 5.0
+  },
+  "reasons": {
+    "reader_question": "The queen's knife arrives alone with open hands and her pared seam shown. That is a specific, urgent gap for the next chapter.",
+    "change": "Hidden safety becomes war at the door. The treaty is broken, the coast is burning, the Company has a war vote and the crown's agent has found them.",
+    "romance_movement": "Neela's admiration of Devan binding himself to the vote is a new reason. She bears no cost and makes no choice beyond raising her hand.",
+    "shown_chemistry": "The hand that doesn't stay and the shared look over the vote are good. 'She loved the corner of his mouth' is narrated.",
+    "character_logic": "Neela never weighs the wound-share when Devan proposes holding a gorge. The news and the crown order also reach the hill implausibly fast.",
+    "stakes_and_cost": "The coast's losses are vivid (Thulasi, Kirri). The vote costs the voters nothing personal, and Neela's own body-stake is missing.",
+    "prose": "Concrete and well paced. It slips into clichés ('felt rather than saw', 'let out its breath'), overuses 'He did not', and the last line muddles.",
+    "continuity": "Consistent with the bible and the facts: Kirri, Indu of Nellimala, eleven wardens' seal, Pachan, Madhavi, the sash and 'It passes'."
+  },
+  "fixes": [
+    "At 'I mean to go down and hold the gorge', Neela never thinks of the wound-share. That is a stakes-without-depth and character-logic failure: a spear in him opens on her. Add two or three lines before her hand rises in which she registers the cost, so raising it last is a costly choice. Devan could also name it to her in the look ('That's yours too').",
+    "The last lines, 'Neela had seen a great many wrists like it... They were never smooth.', contradict themselves: the seam is smooth, and odiyan wrists are ridged. Rewrite so the logic lands. She has seen hundreds of wrists of her kind, all ridged, and only one kind is pared flat, which is what Vellan said the queen's surgeon does. End on that recognition.",
+    "At 'They came ashore at first light, and they didn't sneak', the timing fails: the boy reports the landing, burned villages and Muthu reading a crown order by noon, up a two-day climb. Make the landing two dawns ago, hidden under the cloud. Make Muthu's paper a standing order for a fleet landing that the queen sent before the rains. Then the sails and the smoke make sense."
+  ],
+  "reader_question": "Why has one of the queen's pared-wrist night-guard climbed alone to the Company with open hands as the fleet lands, and does she come to bargain or to cage?",
+  "techniques_landed": [
+    1,
+    5
+  ],
+  "new_facts_assessment": "Needed and consistent: Pazhayangadi burned (pays off Thulasi), the forty-pace gorge in three days, the crown order on the stair, the vote binding Devan, the 27/11/4 resin vote (adds up to 42 with Neela and Vellan; the 41 names on the plank fits). The First Guard description matches F454, F471, F477 and F684. Kesu staying at the well is harmless texture. Watch two things: Vellan holds a bird while Kamalakshi has 'Vellan's carved bird' in her lap, and Thilak's 'a pinch a night' conflicts with cutting the cup into forty-two shares once. Technique 6 is only gestured at, with no stated odds for the gorge.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Irrational behaviour to extend plot",
+    "Narrated-only chemistry",
+    "Stakes without depth"
+  ],
+  "average": 3.5,
+  "minimum": 3.0,
+  "passed": true
+}
