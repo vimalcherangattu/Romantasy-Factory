@@ -1,0 +1,43 @@
+{
+  "scores": {
+    "reader_question": 3.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 3.0,
+    "stakes_and_cost": 2.0,
+    "prose": 3.0,
+    "continuity": 0.0
+  },
+  "reasons": {
+    "reader_question": "The quire gets one line. The forty riders end on an image, not a question, so the beat's question is barely set up.",
+    "change": "Warden and bride become partners with stated terms, and he learns her hitch. The value shift lands on the page.",
+    "romance_movement": "The bargain of equals is new and specific: no leader, no carrying alone, someone at his back who could strike and doesn't.",
+    "shown_chemistry": "The bite and welt, the shared laughter, the counting both ways and the 'Rain' callback are all responsive action.",
+    "character_logic": "Devan says he stopped the story 'because of the end', but Janu never told the end, and he had another stated reason.",
+    "stakes_and_cost": "The fort is already lost. Skipping resin costs nothing on the page and the open shutters risk nothing, so the night is costless.",
+    "prose": "Clean of banned phrases, but has murky lines ('I should have fixed nothing. I did well.') and a vague practising scene.",
+    "continuity": "Wound-share carrying pleasure contradicts F265 (wounds only). The 'dusk pull' after full dark, and the horn code for forty (F455 'not many'), also jar."
+  },
+  "fixes": [
+    "At 'the answering flush of warmth under his own jaw, the wound-share carrying nothing but pleasure' (Convenient magic; breaks F265). Cut the warmth. Let the bite welt be the only share. Recast 'You feel that?/It's mine' around the welt rising on her shoulder.",
+    "At '\"I stopped it because of the end,\" Devan said' (Irrational behaviour; Janu never told the end, and it conflicts with F278). Have Devan admit he stopped it to keep eyes off her. Then have him ask Janu for the ending he never heard, and react to it on the page.",
+    "At 'I'll feel the dusk pull at my throat when it comes' (time error after 'At full dark'; Stakes without depth). Move the shutters scene to sunset so the pull comes on the page. Have her name the price: the ache counts this night, with no resin left to ration on the road."
+  ],
+  "reader_question": "What will the queen do now that they ride out of Kettamala with forty freed odiyans and her green-sealed quire still unbroken?",
+  "techniques_landed": [
+    20,
+    23,
+    25
+  ],
+  "new_facts_assessment": "Leopard ending: necessary and good, but Devan's claim to have known it conflicts with Janu never telling it and with F278. Neela's hitch: fine, and the eleventh-step echo works. Wound-share pleasure: unnecessary and conflicts with F265; cut it. Forty riders: necessary, but the horn code (F455: unarmed strangers, not many) misfits forty known odiyans; use a new call or explain.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Convenient magic",
+    "Stakes without depth",
+    "Irrational behaviour to extend plot"
+  ],
+  "average": 2.88,
+  "minimum": 0.0,
+  "passed": false
+}
