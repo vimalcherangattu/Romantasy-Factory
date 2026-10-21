@@ -4,40 +4,36 @@
     "change": 4.0,
     "romance_movement": 4.0,
     "shown_chemistry": 4.0,
-    "character_logic": 3.0,
-    "stakes_and_cost": 2.0,
-    "prose": 3.0,
+    "character_logic": 4.0,
+    "stakes_and_cost": 3.0,
+    "prose": 4.0,
     "continuity": 0.0
   },
   "reasons": {
-    "reader_question": "The quire gets one line. The forty riders end on an image, not a question, so the beat's question is barely set up.",
-    "change": "Warden and bride become partners with stated terms, and he learns her hitch. The value shift lands on the page.",
-    "romance_movement": "The bargain of equals is new and specific: no leader, no carrying alone, someone at his back who could strike and doesn't.",
-    "shown_chemistry": "The bite and welt, the shared laughter, the counting both ways and the 'Rain' callback are all responsive action.",
-    "character_logic": "Devan says he stopped the story 'because of the end', but Janu never told the end, and he had another stated reason.",
-    "stakes_and_cost": "The fort is already lost. Skipping resin costs nothing on the page and the open shutters risk nothing, so the night is costless.",
-    "prose": "Clean of banned phrases, but has murky lines ('I should have fixed nothing. I did well.') and a vague practising scene.",
-    "continuity": "Wound-share carrying pleasure contradicts F265 (wounds only). The 'dusk pull' after full dark, and the horn code for forty (F455 'not many'), also jar."
+    "reader_question": "The quire question is only gestured at in two lines; the reader is never told what it might hold or why it matters now.",
+    "change": "Clear shift from warden and bride to partners, shutters opened, Janu repaired; Devan owns his lie to her.",
+    "romance_movement": "New terms of equals, her eyes kept open, both names spoken; the reason is new, coming from the loss of fort and office.",
+    "shown_chemistry": "Responsive acts throughout: she recalls his wall at his back, he counts with her through the pull, the shared bite turns into laughter.",
+    "character_logic": "Choices fit both characters; giving all the resin to the forty is costly but in character and named as a choice.",
+    "stakes_and_cost": "The ache bill is named well, but the departure is already settled, so the next decision costs little on the page.",
+    "prose": "Concrete and varied. Slips: Devan stands twice, two consecutive paragraphs open with 'He', the stair image echoes, the bite dialogue is muddled.",
+    "continuity": "'Six weeks' of barring conflicts with the timeline (well past 40 days plus the rains); 'not the warden after tomorrow' conflicts with the seal handed over in ch30."
   },
   "fixes": [
-    "At 'the answering flush of warmth under his own jaw, the wound-share carrying nothing but pleasure' (Convenient magic; breaks F265). Cut the warmth. Let the bite welt be the only share. Recast 'You feel that?/It's mine' around the welt rising on her shoulder.",
-    "At '\"I stopped it because of the end,\" Devan said' (Irrational behaviour; Janu never told the end, and it conflicts with F278). Have Devan admit he stopped it to keep eyes off her. Then have him ask Janu for the ending he never heard, and react to it on the page.",
-    "At 'I'll feel the dusk pull at my throat when it comes' (time error after 'At full dark'; Stakes without depth). Move the shutters scene to sunset so the pull comes on the page. Have her name the price: the ache counts this night, with no resin left to ration on the road."
+    "Continuity. At 'bar them out of habit, six weeks of it' and 'In six weeks, in all the rooms', the timeline is wrong: the shutters have been barred since the wedding, which is now months ago. Change both to 'since the wedding' or 'all those months'. At 'You're not the warden after tomorrow', Devan was already stripped and gave Muthu the seal in ch30. Change it to 'You're not the warden now'.",
+    "Vague reader question. At 'the quire stitched round in green thread', give one or two lines saying what the quire is: the queen's sealed contracts, possibly linked to the cut-away crown stubs. Say why Rema left it, and that opening it is now theirs to choose. Replace the muddled closer 'The only page nobody held' with a concrete choice or image about breaking that wax on the road.",
+    "Prose slips. Devan stands twice: 'He was on his feet before he knew it' and later 'He stood to meet her'. Cut the second, or have him sit in between. Change the opening of 'He took it out and sat' so it doesn't follow 'He slid...' with the same word. Cut one of the two stair similes ('a stair she had missed in the dark' / 'missing the eleventh step'). Clarify the bite lines 'I feel yours. I felt mine first.'"
   ],
-  "reader_question": "What will the queen do now that they ride out of Kettamala with forty freed odiyans and her green-sealed quire still unbroken?",
+  "reader_question": "What will the queen's green-sealed quire reveal, and what will they do with it now that no court is left to receive it?",
   "techniques_landed": [
     20,
-    23,
-    25
+    25,
+    23
   ],
-  "new_facts_assessment": "Leopard ending: necessary and good, but Devan's claim to have known it conflicts with Janu never telling it and with F278. Neela's hitch: fine, and the eleventh-step echo works. Wound-share pleasure: unnecessary and conflicts with F265; cut it. Forty riders: necessary, but the horn code (F455: unarmed strangers, not many) misfits forty known odiyans; use a new call or explain.",
+  "new_facts_assessment": "Dusk pull is consistent with F323. Giving the season's flasks to the forty fits F637, but sits uneasily with F616 (her own boxed flask); add one line that she gave hers too. Unlisted: the cut betel seal was moved into the bundle (fine), Rema never took the quire (needs listing), and Devan's new reason for stopping Janu's stories supersedes F651.",
   "content_rule_violation": false,
-  "failure_modes": [
-    "Convenient magic",
-    "Stakes without depth",
-    "Irrational behaviour to extend plot"
-  ],
-  "average": 2.88,
+  "failure_modes": [],
+  "average": 3.25,
   "minimum": 0.0,
   "passed": false
 }

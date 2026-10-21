@@ -1,0 +1,39 @@
+{
+  "scores": {
+    "reader_question": 3.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 4.0,
+    "stakes_and_cost": 3.0,
+    "prose": 4.0,
+    "continuity": 0.0
+  },
+  "reasons": {
+    "reader_question": "The quire question is only gestured at in two lines; the reader is never told what it might hold or why it matters now.",
+    "change": "Clear shift from warden and bride to partners, shutters opened, Janu repaired; Devan owns his lie to her.",
+    "romance_movement": "New terms of equals, her eyes kept open, both names spoken; the reason is new, coming from the loss of fort and office.",
+    "shown_chemistry": "Responsive acts throughout: she recalls his wall at his back, he counts with her through the pull, the shared bite turns into laughter.",
+    "character_logic": "Choices fit both characters; giving all the resin to the forty is costly but in character and named as a choice.",
+    "stakes_and_cost": "The ache bill is named well, but the departure is already settled, so the next decision costs little on the page.",
+    "prose": "Concrete and varied. Slips: Devan stands twice, two consecutive paragraphs open with 'He', the stair image echoes, the bite dialogue is muddled.",
+    "continuity": "'Six weeks' of barring conflicts with the timeline (well past 40 days plus the rains); 'not the warden after tomorrow' conflicts with the seal handed over in ch30."
+  },
+  "fixes": [
+    "Continuity. At 'bar them out of habit, six weeks of it' and 'In six weeks, in all the rooms', the timeline is wrong: the shutters have been barred since the wedding, which is now months ago. Change both to 'since the wedding' or 'all those months'. At 'You're not the warden after tomorrow', Devan was already stripped and gave Muthu the seal in ch30. Change it to 'You're not the warden now'.",
+    "Vague reader question. At 'the quire stitched round in green thread', give one or two lines saying what the quire is: the queen's sealed contracts, possibly linked to the cut-away crown stubs. Say why Rema left it, and that opening it is now theirs to choose. Replace the muddled closer 'The only page nobody held' with a concrete choice or image about breaking that wax on the road.",
+    "Prose slips. Devan stands twice: 'He was on his feet before he knew it' and later 'He stood to meet her'. Cut the second, or have him sit in between. Change the opening of 'He took it out and sat' so it doesn't follow 'He slid...' with the same word. Cut one of the two stair similes ('a stair she had missed in the dark' / 'missing the eleventh step'). Clarify the bite lines 'I feel yours. I felt mine first.'"
+  ],
+  "reader_question": "What will the queen's green-sealed quire reveal, and what will they do with it now that no court is left to receive it?",
+  "techniques_landed": [
+    20,
+    25,
+    23
+  ],
+  "new_facts_assessment": "Dusk pull is consistent with F323. Giving the season's flasks to the forty fits F637, but sits uneasily with F616 (her own boxed flask); add one line that she gave hers too. Unlisted: the cut betel seal was moved into the bundle (fine), Rema never took the quire (needs listing), and Devan's new reason for stopping Janu's stories supersedes F651.",
+  "content_rule_violation": false,
+  "failure_modes": [],
+  "average": 3.25,
+  "minimum": 0.0,
+  "passed": false
+}
