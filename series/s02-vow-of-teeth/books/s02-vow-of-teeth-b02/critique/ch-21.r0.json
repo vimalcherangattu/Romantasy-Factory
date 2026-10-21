@@ -1,0 +1,42 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 4.0,
+    "stakes_and_cost": 4.0,
+    "prose": 3.0,
+    "continuity": 5.0
+  },
+  "reasons": {
+    "reader_question": "The closing request names a specific debt at Kettamala. Devan's half-suppressed guess sharpens the question without answering it.",
+    "change": "Knowledge and resolve both shift: Ittan's crime is split from the queen's, a provable case exists, and the lookout line is committed to court.",
+    "romance_movement": "The new reason is honesty before action. She declines to bargain but withholds standing beside it, which is a fresh and partial step.",
+    "shown_chemistry": "Shown through the cipher-for-a-wall trade, 'hated me properly in advance', the mare's off hind callback and her startled laugh.",
+    "character_logic": "Telling her first and refusing a case built on a lie is smart. Her refusal to ask, rooted in Asha, fits her arc.",
+    "stakes_and_cost": "The cost is named plainly: sashes by the next moon and her number read in a hall. The cost to both is accepted on the page.",
+    "prose": "The opening scene runs long on interiority, 'made himself' appears three times, a few lines narrate feeling, and the cistern sentence is clumsy.",
+    "continuity": "No hard conflict. Asha leaf wording, the eight-week letter, Rema's three refusals and the sashes all match. Guard counts are muddled (see fixes)."
+  },
+  "fixes": [
+    "'He made himself say it in order, in his head' and the long first scene: Endless monologue plus echo ('made himself' x3). Cut two of the three 'made himself'. Turn the proof list into action: he chalks the items on a tile, and strikes through 'treaty' and 'writ' with a tally mark for 'high court'. Trim the first scene by about 150 words.",
+    "'It was a gift, and he knew it. He felt it settle' and the closing 'because someone had read it with him': narrated emotion. Replace the first with a gesture, such as his flat hand finally moving on the table. End the chapter on a concrete image, such as her lamp-black corrections in the margin of his pages, instead of explaining the feeling.",
+    "'Eight men stand on the wall of this place' / 'I'll leave Bhaskaran and the six': the count is muddled against F566, where six stay with Bhaskaran among them. Make Neela's wall count clearly the remaining Resin House members ('eight of ours on the wall'). Write 'Bhaskaran and his five' or 'Bhaskaran's six' consistently, and update F588."
+  ],
+  "reader_question": "What does Neela owe at Kettamala before the court sits, and to whom (is it Janu)?",
+  "techniques_landed": [
+    15,
+    10,
+    16
+  ],
+  "new_facts_assessment": "Both declared facts are necessary and consistent: Devan's grove night, and Devan writing while Neela reads with the ledger in her saddlebag. Two facts are undeclared. 'Asha wrote my letters' needs care because Devan has written council letters himself. 'Eight men stand on the wall' clashes with 'Bhaskaran's six' and needs logging or cutting.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Endless monologue",
+    "Narrated-only chemistry"
+  ],
+  "average": 4.0,
+  "minimum": 3.0,
+  "passed": true
+}
