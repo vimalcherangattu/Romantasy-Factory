@@ -1,0 +1,41 @@
+{
+  "scores": {
+    "reader_question": 5.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 5.0,
+    "character_logic": 3.0,
+    "stakes_and_cost": 4.0,
+    "prose": 4.0,
+    "continuity": 0.0
+  },
+  "reasons": {
+    "reader_question": "The interrupted sentence plus a council vote called early gives one sharp, nameable question: what did Devan answer the queen?",
+    "change": "The tower falls, the guards fight free and see the pair, and the offer vote is forced a day and a half early.",
+    "romance_movement": "This is a reunion as a combat partnership, witnessed. Its new reason is public: the shared back becomes a model. The dawn talk mostly reaffirms.",
+    "shown_chemistry": "Mirrored hands, 'It's the same', the warmed cloth, the steaming cup and the shared salve coolness. All of it is responsive action, none of it narrated.",
+    "character_logic": "Devan holds still and watches her for a full minute while a ladder hook bites beside his knee. A commander would act.",
+    "stakes_and_cost": "Two named dead and seven hurt. The column is coming, and an unknown answer to the queen sits under the vote.",
+    "prose": "Clean, concrete and varied. Usha's paragraph explains the theme ('a witness is a leash') instead of showing it. The Lata 'bare hands, in shape' joke reads oddly.",
+    "continuity": "'The sixth since you left' conflicts with the timeline: four days to Kodiyur, days there, four days back (F208, F885). Also an unexplained extra Usha rider."
+  },
+  "fixes": [
+    "Continuity conflict at '\"The sixth since you left,\" said Devan'. The ride south took four days, Kodiyur took several, and the ride back took four more, so six dawns is impossible. Change it to the true count (about the tenth or eleventh) or to 'I lost count after nine. I've warmed that cloth every one.' Keep the 'warmed every one' payoff.",
+    "Unset-up fact at 'Usha's rider came in off the road at grey'. Every rider of hers is on the shelf and counted ('All twenty-two'). Change the source to someone already established, such as Koman reading the road at grey or the pass-village beacon boy (F763). Alternatively, add one earlier line showing Usha posting a rear watcher who is not one of the twenty-two.",
+    "Narrated meaning and logic strain at 'The guards had been told for years that a witness is a leash.' Cut the explanation and show Usha changing, for example by breaking off to put her own back to Sajan's. Also cover the earlier line 'long enough for the hook of a ladder to bite the stone beside his knee': give Devan a one-handed action there, such as kicking the hook loose without looking away, so his stillness reads as choice, not negligence."
+  ],
+  "reader_question": "How did Devan answer the queen's letter before Neela returned, and how will he vote on the offer?",
+  "techniques_landed": [
+    7,
+    9
+  ],
+  "new_facts_assessment": "F899 is necessary and consistent with Devan's established witness-protection habit (F547, F635), and strong. F900 is necessary to motivate the early vote but unsupported: all 22 riders arrived with Neela and are counted alive, so 'a rider of hers' on the road behind is a 23rd person nobody set up. The sea-room detail and the noon-signal explanation fit F895. Technique 6 is only partial: the assault's odds are never set on the page before the fight, so harm feels likely but not quantified.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Narrated-only chemistry",
+    "Irrational behaviour to extend plot"
+  ],
+  "average": 3.62,
+  "minimum": 0.0,
+  "passed": false
+}

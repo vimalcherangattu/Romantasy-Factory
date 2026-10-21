@@ -1,41 +1,41 @@
 {
   "scores": {
-    "reader_question": 4.0,
+    "reader_question": 5.0,
     "change": 4.0,
     "romance_movement": 4.0,
-    "shown_chemistry": 4.0,
+    "shown_chemistry": 5.0,
     "character_logic": 3.0,
     "stakes_and_cost": 4.0,
-    "prose": 3.0,
+    "prose": 4.0,
     "continuity": 0.0
   },
   "reasons": {
-    "reader_question": "The question is clear and pointed: what did Devan answer, and how will he vote? Neela's misquoted echo of his line blurs it.",
-    "change": "The tower falls, the guards see the pair fight back to back, a crown column is coming, and the vote is moved up.",
-    "romance_movement": "Reunion under fire. He trusts her at his back in public, and the shared blisters and salve turn the wound-share into a sign of unity, which is new.",
-    "shown_chemistry": "Chemistry comes through action: called targets, a shoulder leaned like a wall, warm water for her teeth, and her taking the salve pot from his teeth.",
-    "character_logic": "Devan, who once ordered 'nobody smears' and made men face away, lets twenty-two guards turn in the open before the garrison. That makes them new witnesses.",
-    "stakes_and_cost": "Two named dead and seven hurt. The early vote on the queen's offer costs both leads something real.",
-    "prose": "There are strong images, but also a garbled sentence ('turned back crouched'), a present-tense slip ('That is true.') and a told line about the pebble pledge.",
-    "continuity": "The guards are counted as four named plus nineteen, which makes twenty-three against F883's twenty-two and the chapter's own 'All twenty-two'. Devan's cut-off line is misquoted."
+    "reader_question": "The interrupted sentence plus a council vote called early gives one sharp, nameable question: what did Devan answer the queen?",
+    "change": "The tower falls, the guards fight free and see the pair, and the offer vote is forced a day and a half early.",
+    "romance_movement": "This is a reunion as a combat partnership, witnessed. Its new reason is public: the shared back becomes a model. The dawn talk mostly reaffirms.",
+    "shown_chemistry": "Mirrored hands, 'It's the same', the warmed cloth, the steaming cup and the shared salve coolness. All of it is responsive action, none of it narrated.",
+    "character_logic": "Devan holds still and watches her for a full minute while a ladder hook bites beside his knee. A commander would act.",
+    "stakes_and_cost": "Two named dead and seven hurt. The column is coming, and an unknown answer to the queen sits under the vote.",
+    "prose": "Clean, concrete and varied. Usha's paragraph explains the theme ('a witness is a leash') instead of showing it. The Lata 'bare hands, in shape' joke reads oddly.",
+    "continuity": "'The sixth since you left' conflicts with the timeline: four days to Kodiyur, days there, four days back (F208, F885). Also an unexplained extra Usha rider."
   },
   "fixes": [
-    "At 'Usha, Sanu, Sajan, Lata, and the nineteen who had come with them', the head count breaks continuity: four plus nineteen is twenty-three, but F883 and this chapter's 'All twenty-two' say twenty-two. Change 'nineteen' to 'eighteen'. Recheck every guard count in the chapter.",
-    "At 'I answered it here, on the cart, before you could—', the interrupted action misfires: Neela later echoes '*I answered it before I.*', which he never said. Use the beat's line, 'The queen sent me a letter. I answered it before I—', and keep her echo identical. Also clarify 'Is this the third dawn?' / 'The sixth'; as written it means nothing.",
-    "At 'No voice behind them that could say a word and cage them', the world rule is waived. The queen remains a live witness, and the garrison watched the guards turn at dusk, which makes them new witnesses. Add Devan ordering the wall pairs to face the road at sunset, as he did before. Have Kandan stare only after the turning. Reword the line so the threat is a day and a half away, not gone."
+    "Continuity conflict at '\"The sixth since you left,\" said Devan'. The ride south took four days, Kodiyur took several, and the ride back took four more, so six dawns is impossible. Change it to the true count (about the tenth or eleventh) or to 'I lost count after nine. I've warmed that cloth every one.' Keep the 'warmed every one' payoff.",
+    "Unset-up fact at 'Usha's rider came in off the road at grey'. Every rider of hers is on the shelf and counted ('All twenty-two'). Change the source to someone already established, such as Koman reading the road at grey or the pass-village beacon boy (F763). Alternatively, add one earlier line showing Usha posting a rear watcher who is not one of the twenty-two.",
+    "Narrated meaning and logic strain at 'The guards had been told for years that a witness is a leash.' Cut the explanation and show Usha changing, for example by breaking off to put her own back to Sajan's. Also cover the earlier line 'long enough for the hook of a ladder to bite the stone beside his knee': give Devan a one-handed action there, such as kicking the hook loose without looking away, so his stillness reads as choice, not negligence."
   ],
-  "reader_question": "What did Devan write back to the queen before Neela could be told, and which way will he vote at the fire?",
+  "reader_question": "How did Devan answer the queen's letter before Neela returned, and how will he vote on the offer?",
   "techniques_landed": [
     7,
     9
   ],
-  "new_facts_assessment": "The resin split, the ram's horn and the named dead are necessary and consistent. The queen at Neela's elbow 'the day after the gun' fits F857. Usha's word of the column has no stated source (scout or rider) and needs one line. Technique 6 is only partial: the assault resolves with little doubt about the outcome.",
+  "new_facts_assessment": "F899 is necessary and consistent with Devan's established witness-protection habit (F547, F635), and strong. F900 is necessary to motivate the early vote but unsupported: all 22 riders arrived with Neela and are counted alive, so 'a rider of hers' on the road behind is a 23rd person nobody set up. The sea-room detail and the noon-signal explanation fit F895. Technique 6 is only partial: the assault's odds are never set on the page before the fight, so harm feels likely but not quantified.",
   "content_rule_violation": false,
   "failure_modes": [
-    "Worldbuilding collapse",
+    "Narrated-only chemistry",
     "Irrational behaviour to extend plot"
   ],
-  "average": 3.25,
+  "average": 3.62,
   "minimum": 0.0,
   "passed": false
 }
