@@ -128,7 +128,7 @@
       }
     },
     "05": {
-      "status": "passed",
+      "status": "edited",
       "revisions": 0,
       "scores": {
         "reader_question": 4.0,
@@ -142,8 +142,19 @@
       },
       "average": 3.88,
       "flags": [],
-      "words": 2849,
-      "minimum": 3.0
+      "words": 2821,
+      "minimum": 3.0,
+      "style": {
+        "words": 2821,
+        "banned_hits": {},
+        "ai_tell_hits": {},
+        "ai_tells_per_1000": 0.0,
+        "top_4gram": "then at devan and",
+        "top_4gram_count": 2,
+        "longest_paragraph_words": 86,
+        "em_dashes_per_1000": 0.0,
+        "reading_ease": 94.1
+      }
     },
     "06": {
       "status": "passed",
@@ -1307,9 +1318,13 @@
     {
       "at": "2026-10-21T07:21:59",
       "event": "done: S8 line edit ch 4"
+    },
+    {
+      "at": "2026-10-21T07:22:34",
+      "event": "done: S8 line edit ch 5"
     }
   ],
-  "updated_at": "2026-10-21T07:21:59",
+  "updated_at": "2026-10-21T07:22:34",
   "midpoint_chapter": 16,
   "continuity_attempts": 1,
   "continuity_last_errors": 2
