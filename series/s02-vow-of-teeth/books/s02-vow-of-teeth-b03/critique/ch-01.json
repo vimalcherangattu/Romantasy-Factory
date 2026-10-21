@@ -4,36 +4,38 @@
     "change": 4.0,
     "romance_movement": 4.0,
     "shown_chemistry": 4.0,
-    "character_logic": 4.0,
+    "character_logic": 3.0,
     "stakes_and_cost": 4.0,
     "prose": 3.0,
     "continuity": 0.0
   },
   "reasons": {
-    "reader_question": "The ending gives a specific gap: a queen's knife comes alone, with open hands, to a hunted Company. The beat's question lands cleanly.",
-    "change": "The value shift lands. Hidden safety becomes war at the door, the Company votes Devan down the hill, and the night-guard arrives.",
-    "romance_movement": "There is a new reason for the change: Neela admires Devan putting his fight to the Company's vote instead of to her or to rank.",
-    "shown_chemistry": "The brief hand between her shoulders, his crooked mouth and the exchanged look over her raised hand show the chemistry. One line, 'She loved the corner of his mouth', narrates it.",
-    "character_logic": "Devan asking the vote fits his arc. Choosing to go alone against a hundred is reckless, but he flags it himself.",
-    "stakes_and_cost": "The burning coast, Kirri fading and Devan alone in a forty-pace gorge all carry cost. The odds of the gorge stay abstract.",
-    "prose": "The prose is concrete and clean, with no banned phrases. Weak spots: Kamalakshi's 'laughed for the first time' line appears twice, 'rock-sized grief' is clunky, and 'fort and a seal and an iron disc' is redundant.",
-    "continuity": "'In eight years of watching men obey him' is impossible: she has known him under a year. 'She had never seen it' conflicts with her living at Nellimala until six. 'Middle-aged' contradicts First Guard being about Devan's age (F454)."
+    "reader_question": "The ending is a specific image: the queen's First Guard climbs alone with open hands and cuffs pulled down. The reader wants to know why.",
+    "change": "Safety turns to war. The treaty collapse is read aloud, the crown abandons the hills, and Devan takes the Company's leave to fight.",
+    "romance_movement": "The reason is new: Neela admires him putting his goal to the people it costs. 'I'll go either way' blunts it.",
+    "shown_chemistry": "Responsive beats land: the crooked mouth, a hand that doesn't stay, the look answered with her raised hand. Some realisation is narrated.",
+    "character_logic": "Devan says he'll go regardless, which makes the vote ornamental. Holding a gorge alone against a hundred reads as heroics, not command.",
+    "stakes_and_cost": "Stakes are personal: Thulasi's Pazhayangadi burned, Nellimala's bay, Kirri fading. Devan's descent costs the Company its only shield.",
+    "prose": "Mostly concrete and quick. Lapses: the wedding-cake anachronism, a muddled cuff beat, the confusing 'If the rains hold', a doubled 'Nobody spoke'.",
+    "continuity": "The odiyan count conflicts. Forty members plus Neela plus Vellan makes 42, but the text says 'Forty-one odiyans, herself and Vellan among them'."
   },
   "fixes": [
-    "'In eight years of watching men obey him': this is a continuity break, because Neela has known Devan for months, not years. Rewrite as 'In all the months she had watched men obey him' or 'In eight years, by his own count, he had not asked anyone's leave to fight.' This keeps the bible's eight-year no-strike history without giving her impossible years of witness.",
-    "'She had never seen it. She had never been told.' contradicts canon: she lived at Nellimala until six (F577). Change it to 'She had never seen it from above. Nobody had ever shown her.' so the body-memory clue survives. Separately, change 'a long plain face, middle-aged' to 'a long plain face, a few years past thirty' to match F454.",
-    "'the girl called Kamalakshi who had laughed for the first time' is a repetition: the same note appears in scene one. Cut the second instance and replace it with a fresh detail, such as Vellan's bird in her lap (F663). Also add one beat when the boy says 'Pazhayangadi's gone': let Neela see Thulasi, whose intake village it is (F563). That ties the coast to a named loved person, which fixes stakes without depth."
+    "'Forty-one odiyans, herself and Vellan among them' (continuity). The forty members plus Neela plus Vellan make forty-two, and the plank holds forty-one names without Vellan. Change it to 'Forty-two odiyans, herself and Vellan among them'. Have Thilak divide the cup into forty-two, or state that Vellan takes no share. Make sure the hand counts (26+11+4) add up to whichever number of voters you choose.",
+    "'I'll go either way, in the sense that' (irrational behaviour; weakens the romance beat). If he goes regardless, the vote isn't permission, and Neela's admiration rings hollow. Have him bind himself to the vote: 'If the hands say no, I sit by this fire and hate it.' Give him a reason beyond 'alone', such as Vellan or Thilak volunteering after. Then cut 'She understood something then that she had not had a word for...', since her raised hand already shows it.",
+    "'careful as a man cutting a wedding cake' (prose; wrong-world image). Replace it with a Malabar-hill image, such as 'careful as a man halving a pepper berry'. Also fix the end beat: 'let her cuffs fall to her knuckles' repeats a position the cuffs already hold. Make her let them ride back instead, so Neela sees the single pared seam at the wrist. That plants the night-guard reveal rather than the closing line telling it."
   ],
-  "reader_question": "Why has the queen's First Guard climbed alone to the Company's shelter, and has she come to bargain or to cage them?",
+  "reader_question": "Why has the queen's First Guard, a hidden odiyan herself, climbed alone to the Company's shelter just as the fleet lands, and is she there to bargain or to cage?",
   "techniques_landed": [
     1,
-    5,
-    6
+    5
   ],
-  "new_facts_assessment": "All seven facts are necessary and match canon: F358/F729 for the knot, F660 for the trees, F663 for Vellan's bird, F717 for Kamalakshi and F709 for Muthu's seal. Two risks remain. The count of forty-one plus Neela is unclear: is she inside the forty, or the forty-second? And the claim that she has never seen the bay must be limited to 'never from above', as the new-facts entry itself says, but the prose does not.",
+  "new_facts_assessment": "new-facts.json is empty, but the draft adds several facts. Pazhayangadi is burned and Kalladi is holding. A hundred raiders are on the road and the gorge is forty paces wide, three days off. The grandson's mother waits with the goats, Muthu reads the order from the stair, and Devan carries no sword. First Guard is 'a few years past thirty'. All are consistent and useful (Pazhayangadi ties to Thulasi, Kalladi to Vasu) and should be logged. Technique 6 is only partial: the odds of one man holding the gorge are asserted, not made credible.",
   "content_rule_violation": false,
-  "failure_modes": [],
-  "average": 3.38,
+  "failure_modes": [
+    "Irrational behaviour to extend plot",
+    "Narrated-only chemistry"
+  ],
+  "average": 3.25,
   "minimum": 0.0,
   "passed": false
 }
