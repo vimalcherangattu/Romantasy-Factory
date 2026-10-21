@@ -1,0 +1,42 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 3.0,
+    "stakes_and_cost": 4.0,
+    "prose": 4.0,
+    "continuity": 0.0
+  },
+  "reasons": {
+    "reader_question": "Clear and specific: can they reach the queen's thirty sold guards before the new-moon log exposes the forty's trail?",
+    "change": "Knowledge (thirty sold, guards are odiyans), power (the forty's vote) and partnership all shift by the end.",
+    "romance_movement": "A private partnership becomes a public vow under the forty's vote, and Devan inverts the 'at your back' promise. The reason is new.",
+    "shown_chemistry": "'You count slower', the two hot cups and 'You taught me that' show attraction through response, not narration.",
+    "character_logic": "Devan breaks the 'tell each other before we do it' term a day after making it. Vellan's scar account doesn't fit what Devan saw.",
+    "stakes_and_cost": "Refusing the spare flask, the new-moon deadline and the open vote all carry real costs.",
+    "prose": "Clean, concrete and dash-free, with good rhythm. Some summarising tells ('giving them the gift of it', 'made her throat tight').",
+    "continuity": "Bible puts the queen-witnessed-every-turning discovery at book 3's midpoint (ch16). This chapter reveals it here and builds Neela's dilemma on it."
+  },
+  "fixes": [
+    "At \"And she witnessed every one of their first turnings\": continuity conflict. The bible saves this discovery for book 3, ch16. Cut Vellan's lines about the queen witnessing turnings and Chathu bringing her. In the night scene, rewrite \"and she's a witness to every one\" so the dilemma rests on the pages alone: reading them back adds new witnesses; leaving them lets her cage any of the thirty.",
+    "At \"The scars are there, same as yours\": worldbuilding collapse. This contradicts the single smooth seam Devan saw on First Guard (F460). Have Vellan say the paste covers wrists and throat both, laid on thick each morning. What Devan saw as a seam was the paste's edge drying and cracking under the cuff. Keep Neela's cold realisation.",
+    "At \"It was not what they had agreed in the dark\": irrational behaviour. Ch31's first term was 'we tell each other what we're doing before we do it', and Devan breaks it the next day unremarked. Either show Devan's glance and her nod before he speaks, or have Neela name the breach afterwards ('You said before, not after') and let him answer it."
+  ],
+  "reader_question": "Can Neela and Devan free the queen's thirty sold night-guard before the new moon puts the forty's trail in the queen's hands, and at what cost to Varanad?",
+  "techniques_landed": [
+    26,
+    3,
+    20
+  ],
+  "new_facts_assessment": "F670 (lime-and-ochre paste) is useful but half-works: it explains the bare throat, but 'the scars are there, same as yours' contradicts F460's single smooth seam. F671 (standing vote, Devan at her back) is necessary and lands Book 2's question. It replaces F668 correctly, but 'not what they had agreed in the dark' undercuts ch31's terms. F672 is consistent with ch31, where Devan already knows of the stubs.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Irrational behaviour to extend plot",
+    "Contrived delays"
+  ],
+  "average": 3.38,
+  "minimum": 0.0,
+  "passed": false
+}
