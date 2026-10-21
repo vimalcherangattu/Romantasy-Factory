@@ -1,0 +1,39 @@
+{
+  "scores": {
+    "reader_question": 5.0,
+    "change": 4.0,
+    "romance_movement": 3.0,
+    "shown_chemistry": 3.0,
+    "character_logic": 4.0,
+    "stakes_and_cost": 4.0,
+    "prose": 4.0,
+    "continuity": 5.0
+  },
+  "reasons": {
+    "reader_question": "The open lock, the empty landing and the unhurried lamp all point at one sharp question: did the queen let her take it?",
+    "change": "Neela now holds thirty pages and twenty-two pledges, has lost eight guards, and has made herself the hunted one.",
+    "romance_movement": "Leads apart. The early thorn signal, the welt read as a hook and the late thumb move the bond indirectly but well.",
+    "shown_chemistry": "Shown only through the wound-share and the signal. No narrated feeling, but little new texture between them.",
+    "character_logic": "Smart throughout: she won't read names, leaves the lock as found and names the cost. But she ignores the trap when booking the dawn reading.",
+    "stakes_and_cost": "Costs land: new witnesses, Lata's refusal and 'I'll be the one she hunts'. The dawn reading is clearly priced.",
+    "prose": "Clean, concrete and quotable in places. The guard-change count is muddled, the value shift is named, and some lines repeat.",
+    "continuity": "Fits F830, F834, F849, F851, F858, F643 and F664. Ch 14 never registers her early thorns, but it doesn't conflict."
+  },
+  "fixes": [
+    "Spatial and count confusion at 'She reached ten in the dark and the post was empty'. The old pair goes down the lower flight and the relief 'came up the stair behind her', so she would walk into both. Put the relief post above (relief comes down from the palace) or send the old pair out by the water gate. Then count one clean line: sixty breaths, the last twelve bare, crossed in eleven.",
+    "Narrated value shift at 'the success of it was as hollow as a dropped shell'. This tells the beat's 'success -> hollow unease'. Cut it and show the feeling through action instead: she presses the pages flat against the welt and finds she has looked back at the palace window twice. Also cut the repeated 'She had told Chathu' line here, which already appears at the thorn prick.",
+    "Character logic at 'Tomorrow at dawn, in this shed, in daylight'. Neela has already called the stair too easy, yet she fixes the reading at a known shed. Move the 'Too easy' doubt before this line. Then have her change the dawn venue in front of the guards, or set Thilak and Pavi to watch the lane overnight. Her suspicion should cost or shape a choice."
+  ],
+  "reader_question": "Did the queen leave the chest open for Neela, and who is walking toward the empty chest now?",
+  "techniques_landed": [
+    6,
+    11,
+    14
+  ],
+  "new_facts_assessment": "All eight facts are necessary and consistent. The skiff, spray slot and fish wicket reconcile the rope climb with the stair. The thorn signal fits F812 and F857. The welt placement matches F849. The pages and margin bird match F664 and F575. The petitions in Nirmala's own hand fit the bible's habit for her. The 22/8 split matches the beat, and Lata's refusal gives the queen real loyalty. One concern: the early prick at half an hour before the gun should have reached Devan's thumb on the ch 14 climb. Ch 14 never notes it, so a later Devan scene should say he felt it and couldn't count it, as in F823.",
+  "content_rule_violation": false,
+  "failure_modes": [],
+  "average": 4.0,
+  "minimum": 3.0,
+  "passed": true
+}
