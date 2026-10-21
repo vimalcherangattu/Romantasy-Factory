@@ -1,24 +1,19 @@
 {
   "facts": [
     {
-      "category": "knowledge",
-      "fact": "The lowland runner (Varun's middleman) is a thin man with a bad left foot who drinks in the salt-road inns; Asha has seen him at a table with Varun.",
-      "since": "ch 28"
-    },
-    {
-      "category": "place",
-      "fact": "The salt road runs up behind the walnut terraces, over two spurs and down the dry side of Garh Neshar; it has not been warded in fifty winters and is illegal in nine places.",
-      "since": "ch 28"
-    },
-    {
-      "category": "knowledge",
-      "fact": "Pinku watched from the walnut tree when Meera hid the seal in the woodpile and told Nimmi at dusk.",
-      "since": "ch 28"
+      "category": "object",
+      "fact": "The brass button token was stitched into the spine of the count; Meera picks three binding stitches loose with her thumbnail and a tooth to free it, leaving the spine gaping.",
+      "since": "s03-bound-till-the-thaw-b01 ch 28"
     },
     {
       "category": "object",
-      "fact": "Asha's crew tied the lockhouse sentries' hands in the three-nested-loop knot matching the juniper bundle and the cairn carving; Meera notices it (count note 'Same as cairn') and Asha cuts her off with a look.",
-      "since": "ch 28"
+      "fact": "Crate marks on Meera's redbark drops: a bell scored through the stamp, then the stamp scraped off with a spoon in a left-handed scrape. Her page records ten winters of drops.",
+      "since": "s03-bound-till-the-thaw-b01 ch 28"
+    },
+    {
+      "category": "knowledge",
+      "fact": "Rohan, bound by his promise of no more questions, stops himself at 'May I' and rephrases as an offer; Meera notes 'nearly's free'.",
+      "since": "s03-bound-till-the-thaw-b01 ch 28"
     }
   ]
 }
