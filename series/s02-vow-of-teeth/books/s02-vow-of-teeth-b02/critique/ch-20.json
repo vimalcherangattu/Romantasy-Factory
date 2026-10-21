@@ -1,0 +1,42 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 3.0,
+    "stakes_and_cost": 3.0,
+    "prose": 3.0,
+    "continuity": 0.0
+  },
+  "reasons": {
+    "reader_question": "The closing line, the queen's bird on all his evidence, leaves a sharp, specific question about what Devan's case is now worth.",
+    "change": "She gains her name and village and learns the crown permitted the raid. Devan's high-court plan is suddenly compromised.",
+    "romance_movement": "They become co-victims of one crown, a new reason for closeness. The daylight naming returns her name without a leash.",
+    "shown_chemistry": "Strong responsive care: he asks which side she wants, warms the water and sits beside her. Pressed fingers say the rest.",
+    "character_logic": "Chathu hands over his best leverage before she returns the book, yet Neela calls it an offer. She never secures the breached gatepost.",
+    "stakes_and_cost": "She already holds the name, so burning the sweets refuses nothing. The defence of the groves is dropped after the opening.",
+    "prose": "Clean and concrete overall. Some told interiority ('She thought they both knew', the daylight explainer) and a stock 'not a leash, not a cage' pair.",
+    "continuity": "Conflicts with F565 (her slip already on the desk in ch18), F485/F552 (she read cipher before finding the key) and F446 (bird on three lines only)."
+  },
+  "fixes": [
+    "Continuity. At 'It was her slip. She knew it by the fastening-holes', reconcile with F565: either make ch18's desk slip the balance strip, or have Chathu return a different leaf. At 'She had found it at the back of the contract leaves', state that members' cipher is readable but the masters' cipher and marks are not. At 'Every line in it carries the bird', say only some lines carry it (F446).",
+    "Irrational behaviour. At 'What was always yours is under the sweets', Chathu gives away his leverage for free. Make the slip a down payment that names a cost: the note promises the rest (who sold her, or the other forty slips he kept) and threatens one named member if she refuses. Then tipping the tin into the fire becomes a costly choice, not a gesture.",
+    "Told interiority. Cut 'She knew why she was asking. Everything at the Resin House' and the explainer paragraph after it; let her open the shutter herself before asking. Replace 'It was not a leash. It was not a cage.' with one concrete sensation. Cut 'She did not say it, and he did not. She thought they both knew.' The fingers across his scars already carry it."
+  ],
+  "reader_question": "What can Devan still prove to the high court when the crown's own 'by leave' bird marks the raids in Ittan's tally book?",
+  "techniques_landed": [
+    3,
+    9,
+    20
+  ],
+  "new_facts_assessment": "Two arrows: necessary, and they reconcile ch19's welt neatly. Tin on the gatepost: necessary and consistent with F080/F234. Tally book carried in her wrap: harmless. Indu/Nellimala: matches the beat and bible. The cipher key 'found two nights ago' conflicts with Neela already reading guild cipher (F485, F552); specify it as a separate masters' cipher. The whole right-hand column bearing the bird contradicts F446 ('beside three lines'); reconcile or reword.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Irrational behaviour to extend plot",
+    "Stakes without depth"
+  ],
+  "average": 3.12,
+  "minimum": 0.0,
+  "passed": false
+}
