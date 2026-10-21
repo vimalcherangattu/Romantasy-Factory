@@ -1,0 +1,41 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 4.0,
+    "stakes_and_cost": 4.0,
+    "prose": 3.0,
+    "continuity": 0.0
+  },
+  "reasons": {
+    "reader_question": "Blistered palms under a black smoke column ask a sharp question: what is Devan holding in fire, and is he alive?",
+    "change": "Neela moves from private temptation to a public refusal to decide alone, bares her scars, and reframes Ammu's call.",
+    "romance_movement": "The leads are apart, yet her new fear of his vote, and the burn through the wound-share, move the bond in a new direction.",
+    "shown_chemistry": "Pebble memory and blisters are shown, not narrated. The reader knows Devan already answered, which gives the irony bite.",
+    "character_logic": "Her reasons hold: she won't ask thirty more to bleed. Charging 28 riders into unknown smoke is rash but in character.",
+    "stakes_and_cost": "The vote risks hearing Devan's gentle yes or no. The descent risks the riders, and his burning hands are hers.",
+    "prose": "Strong images ('a coin laid on a table'). Song and knot get muddled, 'or the hunger of them' is murky, and consecutive paragraphs open with 'She'.",
+    "continuity": "Biju is cited as a reason for a vote held before he appears. 'Thirty years' clashes with twenty years of sales. The no-smear order is misdated."
+  },
+  "fixes": [
+    "At 'for Kesu's people, for a boy in a red headcloth': continuity. The southward vote (F754) predates Biju (F801). Cut the boy or name a then-living stake. At 'Thirty years she hasn't caged one of us': sales ran twenty years (F715), so change it to 'twenty'. At 'It had been Devan's last order before she left': the order dates from the shelter (F746). Reword as 'Devan's standing order on the road'.",
+    "At 'But Ammu had given it on the nights': the reinterpretation is asserted, not earned. Anchor it in one concrete remembered night: the fever dawn of ch13, the empty cup, Ammu waiting rather than reporting. Let Neela see that Ammu called instead of acting alone. Then the yard call reads as Ammu's last refusal to let Neela choose by herself.",
+    "At 'From someone who heard it at a net-mender's knee': the song and the double hitch are conflated, and the reader loses which memory is being reread. Keep Neela's answer to Kuttu about the song only. Then make the knot thought explicit, e.g. 'Like the hitch. Ammu had said a net-mender taught them both.' Also rework 'The Thurai, or the hunger of them' and vary the paired 'She' paragraph openings at the stream."
+  ],
+  "reader_question": "What has Devan taken hold of in that fire with his bare hands, and is he still alive on the shelf?",
+  "techniques_landed": [
+    10,
+    15,
+    20
+  ],
+  "new_facts_assessment": "F890 (sealed strip spoken aloud) is a tidy, needed replacement for F887. F891's reading of the jackal call is consistent with F252 and F127 but rests on only two remembered instances, so it feels asserted. F892 attaches Biju to the vote that sent Neela south, which predates his appearance (F754 vs F801); revise. F893's long-table question custom is plausible and harmless.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Twists without setup"
+  ],
+  "average": 3.38,
+  "minimum": 0.0,
+  "passed": false
+}

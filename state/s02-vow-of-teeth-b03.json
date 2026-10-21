@@ -322,20 +322,22 @@
       "minimum": 3.0
     },
     "18": {
-      "status": "revised",
+      "status": "passed",
       "revisions": 2,
       "scores": {
         "reader_question": 4.0,
         "change": 4.0,
-        "romance_movement": 3.0,
-        "shown_chemistry": 3.0,
+        "romance_movement": 4.0,
+        "shown_chemistry": 4.0,
         "character_logic": 4.0,
         "stakes_and_cost": 4.0,
         "prose": 3.0,
         "continuity": 0.0
       },
-      "average": 3.12,
-      "flags": [],
+      "average": 3.38,
+      "flags": [
+        "needs-owner"
+      ],
       "words": 2568,
       "minimum": 0.0
     },
@@ -799,8 +801,12 @@
     {
       "at": "2026-10-21T13:44:18",
       "event": "done: S6 revise ch 18"
+    },
+    {
+      "at": "2026-10-21T13:45:58",
+      "event": "done: S5 critique ch 18"
     }
   ],
-  "updated_at": "2026-10-21T13:44:18",
+  "updated_at": "2026-10-21T13:45:58",
   "midpoint_chapter": 16
 }

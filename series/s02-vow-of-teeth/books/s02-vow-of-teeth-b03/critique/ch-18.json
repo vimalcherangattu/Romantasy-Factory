@@ -2,41 +2,40 @@
   "scores": {
     "reader_question": 4.0,
     "change": 4.0,
-    "romance_movement": 3.0,
-    "shown_chemistry": 3.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
     "character_logic": 4.0,
     "stakes_and_cost": 4.0,
     "prose": 3.0,
     "continuity": 0.0
   },
   "reasons": {
-    "reader_question": "Blistering palms and black smoke make 'what is Devan holding in fire, and is he alive' sharp and urgent.",
-    "change": "Neela moves from a private temptation to a Company vote, a clear value shift caused by Ammu's reread call.",
-    "romance_movement": "New reason: she fears his vote, not his refusal. It is mostly narrated in one paragraph rather than dramatised.",
-    "shown_chemistry": "Devan is absent; the only link is the burned palms. The fear-of-his-voice paragraph tells rather than shows.",
-    "character_logic": "Baring scars and refusing to decide alone fit Neela; the guards' arguments are motivated, and Lata's ride north rings true.",
-    "stakes_and_cost": "The offer's cost is honest on both sides; the ending puts Devan's body, and hers, at immediate risk.",
-    "prose": "Mostly concrete and clean. Some told rumination, the odd 'second, quieter horse' simile, and many 'She did not' sentence openings.",
-    "continuity": "Ammu's last jackal call was at the Resin House (F252), not above Kettamala; 'six years and a grave' conflicts with Ammu's recent death."
+    "reader_question": "Blistered palms under a black smoke column ask a sharp question: what is Devan holding in fire, and is he alive?",
+    "change": "Neela moves from private temptation to a public refusal to decide alone, bares her scars, and reframes Ammu's call.",
+    "romance_movement": "The leads are apart, yet her new fear of his vote, and the burn through the wound-share, move the bond in a new direction.",
+    "shown_chemistry": "Pebble memory and blisters are shown, not narrated. The reader knows Devan already answered, which gives the irony bite.",
+    "character_logic": "Her reasons hold: she won't ask thirty more to bleed. Charging 28 riders into unknown smoke is rash but in character.",
+    "stakes_and_cost": "The vote risks hearing Devan's gentle yes or no. The descent risks the riders, and his burning hands are hers.",
+    "prose": "Strong images ('a coin laid on a table'). Song and knot get muddled, 'or the hunger of them' is murky, and consecutive paragraphs open with 'She'.",
+    "continuity": "Biju is cited as a reason for a vote held before he appears. 'Thirty years' clashes with twenty years of sales. The no-smear order is misdated."
   },
   "fixes": [
-    "'She had heard it a last time on the hill above Kettamala': continuity break. Ammu's final call came at the Resin House before she drew Vellan off (F252). Make that the last hearing, with Neela in shape in the yard. Separately, replace 'across six years and a grave' with a span that fits, such as 'across a season and a grave'.",
-    "'Usha had read its single line to herself and never broken the seal again': internal contradiction with 'held the strip up unopened'. Either the queen speaks the line aloud at the Hill Gate where Neela hears it and the seal stays whole, or Usha breaks it once and shows the broken sunbird at the post. Then make the same change in new-facts.",
-    "'She was afraid of it. Not of a no.': narrated-only chemistry. Anchor the fear in one remembered Devan action: his flat 'yes' when the Company voted the sally, or the pebble in his cheek. Cut the abstract 'reading her own life in it' line. Also fix 'one of forty-two': earlier votes counted forty-two odiyans without Devan, and twenty-two guards now ride with them."
+    "At 'for Kesu's people, for a boy in a red headcloth': continuity. The southward vote (F754) predates Biju (F801). Cut the boy or name a then-living stake. At 'Thirty years she hasn't caged one of us': sales ran twenty years (F715), so change it to 'twenty'. At 'It had been Devan's last order before she left': the order dates from the shelter (F746). Reword as 'Devan's standing order on the road'.",
+    "At 'But Ammu had given it on the nights': the reinterpretation is asserted, not earned. Anchor it in one concrete remembered night: the fever dawn of ch13, the empty cup, Ammu waiting rather than reporting. Let Neela see that Ammu called instead of acting alone. Then the yard call reads as Ammu's last refusal to let Neela choose by herself.",
+    "At 'From someone who heard it at a net-mender's knee': the song and the double hitch are conflated, and the reader loses which memory is being reread. Keep Neela's answer to Kuttu about the song only. Then make the knot thought explicit, e.g. 'Like the hitch. Ammu had said a net-mender taught them both.' Also rework 'The Thurai, or the hunger of them' and vary the paired 'She' paragraph openings at the stream."
   ],
-  "reader_question": "What is Devan gripping in fire at the shelf, and will he survive it before she reaches him?",
+  "reader_question": "What has Devan taken hold of in that fire with his bare hands, and is he still alive on the shelf?",
   "techniques_landed": [
     10,
     15,
     20
   ],
-  "new_facts_assessment": "The Usha strip is useful but contradicts itself: she reads it, yet it stays 'unopened' and its seal is 'never broken again'; Neela also can't know the line. The net-mender inference fits F729/F790. The jackal reading 'don't decide without me' conflicts with draft fact F886 ('wait, I will be found'); retire one. Also unlisted: the question-for-a-question custom at the long table.",
+  "new_facts_assessment": "F890 (sealed strip spoken aloud) is a tidy, needed replacement for F887. F891's reading of the jackal call is consistent with F252 and F127 but rests on only two remembered instances, so it feels asserted. F892 attaches Biju to the vote that sent Neela south, which predates his appearance (F754 vs F801); revise. F893's long-table question custom is plausible and harmless.",
   "content_rule_violation": false,
   "failure_modes": [
-    "Endless monologue",
-    "Narrated-only chemistry"
+    "Twists without setup"
   ],
-  "average": 3.12,
+  "average": 3.38,
   "minimum": 0.0,
   "passed": false
 }
