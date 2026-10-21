@@ -3751,6 +3751,48 @@
       "fact": "Vellan in bear shape drags a hind leg: a drag and a step.",
       "since": "s02-vow-of-teeth-b02 ch 14",
       "provisional": true
+    },
+    {
+      "id": "F543",
+      "category": "object",
+      "fact": "The black book's iron box was riveted at the hinge side; Devan sheared the hinge rivets with the pry bar, leaving the padlock shut. The book is wrapped in greased cloth.",
+      "since": "s02-vow-of-teeth-b02 ch 15",
+      "provisional": true
+    },
+    {
+      "id": "F544",
+      "category": "injury",
+      "fact": "Neela is raked by the bear: claw lines across her back and flank. They show as shallow welts across Devan's back from left shoulder blade to right hip, plus the hook welt at his ribs from ch 14.",
+      "since": "s02-vow-of-teeth-b02 ch 15",
+      "provisional": true
+    },
+    {
+      "id": "F545",
+      "category": "plot",
+      "fact": "Bhaskaran's party was ordered to come at the House's alarm horn or at the lamp signal; a hunters' horn on the east wall sounds after the bear roars. Ten men come in: eight over the east wall with lamps and two through the drain grate.",
+      "since": "s02-vow-of-teeth-b02 ch 15",
+      "provisional": true
+    },
+    {
+      "id": "F546",
+      "category": "plot",
+      "fact": "Devan holds the book up to stop the hunters. Chathu offers to 'write the rest off' and then flees on foot to the wood with Vellan (still in bear shape, struck on the shoulder by Devan) and the hunters, who carry off the stunned one.",
+      "since": "s02-vow-of-teeth-b02 ch 15",
+      "provisional": true
+    },
+    {
+      "id": "F547",
+      "category": "knowledge",
+      "fact": "Devan orders Bhaskaran's men to face the gate at dawn and never to say what the animals are.",
+      "since": "s02-vow-of-teeth-b02 ch 15",
+      "provisional": true
+    },
+    {
+      "id": "F548",
+      "category": "object",
+      "fact": "Devan carried Neela's day cloth and the leaf packet of cold rice and curd inside his coat from the ridge; he holds the cloth out behind him with his back turned while she turns back.",
+      "since": "s02-vow-of-teeth-b02 ch 15",
+      "provisional": true
     }
   ],
   "knowledge": [
