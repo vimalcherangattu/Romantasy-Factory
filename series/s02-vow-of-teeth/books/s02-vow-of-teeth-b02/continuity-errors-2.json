@@ -3,90 +3,175 @@
     {
       "id": "E01",
       "chapter": 4,
-      "severity": "minor",
-      "category": "timeline",
-      "issue": "Devan says he has watched Muthu write grey-wax letters 'for a year'. Everywhere else he has seen them for six years: ch 8 counts six years of letters, ch 19 says Muthu 'had written to Kodiyur every month for six years', and ch 24 says 'For six years I let you carry grey letters'.",
-      "fix": "Change 'for a year' to 'for six years'.",
+      "severity": "major",
+      "category": "knowledge",
+      "issue": "In ch 4 Devan tells Neela he has 'watched him write grey-wax letters for six years' and concludes they are the queen's. That means he already knows the queen has been receiving letters for six years. In ch 8, Rema's thanks for 'six years of faithful letters' is presented as the reveal: 'He had guessed the palace. He had not guessed six years of it.' F501 also has him realise the six-year span only at that supper.",
+      "fix": "Remove the six-year span from Devan's ch 4 argument so the ch 8 reveal still lands.",
       "patches": [
         {
           "chapter": 4,
-          "find": "I've watched him write grey-wax letters for a year.",
-          "replace": "I've watched him write grey-wax letters for six years."
+          "find": "I've watched him write grey-wax letters for six years. They go with the palace rider.",
+          "replace": "I've watched him write grey-wax letters every month. They go with the palace rider."
         }
       ]
     },
     {
       "id": "E02",
-      "chapter": 5,
+      "chapter": 1,
       "severity": "minor",
       "category": "timeline",
-      "issue": "Neela says Janu told her about Devan's eight years without sparring 'in the second week'. In book 1 Janu told her this in ch 3, the day after the wedding, which is the first week (F047).",
-      "fix": "Change 'second week' to 'first week'.",
+      "issue": "The book counts the time since Ammu's death and Neela's binding too short. The binding was at the second dusk at the Resin House, followed by the return, Ittan's arrival two days later, the sealing, the vow and nine days of rain. That makes ch 1 about sixteen days after Ammu died, yet the text says 'Not two weeks dead'. In ch 7 (about five days later) Pachan correctly says 'three weeks ago'. In ch 14, about four weeks after the binding, the empty cage is called 'three weeks cold'.",
+      "fix": "Bring both counts in line with Pachan's 'three weeks' in ch 7.",
       "patches": [
         {
-          "chapter": 5,
-          "find": "Janu told me in the second week. Eight years.",
-          "replace": "Janu told me in the first week. Eight years."
+          "chapter": 1,
+          "find": "Ammu. Not two weeks dead, and her thumb of resin sat in the cord pouch against Neela's hip.",
+          "replace": "Ammu. Not three weeks dead, and her thumb of resin sat in the cord pouch against Neela's hip."
+        },
+        {
+          "chapter": 14,
+          "find": "This one held the shape of her, three weeks cold, kept for the day she was brought back.",
+          "replace": "This one held the shape of her, a month cold, kept for the day she was brought back."
         }
       ]
     },
     {
       "id": "E03",
-      "chapter": 7,
+      "chapter": 1,
       "severity": "minor",
-      "category": "knowledge",
-      "issue": "The narration says the words of the tappers' song 'had never come, not past the first verses'. Neela heard Ammu sing the last verse ('the name given back') in book 1 ch 20, and she recalls that line in ch 27 of this book. Read literally, the ch 7 line says she does not know it.",
-      "fix": "Make it clear she knows the last verse from Ammu.",
+      "category": "name",
+      "issue": "Ch 1 says Neela 'had been a name for nine days', which implies she only became 'Neela' recently. Elsewhere she has carried the name for years: Ammu called it across a courtyard (ch 32), and 'Neela is what I did with the years after' (ch 20). What is new since the vow is being a name in the open.",
+      "fix": "Make the line about being named publicly, not about having a name at all.",
       "patches": [
         {
-          "chapter": 7,
-          "find": "The words had never come, not past the first verses.",
-          "replace": "The words had never come back to her whole, only the first verses and the last, which Ammu had sung her once."
+          "chapter": 1,
+          "find": "She had been twenty-one years a number. She had been a name for nine days.",
+          "replace": "She had been twenty-one years a number. She had been a name in front of a whole household only since the vow."
         }
       ]
     },
     {
       "id": "E04",
-      "chapter": 25,
+      "chapter": 2,
       "severity": "minor",
-      "category": "object",
-      "issue": "The five Kettamala men outside the Resin House wall are described in 'Kettamala brown'. Every other description of the garrison has them in grey (ch 28 'Garrison grey', ch 29 and ch 30 'in their grey').",
-      "fix": "Change brown to grey.",
+      "category": "knowledge",
+      "issue": "In ch 2 Devan 'had never asked why' Neela keeps wide of the west stair. But ch 10, ch 16 and ch 22 (and F328, F518) all say he once asked her why she takes the turn on the eleventh step, and she answered 'I don't know'.",
+      "fix": "Have Devan remember asking once.",
       "patches": [
         {
-          "chapter": 25,
-          "find": "five men in Kettamala brown huddled round a cold fire",
-          "replace": "five men in Kettamala grey huddled round a cold fire"
+          "chapter": 2,
+          "find": "He had never asked why, and he did not ask now.",
+          "replace": "He had asked her once, about the eleventh step, and she had said she didn't know. He did not ask now."
         }
       ]
     },
     {
       "id": "E05",
-      "chapter": 25,
+      "chapter": 5,
       "severity": "minor",
-      "category": "knowledge",
-      "issue": "The narration says Devan 'had never seen that face by day'. In ch 7 he watched Vellan cross the Resin House yard in daylight from the ridge and said 'That's him'.",
-      "fix": "Allow for the earlier sighting, which was distant.",
+      "category": "injury",
+      "issue": "First Guard's 'left hand went to her left cuff and closed on it', but a hand cannot grip its own cuff. In ch 3 it is her right hand that closes on her left cuff over the wrist seam.",
+      "fix": "Change it to her right hand.",
       "patches": [
         {
-          "chapter": 25,
-          "find": "He had never seen that face by day, and he knew it, the way you know a stair in the dark.",
-          "replace": "He had seen that face by day only once, from a ridge, too far to read, and he knew it, the way you know a stair in the dark."
+          "chapter": 5,
+          "find": "Then her left hand went to her left cuff and closed on it, and stayed there.",
+          "replace": "Then her right hand went to her left cuff and closed on it, and stayed there."
         }
       ]
     },
     {
       "id": "E06",
-      "chapter": 32,
+      "chapter": 5,
       "severity": "minor",
-      "category": "injury",
-      "issue": "Vellan says the night-guard's wrist scars are 'there, same as yours'. In ch 2, First Guard's wrist shows a single smooth, flat seam, explicitly 'nothing like' Neela's layered ridges, and Neela repeats this in ch 32. Vellan explains the bare throat (paste) but not the smooth seam, so the clue does not resolve under the scar rule (F014).",
-      "fix": "Have Vellan explain why the wrist ridges show as a smooth seam.",
+      "category": "object",
+      "issue": "In ch 3 Eravi applies the salve 'with the tip of his little finger'. In ch 5 Neela recalls it as 'the salve on Eravi's thumb'.",
+      "fix": "Make the recall match ch 3.",
       "patches": [
         {
-          "chapter": 32,
-          "find": "The wrists they hide in cuffs. The scars are there, same as yours.",
-          "replace": "The wrists they hide in cuffs, and a palace surgeon pares the old ridges smooth, so a slipped cuff shows one seam. The scars are there under it, same as yours."
+          "chapter": 5,
+          "find": "The salve on Eravi's thumb had been the first.",
+          "replace": "The salve on Eravi's finger had been the first."
+        }
+      ]
+    },
+    {
+      "id": "E07",
+      "chapter": 16,
+      "severity": "minor",
+      "category": "relationship",
+      "issue": "Neela remembers Devan saying 'Find me in daylight' on the rampart while the resin was on her wrists. In book 1 she broke away and ran at the first burn on the rampart, and he said this to her afterward (F179, B1 ch 20).",
+      "fix": "Place the line after the rampart.",
+      "patches": [
+        {
+          "chapter": 16,
+          "find": "On the rampart, with resin on her wrists and her heart running, he had said only, *Find me in daylight, when you want it.*",
+          "replace": "After the rampart, when she had fled him with resin on her wrists and her heart running, he had said only, *Find me in daylight, when you want it.*"
+        }
+      ]
+    },
+    {
+      "id": "E08",
+      "chapter": 16,
+      "severity": "minor",
+      "category": "knowledge",
+      "issue": "Neela thinks Devan 'had never mentioned' filling her kindi. In book 1 ch 21 (F182) he told her he had filled it himself every night since the second week, spout toward the pillow because she reaches left-handed.",
+      "fix": "Acknowledge that he told her once.",
+      "patches": [
+        {
+          "chapter": 16,
+          "find": "He had never mentioned it, and she had never thanked him for it.",
+          "replace": "He had mentioned it only once, in the dark, and she had never thanked him for it."
+        }
+      ]
+    },
+    {
+      "id": "E09",
+      "chapter": 22,
+      "severity": "minor",
+      "category": "timeline",
+      "issue": "Janu scolds Neela for 'two nights in a wood'. Neela left Kettamala at first light on the raid day and returns about six nights later: the raid night, the days holding the House, and a day and a half on the road.",
+      "fix": "Change Janu's count to a week.",
+      "patches": [
+        {
+          "chapter": 22,
+          "find": "Two nights in a wood with men, and nobody thought to hand you a plate.",
+          "replace": "A week in a wood with men, and nobody thought to hand you a plate."
+        }
+      ]
+    },
+    {
+      "id": "E10",
+      "chapter": 23,
+      "severity": "minor",
+      "category": "timeline",
+      "issue": "Two day counts after the midpoint are off. Devan has avoided Neela's eyes since the ledger reading (ch 16), which is about five days before ch 23, not 'three days'. The arrow graze he has been warming cloth for happened at dawn in ch 20, about three days before ch 24, not 'four days'.",
+      "fix": "Correct both counts.",
+      "patches": [
+        {
+          "chapter": 23,
+          "find": "You haven't, for three days. Not properly.",
+          "replace": "You haven't, for five days. Not properly."
+        },
+        {
+          "chapter": 24,
+          "find": "You've been warming the cloth for it for four days.",
+          "replace": "You've been warming the cloth for it for three days."
+        }
+      ]
+    },
+    {
+      "id": "E11",
+      "chapter": 29,
+      "severity": "minor",
+      "category": "timeline",
+      "issue": "Devan tells the assize that 'last spring' a second token came off a raider's body. The narrows satchel and Bhaskaran's tally both date from this season, a few weeks before the rains. Neela was 'twenty-seven this spring' (ch 20).",
+      "fix": "Change it to 'This spring'.",
+      "patches": [
+        {
+          "chapter": 29,
+          "find": "Last spring a second came off a raider's body in the lower narrows.",
+          "replace": "This spring a second came off a raider's body in the lower narrows."
         }
       ]
     }

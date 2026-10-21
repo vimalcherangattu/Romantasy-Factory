@@ -2,246 +2,176 @@
   "open_errors": [
     {
       "id": "E01",
-      "chapter": 6,
+      "chapter": 4,
       "severity": "major",
-      "category": "magic",
-      "issue": "The count of Ammu's resin smears does not add up. Ch 1 sets two smears and plans to spend the first that night. Ch 2 says she kept both. Ch 6 says she spent one 'the night of the execution, on the ridge', but that night she sat at Rema's sitting and then stayed in the chamber while Devan wrote his letter (ch 5–6). Every other night from ch 2 to ch 6 she is shown human. Ch 7 then spends 'the last' smear, so one smear is never accounted for.",
-      "fix": "She spends the first smear on the night of ch 1 as planned, running the pass road and finding no one. Ch 6 refers back to that night.",
+      "category": "knowledge",
+      "issue": "In ch 4 Devan tells Neela he has 'watched him write grey-wax letters for six years' and concludes they are the queen's. That means he already knows the queen has been receiving letters for six years. In ch 8, Rema's thanks for 'six years of faithful letters' is presented as the reveal: 'He had guessed the palace. He had not guessed six years of it.' F501 also has him realise the six-year span only at that supper.",
+      "fix": "Remove the six-year span from Devan's ch 4 argument so the ch 8 reveal still lands.",
       "patches": [
         {
-          "chapter": 2,
-          "find": "He had left Neela asleep. When the langurs went silent at dusk she had judged no night run worth a smear with strangers on the road, and she had kept both.",
-          "replace": "He had left Neela asleep. When the langurs went silent at dusk she had spent the first smear anyway, as she had said she would, and run the road as the other one to see who walked it. She had come back to the ledge at grey light with nothing but wet fur: no scent on the road, no track, nobody."
-        },
-        {
-          "chapter": 6,
-          "find": "There's one smear of Ammu's resin left in the pouch. I spent the other the night of the execution, on the ridge, to see who walked the road. I'm keeping this one.",
-          "replace": "There's one smear of Ammu's resin left in the pouch. I spent the other the night the langurs went quiet, on the pass road, to see who walked it. I'm keeping this one."
+          "chapter": 4,
+          "find": "I've watched him write grey-wax letters for six years. They go with the palace rider.",
+          "replace": "I've watched him write grey-wax letters every month. They go with the palace rider."
         }
       ]
     },
     {
       "id": "E02",
-      "chapter": 9,
-      "severity": "major",
-      "category": "magic",
-      "issue": "The wound-share is used inconsistently. The bible and ch 5 say a cut passes and a bruise does not ('Nothing broke the skin, so nothing passed to him'). Later chapters break this: Muthu's sparring blow raises a bruise on Neela (ch 9), Chinna's light ladle rap raises a welt on Devan (ch 10), and in ch 31 a bite that only 'leaves a welt' passes to her shoulder.",
-      "fix": "Ch 9: the bruise stays on Devan alone. Ch 10 and ch 31: the blow or bite breaks the skin, so it can pass.",
+      "chapter": 1,
+      "severity": "minor",
+      "category": "timeline",
+      "issue": "The book counts the time since Ammu's death and Neela's binding too short. The binding was at the second dusk at the Resin House, followed by the return, Ittan's arrival two days later, the sealing, the vow and nine days of rain. That makes ch 1 about sixteen days after Ammu died, yet the text says 'Not two weeks dead'. In ch 7 (about five days later) Pachan correctly says 'three weeks ago'. In ch 14, about four weeks after the binding, the empty cage is called 'three weeks cold'.",
+      "fix": "Bring both counts in line with Pachan's 'three weeks' in ch 7.",
       "patches": [
         {
-          "chapter": 9,
-          "find": "Somewhere in the hall above, a woman he had left sleeping would be feeling the same blow bloom along her side. He hoped she'd stay asleep.",
-          "replace": "A bruise broke no skin, so the woman he had left sleeping in the hall above would feel none of it. He was glad of that."
+          "chapter": 1,
+          "find": "Ammu. Not two weeks dead, and her thumb of resin sat in the cord pouch against Neela's hip.",
+          "replace": "Ammu. Not three weeks dead, and her thumb of resin sat in the cord pouch against Neela's hip."
         },
         {
-          "chapter": 9,
-          "find": "Across her ribs, under the cloth, a bruise had come up the colour of a plum. He had counted it himself in the lamplight and said nothing. She had touched his side, in the same place, and said nothing back.",
-          "replace": "Across his own ribs, under the shirt, Muthu's bruise had come up the colour of a plum. She had seen it in the lamplight and said nothing. She had touched his side, once, where it lay, and said nothing more."
-        },
-        {
-          "chapter": 10,
-          "find": "Chinna's ladle came down across the knuckles of Neela's right hand, not hard, and a clean sting ran up to the wrist.",
-          "replace": "Chinna's ladle came down across the knuckles of Neela's right hand, and its iron rim nicked the skin over one knuckle, and a clean sting ran up to the wrist."
-        },
-        {
-          "chapter": 31,
-          "find": "she bit him on the shoulder, hard enough to leave a welt.",
-          "replace": "she bit him on the shoulder, hard enough to break the skin."
+          "chapter": 14,
+          "find": "This one held the shape of her, three weeks cold, kept for the day she was brought back.",
+          "replace": "This one held the shape of her, a month cold, kept for the day she was brought back."
         }
       ]
     },
     {
       "id": "E03",
-      "chapter": 11,
-      "severity": "major",
+      "chapter": 1,
+      "severity": "minor",
       "category": "name",
-      "issue": "The bible fixes it that Neela never says 'leopard' and calls her night-self 'the other one'. She says 'leopard' aloud in dialogue in ch 11 and again in ch 12.",
-      "fix": "Replace the spoken 'leopard' with 'the other one' in both places.",
+      "issue": "Ch 1 says Neela 'had been a name for nine days', which implies she only became 'Neela' recently. Elsewhere she has carried the name for years: Ammu called it across a courtyard (ch 32), and 'Neela is what I did with the years after' (ch 20). What is new since the vow is being a name in the open.",
+      "fix": "Make the line about being named publicly, not about having a name at all.",
       "patches": [
         {
-          "chapter": 11,
-          "find": "They don't know a leopard. They never smell one at the long table.",
-          "replace": "They don't know the other one. They never smell her at the long table."
-        },
-        {
-          "chapter": 12,
-          "find": "Tomorrow night I'm a leopard. I can't take anything from your hand.",
-          "replace": "Tomorrow night I'm the other one. I can't take anything from your hand."
+          "chapter": 1,
+          "find": "She had been twenty-one years a number. She had been a name for nine days.",
+          "replace": "She had been twenty-one years a number. She had been a name in front of a whole household only since the vow."
         }
       ]
     },
     {
       "id": "E04",
-      "chapter": 31,
-      "severity": "major",
-      "category": "name",
-      "issue": "The bible fixes it that Devan never lies to Neela. In ch 31 he says 'I'm not' when she tells him not to laugh, and the narration confirms that he was laughing.",
-      "fix": "He uses his refusal formula instead of a playful false denial.",
+      "chapter": 2,
+      "severity": "minor",
+      "category": "knowledge",
+      "issue": "In ch 2 Devan 'had never asked why' Neela keeps wide of the west stair. But ch 10, ch 16 and ch 22 (and F328, F518) all say he once asked her why she takes the turn on the eleventh step, and she answered 'I don't know'.",
+      "fix": "Have Devan remember asking once.",
       "patches": [
         {
-          "chapter": 31,
-          "find": "She said, \"Don't,\" and he said, \"I'm not,\" and he was.",
-          "replace": "She said, \"Don't,\" and he said, \"I won't answer that,\" and kept laughing."
+          "chapter": 2,
+          "find": "He had never asked why, and he did not ask now.",
+          "replace": "He had asked her once, about the eleventh step, and she had said she didn't know. He did not ask now."
         }
       ]
     },
     {
       "id": "E05",
-      "chapter": 12,
+      "chapter": 5,
       "severity": "minor",
-      "category": "timeline",
-      "issue": "In ch 12 the 'second' contract is the stair, and the stair is listed among the ten untold contracts. Ch 16 says the lookout night was no contract of hers (twelve summonses for twelve contracts, and the lookout came without one). Ch 18 gives the second contract as the magistrate.",
-      "fix": "Make the second contract the magistrate, and keep the stair apart from the eleven.",
+      "category": "injury",
+      "issue": "First Guard's 'left hand went to her left cuff and closed on it', but a hand cannot grip its own cuff. In ch 3 it is her right hand that closes on her left cuff over the wrist seam.",
+      "fix": "Change it to her right hand.",
       "patches": [
         {
-          "chapter": 12,
-          "find": "There was. It sat a long way down, a door at the end of a passage: a hill fort, a blindfold, a stair she couldn't see, and her own two feet planted at the bottom of it.",
-          "replace": "There was: a magistrate with a bad knee. And under all eleven, a long way down, sat another door at the end of a passage: a hill fort, a blindfold, a stair she couldn't see, and her own two feet planted at the bottom of it."
-        },
-        {
-          "chapter": 12,
-          "find": "A boy on a river barge, and the man who had paid to have him gone. And a stair, somewhere. A stair with a blindfold on.",
-          "replace": "A boy on a river barge, and the man who had paid to have him gone. And under them all, a stair that was no contract of hers, somewhere, with a blindfold on."
+          "chapter": 5,
+          "find": "Then her left hand went to her left cuff and closed on it, and stayed there.",
+          "replace": "Then her right hand went to her left cuff and closed on it, and stayed there."
         }
       ]
     },
     {
       "id": "E06",
-      "chapter": 20,
+      "chapter": 5,
       "severity": "minor",
       "category": "object",
-      "issue": "Neela's intake slip is in two places. In ch 6 (and book 1) Chathu pocketed her slip, which read 'Intake, sold at six years' plus two lines she could not read. In ch 20 a second torn 'desk slip' of hers appears on Chathu's desk with no setup, and the leaf under the sweets is said to be a different piece, though it carries exactly the same four lines.",
-      "fix": "Make the leaf under the sweets her own slip and drop the unexplained desk slip.",
+      "issue": "In ch 3 Eravi applies the salve 'with the tip of his little finger'. In ch 5 Neela recalls it as 'the salve on Eravi's thumb'.",
+      "fix": "Make the recall match ch 3.",
       "patches": [
         {
-          "chapter": 20,
-          "find": "It was not her slip. It was the rest of the roll leaf her slip had been cut from.",
-          "replace": "It was her slip, the intake leaf Chathu had covered with his thumb in the mud and carried off."
-        },
-        {
-          "chapter": 20,
-          "find": "The black book lay where she had left it. Beside it, under a river stone, lay her torn slip, with half its entry gone at the tear. She laid the new leaf against it, edge to edge. The brown tear met the brown tear and closed like a key in a lock. Neither of them spoke.",
-          "replace": "The black book lay where she had left it. She laid the leaf beside it and smoothed it flat with her palm. Neither of them spoke."
+          "chapter": 5,
+          "find": "The salve on Eravi's thumb had been the first.",
+          "replace": "The salve on Eravi's finger had been the first."
         }
       ]
     },
     {
       "id": "E07",
-      "chapter": 22,
+      "chapter": 16,
       "severity": "minor",
-      "category": "timeline",
-      "issue": "Ch 22 recalls reading Asha's leaf 'in the book's lamplight'. Ch 16 sets that reading in Chathu's room by daylight, in the rain.",
-      "fix": "Say daylight.",
+      "category": "relationship",
+      "issue": "Neela remembers Devan saying 'Find me in daylight' on the rampart while the resin was on her wrists. In book 1 she broke away and ran at the first burn on the rampart, and he said this to her afterward (F179, B1 ch 20).",
+      "fix": "Place the line after the rampart.",
       "patches": [
         {
-          "chapter": 22,
-          "find": "It was the same night she had seen in the book's lamplight, in the master's room in the wood.",
-          "replace": "It was the same night she had read by grey daylight, in the master's room in the wood."
+          "chapter": 16,
+          "find": "On the rampart, with resin on her wrists and her heart running, he had said only, *Find me in daylight, when you want it.*",
+          "replace": "After the rampart, when she had fled him with resin on her wrists and her heart running, he had said only, *Find me in daylight, when you want it.*"
         }
       ]
     },
     {
       "id": "E08",
-      "chapter": 26,
+      "chapter": 16,
       "severity": "minor",
       "category": "knowledge",
-      "issue": "Neela knows that Pavi tried the drain at noon and found two hunters on the grate. She has had no contact with Pavi or the shed party since arriving, and Devan's later order ('Take Pavi... if you can reach them') confirms there has been none.",
-      "fix": "She infers it from what she can see instead of reporting it.",
+      "issue": "Neela thinks Devan 'had never mentioned' filling her kindi. In book 1 ch 21 (F182) he told her he had filled it himself every night since the second week, spout toward the pillow because she reaches left-handed.",
+      "fix": "Acknowledge that he told her once.",
       "patches": [
         {
-          "chapter": 26,
-          "find": "\"Pavi tried. At noon, before we came, by the drain. It was pinned again and two hunters sat on the grate.\"",
-          "replace": "\"Pavi will have tried the drain the hour the gate shut. Look at it. It's pinned again, and two hunters are sitting on the grate.\""
+          "chapter": 16,
+          "find": "He had never mentioned it, and she had never thanked him for it.",
+          "replace": "He had mentioned it only once, in the dark, and she had never thanked him for it."
         }
       ]
     },
     {
       "id": "E09",
-      "chapter": 28,
+      "chapter": 22,
       "severity": "minor",
       "category": "timeline",
-      "issue": "Neela counts Vellan's steps to forty-one and stops. Devan then gives the count of the same steps as 'Seventeen'.",
-      "fix": "Devan gives the same count.",
+      "issue": "Janu scolds Neela for 'two nights in a wood'. Neela left Kettamala at first light on the raid day and returns about six nights later: the raid night, the days holding the House, and a day and a half on the road.",
+      "fix": "Change Janu's count to a week.",
       "patches": [
         {
-          "chapter": 28,
-          "find": "\"Seventeen,\" Devan said, still not turning.",
-          "replace": "\"Forty-one,\" Devan said, still not turning."
+          "chapter": 22,
+          "find": "Two nights in a wood with men, and nobody thought to hand you a plate.",
+          "replace": "A week in a wood with men, and nobody thought to hand you a plate."
         }
       ]
     },
     {
       "id": "E10",
-      "chapter": 30,
+      "chapter": 23,
       "severity": "minor",
       "category": "timeline",
-      "issue": "Ch 30 says Kandan called Neela a witch 'flat to her face at the barracks door, the week Raiu burned'. In ch 10 he said 'bewitched' to the barracks while she stood behind the door, and Raiu was by then 'not a month burned'.",
-      "fix": "Match ch 30 to the ch 10 scene.",
+      "issue": "Two day counts after the midpoint are off. Devan has avoided Neela's eyes since the ledger reading (ch 16), which is about five days before ch 23, not 'three days'. The arrow graze he has been warming cloth for happened at dawn in ch 20, about three days before ch 24, not 'four days'.",
+      "fix": "Correct both counts.",
       "patches": [
         {
-          "chapter": 30,
-          "find": "He had said it flat to her face at the barracks door, the week Raiu burned, with the scar white through his brow and his mother's lame leg in his voice.",
-          "replace": "He had said it in the barracks, loud enough for the far table, with her on the other side of the door and Raiu not a month burned. Then he had said worse to her face, with the scar white through his brow and his mother's lame leg in his voice."
+          "chapter": 23,
+          "find": "You haven't, for three days. Not properly.",
+          "replace": "You haven't, for five days. Not properly."
+        },
+        {
+          "chapter": 24,
+          "find": "You've been warming the cloth for it for four days.",
+          "replace": "You've been warming the cloth for it for three days."
         }
       ]
     },
     {
       "id": "E11",
-      "chapter": 32,
+      "chapter": 29,
       "severity": "minor",
-      "category": "place",
-      "issue": "Ch 32 says Neela read 'Sell to the crown when spent' aloud 'in the shed'. Ch 27 has her read it at the blackbark tree in the wood, before dawn.",
-      "fix": "Place the reading at the blackbark tree.",
+      "category": "timeline",
+      "issue": "Devan tells the assize that 'last spring' a second token came off a raider's body. The narrows satchel and Bhaskaran's tally both date from this season, a few weeks before the rains. Neela was 'twenty-seven this spring' (ch 20).",
+      "fix": "Change it to 'This spring'.",
       "patches": [
         {
-          "chapter": 32,
-          "find": "in plain ink on Vellan's leaf, and she had read it aloud in the shed.",
-          "replace": "in plain ink on Vellan's leaf, and she had read it aloud under the blackbark tree."
-        }
-      ]
-    },
-    {
-      "id": "E12",
-      "chapter": 1,
-      "severity": "minor",
-      "category": "object",
-      "issue": "Ch 1 says Ittan's tally book is written 'in a clerk's cramped hand'. Ch 21 says it is in Ittan's own hand ('the tally book in the Keeper's own hand').",
-      "fix": "Make it Ittan's hand in ch 1.",
-      "patches": [
-        {
-          "chapter": 1,
-          "find": "And the small tally book from the false-bottomed chest, forty leaves in a clerk's cramped hand.",
-          "replace": "And the small tally book from the false-bottomed chest, forty leaves in Ittan's own cramped hand."
-        }
-      ]
-    },
-    {
-      "id": "E13",
-      "chapter": 5,
-      "severity": "minor",
-      "category": "place",
-      "issue": "Devan says he saw First Guard's wrist mark 'in the hall'. Ch 2 has her cuff ride up at the padippura gate.",
-      "fix": "Say the gate.",
-      "patches": [
-        {
-          "chapter": 5,
-          "find": "\"She has a lamp-burn on that wrist. I saw it in the hall.\"",
-          "replace": "\"She has a lamp-burn on that wrist. I saw it at the gate.\""
-        }
-      ]
-    },
-    {
-      "id": "E14",
-      "chapter": 17,
-      "severity": "minor",
-      "category": "object",
-      "issue": "Rema's note from Kettamala is sealed in 'the fort's grey wax'. Grey wax is Muthu's private stick, and ch 6 says the warden's wax is red.",
-      "fix": "Seal the note in the fort's red wax.",
-      "patches": [
-        {
-          "chapter": 17,
-          "find": "with the fort's grey wax on it",
-          "replace": "with a blob of the fort's red wax on it"
+          "chapter": 29,
+          "find": "Last spring a second came off a raider's body in the lower narrows.",
+          "replace": "This spring a second came off a raider's body in the lower narrows."
         }
       ]
     }

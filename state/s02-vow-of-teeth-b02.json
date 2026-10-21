@@ -1903,12 +1903,20 @@
     {
       "at": "2026-10-21T08:23:46",
       "event": "done: S7 continuity"
+    },
+    {
+      "at": "2026-10-21T08:33:58",
+      "event": "continuity round 2: 11 errors, 13 patches applied, 0 to revise"
+    },
+    {
+      "at": "2026-10-21T08:33:58",
+      "event": "done: S7 continuity"
     }
   ],
-  "updated_at": "2026-10-21T08:23:46",
+  "updated_at": "2026-10-21T08:33:58",
   "midpoint_chapter": 16,
-  "continuity_attempts": 1,
-  "continuity_last_errors": 4,
+  "continuity_attempts": 2,
+  "continuity_last_errors": 1,
   "package": {
     "problems": [],
     "epubcheck": true,
