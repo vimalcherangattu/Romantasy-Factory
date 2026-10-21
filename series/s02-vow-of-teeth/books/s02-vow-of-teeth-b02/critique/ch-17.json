@@ -1,0 +1,41 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 4.0,
+    "stakes_and_cost": 3.0,
+    "prose": 3.0,
+    "continuity": 5.0
+  },
+  "reasons": {
+    "reader_question": "Clear and specific: what will he do with eleven contracts, and what else was she? The final leaf turning sharpens it.",
+    "change": "His ease is gone and his care stays. The quire stays with him, and he commits to judging by all eleven, not one leaf.",
+    "romance_movement": "The new reason is her complicity at Asha's death. His withdrawal is honest, brief and disciplined, never punishment, as the beat asks.",
+    "shown_chemistry": "Care lives in acts: the spout-left water pot, the mat away from the door, the salve, sleeping across the sill. Her reading of the pebble is excellent.",
+    "character_logic": "Smart and in voice. The 'I won't answer that' comes after he has already turned to look, which muddles what he refuses.",
+    "stakes_and_cost": "The quire-versus-wife dilemma is stated, but the delay costs nothing concrete. No deadline from Rema, no risk named for waiting.",
+    "prose": "Strong refrain and restraint. Logic slips weaken it: a coat simile used twice, 'unstoppered window', and skinned knuckles from a drill that never touches wood.",
+    "continuity": "Consistent with the ford, the welts, the pebble (F327), the kindi spout, the closing writ, Raghu's lane and the eleven contracts."
+  },
+  "fixes": [
+    "At \"He turned his head and looked at her\": the order breaks the beat's logic, because he refuses to answer after he has already looked. Keep his eyes on the post through her question. Have him say \"I won't answer that\" to the wood. Let him turn and meet her eyes only on \"I'm not leaving,\" so the look becomes a chosen gift, not a contradiction.",
+    "At \"knuckles skinned from a drill that had touched nothing\": this contradicts the drill that stops short of the post. Change it to rope-burn from the shaft or the pry bar. Also fix three slips. Replace \"He had watched her keep that exact distance... in a story she had told him\" with \"She had told him once of keeping that distance.\" Change \"unstoppered window\" to \"unshuttered.\" Clarify \"given her the number of doors.\"",
+    "At \"He stood the afternoon watch himself at the gate\": the delay is costless. Have Bhaskaran bring word that Rema expects the book within two days, or ask outright when it goes south. Devan's answer then puts his own honesty to the court at visible risk. Add one beat of the parrot newel in his memory so the title \"The Broken Beak\" earns its place."
+  ],
+  "reader_question": "Once Devan has heard all eleven of Neela's contracts, will he take the leaf naming her to Rema's court, and what else has she been?",
+  "techniques_landed": [
+    9,
+    15,
+    25
+  ],
+  "new_facts_assessment": "The pebble at dusk without resin is necessary and consistent with F175 and F327. The drill made at twenty-five fits the ford timeline; its category should be knowledge, not name. Pavi's green salve smelling of scorched tamarind echoes Eravi's salve (F462), so keep the two distinct or cut one. The plot fact is consistent. Unlisted additions to log: Asha's note kept under a cut wax seal in the carved box (the seal was in his sleeve per F071), and the open-passage order to Bhaskaran.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Stakes without depth"
+  ],
+  "average": 3.88,
+  "minimum": 3.0,
+  "passed": true
+}
