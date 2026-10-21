@@ -3,7 +3,7 @@
   "series_id": "s02-vow-of-teeth",
   "number": 2,
   "title": "Oath of Claws",
-  "status": "in_progress",
+  "status": "blocked",
   "stage": "S3",
   "done": [
     "S3"
@@ -600,7 +600,9 @@
   },
   "chapter_count": 32,
   "flags": [],
-  "errors": [],
+  "errors": [
+    "1 major continuity errors remain after 2 fix round(s): ch 24: The slip 'Say nothing, and your wife is kept' threatened Ittan's invalid wife (ch 9: 'His wife's an invalid... so long as he kept quiet'). Chapters 19 and 24 treat it as a threat against Muthu's own wife. Muthu has no wife anywhere in the bible or the books."
+  ],
   "revision_round": 0,
   "asin": null,
   "created_at": "2026-10-19T17:42:11",
@@ -1219,9 +1221,13 @@
     {
       "at": "2026-10-21T02:24:06",
       "event": "done: S7 continuity"
+    },
+    {
+      "at": "2026-10-21T02:34:08",
+      "event": "blocked at S7 continuity: 1 major continuity errors remain after 2 fix round(s): ch 24: The slip 'Say nothing, and your wife is kept' threatened Ittan's invalid wife (ch 9: 'His wife's an invalid... so long as he kept quiet'). Chapters 19 and 24 treat it as a threat against Muthu's own wife. Muthu has no wife anywhere in the bible or the books."
     }
   ],
-  "updated_at": "2026-10-21T02:24:06",
+  "updated_at": "2026-10-21T02:34:08",
   "midpoint_chapter": 16,
   "continuity_attempts": 2,
   "continuity_last_errors": 1
