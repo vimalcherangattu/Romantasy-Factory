@@ -1,41 +1,41 @@
 {
   "scores": {
-    "reader_question": 4.0,
+    "reader_question": 5.0,
     "change": 4.0,
-    "romance_movement": 3.0,
+    "romance_movement": 4.0,
     "shown_chemistry": 3.0,
-    "character_logic": 3.0,
-    "stakes_and_cost": 3.0,
+    "character_logic": 4.0,
+    "stakes_and_cost": 4.0,
     "prose": 3.0,
     "continuity": 0.0
   },
   "reasons": {
-    "reader_question": "Missed noon signal plus the noon gun gives a sharp, one-sentence question; the final line about screaming lands it.",
-    "change": "Devan lets a man guard his back, puts a sally to an open vote, and loses the village anyway. His state clearly shifts.",
-    "romance_movement": "Leads are apart. The late thumb-prick and his fear for her move the bond, but the reason is mostly the existing noon ritual.",
-    "shown_chemistry": "The three pricks, the leopard tooth and Ponni's question show the bond. 'He wished, absurdly' tips into narrated longing.",
-    "character_logic": "Smart vote and costing. But he stitches a flank wound running toward his back himself, and Vellan says his shape aloud casually.",
-    "stakes_and_cost": "He states one-in-three odds for the fifteen, then never reports their fate. The named cost evaporates.",
-    "prose": "No banned phrases and lean, concrete action. There are muddled lines ('spend one of them', 'burn like a book'), a confused 'Lower' attribution and over-insistent counting.",
-    "continuity": "'Bleeding in the wrong place' conflicts with F627/F265: the partner gets a hot weeping welt that does not open."
+    "reader_question": "The ending poses a specific, urgent question: did his hook-wound welt open on Neela mid-stair under the noon gun?",
+    "change": "The village is lost but thirty-two are saved. Devan lets a man guard his back, and the wound-share now endangers Neela.",
+    "romance_movement": "Leads are apart, but he chooses the line knowing it costs her. The late 'Alive' prick is a new, costly act of care.",
+    "shown_chemistry": "The thumb prick and Ponni hunting his face for Neela's work well. The rest is told through Devan's reasoning, not shown.",
+    "character_logic": "Open vote, named costs and the admitted mistake of turning toward the rope all fit. Turning his back on the turnings is apt.",
+    "stakes_and_cost": "Resin, the wall and the odds are priced up front. But no one is lost, which softens the cost of the next sally.",
+    "prose": "Mostly lean and concrete. Some lines garble ('a hook for a billhook', 'Raman had died in single file'), and the counting motif is overused.",
+    "continuity": "The fifteen climb the cut 'at grey' yet turn back near the village at grey (F844). The two-hour path conflicts with F822's half day."
   },
   "fixes": [
-    "'was bleeding in the wrong place at the wrong hour' is a continuity error: the wound-share raises a hot, shallow, weeping welt on the partner that does not open (F627, F265). Change it to 'a welt was rising hot along her ribs in the wrong place at the wrong hour'. Also check that 'something has torn you open' reads as how the pain feels, not as a real wound.",
-    "'falling back one by one to wait for the turn' fails technique 6. The fifteen vanish after Devan names one-in-three odds, and nothing reports their fate. On the shelf, have Kamalakshi give the count of how many shapes came back up the cut, with a concrete cost: a named loss chalked on Kandan's tile, or all fifteen shaking with the dawn hunger and one lamed. Devan counts them as well as the villagers.",
-    "'\"Lower,\" said Vellan... \"Lower,\" he agreed' has muddled attribution, and 'A bear is good at lanes' has Vellan naming his shape aloud before Kandan's men, which odiyans never do. Rewrite: Devan answers 'Lower, then.' Vellan: 'I'd go anyway. I'm good at lanes.' Also cut 'a hundred other worries. He did not have the right to spend one of them.' for a clear line: 'He did not have one to spare.'"
+    "At \"Fifteen came up the cut at grey, one behind\": this is a continuity break. They turned back at first light in the thorn below the village (F844), so they cannot reach the shelf at grey. Change it to \"Fifteen came up the cut at mid-morning, in what blankets they'd found\". Note that they climbed human, naked and shaking, by the back of the cut, and update F852 to match.",
+    "At \"the goat path was a good two hours\": this conflicts with F822, which puts Kesu's village half a day below the shelf. Make it \"the goat path was half a day up and a hard two hours down in the dark\". Keep \"They climbed all morning\" so the slow climb back with the elderly fits the half-day distance.",
+    "At \"one chance in three that we all climb back\": the stated odds are beaten with zero loss, which undercuts technique 6 and future suspense. Keep everyone alive if the outline requires it, but make Thulasi's hoof cost the wall: she cannot hold human with a spear, so tomorrow's shelf is sixteen hands thinner. Also rewrite the garbled \"a hook for a billhook\" line as plain speech."
   ],
-  "reader_question": "Will the hook-wound welt rising on Neela at the noon gun give her away on the queen's sea stair?",
+  "reader_question": "Did Devan's hook wound rise on Neela's ribs while she was on the sea stair under the noon gun, and did she cry out?",
   "techniques_landed": [
     13,
     14
   ],
-  "new_facts_assessment": "Most facts are necessary and consistent: the 20–16 vote fits the 36 odiyans, the mill-ford horse lines, the boarding hook, nine stitches and the tooth prick. 'Where the city was loudest' is plausible, though ch13 treats noon as news to Neela. The rescued count of thirty-one undercuts the beat's 'Kesu, Ponni and thirty'. 'Half a day for a cart' on a goat path is implausible. The fifteen odiyans' return is unrecorded and must be stated.",
+  "new_facts_assessment": "F853 (thirty-two rescued) is necessary and matches the text. F852's 'came back up the cut at grey' contradicts F844 and the chapter's own scene of the shapes waiting out the light at the village edge. The odiyans would turn back human there, two or more hours below the shelf. Thulasi's hoof injury is a useful cost; keep it.",
   "content_rule_violation": false,
   "failure_modes": [
-    "Stakes without depth",
-    "Irrational behaviour to extend plot"
+    "Probable-but-Uncertain fails: hero beats stated odds",
+    "Worldbuilding collapse (turning-back logistics)"
   ],
-  "average": 2.88,
+  "average": 3.38,
   "minimum": 0.0,
   "passed": false
 }
