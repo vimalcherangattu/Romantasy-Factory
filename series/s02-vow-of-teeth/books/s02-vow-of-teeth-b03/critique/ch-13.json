@@ -2,40 +2,38 @@
   "scores": {
     "reader_question": 4.0,
     "change": 4.0,
-    "romance_movement": 3.0,
-    "shown_chemistry": 2.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 3.0,
     "character_logic": 4.0,
     "stakes_and_cost": 4.0,
     "prose": 4.0,
     "continuity": 5.0
   },
   "reasons": {
-    "reader_question": "Sharp closing doubt: did 'Not yet' shelter or sell her? Usha's missing two knocks adds a second specific question.",
-    "change": "She gains the route, the ink clue and the queen's forty request, and moves from refusing Chathu's gifts to owing him by choice.",
-    "romance_movement": "Leads apart. The vow to tell Devan before paying is new, but it lives in one interior paragraph and changes nothing on the page.",
-    "shown_chemistry": "Devan appears only as a thought and a distance. No responsive act links them in this chapter.",
-    "character_logic": "Neela reads the route as the queen's gift and weighs the gift's arithmetic. Hiding behind the door is quick and credible.",
-    "stakes_and_cost": "Taking the sweet is a priced choice. The noon gun clashing with the noon thorns is seeded but never weighed as a cost.",
-    "prose": "Concrete and controlled, and the bill passage is quotable. Pity is named outright, 'turned that over' repeats, and the weight-loss line is hyperbole.",
-    "continuity": "No hard conflict with the bible or the facts, but the sea stair's geometry and Chathu's 'four nights' timeline need tightening."
+    "reader_question": "The ending poses the beat's question exactly. The noon-versus-thorns dilemma rides alongside it. 'Both always had been' explains slightly too much.",
+    "change": "She leaves holding the route and a chosen debt. The noon gun now costs Devan's daily word. Chathu's loyalty is newly unreadable.",
+    "romance_movement": "Leads apart, but the noon gun turns the private thorn bargain into the price of the mission. She takes a debt alone for the first time.",
+    "shown_chemistry": "No Devan on the page. The bond shows only through her imagining him on his rock. Chathu's tension is shown well, through the blanket and his following eyes.",
+    "character_logic": "Taking the sweet is reasoned and costly, and hiding behind the door is smart. Her resolve to tell Devan 'to his face' four days away doesn't parse.",
+    "stakes_and_cost": "Climbing under the gun means Devan gets silence that could read as death. The debt is named and sized. The steward threatens her immediately.",
+    "prose": "Strong, quotable lines. Flaws: several consecutive 'She' paragraph openings, 'mild' used three times, stacked similes (stone in a well, splinter, coin) and a muddled stair line.",
+    "continuity": "Consistent with the tins (F080, F234), the paddle (F444), Chathu's foot (F237), the lock at fourteen (F240), Kirri's page (F792), the thorns and Kodiyur's distance."
   },
   "fixes": [
-    "At '*I'll tell Devan,* she thought. *Before I pay it.*' the romance turn is narrated only. Bind the debt to Devan through the noon clash Chathu set up. A noon-gun climb means missing the three thorns, so Devan gets no 'alive' that day. Let her see this aloud or in one hard line and choose. The debt then costs him, not just her.",
-    "At 'It leads from the lower cells to the water gate' (ch12) against 'The water gate lay at the foot of the rock', the stair geometry is ambiguous. Either align Chathu's description, or have Neela notice that his halfway landing sits where Usha's did not and file it as a lie or a trap. Also change 'Since I came' to 'These four nights past'.",
-    "At 'She felt pity. It rose in her like sickness' the beat is told. Show it in an act she stops: her hand going to pull the blanket over his uneven foot, then halting. Cut the second 'turned that over too'. Change 'lost half a body's worth of weight' to a plausible loss, such as 'had lost the softness he'd had at the Resin House'."
+    "'I'll say it to his face before I pay you anything. Not you. Me.' Character logic: Devan is four days away, so 'to his face' is impossible and 'Not you. Me.' is garbled. It also replays 'You've picked the one hour I can't spend.' Cut the accusation. Replace it with a clear resolve the beat asks for: she will get word to Devan herself, by Usha's rider or the next thorns, before she climbs. Chathu's 'Then you will have to say it soon' then lands.",
+    "'It was one stair, named from its other end.' Worldbuilding clarity: in ch12 Usha said the sea stair runs from the lower cells to the water gate. Here the cells and the water gate share one passage and the stair climbs from the gate. Rewrite in one plain sentence. For example: Usha had named the landing from below, Chathu from above, and it was the same flight.",
+    "'She looked at the tin.' / 'She had known it was there' Repetition: consecutive paragraphs open with 'She' here, at 'She turned to the door' / 'She had taken a debt', and elsewhere. 'Mild' is used for Chathu three times. Vary the openings, keep one 'mild', and cut one of the stone-in-a-well, splinter and coin similes."
   ],
-  "reader_question": "When Chathu told the queen's steward 'Not yet', was he protecting Neela or marking her for sale, and why did Usha never knock?",
+  "reader_question": "Has Chathu just protected Neela from the queen's steward, or sold her?",
   "techniques_landed": [
     7,
     11,
     20
   ],
-  "new_facts_assessment": "Chathu's four evenings at the queen's table is needed: it explains how he knows the route and shows it as the queen's gift. But 'Since I came... each evening' implies he arrived four days ago, while Rema sent him south weeks back. State that the summons began four nights ago. The water gate at the end of the cell passage is needed, but it must be reconciled with Usha's ch12 line 'It leads from the lower cells to the water gate' and its halfway landing. Usha's boots are harmless.",
+  "new_facts_assessment": "new-facts.json is empty but should not be. Mani, the 104 steps, the sea-stair route, the red lacquer chest, noon audience, the steward's list, common ink and the weeping for Ammu are all new. All are already logged as F832 to F843 and consistent. The grey-cloaked steward ties neatly to F791, F793 and F829. The pipeline should list these facts.",
   "content_rule_violation": false,
-  "failure_modes": [
-    "Romance buried by plot"
-  ],
-  "average": 3.75,
-  "minimum": 2.0,
-  "passed": false
+  "failure_modes": [],
+  "average": 4.0,
+  "minimum": 3.0,
+  "passed": true
 }

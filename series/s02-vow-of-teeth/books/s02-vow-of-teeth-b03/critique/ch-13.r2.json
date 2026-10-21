@@ -1,0 +1,39 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 3.0,
+    "character_logic": 4.0,
+    "stakes_and_cost": 4.0,
+    "prose": 4.0,
+    "continuity": 5.0
+  },
+  "reasons": {
+    "reader_question": "The ending poses the beat's question exactly. The noon-versus-thorns dilemma rides alongside it. 'Both always had been' explains slightly too much.",
+    "change": "She leaves holding the route and a chosen debt. The noon gun now costs Devan's daily word. Chathu's loyalty is newly unreadable.",
+    "romance_movement": "Leads apart, but the noon gun turns the private thorn bargain into the price of the mission. She takes a debt alone for the first time.",
+    "shown_chemistry": "No Devan on the page. The bond shows only through her imagining him on his rock. Chathu's tension is shown well, through the blanket and his following eyes.",
+    "character_logic": "Taking the sweet is reasoned and costly, and hiding behind the door is smart. Her resolve to tell Devan 'to his face' four days away doesn't parse.",
+    "stakes_and_cost": "Climbing under the gun means Devan gets silence that could read as death. The debt is named and sized. The steward threatens her immediately.",
+    "prose": "Strong, quotable lines. Flaws: several consecutive 'She' paragraph openings, 'mild' used three times, stacked similes (stone in a well, splinter, coin) and a muddled stair line.",
+    "continuity": "Consistent with the tins (F080, F234), the paddle (F444), Chathu's foot (F237), the lock at fourteen (F240), Kirri's page (F792), the thorns and Kodiyur's distance."
+  },
+  "fixes": [
+    "'I'll say it to his face before I pay you anything. Not you. Me.' Character logic: Devan is four days away, so 'to his face' is impossible and 'Not you. Me.' is garbled. It also replays 'You've picked the one hour I can't spend.' Cut the accusation. Replace it with a clear resolve the beat asks for: she will get word to Devan herself, by Usha's rider or the next thorns, before she climbs. Chathu's 'Then you will have to say it soon' then lands.",
+    "'It was one stair, named from its other end.' Worldbuilding clarity: in ch12 Usha said the sea stair runs from the lower cells to the water gate. Here the cells and the water gate share one passage and the stair climbs from the gate. Rewrite in one plain sentence. For example: Usha had named the landing from below, Chathu from above, and it was the same flight.",
+    "'She looked at the tin.' / 'She had known it was there' Repetition: consecutive paragraphs open with 'She' here, at 'She turned to the door' / 'She had taken a debt', and elsewhere. 'Mild' is used for Chathu three times. Vary the openings, keep one 'mild', and cut one of the stone-in-a-well, splinter and coin similes."
+  ],
+  "reader_question": "Has Chathu just protected Neela from the queen's steward, or sold her?",
+  "techniques_landed": [
+    7,
+    11,
+    20
+  ],
+  "new_facts_assessment": "new-facts.json is empty but should not be. Mani, the 104 steps, the sea-stair route, the red lacquer chest, noon audience, the steward's list, common ink and the weeping for Ammu are all new. All are already logged as F832 to F843 and consistent. The grey-cloaked steward ties neatly to F791, F793 and F829. The pipeline should list these facts.",
+  "content_rule_violation": false,
+  "failure_modes": [],
+  "average": 4.0,
+  "minimum": 3.0,
+  "passed": true
+}
