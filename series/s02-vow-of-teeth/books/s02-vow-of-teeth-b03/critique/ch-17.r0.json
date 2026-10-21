@@ -1,0 +1,41 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 3.0,
+    "character_logic": 4.0,
+    "stakes_and_cost": 4.0,
+    "prose": 3.0,
+    "continuity": 0.0
+  },
+  "reasons": {
+    "reader_question": "The tower threat and the unnamed river animal leave a sharp double question, and the yellow bird adds a third.",
+    "change": "Devan gives up the office he wanted, binds himself in writing before a witness, and summons Rema. The power shift is clear.",
+    "romance_movement": "He refuses the fort for her sake and breaks their term in doing it. The reason is new and a repair is owed.",
+    "shown_chemistry": "The hidden thumb-holding and the order-of-telling worry are good, but most of the feeling for Neela is reasoned rather than acted.",
+    "character_logic": "Refusing a conditional lever while leaving the door open is smart. The urgency over Muthu's 'wait one night' is thin but voiced.",
+    "stakes_and_cost": "The cost is named: three hundred spears, the fort, and the broken term. The tower makes the refusal bite at once.",
+    "prose": "The prose is mostly clean and concrete. It has a close-third POV slip, the 'The trouble was not / The trouble was' pattern, and some stacked explanatory interiority.",
+    "continuity": "Kuttu and Pavi are in Kodiyur (F755), yet they ask on the shelf. The Company whispers of an offer that has only just arrived. Devan has no stitched arm."
+  },
+  "fixes": [
+    "At 'Two nights since the queen's offer came up in whispers. Pavi's asked, and Kuttu', there are two continuity breaks. Pavi and Kuttu are in Kodiyur (F755), and nobody on the shelf can know the offer before the rider arrives. Change the trigger to the sally's wound-share talk or Neela's welts. Use shelf members such as Kamalakshi or Thulasi, for example 'Kamalakshi asked me.' Drop the offer reference.",
+    "At 'a sheaf of arrows in the crook of his stitched arm', Devan's stitches are on his right ribs (F849); his arm wounds are an unstitched graze and a slash. Change the line to 'in the crook of his arm, careful of the stitches at his ribs'. Also fix 'Janu back in her own kitchen': Janu is still at Kettamala (F766). Make it 'Janu's kitchen his again'.",
+    "At '*Safe, unseen.* He did not know the queen had said it', the omniscient narrator intrudes into Devan's close third. That breaks POV and spends the dramatic irony (technique 13) by pointing at it. Cut that sentence and start at 'He knew the shape of the thing anyway.' Let the reader supply the echo of chapter 16."
+  ],
+  "reader_question": "Can the shelf hold against a tower that looks down on the wall, and what is the unnamed beast that crossed the river onto their side?",
+  "techniques_landed": [
+    1,
+    13,
+    15
+  ],
+  "new_facts_assessment": "The river, arrow sheaves, round-hand letter (a good C-clue echo), thumbprint seal and Koman's reading are all necessary and consistent. The yellow bird is consistent with F791, but 'A child's neat stroke... could not say why' over-signposts it. The Company self-naming talk (F877) conflicts with Kuttu and Pavi being in Kodiyur, and with the offer only reaching the shelf today.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Contrived delays"
+  ],
+  "average": 3.25,
+  "minimum": 0.0,
+  "passed": false
+}
