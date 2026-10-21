@@ -9,7 +9,7 @@ Re-check KDP's current limits in KDP Help before the first upload of a series (P
 |---|---|
 | Language | English |
 | Book title | Oath of Claws |
-| Subtitle | A Dark Romantasy of Shifters, Heists and Hard-Won Trust |
+| Subtitle | A Dark Romantasy of Shapeshifter Assassins |
 | Series | The Odiyan Contracts (add to existing series after book 1) |
 | Series number | 2 |
 | Edition number | (leave blank) |
@@ -19,14 +19,14 @@ Re-check KDP's current limits in KDP Help before the first upload of a series (P
 | Publishing rights | I own the copyright and I hold the necessary publishing rights |
 | Primary audience: sexually explicit images or title | No |
 | Reading age | (leave blank: adult) |
-| Categories | Kindle Store > Kindle eBooks > Science Fiction & Fantasy > Fantasy > Romantic; Kindle Store > Kindle eBooks > Romance > Paranormal > Shifters; Kindle Store > Kindle eBooks > Romance > Fantasy |
-| Keyword 1 | enemies to lovers shifter romantasy |
-| Keyword 2 | arranged marriage assassin fantasy romance |
-| Keyword 3 | morally grey hero fantasy romance series |
-| Keyword 4 | slow burn spicy leopard shifter romance |
-| Keyword 5 | forced proximity monsoon fantasy romance |
-| Keyword 6 | assassin guild heist romantasy |
-| Keyword 7 | married couple dark fantasy romance |
+| Categories | Kindle Store > Kindle eBooks > Romance > Fantasy; Kindle Store > Kindle eBooks > Romance > Paranormal & Urban > Shifters; Kindle Store > Kindle eBooks > Science Fiction & Fantasy > Fantasy > Dark Fantasy |
+| Keyword 1 | arranged marriage shapeshifter assassin romance |
+| Keyword 2 | dark romantasy heist ledger |
+| Keyword 3 | enemies to lovers married fantasy romance |
+| Keyword 4 | forced proximity monsoon fantasy romance |
+| Keyword 5 | shared wounds bond fantasy romance |
+| Keyword 6 | open door romantasy assassin heroine |
+| Keyword 7 | protective hero shapeshifter heroine series |
 | Release option | I'm ready to release my book now |
 
 Save and continue (Claude asks before saving).

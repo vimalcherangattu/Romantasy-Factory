@@ -1,14 +1,13 @@
 ## Art prompt
-Close-cropped, intimate, dangerous book cover art, portrait 1600 x 2560, no text, no lettering, no faces, no people. On a deep black field, just below the vertical centre, a single ivory ledger page of aged handmade paper, torn down the middle by four parallel claw marks. The torn edges are ragged and just catching gold fire, glowing turmeric gold along the fibres. The page is lit from one side as if by a single oil lamp, with soft warm light falling across it and the far side sinking into shadow. A few faint lines of illegible resin-ink script and a tiny folded-winged bird mark are suggested on the paper, with no readable words. In the background a faint leopard-rosette pattern shows in gloss black on matte black, barely visible. Hushed, sensual, the moment before a word is spoken. Palette of deep black, turmeric gold, laterite red and ivory. Leave the top third and bottom edge clear and dark for type. No real person's likeness, no trademarked imagery.
+Close-cropped, intimate, dangerous book-cover illustration, portrait 1600 x 2560. A single ivory ledger page torn down the middle by four parallel claw marks, the torn edges just catching gold fire, floating just below the centre of the frame on a deep black field. The page is lit from one side as if by a single oil lamp, with warm turmeric-gold light and soft laterite-red shadow in the torn fibres. Faint ink lines of cipher marks are visible on the paper, unreadable. A faint leopard-rosette pattern shows in gloss black on matte black in the background. Hushed, sensual, the moment before a word is spoken. No faces, no people, no text, no letters, no logos, no watermark. Leave the top third and the bottom edge clear and dark for type added later.
 
 ## Motif
-A single ivory ledger page torn down the middle by four claw marks, its edges just catching gold fire.
+A single ivory ledger page torn down the middle by four claw marks, its edges catching gold fire.
 
 ## Palette
-Deep black (field), turmeric gold (fire along the tear, foil title), laterite red (series line, a faint warm edge in the shadows), ivory (page, pen name).
+Deep black, turmeric gold, laterite red, ivory.
 
 ## Type spec
-- Title: OATH OF CLAWS in a tall, high-contrast serif, all caps, foil-gold on black, set large across the top third. The terminal of the final S is drawn out into a fine claw hook. It must read clearly at thumbnail size.
-- Series line: "The Odiyan Contracts" in small, widely spaced laterite-red caps directly above the title.
-- Pen name: ANYA KALLOOR in a clean geometric sans, widely spaced small caps, ivory, along the bottom edge, large enough to read at thumbnail.
-- Placement matches Book 1 and Book 3 so the three covers read as a set.
+Title OATH OF CLAWS: tall, high-contrast serif in all caps, foil-gold on black, set large across the top third, with one letter's terminal (the final S) drawn out into a fine claw hook. It must stay readable at thumbnail size, so keep the title on two lines at most, with heavy strokes and strong contrast. Series line "The Odiyan Contracts": small, widely spaced laterite-red caps above the title. Pen name ANYA KALLOOR: clean geometric sans in widely spaced small caps, ivory, along the bottom edge. Same placement as the other books in the series. Add "Book 2" only in small ivory caps if the series line has room.
+
+(Image tool must not render any text; all type is added later.)

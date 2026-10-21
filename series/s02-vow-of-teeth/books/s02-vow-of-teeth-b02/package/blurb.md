@@ -1,7 +1,7 @@
-<p><b>Every page in the ledger is a life. The first one she reads aloud names her at his sister's murder.</b></p>
-<p>Neela is a leopard by night, a rogue by law and, since the rains closed the Monkey Pass, a wife by choice. Her resin is down to its last two smears and the guild is hunting her. She has one plan: steal the black ledger that owns every odiyan and put each page back in the hand it names.</p>
-<p>Devan, warden of Kettamala, wants a single page: the contract for his sister's death, in plain ink, for a court. He is the one man who could cage Neela with one word, and the husband who swore he never will. But a crown justice now sits in his hall, her silent guards cross a road no one can walk, and the book they steal holds a truth about Neela that neither of them chose.</p>
-<p>With forty frightened odiyans looking to her, Neela must decide whether holding their pages makes her their rescuer or their new master. And Devan must decide what he can still love when the proof is in his hands.</p>
-<p><i>Marriage under strain. A morally grey hero who gives his power away. A monsoon-night heist and a guild that owns its own.</i> Open-door romance with real consequences.</p>
-<p><b>Can they steal the guild's ledger without becoming its new masters?</b></p>
-<p><i>Book 2 of The Odiyan Contracts. Best read after Vow of Teeth.</i></p>
+<p><b>Steal the ledger that owns every odiyan, or die as the guild's property.</b></p>
+<p>Neela is a leopard-shifting assassin with two smears of resin left, a crown price on her head, and a husband she was once paid to kill. Devan, the warden she was sold to, has stood between her and every blade since their wedding night. Now the monsoon has sealed the passes, the guild is hunting her, and a crown justice has arrived at his gate with a warrant.</p>
+<p>Together they plan to rob the Resin House. Devan needs one contract to prove his sister's murder. Neela wants every page returned to the hand it names. Both plans go through the same door.</p>
+<p>The man who could cage her with one spoken word has sworn never to say it. Their wounds are shared, their bargain is written in the dark, and the first contract Neela reads aloud will name the part she played in his sister's death.</p>
+<p>The ledger can free forty lives or make her the master Chathu was.</p>
+<p><i>Can they steal it without becoming its new masters?</i></p>
+<p><b>Oath of Claws</b> is book 2 of <i>The Odiyan Contracts</i>: an arranged marriage turned real, a heist in the monsoon rains, and shared wounds that make every fight a risk for both. Open-door heat, dark edges, and a hopeful ending. Start with <i>Vow of Teeth</i> for the full story.</p>
