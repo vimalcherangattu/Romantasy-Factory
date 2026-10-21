@@ -1,0 +1,41 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 3.0,
+    "stakes_and_cost": 4.0,
+    "prose": 3.0,
+    "continuity": 0.0
+  },
+  "reasons": {
+    "reader_question": "Clear and urgent: the advance guard is early and Devan has no seal and no garrison. The ignored Kodiyur party blurs it.",
+    "change": "Hope for Muthu's help ends blocked by law. A loophole roof, a 'write it down' condition and an early enemy reset the power state.",
+    "romance_movement": "The movement is new: he spends his pass, then answers anyway, and he asks her before he acts. Both match the beat's romance change.",
+    "shown_chemistry": "Shown through action: matched rope burns, the hand on the stone, the slat confession, the wrist catch. Almost none of it is narrated.",
+    "character_logic": "Neela carried a vote to lead six south, yet she never mentions Kodiyur. She chooses the gorge with no word on the broken plan.",
+    "stakes_and_cost": "Muthu risks hanging, the refugees are named and Devan has no office. Her 'I'm coming' costs the south party, but the page never names that cost.",
+    "prose": "Mostly clean and concrete. Some lines muddle or slip into cliché: the welt line, 'strings had been cut', 'set, like wax', scent as identity.",
+    "continuity": "Two conflicts: the back-to-wall habit dates from Asha's death six years ago (F189), and the waistband held a leopard tooth, not a knife (F039/F346)."
+  },
+  "fixes": [
+    "Continuity. Change 'For eight years I slept with my back to the wall' to 'six years', because the habit dates from Asha's death (F189); the eight-year count is his bad sleep since the ford. Change 'married into it with a knife sewn in her waistband' to 'a leopard's tooth sewn in her waistband' (F039/F346). Her knife went to Devan in book 1 (F399).",
+    "Irrational behaviour. Neela leads the six for Kodiyur, yet the chapter never mentions them. Add one line on the descent or at the gate about the six and the road south. Then, in the last exchange after 'I'm asking you first', give her a breath that names the cost: going to the boulder delays the sea stair and the thirty. Make 'Then I'm coming' a costly choice, not a free one.",
+    "Prose and technique 7. 'where the welt would rise on her if he cut it' is anatomically muddled, because the wound-share puts the welt on the matching spot. Cut it or rewrite it as his burned palm against hers. For technique 7, end on an interrupted action, such as Neela reaching for the knife as the second gorge flame winks again, rather than the settled 'Then I'm coming.'"
+  ],
+  "reader_question": "With no seal, no garrison and the Thurai already in the gorge, can a stripped warden and an untested Company hold the pass at all?",
+  "techniques_landed": [
+    14,
+    20
+  ],
+  "new_facts_assessment": "The listed facts are necessary and consistent: refugee names, the beacon, the two-day descent, Muthu's 'drovers' loophole and Janu's rim-touch clue. Several facts are unlisted and need logging: Parukutty's cough; the warden's chamber in the north range, which must still face west (F017); and 'nine men I can name', whose source is never set up. Chellam's flight from Kalladi sits uneasily with F736, which has Kalladi still holding. Technique 7 only half lands: 'Then I'm coming' resolves the action instead of interrupting it.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Irrational behaviour to extend plot",
+    "Romance buried by plot"
+  ],
+  "average": 3.25,
+  "minimum": 0.0,
+  "passed": false
+}
