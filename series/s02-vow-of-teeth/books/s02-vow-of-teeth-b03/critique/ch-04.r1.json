@@ -1,0 +1,41 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 5.0,
+    "character_logic": 3.0,
+    "stakes_and_cost": 4.0,
+    "prose": 4.0,
+    "continuity": 0.0
+  },
+  "reasons": {
+    "reader_question": "The advance guard is early and Devan has no seal or garrison, so the reader asks whether he can hold. The vanished second flame sharpens it.",
+    "change": "Hope ends blocked by the crown order and Muthu's refusal. The Company gets one night's loophole roof, and the war arrives early.",
+    "romance_movement": "There are two new reasons. He gives up a withheld answer by choice, and he stops to ask her first. Neither is a replayed refusal.",
+    "shown_chemistry": "Rope-burned palms pressed raw to raw, the hand on the stone, the slat confession and her catching his wrist. All of it is responsive and specific.",
+    "character_logic": "Muthu's drover loophole is smart. But Neela 'did not know what that meant' about Janu, though she confessed to Janu in book 2.",
+    "stakes_and_cost": "Going to the gorge delays the six bound south and costs hours off the queen's stair. Neela names that cost and pays it.",
+    "prose": "Clean, concrete and few tells. Some lines are slightly opaque ('the rim stayed between them'), and the bay-on-the-rope image recycles F727.",
+    "continuity": "Fails on two counts. The west-facing warden's shutters are seen from the inner court, and the knife is in her hand, then 'left on the bed'. Also 42 versus 43 people."
+  },
+  "fixes": [
+    "Fix the chamber's location. At \"Even at this distance she could see the teak shutters\", the warden's shutters face west over the drop and cannot be seen from the court. Change this to the chamber's stair door, as the beat says ('the warden's door'), with lamplight under it where Muthu now sleeps. Keep 'like a man walking round a hole in a floor'.",
+    "Fix the knife. At \"her hand already out for the knife she had left on the bed\", she woke with the borrowed knife in hand. Have her drop it on the bed as she lunges for his wrist, so the last line follows. In the same pass, fix the head count: 'forty-two people breathing hard' should be forty-three with Devan, or say 'forty-two of the Company'.",
+    "Fix Neela's reading of Janu. At \"Neela did not know what that meant\", she confessed her part in Asha's death to Janu in book 2, so she knows. Feigned ignorance is irrational behaviour. Let her recognise it (a forehead, not a hand), take the bowl off the stone herself and choose not to ask. That gives the beat its emotional cost."
+  ],
+  "reader_question": "With the Thurai already in the gorge and the garrison forbidden to sally, can a stripped warden and forty-two rogue odiyans hold the pass at all?",
+  "techniques_landed": [
+    7,
+    14,
+    20
+  ],
+  "new_facts_assessment": "Each fact is assessed below; one unlisted placement is risky.\n- Parukutty's cough is harmless texture, but it echoes F151 (her daughter's cough), so keep it or drop it deliberately.\n- The six leaving for the sea road at first light is necessary and consistent with F751 and F755.\n- Chellam's toddy-tapping husband is consistent with F762 and F736.\n- Unlisted and risky: the warden's chamber is placed 'at the end of the north range' with shutters visible from the court. This conflicts with the bible's west-facing outer window (F017) and the window ledge Neela climbs from.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Irrational behaviour to extend plot"
+  ],
+  "average": 3.5,
+  "minimum": 0.0,
+  "passed": false
+}
