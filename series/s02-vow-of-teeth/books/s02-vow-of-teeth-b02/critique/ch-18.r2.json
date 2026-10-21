@@ -1,0 +1,40 @@
+{
+  "scores": {
+    "reader_question": 5.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 4.0,
+    "stakes_and_cost": 4.0,
+    "prose": 4.0,
+    "continuity": 5.0
+  },
+  "reasons": {
+    "reader_question": "Thilak's tea and her silence make the beat's question specific and urgent: how long until she becomes Chathu?",
+    "change": "Rogue to master in all but name, shown in steps: the vouching, the yard obeying, the tea accepted. The name she doesn't correct seals it.",
+    "romance_movement": "New strain with a new reason: his 'Chathu thought the ledger was mercy too' meets her 'I'm not Chathu.' It is not a replayed refusal.",
+    "shown_chemistry": "Shown through response: his literal costs, her 'Say it again when it does', the brass-pot callback. Little bodily charge, which suits the rupture.",
+    "character_logic": "Neela's case for holding the pages is smart and legitimate. Devan's 'a child on a stair' breaks his literal voice; she just said twenty-one.",
+    "stakes_and_cost": "The vouched house puts her name beside forty on a crown record. Withholding Twenty-two's name costs her trust and her self-image.",
+    "prose": "Clean and concrete, with strong callbacks (tin of sweets, Seventeen). Some narrated theme over-explains what the scenes already show.",
+    "continuity": "Consistent with F553, F271, F545, F559 and the ages. The stale F564 (eight stay, six ride) must be retired in favour of F566."
+  },
+  "fixes": [
+    "\"You were a child on a stair, and a man had your eyes covered\": character logic. Devan is literal, and she has just said she was twenty-one. 'Child' also hands him Chathu's word for members. Change it to \"You were twenty-one on a stair with your eyes covered\". This keeps his exactness and makes 'She's still dead' land as fact, not absolution.",
+    "\"It was a Chathu kind of choice, made for someone else's good while she watched. She made it anyway.\": narrated theme. It pre-empts Devan's gate line and the Thilak ending. Cut both sentences and let 'It sounded like a tin of sweets' carry it. Apply the same trim to 'it came out the same and meant a little less' after the ride-out, or keep only one of the two.",
+    "\"Thulasi, daughter of a salt-boiler, Pazhayangadi\": Pazhayangadi is a real Kerala town, and the series is built on invented Varanad geography. Replace it with an invented coastal village name, keep it as the road Neela fears the girl will run for, and log it in new-facts. While there, make Pavi's double placement consistent (first row of the count, then guarding the book) with one line moving her."
+  ],
+  "reader_question": "How long can Neela hold forty people's pages and names 'until it's safe' before she becomes Chathu?",
+  "techniques_landed": [
+    14,
+    15
+  ],
+  "new_facts_assessment": "The four/six split matches the ten men in F545 and is needed for the logistics, so retire the conflicting F564. The vouching cost is necessary and ties to F271/F388. The bees detail and the four-syllable name are good, specific and harmless. Technique 13 is weak: the irony leans only on Bhaskaran's 'privately bitter' nod and is never sharpened.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Endless monologue"
+  ],
+  "average": 4.25,
+  "minimum": 4.0,
+  "passed": true
+}
