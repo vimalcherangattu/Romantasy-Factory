@@ -1,34 +1,3 @@
 {
-  "facts": [
-    {
-      "category": "object",
-      "fact": "The black book's iron box was riveted at the hinge side; Devan sheared the hinge rivets with the pry bar, leaving the padlock shut. The book is wrapped in greased cloth.",
-      "why": "needed because the outline has him prise the box open with a pry bar."
-    },
-    {
-      "category": "injury",
-      "fact": "Neela is raked by the bear: claw lines across her back and flank. They show as shallow welts across Devan's back from left shoulder blade to right hip, plus the hook welt at his ribs from ch 14.",
-      "why": "needed because the outline has him feel claw welts open across his back."
-    },
-    {
-      "category": "plot",
-      "fact": "Bhaskaran's party was ordered to come at the House's alarm horn or at the lamp signal; a hunters' horn on the east wall sounds after the bear roars. Ten men come in: eight over the east wall with lamps and two through the drain grate.",
-      "why": "needed to make 'as planned' concrete."
-    },
-    {
-      "category": "plot",
-      "fact": "Devan holds the book up to stop the hunters. Chathu offers to 'write the rest off' and then flees on foot to the wood with Vellan (still in bear shape, struck on the shoulder by Devan) and the hunters, who carry off the stunned one.",
-      "why": "needed because the outline has Chathu flee after seeing the book."
-    },
-    {
-      "category": "knowledge",
-      "fact": "Devan orders Bhaskaran's men to face the gate at dawn and never to say what the animals are.",
-      "why": "needed so the forty and Neela turn back unwitnessed."
-    },
-    {
-      "category": "object",
-      "fact": "Devan carried Neela's day cloth and the leaf packet of cold rice and curd inside his coat from the ridge; he holds the cloth out behind him with his back turned while she turns back.",
-      "why": "needed so she is dressed and fed at the handover."
-    }
-  ]
+  "facts": []
 }
