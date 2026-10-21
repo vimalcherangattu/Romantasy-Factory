@@ -80,7 +80,7 @@
       ]
     },
     "03": {
-      "status": "passed",
+      "status": "edited",
       "revisions": 1,
       "scores": {
         "reader_question": 4.0,
@@ -97,15 +97,15 @@
       "words": 3000,
       "minimum": 3.0,
       "style": {
-        "words": 3067,
+        "words": 3000,
         "banned_hits": {},
         "ai_tell_hits": {},
         "ai_tells_per_1000": 0.0,
-        "top_4gram": "ward of kunjan chirayil",
+        "top_4gram": "and she did not",
         "top_4gram_count": 2,
-        "longest_paragraph_words": 83,
-        "em_dashes_per_1000": 0.65,
-        "reading_ease": 94.0
+        "longest_paragraph_words": 119,
+        "em_dashes_per_1000": 0.67,
+        "reading_ease": 94.1
       },
       "owner_instructions": [
         "Early in the chapter, before or just after she asks the escort their names. Problem: Neela is the expert on odiyan scars, and with no reason to dismiss the wrist ridge, her failing to connect it for 30 chapters reads as Irrational behaviour to extend plot. Fix: give her a short, explicit rule-out in her own interiority, turned into a choice. She thinks of the ridge Devan described, weighs it as an odiyan wrist seam, and rejects the idea for stated reasons. An odiyan can't hold a road by day in shape. The crown hangs unvouched odiyans. No guild sells to the crown. A lamp-burn sits in the same place. She decides they are crown men with something else to hide, and files it. Keep it to three to five sentences. This must read as a sensible belief that ch 32 overturns, not as a guess she sits on.",
@@ -1938,9 +1938,13 @@
     {
       "at": "2026-10-21T09:09:52",
       "event": "done: S8 line edit ch 2"
+    },
+    {
+      "at": "2026-10-21T09:10:27",
+      "event": "done: S8 line edit ch 3"
     }
   ],
-  "updated_at": "2026-10-21T09:09:52",
+  "updated_at": "2026-10-21T09:10:27",
   "midpoint_chapter": 16,
   "continuity_attempts": 0,
   "continuity_last_errors": null,
