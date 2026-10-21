@@ -7,33 +7,35 @@
     "character_logic": 4.0,
     "stakes_and_cost": 4.0,
     "prose": 3.0,
-    "continuity": 0.0
+    "continuity": 5.0
   },
   "reasons": {
-    "reader_question": "Tower plus an unnamed river beast that Koman can't scent gives a sharp, specific two-part question, with Neela's reaction hanging behind it.",
-    "change": "Devan refuses the office, sends the answer unshared and summons Rema. Power and the relationship both shift on the page.",
-    "romance_movement": "This is a new reason: he protects her consent by breaking their term. The repair owed is stated clearly and is not a recycled refusal.",
-    "shown_chemistry": "Leads are apart, so chemistry runs through the thumb-holding and the thumbprint seal. It is touching but mostly interior recollection.",
-    "character_logic": "His refusal follows from his values. But Muthu, now seal-holder, argues for the deal without one word about losing the seal himself.",
-    "stakes_and_cost": "The cost is concrete: three hundred spears, his fort, a broken term with Neela, and the dead counted on Kandan's tile.",
-    "prose": "Strong lines ('a man at a door') sit beside garbled ones ('crown has not leave to give', 'leading his dead horse') and 'sat' echoes.",
-    "continuity": "There are three conflicts: 'eight years' as warden (it is five or six), the thumb's white line on the left hand (F362 says right), and Kamalakshi asking Vellan (F877 says Kuttu)."
+    "reader_question": "Clear twin gap: can a three-man tower be held from the shelf, and what unnamed shape just crossed to our bank?",
+    "change": "Devan refuses his office in writing, summons Rema, opens a bond with Vellan, and learns of the tower and the creature.",
+    "romance_movement": "The leads are apart. He frees her answer from his fort, which is a new reason. Breaking their term creates a debt of repair.",
+    "shown_chemistry": "The thumb held under the sheaf and the thumbprint seal show concern through action, but most of it is interior reasoning.",
+    "character_logic": "A sharp refusal: 'A condition is a yes with her name on the price.' The muddled 'I would' line blurs why he can't wait.",
+    "stakes_and_cost": "It costs the fort, three hundred spears and a broken promise, and the dead tile makes the spears' value concrete.",
+    "prose": "Strong hook and dialogue, but the 'between them' image appears three times, there is a POV slip ('our side'), and the five-years line is confused.",
+    "continuity": "The horn code, the four dead, the forty-one steps, Koman's eleven years and the tower all match. The creature's timing against Rule 1 is ambiguous."
   },
   "fixes": [
-    "Continuity. At 'Every night for eight years he had told himself', change eight to five or six, since Devan was warden from five years before book 1. At 'The print came up whorled and plain, with the old white line', drop the white line or move it to the right thumb (F362). At 'Kamalakshi asked me', change the asker to Kuttu, or log the change as a correction of F877.",
-    "Garbled lines. At 'the crown has not leave to give', rewrite plainly, e.g. 'the crown gives me no leave to call you'. At 'went down the cut leading his dead horse', say 'his spent horse'. At 'a boy from Kalladi who had carried a spear', note that Rajan is dead: 'too late for a boy from Kalladi'. Otherwise the line reads as if he would benefit.",
-    "Character logic. At 'Devan,' he said at last. 'That's three hundred spears.', Muthu now holds the seal (F683) and argues for a deal that takes it from him. Give him one honest line that names his own stake and sets it aside, e.g. 'I'd hand you the disc tonight.' This makes his urging selfless and sharpens the values collision."
+    "At 'We made a term, she and I. Say it before you do it', the promise has never appeared before (Twists without setup). Anchor it to the ch21 tack-room question game. Add one line recalling her words that night and one earlier instance he kept it, such as telling her before he pulled the hearing's lever. Replace the confusing 'I would.' with 'I would, if waiting didn't hand her the fort to carry.'",
+    "At 'stood in the last light' and 'the sun went off the lip of the cut', the creature appears before full dusk. If it is ever revealed as an odiyan, that breaks Rule 1 (no turning by day). Move the sun's going before the river sighting: 'The sun had gone off the lip of the cut when Koman's hand closed on his sleeve.' Keep the tower's groan as the closing beat.",
+    "Several prose problems. 'It came up on the near bank, our side' slips out of close third; cut 'our side' or write 'the shelf's side'. 'Every night for five years he had told himself he did not mind being warden' is muddled; write 'Since the hall at Kettamala he had told himself he did not mind losing it.' Vary the triple 'between them' (the cart lid, 'It lay there', the table) by recasting two."
   ],
-  "reader_question": "Can seventy-odd defenders on the shelf survive a tower that overlooks their wall, and what unnamed creature just came ashore below them?",
+  "reader_question": "Can seventy-odd defenders hold the shelf against a ship-timber tower, and what is the unnamed animal that crossed the river onto their side?",
   "techniques_landed": [
     1,
-    13,
-    15
+    15,
+    13
   ],
-  "new_facts_assessment": "new-facts.json is empty, yet the draft adds facts. These include the say-it-before-you-do-it term made in the tack room, Rema titled 'Justice', and Kamalakshi asking Vellan whom he would self-name to. The term is necessary and plausible but must be logged. 'Justice' needs checking against F707 (clerk). Kamalakshi contradicts F877. The beast is a good fresh gap, consistent with F786.",
+  "new_facts_assessment": "The tack-room term 'say it before you do it' is necessary for the beat but appears nowhere earlier. It reads as retrofitted and needs anchoring to an established scene or rule. 'Justice Rema' is acceptable as an honorific. Kuttu asking Vellan is consistent with F877. Muthu urging a yes while offering the disc back fits his oath at F650. Technique 13 is thin: the reader knows the queen now holds forty fresh pages, but the chapter never exploits that against Devan's line 'a knife in a drawer'.",
   "content_rule_violation": false,
-  "failure_modes": [],
-  "average": 3.25,
-  "minimum": 0.0,
-  "passed": false
+  "failure_modes": [
+    "Twists without setup"
+  ],
+  "average": 3.88,
+  "minimum": 3.0,
+  "passed": true
 }
