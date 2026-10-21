@@ -1,0 +1,42 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 3.0,
+    "stakes_and_cost": 3.0,
+    "prose": 3.0,
+    "continuity": 0.0
+  },
+  "reasons": {
+    "reader_question": "Closing 'How' on her wrists and the surgeon's blade gives a sharp, nameable question; the crown's answer to Muthu's defiance is a second one.",
+    "change": "Muthu's split loyalty becomes one public written oath, and Neela gains palace intelligence. Both are real shifts in power and knowledge.",
+    "romance_movement": "Her restraint-as-respect reframe is new and closes the ch8 consent question. Devan having no answer ready moves them on, though it is reflective, not dramatised.",
+    "shown_chemistry": "The knee that touches and waits, the hoarse goat-laugh and the hour at the cistern all show attraction through action, not narration.",
+    "character_logic": "Devan recites the cut, the numbers and the timing to a crown rider one chapter after tracing raider pay to the crown's mint.",
+    "stakes_and_cost": "Muthu's refusal risks the woman the household holds, but the page barely weighs it. His black wax reads as free relief.",
+    "prose": "Heavy 'It was not X. It was Y' tic (five or more uses). 'Pot on her hip' and 'turned her hand over' repeat, and speech is set in italics.",
+    "continuity": "Muthu says the escort were 'four days in my gate chamber'; F456 quarters them in the south range. The C11 hand clue in new facts is absent."
+  },
+  "fixes": [
+    "At 'He read it through, slowly, with his lips moving' (Twists without setup: C11 missing): add the round clerk's hand. Muthu's thumb stops on one line, he reads it twice, and his eyes go to his own belt pouch. Neela sees the double read and files it as the hard words. Keep it ambiguous so it can match F504's slip later.",
+    "At 'The escort were four days in my gate chamber' (continuity break with F456): change to 'The escort were four days in the south range, and every night they took a cup at my table,' so Muthu still had cause to watch their cuffs. Then either cut 'a crown that had paid his mother's physician' or list it as a new fact and square it with F503.",
+    "At 'Corporal Kandan and forty volunteers are at the lower narrows' (Irrational behaviour): Devan has just traced Thurai pay to the crown's die. Have him glance at the rider and give only the cost, not the cut's place, depth or timing: 'There's a host three days off and the Company on the road between.' Neela notes what he left out. The beat holds and he stays smart."
+  ],
+  "reader_question": "Can Neela get into the palace when its surgeon will read her layered wrist scars before she reads her face?",
+  "techniques_landed": [
+    9,
+    16,
+    23
+  ],
+  "new_facts_assessment": "Ribbon, goat and black-wax letter are on the page and consistent (F306/F683/F269). Cuff detail is useful and fits F670/F684, but 'four days in my gate chamber' conflicts with F456. F808 (clerk's round hand, clue C11) is claimed but never appears in the text, so the clue is unplanted. Unlisted additions: the crown paid Muthu's mother's physician, Biju was seventeen, and Neela has been 'two months' in the house; the last is doubtful against the book 1 and 2 timeline.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Irrational behaviour to extend plot",
+    "Twists without setup"
+  ],
+  "average": 3.12,
+  "minimum": 0.0,
+  "passed": false
+}
