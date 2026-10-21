@@ -1,39 +1,39 @@
 {
   "scores": {
-    "reader_question": 5.0,
-    "change": 4.0,
-    "romance_movement": 3.0,
+    "reader_question": 4.0,
+    "change": 3.0,
+    "romance_movement": 4.0,
     "shown_chemistry": 4.0,
     "character_logic": 4.0,
     "stakes_and_cost": 4.0,
     "prose": 3.0,
-    "continuity": 0.0
+    "continuity": 5.0
   },
   "reasons": {
-    "reader_question": "The chapter ends with her stepping between a lame bear and a shaft holding a man who will feel every blow. The question is concrete and urgent.",
-    "change": "The book is within reach, Pavi turns out to be a silent ally, and shapes on the watch is new knowledge. Neela moves from unseen to found.",
-    "romance_movement": "The first combat wound-share and his 'Then it's mine' are new, but the shared beat is brief and mostly logistics.",
-    "shown_chemistry": "The palm between her ears that does not linger, 'Hold the door', and the welt read through his hand all show chemistry through action.",
-    "character_logic": "Sparing the hunter and the claw on the rotten staple are smart. She smothers the flame with her cheek and ignores that it will burn Devan.",
-    "stakes_and_cost": "Every hit lands twice, Kirri is left behind, and Pavi takes a risk. The final choice clearly costs both of them.",
-    "prose": "The prose is mostly clean and strong ('no one in the eyes to sink'), but the welt passage is tangled and 'walked a rope into hell' is a cliché.",
-    "continuity": "The box hangs on a chain, but F522 puts the book on a dry ledge. The draft has forty-one cages; F443 says forty-two."
+    "reader_question": "The ending poses a clear question: can a wounded leopard hold a bear while every blow lands on Devan in the shaft.",
+    "change": "She is now found by Vellan, has an ally in Pavi, and has a new question about shapes on the walls. The box is still unreached.",
+    "romance_movement": "The wound-share becomes real and costly mid-mission. 'Then it's mine' turns the shared wound into a choice he makes.",
+    "shown_chemistry": "Breath matching, the palm between her ears, and 'Hold the door' show care through action, with no narrated feeling.",
+    "character_logic": "Sparing the hunter, smothering the lamp and guarding the shaft are all smart choices. The bear-cowed hounds lean slightly convenient.",
+    "stakes_and_cost": "Stepping out costs her body and his. Kirri's caging and her own empty cage make failure concrete.",
+    "prose": "Strong lines overall, but there is a paw chest/throat slip, the 'held breath' image appears three times, the 'boulder' padlock line is odd, and the Pavi passage is muddled.",
+    "continuity": "Matches the cage count, the drain, the signal, Pavi and the lame bear. Devan's 'wet' shirt brushes against the welt-only rule but is ambiguous."
   },
   "fixes": [
-    "Continuity conflict at 'a square of iron hung on the chain a few man-lengths down'. F522 says the book sits on a dry ledge cut into the shaft. Have the chain lower the padlocked box so it rests on that ledge above the water, which keeps both facts. At 'forty-one, in a row', write forty-two cages, forty-one holding odiyans, and one standing empty: the one she was put in (F443). Neela's noticing the empty cage adds weight.",
-    "Confused wound-share at 'a hot wet line along her side that was not a wound on her at all'. The POV muddles whose body carries the welt. Keep her own cut as the burning line on her ribs. Then show his welt from outside: his shirt dark where his hand presses over the old seam, and his wince matching her breath. Cut 'A welt. A shallow one.'",
-    "Character logic and cliché at 'He had told her he wouldn't, because she could not answer'. This contradicts ch13, where he talks precisely because she can't answer (F534). Make the reason stealth: a voice carries across a yard. Replace 'walked a rope into hell a hundred times' with a concrete detail. Also, at 'She put her whole cheek over it', either have her smother the flame with straw or note his cheek stinging."
+    "The line 'his shirt was dark and wet under his fingers' implies Devan is bleeding. The world rule says a cut on one partner opens only as a shallow welt on the other (F009, F540), so a bleeding wound risks breaking the rule. Change it to a raised, hot welt he presses through dry cloth, perhaps with sweat, and no blood. Keep 'right over the old white seam'.",
+    "There is an internal logic slip at 'she took her paw off his throat at once'. Her forepaw was driven onto the hunter's chest, not his throat. Either move the paw to his throat in the earlier sentence ('She drove a forepaw onto his throat') or change this line to 'off his chest'. Keep the reason: she will not kill him over a lamp.",
+    "Two prose problems. First, the 'held breath' image repeats in 'a smell like a held breath', 'the length of a held breath' and 'a breath held and let go'; cut two and replace one with a concrete count. Second, 'In shape, the same as the dark rows along the wall' is muddled. Rewrite it plainly: the dark shapes along the wall are odiyans on watch, and Chathu now uses his members as sentries."
   ],
-  "reader_question": "Can Neela hold Vellan's bear off the well while every wound she takes opens on Devan as he climbs the shaft?",
+  "reader_question": "Can Neela, already cut, hold Vellan's bear off the shaft when every wound she takes opens on Devan below?",
   "techniques_landed": [
     5,
     6,
     7
   ],
-  "new_facts_assessment": "The drain, the rotten staple, the cowed hounds, the drag-step and Pavi are all necessary and consistent; the drag-step pays off the girlhood memory well. The box on a chain conflicts with F522's dry ledge, so the two must be reconciled. Shapes on the watch is a good open question but needs a later answer. The pin left 'where Devan would feel it with his boot' implies he uses the drain, yet he comes over the wall as F533 plans.",
+  "new_facts_assessment": "The draft's new-facts list is empty, but it adds several facts. These include the grate pin; the post staple Neela tested at eleven on a dare; the box resting on the ledge with slack chain (this reconciles F522 and F538); Neela's empty cage fourth from the end, with Kirri's third from the end; Pavi arriving at eight with a fever and a doll; and the hunter's hook wound to the ribs. All are consistent and necessary, but they must be logged. The hook wound needs a check against the welt-only wound-share.",
   "content_rule_violation": false,
   "failure_modes": [],
-  "average": 3.38,
-  "minimum": 0.0,
-  "passed": false
+  "average": 3.88,
+  "minimum": 3.0,
+  "passed": true
 }
