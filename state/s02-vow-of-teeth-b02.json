@@ -687,7 +687,7 @@
       }
     },
     "24": {
-      "status": "passed",
+      "status": "edited",
       "revisions": 2,
       "scores": {
         "reader_question": 4.0,
@@ -703,8 +703,19 @@
       "flags": [
         "needs-owner"
       ],
-      "words": 3281,
-      "minimum": 0.0
+      "words": 3284,
+      "minimum": 0.0,
+      "style": {
+        "words": 3284,
+        "banned_hits": {},
+        "ai_tell_hits": {},
+        "ai_tells_per_1000": 0.0,
+        "top_4gram": "it was the one",
+        "top_4gram_count": 2,
+        "longest_paragraph_words": 113,
+        "em_dashes_per_1000": 0.3,
+        "reading_ease": 96.0
+      }
     },
     "25": {
       "status": "passed",
@@ -1592,9 +1603,13 @@
     {
       "at": "2026-10-21T07:33:30",
       "event": "done: S8 line edit ch 23"
+    },
+    {
+      "at": "2026-10-21T07:34:07",
+      "event": "done: S8 line edit ch 24"
     }
   ],
-  "updated_at": "2026-10-21T07:33:30",
+  "updated_at": "2026-10-21T07:34:07",
   "midpoint_chapter": 16,
   "continuity_attempts": 1,
   "continuity_last_errors": 2
