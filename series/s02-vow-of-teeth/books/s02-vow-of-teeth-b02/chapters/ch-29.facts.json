@@ -1,19 +1,3 @@
 {
-  "facts": [
-    {
-      "category": "place",
-      "fact": "The assize hearing in the hall is held at noon, two days after the return from the Resin House, in daylight so Chathu is ungagged.",
-      "why": "needed because Chathu is gagged from sunset to dawn (ch 28) and must testify by day."
-    },
-    {
-      "category": "object",
-      "fact": "Rema keeps a second sealed case tied in green thread at her feet, unopened during the assize; she glances at it when Devan mentions the seal.",
-      "why": "plants the sealed writ opened in ch 30 (clue C21)."
-    },
-    {
-      "category": "knowledge",
-      "fact": "The night before the assize Devan told Neela he would put the lookout leaf before Rema himself, bearing the cost; she did not answer.",
-      "why": "makes her unasked standing a choice against his offer."
-    }
-  ]
+  "facts": []
 }
