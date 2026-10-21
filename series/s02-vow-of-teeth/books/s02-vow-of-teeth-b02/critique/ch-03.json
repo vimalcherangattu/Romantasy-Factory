@@ -1,42 +1,41 @@
 {
   "scores": {
     "reader_question": 4.0,
-    "change": 3.0,
+    "change": 4.0,
     "romance_movement": 4.0,
     "shown_chemistry": 4.0,
-    "character_logic": 2.0,
-    "stakes_and_cost": 3.0,
-    "prose": 3.0,
+    "character_logic": 3.0,
+    "stakes_and_cost": 4.0,
+    "prose": 4.0,
     "continuity": 5.0
   },
   "reasons": {
-    "reader_question": "The question is sharp. The escort are hollowed numbers with dry packs, the salve smells of resin, and the oath is three days off.",
-    "change": "Neela gains a resin clue and learns she will be sworn, but she buries the clue. Her knowledge state barely moves by the end.",
-    "romance_movement": "The power seesaw is new: she is the expert performer and he is the failing one. His question about what she is opens a fresh gap.",
-    "shown_chemistry": "The coaching drill, the shed phrases, his surprised laugh and his 'I'll wait' are all responsive action. None of it is narrated chemistry.",
-    "character_logic": "She withholds the resin smell from Devan right after demanding 'tell me everything'. Her odiyan dismissal is a non-sequitur a guild veteran wouldn't accept.",
-    "stakes_and_cost": "The oath is real pressure. But the cost of telling Devan about the salve is asserted, not made specific or forced by a rule.",
-    "prose": "Mostly concrete and quick. 'Let it lie' recurs five times, 'filed' repeats, and the odiyan-sum paragraph is knotted and hard to parse.",
-    "continuity": "No hard conflicts. Eravi applying resin salve barehanded without a burn is borderline against the bible and needs handling."
+    "reader_question": "The ending is specific: what will Neela swear to in three days. The escort and the salve leave a sharp gap beside it.",
+    "change": "Neela is now named on Rema's record as a sworn witness. She holds a secret from Devan again and has spent her one pass.",
+    "romance_movement": "The cause is new. She coaches him, and her expertise is the gift. His 'what are you' question raises the next step.",
+    "shown_chemistry": "Shown through action: the drilled rehearsal, his startled laugh, the stool set back 'like a borrowed tool'. Nothing is narrated.",
+    "character_logic": "The oath logic ignores Devan's canon 'I won't answer that'. Her resin denial borders on wilful blindness.",
+    "stakes_and_cost": "Withholding from Devan breaks the promise she demanded that morning. Refusing his question leaves her without an answer before the oath.",
+    "prose": "The prose is clean and concrete with few tells. One POV slip, and 'like a man about to be shot' is an odd simile.",
+    "continuity": "No hard conflicts. The age counts, Chinna's hip, the nails, First Guard's seam and the binding all match the facts."
   },
   "fixes": [
-    "At 'She opened her mouth to say whose it was', the silence is an artificial misunderstanding: it breaks her ch 2 demand that he tell her everything. Make speaking costly through his rule instead. Devan never lies, so if Rema asks him under oath what his wife suspects, he must answer. Neela says aloud, 'Don't ask me what's in it. You'd have to tell her.' He lets it lie because he understands.",
-    "At 'An odiyan cannot keep shape by day, so no queen', the reasoning fails because odiyans are human by day. Replace it with a rationalisation a guild veteran could believe. A single smooth seam is not ten years of layered ridges. First Guard's throat is unscarred, and the crown hangs unvouched odiyans. Keep the self-deception, but make it smart.",
-    "At 'worked a smear on her first nail with the tip of his little finger', resin burns non-odiyan bare skin. Have Neela notice his finger doesn't redden, and fold that into 'many barks are bitter' so the denial costs more. This also plants Eravi. Separately, cut 'let it lie' to two uses and the second 'filed' to one."
+    "'and he understood that this was the shape of the thing': POV slip into Devan's head in a Neela scene. Rewrite from her side, for example: 'He went still in the way she had learned meant he was weighing a cost, and then his shoulders let go.' Keep 'Then I won't ask' as his line.",
+    "'If she asks what your wife suspects, you will have to answer': character logic. In canon Devan answers 'I won't answer that' (F572). Have him say so, and give Neela the rebuttal: 'And a justice writes down every refusal. One from the warden about his wife is louder than an answer.' This makes keeping the secret costly instead of convenient.",
+    "'I'm not spending a pass on it': under F187 the pass belongs to whoever refuses, not whoever asks, so the line muddles the rule. Change it to 'It isn't a question you have to spend anything on. You can just answer it.' Her later 'Then that is my pass' then lands as the rule working."
   ],
-  "reader_question": "What are the four numbered guards, why does their salve smell of nightbark, and what will Neela swear to when Rema asks what she is?",
+  "reader_question": "What are the escort really, and what will Neela say when Rema puts her under oath and asks what she is?",
   "techniques_landed": [
     1,
     25,
     11
   ],
-  "new_facts_assessment": "new-facts.json is empty, but the draft adds facts. The escort's dry packs and unasked needs, Kannan's snake-dog story, and three split nails tonight should be listed. The 'one pass each' carryover from the B1 question game and Neela withholding the resin smell from Devan also belong there. Most are useful and consistent. Eravi fingering the salve barehanded must be reconciled with resin burning non-odiyan skin, or turned into a noticed clue.",
+  "new_facts_assessment": "All are necessary and consistent with F692 to F697. Eravi's unburned finger is a strong clue, but no later fact explains it. Either the salve is cut, or later chapters must pay it off, or it reads as a broken Rule 1 ('resin burns non-odiyans'). The rationalisation of First Guard's seam fits F460 and is overturned by F670 and F684. 'Satchel taken at the narrows' merges the ch4 raider satchel (F049) with the ch14 scouts' tally (F131). Keep it as the narrows only if they are the same.",
   "content_rule_violation": false,
   "failure_modes": [
-    "Artificial misunderstandings",
     "Irrational behaviour to extend plot"
   ],
-  "average": 3.5,
-  "minimum": 2.0,
-  "passed": false
+  "average": 4.0,
+  "minimum": 3.0,
+  "passed": true
 }
