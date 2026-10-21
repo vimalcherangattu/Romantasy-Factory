@@ -10,13 +10,17 @@ The owner signs in and gives the final go-ahead to Publish.
 
 ## Before you start
 
-1. Run `factory status` and find the book. It must be `approved`. If it isn't, stop and say so.
-2. Check that `series/<series>/books/<id>/package/cover.jpg` exists. If it doesn't, ask for the art
+1. Run `factory kdp`. KDP allows 2 new titles per format per week per account (Sunday 00:00
+   UTC reset), shared with every pen name and the owner's other books. If this week has no free
+   ebook slot (and paperback slot, if the paperback goes up too), stop and say which day the next
+   week opens. A slot reserved for another book is not free.
+2. Run `factory status` and find the book. It must be `approved`. If it isn't, stop and say so.
+3. Check that `series/<series>/books/<id>/package/cover.jpg` exists. If it doesn't, ask for the art
    and run `factory cover <id> --art <file>`.
-3. Read `package/browser-upload-prompt.md`, `upload-checklist.md`, `metadata.json`, `blurb.md` and
+4. Read `package/browser-upload-prompt.md`, `upload-checklist.md`, `metadata.json`, `blurb.md` and
    `ai-disclosure.md`. If the disclosure still says "fill in before upload", ask which image tool
    made the cover art, and fill it in.
-4. Load the browser tools. Read the `chrome-browser` or `built-in-browser` skill first.
+5. Load the browser tools. Read the `chrome-browser` or `built-in-browser` skill first.
 
 ## In the browser
 
@@ -50,7 +54,10 @@ Follow `pen-names/<pen-name>/author-central.md`: claim the book at author.amazon
 biography, upload `author-image.png`. For each new live book, claim it under the same author.
 Run `factory author-page "<pen name>"` first if the kit doesn't exist yet.
 
-## Daily limit
+## Weekly limit
 
-Only one book per day goes up (`schedule.max_uploads_per_day`). KDP's own cap is 3 new titles
-per day per account, shared across pen names.
+KDP (from 21 Sep 2026): 2 new titles per format per week per account, reset Sunday 00:00 UTC
+(05:30 IST). `factory published` logs the ebook and paperback in `state/kdp-ledger.csv`. When
+the owner uploads any other book on the same account (parenting series, PMM book, and so on),
+log it too: `factory kdp-log "<title>" --formats ebook,paperback`. To hold slots for a planned
+book: `factory kdp-log "<title>" --reserve YYYY-MM-DD`.

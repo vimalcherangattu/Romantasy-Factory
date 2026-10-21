@@ -3,13 +3,13 @@
 import json
 import shutil
 import subprocess
-from datetime import date
+from datetime import date, datetime, timedelta, timezone
 from pathlib import Path
 
 import typer
 
 from . import config as configmod
-from . import gitops, guard, orchestrator, package, report, schedule, series, state
+from . import gitops, guard, kdp, orchestrator, package, report, schedule, series, state
 from .fsutil import read_json
 
 app = typer.Typer(add_completion=False, no_args_is_help=True, help="Romantasy Factory")
@@ -113,7 +113,7 @@ def approve_series(series_id: str) -> None:
 
 @approve_app.command("book")
 def approve_book(book_id: str) -> None:
-    """Approve a reviewed book for upload (max one per day)."""
+    """Approve a reviewed book for upload (uploads are limited by KDP's weekly slots; see `factory kdp`)."""
     cfg = _cfg()
     try:
         b = state.load_book(cfg, book_id)
@@ -121,11 +121,6 @@ def approve_book(book_id: str) -> None:
         _die(str(exc))
     if b["status"] != "review":
         _die(f"{book_id} is '{b['status']}', not waiting for review")
-    today = date.today().isoformat()
-    approved_today = sum(1 for x in state.all_books(cfg) if (x.get("approved_at") or "").startswith(today))
-    limit = cfg.get("schedule.max_uploads_per_day", 1)
-    if approved_today >= limit:
-        _die(f"{approved_today} book(s) already approved for upload today; the limit is {limit}. Approve tomorrow.")
     pkg = cfg.paths.book_dir(b["series_id"], book_id) / "package"
     if not (pkg / "cover.jpg").exists():
         typer.secho("warning: package/cover.jpg is missing; run `factory cover` before uploading", fg=typer.colors.YELLOW)
@@ -181,6 +176,7 @@ def published(book_id: str, asin: str = typer.Option(..., help="ASIN shown by KD
     if b["status"] != "approved":
         _die(f"{book_id} is '{b['status']}'; approve it before marking it published")
     b.update(status="published", asin=asin, published_at=state.now())
+    kdp.record(cfg, book_id, _book_formats(cfg), note=asin)
     state.log(b, f"published as {asin}")
     state.save_book(cfg, b)
     pkg = cfg.paths.book_dir(b["series_id"], book_id) / "package"
@@ -205,8 +201,38 @@ def upload(book_id: str) -> None:
     pkg = cfg.paths.book_dir(b["series_id"], book_id) / "package"
     if not (pkg / "cover.jpg").exists():
         _die(f"{pkg.relative_to(cfg.paths.root)}/cover.jpg is missing; run: factory cover {book_id} --art <image>")
+    for fmt in _book_formats(cfg):
+        if kdp.factory_slots_left(cfg, fmt) <= 0:
+            nxt = (kdp.week_start() + timedelta(weeks=1)).date().isoformat()
+            _die(f"No KDP {fmt} slot left this week for the factory (KDP limit {kdp.limit(cfg)} per format, "
+                 f"factory share {cfg.get('kdp.factory_slots_per_week', 1)}; the rest is kept for your other books). "
+                 f"Next week opens Sunday {nxt} 00:00 UTC. See: factory kdp")
     typer.echo("Sign in to kdp.amazon.com in Chrome, open Claude in Chrome, and paste:\n")
     typer.echo((pkg / "browser-upload-prompt.md").read_text())
+
+
+def _book_formats(cfg) -> list[str]:
+    return ["ebook"] + (["paperback"] if cfg.get("paperback.enabled", True) else [])
+
+
+@app.command("kdp")
+def kdp_cmd(weeks: int = typer.Option(6, help="Weeks to show")) -> None:
+    """Show KDP's weekly title slots: used, reserved and free, across all your books."""
+    typer.echo(kdp.plan(_cfg(), weeks))
+
+
+@app.command("kdp-log")
+def kdp_log(book: str = typer.Argument(..., help="Book id or title (any book on the account)"),
+            formats: str = typer.Option("ebook,paperback", help="Comma list: ebook, paperback, hardcover"),
+            reserve: str = typer.Option("", help="Hold slots in the week of this date (YYYY-MM-DD) instead of logging a use"),
+            note: str = typer.Option("")) -> None:
+    """Log a title created on KDP (any book, any pen name), or reserve slots for a planned one."""
+    cfg = _cfg()
+    fmts = [f.strip() for f in formats.split(",") if f.strip()]
+    when = datetime.fromisoformat(reserve).replace(hour=12, tzinfo=timezone.utc) if reserve else None
+    kdp.record(cfg, book, fmts, kind="reserved" if reserve else "used", when=when, note=note)
+    gitops.commit(cfg, f"kdp ledger: {'reserve' if reserve else 'log'} {book} ({', '.join(fmts)})")
+    typer.echo(kdp.plan(cfg, 4))
 
 
 @app.command("site")

@@ -7,7 +7,7 @@ from datetime import datetime, time
 from zoneinfo import ZoneInfo
 
 from . import book as bookmod
-from . import gitops, report, state
+from . import gitops, kdp, report, state
 from .claude import ClaudeError, UsageLimitError
 from .config import Config
 from .fsutil import atomic_write
@@ -61,6 +61,8 @@ def pick_book(cfg: Config, only: str | None, skip: set[str]) -> dict | None:
     for b in books:
         if b["status"] in ACTIVE and bookmod.next_step(cfg, b):
             return b
+    if kdp.buffer_full(cfg):
+        return None  # KDP's weekly limit can't take more; don't start new books
     by_id = {b["book_id"]: b for b in state.all_books(cfg)}
     for b in books:
         if b["status"] != "queued":
@@ -86,6 +88,10 @@ def run(cfg: Config, *, book_id: str | None = None, max_steps: int | None = None
                 break
             b = pick_book(cfg, book_id, skip)
             if not b:
+                if kdp.buffer_full(cfg):
+                    rep.stop_reason = rep.stop_reason or (
+                        f"no work left: {len(kdp.ready_buffer(cfg))} books wait for KDP upload slots "
+                        f"(cap {cfg.get('kdp.max_ready_buffer', 3)}); new books start as these go live")
                 rep.stop_reason = rep.stop_reason or "no work left"
                 break
             name, fn = bookmod.next_step(cfg, b)

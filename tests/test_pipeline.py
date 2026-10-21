@@ -6,7 +6,7 @@ import pytest
 from typer.testing import CliRunner
 
 from factory import book as bookmod
-from factory import orchestrator, series, state
+from factory import kdp, orchestrator, series, state
 from factory.cli import app
 
 from .conftest import calls
@@ -109,6 +109,7 @@ def test_critique_fail_then_revise(cfg, approved_series, monkeypatch):
 
 def test_needs_owner_after_two_revisions(cfg, approved_series, monkeypatch):
     monkeypatch.setenv("FAKE_CLAUDE_MODE", "critique_always_fail")
+    cfg.data["quality"]["max_revisions"] = 2
     orchestrator.run(cfg, max_steps=7, echo=lambda *_: None)
     ch = state.load_book(cfg, f"{approved_series}-b01")["chapters"]["01"]
     assert ch["revisions"] == 2 and "needs-owner" in ch["flags"] and ch["status"] == "passed"
@@ -152,21 +153,52 @@ def test_owner_revision_round(cfg, approved_series, tmp_path):
     assert "done: owner notes plan" in hist and hist.count("done: S6 revise ch 1") >= 1
 
 
-def test_approve_and_publish_with_daily_cap(cfg, approved_series):
+def test_approve_publish_and_weekly_kdp_limit(cfg, approved_series):
     orchestrator.run(cfg, echo=lambda *_: None)
     runner = CliRunner()
     bid = f"{approved_series}-b01"
     res = runner.invoke(app, ["approve", "book", bid])
     assert res.exit_code == 0, res.output
-    # a second approval the same day is refused (1 upload per day)
+    # approval has no daily cap; KDP's weekly slots gate the upload instead
     b2 = state.load_book(cfg, f"{approved_series}-b02")
     b2["status"] = "review"
     state.save_book(cfg, b2)
-    res = runner.invoke(app, ["approve", "book", b2["book_id"]])
-    assert res.exit_code == 1 and "limit" in res.output
+    assert runner.invoke(app, ["approve", "book", b2["book_id"]]).exit_code == 0
     res = runner.invoke(app, ["published", bid, "--asin", "B0TEST"])
     assert res.exit_code == 0
     assert state.load_book(cfg, bid)["asin"] == "B0TEST"
+    assert kdp.slots_left(cfg, "ebook") == 1 and kdp.slots_left(cfg, "paperback") == 1
+    assert kdp.factory_slots_left(cfg, "ebook") == 0  # factory share used; the other slot is kept for other books
+    # another book on the same account takes the last slot of the week
+    assert runner.invoke(app, ["kdp-log", "Any Fool Can Have a Baby"]).exit_code == 0
+    pkg = cfg.paths.book_dir(approved_series, b2["book_id"]) / "package"
+    pkg.mkdir(parents=True, exist_ok=True)
+    (pkg / "cover.jpg").write_bytes(b"x")
+    (pkg / "browser-upload-prompt.md").write_text("upload")
+    res = runner.invoke(app, ["upload", b2["book_id"]])
+    assert res.exit_code == 1 and "No KDP ebook slot" in res.output
+
+
+def test_kdp_week_and_reservations(cfg):
+    from datetime import timezone as tz
+    sun = datetime(2026, 10, 25, 0, 0, tzinfo=tz.utc)
+    assert kdp.week_start(datetime(2026, 10, 24, 23, 59, tzinfo=tz.utc)).date().isoformat() == "2026-10-18"
+    assert kdp.week_start(sun) == sun
+    kdp.record(cfg, "Subtracted", ["ebook"], kind="reserved", when=sun)
+    assert kdp.slots_left(cfg, "ebook", sun) == 1
+    assert kdp.slots_left(cfg, "ebook", sun, book="Subtracted") == 2  # its own hold is free for it
+    kdp.record(cfg, "Subtracted", ["ebook"], when=sun)  # the use replaces the reservation
+    assert [r["kind"] for r in kdp.used(cfg, "ebook", sun)] == ["used"]
+
+
+def test_ready_buffer_stops_new_books(cfg, approved_series):
+    cfg.data.setdefault("kdp", {})["max_ready_buffer"] = 1
+    b1 = state.load_book(cfg, f"{approved_series}-b01")
+    b1["status"] = "review"
+    state.save_book(cfg, b1)
+    rep = orchestrator.run(cfg, echo=lambda *_: None)
+    assert "KDP upload slots" in rep.stop_reason
+    assert state.load_book(cfg, f"{approved_series}-b02")["status"] == "queued"
 
 
 def test_lock_prevents_overlap(cfg, approved_series):
@@ -217,6 +249,7 @@ def test_cli_pick_auto_from_existing_batch(cfg):
 
 def test_beta_reader_triggers_one_revision_round(cfg, approved_series, monkeypatch):
     monkeypatch.setenv("FAKE_CLAUDE_MODE", "beta_always_revise")
+    cfg.data["auto"]["beta_revision_rounds"] = 1
     bid = f"{approved_series}-b01"
     orchestrator.run(cfg, book_id=bid, echo=lambda *_: None)
     b = state.load_book(cfg, bid)

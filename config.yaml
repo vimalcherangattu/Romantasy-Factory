@@ -27,7 +27,7 @@ series:
 quality:
   pass_average: 3.5
   pass_minimum: 3
-  max_revisions: 2                 # then the chapter is marked needs-owner
+  max_revisions: 3                 # then the chapter is marked needs-owner (raised 21 Oct: KDP caps volume, so spend on quality)
   continuity_rounds: 4             # automatic S7 fix rounds while errors keep falling
   criteria:
     - reader_question
@@ -90,7 +90,7 @@ auto:
   approve_series: true             # ...and the bible is approved once it passes validation
   market_check: true               # web-search titles, premises and the pen name for collisions (S1)
   beta_reader: true                # an AI beta reader writes review notes before the book reaches you
-  beta_revision_rounds: 1          # revision rounds the beta reader may trigger per book
+  beta_revision_rounds: 2          # revision rounds the beta reader may trigger per book
 
 # Reader platform (PRD section 12, M9).
 reader:
@@ -115,10 +115,17 @@ claude:
 
 schedule:
   books_per_day: 1                 # set after the M3 pilot (PRD section 9)
-  max_uploads_per_day: 1           # never stage more than 1 book per day
   start: "00:45"                   # nightly window opens (the scheduled task fires at 00:52 IST)
   wake: "00:40"
   stop_by: "08:00"
+
+# KDP weekly title limit (from 21 Sep 2026): 2 new titles per format per week per account,
+# reset Sunday 00:00 UTC, shared by every pen name and the owner's other books.
+# Ledger: state/kdp-ledger.csv. Commands: factory kdp, factory kdp-log.
+kdp:
+  titles_per_format_per_week: 2
+  factory_slots_per_week: 1        # romantasy uses 1 per format per week; the other is kept for the parenting series and other books
+  max_ready_buffer: 3              # stop starting new books while this many wait in review/approved
 
 git:
   commit_after_stage: true

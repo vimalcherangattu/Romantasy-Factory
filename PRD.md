@@ -55,7 +55,7 @@ These rules override anything else in this PRD. Claude Code must refuse to build
 **Amazon KDP rules (checked October 2026)**
 | Rule | What the build must do | Source |
 |---|---|---|
-| Max 3 new titles per day per account | Never stage more than 1 book per day for upload; the cap is per account, not per pen name | [Authors Guild](https://authorsguild.org/news/amazon-adds-to-kdp-generative-ai-policy-caps-daily-self-publishing-uploads/), [ALLi](https://selfpublishingadvice.org/self-publishing-news-kdp-ai-new-limits-on-titles/) |
+| Max 2 new titles per format per week per account (from 21 Sep 2026; previously 3 per day) | Factory uses 1 slot per format per week, the other is kept for the owner's other books; ledger in `state/kdp-ledger.csv` | [Authors Guild](https://authorsguild.org/news/amazon-adds-to-kdp-generative-ai-policy-caps-daily-self-publishing-uploads/), [ALLi](https://selfpublishingadvice.org/self-publishing-news-kdp-ai-new-limits-on-titles/) |
 | AI-generated text and images must be disclosed per title | Every package includes `ai-disclosure.md` stating text and cover were AI-generated | [Univers guide](https://univers.studio/blog/kdp-ai-content-policy-2026/) |
 | Lightly edited AI output can be flagged as disappointing content | Quality gates in section 6 are mandatory, not optional | [BookWriter guide](https://www.bookwriter.vip/amazon-kdp-ai-publishing-guide-2026) |
 | No KDP publishing API exists | Upload is done in a browser with the owner present (section 8) | Owner's account |

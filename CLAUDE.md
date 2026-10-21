@@ -13,8 +13,11 @@ PRD section 2 and section 11 and override anything else.
 - When a usage limit is hit the run saves state and stops. Never offer or add a
   switch to paid credits.
 - The pipeline writes cover image prompts; it never calls a paid image API.
-- Never stage more than 1 book per day for upload. KDP allows 3 new titles per
-  day per account, shared across pen names.
+- KDP allows 2 new titles per format (ebook, paperback, hardcover) per week per
+  account, reset Sunday 00:00 UTC, shared across pen names and the owner's other
+  books. Every title created is logged in `state/kdp-ledger.csv` (`factory kdp`,
+  `factory kdp-log`); `factory upload` refuses when the week has no slot. Never
+  stage more than 1 book per day for review.
 - Every package includes `ai-disclosure.md`. Nothing claims to be human-written.
 - No passwords, 2FA codes, tax or bank details in the repo, in prompts, or typed
   by an agent. Notification tokens come from environment variables only.
