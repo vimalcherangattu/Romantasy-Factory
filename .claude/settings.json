@@ -7,5 +7,9 @@
         ]
       }
     ]
-  }
+  },
+  "extraKnownMarketplaces": {
+    "vimal-mods": { "source": { "source": "github", "repo": "vimalcherangattu/TaskHub" } }
+  },
+  "enabledPlugins": { "plain-talk@vimal-mods": true }
 }
