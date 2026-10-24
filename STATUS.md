@@ -1,6 +1,6 @@
 # Status
 
-Last updated: 2026-10-21
+Last updated: 2026-10-25
 
 ## Current state
 - Live on KDP (pen name Anya Kalloor, series The Odiyan Contracts):
@@ -19,7 +19,7 @@ Last updated: 2026-10-21
   on 21 Oct when the weekend-only rule came in. Queued: s03 b02-b04; s01 archived.
 
 ## Next step
-- Sat night (Sun 25 Oct, 00:52 IST): covers only, because the weekly cap is reached.
+- Sat night (Sun 25 Oct, 00:52 IST): done. Factory skipped (weekly cap reached); no covers missing.
 - Sun night (Mon 26 Oct, 00:52 IST): new week; factory run, up to 2 passes, stops when a book
   reaches review.
 - Sun 25 Oct 10:00 IST: the owner's upload slot. Only the parenting Book 1 is planned that week,
