@@ -2,7 +2,7 @@
   "scores": {
     "reader_question": 4.0,
     "change": 4.0,
-    "romance_movement": 3.0,
+    "romance_movement": 4.0,
     "shown_chemistry": 4.0,
     "character_logic": 4.0,
     "stakes_and_cost": 4.0,
@@ -10,30 +10,32 @@
     "continuity": 0.0
   },
   "reasons": {
-    "reader_question": "Dawn sets a sharp question: will reading the writ cost the queen's spears and the pass, and is it rope or light?",
-    "change": "Both temptations are now confessed, the plan for noon is fixed, and the evidence is out of the wall and ready to read.",
-    "romance_movement": "The new reason is mutual confession of temptation. The beat's split of work (she speaks, he stands behind) never lands on the page.",
-    "shown_chemistry": "His thumb on her blister, his laugh, her counting his breath and the pebble close are all responsive action, not narration.",
-    "character_logic": "Devan's 'tell her first' fits his never-lie rule. Neela grants 'Then read it' quickly, given yesterday's breach.",
-    "stakes_and_cost": "Devan gives exact numbers for what the reading may cost: three hundred spears, the pass, the allies' trust.",
-    "prose": "The writing is clean and specific. A few tells weaken it: 'her breath caught', 'had not known she wanted it', and a generic middle to the sex scene.",
-    "continuity": "'Loud when he lied' inverts Muthu's fixed tell (he goes quiet when lying, bible/F383/ch20). The defender count is also muddled."
+    "reader_question": "Clear twin gap: will reading the writ cost the spears and pass, and will Neela name herself? The soft pebble ending blurs the hook.",
+    "change": "Knowledge shifts (Asha's note, the exact cost of the reading) and Neela's refusal gains its real reason; power stays largely level.",
+    "romance_movement": "Being seen becomes something she asks for, which is new. The 'step behind' split repeats ch20's term almost word for word.",
+    "shown_chemistry": "Strong responsive action: thumb on the blister, the lamp kept lit on request, the handed-back line. 'Nobody had ever said that to her' narrates.",
+    "character_logic": "Both act like smart versions of themselves. Devan's 'I let you think' strains his never-lie rule but is owned as a confession.",
+    "stakes_and_cost": "Devan gives the cost in numbers: the spears, the pass, men who go home. Her self-naming at the gate carries a stated, open price.",
+    "prose": "Concrete and controlled, no banned phrases. Echoes ('the lamp showed her' twice, 'a long moment' twice) and an on-the-nose thesis speech afterwards.",
+    "continuity": "'I've carried it six years' conflicts with F113/F115/F418: Devan first found Asha's last note in book 1 ch12."
   },
   "fixes": [
-    "'He was loud when he lied and quiet when it counted': continuity error. Muthu goes quiet when he lies (bible, F383, and ch20's 'not his lying quiet'). Rewrite as 'He went quiet when he lied and loud when he joked, and he was neither now.'",
-    "'Then read it,' she said.': the beat's split of work is missing (her voice, his back). After Devan states his plan, have Neela set the term aloud: he reads the writ, and she gives her own refusal and reasons. Have Devan answer that he will stand a step behind her and not speak for her. Let her ask whether reading the writ is answering for her. His answer is that the writ is his account, and the Company's answer is hers.",
-    "'seventy-odd of us, fewer since Biju': the defender count conflicts with F803. Recount with the figures on record. That is forty-two odiyans with the Kodiyur six back, the twenty-two queen's riders, and the garrison volunteers, less the named dead (Biju, Sankaran, Chami, Rajan and two more). Cut the unclear phrase 'Muthu's thirty are in that count'."
+    "Continuity: 'I've carried it six years and read it to nobody' contradicts F115/F418, which have Devan first finding the note in Asha's chest in book 1 ch12. Change it to 'I've kept it since the day we opened her chest, and read it to nobody.' Keep 'She wrote this the week she found the first token.'",
+    "Repetitive tension: 'You stand at my back. You don't speak for me.' and 'A step behind.' restate the ch20 term (F907) nearly verbatim. Make the term new. For example, Neela sets the order: he reads the writ only after she has refused, so the queen hears her no before her guilt. Devan accepts that this costs him the first word. This also seeds F918.",
+    "On-the-nose thesis: the passage from 'For twenty-one years being seen meant someone had a hold on me' to 'So the fish shed was wrong' explains the arc's theme aloud. Cut it to one concrete beat. She touches the unbandaged scars at her throat, finds nothing taken, and says only 'I don't want her roof.' Let the reader draw the conclusion."
   ],
-  "reader_question": "When Devan reads the queen's payment writ at the gate, will he use it as a weapon, and will it cost them the spears and the pass?",
+  "reader_question": "Will Devan's open reading of the queen's writ at the gate cost them the crown spears and the pass, and will Neela say aloud what she is?",
   "techniques_landed": [
     9,
     10,
     20
   ],
-  "new_facts_assessment": "The stitches and back cut match F849 and are needed for the scene. The gift seal in the bundle fits F071 but extends F744, which listed only the chit and the writ. Keep it, but have Devan note that he added the seal. The defender line 'seventy-odd... Muthu's thirty are in that count' conflicts with F803 (36 odiyans plus 40 volunteers). It ignores the returned six and the 22 riders. Restate the count consistently.",
+  "new_facts_assessment": "F1039 pays off the note withheld in book 1, and Asha's 'Say it anyway' feeds Neela's open choice. It is necessary, but the dialogue's 'six years' conflicts with the note being found in B1 ch12, so the line must change. The box staying under the bed while Muthu used the room is plausible but unstated. F1040 is consistent with the chapter's evening action and correctly retires F1036. F744 and F910 align.",
   "content_rule_violation": false,
-  "failure_modes": [],
-  "average": 3.38,
+  "failure_modes": [
+    "Repetitive tension"
+  ],
+  "average": 3.5,
   "minimum": 0.0,
   "passed": false
 }
