@@ -1,28 +1,24 @@
 {
   "facts": [
     {
-      "category": "",
-      "fact": "Devan is carried up the cut on a guard-shed door with its iron strap hinge; Muthu and Kandan carry him, and Thankam binds his dead right arm to his chest with a green sash."
+      "category": "plot",
+      "fact": "The bear held the narrow place against all comers until first light. Vellan then sent Kamalakshi and a Company runner down asking for the Warden alone and ordered everyone else kept away; that is why no one reached him before Devan.",
+      "since": "b03 ch 27"
     },
     {
-      "category": "",
-      "fact": "At dawn Vellan sits in human form against the rock at the narrow place behind a half circle of Thurai dead, opened by a hook from hip to ribs, holding Kamalakshi's bad bird. A fifteen-year-old Thurai boy lies at his feet and Neela promises to see him buried."
+      "category": "name",
+      "fact": "Two dead are named on Kandan's chalked tile at dawn: Lekha, of the Company, and Sreedhar, a drover of Kalladi (garrison volunteer). Neela's lips move on both names.",
+      "since": "b03 ch 27"
     },
     {
-      "category": "",
-      "fact": "Neela remembers opening her lookout lamp once, a thumb's width, only when Vellan says so. She says she counted to three hundred and ten at the stair foot after Asha died, and had never told anyone the number. Devan says he will carry half of it."
+      "category": "knowledge",
+      "fact": "Neela had told Devan the number 310 at the ledger (B2 ch16). In ch27 she gives its meaning: she kept counting hoping whoever was on the stair would finish before she reached the end. She was not blindfolded at the lamp; 'they took the lamp and told me to count'.",
+      "since": "b03 ch 27"
     },
     {
-      "category": "",
-      "fact": "The Company is thirty-odd of forty-two at dawn, with no deaths named except Vellan."
-    },
-    {
-      "category": "",
-      "fact": "The crown leaf is now in a flat green-lacquered leather case, scorched along one edge, brought up from the red lacquer chest (F834) in the night. Twenty-six leaves have burned of themselves at the namings and four remain."
-    },
-    {
-      "category": "",
-      "fact": "Queen Nirmala states the roll's price: the first name written binds that person to the Company's vote and makes her the crown's first name to answer."
+      "category": "timeline",
+      "fact": "Per bible dating (Asha's death six years before book 1) the chapter drops explicit year counts for Devan's guarded back and Vellan's burden, writing 'since Asha' / 'ever since'.",
+      "since": "b03 ch 27"
     }
   ]
 }
