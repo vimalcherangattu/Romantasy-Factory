@@ -341,7 +341,7 @@
       }
     },
     "12": {
-      "status": "passed",
+      "status": "edited",
       "revisions": 0,
       "scores": {
         "reader_question": 4.0,
@@ -355,18 +355,18 @@
       },
       "average": 3.75,
       "flags": [],
-      "words": 2967,
+      "words": 2962,
       "minimum": 3.0,
       "style": {
-        "words": 2880,
+        "words": 2962,
         "banned_hits": {},
         "ai_tell_hits": {},
         "ai_tells_per_1000": 0.0,
-        "top_4gram": "she had said it",
-        "top_4gram_count": 3,
-        "longest_paragraph_words": 125,
-        "em_dashes_per_1000": 0.35,
-        "reading_ease": 92.4
+        "top_4gram": "four days of road",
+        "top_4gram_count": 2,
+        "longest_paragraph_words": 98,
+        "em_dashes_per_1000": 0.34,
+        "reading_ease": 91.9
       },
       "owner_instructions": [
         "Sanu must be unambiguously adult at his first appearance. Cut the 'young Sanu' phrasing in the drying-shed introduction. Give his age on the page, as a plain fact in Neela's POV or in dialogue (for example 'Sanu, twenty-six, Fourth Guard, who still blushed when Usha said his name'). Choose twenty-six so it matches the chapter 16 date fix: sold at seven, intake nineteen years back.",
@@ -2074,9 +2074,13 @@
     {
       "at": "2026-10-25T23:05:50",
       "event": "done: S8 line edit ch 2"
+    },
+    {
+      "at": "2026-10-25T23:06:24",
+      "event": "done: S8 line edit ch 12"
     }
   ],
-  "updated_at": "2026-10-25T23:05:50",
+  "updated_at": "2026-10-25T23:06:24",
   "midpoint_chapter": 16,
   "continuity_attempts": 1,
   "continuity_last_errors": 3,
