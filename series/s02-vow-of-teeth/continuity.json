@@ -6464,6 +6464,41 @@
       "fact": "Kamalakshi is described as perhaps nineteen, thin, with cropped hair.",
       "since": "s02-vow-of-teeth-b03 ch 23",
       "provisional": true
+    },
+    {
+      "id": "F934",
+      "category": "knowledge",
+      "fact": "Neela told the Company her intended answer at the cairn fire the night before (as promised in ch 22); the answer to the queen was moved from the dusk to the afternoon of ch 24 after Koman's report.",
+      "since": "s02-vow-of-teeth-b03 ch 24",
+      "provisional": true
+    },
+    {
+      "id": "F935",
+      "category": "plot",
+      "fact": "The queen keeps the unread oilcloth writ question open: Devan does not read it, and the queen says she knows what it says and would rather it were read after the ladders come down.",
+      "since": "s02-vow-of-teeth-b03 ch 24",
+      "provisional": true
+    },
+    {
+      "id": "F936",
+      "category": "relationship",
+      "fact": "Sanu chooses Kandan to self-name to; Sajan stays among the four unready guards with Lata and two others. Thulasi names to Madhavi. A crown spear-captain with a grey moustache is chosen by a guard.",
+      "since": "s02-vow-of-teeth-b03 ch 24",
+      "provisional": true
+    },
+    {
+      "id": "F937",
+      "category": "knowledge",
+      "fact": "Bhaskaran's wife and Kuttu's choice of him were arranged at the cairn fire an hour before dusk; Bhaskaran applies the resin to Kuttu's throat because Kuttu is shaking.",
+      "since": "s02-vow-of-teeth-b03 ch 24",
+      "provisional": true
+    },
+    {
+      "id": "F938",
+      "category": "knowledge",
+      "fact": "Queen Nirmala now feels the share with Usha and admits 'it does sting'.",
+      "since": "s02-vow-of-teeth-b03 ch 24",
+      "provisional": true
     }
   ],
   "knowledge": [
