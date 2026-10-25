@@ -41,7 +41,7 @@
       }
     },
     "02": {
-      "status": "passed",
+      "status": "edited",
       "revisions": 0,
       "scores": {
         "reader_question": 4.0,
@@ -58,15 +58,15 @@
       "words": 2883,
       "minimum": 3.0,
       "style": {
-        "words": 2804,
+        "words": 2883,
         "banned_hits": {},
         "ai_tell_hits": {},
         "ai_tells_per_1000": 0.0,
-        "top_4gram": "and he did not",
+        "top_4gram": "as they always have",
         "top_4gram_count": 3,
         "longest_paragraph_words": 102,
         "em_dashes_per_1000": 0.0,
-        "reading_ease": 93.1
+        "reading_ease": 93.3
       },
       "owner_instructions": [
         "Writ trail, first link. Where Devan checks the oilcloth before sleep, keep the writ in his pack. Change the comparison 'rather than leave it in the shutter frame' to 'rather than leave it in the hollow behind the third slat at Kettamala'. From now on the hiding place has one name everywhere: the hollow behind the third slat (of the warden's chamber shutter). Chapters 21 and 30 follow this trail.",
@@ -2070,9 +2070,13 @@
     {
       "at": "2026-10-25T23:05:18",
       "event": "done: book-level checks"
+    },
+    {
+      "at": "2026-10-25T23:05:50",
+      "event": "done: S8 line edit ch 2"
     }
   ],
-  "updated_at": "2026-10-25T23:05:18",
+  "updated_at": "2026-10-25T23:05:50",
   "midpoint_chapter": 16,
   "continuity_attempts": 1,
   "continuity_last_errors": 3,
