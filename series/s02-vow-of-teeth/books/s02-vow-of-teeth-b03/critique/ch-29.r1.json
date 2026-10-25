@@ -5,37 +5,37 @@
     "romance_movement": 4.0,
     "shown_chemistry": 4.0,
     "character_logic": 3.0,
-    "stakes_and_cost": 3.0,
+    "stakes_and_cost": 4.0,
     "prose": 3.0,
     "continuity": 5.0
   },
   "reasons": {
-    "reader_question": "Specific and earned: Rema arrives with the high court's roll just as the queen begins naming terms. The reader wants to know what she signs before a recorder.",
-    "change": "The queen's paper leverage dissolves and she admits the raids. Power has shifted, though Chathu as a living witness leaves the 'none left' claim slightly open.",
-    "romance_movement": "The beat lands. Devan validates a grief he doesn't share, with no argument. The reason is new: being let to mourn her captor.",
-    "shown_chemistry": "His palm is turned up and left there, his hand comes only when she turns her head, and the goat joke draws a real laugh. It is responsive and specific.",
-    "character_logic": "The queen never checks the ink beside her own bitter-smelling leaves, and nobody raises Chathu as the witness who could write true pages. Devan's 'would have sold me' misstates a known fact.",
-    "stakes_and_cost": "Neela accuses the queen while needing her three hundred spears, but the page never names that risk. The truce cushions every cost.",
-    "prose": "Strong images ('forty empty rooms'), but several runs of consecutive 'She' paragraph openings. Some emotion is told ('it took her a moment to understand what she was feeling').",
-    "continuity": "Consistent with the tins, the cipher key, the coin die, the horn code and the Nellimala record. The F940 retcon is required by the beat and correctly flagged as F978."
+    "reader_question": "Clear and specific: what the high court's roll does, and what the queen was about to sign before a recorder could hear it.",
+    "change": "The forty's pages are shown powerless and the queen admits the raids before Haran's spears. Her leverage collapses, and Rema shifts power again.",
+    "romance_movement": "New reason: Devan witnesses grief for the man who sold Asha's death and his own, and refuses both to argue and to pretend he shares it.",
+    "shown_chemistry": "Responsive action throughout: he sits leaving her the curb, palm up and unreaching, touches only when she turns. The goat joke proves shared history.",
+    "character_logic": "Precise-counting Neela says 'thirty thousand'. She disclaims bargaining right after setting a condition. 'Always free' ignores Chathu as a living witness.",
+    "stakes_and_cost": "Accusing the queen with her three hundred spears holding the cut and a three-day truce has a named cost. Haran states it to her face.",
+    "prose": "Mostly clean and concrete. Weakened by an orphaned dialogue paragraph, stock lines ('like a stone into a well', 'She never needed to'), and a clunky retcon recap.",
+    "continuity": "Consistent with F978, F979, F576, F791, F455 and F521. Some unlisted facts (Chathu taught her letters; who holds the thirty rolls) need logging."
   },
   "fixes": [
-    "Problem: 'the only living witness to those forty turnings is a man in your cell' leaves a logic hole. Chathu can still write true pages (F792), so the queen's leverage isn't gone. Fix: have the queen say she still holds the man who can write them true. Neela answers that the crown's own post just showed he won't, and that he is Rema's prisoner for the high court (F752), not the queen's. This also sets up Rema's arrival.",
-    "Problem: 'I don't say it to bargain. I'm not holding it over you' gives the accusation no cost (stakes without depth). Fix: before she reads, have Neela count Haran and the crown spears in the hall. Add one line from Haran, or a glance at the beach, so the reader knows she may be losing the three hundred spears that hold the cut once the truce ends.",
-    "Problem: in 'He'd have sold me to the same bidder and sent a tin', literal Devan misstates a fact. Chathu did sell his death (the chit, F293). Fix: change it to 'He sold my death to the same buyer and would have sent you a tin for the pyre.' Also clarify 'sold her at nineteen' (her first contract). Recast the run of 'She lifted / She laid / She hadn't' and 'She stared / She had expected' so consecutive paragraphs don't open on 'She'."
+    "At \"The four leaves you hold are the four guards'\": the paragraph is orphaned mid-speech with a redundant tag. Two lines later Neela says \"I don't say it to bargain\", which contradicts the condition she just set (character logic). Move the four-leaves condition to after the queen's \"Yes\", as Neela's first answer to it. Keep \"The raids made your knives\" as her closing line without the bargaining disclaimer.",
+    "At \"with thirty thousand Thurai on the beach\": Neela is defined by exact counts, so a tenfold exaggeration in her most precise speech breaks voice. Haran's correction also deflates the indictment (character logic). Have her say \"fourteen hundred Thurai on the beach\" herself and cut Haran's line, or give Haran a different interjection that tests her nerve.",
+    "At \"So the forty are free. They always were.\": by the world rules Chathu remains a living witness to all forty turnings. Neela, who knows this (F792), overstates. Add one line conceding it: free of paper, not of one living mouth, and that mouth is now the high court's. This sharpens the queen's \"I hold the man\" counter and makes Rema's arrival with the roll the answer."
   ],
-  "reader_question": "What has Justice Rema brought with the high court's roll, and will the queen sign the charter with a recorder present?",
+  "reader_question": "What has Justice Rema brought on the high court's roll, and will the queen's 'Yes' and her charter survive being said in front of a recorder?",
   "techniques_landed": [
     3,
     7,
     12
   ],
-  "new_facts_assessment": "F978 is necessary: the beat requires the forty leaves to have never had power, so ch24's burning must be reassigned. S7 must revise ch24 to show the handed-back pages on Neela's knee, or the twist cheats. F979 is consistent with F080, F234, F574 and F884. F980 (Pallikara burned this season) is consistent with Sanu's roll (F868) but adds nothing to the intake-year argument; consider cutting 'which burned this season'.",
+  "new_facts_assessment": "The listed facts are necessary and consistent. The queen's 'Yes' fits the bible treaty. The four-leaves declaration fits F957 and F998. Haran's 300 matches F914. 'Kept warm as ordered' is a good dangling hook if paid off; otherwise cut it. Unlisted facts to log: Chathu taught Neela her letters (sits beside F360, where Kirri taught the younger girls); Neela holds or has read all thirty crown intake rolls (custody after the burnings is unestablished); 'the widow's coin you paid' (Rema paid it, F520, so say 'your treasury paid'). The truce fact 'runs out in three days' is tautological.",
   "content_rule_violation": false,
   "failure_modes": [
     "Irrational behaviour to extend plot"
   ],
-  "average": 3.75,
+  "average": 3.88,
   "minimum": 3.0,
   "passed": true
 }
