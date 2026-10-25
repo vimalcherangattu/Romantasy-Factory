@@ -1,0 +1,42 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 3.0,
+    "stakes_and_cost": 3.0,
+    "prose": 4.0,
+    "continuity": 0.0
+  },
+  "reasons": {
+    "reader_question": "The horn and Rema's roll leave a sharp question: will the queen's 'Yes' and her charter go on a court record?",
+    "change": "The queen's leverage drops to four real leaves, and she admits the raids aloud. That is a clear power shift.",
+    "romance_movement": "Devan makes room for her grief without arguing, and the reason is new: a grief he cannot share. The beat lands.",
+    "shown_chemistry": "His palm-up hand, the hand on her neck only when she turns, and the goat joke all show care through action.",
+    "character_logic": "Neela never tested the sheet she has carried for days. The Thulasi line wrongly mixes the forty into the crown-leaf rolls.",
+    "stakes_and_cost": "The queen concedes, and Neela states she isn't bargaining. The cost of the next decision is not named for anyone.",
+    "prose": "The prose is clean and specific, with one AI tell ('the weight of'). A few told lines, such as 'Devan would never have been hard'.",
+    "continuity": "F940 says Chathu's forty leaves burned at the ch24 namings, so they cannot be powerless plain ink. The tin count also conflicts with F080/F587."
+  },
+  "fixes": [
+    "At 'They've no more power than a laundry list', there is a continuity conflict with F940: at the ch24 namings, witness entries burned on 'Chathu's forty fresh leaves held on Neela's knee'. Powerless plain-ink pages cannot burn. Add two lines in which Neela realises that what scorched at the namings was each member's own handed-back Resin House page, which she held beside the sheaf, while Chathu's leaves only curled. Then flag F940 for S7 correction.",
+    "At 'Twelve times it had come to her before a killing', the tin count conflicts with F080 (eleven contracts), F587 and F884. Change it to: 'Eleven times it had come to her before a killing, once in the kennels, once on a gatepost, and once she had carried it out of his cell.' In her speech, change 'Twelve of them' to 'Fifteen of them' or simply 'Tin after tin'.",
+    "At 'Thulasi's Pazhayangadi burned last week, and its name', this is a logic slip: Thulasi is one of the forty, not the crown-leaf thirty, and 'last week' fights the book 3 timeline. Replace it with a crown-leaf intake village (for example Sanu's Pallikara, already named), and say 'this season' rather than 'last week', so the 'every village on these rolls' claim stays airtight."
+  ],
+  "reader_question": "What has Justice Rema brought on the high court's roll, and will the queen put her 'Yes' and her charter before a recorder?",
+  "techniques_landed": [
+    3,
+    7,
+    12
+  ],
+  "new_facts_assessment": "F974 is necessary and consistent. F975 is necessary but collides with F940: witness entries on Chathu's leaves burned at the ch24 namings. F976 is necessary, but the 'twelve before a killing' tin count clashes with F080/F587/F884. F977 is necessary, but the draft wrongly folds Thulasi (one of the forty) into the crown-leaf thirty.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Twists without setup",
+    "Irrational behaviour to extend plot"
+  ],
+  "average": 3.25,
+  "minimum": 0.0,
+  "passed": false
+}
