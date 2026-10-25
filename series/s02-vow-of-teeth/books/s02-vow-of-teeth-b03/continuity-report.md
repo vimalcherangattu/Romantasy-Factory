@@ -2,31 +2,37 @@
 
 ## What I checked
 
-- **Names, ages and titles:** Neela 27, Devan 32, Janu 61, the queen 54, Thilak 41, Kamalakshi about 19. Also the guard names Usha, Sajan, Lata and Sanu, and Sanu's sex.
-- **Body-count arithmetic:** the 42-odiyan votes, the 76/75 defenders, the 26 of 30 namings and the remaining crown leaves.
-- **The timeline:** the ride to Kodiyur and back, the order of the noon signals, and when the queen's letter and its reply happened.
-- **Wound-share and injuries:** the forearm, back, ribs and collarbone wounds, the blisters, and Devan's hand.
-- **The magic rules:** turning, witnesses, self-naming, pages, and the plain-ink twist.
-- **Objects:** the iron seal, the oilcloth bundle, the pebbles, the tins of sweets and the birds.
-- **Relationship callbacks:** "say it before you do it", the left-side guard, and the breath hitches.
+- **Bible:** world rules (turning, witness word, self-naming, ledger), cast, ages and places.
+- **Continuity file:** all continuity.json facts, including the book 1 and book 2 summaries.
+- **Outline:** the book's own outline.
+- **Within the book:** the text against itself.
+
+I tracked:
+- **Wound-share pairs:** rope burns, the forearm cuts, the upper-arm graze, the back hook, the rib hook, the palms, the collarbone spear, the ankle.
+- **Counts:** odiyans, the thirty guards, votes, the dead, resin pinches, tins of sweets.
+- **Noon signals and the day-by-day timeline:** the road to Kodiyur, the noon gun day, the queen's arrival, the assault.
+- **Who knows what:** the guard change, the plain-ink pages, Asha's last words.
+- **Objects:** the oilcloth bundle, the leaf cases, the roll, the tin.
 
 ## Errors found (12)
 
-- **E01 (major):** In ch 16, Chathu's pages are described as "tacky" resin-ink. That contradicts the ch 29 plain-ink reveal.
-- **E02:** In ch 16, the callback to Kamalakshi's question doesn't match what she actually asked in ch 3.
-- **E03:** In ch 20, Devan says the queen's letter came "while you were still in Kodiyur". In ch 17 it arrives while Neela is on the road.
-- **E04:** In ch 19, Neela's explanation of the missed noon signal merges the queen's visit with the road day, two days later, when Devan counted arrows.
-- **E05:** The iron seal is on a peg in ch 9, on a cord at his chest in ch 4, and at his belt everywhere else.
-- **E06:** Ch 5 says "three weeks" of bracing for a raid. It should be three days.
-- **E07:** Ch 14 says Devan's back went unguarded for "eight years". It should be six, since Asha's death.
-- **E08:** Ch 2 says he measured the drill's gap for eight years. It should be seven.
-- **E09:** Ch 7 places Muthu's confession in the gate chamber. Book 2 placed it in the kalari pit.
-- **E10:** Ch 20 says Devan stitched himself on a boulder. Ch 14 has him on a ladder rung.
-- **E11:** Ch 28 says Janu's hand wrap dates "from the day before". It has been on since ch 4.
-- **E12:** Ch 31 says Devan's blister came from "hauling the shed door". He was carried on that door while unconscious.
+**Major**
+- **E10, ch 26:** Neela "had never seen" Thankam, whom she met in the Kodiyur shed in ch 12.
+- **E12, ch 31:** Devan signs the roll as if for the first time, though he signed it left-handed in ch 28.
 
-## Problems in the continuity file, not the book
+**Minor**
+- **E01, ch 1:** Vellan says "I'll start now" but stays at the shelter.
+- **E02, ch 3 and ch 18:** Neela's memory of the gorge vote adds a pebble, a spoken "yes", Biju (not yet met) and a misquoted line. Fixed by adding the pebble and the "yes" to ch 3.
+- **E03, ch 5:** Neela claims she held the mirror man when Devan was cut, but he was only taken at dawn.
+- **E04, ch 8:** "Neela's six" stand by the pony while Thilak, one of the six, works the bar.
+- **E05, ch 9:** The household's "your wife is kept" threat is reassigned to Muthu. In canon it was meant for the Keeper about his own wife.
+- **E06, ch 12 and ch 15:** Usha's description of the sea-stair guard change contradicts how the change actually happens.
+- **E07, ch 18:** Chathu's sweet "went to ash" and was eaten "in the dark", against ch 13, where it was perfect and eaten by his lamp.
+- **E08, ch 22:** One of the thirty guards is unaccounted for. Twenty-nine reach Kettamala, but thirty are present in ch 24.
+- **E09, ch 24 and ch 27:** The leaves burn in the red case, but the scorched case is the green one.
+- **E11, ch 29:** Ponni is said to be "sleeping in Kesu's shed", which burned in ch 14.
 
-- **F877/F880:** These say Kuttu asked Vellan whom he would name, in ch 17. Kuttu was in Kodiyur then. The text correctly has Thulasi ask, and ch 20 matches. The facts should be corrected; new-facts.json does this.
-- **F864:** This describes a ch 3 exchange that never happens on the page. After E02 is applied, it should be retired.
-- **F798:** This puts Neela's ch 8 welt on her forearm. The book has it running from shoulder to elbow, consistently.
+## Notes, not flagged as errors
+
+- **Who asked Vellan:** The book has Thulasi asking Vellan to be named to him (ch 17, ch 20, ch 24). Provisional F877 and F880 say Kuttu. The book is consistent with itself, so the new facts record Thulasi.
+- **Escort's stay:** F807 says the escort spent four days in the gate chamber. The text says three days in the south range (ch 2, ch 9). The text is consistent with itself.

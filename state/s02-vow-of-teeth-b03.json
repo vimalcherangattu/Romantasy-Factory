@@ -3,7 +3,7 @@
   "series_id": "s02-vow-of-teeth",
   "number": 3,
   "title": "Crown of Night",
-  "status": "in_progress",
+  "status": "blocked",
   "stage": "S3",
   "done": [
     "S3"
@@ -603,7 +603,9 @@
   },
   "chapter_count": 32,
   "flags": [],
-  "errors": [],
+  "errors": [
+    "2 major continuity errors remain after 2 fix round(s): ch 26: In Neela's POV, Thankam is introduced as a woman 'Neela had never seen before'. Neela met Thankam in the Kodiyur drying shed in ch 12 and watched her lay down the paring knife.; ch 31: In ch 28 Devan has already signed the Company roll, left-handed and badly, directly under Neela's name, in front of everyone. Ch 31 says there is 'a gap' beside her name and has him sign for the first time, saying 'I can't hold the pen'."
+  ],
   "revision_round": 0,
   "asin": null,
   "created_at": "2026-10-19T17:42:11",
@@ -1310,9 +1312,13 @@
     {
       "at": "2026-10-25T20:56:13",
       "event": "done: S7 continuity"
+    },
+    {
+      "at": "2026-10-25T21:07:37",
+      "event": "blocked at S7 continuity: 2 major continuity errors remain after 2 fix round(s): ch 26: In Neela's POV, Thankam is introduced as a woman 'Neela had never seen before'. Neela met Thankam in the Kodiyur drying shed in ch 12 and watched her lay down the paring knife.; ch 31: In ch 28 Devan has already signed the Company roll, left-handed and badly, directly under Neela's name, in front of everyone. Ch 31 says there is 'a gap' beside her name and has him sign for the first time, saying 'I can't hold the pen'."
     }
   ],
-  "updated_at": "2026-10-25T20:56:13",
+  "updated_at": "2026-10-25T21:07:37",
   "midpoint_chapter": 16,
   "continuity_attempts": 2,
   "continuity_last_errors": 1
