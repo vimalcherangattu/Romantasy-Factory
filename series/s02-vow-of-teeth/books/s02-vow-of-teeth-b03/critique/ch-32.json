@@ -1,41 +1,42 @@
 {
   "scores": {
     "reader_question": 4.0,
-    "change": 3.0,
+    "change": 4.0,
     "romance_movement": 3.0,
     "shown_chemistry": 3.0,
-    "character_logic": 3.0,
+    "character_logic": 4.0,
     "stakes_and_cost": 3.0,
     "prose": 3.0,
-    "continuity": 0.0
+    "continuity": 5.0
   },
   "reasons": {
-    "reader_question": "The rogue's ledgerless wrists and fresh clove-bark resin pose a sharp, specific question that points to a second House. The sea lords' purpose is only implied.",
-    "change": "The Company moves from chartered to tested by the world. Most of the chapter is an epilogue tour, and power only shifts in the last scene.",
-    "romance_movement": "There is new movement at the door: they disagree openly and he defers. The rest of the chapter shows them side by side, not changing.",
-    "shown_chemistry": "The welt on her forearm and his pink ears land well. The leads barely exchange words until the final half page.",
-    "character_logic": "Neela reasons that asking in public makes the answer the Company's, then whispers her answer. The stated tactic contradicts the action.",
-    "stakes_and_cost": "A public no would make the queen answer for it under the truce, but the chapter defers the choice to noon. Kirri's note carries real, honest cost.",
-    "prose": "There are good concrete details: the tin shutter, 310, the Indu bar. The 'It was not X. It was Y' frame recurs, and opening exposition summarises rather than dramatises.",
-    "continuity": "Devan's 'seven years on a drill' (F558, made at 25) and Muthu's 'one in seven years' break the eight-plus-year count. The ch31 lone climber is silently dropped."
+    "reader_question": "Clear, specific hinge: an unledgered rogue odiyan with fresh resin at a Thurai envoy's side, plus a hire offer whose purpose is withheld.",
+    "change": "The Company moves from chartered to working: first contract voted, first foreign offer at the door, and proof that someone still makes odiyans.",
+    "romance_movement": "The new move is a public disagreement handled as equals. But the leads barely share a scene until the last page.",
+    "shown_chemistry": "The forearm welt and Devan's pink ears land well. Otherwise attraction is mostly observed at a distance, with few exchanged responsive actions.",
+    "character_logic": "Asking openly and leaning apart is smart and in character. Devan wanting the rogue as a lead is credible.",
+    "stakes_and_cost": "Hiring out to Nellimala's burners has a moral cost, but the price of refusing is never put on the page.",
+    "prose": "Mostly clean and concrete. The closing rationale paragraph is clunky and over-explained, and a few lines read as confused.",
+    "continuity": "Consistent with the facts: horn code, scents, 63 tents, Koman, roll and kennels. Check 'answered to for twenty-one years' against Seventeen (F329)."
   },
   "fixes": [
-    "At 'She did not turn to the envoy. She spoke low' (character logic): the paragraph claims she asks in the open so the Company owns the answer, then she whispers. Either give the lean-no and lean-yes exchange aloud before Koman and the gathering Company, or cut the public-no rationale and make the whisper a deliberate private check before the public line. Move the rationale paragraph after she asks, not before.",
-    "At 'I spent seven years on a drill' and 'That's one in seven years' (continuity): the count is eight-plus years. Change Devan's line to 'eight years' to match F558, and make Muthu's 'That's one. One, since we were boys' so it agrees with 'losing to you since we were boys' and F720.",
-    "At 'Weeks after the charter, the Thurai fleet sailed' (contrived delay): ch31 ended on a lone climber Devan called the Company's first vote, and ch32 never mentions him. Add one or two sentences in the hall section identifying him as the pepper factors' runner who first carried the offer, so the cliffhanger pays off and the pepper vote is that first vote."
+    "At 'She had not been sure what he would say', the paragraph explains Neela's strategy after the fact and closes on a tangled queen clause (Endless monologue). Cut it to one or two lines. Show the effect instead: the envoy's eyes go to the listening Company, and Madhavi says 'It's ours, then.' Then go to 'She nodded once.'",
+    "In the drill scene, at 'He did not look at her. He knew she was in the doorway', the leads never exchange anything until the hinge (Romance buried by plot). Add one responsive beat. After the welt rises, Devan glances to the doorway, lifts his stung forearm a finger's width as apology, and she answers by rubbing hers in a gesture only he reads. Keep it under 60 words.",
+    "At 'She had been the guild's best liar, and nobody had believed her', the logic is muddled: it reads as a liar nobody believed. Change it to 'She had been the guild's best liar, and this was the one promise she meant.' Also fix 'with Chathu behind him... nothing but a mop and a bucket in his hands' so it is clear the mop is Chathu's."
   ],
-  "reader_question": "Who made the rogue odiyan that no ledger holds, and what do the Thurai sea lords want to hire the Night Company's free knives for?",
+  "reader_question": "Who made the rogue odiyan that no ledger holds, and what do the Thurai sea lords want to hire free knives for?",
   "techniques_landed": [
     20,
     23,
     26
   ],
-  "new_facts_assessment": "Koman's river report is consistent and a fair open thread for the series. Revising F1013 to an open noon vote with the leads disagreeing is better than the original, but the stated 'public' rationale must match the staging. Kirri's note honours F007 and is necessary. Dropping F1012 leaves ch31's cliffhanger, the lone climber called 'our first vote', unresolved. That breaks the urge-to-resume the previous chapter set up, so restore one line rather than drop it.",
+  "new_facts_assessment": "F1070 (ch31 climber was the factors' runner) is consistent and necessary, but it is buried in one subordinate clause. That deflates ch31's cliffhanger, so give it its own beat. F1071 (open leans at the door) matches the beat and replaces F1066/F1067 cleanly. The fresh-resin rogue fits F786 and F876, and its open question is acceptable as the series hinge.",
   "content_rule_violation": false,
   "failure_modes": [
+    "Endless monologue",
     "Romance buried by plot"
   ],
-  "average": 2.75,
-  "minimum": 0.0,
-  "passed": false
+  "average": 3.62,
+  "minimum": 3.0,
+  "passed": true
 }
