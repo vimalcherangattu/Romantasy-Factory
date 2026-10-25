@@ -1,24 +1,14 @@
 {
   "facts": [
     {
-      "category": "knowledge",
-      "fact": "Koman reports at the hall door that the long, low shape was in the river below the pass again at dawn, took nothing, and watched the road. Left unresolved (series thread, C13)."
+      "category": "plot",
+      "fact": "Restores F1012: the lone climber of ch31 was the pepper factors' runner, a barefoot boy with a satchel who first carried word of the pepper-cart offer; the vote in ch32 is that first vote, now backed by the factors' written letter. Replaces F1069.",
+      "since": "s02-vow-of-teeth-b03 ch 32"
     },
     {
       "category": "relationship",
-      "fact": "Neela asks Devan 'How do you vote?' in the open, in the envoy's sight, so the sea lords see the Company decide in public; a public no under the queen's open truce would have the queen answer for it. Devan says 'You first', steps back half a pace and lowers his good hand."
-    },
-    {
-      "category": "relationship",
-      "fact": "Neela tells Devan low that she leans no (Thurai camped in Nellimala's footings). Devan answers low that he leans the other way: he wants the rogue at the table as a lead. The noon vote is open. This revises F1013, which has Neela voting no outright."
-    },
-    {
-      "category": "plot",
-      "fact": "Neela's note to Kirri admits the caging cannot be undone: the boat sails in Kirri's name, and the anklet will ride its stem when it can come off. Kirri's mind is gone."
-    },
-    {
-      "category": "plot",
-      "fact": "The pepper factors' offer arrives by ordinary letter once the pass road opens. The ch31 lone climber is not mentioned in ch32, so F1012 is dropped."
+      "fact": "Revises F1066/F1067: Neela asks 'How do you vote?' aloud in the doorway before the gathered Company and the envoy; Devan answers 'You first', and they state their leans (she no, he the other way) aloud, so the vote at noon is open and the Company's.",
+      "since": "s02-vow-of-teeth-b03 ch 32"
     }
   ]
 }
