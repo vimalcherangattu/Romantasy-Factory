@@ -1,40 +1,39 @@
 {
   "scores": {
-    "reader_question": 3.0,
+    "reader_question": 2.0,
     "change": 4.0,
     "romance_movement": 4.0,
-    "shown_chemistry": 4.0,
+    "shown_chemistry": 5.0,
     "character_logic": 4.0,
-    "stakes_and_cost": 3.0,
+    "stakes_and_cost": 2.0,
     "prose": 4.0,
     "continuity": 5.0
   },
   "reasons": {
-    "reader_question": "The Company's first vote and the stranger are both named, but the stranger is faceless and unlinked to any clue, so the itch stays vague.",
-    "change": "Hunted to chartered lands on the page: signed, recorded, witnessed, leaves burned, sums owed back, Chathu sentenced. The queen keeps the throne and loses the knives.",
-    "romance_movement": "The bargain is remade around his dead hand: she becomes his right hand, he her rest. The reason is new: his changed body and her stopped counting.",
-    "shown_chemistry": "Responsive acts carry it: untying the sash like a lock, taking his weight, him asking aloud, her uncounted exits, his reply that he would be that place.",
-    "character_logic": "Neela catching the looped rolls and designing Chathu's sentence is sharp. The queen's blindness to the rolls is plausible and thematically right.",
-    "stakes_and_cost": "Resolution chapter: the signing costs no one anything on the page, and the next decision (the vote, the stranger) has no stated price.",
-    "prose": "Specific, varied and mostly clean. The 'Seven' dawn exchange confuses, one line echoes Neela's name, and 'something she had held... let go' is generic.",
-    "continuity": "Consistent with the bible and facts: three crown leaves, Sajan and Sanu, nine stitches, the wound-share pleasure, Kirri's cage, the tent and the iron disc."
+    "reader_question": "The chapter ends on a closed, tender beat. The beat's question about the Company's first vote is never raised, so the reader carries no specific gap out.",
+    "change": "Hunted becomes chartered on the page: the signature, Muthu's seal, the burned sheet and Chathu's sentence. Power shifts visibly from crown to Company.",
+    "romance_movement": "The bargain is rebuilt around his dead hand, for a new reason: she becomes his hand, he becomes her rest. 'Bound by choice' renews the vow publicly.",
+    "shown_chemistry": "Strong responsive action: the blister held back, the sash unknotted like a lock, asking aloud, taking his weight, the sleeve threaded. Nothing is narrated.",
+    "character_logic": "Neela stopping the burn to save the rolls and asking for Chathu's sentence is smart and in character. The queen's blindness about the rolls is credible.",
+    "stakes_and_cost": "The queen reads the clauses without resistance, and the only opposition is one 'Majesty—'. Nothing ahead costs anyone a choice.",
+    "prose": "Clean, concrete and varied. A few told beats ('something she had held tight... let go', 'Nobody breathed') and a redundant 'Door, flap' in a tent.",
+    "continuity": "Consistent with F994-F1004 and F1024: three crown leaves, Kirri third from the end, the hitch counts, the ages and the green sash. Omissions are flagged in the fixes."
   },
   "fixes": [
-    "'A stranger was climbing it alone at grey': the hook rests on a faceless figure arriving by coincidence (Interrupted Action without setup). Make the langurs go silent on the cliff first, the pass's signature for strangers. Have Kuttu or Koman say the scent on the wind is the one from the river shingle (F876, F905). Give the vote a stake in one line: whatever this stranger asks, the Company may now refuse it.",
-    "'Seven,' said a voice by her ear: the numbers muddle the payoff, since 'seven breaths' and 'ninth count' compete. Cut 'Seven breaths from the first of the grey' and let his first word be 'Nine.' Change 'every morning since the wedding' to 'every morning I've woken beside you', because they were apart for Kodiyur. Check F652: if he told her in book 2, make her surprise that he never stopped, not that he started.",
-    "'I'll be your right hand,' she said: technique 14 (Cost Ledger) barely lands, because the new bargain is free. In the earlier line 'She took his weight on her own thighs', let the share carry his shoulder's ache into her own collarbone. She notices it and keeps his weight anyway, so the bargain is priced. Separately, fix the echo in 'Neela went too... and Neela saw her hand lift' to 'and saw the queen's hand lift'."
+    "At 'Then she helped him find his sleeve.': the ending has no hook, and ch32 depends on F1005/F1012. Add the interruption caused by the story: while she threads the cuff, Kuttu's horn sounds from the watch-house. Kuttu calls a lone climber on the pass road at grey. Devan says it will be the Company's first vote under the charter, with the right to refuse. End on Neela stepping out with his coat half on.",
+    "At 'Rema's pen lifted and waited.': the Nellimala clause costs nothing (stakes without depth). Make Haran step forward and ask the queen, before sixty crown and Company witnesses, to strike the clause naming the raids. Make her choose aloud to keep it, so it visibly costs her captain's regard. Give Neela a beat where she must decide whether to speak or let the queen carry it.",
+    "At 'something she had held tight since she was six years old let go': this is told interiority. Replace it with a concrete act tied to her history: she lets his hand rest at the back of her neck, the old 'wait' place, and does not stiffen. Also replace 'Nobody breathed.' with one specific sound or gesture, and cut 'flap' from 'Door, flap, the seam by the pole'."
   ],
-  "reader_question": "Who is the lone stranger climbing the pass at grey, and what will the newly chartered Company vote when it can refuse the crown?",
+  "reader_question": "What will the newly chartered Company's first vote be, now that it has the right to refuse the crown?",
   "techniques_landed": [
     9,
+    14,
     20
   ],
-  "new_facts_assessment": "Fact 1 is needed: it reconciles F957/F998 (four leaves) with Lata's ch30 naming, and Sajan/Sanu matches F882. Fact 2 fits the bible's hinge teaser and the ram's horn (F898, F926). Risk: Devan counting her hitch may already be known to Neela (F652); confirm against b02 ch31. The crown having the 'Sold to the crown' sheet and Chathu's forty in Haran's case is unexplained but does not conflict.",
+  "new_facts_assessment": "The draft lists no new facts, but it adds several: the watch-house's laterite walls, slate roof and doorless frame; Kuttu lighting the basket; Haran carrying the case; the queen never noticing the looped rolls; the 'hand on the neck means wait' habit; and Devan counting Neela's hitch every morning since the wedding. All are consistent and most are useful, but they must be logged. The queen not burning every crown leaf departs from the beat and bible, but F1052 justifies it.",
   "content_rule_violation": false,
-  "failure_modes": [
-    "Stakes without depth"
-  ],
-  "average": 3.88,
-  "minimum": 3.0,
-  "passed": true
+  "failure_modes": [],
+  "average": 3.75,
+  "minimum": 2.0,
+  "passed": false
 }
