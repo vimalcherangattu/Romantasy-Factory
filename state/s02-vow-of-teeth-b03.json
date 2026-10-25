@@ -526,7 +526,7 @@
       }
     },
     "18": {
-      "status": "passed",
+      "status": "edited",
       "revisions": 0,
       "scores": {
         "reader_question": 4.0,
@@ -540,10 +540,10 @@
       },
       "average": 3.88,
       "flags": [],
-      "words": 2713,
+      "words": 2729,
       "minimum": 3.0,
       "style": {
-        "words": 2564,
+        "words": 2729,
         "banned_hits": {},
         "ai_tell_hits": {},
         "ai_tells_per_1000": 0.0,
@@ -551,7 +551,7 @@
         "top_4gram_count": 3,
         "longest_paragraph_words": 127,
         "em_dashes_per_1000": 0.0,
-        "reading_ease": 93.2
+        "reading_ease": 93.3
       },
       "owner_instructions": [
         "Consistency with the Sanu age fix. Where Sanu says he wants to name himself to his brother, make nothing in the line imply a boy. If he or the narration mentions how long he has served, it must fit nineteen years since intake. Cut any 'young Sanu' or 'the boy' phrasing."
@@ -2082,9 +2082,13 @@
     {
       "at": "2026-10-25T23:07:05",
       "event": "done: S8 line edit ch 16"
+    },
+    {
+      "at": "2026-10-25T23:07:35",
+      "event": "done: S8 line edit ch 18"
     }
   ],
-  "updated_at": "2026-10-25T23:07:05",
+  "updated_at": "2026-10-25T23:07:35",
   "midpoint_chapter": 16,
   "continuity_attempts": 1,
   "continuity_last_errors": 3,
