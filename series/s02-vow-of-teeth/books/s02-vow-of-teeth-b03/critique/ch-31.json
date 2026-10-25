@@ -1,39 +1,41 @@
 {
   "scores": {
-    "reader_question": 2.0,
+    "reader_question": 4.0,
     "change": 4.0,
     "romance_movement": 4.0,
-    "shown_chemistry": 5.0,
+    "shown_chemistry": 4.0,
     "character_logic": 4.0,
-    "stakes_and_cost": 2.0,
+    "stakes_and_cost": 3.0,
     "prose": 4.0,
-    "continuity": 5.0
+    "continuity": 0.0
   },
   "reasons": {
-    "reader_question": "The chapter ends on a closed, tender beat. The beat's question about the Company's first vote is never raised, so the reader carries no specific gap out.",
-    "change": "Hunted becomes chartered on the page: the signature, Muthu's seal, the burned sheet and Chathu's sentence. Power shifts visibly from crown to Company.",
-    "romance_movement": "The bargain is rebuilt around his dead hand, for a new reason: she becomes his hand, he becomes her rest. 'Bound by choice' renews the vow publicly.",
-    "shown_chemistry": "Strong responsive action: the blister held back, the sash unknotted like a lock, asking aloud, taking his weight, the sleeve threaded. Nothing is narrated.",
-    "character_logic": "Neela stopping the burn to save the rolls and asking for Chathu's sentence is smart and in character. The queen's blindness about the rolls is credible.",
-    "stakes_and_cost": "The queen reads the clauses without resistance, and the only opposition is one 'Majesty—'. Nothing ahead costs anyone a choice.",
-    "prose": "Clean, concrete and varied. A few told beats ('something she had held tight... let go', 'Nobody breathed') and a redundant 'Door, flap' in a tent.",
-    "continuity": "Consistent with F994-F1004 and F1024: three crown leaves, Kirri third from the end, the hitch counts, the ages and the green sash. Omissions are flagged in the fixes."
+    "reader_question": "The horn and lone climber turn the charter into a live test: the Company's first vote with the right to refuse.",
+    "change": "Hunted becomes chartered on the page. The queen names Nellimala, loses Haran, and gives up her knives. The value shift lands cleanly.",
+    "romance_movement": "The tent remakes the bargain around his dead hand, which is a new reason. The public 'Bound by choice' beat echoes ch30's declaration.",
+    "shown_chemistry": "The sleeve grip, the blister welt, unknotting the sash like a lock, and asking aloud are all responsive actions, not narrated attraction.",
+    "character_logic": "Neela's silence during Haran's plea is smart and costly. The queen missing the intake rolls for twenty years is a slight stretch.",
+    "stakes_and_cost": "Haran's lost regard is a real price. The intimate scene and dawn carry little risk, and the vote's cost is unstated.",
+    "prose": "The prose is clean and specific. 'Dead arm/hand' repeats about eight times, and 'neither moved for a long time' and 'breath went to pieces' are stock phrases.",
+    "continuity": "'Counted it every morning since the wedding' contradicts the nights apart: Kodiyur, the Resin House and the shelf. Neela is wrong that he 'never missed a morning'."
   },
   "fixes": [
-    "At 'Then she helped him find his sleeve.': the ending has no hook, and ch32 depends on F1005/F1012. Add the interruption caused by the story: while she threads the cuff, Kuttu's horn sounds from the watch-house. Kuttu calls a lone climber on the pass road at grey. Devan says it will be the Company's first vote under the charter, with the right to refuse. End on Neela stepping out with his coat half on.",
-    "At 'Rema's pen lifted and waited.': the Nellimala clause costs nothing (stakes without depth). Make Haran step forward and ask the queen, before sixty crown and Company witnesses, to strike the clause naming the raids. Make her choose aloud to keep it, so it visibly costs her captain's regard. Give Neela a beat where she must decide whether to speak or let the queen carry it.",
-    "At 'something she had held tight since she was six years old let go': this is told interiority. Replace it with a concrete act tied to her history: she lets his hand rest at the back of her neck, the old 'wait' place, and does not stiffen. Also replace 'Nobody breathed.' with one specific sound or gesture, and cut 'flap' from 'Door, flap, the seam by the pole'."
+    "Continuity conflict at \"I've counted it every morning since the wedding.\" They spent many nights apart: Kodiyur, the four-day ride, the shelf. Change it to \"every morning I've woken beside you.\" Cut \"never once missed a morning\" and \"never once come up short\", and replace them with \"every morning they'd had, he'd spent it counting.\"",
+    "Trauma as decoration at \"Her whole life that place had been the place for wait\". The neck trigger appears only to be resolved. Either plant it earlier, or anchor it to established harm, such as Chathu's grip at her first resin (F200) or the hunters' iron rings on chains (F232). Then name that source in one clause so the release pays off a known wound.",
+    "Repetitive tension at \"Yours,\" Devan said. \"Mine looks as if a hen\". This replays ch30's public binding. Make the roll the first use of the new bargain instead: Devan asks her to write it for him (\"Ask, and I do it\"), so the tent bargain is foreshadowed in public. Add one Company reaction that shows the line means more than his ch30 words."
   ],
-  "reader_question": "What will the newly chartered Company's first vote be, now that it has the right to refuse the crown?",
+  "reader_question": "Who is climbing the pass road at grey, and will the Company use its new right to refuse?",
   "techniques_landed": [
     9,
     14,
     20
   ],
-  "new_facts_assessment": "The draft lists no new facts, but it adds several: the watch-house's laterite walls, slate roof and doorless frame; Kuttu lighting the basket; Haran carrying the case; the queen never noticing the looped rolls; the 'hand on the neck means wait' habit; and Devan counting Neela's hitch every morning since the wedding. All are consistent and most are useful, but they must be logged. The queen not burning every crown leaf departs from the beat and bible, but F1052 justifies it.",
+  "new_facts_assessment": "The watch-house details, Haran's plea and the rolls oversight are consistent and earn their place. The neck 'wait' trigger is new at the climax with no earlier plant. Devan's daily count since the wedding conflicts with established separations. The climber is fine and is paid off by F1012.",
   "content_rule_violation": false,
-  "failure_modes": [],
-  "average": 3.75,
-  "minimum": 2.0,
+  "failure_modes": [
+    "Trauma as decoration"
+  ],
+  "average": 3.38,
+  "minimum": 0.0,
   "passed": false
 }
