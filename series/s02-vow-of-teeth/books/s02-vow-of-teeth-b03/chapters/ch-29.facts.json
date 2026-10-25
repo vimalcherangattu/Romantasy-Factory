@@ -1,3 +1,24 @@
 {
-  "facts": []
+  "facts": [
+    {
+      "category": "plot",
+      "fact": "Before the whole hall, including Captain Haran and the crown sergeants, Queen Nirmala answers Neela's record of the raids with a plain 'Yes': the raids made her knives.",
+      "since": "s02-vow-of-teeth-b03 ch 29"
+    },
+    {
+      "category": "plot",
+      "fact": "Neela declares the four remaining crown-leaf pages are the four guards' to ask for and says she will sign no charter that leaves them in the crown's hand, ending the queen's leverage over the pages.",
+      "since": "s02-vow-of-teeth-b03 ch 29"
+    },
+    {
+      "category": "knowledge",
+      "fact": "Chathu's tin of warm sweets reached Neela by palace post, kept warm 'as ordered' by the column's last rider; who ordered it warmed is unexplained.",
+      "since": "s02-vow-of-teeth-b03 ch 29"
+    },
+    {
+      "category": "plot",
+      "fact": "Captain Haran's three hundred crown spears hold the cut beside the Company under the queen's word, and the three-day truce is set to run out in three days.",
+      "since": "s02-vow-of-teeth-b03 ch 29"
+    }
+  ]
 }
