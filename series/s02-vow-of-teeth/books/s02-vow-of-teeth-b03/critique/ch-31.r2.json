@@ -1,0 +1,40 @@
+{
+  "scores": {
+    "reader_question": 3.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 4.0,
+    "stakes_and_cost": 3.0,
+    "prose": 4.0,
+    "continuity": 5.0
+  },
+  "reasons": {
+    "reader_question": "The Company's first vote and the stranger are both named, but the stranger is faceless and unlinked to any clue, so the itch stays vague.",
+    "change": "Hunted to chartered lands on the page: signed, recorded, witnessed, leaves burned, sums owed back, Chathu sentenced. The queen keeps the throne and loses the knives.",
+    "romance_movement": "The bargain is remade around his dead hand: she becomes his right hand, he her rest. The reason is new: his changed body and her stopped counting.",
+    "shown_chemistry": "Responsive acts carry it: untying the sash like a lock, taking his weight, him asking aloud, her uncounted exits, his reply that he would be that place.",
+    "character_logic": "Neela catching the looped rolls and designing Chathu's sentence is sharp. The queen's blindness to the rolls is plausible and thematically right.",
+    "stakes_and_cost": "Resolution chapter: the signing costs no one anything on the page, and the next decision (the vote, the stranger) has no stated price.",
+    "prose": "Specific, varied and mostly clean. The 'Seven' dawn exchange confuses, one line echoes Neela's name, and 'something she had held... let go' is generic.",
+    "continuity": "Consistent with the bible and facts: three crown leaves, Sajan and Sanu, nine stitches, the wound-share pleasure, Kirri's cage, the tent and the iron disc."
+  },
+  "fixes": [
+    "'A stranger was climbing it alone at grey': the hook rests on a faceless figure arriving by coincidence (Interrupted Action without setup). Make the langurs go silent on the cliff first, the pass's signature for strangers. Have Kuttu or Koman say the scent on the wind is the one from the river shingle (F876, F905). Give the vote a stake in one line: whatever this stranger asks, the Company may now refuse it.",
+    "'Seven,' said a voice by her ear: the numbers muddle the payoff, since 'seven breaths' and 'ninth count' compete. Cut 'Seven breaths from the first of the grey' and let his first word be 'Nine.' Change 'every morning since the wedding' to 'every morning I've woken beside you', because they were apart for Kodiyur. Check F652: if he told her in book 2, make her surprise that he never stopped, not that he started.",
+    "'I'll be your right hand,' she said: technique 14 (Cost Ledger) barely lands, because the new bargain is free. In the earlier line 'She took his weight on her own thighs', let the share carry his shoulder's ache into her own collarbone. She notices it and keeps his weight anyway, so the bargain is priced. Separately, fix the echo in 'Neela went too... and Neela saw her hand lift' to 'and saw the queen's hand lift'."
+  ],
+  "reader_question": "Who is the lone stranger climbing the pass at grey, and what will the newly chartered Company vote when it can refuse the crown?",
+  "techniques_landed": [
+    9,
+    20
+  ],
+  "new_facts_assessment": "Fact 1 is needed: it reconciles F957/F998 (four leaves) with Lata's ch30 naming, and Sajan/Sanu matches F882. Fact 2 fits the bible's hinge teaser and the ram's horn (F898, F926). Risk: Devan counting her hitch may already be known to Neela (F652); confirm against b02 ch31. The crown having the 'Sold to the crown' sheet and Chathu's forty in Haran's case is unexplained but does not conflict.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Stakes without depth"
+  ],
+  "average": 3.88,
+  "minimum": 3.0,
+  "passed": true
+}
