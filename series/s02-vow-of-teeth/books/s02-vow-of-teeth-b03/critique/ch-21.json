@@ -2,38 +2,39 @@
   "scores": {
     "reader_question": 4.0,
     "change": 3.0,
-    "romance_movement": 3.0,
+    "romance_movement": 4.0,
     "shown_chemistry": 4.0,
     "character_logic": 3.0,
     "stakes_and_cost": 4.0,
-    "prose": 4.0,
+    "prose": 3.0,
     "continuity": 0.0
   },
   "reasons": {
-    "reader_question": "Rope or light: will Devan's writ wound the queen, and will the spears turn at noon? The chapter states this question outright.",
-    "change": "Neela moves from secret temptation to shared, voiced ground. Knowledge barely moves; the plan was mostly set in ch20.",
-    "romance_movement": "Asking to be watched by lamplight is a new and earned step. The dawn division of labour repeats ch20's 'step behind me' terms.",
-    "shown_chemistry": "Responsive acts carry it: the palm turned up, 'I won't make it smaller', the stitches kissed, the breath held still so she can count it.",
-    "character_logic": "Both disclosures fit the bible. The seal exchange ('I kept one too') is muddled, and Devan citing Chathu as the sleeve-keeper is odd.",
-    "stakes_and_cost": "Devan prices the reading exactly: ninety-eight defenders, three hundred spears, and possibly the pass.",
-    "prose": "Clean, concrete, few tells, varied rhythm. A few lines are over-explained ('It was what she had needed').",
-    "continuity": "'Counted it for forty nights' conflicts with counting since B1 ch6 across three books. The seal secrecy line also muddles B1 ch32's shared match."
+    "reader_question": "Clear twin question: will reading the writ cost the spears and the pass, and will Neela say what she is at the gate?",
+    "change": "Both temptations are now spoken and Devan commits to reading the writ. The split of roles mostly repeats ch20's terms (F907).",
+    "romance_movement": "Being seen becomes something she asks for with the lamp lit. That reason is new. 'Won't speak for her' repeats ch20.",
+    "shown_chemistry": "Thumb on the blister, the stitches kissed past, and the shared ache under her arm all show attraction through response, not narration.",
+    "character_logic": "Devan's cost-count is sharp. He has used this hollow repeatedly, yet 'never found' a scrap under the camphor block, which strains belief.",
+    "stakes_and_cost": "Cost is named exactly: spears, pass, garrison trust, and the 'not knowing' Devan agrees to carry.",
+    "prose": "Clean and concrete. 'Rough/roughly' repeats, the sex scene has generic patches, the count speech is clunky, and the pebble ending is redundant.",
+    "continuity": "Draft says chit and seal stayed in the hollow and only the writ travelled. F744/F916 put chit and writ, then seal, in his pack on the hill."
   },
   "fixes": [
-    "'as she had counted it for forty nights' (continuity). She has counted his hitch since book 1 ch6, through two books. Change it to 'as she had counted it since the first week of her marriage, and only lately told him why', or simply 'as she had counted it every night she could'.",
-    "'For weeks that seal had ridden in his own sleeve' through 'I kept one too' (character logic, confusing). Neela saw the seal match in book 1 ch32, so the secrecy reads wrong. Either cut the exchange, or make it specific: he kept back from her that he had moved the seal out of his sleeve into the bundle, and he says so now. Also change 'was Chathu' to the queen or Ittan.",
-    "'I'll stand a step behind you. I won't speak for you.' (Repetitive tension: ch20 already set 'you don't answer for me' and 'a step behind'). Cut the restated term to one line and spend the beat on something new. For example, Neela decides whether she will say aloud at the gate what she is, and Devan must accept not knowing her choice until noon."
+    "At 'There was room for a third thing, and the third thing was not there' there is a continuity conflict with F744/F916. Follow the beat: Devan returned the whole oilcloth bundle to the hollow last night (F910), so at dawn she finds chit, writ and seal together. Cut the 'Since the hill' exchange. Keep him lifting the writ and declaring he will read it.",
+    "At 'A scrap of paper, folded twice, gone soft as cloth' the setup is unfair and the image is recycled from Asha's chest (F418). Replace it with Devan taking Asha's real last note from his carved box (F415) and reading the full line he withheld in book 1, 'If you're reading this, I was right...'. That makes it a true rung on the disclosure ladder, not a convenient discovery.",
+    "At 'I won't take the command,' she said. 'That's settled.' the beat wants the explicit scene to change the bargain. Move this decision to after the lovemaking, prompted by being seen. Cut the redundant 'And not put it in your mouth.' Restate the count as 'A hundred and four. Six in the ground. Ninety-eight.' Change one of the two 'roughly' lines."
   ],
-  "reader_question": "When Devan reads the queen's payment writ at the gate, will he use it as a weapon to break her or only as a light, and will her three hundred spears turn on them?",
+  "reader_question": "When Devan reads the queen's writ aloud at the gate with three hundred of her spears watching, will it break the defence of the pass, and will Neela name herself there?",
   "techniques_landed": [
     9,
     10,
     20
   ],
-  "new_facts_assessment": "The defender count is consistent with F801, F818 and F896, as long as none of the six dead was an odiyan; confirm that the Kalladi woman was garrison. Adding the gift seal to the bundle is needed for the dawn inventory and fits F071 and F744. The gate term largely duplicates F907 (ch20) and adds only 'the writ is my account'. Merge it with F907 rather than logging it as new.",
+  "new_facts_assessment": "F1036 conflicts with on-page ch2 (F744: chit and writ both in his pack) and with F916, F927 and F1015, and it contradicts the beat. F1037 recycles F115/F418 (the 'Say it anyway' line under a camphor block), is implausible, and is unnecessary. F1038 is consistent and useful.",
   "content_rule_violation": false,
   "failure_modes": [
-    "Repetitive tension"
+    "Repetitive tension",
+    "Twists without setup"
   ],
   "average": 3.12,
   "minimum": 0.0,
