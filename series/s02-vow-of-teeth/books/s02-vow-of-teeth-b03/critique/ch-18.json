@@ -3,39 +3,39 @@
     "reader_question": 4.0,
     "change": 4.0,
     "romance_movement": 4.0,
-    "shown_chemistry": 4.0,
+    "shown_chemistry": 3.0,
     "character_logic": 4.0,
     "stakes_and_cost": 4.0,
     "prose": 3.0,
-    "continuity": 0.0
+    "continuity": 5.0
   },
   "reasons": {
-    "reader_question": "Blistered palms under a black smoke column ask a sharp question: what is Devan holding in fire, and is he alive?",
-    "change": "Neela moves from private temptation to a public refusal to decide alone, bares her scars, and reframes Ammu's call.",
-    "romance_movement": "The leads are apart, yet her new fear of his vote, and the burn through the wound-share, move the bond in a new direction.",
-    "shown_chemistry": "Pebble memory and blisters are shown, not narrated. The reader knows Devan already answered, which gives the irony bite.",
-    "character_logic": "Her reasons hold: she won't ask thirty more to bleed. Charging 28 riders into unknown smoke is rash but in character.",
-    "stakes_and_cost": "The vote risks hearing Devan's gentle yes or no. The descent risks the riders, and his burning hands are hers.",
-    "prose": "Strong images ('a coin laid on a table'). Song and knot get muddled, 'or the hunger of them' is murky, and consecutive paragraphs open with 'She'.",
-    "continuity": "Biju is cited as a reason for a vote held before he appears. 'Thirty years' clashes with twenty years of sales. The no-smear order is misdated."
+    "reader_question": "The blistered palms give a sharp, specific question: what is Devan holding in the fire, and will he live?",
+    "change": "Neela moves from a private temptation to a public 'I won't take it by myself'. She bares her scars and rereads Ammu's call.",
+    "romance_movement": "The leads are apart. Her new fear is his gentle yes or a no said for her sake. The reader knows he already answered alone.",
+    "shown_chemistry": "Shown through memory only: the pebble, the flat yes, the gate on his fingers. The wound-share ending lands, but nothing is in-scene.",
+    "character_logic": "Washing off the paste in front of the queen's guards is a smart, costly act. Deferring to the vote fits her arc and Ammu's loss.",
+    "stakes_and_cost": "Giving the choice to the vote costs her control and exposes her to Devan's voice. The ride into the smoke costs her body.",
+    "prose": "Strong lines (the gate on his fingers, four stars) sit beside reintroduction exposition, a 'hundredth time' cliché and a muddled jackal-call passage.",
+    "continuity": "Consistent with F882, F883, F884, F890, F891, F892 and F746. Lata's 'twenty years' sits loosely against F1030's thirty, but she speaks for herself."
   },
   "fixes": [
-    "At 'for Kesu's people, for a boy in a red headcloth': continuity. The southward vote (F754) predates Biju (F801). Cut the boy or name a then-living stake. At 'Thirty years she hasn't caged one of us': sales ran twenty years (F715), so change it to 'twenty'. At 'It had been Devan's last order before she left': the order dates from the shelter (F746). Reword as 'Devan's standing order on the road'.",
-    "At 'But Ammu had given it on the nights': the reinterpretation is asserted, not earned. Anchor it in one concrete remembered night: the fever dawn of ch13, the empty cup, Ammu waiting rather than reporting. Let Neela see that Ammu called instead of acting alone. Then the yard call reads as Ammu's last refusal to let Neela choose by herself.",
-    "At 'From someone who heard it at a net-mender's knee': the song and the double hitch are conflated, and the reader loses which memory is being reread. Keep Neela's answer to Kuttu about the song only. Then make the knot thought explicit, e.g. 'Like the hitch. Ammu had said a net-mender taught them both.' Also rework 'The Thurai, or the hunger of them' and vary the paired 'She' paragraph openings at the stream."
+    "Reinterpretation callback, at 'It had never meant I'll arrive. It had meant don't decide without me.': the new meaning is asserted, not earned, and it blurs against Ammu deciding alone in the yard. Ground it in one remembered act: what Ammu did after each call (waited, kept the stone, told no one). Then add one line naming the irony: Ammu went alone, and Neela will not.",
+    "Expository reintroduction, at 'He was Kumaran, a ferryman's son, not yet thirty' and 'She was Third Guard, the one who had refused her page': a book 3 reader knows both. Cut the résumé lines. Let Kuttu's ladle and Lata's buttoned cuffs carry them. Spend the saved words on Usha's silent reaction when Neela says she won't take the offer by herself.",
+    "Continuity and new facts, at 'Twenty years she hasn't caged one of us' and 'warm still from some fire she had not seen': change Lata's line to 'In all my years she hasn't caged one of us' so it doesn't contradict F1030's thirty. Make the tin warm from the horse's flank, or list the unexplained heat in new-facts.json as a deliberate plant."
   ],
-  "reader_question": "What has Devan taken hold of in that fire with his bare hands, and is he still alive on the shelf?",
+  "reader_question": "Whose bare hands are in the fire below the shoulder, and is Devan alive on the shelf?",
   "techniques_landed": [
     10,
     15,
     20
   ],
-  "new_facts_assessment": "F890 (sealed strip spoken aloud) is a tidy, needed replacement for F887. F891's reading of the jackal call is consistent with F252 and F127 but rests on only two remembered instances, so it feels asserted. F892 attaches Biju to the vote that sent Neela south, which predates his appearance (F754 vs F801); revise. F893's long-table question custom is plausible and harmless.",
+  "new_facts_assessment": "new-facts.json is empty, yet the draft adds facts. Chathu's tin stays warm against her thigh after days of riding, which implies an unexplained heat; flag it or cut it. Lata states twenty years without a caging (F1030 says thirty). Kuttu is not yet thirty. Pavi bought soap from a tinker. Neela infers the double hitch came from Ammini by way of herself. Only the warm tin and the twenty years need action.",
   "content_rule_violation": false,
   "failure_modes": [
-    "Twists without setup"
+    "Endless monologue"
   ],
-  "average": 3.38,
-  "minimum": 0.0,
-  "passed": false
+  "average": 3.88,
+  "minimum": 3.0,
+  "passed": true
 }
