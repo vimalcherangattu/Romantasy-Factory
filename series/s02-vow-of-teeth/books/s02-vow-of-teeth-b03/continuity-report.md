@@ -1,38 +1,42 @@
-# Continuity report: Crown of Night (book 3, chapters 1–32)
+# Continuity report: Crown of Night (book 3, ch 1–32)
 
-## What I checked
+## What was checked
 
-- **Bible:** world rules (turning, witness word, self-naming, ledger), cast, ages and places.
-- **Continuity file:** all continuity.json facts, including the book 1 and book 2 summaries.
-- **Outline:** the book's own outline.
-- **Within the book:** the text against itself.
+- The full text against the series bible, all continuity facts (F001–F1015), the book 3 outline, and the summaries of books 1 and 2.
+- Names, ages and titles, including the guards' numbers and birth names.
+- Day counts across the road to Kodiyur, the noon-prick signals, and the queen's column.
+- Wound-share pairings, compared side by side for every injury.
+- Witness, self-naming and ledger rules.
+- The location of objects: crown-leaf pages, Chathu's forty, the oilcloth bundle, the tin and the pebbles.
+- Who-knows-what, and every callback to books 1 and 2.
 
-I tracked:
-- **Wound-share pairs:** rope burns, the forearm cuts, the upper-arm graze, the back hook, the rib hook, the palms, the collarbone spear, the ankle.
-- **Counts:** odiyans, the thirty guards, votes, the dead, resin pinches, tins of sweets.
-- **Noon signals and the day-by-day timeline:** the road to Kodiyur, the noon gun day, the queen's arrival, the assault.
-- **Who knows what:** the guard change, the plain-ink pages, Asha's last words.
-- **Objects:** the oilcloth bundle, the leaf cases, the roll, the tin.
+## Errors found
 
-## Errors found (12)
+All 13 are minor. There are no majors.
 
-**Major**
-- **E10, ch 26:** Neela "had never seen" Thankam, whom she met in the Kodiyur shed in ch 12.
-- **E12, ch 31:** Devan signs the roll as if for the first time, though he signed it left-handed in ch 28.
+- **E01:** Madhavi misstates the witness rule. She claims the queen can cage the forty.
+- **E02:** The Kodiyur party's departure time is wrong in ch 6.
+- **E03:** Neela is nine in the ch 13 long-table memory but ten elsewhere.
+- **E04:** In ch 14 Devan ignores Neela's early noon signal from ch 15.
+- **E05:** The book has Thulasi ask Vellan whom he would self-name to; continuity says Kuttu.
+- **E06:** In ch 18 Neela misremembers the ch 1 and ch 3 vote scenes.
+- **E07:** Ch 18 contradicts how the sweet tasted in ch 13.
+- **E08:** Ch 21 misplaces where Devan wrote his refusal.
+- **E09:** Usha's fresh page is in two places, and the original intake rolls appear duplicated on the fresh pages.
+- **E10:** The seventh-day round debt ignores the book 2 sparring round.
+- **E11:** The "Sold to the crown" sheet appears in the queen's case without explanation.
+- **E12:** There is no room under the two names for "Bound by choice".
+- **E13:** A forty-year-old guard falls outside the twenty-year sales window.
 
-**Minor**
-- **E01, ch 1:** Vellan says "I'll start now" but stays at the shelter.
-- **E02, ch 3 and ch 18:** Neela's memory of the gorge vote adds a pebble, a spoken "yes", Biju (not yet met) and a misquoted line. Fixed by adding the pebble and the "yes" to ch 3.
-- **E03, ch 5:** Neela claims she held the mirror man when Devan was cut, but he was only taken at dawn.
-- **E04, ch 8:** "Neela's six" stand by the pony while Thilak, one of the six, works the bar.
-- **E05, ch 9:** The household's "your wife is kept" threat is reassigned to Muthu. In canon it was meant for the Keeper about his own wife.
-- **E06, ch 12 and ch 15:** Usha's description of the sea-stair guard change contradicts how the change actually happens.
-- **E07, ch 18:** Chathu's sweet "went to ash" and was eaten "in the dark", against ch 13, where it was perfect and eaten by his lamp.
-- **E08, ch 22:** One of the thirty guards is unaccounted for. Twenty-nine reach Kettamala, but thirty are present in ch 24.
-- **E09, ch 24 and ch 27:** The leaves burn in the red case, but the scorched case is the green one.
-- **E11, ch 29:** Ponni is said to be "sleeping in Kesu's shed", which burned in ch 14.
+## Noted, not raised
 
-## Notes, not flagged as errors
+These items are consistent within the book but conflict with stale draft facts:
 
-- **Who asked Vellan:** The book has Thulasi asking Vellan to be named to him (ch 17, ch 20, ch 24). Provisional F877 and F880 say Kuttu. The book is consistent with itself, so the new facts record Thulasi.
-- **Escort's stay:** F807 says the escort spent four days in the gate chamber. The text says three days in the south range (ch 2, ch 9). The text is consistent with itself.
+- **F807:** The escort's stay is three days in the south range in the book, not four days in the gate chamber.
+- **F798:** The welt is on Neela's upper arm in the book, not her forearm.
+- **F1000:** The rope blister comes from the shelf ropes, not from hauling the door.
+
+Also noted:
+
+- **Neela's left hand:** it is still bandaged in ch 2–4 with no new cause given. This is ambiguous rather than contradictory.
+- **The oilcloth bundle in ch 24 and ch 30:** its path from Devan's coat back to the shutter hollow is not shown, but is plausible.

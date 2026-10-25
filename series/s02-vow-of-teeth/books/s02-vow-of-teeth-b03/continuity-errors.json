@@ -2,42 +2,92 @@
   "open_errors": [
     {
       "id": "E01",
-      "chapter": 1,
+      "chapter": 3,
       "severity": "minor",
-      "category": "timeline",
-      "issue": "After the vote Vellan says \"I'll start now\" for the gorge, but he is still at the shelter at dusk (ch 2), at the council next morning (ch 3), and comes down with everyone (ch 4).",
-      "fix": "Make Vellan's line a promise to go first on the ropes, not to leave at once.",
+      "category": "magic",
+      "issue": "Madhavi, a Resin House member who knows the witness rule, says the queen can cage the forty without a page. The queen never witnessed any of the forty turn, so she cannot cage them. Nobody corrects the claim.",
+      "fix": "Change Madhavi's claim from caging to keeping.",
       "patches": [
         {
-          "chapter": 1,
-          "find": "\"Forty paces wants more than one man,\" he said. \"I'm slow on a hill. I'll start now.\"",
-          "replace": "\"Forty paces wants more than one man,\" he said. \"I'm slow on a hill. I'll want the first rope when we go.\""
+          "chapter": 3,
+          "find": "She doesn't need a page to cage *us*, if we walk in.",
+          "replace": "She won't need a page to keep *us*, once we've walked in."
         }
       ]
     },
     {
       "id": "E02",
+      "chapter": 6,
+      "severity": "minor",
+      "category": "timeline",
+      "issue": "Ch 6 says the five go south 'at the next light'. In ch 7, the following day, Neela says they leave at first light, and in ch 8 they set off a day later than ch 6 states.",
+      "fix": "Make the departure time open-ended.",
+      "patches": [
+        {
+          "chapter": 6,
+          "find": "Pavi and the others would go south at the next light.",
+          "replace": "Pavi and the others would go south as soon as the gorge let them."
+        }
+      ]
+    },
+    {
+      "id": "E03",
+      "chapter": 13,
+      "severity": "minor",
+      "category": "timeline",
+      "issue": "The long-table memory has Neela at nine. Ch 29 and continuity (F232, F493) place the same scene at ten.",
+      "fix": "Make her ten.",
+      "patches": [
+        {
+          "chapter": 13,
+          "find": "For an instant she was nine years old on a bench with her feet not reaching the floor",
+          "replace": "For an instant she was ten years old on a bench with her feet not reaching the floor"
+        }
+      ]
+    },
+    {
+      "id": "E04",
+      "chapter": 14,
+      "severity": "minor",
+      "category": "knowledge",
+      "issue": "In ch 15 Neela pricks her thumb half an hour before the noon gun so that Devan gets an early signal (F857). In ch 14, the same hour, Devan reasons as if no welts reached him at all.",
+      "fix": "Have Devan register the early welts without understanding them.",
+      "patches": [
+        {
+          "chapter": 14,
+          "find": "He counted the hour, too. It was well past noon by the sun, and he had not pricked his thumb.",
+          "replace": "He counted the hour, too. It was well past noon by the sun, and he had not pricked his thumb. Hers had come early, three small stings on the climb, a half hour short of noon, and he had not known what early meant."
+        }
+      ]
+    },
+    {
+      "id": "E05",
+      "chapter": 17,
+      "severity": "minor",
+      "category": "relationship",
+      "issue": "Continuity F877 and F880 say Kuttu asked Vellan whom he would self-name to. The book says Thulasi asked, and ch 20 echoes this with 'the girl'.",
+      "fix": "Make Kuttu the asker in ch 17 and adjust Vellan's echo in ch 20.",
+      "patches": [
+        {
+          "chapter": 17,
+          "find": "\"Thulasi asked me.\"",
+          "replace": "\"Kuttu asked me.\""
+        },
+        {
+          "chapter": 20,
+          "find": "\"No,\" he said. \"I told the girl once.\"",
+          "replace": "\"No,\" he said. \"I told the lad once.\""
+        }
+      ]
+    },
+    {
+      "id": "E06",
       "chapter": 18,
       "severity": "minor",
       "category": "timeline",
-      "issue": "Neela remembers that on \"the night\" the hands sent her south Devan put a pebble in his cheek before the count and then said \"yes\" to the result, for Kesu's people and \"a boy in a red headcloth\". In ch 3 the vote is in the morning, there is no pebble, and Devan says nothing. Biju (the red headcloth) is not introduced until ch 8. She also quotes a shelter line (\"I go where the hands send me\") that Devan never says.",
-      "fix": "Put the pebble and the flat 'Yes' into the ch 3 vote, make the memory 'morning', and replace the anachronistic and misquoted details.",
+      "issue": "Neela misremembers two scenes. The ch 3 vote that sent her south was held in the morning, not at night. In the shelter (ch 1) Devan said 'If the hands say no, I sit by this fire and hate it', with no pebble, not 'I go where the hands send me'.",
+      "fix": "Correct the time of the vote and the quoted line.",
       "patches": [
-        {
-          "chapter": 3,
-          "find": "She counted. Twenty hands. Devan's was among them, steady and open, and he did not look at her as it rose.",
-          "replace": "She counted. Twenty hands. Devan had a river pebble in his cheek, and his hand was among them, steady and open, and he did not look at her as it rose."
-        },
-        {
-          "chapter": 3,
-          "find": "On the far side of the plank, Devan folded his arms and looked at the ash, where his short bar and Neela's cliff sat eleven inches apart.",
-          "replace": "On the far side of the plank, Devan took the pebble from his cheek and said, \"Yes,\" flat and careful. Then he folded his arms and looked at the ash, where his short bar and Neela's cliff sat eleven inches apart."
-        },
-        {
-          "chapter": 18,
-          "find": "He had said so himself, in the shelter, with a pebble in his cheek and no office: *I go where the hands send me.*",
-          "replace": "He had said so himself, in the shelter, with no office: *If the hands say no, I sit by this fire and hate it.*"
-        },
         {
           "chapter": 18,
           "find": "She had watched him do it the night the hands sent her south.",
@@ -45,78 +95,8 @@
         },
         {
           "chapter": 18,
-          "find": "One flat word, level and careful, for the pass, for Kesu's people, for a boy in a red headcloth.",
-          "replace": "One flat word, level and careful, for the pass, for Kesu's people, for Parukutty's two."
-        }
-      ]
-    },
-    {
-      "id": "E03",
-      "chapter": 5,
-      "severity": "minor",
-      "category": "timeline",
-      "issue": "Neela says she had the mirror man's wrist in her teeth when Devan took the knife cut. The cut happens at the picket, before Koman arrives. At that point Neela has only been told to 'Look. Don't take him yet', and the mirror man is taken much later, at first sun.",
-      "fix": "She was watching the mirror man when the cut came, not holding him.",
-      "patches": [
-        {
-          "chapter": 5,
-          "find": "\"Third thing I felt on the lip,\" she said. \"I had the mirror man's wrist in my teeth when you took that knife. I nearly dropped him.\"",
-          "replace": "\"Third thing I felt on the lip,\" she said. \"I was lying a length above the mirror man when you took that knife. I nearly went for him.\""
-        }
-      ]
-    },
-    {
-      "id": "E04",
-      "chapter": 8,
-      "severity": "minor",
-      "category": "names",
-      "issue": "\"Neela's six stood by a pack pony\" down the road, while Thilak, one of the six, is working the pry-bar with Devan at the shelf.",
-      "fix": "Say that the rest of the six wait while Thilak lends an hour at the bar.",
-      "patches": [
-        {
-          "chapter": 8,
-          "find": "Down the road, on the verge where the gorge opened toward the sea, Neela's six stood by a pack pony.",
-          "replace": "Down the road, on the verge where the gorge opened toward the sea, the rest of Neela's six stood by a pack pony; Thilak had asked for an hour at the bar before the road."
-        }
-      ]
-    },
-    {
-      "id": "E05",
-      "chapter": 9,
-      "severity": "minor",
-      "category": "knowledge",
-      "issue": "Neela and Muthu treat the household slip as a threat against a woman held 'on Muthu's silence'. In book 2 the slip ('Say nothing, and your wife is kept') was meant for the Keeper about his own sick wife. Muthu only carried it to Ittan. No hostage of Muthu's exists in canon.",
-      "fix": "Make the woman Ittan's wife, whose threat Muthu carried, and drop the implied hostage of Muthu's own.",
-      "patches": [
-        {
-          "chapter": 9,
-          "find": "On one side were six years of grey wax and a woman held in a household somewhere.",
-          "replace": "On one side were six years of grey wax and the household that had asked for them."
-        },
-        {
-          "chapter": 9,
-          "find": "Somewhere a woman is kept on my silence, and I've just spoken.",
-          "replace": "I once carried a slip that kept a sick woman on her husband's silence, and I've just spoken against the hand that wrote it."
-        }
-      ]
-    },
-    {
-      "id": "E06",
-      "chapter": 15,
-      "severity": "minor",
-      "category": "place",
-      "issue": "In ch 12 Usha says the new pair comes down from the top and the old pair goes up by the chain stair. In ch 15 the old pair walks off down the lower flight, and the relief comes 'up the stair behind' Neela.",
-      "fix": "Make Usha's account match what happens: the old pair goes down the lower flight and the new pair comes up by the chain stair.",
-      "patches": [
-        {
-          "chapter": 12,
-          "find": "The new pair comes down from the top while the old pair goes up by the chain stair, and for the last twelve breaths there's a gap where no one stands the landing.",
-          "replace": "The old pair goes down the lower flight while the new pair comes up by the chain stair, and for the last twelve breaths there's a gap where no one stands the landing."
-        },
-        {
-          "chapter": 15,
-          "find": "At the twelfth she was below the post, and the relief came up the stair behind her in a clatter of spears, and no one looked down.",
-          "replace": "At the twelfth she was below the post, and the relief came up the chain stair onto the landing behind her in a clatter of spears, and no one looked down."
+          "find": "He had said so himself, in the shelter, with a pebble in his cheek and no office: *I go where the hands send me.*",
+          "replace": "He had said so himself, in the shelter, with no office: *If the hands say no, I sit by this fire and hate it.*"
         }
       ]
     },
@@ -124,109 +104,129 @@
       "id": "E07",
       "chapter": 18,
       "severity": "minor",
-      "category": "objects",
-      "issue": "Ch 18 says Neela ate Chathu's sweet 'in the dark, standing' and that it 'had gone to ash on her tongue at once'. In ch 13 she eats it by his lamplight, and the point is that 'It was perfect. That was the thing she could not forgive.'",
-      "fix": "Bring the memory into line with ch 13.",
+      "category": "object",
+      "issue": "Neela ate the sweet in Chathu's lamplit cell, and it tasted 'perfect', which was what she could not forgive (ch 13). Ch 18 says she ate it in the dark and that it turned to ash at once.",
+      "fix": "Align the ch 18 recollection with ch 13.",
       "patches": [
         {
           "chapter": 18,
           "find": "She had eaten one, in the dark, standing, and the sweetness had gone to ash on her tongue at once.",
-          "replace": "She had eaten one, in his cell, by his lamp, and it had been perfect, and that was the worst of it."
+          "replace": "She had eaten one, in his cell, standing, and it had been perfect, and that was the worst of it."
         }
       ]
     },
     {
       "id": "E08",
-      "chapter": 22,
+      "chapter": 21,
       "severity": "minor",
-      "category": "names",
-      "issue": "The guard count is one short. Of the thirty, twenty-two took pages in the shed and eight refused. Twenty-two riders came north, and that number includes Lata, a refuser, so only twenty-one page-holders came. The queen's column brings only the seven other refusers. That makes twenty-nine guards, yet ch 24 has 'the queen's thirty' present and twenty-six plus four accounted for.",
-      "fix": "Have the twenty-second page-holder ride with the queen's column.",
+      "category": "place",
+      "issue": "In ch 17 Devan reads the queen's letter and writes his refusal on the shelf, on the lid of the arrow cart. In ch 21 he says he stood in the gate chamber, wrote at 'that table', and that Muthu asked him in the yard.",
+      "fix": "Move his recollection to the shelf and the cart lid.",
       "patches": [
         {
-          "chapter": 22,
-          "find": "Behind them, in a tight knot, rode seven guards in green sashes.",
-          "replace": "Behind them, in a tight knot, rode eight guards in green sashes."
+          "chapter": 21,
+          "find": "\"Muthu asked me in the yard if it hurt,\" he said.",
+          "replace": "\"Muthu asked me on the shelf if it hurt,\" he said."
         },
         {
-          "chapter": 22,
-          "find": "They had been offered their pages and had said no. The eighth who had said no, Lata, was not with them.",
-          "replace": "Seven had been offered their pages and had said no. The eighth had taken hers in the shed and stayed at the queen's side when the rest rode north. The last who had said no, Lata, was not with them."
+          "chapter": 21,
+          "find": "Her letter said *Kettamala restored,* and I stood in the gate chamber and smelled the pepper on the terraces and I wanted it back.",
+          "replace": "Her letter said *Kettamala restored,* and I stood on the shelf and smelled the pepper coming down the cut and I wanted it back."
+        },
+        {
+          "chapter": 21,
+          "find": "I wrote my refusal at that table, and my hand didn't shake",
+          "replace": "I wrote my refusal on the lid of an arrow cart, and my hand didn't shake"
         }
       ]
     },
     {
       "id": "E09",
-      "chapter": 27,
+      "chapter": 22,
       "severity": "minor",
-      "category": "objects",
-      "issue": "In ch 24 the crown leaves burn in 'the red lacquer case' on the queen's lap. From ch 27 on the leaves are in a green-lacquered leather case 'scorched along one edge, brought up from the red chest in the night', which means the scorched case is not the one they burned in.",
-      "fix": "Make ch 24's case the green field case, with the leaves moved into it from the red case, and have ch 27 carry it up from the shelf.",
+      "category": "object",
+      "issue": "The queen gave Neela Usha's fresh page in ch 16, and Neela displays it in ch 20. Yet the queen's case of thirty fresh pages also holds Usha's (it burns in her lap in ch 24). The original intake rolls went to the twenty-two guards in ch 16, so the fresh pages cannot carry them.",
+      "fix": "Have the queen say Usha's page was written twice, and make the looped rolls clerk's copies.",
       "patches": [
         {
-          "chapter": 24,
-          "find": "Nirmala sat in it with the red lacquer case open on her lap, the thirty crown leaves laid on blue cloth.",
-          "replace": "Nirmala sat in it with a flat case of green-lacquered leather open on her lap, the thirty crown leaves moved into it from the red case and laid on blue cloth."
+          "chapter": 22,
+          "find": "Thirty stiff pale leaves lay on blue cloth, each with its intake roll looped on in green thread.",
+          "replace": "Thirty stiff pale leaves lay on blue cloth, each with a clerk's copy of its intake roll looped on in green thread."
         },
         {
-          "chapter": 27,
-          "find": "In her lap lay a flat case of green-lacquered leather, scorched along one edge, brought up from the red chest in the night.",
-          "replace": "In her lap lay the flat case of green-lacquered leather, scorched along one edge, carried up from the shelf in the night."
+          "chapter": 22,
+          "find": "Fresh pages, in my own hand, written the night before your wife left Kodiyur.",
+          "replace": "Fresh pages, in my own hand, written the night before your wife left Kodiyur. Usha's I wrote twice; your wife carries the first."
         }
       ]
     },
     {
       "id": "E10",
-      "chapter": 26,
-      "severity": "major",
-      "category": "knowledge",
-      "issue": "In Neela's POV, Thankam is introduced as a woman 'Neela had never seen before'. Neela met Thankam in the Kodiyur drying shed in ch 12 and watched her lay down the paring knife.",
-      "fix": "Neela recognises her from the shed.",
+      "chapter": 23,
+      "severity": "minor",
+      "category": "relationship",
+      "issue": "Devan already sparred Muthu in book 2 ch 9 (F720), his first round in eight years. Muthu's claim that the round has been owed 'eight years and a bit' (ch 23) and 'eight years and one month' (ch 32) contradicts this.",
+      "fix": "Date the debt from book 2, and from ch 23 in ch 32.",
       "patches": [
         {
-          "chapter": 26,
-          "find": "Neela had never seen her before. It did not matter.",
-          "replace": "Neela had seen her once, in a drying shed in Kodiyur, laying a paring knife beside a guard's arm. It did not matter."
+          "chapter": 23,
+          "find": "\"I've owed it eight years and a bit. I'd like the interest in blood.\"",
+          "replace": "\"You've owed it since the Resin House. I'd like the interest in blood.\""
+        },
+        {
+          "chapter": 32,
+          "find": "\"Seventh day,\" Muthu announced. \"I've been owed a round for eight years and one month.\"",
+          "replace": "\"Seventh day,\" Muthu announced. \"I've been owed a whole round for a month.\""
         }
       ]
     },
     {
       "id": "E11",
-      "chapter": 29,
+      "chapter": 31,
       "severity": "minor",
-      "category": "place",
-      "issue": "Neela describes Ponni in the present as 'sleeping in Kesu's shed'. Kesu's village burned to the ground in ch 14, and Ponni was carried out.",
-      "fix": "Put the shed in the past.",
+      "category": "object",
+      "issue": "The 'Sold to the crown' sheet from the sealed last quire travels in Devan's pack (F656, F711), and the leads opened it at the end of book 2. In ch 31 it appears in the queen's green case without explanation.",
+      "fix": "Say Devan laid it in the case.",
       "patches": [
         {
-          "chapter": 29,
-          "find": "Ponni is an old fishwife sleeping in Kesu's shed, and she was there.",
-          "replace": "Ponni is an old fishwife who slept in Kesu's cattle shed till the Thurai burned it, and she was there."
+          "chapter": 31,
+          "find": "Beside them lay the sheet headed *Sold to the crown*, with thirty ledger numbers and the folded-wing birds.",
+          "replace": "Beside them lay the sheet headed *Sold to the crown*, which Devan had taken from his pack and laid there at dawn, with thirty ledger numbers and the folded-wing birds."
         }
       ]
     },
     {
       "id": "E12",
       "chapter": 31,
-      "severity": "major",
-      "category": "objects",
-      "issue": "In ch 28 Devan has already signed the Company roll, left-handed and badly, directly under Neela's name, in front of everyone. Ch 31 says there is 'a gap' beside her name and has him sign for the first time, saying 'I can't hold the pen'.",
-      "fix": "In ch 31 his name is already there. He draws a bar joining the two names before she writes 'Bound by choice'.",
+      "severity": "minor",
+      "category": "object",
+      "issue": "In ch 28 Kandan signed directly under Devan's name, so there is no free line below the two names in ch 31. The outline places 'Bound by choice' beside their names.",
+      "fix": "Put the line in the margin beside the names.",
       "patches": [
         {
           "chapter": 31,
-          "find": "Neela's own was first, in her hand. Beside it, a gap.",
-          "replace": "Neela's own was first, in her hand, and Devan's crooked one beneath it. Beside the two, a gap."
+          "find": "Below the two names there was room for one more line.",
+          "replace": "Beside the two names, in the margin, there was room for one more line."
         },
         {
           "chapter": 31,
-          "find": "\"I can't hold the pen,\" Devan said. \"I can hold it left-handed. It will look as if a hen wrote it.\"",
-          "replace": "\"I can't hold the pen any better than I could at the well,\" Devan said. \"Left-handed, it will look as if a hen wrote it.\""
-        },
+          "find": "She took the reed, and under their names, in her own steadier letters",
+          "replace": "She took the reed, and beside their names, in her own steadier letters"
+        }
+      ]
+    },
+    {
+      "id": "E13",
+      "chapter": 16,
+      "severity": "minor",
+      "category": "timeline",
+      "issue": "A guard 'of forty' is among the thirty bought as children. The charter (ch 31) and F715 give the sales as running over twenty years, so no guard sold as a child can be forty.",
+      "fix": "Make him thirty.",
+      "patches": [
         {
-          "chapter": 31,
-          "find": "He took the reed in his left hand and wrote *Devan,* and it did look like a hen's.",
-          "replace": "He took the reed in his left hand and drew a bar from his name to hers, and it did look like a hen's."
+          "chapter": 16,
+          "find": "A man of forty with a soldier's walk was a fisherman's son",
+          "replace": "A man of thirty with a soldier's walk was a fisherman's son"
         }
       ]
     }

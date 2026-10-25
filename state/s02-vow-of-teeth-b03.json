@@ -6,7 +6,8 @@
   "status": "in_progress",
   "stage": "S3",
   "done": [
-    "S3"
+    "S3",
+    "S7"
   ],
   "chapters": {
     "01": {
@@ -1320,9 +1321,13 @@
     {
       "at": "2026-10-25T21:17:21",
       "event": "unblocked by owner"
+    },
+    {
+      "at": "2026-10-25T21:28:10",
+      "event": "done: S7 continuity"
     }
   ],
-  "updated_at": "2026-10-25T21:17:21",
+  "updated_at": "2026-10-25T21:28:10",
   "midpoint_chapter": 16,
   "continuity_attempts": 0,
   "continuity_last_errors": null

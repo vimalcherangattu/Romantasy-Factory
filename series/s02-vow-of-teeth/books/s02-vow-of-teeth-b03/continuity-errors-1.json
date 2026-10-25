@@ -2,96 +2,61 @@
   "open_errors": [
     {
       "id": "E01",
-      "chapter": 8,
-      "severity": "major",
-      "category": "timeline",
-      "issue": "In ch 5 Devan strikes first, openly, with a spear thrust at the picket, in front of Kandan, who says 'That was clean.' In ch 8 the narration says he has not struck first at a living man in eight years, and Kandan says he never raised a hand first. What is new in ch 8 is the first killing blow.",
-      "fix": "Make ch 8 about killing first, not striking first.",
+      "chapter": 3,
+      "severity": "minor",
+      "category": "magic",
+      "issue": "Madhavi, a Resin House member who knows the witness rule, says the queen can cage the forty without a page. The queen never witnessed any of the forty turn, so she cannot cage them. Nobody corrects the claim.",
+      "fix": "Change Madhavi's claim from caging to keeping.",
       "patches": [
         {
-          "chapter": 8,
-          "find": "He had not struck first at a living man in eight years. He had trained the habit out of his hands.",
-          "replace": "He had not struck to kill a living man in eight years. He had trained the habit out of his hands."
-        },
-        {
-          "chapter": 8,
-          "find": "\"Eight years, the garrison says. You never raised a hand first.\"",
-          "replace": "\"Eight years, the garrison says. You never killed a man first.\""
-        },
-        {
-          "chapter": 8,
-          "find": "\"I raised it first today.\"",
-          "replace": "\"I did today.\""
+          "chapter": 3,
+          "find": "She doesn't need a page to cage *us*, if we walk in.",
+          "replace": "She won't need a page to keep *us*, once we've walked in."
         }
       ]
     },
     {
       "id": "E02",
-      "chapter": 24,
-      "severity": "major",
-      "category": "magic",
-      "issue": "Ch 24 says one of Chathu's leaves catches and burns at a naming. Ch 29 reveals that Chathu wrote them in plain ink with no power, says they only curled in the heat, and says the burning entries were the members' own Resin House pages, which Neela held beside the sheaf. Ch 24 never puts those pages on her knee and shows Chathu's paper burning, which breaks the rule and the fair-play reveal.",
-      "fix": "Put the members' own pages on Neela's knee in ch 24, and make the first burning leaf one of them.",
+      "chapter": 6,
+      "severity": "minor",
+      "category": "timeline",
+      "issue": "Ch 6 says the five go south 'at the next light'. In ch 7, the following day, Neela says they leave at first light, and in ch 8 they set off a day later than ch 6 states.",
+      "fix": "Make the departure time open-ended.",
       "patches": [
         {
-          "chapter": 24,
-          "find": "Neela sat on a flat stone at her side with Chathu's forty fresh leaves across her knees, the Company's pages written at the queen's table, held under a board against the wind.",
-          "replace": "Neela sat on a flat stone at her side with Chathu's forty fresh leaves across her knees, the Company's pages written at the queen's table, held under a board against the wind. On top of them lay the members' own Resin House pages, handed to her for the dusk."
-        },
-        {
-          "chapter": 24,
-          "find": "On her knee, one leaf of Chathu's caught.",
-          "replace": "On her knee, Pavi's own Resin House page caught where it lay on Chathu's sheaf."
+          "chapter": 6,
+          "find": "Pavi and the others would go south at the next light.",
+          "replace": "Pavi and the others would go south as soon as the gorge let them."
         }
       ]
     },
     {
       "id": "E03",
-      "chapter": 15,
+      "chapter": 13,
       "severity": "minor",
-      "category": "magic",
-      "issue": "Resin-ink is tacky and never dries (ch 13, and the ch 29 reveal turns on it). Ch 15 calls the crown pages 'years dry', and in ch 16 the queen says her fresh page 'will take a day to dry'.",
-      "fix": "Keep resin-ink tacky in ch 15 and ch 16.",
+      "category": "timeline",
+      "issue": "The long-table memory has Neela at nine. Ch 29 and continuity (F232, F493) place the same scene at ten.",
+      "fix": "Make her ten.",
       "patches": [
         {
-          "chapter": 15,
-          "find": "an entry in resin-ink gone black as a beetle's back, years dry.",
-          "replace": "an entry in resin-ink black as a beetle's back and still tacky after years."
-        },
-        {
-          "chapter": 16,
-          "find": "It will take a day to dry. It has taken, as you see.",
-          "replace": "It will never dry; resin-ink doesn't. It has taken, as you see."
+          "chapter": 13,
+          "find": "For an instant she was nine years old on a bench with her feet not reaching the floor",
+          "replace": "For an instant she was ten years old on a bench with her feet not reaching the floor"
         }
       ]
     },
     {
       "id": "E04",
-      "chapter": 19,
+      "chapter": 14,
       "severity": "minor",
-      "category": "place",
-      "issue": "The queen and Neela met only in the drying shed (ch 16), at noon on the day after the gun. Neela overheard the queen's voice in the passage outside her room (ch 15) but never met her in the sea room. Chs 19, 21 and 22 place their meeting and the missed noon in the sea room.",
-      "fix": "Move those references to the drying shed or the passage.",
+      "category": "knowledge",
+      "issue": "In ch 15 Neela pricks her thumb half an hour before the noon gun so that Devan gets an early signal (F857). In ch 14, the same hour, Devan reasons as if no welts reached him at all.",
+      "fix": "Have Devan register the early welts without understanding them.",
       "patches": [
         {
-          "chapter": 19,
-          "find": "Noon, the day after the gun. She'd sent for me to the sea room, and she stood next to me the whole hour.",
-          "replace": "Noon, the day after the gun. She walked into the drying shed, and she sat beside me the whole hour."
-        },
-        {
-          "chapter": 21,
-          "find": "In the sea room. She put her hand on the shutter and said *leave it, I like to hear the water.* She was kind about it.",
-          "replace": "In the fish shed. She sat on a crate among the racks and asked if she might come in, because there was nothing to knock on. She was kind about it."
-        },
-        {
-          "chapter": 22,
-          "find": "the warm unhurried voice Neela had heard through a shutter in the sea room.",
-          "replace": "the warm unhurried voice Neela had heard through the screens outside the sea room."
-        },
-        {
-          "chapter": 22,
-          "find": "I did not lie to you in the sea room, Neela.",
-          "replace": "I did not lie to you in the fish shed, Neela."
+          "chapter": 14,
+          "find": "He counted the hour, too. It was well past noon by the sun, and he had not pricked his thumb.",
+          "replace": "He counted the hour, too. It was well past noon by the sun, and he had not pricked his thumb. Hers had come early, three small stings on the climb, a half hour short of noon, and he had not known what early meant."
         }
       ]
     },
@@ -99,174 +64,169 @@
       "id": "E05",
       "chapter": 17,
       "severity": "minor",
-      "category": "timeline",
-      "issue": "Vellan says Kuttu asked him whom he would name, and in ch 20 refers to 'the boy'. Kuttu was in Kodiyur with Neela's party during the sally talk at the shelf. Thulasi, who was lying beside Vellan, is shown in ch 24 starting toward him before choosing Madhavi.",
-      "fix": "Make Thulasi the one who asked.",
+      "category": "relationship",
+      "issue": "Continuity F877 and F880 say Kuttu asked Vellan whom he would self-name to. The book says Thulasi asked, and ch 20 echoes this with 'the girl'.",
+      "fix": "Make Kuttu the asker in ch 17 and adjust Vellan's echo in ch 20.",
       "patches": [
         {
           "chapter": 17,
-          "find": "Kuttu asked me.",
-          "replace": "Thulasi asked me."
+          "find": "\"Thulasi asked me.\"",
+          "replace": "\"Kuttu asked me.\""
         },
         {
           "chapter": 20,
-          "find": "\"No,\" he said. \"I told the boy once.\"",
-          "replace": "\"No,\" he said. \"I told the girl once.\""
+          "find": "\"No,\" he said. \"I told the girl once.\"",
+          "replace": "\"No,\" he said. \"I told the lad once.\""
         }
       ]
     },
     {
       "id": "E06",
-      "chapter": 22,
+      "chapter": 18,
       "severity": "minor",
-      "category": "knowledge",
-      "issue": "Neela learned the refusing guards' names in the drying shed (ch 12, ch 15), not on the sea-stair landing, where she met no one.",
-      "fix": "Say the drying shed.",
+      "category": "timeline",
+      "issue": "Neela misremembers two scenes. The ch 3 vote that sent her south was held in the morning, not at night. In the shelter (ch 1) Devan said 'If the hands say no, I sit by this fire and hate it', with no pebble, not 'I go where the hands send me'.",
+      "fix": "Correct the time of the vote and the quoted line.",
       "patches": [
         {
-          "chapter": 22,
-          "find": "She knew every one of their names from the sea-stair landing.",
-          "replace": "She knew every one of their names from the drying shed."
+          "chapter": 18,
+          "find": "She had watched him do it the night the hands sent her south.",
+          "replace": "She had watched him do it the morning the hands sent her south."
+        },
+        {
+          "chapter": 18,
+          "find": "He had said so himself, in the shelter, with a pebble in his cheek and no office: *I go where the hands send me.*",
+          "replace": "He had said so himself, in the shelter, with no office: *If the hands say no, I sit by this fire and hate it.*"
         }
       ]
     },
     {
       "id": "E07",
-      "chapter": 9,
+      "chapter": 18,
       "severity": "minor",
-      "category": "timeline",
-      "issue": "Ch 2 says Rema's escort slept three days in the south range, which matches book 2. In ch 9 Muthu says four days.",
-      "fix": "Make it three days.",
+      "category": "object",
+      "issue": "Neela ate the sweet in Chathu's lamplit cell, and it tasted 'perfect', which was what she could not forgive (ch 13). Ch 18 says she ate it in the dark and that it turned to ash at once.",
+      "fix": "Align the ch 18 recollection with ch 13.",
       "patches": [
         {
-          "chapter": 9,
-          "find": "The escort were four days in the south range, and every night they took a cup at my table.",
-          "replace": "The escort were three days in the south range, and every night they took a cup at my table."
+          "chapter": 18,
+          "find": "She had eaten one, in the dark, standing, and the sweetness had gone to ash on her tongue at once.",
+          "replace": "She had eaten one, in his cell, standing, and it had been perfect, and that was the worst of it."
         }
       ]
     },
     {
       "id": "E08",
-      "chapter": 23,
+      "chapter": 21,
       "severity": "minor",
       "category": "place",
-      "issue": "Chs 3 and 8 give the lower narrows as forty paces cliff to cliff, narrower under the shelf. Ch 23 makes the shelf a hundred and ten paces wide.",
-      "fix": "Make the shelf narrower than the gorge mouth.",
+      "issue": "In ch 17 Devan reads the queen's letter and writes his refusal on the shelf, on the lid of the arrow cart. In ch 21 he says he stood in the gate chamber, wrote at 'that table', and that Muthu asked him in the yard.",
+      "fix": "Move his recollection to the shelf and the cart lid.",
       "patches": [
         {
-          "chapter": 23,
-          "find": "Forty paces wide at the gorge. A hundred and ten at the shelf, where Raman had died.",
-          "replace": "Forty paces wide at the gorge. Narrower at the shelf, where Raman had died."
+          "chapter": 21,
+          "find": "\"Muthu asked me in the yard if it hurt,\" he said.",
+          "replace": "\"Muthu asked me on the shelf if it hurt,\" he said."
+        },
+        {
+          "chapter": 21,
+          "find": "Her letter said *Kettamala restored,* and I stood in the gate chamber and smelled the pepper on the terraces and I wanted it back.",
+          "replace": "Her letter said *Kettamala restored,* and I stood on the shelf and smelled the pepper coming down the cut and I wanted it back."
+        },
+        {
+          "chapter": 21,
+          "find": "I wrote my refusal at that table, and my hand didn't shake",
+          "replace": "I wrote my refusal on the lid of an arrow cart, and my hand didn't shake"
         }
       ]
     },
     {
       "id": "E09",
-      "chapter": 8,
+      "chapter": 22,
       "severity": "minor",
-      "category": "knowledge",
-      "issue": "Neela says the man by the tower carried the doubled-leaf coin. She only smelled his resin and saw his scars; the coins come from the scout killed at the shelf.",
-      "fix": "Attribute the coins to the dead scout.",
+      "category": "object",
+      "issue": "The queen gave Neela Usha's fresh page in ch 16, and Neela displays it in ch 20. Yet the queen's case of thirty fresh pages also holds Usha's (it burns in her lap in ch 24). The original intake rolls went to the twenty-two guards in ch 16, so the fresh pages cannot carry them.",
+      "fix": "Have the queen say Usha's page was written twice, and make the looped rolls clerk's copies.",
       "patches": [
         {
-          "chapter": 8,
-          "find": "The scouts had it in spring. The man by the tower had it now, and the widow's gift.",
-          "replace": "The scouts had it in spring. This man had it now, and the widow's gift."
+          "chapter": 22,
+          "find": "Thirty stiff pale leaves lay on blue cloth, each with its intake roll looped on in green thread.",
+          "replace": "Thirty stiff pale leaves lay on blue cloth, each with a clerk's copy of its intake roll looped on in green thread."
+        },
+        {
+          "chapter": 22,
+          "find": "Fresh pages, in my own hand, written the night before your wife left Kodiyur.",
+          "replace": "Fresh pages, in my own hand, written the night before your wife left Kodiyur. Usha's I wrote twice; your wife carries the first."
         }
       ]
     },
     {
       "id": "E10",
-      "chapter": 11,
+      "chapter": 23,
       "severity": "minor",
-      "category": "timeline",
-      "issue": "Kandan called Neela a witch the week Raiu burned (book 1, before the monsoon), months ago, not 'a month ago'.",
-      "fix": "Change it to months.",
+      "category": "relationship",
+      "issue": "Devan already sparred Muthu in book 2 ch 9 (F720), his first round in eight years. Muthu's claim that the round has been owed 'eight years and a bit' (ch 23) and 'eight years and one month' (ch 32) contradicts this.",
+      "fix": "Date the debt from book 2, and from ch 23 in ch 32.",
       "patches": [
         {
-          "chapter": 11,
-          "find": "A month ago Kandan had called Neela a witch at the barracks door.",
-          "replace": "Months ago Kandan had called Neela a witch at the barracks door."
+          "chapter": 23,
+          "find": "\"I've owed it eight years and a bit. I'd like the interest in blood.\"",
+          "replace": "\"You've owed it since the Resin House. I'd like the interest in blood.\""
+        },
+        {
+          "chapter": 32,
+          "find": "\"Seventh day,\" Muthu announced. \"I've been owed a round for eight years and one month.\"",
+          "replace": "\"Seventh day,\" Muthu announced. \"I've been owed a whole round for a month.\""
         }
       ]
     },
     {
       "id": "E11",
-      "chapter": 5,
+      "chapter": 31,
       "severity": "minor",
-      "category": "timeline",
-      "issue": "Koman says the Resin House fell two moons back. The Company reached the shelter three months ago (ch 1), and the House fell before that.",
-      "fix": "Make it three moons in both places.",
+      "category": "object",
+      "issue": "The 'Sold to the crown' sheet from the sealed last quire travels in Devan's pack (F656, F711), and the leads opened it at the end of book 2. In ch 31 it appears in the queen's green case without explanation.",
+      "fix": "Say Devan laid it in the case.",
       "patches": [
         {
-          "chapter": 5,
-          "find": "The House has not paid me since the wood fell, two moons back.",
-          "replace": "The House has not paid me since the wood fell, three moons back."
-        },
-        {
-          "chapter": 5,
-          "find": "who had stood in the rain for two moons with nothing coming",
-          "replace": "who had stood in the rain for three moons with nothing coming"
+          "chapter": 31,
+          "find": "Beside them lay the sheet headed *Sold to the crown*, with thirty ledger numbers and the folded-wing birds.",
+          "replace": "Beside them lay the sheet headed *Sold to the crown*, which Devan had taken from his pack and laid there at dawn, with thirty ledger numbers and the folded-wing birds."
         }
       ]
     },
     {
       "id": "E12",
-      "chapter": 17,
+      "chapter": 31,
       "severity": "minor",
-      "category": "timeline",
-      "issue": "The shelf has been held about a week since Biju died (ch 8) and the first assault (ch 11), not three days.",
-      "fix": "Make it a week.",
+      "category": "object",
+      "issue": "In ch 28 Kandan signed directly under Devan's name, so there is no free line below the two names in ch 31. The outline places 'Bound by choice' beside their names.",
+      "fix": "Put the line in the margin beside the names.",
       "patches": [
         {
-          "chapter": 17,
-          "find": "The chalked tile in Kandan's hand already ran to four names, and it had been three days.",
-          "replace": "The chalked tile in Kandan's hand already ran to four names, and it had been a week."
+          "chapter": 31,
+          "find": "Below the two names there was room for one more line.",
+          "replace": "Beside the two names, in the margin, there was room for one more line."
+        },
+        {
+          "chapter": 31,
+          "find": "She took the reed, and under their names, in her own steadier letters",
+          "replace": "She took the reed, and beside their names, in her own steadier letters"
         }
       ]
     },
     {
       "id": "E13",
-      "chapter": 31,
+      "chapter": 16,
       "severity": "minor",
-      "category": "place",
-      "issue": "The kennel aisle has forty-two cages, forty-one of them holding animals (F443, F643). Ch 31 says forty-one cages.",
-      "fix": "Count the caged animals instead of the cages.",
+      "category": "timeline",
+      "issue": "A guard 'of forty' is among the thirty bought as children. The charter (ch 31) and F715 give the sales as running over twenty years, so no guard sold as a child can be forty.",
+      "fix": "Make him thirty.",
       "patches": [
         {
-          "chapter": 31,
-          "find": "The kennels at the groves hold forty-one cages, and Pachan carries all the water, and he has two hands.",
-          "replace": "The kennels at the groves hold forty-one caged animals, and Pachan carries all the water, and he has two hands."
-        }
-      ]
-    },
-    {
-      "id": "E14",
-      "chapter": 3,
-      "severity": "minor",
-      "category": "name",
-      "issue": "'The other one' is Neela's own name for her night-self, which she told Devan (F150). He did not name her that.",
-      "fix": "Reverse who said it.",
-      "patches": [
-        {
-          "chapter": 3,
-          "find": "She had never lied to him since the night he named her the other one.",
-          "replace": "She had never lied to him since the night she told him about the other one."
-        }
-      ]
-    },
-    {
-      "id": "E15",
-      "chapter": 10,
-      "severity": "minor",
-      "category": "injury",
-      "issue": "The well-shaft rope burns date from book 2, months earlier. The fresh rope burns on his palms come from the goat-path ropes in ch 4.",
-      "fix": "Attribute the healing rope burn to the goat-path rope.",
-      "patches": [
-        {
-          "chapter": 10,
-          "find": "The ropeburn on his palms from the well shaft, healing in stripes.",
-          "replace": "The ropeburn on his palms from the goat-path rope, healing in stripes."
+          "chapter": 16,
+          "find": "A man of forty with a soldier's walk was a fisherman's son",
+          "replace": "A man of thirty with a soldier's walk was a fisherman's son"
         }
       ]
     }
