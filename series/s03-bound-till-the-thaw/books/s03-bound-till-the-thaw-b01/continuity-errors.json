@@ -2,171 +2,161 @@
   "open_errors": [
     {
       "id": "E01",
-      "chapter": 7,
-      "severity": "minor",
-      "category": "place",
-      "issue": "Asha's four are pursuing from behind, up from the waystone side. Later in the chapter they 'have reached the foot of the Saddle' and are 'climbing the slope', and they watch 'the ridge behind them'. But Meera first spots them on 'the first folds of the south slope', which is the far side where the crew ledge and Rope-Hut lie, ahead of her.",
-      "fix": "Place the first sighting back down the climb behind them.",
+      "chapter": 30,
+      "severity": "major",
+      "category": "magic",
+      "issue": "After the Fair, Meera 'slipped away' along the river ice until the crowd's noise was a hum, and Rohan 'found her' there. They are still rope-bound until the thaw and cannot separate beyond eight spans, so she cannot leave him behind in the crowd and he cannot come looking for her.",
+      "fix": "Have the rope draw Rohan along with her, so they are never apart.",
       "patches": [
         {
-          "chapter": 7,
-          "find": "She looked down the long scoured fall of the Saddle to where it broke into the first folds of the south slope, and there, a very long way below, something moved that was not the wind.",
-          "replace": "She looked back down the long scoured fall of the Saddle to where it broke into the climb from the waystone, and there, a very long way below, something moved that was not the wind."
+          "chapter": 30,
+          "find": "Meera slipped away. She walked until the noise was a hum, along the river ice to the lee of a half-fallen wall, and sat down on it.",
+          "replace": "Meera slipped away, and the rope drew Rohan out of his sister's hands after her. She walked until the noise was a hum, along the river ice to the lee of a half-fallen wall, and sat down on it."
+        },
+        {
+          "chapter": 30,
+          "find": "He found her there within a few breaths. He could not have gone farther, with eight spans of rope. He stood a little way off, and she saw he had taken off his gloves.",
+          "replace": "He reached her within a few breaths. He had never been more than eight spans of rope behind. He stood a little way off, and she saw he had taken off his gloves."
         }
       ]
     },
     {
       "id": "E02",
-      "chapter": 13,
+      "chapter": 25,
       "severity": "minor",
-      "category": "timeline",
-      "issue": "Rohan's Salt Fox question is called 'the same question as three nights ago'. He actually asked it on the first night of the rope (ch 4). Three nights earlier (ch 10) the question was Meera's, about his coat.",
-      "fix": "Point the callback at the first night of the rope.",
+      "category": "knowledge",
+      "issue": "In ch 24 the buyer says Varun crossed the Saddle bound at the Shilak Cairn to a salt-road man. In ch 25 Varun says he has heard of a jogini binding but never seen one, and asks whether it holds.",
+      "fix": "Let Varun speak as a man who has just been bound himself.",
       "patches": [
         {
-          "chapter": 13,
-          "find": "It was the same question as three nights ago. He knew that, and so did she.",
-          "replace": "It was the same question he had put to her on the first night of the rope. He knew that, and so did she."
+          "chapter": 25,
+          "find": "and he whistled. \"A jogini binding! On the Shilak! I'd heard of it, never seen one.\"",
+          "replace": "and he whistled. \"A jogini binding! I wore one myself to come over, but I never thought to see you in one.\""
+        },
+        {
+          "chapter": 25,
+          "find": "He walked the length of the cord with his eyes. \"And it holds? She can't leave you?\"",
+          "replace": "He walked the length of the cord with his eyes. \"And it holds you the way it held me? She can't leave you?\""
         }
       ]
     },
     {
       "id": "E03",
-      "chapter": 21,
+      "chapter": 25,
       "severity": "minor",
-      "category": "timeline",
-      "issue": "Kiran's fever breaks the dawn after Sunni's burial (day 14). If he then sleeps 'two days and half a night', chapter 21 falls on day 16. The book's later chain fixes the Fair five days after chapter 21, which is also the 'fifteen days' of rope in ch 23 and the 'sixteen days' in ch 26. That chain lands the Fair on day 21. Chapter 29 calls it 'the dawn of day twenty', matching the twenty-day deadline.",
-      "fix": "Shorten Kiran's sleep by a day.",
+      "category": "object",
+      "issue": "In ch 25 Varun arrives in 'a new coat, the grey of the regent's house, with a brass button at the throat.' The Fair evidence in ch 28 and ch 30 depends on the single new brass button among the pewter ones on his old coat, and ch 30 shows exactly that coat.",
+      "fix": "Keep Varun in his old coat with the brass button among the pewter ones.",
       "patches": [
         {
-          "chapter": 21,
-          "find": "He had slept two days and half a night, and Nimmi had stood over him with a lamp and pronounced the fever broken, and then said it again, as if she did not trust it.",
-          "replace": "He had slept a day and half a night, and Nimmi had stood over him with a lamp and pronounced the fever broken, and then said it again, as if she did not trust it."
+          "chapter": 25,
+          "find": "He had a new coat, the grey of the regent's house, with a brass button at the throat that caught the light.",
+          "replace": "He had his old coat brushed clean, the pewter buttons dull in a row, and the one brass button among them caught the light."
         }
       ]
     },
     {
       "id": "E04",
-      "chapter": 22,
+      "chapter": 25,
       "severity": "minor",
-      "category": "knowledge",
-      "issue": "Kiran says he has 'never known' what Dilan's last words 'sorry about the hymn' meant. But in ch 29 he says Dilan sang the hymn all the way down the line and he told him to shut up. Rohan had also told him about the hymn in ch 21.",
-      "fix": "Let Kiran know what the apology referred to.",
+      "category": "timeline",
+      "issue": "The eighteen courses began about a week earlier and have run out. One of them was Sunni's, and she is dead. The patients who are mid-course now are the twenty-three who started the buyer's redbark the night before.",
+      "fix": "Change the mid-course figure to the twenty-three on the buyer's redbark.",
       "patches": [
         {
-          "chapter": 22,
-          "find": "\"He said *sorry about the hymn.* I don't know what that means. I've never known what it means.\"",
-          "replace": "\"He said *sorry about the hymn.* He'd sung it the whole way down, and I'd told him to shut up. That was what he chose to be sorry for.\""
+          "chapter": 25,
+          "find": "Seven marked houses on the lane. Forty-one sick, eighteen of them mid-course, and every one of them lying behind a wall of planks.",
+          "replace": "Seven marked houses on the lane. Forty-one sick, twenty-three of them one night into the buyer's redbark, and every one of them lying behind a wall of planks."
         }
       ]
     },
     {
       "id": "E05",
-      "chapter": 22,
+      "chapter": 25,
       "severity": "minor",
-      "category": "object",
-      "issue": "Kiran says Dilan bound them knot to wrist ('Knot on my wrist, knot on his'), but then that Dilan cut the rope 'above his waist'. Rohan's piece is a forearm's length ending in Dilan's whipped end, which fits a cut near the wrist.",
-      "fix": "Move the cut to just above Dilan's wrist.",
+      "category": "timeline",
+      "issue": "Varun tells Meera she 'roped up the gully ahead of me.' In ch 3 the party crossed the gully unroped, one at a time, thirty paces apart. No one was roped until the cairn.",
+      "fix": "Change 'roped up' to 'walked'.",
       "patches": [
         {
-          "chapter": 22,
-          "find": "Then he had his knife. He cut his own rope above his waist, and it went slack, and I stopped.",
-          "replace": "Then he had his knife. He cut his own rope a forearm above his wrist, and it went slack, and I stopped."
+          "chapter": 25,
+          "find": "\"Jassi's second,\" said Varun. \"You roped up the gully ahead of me. What are you doing here?\"",
+          "replace": "\"Jassi's second,\" said Varun. \"You walked the gully ahead of me. What are you doing here?\""
         }
       ]
     },
     {
       "id": "E06",
-      "chapter": 25,
-      "severity": "major",
-      "category": "knowledge",
-      "issue": "Varun was assigned as Meera's rope partner in ch 2 and walked behind her up the gully in ch 3, so he knows her face as Jassi's second. In ch 25 he asks 'Who is the woman?' and the narration says 'He did not know her'. He should not know she is the Salt Fox, but he should recognise her.",
-      "fix": "Varun recognises her as the Kothi guide but not as the Salt Fox.",
+      "chapter": 22,
+      "severity": "minor",
+      "category": "object",
+      "issue": "Kiran says Dilan and he were bound with knots on their wrists. He then says Dilan cut the rope 'above his waist', which is a leftover of an earlier waist-to-waist roping. Rohan's piece is only a forearm's length of rope from Dilan's end.",
+      "fix": "Place the cut near Dilan's wrist.",
       "patches": [
         {
-          "chapter": 25,
-          "find": "\"Who is the woman?\" said Varun.",
-          "replace": "\"And the woman?\" said Varun. \"Jassi's second, from Kothi. I'd have sworn the gully kept her.\""
-        },
-        {
-          "chapter": 25,
-          "find": "\"A guide. Hired at Kothi Shilak.\"",
-          "replace": "\"It did not. She came out of it with me.\""
-        },
-        {
-          "chapter": 25,
-          "find": "He was looking at a woman in a stained pattu with a hole in the hem. He did not know her, and Rohan understood in that moment how thin the single thread of her safety was, and that it ran through him.",
-          "replace": "He was looking at a woman in a stained pattu with a hole in the hem, the goat-man's second he had once walked behind up a gully. He did not know what else she was, and Rohan understood in that moment how thin the single thread of her safety was, and that it ran through him."
+          "chapter": 22,
+          "find": "Then he had his knife. He cut his own rope above his waist, and it went slack, and I stopped.",
+          "replace": "Then he had his knife. He cut his own rope close to his wrist, and it went slack, and I stopped."
         }
       ]
     },
     {
       "id": "E07",
-      "chapter": 25,
+      "chapter": 28,
       "severity": "minor",
-      "category": "knowledge",
-      "issue": "Varun crossed the Saddle bound at the Shilak Cairn to a salt-road man (ch 24). Yet he says of the jogini binding 'I'd heard of it, never seen one' and asks whether it holds.",
-      "fix": "Varun speaks from his own crossing.",
+      "category": "magic",
+      "issue": "In ch 27 Rohan's bound promise is 'I won't ask you anything else about that rope.' Ch 28 describes it as a promise of no more questions at all. Rohan asks Meera ordinary questions in ch 29, 30 and 31 ('May I?', 'What are you counting?', 'What?'), and under that reading each would break a bound promise.",
+      "fix": "Restate the promise with its actual scope.",
       "patches": [
         {
-          "chapter": 25,
-          "find": "\"A jogini binding! On the Shilak! I'd heard of it, never seen one.\"",
-          "replace": "\"A jogini binding! I tied one myself to get here, to a salt-road man who smelled of fish. I never thought to see you in one.\""
-        },
-        {
-          "chapter": 25,
-          "find": "\"And it holds? She can't leave you?\"",
-          "replace": "\"It holds you as it held me, then. She can't leave you.\""
+          "chapter": 28,
+          "find": "He had promised her no more questions, and he meant to keep the promise down to its smallest corner.",
+          "replace": "He had promised her no more questions about that rope, and he meant to give the promise a wide berth."
         }
       ]
     },
     {
       "id": "E08",
-      "chapter": 26,
-      "severity": "major",
+      "chapter": 31,
+      "severity": "minor",
       "category": "magic",
-      "issue": "Meera tells her bound partner 'I'm well' while believing she is dying of cold, and says it to be believed. Nothing happens, and the narration says the mountain 'had no jurisdiction over well'. The bible defines a lie as a statement believed false and said to be believed. It also says the rule is never suspended in a crisis.",
-      "fix": "Make her answer a true evasion instead of a free lie.",
+      "issue": "Ch 31 says the bond ends 'after the first drip at the cairn'. The rule, stated plainly in ch 32, is that the bond ends when meltwater first runs at the cairn: 'A drip was not meltwater running.'",
+      "fix": "Use the rule's wording.",
       "patches": [
         {
-          "chapter": 26,
-          "find": "\"I'm well,\" said Meera.",
-          "replace": "\"I'm breathing,\" said Meera."
-        },
-        {
-          "chapter": 26,
-          "find": "It was true by the measure of the rope, though she was a long way from well, and she supposed it was true in the narrow sense that she was breathing. The mountain had no jurisdiction over *well*.",
-          "replace": "It was true by the measure of the rope. She was a long way from well, and she had not said she was. She had said only that she was breathing."
+          "chapter": 31,
+          "find": "After the first drip at the cairn it would be only a rope.",
+          "replace": "Once meltwater ran at the cairn it would be only a rope."
         }
       ]
     },
     {
       "id": "E09",
-      "chapter": 28,
+      "chapter": 27,
       "severity": "minor",
-      "category": "object",
-      "issue": "In ch 1 Meera stitches the brass button into the count's spine just before this crossing. In ch 28 the binding stitches hiding it are said to have been sewn 'ten winters back'.",
-      "fix": "Date the stitches to this crossing.",
+      "category": "name",
+      "issue": "Rohan has been captain for more than ten years. Varun held his horse when he was newly captain, and Dilan died at 23. Dilan's oath therefore came under Rohan's captaincy, and Rohan gives the punishment himself, so 'the old captain' does not fit. The post's senior officer is elsewhere called the post commander.",
+      "fix": "Change 'the old captain' to the post commander.",
       "patches": [
         {
-          "chapter": 28,
-          "find": "She had sewn them herself, ten winters back, so that nobody would find what lay under them unless he meant to take the book apart.",
-          "replace": "She had sewn them herself the morning before the crossing, so that nobody would find what lay under them unless he meant to take the book apart."
+          "chapter": 27,
+          "find": "He laughed in the middle of the oath at the post, in front of the old captain.",
+          "replace": "He laughed in the middle of the oath at the post, in front of the post commander."
         }
       ]
     },
     {
       "id": "E10",
-      "chapter": 28,
+      "chapter": 32,
       "severity": "minor",
-      "category": "magic",
-      "issue": "Rohan's bound promise in ch 27 is 'I won't ask you anything else about that rope'. Ch 28 restates it as a promise of 'no more questions' at all. On that reading his later questions to Meera would break a bound promise and strike him as a great lie: 'May I?' in ch 29, 'What are you counting?' in ch 30, 'Count what?' in ch 31.",
-      "fix": "Restate the promise with its real scope and keep his caution.",
+      "category": "timeline",
+      "issue": "Meera recalls that 'Rohan wrote that the law was for the next one.' In ch 31 Rohan says this aloud after writing the clause. He does not write it.",
+      "fix": "Change 'wrote' to 'said'.",
       "patches": [
         {
-          "chapter": 28,
-          "find": "He had promised her no more questions, and he meant to keep the promise down to its smallest corner.",
-          "replace": "He had promised her no more questions about that rope, and he did not yet trust himself to know where its edges lay."
+          "chapter": 32,
+          "find": "When Rohan wrote that the law was for the next one, Kiran had nodded and said nothing until the ink dried.",
+          "replace": "When Rohan said the law was for the next one, Kiran had nodded and said nothing until the ink dried."
         }
       ]
     }
