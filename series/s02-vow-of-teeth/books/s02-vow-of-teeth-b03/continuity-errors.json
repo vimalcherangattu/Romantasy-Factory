@@ -2,131 +2,141 @@
   "open_errors": [
     {
       "id": "E01",
-      "chapter": 8,
-      "severity": "major",
+      "chapter": 3,
+      "severity": "minor",
       "category": "timeline",
-      "issue": "In ch 5 Devan strikes first, openly, at the picket on the cart road, and Kandan sees it ('That was clean'). In ch 8 the narration says he has not struck first at a living man in eight years. What is new in ch 8 is that he kills first.",
-      "fix": "Make the ch 8 claim about killing first, not striking first.",
+      "issue": "The vote count runs over by one. The prose has Neela count twenty-two hands and then raise her own. That makes 20 + 23 + Thulasi = 44 voters, but only 43 people are present (42 odiyans and Devan). Chapter 3's own 'carried by two' and F754 need her hand inside the twenty-two.",
+      "fix": "Make Neela's hand already one of the twenty-two rather than raised after the count.",
       "patches": [
         {
-          "chapter": 8,
-          "find": "He had not struck first at a living man in eight years.",
-          "replace": "He had not killed a man first in eight years."
+          "chapter": 3,
+          "find": "Neela put her own hand up for that one, and kept it there, and felt it shake.",
+          "replace": "Neela's own hand was among them, and she kept it there, and felt it shake."
         }
       ]
     },
     {
       "id": "E02",
-      "chapter": 17,
-      "severity": "major",
-      "category": "objects/places",
-      "issue": "Kuttu is one of the six who rode to Kodiyur in ch 10, and he is still on the road with Neela in ch 18. In ch 17 Vellan says Kuttu asked him, on the shelf, after the sally, whom he would bind to. In ch 20 Vellan refers back to it as 'the lad'.",
-      "fix": "Have Thulasi, who is on the shelf and beside Vellan, be the one who asked.",
+      "chapter": 5,
+      "severity": "minor",
+      "category": "timeline",
+      "issue": "Neela says she had the mirror man's wrist in her teeth when Devan took the knife cut. The cut came in the picket fight, hours before dawn. At that point Devan had told her 'Don't take him yet', and Koman had not yet found the mirror man. The mirror is taken only at first sun.",
+      "fix": "She was watching the mirror man, not holding him, when the cut came.",
       "patches": [
         {
-          "chapter": 17,
-          "find": "\"Kuttu asked me.\"",
-          "replace": "\"Thulasi asked me.\""
-        },
-        {
-          "chapter": 20,
-          "find": "\"I told the lad once.\"",
-          "replace": "\"I told the girl once.\""
+          "chapter": 5,
+          "find": "\"Third thing I felt on the lip,\" she said. \"I had the mirror man's wrist in my teeth when you took that knife. I nearly dropped him.\"",
+          "replace": "\"Third thing I felt on the lip,\" she said. \"I was lying ten paces from the mirror man when you took that knife. I nearly gave myself away.\""
         }
       ]
     },
     {
       "id": "E03",
-      "chapter": 9,
-      "severity": "major",
-      "category": "knowledge",
-      "issue": "The household slip 'Say nothing, and your wife is kept' was addressed to Ittan about Ittan's wife (book 2: Muthu carried it to Ittan's cell). Ch 9 has Neela, and then Muthu himself, speak as if a woman of Muthu's is held hostage against his silence.",
-      "fix": "Make Muthu's stake his six-year loyalty to the household, not a hostage.",
+      "chapter": 8,
+      "severity": "minor",
+      "category": "timeline",
+      "issue": "The garrison numbers do not add up. Kettamala has about sixty men on the rolls (ch 4, F218). Chapter 8 puts forty garrison volunteers at the shelf, and chapter 11 has Muthu take thirty more garrison men down, with Bhaskaran still holding the walls. That is seventy or more out of sixty. Chapter 14 gives Kandan only ten of his own, and the named dead include a drover (Chami) and a Kalladi boy (Rajan), so the forty must be a mix.",
+      "fix": "Make the forty volunteers Kandan's ten garrison men plus drovers and village lads, wherever they are called 'garrison'.",
       "patches": [
         {
-          "chapter": 9,
-          "find": "On one side were six years of grey wax and a woman held in a household somewhere.",
-          "replace": "On one side were six years of grey wax and an oath to a household he had never seen."
+          "chapter": 8,
+          "find": "Forty garrison volunteers worked the face behind him.",
+          "replace": "Forty volunteers worked the face behind him: Kandan's ten off the wall, and drovers and pass-village lads with nothing left to guard."
+        },
+        {
+          "chapter": 8,
+          "find": "Kandan's forty had not found that order interesting.",
+          "replace": "Kandan's ten had not found that order interesting, and the rest had never been under it."
         },
         {
           "chapter": 9,
-          "find": "That wax is dry by now. Somewhere a woman is kept on my silence, and I've just spoken.",
-          "replace": "That wax is dry by now. Six years that household had my silence, and I've just spoken."
+          "find": "On the other side, Devan in the yard with a bound arm, and forty men at the shelf who had not found his order interesting.",
+          "replace": "On the other side, Devan in the yard with a bound arm, and forty men at the shelf, ten of them his own, who had not waited for his leave."
+        },
+        {
+          "chapter": 21,
+          "find": "On our side, forty-two odiyans, twenty-two of her own riders, forty garrison volunteers.",
+          "replace": "On our side, forty-two odiyans, twenty-two of her own riders, forty volunteers."
         }
       ]
     },
     {
       "id": "E04",
-      "chapter": 22,
+      "chapter": 8,
       "severity": "minor",
-      "category": "timeline",
-      "issue": "Thirty guards are in the count. In ch 15, twenty-two agree and eight refuse. Lata, a refuser, rides north, but the party is still twenty-two guards (28 horses in ch 18; 'Usha, Sanu, Sajan, Lata, and the eighteen' in ch 19). In ch 22 the queen brings only seven guards. That puts 29 guards at Kettamala, yet in ch 24 twenty-six name and four hold back, which is 30. One guard who agreed is never accounted for.",
-      "fix": "Say that one guard who agreed was kept back at the palace and rides in with the queen's column.",
+      "category": "knowledge",
+      "issue": "At the shelf Kandan says 'You struck first' like a man who has waited a long time to see it. But in chapter 5 Kandan watched Devan strike first at the picket and called it clean. What is new in chapter 8 is that Devan killed first, which the next lines say.",
+      "fix": "Change Kandan's line to killing first.",
       "patches": [
         {
-          "chapter": 18,
-          "find": "She had been at the Salt Gate at dusk with a horse and no explanation.",
-          "replace": "She had been at the Salt Gate at dusk with a horse and no explanation, in the place of a man who had said yes in the shed and been kept back at the palace."
-        },
-        {
-          "chapter": 22,
-          "find": "Behind them, in a tight knot, rode seven guards in green sashes.",
-          "replace": "Behind them, in a tight knot, rode eight guards in green sashes."
-        },
-        {
-          "chapter": 22,
-          "find": "They had been offered their pages and had said no. The eighth who had said no, Lata, was not with them.",
-          "replace": "Seven had been offered their pages and had said no; the eighth had said yes in the shed and been kept at the palace when the riders went north. The last who had said no, Lata, was not with them."
-        },
-        {
-          "chapter": 22,
-          "find": "Usha had gone to see to the seven in green.",
-          "replace": "Usha had gone to see to the eight in green."
+          "chapter": 8,
+          "find": "\"You struck first,\" Kandan said.",
+          "replace": "\"You killed first,\" Kandan said."
         }
       ]
     },
     {
       "id": "E05",
-      "chapter": 19,
+      "chapter": 15,
       "severity": "minor",
-      "category": "timeline",
-      "issue": "In ch 16, Neela pricks her thumb only after the water-clock bell, an hour late ('Today she was an hour late'). In ch 19 she tells Devan she pricked a quarter hour late.",
-      "fix": "Change 'a quarter hour' to 'an hour'.",
+      "category": "place",
+      "issue": "In chapter 12 Usha describes the sea-stair landing change: the new pair comes down from the top and the old pair goes up by the chain stair. In chapter 15 the old pair walks off down the lower flight and the relief comes up the stair. The narration then says it all 'fell to the breath', exactly as Usha said.",
+      "fix": "Match chapter 15 to Usha's description: the old pair leaves by the chain stair and the relief comes down from above.",
       "patches": [
         {
-          "chapter": 19,
-          "find": "I pricked a quarter hour late, once she'd gone.",
-          "replace": "I pricked an hour late, once she'd gone."
+          "chapter": 15,
+          "find": "The pair at the post straightened, said something to each other, and walked off down the lower flight to be relieved, each with one shoulder a little higher than the other from a long standing.",
+          "replace": "The pair at the post straightened, said something to each other, and walked off to the chain stair to be relieved, each with one shoulder a little higher than the other from a long standing."
+        },
+        {
+          "chapter": 15,
+          "find": "At the twelfth she was below the post, and the relief came up the stair behind her in a clatter of spears, and no one looked down.",
+          "replace": "At the twelfth she was below the post, and the relief came down the stair behind her in a clatter of spears, and no one looked down."
         }
       ]
     },
     {
       "id": "E06",
-      "chapter": 28,
+      "chapter": 30,
       "severity": "minor",
-      "category": "objects/places",
-      "issue": "In ch 1 Neela writes her own name in the plank's last blank, and the plank is then said to have forty-one names. In ch 28 the plank has forty names.",
-      "fix": "Make the count forty-one.",
+      "category": "place",
+      "issue": "In chapter 24 the queen sleeps in the guest room off the north range at Kettamala. In chapter 30 the lit window identified as the queen's is in the south range.",
+      "fix": "Put the queen's window in the north range.",
       "patches": [
         {
-          "chapter": 28,
-          "find": "Forty names ran down it in her own hand, and nine blanks had been filled since the Resin House.",
-          "replace": "Forty-one names ran down it in her own hand, and nine blanks had been filled since the Resin House."
+          "chapter": 30,
+          "find": "Across the court, the south range had one window lit.",
+          "replace": "Across the court, the north range had one window lit."
         }
       ]
     },
     {
       "id": "E07",
-      "chapter": 8,
+      "chapter": 32,
       "severity": "minor",
-      "category": "objects/places",
-      "issue": "Thilak is one of Neela's six. In ch 8 the six are described as waiting by the pack pony down the road, but in the same scene Thilak is working the pry-bar beside Devan.",
-      "fix": "Say that Thilak stayed at the bar while the rest of the six waited.",
+      "category": "knowledge",
+      "issue": "Chapter 32 says Neela opened the lookout lamp a thumb's width 'because a man told her to'. In chapter 27, Vellan's account (which she accepts) says her orders were to open it twice if anyone entered the court. Asha was on the stair, not in the court, and Neela opened it once out of fright.",
+      "fix": "Say she opened it out of fright.",
       "patches": [
         {
-          "chapter": 8,
-          "find": "Down the road, on the verge where the gorge opened toward the sea, Neela's six stood by a pack pony.",
-          "replace": "Down the road, on the verge where the gorge opened toward the sea, the rest of Neela's six stood by a pack pony; Thilak had stayed to lend the bar his weight before the road."
+          "chapter": 32,
+          "find": "Once, at the foot of a stair, she had opened a lamp a thumb's width because a man told her to.",
+          "replace": "Once, at the foot of a stair, she had opened a lamp a thumb's width out of fright."
+        }
+      ]
+    },
+    {
+      "id": "E08",
+      "chapter": 32,
+      "severity": "minor",
+      "category": "object",
+      "issue": "The door roll is called a plank of sixty names in Thilak's letters, with 'Neela' as the first line and 'Indu' added beside it. The Company plank (ch 1, ch 28) holds forty-one names in Neela's own hand, with her name written last. The chapter 28 roll is on a crown leaf and begins 'Indu, called Neela'. The door board has to be a separate copy.",
+      "fix": "Make the door roll a new board copied from the roll by Thilak.",
+      "patches": [
+        {
+          "chapter": 32,
+          "find": "The roll hung there in lamp-black, sixty names on a plank, with Thilak's careful letters at the top.",
+          "replace": "The roll hung there in lamp-black, sixty names copied onto a new door board in Thilak's careful letters."
         }
       ]
     }

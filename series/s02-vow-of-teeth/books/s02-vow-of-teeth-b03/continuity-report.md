@@ -1,40 +1,38 @@
-# Continuity report: Crown of Night (book 3, chapters 1–32)
+# Continuity report: Crown of Night (book 3, all 32 chapters)
 
-## What was checked
+## What I checked
 
-- **Names and roles** against the bible and continuity.json: Neela/Indu, Devan, Usha/Ushakumari, Sajan, Lata, Sanu/Chandrika, Kandan, Thankam, Koman, Ponni, Haran, the Company members.
-- **Ages:** Neela 27, Devan 32, the queen 54, Janu 61, Thilak 41, Asha at 22.
-- **Timeline:**
-  - the four-day Kodiyur road
-  - the noon-signal days (early on the gun day, an hour late the next day, missed on the gallop)
-  - the herald's fifth evening
-  - the assault dusk
-  - the truce
-- **Magic rules:**
-  - self-naming and the burning of witness entries
-  - plain-ink versus resin-ink pages
-  - wound-share welts
-  - no caging by day
-  - the ache counted from the last turning
-- **Injuries and their mirrored welts:** forearm cuts, the arrow graze, the ladder-hook cut, the boarding hook on the right ribs, the spear under the right collarbone, the dead right hand, blistered palms.
-- **Who knows what:** Chathu's plain ink, the folded-wing bird, the payment writ, Asha's last words, the lookout lamp.
-- **Objects and places:** the oilcloth bundle, the leopard tooth, pebbles, the plank and the roll, the crown leaf count (30 → 4 → 3), the kennel cage positions.
-- **Head counts:** the Company (42), defenders, the guards, the dead on the tile.
+- The full text against the series bible: world rules, cast traits, ages and book 3 arc.
+- The continuity facts, including the provisional book 2 and book 3 facts.
+- The book against itself, under each category:
+  - **Names.** Guards First to Fourth, Usha/Ushakumari, Sanu/Chandrika, Kandan of Mathoor, the Kalladi and Neerattu dead.
+  - **Timeline.** Day count from Neela's departure to Rema's arrival, the noon-prick signals, and the assault dusk.
+  - **Magic rules.** Turning after sunset only, return at first light, witness and self-naming mechanics, who faces away at each turning, page burning versus intake rolls.
+  - **Injuries.** Devan's forearm, back, ribs and collarbone wounds and their welts on Neela, burned palms, the dead right hand, Thulasi's leg, the queen's welt from Usha.
+  - **Who knows what.** Usha's and the queen's knowledge of self-naming, Chathu's plain-ink pages, the lookout lamp.
+  - **Objects and places.** The oilcloth bundle, tins of sweets, the crown leaf case, the sea stair, Kettamala's ranges.
+  - **Counts.** Company votes, defender numbers, garrison strength.
 
 ## Errors found
 
-1. **E01 (major), ch 8:** says Devan hasn't struck first in eight years, but he did in ch 5. Fixed to "killed first".
-2. **E02 (major), ch 17/20:** Kuttu asks Vellan on the shelf while Kuttu is away in Kodiyur. Changed to Thulasi.
-3. **E03 (major), ch 9:** treats the "your wife is kept" hostage as Muthu's. It was Ittan's wife.
-4. **E04 (minor), ch 18/22:** one guard of the thirty is missing from the count at Kettamala. Patched so the guard was kept at the palace and returns with the column.
-5. **E05 (minor), ch 19:** Neela says her late prick was a quarter hour; ch 16 shows an hour.
-6. **E06 (minor), ch 28:** the plank has forty names; after ch 1 it should have forty-one.
-7. **E07 (minor), ch 8:** Thilak is both by the pack pony and at the pry-bar.
+Eight, all minor:
 
-## Stale continuity entries
+- **E01 (ch 3):** the vote count is over by one.
+- **E02 (ch 5):** the mirror-man timing is in the wrong order.
+- **E03 (ch 8, 9, 21):** "forty garrison volunteers" plus Muthu's thirty is more than the garrison of about sixty.
+- **E04 (ch 8):** Kandan is surprised that Devan "struck first", though he saw it in chapter 5.
+- **E05 (ch 15):** the sea-stair guard change runs in the opposite direction to Usha's description in chapter 12.
+- **E06 (ch 30):** the queen's quarters move from the north range to the south range.
+- **E07 (ch 32):** the lookout lamp's reason contradicts Vellan's account in chapter 27.
+- **E08 (ch 32):** the door roll is confused with the old plank.
 
-Some provisional facts conflict with the book text. The text is internally consistent, so the text should stand:
+No major errors were found. The rules are kept, no healed wound vanishes, and no character acts on knowledge too early.
 
-- F807: the escort spent three days in the south range, not four in the gate chamber.
-- F877/F880: superseded by the E02 fix.
-- F883: superseded by the E04 fix.
+## Notes, not errors
+
+- Some provisional facts are out of date against the final text:
+  - F807 says four days; chapters 2 and 9 say three.
+  - F877/F880 say Kuttu asked Vellan; the text has Thulasi ("I told the girl once").
+  - F936 says a grey moustache; the text says a scarred chin.
+- The corrected versions are logged in new-facts.json.
+- In chapter 31 the queen does not burn every crown leaf herself (Neela cuts the rolls free and Sajan burns his own). This is a deliberate change already recorded in F998, F999 and F1004, not a continuity slip.

@@ -6,7 +6,8 @@
   "status": "revising",
   "stage": "S3",
   "done": [
-    "S3"
+    "S3",
+    "S7"
   ],
   "chapters": {
     "01": {
@@ -1012,7 +1013,9 @@
     }
   },
   "chapter_count": 32,
-  "flags": [],
+  "flags": [
+    "continuity (minor): ch 8: The garrison numbers do not add up. Kettamala has about sixty men on the rolls (ch 4, F218). Chapter 8 puts forty garrison volunteers at the shelf, and chapter 11 has Muthu take thirty more garrison men down, with Bhaskaran still holding the walls. That is seventy or more out of sixty. Chapter 14 gives Kandan only ten of his own, and the named dead include a drover (Chami) and a Kalladi boy (Rajan), so the forty must be a mix."
+  ],
   "errors": [
     "2 major continuity errors remain after 2 fix round(s): ch 26: In Neela's POV, Thankam is introduced as a woman 'Neela had never seen before'. Neela met Thankam in the Kodiyur drying shed in ch 12 and watched her lay down the paring knife.; ch 31: In ch 28 Devan has already signed the Company roll, left-handed and badly, directly under Neela's name, in front of everyone. Ch 31 says there is 'a gap' beside her name and has him sign for the first time, saying 'I can't hold the pen'."
   ],
@@ -2058,9 +2061,13 @@
     {
       "at": "2026-10-25T22:51:27",
       "event": "done: S7 continuity"
+    },
+    {
+      "at": "2026-10-25T23:03:54",
+      "event": "done: S7 continuity"
     }
   ],
-  "updated_at": "2026-10-25T22:51:27",
+  "updated_at": "2026-10-25T23:03:54",
   "midpoint_chapter": 16,
   "continuity_attempts": 1,
   "continuity_last_errors": 3,
