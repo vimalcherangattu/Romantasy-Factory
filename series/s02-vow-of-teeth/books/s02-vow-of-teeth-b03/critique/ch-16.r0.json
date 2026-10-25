@@ -1,43 +1,43 @@
 {
   "scores": {
     "reader_question": 4.0,
-    "change": 4.0,
+    "change": 5.0,
     "romance_movement": 4.0,
-    "shown_chemistry": 3.0,
+    "shown_chemistry": 4.0,
     "character_logic": 3.0,
-    "stakes_and_cost": 4.0,
-    "prose": 3.0,
+    "stakes_and_cost": 5.0,
+    "prose": 4.0,
     "continuity": 0.0
   },
   "reasons": {
-    "reader_question": "A clear forced choice: take the queen's knives or not, with Devan's fort priced against her answer. The rider deadline makes it sharp.",
-    "change": "The handover victory becomes paper: the queen is a living witness and holds fresh pages. Neela's belief cracks and Devan is now a lever.",
-    "romance_movement": "Indirect but new. She sees the wound-bond as her only freedom and that she can't decide his life. The missed signal adds a cost.",
-    "shown_chemistry": "The thumb welts and the shaving-nick memory work. The key insight is still delivered as italic thought rather than action toward him.",
-    "character_logic": "Neela accepts the forty 'Chathu' pages at once, though she saw his dry grey-brown fingertips and knows he hadn't answered the steward (F837, F838).",
-    "stakes_and_cost": "Every option costs: a leash, or thirty bleeding pairs, or Devan losing Kettamala. The rider arriving before her makes delay costly.",
-    "prose": "Mostly clean and controlled, but with muddled lines: 'Thulasi's friend, no, that's a wrong lead', 'white grub of the fly', the brown-hand contradiction, and many 'She did not' openings.",
-    "continuity": "Conflicts: Sanu is a man (F718) yet his roll reads 'tailor's daughter'. The queen walked 'since the gun' before noon fired. Usha's number Four is Thilak's (F632)."
+    "reader_question": "Specific and double-edged: take the queen's knives, or refuse and leave Devan's office priced against her answer.",
+    "change": "The dawn victory becomes a paper victory. A living witness, forty fresh pages and a priced lever flip power to the queen.",
+    "romance_movement": "Devan is absent, but the bond is recast as her only freedom. The lever on his office is a new reason, and the dramatic irony works.",
+    "shown_chemistry": "The thumb welts, cliff-path memory and late prick show the bond through action. The 'cut his chin shaving' callback earns it.",
+    "character_logic": "Neela counts obsessively and waits with a thorn in her fingers, yet mistakes the noon gun for a cart. That is convenient, not character.",
+    "stakes_and_cost": "Every option costs: thirty bleeding pairs, Devan's fort, his right to choose. The rider at dusk puts a clock on it.",
+    "prose": "Clean, concrete, few tells. The queen's cost speech and Usha's motive speech run expository. 'The shed stopped being a shed' lands.",
+    "continuity": "Conflicts with F895: the missed noon signal is set in the sea room for the whole hour. Here it is the drying shed, a quarter hour late."
   },
   "fixes": [
-    "Opening, 'belonged to a girl who had stopped answering to it at six' (also 'a tailor's daughter'): continuity conflict. Sanu is male (F718), and 'six' contradicts 'sold at seven' four lines later. Make the roll read 'a tailor's son', and keep Chandrika as a name given after his mother's mother. Recast the opening line around 'a boy', or the given name, and align both ages to seven.",
-    "'I've been walking since the gun and I would like': continuity error. The noon gun hasn't fired yet; it fires unnoticed mid-scene. Change it to 'since the sixth bell' or 'since the audience hall emptied'. Also change 'Ledger number Four, crown leaf' to an unused number (not Four, Twelve, Seventeen or Thirty). Or state on the page that the crown leaf numbers its guards apart from the Resin House roll.",
-    "'Black tacky ink, a master's hand. Not the thin untidy brown': contradictory, and the narration flatly confirms a claim the beat frames as 'she says'. Cut the brown-hand line. Let Neela flash on Chathu's dry grey-brown fingertips in the cell (F838) and the unanswered steward (F837), and then fail to resolve it under the queen's calm. This keeps her smart and keeps the fair-twist clue alive."
+    "At 'Today she was a quarter hour late, and there was no word': continuity conflict with F895, which has the queen keep Neela the whole hour. Keep the queen in the shed past the hour, so Neela pricks only after the water-clock would have turned. Flag F895's 'sea room' for S7 to correct to the drying shed. Also align 'saluted him fist by fist at the gate' with F683, which places it in the hall.",
+    "At 'A cart on the quay, Neela thought, and let it go': irrational behaviour. A counter holding a thorn would know the gun. Make it a choice: she feels the gun, knows it, and keeps her hand still. Pricking in front of the queen would show her exactly where the lever bites. The miss then costs Devan by her own decision, which serves the beat's crack better.",
+    "At 'reached for the thought and the queen's calm voice went on over it': contrived delay. The POV drops a clue with no reason. Give a concrete reason: Neela half-forms the question about Chathu's grey fingertips and decides not to voice it, because saying it tells the queen what she is checking. Keep the clue live (F870) by choice, not by drift."
   ],
-  "reader_question": "Will Neela take command of the queen's page-free night-guard, and what will Devan lose, or choose, when the rider reaches him first?",
+  "reader_question": "Will Neela take command of the queen's page-free night-guard, and what will refusing cost Devan, who gets the same offer first?",
   "techniques_landed": [
     3,
     12,
     17,
     22
   ],
-  "new_facts_assessment": "The rider to Devan and the queen's nine days of knowing are necessary and consistent. The Kamalakshi exchange is a fair retro-plant beside F792. Sanu's birth record as 'a tailor's daughter' conflicts with the established male Fourth Guard (F718). Usha's 'ledger number Four' collides with Thilak's Four (F632) unless the crown leaf numbers separately, which the page never says. The 'widow's wrap' implies an unlisted fact that the queen is widowed.",
+  "new_facts_assessment": "Usha warning the queen before the theft (F1028) is necessary and recasts ch15's open lock fairly. The spray slot and thirty years are harmless texture. The queen's unbreakable promise fits the Thurai treaty. The queen missing her audience is fine but sits in the drying shed against F895's sea room. Mistaking the gun for a cart is unnecessary and weakens Neela.",
   "content_rule_violation": false,
   "failure_modes": [
     "Irrational behaviour to extend plot",
-    "Twists without setup"
+    "Contrived delays"
   ],
-  "average": 3.12,
+  "average": 3.62,
   "minimum": 0.0,
   "passed": false
 }
