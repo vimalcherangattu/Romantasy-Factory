@@ -6,35 +6,33 @@
     "shown_chemistry": 4.0,
     "character_logic": 3.0,
     "stakes_and_cost": 3.0,
-    "prose": 3.0,
-    "continuity": 0.0
+    "prose": 4.0,
+    "continuity": 5.0
   },
   "reasons": {
-    "reader_question": "Clear question: what will Neela answer now that her answer and the assault fall at the same dusk? The command offer itself is never named.",
-    "change": "Devan moves from commanding by the disc to winning a council vote. The line is set and the assault hour moves.",
-    "romance_movement": "The left-side ask is new: trust given as tactics, tied to day eleven and to the wound-share cost. A real step forward.",
-    "shown_chemistry": "Her two fingers on his ribs and 'That's why you' are responsive action. The pit scene does not lean on narration.",
-    "character_logic": "The vote gambit is smart. But 'Six of us hold something' contradicts 'I hold nothing', and Devan votes on his own plan.",
-    "stakes_and_cost": "Vellan alone at eleven paces and Neela feeling his wounds both carry cost. The 'early' assault moves only hours, which blunts it.",
-    "prose": "Clean and concrete overall. 'He found' appears three times, the held-breath line winks at a banned phrase, and the bearing-it beat is told.",
-    "continuity": "Koman's 'Not tonight, as the queen's spies said' conflicts with F922 (two nights). The pit memory conflicts with F347."
+    "reader_question": "The ending is clear and urgent: Neela's answer and the first ladder fall in the same dusk. The 'command' offer itself is never named.",
+    "change": "Power moves from disc to vote and Haran yields the centre. Knowledge changes with the earlier assault. Devan's value shift is shown in action.",
+    "romance_movement": "Asking her to cover his weak left is new trust, given as tactics, and it is rooted in day eleven. Her 'Yes' is earned.",
+    "shown_chemistry": "Her two fingers on his ribs, 'That's why you', and Muthu's salute all show the bond through action. Nothing is narrated.",
+    "character_logic": "Devan sets a five-voter vote that excludes himself, then raises his own hand. Calling the spies 'wrong' over a shift of a few hours is thin.",
+    "stakes_and_cost": "The odds of 1,400 against the defenders are only implied. The early assault moves things by hours, so the cost of answering now stays abstract.",
+    "prose": "Lean, varied and concrete. 'Barefoot' repeats in adjacent lines. The 'being seen' realisation is told. Neela saying 'cat' bends her 'other one' voice.",
+    "continuity": "Consistent with F347/F370 (day eleven), F849 stitches, F872 sheaves, F880 Vellan's line, F876 Koman, and the ch22 dusk deadline."
   },
   "fixes": [
-    "Continuity error at \"Not tonight, as the queen's spies said\". The queen's spies (F922) put the assault two nights out, so 'tonight' is wrong, and 'tomorrow at dusk' is barely early. Rewrite Koman's lines: 'The spies said after dark, the second night. They'll come at dusk, while the light's still in our eyes.' Keep 'The queen's spies were wrong' about the hour. Then sharpen Neela's line so the answer and the assault now share one moment.",
-    "Continuity error at \"I held my breath so she wouldn't know I was awake\". F347 has Devan awake and drilling. Neela came down the north steps; she did not stand at the lip. Rewrite: 'She came down those steps on the eleventh day, put her fingers at the back of my neck, counted three, and told me my left dropped. I didn't turn. I held my breath.' Also fix 'Six of us hold something' to 'Five of you hold something'.",
-    "Repetitive tension at \"I'll say it when I've earned saying it\". This repeats Vellan's ch5 deferral (F782) word for word, so the refusal has no new reason. Cut that sentence. Give a new reason tied to tonight: 'Not on the night before a fight. You'd carry it up the cut instead of your spear.' Then keep 'After. If there is an after.' Separately, cut two of the three 'He found' constructions."
+    "At 'The spies said after dark, the second night', the urgency is weak: dusk instead of after dark is a shift of hours, so 'the queen's spies were wrong' and 'answer due now' feel contrived. Add a concrete cost. Haran must place three hundred spears by noon and won't move them without the queen's word, and the queen's word waits on Neela. Her answer is then forced by first light, not merely by dusk.",
+    "At 'Five of you hold something on that wall', Devan defines a vote that excludes himself, then raises his hand, and it is counted 'five to one'. A smart Devan wouldn't break his own rule. Have Haran or Neela call out the extra hand, and have Devan lower it. Make the count four to one. This sharpens 'one voice in a council' into a choice the reader watches.",
+    "At 'It felt like being seen. He found he could bear it.', the value shift is narrated. Replace it with a beat. A wall sentry or Sethu calls down asking where the warden stands in the line, and Devan answers aloud, 'On the left, with my wife.' Also cut the second 'barefoot' in the pit opening. Change 'I'll be a cat by then' to 'the other one' so Neela stays in her own voice."
   ],
-  "reader_question": "Now that her answer to the queen and the Thurai assault fall at the same dusk, what will Neela choose, and will she have time to choose at all?",
+  "reader_question": "With the Thurai assault and her answer now set for the same dusk, what will Neela say to the queen before everyone, and can she say it before the first ladder lands?",
   "techniques_landed": [
     5,
     25
   ],
-  "new_facts_assessment": "Haran and Sethu are necessary and consistent. The 5-1 vote is fine, but Devan's 'six of us hold something' miscounts. Kamalakshi at about nineteen is acceptable and she is in no romantic scene. 'Your knife' is unexplained: when did she get Vellan's knife? Vellan holding the cut alone fits F880 and his B3 death.",
+  "new_facts_assessment": "new-facts.json is empty, yet the draft adds several facts. The new facts are Captain Haran and his second Sethu, the 5-to-1 vote and the 'under the table' compromise, the eleven-pace narrows Vellan holds, the retreat-to-wall plan, Kamalakshi at about nineteen, and Koman's report of the tower on the shingle with a dusk attack. All are necessary and consistent with the bible and F929-F933. Kamalakshi's age is non-romantic and plausible. The draft must list these facts.",
   "content_rule_violation": false,
-  "failure_modes": [
-    "Repetitive tension"
-  ],
-  "average": 3.12,
-  "minimum": 0.0,
-  "passed": false
+  "failure_modes": [],
+  "average": 3.88,
+  "minimum": 3.0,
+  "passed": true
 }
