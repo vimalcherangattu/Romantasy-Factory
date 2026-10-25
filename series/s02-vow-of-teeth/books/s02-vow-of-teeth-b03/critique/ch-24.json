@@ -3,40 +3,40 @@
     "reader_question": 4.0,
     "change": 4.0,
     "romance_movement": 4.0,
-    "shown_chemistry": 4.0,
+    "shown_chemistry": 3.0,
     "character_logic": 3.0,
     "stakes_and_cost": 4.0,
     "prose": 3.0,
     "continuity": 0.0
   },
   "reasons": {
-    "reader_question": "The ladder lands as new pairs are still flinching at thorns. The question of whether bound odiyans can fight is concrete and urgent.",
-    "change": "Power moves from crown to self-binding. The queen gives up reading pages and takes a wound-share. Neela refuses command in public.",
-    "romance_movement": "The public naming of Devan as chosen is a new public act, with a new reason: freedom as choosing. Devan's response is restrained.",
-    "shown_chemistry": "His fingers touch her bound hand without taking it, and 'Left side' and 'I know where it is' call back the pit. Shown, not told.",
-    "character_logic": "Neela and the queen are sharp. Sanu choosing Kandan has no setup. Lata 'did not come to the shelf' yet stands by its stakes.",
-    "stakes_and_cost": "Each naming has a visible price: rogue status, shared wounds and a thinner line. The queen pays too. The cost is concrete.",
-    "prose": "Strong moments are undercut by garbled sentences (Bhaskaran's wife, 'sealed into a sash her wounds'), 'the weight of', and a sea-side room in a hill fort.",
-    "continuity": "Company members' namings burn leaves in the queen's crown case, which holds only the thirty guards. The 'last leaf' burns while four unready guards keep pages."
+    "reader_question": "The ladder lands on pairs just learning the share, so the question is sharp and specific. The writ's deferral adds a second thread.",
+    "change": "The queen gives up reading pages and is bound to Usha. Twenty-six guards go rogue and the Company becomes a line of pairs.",
+    "romance_movement": "Her public 'I chose him' is a new reason and a new stage. Devan's answering touch is earned, though he stays largely passive.",
+    "shown_chemistry": "The ragged breath, the fingers at her bound hand and the 'Left side' callback land. Most of the romance is carried by Neela's speech.",
+    "character_logic": "The queen choosing to look is excellent. Devan's silent non-reading of the writ breaks the term set in ch 21, and no reason is given.",
+    "stakes_and_cost": "Every naming has a named price: rogue status, bleeding a partner, burned leaves. The queen pays in her own body.",
+    "prose": "Mostly clean and concrete. Lapses: 'Nobody breathed', 'crack like a snapped bone', a garbled otter-chin sentence, and the 'she hated' device used twice.",
+    "continuity": "Kuttu speaks in shape after his dusk naming, and he and Sanu use palms and thumbs. This breaks F004."
   },
   "fixes": [
-    "At 'In the queen's lap, one leaf caught' (after Pavi), the leaf mechanics break the world rule (Worldbuilding collapse): Company pages are not in the crown case. Burn Company entries from Chathu's forty fresh leaves on Neela's lap. Burn crown leaves only when a guard names. Cut 'Thirty-seven' or make it a correct guard count. Change 'The last leaf in the case went up' so the four unready guards' leaves remain. Keep the intake-roll thread unburned (F012).",
-    "At 'You're the one who said my name when you knew it', Sanu's choice of Kandan has no setup (Irrational behaviour). Add one line showing when Kandan learned and used Sanu's name, such as on the road from the shingle or at the cairn fire. Also fix 'Four of the thirty did not come to the shelf at all' against 'She stood by the stakes'. Say they stayed back from the naming line instead.",
-    "Rewrite the garbled sentences. Make 'his wife's name, Neela knew, already said to the cairn fire' state plainly that Bhaskaran told his wife's name to the fire first. Untangle 'give a girl she had sealed into a sash her wounds'. Clarify 'no one had put a name on the cost aloud, only the cost'. Replace 'sea-side guest room' with a Kettamala room. Change 'the weight of the hall' to the court, without the AI tell."
+    "'Kuttu looked up at Bhaskaran, across the stakes. \"Does it get easier?\"' This is worldbuilding collapse. Kuttu, Sanu, Pavi and Thulasi turned at the naming, so they cannot speak or use palms and thumbs until dawn. Give Bhaskaran the question, asked to the animal at his feet. Make Kuttu's 'palm flat on a stake' a paw on a stake point, Sanu's 'thumb on a flint' a pad on flint, and Thulasi's calf a foreleg.",
+    "'He stood with his palm flat over the oilcloth' breaks the ch 21 term (F912, F917): Devan said he would read the writ at the gate once Neela had answered. Silence here reads as plot-driven. Add one line from Devan in which he asks the queen whether she wants it read before or after the ladders. Her deferral then becomes a choice he concedes openly, which also keeps his never-lies voice.",
+    "'Each wound halved, and each death half-given' misstates F009 and F627. The original wound stays whole, the partner gets a welt, and a mortal wound drags the other toward death. Rewrite along the lines of 'Each wound counted twice, once as blood and once as a welt; each death able to pull a second after it.' Also cut 'Nobody breathed' and recast the confusing 'The otter's chin, white, was still a woman's chin tonight.'"
   ],
-  "reader_question": "Can the newly bound odiyans fight the assault now hitting the shelf without bleeding each other to death?",
+  "reader_question": "Can the newly bound pairs hold the shelf against the ladders without each wound dragging their partners down, and what is in the queen's unread writ?",
   "techniques_landed": [
     14,
     18,
     22
   ],
-  "new_facts_assessment": "Moving the answer to the afternoon is necessary and consistent with ch23. Keeping the writ unread is well motivated. Bhaskaran applying resin fits F502 but the line about his wife is garbled. Sanu to Kandan lacks any prior link. The 'Thirty-seven' count and the blackening intake-roll thread risk breaking F012. Clarify that the intake roll survives.",
+  "new_facts_assessment": "The Kandan/Sanu cart-road naming is necessary to motivate Sanu's choice and is plausible on the riders' route in, but it arrives as late backstory; plant it one beat earlier if possible. The leaf mechanism (witness entries burn, intake rolls survive, four crown leaves remain) is consistent with F012 and F940. The head-count needs checking: F883 and F924 imply only 29 of the thirty guards are present (one stayed in Kodiyur), yet the chapter accounts for all thirty (26 named plus 4 unready). The narration also misstates the wound-share as 'halved' (see fixes).",
   "content_rule_violation": false,
   "failure_modes": [
     "Worldbuilding collapse",
     "Irrational behaviour to extend plot"
   ],
-  "average": 3.25,
+  "average": 3.12,
   "minimum": 0.0,
   "passed": false
 }

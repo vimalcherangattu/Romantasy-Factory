@@ -1,0 +1,42 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 3.0,
+    "character_logic": 3.0,
+    "stakes_and_cost": 4.0,
+    "prose": 3.0,
+    "continuity": 0.0
+  },
+  "reasons": {
+    "reader_question": "The ladder lands on pairs just learning the share, so the question is sharp and specific. The writ's deferral adds a second thread.",
+    "change": "The queen gives up reading pages and is bound to Usha. Twenty-six guards go rogue and the Company becomes a line of pairs.",
+    "romance_movement": "Her public 'I chose him' is a new reason and a new stage. Devan's answering touch is earned, though he stays largely passive.",
+    "shown_chemistry": "The ragged breath, the fingers at her bound hand and the 'Left side' callback land. Most of the romance is carried by Neela's speech.",
+    "character_logic": "The queen choosing to look is excellent. Devan's silent non-reading of the writ breaks the term set in ch 21, and no reason is given.",
+    "stakes_and_cost": "Every naming has a named price: rogue status, bleeding a partner, burned leaves. The queen pays in her own body.",
+    "prose": "Mostly clean and concrete. Lapses: 'Nobody breathed', 'crack like a snapped bone', a garbled otter-chin sentence, and the 'she hated' device used twice.",
+    "continuity": "Kuttu speaks in shape after his dusk naming, and he and Sanu use palms and thumbs. This breaks F004."
+  },
+  "fixes": [
+    "'Kuttu looked up at Bhaskaran, across the stakes. \"Does it get easier?\"' This is worldbuilding collapse. Kuttu, Sanu, Pavi and Thulasi turned at the naming, so they cannot speak or use palms and thumbs until dawn. Give Bhaskaran the question, asked to the animal at his feet. Make Kuttu's 'palm flat on a stake' a paw on a stake point, Sanu's 'thumb on a flint' a pad on flint, and Thulasi's calf a foreleg.",
+    "'He stood with his palm flat over the oilcloth' breaks the ch 21 term (F912, F917): Devan said he would read the writ at the gate once Neela had answered. Silence here reads as plot-driven. Add one line from Devan in which he asks the queen whether she wants it read before or after the ladders. Her deferral then becomes a choice he concedes openly, which also keeps his never-lies voice.",
+    "'Each wound halved, and each death half-given' misstates F009 and F627. The original wound stays whole, the partner gets a welt, and a mortal wound drags the other toward death. Rewrite along the lines of 'Each wound counted twice, once as blood and once as a welt; each death able to pull a second after it.' Also cut 'Nobody breathed' and recast the confusing 'The otter's chin, white, was still a woman's chin tonight.'"
+  ],
+  "reader_question": "Can the newly bound pairs hold the shelf against the ladders without each wound dragging their partners down, and what is in the queen's unread writ?",
+  "techniques_landed": [
+    14,
+    18,
+    22
+  ],
+  "new_facts_assessment": "The Kandan/Sanu cart-road naming is necessary to motivate Sanu's choice and is plausible on the riders' route in, but it arrives as late backstory; plant it one beat earlier if possible. The leaf mechanism (witness entries burn, intake rolls survive, four crown leaves remain) is consistent with F012 and F940. The head-count needs checking: F883 and F924 imply only 29 of the thirty guards are present (one stayed in Kodiyur), yet the chapter accounts for all thirty (26 named plus 4 unready). The narration also misstates the wound-share as 'halved' (see fixes).",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Worldbuilding collapse",
+    "Irrational behaviour to extend plot"
+  ],
+  "average": 3.12,
+  "minimum": 0.0,
+  "passed": false
+}
