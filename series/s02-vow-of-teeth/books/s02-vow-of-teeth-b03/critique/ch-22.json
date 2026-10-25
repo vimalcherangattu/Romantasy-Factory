@@ -2,40 +2,41 @@
   "scores": {
     "reader_question": 4.0,
     "change": 4.0,
-    "romance_movement": 4.0,
+    "romance_movement": 3.0,
     "shown_chemistry": 4.0,
     "character_logic": 3.0,
     "stakes_and_cost": 4.0,
-    "prose": 4.0,
-    "continuity": 0.0
+    "prose": 3.0,
+    "continuity": 5.0
   },
   "reasons": {
-    "reader_question": "Clear and specific: what Neela answers at the gate in front of everyone, two nights before an assault.",
-    "change": "Power shifts openly: Neela sets the time and place of her answer, sits Janu, and summons the Company herself.",
-    "romance_movement": "New reason: Devan's public silence when offered his office shows trust before the household. Hand-clasp and banter seal it.",
-    "shown_chemistry": "Shown through action: his thumb on her blister and the 'wide advice' line. No narrated chemistry.",
-    "character_logic": "On the step where Asha died, Neela, who knows she was the lookout, shows no guilt at all.",
-    "stakes_and_cost": "Two-night deadline, fourteen hundred Thurai, and a public answer that may lose the spears.",
-    "prose": "Clean and concrete. Minor echoes: two 'no lower' bows, 'level' twice, 'a long moment' and 'a long time'.",
-    "continuity": "'Gone wide of the parrot newel... without knowing why' conflicts with F553/F552: she learned in B2 ch16 that she stood lookout there."
+    "reader_question": "Sharp and public: what will Neela say at dusk before everyone, and what will reading the writ now cost?",
+    "change": "The queen disarms the writ's surprise, the assault clock is set, and Neela takes the open answer to the Company by horn.",
+    "romance_movement": "Devan's public silence over his office is new and earned, but the hall beat reuses last chapter's thumb-on-blister intimacy.",
+    "shown_chemistry": "Hand at the wrist, 'wide advice' banter, and his refusal to speak are responsive and specific, not narrated.",
+    "character_logic": "Usha's report is thin, and Neela lets the lamp-black clue slide too easily given what she half-noticed in Kodiyur (F870).",
+    "stakes_and_cost": "Strong. The writ must still be read once its surprise is gone, so Neela's open answer costs her the shelter of privacy.",
+    "prose": "Mostly clean and concrete. Echoes ch21 phrasing, the 'worse than cruelty' line is stock, and length runs near 3,300 words.",
+    "continuity": "Matches F918 to F928: Lata on the shelf, Rema's roll, the Kolathur fair, the eleventh step, Raman's patrol, the horn on the well post."
   },
   "fixes": [
-    "\"gone wide of the parrot newel since her first week without knowing why\": continuity break and wasted dramatic irony (technique 13). Neela knows since B2 ch16 that she held the shuttered lamp at this stair foot. Rewrite so she touches the newel knowing it. When the queen says 'She was Devan's sister', give Neela a one-line physical reaction and a choice to speak or to withhold her own part.",
-    "\"I sealed the payment writ. My people tell me\": the queen confesses privately and so takes the sting out of Devan's planned public reading. Neela never registers this power shift. Add two or three lines where Neela realises the writ has just lost its surprise and decides it must still be read. Name how the queen knows, for example Usha.",
-    "\"He bowed from the waist and no lower\": this echoes Devan's earlier 'did not bow lower than a warden bows'. Vary Muthu's gesture. Also cut the second 'level' in the Muthu exchange and one of 'a long moment' / 'a long time'. Remove 'split lip' or set it up earlier."
+    "At 'Usha saw the bundle in your husband's pack on the hill', the source is contrived (Irrational behaviour). Replace it: the queen received Ittan's effects from Rema, the buyer's half and the payment writ were missing, and she reasons that only the warden could hold them. If Usha must stay, Neela registers it as Usha's breach and decides what to do about it.",
+    "At 'She straightened, and the thought slid off like water off a leaf', the clue dies by convenience. Neela has already half-noticed Chathu's grey-brown fingertips (F870), so a smart Neela would chase it. Cut the thought off with action instead: the queen's offer to Devan lands on her next breath and pulls every eye. Keep her one beat of 'lamp-black is clerk's ink' before the interruption.",
+    "At 'His thumb found the blister under the cloth' and 'stood a step back, as she'd asked', ch21 is echoed nearly word for word (Repetitive tension in the intimacy). Give the hall touch a new form tied to this room, such as his knuckles once against her spine through the bench gap. Trim 'There was no cruelty in it, and that was worse than cruelty' and tighten the hall to bring the chapter near 3,000 words."
   ],
-  "reader_question": "What will Neela say to the queen at the gate, before the realm, and what will it cost the pass?",
+  "reader_question": "What will Neela answer before the realm at dusk, and will the writ still cost them the spears now the queen has owned it?",
   "techniques_landed": [
+    13,
     15,
     16
   ],
-  "new_facts_assessment": "Horn on the well post (F926): harmless and useful. Answer at the cairn fire (F928): good setup. The queen knowing Devan carries the writ (F927) needs a source, since Muthu burned his letters; Usha watching the bundle on the hill would fit. Lata absent with seven riding (F924) is consistent with F883. Neela's split lip is unlisted and unestablished.",
+  "new_facts_assessment": "Usha seeing the bundle and telling the queen what it holds is unnecessary and weak. Usha cannot know a writ's contents from an oilcloth bundle, her report is an unacknowledged breach of the Company's trust, and Neela never reacts to it. Ittan's effects are a better source: the queen knows what he carried and what came back missing. The private confession on the stair, and Neela's decision that the writ must still be read in the open, are strong and consistent with F935.",
   "content_rule_violation": false,
   "failure_modes": [
-    "Trauma as decoration",
-    "Contrived delays"
+    "Irrational behaviour to extend plot",
+    "Repetitive tension"
   ],
-  "average": 3.38,
-  "minimum": 0.0,
-  "passed": false
+  "average": 3.75,
+  "minimum": 3.0,
+  "passed": true
 }
