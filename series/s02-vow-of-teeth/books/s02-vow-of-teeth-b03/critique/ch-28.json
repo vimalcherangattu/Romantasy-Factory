@@ -4,38 +4,38 @@
     "change": 4.0,
     "romance_movement": 4.0,
     "shown_chemistry": 4.0,
-    "character_logic": 3.0,
-    "stakes_and_cost": 4.0,
-    "prose": 3.0,
-    "continuity": 0.0
+    "character_logic": 4.0,
+    "stakes_and_cost": 3.0,
+    "prose": 4.0,
+    "continuity": 5.0
   },
   "reasons": {
-    "reader_question": "The queen claims the unbound pages as crown paper, with the Thurai counting by dusk. The question is specific and pressing.",
-    "change": "Neela moves from free to freely bound in public. The queen then turns the roll's victory into a new standoff.",
-    "romance_movement": "His public refusal of her help, and his reason (done hiding), is new. Their bond is now visible to the whole court.",
-    "shown_chemistry": "The pen scene runs on responsive action: she cites Asha writing his letters, he refuses. The bench banter lands. 'That was a great deal' narrates.",
-    "character_logic": "Janu knows about the light with no on-page source. The roll is written on crown paper just before the queen claims paper. 'Worse man' line confuses.",
-    "stakes_and_cost": "Neela states the cost aloud before she signs. The queen's claim on eleven pages and four guards costs the Company its unity before dusk.",
-    "prose": "Clean and concrete, but 'It was not X. It was Y' recurs about six times. Hands-over-mouth repeats ch27. 'Worse man' line muddled.",
-    "continuity": "'For six years the woman had kept ten paces' conflicts with F591: Janu crossed those paces in book 2 ch23."
+    "reader_question": "The queen's claim on the four guards and eleven pages, with the Thurai counting by dusk, is specific. The danger of those pages is implied, never stated.",
+    "change": "The Company is now a real roll of sixty names. Devan accepts the lost strike, Janu's guilt turns into a daily rite, and the queen's last lever is exposed.",
+    "romance_movement": "There is a new reason: he refuses her help and fails at the pen in public, and she says 'Yes' instead of rescuing him. Her binding is spoken to him first.",
+    "shown_chemistry": "Responsive beats carry it: the six paces watched, the reed exchange, the ink-on-collar banter, his hand closing on her wrist. Almost no narration of feeling.",
+    "character_logic": "Neela's 'take it now and see who signs' gambit is smart, and the queen's retreat-and-hold fits her. Devan's refusal follows his arc.",
+    "stakes_and_cost": "Neela's binding cost is stated publicly. The next decision's cost is vague: no named person among the eleven, and no stated harm if the queen keeps them.",
+    "prose": "Clean, varied and quotable in places. The child simile appears three times, 'looked at the sky' twice, the 'Nobody ...' beat is overused, and 'ink-blue' contradicts the black ink.",
+    "continuity": "Consistent with F181, F591, F647, F722, F758, F863, F878, F933, F946, F950 and F967. No hard conflicts found."
   },
   "fixes": [
-    "'For six years the woman had kept ten paces from it' conflicts with F591, where Janu crossed them in book 2 ch23 for Neela's confession (continuity). Rewrite it so she crossed once, for Neela's confession, and has not gone back since. Keep 'Nobody had [known she meant to go]' and the tension of the walk.",
-    "Janu says 'She wasn't alone, then' with no source on the page (irrational behaviour to extend plot). Plant one line near the opening: Janu at the kitchen door with Devan's head bent to hers at dawn, or Neela telling her of the light by the well. Then her noon walk reads as the result of that news.",
-    "'They are *paper*, Corporal... And paper is mine' comes after the roll was written on 'a clean crown leaf' from the queen's case (character logic gap). Either have Neela strike back with it ('Then the roll is yours too. Take it.'), forcing the queen to back off, or source the sheet from the Company's own stores in the opening beat."
+    "The queen's line 'Eleven have no name beside them yet' fails as stakes without depth. Have Neela count the eleven and name at least one aloud, such as Kamalakshi, who refused everyone (F903). Add one cruel fact from the queen: whoever holds a page can read it after dark. Give Neela one beat of what that means for Kamalakshi tonight.",
+    "Three lines repeat the child simile: 'the way a woman checks a sleeping child', 'like a child's first lesson' and 'as one might touch a child's'. Keep only Janu's parrot touch. Replace the other two with images specific to the place, such as letters leaning like a tapper's ladder. Change one of the two 'looked at the sky' and cut one of the four 'Nobody ...' beats.",
+    "Three small fixes. 'Lips move on the word Kettamala' is an unlisted plant: list it in new-facts with its intended payoff, or cut it. Change 'ink-blue to the wrist' to black, to match the pot. Kuttan cannot write (F512), so replace 'worse than Kuttan could' with something like 'worse than the line Neela wrote for Kuttan's mother'."
   ],
-  "reader_question": "How can the Company free the eleven unbound members and four guards when the queen claims their pages as crown paper, before the Thurai attack at dusk?",
+  "reader_question": "How can Neela free the four unready guards and the eleven unnamed members from the queen's paper without forcing anyone to self-name, before the Thurai attack again?",
   "techniques_landed": [
     3,
     19,
     24
   ],
-  "new_facts_assessment": "All four listed facts are consistent. The 'on loan' claim fits F865, and Ushakumari and Mathoor fit F863 and F511. Three unlisted facts need judging. Garrison men (Kandan, Bhaskaran) sign the roll, which makes non-odiyans Company members. The roll reaches sixty names. Janu knows Asha saw a light, though only Devan and Neela heard Vellan; this needs an on-page source.",
+  "new_facts_assessment": "Janu's lamp motive (F971), the roll-as-crown-leaf gambit (F972) and sixty names with garrison signers (F973) are all necessary and consistent. Two things are unlisted. First, the queen mouthing 'Kettamala' with an odd stillness is a plant with no listed payoff. Second, Janu's hand 'wrapped in its cloth from the day before' reads as a new injury, unless it is meant as the ch4 burn (F766), which would be weeks old by now. List the first and clarify the second.",
   "content_rule_violation": false,
   "failure_modes": [
-    "Irrational behaviour to extend plot"
+    "Stakes without depth"
   ],
-  "average": 3.25,
-  "minimum": 0.0,
-  "passed": false
+  "average": 4.0,
+  "minimum": 3.0,
+  "passed": true
 }
