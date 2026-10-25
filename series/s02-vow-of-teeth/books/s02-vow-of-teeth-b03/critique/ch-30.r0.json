@@ -1,43 +1,41 @@
 {
   "scores": {
-    "reader_question": 3.0,
+    "reader_question": 4.0,
     "change": 4.0,
-    "romance_movement": 2.0,
+    "romance_movement": 4.0,
     "shown_chemistry": 4.0,
     "character_logic": 3.0,
-    "stakes_and_cost": 3.0,
-    "prose": 3.0,
-    "continuity": 0.0
+    "stakes_and_cost": 4.0,
+    "prose": 4.0,
+    "continuity": 5.0
   },
   "reasons": {
-    "reader_question": "The question is stated outright in narration rather than earned. The ending settles into domestic warmth instead of pulling the reader forward.",
-    "change": "The value shift lands: the writ goes from leverage to open record, the queen confesses in public, and the Company votes its own charter.",
-    "romance_movement": "This replays the shelter vow from book 2 ch 32 (F671), including 'at her back, not her wall'. Neela's public answer is the only new step.",
-    "shown_chemistry": "Strong responsive beats: her fingers in his sleeve, his hand covering hers, and him turning his back so the namings have no outside witness.",
-    "character_logic": "Devan's handover is smart and in character. Rema's line about 'the man who paid the Keeper... her' is muddled, and the queen's 'last night' may be off.",
-    "stakes_and_cost": "Devan names the cost (three hundred spears) in narration only. Nothing is actually lost on the page, and the queen's one night defers every consequence.",
-    "prose": "Mostly clean, but has tells: 'Nobody breathed', 'it was extraordinary', 'the quiet that followed was not empty', and an odd 'last, and highest'.",
-    "continuity": "Usha already self-named to the queen (F938, F951), so 'neither could be caged by anyone not the other' breaks Rule 2. The eight-year barred shutter contradicts F102."
+    "reader_question": "The lone lit window and pale smoke turn the question into a concrete one: what is the queen burning, and will she sign at noon?",
+    "change": "The writ moves from private leverage to the court roll, and Devan joins the Company on the record. Both shifts are clear and irreversible.",
+    "romance_movement": "This is Devan's first public binding, entered on a crown roll with no office to shelter him. Neela answers by daylight. The reason is new.",
+    "shown_chemistry": "'Names only' gives Devan a witness's knowledge with the witnessing removed. Her fingers on his sleeve and the left-hand clasp land through action.",
+    "character_logic": "Devan's choices are smart. The queen never openly owns the writ, so the beat's public confession is dodged and her answer reads as evasion.",
+    "stakes_and_cost": "Rema names the price: the crown can answer any Company act on Devan. Madhavi's dead give the fifth clause a real cost.",
+    "prose": "Clean, varied and quotable ('like weather', the burned-rice voice). Minor slips: the vote-order contradiction and the redundant case line.",
+    "continuity": "Dates, welts, the twenty-six burned leaves, Lata's ride north, Janu's noon lamp and the Usha double share all match the bible and facts."
   },
   "fixes": [
-    "'neither of them could be caged by anyone who was not the other': this breaks Rule 2 (worldbuilding collapse). Usha self-named to Nirmala in ch 24. Rewrite: Lata can now be caged only with Usha's voice. Usha takes on a second wound-share, so she will bleed for both Lata and the queen. Before Usha's 'I won't', have her glance at the welt on her forearm to show she is weighing that.",
-    "'He had lived behind a shut shutter for eight years': this contradicts F102 (the shutters stood open until the wedding). The declaration also replays the book 2 ch 32 vow (repetitive tension). Replace the shutter line with his true eight years: no sparring, no one at his back. Cut 'At her back, and not her wall'. Make the new step his request that Rema enter his binding to Neela on the court roll, a crown record with a real cost.",
-    "'The court cannot try the man who paid the Keeper, because no one has named her': the pronoun and the logic are muddled, since the queen paid the Resin House and Ittan was the Keeper. Change to 'The court cannot try whoever sealed the writ that paid the guild, because no one has laid it before the court.' Also check the queen's 'Last night the Thurai came up that cut' against the ch 27 to 29 timeline, and correct the time reference."
+    "At 'Twenty-six of my own knives knelt in the dark', the queen never owns the writ in public. The beat requires her to admit she permitted the raids, bought the thirty and paid for his death. As written this is a contrived delay: the confession stays implied. Add two plain sentences in her cruel-facts voice, such as 'I sealed it. I would have let you die on that stair,' before her line about the realm being blind.",
+    "At 'Madhavi did, last and slowest', the count contradicts Kuttu's 'Kamalakshi's hand was the last one up, and the highest'. Two hands cannot both be last. Keep Madhavi last, and change Kuttu's line to 'Kamalakshi's hand was the first one up, and the highest.' Kamalakshi then reads as eager, not as a counting error.",
+    "At 'He thought he knew where her eyes had gone', the close repeats a beat the reader just saw (her hand on the green case). This is redundant interiority that blunts the smoke reveal. Cut the three sentences to one, 'Her hand stayed on the green case,' so the lit window and the smoke carry the question alone."
   ],
-  "reader_question": "Will the queen sign the Company's charter at noon, and what does she mean to burn tonight?",
+  "reader_question": "What is the queen burning alone in the south range tonight, and will she sign the Company's five terms at noon?",
   "techniques_landed": [
     9,
     16,
     20
   ],
-  "new_facts_assessment": "The high court's nine-day sitting, the dawn retrieval from the shutter hollow, and the noon watch-house answer are all necessary and consistent; the watch-house fits the bible's 'new hall above the pass'. Lata naming to Usha is allowed, since one person can receive more than one naming. But the narration ignores Usha's existing bond to the queen and misstates the caging rule. The seal is said to come from Devan's sleeve, while F914 and F916 put it in the bundle.",
+  "new_facts_assessment": "Madhavi's challenge is needed: it makes the vote real, honours Lekha, Orma, Kani and Swathi (F1049), and fits the right-to-refuse theme. Sajan stepping back fits F999/F1004 (he burns his own page in ch31) and keeps exactly three crown leaves after Lata names. Both are consistent.",
   "content_rule_violation": false,
   "failure_modes": [
-    "Repetitive tension",
-    "Worldbuilding collapse",
-    "Narrated-only chemistry"
+    "Contrived delays"
   ],
-  "average": 2.75,
-  "minimum": 0.0,
-  "passed": false
+  "average": 4.0,
+  "minimum": 3.0,
+  "passed": true
 }
