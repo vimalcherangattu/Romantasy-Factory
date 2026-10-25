@@ -1,43 +1,42 @@
 {
   "scores": {
-    "reader_question": 3.0,
+    "reader_question": 4.0,
     "change": 4.0,
-    "romance_movement": 2.0,
-    "shown_chemistry": 4.0,
+    "romance_movement": 3.0,
+    "shown_chemistry": 3.0,
     "character_logic": 3.0,
     "stakes_and_cost": 3.0,
     "prose": 3.0,
     "continuity": 0.0
   },
   "reasons": {
-    "reader_question": "The question is stated outright in narration rather than earned. The ending settles into domestic warmth instead of pulling the reader forward.",
-    "change": "The value shift lands: the writ goes from leverage to open record, the queen confesses in public, and the Company votes its own charter.",
-    "romance_movement": "This replays the shelter vow from book 2 ch 32 (F671), including 'at her back, not her wall'. Neela's public answer is the only new step.",
-    "shown_chemistry": "Strong responsive beats: her fingers in his sleeve, his hand covering hers, and him turning his back so the namings have no outside witness.",
-    "character_logic": "Devan's handover is smart and in character. Rema's line about 'the man who paid the Keeper... her' is muddled, and the queen's 'last night' may be off.",
-    "stakes_and_cost": "Devan names the cost (three hundred spears) in narration only. Nothing is actually lost on the page, and the queen's one night defers every consequence.",
-    "prose": "Mostly clean, but has tells: 'Nobody breathed', 'it was extraordinary', 'the quiet that followed was not empty', and an odd 'last, and highest'.",
-    "continuity": "Usha already self-named to the queen (F938, F951), so 'neither could be caged by anyone not the other' breaks Rule 2. The eight-year barred shutter contradicts F102."
+    "reader_question": "The lit south window and pale smoke give a specific pull: is the queen burning the crown leaf, and will she sign?",
+    "change": "The writ moves from secret leverage to court record, the queen confesses, the charter is voted and two bindings land.",
+    "romance_movement": "The public binding repeats the book 2 assize entry (F682) and the shelter vow (F671). The court-roll framing is the only new reason.",
+    "shown_chemistry": "Her fingers tucked into his sleeve and her taking his good hand work. Too much is narrated ('a face that had no guard on it').",
+    "character_logic": "Devan's open reading fits him. Rema warning about a harbouring entry she already recorded at the assize makes no sense.",
+    "stakes_and_cost": "Costs are named (spears, the record), but the queen's calm acceptance and the already-spent harbouring entry soften them.",
+    "prose": "Clean and mostly strong. Silence beats are overused, the queen's speech has a non sequitur, and some lines are told.",
+    "continuity": "'Had not sparred a living man in eight years' contradicts F475, F720 and F799. 'Let no one stand at his back' contradicts F671."
   },
   "fixes": [
-    "'neither of them could be caged by anyone who was not the other': this breaks Rule 2 (worldbuilding collapse). Usha self-named to Nirmala in ch 24. Rewrite: Lata can now be caged only with Usha's voice. Usha takes on a second wound-share, so she will bleed for both Lata and the queen. Before Usha's 'I won't', have her glance at the welt on her forearm to show she is weighing that.",
-    "'He had lived behind a shut shutter for eight years': this contradicts F102 (the shutters stood open until the wedding). The declaration also replays the book 2 ch 32 vow (repetitive tension). Replace the shutter line with his true eight years: no sparring, no one at his back. Cut 'At her back, and not her wall'. Make the new step his request that Rema enter his binding to Neela on the court roll, a crown record with a real cost.",
-    "'The court cannot try the man who paid the Keeper, because no one has named her': the pronoun and the logic are muddled, since the queen paid the Resin House and Ittan was the Keeper. Change to 'The court cannot try whoever sealed the writ that paid the guild, because no one has laid it before the court.' Also check the queen's 'Last night the Thurai came up that cut' against the ch 27 to 29 timeline, and correct the time reference."
+    "'He had not sparred a living man in eight years' conflicts with continuity: he sparred Neela (F475) and Muthu (F720), killed a scout (F799) and vowed at her back (F671). Cut this sentence and 'let no one stand at his back'. Replace them with a true present fact, e.g. eight years of saying what he meant only in the dark, never where a clerk's pen could take it down.",
+    "'It names you as harbouring an odiyan. In your own voice.' is repetitive tension, because Rema already entered that he harbours his wife (F682). Give the entry a new cost. Rema should note it goes past the assize note to the high court and makes him party to every Company act under its vote. Devan should ask to be entered as a Company member, not a warden.",
+    "In 'bleeding for strangers. I find it isn't so.', the queen's turn comes before her belief is restated, so it reads as a non sequitur. Also, only twenty-six named (F957). Change 'thirty' to 'twenty-six' and move 'I find it isn't so' after 'a realm is not safe by what it has not seen'. Cut one of the three silence beats ('The hall made no sound at all', 'The silence went on', 'the only sound in the room')."
   ],
-  "reader_question": "Will the queen sign the Company's charter at noon, and what does she mean to burn tonight?",
+  "reader_question": "Will the queen sign the charter at noon, and is that thin smoke from her window the crown leaf burning?",
   "techniques_landed": [
-    9,
     16,
-    20
+    20,
+    9
   ],
-  "new_facts_assessment": "The high court's nine-day sitting, the dawn retrieval from the shutter hollow, and the noon watch-house answer are all necessary and consistent; the watch-house fits the bible's 'new hall above the pass'. Lata naming to Usha is allowed, since one person can receive more than one naming. But the narration ignores Usha's existing bond to the queen and misstates the caging rule. The seal is said to come from Devan's sleeve, while F914 and F916 put it in the bundle.",
+  "new_facts_assessment": "Fact 1 is redundant with F682 (Devan already had 'harbours his wife' entered at the assize), and Rema's warning ignores it. It needs a new cost or a new framing. Fact 2 (Usha bound to both Lata and the queen) is necessary and consistent with the self-naming rule, because only Lata spends her one naming.",
   "content_rule_violation": false,
   "failure_modes": [
     "Repetitive tension",
-    "Worldbuilding collapse",
     "Narrated-only chemistry"
   ],
-  "average": 2.75,
+  "average": 2.88,
   "minimum": 0.0,
   "passed": false
 }

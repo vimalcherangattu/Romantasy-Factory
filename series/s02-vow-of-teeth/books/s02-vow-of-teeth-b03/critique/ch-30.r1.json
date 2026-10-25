@@ -1,0 +1,42 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 3.0,
+    "shown_chemistry": 3.0,
+    "character_logic": 3.0,
+    "stakes_and_cost": 3.0,
+    "prose": 3.0,
+    "continuity": 0.0
+  },
+  "reasons": {
+    "reader_question": "The lit south window and pale smoke give a specific pull: is the queen burning the crown leaf, and will she sign?",
+    "change": "The writ moves from secret leverage to court record, the queen confesses, the charter is voted and two bindings land.",
+    "romance_movement": "The public binding repeats the book 2 assize entry (F682) and the shelter vow (F671). The court-roll framing is the only new reason.",
+    "shown_chemistry": "Her fingers tucked into his sleeve and her taking his good hand work. Too much is narrated ('a face that had no guard on it').",
+    "character_logic": "Devan's open reading fits him. Rema warning about a harbouring entry she already recorded at the assize makes no sense.",
+    "stakes_and_cost": "Costs are named (spears, the record), but the queen's calm acceptance and the already-spent harbouring entry soften them.",
+    "prose": "Clean and mostly strong. Silence beats are overused, the queen's speech has a non sequitur, and some lines are told.",
+    "continuity": "'Had not sparred a living man in eight years' contradicts F475, F720 and F799. 'Let no one stand at his back' contradicts F671."
+  },
+  "fixes": [
+    "'He had not sparred a living man in eight years' conflicts with continuity: he sparred Neela (F475) and Muthu (F720), killed a scout (F799) and vowed at her back (F671). Cut this sentence and 'let no one stand at his back'. Replace them with a true present fact, e.g. eight years of saying what he meant only in the dark, never where a clerk's pen could take it down.",
+    "'It names you as harbouring an odiyan. In your own voice.' is repetitive tension, because Rema already entered that he harbours his wife (F682). Give the entry a new cost. Rema should note it goes past the assize note to the high court and makes him party to every Company act under its vote. Devan should ask to be entered as a Company member, not a warden.",
+    "In 'bleeding for strangers. I find it isn't so.', the queen's turn comes before her belief is restated, so it reads as a non sequitur. Also, only twenty-six named (F957). Change 'thirty' to 'twenty-six' and move 'I find it isn't so' after 'a realm is not safe by what it has not seen'. Cut one of the three silence beats ('The hall made no sound at all', 'The silence went on', 'the only sound in the room')."
+  ],
+  "reader_question": "Will the queen sign the charter at noon, and is that thin smoke from her window the crown leaf burning?",
+  "techniques_landed": [
+    16,
+    20,
+    9
+  ],
+  "new_facts_assessment": "Fact 1 is redundant with F682 (Devan already had 'harbours his wife' entered at the assize), and Rema's warning ignores it. It needs a new cost or a new framing. Fact 2 (Usha bound to both Lata and the queen) is necessary and consistent with the self-naming rule, because only Lata spends her one naming.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Repetitive tension",
+    "Narrated-only chemistry"
+  ],
+  "average": 2.88,
+  "minimum": 0.0,
+  "passed": false
+}
