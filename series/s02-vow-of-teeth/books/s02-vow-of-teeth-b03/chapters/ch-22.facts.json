@@ -1,18 +1,18 @@
 {
   "facts": [
     {
-      "category": "place",
-      "fact": "The queen met Asha once at the Kolathur fair, where Asha argued with her over the price of pepper-sacks and was right.",
+      "category": "object",
+      "fact": "After the Company's council, Kuttu hung the great ram's horn (F898) on the well post in Kettamala's lower court; Neela takes it down and sounds it to summon the Company.",
       "since": "s02-vow-of-teeth-b03 ch 22"
     },
     {
       "category": "knowledge",
-      "fact": "Lata (Third Guard), who refused her page, rode north with Usha's riders and is already on the shelf while the queen's column arrives; the other seven who refused ride with the queen.",
+      "fact": "The queen knows Devan carries the payment writ because her people watch him; she names it as the bundle he carries up and down her hills.",
       "since": "s02-vow-of-teeth-b03 ch 22"
     },
     {
-      "category": "knowledge",
-      "fact": "The queen knows the eleventh step of the west stair from Rema's roll, which took down the physician Eravi's account of the postern and the eleventh step; she does not use any key.",
+      "category": "plot",
+      "fact": "Neela tells the Company she will answer the queen at dusk the day after tomorrow, and will tell them her intended words that night at the cairn fire first.",
       "since": "s02-vow-of-teeth-b03 ch 22"
     }
   ]
