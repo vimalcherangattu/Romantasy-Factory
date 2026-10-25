@@ -306,7 +306,7 @@
       }
     },
     "11": {
-      "status": "passed",
+      "status": "edited",
       "revisions": 1,
       "scores": {
         "reader_question": 4.0,
@@ -320,8 +320,19 @@
       },
       "average": 3.75,
       "flags": [],
-      "words": 3001,
-      "minimum": 3.0
+      "words": 2981,
+      "minimum": 3.0,
+      "style": {
+        "words": 2981,
+        "banned_hits": {},
+        "ai_tell_hits": {},
+        "ai_tells_per_1000": 0.0,
+        "top_4gram": "he had said it",
+        "top_4gram_count": 2,
+        "longest_paragraph_words": 111,
+        "em_dashes_per_1000": 0.0,
+        "reading_ease": 92.4
+      }
     },
     "12": {
       "status": "passed",
@@ -1480,9 +1491,13 @@
     {
       "at": "2026-10-25T21:34:49",
       "event": "done: S8 line edit ch 10"
+    },
+    {
+      "at": "2026-10-25T21:35:22",
+      "event": "done: S8 line edit ch 11"
     }
   ],
-  "updated_at": "2026-10-25T21:34:49",
+  "updated_at": "2026-10-25T21:35:22",
   "midpoint_chapter": 16,
   "continuity_attempts": 0,
   "continuity_last_errors": null
