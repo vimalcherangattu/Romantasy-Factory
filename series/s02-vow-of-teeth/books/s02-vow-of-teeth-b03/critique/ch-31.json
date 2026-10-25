@@ -1,0 +1,41 @@
+{
+  "scores": {
+    "reader_question": 3.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 3.0,
+    "stakes_and_cost": 2.0,
+    "prose": 3.0,
+    "continuity": 0.0
+  },
+  "reasons": {
+    "reader_question": "The first-vote question is stated outright, but its stakes are vague. Neela's 'I don't know, that's the point' gives the reader nothing to predict.",
+    "change": "Clear shift from hunted to chartered. The crown confesses, the knives burn, Chathu is sentenced and the bargain is rewritten.",
+    "romance_movement": "The public 'Bound by choice' and the remade bargain (his right hand, her place to stop) are new and tied to his changed body.",
+    "shown_chemistry": "Strong responsive action: the surgeon's knot picked like a lock, the asked-aloud consent, his counting her breath. Little is narrated.",
+    "character_logic": "Neela, who cannot bear anyone going unnamed, lets the queen burn four crown pages with their intake rolls looped on. Nobody consents or objects.",
+    "stakes_and_cost": "Almost nothing is at risk. Chathu's request, the burning and the vote all pass without resistance. The only cost is the queen's, and she pays it offstage.",
+    "prose": "Mostly clean and concrete. The meta slip 'eight chapters of a life' breaks the fiction. Counting motifs crowd the last scenes.",
+    "continuity": "Devan says 'Not for eight years', which conflicts with his many nights with Neela (F199, F814). Muthu has held the disc since book 2, not 'five days'."
+  },
+  "fixes": [
+    "At \"I've done it very little. Not for eight years\": this is a continuity error. Devan has slept with Neela since book 1 ch 22 (F199, F814). Change the line to fear about his body: 'I've only ever done this with two hands. With you.' Also cut \"He had told her once it ran both ways. She had not understood\", because the shared warmth is already established (F653, F814). Make it newly intense, not newly discovered.",
+    "At \"She fed in the four guards' pages, one at a time\": this is a character-logic and stakes gap. The crown pages carry looped intake rolls (F858), so burning them destroys Sajan's birth name and his brother link. Have Neela stop the queen, cut the rolls free for their owners, and let Sajan choose to burn his own page. That adds a real cost and a choice. Also change Muthu's \"worn it five days\" to fit his long tenure (F683, F881).",
+    "At \"the slow dry laugh she had waited eight chapters of a life for\": this meta slip breaks the fiction. Change it to 'waited half a year of mornings for'. At \"his face looked both tired and very young\": cut 'very young' from an intimate beat (content-rules caution). Use 'tired and unguarded'. Fix the welt drifting from her palm to her wrist, and say the welt came from his pressed blister, not from pressure alone."
+  ],
+  "reader_question": "What will the newly chartered Company choose for its first vote, and will it cost Neela and Devan the peace they just won?",
+  "techniques_landed": [
+    9,
+    20
+  ],
+  "new_facts_assessment": "Chathu's kennel sentence is necessary, consistent and well earned. Note that Pachan already keeps the kennels (F637); the line saying only Bhaskaran's men carry water should match that. The dry-season repayment date is fine. The tent and fire-basket are harmless. The faint sensation in Devan's dead hand through the share (F997) stretches the rule: the share carries wounds and warmth, and a welt raised by mere pressure is unsupported. The draft also moves that welt from Neela's palm to her inner wrist. The unlisted charter clause that the crown 'permitted the death of Asha' is a new claim; the record has Ittan buying her death. Flag it or source it.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Convenient magic",
+    "Stakes without depth"
+  ],
+  "average": 2.88,
+  "minimum": 0.0,
+  "passed": false
+}
