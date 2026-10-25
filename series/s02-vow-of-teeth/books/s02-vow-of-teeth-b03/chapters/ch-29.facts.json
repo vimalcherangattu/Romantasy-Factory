@@ -1,24 +1,22 @@
 {
   "facts": [
     {
-      "category": "knowledge",
-      "fact": "A Thurai herald asks the queen for a three-day truce at the stakes; Kandan counts about forty red-crested officers' caps among the dead, and the host withdrew to the beach under sergeants.",
-      "why": "needed because the outline opens with the Thurai withdrawing short of captains and asking a truce"
-    },
-    {
-      "category": "knowledge",
-      "fact": "The queen never read any of Chathu's forty pages at night; she watched him write them over four evenings and did not wish to test a leaf on a stranger. Neela finds them dry-inked and without resin smell.",
-      "why": "needed because the plain-ink discovery requires the pages to be untested"
-    },
-    {
+      "id": "F978",
       "category": "object",
-      "fact": "Chathu's tin of warm sweets and the note 'Written off. Paid in full. C.' in common grey-brown ink reach Neela by the palace post with the column's last rider, handed over by a steward of the queen's household.",
-      "why": "needed because the outline has the queen's post bring the tin and note"
+      "fact": "CORRECTS F940 (flag for S7): at the ch24 namings the scorching witness entries were on each member's own handed-back Resin House page, which Neela held on her knee beside Chathu's sheaf. Chathu's forty leaves are plain ink and only curled in the heat; they never burned. Neela realises this in ch29.",
+      "since": "s02-vow-of-teeth-b03 ch 29"
     },
     {
+      "id": "F979",
+      "category": "object",
+      "fact": "Chathu's tins of sweets: eleven before her eleven killings, one in the kennels, one on the Resin House gatepost, and one carried out of his cell (the warm tin in ch29 arrives by palace post). Corrects any 'twelve before a killing' count.",
+      "since": "s02-vow-of-teeth-b03 ch 29"
+    },
+    {
+      "id": "F980",
       "category": "knowledge",
-      "fact": "Neela has checked every village on the thirty crown-leaf intake rolls against Devan's border roll of raids and finds each was raided in the year its child was taken.",
-      "why": "needed because the outline has the intake villages matching the raids"
+      "fact": "Neela cites Sanu's Pallikara as a crown-leaf intake village burned this season (not Thulasi's Pazhayangadi, which belongs to the forty); every village on the thirty rolls was raided the year its child was taken.",
+      "since": "s02-vow-of-teeth-b03 ch 29"
     }
   ]
 }
