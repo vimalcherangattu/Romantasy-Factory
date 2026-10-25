@@ -1,0 +1,42 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 4.0,
+    "stakes_and_cost": 4.0,
+    "prose": 4.0,
+    "continuity": 0.0
+  },
+  "reasons": {
+    "reader_question": "The ladder strikes as new pairs stagger at thorn-pricks, so the reader asks whether bound odiyans can fight without bleeding each other out.",
+    "change": "Neela refuses command, the queen gives up her pages and binds herself to Usha, and twenty-six guards free themselves. Power shifts hard.",
+    "romance_movement": "The public naming of Devan as chosen is a new reason and changes their standing before the realm. Devan's arc barely moves.",
+    "shown_chemistry": "Fingers touching her bound hand, his breath leaving him, and 'Left side' / 'I know where it is' show care through action.",
+    "character_logic": "The queen yields plausibly, but Bhaskaran smears burning resin bare-handed with no reaction, and the writ is deferred a third time.",
+    "stakes_and_cost": "The cost ledger is explicit: double wounds, deaths pulling deaths, a queen who now bleeds for a guard. Every naming is priced.",
+    "prose": "Strong lines ('bars painted out', 'did not balance'). The Bhaskaran-wife sentence and the Thulasi sentence are muddled. Heavy 'did not' rhythm.",
+    "continuity": "Namings occur with 'the sun a thumb above the ridge', a turning by day that breaks Rule 1. Kamalakshi's laugh is misplaced against F717."
+  },
+  "fixes": [
+    "At 'By the time the sun was a thumb above the ridge', odiyans turn and self-name in daylight. This breaks the never-suspended Rule 1 (Worldbuilding collapse). Move every naming after sundown. Begin the shelf scene 'after the sun went under the ridge'. Replace the thumb line with 'by the time the red had gone off the ridge'. Keep the long-dusk light thinning to weak tea. The beats stay intact.",
+    "At 'Bhaskaran took the pot from him and did it', nightbark burns non-odiyan skin, yet Bhaskaran smears it bare-handed with no reaction (character logic, rule cost dropped). Show his fingertips reddening and him finishing anyway, or have him use a cloth. Also rewrite 'He had said his wife's name to the cairn fire' plainly, for example: he had told his wife, by name, at the cairn fire, before saying yes to anyone.",
+    "At 'a thin cropped girl who had laughed once in the courtyard', F717 places Kamalakshi's first laugh at the shelter. Change 'courtyard' to 'at the shelter'. Separately, the queen's line 'I'd rather it were read once the ladders came down' is the third deferral of the writ (Contrived delays). Give her a concrete cost: reading it now before Haran's three hundred would break the line tonight."
+  ],
+  "reader_question": "Can the newly bound pairs hold the shelf against the ladders when every cut lands on two bodies?",
+  "techniques_landed": [
+    14,
+    18,
+    22
+  ],
+  "new_facts_assessment": "No new facts are declared, but F934 to F940 already log this draft. Leaves burning confirms Chathu's forty pages as true resin-ink entries. This undercuts F920 (they smell of lamp-black) and the live clue C03/C17 (F870). The reviser should either make the burning carry that ambiguity or accept that the clue now points at an unknown true witness. The heavy-set guard naming a crown spear-captain is consistent with F936. The 'three hundred spears' crowd in the lower court is plausible.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Worldbuilding collapse",
+    "Contrived delays"
+  ],
+  "average": 3.5,
+  "minimum": 0.0,
+  "passed": false
+}

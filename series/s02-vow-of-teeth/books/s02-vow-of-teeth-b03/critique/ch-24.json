@@ -3,40 +3,40 @@
     "reader_question": 4.0,
     "change": 4.0,
     "romance_movement": 4.0,
-    "shown_chemistry": 3.0,
-    "character_logic": 3.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 4.0,
     "stakes_and_cost": 4.0,
-    "prose": 3.0,
+    "prose": 4.0,
     "continuity": 0.0
   },
   "reasons": {
-    "reader_question": "The ladder lands on pairs just learning the share, so the question is sharp and specific. The writ's deferral adds a second thread.",
-    "change": "The queen gives up reading pages and is bound to Usha. Twenty-six guards go rogue and the Company becomes a line of pairs.",
-    "romance_movement": "Her public 'I chose him' is a new reason and a new stage. Devan's answering touch is earned, though he stays largely passive.",
-    "shown_chemistry": "The ragged breath, the fingers at her bound hand and the 'Left side' callback land. Most of the romance is carried by Neela's speech.",
-    "character_logic": "The queen choosing to look is excellent. Devan's silent non-reading of the writ breaks the term set in ch 21, and no reason is given.",
-    "stakes_and_cost": "Every naming has a named price: rogue status, bleeding a partner, burned leaves. The queen pays in her own body.",
-    "prose": "Mostly clean and concrete. Lapses: 'Nobody breathed', 'crack like a snapped bone', a garbled otter-chin sentence, and the 'she hated' device used twice.",
-    "continuity": "Kuttu speaks in shape after his dusk naming, and he and Sanu use palms and thumbs. This breaks F004."
+    "reader_question": "The ladder strikes as new pairs stagger at thorn-pricks, so the reader asks whether bound odiyans can fight without bleeding each other out.",
+    "change": "Neela refuses command, the queen gives up her pages and binds herself to Usha, and twenty-six guards free themselves. Power shifts hard.",
+    "romance_movement": "The public naming of Devan as chosen is a new reason and changes their standing before the realm. Devan's arc barely moves.",
+    "shown_chemistry": "Fingers touching her bound hand, his breath leaving him, and 'Left side' / 'I know where it is' show care through action.",
+    "character_logic": "The queen yields plausibly, but Bhaskaran smears burning resin bare-handed with no reaction, and the writ is deferred a third time.",
+    "stakes_and_cost": "The cost ledger is explicit: double wounds, deaths pulling deaths, a queen who now bleeds for a guard. Every naming is priced.",
+    "prose": "Strong lines ('bars painted out', 'did not balance'). The Bhaskaran-wife sentence and the Thulasi sentence are muddled. Heavy 'did not' rhythm.",
+    "continuity": "Namings occur with 'the sun a thumb above the ridge', a turning by day that breaks Rule 1. Kamalakshi's laugh is misplaced against F717."
   },
   "fixes": [
-    "'Kuttu looked up at Bhaskaran, across the stakes. \"Does it get easier?\"' This is worldbuilding collapse. Kuttu, Sanu, Pavi and Thulasi turned at the naming, so they cannot speak or use palms and thumbs until dawn. Give Bhaskaran the question, asked to the animal at his feet. Make Kuttu's 'palm flat on a stake' a paw on a stake point, Sanu's 'thumb on a flint' a pad on flint, and Thulasi's calf a foreleg.",
-    "'He stood with his palm flat over the oilcloth' breaks the ch 21 term (F912, F917): Devan said he would read the writ at the gate once Neela had answered. Silence here reads as plot-driven. Add one line from Devan in which he asks the queen whether she wants it read before or after the ladders. Her deferral then becomes a choice he concedes openly, which also keeps his never-lies voice.",
-    "'Each wound halved, and each death half-given' misstates F009 and F627. The original wound stays whole, the partner gets a welt, and a mortal wound drags the other toward death. Rewrite along the lines of 'Each wound counted twice, once as blood and once as a welt; each death able to pull a second after it.' Also cut 'Nobody breathed' and recast the confusing 'The otter's chin, white, was still a woman's chin tonight.'"
+    "At 'By the time the sun was a thumb above the ridge', odiyans turn and self-name in daylight. This breaks the never-suspended Rule 1 (Worldbuilding collapse). Move every naming after sundown. Begin the shelf scene 'after the sun went under the ridge'. Replace the thumb line with 'by the time the red had gone off the ridge'. Keep the long-dusk light thinning to weak tea. The beats stay intact.",
+    "At 'Bhaskaran took the pot from him and did it', nightbark burns non-odiyan skin, yet Bhaskaran smears it bare-handed with no reaction (character logic, rule cost dropped). Show his fingertips reddening and him finishing anyway, or have him use a cloth. Also rewrite 'He had said his wife's name to the cairn fire' plainly, for example: he had told his wife, by name, at the cairn fire, before saying yes to anyone.",
+    "At 'a thin cropped girl who had laughed once in the courtyard', F717 places Kamalakshi's first laugh at the shelter. Change 'courtyard' to 'at the shelter'. Separately, the queen's line 'I'd rather it were read once the ladders came down' is the third deferral of the writ (Contrived delays). Give her a concrete cost: reading it now before Haran's three hundred would break the line tonight."
   ],
-  "reader_question": "Can the newly bound pairs hold the shelf against the ladders without each wound dragging their partners down, and what is in the queen's unread writ?",
+  "reader_question": "Can the newly bound pairs hold the shelf against the ladders when every cut lands on two bodies?",
   "techniques_landed": [
     14,
     18,
     22
   ],
-  "new_facts_assessment": "The Kandan/Sanu cart-road naming is necessary to motivate Sanu's choice and is plausible on the riders' route in, but it arrives as late backstory; plant it one beat earlier if possible. The leaf mechanism (witness entries burn, intake rolls survive, four crown leaves remain) is consistent with F012 and F940. The head-count needs checking: F883 and F924 imply only 29 of the thirty guards are present (one stayed in Kodiyur), yet the chapter accounts for all thirty (26 named plus 4 unready). The narration also misstates the wound-share as 'halved' (see fixes).",
+  "new_facts_assessment": "No new facts are declared, but F934 to F940 already log this draft. Leaves burning confirms Chathu's forty pages as true resin-ink entries. This undercuts F920 (they smell of lamp-black) and the live clue C03/C17 (F870). The reviser should either make the burning carry that ambiguity or accept that the clue now points at an unknown true witness. The heavy-set guard naming a crown spear-captain is consistent with F936. The 'three hundred spears' crowd in the lower court is plausible.",
   "content_rule_violation": false,
   "failure_modes": [
     "Worldbuilding collapse",
-    "Irrational behaviour to extend plot"
+    "Contrived delays"
   ],
-  "average": 3.12,
+  "average": 3.5,
   "minimum": 0.0,
   "passed": false
 }
