@@ -1,0 +1,41 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 3.0,
+    "stakes_and_cost": 4.0,
+    "prose": 4.0,
+    "continuity": 0.0
+  },
+  "reasons": {
+    "reader_question": "Clear and specific: what Neela answers at the gate in front of everyone, two nights before an assault.",
+    "change": "Power shifts openly: Neela sets the time and place of her answer, sits Janu, and summons the Company herself.",
+    "romance_movement": "New reason: Devan's public silence when offered his office shows trust before the household. Hand-clasp and banter seal it.",
+    "shown_chemistry": "Shown through action: his thumb on her blister and the 'wide advice' line. No narrated chemistry.",
+    "character_logic": "On the step where Asha died, Neela, who knows she was the lookout, shows no guilt at all.",
+    "stakes_and_cost": "Two-night deadline, fourteen hundred Thurai, and a public answer that may lose the spears.",
+    "prose": "Clean and concrete. Minor echoes: two 'no lower' bows, 'level' twice, 'a long moment' and 'a long time'.",
+    "continuity": "'Gone wide of the parrot newel... without knowing why' conflicts with F553/F552: she learned in B2 ch16 that she stood lookout there."
+  },
+  "fixes": [
+    "\"gone wide of the parrot newel since her first week without knowing why\": continuity break and wasted dramatic irony (technique 13). Neela knows since B2 ch16 that she held the shuttered lamp at this stair foot. Rewrite so she touches the newel knowing it. When the queen says 'She was Devan's sister', give Neela a one-line physical reaction and a choice to speak or to withhold her own part.",
+    "\"I sealed the payment writ. My people tell me\": the queen confesses privately and so takes the sting out of Devan's planned public reading. Neela never registers this power shift. Add two or three lines where Neela realises the writ has just lost its surprise and decides it must still be read. Name how the queen knows, for example Usha.",
+    "\"He bowed from the waist and no lower\": this echoes Devan's earlier 'did not bow lower than a warden bows'. Vary Muthu's gesture. Also cut the second 'level' in the Muthu exchange and one of 'a long moment' / 'a long time'. Remove 'split lip' or set it up earlier."
+  ],
+  "reader_question": "What will Neela say to the queen at the gate, before the realm, and what will it cost the pass?",
+  "techniques_landed": [
+    15,
+    16
+  ],
+  "new_facts_assessment": "Horn on the well post (F926): harmless and useful. Answer at the cairn fire (F928): good setup. The queen knowing Devan carries the writ (F927) needs a source, since Muthu burned his letters; Usha watching the bundle on the hill would fit. Lata absent with seven riding (F924) is consistent with F883. Neela's split lip is unlisted and unestablished.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Trauma as decoration",
+    "Contrived delays"
+  ],
+  "average": 3.38,
+  "minimum": 0.0,
+  "passed": false
+}

@@ -4,35 +4,35 @@
     "change": 4.0,
     "romance_movement": 4.0,
     "shown_chemistry": 4.0,
-    "character_logic": 4.0,
+    "character_logic": 3.0,
     "stakes_and_cost": 4.0,
-    "prose": 3.0,
+    "prose": 4.0,
     "continuity": 0.0
   },
   "reasons": {
-    "reader_question": "The question is sharp and stated on the page: what Neela will answer, in the open, at the dusk before the assault.",
-    "change": "Power goes public: Neela won't kneel, seats Janu, chooses the open answer. She now knows the queen's honest arithmetic and the two-night clock.",
-    "romance_movement": "New reason: the household watches Devan stay silent while his office is offered. The wrist touch shows his choice was for her.",
-    "shown_chemistry": "Hand back along the bench, thumb on the blister, 'wide advice' banter. Responsive and private under public eyes, with no narration.",
-    "character_logic": "The queen is credible and never a strawman. 'The bundle your husband carried' gives her knowledge with no stated source.",
-    "stakes_and_cost": "Answering in front of the realm risks the spears and the pass. The deadline is two nights, and the queen's fondness makes refusal costly.",
-    "prose": "Many 'did not' negations, a recap line of what Neela already heard, a vague 'kitchen servant' reference, a soft final sentence and a ch21 phrase echo.",
-    "continuity": "'Forty-two odiyans' stand in the court while Neela, one of the 42 (F740), is on the roof. 'For a year' at the newel overstates her tenure."
+    "reader_question": "Clear and specific: what Neela answers at the gate in front of everyone, two nights before an assault.",
+    "change": "Power shifts openly: Neela sets the time and place of her answer, sits Janu, and summons the Company herself.",
+    "romance_movement": "New reason: Devan's public silence when offered his office shows trust before the household. Hand-clasp and banter seal it.",
+    "shown_chemistry": "Shown through action: his thumb on her blister and the 'wide advice' line. No narrated chemistry.",
+    "character_logic": "On the step where Asha died, Neela, who knows she was the lookout, shows no guilt at all.",
+    "stakes_and_cost": "Two-night deadline, fourteen hundred Thurai, and a public answer that may lose the spears.",
+    "prose": "Clean and concrete. Minor echoes: two 'no lower' bows, 'level' twice, 'a long moment' and 'a long time'.",
+    "continuity": "'Gone wide of the parrot newel... without knowing why' conflicts with F553/F552: she learned in B2 ch16 that she stood lookout there."
   },
   "fixes": [
-    "Continuity. 'forty-two odiyans, in their own mud-coloured cloth': Neela is one of the 42 and stands on the roof, so change it to 'forty-one of the Company'. 'She had gone round the parrot newel for a year' overstates her time at the fort; change it to 'since her first week' (F449, F514).",
-    "Ending. 'counted two nights, and found the number was not very large' is a reflective fade, not a reveal or an interrupted action. End on the queen's 'It is the cruelest thing about me.' Then add one concrete act that makes the next chapter necessary: Neela goes down to the court and calls the Company by the ram's horn (F898) to tell them the dusk.",
-    "Prose and recap. 'the same hand that had let a kitchen servant's name stay in her memory for six months' points to nothing on the page; tie it to Parukutty's cough, just witnessed. Cut 'Your warden told me at the gate that he holds a paper', since Neela heard it. Trim three of the 'Neela did not' negations to vary the rhythm."
+    "\"gone wide of the parrot newel since her first week without knowing why\": continuity break and wasted dramatic irony (technique 13). Neela knows since B2 ch16 that she held the shuttered lamp at this stair foot. Rewrite so she touches the newel knowing it. When the queen says 'She was Devan's sister', give Neela a one-line physical reaction and a choice to speak or to withhold her own part.",
+    "\"I sealed the payment writ. My people tell me\": the queen confesses privately and so takes the sting out of Devan's planned public reading. Neela never registers this power shift. Add two or three lines where Neela realises the writ has just lost its surprise and decides it must still be read. Name how the queen knows, for example Usha.",
+    "\"He bowed from the waist and no lower\": this echoes Devan's earlier 'did not bow lower than a warden bows'. Vary Muthu's gesture. Also cut the second 'level' in the Muthu exchange and one of 'a long moment' / 'a long time'. Remove 'split lip' or set it up earlier."
   ],
-  "reader_question": "What will Neela answer in front of the whole realm at the dusk before the assault, and will Devan's reading of the writ cost them the spears?",
+  "reader_question": "What will Neela say to the queen at the gate, before the realm, and what will it cost the pass?",
   "techniques_landed": [
-    13,
     15,
     16
   ],
-  "new_facts_assessment": "The Kolathur fair adds texture, is harmless and matches F919. Lata on the shelf matches F883. The queen learning the eleventh step from Rema's roll fits Eravi's confession (F596-598) and is needed. Unsourced: the queen naming 'the bundle your husband carried up and down my hills'. Give a source (Ittan's effects, Muthu's post) or make it an inference.",
+  "new_facts_assessment": "Horn on the well post (F926): harmless and useful. Answer at the cairn fire (F928): good setup. The queen knowing Devan carries the writ (F927) needs a source, since Muthu burned his letters; Usha watching the bundle on the hill would fit. Lata absent with seven riding (F924) is consistent with F883. Neela's split lip is unlisted and unestablished.",
   "content_rule_violation": false,
   "failure_modes": [
+    "Trauma as decoration",
     "Contrived delays"
   ],
   "average": 3.38,
