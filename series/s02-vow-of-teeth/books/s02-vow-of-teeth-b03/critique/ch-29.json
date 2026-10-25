@@ -6,37 +6,36 @@
     "shown_chemistry": 4.0,
     "character_logic": 3.0,
     "stakes_and_cost": 3.0,
-    "prose": 4.0,
-    "continuity": 0.0
+    "prose": 3.0,
+    "continuity": 5.0
   },
   "reasons": {
-    "reader_question": "The horn and Rema's roll leave a sharp question: will the queen's 'Yes' and her charter go on a court record?",
-    "change": "The queen's leverage drops to four real leaves, and she admits the raids aloud. That is a clear power shift.",
-    "romance_movement": "Devan makes room for her grief without arguing, and the reason is new: a grief he cannot share. The beat lands.",
-    "shown_chemistry": "His palm-up hand, the hand on her neck only when she turns, and the goat joke all show care through action.",
-    "character_logic": "Neela never tested the sheet she has carried for days. The Thulasi line wrongly mixes the forty into the crown-leaf rolls.",
-    "stakes_and_cost": "The queen concedes, and Neela states she isn't bargaining. The cost of the next decision is not named for anyone.",
-    "prose": "The prose is clean and specific, with one AI tell ('the weight of'). A few told lines, such as 'Devan would never have been hard'.",
-    "continuity": "F940 says Chathu's forty leaves burned at the ch24 namings, so they cannot be powerless plain ink. The tin count also conflicts with F080/F587."
+    "reader_question": "Specific and earned: Rema arrives with the high court's roll just as the queen begins naming terms. The reader wants to know what she signs before a recorder.",
+    "change": "The queen's paper leverage dissolves and she admits the raids. Power has shifted, though Chathu as a living witness leaves the 'none left' claim slightly open.",
+    "romance_movement": "The beat lands. Devan validates a grief he doesn't share, with no argument. The reason is new: being let to mourn her captor.",
+    "shown_chemistry": "His palm is turned up and left there, his hand comes only when she turns her head, and the goat joke draws a real laugh. It is responsive and specific.",
+    "character_logic": "The queen never checks the ink beside her own bitter-smelling leaves, and nobody raises Chathu as the witness who could write true pages. Devan's 'would have sold me' misstates a known fact.",
+    "stakes_and_cost": "Neela accuses the queen while needing her three hundred spears, but the page never names that risk. The truce cushions every cost.",
+    "prose": "Strong images ('forty empty rooms'), but several runs of consecutive 'She' paragraph openings. Some emotion is told ('it took her a moment to understand what she was feeling').",
+    "continuity": "Consistent with the tins, the cipher key, the coin die, the horn code and the Nellimala record. The F940 retcon is required by the beat and correctly flagged as F978."
   },
   "fixes": [
-    "At 'They've no more power than a laundry list', there is a continuity conflict with F940: at the ch24 namings, witness entries burned on 'Chathu's forty fresh leaves held on Neela's knee'. Powerless plain-ink pages cannot burn. Add two lines in which Neela realises that what scorched at the namings was each member's own handed-back Resin House page, which she held beside the sheaf, while Chathu's leaves only curled. Then flag F940 for S7 correction.",
-    "At 'Twelve times it had come to her before a killing', the tin count conflicts with F080 (eleven contracts), F587 and F884. Change it to: 'Eleven times it had come to her before a killing, once in the kennels, once on a gatepost, and once she had carried it out of his cell.' In her speech, change 'Twelve of them' to 'Fifteen of them' or simply 'Tin after tin'.",
-    "At 'Thulasi's Pazhayangadi burned last week, and its name', this is a logic slip: Thulasi is one of the forty, not the crown-leaf thirty, and 'last week' fights the book 3 timeline. Replace it with a crown-leaf intake village (for example Sanu's Pallikara, already named), and say 'this season' rather than 'last week', so the 'every village on these rolls' claim stays airtight."
+    "Problem: 'the only living witness to those forty turnings is a man in your cell' leaves a logic hole. Chathu can still write true pages (F792), so the queen's leverage isn't gone. Fix: have the queen say she still holds the man who can write them true. Neela answers that the crown's own post just showed he won't, and that he is Rema's prisoner for the high court (F752), not the queen's. This also sets up Rema's arrival.",
+    "Problem: 'I don't say it to bargain. I'm not holding it over you' gives the accusation no cost (stakes without depth). Fix: before she reads, have Neela count Haran and the crown spears in the hall. Add one line from Haran, or a glance at the beach, so the reader knows she may be losing the three hundred spears that hold the cut once the truce ends.",
+    "Problem: in 'He'd have sold me to the same bidder and sent a tin', literal Devan misstates a fact. Chathu did sell his death (the chit, F293). Fix: change it to 'He sold my death to the same buyer and would have sent you a tin for the pyre.' Also clarify 'sold her at nineteen' (her first contract). Recast the run of 'She lifted / She laid / She hadn't' and 'She stared / She had expected' so consecutive paragraphs don't open on 'She'."
   ],
-  "reader_question": "What has Justice Rema brought on the high court's roll, and will the queen put her 'Yes' and her charter before a recorder?",
+  "reader_question": "What has Justice Rema brought with the high court's roll, and will the queen sign the charter with a recorder present?",
   "techniques_landed": [
     3,
     7,
     12
   ],
-  "new_facts_assessment": "F974 is necessary and consistent. F975 is necessary but collides with F940: witness entries on Chathu's leaves burned at the ch24 namings. F976 is necessary, but the 'twelve before a killing' tin count clashes with F080/F587/F884. F977 is necessary, but the draft wrongly folds Thulasi (one of the forty) into the crown-leaf thirty.",
+  "new_facts_assessment": "F978 is necessary: the beat requires the forty leaves to have never had power, so ch24's burning must be reassigned. S7 must revise ch24 to show the handed-back pages on Neela's knee, or the twist cheats. F979 is consistent with F080, F234, F574 and F884. F980 (Pallikara burned this season) is consistent with Sanu's roll (F868) but adds nothing to the intake-year argument; consider cutting 'which burned this season'.",
   "content_rule_violation": false,
   "failure_modes": [
-    "Twists without setup",
     "Irrational behaviour to extend plot"
   ],
-  "average": 3.25,
-  "minimum": 0.0,
-  "passed": false
+  "average": 3.75,
+  "minimum": 3.0,
+  "passed": true
 }
