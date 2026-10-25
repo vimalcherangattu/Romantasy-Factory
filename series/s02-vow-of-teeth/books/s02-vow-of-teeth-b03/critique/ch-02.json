@@ -1,41 +1,41 @@
 {
   "scores": {
     "reader_question": 4.0,
-    "change": 3.0,
-    "romance_movement": 3.0,
-    "shown_chemistry": 3.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
     "character_logic": 3.0,
     "stakes_and_cost": 4.0,
     "prose": 3.0,
     "continuity": 5.0
   },
   "reasons": {
-    "reader_question": "The door-or-snare question is sharp, and the folded-wing bird adds a second specific gap about the crown leaf.",
-    "change": "Devan learns the treaty logic and Usha's door, but his goal was already set by the ch1 vote. The letter only hardens it.",
-    "romance_movement": "The new reason (the queen now knows his body is a lever on hers) is real, but it is reasoned in narration, not acted.",
-    "shown_chemistry": "Good small acts: careful of her hand, the cold hand into his, her stepping level unasked. The key shift is still told.",
-    "character_logic": "Devan just bound himself to the Company's vote, yet he never puts the queen's pardon, made to the forty, before them.",
-    "stakes_and_cost": "The closing arithmetic (four days to Kodiyur, three to the gorge) makes the choice cost the pass or her safety.",
-    "prose": "Concrete and mostly clean. It has repeated 'last of the light', a redundant door/snare ending paragraph and a clumsy double attribution.",
-    "continuity": "Self-naming timing, the chipped seal, the folded-wing stubs, the watcher log, the drill origin and Pazhayangadi all match the facts."
+    "reader_question": "Sharp, specific close: Usha's sea-stair line is either a door or a snare, against a three-day clock.",
+    "change": "Devan's goal sets hard after he reads 'as they always have', and the queen's agent now holds the wound-share as a lever.",
+    "romance_movement": "The reason is new: Devan hears Neela make his body part of hers in public, and he re-weighs his gorge risk as hers.",
+    "shown_chemistry": "Shown through action: she takes his left side unasked, he counts her breath hitch, the cold hand into his, and an honest 'I can't tell'.",
+    "character_logic": "Neela handing the crown's agent their mutual lever has no visible reason on the page, so it reads as beat-driven.",
+    "stakes_and_cost": "The cost is stated and personal: the door means Devan breaks his vow to the pass or Neela goes alone, with the wound-share in play.",
+    "prose": "Clean of banned phrases and AI tells. Some narrated interpretation, and consecutive paragraphs open with 'He'.",
+    "continuity": "Consistent with F456, F474, F540, F558, F652, F684, F737, F744, F745 and F749, and with the chapter 1 hand-off."
   },
   "fixes": [
-    "At 'Nothing in that letter would change it, and nothing in an answer could.' there is irrational behaviour: Devan bound himself to the vote, and the forty heard a pardon addressed to them. Add a short exchange from the doorway. Kuttu or Thilak asks 'And our names?' Devan answers that the pardon is theirs to vote at dawn, and the pass is his. This gives the Company a real split as a cost.",
-    "At 'His body was a known lever on hers.' the chemistry is narrated only. Convert the beat's romance change into a choice. In the drill scene, he stops his strike short of a cracked post edge or eases off because a split knuckle would welt on her. Or in the final scene, he names that the gorge now risks her body before she says it. Cut the reasoning paragraph to two sentences.",
-    "At '\"Door or snare,\" Neela said.' / '\"Kodiyur is four days at a hard ride,\" she went on' the prose is redundant. Cut 'A woman who had given her name...' to one line so Neela's 'Door or snare' lands fresh, and merge her two speeches into one attributed line. Vary the three uses of 'the last of the light'. Explain or drop Neela's still-bandaged left hand, which is months after the injury in book 2."
+    "At 'She could have said that is mine to keep', fix the irrational-behaviour gap. Neela's choice to tell the queen's agent the wound-share needs a reason the reader can see. Before she answers, have Devan watch her eyes go to Usha's pared wrists and thumbed cuffs. Add one dry line from her that shows she is answering a sister, not a spy, and is choosing to be known.",
+    "At 'It was the sound of a Company finding the first crack in itself', the narration tells the reader what the scene should show. Cut that line, and also 'That was not new. What was new was that'. Replace the crack with an action: Meenu says a name under her breath, or two members trade a look over Kuttu's head. Let Devan's lever fear arrive as a concrete image, not an explanation.",
+    "At 'He did it again. And again.' and 'He went in and lay down', consecutive paragraphs open with 'He'. Vary the openings, for example 'Ten counts. A hair.' and 'Inside, the fire'. In the oilcloth inventory, write 'the buyer's half of a hide chit' to match F436, and add the cut gift seal to match F916."
   ],
-  "reader_question": "Is Usha's message about the crown leaf a door opened for Neela or the queen's snare, and which will the pass cost them?",
+  "reader_question": "Is Usha's message about the leaf in the queen's room a door for Neela or the queen's snare, and can either of them take it when Kodiyur is four days off and the raiders are three?",
   "techniques_landed": [
     1,
     25
   ],
-  "new_facts_assessment": "F743 (two nights past the new moon) agrees with F244 and correctly replaces the new-moon wording. F748 drops the weekday, which is good. F749 is consistent with F208 and F737. Unlisted but consistent additions: Usha's pared right-wrist twin seam (fits F684) and the palace 'sea stair' (fits the sea-cliff palace, so it should be logged). The IDs F743, F748 and F749 collide with existing continuity entries of different content, and the orchestrator should renumber them.",
+  "new_facts_assessment": "The Kuttu pardon vote (F1026) is necessary. It seeds dissent and stays consistent with the Company's hand votes. The palace sea stair (F1027) is necessary and consistent with F834 and F842. Technique 13 is thin: no clear gap between what the reader knows and what a character knows is exploited. The oilcloth inventory leaves out the cut gift seal that F916 says Devan added on the hill. 'A chit split in two' also blurs F436, which says Devan holds only the buyer's half.",
   "content_rule_violation": false,
   "failure_modes": [
     "Narrated-only chemistry",
     "Irrational behaviour to extend plot"
   ],
-  "average": 3.5,
+  "average": 3.88,
   "minimum": 3.0,
   "passed": true
 }
