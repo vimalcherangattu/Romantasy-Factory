@@ -4,39 +4,38 @@
     "change": 4.0,
     "romance_movement": 3.0,
     "shown_chemistry": 3.0,
-    "character_logic": 3.0,
+    "character_logic": 4.0,
     "stakes_and_cost": 3.0,
     "prose": 3.0,
     "continuity": 0.0
   },
   "reasons": {
-    "reader_question": "The lit south window and pale smoke give a specific pull: is the queen burning the crown leaf, and will she sign?",
-    "change": "The writ moves from secret leverage to court record, the queen confesses, the charter is voted and two bindings land.",
-    "romance_movement": "The public binding repeats the book 2 assize entry (F682) and the shelter vow (F671). The court-roll framing is the only new reason.",
-    "shown_chemistry": "Her fingers tucked into his sleeve and her taking his good hand work. Too much is narrated ('a face that had no guard on it').",
-    "character_logic": "Devan's open reading fits him. Rema warning about a harbouring entry she already recorded at the assize makes no sense.",
-    "stakes_and_cost": "Costs are named (spears, the record), but the queen's calm acceptance and the already-spent harbouring entry soften them.",
-    "prose": "Clean and mostly strong. Silence beats are overused, the queen's speech has a non sequitur, and some lines are told.",
-    "continuity": "'Had not sparred a living man in eight years' contradicts F475, F720 and F799. 'Let no one stand at his back' contradicts F671."
+    "reader_question": "The pale smoke from the queen's window gives a concrete question: what is she burning, and will she sign at noon?",
+    "change": "The writ moves from leverage to court record, the Company votes its five terms, and Lata and Kamalakshi are bound. Real shifts in power and record.",
+    "romance_movement": "The public binding and Rema's liability warning are new, but 'at her back, not her wall' and 'I go west' replay the book 2 ch32 vow almost verbatim.",
+    "shown_chemistry": "Sleeve grips and the held left hand work, but the sleeve gesture repeats three times. Devan turning his back is the only fresh responsive act.",
+    "character_logic": "Devan, Rema and the queen act intelligently. Neela's 'you don't have to turn your back' is odd when the whole garrison faces the wall.",
+    "stakes_and_cost": "Devan names the spears he may lose, but the queen already conceded in ch29, so the reading costs nothing on the page. Rema's warning is the only new cost.",
+    "prose": "The prose is clean and concrete. The ledger simile appears three times, 'sleeve' five times, and one POV slip shows what Devan cannot see.",
+    "continuity": "'Never once where a clerk's pen could take it down' conflicts with F682. 'Sits in my chair' and 'Not as warden' strain F683, since he gave up the seal."
   },
   "fixes": [
-    "'He had not sparred a living man in eight years' conflicts with continuity: he sparred Neela (F475) and Muthu (F720), killed a scout (F799) and vowed at her back (F671). Cut this sentence and 'let no one stand at his back'. Replace them with a true present fact, e.g. eight years of saying what he meant only in the dark, never where a clerk's pen could take it down.",
-    "'It names you as harbouring an odiyan. In your own voice.' is repetitive tension, because Rema already entered that he harbours his wife (F682). Give the entry a new cost. Rema should note it goes past the assize note to the high court and makes him party to every Company act under its vote. Devan should ask to be entered as a Company member, not a warden.",
-    "In 'bleeding for strangers. I find it isn't so.', the queen's turn comes before her belief is restated, so it reads as a non sequitur. Also, only twenty-six named (F957). Change 'thirty' to 'twenty-six' and move 'I find it isn't so' after 'a realm is not safe by what it has not seen'. Cut one of the three silence beats ('The hall made no sound at all', 'The silence went on', 'the only sound in the room')."
+    "Fix the continuity break at 'never once where a clerk's pen could take it down'. It contradicts F682, where his harbouring was already entered at the assize. Rewrite it to set the new act against the old one, for example: 'Once he had a clerk write that he harboured his wife. That was a shield. This is a debt.' Also change 'sits in my chair' to 'sits in the warden's chair'. Change 'Not as warden' to 'Not as anyone's warden', because he gave up the seal (F683).",
+    "Fix the world-rule doubt at 'a smear of resin still on her wrist'. Resin on an odiyan's wrist at dusk should turn her, yet Neela stays human. Replace it with something rule-safe, such as lamp-black from the plank or a spot of Thilak's ink. Also cut the POV slip 'Usha was looking at the dressed cut on her forearm'. Devan cannot see this, so make it 'he guessed Usha was looking at'.",
+    "Fix the repetitive tension and the echo in 'her fingers tucked into his sleeve'. This is the third sleeve grip, and the declaration repeats the book 2 ch32 wording. Give the dusk scene a fresh responsive act tied to his turned back: Neela quietly tells him who steps forward, by name and never by shape, so he can witness without seeing. Cut one of the three ledger similes."
   ],
-  "reader_question": "Will the queen sign the charter at noon, and is that thin smoke from her window the crown leaf burning?",
+  "reader_question": "What is the queen burning alone in the south range tonight, and will she sign the Company's charter at noon?",
   "techniques_landed": [
     16,
     20,
     9
   ],
-  "new_facts_assessment": "Fact 1 is redundant with F682 (Devan already had 'harbours his wife' entered at the assize), and Rema's warning ignores it. It needs a new cost or a new framing. Fact 2 (Usha bound to both Lata and the queen) is necessary and consistent with the self-naming rule, because only Lata spends her one naming.",
+  "new_facts_assessment": "The draft lists no new facts, but it adds several. Rema's four green-sashed escort is new and confusing, since the old four now serve the Company. Devan has hated resin for twelve years, which fits F041. The watch-house is chosen as the hall. Janu complains about the cairn-fire rice. Kamalakshi says Janu 'lit a lamp for her', with an unclear referent. Each should go in new-facts.json. The escort needs one clause explaining who they are.",
   "content_rule_violation": false,
   "failure_modes": [
-    "Repetitive tension",
-    "Narrated-only chemistry"
+    "Repetitive tension"
   ],
-  "average": 2.88,
+  "average": 3.0,
   "minimum": 0.0,
   "passed": false
 }
