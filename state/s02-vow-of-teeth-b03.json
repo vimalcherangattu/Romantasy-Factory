@@ -899,7 +899,7 @@
       }
     },
     "31": {
-      "status": "passed",
+      "status": "edited",
       "revisions": 2,
       "scores": {
         "reader_question": 3.0,
@@ -913,8 +913,19 @@
       },
       "average": 3.88,
       "flags": [],
-      "words": 3062,
-      "minimum": 3.0
+      "words": 3080,
+      "minimum": 3.0,
+      "style": {
+        "words": 3080,
+        "banned_hits": {},
+        "ai_tell_hits": {},
+        "ai_tells_per_1000": 0.0,
+        "top_4gram": "counted the road four",
+        "top_4gram_count": 2,
+        "longest_paragraph_words": 107,
+        "em_dashes_per_1000": 0.97,
+        "reading_ease": 91.2
+      }
     },
     "32": {
       "status": "passed",
@@ -1782,9 +1793,13 @@
     {
       "at": "2026-10-25T21:45:45",
       "event": "done: S8 line edit ch 30"
+    },
+    {
+      "at": "2026-10-25T21:46:22",
+      "event": "done: S8 line edit ch 31"
     }
   ],
-  "updated_at": "2026-10-25T21:45:45",
+  "updated_at": "2026-10-25T21:46:22",
   "midpoint_chapter": 16,
   "continuity_attempts": 0,
   "continuity_last_errors": null
