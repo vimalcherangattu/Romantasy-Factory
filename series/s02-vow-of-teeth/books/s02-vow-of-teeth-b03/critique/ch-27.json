@@ -1,0 +1,38 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 4.0,
+    "stakes_and_cost": 3.0,
+    "prose": 3.0,
+    "continuity": 0.0
+  },
+  "reasons": {
+    "reader_question": "The queen's 'Who signs first' gives a sharp, specific question. Its terms come late and stay abstract.",
+    "change": "Devan learns Asha died unafraid. The six-year guilt turns, Vellan's debt is paid, and the roll is set up.",
+    "romance_movement": "A shared grief with nothing to forgive is a new reason for closeness. 'You gave her a light' lands it.",
+    "shown_chemistry": "Her latch-checking touches, the fingers left at his throat and the two-handed hold show the bond without narrating it.",
+    "character_logic": "Devan insisting on the climb, Neela kneeling in blood and her 'I know' all fit. Muthu clearing Kandan away is apt.",
+    "stakes_and_cost": "Vellan stays dead and the hand loss lingers. What signing first costs Neela is never stated.",
+    "prose": "Strong core, but some lines are muddled: 'Heard you say left', 'hitch was gone... would not be needing it', 'glad to have forgotten'.",
+    "continuity": "Devan 'barred his own shutters' and drilled alone because of Asha, against F102/F032. Landing and newel geography conflicts with F099/F100."
+  },
+  "fixes": [
+    "'He had barred his own shutters' and 'taught himself to drill alone': this is a continuity break. The shutters stood open by his father's rule until the wedding (F102), and solo drilling dates from the ford, eight years ago (F032). Replace both with six-year habits from F189: sleeping with a wall at his back, never letting anyone stand behind him on the stair. Also cut 'She kept them now, by habit.' Janu crossed her ten paces in book 2 (F591).",
+    "'on the landing, in shape, with my back to the newel': the stair geography is impossible. The parrot newel stands at the foot (F100), and the landing is at the top (F099). Asha is coming down, so she would pass Vellan first. Put him low on the stair by the postern grate at the eleventh step (F592/F596), half in shadow, so she sees the lamp first and him only at the last.",
+    "'Four who were not ready and four who would not': the arithmetic is unclear and the cost is vague. Change it to 'Four are left, for the four who were not ready.' Then give the roll a stated price in the queen's last speech. For example: the first name written by daylight before every witness binds that person to the Company's vote and makes them the crown's first name to answer. This makes 'who signs first' a costly choice."
+  ],
+  "reader_question": "Who will write the first name on the Company's roll, and what will binding herself to it cost Neela?",
+  "techniques_landed": [
+    19,
+    20
+  ],
+  "new_facts_assessment": "The lamp fact is necessary and well grounded in F553/F185. The door, sash, unbound death and 26-of-30 leaves are fine. The queen 'burned' the leaves herself, but F940 says they burn of themselves. 'Four not ready and four who would not' reads as eight and should be one group of four.",
+  "content_rule_violation": false,
+  "failure_modes": [],
+  "average": 3.25,
+  "minimum": 0.0,
+  "passed": false
+}
