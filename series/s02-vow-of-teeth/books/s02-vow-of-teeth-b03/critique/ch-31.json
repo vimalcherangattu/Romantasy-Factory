@@ -5,37 +5,37 @@
     "romance_movement": 4.0,
     "shown_chemistry": 4.0,
     "character_logic": 4.0,
-    "stakes_and_cost": 3.0,
+    "stakes_and_cost": 4.0,
     "prose": 4.0,
-    "continuity": 0.0
+    "continuity": 5.0
   },
   "reasons": {
-    "reader_question": "The horn and lone climber turn the charter into a live test: the Company's first vote with the right to refuse.",
-    "change": "Hunted becomes chartered on the page. The queen names Nellimala, loses Haran, and gives up her knives. The value shift lands cleanly.",
-    "romance_movement": "The tent remakes the bargain around his dead hand, which is a new reason. The public 'Bound by choice' beat echoes ch30's declaration.",
-    "shown_chemistry": "The sleeve grip, the blister welt, unknotting the sash like a lock, and asking aloud are all responsive actions, not narrated attraction.",
-    "character_logic": "Neela's silence during Haran's plea is smart and costly. The queen missing the intake rolls for twenty years is a slight stretch.",
-    "stakes_and_cost": "Haran's lost regard is a real price. The intimate scene and dawn carry little risk, and the vote's cost is unstated.",
-    "prose": "The prose is clean and specific. 'Dead arm/hand' repeats about eight times, and 'neither moved for a long time' and 'breath went to pieces' are stock phrases.",
-    "continuity": "'Counted it every morning since the wedding' contradicts the nights apart: Kodiyur, the Resin House and the shelf. Neela is wrong that he 'never missed a morning'."
+    "reader_question": "Clear end hook: who is the lone climber, and what will the Company's first chartered vote with the right of refusal decide?",
+    "change": "Hunted becomes chartered on the page. Haran's regard is lost, Chathu is sentenced and the crimes are named. The crown-leaf burning is muddier than the beat.",
+    "romance_movement": "The public vow repeats ch30's binding, but the new reason, Devan asking for her hand aloud and the remade bargain around his body, is fresh.",
+    "shown_chemistry": "Strong responsive action: sleeve grip, the blister held back, the sash knot, taking his weight, him refusing to say 'safe'. The bargain is a little on-the-nose.",
+    "character_logic": "Neela's silence during Haran's plea is smart and earned. The leaves' fate after the rolls are cut is unclear, so the crown may still hold pages.",
+    "stakes_and_cost": "The queen loses her loyal captain and Neela pays in silence. The share's ache under the collarbone prices the intimacy.",
+    "prose": "Lean and varied, with good banter. The roll scene is signposted three times, and the dawn hitch reveal restates itself.",
+    "continuity": "Consistent with F1000-F1064, F719, F849, F862, F942 and F955. 'Waited half a year' for his laugh is a soft risk only."
   },
   "fixes": [
-    "Continuity conflict at \"I've counted it every morning since the wedding.\" They spent many nights apart: Kodiyur, the four-day ride, the shelf. Change it to \"every morning I've woken beside you.\" Cut \"never once missed a morning\" and \"never once come up short\", and replace them with \"every morning they'd had, he'd spent it counting.\"",
-    "Trauma as decoration at \"Her whole life that place had been the place for wait\". The neck trigger appears only to be resolved. Either plant it earlier, or anchor it to established harm, such as Chathu's grip at her first resin (F200) or the hunters' iron rings on chains (F232). Then name that source in one clause so the release pays off a known wound.",
-    "Repetitive tension at \"Yours,\" Devan said. \"Mine looks as if a hen\". This replays ch30's public binding. Make the roll the first use of the new bargain instead: Devan asks her to write it for him (\"Ask, and I do it\"), so the tent bargain is foreshadowed in public. Add one Company reaction that shows the line means more than his ch30 words."
+    "At 'The other two folded theirs away and said nothing': it is unclear whether the leaves leave the crown's hand, which breaks the charter clause, and the beat's 'burns with her own hand' is lost. Have the queen hand each remaining leaf to its owner. Change the passive 'The Sold to the crown sheet went in next' so the queen herself feeds the sheet and the empty scorched green case into the basket.",
+    "At 'She heard what he was doing. Nobody in that room' (signposted callback): the asking is explained three times. Cut Neela's line and the closing 'She understood that the line on the roll was the smaller one...' paragraph. Keep only Madhavi's 'He asked her', drop 'Did you hear it?', and let Kandan's reply stand.",
+    "At 'Her whole life that place had been the place' (trauma as decoration / contradiction): the trigger dates from one Resin House night, not her whole life. Change it to 'Since the Resin House yard'. Then name one choice the trigger has shaped, such as never letting anyone walk behind her. Also revise 'the slow dry laugh she had waited half a year for', since he has laughed before; try 'the laugh he spent so rarely'."
   ],
-  "reader_question": "Who is climbing the pass road at grey, and will the Company use its new right to refuse?",
+  "reader_question": "Who is the lone man climbing the pass road at grey, and will the Company's first vote under the charter be a refusal of the crown?",
   "techniques_landed": [
     9,
     14,
     20
   ],
-  "new_facts_assessment": "The watch-house details, Haran's plea and the rolls oversight are consistent and earn their place. The neck 'wait' trigger is new at the climax with no earlier plant. Devan's daily count since the wedding conflicts with established separations. The climber is fine and is paid off by F1012.",
+  "new_facts_assessment": "The roll asking (F1064) is necessary and grows naturally from 'say it before you do it'. The nape trigger (F1063) fits F232 and F444, but it is unplanted, and 'her whole life' contradicts its single-event origin. It should be anchored or trimmed.",
   "content_rule_violation": false,
   "failure_modes": [
     "Trauma as decoration"
   ],
-  "average": 3.38,
-  "minimum": 0.0,
-  "passed": false
+  "average": 4.12,
+  "minimum": 4.0,
+  "passed": true
 }
