@@ -4,38 +4,39 @@
     "change": 4.0,
     "romance_movement": 4.0,
     "shown_chemistry": 4.0,
-    "character_logic": 4.0,
+    "character_logic": 3.0,
     "stakes_and_cost": 4.0,
-    "prose": 3.0,
-    "continuity": 0.0
+    "prose": 4.0,
+    "continuity": 5.0
   },
   "reasons": {
-    "reader_question": "The final beat is specific: the queen hands them the roll, and the reader asks who signs first and what it binds.",
-    "change": "Asha's last words reframe six years of guilt, Vellan dies for good, and the crown leaf is mostly ash.",
-    "romance_movement": "This is the first grief they hold together with nothing to forgive. The reason is new, and the beat's romance_change lands.",
-    "shown_chemistry": "The touch on his shoulder like checking a latch, the pulse fingers and the two-armed hold all show it through action.",
-    "character_logic": "Devan insisting on the door and Vellan spending his last breath on the debt both follow. Devan walking afterwards is barely earned.",
-    "stakes_and_cost": "The queen states the price plainly: the first name binds the signer to the vote and makes her the crown's first target.",
-    "prose": "The quiet-cut beats repeat, the weep paragraph explains the value shift outright, and there are some clichés ('ghost of a laugh').",
-    "continuity": "'Under his breastbone where the spear had passed' conflicts with F942/F946: the spear went under the right collarbone."
+    "reader_question": "The queen hands over the roll with its price stated, and Devan's dead hand points at Neela. The four unburned leaves add a second live gap.",
+    "change": "Devan learns how Asha died and that his sister was comforted. Neela's lamp turns from crime to gift. The crown passes the roll's burden to the Company.",
+    "romance_movement": "New reason: one shared grief with nothing to forgive, sealed by 'Half of it's mine now.' Devan lets her hold him with both hands.",
+    "shown_chemistry": "Shown through action: her hand checks his shoulder 'like a latch', he turns his hand to hold her wrist, she embraces him without asking.",
+    "character_logic": "Nobody goes to a dying ally for hours, not Thankam or Kamalakshi. Devan walks uphill hours after a through-spear wound.",
+    "stakes_and_cost": "The first name binds its signer to the vote and makes her the crown's target. Devan's hand loss makes the cost fall on Neela.",
+    "prose": "Clean, concrete and rhythmic, with no banned phrases or AI tells. Echoes: 'very' five times, 'said nothing' repeated, 'long moment' twice, one awkward 'probably'.",
+    "continuity": "Consistent with F099, F185, F591, F782, F931 and the 26/4 leaf count. The 310 'never told anyone' line risks clashing with F553."
   },
   "fixes": [
-    "Continuity: 'from the place under his breastbone where the spear had passed' puts the wound in the wrong place (F942, F946: under the right collarbone). Change it to 'from under his right collarbone, where the spear had passed', or make the image non-anatomical ('from the place the spear had emptied').",
-    "Endless monologue and narrated shift: 'He had told himself it was because he could not bear to be failed again' and 'But Asha had not been failed in the dark' spell out the guilt-to-grace turn. Cut both sentences. Keep the concrete chain (rail, thumb of lamplight, 'Dev's there') and go straight to the weeping, so the reader makes the turn.",
-    "Technique 10 is only half landed and the quiet beats repeat. 'The cut was very still' and 'The cut was so quiet Devan could hear the river' echo each other, so cut the first. Then give Neela one costed disclosure back after 'You gave her a light', such as the count of three hundred and ten she kept alone at that stair foot, and have Devan answer it."
+    "At \"Nobody's gone near him\" and \"Nobody knows what the bear left\" (irrational behaviour to extend plot): give a reason no one has reached Vellan. For example, the bear held the narrow place against anyone until first light, then Vellan sent Kamalakshi and a Company runner back down, asking for the Warden alone. Add one line from Neela or Muthu so the delay reads as Vellan's choice, not the plot's.",
+    "At \"thirty-odd strong where there had been forty-two\" (stakes without depth; real losses read as shock without grief): either lower the toll or name two dead. For example, Devan sees Kandan's chalk tile with two fresh names he knows (one Company member, one garrison volunteer), and Neela's lips move on them. Let one dead member's name land before the queen's scene.",
+    "At \"I've never told anyone the number\" and \"They'd unwrapped my eyes and told me to count\" (continuity risk with F553): keep the 310 but make the new disclosure what it meant. For example: 'You heard the number at the ledger. You never heard why. I thought if I kept counting, whoever was on the stair would finish.' Change 'unwrapped my eyes' to 'they took the lamp and told me to count'."
   ],
-  "reader_question": "Who will write the first name on the Company's roll, knowing it binds her to the vote and makes her the crown's first answer?",
+  "reader_question": "Who will write the first name on the Company's roll, knowing it makes her the crown's first name to answer, and will the queen keep the four leaves?",
   "techniques_landed": [
+    10,
     19,
     20
   ],
-  "new_facts_assessment": "The new-facts file is empty, but the draft adds facts: the guard-shed door; a fifteen-year-old Thurai boy at Vellan's feet; the Company at thirty-odd; the crown leaf now in a green-lacquered leather case, not the red lacquer chest of F834 (state it was moved or match it); twenty-six leaves 'burned of themselves', which fits F940/F957. All are necessary, and all should be listed.",
+  "new_facts_assessment": "The door, sash, Vellan's wound, the bird and the Thurai boy are all necessary and consistent. The 26-burned/4-left case matches F861, F883 and F924. The roll's price is necessary for chapter 28. 'Thirty-odd of forty-two' adds about ten deaths with none named, which needs grounding. Neela's 310 count repeats F553; 'never told anyone' must not contradict the B2 ch16 ledger scene, and 'They'd unwrapped my eyes... after' conflicts with her being unblindfolded at the lamp beforehand.",
   "content_rule_violation": false,
   "failure_modes": [
-    "Endless monologue",
-    "Narrated-only chemistry"
+    "Irrational behaviour to extend plot",
+    "Stakes without depth"
   ],
-  "average": 3.38,
-  "minimum": 0.0,
-  "passed": false
+  "average": 4.0,
+  "minimum": 3.0,
+  "passed": true
 }
