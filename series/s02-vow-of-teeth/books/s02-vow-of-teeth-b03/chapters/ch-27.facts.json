@@ -1,24 +1,14 @@
 {
   "facts": [
     {
-      "category": "plot",
-      "fact": "The bear held the narrow place against all comers until first light. Vellan then sent Kamalakshi and a Company runner down asking for the Warden alone and ordered everyone else kept away; that is why no one reached him before Devan.",
-      "since": "b03 ch 27"
-    },
-    {
       "category": "name",
-      "fact": "Two dead are named on Kandan's chalked tile at dawn: Lekha, of the Company, and Sreedhar, a drover of Kalladi (garrison volunteer). Neela's lips move on both names.",
-      "since": "b03 ch 27"
+      "fact": "Kandan's chalked tile of the dead at dawn names four more Company dead beside Lekha: Orma, Kani and Swathi, of the Company; with Sreedhar, drover of Kalladi, that makes five lines on the visible column. About ten odiyans are dead in all, and the remaining names are not yet chalked.",
+      "since": "s02-vow-of-teeth-b03 ch 27"
     },
     {
-      "category": "knowledge",
-      "fact": "Neela had told Devan the number 310 at the ledger (B2 ch16). In ch27 she gives its meaning: she kept counting hoping whoever was on the stair would finish before she reached the end. She was not blindfolded at the lamp; 'they took the lamp and told me to count'.",
-      "since": "b03 ch 27"
-    },
-    {
-      "category": "timeline",
-      "fact": "Per bible dating (Asha's death six years before book 1) the chapter drops explicit year counts for Devan's guarded back and Vellan's burden, writing 'since Asha' / 'ever since'.",
-      "since": "b03 ch 27"
+      "category": "object",
+      "fact": "The tile of the dead is chalked in Kandan's own square hand (per F820).",
+      "since": "s02-vow-of-teeth-b03 ch 27"
     }
   ]
 }

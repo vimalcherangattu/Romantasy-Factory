@@ -7259,6 +7259,20 @@
       "fact": "Per bible dating (Asha's death six years before book 1) the chapter drops explicit year counts for Devan's guarded back and Vellan's burden, writing 'since Asha' / 'ever since'.",
       "since": "s02-vow-of-teeth-b03 ch 27",
       "provisional": true
+    },
+    {
+      "id": "F1049",
+      "category": "name",
+      "fact": "Kandan's chalked tile of the dead at dawn names four more Company dead beside Lekha: Orma, Kani and Swathi, of the Company; with Sreedhar, drover of Kalladi, that makes five lines on the visible column. About ten odiyans are dead in all, and the remaining names are not yet chalked.",
+      "since": "s02-vow-of-teeth-b03 ch 27",
+      "provisional": true
+    },
+    {
+      "id": "F1050",
+      "category": "object",
+      "fact": "The tile of the dead is chalked in Kandan's own square hand (per F820).",
+      "since": "s02-vow-of-teeth-b03 ch 27",
+      "provisional": true
     }
   ],
   "knowledge": [
