@@ -7168,6 +7168,27 @@
       "fact": "Aligns with F683: Devan's garrison saluted him fist by fist as he walked out of the hall, not at the gate.",
       "since": "s02-vow-of-teeth-b03 ch 16",
       "provisional": true
+    },
+    {
+      "id": "F1036",
+      "category": "object",
+      "fact": "Devan took only the payment writ out of the shutter-frame hollow behind the third slat on the night the party left for the shelf and carried it in his pack since; the hide chit and cut gift seal stayed in the hollow. At dawn of ch21 he lays the writ back beside them. Refines F744, F910, F916.",
+      "since": "s02-vow-of-teeth-b03 ch 21",
+      "provisional": true
+    },
+    {
+      "id": "F1037",
+      "category": "object",
+      "fact": "Under the camphor block in the hollow Devan finds a soft folded scrap in Asha's hand reading 'Say it anyway.' (her sevens barred). He reads it aloud to Neela, tells her where he found it, and replaces it under the block. Plants chapter 30 motive.",
+      "since": "s02-vow-of-teeth-b03 ch 21",
+      "provisional": true
+    },
+    {
+      "id": "F1038",
+      "category": "relationship",
+      "fact": "Neela has not decided whether she will say aloud at the gate what she is; Devan will not ask and will stand not knowing until she speaks or does not. Folds into F907/F917 rather than a new term.",
+      "since": "s02-vow-of-teeth-b03 ch 21",
+      "provisional": true
     }
   ],
   "knowledge": [

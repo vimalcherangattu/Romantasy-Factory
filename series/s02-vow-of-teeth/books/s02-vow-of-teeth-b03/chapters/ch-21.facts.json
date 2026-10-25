@@ -1,16 +1,19 @@
 {
   "facts": [
     {
-      "category": "knowledge",
-      "fact": "Defender count at ch21 dawn, per Devan: forty-two odiyans, twenty-two queen's riders and forty garrison volunteers (104), less six dead (Biju, Sankaran, Chami, Rajan and two more) = ninety-eight. Replaces 'seventy-odd' in F914."
+      "category": "object",
+      "fact": "Devan took only the payment writ out of the shutter-frame hollow behind the third slat on the night the party left for the shelf and carried it in his pack since; the hide chit and cut gift seal stayed in the hollow. At dawn of ch21 he lays the writ back beside them. Refines F744, F910, F916.",
+      "since": "s02-vow-of-teeth-b03 ch 21"
     },
     {
       "category": "object",
-      "fact": "Devan says he added the cut gift seal to the oilcloth bundle on the hill, alongside the chit and writ (refines F744)."
+      "fact": "Under the camphor block in the hollow Devan finds a soft folded scrap in Asha's hand reading 'Say it anyway.' (her sevens barred). He reads it aloud to Neela, tells her where he found it, and replaces it under the block. Plants chapter 30 motive.",
+      "since": "s02-vow-of-teeth-b03 ch 21"
     },
     {
       "category": "relationship",
-      "fact": "Term set at dawn ch21: Devan reads the writ at the gate as his own account; Neela gives the Company's refusal and reasons in her own voice; Devan stands a step behind and does not speak for her."
+      "fact": "Neela has not decided whether she will say aloud at the gate what she is; Devan will not ask and will stand not knowing until she speaks or does not. Folds into F907/F917 rather than a new term.",
+      "since": "s02-vow-of-teeth-b03 ch 21"
     }
   ]
 }
