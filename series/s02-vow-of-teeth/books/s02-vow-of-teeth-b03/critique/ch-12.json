@@ -7,35 +7,34 @@
     "character_logic": 4.0,
     "stakes_and_cost": 4.0,
     "prose": 3.0,
-    "continuity": 0.0
+    "continuity": 5.0
   },
   "reasons": {
-    "reader_question": "The closing line is sharp and specific: Chathu summoning Seventeen. The unexplained welt adds a second live question.",
-    "change": "Neela gets inside Kodiyur, learns of the conduit to Eravi, the split in the thirty and the sea-stair gap, and gains Usha's trust.",
-    "romance_movement": "Her first real test of the bargain is to stay despite the welt. The pull toward the door is narrated, not dramatised.",
-    "shown_chemistry": "The thorns and the welt carry the bond physically, but her response is mostly summary and repeats ch11's line.",
-    "character_logic": "Asking for names and not prying at Usha's timings both fit. Admitting the wound-share to three unvetted guards is a small risk she doesn't weigh.",
-    "stakes_and_cost": "Staying while Devan bleeds costs her; Chathu's summons is a trap she will feel she has to answer.",
-    "prose": "Concrete port texture, but outline language leaks ('in a page of dust'), Thankam's key line is garbled, and Sanu's confession is a block of exposition.",
-    "continuity": "Sajan's 'only person alive who's ever held a light to you' and 'tells you your shape' conflict with Chathu witnessing first turnings and holding pages for the thirty (F664)."
+    "reader_question": "The ending's 'He says you'd come' gives a sharp, specific gap, and the grey cloak who 'counted' children layers a second one.",
+    "change": "Neela moves from outsider to inside the thirty. She learns they are split, learns the salve-pot conduit, and is summoned by Chathu.",
+    "romance_movement": "The welt and the choice to stay keep the bargain alive. But her stated reason is Sanu watching, not anything about Devan.",
+    "shown_chemistry": "The opening thorn-count and the pressing of the welt into the post are physical and good. Nothing Devan-specific is recalled.",
+    "character_logic": "Asking names, counting doors, banking Usha's oddly exact timing and staying put all fit a smart, guild-trained Neela.",
+    "stakes_and_cost": "Staying while Devan bleeds 100 miles off costs her, and walking into Chathu's cell carries obvious risk.",
+    "prose": "The scenes are concrete, but similes pile up ('like a woman...' three times) and the 'put it away' filing beat repeats. The stay-decision is narrated abstractly.",
+    "continuity": "Thankam, the pared seams, Sanu's salve pot, the Keeper's widow and the open window, and Chathu's three-day request all agree with the record."
   },
   "fixes": [
-    "Continuity, at 'the only person alive who's ever held a light to you' and 'she kneels down and tells you your shape'. Chathu witnessed the thirty's first turnings and wrote their pages (F664), so the queen can be neither the first nor the only witness. Change to 'the first night in her service', drop 'tells you your shape' (they already know it), and give Sajan: 'one of two alive who've held a light to you, and she keeps the other in her cells.' That also sets up Chathu's summons.",
-    "At 'It'll chafe worse on the next fortnight, on a hard wall': the subtext is muddled, so the knife clue (C16/C19) blurs. Make Thankam's double meaning legible while still addressed to Lata: 'That cuff will chafe. Come to me before it ridges worse. A fortnight to heal, and nobody need read the wrist again.' Then show Neela's hand pressing her own cuff flat.",
-    "At 'for a long, awful moment her whole body leaned toward the door': the romance choice is narrated, and 'If you bleed, I won't' replays ch11. Dramatise it: she stands, takes two steps, counts the doors, sits back down, and presses the welt against the post so the pain stays hers. Give the choice one new reason, such as Sanu watching her to learn whether bargains hold."
+    "At \"If she ran, it was a story that ended in flight\" the choice to stay is narrated in abstraction, and it rests on Sanu's gaze rather than the couple (Romance buried by plot). Replace that line with one concrete Devan memory that makes staying his wish as well as hers, such as their 'say it before you do it' term or his flat 'Hold'. Then let Sanu's watching be the second reason, not the only one.",
+    "Similes stack and the same gesture repeats: \"like a woman about to lift something\", \"like a woman reading it off a wall\", \"as one might lay a spoon\", plus \"She put it away with the rest\" and \"put it at the back of the shelf\". Cut two of the 'like a woman' similes and keep one filing beat. Also fix \"Off-duty guards used it... Nobody who valued their dinner went near it\", which contradicts itself. Make it 'nobody from the palace kitchens went near it.'",
+    "At \"It leads from the lower cells to the water gate\" the sea-stair geography sits awkwardly with later facts (F834, F841, F842: the stair rises from the water gate past the lower-cell passage to the queen's door). Reword Usha's line to 'From the water gate up past the end of the lower cells to the queen's passage', so ch13 and ch15 stay clean."
   ],
   "reader_question": "How did Chathu know Neela would come to Kodiyur, and what does he want with her?",
   "techniques_landed": [
     1,
-    2,
-    13
+    2
   ],
-  "new_facts_assessment": "new-facts.json is empty, but the draft adds Rukmini and Pappu, Sajan, Lata and Sanu, Thankam, the shed, the man in grey who counts, the sea-stair timings, the chain being up eleven days and the gate entries. These match F824 to F831 and are needed. One exception: framing the queen as the first and only witness conflicts with the bible.",
+  "new_facts_assessment": "new-facts.json is empty, but the draft adds facts. Sanu is 26. The grey-cloaked man handed Sanu notes for Eravi via the ninth-day post rider, which links the queen's household to Eravi; this is a deliberate escalation that needs logging. Lata is past thirty. Kodiyur is 'a hundred miles' off. Thankam is described at about fifty, which is close enough to F949. The shed is three-doored and off-duty. All are consistent, but all should be listed.",
   "content_rule_violation": false,
   "failure_modes": [
-    "Contrived delays"
+    "Romance buried by plot"
   ],
-  "average": 3.12,
-  "minimum": 0.0,
-  "passed": false
+  "average": 3.75,
+  "minimum": 3.0,
+  "passed": true
 }
