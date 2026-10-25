@@ -600,7 +600,7 @@
       }
     },
     "21": {
-      "status": "passed",
+      "status": "edited",
       "revisions": 2,
       "scores": {
         "reader_question": 4.0,
@@ -616,8 +616,19 @@
       "flags": [
         "needs-owner"
       ],
-      "words": 2774,
-      "minimum": 0.0
+      "words": 2768,
+      "minimum": 0.0,
+      "style": {
+        "words": 2768,
+        "banned_hits": {},
+        "ai_tell_hits": {},
+        "ai_tells_per_1000": 0.0,
+        "top_4gram": "at the gate with",
+        "top_4gram_count": 2,
+        "longest_paragraph_words": 152,
+        "em_dashes_per_1000": 0.0,
+        "reading_ease": 96.5
+      }
     },
     "22": {
       "status": "passed",
@@ -1630,9 +1641,13 @@
     {
       "at": "2026-10-25T21:40:18",
       "event": "done: S8 line edit ch 20"
+    },
+    {
+      "at": "2026-10-25T21:40:50",
+      "event": "done: S8 line edit ch 21"
     }
   ],
-  "updated_at": "2026-10-25T21:40:18",
+  "updated_at": "2026-10-25T21:40:50",
   "midpoint_chapter": 16,
   "continuity_attempts": 0,
   "continuity_last_errors": null
