@@ -424,7 +424,7 @@
       }
     },
     "15": {
-      "status": "passed",
+      "status": "edited",
       "revisions": 0,
       "scores": {
         "reader_question": 5.0,
@@ -438,8 +438,19 @@
       },
       "average": 4.0,
       "flags": [],
-      "words": 2693,
-      "minimum": 3.0
+      "words": 2673,
+      "minimum": 3.0,
+      "style": {
+        "words": 2673,
+        "banned_hits": {},
+        "ai_tell_hits": {},
+        "ai_tells_per_1000": 0.0,
+        "top_4gram": "she'll know it was",
+        "top_4gram_count": 3,
+        "longest_paragraph_words": 90,
+        "em_dashes_per_1000": 0.0,
+        "reading_ease": 93.7
+      }
     },
     "16": {
       "status": "passed",
@@ -1540,9 +1551,13 @@
     {
       "at": "2026-10-25T21:37:01",
       "event": "done: S8 line edit ch 14"
+    },
+    {
+      "at": "2026-10-25T21:37:32",
+      "event": "done: S8 line edit ch 15"
     }
   ],
-  "updated_at": "2026-10-25T21:37:01",
+  "updated_at": "2026-10-25T21:37:32",
   "midpoint_chapter": 16,
   "continuity_attempts": 0,
   "continuity_last_errors": null
