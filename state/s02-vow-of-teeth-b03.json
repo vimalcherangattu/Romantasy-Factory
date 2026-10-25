@@ -1302,10 +1302,18 @@
     {
       "at": "2026-10-25T20:49:02",
       "event": "done: S5 critique ch 22"
+    },
+    {
+      "at": "2026-10-25T20:56:13",
+      "event": "continuity round 2: 12 errors, 13 patches applied, 0 to revise"
+    },
+    {
+      "at": "2026-10-25T20:56:13",
+      "event": "done: S7 continuity"
     }
   ],
-  "updated_at": "2026-10-25T20:49:02",
+  "updated_at": "2026-10-25T20:56:13",
   "midpoint_chapter": 16,
-  "continuity_attempts": 1,
-  "continuity_last_errors": 2
+  "continuity_attempts": 2,
+  "continuity_last_errors": 1
 }
