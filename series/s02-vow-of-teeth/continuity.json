@@ -7098,6 +7098,20 @@
       "category": "knowledge",
       "fact": "Neela told Ponni her birth name, Indu, by choice. Ponni is the first person who knew her before the Resin House to hear it from her.",
       "since": "s02-vow-of-teeth-b03 (S7)"
+    },
+    {
+      "id": "F1026",
+      "category": "knowledge",
+      "fact": "After Usha's letter is read, Kuttu asks 'And our names?' from the doorway. Devan answers that the pardon is the forty's to vote at dawn, hand by hand, and that the pass is already carried and is his. The offer opens a first crack in the Company.",
+      "since": "s02-vow-of-teeth-b03 ch 2",
+      "provisional": true
+    },
+    {
+      "id": "F1027",
+      "category": "place",
+      "fact": "The palace has a sea stair, which Usha tells Neela to take at the noon gun.",
+      "since": "s02-vow-of-teeth-b03 ch 2",
+      "provisional": true
     }
   ],
   "knowledge": [

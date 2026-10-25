@@ -1,25 +1,14 @@
 {
   "facts": [
     {
-      "id": "F743",
       "category": "knowledge",
-      "fact": "Usha knows from the queen's household that a ledger page burned of itself at the Resin House two nights past the new moon (the dusk of Neela's self-naming, not the new-moon night itself), and asks what the naming cost; she does not name the shape. Neela tells her publicly only the wound-share. Revises the earlier new-moon wording.",
-      "since": "s02-vow-of-teeth-b03 ch 2",
-      "provisional": true
+      "fact": "After Usha's letter is read, Kuttu asks 'And our names?' from the doorway. Devan answers that the pardon is the forty's to vote at dawn, hand by hand, and that the pass is already carried and is his. The offer opens a first crack in the Company.",
+      "since": "s02-vow-of-teeth-b03 ch 2"
     },
     {
-      "id": "F748",
-      "category": "knowledge",
-      "fact": "Neela tells Usha that Devan nicked his chin shaving 'three days back' and she found the welt over her rice. No weekday names are used.",
-      "since": "s02-vow-of-teeth-b03 ch 2",
-      "provisional": true
-    },
-    {
-      "id": "F749",
-      "category": "plot",
-      "fact": "At the end of ch 2 Neela and Devan state the cost of Usha's door aloud: Kodiyur is four hard days away and the raiders reach the gorge in three, so taking the door means Devan leaving the pass he swore to the Company's fire to hold, or Neela going alone.",
-      "since": "s02-vow-of-teeth-b03 ch 2",
-      "provisional": true
+      "category": "place",
+      "fact": "The palace has a sea stair, which Usha tells Neela to take at the noon gun.",
+      "since": "s02-vow-of-teeth-b03 ch 2"
     }
   ]
 }
