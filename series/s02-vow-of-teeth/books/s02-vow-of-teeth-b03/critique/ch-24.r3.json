@@ -1,0 +1,39 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 3.0,
+    "stakes_and_cost": 4.0,
+    "prose": 4.0,
+    "continuity": 5.0
+  },
+  "reasons": {
+    "reader_question": "The ladder strikes mid-dusk with new pairs still staggering, so the question is sharp; the unread writ adds a second live hook.",
+    "change": "The queen gives up her leash in public, twenty-six guards free themselves, and Neela binds herself openly. Power and relationships both shift.",
+    "romance_movement": "The public naming of Devan as chosen is a new reason and a new state. The 'Left side' callback pays off chapter 23.",
+    "shown_chemistry": "His fingers on her bound hand, the hitch in his breath, and 'I know where it is' all show response rather than narration.",
+    "character_logic": "Neela vows to hold no one's page, then ends the dusk still holding Kamalakshi's unburned leaf and never notices.",
+    "stakes_and_cost": "Each naming has a visible price: raw fingertips, leaves burning, the queen's sting, and welts at the thorn. The cost is clear but restated too often.",
+    "prose": "Clean and concrete with few tells. The wound-count line is repeated almost verbatim, and very still, very quiet and very slowly echo.",
+    "continuity": "Consistent with F869 (Nineteen), F940 (leaves), F936 to F939, F924 and the scar paste. The thirty can be reconciled through the queen's column."
+  },
+  "fixes": [
+    "At 'Her leaf lay unburned on Neela's knee.' (character logic): Neela has just sworn 'I won't hold your pages'. Have her see this at once and tell Kamalakshi aloud that she will read the leaf to her at first light, by daylight as the rule requires. Until then she holds the leash she refused, and she should say so. Log it as a new fact.",
+    "In the court refusal, at 'The offer was kind. I'm going to refuse it.': the beat's value shift starts at 'tempted', but no temptation is on the page. Before she refuses, add one concrete pull. For example, she sees Kamalakshi or Lata and thinks how safe a page-free, unseen guard would keep them tonight. Then she refuses anyway, so the refusal costs her something.",
+    "At 'Each wound counted twice, once as blood and once as a welt': this repeats the queen's speech almost word for word. Cut it and replace it with one image from the shelf, such as a burning leaf beside a face she can name. Also vary 'very still', 'very quiet' and 'very slowly', and make clear what 'It stings' refers to."
+  ],
+  "reader_question": "Now that the ladders have come, can the newly bound pairs hold the shelf when every wound on one bleeds the other?",
+  "techniques_landed": [
+    14,
+    18,
+    22
+  ],
+  "new_facts_assessment": "new-facts.json is empty, but the draft adds facts. Bhaskaran's resin-raw fingertips fit the rule and are useful. The heavy-set refuser naming a crown spear-captain is fine. The queen in the north-range guest room is harmless. 'It stings' implies a partner feels the other's resin burn, which risks meaning Devan feels Neela's every dusk; say what stings. Kamalakshi's leaf staying in Neela's keeping is a consequential fact and must be logged and addressed.",
+  "content_rule_violation": false,
+  "failure_modes": [],
+  "average": 4.0,
+  "minimum": 3.0,
+  "passed": true
+}
