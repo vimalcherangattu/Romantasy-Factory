@@ -870,7 +870,7 @@
       }
     },
     "30": {
-      "status": "passed",
+      "status": "edited",
       "revisions": 3,
       "scores": {
         "reader_question": 4.0,
@@ -884,8 +884,19 @@
       },
       "average": 4.25,
       "flags": [],
-      "words": 2983,
-      "minimum": 4.0
+      "words": 2973,
+      "minimum": 4.0,
+      "style": {
+        "words": 2973,
+        "banned_hits": {},
+        "ai_tell_hits": {},
+        "ai_tells_per_1000": 0.0,
+        "top_4gram": "she looked at the",
+        "top_4gram_count": 2,
+        "longest_paragraph_words": 113,
+        "em_dashes_per_1000": 0.34,
+        "reading_ease": 92.8
+      }
     },
     "31": {
       "status": "passed",
@@ -1767,9 +1778,13 @@
     {
       "at": "2026-10-25T21:45:10",
       "event": "done: S8 line edit ch 29"
+    },
+    {
+      "at": "2026-10-25T21:45:45",
+      "event": "done: S8 line edit ch 30"
     }
   ],
-  "updated_at": "2026-10-25T21:45:10",
+  "updated_at": "2026-10-25T21:45:45",
   "midpoint_chapter": 16,
   "continuity_attempts": 0,
   "continuity_last_errors": null
