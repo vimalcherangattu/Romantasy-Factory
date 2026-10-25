@@ -1,29 +1,14 @@
 {
   "facts": [
     {
-      "category": "knowledge",
-      "fact": "Neela opened her shuttered lamp once, a thumb's width, when Asha came down the west stair; Neela does not remember doing it. Vellan watched from the landing in bear shape.",
-      "why": "needed because the beat requires a glimmer of lamp at the stair foot that Asha mistook for Devan."
+      "category": "plot",
+      "fact": "Queen Nirmala states the roll's price: the first name written by daylight before every witness binds that person to the Company's vote and makes her the crown's first name to answer for whatever the Company does.",
+      "since": "s02-crown-of-night-b03 ch 27"
     },
     {
-      "category": "object",
-      "fact": "Devan is carried up the cut on a guard-shed door with its strap hinge still on; Thankam binds his dead right arm to his chest with a green sash.",
-      "why": "needed because the beat has him carried on a door."
-    },
-    {
-      "category": "injury",
-      "fact": "Vellan is opened by a hook from hip to ribs and dies unbound, so no wound-share. His dead hand holds Kamalakshi's bad bird.",
-      "why": "needed because the beat has him opened at the belly and dying with the bird."
-    },
-    {
-      "category": "knowledge",
-      "fact": "The queen has burned twenty-six of the thirty crown-leaf pages at the namings; four remain, matching the four unready guards.",
-      "why": "needed because the beat has the leaf mostly ash; the figure follows the four unready guards (F940)."
-    },
-    {
-      "category": "name",
-      "fact": "The Company is down to about thirty-odd of forty-two odiyans at dawn, with no individual deaths named other than Vellan.",
-      "why": "needed because the beat implies losses on the line after ch 25-26; no names added."
+      "category": "place",
+      "fact": "Vellan waited in bear shape low on the west stair, by the grate under the eleventh step, in the wall's shadow; Asha saw Neela's thumb of lamplight at the foot first and the bear only when nearly on it.",
+      "since": "s02-crown-of-night-b03 ch 27"
     }
   ]
 }
