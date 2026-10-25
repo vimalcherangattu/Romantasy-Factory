@@ -1,39 +1,41 @@
 {
   "scores": {
     "reader_question": 4.0,
-    "change": 4.0,
+    "change": 5.0,
     "romance_movement": 4.0,
     "shown_chemistry": 4.0,
     "character_logic": 4.0,
-    "stakes_and_cost": 4.0,
-    "prose": 3.0,
-    "continuity": 0.0
+    "stakes_and_cost": 5.0,
+    "prose": 4.0,
+    "continuity": 5.0
   },
   "reasons": {
-    "reader_question": "Clear and urgent: both pulled toward death, the tower coming and the narrow place left open behind the line.",
-    "change": "Devan loses his right hand and his marma strike for good. Vellan abandons his post. The line goes from holding to falling.",
-    "romance_movement": "The agreed cost is paid in full for the first time. 'His back was not empty' is a new emotional state, but his choice to take her in with him is underplayed.",
-    "shown_chemistry": "She fills his dropping left side, rests her paw with claws sheathed, and presses her forehead to his jaw. The care is responsive and unnarrated.",
-    "character_logic": "Stepping into the gap and feinting with the spear before the marma strike is smart. 'That was new' about striking first ignores ch8.",
-    "stakes_and_cost": "The loss is irreversible and the share drags her down with him. The cost of the next decision passes to others while he lies helpless.",
-    "prose": "Strong concrete images, but the Resin House line repeats, the hand-won't-close beat recurs four times, and consecutive paragraphs open with 'He'.",
-    "continuity": "'Eight years he had slept with his back to stone' conflicts with F189 (six years). Devan 'watched with his back turned' contradicts ch24."
+    "reader_question": "Clear and urgent: can either survive to dawn, with the tower coming and Vellan's narrow place now open behind the line.",
+    "change": "Devan goes from holding the line to falling. He loses the marma hand for good, and Vellan abandons his post. Power and body both change.",
+    "romance_movement": "The share is paid in full, a new reason in the arc. His step into the gap is under-dramatised as a choice made for both of them.",
+    "shown_chemistry": "Sheathed paw on his wrist, forehead to jaw, her breath counted since the wedding night. All responsive, no narration.",
+    "character_logic": "The spear feint into the marma strike is smart and earned. He turns his back on the ladder plausibly, given the fatigue on his left.",
+    "stakes_and_cost": "An irreversible loss lands (technique 19), and the mortal drag on Neela is felt physically. The cost is concrete and named people pay it.",
+    "prose": "Strong and sensory, with good rhythm. A few told lines, two repeated 'as it always did', and consecutive paragraphs opening with 'He'.",
+    "continuity": "Consistent with the ford strike, the tack room, Vasu, Kandan and Sanu, the bear's drag and the wall-at-back habit. No conflicts found."
   },
   "fixes": [
-    "Continuity break: 'For eight years he had slept with his back to stone' contradicts F189, where the wall-at-back habit dates from Asha's death (six years) and bad sleep from the ford (eight). Rewrite the closing pair as 'Since Asha, there had been a wall behind him and nothing on the other side of it.' Drop the second number so the final line lands on one clean image.",
-    "Continuity and logic: 'and he had watched it from the wall with his back turned' contradicts ch24, where Devan stood beside Neela on the shelf during the naming. It is also impossible to watch with your back turned. Change it to 'he had seen it from Neela's side on the shelf'. Also cut 'for forty nights' from 'He had listened to it across a bed'. Use 'since their wedding night' instead.",
-    "Prose repetition: 'they had bought it at dusk in the Resin House yard' appears twice. Cut the second instance to 'It was the cost, and neither of them had understood how it would feel.' Trim the dead-hand beat to two strong instances; keep 'like a post stuck in a field' and 'Two of them had found a man's neck'. Vary the consecutive 'He tried...' and 'He looked...' paragraph openings. Replace 'That was new' with a line that respects his ch8 first strike."
+    "At 'Devan did not decide. He had decided already', the key romantic choice is skipped (weak Choice Under Pressure). Make it a decision in the moment. He weighs her ribs against the three pairs and says 'Left' before he moves, honouring the tack-room term. She answers with a shoulder press against his hip. Only then does he step. This makes 'knowing she takes it with him' shown, not asserted.",
+    "At 'It was the cost, and neither of them had understood how it would feel', the narration tells the reader the feeling and half-contradicts what they already know. Cut it or replace it with one concrete sensation. Also cut 'He was learning how to be guarded.' Vary the paragraphs opening 'He knew it by sound'/'He kept his eyes front' and 'He turned his head'/'He knew that breath'. Change the second 'as it always did'.",
+    "At 'If the gap held open for ten heartbeats', Haran's three hundred crown spears, who hold the centre by the ch23 vote, vanish from the battle. Add one line placing the crown centre. For example, they are engaged at the tower or too far down the line to close the bend. This explains why only Devan and the bear can fill the gap."
   ],
-  "reader_question": "With the spear through Devan and the share dragging Neela down, can either of them live until dawn, now that the narrow place is open behind the line?",
+  "reader_question": "Can Devan or Neela live until dawn, now that the share is dragging her after his spear wound and the narrow place stands open?",
   "techniques_landed": [
     6,
     14,
     19
   ],
-  "new_facts_assessment": "F945: the slight guard paired with Vasu is necessary and plausible, since ch24 left most pairings unshown. Vasu's ducks earn some liking before the threat. Retire F941 as stated. F946 (dead right hand, last marma strike) matches the bible's book 3 loss. F947 (welts) is consistent with the wound-share. F948 (Vellan leaves the narrow place) is a good escalation and fits his coming death at the pass. One unlisted new claim, 'forty nights' across a bed, understates a marriage of many months and should go.",
+  "new_facts_assessment": "new-facts.json is empty, but the draft adds facts. Vasu is paired with an unnamed slight guard of Usha's (not shown in ch24). A boar fights with Bhaskaran. Haran's crown centre is absent from the fight. The pairing is necessary and consistent but should be listed. The rest are consistent.",
   "content_rule_violation": false,
-  "failure_modes": [],
-  "average": 3.38,
-  "minimum": 0.0,
-  "passed": false
+  "failure_modes": [
+    "Narrated-only chemistry"
+  ],
+  "average": 4.38,
+  "minimum": 4.0,
+  "passed": true
 }
