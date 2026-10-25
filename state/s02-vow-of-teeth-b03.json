@@ -580,12 +580,22 @@
       "minimum": 3.0
     },
     "32": {
-      "status": "drafted",
+      "status": "failed",
       "revisions": 0,
-      "scores": {},
-      "average": null,
+      "scores": {
+        "reader_question": 4.0,
+        "change": 4.0,
+        "romance_movement": 3.0,
+        "shown_chemistry": 4.0,
+        "character_logic": 4.0,
+        "stakes_and_cost": 3.0,
+        "prose": 3.0,
+        "continuity": 0.0
+      },
+      "average": 3.12,
       "flags": [],
-      "words": 3130
+      "words": 3130,
+      "minimum": 0.0
     }
   },
   "chapter_count": 32,
@@ -1261,8 +1271,12 @@
     {
       "at": "2026-10-25T20:35:36",
       "event": "done: S4 draft ch 32"
+    },
+    {
+      "at": "2026-10-25T20:36:46",
+      "event": "done: S5 critique ch 32"
     }
   ],
-  "updated_at": "2026-10-25T20:35:36",
+  "updated_at": "2026-10-25T20:36:46",
   "midpoint_chapter": 16
 }
