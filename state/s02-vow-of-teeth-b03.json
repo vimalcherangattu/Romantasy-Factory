@@ -219,7 +219,7 @@
       }
     },
     "08": {
-      "status": "passed",
+      "status": "edited",
       "revisions": 1,
       "scores": {
         "reader_question": 4.0,
@@ -233,8 +233,19 @@
       },
       "average": 4.12,
       "flags": [],
-      "words": 2705,
-      "minimum": 4.0
+      "words": 2686,
+      "minimum": 4.0,
+      "style": {
+        "words": 2686,
+        "banned_hits": {},
+        "ai_tell_hits": {},
+        "ai_tells_per_1000": 0.0,
+        "top_4gram": "kandan said the corporal",
+        "top_4gram_count": 2,
+        "longest_paragraph_words": 92,
+        "em_dashes_per_1000": 0.37,
+        "reading_ease": 93.8
+      }
     },
     "09": {
       "status": "passed",
@@ -1435,9 +1446,13 @@
     {
       "at": "2026-10-25T21:33:09",
       "event": "done: S8 line edit ch 7"
+    },
+    {
+      "at": "2026-10-25T21:33:40",
+      "event": "done: S8 line edit ch 8"
     }
   ],
-  "updated_at": "2026-10-25T21:33:09",
+  "updated_at": "2026-10-25T21:33:40",
   "midpoint_chapter": 16,
   "continuity_attempts": 0,
   "continuity_last_errors": null
