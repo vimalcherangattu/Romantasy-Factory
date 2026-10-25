@@ -1,42 +1,39 @@
 {
   "scores": {
     "reader_question": 4.0,
-    "change": 4.0,
+    "change": 5.0,
     "romance_movement": 4.0,
     "shown_chemistry": 4.0,
-    "character_logic": 3.0,
-    "stakes_and_cost": 3.0,
-    "prose": 4.0,
+    "character_logic": 4.0,
+    "stakes_and_cost": 4.0,
+    "prose": 3.0,
     "continuity": 0.0
   },
   "reasons": {
-    "reader_question": "The horn and Rema's roll leave a sharp question: will the queen's 'Yes' and her charter go on a court record?",
-    "change": "The queen's leverage drops to four real leaves, and she admits the raids aloud. That is a clear power shift.",
-    "romance_movement": "Devan makes room for her grief without arguing, and the reason is new: a grief he cannot share. The beat lands.",
-    "shown_chemistry": "His palm-up hand, the hand on her neck only when she turns, and the goat joke all show care through action.",
-    "character_logic": "Neela never tested the sheet she has carried for days. The Thulasi line wrongly mixes the forty into the crown-leaf rolls.",
-    "stakes_and_cost": "The queen concedes, and Neela states she isn't bargaining. The cost of the next decision is not named for anyone.",
-    "prose": "The prose is clean and specific, with one AI tell ('the weight of'). A few told lines, such as 'Devan would never have been hard'.",
-    "continuity": "F940 says Chathu's forty leaves burned at the ch24 namings, so they cannot be powerless plain ink. The tin count also conflicts with F080/F587."
+    "reader_question": "The horn cuts off the queen mid-term. The reader carries Rema's roll and whether the queen will sign before a recorder.",
+    "change": "Chathu's forty pages are void and the queen admits the raids publicly. Her leverage collapses and the eleven unbound are free.",
+    "romance_movement": "The reason is new. Devan holds space for grief he can't share and won't argue with, the beat's exact change.",
+    "shown_chemistry": "Shown through the open palm, the wait until she turns her head, the goat joke and his flat honesty. One or two lines narrate what he did.",
+    "character_logic": "The queen's plain 'Yes' fits her cruel-facts voice. Neela weighing Haran's warning first is smart. She drops her promised point about the four leaves.",
+    "stakes_and_cost": "Haran's warning ties the public reading to three hundred crown spears and a three-day truce. That cost is concrete.",
+    "prose": "Mostly concrete and quick, but some told interiority, a muddled closing simile and a few overlong explanatory paragraphs.",
+    "continuity": "Ponni is placed sleeping in Kesu's shed after her rescue (F853). 'Since the Salt Gate' conflicts with where Neela met the queen (F1033)."
   },
   "fixes": [
-    "At 'They've no more power than a laundry list', there is a continuity conflict with F940: at the ch24 namings, witness entries burned on 'Chathu's forty fresh leaves held on Neela's knee'. Powerless plain-ink pages cannot burn. Add two lines in which Neela realises that what scorched at the namings was each member's own handed-back Resin House page, which she held beside the sheaf, while Chathu's leaves only curled. Then flag F940 for S7 correction.",
-    "At 'Twelve times it had come to her before a killing', the tin count conflicts with F080 (eleven contracts), F587 and F884. Change it to: 'Eleven times it had come to her before a killing, once in the kennels, once on a gatepost, and once she had carried it out of his cell.' In her speech, change 'Twelve of them' to 'Fifteen of them' or simply 'Tin after tin'.",
-    "At 'Thulasi's Pazhayangadi burned last week, and its name', this is a logic slip: Thulasi is one of the forty, not the crown-leaf thirty, and 'last week' fights the book 3 timeline. Replace it with a crown-leaf intake village (for example Sanu's Pallikara, already named), and say 'this season' rather than 'last week', so the 'every village on these rolls' claim stays airtight."
+    "Continuity. Fix 'Ponni is an old fishwife sleeping in Kesu's shed': she was rescued from Kesu's village (F853). Rewrite as 'Ponni, the fishwife we brought out of Kesu's village, was there.' Fix 'every hour since the Salt Gate': Neela first faced the queen in the drying shed (F1033). Change it to 'since the drying shed'.",
+    "Incomplete value shift. After 'You hold four real leaves, Majesty, and I'll come to them,' Neela never returns to the four leaves, so the queen keeps visible leverage. Before 'The raids made your knives,' add two lines. In them Neela says the four pages are the four guards' to ask for, and she will sign no charter that keeps them in the crown's hand. Leverage should end at none.",
+    "Prose. Replace the closing simile 'a man's who has read something in a clerk's round hand.' It muddles the planted household-hand clue (F808) with Rema. Use a concrete beat, such as Muthu wetting his lips and looking at Devan before speaking. Also cut the told sentences 'He did not mistake it for love, or call it weakness' and 'and was slow to name what she felt.' Keep the images that follow each."
   ],
-  "reader_question": "What has Justice Rema brought on the high court's roll, and will the queen put her 'Yes' and her charter before a recorder?",
+  "reader_question": "What is on Rema's high-court roll, and will the queen now sign a charter before a recorder, having admitted her raids made her knives?",
   "techniques_landed": [
     3,
     7,
     12
   ],
-  "new_facts_assessment": "F974 is necessary and consistent. F975 is necessary but collides with F940: witness entries on Chathu's leaves burned at the ch24 namings. F976 is necessary, but the 'twelve before a killing' tin count clashes with F080/F587/F884. F977 is necessary, but the draft wrongly folds Thulasi (one of the forty) into the crown-leaf thirty.",
+  "new_facts_assessment": "The draft logs no facts, but it adds three. (1) The queen publicly admits, before her captain and the garrison, that the raids made her knives. This is major and must be logged. (2) Someone in the palace kept Chathu's tin warm 'as ordered' and sent it by palace post. This is unexplained and should be logged as an open thread. (3) Haran's crown spears are now openly tied to the queen's word. All three are consistent and necessary, and all should be listed.",
   "content_rule_violation": false,
-  "failure_modes": [
-    "Twists without setup",
-    "Irrational behaviour to extend plot"
-  ],
-  "average": 3.25,
+  "failure_modes": [],
+  "average": 3.5,
   "minimum": 0.0,
   "passed": false
 }

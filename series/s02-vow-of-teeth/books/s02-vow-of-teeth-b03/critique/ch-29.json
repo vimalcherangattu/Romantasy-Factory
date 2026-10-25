@@ -1,41 +1,39 @@
 {
   "scores": {
     "reader_question": 4.0,
-    "change": 4.0,
+    "change": 5.0,
     "romance_movement": 4.0,
     "shown_chemistry": 4.0,
-    "character_logic": 3.0,
-    "stakes_and_cost": 3.0,
+    "character_logic": 4.0,
+    "stakes_and_cost": 4.0,
     "prose": 3.0,
-    "continuity": 5.0
+    "continuity": 0.0
   },
   "reasons": {
-    "reader_question": "Specific and earned: Rema arrives with the high court's roll just as the queen begins naming terms. The reader wants to know what she signs before a recorder.",
-    "change": "The queen's paper leverage dissolves and she admits the raids. Power has shifted, though Chathu as a living witness leaves the 'none left' claim slightly open.",
-    "romance_movement": "The beat lands. Devan validates a grief he doesn't share, with no argument. The reason is new: being let to mourn her captor.",
-    "shown_chemistry": "His palm is turned up and left there, his hand comes only when she turns her head, and the goat joke draws a real laugh. It is responsive and specific.",
-    "character_logic": "The queen never checks the ink beside her own bitter-smelling leaves, and nobody raises Chathu as the witness who could write true pages. Devan's 'would have sold me' misstates a known fact.",
-    "stakes_and_cost": "Neela accuses the queen while needing her three hundred spears, but the page never names that risk. The truce cushions every cost.",
-    "prose": "Strong images ('forty empty rooms'), but several runs of consecutive 'She' paragraph openings. Some emotion is told ('it took her a moment to understand what she was feeling').",
-    "continuity": "Consistent with the tins, the cipher key, the coin die, the horn code and the Nellimala record. The F940 retcon is required by the beat and correctly flagged as F978."
+    "reader_question": "The horn cuts off the queen mid-term. The reader carries Rema's roll and whether the queen will sign before a recorder.",
+    "change": "Chathu's forty pages are void and the queen admits the raids publicly. Her leverage collapses and the eleven unbound are free.",
+    "romance_movement": "The reason is new. Devan holds space for grief he can't share and won't argue with, the beat's exact change.",
+    "shown_chemistry": "Shown through the open palm, the wait until she turns her head, the goat joke and his flat honesty. One or two lines narrate what he did.",
+    "character_logic": "The queen's plain 'Yes' fits her cruel-facts voice. Neela weighing Haran's warning first is smart. She drops her promised point about the four leaves.",
+    "stakes_and_cost": "Haran's warning ties the public reading to three hundred crown spears and a three-day truce. That cost is concrete.",
+    "prose": "Mostly concrete and quick, but some told interiority, a muddled closing simile and a few overlong explanatory paragraphs.",
+    "continuity": "Ponni is placed sleeping in Kesu's shed after her rescue (F853). 'Since the Salt Gate' conflicts with where Neela met the queen (F1033)."
   },
   "fixes": [
-    "Problem: 'the only living witness to those forty turnings is a man in your cell' leaves a logic hole. Chathu can still write true pages (F792), so the queen's leverage isn't gone. Fix: have the queen say she still holds the man who can write them true. Neela answers that the crown's own post just showed he won't, and that he is Rema's prisoner for the high court (F752), not the queen's. This also sets up Rema's arrival.",
-    "Problem: 'I don't say it to bargain. I'm not holding it over you' gives the accusation no cost (stakes without depth). Fix: before she reads, have Neela count Haran and the crown spears in the hall. Add one line from Haran, or a glance at the beach, so the reader knows she may be losing the three hundred spears that hold the cut once the truce ends.",
-    "Problem: in 'He'd have sold me to the same bidder and sent a tin', literal Devan misstates a fact. Chathu did sell his death (the chit, F293). Fix: change it to 'He sold my death to the same buyer and would have sent you a tin for the pyre.' Also clarify 'sold her at nineteen' (her first contract). Recast the run of 'She lifted / She laid / She hadn't' and 'She stared / She had expected' so consecutive paragraphs don't open on 'She'."
+    "Continuity. Fix 'Ponni is an old fishwife sleeping in Kesu's shed': she was rescued from Kesu's village (F853). Rewrite as 'Ponni, the fishwife we brought out of Kesu's village, was there.' Fix 'every hour since the Salt Gate': Neela first faced the queen in the drying shed (F1033). Change it to 'since the drying shed'.",
+    "Incomplete value shift. After 'You hold four real leaves, Majesty, and I'll come to them,' Neela never returns to the four leaves, so the queen keeps visible leverage. Before 'The raids made your knives,' add two lines. In them Neela says the four pages are the four guards' to ask for, and she will sign no charter that keeps them in the crown's hand. Leverage should end at none.",
+    "Prose. Replace the closing simile 'a man's who has read something in a clerk's round hand.' It muddles the planted household-hand clue (F808) with Rema. Use a concrete beat, such as Muthu wetting his lips and looking at Devan before speaking. Also cut the told sentences 'He did not mistake it for love, or call it weakness' and 'and was slow to name what she felt.' Keep the images that follow each."
   ],
-  "reader_question": "What has Justice Rema brought with the high court's roll, and will the queen sign the charter with a recorder present?",
+  "reader_question": "What is on Rema's high-court roll, and will the queen now sign a charter before a recorder, having admitted her raids made her knives?",
   "techniques_landed": [
     3,
     7,
     12
   ],
-  "new_facts_assessment": "F978 is necessary: the beat requires the forty leaves to have never had power, so ch24's burning must be reassigned. S7 must revise ch24 to show the handed-back pages on Neela's knee, or the twist cheats. F979 is consistent with F080, F234, F574 and F884. F980 (Pallikara burned this season) is consistent with Sanu's roll (F868) but adds nothing to the intake-year argument; consider cutting 'which burned this season'.",
+  "new_facts_assessment": "The draft logs no facts, but it adds three. (1) The queen publicly admits, before her captain and the garrison, that the raids made her knives. This is major and must be logged. (2) Someone in the palace kept Chathu's tin warm 'as ordered' and sent it by palace post. This is unexplained and should be logged as an open thread. (3) Haran's crown spears are now openly tied to the queen's word. All three are consistent and necessary, and all should be listed.",
   "content_rule_violation": false,
-  "failure_modes": [
-    "Irrational behaviour to extend plot"
-  ],
-  "average": 3.75,
-  "minimum": 3.0,
-  "passed": true
+  "failure_modes": [],
+  "average": 3.5,
+  "minimum": 0.0,
+  "passed": false
 }
