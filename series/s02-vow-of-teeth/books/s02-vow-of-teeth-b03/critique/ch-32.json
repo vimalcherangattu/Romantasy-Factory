@@ -1,42 +1,41 @@
 {
   "scores": {
     "reader_question": 4.0,
-    "change": 4.0,
+    "change": 3.0,
     "romance_movement": 3.0,
     "shown_chemistry": 3.0,
     "character_logic": 3.0,
     "stakes_and_cost": 3.0,
-    "prose": 4.0,
-    "continuity": 5.0
+    "prose": 3.0,
+    "continuity": 0.0
   },
   "reasons": {
-    "reader_question": "The hinge is sharp and specific: an unledgered rogue on salt-and-clove resin, in Thurai's service. Narration half-states the question for the reader.",
-    "change": "The Company takes its first contract by vote, sets its paired-only rule, and is tested by the world. Neela leads in the open.",
-    "romance_movement": "The HEA lands, but 'a step behind' and deferring to her repeat the ch20, ch21 and ch31 terms. There is no new reason or risk.",
-    "shown_chemistry": "The leads barely speak until the last page. Chemistry rests on welts and on narrated readings of Devan's face.",
-    "character_logic": "Neela states the rule 'not to a stranger at your door', then breaks it at once, voting no before hearing the offer.",
-    "stakes_and_cost": "She names a hungry season and being outvoted. Refusing the sea lords under an open truce carries no named political cost.",
-    "prose": "Clean, readable, good images. The opening is recap-heavy. 'One of them is a number' is a slip: neither name is a number.",
-    "continuity": "Matches the bible and facts: wound-share, horn code, the ch6 rogue's ring, scars and scent, Ponni, Indu, eighty-two pages."
+    "reader_question": "The rogue's ledgerless wrists and fresh clove-bark resin pose a sharp, specific question that points to a second House. The sea lords' purpose is only implied.",
+    "change": "The Company moves from chartered to tested by the world. Most of the chapter is an epilogue tour, and power only shifts in the last scene.",
+    "romance_movement": "There is new movement at the door: they disagree openly and he defers. The rest of the chapter shows them side by side, not changing.",
+    "shown_chemistry": "The welt on her forearm and his pink ears land well. The leads barely exchange words until the final half page.",
+    "character_logic": "Neela reasons that asking in public makes the answer the Company's, then whispers her answer. The stated tactic contradicts the action.",
+    "stakes_and_cost": "A public no would make the queen answer for it under the truce, but the chapter defers the choice to noon. Kirri's note carries real, honest cost.",
+    "prose": "There are good concrete details: the tin shutter, 310, the Indu bar. The 'It was not X. It was Y' frame recurs, and opening exposition summarises rather than dramatises.",
+    "continuity": "Devan's 'seven years on a drill' (F558, made at 25) and Muthu's 'one in seven years' break the eight-plus-year count. The ch31 lone climber is silently dropped."
   },
   "fixes": [
-    "At 'You do not put the question that matters to a stranger' (character logic): Neela states this rule, then asks aloud before the envoy. Cut the maxim. Replace it with a deliberate reason for asking in the open, such as wanting the sea lords to see the Company decide in public. Then add one line naming what a public no risks under the queen's open truce.",
-    "At 'Devan held her eyes. A breath. Two.' (Repetitive tension): his deference only repeats the earlier 'step behind' terms. Give 'You first' a new reason. Have him show he leans the other way: he wants to hear the job because the rogue is a lead. He speaks after her so his vote stays his own. The noon vote then splits the leads for real.",
-    "In Kirri's note, at 'Or you come out. I don't know which.' (world rule): F007 says caging is never undone, and Neela knows it. Rewrite so she addresses that loss honestly. For example, the boat sails in Kirri's name, and the anklet rides it. Fix the confusing 'send the anklet down to her' antecedent. Change 'mind nearly gone' to 'mind gone'."
+    "At 'She did not turn to the envoy. She spoke low' (character logic): the paragraph claims she asks in the open so the Company owns the answer, then she whispers. Either give the lean-no and lean-yes exchange aloud before Koman and the gathering Company, or cut the public-no rationale and make the whisper a deliberate private check before the public line. Move the rationale paragraph after she asks, not before.",
+    "At 'I spent seven years on a drill' and 'That's one in seven years' (continuity): the count is eight-plus years. Change Devan's line to 'eight years' to match F558, and make Muthu's 'That's one. One, since we were boys' so it agrees with 'losing to you since we were boys' and F720.",
+    "At 'Weeks after the charter, the Thurai fleet sailed' (contrived delay): ch31 ended on a lone climber Devan called the Company's first vote, and ch32 never mentions him. Add one or two sentences in the hall section identifying him as the pepper factors' runner who first carried the offer, so the cliffhanger pays off and the pepper vote is that first vote."
   ],
-  "reader_question": "Who made the rogue odiyan no ledger holds, and what do the Thurai sea lords want with the Night Company's free knives?",
+  "reader_question": "Who made the rogue odiyan that no ledger holds, and what do the Thurai sea lords want to hire the Night Company's free knives for?",
   "techniques_landed": [
     20,
     23,
     26
   ],
-  "new_facts_assessment": "F1012 (the runner boy) cleanly defuses the ch31 cliffhanger. It does leave the offer unvoted for weeks, so explain the wait as the pass still opening. F1013 is necessary but rests on a contradictory choice. F1014 is harmless texture. Unlisted additions (Kuttu's cousin, the door board roll, the table made of doors) are fine. 'Mind nearly gone' understates more than two years caged against F007's one-year fade.",
+  "new_facts_assessment": "Koman's river report is consistent and a fair open thread for the series. Revising F1013 to an open noon vote with the leads disagreeing is better than the original, but the stated 'public' rationale must match the staging. Kirri's note honours F007 and is necessary. Dropping F1012 leaves ch31's cliffhanger, the lone climber called 'our first vote', unresolved. That breaks the urge-to-resume the previous chapter set up, so restore one line rather than drop it.",
   "content_rule_violation": false,
   "failure_modes": [
-    "Irrational behaviour to extend plot",
-    "Repetitive tension"
+    "Romance buried by plot"
   ],
-  "average": 3.62,
-  "minimum": 3.0,
-  "passed": true
+  "average": 2.75,
+  "minimum": 0.0,
+  "passed": false
 }
