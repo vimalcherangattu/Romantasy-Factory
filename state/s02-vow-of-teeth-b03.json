@@ -453,7 +453,7 @@
       }
     },
     "16": {
-      "status": "passed",
+      "status": "edited",
       "revisions": 2,
       "scores": {
         "reader_question": 5.0,
@@ -467,8 +467,19 @@
       },
       "average": 4.12,
       "flags": [],
-      "words": 3331,
-      "minimum": 3.0
+      "words": 3329,
+      "minimum": 3.0,
+      "style": {
+        "words": 3329,
+        "banned_hits": {},
+        "ai_tell_hits": {},
+        "ai_tells_per_1000": 0.0,
+        "top_4gram": "a woman who had",
+        "top_4gram_count": 3,
+        "longest_paragraph_words": 100,
+        "em_dashes_per_1000": 0.3,
+        "reading_ease": 93.3
+      }
     },
     "17": {
       "status": "passed",
@@ -1555,9 +1566,13 @@
     {
       "at": "2026-10-25T21:37:32",
       "event": "done: S8 line edit ch 15"
+    },
+    {
+      "at": "2026-10-25T21:38:11",
+      "event": "done: S8 line edit ch 16"
     }
   ],
-  "updated_at": "2026-10-25T21:37:32",
+  "updated_at": "2026-10-25T21:38:11",
   "midpoint_chapter": 16,
   "continuity_attempts": 0,
   "continuity_last_errors": null
