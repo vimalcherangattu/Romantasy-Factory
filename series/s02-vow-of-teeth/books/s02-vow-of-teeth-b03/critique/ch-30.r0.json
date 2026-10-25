@@ -1,0 +1,43 @@
+{
+  "scores": {
+    "reader_question": 3.0,
+    "change": 4.0,
+    "romance_movement": 2.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 3.0,
+    "stakes_and_cost": 3.0,
+    "prose": 3.0,
+    "continuity": 0.0
+  },
+  "reasons": {
+    "reader_question": "The question is stated outright in narration rather than earned. The ending settles into domestic warmth instead of pulling the reader forward.",
+    "change": "The value shift lands: the writ goes from leverage to open record, the queen confesses in public, and the Company votes its own charter.",
+    "romance_movement": "This replays the shelter vow from book 2 ch 32 (F671), including 'at her back, not her wall'. Neela's public answer is the only new step.",
+    "shown_chemistry": "Strong responsive beats: her fingers in his sleeve, his hand covering hers, and him turning his back so the namings have no outside witness.",
+    "character_logic": "Devan's handover is smart and in character. Rema's line about 'the man who paid the Keeper... her' is muddled, and the queen's 'last night' may be off.",
+    "stakes_and_cost": "Devan names the cost (three hundred spears) in narration only. Nothing is actually lost on the page, and the queen's one night defers every consequence.",
+    "prose": "Mostly clean, but has tells: 'Nobody breathed', 'it was extraordinary', 'the quiet that followed was not empty', and an odd 'last, and highest'.",
+    "continuity": "Usha already self-named to the queen (F938, F951), so 'neither could be caged by anyone not the other' breaks Rule 2. The eight-year barred shutter contradicts F102."
+  },
+  "fixes": [
+    "'neither of them could be caged by anyone who was not the other': this breaks Rule 2 (worldbuilding collapse). Usha self-named to Nirmala in ch 24. Rewrite: Lata can now be caged only with Usha's voice. Usha takes on a second wound-share, so she will bleed for both Lata and the queen. Before Usha's 'I won't', have her glance at the welt on her forearm to show she is weighing that.",
+    "'He had lived behind a shut shutter for eight years': this contradicts F102 (the shutters stood open until the wedding). The declaration also replays the book 2 ch 32 vow (repetitive tension). Replace the shutter line with his true eight years: no sparring, no one at his back. Cut 'At her back, and not her wall'. Make the new step his request that Rema enter his binding to Neela on the court roll, a crown record with a real cost.",
+    "'The court cannot try the man who paid the Keeper, because no one has named her': the pronoun and the logic are muddled, since the queen paid the Resin House and Ittan was the Keeper. Change to 'The court cannot try whoever sealed the writ that paid the guild, because no one has laid it before the court.' Also check the queen's 'Last night the Thurai came up that cut' against the ch 27 to 29 timeline, and correct the time reference."
+  ],
+  "reader_question": "Will the queen sign the Company's charter at noon, and what does she mean to burn tonight?",
+  "techniques_landed": [
+    9,
+    16,
+    20
+  ],
+  "new_facts_assessment": "The high court's nine-day sitting, the dawn retrieval from the shutter hollow, and the noon watch-house answer are all necessary and consistent; the watch-house fits the bible's 'new hall above the pass'. Lata naming to Usha is allowed, since one person can receive more than one naming. But the narration ignores Usha's existing bond to the queen and misstates the caging rule. The seal is said to come from Devan's sleeve, while F914 and F916 put it in the bundle.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Repetitive tension",
+    "Worldbuilding collapse",
+    "Narrated-only chemistry"
+  ],
+  "average": 2.75,
+  "minimum": 0.0,
+  "passed": false
+}
