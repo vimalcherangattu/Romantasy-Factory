@@ -1,42 +1,40 @@
-# Continuity report: Crown of Night (book 3, ch 1–32)
+# Continuity report: Crown of Night (book 3, chapters 1–32)
 
 ## What was checked
 
-- The full text against the series bible, all continuity facts (F001–F1015), the book 3 outline, and the summaries of books 1 and 2.
-- Names, ages and titles, including the guards' numbers and birth names.
-- Day counts across the road to Kodiyur, the noon-prick signals, and the queen's column.
-- Wound-share pairings, compared side by side for every injury.
-- Witness, self-naming and ledger rules.
-- The location of objects: crown-leaf pages, Chathu's forty, the oilcloth bundle, the tin and the pebbles.
-- Who-knows-what, and every callback to books 1 and 2.
+- **Names and roles** against the bible and continuity.json: Neela/Indu, Devan, Usha/Ushakumari, Sajan, Lata, Sanu/Chandrika, Kandan, Thankam, Koman, Ponni, Haran, the Company members.
+- **Ages:** Neela 27, Devan 32, the queen 54, Janu 61, Thilak 41, Asha at 22.
+- **Timeline:**
+  - the four-day Kodiyur road
+  - the noon-signal days (early on the gun day, an hour late the next day, missed on the gallop)
+  - the herald's fifth evening
+  - the assault dusk
+  - the truce
+- **Magic rules:**
+  - self-naming and the burning of witness entries
+  - plain-ink versus resin-ink pages
+  - wound-share welts
+  - no caging by day
+  - the ache counted from the last turning
+- **Injuries and their mirrored welts:** forearm cuts, the arrow graze, the ladder-hook cut, the boarding hook on the right ribs, the spear under the right collarbone, the dead right hand, blistered palms.
+- **Who knows what:** Chathu's plain ink, the folded-wing bird, the payment writ, Asha's last words, the lookout lamp.
+- **Objects and places:** the oilcloth bundle, the leopard tooth, pebbles, the plank and the roll, the crown leaf count (30 → 4 → 3), the kennel cage positions.
+- **Head counts:** the Company (42), defenders, the guards, the dead on the tile.
 
 ## Errors found
 
-All 13 are minor. There are no majors.
+1. **E01 (major), ch 8:** says Devan hasn't struck first in eight years, but he did in ch 5. Fixed to "killed first".
+2. **E02 (major), ch 17/20:** Kuttu asks Vellan on the shelf while Kuttu is away in Kodiyur. Changed to Thulasi.
+3. **E03 (major), ch 9:** treats the "your wife is kept" hostage as Muthu's. It was Ittan's wife.
+4. **E04 (minor), ch 18/22:** one guard of the thirty is missing from the count at Kettamala. Patched so the guard was kept at the palace and returns with the column.
+5. **E05 (minor), ch 19:** Neela says her late prick was a quarter hour; ch 16 shows an hour.
+6. **E06 (minor), ch 28:** the plank has forty names; after ch 1 it should have forty-one.
+7. **E07 (minor), ch 8:** Thilak is both by the pack pony and at the pry-bar.
 
-- **E01:** Madhavi misstates the witness rule. She claims the queen can cage the forty.
-- **E02:** The Kodiyur party's departure time is wrong in ch 6.
-- **E03:** Neela is nine in the ch 13 long-table memory but ten elsewhere.
-- **E04:** In ch 14 Devan ignores Neela's early noon signal from ch 15.
-- **E05:** The book has Thulasi ask Vellan whom he would self-name to; continuity says Kuttu.
-- **E06:** In ch 18 Neela misremembers the ch 1 and ch 3 vote scenes.
-- **E07:** Ch 18 contradicts how the sweet tasted in ch 13.
-- **E08:** Ch 21 misplaces where Devan wrote his refusal.
-- **E09:** Usha's fresh page is in two places, and the original intake rolls appear duplicated on the fresh pages.
-- **E10:** The seventh-day round debt ignores the book 2 sparring round.
-- **E11:** The "Sold to the crown" sheet appears in the queen's case without explanation.
-- **E12:** There is no room under the two names for "Bound by choice".
-- **E13:** A forty-year-old guard falls outside the twenty-year sales window.
+## Stale continuity entries
 
-## Noted, not raised
+Some provisional facts conflict with the book text. The text is internally consistent, so the text should stand:
 
-These items are consistent within the book but conflict with stale draft facts:
-
-- **F807:** The escort's stay is three days in the south range in the book, not four days in the gate chamber.
-- **F798:** The welt is on Neela's upper arm in the book, not her forearm.
-- **F1000:** The rope blister comes from the shelf ropes, not from hauling the door.
-
-Also noted:
-
-- **Neela's left hand:** it is still bandaged in ch 2–4 with no new cause given. This is ambiguous rather than contradictory.
-- **The oilcloth bundle in ch 24 and ch 30:** its path from Devan's coat back to the shutter hollow is not shown, but is plausible.
+- F807: the escort spent three days in the south range, not four in the gate chamber.
+- F877/F880: superseded by the E02 fix.
+- F883: superseded by the E04 fix.
