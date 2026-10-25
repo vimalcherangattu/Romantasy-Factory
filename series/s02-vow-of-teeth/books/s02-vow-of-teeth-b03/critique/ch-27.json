@@ -2,41 +2,38 @@
   "scores": {
     "reader_question": 4.0,
     "change": 4.0,
-    "romance_movement": 4.0,
-    "shown_chemistry": 4.0,
-    "character_logic": 3.0,
+    "romance_movement": 5.0,
+    "shown_chemistry": 5.0,
+    "character_logic": 4.0,
     "stakes_and_cost": 4.0,
     "prose": 4.0,
-    "continuity": 5.0
+    "continuity": 0.0
   },
   "reasons": {
-    "reader_question": "The queen hands over the roll with its price stated, and Devan's dead hand points at Neela. The four unburned leaves add a second live gap.",
-    "change": "Devan learns how Asha died and that his sister was comforted. Neela's lamp turns from crime to gift. The crown passes the roll's burden to the Company.",
-    "romance_movement": "New reason: one shared grief with nothing to forgive, sealed by 'Half of it's mine now.' Devan lets her hold him with both hands.",
-    "shown_chemistry": "Shown through action: her hand checks his shoulder 'like a latch', he turns his hand to hold her wrist, she embraces him without asking.",
-    "character_logic": "Nobody goes to a dying ally for hours, not Thankam or Kamalakshi. Devan walks uphill hours after a through-spear wound.",
-    "stakes_and_cost": "The first name binds its signer to the vote and makes her the crown's target. Devan's hand loss makes the cost fall on Neela.",
-    "prose": "Clean, concrete and rhythmic, with no banned phrases or AI tells. Echoes: 'very' five times, 'said nothing' repeated, 'long moment' twice, one awkward 'probably'.",
-    "continuity": "Consistent with F099, F185, F591, F782, F931 and the 26/4 leaf count. The 310 'never told anyone' line risks clashing with F553."
+    "reader_question": "The queen's 'Who signs first' is specific. The suspense is about cost, not outcome, since readers expect Neela to sign.",
+    "change": "Devan gains Asha's last words, Vellan dies, the leads share one grief, and the roll and its price come into play.",
+    "romance_movement": "The new reason is a shared grief with nothing to forgive. 'Half of it's mine now' changes how they carry the past.",
+    "shown_chemistry": "Both arms round him, hands checking his shoulder like a latch, his hand turning on her wrist. All shown through action.",
+    "character_logic": "Devan's insistence on going up and Vellan's choice of witnesses fit. 'Don't ask me to forgive you' answers a request she never made.",
+    "stakes_and_cost": "Nirmala names the first signer's price: bound to the vote and the crown's first answer. Devan's dead hand sharpens it.",
+    "prose": "Clean and concrete with no banned phrases. Small echoes ('small' twice, 'her mouth worked'), and 'mouth went dry' is stock.",
+    "continuity": "They carry Vellan 'down the cut' from its top to Kettamala's lower court, but the fort lies up the cut (F902)."
   },
   "fixes": [
-    "At \"Nobody's gone near him\" and \"Nobody knows what the bear left\" (irrational behaviour to extend plot): give a reason no one has reached Vellan. For example, the bear held the narrow place against anyone until first light, then Vellan sent Kamalakshi and a Company runner back down, asking for the Warden alone. Add one line from Neela or Muthu so the delay reads as Vellan's choice, not the plot's.",
-    "At \"thirty-odd strong where there had been forty-two\" (stakes without depth; real losses read as shock without grief): either lower the toll or name two dead. For example, Devan sees Kandan's chalk tile with two fresh names he knows (one Company member, one garrison volunteer), and Neela's lips move on them. Let one dead member's name land before the queen's scene.",
-    "At \"I've never told anyone the number\" and \"They'd unwrapped my eyes and told me to count\" (continuity risk with F553): keep the 310 but make the new disclosure what it meant. For example: 'You heard the number at the ledger. You never heard why. I thought if I kept counting, whoever was on the stair would finish.' Change 'unwrapped my eyes' to 'they took the lamp and told me to count'."
+    "'They carried him down the cut on the door' (continuity, geography): the narrow place sits at the top of the cut, and Kettamala's lower court lies further up (F902). Change it to 'up the last of the cut', and make the garrison line the cut above the narrow place.",
+    "'Don't ask me to forgive you.' He wasn't certain (character logic): Neela never asked, so the line reads as a non sequitur. Reword so Devan answers what she said: 'You'll want me to forgive you. There's nothing there to forgive. You gave her a light.' Or let her say 'Forgive me' first, and cut her earlier 'I know.'",
+    "'thirty-odd strong where there had been forty-two' (stakes without depth, Real Losses diluted): about ten odiyans are gone, yet the tile names only Lekha and a drover. Give the Company's dead a few more chalked names, or have Neela's lips move on a count she cannot finish, so the losses carry weight. Also replace 'names in a child's hand' with whose hand it is."
   ],
-  "reader_question": "Who will write the first name on the Company's roll, knowing it makes her the crown's first name to answer, and will the queen keep the four leaves?",
+  "reader_question": "Who will write the first name on the Company's roll, and will she accept being the crown's first name to answer?",
   "techniques_landed": [
     10,
     19,
     20
   ],
-  "new_facts_assessment": "The door, sash, Vellan's wound, the bird and the Thurai boy are all necessary and consistent. The 26-burned/4-left case matches F861, F883 and F924. The roll's price is necessary for chapter 28. 'Thirty-odd of forty-two' adds about ten deaths with none named, which needs grounding. Neela's 310 count repeats F553; 'never told anyone' must not contradict the B2 ch16 ledger scene, and 'They'd unwrapped my eyes... after' conflicts with her being unblindfolded at the lamp beforehand.",
+  "new_facts_assessment": "Kamalakshi as runner explains why no one reached Vellan first, and it fits his choice to hold the place unbound. Lekha and Sreedhar on the tile are needed and consistent with F820. The meaning of 310 fits F553 (counted at the stair foot, then blindfolded again) and retires F963's 'never told'. Dropping the year counts is fine.",
   "content_rule_violation": false,
-  "failure_modes": [
-    "Irrational behaviour to extend plot",
-    "Stakes without depth"
-  ],
-  "average": 4.0,
-  "minimum": 3.0,
-  "passed": true
+  "failure_modes": [],
+  "average": 3.75,
+  "minimum": 0.0,
+  "passed": false
 }

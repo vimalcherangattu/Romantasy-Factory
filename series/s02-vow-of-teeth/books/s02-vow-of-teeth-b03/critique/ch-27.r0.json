@@ -2,37 +2,38 @@
   "scores": {
     "reader_question": 4.0,
     "change": 4.0,
-    "romance_movement": 4.0,
-    "shown_chemistry": 4.0,
+    "romance_movement": 5.0,
+    "shown_chemistry": 5.0,
     "character_logic": 4.0,
-    "stakes_and_cost": 3.0,
-    "prose": 3.0,
+    "stakes_and_cost": 4.0,
+    "prose": 4.0,
     "continuity": 0.0
   },
   "reasons": {
-    "reader_question": "The queen's 'Who signs first' gives a sharp, specific question. Its terms come late and stay abstract.",
-    "change": "Devan learns Asha died unafraid. The six-year guilt turns, Vellan's debt is paid, and the roll is set up.",
-    "romance_movement": "A shared grief with nothing to forgive is a new reason for closeness. 'You gave her a light' lands it.",
-    "shown_chemistry": "Her latch-checking touches, the fingers left at his throat and the two-handed hold show the bond without narrating it.",
-    "character_logic": "Devan insisting on the climb, Neela kneeling in blood and her 'I know' all fit. Muthu clearing Kandan away is apt.",
-    "stakes_and_cost": "Vellan stays dead and the hand loss lingers. What signing first costs Neela is never stated.",
-    "prose": "Strong core, but some lines are muddled: 'Heard you say left', 'hitch was gone... would not be needing it', 'glad to have forgotten'.",
-    "continuity": "Devan 'barred his own shutters' and drilled alone because of Asha, against F102/F032. Landing and newel geography conflicts with F099/F100."
+    "reader_question": "The queen's 'Who signs first' is specific. The suspense is about cost, not outcome, since readers expect Neela to sign.",
+    "change": "Devan gains Asha's last words, Vellan dies, the leads share one grief, and the roll and its price come into play.",
+    "romance_movement": "The new reason is a shared grief with nothing to forgive. 'Half of it's mine now' changes how they carry the past.",
+    "shown_chemistry": "Both arms round him, hands checking his shoulder like a latch, his hand turning on her wrist. All shown through action.",
+    "character_logic": "Devan's insistence on going up and Vellan's choice of witnesses fit. 'Don't ask me to forgive you' answers a request she never made.",
+    "stakes_and_cost": "Nirmala names the first signer's price: bound to the vote and the crown's first answer. Devan's dead hand sharpens it.",
+    "prose": "Clean and concrete with no banned phrases. Small echoes ('small' twice, 'her mouth worked'), and 'mouth went dry' is stock.",
+    "continuity": "They carry Vellan 'down the cut' from its top to Kettamala's lower court, but the fort lies up the cut (F902)."
   },
   "fixes": [
-    "'He had barred his own shutters' and 'taught himself to drill alone': this is a continuity break. The shutters stood open by his father's rule until the wedding (F102), and solo drilling dates from the ford, eight years ago (F032). Replace both with six-year habits from F189: sleeping with a wall at his back, never letting anyone stand behind him on the stair. Also cut 'She kept them now, by habit.' Janu crossed her ten paces in book 2 (F591).",
-    "'on the landing, in shape, with my back to the newel': the stair geography is impossible. The parrot newel stands at the foot (F100), and the landing is at the top (F099). Asha is coming down, so she would pass Vellan first. Put him low on the stair by the postern grate at the eleventh step (F592/F596), half in shadow, so she sees the lamp first and him only at the last.",
-    "'Four who were not ready and four who would not': the arithmetic is unclear and the cost is vague. Change it to 'Four are left, for the four who were not ready.' Then give the roll a stated price in the queen's last speech. For example: the first name written by daylight before every witness binds that person to the Company's vote and makes them the crown's first name to answer. This makes 'who signs first' a costly choice."
+    "'They carried him down the cut on the door' (continuity, geography): the narrow place sits at the top of the cut, and Kettamala's lower court lies further up (F902). Change it to 'up the last of the cut', and make the garrison line the cut above the narrow place.",
+    "'Don't ask me to forgive you.' He wasn't certain (character logic): Neela never asked, so the line reads as a non sequitur. Reword so Devan answers what she said: 'You'll want me to forgive you. There's nothing there to forgive. You gave her a light.' Or let her say 'Forgive me' first, and cut her earlier 'I know.'",
+    "'thirty-odd strong where there had been forty-two' (stakes without depth, Real Losses diluted): about ten odiyans are gone, yet the tile names only Lekha and a drover. Give the Company's dead a few more chalked names, or have Neela's lips move on a count she cannot finish, so the losses carry weight. Also replace 'names in a child's hand' with whose hand it is."
   ],
-  "reader_question": "Who will write the first name on the Company's roll, and what will binding herself to it cost Neela?",
+  "reader_question": "Who will write the first name on the Company's roll, and will she accept being the crown's first name to answer?",
   "techniques_landed": [
+    10,
     19,
     20
   ],
-  "new_facts_assessment": "The lamp fact is necessary and well grounded in F553/F185. The door, sash, unbound death and 26-of-30 leaves are fine. The queen 'burned' the leaves herself, but F940 says they burn of themselves. 'Four not ready and four who would not' reads as eight and should be one group of four.",
+  "new_facts_assessment": "Kamalakshi as runner explains why no one reached Vellan first, and it fits his choice to hold the place unbound. Lekha and Sreedhar on the tile are needed and consistent with F820. The meaning of 310 fits F553 (counted at the stair foot, then blindfolded again) and retires F963's 'never told'. Dropping the year counts is fine.",
   "content_rule_violation": false,
   "failure_modes": [],
-  "average": 3.25,
+  "average": 3.75,
   "minimum": 0.0,
   "passed": false
 }
