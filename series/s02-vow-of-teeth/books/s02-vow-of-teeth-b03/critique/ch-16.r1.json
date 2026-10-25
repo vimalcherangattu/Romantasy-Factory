@@ -1,40 +1,43 @@
 {
   "scores": {
-    "reader_question": 5.0,
+    "reader_question": 4.0,
     "change": 5.0,
     "romance_movement": 4.0,
     "shown_chemistry": 3.0,
     "character_logic": 4.0,
     "stakes_and_cost": 5.0,
     "prose": 3.0,
-    "continuity": 0.0
+    "continuity": 5.0
   },
   "reasons": {
-    "reader_question": "Sharp and specific: take the queen's knives or not, with Devan's fort priced against the answer and a rider already on the road.",
-    "change": "Knowledge and power both flip. The theft was permitted, the queen is the page, and Neela leaves holding paper while the queen holds leverage.",
-    "romance_movement": "Devan is absent, but the realisation that the only freedom bleeds when he does is new, and the lever on his office is new.",
-    "shown_chemistry": "Shown only through the thumb-prick ritual and the chin-welt memory. That works, but it is thin with Devan offstage for the whole chapter.",
-    "character_logic": "The queen arriving alone by day is shrewd. Neela missing the signal is earned by shock. Explaining self-naming to someone who knows it feels staged.",
-    "stakes_and_cost": "Every option costs: precious knives, rogue marks, Devan's house, a leash from a kind hand. She can't answer before the rider does.",
-    "prose": "Clean and concrete, with quotable lines. Weakened by a repeated 'She said it [adverb]' tic and consecutive 'She' paragraph openers in the noon section.",
-    "continuity": "'by Friday' breaks the series' no-weekday-names convention (F750, F422). Kamalakshi's 'fresh page' and the 'an hour late' timing also wobble."
+    "reader_question": "Clear and specific: will Neela take the queen's command, and has Devan already answered the rider without her?",
+    "change": "Paper victory recast. The queen is a living witness, holds forty pages, and owns the folded bird. Neela's belief cracks on the page.",
+    "romance_movement": "The offer prices Devan's office. Neela sees the bond as her only freedom and pays for the queen's blindness with his hour.",
+    "shown_chemistry": "Devan is absent. Attraction lives only in the withheld thumb-prick and one cliff-path memory, which is effective but thin.",
+    "character_logic": "Refusing to prick and swallowing the ink question are smart. The queen spending her audience to block the signal is shrewd.",
+    "stakes_and_cost": "Every option costs: command leashes thirty, self-naming makes precious knives, refusal costs Devan Kettamala, and the signal costs his hour.",
+    "prose": "Clean of banned phrases and tells, but it echoes ch15's 'rotten stair' image. Stacked 'She did not' sentences and some explanatory queen speeches.",
+    "continuity": "Consistent with F863/F868/F869/F1020/F1028/F1029/F1033. Ch19's F895 (sea room) must be revised to match F1033."
   },
   "fixes": [
-    "Continuity: in Usha's line 'you'd run thirty of us into rogue lives by Friday', the series uses no weekday names (F750, F422). Replace 'by Friday' with 'before the week was out' or 'before the next new moon'.",
-    "Prose tic: 'She said it simply', 'She said it with no shame', 'Nirmala said it gently' and 'The queen said it with what looked like pain' repeat one tag shape. Keep one. Turn the rest into action beats or bare dialogue. Also vary the consecutive openers 'She had been counting' / 'She opened her hand' / 'She had missed it'.",
-    "Timing and detail slips: 'Now an hour late, and no word' contradicts 'the last quarter hour'. Change it to 'Now late, the gun a quarter hour gone, and no word'. In 'Kamalakshi had asked it straight, with her fresh page in her fist', her page was returned, not fresh: use 'her own page'. Cut 'in the autumn of this year'."
+    "At 'Not all of it today,' Nirmala said and 'You will want to ask about it. Not today.', the queen withholds twice in one scene, which reads as contrived delay. Keep one deferral. Turn the other into a half-answer, for example naming that the promise is to the Thurai sea lords without terms, so the treaty question escalates instead of stalling.",
+    "At 'as she knew a rotten stair' (closing scene) and 'as she knew every count in her life', the rotten-stair simile repeats ch15's distinctive image within three chapters. Replace it with a fresh image specific to the shed, such as brine or rack timber, and cut the second 'as she knew' construction.",
+    "At 'Twenty-one people heard it. Sanu closed his eyes.', the headcount is unclear because Kuttu, Meenu, Pavi and Thilak may also be present. At 'Can anyone else ever hold me?', the wording diverges from the earlier Kamalakshi question (F864). Fix the count to the room's real number, and align Kamalakshi's remembered question with what the shelter scene showed."
   ],
-  "reader_question": "Will Neela take command of the queen's page-free night-guard to buy back Devan's fort, or refuse and let the rider decide his life before she can answer?",
+  "reader_question": "Will Neela take command of the queen's page-free night-guard, and will Devan already have answered the rider before she can reach him?",
   "techniques_landed": [
     3,
     12,
     17,
     22
   ],
-  "new_facts_assessment": "Sanu-male correction is necessary and matches F718 and the on-page 'tailor's son'. Usha as Nineteen fits the ledger-order reading. The Chathu-ink clue is fairly planted, retrievable and correctly left unresolved.",
+  "new_facts_assessment": "The shed timeline correction (F1033) is necessary and stronger than the old version, since Neela chooses not to prick. It requires S7 to rewrite F895 in ch19. Keeping the ink clue live by choice (F1034) is sound and fair-play. The salute-in-hall alignment (F1035) matches F683.",
   "content_rule_violation": false,
-  "failure_modes": [],
-  "average": 3.62,
-  "minimum": 0.0,
-  "passed": false
+  "failure_modes": [
+    "Contrived delays",
+    "Repetitive tension"
+  ],
+  "average": 4.12,
+  "minimum": 3.0,
+  "passed": true
 }

@@ -3,41 +3,41 @@
     "reader_question": 4.0,
     "change": 5.0,
     "romance_movement": 4.0,
-    "shown_chemistry": 4.0,
-    "character_logic": 3.0,
+    "shown_chemistry": 3.0,
+    "character_logic": 4.0,
     "stakes_and_cost": 5.0,
-    "prose": 4.0,
-    "continuity": 0.0
+    "prose": 3.0,
+    "continuity": 5.0
   },
   "reasons": {
-    "reader_question": "Specific and double-edged: take the queen's knives, or refuse and leave Devan's office priced against her answer.",
-    "change": "The dawn victory becomes a paper victory. A living witness, forty fresh pages and a priced lever flip power to the queen.",
-    "romance_movement": "Devan is absent, but the bond is recast as her only freedom. The lever on his office is a new reason, and the dramatic irony works.",
-    "shown_chemistry": "The thumb welts, cliff-path memory and late prick show the bond through action. The 'cut his chin shaving' callback earns it.",
-    "character_logic": "Neela counts obsessively and waits with a thorn in her fingers, yet mistakes the noon gun for a cart. That is convenient, not character.",
-    "stakes_and_cost": "Every option costs: thirty bleeding pairs, Devan's fort, his right to choose. The rider at dusk puts a clock on it.",
-    "prose": "Clean, concrete, few tells. The queen's cost speech and Usha's motive speech run expository. 'The shed stopped being a shed' lands.",
-    "continuity": "Conflicts with F895: the missed noon signal is set in the sea room for the whole hour. Here it is the drying shed, a quarter hour late."
+    "reader_question": "Clear and specific: will Neela take the queen's command, and has Devan already answered the rider without her?",
+    "change": "Paper victory recast. The queen is a living witness, holds forty pages, and owns the folded bird. Neela's belief cracks on the page.",
+    "romance_movement": "The offer prices Devan's office. Neela sees the bond as her only freedom and pays for the queen's blindness with his hour.",
+    "shown_chemistry": "Devan is absent. Attraction lives only in the withheld thumb-prick and one cliff-path memory, which is effective but thin.",
+    "character_logic": "Refusing to prick and swallowing the ink question are smart. The queen spending her audience to block the signal is shrewd.",
+    "stakes_and_cost": "Every option costs: command leashes thirty, self-naming makes precious knives, refusal costs Devan Kettamala, and the signal costs his hour.",
+    "prose": "Clean of banned phrases and tells, but it echoes ch15's 'rotten stair' image. Stacked 'She did not' sentences and some explanatory queen speeches.",
+    "continuity": "Consistent with F863/F868/F869/F1020/F1028/F1029/F1033. Ch19's F895 (sea room) must be revised to match F1033."
   },
   "fixes": [
-    "At 'Today she was a quarter hour late, and there was no word': continuity conflict with F895, which has the queen keep Neela the whole hour. Keep the queen in the shed past the hour, so Neela pricks only after the water-clock would have turned. Flag F895's 'sea room' for S7 to correct to the drying shed. Also align 'saluted him fist by fist at the gate' with F683, which places it in the hall.",
-    "At 'A cart on the quay, Neela thought, and let it go': irrational behaviour. A counter holding a thorn would know the gun. Make it a choice: she feels the gun, knows it, and keeps her hand still. Pricking in front of the queen would show her exactly where the lever bites. The miss then costs Devan by her own decision, which serves the beat's crack better.",
-    "At 'reached for the thought and the queen's calm voice went on over it': contrived delay. The POV drops a clue with no reason. Give a concrete reason: Neela half-forms the question about Chathu's grey fingertips and decides not to voice it, because saying it tells the queen what she is checking. Keep the clue live (F870) by choice, not by drift."
+    "At 'Not all of it today,' Nirmala said and 'You will want to ask about it. Not today.', the queen withholds twice in one scene, which reads as contrived delay. Keep one deferral. Turn the other into a half-answer, for example naming that the promise is to the Thurai sea lords without terms, so the treaty question escalates instead of stalling.",
+    "At 'as she knew a rotten stair' (closing scene) and 'as she knew every count in her life', the rotten-stair simile repeats ch15's distinctive image within three chapters. Replace it with a fresh image specific to the shed, such as brine or rack timber, and cut the second 'as she knew' construction.",
+    "At 'Twenty-one people heard it. Sanu closed his eyes.', the headcount is unclear because Kuttu, Meenu, Pavi and Thilak may also be present. At 'Can anyone else ever hold me?', the wording diverges from the earlier Kamalakshi question (F864). Fix the count to the room's real number, and align Kamalakshi's remembered question with what the shelter scene showed."
   ],
-  "reader_question": "Will Neela take command of the queen's page-free night-guard, and what will refusing cost Devan, who gets the same offer first?",
+  "reader_question": "Will Neela take command of the queen's page-free night-guard, and will Devan already have answered the rider before she can reach him?",
   "techniques_landed": [
     3,
     12,
     17,
     22
   ],
-  "new_facts_assessment": "Usha warning the queen before the theft (F1028) is necessary and recasts ch15's open lock fairly. The spray slot and thirty years are harmless texture. The queen's unbreakable promise fits the Thurai treaty. The queen missing her audience is fine but sits in the drying shed against F895's sea room. Mistaking the gun for a cart is unnecessary and weakens Neela.",
+  "new_facts_assessment": "The shed timeline correction (F1033) is necessary and stronger than the old version, since Neela chooses not to prick. It requires S7 to rewrite F895 in ch19. Keeping the ink clue live by choice (F1034) is sound and fair-play. The salute-in-hall alignment (F1035) matches F683.",
   "content_rule_violation": false,
   "failure_modes": [
-    "Irrational behaviour to extend plot",
-    "Contrived delays"
+    "Contrived delays",
+    "Repetitive tension"
   ],
-  "average": 3.62,
-  "minimum": 0.0,
-  "passed": false
+  "average": 4.12,
+  "minimum": 3.0,
+  "passed": true
 }

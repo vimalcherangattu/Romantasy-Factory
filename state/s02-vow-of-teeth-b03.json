@@ -459,22 +459,22 @@
       }
     },
     "16": {
-      "status": "revised",
+      "status": "passed",
       "revisions": 1,
       "scores": {
         "reader_question": 4.0,
         "change": 5.0,
         "romance_movement": 4.0,
-        "shown_chemistry": 4.0,
-        "character_logic": 3.0,
+        "shown_chemistry": 3.0,
+        "character_logic": 4.0,
         "stakes_and_cost": 5.0,
-        "prose": 4.0,
-        "continuity": 0.0
+        "prose": 3.0,
+        "continuity": 5.0
       },
-      "average": 3.62,
+      "average": 4.12,
       "flags": [],
       "words": 3467,
-      "minimum": 0.0,
+      "minimum": 3.0,
       "style": {
         "words": 3329,
         "banned_hits": {},
@@ -1914,9 +1914,13 @@
     {
       "at": "2026-10-25T22:00:46",
       "event": "done: S6 revise ch 16"
+    },
+    {
+      "at": "2026-10-25T22:01:46",
+      "event": "done: S5 critique ch 16"
     }
   ],
-  "updated_at": "2026-10-25T22:00:46",
+  "updated_at": "2026-10-25T22:01:46",
   "midpoint_chapter": 16,
   "continuity_attempts": 0,
   "continuity_last_errors": null,
