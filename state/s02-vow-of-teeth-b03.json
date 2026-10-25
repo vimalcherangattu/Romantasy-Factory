@@ -461,7 +461,7 @@
       }
     },
     "16": {
-      "status": "passed",
+      "status": "edited",
       "revisions": 1,
       "scores": {
         "reader_question": 4.0,
@@ -478,15 +478,15 @@
       "words": 3467,
       "minimum": 3.0,
       "style": {
-        "words": 3329,
+        "words": 3467,
         "banned_hits": {},
         "ai_tell_hits": {},
         "ai_tells_per_1000": 0.0,
-        "top_4gram": "a woman who had",
-        "top_4gram_count": 3,
-        "longest_paragraph_words": 100,
-        "em_dashes_per_1000": 0.3,
-        "reading_ease": 93.3
+        "top_4gram": "safe unseen and mine",
+        "top_4gram_count": 2,
+        "longest_paragraph_words": 93,
+        "em_dashes_per_1000": 0.29,
+        "reading_ease": 93.4
       },
       "owner_instructions": [
         "Sanu's intake date. Change 'Sold at seven... The date, six years back' to 'nineteen years back', so a seven-year-old intake makes him twenty-six now, matching chapter 12. If the page reading lingers on his childhood, keep it to the sale fact. Add nothing that frames him as young in the present.",
@@ -2078,9 +2078,13 @@
     {
       "at": "2026-10-25T23:06:24",
       "event": "done: S8 line edit ch 12"
+    },
+    {
+      "at": "2026-10-25T23:07:05",
+      "event": "done: S8 line edit ch 16"
     }
   ],
-  "updated_at": "2026-10-25T23:06:24",
+  "updated_at": "2026-10-25T23:07:05",
   "midpoint_chapter": 16,
   "continuity_attempts": 1,
   "continuity_last_errors": 3,
