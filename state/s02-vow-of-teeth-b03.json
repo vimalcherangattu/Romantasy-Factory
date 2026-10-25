@@ -580,22 +580,22 @@
       "minimum": 3.0
     },
     "32": {
-      "status": "revised",
+      "status": "passed",
       "revisions": 1,
       "scores": {
         "reader_question": 4.0,
         "change": 4.0,
         "romance_movement": 3.0,
-        "shown_chemistry": 4.0,
-        "character_logic": 4.0,
+        "shown_chemistry": 3.0,
+        "character_logic": 3.0,
         "stakes_and_cost": 3.0,
-        "prose": 3.0,
-        "continuity": 0.0
+        "prose": 4.0,
+        "continuity": 5.0
       },
-      "average": 3.12,
+      "average": 3.62,
       "flags": [],
       "words": 3263,
-      "minimum": 0.0
+      "minimum": 3.0
     }
   },
   "chapter_count": 32,
@@ -1279,8 +1279,12 @@
     {
       "at": "2026-10-25T20:37:34",
       "event": "done: S6 revise ch 32"
+    },
+    {
+      "at": "2026-10-25T20:39:33",
+      "event": "done: S5 critique ch 32"
     }
   ],
-  "updated_at": "2026-10-25T20:37:34",
+  "updated_at": "2026-10-25T20:39:33",
   "midpoint_chapter": 16
 }

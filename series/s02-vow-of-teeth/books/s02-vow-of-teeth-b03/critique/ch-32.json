@@ -3,26 +3,26 @@
     "reader_question": 4.0,
     "change": 4.0,
     "romance_movement": 3.0,
-    "shown_chemistry": 4.0,
-    "character_logic": 4.0,
+    "shown_chemistry": 3.0,
+    "character_logic": 3.0,
     "stakes_and_cost": 3.0,
-    "prose": 3.0,
-    "continuity": 0.0
+    "prose": 4.0,
+    "continuity": 5.0
   },
   "reasons": {
-    "reader_question": "The rogue's missing ledger, his salt-and-clove smell and the ch6 tower sleeper give a sharp, specific hinge question.",
-    "change": "The Company moves from new charter to its first paid contract and a foreign client. The world now treats it as a power.",
-    "romance_movement": "The HEA holds, and the public vote handoff is new. But Neela never gives her own vote, so the final beat stays soft.",
-    "shown_chemistry": "His pink ears, the laugh that 'came all the way up' and 'You first' show attraction through responsive action.",
-    "character_logic": "The paired-only clause and holding the stranger's question for the table fit a smart Neela. Devan's deferral is earned.",
-    "stakes_and_cost": "Hiring out to the Thurai, who burned her village, should cost something. The chapter never names that price or who would pay it.",
-    "prose": "The welt sentences are garbled, 'brown as a nut' is a cliché, and 'One asks the people behind one' is off-voice. The Muthu bout is strong.",
-    "continuity": "Wound-share is applied to a non-partner's knuckles, breaking F009. Ch31's lone stranger at grey is also dropped without explanation."
+    "reader_question": "The hinge is sharp and specific: an unledgered rogue on salt-and-clove resin, in Thurai's service. Narration half-states the question for the reader.",
+    "change": "The Company takes its first contract by vote, sets its paired-only rule, and is tested by the world. Neela leads in the open.",
+    "romance_movement": "The HEA lands, but 'a step behind' and deferring to her repeat the ch20, ch21 and ch31 terms. There is no new reason or risk.",
+    "shown_chemistry": "The leads barely speak until the last page. Chemistry rests on welts and on narrated readings of Devan's face.",
+    "character_logic": "Neela states the rule 'not to a stranger at your door', then breaks it at once, voting no before hearing the offer.",
+    "stakes_and_cost": "She names a hungry season and being outvoted. Refusing the sea lords under an open truce carries no named political cost.",
+    "prose": "Clean, readable, good images. The opening is recap-heavy. 'One of them is a number' is a slip: neither name is a number.",
+    "continuity": "Matches the bible and facts: wound-share, horn code, the ch6 rogue's ring, scars and scent, Ponni, Indu, eighty-two pages."
   },
   "fixes": [
-    "Two lines break the wound-share rule. 'The welt on her left forearm had risen when the first boy cracked' gives her a welt from a stranger's knuckles. 'a welt of her own rose on his ankle' is garbled. Make the boy's staff catch Devan's forearm so her matching welt follows from that. Rewrite the ankle line as: 'a welt rose on her own ankle, a small bright joke in her bones.'",
-    "The chapter opens 'Weeks had gone by since the charter' but never accounts for ch31's lone stranger climbing at grey after Kuttu's horn. That leaves a dangling interrupted action. Add one or two sentences in the opening section naming who that stranger was, such as the pepper factors' runner or Rema's clerk, or tie him plainly to the envoy's later arrival.",
-    "At 'It was the face of a man who... was waiting to be told what to do', Devan reads as passive. Neela then never gives the vote he handed her, which wastes the payoff. Recast it as a man choosing to wait for her. After 'You first', give Neela a one-line stated vote with its cost (Thurai burned Nellimala) before 'We vote at noon.'"
+    "At 'You do not put the question that matters to a stranger' (character logic): Neela states this rule, then asks aloud before the envoy. Cut the maxim. Replace it with a deliberate reason for asking in the open, such as wanting the sea lords to see the Company decide in public. Then add one line naming what a public no risks under the queen's open truce.",
+    "At 'Devan held her eyes. A breath. Two.' (Repetitive tension): his deference only repeats the earlier 'step behind' terms. Give 'You first' a new reason. Have him show he leans the other way: he wants to hear the job because the rogue is a lead. He speaks after her so his vote stays his own. The noon vote then splits the leads for real.",
+    "In Kirri's note, at 'Or you come out. I don't know which.' (world rule): F007 says caging is never undone, and Neela knows it. Rewrite so she addresses that loss honestly. For example, the boat sails in Kirri's name, and the anklet rides it. Fix the confusing 'send the anklet down to her' antecedent. Change 'mind nearly gone' to 'mind gone'."
   ],
   "reader_question": "Who made the rogue odiyan no ledger holds, and what do the Thurai sea lords want with the Night Company's free knives?",
   "techniques_landed": [
@@ -30,12 +30,13 @@
     23,
     26
   ],
-  "new_facts_assessment": "The unshuttered lamp, the crown pay, the pepper-cart vote and the envoy are all necessary and consistent. The rogue's description matches F786. One fact is doubtful: a Pazhayangadi boatwright, weeks after F736 says Thurai burned that village. Either say he rebuilt, or move the boatwright to another coast yard. Kirri's mind 'going down a year at a time' clashes with F007, under which her mind should be nearly gone after two-plus years caged.",
+  "new_facts_assessment": "F1012 (the runner boy) cleanly defuses the ch31 cliffhanger. It does leave the offer unvoted for weeks, so explain the wait as the pass still opening. F1013 is necessary but rests on a contradictory choice. F1014 is harmless texture. Unlisted additions (Kuttu's cousin, the door board roll, the table made of doors) are fine. 'Mind nearly gone' understates more than two years caged against F007's one-year fade.",
   "content_rule_violation": false,
   "failure_modes": [
-    "Romance buried by plot"
+    "Irrational behaviour to extend plot",
+    "Repetitive tension"
   ],
-  "average": 3.12,
-  "minimum": 0.0,
-  "passed": false
+  "average": 3.62,
+  "minimum": 3.0,
+  "passed": true
 }
