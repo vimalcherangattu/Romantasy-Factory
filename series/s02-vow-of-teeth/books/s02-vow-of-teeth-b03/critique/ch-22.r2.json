@@ -1,0 +1,41 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 4.0,
+    "stakes_and_cost": 4.0,
+    "prose": 3.0,
+    "continuity": 0.0
+  },
+  "reasons": {
+    "reader_question": "The question is sharp and stated on the page: what Neela will answer, in the open, at the dusk before the assault.",
+    "change": "Power goes public: Neela won't kneel, seats Janu, chooses the open answer. She now knows the queen's honest arithmetic and the two-night clock.",
+    "romance_movement": "New reason: the household watches Devan stay silent while his office is offered. The wrist touch shows his choice was for her.",
+    "shown_chemistry": "Hand back along the bench, thumb on the blister, 'wide advice' banter. Responsive and private under public eyes, with no narration.",
+    "character_logic": "The queen is credible and never a strawman. 'The bundle your husband carried' gives her knowledge with no stated source.",
+    "stakes_and_cost": "Answering in front of the realm risks the spears and the pass. The deadline is two nights, and the queen's fondness makes refusal costly.",
+    "prose": "Many 'did not' negations, a recap line of what Neela already heard, a vague 'kitchen servant' reference, a soft final sentence and a ch21 phrase echo.",
+    "continuity": "'Forty-two odiyans' stand in the court while Neela, one of the 42 (F740), is on the roof. 'For a year' at the newel overstates her tenure."
+  },
+  "fixes": [
+    "Continuity. 'forty-two odiyans, in their own mud-coloured cloth': Neela is one of the 42 and stands on the roof, so change it to 'forty-one of the Company'. 'She had gone round the parrot newel for a year' overstates her time at the fort; change it to 'since her first week' (F449, F514).",
+    "Ending. 'counted two nights, and found the number was not very large' is a reflective fade, not a reveal or an interrupted action. End on the queen's 'It is the cruelest thing about me.' Then add one concrete act that makes the next chapter necessary: Neela goes down to the court and calls the Company by the ram's horn (F898) to tell them the dusk.",
+    "Prose and recap. 'the same hand that had let a kitchen servant's name stay in her memory for six months' points to nothing on the page; tie it to Parukutty's cough, just witnessed. Cut 'Your warden told me at the gate that he holds a paper', since Neela heard it. Trim three of the 'Neela did not' negations to vary the rhythm."
+  ],
+  "reader_question": "What will Neela answer in front of the whole realm at the dusk before the assault, and will Devan's reading of the writ cost them the spears?",
+  "techniques_landed": [
+    13,
+    15,
+    16
+  ],
+  "new_facts_assessment": "The Kolathur fair adds texture, is harmless and matches F919. Lata on the shelf matches F883. The queen learning the eleventh step from Rema's roll fits Eravi's confession (F596-598) and is needed. Unsourced: the queen naming 'the bundle your husband carried up and down my hills'. Give a source (Ittan's effects, Muthu's post) or make it an inference.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Contrived delays"
+  ],
+  "average": 3.38,
+  "minimum": 0.0,
+  "passed": false
+}

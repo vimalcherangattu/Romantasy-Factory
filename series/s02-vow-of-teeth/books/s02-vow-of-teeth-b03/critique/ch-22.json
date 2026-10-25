@@ -2,40 +2,40 @@
   "scores": {
     "reader_question": 4.0,
     "change": 4.0,
-    "romance_movement": 3.0,
-    "shown_chemistry": 3.0,
-    "character_logic": 3.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 4.0,
     "stakes_and_cost": 4.0,
     "prose": 3.0,
     "continuity": 0.0
   },
   "reasons": {
-    "reader_question": "Clear question out: what Neela answers before the realm in two nights. The pages' smell adds a sharp second itch.",
-    "change": "Power goes visible: Neela sets the time and place of the answer, Janu sits, the deadline is fixed, and the queen's virtue is seen.",
-    "romance_movement": "The household sees Devan's silent restraint, which is a new public reason. The private beat is one hand-hold and a joke, thin after chapter 21.",
-    "shown_chemistry": "The reach-back and the 'wide advice' banter work. The 'man keeping a promise' line narrates, and the welt-of-heat image blurs.",
-    "character_logic": "The queen's step knowledge comes from a key she couldn't have used today. Neela's blurted 'Parukutty' and Devan's reason to defer go unexplained.",
-    "stakes_and_cost": "Two nights to the assault, fourteen hundred Thurai, and a public answer that may cost the spears. The cost is stated and felt.",
-    "prose": "Strong queen lines. Breath motif used four times, 'brows lifted a little' twice, and several muddled sentences (Chathu's lie, physician's key, welt of heat).",
-    "continuity": "Calls the payment writ 'the second writ' (conflicts F648). Treaty 'failed in the spring' conflicts with the landing after the rains. 'Warden's clerk paid' conflicts with F520."
+    "reader_question": "The question is sharp and stated on the page: what Neela will answer, in the open, at the dusk before the assault.",
+    "change": "Power goes public: Neela won't kneel, seats Janu, chooses the open answer. She now knows the queen's honest arithmetic and the two-night clock.",
+    "romance_movement": "New reason: the household watches Devan stay silent while his office is offered. The wrist touch shows his choice was for her.",
+    "shown_chemistry": "Hand back along the bench, thumb on the blister, 'wide advice' banter. Responsive and private under public eyes, with no narration.",
+    "character_logic": "The queen is credible and never a strawman. 'The bundle your husband carried' gives her knowledge with no stated source.",
+    "stakes_and_cost": "Answering in front of the realm risks the spears and the pass. The deadline is two nights, and the queen's fondness makes refusal costly.",
+    "prose": "Many 'did not' negations, a recap line of what Neela already heard, a vague 'kitchen servant' reference, a soft final sentence and a ch21 phrase echo.",
+    "continuity": "'Forty-two odiyans' stand in the court while Neela, one of the 42 (F740), is on the roof. 'For a year' at the newel overstates her tenure."
   },
   "fixes": [
-    "At 'I signed the second writ. The one in the bundle', the payment writ is miscalled: F648's second writ is Rema's sealed case. Change it to 'I sealed the payment writ, the one in the bundle'. At 'It failed in the spring', the treaty collapsed when the fleet landed after the rains. Change it to 'It failed this season, when the fleet crossed the bar.'",
-    "At 'the warden's clerk paid mine early', Rema paid Parukutty (F520), so change it to 'the Justice paid mine early.' At 'I asked the physician's old key where it opened' (convenient knowledge), replace it with 'Rema's roll took down the physician's account: the postern, the eleventh step.' List the Kolathur fair, Lata and the step knowledge in new-facts.json.",
-    "Repetitive prose: 'Nobody in the court breathed', 'A breath went through the garrison', 'let her own breath out' and 'let their breath out together' all reuse the same beat. Keep one and replace the others with concrete sounds (spear butts, Janu's tray). Cut the second 'her brows lifted a little'. Replace 'A welt of his own heat rose on his hand through hers' with a plain touch: his thumb finds the blister strip and stays."
+    "Continuity. 'forty-two odiyans, in their own mud-coloured cloth': Neela is one of the 42 and stands on the roof, so change it to 'forty-one of the Company'. 'She had gone round the parrot newel for a year' overstates her time at the fort; change it to 'since her first week' (F449, F514).",
+    "Ending. 'counted two nights, and found the number was not very large' is a reflective fade, not a reveal or an interrupted action. End on the queen's 'It is the cruelest thing about me.' Then add one concrete act that makes the next chapter necessary: Neela goes down to the court and calls the Company by the ram's horn (F898) to tell them the dusk.",
+    "Prose and recap. 'the same hand that had let a kitchen servant's name stay in her memory for six months' points to nothing on the page; tie it to Parukutty's cough, just witnessed. Cut 'Your warden told me at the gate that he holds a paper', since Neela heard it. Trim three of the 'Neela did not' negations to vary the rhythm."
   ],
-  "reader_question": "What will Neela answer the queen at dusk, in the open before the realm, and what will Devan's reading of the writ do to three hundred spears?",
+  "reader_question": "What will Neela answer in front of the whole realm at the dusk before the assault, and will Devan's reading of the writ cost them the spears?",
   "techniques_landed": [
+    13,
     15,
     16
   ],
-  "new_facts_assessment": "new-facts.json is empty, yet the draft adds facts. Lata already on the shelf with Usha's riders fits F883. The queen meeting Asha at the 'Kolathur fair' is a new place name and should be listed. Kamalakshi in the court and Ammu's age in Rema's roll are fine. The 304-spear count and ink-stained fingers are harmless. The queen identifying the eleventh step via 'the physician's old key' is unsupported: Eravi is held and she arrived today. 'Second writ' and 'failed in the spring' conflict with canon. All should be listed or fixed.",
+  "new_facts_assessment": "The Kolathur fair adds texture, is harmless and matches F919. Lata on the shelf matches F883. The queen learning the eleventh step from Rema's roll fits Eravi's confession (F596-598) and is needed. Unsourced: the queen naming 'the bundle your husband carried up and down my hills'. Give a source (Ittan's effects, Muthu's post) or make it an inference.",
   "content_rule_violation": false,
   "failure_modes": [
-    "Narrated-only chemistry",
-    "Romance buried by plot"
+    "Contrived delays"
   ],
-  "average": 3.0,
+  "average": 3.38,
   "minimum": 0.0,
   "passed": false
 }
