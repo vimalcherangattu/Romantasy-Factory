@@ -41,7 +41,7 @@
       }
     },
     "02": {
-      "status": "passed",
+      "status": "edited",
       "revisions": 1,
       "scores": {
         "reader_question": 4.0,
@@ -55,8 +55,19 @@
       },
       "average": 3.5,
       "flags": [],
-      "words": 2809,
-      "minimum": 3.0
+      "words": 2804,
+      "minimum": 3.0,
+      "style": {
+        "words": 2804,
+        "banned_hits": {},
+        "ai_tell_hits": {},
+        "ai_tells_per_1000": 0.0,
+        "top_4gram": "and he did not",
+        "top_4gram_count": 3,
+        "longest_paragraph_words": 102,
+        "em_dashes_per_1000": 0.0,
+        "reading_ease": 93.1
+      }
     },
     "03": {
       "status": "passed",
@@ -1345,9 +1356,13 @@
     {
       "at": "2026-10-25T21:29:47",
       "event": "done: S8 line edit ch 1"
+    },
+    {
+      "at": "2026-10-25T21:30:20",
+      "event": "done: S8 line edit ch 2"
     }
   ],
-  "updated_at": "2026-10-25T21:29:47",
+  "updated_at": "2026-10-25T21:30:20",
   "midpoint_chapter": 16,
   "continuity_attempts": 0,
   "continuity_last_errors": null
