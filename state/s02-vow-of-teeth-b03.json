@@ -562,7 +562,7 @@
       "minimum": 4.0
     },
     "31": {
-      "status": "revised",
+      "status": "failed",
       "revisions": 1,
       "scores": {
         "reader_question": 3.0,
@@ -1244,8 +1244,12 @@
     {
       "at": "2026-10-25T20:30:03",
       "event": "done: S6 revise ch 31"
+    },
+    {
+      "at": "2026-10-25T20:31:11",
+      "event": "done: S5 critique ch 31"
     }
   ],
-  "updated_at": "2026-10-25T20:30:03",
+  "updated_at": "2026-10-25T20:31:11",
   "midpoint_chapter": 16
 }
