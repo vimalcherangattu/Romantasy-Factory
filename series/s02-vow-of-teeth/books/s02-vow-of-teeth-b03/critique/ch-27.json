@@ -10,29 +10,31 @@
     "continuity": 0.0
   },
   "reasons": {
-    "reader_question": "The queen hands the first-name choice to them, and Devan's glance from his dead pen hand to the lamp points at Neela. Specific and loaded.",
-    "change": "Devan learns Asha died comforted, Vellan is dead, and the crown hands the Company its charter question. Knowledge, relationship and power all move.",
-    "romance_movement": "There is a new reason here: one shared grief that neither has to forgive. 'Neither would put down and neither would carry alone' lands it.",
-    "shown_chemistry": "Her hand checking his shoulder 'as though checking a latch', the held wrist and the two-armed hold all work. The care is shown through action, not narrated.",
-    "character_logic": "Vellan, Neela and the queen behave plausibly. Devan standing and walking down hours after a spear through the lung strains belief, and nobody objects.",
-    "stakes_and_cost": "The queen states the roll's price exactly: bound to the vote, first name the crown answers to. The next decision clearly costs.",
-    "prose": "Mostly clean and concrete. There is overtelling ('He was dead. There would be no coming back'), a muddled forgiveness line and an echoed 'lighter than expected' beat.",
-    "continuity": "Geography conflicts with F902. The narrow place is at the top of the cut, below Kettamala, yet they carry Vellan 'down' to the lower court. Vellan (~40) is called 'old man'."
+    "reader_question": "The final beat is specific: the queen hands them the roll, and the reader asks who signs first and what it binds.",
+    "change": "Asha's last words reframe six years of guilt, Vellan dies for good, and the crown leaf is mostly ash.",
+    "romance_movement": "This is the first grief they hold together with nothing to forgive. The reason is new, and the beat's romance_change lands.",
+    "shown_chemistry": "The touch on his shoulder like checking a latch, the pulse fingers and the two-armed hold all show it through action.",
+    "character_logic": "Devan insisting on the door and Vellan spending his last breath on the debt both follow. Devan walking afterwards is barely earned.",
+    "stakes_and_cost": "The queen states the price plainly: the first name binds the signer to the vote and makes her the crown's first target.",
+    "prose": "The quiet-cut beats repeat, the weep paragraph explains the value shift outright, and there are some clichés ('ghost of a laugh').",
+    "continuity": "'Under his breastbone where the spear had passed' conflicts with F942/F946: the spear went under the right collarbone."
   },
   "fixes": [
-    "Continuity, at 'They carried him down on the door. Devan walked.' and 'The cut ran down in the new light': the narrow place is at the top of the cut, below Kettamala (F902, F931). Make the procession climb on to the lower court, e.g. 'They carried him up the last of the cut'. Also replace both 'the old man' with 'the big man'. Vellan is about forty (bible: 39).",
-    "Overtelling, at 'He was dead. There would be no coming back from it.': the beat's 'stays dead' has leaked onto the page as narration. Cut both sentences and end the scene on the bird line. Also, at 'I'm not forgiving you,' the line reads as refusal. Make it 'Don't ask me to forgive you. There's nothing there to forgive.' Devan's literal voice then stays clear.",
-    "Echo dilution, at 'I thought it would be a harder thing to see them go': this repeats Vellan's 'heavier to put down. It isn't' in the same chapter, and so does 'It is very light.' Give the queen her own register of cruel facts. For example, she names the four unready guards' pages as the four she can still be made to read. Keep 'light' for Vellan and the lamp."
+    "Continuity: 'from the place under his breastbone where the spear had passed' puts the wound in the wrong place (F942, F946: under the right collarbone). Change it to 'from under his right collarbone, where the spear had passed', or make the image non-anatomical ('from the place the spear had emptied').",
+    "Endless monologue and narrated shift: 'He had told himself it was because he could not bear to be failed again' and 'But Asha had not been failed in the dark' spell out the guilt-to-grace turn. Cut both sentences. Keep the concrete chain (rail, thumb of lamplight, 'Dev's there') and go straight to the weeping, so the reader makes the turn.",
+    "Technique 10 is only half landed and the quiet beats repeat. 'The cut was very still' and 'The cut was so quiet Devan could hear the river' echo each other, so cut the first. Then give Neela one costed disclosure back after 'You gave her a light', such as the count of three hundred and ten she kept alone at that stair foot, and have Devan answer it."
   ],
-  "reader_question": "Who will write the first name on the Company's roll, knowing it makes her the crown's first name to answer?",
+  "reader_question": "Who will write the first name on the Company's roll, knowing it binds her to the vote and makes her the crown's first answer?",
   "techniques_landed": [
-    10,
     19,
     20
   ],
-  "new_facts_assessment": "The roll-price fact (F959) is necessary, consistent with the bible's book 3 ending and well placed. The stair fact (F960) moves the bear from the landing (beat, F954) to the eleventh-step grate. That is logically better, since the postern is where he entered (F592) and Asha descending would meet the landing first. It contradicts F954, so F954 must be retired explicitly.",
+  "new_facts_assessment": "The new-facts file is empty, but the draft adds facts: the guard-shed door; a fifteen-year-old Thurai boy at Vellan's feet; the Company at thirty-odd; the crown leaf now in a green-lacquered leather case, not the red lacquer chest of F834 (state it was moved or match it); twenty-six leaves 'burned of themselves', which fits F940/F957. All are necessary, and all should be listed.",
   "content_rule_violation": false,
-  "failure_modes": [],
+  "failure_modes": [
+    "Endless monologue",
+    "Narrated-only chemistry"
+  ],
   "average": 3.38,
   "minimum": 0.0,
   "passed": false
