@@ -1,19 +1,8 @@
 {
   "facts": [
     {
-      "category": "object",
-      "fact": "After the Company's council, Kuttu hung the great ram's horn (F898) on the well post in Kettamala's lower court; Neela takes it down and sounds it to summon the Company.",
-      "since": "s02-vow-of-teeth-b03 ch 22"
-    },
-    {
       "category": "knowledge",
-      "fact": "The queen knows Devan carries the payment writ because her people watch him; she names it as the bundle he carries up and down her hills.",
-      "since": "s02-vow-of-teeth-b03 ch 22"
-    },
-    {
-      "category": "plot",
-      "fact": "Neela tells the Company she will answer the queen at dusk the day after tomorrow, and will tell them her intended words that night at the cairn fire first.",
-      "since": "s02-vow-of-teeth-b03 ch 22"
+      "fact": "Usha saw Devan's oilcloth bundle in his pack on the hill and told the queen what such a bundle holds; this is how the queen knows he carries the payment writ. The queen confesses sealing it privately on the west stair, so Devan's reading loses its surprise, and Neela decides it must still be read in the open."
     }
   ]
 }

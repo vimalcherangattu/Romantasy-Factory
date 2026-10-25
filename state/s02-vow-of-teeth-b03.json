@@ -398,7 +398,7 @@
       "minimum": 0.0
     },
     "22": {
-      "status": "continuity-fix",
+      "status": "revised",
       "revisions": 3,
       "scores": {
         "reader_question": 4.0,
@@ -414,7 +414,7 @@
       "flags": [
         "needs-owner"
       ],
-      "words": 3009,
+      "words": 3226,
       "minimum": 0.0,
       "continuity_fixes": [
         "Neela learned the refusing guards' names in the drying shed (ch 12, ch 15), not on the sea-stair landing, where she met no one. FIX: Say the drying shed."
@@ -1294,9 +1294,13 @@
     {
       "at": "2026-10-25T20:47:03",
       "event": "done: S7 continuity"
+    },
+    {
+      "at": "2026-10-25T20:47:58",
+      "event": "done: S6 revise ch 22"
     }
   ],
-  "updated_at": "2026-10-25T20:47:03",
+  "updated_at": "2026-10-25T20:47:58",
   "midpoint_chapter": 16,
   "continuity_attempts": 1,
   "continuity_last_errors": 2
