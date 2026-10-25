@@ -4,38 +4,38 @@
     "change": 4.0,
     "romance_movement": 4.0,
     "shown_chemistry": 4.0,
-    "character_logic": 4.0,
+    "character_logic": 3.0,
     "stakes_and_cost": 4.0,
-    "prose": 3.0,
-    "continuity": 0.0
+    "prose": 4.0,
+    "continuity": 5.0
   },
   "reasons": {
-    "reader_question": "Specific and earned: the first ladder hits as new pairs stagger at thorn-pricks. Can they fight bound? The unread writ adds a second hook.",
-    "change": "The night-guard is mostly freed and twenty-six crown leaves burn. Neela now holds eleven leashes she refused. The queen is bound to Usha.",
-    "romance_movement": "New reason: a public, chosen declaration before the realm. Her refusal is rooted in him never using the word.",
-    "shown_chemistry": "The hand turned palm-up, the 'Left side' / 'I know where it is' exchange, and his silence on request. All responsive, nothing narrated.",
-    "character_logic": "Smart choices: Neela confesses she holds eleven pages, and the queen defers the writ. Neela's speech logic about 'the one word' is muddled.",
-    "stakes_and_cost": "Every cost is named and paid on the page: welts, Bhaskaran's raw fingers, the queen's sting, and the leash Neela keeps on her knee.",
-    "prose": "Strong voice and lines ('it would not balance'). The queen's look restates the beat's mechanics as narration, and one promise dangles.",
-    "continuity": "Thilak burned his own page and intake roll (F724). Neela cannot save twenty-nine rolls and hold eleven unburned pages from the forty."
+    "reader_question": "The ladder strikes mid-learning, so the reader leaves asking whether the newly bound pairs can fight. Pair-specific dread lands, especially Kuttu and Bhaskaran.",
+    "change": "Neela refuses command, the queen loses the crown leaf, twenty-nine bonds form, and Neela ends up holding eleven leashes she swore off.",
+    "romance_movement": "A new reason: she names Devan publicly as chosen, giving the word as freedom. His answer is one touch, plus 'Left side', which pays off chapter 23.",
+    "shown_chemistry": "He touches her hand and she turns it into his palm. His flat 'Twenty-eight' and his hand on her shoulder show attunement without narration.",
+    "character_logic": "Neela collecting the members' pages right after refusing to hold any has no stated reason. The irony feels arranged rather than chosen.",
+    "stakes_and_cost": "Every naming has a price on the page: Bhaskaran's raw fingers, the queen's welt, intake rolls, eleven held pages. The thorn drill makes iron imminent.",
+    "prose": "Lines like 'Unseen is owned' are quotable and AI tells are minimal. The page-count paragraph is clotted arithmetic, and 'as if the air had weight' is stock.",
+    "continuity": "No conflicts with the bible. Thilak's page in the gate basket, Pavi as otter, Kandan's Mathoor mother and the four unready guards all match."
   },
   "fixes": [
-    "At \"Twenty-nine,\" Devan said, beside her\" there is a continuity conflict: Thilak burned his page and intake roll at the Resin House (F724), so only thirty-nine pages exist. Change the count to twenty-eight saved rolls. Add one line when Pavi names to Thilak, or at the count, noting that Thilak named with no page left to burn. Keep eleven unburned so the total still matches F967.",
-    "At \"I said the one word that could have caged me\" Neela's logic is muddled. Once she said the word, he could no longer cage her alone, and 'told him my name instead' blurs the timeline. Rewrite so the order is clear: he saw her turn on their wedding night and held the word for weeks without using it, then she chose to give it to him herself. Freedom is the second act.",
-    "At \"Neela saw the old woman weigh it, a realm's worth\" the narration restates the beat ('could have looked away... Looking would cost her'). Cut those three sentences. Show the choice through the body instead: her thumb pressing the leaf marked Nineteen, her eyes going once to the river and coming back, a breath. Also cut the dangling promise 'Neela would do that herself, by name, tonight', or pay it off when she names the eleven."
+    "At 'On top lay the members' own Resin House pages, handed to her for the dusk', the handover is author-arranged. Give a reason Neela chose at the cairn fire, such as the Company voting that one keeper hold the pages so every burning is seen and counted. Have her agree knowing the risk. Then 'I hold the leash I refused' becomes the cost of her own decision.",
+    "At 'Thirty-nine pages had been left to burn, now that Thilak's was gone', the arithmetic stalls the climax. Reduce it to two clean sentences: forty pages, Thilak's already gone, twenty-eight burned, eleven whole under her hand. Cut the restated 'twenty-eight Company names, twenty-eight villages' unless it carries a new image.",
+    "At 'crossed to a spear-captain with a scarred chin, a stranger', a crown man with his back to the shelf cannot see her turn. Show him breaking Devan's count-sixty order by turning round to face her, which is a choice with cost. Match his description to F936, or log the change in new-facts."
   ],
-  "reader_question": "Now that twenty-six guards and twenty-nine of the Company bleed for each other, can they hold the shelf against the ladders without the shared wounds breaking the line?",
+  "reader_question": "Can the newly bound odiyans and their partners hold the shelf against iron when every cut lands twice?",
   "techniques_landed": [
     14,
     18,
     22
   ],
-  "new_facts_assessment": "The draft declared none, yet several facts appear. Neela will read the eleven pages back at first light. A heavy-set guard who refused in Kodiyur names to a grey-moustached spear-captain. The queen is told Haran's men would break on hearing the writ. All fit the canon and F1041-F1044 already record most of them. The Company roll count is the exception: twenty-nine saved plus eleven held is forty pages, which conflicts with F724. The grey-moustached captain also reads as Haran; distinguish him.",
+  "new_facts_assessment": "new-facts is empty, but the draft adds four facts. (1) The heavy-set guard pairs with a scarred-chin spear-captain, while F936 has grey moustache: reconcile or log. (2) Haran's spears face the road, yet a crown captain must watch his guard turn; show him turning by choice. (3) All thirty guards appear present, though F883/F924 put one in Kodiyur; state that she came with the column. (4) Members hand their pages to Neela; log it.",
   "content_rule_violation": false,
   "failure_modes": [
-    "Contrived delays"
+    "Irrational behaviour to extend plot"
   ],
-  "average": 3.38,
-  "minimum": 0.0,
-  "passed": false
+  "average": 4.0,
+  "minimum": 3.0,
+  "passed": true
 }
