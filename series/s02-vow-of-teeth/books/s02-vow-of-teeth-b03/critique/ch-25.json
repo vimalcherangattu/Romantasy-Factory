@@ -6,34 +6,34 @@
     "shown_chemistry": 4.0,
     "character_logic": 4.0,
     "stakes_and_cost": 4.0,
-    "prose": 4.0,
+    "prose": 3.0,
     "continuity": 0.0
   },
   "reasons": {
-    "reader_question": "Clear and urgent: two bodies dragged toward death, a tower coming, and the narrow place left open behind the line.",
-    "change": "Devan is crippled and the share is paid in full. Vellan leaves his post. The line holds, but its back is open.",
-    "romance_movement": "The cost of their bond is finally paid in blood. His belief that his back is empty breaks on the page.",
-    "shown_chemistry": "Paw laid with sheathed claws, forehead to jaw, and her breath he has counted: all responsive action, none narrated.",
-    "character_logic": "Dropping the spear for the marma strike fits him. Vellan breaking his own vow to fill the gap fits him too.",
-    "stakes_and_cost": "The hand is lost, the share drags her down, and leaving the narrow place costs the cut. Every choice is paid for.",
-    "prose": "Concrete and well paced. One omniscient intrusion, 'the last time Devan's hand would do that'. Several 'He did not' openings echo.",
-    "continuity": "The heavy-set guard was paired with a grey-moustached crown spear-captain in ch24. Striking first is already claimed in ch8. Self-naming dating is wrong."
+    "reader_question": "Clear and urgent: both pulled toward death, the tower coming and the narrow place left open behind the line.",
+    "change": "Devan loses his right hand and his marma strike for good. Vellan abandons his post. The line goes from holding to falling.",
+    "romance_movement": "The agreed cost is paid in full for the first time. 'His back was not empty' is a new emotional state, but his choice to take her in with him is underplayed.",
+    "shown_chemistry": "She fills his dropping left side, rests her paw with claws sheathed, and presses her forehead to his jaw. The care is responsive and unnarrated.",
+    "character_logic": "Stepping into the gap and feinting with the spear before the marma strike is smart. 'That was new' about striking first ignores ch8.",
+    "stakes_and_cost": "The loss is irreversible and the share drags her down with him. The cost of the next decision passes to others while he lies helpless.",
+    "prose": "Strong concrete images, but the Resin House line repeats, the hand-won't-close beat recurs four times, and consecutive paragraphs open with 'He'.",
+    "continuity": "'Eight years he had slept with his back to stone' conflicts with F189 (six years). Devan 'watched with his back turned' contradicts ch24."
   },
   "fixes": [
-    "'A heavy-set woman from the queen's thirty had gone' conflicts with ch24, where she named to a grey-moustached crown spear-captain. Make the faltering guard one whose pairing ch24 never showed, for example a slight guard from Usha's riders, described as unnamed and paired with Vasu at dusk. Cut 'said no in Kodiyur and yes at dusk' and 'the green sashes' identifier. Update the new-facts entry to match.",
-    "'It was the thing he had never done in a fight' and 'He struck first now' conflict with F799 (he struck first with a spear in ch8). They also clash with this chapter's own opening thrust. Reframe as the first time since the ford that he uses the two-finger marma strike, openly, before the garrison. Keep the 'always an answer' idea for the marma hand only.",
-    "'They had bought that on the night of the new moon' and 'agreed to it in the dark of a bed' contradict canon. The self-naming happened at dusk in the Resin House yard, two nights past the new moon (F749). Rewrite to 'bought that at dusk in the Resin House yard'. Also cut the omniscient 'It was the last time Devan's hand would do that. He did not know it.' and let the dead hand at the end carry it."
+    "Continuity break: 'For eight years he had slept with his back to stone' contradicts F189, where the wall-at-back habit dates from Asha's death (six years) and bad sleep from the ford (eight). Rewrite the closing pair as 'Since Asha, there had been a wall behind him and nothing on the other side of it.' Drop the second number so the final line lands on one clean image.",
+    "Continuity and logic: 'and he had watched it from the wall with his back turned' contradicts ch24, where Devan stood beside Neela on the shelf during the naming. It is also impossible to watch with your back turned. Change it to 'he had seen it from Neela's side on the shelf'. Also cut 'for forty nights' from 'He had listened to it across a bed'. Use 'since their wedding night' instead.",
+    "Prose repetition: 'they had bought it at dusk in the Resin House yard' appears twice. Cut the second instance to 'It was the cost, and neither of them had understood how it would feel.' Trim the dead-hand beat to two strong instances; keep 'like a post stuck in a field' and 'Two of them had found a man's neck'. Vary the consecutive 'He tried...' and 'He looked...' paragraph openings. Replace 'That was new' with a line that respects his ch8 first strike."
   ],
-  "reader_question": "Can either Devan or Neela live until dawn, now that the share runs both ways and the narrow place is open behind the line?",
+  "reader_question": "With the spear through Devan and the share dragging Neela down, can either of them live until dawn, now that the narrow place is open behind the line?",
   "techniques_landed": [
     6,
     14,
     19
   ],
-  "new_facts_assessment": "Pairing the heavy-set guard with Vasu contradicts ch24 and F936, which paired her with a grey-moustached crown spear-captain. The draft's claim that ch24 left her pairing unspecified is false. The injury facts and Vellan leaving his post are necessary and consistent, and the open narrow place is good pressure for ch26.",
+  "new_facts_assessment": "F945: the slight guard paired with Vasu is necessary and plausible, since ch24 left most pairings unshown. Vasu's ducks earn some liking before the threat. Retire F941 as stated. F946 (dead right hand, last marma strike) matches the bible's book 3 loss. F947 (welts) is consistent with the wound-share. F948 (Vellan leaves the narrow place) is a good escalation and fits his coming death at the pass. One unlisted new claim, 'forty nights' across a bed, understates a marriage of many months and should go.",
   "content_rule_violation": false,
   "failure_modes": [],
-  "average": 3.5,
+  "average": 3.38,
   "minimum": 0.0,
   "passed": false
 }
