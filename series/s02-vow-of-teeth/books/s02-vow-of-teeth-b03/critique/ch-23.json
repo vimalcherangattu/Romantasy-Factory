@@ -1,0 +1,40 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 3.0,
+    "stakes_and_cost": 3.0,
+    "prose": 3.0,
+    "continuity": 0.0
+  },
+  "reasons": {
+    "reader_question": "Clear question: what will Neela answer now that her answer and the assault fall at the same dusk? The command offer itself is never named.",
+    "change": "Devan moves from commanding by the disc to winning a council vote. The line is set and the assault hour moves.",
+    "romance_movement": "The left-side ask is new: trust given as tactics, tied to day eleven and to the wound-share cost. A real step forward.",
+    "shown_chemistry": "Her two fingers on his ribs and 'That's why you' are responsive action. The pit scene does not lean on narration.",
+    "character_logic": "The vote gambit is smart. But 'Six of us hold something' contradicts 'I hold nothing', and Devan votes on his own plan.",
+    "stakes_and_cost": "Vellan alone at eleven paces and Neela feeling his wounds both carry cost. The 'early' assault moves only hours, which blunts it.",
+    "prose": "Clean and concrete overall. 'He found' appears three times, the held-breath line winks at a banned phrase, and the bearing-it beat is told.",
+    "continuity": "Koman's 'Not tonight, as the queen's spies said' conflicts with F922 (two nights). The pit memory conflicts with F347."
+  },
+  "fixes": [
+    "Continuity error at \"Not tonight, as the queen's spies said\". The queen's spies (F922) put the assault two nights out, so 'tonight' is wrong, and 'tomorrow at dusk' is barely early. Rewrite Koman's lines: 'The spies said after dark, the second night. They'll come at dusk, while the light's still in our eyes.' Keep 'The queen's spies were wrong' about the hour. Then sharpen Neela's line so the answer and the assault now share one moment.",
+    "Continuity error at \"I held my breath so she wouldn't know I was awake\". F347 has Devan awake and drilling. Neela came down the north steps; she did not stand at the lip. Rewrite: 'She came down those steps on the eleventh day, put her fingers at the back of my neck, counted three, and told me my left dropped. I didn't turn. I held my breath.' Also fix 'Six of us hold something' to 'Five of you hold something'.",
+    "Repetitive tension at \"I'll say it when I've earned saying it\". This repeats Vellan's ch5 deferral (F782) word for word, so the refusal has no new reason. Cut that sentence. Give a new reason tied to tonight: 'Not on the night before a fight. You'd carry it up the cut instead of your spear.' Then keep 'After. If there is an after.' Separately, cut two of the three 'He found' constructions."
+  ],
+  "reader_question": "Now that her answer to the queen and the Thurai assault fall at the same dusk, what will Neela choose, and will she have time to choose at all?",
+  "techniques_landed": [
+    5,
+    25
+  ],
+  "new_facts_assessment": "Haran and Sethu are necessary and consistent. The 5-1 vote is fine, but Devan's 'six of us hold something' miscounts. Kamalakshi at about nineteen is acceptable and she is in no romantic scene. 'Your knife' is unexplained: when did she get Vellan's knife? Vellan holding the cut alone fits F880 and his B3 death.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Repetitive tension"
+  ],
+  "average": 3.12,
+  "minimum": 0.0,
+  "passed": false
+}
