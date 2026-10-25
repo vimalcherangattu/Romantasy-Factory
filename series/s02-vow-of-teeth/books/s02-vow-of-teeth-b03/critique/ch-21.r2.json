@@ -1,41 +1,39 @@
 {
   "scores": {
     "reader_question": 4.0,
-    "change": 3.0,
-    "romance_movement": 3.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
     "shown_chemistry": 4.0,
-    "character_logic": 3.0,
+    "character_logic": 4.0,
     "stakes_and_cost": 4.0,
-    "prose": 4.0,
-    "continuity": 0.0
+    "prose": 3.0,
+    "continuity": 5.0
   },
   "reasons": {
-    "reader_question": "Rope or light: will Devan's writ wound the queen, and will the spears turn at noon? The chapter states this question outright.",
-    "change": "Neela moves from secret temptation to shared, voiced ground. Knowledge barely moves; the plan was mostly set in ch20.",
-    "romance_movement": "Asking to be watched by lamplight is a new and earned step. The dawn division of labour repeats ch20's 'step behind me' terms.",
-    "shown_chemistry": "Responsive acts carry it: the palm turned up, 'I won't make it smaller', the stitches kissed, the breath held still so she can count it.",
-    "character_logic": "Both disclosures fit the bible. The seal exchange ('I kept one too') is muddled, and Devan citing Chathu as the sleeve-keeper is odd.",
-    "stakes_and_cost": "Devan prices the reading exactly: ninety-eight defenders, three hundred spears, and possibly the pass.",
-    "prose": "Clean, concrete, few tells, varied rhythm. A few lines are over-explained ('It was what she had needed').",
-    "continuity": "'Counted it for forty nights' conflicts with counting since B1 ch6 across three books. The seal secrecy line also muddles B1 ch32's shared match."
+    "reader_question": "Specific: the writ is read after her no, before three hundred untested spears, and she may or may not name herself.",
+    "change": "Knowledge and power both shift: mutual temptations confessed, Asha's note given up, and Devan cedes the first word at the gate.",
+    "romance_movement": "The reason is new. Being seen becomes a request, and the refusal is split by order: her no first, then his writ.",
+    "shown_chemistry": "Thumb resting on the blister, the cracked laugh and the lamp kept lit show attraction through response, not narration.",
+    "character_logic": "Her logic is sharp: the queen must hear the no before the wax. Devan's flat cost-count fits his voice.",
+    "stakes_and_cost": "Costs are named and accepted: the first word, possibly the spears and the pass, and the price of not knowing.",
+    "prose": "Clean and concrete, but over length, with echoes ('plainly' x3, 'as he gave her everything' x2) and ch20's 'short, cracked' laugh repeated.",
+    "continuity": "Ages, hollow, bundle, stitches, pebble, counts and the Asha note match the bible; one 'last night' timing word is loose."
   },
   "fixes": [
-    "'as she had counted it for forty nights' (continuity). She has counted his hitch since book 1 ch6, through two books. Change it to 'as she had counted it since the first week of her marriage, and only lately told him why', or simply 'as she had counted it every night she could'.",
-    "'For weeks that seal had ridden in his own sleeve' through 'I kept one too' (character logic, confusing). Neela saw the seal match in book 1 ch32, so the secrecy reads wrong. Either cut the exchange, or make it specific: he kept back from her that he had moved the seal out of his sleeve into the bundle, and he says so now. Also change 'was Chathu' to the queen or Ittan.",
-    "'I'll stand a step behind you. I won't speak for you.' (Repetitive tension: ch20 already set 'you don't answer for me' and 'a step behind'). Cut the restated term to one line and spend the beat on something new. For example, Neela decides whether she will say aloud at the gate what she is, and Devan must accept not knowing her choice until noon."
+    "Length. 'On our side, forty-two odiyans, twenty-two of her own riders' begins a dawn scene that pushes the chapter past about 3,300 words, over the style range. Cut the troop arithmetic to one line ('Ninety-eight against fourteen hundred') and trim Devan's recap of the Asha's-room lie to two sentences. Keep the handed-back 'Thank you for telling me' intact.",
+    "Prose echo. 'He gave her the answer as he gave her everything' repeats 'He said it plainly, as he said everything' a page earlier, and 'plainly' appears three times. 'It came out short and cracked' echoes ch20's 'short, cracked laugh'. Keep one 'plainly'. Recast the laugh with a new image specific to Devan, such as a sound he seems not to recognise as his own.",
+    "Timing and unlogged fact. 'You told me last night you'd say nothing' points to the ch20 cistern-housing talk, which happened by day. Change it to 'yesterday, at the cistern'. Either log 'the one she had chosen' (Neela as a self-chosen name) in new-facts.json or cut it to 'Her own'."
   ],
-  "reader_question": "When Devan reads the queen's payment writ at the gate, will he use it as a weapon to break her or only as a light, and will her three hundred spears turn on them?",
+  "reader_question": "When Devan reads the queen's writ aloud after Neela's refusal, will it cost them the crown spears and the pass, and will Neela say at the gate what she is?",
   "techniques_landed": [
     9,
     10,
     20
   ],
-  "new_facts_assessment": "The defender count is consistent with F801, F818 and F896, as long as none of the six dead was an odiyan; confirm that the Kalladi woman was garrison. Adding the gift seal to the bundle is needed for the dawn inventory and fits F071 and F744. The gate term largely duplicates F907 (ch20) and adds only 'the writ is my account'. Merge it with F907 rather than logging it as new.",
+  "new_facts_assessment": "The draft lists no new facts but adds several. The queen sat on a crate in the fish shed. Devan wrote his refusal on an arrow-cart lid and hit a post for an hour. Muthu asked on the shelf whether refusing hurt. Devan let Neela think the note was about sparring. All are texture and consistent. One is a backstory claim that must be logged or cut: 'Neela' is 'the one she had chosen'.",
   "content_rule_violation": false,
-  "failure_modes": [
-    "Repetitive tension"
-  ],
-  "average": 3.12,
-  "minimum": 0.0,
-  "passed": false
+  "failure_modes": [],
+  "average": 4.0,
+  "minimum": 3.0,
+  "passed": true
 }

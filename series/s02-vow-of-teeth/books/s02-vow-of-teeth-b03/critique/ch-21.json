@@ -6,36 +6,34 @@
     "shown_chemistry": 4.0,
     "character_logic": 4.0,
     "stakes_and_cost": 4.0,
-    "prose": 4.0,
-    "continuity": 0.0
+    "prose": 3.0,
+    "continuity": 5.0
   },
   "reasons": {
-    "reader_question": "Clear twin gap: will reading the writ cost the spears and pass, and will Neela name herself? The soft pebble ending blurs the hook.",
-    "change": "Knowledge shifts (Asha's note, the exact cost of the reading) and Neela's refusal gains its real reason; power stays largely level.",
-    "romance_movement": "Being seen becomes something she asks for, which is new. The 'step behind' split repeats ch20's term almost word for word.",
-    "shown_chemistry": "Strong responsive action: thumb on the blister, the lamp kept lit on request, the handed-back line. 'Nobody had ever said that to her' narrates.",
-    "character_logic": "Both act like smart versions of themselves. Devan's 'I let you think' strains his never-lie rule but is owned as a confession.",
-    "stakes_and_cost": "Devan gives the cost in numbers: the spears, the pass, men who go home. Her self-naming at the gate carries a stated, open price.",
-    "prose": "Concrete and controlled, no banned phrases. Echoes ('the lamp showed her' twice, 'a long moment' twice) and an on-the-nose thesis speech afterwards.",
-    "continuity": "'I've carried it six years' conflicts with F113/F115/F418: Devan first found Asha's last note in book 1 ch12."
+    "reader_question": "Specific: the writ is read after her no, before three hundred untested spears, and she may or may not name herself.",
+    "change": "Knowledge and power both shift: mutual temptations confessed, Asha's note given up, and Devan cedes the first word at the gate.",
+    "romance_movement": "The reason is new. Being seen becomes a request, and the refusal is split by order: her no first, then his writ.",
+    "shown_chemistry": "Thumb resting on the blister, the cracked laugh and the lamp kept lit show attraction through response, not narration.",
+    "character_logic": "Her logic is sharp: the queen must hear the no before the wax. Devan's flat cost-count fits his voice.",
+    "stakes_and_cost": "Costs are named and accepted: the first word, possibly the spears and the pass, and the price of not knowing.",
+    "prose": "Clean and concrete, but over length, with echoes ('plainly' x3, 'as he gave her everything' x2) and ch20's 'short, cracked' laugh repeated.",
+    "continuity": "Ages, hollow, bundle, stitches, pebble, counts and the Asha note match the bible; one 'last night' timing word is loose."
   },
   "fixes": [
-    "Continuity: 'I've carried it six years and read it to nobody' contradicts F115/F418, which have Devan first finding the note in Asha's chest in book 1 ch12. Change it to 'I've kept it since the day we opened her chest, and read it to nobody.' Keep 'She wrote this the week she found the first token.'",
-    "Repetitive tension: 'You stand at my back. You don't speak for me.' and 'A step behind.' restate the ch20 term (F907) nearly verbatim. Make the term new. For example, Neela sets the order: he reads the writ only after she has refused, so the queen hears her no before her guilt. Devan accepts that this costs him the first word. This also seeds F918.",
-    "On-the-nose thesis: the passage from 'For twenty-one years being seen meant someone had a hold on me' to 'So the fish shed was wrong' explains the arc's theme aloud. Cut it to one concrete beat. She touches the unbandaged scars at her throat, finds nothing taken, and says only 'I don't want her roof.' Let the reader draw the conclusion."
+    "Length. 'On our side, forty-two odiyans, twenty-two of her own riders' begins a dawn scene that pushes the chapter past about 3,300 words, over the style range. Cut the troop arithmetic to one line ('Ninety-eight against fourteen hundred') and trim Devan's recap of the Asha's-room lie to two sentences. Keep the handed-back 'Thank you for telling me' intact.",
+    "Prose echo. 'He gave her the answer as he gave her everything' repeats 'He said it plainly, as he said everything' a page earlier, and 'plainly' appears three times. 'It came out short and cracked' echoes ch20's 'short, cracked laugh'. Keep one 'plainly'. Recast the laugh with a new image specific to Devan, such as a sound he seems not to recognise as his own.",
+    "Timing and unlogged fact. 'You told me last night you'd say nothing' points to the ch20 cistern-housing talk, which happened by day. Change it to 'yesterday, at the cistern'. Either log 'the one she had chosen' (Neela as a self-chosen name) in new-facts.json or cut it to 'Her own'."
   ],
-  "reader_question": "Will Devan's open reading of the queen's writ at the gate cost them the crown spears and the pass, and will Neela say aloud what she is?",
+  "reader_question": "When Devan reads the queen's writ aloud after Neela's refusal, will it cost them the crown spears and the pass, and will Neela say at the gate what she is?",
   "techniques_landed": [
     9,
     10,
     20
   ],
-  "new_facts_assessment": "F1039 pays off the note withheld in book 1, and Asha's 'Say it anyway' feeds Neela's open choice. It is necessary, but the dialogue's 'six years' conflicts with the note being found in B1 ch12, so the line must change. The box staying under the bed while Muthu used the room is plausible but unstated. F1040 is consistent with the chapter's evening action and correctly retires F1036. F744 and F910 align.",
+  "new_facts_assessment": "The draft lists no new facts but adds several. The queen sat on a crate in the fish shed. Devan wrote his refusal on an arrow-cart lid and hit a post for an hour. Muthu asked on the shelf whether refusing hurt. Devan let Neela think the note was about sparring. All are texture and consistent. One is a backstory claim that must be logged or cut: 'Neela' is 'the one she had chosen'.",
   "content_rule_violation": false,
-  "failure_modes": [
-    "Repetitive tension"
-  ],
-  "average": 3.5,
-  "minimum": 0.0,
-  "passed": false
+  "failure_modes": [],
+  "average": 4.0,
+  "minimum": 3.0,
+  "passed": true
 }
