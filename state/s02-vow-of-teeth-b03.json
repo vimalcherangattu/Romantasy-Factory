@@ -366,7 +366,7 @@
       }
     },
     "13": {
-      "status": "passed",
+      "status": "edited",
       "revisions": 2,
       "scores": {
         "reader_question": 4.0,
@@ -380,8 +380,19 @@
       },
       "average": 4.0,
       "flags": [],
-      "words": 2987,
-      "minimum": 3.0
+      "words": 2977,
+      "minimum": 3.0,
+      "style": {
+        "words": 2977,
+        "banned_hits": {},
+        "ai_tell_hits": {},
+        "ai_tells_per_1000": 0.0,
+        "top_4gram": "at the resin house",
+        "top_4gram_count": 3,
+        "longest_paragraph_words": 88,
+        "em_dashes_per_1000": 0.0,
+        "reading_ease": 96.7
+      }
     },
     "14": {
       "status": "passed",
@@ -1510,9 +1521,13 @@
     {
       "at": "2026-10-25T21:35:55",
       "event": "done: S8 line edit ch 12"
+    },
+    {
+      "at": "2026-10-25T21:36:29",
+      "event": "done: S8 line edit ch 13"
     }
   ],
-  "updated_at": "2026-10-25T21:35:55",
+  "updated_at": "2026-10-25T21:36:29",
   "midpoint_chapter": 16,
   "continuity_attempts": 0,
   "continuity_last_errors": null
