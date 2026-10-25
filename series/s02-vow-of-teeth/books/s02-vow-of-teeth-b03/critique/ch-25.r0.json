@@ -1,0 +1,39 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 4.0,
+    "stakes_and_cost": 4.0,
+    "prose": 4.0,
+    "continuity": 0.0
+  },
+  "reasons": {
+    "reader_question": "Clear and urgent: two bodies dragged toward death, a tower coming, and the narrow place left open behind the line.",
+    "change": "Devan is crippled and the share is paid in full. Vellan leaves his post. The line holds, but its back is open.",
+    "romance_movement": "The cost of their bond is finally paid in blood. His belief that his back is empty breaks on the page.",
+    "shown_chemistry": "Paw laid with sheathed claws, forehead to jaw, and her breath he has counted: all responsive action, none narrated.",
+    "character_logic": "Dropping the spear for the marma strike fits him. Vellan breaking his own vow to fill the gap fits him too.",
+    "stakes_and_cost": "The hand is lost, the share drags her down, and leaving the narrow place costs the cut. Every choice is paid for.",
+    "prose": "Concrete and well paced. One omniscient intrusion, 'the last time Devan's hand would do that'. Several 'He did not' openings echo.",
+    "continuity": "The heavy-set guard was paired with a grey-moustached crown spear-captain in ch24. Striking first is already claimed in ch8. Self-naming dating is wrong."
+  },
+  "fixes": [
+    "'A heavy-set woman from the queen's thirty had gone' conflicts with ch24, where she named to a grey-moustached crown spear-captain. Make the faltering guard one whose pairing ch24 never showed, for example a slight guard from Usha's riders, described as unnamed and paired with Vasu at dusk. Cut 'said no in Kodiyur and yes at dusk' and 'the green sashes' identifier. Update the new-facts entry to match.",
+    "'It was the thing he had never done in a fight' and 'He struck first now' conflict with F799 (he struck first with a spear in ch8). They also clash with this chapter's own opening thrust. Reframe as the first time since the ford that he uses the two-finger marma strike, openly, before the garrison. Keep the 'always an answer' idea for the marma hand only.",
+    "'They had bought that on the night of the new moon' and 'agreed to it in the dark of a bed' contradict canon. The self-naming happened at dusk in the Resin House yard, two nights past the new moon (F749). Rewrite to 'bought that at dusk in the Resin House yard'. Also cut the omniscient 'It was the last time Devan's hand would do that. He did not know it.' and let the dead hand at the end carry it."
+  ],
+  "reader_question": "Can either Devan or Neela live until dawn, now that the share runs both ways and the narrow place is open behind the line?",
+  "techniques_landed": [
+    6,
+    14,
+    19
+  ],
+  "new_facts_assessment": "Pairing the heavy-set guard with Vasu contradicts ch24 and F936, which paired her with a grey-moustached crown spear-captain. The draft's claim that ch24 left her pairing unspecified is false. The injury facts and Vellan leaving his post are necessary and consistent, and the open narrow place is good pressure for ch26.",
+  "content_rule_violation": false,
+  "failure_modes": [],
+  "average": 3.5,
+  "minimum": 0.0,
+  "passed": false
+}
