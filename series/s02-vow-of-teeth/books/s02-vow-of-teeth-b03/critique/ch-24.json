@@ -1,39 +1,41 @@
 {
   "scores": {
     "reader_question": 4.0,
-    "change": 4.0,
+    "change": 5.0,
     "romance_movement": 4.0,
     "shown_chemistry": 4.0,
-    "character_logic": 3.0,
-    "stakes_and_cost": 4.0,
+    "character_logic": 4.0,
+    "stakes_and_cost": 5.0,
     "prose": 4.0,
-    "continuity": 5.0
+    "continuity": 0.0
   },
   "reasons": {
-    "reader_question": "The ladder strikes mid-dusk with new pairs still staggering, so the question is sharp; the unread writ adds a second live hook.",
-    "change": "The queen gives up her leash in public, twenty-six guards free themselves, and Neela binds herself openly. Power and relationships both shift.",
-    "romance_movement": "The public naming of Devan as chosen is a new reason and a new state. The 'Left side' callback pays off chapter 23.",
-    "shown_chemistry": "His fingers on her bound hand, the hitch in his breath, and 'I know where it is' all show response rather than narration.",
-    "character_logic": "Neela vows to hold no one's page, then ends the dusk still holding Kamalakshi's unburned leaf and never notices.",
-    "stakes_and_cost": "Each naming has a visible price: raw fingertips, leaves burning, the queen's sting, and welts at the thorn. The cost is clear but restated too often.",
-    "prose": "Clean and concrete with few tells. The wound-count line is repeated almost verbatim, and very still, very quiet and very slowly echo.",
-    "continuity": "Consistent with F869 (Nineteen), F940 (leaves), F936 to F939, F924 and the scar paste. The thirty can be reconciled through the queen's column."
+    "reader_question": "The first ladder strikes just as new pairs stagger at thorn-cuts, so the question of whether they can fight bound is sharp and immediate.",
+    "change": "Crown leaf mostly burned, queen bound to Usha, Neela refuses command publicly; power, knowledge and relationships all shift.",
+    "romance_movement": "Public naming of Devan as chosen is new and costly; the 'Left side' callback pays off ch23 without repeating it.",
+    "shown_chemistry": "Fingers on her bound hand, Devan's open-choice question, 'Left side'/'I know where it is' show it; one narrated line explains it.",
+    "character_logic": "Queen deferring the writ for the line's sake and Neela confessing the Kamalakshi leash are smart; Devan's public question is shrewd pressure.",
+    "stakes_and_cost": "Every naming has a visible price: Bhaskaran's raw fingers, the queen's welt, Neela holding a page she swore off.",
+    "prose": "Concrete and varied, with strong lines; one muddled ledger paragraph and a few told beats ('louder than a speech') weaken it.",
+    "continuity": "'Four unready, two unbound, and the rest tied' leaves only Kamalakshi unnamed among the Company, conflicting with F967 (eleven of forty unnamed) and the beat's 'most'."
   },
   "fixes": [
-    "At 'Her leaf lay unburned on Neela's knee.' (character logic): Neela has just sworn 'I won't hold your pages'. Have her see this at once and tell Kamalakshi aloud that she will read the leaf to her at first light, by daylight as the rule requires. Until then she holds the leash she refused, and she should say so. Log it as a new fact.",
-    "In the court refusal, at 'The offer was kind. I'm going to refuse it.': the beat's value shift starts at 'tempted', but no temptation is on the page. Before she refuses, add one concrete pull. For example, she sees Kamalakshi or Lata and thinks how safe a page-free, unseen guard would keep them tonight. Then she refuses anyway, so the refusal costs her something.",
-    "At 'Each wound counted twice, once as blood and once as a welt': this repeats the queen's speech almost word for word. Cut it and replace it with one image from the shelf, such as a burning leaf beside a face she can name. Also vary 'very still', 'very quiet' and 'very slowly', and make clear what 'It stings' refers to."
+    "'Four unready, two unbound, and the rest tied': continuity conflict with F967 and the beat ('most of the forty'). Show that several Company members also hold back, perhaps naming two such as Meenu. Leave their Resin House pages unburned on Neela's knee too. Change the accounting line to fit, and let Neela's promise to Kamalakshi cover all of them: 'At first light I read every one of these back.'",
+    "'She saw Pavi's leaf curl to black beside Thilak's face': this is a muddled, told ledger paragraph. The leaf is on her knee, not beside Thilak, and the logic is hard to follow. Replace it with one concrete image and a choice. For example, she sets each saved intake roll under the board in order and counts the pairs aloud to Devan, who repeats the count back.",
+    "'In front of three hundred spears, that was louder than a speech.': this narration labels the gesture instead of showing a response. Cut the line. Show Neela turning her bound hand so his fingers rest against her palm, or have Kuttu's grin fade on the wall. Also revise 'No one in the green sashes had been called anything in years but a number': Usha volunteered her own name in ch2 (F747)."
   ],
-  "reader_question": "Now that the ladders have come, can the newly bound pairs hold the shelf when every wound on one bleeds the other?",
+  "reader_question": "Can the newly bound odiyans and their partners hold the shelf when every cut lands twice?",
   "techniques_landed": [
     14,
     18,
     22
   ],
-  "new_facts_assessment": "new-facts.json is empty, but the draft adds facts. Bhaskaran's resin-raw fingertips fit the rule and are useful. The heavy-set refuser naming a crown spear-captain is fine. The queen in the north-range guest room is harmless. 'It stings' implies a partner feels the other's resin burn, which risks meaning Devan feels Neela's every dusk; say what stings. Kamalakshi's leaf staying in Neela's keeping is a consequential fact and must be logged and addressed.",
+  "new_facts_assessment": "All four are necessary and consistent. Kamalakshi's page dramatises the ledger handover rule (daylight reading) and Neela's vow. Bhaskaran's raw fingers fit the resin burn rule. Usha's torn seam explains the queen's welt (F951). Neela's pull toward the offer earns the refusal. The draft also implies members handed Neela their pages. That makes her a temporary holder for every member who doesn't name, so it must match the count of unnamed members.",
   "content_rule_violation": false,
-  "failure_modes": [],
-  "average": 4.0,
-  "minimum": 3.0,
-  "passed": true
+  "failure_modes": [
+    "Narrated-only chemistry"
+  ],
+  "average": 3.75,
+  "minimum": 0.0,
+  "passed": false
 }

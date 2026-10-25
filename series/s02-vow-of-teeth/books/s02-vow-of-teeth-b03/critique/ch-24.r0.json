@@ -1,42 +1,41 @@
 {
   "scores": {
     "reader_question": 4.0,
-    "change": 4.0,
+    "change": 5.0,
     "romance_movement": 4.0,
     "shown_chemistry": 4.0,
-    "character_logic": 3.0,
-    "stakes_and_cost": 4.0,
-    "prose": 3.0,
+    "character_logic": 4.0,
+    "stakes_and_cost": 5.0,
+    "prose": 4.0,
     "continuity": 0.0
   },
   "reasons": {
-    "reader_question": "The ladder lands as new pairs are still flinching at thorns. The question of whether bound odiyans can fight is concrete and urgent.",
-    "change": "Power moves from crown to self-binding. The queen gives up reading pages and takes a wound-share. Neela refuses command in public.",
-    "romance_movement": "The public naming of Devan as chosen is a new public act, with a new reason: freedom as choosing. Devan's response is restrained.",
-    "shown_chemistry": "His fingers touch her bound hand without taking it, and 'Left side' and 'I know where it is' call back the pit. Shown, not told.",
-    "character_logic": "Neela and the queen are sharp. Sanu choosing Kandan has no setup. Lata 'did not come to the shelf' yet stands by its stakes.",
-    "stakes_and_cost": "Each naming has a visible price: rogue status, shared wounds and a thinner line. The queen pays too. The cost is concrete.",
-    "prose": "Strong moments are undercut by garbled sentences (Bhaskaran's wife, 'sealed into a sash her wounds'), 'the weight of', and a sea-side room in a hill fort.",
-    "continuity": "Company members' namings burn leaves in the queen's crown case, which holds only the thirty guards. The 'last leaf' burns while four unready guards keep pages."
+    "reader_question": "The first ladder strikes just as new pairs stagger at thorn-cuts, so the question of whether they can fight bound is sharp and immediate.",
+    "change": "Crown leaf mostly burned, queen bound to Usha, Neela refuses command publicly; power, knowledge and relationships all shift.",
+    "romance_movement": "Public naming of Devan as chosen is new and costly; the 'Left side' callback pays off ch23 without repeating it.",
+    "shown_chemistry": "Fingers on her bound hand, Devan's open-choice question, 'Left side'/'I know where it is' show it; one narrated line explains it.",
+    "character_logic": "Queen deferring the writ for the line's sake and Neela confessing the Kamalakshi leash are smart; Devan's public question is shrewd pressure.",
+    "stakes_and_cost": "Every naming has a visible price: Bhaskaran's raw fingers, the queen's welt, Neela holding a page she swore off.",
+    "prose": "Concrete and varied, with strong lines; one muddled ledger paragraph and a few told beats ('louder than a speech') weaken it.",
+    "continuity": "'Four unready, two unbound, and the rest tied' leaves only Kamalakshi unnamed among the Company, conflicting with F967 (eleven of forty unnamed) and the beat's 'most'."
   },
   "fixes": [
-    "At 'In the queen's lap, one leaf caught' (after Pavi), the leaf mechanics break the world rule (Worldbuilding collapse): Company pages are not in the crown case. Burn Company entries from Chathu's forty fresh leaves on Neela's lap. Burn crown leaves only when a guard names. Cut 'Thirty-seven' or make it a correct guard count. Change 'The last leaf in the case went up' so the four unready guards' leaves remain. Keep the intake-roll thread unburned (F012).",
-    "At 'You're the one who said my name when you knew it', Sanu's choice of Kandan has no setup (Irrational behaviour). Add one line showing when Kandan learned and used Sanu's name, such as on the road from the shingle or at the cairn fire. Also fix 'Four of the thirty did not come to the shelf at all' against 'She stood by the stakes'. Say they stayed back from the naming line instead.",
-    "Rewrite the garbled sentences. Make 'his wife's name, Neela knew, already said to the cairn fire' state plainly that Bhaskaran told his wife's name to the fire first. Untangle 'give a girl she had sealed into a sash her wounds'. Clarify 'no one had put a name on the cost aloud, only the cost'. Replace 'sea-side guest room' with a Kettamala room. Change 'the weight of the hall' to the court, without the AI tell."
+    "'Four unready, two unbound, and the rest tied': continuity conflict with F967 and the beat ('most of the forty'). Show that several Company members also hold back, perhaps naming two such as Meenu. Leave their Resin House pages unburned on Neela's knee too. Change the accounting line to fit, and let Neela's promise to Kamalakshi cover all of them: 'At first light I read every one of these back.'",
+    "'She saw Pavi's leaf curl to black beside Thilak's face': this is a muddled, told ledger paragraph. The leaf is on her knee, not beside Thilak, and the logic is hard to follow. Replace it with one concrete image and a choice. For example, she sets each saved intake roll under the board in order and counts the pairs aloud to Devan, who repeats the count back.",
+    "'In front of three hundred spears, that was louder than a speech.': this narration labels the gesture instead of showing a response. Cut the line. Show Neela turning her bound hand so his fingers rest against her palm, or have Kuttu's grin fade on the wall. Also revise 'No one in the green sashes had been called anything in years but a number': Usha volunteered her own name in ch2 (F747)."
   ],
-  "reader_question": "Can the newly bound odiyans fight the assault now hitting the shelf without bleeding each other to death?",
+  "reader_question": "Can the newly bound odiyans and their partners hold the shelf when every cut lands twice?",
   "techniques_landed": [
     14,
     18,
     22
   ],
-  "new_facts_assessment": "Moving the answer to the afternoon is necessary and consistent with ch23. Keeping the writ unread is well motivated. Bhaskaran applying resin fits F502 but the line about his wife is garbled. Sanu to Kandan lacks any prior link. The 'Thirty-seven' count and the blackening intake-roll thread risk breaking F012. Clarify that the intake roll survives.",
+  "new_facts_assessment": "All four are necessary and consistent. Kamalakshi's page dramatises the ledger handover rule (daylight reading) and Neela's vow. Bhaskaran's raw fingers fit the resin burn rule. Usha's torn seam explains the queen's welt (F951). Neela's pull toward the offer earns the refusal. The draft also implies members handed Neela their pages. That makes her a temporary holder for every member who doesn't name, so it must match the count of unnamed members.",
   "content_rule_violation": false,
   "failure_modes": [
-    "Worldbuilding collapse",
-    "Irrational behaviour to extend plot"
+    "Narrated-only chemistry"
   ],
-  "average": 3.25,
+  "average": 3.75,
   "minimum": 0.0,
   "passed": false
 }
