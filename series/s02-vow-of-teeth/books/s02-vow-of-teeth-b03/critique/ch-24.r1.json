@@ -3,40 +3,39 @@
     "reader_question": 4.0,
     "change": 4.0,
     "romance_movement": 4.0,
-    "shown_chemistry": 3.0,
-    "character_logic": 3.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 4.0,
     "stakes_and_cost": 4.0,
     "prose": 3.0,
     "continuity": 0.0
   },
   "reasons": {
-    "reader_question": "The ladder lands on pairs just learning the share, so the question is sharp and specific. The writ's deferral adds a second thread.",
-    "change": "The queen gives up reading pages and is bound to Usha. Twenty-six guards go rogue and the Company becomes a line of pairs.",
-    "romance_movement": "Her public 'I chose him' is a new reason and a new stage. Devan's answering touch is earned, though he stays largely passive.",
-    "shown_chemistry": "The ragged breath, the fingers at her bound hand and the 'Left side' callback land. Most of the romance is carried by Neela's speech.",
-    "character_logic": "The queen choosing to look is excellent. Devan's silent non-reading of the writ breaks the term set in ch 21, and no reason is given.",
-    "stakes_and_cost": "Every naming has a named price: rogue status, bleeding a partner, burned leaves. The queen pays in her own body.",
-    "prose": "Mostly clean and concrete. Lapses: 'Nobody breathed', 'crack like a snapped bone', a garbled otter-chin sentence, and the 'she hated' device used twice.",
-    "continuity": "Kuttu speaks in shape after his dusk naming, and he and Sanu use palms and thumbs. This breaks F004."
+    "reader_question": "Specific and earned: the first ladder hits as new pairs stagger at thorn-pricks. Can they fight bound? The unread writ adds a second hook.",
+    "change": "The night-guard is mostly freed and twenty-six crown leaves burn. Neela now holds eleven leashes she refused. The queen is bound to Usha.",
+    "romance_movement": "New reason: a public, chosen declaration before the realm. Her refusal is rooted in him never using the word.",
+    "shown_chemistry": "The hand turned palm-up, the 'Left side' / 'I know where it is' exchange, and his silence on request. All responsive, nothing narrated.",
+    "character_logic": "Smart choices: Neela confesses she holds eleven pages, and the queen defers the writ. Neela's speech logic about 'the one word' is muddled.",
+    "stakes_and_cost": "Every cost is named and paid on the page: welts, Bhaskaran's raw fingers, the queen's sting, and the leash Neela keeps on her knee.",
+    "prose": "Strong voice and lines ('it would not balance'). The queen's look restates the beat's mechanics as narration, and one promise dangles.",
+    "continuity": "Thilak burned his own page and intake roll (F724). Neela cannot save twenty-nine rolls and hold eleven unburned pages from the forty."
   },
   "fixes": [
-    "'Kuttu looked up at Bhaskaran, across the stakes. \"Does it get easier?\"' This is worldbuilding collapse. Kuttu, Sanu, Pavi and Thulasi turned at the naming, so they cannot speak or use palms and thumbs until dawn. Give Bhaskaran the question, asked to the animal at his feet. Make Kuttu's 'palm flat on a stake' a paw on a stake point, Sanu's 'thumb on a flint' a pad on flint, and Thulasi's calf a foreleg.",
-    "'He stood with his palm flat over the oilcloth' breaks the ch 21 term (F912, F917): Devan said he would read the writ at the gate once Neela had answered. Silence here reads as plot-driven. Add one line from Devan in which he asks the queen whether she wants it read before or after the ladders. Her deferral then becomes a choice he concedes openly, which also keeps his never-lies voice.",
-    "'Each wound halved, and each death half-given' misstates F009 and F627. The original wound stays whole, the partner gets a welt, and a mortal wound drags the other toward death. Rewrite along the lines of 'Each wound counted twice, once as blood and once as a welt; each death able to pull a second after it.' Also cut 'Nobody breathed' and recast the confusing 'The otter's chin, white, was still a woman's chin tonight.'"
+    "At \"Twenty-nine,\" Devan said, beside her\" there is a continuity conflict: Thilak burned his page and intake roll at the Resin House (F724), so only thirty-nine pages exist. Change the count to twenty-eight saved rolls. Add one line when Pavi names to Thilak, or at the count, noting that Thilak named with no page left to burn. Keep eleven unburned so the total still matches F967.",
+    "At \"I said the one word that could have caged me\" Neela's logic is muddled. Once she said the word, he could no longer cage her alone, and 'told him my name instead' blurs the timeline. Rewrite so the order is clear: he saw her turn on their wedding night and held the word for weeks without using it, then she chose to give it to him herself. Freedom is the second act.",
+    "At \"Neela saw the old woman weigh it, a realm's worth\" the narration restates the beat ('could have looked away... Looking would cost her'). Cut those three sentences. Show the choice through the body instead: her thumb pressing the leaf marked Nineteen, her eyes going once to the river and coming back, a breath. Also cut the dangling promise 'Neela would do that herself, by name, tonight', or pay it off when she names the eleven."
   ],
-  "reader_question": "Can the newly bound pairs hold the shelf against the ladders without each wound dragging their partners down, and what is in the queen's unread writ?",
+  "reader_question": "Now that twenty-six guards and twenty-nine of the Company bleed for each other, can they hold the shelf against the ladders without the shared wounds breaking the line?",
   "techniques_landed": [
     14,
     18,
     22
   ],
-  "new_facts_assessment": "The Kandan/Sanu cart-road naming is necessary to motivate Sanu's choice and is plausible on the riders' route in, but it arrives as late backstory; plant it one beat earlier if possible. The leaf mechanism (witness entries burn, intake rolls survive, four crown leaves remain) is consistent with F012 and F940. The head-count needs checking: F883 and F924 imply only 29 of the thirty guards are present (one stayed in Kodiyur), yet the chapter accounts for all thirty (26 named plus 4 unready). The narration also misstates the wound-share as 'halved' (see fixes).",
+  "new_facts_assessment": "The draft declared none, yet several facts appear. Neela will read the eleven pages back at first light. A heavy-set guard who refused in Kodiyur names to a grey-moustached spear-captain. The queen is told Haran's men would break on hearing the writ. All fit the canon and F1041-F1044 already record most of them. The Company roll count is the exception: twenty-nine saved plus eleven held is forty pages, which conflicts with F724. The grey-moustached captain also reads as Haran; distinguish him.",
   "content_rule_violation": false,
   "failure_modes": [
-    "Worldbuilding collapse",
-    "Irrational behaviour to extend plot"
+    "Contrived delays"
   ],
-  "average": 3.12,
+  "average": 3.38,
   "minimum": 0.0,
   "passed": false
 }
