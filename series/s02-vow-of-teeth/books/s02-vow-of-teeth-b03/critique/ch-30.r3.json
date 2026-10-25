@@ -1,0 +1,41 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 5.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 4.0,
+    "stakes_and_cost": 4.0,
+    "prose": 4.0,
+    "continuity": 5.0
+  },
+  "reasons": {
+    "reader_question": "Clear and specific: will the queen sign at noon, and is the smoke from her window the crown leaf burning?",
+    "change": "Leverage becomes open record, the Company votes its charter, Devan leaves office for membership, and the last unbound guards self-name.",
+    "romance_movement": "The public roll entry and the rejection of Kettamala are new. But the 'back not wall, where the vote sends her' wording replays the book 2 shelter vow.",
+    "shown_chemistry": "Shown through action: her fingers close on his sleeve, she takes his good hand before the hall, and she turns her back unasked and gives him names.",
+    "character_logic": "Devan spending the lever and putting the charter to a vote fits his arc. The queen's one-night request is motivated by the case.",
+    "stakes_and_cost": "Rema names the cost exactly (party to every Company act, no office to shelter behind). The charter vote itself costs nothing.",
+    "prose": "Concrete and mostly tight with good lines. A few clunks: the queen's 'I find it isn't so', explanatory tags, and two consecutive 'He' paragraph openers.",
+    "continuity": "Consistent with F435, F680, F682-683, F910/F982, F957 and F970. 'Kept it from Neela for weeks' is loose but not a conflict."
+  },
+  "fixes": [
+    "At 'Behind her when she wants a back, beside her when she doesn't, and never in front of her like a wall' (Repetitive tension): this replays Devan's book 2 shelter vow (F671), including 'wherever the vote sends her'. Rewrite the declaration around what is new. Name the roll, the ink beside Asha's name, the crown record and his being party to every Company act. Echo the old vow in a half-line at most, so the reason it changes is new.",
+    "At 'All five. No one wanted a clause cut.' (Stakes without depth): the charter vote passes without friction, so it costs nothing. Have one clause contested aloud by a named member with a fresh grievance, for example the pass contract given the dead on the shelf or the eleven unnamed pages. Resolve it by amendment or a shifted hand before Kuttu counts. The unanimous result is then earned.",
+    "At 'A realm is not safe by what it has not seen. I held that it was. I find it isn't so.' (prose): the queen's turn reads repetitive and stiff. Cut it to two lines in her cruel-fact voice, ending on 'It is only blind.' Also vary the consecutive openers 'He could feel the Company' and 'He knew what he was spending', and resolve whether Sajan names and to whom."
+  ],
+  "reader_question": "Will the queen sign the Company's charter at noon, and is the smoke from her lit window the crown leaf burning by her own hand?",
+  "techniques_landed": [
+    9,
+    16,
+    20
+  ],
+  "new_facts_assessment": "Most facts are necessary and consistent. The borrowed-sash bailiffs fit F471/F987. The twelve years of hating resin fit F041 (age 20 to 32), though 'the start of her mornings' sits oddly with a scent she smears at dusk. The footstep-naming is characterful and keeps the witness rule intact. The watch-house hall matches the bible's 'new hall above the pass'. Kamalakshi's 'sat up with a lamp' line is not established on the page; it is harmless but should be seeded or kept vague. The cairn-fire rice is a good relief valve.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Repetitive tension"
+  ],
+  "average": 4.25,
+  "minimum": 4.0,
+  "passed": true
+}
