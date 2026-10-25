@@ -2,38 +2,40 @@
   "scores": {
     "reader_question": 4.0,
     "change": 4.0,
-    "romance_movement": 5.0,
-    "shown_chemistry": 5.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
     "character_logic": 4.0,
     "stakes_and_cost": 4.0,
     "prose": 4.0,
-    "continuity": 0.0
+    "continuity": 5.0
   },
   "reasons": {
-    "reader_question": "The queen's 'Who signs first' is specific. The suspense is about cost, not outcome, since readers expect Neela to sign.",
-    "change": "Devan gains Asha's last words, Vellan dies, the leads share one grief, and the roll and its price come into play.",
-    "romance_movement": "The new reason is a shared grief with nothing to forgive. 'Half of it's mine now' changes how they carry the past.",
-    "shown_chemistry": "Both arms round him, hands checking his shoulder like a latch, his hand turning on her wrist. All shown through action.",
-    "character_logic": "Devan's insistence on going up and Vellan's choice of witnesses fit. 'Don't ask me to forgive you' answers a request she never made.",
-    "stakes_and_cost": "Nirmala names the first signer's price: bound to the vote and the crown's first answer. Devan's dead hand sharpens it.",
-    "prose": "Clean and concrete with no banned phrases. Small echoes ('small' twice, 'her mouth worked'), and 'mouth went dry' is stock.",
-    "continuity": "They carry Vellan 'down the cut' from its top to Kettamala's lower court, but the fort lies up the cut (F902)."
+    "reader_question": "The queen's closing 'Who signs first' poses a clear question. The pen-and-lamp beat points at Neela, so suspense is about terms and cost, not who.",
+    "change": "Asha's last words reach Devan, Vellan dies, the Company counts its dead, and the queen hands the roll to Neela.",
+    "romance_movement": "The reason is new: one shared grief with nothing to forgive. 'Half of it's mine now' turns the lookout guilt into something they carry together.",
+    "shown_chemistry": "Her hand checking his shoulder 'like a latch', the turned wrist, and her two-handed hold all show care through action. Nothing is narrated as chemistry.",
+    "character_logic": "Devan insisting on going up is earned. Walking the last stretch with a lung-and-plexus wound strains belief and costs him nothing on the page.",
+    "stakes_and_cost": "The queen states the price of the first name plainly, and the dead hand frames who can write. The decision is deferred, so the cost is spoken, not paid.",
+    "prose": "Clean and concrete with strong images. 'Very' is overused (very small, very low, very lightly, very slowly), and 'said nothing' and 'a long moment' recur.",
+    "continuity": "Consistent with F1017, F1018, F960, F1045, F1047, F957 and F965, the 42-odiyan count, Neela at 21, and Vellan unbound. No conflicts found."
   },
   "fixes": [
-    "'They carried him down the cut on the door' (continuity, geography): the narrow place sits at the top of the cut, and Kettamala's lower court lies further up (F902). Change it to 'up the last of the cut', and make the garrison line the cut above the narrow place.",
-    "'Don't ask me to forgive you.' He wasn't certain (character logic): Neela never asked, so the line reads as a non sequitur. Reword so Devan answers what she said: 'You'll want me to forgive you. There's nothing there to forgive. You gave her a light.' Or let her say 'Forgive me' first, and cut her earlier 'I know.'",
-    "'thirty-odd strong where there had been forty-two' (stakes without depth, Real Losses diluted): about ten odiyans are gone, yet the tile names only Lekha and a drover. Give the Company's dead a few more chalked names, or have Neela's lips move on a count she cannot finish, so the losses carry weight. Also replace 'names in a child's hand' with whose hand it is."
+    "At 'She got as far as the sixth, and then she stopped', the count is muddled. The column already holds Biju, Sankaran, Chami and Rajan from earlier fights, so the sixth name is not the end. Rewrite so she reads down to Sreedhar, the last chalked line, and stops at the bare tile below it, where Vellan and the unchalked Company dead will go. Keep the touch on the last line.",
+    "At 'They carried him up the last of the cut on the door. Devan walked.', the walk costs nothing (Cost Ledger, character logic). A man with a speared lung and cut plexus walks uphill free, and the wound-share is ignored. Add one concrete price: Thankam's stitches seep, and Neela flinches and presses her own collarbone where his wound pulls. Devan sees her flinch and keeps walking anyway.",
+    "At 'It's light,' he said, a little surprised. 'I can see the steps.', the callback is signposted. It lands just pages after Asha's identical line, and the gaze-to-the-sky sentence underlines it. Cut 'His gaze went up, past them, to the top of the cut and the grey sky above it' and 'a little surprised', and let the words stand bare. Also trim 'very' to one use in the chapter."
   ],
-  "reader_question": "Who will write the first name on the Company's roll, and will she accept being the crown's first name to answer?",
+  "reader_question": "Will Neela write her own name first on the Company's roll, and what will binding herself to its vote and to the crown's blame cost her?",
   "techniques_landed": [
     10,
     19,
     20
   ],
-  "new_facts_assessment": "Kamalakshi as runner explains why no one reached Vellan first, and it fits his choice to hold the place unbound. Lekha and Sreedhar on the tile are needed and consistent with F820. The meaning of 310 fits F553 (counted at the stair foot, then blindfolded again) and retires F963's 'never told'. Dropping the year counts is fine.",
+  "new_facts_assessment": "Naming Orma, Kani and Swathi gives the losses weight and fits the thirty-odd-of-forty-two count, so it is necessary. Kandan's square hand is harmless and consistent with F820. The tile scene's internal count is muddled: the column already held earlier dead (Biju, Sankaran, Chami, Rajan), so 'she got as far as the sixth' contradicts the visible list.",
   "content_rule_violation": false,
-  "failure_modes": [],
-  "average": 3.75,
-  "minimum": 0.0,
-  "passed": false
+  "failure_modes": [
+    "Signposted callback (minor)"
+  ],
+  "average": 4.12,
+  "minimum": 4.0,
+  "passed": true
 }
