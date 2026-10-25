@@ -1,0 +1,42 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 3.0,
+    "stakes_and_cost": 4.0,
+    "prose": 3.0,
+    "continuity": 0.0
+  },
+  "reasons": {
+    "reader_question": "The ladder lands as new pairs are still flinching at thorns. The question of whether bound odiyans can fight is concrete and urgent.",
+    "change": "Power moves from crown to self-binding. The queen gives up reading pages and takes a wound-share. Neela refuses command in public.",
+    "romance_movement": "The public naming of Devan as chosen is a new public act, with a new reason: freedom as choosing. Devan's response is restrained.",
+    "shown_chemistry": "His fingers touch her bound hand without taking it, and 'Left side' and 'I know where it is' call back the pit. Shown, not told.",
+    "character_logic": "Neela and the queen are sharp. Sanu choosing Kandan has no setup. Lata 'did not come to the shelf' yet stands by its stakes.",
+    "stakes_and_cost": "Each naming has a visible price: rogue status, shared wounds and a thinner line. The queen pays too. The cost is concrete.",
+    "prose": "Strong moments are undercut by garbled sentences (Bhaskaran's wife, 'sealed into a sash her wounds'), 'the weight of', and a sea-side room in a hill fort.",
+    "continuity": "Company members' namings burn leaves in the queen's crown case, which holds only the thirty guards. The 'last leaf' burns while four unready guards keep pages."
+  },
+  "fixes": [
+    "At 'In the queen's lap, one leaf caught' (after Pavi), the leaf mechanics break the world rule (Worldbuilding collapse): Company pages are not in the crown case. Burn Company entries from Chathu's forty fresh leaves on Neela's lap. Burn crown leaves only when a guard names. Cut 'Thirty-seven' or make it a correct guard count. Change 'The last leaf in the case went up' so the four unready guards' leaves remain. Keep the intake-roll thread unburned (F012).",
+    "At 'You're the one who said my name when you knew it', Sanu's choice of Kandan has no setup (Irrational behaviour). Add one line showing when Kandan learned and used Sanu's name, such as on the road from the shingle or at the cairn fire. Also fix 'Four of the thirty did not come to the shelf at all' against 'She stood by the stakes'. Say they stayed back from the naming line instead.",
+    "Rewrite the garbled sentences. Make 'his wife's name, Neela knew, already said to the cairn fire' state plainly that Bhaskaran told his wife's name to the fire first. Untangle 'give a girl she had sealed into a sash her wounds'. Clarify 'no one had put a name on the cost aloud, only the cost'. Replace 'sea-side guest room' with a Kettamala room. Change 'the weight of the hall' to the court, without the AI tell."
+  ],
+  "reader_question": "Can the newly bound odiyans fight the assault now hitting the shelf without bleeding each other to death?",
+  "techniques_landed": [
+    14,
+    18,
+    22
+  ],
+  "new_facts_assessment": "Moving the answer to the afternoon is necessary and consistent with ch23. Keeping the writ unread is well motivated. Bhaskaran applying resin fits F502 but the line about his wife is garbled. Sanu to Kandan lacks any prior link. The 'Thirty-seven' count and the blackening intake-roll thread risk breaking F012. Clarify that the intake roll survives.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Worldbuilding collapse",
+    "Irrational behaviour to extend plot"
+  ],
+  "average": 3.25,
+  "minimum": 0.0,
+  "passed": false
+}
