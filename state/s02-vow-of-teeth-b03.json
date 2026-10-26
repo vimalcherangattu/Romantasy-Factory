@@ -2088,7 +2088,7 @@
       "event": "done: S8 line edit ch 18"
     }
   ],
-  "updated_at": "2026-10-25T23:07:35",
+  "updated_at": "2026-10-26T19:09:42",
   "midpoint_chapter": 16,
   "continuity_attempts": 1,
   "continuity_last_errors": 3,
@@ -2110,5 +2110,6 @@
     "notes": "series/s02-vow-of-teeth/books/s02-vow-of-teeth-b03/beta-notes-1.md"
   },
   "beta_rounds": 1,
-  "pending_owner_notes": null
+  "pending_owner_notes": null,
+  "cover_tool": "ElevenLabs (FLUX 3 Image)"
 }
