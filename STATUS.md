@@ -1,29 +1,26 @@
 # Status
 
-Last updated: 2026-10-25
+Last updated: 2026-10-27
 
 ## Current state
 - Live on KDP (pen name Anya Kalloor, series The Odiyan Contracts):
   - Vow of Teeth, B0HNPFZT9M
   - Oath of Claws, B0HNT2V324
   - Both ebooks; the ledger has no paperback logged.
-- KDP week of 18 Oct: ebook slots 2/2 used. Week of 25 Oct: 1 ebook + 1 paperback reserved for
-  Any Fool Can Have a Baby, Book 1 (parenting series).
-- Weekly review cap already reached for the week of 19-25 Oct (both Odiyan books reached review).
-- 64 tests pass. Usage to date: 827 calls, 7.87M output tokens (`state/usage.csv`).
+- KDP week of 25 Oct: 1 ebook + 1 paperback reserved for Any Fool Can Have a Baby Book 1
+  (Task Hub still "waiting"); 1 ebook slot free for romantasy. Week of 1 Nov: all free.
+- Week of 26 Oct-1 Nov: no book has reached review yet (cap 1).
+- 64 tests pass. Usage to date: 984 calls, 9.26M output tokens (`state/usage.csv`).
 
 ## In progress
-- s03-bound-till-the-thaw-b01 (Mira Sangla, The Winter Passes): 32/32 chapters, in the S7
-  continuity check. Hand patches applied to ch 19, 21, 25 and 26, then unblocked.
-- s02-vow-of-teeth-b03 (Crown of Night): drafting, around ch 22 of 32. The daytime run was stopped
-  on 21 Oct when the weekend-only rule came in. Queued: s03 b02-b04; s01 archived.
+- s02-vow-of-teeth-b03 (Crown of Night): 32/32 chapters, beta-reader revision round (status
+  revising), then line edit and package. Cover done 27 Oct. Ch 26 and 31 hand-patched 26 Oct.
+- s03-bound-till-the-thaw-b01 (Mira Sangla): 32/32 chapters, S7 continuity check.
+- Queued: s03 b02-b04; s01 archived.
 
 ## Next step
-- Sat night (Sun 25 Oct, 00:52 IST): done. Factory skipped (weekly cap reached); no covers missing.
-- Sun night (Mon 26 Oct, 00:52 IST): new week; factory run, up to 2 passes, stops when a book
-  reaches review.
-- Sun 25 Oct 10:00 IST: the owner's upload slot. Only the parenting Book 1 is planned that week,
-  since no factory book is approved yet.
+- Sat night (Sun 1 Nov, 00:52 IST): factory run, up to 2 passes; Crown of Night is closest to
+  review. Sun 1 Nov 10:00 IST upload slot: no romantasy book approved yet.
 
 ## Known issues
 - The auto-approve / auto-publish change requested on 21 Oct was refused by the permission
