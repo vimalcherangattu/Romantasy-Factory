@@ -1,38 +1,39 @@
-# Continuity report: Crown of Night (book 3, all 32 chapters)
+# Continuity report: Crown of Night (book 3, chapters 1–32)
 
 ## What I checked
 
-- The full text against the series bible: world rules, cast traits, ages and book 3 arc.
-- The continuity facts, including the provisional book 2 and book 3 facts.
-- The book against itself, under each category:
-  - **Names.** Guards First to Fourth, Usha/Ushakumari, Sanu/Chandrika, Kandan of Mathoor, the Kalladi and Neerattu dead.
-  - **Timeline.** Day count from Neela's departure to Rema's arrival, the noon-prick signals, and the assault dusk.
-  - **Magic rules.** Turning after sunset only, return at first light, witness and self-naming mechanics, who faces away at each turning, page burning versus intake rolls.
-  - **Injuries.** Devan's forearm, back, ribs and collarbone wounds and their welts on Neela, burned palms, the dead right hand, Thulasi's leg, the queen's welt from Usha.
-  - **Who knows what.** Usha's and the queen's knowledge of self-naming, Chathu's plain-ink pages, the lookout lamp.
-  - **Objects and places.** The oilcloth bundle, tins of sweets, the crown leaf case, the sea stair, Kettamala's ranges.
-  - **Counts.** Company votes, defender numbers, garrison strength.
+- Names and titles: the Company, the queen's riders (Usha, Sajan, Lata, Sanu), and the garrison and refugees. I checked them against the bible and continuity.json, including the corrections from book 2.
+- Timeline: road days to and from Kodiyur, the noon-signal days, the order of skirmish days, the assault dusk, ages, and the years of the crown sales.
+- Magic rules:
+  - turning only at dusk and back at first light;
+  - witnessing and self-naming (what voids which witness);
+  - wound-share welts that do not open;
+  - which pages burn and where, and the rule for handing back a page.
+- Injuries: Devan's arm and rib wounds, his back cut, his burned palms, the spear and the dead hand, Usha's and the queen's welts, and Thulasi's leg.
+- Who knows what: the surgeon's paring, Chathu's plain ink, the folded-wing bird, Kamalakshi's question, and the raids.
+- Objects and places: the oilcloth bundle, the crown-leaf case, the thirty pages, the 'Sold to the crown' sheet, the warden's chamber, the stairs and ranges at Kettamala, and the queen's room.
+- Headcounts: 42 odiyans, 36 at the gorge, the votes, the namings, and the defenders.
 
 ## Errors found
 
-Eight, all minor:
+Twelve open errors: one major, eleven minor. Full patches are in errors.json.
 
-- **E01 (ch 3):** the vote count is over by one.
-- **E02 (ch 5):** the mirror-man timing is in the wrong order.
-- **E03 (ch 8, 9, 21):** "forty garrison volunteers" plus Muthu's thirty is more than the garrison of about sixty.
-- **E04 (ch 8):** Kandan is surprised that Devan "struck first", though he saw it in chapter 5.
-- **E05 (ch 15):** the sea-stair guard change runs in the opposite direction to Usha's description in chapter 12.
-- **E06 (ch 30):** the queen's quarters move from the north range to the south range.
-- **E07 (ch 32):** the lookout lamp's reason contradicts Vellan's account in chapter 27.
-- **E08 (ch 32):** the door roll is confused with the old plank.
+- **E10 (major).** Ch 29 has Neela "realise" she misread which paper burned at the namings. Ch 24 already shows her seeing it correctly.
+- **Minor errors:**
+  - ch 1: knowledge of the palace surgeon arrives too early (before Muthu's ch 9 warning);
+  - ch 10 and ch 21: the warden's chamber is placed in the north range or on a north stair (it sits at the head of the west stair);
+  - ch 7: the number of times Neela has walked the goat path;
+  - ch 11: wound-share welts are described as blood beads;
+  - ch 16: Kamalakshi's question is misquoted;
+  - ch 16: eight unclaimed crown-leaf pages are not accounted for;
+  - ch 24 and ch 27: the crown-leaf case changes from red to green;
+  - ch 24: the queen's welt is in the wrong place;
+  - ch 26: "thirty knives for thirty years" (the sales ran twenty);
+  - ch 29: the named count is 29 instead of 28, and Thilak is missing from those Chathu could still write;
+  - ch 31: the 'Sold to the crown' sheet appears in the queen's case.
 
-No major errors were found. The rules are kept, no healed wound vanishes, and no character acts on knowledge too early.
+## Noted, not flagged
 
-## Notes, not errors
-
-- Some provisional facts are out of date against the final text:
-  - F807 says four days; chapters 2 and 9 say three.
-  - F877/F880 say Kuttu asked Vellan; the text has Thulasi ("I told the girl once").
-  - F936 says a grey moustache; the text says a scarred chin.
-- The corrected versions are logged in new-facts.json.
-- In chapter 31 the queen does not burn every crown leaf herself (Neela cuts the rolls free and Sajan burns his own). This is a deliberate change already recorded in F998, F999 and F1004, not a continuity slip.
+- **Resin rations.** The pinch ledger across ch 5, 6, 10 and 19 is loose: the gorge pinches and the road pinches are not tracked separately. It never contradicts itself outright.
+- **Geography.** The positions of Kesu's village and the lightning boulder relative to the Thurai lines are vague, but nothing on the page is impossible.
+- **Superseded drafts.** Some provisional facts in continuity.json reflect earlier drafts that the current text has replaced: F798 (forearm vs upper arm), F807 (four days in the gate chamber), and F766 (day-old burn). The text is consistent with itself on these points.
