@@ -1,43 +1,43 @@
 {
   "scores": {
     "reader_question": 4.0,
-    "change": 5.0,
+    "change": 4.0,
     "romance_movement": 4.0,
     "shown_chemistry": 4.0,
     "character_logic": 3.0,
-    "stakes_and_cost": 5.0,
+    "stakes_and_cost": 4.0,
     "prose": 4.0,
     "continuity": 0.0
   },
   "reasons": {
-    "reader_question": "Specific and double-edged: take the queen's knives, or refuse and leave Devan's office priced against her answer.",
-    "change": "The dawn victory becomes a paper victory. A living witness, forty fresh pages and a priced lever flip power to the queen.",
-    "romance_movement": "Devan is absent, but the bond is recast as her only freedom. The lever on his office is a new reason, and the dramatic irony works.",
-    "shown_chemistry": "The thumb welts, cliff-path memory and late prick show the bond through action. The 'cut his chin shaving' callback earns it.",
-    "character_logic": "Neela counts obsessively and waits with a thorn in her fingers, yet mistakes the noon gun for a cart. That is convenient, not character.",
-    "stakes_and_cost": "Every option costs: thirty bleeding pairs, Devan's fort, his right to choose. The rider at dusk puts a clock on it.",
-    "prose": "Clean, concrete, few tells. The queen's cost speech and Usha's motive speech run expository. 'The shed stopped being a shed' lands.",
-    "continuity": "Conflicts with F895: the missed noon signal is set in the sea room for the whole hour. Here it is the drying shed, a quarter hour late."
+    "reader_question": "Clear and specific: will she take the queen's knives, and what happens to Devan's fort now the rider reaches him first?",
+    "change": "The paper victory collapses. The queen is a live witness, Chathu's forty are hers, and Neela loses the initiative to a deadline at the pass.",
+    "romance_movement": "Devan is absent, but his office now becomes a lever. Her bond is reframed as her only freedom, and she pays for it with his hour.",
+    "shown_chemistry": "The withheld thumb-prick and the late three beads show care through action. The chin-shaving welt memory is specific, not narrated.",
+    "character_logic": "The thorn choice and the swallowed Chathu question are smart. But she ignores the queen's open Thurai promise and the by-leave link to Nellimala.",
+    "stakes_and_cost": "Both answers cost: yes buys Devan's fort, no keeps it from him. She chooses to make him wait an hour and owns it.",
+    "prose": "Concrete, varied and quotable ('You are the page'). No banned phrases. A few stacked 'She...' openings and slightly long recall paragraphs.",
+    "continuity": "The queen's 'promise to the Thurai sea lords' conflicts with F1030 ('to her own people') and with the treaty's collapse at B3 ch1. It is undeclared."
   },
   "fixes": [
-    "At 'Today she was a quarter hour late, and there was no word': continuity conflict with F895, which has the queen keep Neela the whole hour. Keep the queen in the shed past the hour, so Neela pricks only after the water-clock would have turned. Flag F895's 'sea room' for S7 to correct to the drying shed. Also align 'saluted him fist by fist at the gate' with F683, which places it in the hall.",
-    "At 'A cart on the quay, Neela thought, and let it go': irrational behaviour. A counter holding a thorn would know the gun. Make it a choice: she feels the gun, knows it, and keeps her hand still. Pricking in front of the queen would show her exactly where the lever bites. The miss then costs Devan by her own decision, which serves the beat's crack better.",
-    "At 'reached for the thought and the queen's calm voice went on over it': contrived delay. The POV drops a clue with no reason. Give a concrete reason: Neela half-forms the question about Chathu's grey fingertips and decides not to voice it, because saying it tells the queen what she is checking. Keep the clue live (F870) by choice, not by drift."
+    "At 'I have made a promise to the Thurai sea lords, years ago': this is a continuity conflict with F1030, and the treaty already collapsed when the fleet landed. Restore 'a promise to my own people, which I may not break. Ask me another day.' If the Thurai version must stay, list it in new-facts. Make it a present obligation, not the dead treaty, and give Neela a visible reaction.",
+    "At 'Neela waited for the rest to come, and the queen watched it not come': this is irrational behaviour. Neela carries by-leave lines tying the folded bird to Nellimala's boats. Let the link land: her own village, by the queen's leave. Then have her choose silence, as she does with the Chathu question, because naming Nellimala now hands the queen her birth village as a lever. Use one short paragraph.",
+    "At 'He wept for the ones who died': none of the forty are dead, so the line reads as an error. Change it to 'He wept for your Ammu, he tells me' (consistent with F839), or cut it. Also add one line in the dawn scene showing each guard chose who stayed for her reading, keeping the ch15 promise about the room."
   ],
-  "reader_question": "Will Neela take command of the queen's page-free night-guard, and what will refusing cost Devan, who gets the same offer first?",
+  "reader_question": "Will Neela take command of the queen's page-free knives to buy Devan back Kettamala, when he may already have answered for himself?",
   "techniques_landed": [
     3,
     12,
     17,
     22
   ],
-  "new_facts_assessment": "Usha warning the queen before the theft (F1028) is necessary and recasts ch15's open lock fairly. The spray slot and thirty years are harmless texture. The queen's unbreakable promise fits the Thurai treaty. The queen missing her audience is fine but sits in the drying shed against F895's sea room. Mistaking the gun for a cart is unnecessary and weakens Neela.",
+  "new_facts_assessment": "new-facts.json is empty, but the draft adds facts. First, the queen's promise is now to the Thurai sea lords; this conflicts with F1030 and the B3 ch1 treaty collapse. Second, 'Chathu wept for the ones who died' is unsupported, because none of the forty are dead. Third, the cliff-footholds line varies F1029's spray slot; this is harmless. Fourth, all twenty-two hear every reading, though ch15 promised a chosen room; this is unaddressed. The fresh-page rule, Usha as Nineteen, Sanu as Chandrika, and the hour-late prick all match the facts.",
   "content_rule_violation": false,
   "failure_modes": [
     "Irrational behaviour to extend plot",
     "Contrived delays"
   ],
-  "average": 3.62,
+  "average": 3.38,
   "minimum": 0.0,
   "passed": false
 }
