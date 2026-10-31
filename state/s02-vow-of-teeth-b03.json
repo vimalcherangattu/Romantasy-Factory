@@ -785,7 +785,7 @@
       ]
     },
     "26": {
-      "status": "passed",
+      "status": "edited",
       "revisions": 1,
       "scores": {
         "reader_question": 4.0,
@@ -799,18 +799,18 @@
       },
       "average": 4.0,
       "flags": [],
-      "words": 2769,
+      "words": 2757,
       "minimum": 3.0,
       "style": {
-        "words": 2450,
+        "words": 2757,
         "banned_hits": {},
         "ai_tell_hits": {},
         "ai_tells_per_1000": 0.0,
-        "top_4gram": "said it in the",
-        "top_4gram_count": 2,
-        "longest_paragraph_words": 116,
+        "top_4gram": "a man who had",
+        "top_4gram_count": 3,
+        "longest_paragraph_words": 115,
         "em_dashes_per_1000": 0.0,
-        "reading_ease": 94.4
+        "reading_ease": 94.2
       },
       "owner_instructions": [
         "'Good hand' and 'flat' check (owner fix 6, pattern). Change: replace any 'good hand' or 'the good one' with 'his left' or with the action. Keep 'flat' only for Usha's voice, at most once."
@@ -2364,9 +2364,13 @@
     {
       "at": "2026-10-31T21:31:13",
       "event": "done: S8 line edit ch 25"
+    },
+    {
+      "at": "2026-10-31T21:31:50",
+      "event": "done: S8 line edit ch 26"
     }
   ],
-  "updated_at": "2026-10-31T21:31:13",
+  "updated_at": "2026-10-31T21:31:50",
   "midpoint_chapter": 16,
   "continuity_attempts": 0,
   "continuity_last_errors": null,
