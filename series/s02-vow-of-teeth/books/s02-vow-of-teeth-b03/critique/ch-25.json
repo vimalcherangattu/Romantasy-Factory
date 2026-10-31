@@ -1,36 +1,36 @@
 {
   "scores": {
-    "reader_question": 4.0,
+    "reader_question": 5.0,
     "change": 5.0,
     "romance_movement": 4.0,
     "shown_chemistry": 4.0,
     "character_logic": 4.0,
-    "stakes_and_cost": 5.0,
+    "stakes_and_cost": 4.0,
     "prose": 4.0,
     "continuity": 5.0
   },
   "reasons": {
-    "reader_question": "Clear and urgent: can either survive to dawn, with the tower coming and Vellan's narrow place now open behind the line.",
-    "change": "Devan goes from holding the line to falling. He loses the marma hand for good, and Vellan abandons his post. Power and body both change.",
-    "romance_movement": "The share is paid in full, a new reason in the arc. His step into the gap is under-dramatised as a choice made for both of them.",
-    "shown_chemistry": "Sheathed paw on his wrist, forehead to jaw, her breath counted since the wedding night. All responsive, no narration.",
-    "character_logic": "The spear feint into the marma strike is smart and earned. He turns his back on the ladder plausibly, given the fatigue on his left.",
-    "stakes_and_cost": "An irreversible loss lands (technique 19), and the mortal drag on Neela is felt physically. The cost is concrete and named people pay it.",
-    "prose": "Strong and sensory, with good rhythm. A few told lines, two repeated 'as it always did', and consecutive paragraphs opening with 'He'.",
-    "continuity": "Consistent with the ford strike, the tack room, Vasu, Kandan and Sanu, the bear's drag and the wall-at-back habit. No conflicts found."
+    "reader_question": "Both leads go down under one spear, with the tower coming and the narrow place open. Dawn survival is sharply posed.",
+    "change": "Devan's right hand is dead, Neela is dragged down, and Vellan has left his post. Power, body and battle all shift.",
+    "romance_movement": "The new reason is his 'Left' and her shoulder's answer: their tack-room term is honoured under fire. Then the shared cost is paid.",
+    "shown_chemistry": "Paw laid on his wrist claws sheathed, forehead to jaw, the remembered breath-catch. Responsive and specific, not narrated.",
+    "character_logic": "Stepping into the gap is earned. Dropping a spear before a drawn blade to close for marma is bold but plausible as a feint.",
+    "stakes_and_cost": "He weighs three new pairs against her ribs before acting, and the cost lands. Next decisions now pass to others.",
+    "prose": "Strong concrete battle prose. Lapses: a few told interior lines ('the fear... went still') and a stacked run of 'He felt'.",
+    "continuity": "Pairings, Vellan's drag, the self-naming at the Resin House yard, Haran's centre vote and the broken shaft all match the bible and continuity facts."
   },
   "fixes": [
-    "At 'Devan did not decide. He had decided already', the key romantic choice is skipped (weak Choice Under Pressure). Make it a decision in the moment. He weighs her ribs against the three pairs and says 'Left' before he moves, honouring the tack-room term. She answers with a shoulder press against his hip. Only then does he step. This makes 'knowing she takes it with him' shown, not asserted.",
-    "At 'It was the cost, and neither of them had understood how it would feel', the narration tells the reader the feeling and half-contradicts what they already know. Cut it or replace it with one concrete sensation. Also cut 'He was learning how to be guarded.' Vary the paragraphs opening 'He knew it by sound'/'He kept his eyes front' and 'He turned his head'/'He knew that breath'. Change the second 'as it always did'.",
-    "At 'If the gap held open for ten heartbeats', Haran's three hundred crown spears, who hold the centre by the ch23 vote, vanish from the battle. Add one line placing the crown centre. For example, they are engaged at the tower or too far down the line to close the bend. This explains why only Devan and the bear can fill the gap."
+    "At 'The fear that had sat on his chest all these years went still': this is a told transformation (narration replacing proof). Cut the sentence. Show the change as something witnessed instead, such as Kandan or the garrison seeing the strike done openly, or Devan noticing he has not looked away. That keeps technique 24 shown rather than summarised.",
+    "At 'He felt it before he heard it. A great drag' and the lines after it: 'felt' appears five times in eight sentences, an echo-word problem. The beat also says she goes down 'behind' him while the text has her at his left. Keep one 'felt' and render the others as direct sensation ('Cold climbed from her paws'). Keep her consistently at his left flank.",
+    "At 'Haran's three hundred held the centre by the table's vote': this paragraph stops the action to explain tactics. Compress it to two sentences seen through Devan's eye, for example the crown spears chest-deep at the ram, too far off. Fold the ten-heartbeats arithmetic into the weighing paragraph so the choice keeps its pace."
   ],
-  "reader_question": "Can Devan or Neela live until dawn, now that the share is dragging her after his spear wound and the narrow place stands open?",
+  "reader_question": "With one spear through both their bodies, can Devan or Neela live until dawn, and who holds the open narrow place?",
   "techniques_landed": [
     6,
     14,
     19
   ],
-  "new_facts_assessment": "new-facts.json is empty, but the draft adds facts. Vasu is paired with an unnamed slight guard of Usha's (not shown in ch24). A boar fights with Bhaskaran. Haran's crown centre is absent from the fight. The pairing is necessary and consistent but should be listed. The rest are consistent.",
+  "new_facts_assessment": "All four facts are necessary and consistent. The unnamed guard paired with Vasu is plausible, since twenty-six guards named off-page. Devan not knowing her name works against the book's naming theme; a later chapter should name her. Bhaskaran's boar implies Kuttu is a boar, which fits F677 if he is Thirteen; S7 should confirm. Haran's position matches F930 and F1054.",
   "content_rule_violation": false,
   "failure_modes": [
     "Narrated-only chemistry"
