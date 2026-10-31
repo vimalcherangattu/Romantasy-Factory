@@ -616,7 +616,7 @@
       }
     },
     "21": {
-      "status": "passed",
+      "status": "edited",
       "revisions": 2,
       "scores": {
         "reader_question": 4.0,
@@ -630,18 +630,18 @@
       },
       "average": 4.0,
       "flags": [],
-      "words": 2958,
+      "words": 2951,
       "minimum": 3.0,
       "style": {
-        "words": 2768,
+        "words": 2951,
         "banned_hits": {},
         "ai_tell_hits": {},
         "ai_tells_per_1000": 0.0,
-        "top_4gram": "at the gate with",
+        "top_4gram": "with the company standing",
         "top_4gram_count": 2,
-        "longest_paragraph_words": 152,
+        "longest_paragraph_words": 132,
         "em_dashes_per_1000": 0.0,
-        "reading_ease": 96.5
+        "reading_ease": 96.6
       },
       "owner_instructions": [
         "Writ trail, second link. At dawn Neela opens the hollow behind the third slat (use that name, not 'the hollow in the shutter frame'). The chit and the gift seal are still inside. The writ is not there, because Devan has carried it in his pack since chapter 2. He takes the oilcloth from his pack and lays the writ in the hollow beside the chit and seal while she watches, where it lived before. Then he says he will read it aloud before the queen. Keep the slat's creak from Muthu's line ('The slat still creaks. I didn't fix it either').",
@@ -2086,9 +2086,13 @@
     {
       "at": "2026-10-25T23:07:35",
       "event": "done: S8 line edit ch 18"
+    },
+    {
+      "at": "2026-10-31T19:23:49",
+      "event": "done: S8 line edit ch 21"
     }
   ],
-  "updated_at": "2026-10-26T19:09:42",
+  "updated_at": "2026-10-31T19:23:49",
   "midpoint_chapter": 16,
   "continuity_attempts": 1,
   "continuity_last_errors": 3,
