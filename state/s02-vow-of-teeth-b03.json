@@ -937,7 +937,7 @@
       ]
     },
     "31": {
-      "status": "passed",
+      "status": "edited",
       "revisions": 2,
       "scores": {
         "reader_question": 4.0,
@@ -951,18 +951,18 @@
       },
       "average": 4.12,
       "flags": [],
-      "words": 3183,
+      "words": 3175,
       "minimum": 4.0,
       "style": {
-        "words": 3080,
+        "words": 3175,
         "banned_hits": {},
         "ai_tell_hits": {},
         "ai_tells_per_1000": 0.0,
         "top_4gram": "counted the road four",
         "top_4gram_count": 2,
-        "longest_paragraph_words": 107,
-        "em_dashes_per_1000": 0.97,
-        "reading_ease": 91.2
+        "longest_paragraph_words": 96,
+        "em_dashes_per_1000": 0.31,
+        "reading_ease": 91.6
       },
       "owner_instructions": [
         "Charter reading. The queen's confession moves here as the act itself. When she reads the clause naming what the crown permitted, make this the first time the full list is spoken in public: the controlled raids, the stolen children of Nellimala, the payment for Devan's death, Asha's killing. Give it its weight: the hall's silence, Rema's pen, the queen reading in daylight and not stopping. It now carries charge because chapter 30 no longer spends it.",
@@ -2106,9 +2106,13 @@
     {
       "at": "2026-10-31T19:26:08",
       "event": "done: S8 line edit ch 30"
+    },
+    {
+      "at": "2026-10-31T19:26:45",
+      "event": "done: S8 line edit ch 31"
     }
   ],
-  "updated_at": "2026-10-31T19:26:08",
+  "updated_at": "2026-10-31T19:26:45",
   "midpoint_chapter": 16,
   "continuity_attempts": 1,
   "continuity_last_errors": 3,
