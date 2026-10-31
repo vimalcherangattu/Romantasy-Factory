@@ -12,7 +12,7 @@
   ],
   "chapters": {
     "01": {
-      "status": "passed",
+      "status": "edited",
       "revisions": 0,
       "scores": {
         "reader_question": 4.0,
@@ -26,8 +26,19 @@
       },
       "average": 3.62,
       "flags": [],
-      "words": 2610,
-      "minimum": 3.0
+      "words": 2609,
+      "minimum": 3.0,
+      "style": {
+        "words": 2609,
+        "banned_hits": {},
+        "ai_tell_hits": {},
+        "ai_tells_per_1000": 0.0,
+        "top_4gram": "of the salt house",
+        "top_4gram_count": 2,
+        "longest_paragraph_words": 81,
+        "em_dashes_per_1000": 0.0,
+        "reading_ease": 90.5
+      }
     },
     "02": {
       "status": "passed",
@@ -1221,9 +1232,13 @@
     {
       "at": "2026-10-31T20:58:07",
       "event": "done: book-level checks"
+    },
+    {
+      "at": "2026-10-31T20:58:42",
+      "event": "done: S8 line edit ch 1"
     }
   ],
-  "updated_at": "2026-10-31T20:58:07",
+  "updated_at": "2026-10-31T20:58:42",
   "midpoint_chapter": 16,
   "continuity_attempts": 1,
   "continuity_last_errors": 1
