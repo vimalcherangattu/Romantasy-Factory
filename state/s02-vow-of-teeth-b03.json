@@ -47,7 +47,7 @@
       ]
     },
     "02": {
-      "status": "passed",
+      "status": "edited",
       "revisions": 0,
       "scores": {
         "reader_question": 4.0,
@@ -61,18 +61,18 @@
       },
       "average": 3.88,
       "flags": [],
-      "words": 2910,
+      "words": 2909,
       "minimum": 3.0,
       "style": {
-        "words": 2883,
+        "words": 2909,
         "banned_hits": {},
         "ai_tell_hits": {},
         "ai_tells_per_1000": 0.0,
         "top_4gram": "as they always have",
         "top_4gram_count": 3,
-        "longest_paragraph_words": 102,
+        "longest_paragraph_words": 103,
         "em_dashes_per_1000": 0.0,
-        "reading_ease": 93.3
+        "reading_ease": 93.2
       },
       "owner_instructions": [
         "Ending explains what the scene showed (owner fix 4). Where: the chapter close. What's wrong: 'It was the truth. It was the only kind of answer he had ever given her, and she took it, as she always did.' summarises a beat the reader already felt. Change: cut those sentences. End on Devan's 'I can't tell,' and then her cold hand in his. Add no summary or interior gloss after the hand.",
@@ -2344,9 +2344,13 @@
     {
       "at": "2026-10-31T21:28:24",
       "event": "done: S8 line edit ch 1"
+    },
+    {
+      "at": "2026-10-31T21:29:00",
+      "event": "done: S8 line edit ch 2"
     }
   ],
-  "updated_at": "2026-10-31T21:28:24",
+  "updated_at": "2026-10-31T21:29:00",
   "midpoint_chapter": 16,
   "continuity_attempts": 0,
   "continuity_last_errors": null,
