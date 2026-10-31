@@ -6,15 +6,11 @@
   "status": "revising",
   "stage": "S3",
   "done": [
-    "S3",
-    "S7",
-    "book_check",
-    "S9",
-    "S10"
+    "S3"
   ],
   "chapters": {
     "01": {
-      "status": "edited",
+      "status": "owner-revise",
       "revisions": 2,
       "scores": {
         "reader_question": 4.0,
@@ -40,10 +36,16 @@
         "longest_paragraph_words": 103,
         "em_dashes_per_1000": 0.0,
         "reading_ease": 90.4
-      }
+      },
+      "owner_instructions": [
+        "Count drift (owner fix 8). Where: the resin vote and the plank. What's wrong: the chapter says 'Forty-two odiyans' and 'divided the cup into forty-two', but then shows 'forty-one names' on the plank after Neela adds hers, and everyone still says 'the forty'. Change: make the plank hold forty-two names once Neela chalks hers last. Keep the cup at forty-two.",
+        "Count drift, continued. Where: the first natural use of 'the forty' after the count. Change: add one short line saying 'the forty' is the name they kept after the number stopped being true. Keep it to a single sentence, in Neela's voice, and make it lightly wry rather than expository.",
+        "'Flat' pattern (owner fix 6). Where: every 'flat' used for a voice or delivery in this chapter, such as 'His voice was flat' or 'said it flatly'. What's wrong: 'flat' is the default delivery word across the book. Change: from now on, 'flat' belongs only to Usha's voice, at most once per chapter. Replace every other use here with a specific action beat or a specific quality of delivery. Examples: he reads the sails off like a tally; he doesn't raise his voice; a pause before the number. If Usha speaks at the dusk arrival and the word fits her, one use may stay.",
+        "Protect (owner Keep). Do not alter the vote scene. Devan asks the Company for leave and never looks at Neela, he waits for the hands, and her hand goes up last. Do not alter the reveal of the sixty sails, with Neela counting them and knowing the curve of Nellimala beach. Keep the stated ages: Neela twenty-seven, Devan thirty-two."
+      ]
     },
     "02": {
-      "status": "edited",
+      "status": "owner-revise",
       "revisions": 0,
       "scores": {
         "reader_question": 4.0,
@@ -71,10 +73,10 @@
         "reading_ease": 93.3
       },
       "owner_instructions": [
-        "Writ trail, first link. Where Devan checks the oilcloth before sleep, keep the writ in his pack. Change the comparison 'rather than leave it in the shutter frame' to 'rather than leave it in the hollow behind the third slat at Kettamala'. From now on the hiding place has one name everywhere: the hollow behind the third slat (of the warden's chamber shutter). Chapters 21 and 30 follow this trail.",
-        "Number drift. Wherever the text says Devan made the drill at twenty-five and is thirty-two, keep 'seven years' as the canonical span. Make sure no other number appears for it in this chapter.",
-        "Keep the drill as written: a slow, one-handed, two-finger strike stopped a hair short of the post. Chapter 32 now builds its left-hand drill from this strike, so don't change it.",
-        "Keep 'He cuts himself, I get the welt... That's all of it. It's also everything.' and Devan's interior reaction exactly as they are. The owner singled this beat out."
+        "Ending explains what the scene showed (owner fix 4). Where: the chapter close. What's wrong: 'It was the truth. It was the only kind of answer he had ever given her, and she took it, as she always did.' summarises a beat the reader already felt. Change: cut those sentences. End on Devan's 'I can't tell,' and then her cold hand in his. Add no summary or interior gloss after the hand.",
+        "'Flat' pattern (owner fix 6). Where: every voice or delivery 'flat' in Devan's POV, including any 'flat green case'. Change: keep 'flat' only for Usha's voice, at most once in the chapter. Replace the others with specifics. Describe the case concretely, for example 'the green writing case' or its lacquer or clasp, not 'flat'.",
+        "Writ continuity (owner fix 2). Leave the ch 2 writ beats as written: Devan carried the writ up the hill rather than leave it in the hollow behind the third slat, and he checks the oilcloth in his pack. Ch 21 will put it back in the hollow, so ch 30 stays true.",
+        "Protect (owner Keep). Do not alter Neela's line to Usha, 'Nicked his chin shaving three days back and I found out over my rice.' Do not alter Devan's POV turning that line into a lever the queen now holds."
       ]
     },
     "03": {
@@ -109,7 +111,7 @@
       }
     },
     "04": {
-      "status": "edited",
+      "status": "owner-revise",
       "revisions": 2,
       "scores": {
         "reader_question": 4.0,
@@ -135,7 +137,10 @@
         "longest_paragraph_words": 107,
         "em_dashes_per_1000": 0.31,
         "reading_ease": 93.2
-      }
+      },
+      "owner_instructions": [
+        "Count consistency, following from the ch 1 change to forty-two (owner fix 8). Where: the descent, and any other place the narration states a literal headcount, such as 'forty odiyans' on the ropes. Change: wherever 'forty' is meant as an exact count, make it 'forty-two' or rephrase as 'the forty' used as the Company's name. Leave 'the forty' as the name untouched."
+      ]
     },
     "05": {
       "status": "edited",
@@ -463,7 +468,7 @@
       }
     },
     "16": {
-      "status": "edited",
+      "status": "owner-revise",
       "revisions": 1,
       "scores": {
         "reader_question": 4.0,
@@ -491,11 +496,11 @@
         "reading_ease": 93.4
       },
       "owner_instructions": [
-        "Sanu's intake date. Change 'Sold at seven... The date, six years back' to 'nineteen years back', so a seven-year-old intake makes him twenty-six now, matching chapter 12. If the page reading lingers on his childhood, keep it to the sale fact. Add nothing that frames him as young in the present.",
-        "Repetition. 'Did not look away' and 'her eyes did not change' recur heavily. Keep at most one of each in the chapter. Replace the rest with concrete action that shows the same steadiness: the queen squaring the writing case to the table edge, Usha's hand flat on her folded page, Neela not lowering the page she holds.",
-        "If the line 'She was fifty-four. Neela knew the number as she knew the sum of a lock's pins' appears here, cut it. Neela has no way to know the age. If the age matters, have someone who would know say it (Usha), or cut the number entirely.",
-        "Protect the midpoint. Keep the fresh page in tacky ink with the fly stuck in it. Keep 'You carried away paper. You can't carry away what I saw.' Keep the click of Chathu's rat-eaten page and Kamalakshi's question, the plain-ink clue that slides away, and 'The only freedom I have ever had is the one that bleeds when he does.' Don't trim these while fixing repetition.",
-        "Kamalakshi's quips. If she has a one-word quip in this chapter, check it against chapters 30 to 32 under the same rule: one quip per stretch of adjacent chapters, and any extra becomes a gesture."
+        "Staging slip 1 (owner fix 7). Where: 'He would be at the cistern shed now, or on a wall.' What's wrong: Devan is at the shelf in the lower narrows at this point (ch 14 and 17). Change: place him at the shelf in the lower narrows, for example 'He would be on the shelf now, counting arrows he didn't need'. Keep the line's function: she can't reach him.",
+        "Staging slip 2 (owner fix 7). Where: 'You climbed in by the spray slot.' What's wrong: ch 15 has Neela climbing the sea stair by rope from the cliff foot, and ch 15 never shows a spray slot. Change: rewrite the queen's line to match ch 15, for example 'You came up the sea stair on a rope at the noon gun.' Do not add a spray slot to ch 15.",
+        "Staging slip 3 (owner fix 7). Where: 'the fading ache where a hook had not been'. What's wrong: it reads as a typo, because the hook did land: Devan's hook welt tore across her ribs in ch 15. Change: rewrite to 'the fading ache where the hook had been', or name it concretely, for example 'the hook-welt along her ribs, fading'.",
+        "'Flat' pattern (owner fix 6). Where: 'Her flat voice cracked' and any other voice 'flat' in the chapter. Change: if the speaker is Usha, one use may stay. Otherwise, and for every additional use, replace it with a specific beat. The queen's register should be kind and dangerous at once, so render it through what she does with the pen or the lamp, not through 'flat'.",
+        "Protect (owner Keep). Do not alter 'You carried away paper. You can't carry away what I saw.' Do not alter the snap-together of Chathu's rat-eaten page and Kamalakshi's question, Neela leaving her thumb unpricked so the queen can't see the lever, or the reveal that the queen spent her whole noon on the crate."
       ]
     },
     "17": {
@@ -618,7 +623,7 @@
       }
     },
     "21": {
-      "status": "edited",
+      "status": "owner-revise",
       "revisions": 2,
       "scores": {
         "reader_question": 4.0,
@@ -646,9 +651,8 @@
         "reading_ease": 96.6
       },
       "owner_instructions": [
-        "Writ trail, second link. At dawn Neela opens the hollow behind the third slat (use that name, not 'the hollow in the shutter frame'). The chit and the gift seal are still inside. The writ is not there, because Devan has carried it in his pack since chapter 2. He takes the oilcloth from his pack and lays the writ in the hollow beside the chit and seal while she watches, where it lived before. Then he says he will read it aloud before the queen. Keep the slat's creak from Muthu's line ('The slat still creaks. I didn't fix it either').",
-        "Plant Asha's scrap here, openly. In the hollow, under the camphor block that keeps the insects off the papers, Devan finds a scrap in Asha's hand: 'Say it anyway.' He knows the hand because she wrote his letters (chapter 11). He reads it aloud to Neela at once and tells her where he found it. Make it a small, quiet beat, a few lines. Its job is to give chapter 30 a planted motive and to keep their no-secrets term intact: he hides nothing from her.",
-        "Keep the rest of the chapter's bargain as outlined: lamp lit, being seen as a choice, the refusal split between them."
+        "Writ location (owner fix 2). Where: the dawn beat when Neela opens the hollow in the shutter frame. What's wrong: ch 2 established that Devan carried the payment writ up the hill in his pack, so it can't 'still be there' in the hollow. Change: the hollow holds the chit and the gift seal. Devan takes the oilcloth with the writ from his pack and puts it back in the hollow behind the third slat while she watches. One or two concrete sentences are enough. Keep his line that he will read the writ aloud before the queen. This makes ch 30's 'lifted it out of the hollow behind the third slat at dawn' true.",
+        "Protect. Do not change the explicit scene or its new term: the lamp kept lit, being seen as a choice, and the refusal split between them, hers to speak and his to stand behind."
       ]
     },
     "22": {
@@ -747,7 +751,7 @@
       ]
     },
     "25": {
-      "status": "edited",
+      "status": "owner-revise",
       "revisions": 2,
       "scores": {
         "reader_question": 4.0,
@@ -773,10 +777,13 @@
         "longest_paragraph_words": 117,
         "em_dashes_per_1000": 0.39,
         "reading_ease": 92.5
-      }
+      },
+      "owner_instructions": [
+        "'Good hand' and 'flat' check (owner fix 6, pattern). Where: after the spear takes his right hand. Change: if the text starts calling his left 'his good hand' or 'the good one', replace it with 'his left' or with the gesture itself. Keep 'flat' only for Usha's voice, at most once."
+      ]
     },
     "26": {
-      "status": "edited",
+      "status": "owner-revise",
       "revisions": 0,
       "scores": {
         "reader_question": 4.0,
@@ -802,10 +809,13 @@
         "longest_paragraph_words": 116,
         "em_dashes_per_1000": 0.0,
         "reading_ease": 94.4
-      }
+      },
+      "owner_instructions": [
+        "'Good hand' and 'flat' check (owner fix 6, pattern). Change: replace any 'good hand' or 'the good one' with 'his left' or with the action. Keep 'flat' only for Usha's voice, at most once."
+      ]
     },
     "27": {
-      "status": "edited",
+      "status": "owner-revise",
       "revisions": 1,
       "scores": {
         "reader_question": 4.0,
@@ -833,11 +843,11 @@
         "reading_ease": 94.6
       },
       "owner_instructions": [
-        "Number drift. Change 'let no one at his back for six years' so it agrees with the seven-year drill span from chapter 2. Use 'seven years'. If the series bible dates Asha's death to a different year than the drill, drop the number and write 'since Asha', so no second count appears to drift."
+        "'Good hand' and 'flat' check (owner fix 6, pattern). Change: replace any 'good hand' or 'the good one' with 'his left' or with the action. Keep 'flat' only for Usha's voice, at most once."
       ]
     },
     "28": {
-      "status": "edited",
+      "status": "owner-revise",
       "revisions": 1,
       "scores": {
         "reader_question": 4.0,
@@ -865,10 +875,14 @@
         "longest_paragraph_words": 102,
         "em_dashes_per_1000": 0.7,
         "reading_ease": 93.4
-      }
+      },
+      "owner_instructions": [
+        "Loose pages from ch 24 (owner fix 8). Where: the morning roll-signing in the lower court, before or just after Neela writes her name. What's wrong: Neela promised in ch 24 to hand back the eleven Resin House pages at first light, and the book never shows it. Change: add one sentence showing her handing the eleven pages back to their owners by daylight, before she signs. It fits the chapter's daylight-witness theme. Do not expand it into a scene.",
+        "'Good hand' and 'flat' check (owner fix 6, pattern). Where: the left-handed signature and around it. Change: replace any 'good hand' or 'the good one' with 'his left' or with the gesture. Keep 'flat' only for Usha's voice, at most once."
+      ]
     },
     "29": {
-      "status": "edited",
+      "status": "owner-revise",
       "revisions": 1,
       "scores": {
         "reader_question": 4.0,
@@ -896,11 +910,11 @@
         "reading_ease": 94.1
       },
       "owner_instructions": [
-        "Keep the queen's single word 'Yes.' as her first admission. It is the first of the three confession beats, and it stays short. Don't expand it, so chapters 30 and 31 each carry a distinct, new act."
+        "'Good hand' and 'flat' check (owner fix 6, pattern). Change: replace any 'good hand' or 'the good one' with 'his left' or with the action. Keep 'flat' only for Usha's voice, at most once."
       ]
     },
     "30": {
-      "status": "edited",
+      "status": "owner-revise",
       "revisions": 0,
       "scores": {
         "reader_question": 4.0,
@@ -928,18 +942,14 @@
         "reading_ease": 93.2
       },
       "owner_instructions": [
-        "Writ trail, final link. Keep Devan lifting the writ from 'the hollow behind the third slat'. This now matches chapters 2 and 21.",
-        "Asha's scrap. Cut 'a scrap he found under a camphor block... kept it from Neela for weeks' and any other line saying he withheld it. The scrap was found in chapter 21 and read aloud to Neela then. Where the chapter calls back to it, refer to it as shared ('the scrap she had heard him read at dawn in the warden's chamber'). Let 'Say it anyway' drive his choice to read the writ and to declare himself, as a motive they both know.",
-        "Cut the aside 'I know the hand from a letter shown at a border school.' Let the evidence climax run without it.",
-        "Trim the queen's public confession. She has already said 'Yes' in chapter 29, and chapter 31's charter reading is where the list of crimes is read aloud. Cut the ledger-style list (raids permitted, the thirty bought, his death paid for) from this speech. Keep only the new material: 'It is only blind' and 'I only found out this week I could do it standing,' with Usha's welts on her arm as the visible proof. A few lines at most.",
-        "In the same speech, change 'twenty-six of my own knives knelt... bleeding for strangers' so they bleed for people they chose, for example '...knelt in the dark and chose who they would bleed for.' Choice is the point.",
-        "Protect: the self-naming with backs turned, 'A witness's knowledge with the witnessing taken out', Janu and Kamalakshi ('You've a face like a wall already'), and Devan's declaration ('never in front of her like a wall'). Keep all three as they are.",
-        "Kamalakshi's quips. Chapters 30, 31 and 32 carry her one-word quips ('About time', 'Finally') close together. Keep the first one that occurs across these chapters. Turn every later one into a gesture specific to her: a slap of the table, an elbow in Janu's ribs, a slow clap no one else joins. If this chapter holds the second quip, it becomes the gesture.",
-        "If the 'She was fifty-four... sum of a lock's pins' line appears here, cut it or source the age through a character who would know."
+        "The queen dodges the writ (owner fix 5). Where: her answer after Devan reads the payment writ aloud. What's wrong: 'I held that a realm is safe by what it has not seen. It is only blind.' is a thesis, not an admission made to his face. Change: before that thesis, give her one plain line to Devan directly, for example 'I sealed it. Seven weeks before your wedding. I knew what it bought.' Check the interval against earlier books and the bible. If a different interval is established, use that. Then show the hall reacting in a concrete beat or two: Janu, Muthu, the Company, or Usha's welted arm. Keep the thesis line after the hall's reaction. Leave the fuller record to the ch 31 charter clause.",
+        "Witness-rule gap (owner fix 1). Where: the dusk self-naming, after Neela narrates Sajan stopping at the edge of the court and not stepping out. What's wrong: Neela then says 'That's all of them,' which is false under the book's witness rule, because the queen could still write Sajan. Change her line to 'That's all who'll come tonight.' Keep Sajan stopping at the edge.",
+        "'Flat' and 'good hand' pattern (owner fix 6). Where: throughout. What's wrong: 'his good hand' and 'the good one' recur heavily across ch 30 to 32 (ten or more uses), and 'flat' recurs as a delivery word, for example 'voice... was flat'. Change: replace each 'good hand' or 'the good one' with 'his left' or with the gesture alone ('he held the writ out'). Use 'his left' no more than three times in the chapter. Keep 'flat' only for Usha's voice, at most once.",
+        "Protect (owner Keep). Do not alter Madhavi's objection to clause five ('If the crown can hire us to hold a pass, it can hire us to die on one') or Devan amending the clause on the spot. Do not alter Janu's 'Me? I'm sixty-one' and her complaint about the cairn-fire rice. Leave 'lifted it out of the hollow behind the third slat at dawn' as written, since ch 21 now supports it."
       ]
     },
     "31": {
-      "status": "edited",
+      "status": "owner-revise",
       "revisions": 2,
       "scores": {
         "reader_question": 4.0,
@@ -967,16 +977,15 @@
         "reading_ease": 91.6
       },
       "owner_instructions": [
-        "Charter reading. The queen's confession moves here as the act itself. When she reads the clause naming what the crown permitted, make this the first time the full list is spoken in public: the controlled raids, the stolen children of Nellimala, the payment for Devan's death, Asha's killing. Give it its weight: the hall's silence, Rema's pen, the queen reading in daylight and not stopping. It now carries charge because chapter 30 no longer spends it.",
-        "Dawn count. Replace 'Seven breaths from the first of the grey. Yours catches at the ninth count' with one plain line from Devan: 'You hitch at nine. I've counted it every morning since the wedding.' Let Neela's surprise (that he counted every morning, not that he counts) carry the beat in a line or two of reaction, then move on.",
-        "Ending. Cut the stranger climbing at grey entirely. End the chapter on 'Then she helped him find his sleeve.' (she dressing him at dawn after the hitch count), with no hook line after it. Chapter 32 no longer opens on the deflation.",
-        "Protect 'Neela. May I put my hand here.' and the bargain change around his dead hand exactly as written.",
-        "Apply the Kamalakshi quip rule from chapter 30: one quip across chapters 30 to 32, the rest gestures. If this chapter holds a quip that is not the first, make it a gesture.",
-        "If the 'She was fifty-four...' line appears here, cut it or source it."
+        "Pay off Sajan and close the rule gap (owner fix 1). Where: after the queen burns the crown leaf in the gate fire-basket. Change: Sajan burns his own leaf at the gate basket, then names himself to his brother Sanu there, with Sanu's sleeve touching his. Self-naming needs a dusk turning with the chosen person looking at him (ch 20 rule), so stage it at dusk the same day, at the gate basket, before the tent scene. Keep it to a few lines, with no speech about it. Do not change Sanu's existing bond to Kandan. The share runs both ways, and Sajan naming himself to Sanu is a separate bond.",
+        "Cut the false-alarm cliffhanger (owner fix 3). Where: the chapter ending. What's wrong: the chapter ends on the horn ('Lone climber! ...') and 'This is our first vote, Neela.' Ch 32 then deflates it as a barefoot boy with a satchel, and the 'first vote' is spent twice. Change: end the chapter on the sleeve exchange ('Ask.' / 'My sleeve. If you would.'). Cut the horn, the 'Lone climber' call, and the 'first vote' line entirely. Any dawn hitch-counting should sit before the sleeve exchange so the sleeve is the last beat.",
+        "Counting repetition (owner fix 6). Where: dialogue that repeats 'counted the road four times' and similar counting tallies. Change: Neela's counting is character and stays, but cut one or two instances in this chapter, starting with the repeated 'counted the road four times'. Do not cut the dawn hitch-count.",
+        "'Good hand' and 'flat' pattern (owner fix 6). Where: the charter scene and the explicit scene. Change: replace every 'his good hand' or 'the good one' with 'his left' or with the action itself. In the explicit scene especially, let her guidance and his asking carry it through gesture. Keep 'flat' only for Usha's voice, at most once.",
+        "Protect (owner Keep). Do not alter Haran's plea to strike the clause, or Neela closing her mouth on 'Keep it.' Do not alter the explicit scene's core. The hand at the nape of her neck, 'the place for wait', becomes only his. The bargain is remade: she is his right hand, and he is the place her vigilance stops. Both leads are adults, as stated in ch 1, and the scene is consensual. Keep both as written."
       ]
     },
     "32": {
-      "status": "edited",
+      "status": "owner-revise",
       "revisions": 1,
       "scores": {
         "reader_question": 4.0,
@@ -1004,14 +1013,12 @@
         "reading_ease": 90.9
       },
       "owner_instructions": [
-        "Opening. Remove the line that deflates chapter 31's stranger ('turned out to be a boy... with wet sandals') and any reference to that stranger. Open straight on weeks on: the truce sailing and the hall with its lamp.",
-        "Drill. Replace 'a slow open-handed pattern... that needed both hands' with a new left-hand drill built from the old one-handed two-finger strike, for example 'a left-handed drill he had built out of the old two-finger strike, the two fingers opened into a parry and slowed until the young could follow.' Keep the seventh-day round with Muthu, Devan losing, and laughing first.",
-        "Number drift. Change every 'eight years' ('eight years of a drill', 'one in eight years') to seven, matching chapter 2. The 'eight years deciding everything alone' line is replaced entirely under the final-scene fix below.",
-        "Final scene at the door. Cut the passage where Neela thinks 'You do not put the question that matters to a stranger at your door...' and then gives the envoy a full speech. That breaks the vote culture and reads as pulling rank. Keep 'How do you vote?' / 'You first.' exactly. Then she answers Devan alone, low, out of the envoy's hearing: her lean (no) and her reason (Nellimala, the camp in her village's footings). Then she turns to the envoy and says only: 'We'll hear you at the table. Leave your staff at the door. We vote at noon.'",
-        "Replace the narrated line 'the face of a man who had spent eight years deciding everything alone, and had chosen... to wait for her' with something he does. For example: after 'You first' he steps back half a pace so she stands alone in the lamplight of the doorway, and he lifts his good hand off the doorpost and keeps it lowered while she speaks.",
-        "River echo (C13). Add one line, without resolving it, so the series thread isn't dropped. For example, Koman the watcher mentions at the door that the long, low shape was in the river below the pass again at dawn, taking nothing, watching the road. Place it before the envoy arrives so it doesn't compete with the hinge.",
-        "Apply the Kamalakshi quip rule: one quip across chapters 30 to 32, the rest gestures.",
-        "If the 'She was fifty-four...' line appears here, cut it or source it."
+        "Remove the deflated climber (owner fix 3). Where: the subordinate clause explaining that the lone climber was a barefoot boy with a satchel. Change: delete it and any other reference back to a horn or climber from ch 31. Let the pepper factors' letter arrive fresh in this chapter, with its own short, concrete arrival beat. This chapter now holds the only 'first vote', so keep 'We vote at noon' as the hinge line.",
+        "Narration explains what the scene showed (owner fix 4). Where: the paragraph that begins 'Neela understood why she had asked in the open...' and walks through the diplomatic logic of the lean-vote. Change: cut the paragraph entirely. Go straight from the murmur in the doorway to her nod.",
+        "Signposted callback (owner fix 4). Where: the shutter callback 'Once, at the foot of a stair...'. Change: trim it to the image alone, with no 'once' framing and no reminder of where it came from. The reader carries the memory.",
+        "Sajan consistency, following ch 31 (owner fix 1). Where: any line or door-roll beat that implies Sajan is still unnamed or that his freedom rests on the charter alone. Change: treat Sajan as self-named to Sanu. If the door roll or hall lists pairs, one brief mention is allowed but not required.",
+        "'Good hand' and 'flat' pattern (owner fix 6). Where: the left-handed drill and Muthu's round. Change: replace every 'good hand' or 'the good one' with 'his left' or with the action. The left-handed drill already shows it, so let the moves carry it. Keep 'flat' only for Usha's voice, at most once.",
+        "Protect (owner Keep). Do not alter Muthu's left-handed round, where Devan loses and laughs first. Do not alter Ponni at the door board ('That's the girl I carried round the bend'). Keep the hinge: the Thurai envoy and the salt-and-clove-bark rogue odiyan in no ledger."
       ]
     }
   },
@@ -2128,12 +2135,16 @@
     {
       "at": "2026-10-31T19:31:25",
       "event": "done: beta read"
+    },
+    {
+      "at": "2026-10-31T19:33:05",
+      "event": "done: owner notes plan"
     }
   ],
-  "updated_at": "2026-10-31T19:31:25",
+  "updated_at": "2026-10-31T19:33:05",
   "midpoint_chapter": 16,
-  "continuity_attempts": 1,
-  "continuity_last_errors": 3,
+  "continuity_attempts": 0,
+  "continuity_last_errors": null,
   "package": {
     "problems": [],
     "epubcheck": true,
@@ -2162,6 +2173,6 @@
     "notes": "series/s02-vow-of-teeth/books/s02-vow-of-teeth-b03/beta-notes-2.md"
   },
   "beta_rounds": 2,
-  "pending_owner_notes": "/home/user/Romantasy-Factory/series/s02-vow-of-teeth/books/s02-vow-of-teeth-b03/beta-notes-2.md",
+  "pending_owner_notes": null,
   "cover_tool": "ElevenLabs (FLUX 3 Image)"
 }
