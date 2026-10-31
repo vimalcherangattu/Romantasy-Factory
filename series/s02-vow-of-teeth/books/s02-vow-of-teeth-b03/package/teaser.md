@@ -1,15 +1,13 @@
-# The Odiyan Contracts: Start Here
+**If you're starting here: the whole story begins with a wedding.**
 
-Neela has twelve contracts to earn her freedom, and one left to go.
+At sunset, Neela is married to a stranger. By midnight she means to kill him.
 
-She is an odiyan of the Resin House. At night, with a smear of bitter black resin on her throat and wrists, she becomes a leopard. By day she is a quiet, dangerous bride, sold in marriage to the warden of Kettamala, a hill fort above the only pass into the pepper hills. Her orders are simple. Kill him before the monsoon closes the road.
+She is an odiyan, a guild assassin who smears bitter nightbark resin on her skin and becomes a leopard when the sun goes down. The guild owns her. Her master holds her name on a page, and anyone who has watched her change can cage her forever with a single word. Twelve contracts will buy her release, and her husband is the twelfth.
 
-Devan is not the fool the guild expects. He is a man of few words and exact facts who has not sparred another living soul in eight years. He closes her shutters at every dusk. He never asks where she goes at night. And he knows a secret that could ruin her: anyone who sees an odiyan turn can lock her in her animal shape for life, with one word spoken at the wrong moment.
+Devan, warden of Kettamala, is a quiet, careful man who has not struck a living soul in eight years. He distrusts the bride the council chose for him. He closes his shutters at every dusk. He calls the leopard "the cat." He knows exactly what his wife is, and he has not said the word.
 
-She has watched every witness she has known treat that word as a leash. She has forty days to decide whether he is any different.
+Forty days remain before the monsoon closes the pass. Every night they share a roof, she has to trust that he will keep silent in anger, in sleep and in love. And someone with a great deal more power than a guild master wants him dead.
 
-Across three books, The Odiyan Contracts follows an arranged marriage that begins as a murder plot. It brings a guild that owns its members, a queen with secret knives, a war at the pass, and a love built on the hardest thing in the world: being known by someone who could cage you, and trusted not to.
-
-Start with Vow of Teeth, and ask the question that begins it all.
+The Odiyan Contracts begins with *Vow of Teeth*, and it ends with a crown, a war and a choice.
 
 Will Neela kill the husband she was sold to?

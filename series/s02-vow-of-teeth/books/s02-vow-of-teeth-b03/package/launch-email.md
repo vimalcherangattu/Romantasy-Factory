@@ -1,20 +1,20 @@
-Subject: Crown of Night is out today
+Subject: Crown of Night is out: the Odiyan Contracts end tonight
 
-Hello, my dear readers,
+Hello, lovely readers,
 
-It's here. Crown of Night, the last book in The Odiyan Contracts, is live today.
+It's here. Crown of Night, the final book of The Odiyan Contracts, is live today.
 
-Where we left Neela and Devan at the end of Oath of Claws: homeless, hunted, married in every way that counts, and riding into the hills with forty freed odiyans who each hold their own page. They also learned the queen's own guard are odiyans, held in a secret ledger of her making.
+If you need a reminder of where we left Neela and Devan: they are husband and wife, hunted and homeless, riding into the hills with forty freed odiyans who each hold their own page. Free, finally. But freedom is never as simple as burning paper, and a war is coming up the Monkey Pass.
 
-Now the rains lift, and sixty Thurai sails appear off the coast.
+This time sixty Thurai ships fill the sea. The queen keeps thirty hidden knives. And every one of those knives, once freed, will bleed whoever it loves. Neela and Devan already know what that costs. Every wound he takes opens on her skin.
 
-This time Neela wants to free everyone, even the queen's knives. Devan, who has given up his fort, holds the pass with no office at all. Every wound he takes opens on her skin. Every choice they make has to hold both of them.
+It is a story about being seen, being chosen, and what you owe the people who stand at your back. There is a lamp left burning, a goat with opinions and a bargain I think you'll remember. It's a dark, sensual finale, with a happy ever after that costs something to earn.
 
-It's a book about love that survives power used in the open, and I've loved writing every page of it. There is war, there is grief, and there is a happy ending, earned the slow way.
+I have loved writing this couple. Thank you for walking with them to the end.
 
-You can get it here: {{AMAZON_LINK}}
-
-If you've followed this couple from the first night, thank you. Hearing from you has meant more than I can say. Reply and tell me which scene stayed with you.
+Get Crown of Night here: {{AMAZON_LINK}}
 
 Warmly,
 Anya
+
+P.S. Reviews help new readers find the series more than you know. If the book moves you, a line or two would mean the world.

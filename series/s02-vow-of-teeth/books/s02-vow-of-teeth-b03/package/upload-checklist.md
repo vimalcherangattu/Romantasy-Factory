@@ -19,14 +19,14 @@ Re-check KDP's current limits in KDP Help before the first upload of a series (P
 | Publishing rights | I own the copyright and I hold the necessary publishing rights |
 | Primary audience: sexually explicit images or title | No |
 | Reading age | (leave blank: adult) |
-| Categories | Kindle Store > Kindle eBooks > Science Fiction & Fantasy > Fantasy > Paranormal & Urban > Shifters; Kindle Store > Kindle eBooks > Romance > Fantasy; Kindle Store > Kindle eBooks > Science Fiction & Fantasy > Fantasy > Romantic |
-| Keyword 1 | arranged marriage assassin romantasy |
-| Keyword 2 | shapeshifter assassin fantasy romance |
+| Categories | Kindle Store > Kindle eBooks > Romance > Fantasy; Kindle Store > Kindle eBooks > Science Fiction & Fantasy > Fantasy > Romantic; Kindle Store > Kindle eBooks > Romance > Paranormal > Shifters |
+| Keyword 1 | married assassins fantasy romance |
+| Keyword 2 | shapeshifter assassin romantasy |
 | Keyword 3 | morally grey hero fantasy romance |
-| Keyword 4 | married couple fantasy romance series |
-| Keyword 5 | found family fantasy romance war |
-| Keyword 6 | Indian folklore inspired romantasy |
-| Keyword 7 | protective hero assassin heroine fantasy |
+| Keyword 4 | magical bond fantasy romance series |
+| Keyword 5 | arranged marriage assassin romantasy |
+| Keyword 6 | south asian inspired fantasy romance |
+| Keyword 7 | dark romantasy trilogy finale |
 | Release option | I'm ready to release my book now |
 
 Save and continue (Claude asks before saving).
