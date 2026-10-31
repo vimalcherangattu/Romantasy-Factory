@@ -898,7 +898,7 @@
       ]
     },
     "30": {
-      "status": "passed",
+      "status": "edited",
       "revisions": 0,
       "scores": {
         "reader_question": 4.0,
@@ -915,15 +915,15 @@
       "words": 2916,
       "minimum": 3.0,
       "style": {
-        "words": 2973,
+        "words": 2916,
         "banned_hits": {},
         "ai_tell_hits": {},
         "ai_tells_per_1000": 0.0,
         "top_4gram": "she looked at the",
-        "top_4gram_count": 2,
+        "top_4gram_count": 3,
         "longest_paragraph_words": 113,
         "em_dashes_per_1000": 0.34,
-        "reading_ease": 92.8
+        "reading_ease": 93.2
       },
       "owner_instructions": [
         "Writ trail, final link. Keep Devan lifting the writ from 'the hollow behind the third slat'. This now matches chapters 2 and 21.",
@@ -2102,9 +2102,13 @@
     {
       "at": "2026-10-31T19:25:35",
       "event": "done: S8 line edit ch 29"
+    },
+    {
+      "at": "2026-10-31T19:26:08",
+      "event": "done: S8 line edit ch 30"
     }
   ],
-  "updated_at": "2026-10-31T19:25:35",
+  "updated_at": "2026-10-31T19:26:08",
   "midpoint_chapter": 16,
   "continuity_attempts": 1,
   "continuity_last_errors": 3,
