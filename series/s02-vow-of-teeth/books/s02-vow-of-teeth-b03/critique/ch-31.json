@@ -1,41 +1,41 @@
 {
   "scores": {
-    "reader_question": 3.0,
+    "reader_question": 4.0,
     "change": 5.0,
     "romance_movement": 4.0,
-    "shown_chemistry": 5.0,
+    "shown_chemistry": 4.0,
     "character_logic": 4.0,
-    "stakes_and_cost": 3.0,
-    "prose": 3.0,
-    "continuity": 0.0
+    "stakes_and_cost": 4.0,
+    "prose": 4.0,
+    "continuity": 5.0
   },
   "reasons": {
-    "reader_question": "The lone climber and the first chartered vote give a clear question, but the light 'Quickly' close lowers the urgency.",
-    "change": "Hunted becomes chartered. Pages go home, the crown's knives burn, Haran's loyalty is lost, Chathu is sentenced, and the Company has legal standing.",
-    "romance_movement": "The public vow and the bargain remade around his ruined hand are new reasons. The 'Ask, and I do it' echo at the roll links the two halves well.",
-    "shown_chemistry": "Unpicking the sash knot, the blister welt, the asked permissions and the nape release are all responsive, specific action.",
-    "character_logic": "Neela's silence, Haran's objection and the queen's refusal are smart choices. Saying only Chathu knows the kennel cages ignores the cage tags.",
-    "stakes_and_cost": "Haran's loss and the pages' new witnesses carry real cost. The ending decision is pending but carries no cost on the page.",
-    "prose": "The opening exchange is misattributed. 'Nobody in the room would ever see it' contradicts a public plea. Similes cluster around 'like a man'.",
-    "continuity": "'For years, she had kept a wall at her back' ties years of habit to a nape trigger only months old (F1063). The charter titles also drift from Rema's roll."
+    "reader_question": "The lone climber and the 'first vote' give a concrete hook, but it is low-threat after a chapter of resolution.",
+    "change": "Hunted becomes chartered; Haran's loyalty is lost; Chathu is sentenced; the crown leaf is undone; the bargain is remade around Devan's body.",
+    "romance_movement": "The bargain is truly new (his hand, her rest), but the public 'Bound by choice' partly replays ch30's declaration.",
+    "shown_chemistry": "Chemistry lives in action: hand on sleeve, the blister welt, the sash knot, 'May I', and his refusing to say 'safe'.",
+    "character_logic": "Neela's silence during Haran's plea is smart and costly. The queen never noticing intake rolls in twenty years strains belief slightly.",
+    "stakes_and_cost": "Haran's regard and the spears are paid on the page, and Sajan chooses. The night scene risks vulnerability, not plot.",
+    "prose": "Mostly clean and concrete, but there is clunky banter, one explanatory paragraph on the price, and 'a long moment' twice.",
+    "continuity": "Matches F998–F1113, F1024, F997, F913, F719 and F1004. No conflicts with the bible or ch30."
   },
   "fixes": [
-    "'It was why, for years, she had kept a wall at her back': this is a continuity conflict. The ring-on-nape trigger comes from the forced turning in book 1, ch 27, months ago, not years. Change it to 'It was why, since then, she had kept a wall at her back.' Alternatively, root the years-long wall habit in the Resin House childhood (the hunters' shadow) and give the nape its own recent origin.",
-    "'\"Neither has she moved,\" said Neela': two consecutive lines go to Neela and the joke does not land. Give Devan 'You keep looking at the road.' Give Neela 'It's a road. It's there. Neither has it moved.' Cut 'Neither has she moved.' Then 'The queen could have a clerk cross out a line. Nobody in the room would ever see it' contradicts Haran's public plea. Rewrite it as: the queen could strike it with one stroke, and the room would have to pretend not to have heard him ask.",
-    "'the death of Devan, warden of Kettamala ... Asha, the warden's sister': these titles drift from Rema's court roll (F680, F555), and Devan has given up his office (F683). Make it 'the writ that paid for the death of Devan, then warden of Kettamala' and 'the killing of Asha, daughter of the late warden, on the west stair'. Also change 'Chathu is the only one who knows which is whose' to 'Chathu knows what each of them was', since the cages are tagged."
+    "Roll scene, 'Write it for me,' he said. 'Mine looks as if a hen': repetitive tension, since ch30 already made the public binding. Make the new element land in Neela. Before she writes, she hands him the reed so he makes one mark himself, then takes it back to finish. Or let her voice catch on 'choice' and have her say why it is new: he asked. Cut Madhavi's and Kandan's commentary to one line.",
+    "Dawn, 'You hitch at nine,' said a voice by her ear: this echoes book 2's hitch beat (F652), and 'She had not known how closely' rings false. Give him a new disclosure. For example, he first counted it the dawn she lay on the ledge in ch2, before she knew he was awake. Replace her reaction with a line that answers that specific fact.",
+    "Prose: rework 'It's a road. It's there. Neither has it moved.' into a cleaner dry line. Cut 'It was the price, and Neela had said it plainly in the shed...' to one sentence, an explanation readers already hold. Replace one of the two 'a long moment' uses, at Haran or at the road."
   ],
-  "reader_question": "Who is the lone climber, and what will the Company decide in its first vote under the charter, with the right to refuse?",
+  "reader_question": "Who is the lone climber, and what will the newly chartered Company choose in its first free vote?",
   "techniques_landed": [
     9,
     14,
     20
   ],
-  "new_facts_assessment": "new-facts.json is empty, yet the draft adds facts. These include the watch-house fabric, Haran's plea to strike the clause and his lost regard, cutting the intake rolls before burning, Sajan burning his leaf, the Chathu sentence terms and the nape trigger. All are already logged as provisional ch31 entries (F994-F1113) and are consistent and needed. The exception is the nape habit 'for years', which contradicts F1063. The new claim that Chathu alone knows which cage is whose conflicts with the cage tags (F550) and the readings (F639). Cut or soften it.",
+  "new_facts_assessment": "new-facts.json is empty, yet the chapter adds facts: Haran's plea and rift, intake rolls cut free before burning, Sajan's dusk naming, the nape-trigger origin, and the exit-counting stopping. All are already logged provisionally (F998–F1113) and are consistent. Cutting rolls free bends Rule 3's 'fastened' wording but is defensible. The draft should list these facts.",
   "content_rule_violation": false,
   "failure_modes": [
-    "Contrived delays"
+    "Repetitive tension"
   ],
-  "average": 3.38,
-  "minimum": 0.0,
-  "passed": false
+  "average": 4.25,
+  "minimum": 4.0,
+  "passed": true
 }

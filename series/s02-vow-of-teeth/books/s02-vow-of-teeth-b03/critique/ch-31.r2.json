@@ -1,7 +1,7 @@
 {
   "scores": {
     "reader_question": 4.0,
-    "change": 4.0,
+    "change": 5.0,
     "romance_movement": 4.0,
     "shown_chemistry": 4.0,
     "character_logic": 4.0,
@@ -10,32 +10,32 @@
     "continuity": 5.0
   },
   "reasons": {
-    "reader_question": "Clear end hook: who is the lone climber, and what will the Company's first chartered vote with the right of refusal decide?",
-    "change": "Hunted becomes chartered on the page. Haran's regard is lost, Chathu is sentenced and the crimes are named. The crown-leaf burning is muddier than the beat.",
-    "romance_movement": "The public vow repeats ch30's binding, but the new reason, Devan asking for her hand aloud and the remade bargain around his body, is fresh.",
-    "shown_chemistry": "Strong responsive action: sleeve grip, the blister held back, the sash knot, taking his weight, him refusing to say 'safe'. The bargain is a little on-the-nose.",
-    "character_logic": "Neela's silence during Haran's plea is smart and earned. The leaves' fate after the rolls are cut is unclear, so the crown may still hold pages.",
-    "stakes_and_cost": "The queen loses her loyal captain and Neela pays in silence. The share's ache under the collarbone prices the intimacy.",
-    "prose": "Lean and varied, with good banter. The roll scene is signposted three times, and the dawn hitch reveal restates itself.",
-    "continuity": "Consistent with F1000-F1064, F719, F849, F862, F942 and F955. 'Waited half a year' for his laugh is a soft risk only."
+    "reader_question": "The lone climber and the 'first vote' give a concrete hook, but it is low-threat after a chapter of resolution.",
+    "change": "Hunted becomes chartered; Haran's loyalty is lost; Chathu is sentenced; the crown leaf is undone; the bargain is remade around Devan's body.",
+    "romance_movement": "The bargain is truly new (his hand, her rest), but the public 'Bound by choice' partly replays ch30's declaration.",
+    "shown_chemistry": "Chemistry lives in action: hand on sleeve, the blister welt, the sash knot, 'May I', and his refusing to say 'safe'.",
+    "character_logic": "Neela's silence during Haran's plea is smart and costly. The queen never noticing intake rolls in twenty years strains belief slightly.",
+    "stakes_and_cost": "Haran's regard and the spears are paid on the page, and Sajan chooses. The night scene risks vulnerability, not plot.",
+    "prose": "Mostly clean and concrete, but there is clunky banter, one explanatory paragraph on the price, and 'a long moment' twice.",
+    "continuity": "Matches F998–F1113, F1024, F997, F913, F719 and F1004. No conflicts with the bible or ch30."
   },
   "fixes": [
-    "At 'The other two folded theirs away and said nothing': it is unclear whether the leaves leave the crown's hand, which breaks the charter clause, and the beat's 'burns with her own hand' is lost. Have the queen hand each remaining leaf to its owner. Change the passive 'The Sold to the crown sheet went in next' so the queen herself feeds the sheet and the empty scorched green case into the basket.",
-    "At 'She heard what he was doing. Nobody in that room' (signposted callback): the asking is explained three times. Cut Neela's line and the closing 'She understood that the line on the roll was the smaller one...' paragraph. Keep only Madhavi's 'He asked her', drop 'Did you hear it?', and let Kandan's reply stand.",
-    "At 'Her whole life that place had been the place' (trauma as decoration / contradiction): the trigger dates from one Resin House night, not her whole life. Change it to 'Since the Resin House yard'. Then name one choice the trigger has shaped, such as never letting anyone walk behind her. Also revise 'the slow dry laugh she had waited half a year for', since he has laughed before; try 'the laugh he spent so rarely'."
+    "Roll scene, 'Write it for me,' he said. 'Mine looks as if a hen': repetitive tension, since ch30 already made the public binding. Make the new element land in Neela. Before she writes, she hands him the reed so he makes one mark himself, then takes it back to finish. Or let her voice catch on 'choice' and have her say why it is new: he asked. Cut Madhavi's and Kandan's commentary to one line.",
+    "Dawn, 'You hitch at nine,' said a voice by her ear: this echoes book 2's hitch beat (F652), and 'She had not known how closely' rings false. Give him a new disclosure. For example, he first counted it the dawn she lay on the ledge in ch2, before she knew he was awake. Replace her reaction with a line that answers that specific fact.",
+    "Prose: rework 'It's a road. It's there. Neither has it moved.' into a cleaner dry line. Cut 'It was the price, and Neela had said it plainly in the shed...' to one sentence, an explanation readers already hold. Replace one of the two 'a long moment' uses, at Haran or at the road."
   ],
-  "reader_question": "Who is the lone man climbing the pass road at grey, and will the Company's first vote under the charter be a refusal of the crown?",
+  "reader_question": "Who is the lone climber, and what will the newly chartered Company choose in its first free vote?",
   "techniques_landed": [
     9,
     14,
     20
   ],
-  "new_facts_assessment": "The roll asking (F1064) is necessary and grows naturally from 'say it before you do it'. The nape trigger (F1063) fits F232 and F444, but it is unplanted, and 'her whole life' contradicts its single-event origin. It should be anchored or trimmed.",
+  "new_facts_assessment": "new-facts.json is empty, yet the chapter adds facts: Haran's plea and rift, intake rolls cut free before burning, Sajan's dusk naming, the nape-trigger origin, and the exit-counting stopping. All are already logged provisionally (F998–F1113) and are consistent. Cutting rolls free bends Rule 3's 'fastened' wording but is defensible. The draft should list these facts.",
   "content_rule_violation": false,
   "failure_modes": [
-    "Trauma as decoration"
+    "Repetitive tension"
   ],
-  "average": 4.12,
+  "average": 4.25,
   "minimum": 4.0,
   "passed": true
 }
