@@ -625,7 +625,7 @@
       }
     },
     "21": {
-      "status": "passed",
+      "status": "edited",
       "revisions": 1,
       "scores": {
         "reader_question": 4.0,
@@ -639,18 +639,18 @@
       },
       "average": 4.12,
       "flags": [],
-      "words": 2794,
+      "words": 2795,
       "minimum": 4.0,
       "style": {
-        "words": 2951,
+        "words": 2795,
         "banned_hits": {},
         "ai_tell_hits": {},
         "ai_tells_per_1000": 0.0,
         "top_4gram": "with the company standing",
         "top_4gram_count": 2,
-        "longest_paragraph_words": 132,
+        "longest_paragraph_words": 127,
         "em_dashes_per_1000": 0.0,
-        "reading_ease": 96.6
+        "reading_ease": 96.8
       },
       "owner_instructions": [
         "Writ location (owner fix 2). Where: the dawn beat when Neela opens the hollow in the shutter frame. What's wrong: ch 2 established that Devan carried the payment writ up the hill in his pack, so it can't 'still be there' in the hollow. Change: the hollow holds the chit and the gift seal. Devan takes the oilcloth with the writ from his pack and puts it back in the hollow behind the third slat while she watches. One or two concrete sentences are enough. Keep his line that he will read the writ aloud before the queen. This makes ch 30's 'lifted it out of the hollow behind the third slat at dawn' true.",
@@ -2356,9 +2356,13 @@
     {
       "at": "2026-10-31T21:30:13",
       "event": "done: S8 line edit ch 16"
+    },
+    {
+      "at": "2026-10-31T21:30:43",
+      "event": "done: S8 line edit ch 21"
     }
   ],
-  "updated_at": "2026-10-31T21:30:13",
+  "updated_at": "2026-10-31T21:30:43",
   "midpoint_chapter": 16,
   "continuity_attempts": 0,
   "continuity_last_errors": null,
