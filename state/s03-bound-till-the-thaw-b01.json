@@ -128,7 +128,7 @@
       }
     },
     "05": {
-      "status": "passed",
+      "status": "edited",
       "revisions": 1,
       "scores": {
         "reader_question": 4.0,
@@ -142,8 +142,19 @@
       },
       "average": 4.0,
       "flags": [],
-      "words": 2631,
-      "minimum": 3.0
+      "words": 2620,
+      "minimum": 3.0,
+      "style": {
+        "words": 2620,
+        "banned_hits": {},
+        "ai_tell_hits": {},
+        "ai_tells_per_1000": 0.0,
+        "top_4gram": "she was looking for",
+        "top_4gram_count": 2,
+        "longest_paragraph_words": 91,
+        "em_dashes_per_1000": 0.76,
+        "reading_ease": 95.5
+      }
     },
     "06": {
       "status": "passed",
@@ -1281,9 +1292,13 @@
     {
       "at": "2026-10-31T21:00:25",
       "event": "done: S8 line edit ch 4"
+    },
+    {
+      "at": "2026-10-31T21:01:02",
+      "event": "done: S8 line edit ch 5"
     }
   ],
-  "updated_at": "2026-10-31T21:00:25",
+  "updated_at": "2026-10-31T21:01:02",
   "midpoint_chapter": 16,
   "continuity_attempts": 1,
   "continuity_last_errors": 1
