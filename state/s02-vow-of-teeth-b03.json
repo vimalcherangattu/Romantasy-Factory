@@ -3,7 +3,7 @@
   "series_id": "s02-vow-of-teeth",
   "number": 3,
   "title": "Crown of Night",
-  "status": "blocked",
+  "status": "in_progress",
   "stage": "S3",
   "done": [
     "S3"
@@ -2328,12 +2328,16 @@
     {
       "at": "2026-10-31T20:44:18",
       "event": "blocked at S7 continuity: 1 major continuity errors remain after 1 fix round(s): ch 14: Devan thinks he 'knew nothing of its stairs' and knew only that Neela would go 'where the city was loudest'. In ch 2 Neela told him Usha's exact line ('come by the sea stair at the noon gun'), and in ch 3 the plan was argued in front of him. He knows the sea stair and the hour."
+    },
+    {
+      "at": "2026-10-31T21:13:43",
+      "event": "unblocked by owner"
     }
   ],
-  "updated_at": "2026-10-31T20:44:18",
+  "updated_at": "2026-10-31T21:13:43",
   "midpoint_chapter": 16,
-  "continuity_attempts": 1,
-  "continuity_last_errors": 1,
+  "continuity_attempts": 0,
+  "continuity_last_errors": null,
   "package": {
     "problems": [],
     "epubcheck": true,
