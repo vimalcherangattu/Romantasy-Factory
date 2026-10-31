@@ -1,41 +1,42 @@
 {
   "scores": {
-    "reader_question": 4.0,
+    "reader_question": 2.0,
     "change": 4.0,
     "romance_movement": 4.0,
     "shown_chemistry": 4.0,
     "character_logic": 4.0,
-    "stakes_and_cost": 4.0,
+    "stakes_and_cost": 3.0,
     "prose": 4.0,
-    "continuity": 5.0
+    "continuity": 0.0
   },
   "reasons": {
-    "reader_question": "Clear end hook: who is the lone climber, and what will the Company's first chartered vote with the right of refusal decide?",
-    "change": "Hunted becomes chartered on the page. Haran's regard is lost, Chathu is sentenced and the crimes are named. The crown-leaf burning is muddier than the beat.",
-    "romance_movement": "The public vow repeats ch30's binding, but the new reason, Devan asking for her hand aloud and the remade bargain around his body, is fresh.",
-    "shown_chemistry": "Strong responsive action: sleeve grip, the blister held back, the sash knot, taking his weight, him refusing to say 'safe'. The bargain is a little on-the-nose.",
-    "character_logic": "Neela's silence during Haran's plea is smart and earned. The leaves' fate after the rolls are cut is unclear, so the crown may still hold pages.",
-    "stakes_and_cost": "The queen loses her loyal captain and Neela pays in silence. The share's ache under the collarbone prices the intimacy.",
-    "prose": "Lean and varied, with good banter. The roll scene is signposted three times, and the dawn hitch reveal restates itself.",
-    "continuity": "Consistent with F1000-F1064, F719, F849, F862, F942 and F955. 'Waited half a year' for his laugh is a soft risk only."
+    "reader_question": "The chapter ends on a tender sleeve request. Nothing points to the beat's question about the Company's first vote, so there is no outward pull to ch 32.",
+    "change": "Hunted becomes chartered on the page. The queen loses her knives and Haran's regard, Chathu is sentenced, and the crown leaf is undone.",
+    "romance_movement": "The vow is made public and the bargain is remade around his dead hand: she is his hand, he is her rest. The reason for the change is new.",
+    "shown_chemistry": "Shown through responsive acts: the sleeve grip, 'Between sums', asking aloud, taking his weight. The line 'He learned fast' tips briefly into telling.",
+    "character_logic": "Neela's silence during Haran's plea is smart and costly. The queen missing the looped rolls for twenty years strains belief a little.",
+    "stakes_and_cost": "Haran's plea and his lost loyalty bite hard. After the tent, though, no next decision carries a price.",
+    "prose": "Clean and concrete, with no banned phrases and one em dash. 'Sleeves touching' repeats three times, and 'a loyal man's plea, and a fair one' is editorialising.",
+    "continuity": "The queen hands the crown leaves back without reading them aloud by daylight, which breaks Rule 3 (F011). The nape habit clashes with Devan standing behind her."
   },
   "fixes": [
-    "At 'The other two folded theirs away and said nothing': it is unclear whether the leaves leave the crown's hand, which breaks the charter clause, and the beat's 'burns with her own hand' is lost. Have the queen hand each remaining leaf to its owner. Change the passive 'The Sold to the crown sheet went in next' so the queen herself feeds the sheet and the empty scorched green case into the basket.",
-    "At 'She heard what he was doing. Nobody in that room' (signposted callback): the asking is explained three times. Cut Neela's line and the closing 'She understood that the line on the roll was the smaller one...' paragraph. Keep only Madhavi's 'He asked her', drop 'Did you hear it?', and let Kandan's reply stand.",
-    "At 'Her whole life that place had been the place' (trauma as decoration / contradiction): the trigger dates from one Resin House night, not her whole life. Change it to 'Since the Resin House yard'. Then name one choice the trigger has shaped, such as never letting anyone walk behind her. Also revise 'the slow dry laugh she had waited half a year for', since he has laughed before; try 'the laugh he spent so rarely'."
+    "'The queen gave each their own leaf, with both hands, and did not say a word.' Failure mode: worldbuilding collapse. Rule 3 says a handover must be read aloud in full by the holder, by daylight, before the subject. Have the queen read each leaf aloud at noon, with only that guard and whoever they choose at the basket, while the Company turns away. Add one line naming the cost: those standing near now hold the shape.",
+    "'\"My sleeve,\" said Devan. \"If you would.\"' Failure mode: the chapter has no hook, and the beat's question is missing. Keep the sleeve line, then add a short beat: Kuttu's horn sounds from the watch-house at first grey, and a lone climber is on the pass road with no riders behind. Devan, one-armed in the half-done sleeve, says it is the Company's first vote under the charter, with the right to refuse. This matches what ch 32 expects (F1062, F1070).",
+    "'It was why she never let anyone walk behind her, in a lane or a hall or a kitchen.' Failure mode: trauma as decoration, and a continuity clash. Devan stands 'a step behind Neela's shoulder' on page one, and has done so since F907/F917. Replace the line with something like 'It was why, for years, she had kept a wall at her back, and why letting him stand there had cost her.' That ties the trigger to choices we have already seen."
   ],
-  "reader_question": "Who is the lone man climbing the pass road at grey, and will the Company's first vote under the charter be a refusal of the crown?",
+  "reader_question": "With the charter signed, what will the Company do with its first chance to say yes or no?",
   "techniques_landed": [
     9,
     14,
     20
   ],
-  "new_facts_assessment": "The roll asking (F1064) is necessary and grows naturally from 'say it before you do it'. The nape trigger (F1063) fits F232 and F444, but it is unplanted, and 'her whole life' contradicts its single-event origin. It should be anchored or trimmed.",
+  "new_facts_assessment": "Sajan's self-naming to Sanu is a fair payoff of F882 and F1056, and Sanu's second share has a precedent in Usha (F986). The guards' pages being handed over in silence conflicts with the bible's handover rule. Cutting the rolls free from the leaves works as a loophole, but it quietly cheapens Thilak's choice in F724; one line acknowledging that would protect it. The nape trigger is rooted in F444 and is necessary for the tent beat. The added habit 'never let anyone walk behind her' contradicts the opening image and F907/F917, so cut it or qualify it.",
   "content_rule_violation": false,
   "failure_modes": [
+    "Worldbuilding collapse",
     "Trauma as decoration"
   ],
-  "average": 4.12,
-  "minimum": 4.0,
-  "passed": true
+  "average": 3.12,
+  "minimum": 0.0,
+  "passed": false
 }

@@ -3,37 +3,40 @@
     "reader_question": 2.0,
     "change": 4.0,
     "romance_movement": 4.0,
-    "shown_chemistry": 5.0,
+    "shown_chemistry": 4.0,
     "character_logic": 4.0,
-    "stakes_and_cost": 2.0,
+    "stakes_and_cost": 3.0,
     "prose": 4.0,
-    "continuity": 5.0
+    "continuity": 0.0
   },
   "reasons": {
-    "reader_question": "The chapter ends on a closed, tender beat. The beat's question about the Company's first vote is never raised, so the reader carries no specific gap out.",
-    "change": "Hunted becomes chartered on the page: the signature, Muthu's seal, the burned sheet and Chathu's sentence. Power shifts visibly from crown to Company.",
-    "romance_movement": "The bargain is rebuilt around his dead hand, for a new reason: she becomes his hand, he becomes her rest. 'Bound by choice' renews the vow publicly.",
-    "shown_chemistry": "Strong responsive action: the blister held back, the sash unknotted like a lock, asking aloud, taking his weight, the sleeve threaded. Nothing is narrated.",
-    "character_logic": "Neela stopping the burn to save the rolls and asking for Chathu's sentence is smart and in character. The queen's blindness about the rolls is credible.",
-    "stakes_and_cost": "The queen reads the clauses without resistance, and the only opposition is one 'Majesty—'. Nothing ahead costs anyone a choice.",
-    "prose": "Clean, concrete and varied. A few told beats ('something she had held tight... let go', 'Nobody breathed') and a redundant 'Door, flap' in a tent.",
-    "continuity": "Consistent with F994-F1004 and F1024: three crown leaves, Kirri third from the end, the hitch counts, the ages and the green sash. Omissions are flagged in the fixes."
+    "reader_question": "The chapter ends on a tender sleeve request. Nothing points to the beat's question about the Company's first vote, so there is no outward pull to ch 32.",
+    "change": "Hunted becomes chartered on the page. The queen loses her knives and Haran's regard, Chathu is sentenced, and the crown leaf is undone.",
+    "romance_movement": "The vow is made public and the bargain is remade around his dead hand: she is his hand, he is her rest. The reason for the change is new.",
+    "shown_chemistry": "Shown through responsive acts: the sleeve grip, 'Between sums', asking aloud, taking his weight. The line 'He learned fast' tips briefly into telling.",
+    "character_logic": "Neela's silence during Haran's plea is smart and costly. The queen missing the looped rolls for twenty years strains belief a little.",
+    "stakes_and_cost": "Haran's plea and his lost loyalty bite hard. After the tent, though, no next decision carries a price.",
+    "prose": "Clean and concrete, with no banned phrases and one em dash. 'Sleeves touching' repeats three times, and 'a loyal man's plea, and a fair one' is editorialising.",
+    "continuity": "The queen hands the crown leaves back without reading them aloud by daylight, which breaks Rule 3 (F011). The nape habit clashes with Devan standing behind her."
   },
   "fixes": [
-    "At 'Then she helped him find his sleeve.': the ending has no hook, and ch32 depends on F1005/F1012. Add the interruption caused by the story: while she threads the cuff, Kuttu's horn sounds from the watch-house. Kuttu calls a lone climber on the pass road at grey. Devan says it will be the Company's first vote under the charter, with the right to refuse. End on Neela stepping out with his coat half on.",
-    "At 'Rema's pen lifted and waited.': the Nellimala clause costs nothing (stakes without depth). Make Haran step forward and ask the queen, before sixty crown and Company witnesses, to strike the clause naming the raids. Make her choose aloud to keep it, so it visibly costs her captain's regard. Give Neela a beat where she must decide whether to speak or let the queen carry it.",
-    "At 'something she had held tight since she was six years old let go': this is told interiority. Replace it with a concrete act tied to her history: she lets his hand rest at the back of her neck, the old 'wait' place, and does not stiffen. Also replace 'Nobody breathed.' with one specific sound or gesture, and cut 'flap' from 'Door, flap, the seam by the pole'."
+    "'The queen gave each their own leaf, with both hands, and did not say a word.' Failure mode: worldbuilding collapse. Rule 3 says a handover must be read aloud in full by the holder, by daylight, before the subject. Have the queen read each leaf aloud at noon, with only that guard and whoever they choose at the basket, while the Company turns away. Add one line naming the cost: those standing near now hold the shape.",
+    "'\"My sleeve,\" said Devan. \"If you would.\"' Failure mode: the chapter has no hook, and the beat's question is missing. Keep the sleeve line, then add a short beat: Kuttu's horn sounds from the watch-house at first grey, and a lone climber is on the pass road with no riders behind. Devan, one-armed in the half-done sleeve, says it is the Company's first vote under the charter, with the right to refuse. This matches what ch 32 expects (F1062, F1070).",
+    "'It was why she never let anyone walk behind her, in a lane or a hall or a kitchen.' Failure mode: trauma as decoration, and a continuity clash. Devan stands 'a step behind Neela's shoulder' on page one, and has done so since F907/F917. Replace the line with something like 'It was why, for years, she had kept a wall at her back, and why letting him stand there had cost her.' That ties the trigger to choices we have already seen."
   ],
-  "reader_question": "What will the newly chartered Company's first vote be, now that it has the right to refuse the crown?",
+  "reader_question": "With the charter signed, what will the Company do with its first chance to say yes or no?",
   "techniques_landed": [
     9,
     14,
     20
   ],
-  "new_facts_assessment": "The draft lists no new facts, but it adds several: the watch-house's laterite walls, slate roof and doorless frame; Kuttu lighting the basket; Haran carrying the case; the queen never noticing the looped rolls; the 'hand on the neck means wait' habit; and Devan counting Neela's hitch every morning since the wedding. All are consistent and most are useful, but they must be logged. The queen not burning every crown leaf departs from the beat and bible, but F1052 justifies it.",
+  "new_facts_assessment": "Sajan's self-naming to Sanu is a fair payoff of F882 and F1056, and Sanu's second share has a precedent in Usha (F986). The guards' pages being handed over in silence conflicts with the bible's handover rule. Cutting the rolls free from the leaves works as a loophole, but it quietly cheapens Thilak's choice in F724; one line acknowledging that would protect it. The nape trigger is rooted in F444 and is necessary for the tent beat. The added habit 'never let anyone walk behind her' contradicts the opening image and F907/F917, so cut it or qualify it.",
   "content_rule_violation": false,
-  "failure_modes": [],
-  "average": 3.75,
-  "minimum": 2.0,
+  "failure_modes": [
+    "Worldbuilding collapse",
+    "Trauma as decoration"
+  ],
+  "average": 3.12,
+  "minimum": 0.0,
   "passed": false
 }
