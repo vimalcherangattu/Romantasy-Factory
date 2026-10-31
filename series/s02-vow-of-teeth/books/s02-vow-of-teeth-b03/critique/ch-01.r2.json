@@ -2,41 +2,40 @@
   "scores": {
     "reader_question": 4.0,
     "change": 4.0,
-    "romance_movement": 3.0,
-    "shown_chemistry": 3.0,
-    "character_logic": 3.0,
-    "stakes_and_cost": 3.0,
-    "prose": 3.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 4.0,
+    "stakes_and_cost": 4.0,
+    "prose": 4.0,
     "continuity": 5.0
   },
   "reasons": {
-    "reader_question": "The queen's knife arrives alone with open hands and her pared seam shown. That is a specific, urgent gap for the next chapter.",
-    "change": "Hidden safety becomes war at the door. The treaty is broken, the coast is burning, the Company has a war vote and the crown's agent has found them.",
-    "romance_movement": "Neela's admiration of Devan binding himself to the vote is a new reason. She bears no cost and makes no choice beyond raising her hand.",
-    "shown_chemistry": "The hand that doesn't stay and the shared look over the vote are good. 'She loved the corner of his mouth' is narrated.",
-    "character_logic": "Neela never weighs the wound-share when Devan proposes holding a gorge. The news and the crown order also reach the hill implausibly fast.",
-    "stakes_and_cost": "The coast's losses are vivid (Thulasi, Kirri). The vote costs the voters nothing personal, and Neela's own body-stake is missing.",
-    "prose": "Concrete and well paced. It slips into clichés ('felt rather than saw', 'let out its breath'), overuses 'He did not', and the last line muddles.",
-    "continuity": "Consistent with the bible and the facts: Kirri, Indu of Nellimala, eleven wardens' seal, Pachan, Madhavi, the sash and 'It passes'."
+    "reader_question": "Lone pared-wrist knife says Neela's name in daylight; specific and urgent, though her purpose is not yet framed as bargain versus cage.",
+    "change": "Safety becomes war: sixty sails, burning villages, Devan voted down the hill, and the crown's knife arrives at the door.",
+    "romance_movement": "New reason for change: Neela watches him bind himself to the Company's vote, lowers her own hand, and lets them speak first.",
+    "shown_chemistry": "Strong responsive beats: watching his mouth ease, the brief hand between her shoulders, the silent wrist look and her answer.",
+    "character_logic": "Devan asking leave fits his arc. Thilak calling on Pachan's distant grove tappers to reach the pass scree in three days does not.",
+    "stakes_and_cost": "The wound-share makes his risk her body. Thin resin and Kirri's fading add personal weight. Ninety days of cost land cleanly.",
+    "prose": "Clean, concrete, no banned phrases. Muddled ship count, two consecutive 'He' paragraph openings, and dense series callbacks for a book opener.",
+    "continuity": "Ages, plank count, vote numbers, Kirri, Thulasi, Muthu's order and First Guard's seam all match bible and facts."
   },
   "fixes": [
-    "At 'I mean to go down and hold the gorge', Neela never thinks of the wound-share. That is a stakes-without-depth and character-logic failure: a spear in him opens on her. Add two or three lines before her hand rises in which she registers the cost, so raising it last is a costly choice. Devan could also name it to her in the look ('That's yours too').",
-    "The last lines, 'Neela had seen a great many wrists like it... They were never smooth.', contradict themselves: the seam is smooth, and odiyan wrists are ridged. Rewrite so the logic lands. She has seen hundreds of wrists of her kind, all ridged, and only one kind is pared flat, which is what Vellan said the queen's surgeon does. End on that recognition.",
-    "At 'They came ashore at first light, and they didn't sneak', the timing fails: the boy reports the landing, burned villages and Muthu reading a crown order by noon, up a two-day climb. Make the landing two dawns ago, hidden under the cloud. Make Muthu's paper a standing order for a fleet landing that the queen sent before the rains. Then the sails and the smoke make sense."
+    "At '\"Fifty-eight.\" He said it like a tally': the count reads as Devan contradicting himself, and the enemy is never named, though a book 3 opener needs it. Rewrite as: 'Fifty-eight Thurai hulls. The two at the tail are beach boats under tow. Sixty.' Also name Thurai once in the treaty lines ('The Thurai sea lords stopped waiting').",
+    "At 'Pachan's tappers know the scree,\" said Thilak': this is a logic hole. Pachan's tappers are in the Blackbark Wood, far beyond Kettamala, and cannot know or reach the pass scree in three days. Change it to people who plausibly can: 'Kesu's goat-men know the scree. I'll send the boy back down with word.' This also gives Kesu's grandson a job.",
+    "At 'He wasn't looking at her.' / 'He could have asked her.': two consecutive paragraphs open on the same word, which breaks the style rule. Recast the second as 'Rank would have done it for him. So would she.' Also trim one opaque callback for new readers: cut the 'Madhavi, who had once closed her teeth on Devan's thigh' clause to 'Madhavi's, unhurried.'"
   ],
-  "reader_question": "Why has one of the queen's pared-wrist night-guard climbed alone to the Company with open hands as the fleet lands, and does she come to bargain or to cage?",
+  "reader_question": "Why has the queen's First Guard climbed alone, open-handed, to the Company's hideout, and what does she want with Neela?",
   "techniques_landed": [
     1,
-    5
+    5,
+    6
   ],
-  "new_facts_assessment": "Needed and consistent: Pazhayangadi burned (pays off Thulasi), the forty-pace gorge in three days, the crown order on the stair, the vote binding Devan, the 27/11/4 resin vote (adds up to 42 with Neela and Vellan; the 41 names on the plank fits). The First Guard description matches F454, F471, F477 and F684. Kesu staying at the well is harmless texture. Watch two things: Vellan holds a bird while Kamalakshi has 'Vellan's carved bird' in her lap, and Thilak's 'a pinch a night' conflicts with cutting the cup into forty-two shares once. Technique 6 is only gestured at, with no stated odds for the gorge.",
+  "new_facts_assessment": "new-facts.json is empty, but the draft adds unlogged facts. Pachan's runner reaches the shelter the same day as Kesu's grandson, which is coincidental but harmless. Devan carries no sword, which is necessary and should be logged. Thilak sends to 'Pachan's tappers' for the gorge, which is inconsistent with the groves' distance; cut it or reassign it. The other details (standing order before the rains, Pazhayangadi burned, two-dawn landing, Kamalakshi's laugh three months back) are consistent with F1082, F1085 and F1086. Log the sword and runner facts.",
   "content_rule_violation": false,
   "failure_modes": [
-    "Irrational behaviour to extend plot",
-    "Narrated-only chemistry",
-    "Stakes without depth"
+    "Worldbuilding collapse"
   ],
-  "average": 3.5,
-  "minimum": 3.0,
+  "average": 4.12,
+  "minimum": 4.0,
   "passed": true
 }

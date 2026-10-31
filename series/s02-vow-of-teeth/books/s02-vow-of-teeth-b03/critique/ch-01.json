@@ -1,41 +1,41 @@
 {
   "scores": {
-    "reader_question": 5.0,
+    "reader_question": 4.0,
     "change": 4.0,
     "romance_movement": 4.0,
     "shown_chemistry": 4.0,
     "character_logic": 4.0,
     "stakes_and_cost": 4.0,
     "prose": 4.0,
-    "continuity": 0.0
+    "continuity": 5.0
   },
   "reasons": {
-    "reader_question": "The ending is a sharp, specific gap: the queen's pared-wrist knife arrives alone, in daylight, and says Neela's name.",
-    "change": "The state shifts from hidden safety to war. Devan binds himself to the vote, and a crown agent is at the door.",
-    "romance_movement": "New reason: Neela watches him submit his goal to the Company and ask leave of her body without leaning on her.",
-    "shown_chemistry": "Strong responsive beats: she watches his mouth until it eases, the brief hand on her back, the wrist glance. One admiration paragraph is narrated.",
-    "character_logic": "Devan's asking fits his arc. Neela, the Company's leader, says nothing during the debate, which is slightly passive.",
-    "stakes_and_cost": "The wound-share makes his gorge stand her risk too. Thulasi, Kesu and Kirri give the stakes names.",
-    "prose": "Concrete and varied, and no banned phrases. A few tells creep in ('which was how she knew', 'too quick to be kind').",
-    "continuity": "'A number on a page she'd never seen' conflicts with F664: Neela has seen and checked the 'Sold to the crown' sheet."
+    "reader_question": "Lone pared-wrist knife says Neela's name in daylight; specific and urgent, though her purpose is not yet framed as bargain versus cage.",
+    "change": "Safety becomes war: sixty sails, burning villages, Devan voted down the hill, and the crown's knife arrives at the door.",
+    "romance_movement": "New reason for change: Neela watches him bind himself to the Company's vote, lowers her own hand, and lets them speak first.",
+    "shown_chemistry": "Strong responsive beats: watching his mouth ease, the brief hand between her shoulders, the silent wrist look and her answer.",
+    "character_logic": "Devan asking leave fits his arc. Thilak calling on Pachan's distant grove tappers to reach the pass scree in three days does not.",
+    "stakes_and_cost": "The wound-share makes his risk her body. Thin resin and Kirri's fading add personal weight. Ninety days of cost land cleanly.",
+    "prose": "Clean, concrete, no banned phrases. Muddled ship count, two consecutive 'He' paragraph openings, and dense series callbacks for a book opener.",
+    "continuity": "Ages, plank count, vote numbers, Kirri, Thulasi, Muthu's order and First Guard's seam all match bible and facts."
   },
   "fixes": [
-    "'as a number on a page she'd never seen': this is a continuity conflict, because Neela laid the stubs beside the 'Sold to the crown' sheet (F664). Change it to 'as thirty numbers on a sheet, never a face', so the gap is faces, not the page.",
-    "'We broke it, by shutting the door the queen kept open.': this is a missed beat element and opaque to a returning reader. Add one or two lines of Devan's literal facts: Ittan is dead, Muthu seals the pass honestly, no more sold passages, so the sea lords stopped waiting. Keep it as tally-like speech.",
-    "'Asking her would have been easy. She'd have said yes': this is narrated admiration. Cut it to one line. Then add a responsive action, for example Neela starts to speak for him, stops, and lowers her half-raised hand so the Company votes first, which shows her choosing not to lead him."
+    "At '\"Fifty-eight.\" He said it like a tally': the count reads as Devan contradicting himself, and the enemy is never named, though a book 3 opener needs it. Rewrite as: 'Fifty-eight Thurai hulls. The two at the tail are beach boats under tow. Sixty.' Also name Thurai once in the treaty lines ('The Thurai sea lords stopped waiting').",
+    "At 'Pachan's tappers know the scree,\" said Thilak': this is a logic hole. Pachan's tappers are in the Blackbark Wood, far beyond Kettamala, and cannot know or reach the pass scree in three days. Change it to people who plausibly can: 'Kesu's goat-men know the scree. I'll send the boy back down with word.' This also gives Kesu's grandson a job.",
+    "At 'He wasn't looking at her.' / 'He could have asked her.': two consecutive paragraphs open on the same word, which breaks the style rule. Recast the second as 'Rank would have done it for him. So would she.' Also trim one opaque callback for new readers: cut the 'Madhavi, who had once closed her teeth on Devan's thigh' clause to 'Madhavi's, unhurried.'"
   ],
-  "reader_question": "Why has the queen sent one of her hidden knives alone up the goat path, and what does she want with Neela?",
+  "reader_question": "Why has the queen's First Guard climbed alone, open-handed, to the Company's hideout, and what does she want with Neela?",
   "techniques_landed": [
     1,
     5,
     6
   ],
-  "new_facts_assessment": "Plank of forty-one names, Vellan unlisted: this is necessary and consistent with F740, F1077 and the text. It correctly supersedes F1087. No other new facts conflict.",
+  "new_facts_assessment": "new-facts.json is empty, but the draft adds unlogged facts. Pachan's runner reaches the shelter the same day as Kesu's grandson, which is coincidental but harmless. Devan carries no sword, which is necessary and should be logged. Thilak sends to 'Pachan's tappers' for the gorge, which is inconsistent with the groves' distance; cut it or reassign it. The other details (standing order before the rains, Pazhayangadi burned, two-dawn landing, Kamalakshi's laugh three months back) are consistent with F1082, F1085 and F1086. Log the sword and runner facts.",
   "content_rule_violation": false,
   "failure_modes": [
-    "Narrated-only chemistry"
+    "Worldbuilding collapse"
   ],
-  "average": 3.62,
-  "minimum": 0.0,
-  "passed": false
+  "average": 4.12,
+  "minimum": 4.0,
+  "passed": true
 }
