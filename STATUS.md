@@ -1,26 +1,27 @@
 # Status
 
-Last updated: 2026-10-27
+Last updated: 2026-11-01
 
 ## Current state
 - Live on KDP (pen name Anya Kalloor, series The Odiyan Contracts):
   - Vow of Teeth, B0HNPFZT9M
   - Oath of Claws, B0HNT2V324
   - Both ebooks; the ledger has no paperback logged.
-- KDP week of 25 Oct: 1 ebook + 1 paperback reserved for Any Fool Can Have a Baby Book 1
-  (Task Hub still "waiting"); 1 ebook slot free for romantasy. Week of 1 Nov: all free.
-- Week of 26 Oct-1 Nov: no book has reached review yet (cap 1).
-- 64 tests pass. Usage to date: 984 calls, 9.26M output tokens (`state/usage.csv`).
+- In review: Crown of Night (s02 b03), 92,405 words. Beta reader says "revise", predicted
+  rating 4.2. Cover done. Task Hub todo for the owner, due 1 Nov.
+- KDP week of 1 Nov: 1 ebook + 1 paperback reserved for parenting Book 1 (slipped from 25 Oct),
+  1 ebook free for Crown of Night. Parenting Book 2 reserved for the week of 22 Nov.
+- Week of 26 Oct-1 Nov: review cap used (Crown of Night).
+- 64 tests pass. Usage to date: 1093 calls, 10.2M output tokens (`state/usage.csv`).
 
 ## In progress
-- s02-vow-of-teeth-b03 (Crown of Night): 32/32 chapters, beta-reader revision round (status
-  revising), then line edit and package. Cover done 27 Oct. Ch 26 and 31 hand-patched 26 Oct.
-- s03-bound-till-the-thaw-b01 (Mira Sangla): 32/32 chapters, S7 continuity check.
+- s03-bound-till-the-thaw-b01 (Mira Sangla): S7 and book check done; line edit at ch 27 of 32.
 - Queued: s03 b02-b04; s01 archived.
 
 ## Next step
-- Sat night (Sun 1 Nov, 00:52 IST): factory run, up to 2 passes; Crown of Night is closest to
-  review. Sun 1 Nov 10:00 IST upload slot: no romantasy book approved yet.
+- Sun 1 Nov 10:00 IST upload slot: Crown of Night, if the owner approves it.
+- Sun night (Mon 2 Nov, 00:52 IST): new week; factory run, up to 2 passes. Bound till the Thaw
+  b1 is closest to review and will need its first cover.
 
 ## Known issues
 - The auto-approve / auto-publish change requested on 21 Oct was refused by the permission
