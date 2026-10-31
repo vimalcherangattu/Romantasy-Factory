@@ -10,7 +10,8 @@
     "S7",
     "book_check",
     "S9",
-    "S10"
+    "S10",
+    "beta_read"
   ],
   "chapters": {
     "01": {
@@ -2400,9 +2401,13 @@
     {
       "at": "2026-10-31T21:37:40",
       "event": "done: S10 package"
+    },
+    {
+      "at": "2026-10-31T21:39:17",
+      "event": "done: beta read"
     }
   ],
-  "updated_at": "2026-10-31T21:37:40",
+  "updated_at": "2026-10-31T21:39:17",
   "midpoint_chapter": 16,
   "continuity_attempts": 0,
   "continuity_last_errors": null,
@@ -2429,9 +2434,9 @@
   },
   "beta": {
     "verdict": "revise",
-    "predicted_rating": 4.1,
-    "summary": "A satisfying closing book. The midpoint witness reveal recasts the first half, the heroine's belief change is earned on the page, and the charter, Vellan's death and the lost hand give the ending real weight. A few fixable continuity contradictions, a deflated cliffhanger between chapters 31 and 32, and some narration that explains what the scene already showed keep it from a clean approve.",
-    "notes": "series/s02-vow-of-teeth/books/s02-vow-of-teeth-b03/beta-notes-2.md"
+    "predicted_rating": 4.2,
+    "summary": "A strong finale: the vote-driven opening, the 'you are the page' midpoint and the open-record charter all deliver the married-couple promise, with chemistry built from consent and the shared wound rather than heat alone. A handful of fixable problems hold it back from a clean 4.5: a dropped ch31 cliffhanger, an over-signposted plain-ink twist, a queen who confesses three times, a sprawling epilogue, and a blurb that calls a book with a series hinge a 'finale'.",
+    "notes": "series/s02-vow-of-teeth/books/s02-vow-of-teeth-b03/beta-notes-3.md"
   },
   "beta_rounds": 2,
   "pending_owner_notes": null,
