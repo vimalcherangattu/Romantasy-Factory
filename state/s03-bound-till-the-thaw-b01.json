@@ -569,7 +569,7 @@
       }
     },
     "20": {
-      "status": "passed",
+      "status": "edited",
       "revisions": 1,
       "scores": {
         "reader_question": 4.0,
@@ -583,8 +583,19 @@
       },
       "average": 4.5,
       "flags": [],
-      "words": 2717,
-      "minimum": 4.0
+      "words": 2716,
+      "minimum": 4.0,
+      "style": {
+        "words": 2716,
+        "banned_hits": {},
+        "ai_tell_hits": {},
+        "ai_tells_per_1000": 0.0,
+        "top_4gram": "on her knee and",
+        "top_4gram_count": 2,
+        "longest_paragraph_words": 96,
+        "em_dashes_per_1000": 1.1,
+        "reading_ease": 94.8
+      }
     },
     "21": {
       "status": "passed",
@@ -1506,9 +1517,13 @@
     {
       "at": "2026-10-31T21:09:00",
       "event": "done: S8 line edit ch 19"
+    },
+    {
+      "at": "2026-10-31T21:09:30",
+      "event": "done: S8 line edit ch 20"
     }
   ],
-  "updated_at": "2026-10-31T21:09:00",
+  "updated_at": "2026-10-31T21:09:30",
   "midpoint_chapter": 16,
   "continuity_attempts": 1,
   "continuity_last_errors": 1
