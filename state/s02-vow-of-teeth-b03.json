@@ -985,7 +985,7 @@
       ]
     },
     "32": {
-      "status": "passed",
+      "status": "edited",
       "revisions": 0,
       "scores": {
         "reader_question": 4.0,
@@ -999,18 +999,18 @@
       },
       "average": 3.75,
       "flags": [],
-      "words": 3197,
+      "words": 3185,
       "minimum": 3.0,
       "style": {
-        "words": 3318,
+        "words": 3185,
         "banned_hits": {},
         "ai_tell_hits": {},
         "ai_tells_per_1000": 0.0,
-        "top_4gram": "board by the entrance",
+        "top_4gram": "the yard with his",
         "top_4gram_count": 2,
-        "longest_paragraph_words": 132,
+        "longest_paragraph_words": 97,
         "em_dashes_per_1000": 0.0,
-        "reading_ease": 90.9
+        "reading_ease": 91.0
       },
       "owner_instructions": [
         "Remove the deflated climber (owner fix 3). Where: the subordinate clause explaining that the lone climber was a barefoot boy with a satchel. Change: delete it and any other reference back to a horn or climber from ch 31. Let the pepper factors' letter arrive fresh in this chapter, with its own short, concrete arrival beat. This chapter now holds the only 'first vote', so keep 'We vote at noon' as the hinge line.",
@@ -2386,9 +2386,13 @@
     {
       "at": "2026-10-31T21:34:44",
       "event": "done: S8 line edit ch 31"
+    },
+    {
+      "at": "2026-10-31T21:35:18",
+      "event": "done: S8 line edit ch 32"
     }
   ],
-  "updated_at": "2026-10-31T21:34:44",
+  "updated_at": "2026-10-31T21:35:18",
   "midpoint_chapter": 16,
   "continuity_attempts": 0,
   "continuity_last_errors": null,
