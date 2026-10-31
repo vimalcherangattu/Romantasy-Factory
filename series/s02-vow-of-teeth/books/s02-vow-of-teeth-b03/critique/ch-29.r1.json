@@ -10,27 +10,27 @@
     "continuity": 5.0
   },
   "reasons": {
-    "reader_question": "Clear and specific: what the high court's roll does, and what the queen was about to sign before a recorder could hear it.",
-    "change": "The forty's pages are shown powerless and the queen admits the raids before Haran's spears. Her leverage collapses, and Rema shifts power again.",
-    "romance_movement": "New reason: Devan witnesses grief for the man who sold Asha's death and his own, and refuses both to argue and to pretend he shares it.",
-    "shown_chemistry": "Responsive action throughout: he sits leaving her the curb, palm up and unreaching, touches only when she turns. The goat joke proves shared history.",
-    "character_logic": "Precise-counting Neela says 'thirty thousand'. She disclaims bargaining right after setting a condition. 'Always free' ignores Chathu as a living witness.",
-    "stakes_and_cost": "Accusing the queen with her three hundred spears holding the cut and a three-day truce has a named cost. Haran states it to her face.",
-    "prose": "Mostly clean and concrete. Weakened by an orphaned dialogue paragraph, stock lines ('like a stone into a well', 'She never needed to'), and a clunky retcon recap.",
-    "continuity": "Consistent with F978, F979, F576, F791, F455 and F521. Some unlisted facts (Chathu taught her letters; who holds the thirty rolls) need logging."
+    "reader_question": "The horn cuts off the queen mid-signature, and Rema's roll arrives. The reader asks whether the queen signs before a recorder, and on what terms.",
+    "change": "The queen loses Chathu's forty pages as leverage, admits the raids publicly, and Neela refuses to leave the four leaves to the crown. A real power shift.",
+    "romance_movement": "This is new: Devan lets her grieve a man he hates. He says he hasn't the grief and won't argue. That builds trust through restraint, not rescue.",
+    "shown_chemistry": "Strong responsive action: he sits with the curb on her left, rests his palm open without reaching, and waits for her head to turn. Two lines narrate trust.",
+    "character_logic": "The queen keeps the crown leaf and knows resin's smell, yet watched four evenings of plain ink unnoticed. A tin reaches Neela unread through the queen's post.",
+    "stakes_and_cost": "Haran's 'Mind what you do with it' sets a cost: exposing the raids risks three hundred spears during the truce. Neela pays it knowingly.",
+    "prose": "Mostly clean and concrete. Hands echo ('hands wanted', 'hands were doing', 'what to do with her hands'), 'braced' appears twice, and one explanatory paragraph sags.",
+    "continuity": "Consistent with F455, F576, F791, F800, F838, F920, F968, F978 and F979. The truce, horn code, birth names and coin die all match."
   },
   "fixes": [
-    "At \"The four leaves you hold are the four guards'\": the paragraph is orphaned mid-speech with a redundant tag. Two lines later Neela says \"I don't say it to bargain\", which contradicts the condition she just set (character logic). Move the four-leaves condition to after the queen's \"Yes\", as Neela's first answer to it. Keep \"The raids made your knives\" as her closing line without the bargaining disclaimer.",
-    "At \"with thirty thousand Thurai on the beach\": Neela is defined by exact counts, so a tenfold exaggeration in her most precise speech breaks voice. Haran's correction also deflates the indictment (character logic). Have her say \"fourteen hundred Thurai on the beach\" herself and cut Haran's line, or give Haran a different interjection that tests her nerve.",
-    "At \"So the forty are free. They always were.\": by the world rules Chathu remains a living witness to all forty turnings. Neela, who knows this (F792), overstates. Add one line conceding it: free of paper, not of one living mouth, and that mouth is now the high court's. This sharpens the queen's \"I hold the man\" counter and makes Rema's arrival with the roll the answer."
+    "At \"I watched him write them, four evenings running\", the twist leaks (irrational behaviour): a queen who holds the crown leaf would smell plain ink. Give her one specific reason she never checked. For example, a household clerk mixed his pot while she kept to the far window because the resin stink sickens her. Then 'he wrote in the wrong ink' rests on a habit she named herself.",
+    "At \"From the palace post, mistress. Brought up with the column's last rider\", the delivery is implausible: the queen's household opens a prisoner's post (F745), so the note should never reach Neela unread. Either reroute the tin through Mani the turnkey and a fish cart, or have the steward say it came sealed under Usha's hand. Add one line on who 'ordered' it kept warm, or cut 'as ordered'.",
+    "At \"She went back over the namings, the scorch rising\", the paragraph explains what the thumb test already showed (endless monologue). Cut it to two sentences. Spend the space on the ch28 payoff: Neela's first thought should be Kamalakshi lying awake listening for her name. Have Neela send Pavi to tell her before the hall moves on. Also change the second 'braced' to another verb."
   ],
-  "reader_question": "What has Justice Rema brought on the high court's roll, and will the queen's 'Yes' and her charter survive being said in front of a recorder?",
+  "reader_question": "What is on the high court's roll Rema has carried north, and will the queen, stripped of her leverage, sign a charter before a recorder?",
   "techniques_landed": [
     3,
     7,
     12
   ],
-  "new_facts_assessment": "The listed facts are necessary and consistent. The queen's 'Yes' fits the bible treaty. The four-leaves declaration fits F957 and F998. Haran's 300 matches F914. 'Kept warm as ordered' is a good dangling hook if paid off; otherwise cut it. Unlisted facts to log: Chathu taught Neela her letters (sits beside F360, where Kirri taught the younger girls); Neela holds or has read all thirty crown intake rolls (custody after the burnings is unestablished); 'the widow's coin you paid' (Rema paid it, F520, so say 'your treasury paid'). The truce fact 'runs out in three days' is tautological.",
+  "new_facts_assessment": "F1106 (twenty-nine named members free of Chathu; only the eleven answer to his mouth) is necessary and follows the self-naming rule. F1107 (twelve hundred or more) is a justified revision after the officer losses. Continuity already holds conflicting provisional entries: the old F1106 and F1107 against F1109 and F1110. S7 should retire the old F1106 (free of paper, not of Chathu) and the old F1107 (fourteen hundred), and keep the draft's versions.",
   "content_rule_violation": false,
   "failure_modes": [
     "Irrational behaviour to extend plot"

@@ -5,38 +5,37 @@
     "romance_movement": 4.0,
     "shown_chemistry": 4.0,
     "character_logic": 3.0,
-    "stakes_and_cost": 3.0,
-    "prose": 4.0,
-    "continuity": 0.0
+    "stakes_and_cost": 4.0,
+    "prose": 3.0,
+    "continuity": 5.0
   },
   "reasons": {
-    "reader_question": "The horn interrupts the queen mid-sentence, and Rema's roll forces a concrete question: what the queen signs before a recorder.",
-    "change": "The queen loses her paper leverage over the forty and admits the raids publicly. The 'living mouth' line muddies 'none left'.",
-    "romance_movement": "New reason: Devan lets her grieve a man he cannot mourn, without arguing. It builds on trust rather than replaying an old refusal.",
-    "shown_chemistry": "Responsive action carries it: he sits to her left, sets his palm up without reaching, waits until she turns, and jokes about Pepper.",
-    "character_logic": "Neela, a rules expert, wrongly says Chathu still witnesses all forty. The discovery begins with an accidental cheek-press, which is slightly convenient.",
-    "stakes_and_cost": "Haran's warning prices the exposure, but Neela's refusal to sign has no stated cost in spears, truce or Company lives.",
-    "prose": "The writing is concrete and well voiced, with no banned phrases. Four or five 'silent hall' beats repeat, and the well section over-explains Devan's restraint.",
-    "continuity": "Self-named members void every other witness (F008). Twenty-nine of the forty have named, so Chathu cannot cage 'any of them'. That conflicts with the bible."
+    "reader_question": "The horn cuts off the queen mid-signature, and Rema's roll arrives. The reader asks whether the queen signs before a recorder, and on what terms.",
+    "change": "The queen loses Chathu's forty pages as leverage, admits the raids publicly, and Neela refuses to leave the four leaves to the crown. A real power shift.",
+    "romance_movement": "This is new: Devan lets her grieve a man he hates. He says he hasn't the grief and won't argue. That builds trust through restraint, not rescue.",
+    "shown_chemistry": "Strong responsive action: he sits with the curb on her left, rests his palm open without reaching, and waits for her head to turn. Two lines narrate trust.",
+    "character_logic": "The queen keeps the crown leaf and knows resin's smell, yet watched four evenings of plain ink unnoticed. A tin reaches Neela unread through the queen's post.",
+    "stakes_and_cost": "Haran's 'Mind what you do with it' sets a cost: exposing the raids risks three hundred spears during the truce. Neela pays it knowingly.",
+    "prose": "Mostly clean and concrete. Hands echo ('hands wanted', 'hands were doing', 'what to do with her hands'), 'braced' appears twice, and one explanatory paragraph sags.",
+    "continuity": "Consistent with F455, F576, F791, F800, F838, F920, F968, F978 and F979. The truce, horn code, birth names and coin die all match."
   },
   "fixes": [
-    "At 'Chathu saw every one of them turn, and he can say it aloud to any of them', the line breaks the self-naming rule (worldbuilding collapse). Change it to: the named are free of him entirely, and only the eleven who have not chosen still answer to his mouth. Have Neela make the same correction to the queen's 'write the forty true': he can write only the eleven, and only if someone gives him resin. Update F1106 to match.",
-    "Cut repeated silence beats: 'Nobody spoke. Haran took his shoulder off', 'Nobody in the hall breathed', 'She had not known how loud a hall could be', 'It landed in the hall and nothing answered it'. Keep at most two (repetitive tension at line level). Replace the others with one specific reaction each, for example Haran's sergeants exchanging a look or Usha's hand going to her cuff.",
-    "At 'his left hand came up and settled on the back of her neck', the nape is Neela's established forced-turning trigger (F1063), and the touch passes unremarked. Either give one beat of the old stiffening that she lets go because it is his hand, or move the hand to her shoulder and save the nape for ch31. Also cut 'where Ammu's blue cloth should have been': the cloth lies at the blackbark tree (F624)."
+    "At \"I watched him write them, four evenings running\", the twist leaks (irrational behaviour): a queen who holds the crown leaf would smell plain ink. Give her one specific reason she never checked. For example, a household clerk mixed his pot while she kept to the far window because the resin stink sickens her. Then 'he wrote in the wrong ink' rests on a habit she named herself.",
+    "At \"From the palace post, mistress. Brought up with the column's last rider\", the delivery is implausible: the queen's household opens a prisoner's post (F745), so the note should never reach Neela unread. Either reroute the tin through Mani the turnkey and a fish cart, or have the steward say it came sealed under Usha's hand. Add one line on who 'ordered' it kept warm, or cut 'as ordered'.",
+    "At \"She went back over the namings, the scorch rising\", the paragraph explains what the thumb test already showed (endless monologue). Cut it to two sentences. Spend the space on the ch28 payoff: Neela's first thought should be Kamalakshi lying awake listening for her name. Have Neela send Pavi to tell her before the hall moves on. Also change the second 'braced' to another verb."
   ],
-  "reader_question": "What has Justice Rema brought on the high court's roll, and will the queen sign the charter now that a recorder is at the gate?",
+  "reader_question": "What is on the high court's roll Rema has carried north, and will the queen, stripped of her leverage, sign a charter before a recorder?",
   "techniques_landed": [
     3,
     7,
     12
   ],
-  "new_facts_assessment": "F1105 (Chathu taught her letters at ten) fits F232/F360 and adds needed grief texture. F1106 breaks the self-naming rule: Chathu witnesses only the eleven unnamed, so limit it to them. F1107 (fourteen hundred) is stale after the officer losses; say 'still twelve hundred or more' or keep it vague. F1108 is consistent with F520 and Rema's crown role.",
+  "new_facts_assessment": "F1106 (twenty-nine named members free of Chathu; only the eleven answer to his mouth) is necessary and follows the self-naming rule. F1107 (twelve hundred or more) is a justified revision after the officer losses. Continuity already holds conflicting provisional entries: the old F1106 and F1107 against F1109 and F1110. S7 should retire the old F1106 (free of paper, not of Chathu) and the old F1107 (fourteen hundred), and keep the draft's versions.",
   "content_rule_violation": false,
   "failure_modes": [
-    "Worldbuilding collapse",
-    "Repetitive tension"
+    "Irrational behaviour to extend plot"
   ],
-  "average": 3.25,
-  "minimum": 0.0,
-  "passed": false
+  "average": 3.88,
+  "minimum": 3.0,
+  "passed": true
 }
