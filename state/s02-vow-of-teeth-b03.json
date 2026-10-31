@@ -713,7 +713,7 @@
       }
     },
     "24": {
-      "status": "passed",
+      "status": "edited",
       "revisions": 2,
       "scores": {
         "reader_question": 4.0,
@@ -727,18 +727,18 @@
       },
       "average": 4.0,
       "flags": [],
-      "words": 3014,
+      "words": 3005,
       "minimum": 3.0,
       "style": {
-        "words": 3122,
+        "words": 3005,
         "banned_hits": {},
         "ai_tell_hits": {},
         "ai_tells_per_1000": 0.0,
         "top_4gram": "the far bank the",
         "top_4gram_count": 3,
-        "longest_paragraph_words": 135,
-        "em_dashes_per_1000": 0.32,
-        "reading_ease": 90.9
+        "longest_paragraph_words": 119,
+        "em_dashes_per_1000": 0.33,
+        "reading_ease": 90.8
       },
       "owner_instructions": [
         "Sanu's self-naming to Kandan. By now Sanu's adulthood is stated in chapter 12. Add nothing here that frames him as young. If the rite description touches him physically or emotionally, keep the framing as comrades and adults. Cut any 'boy' or 'young' wording in the naming dusk."
@@ -2090,9 +2090,13 @@
     {
       "at": "2026-10-31T19:23:49",
       "event": "done: S8 line edit ch 21"
+    },
+    {
+      "at": "2026-10-31T19:24:25",
+      "event": "done: S8 line edit ch 24"
     }
   ],
-  "updated_at": "2026-10-31T19:23:49",
+  "updated_at": "2026-10-31T19:24:25",
   "midpoint_chapter": 16,
   "continuity_attempts": 1,
   "continuity_last_errors": 3,
