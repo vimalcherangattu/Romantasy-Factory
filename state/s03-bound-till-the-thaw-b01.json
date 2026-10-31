@@ -215,7 +215,7 @@
       }
     },
     "08": {
-      "status": "passed",
+      "status": "edited",
       "revisions": 1,
       "scores": {
         "reader_question": 4.0,
@@ -229,8 +229,19 @@
       },
       "average": 3.88,
       "flags": [],
-      "words": 2523,
-      "minimum": 3.0
+      "words": 2509,
+      "minimum": 3.0,
+      "style": {
+        "words": 2509,
+        "banned_hits": {},
+        "ai_tell_hits": {},
+        "ai_tells_per_1000": 0.0,
+        "top_4gram": "and she took the",
+        "top_4gram_count": 2,
+        "longest_paragraph_words": 102,
+        "em_dashes_per_1000": 0.0,
+        "reading_ease": 96.0
+      }
     },
     "09": {
       "status": "passed",
@@ -1326,9 +1337,13 @@
     {
       "at": "2026-10-31T21:02:10",
       "event": "done: S8 line edit ch 7"
+    },
+    {
+      "at": "2026-10-31T21:02:48",
+      "event": "done: S8 line edit ch 8"
     }
   ],
-  "updated_at": "2026-10-31T21:02:10",
+  "updated_at": "2026-10-31T21:02:48",
   "midpoint_chapter": 16,
   "continuity_attempts": 1,
   "continuity_last_errors": 1
