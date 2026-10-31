@@ -4,38 +4,38 @@
     "change": 4.0,
     "romance_movement": 4.0,
     "shown_chemistry": 4.0,
-    "character_logic": 4.0,
-    "stakes_and_cost": 3.0,
+    "character_logic": 3.0,
+    "stakes_and_cost": 4.0,
     "prose": 4.0,
-    "continuity": 5.0
+    "continuity": 0.0
   },
   "reasons": {
-    "reader_question": "The queen's claim on the four guards and eleven pages, with the Thurai counting by dusk, is specific. The danger of those pages is implied, never stated.",
-    "change": "The Company is now a real roll of sixty names. Devan accepts the lost strike, Janu's guilt turns into a daily rite, and the queen's last lever is exposed.",
-    "romance_movement": "There is a new reason: he refuses her help and fails at the pen in public, and she says 'Yes' instead of rescuing him. Her binding is spoken to him first.",
-    "shown_chemistry": "Responsive beats carry it: the six paces watched, the reed exchange, the ink-on-collar banter, his hand closing on her wrist. Almost no narration of feeling.",
-    "character_logic": "Neela's 'take it now and see who signs' gambit is smart, and the queen's retreat-and-hold fits her. Devan's refusal follows his arc.",
-    "stakes_and_cost": "Neela's binding cost is stated publicly. The next decision's cost is vague: no named person among the eleven, and no stated harm if the queen keeps them.",
-    "prose": "Clean, varied and quotable in places. The child simile appears three times, 'looked at the sky' twice, the 'Nobody ...' beat is overused, and 'ink-blue' contradicts the black ink.",
-    "continuity": "Consistent with F181, F591, F647, F722, F758, F863, F878, F933, F946, F950 and F967. No hard conflicts found."
+    "reader_question": "Specific and urgent: eleven unbound pages and four guards' pages stay in crown reach, and Kamalakshi's may be read tonight.",
+    "change": "Neela is publicly bound first, Devan's strike is gone, Janu breaks her vigil, and the queen shifts her claim from roll to pages.",
+    "romance_movement": "This is new: he refuses her help and fails in public by choice, and she binds herself before him; the block banter seals it.",
+    "shown_chemistry": "Responsive action carries it: her offer, his left hand closing first, the shoulder touch and shared ink. A few lines explain too much.",
+    "character_logic": "The queen says Neela holds the forty 'on loan', then threatens Kamalakshi's page 'while it lies in my case'. Janu's blocking contradicts itself.",
+    "stakes_and_cost": "Neela names the binding's price aloud, Devan's hand is permanently lost, and a named girl's page can be read tonight.",
+    "prose": "Clean and concrete, with no banned phrases. 'Quiet cage', 'better at asking' and 'weighed the cost' state the theme outright.",
+    "continuity": "The narration calls Devan 'the Warden of Kettamala'. He lost the office in book 2, Muthu holds the disc, and the bible says he never returns as warden."
   },
   "fixes": [
-    "The queen's line 'Eleven have no name beside them yet' fails as stakes without depth. Have Neela count the eleven and name at least one aloud, such as Kamalakshi, who refused everyone (F903). Add one cruel fact from the queen: whoever holds a page can read it after dark. Give Neela one beat of what that means for Kamalakshi tonight.",
-    "Three lines repeat the child simile: 'the way a woman checks a sleeping child', 'like a child's first lesson' and 'as one might touch a child's'. Keep only Janu's parrot touch. Replace the other two with images specific to the place, such as letters leaning like a tapper's ladder. Change one of the two 'looked at the sky' and cut one of the four 'Nobody ...' beats.",
-    "Three small fixes. 'Lips move on the word Kettamala' is an unlisted plant: list it in new-facts with its intended payoff, or cut it. Change 'ink-blue to the wrist' to black, to match the pot. Kuttan cannot write (F512), so replace 'worse than Kuttan could' with something like 'worse than the line Neela wrote for Kuttan's mother'."
+    "'the Warden of Kettamala had written his name worse': continuity break, since Devan lost the wardenship in book 2 and Muthu holds the disc. Change the line to 'the man who had been Warden of Kettamala' or 'the man the whole cut still called Warden'. Characters may keep calling him Warden in dialogue, which is established as an honorific.",
+    "'You hold them on loan, Neela. They are the crown's.': this contradicts 'while it lies in my case, it can be read, tonight', a rule-logic failure. Make the queen reclaim the loan now: 'I will have them back in my case by dusk.' The threat becomes a concrete deadline, Neela's palm on the roll answers a real move, and the dusk line gains its bite.",
+    "'She went to the foot of the west stair.': this clashes with 'Then she crossed the last ten paces' two paragraphs later, so Janu arrives twice. Change it to 'She went toward the west stair and stopped where she always stopped', then keep the pause and the crossing. Also cut 'It was a very quiet cage. No one in it ever bled for me' to one line, so the gesture carries the theme."
   ],
-  "reader_question": "How can Neela free the four unready guards and the eleven unnamed members from the queen's paper without forcing anyone to self-name, before the Thurai attack again?",
+  "reader_question": "How can Neela free the eleven unbound members and the four guards from the crown's paper, before dusk and before Kamalakshi's page is read in the dark, without forcing anyone to bind?",
   "techniques_landed": [
     3,
     19,
     24
   ],
-  "new_facts_assessment": "Janu's lamp motive (F971), the roll-as-crown-leaf gambit (F972) and sixty names with garrison signers (F973) are all necessary and consistent. Two things are unlisted. First, the queen mouthing 'Kettamala' with an odd stillness is a plant with no listed payoff. Second, Janu's hand 'wrapped in its cloth from the day before' reads as a new injury, unless it is meant as the ch4 burn (F766), which would be weeks old by now. List the first and clarify the second.",
+  "new_facts_assessment": "new-facts.json is empty, but the draft adds facts: the eleven Resin House pages handed back at first light, Thankam's 'lift a cup, can't kill' prognosis, the queen's thirty years of rule, forty-one plank names with nine late fills, Ushakumari and Mathoor on the roll, and Janu's noon lamp. All are useful and match canon (F967 to F973). The pages-on-loan versus queen's-case contradiction must be resolved, and the facts should be listed.",
   "content_rule_violation": false,
   "failure_modes": [
-    "Stakes without depth"
+    "Worldbuilding collapse"
   ],
-  "average": 4.0,
-  "minimum": 3.0,
-  "passed": true
+  "average": 3.38,
+  "minimum": 0.0,
+  "passed": false
 }

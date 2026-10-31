@@ -6,36 +6,36 @@
     "shown_chemistry": 4.0,
     "character_logic": 3.0,
     "stakes_and_cost": 4.0,
-    "prose": 3.0,
+    "prose": 4.0,
     "continuity": 0.0
   },
   "reasons": {
-    "reader_question": "The queen claims the unbound pages as crown paper, with the Thurai counting by dusk. The question is specific and pressing.",
-    "change": "Neela moves from free to freely bound in public. The queen then turns the roll's victory into a new standoff.",
-    "romance_movement": "His public refusal of her help, and his reason (done hiding), is new. Their bond is now visible to the whole court.",
-    "shown_chemistry": "The pen scene runs on responsive action: she cites Asha writing his letters, he refuses. The bench banter lands. 'That was a great deal' narrates.",
-    "character_logic": "Janu knows about the light with no on-page source. The roll is written on crown paper just before the queen claims paper. 'Worse man' line confuses.",
-    "stakes_and_cost": "Neela states the cost aloud before she signs. The queen's claim on eleven pages and four guards costs the Company its unity before dusk.",
-    "prose": "Clean and concrete, but 'It was not X. It was Y' recurs about six times. Hands-over-mouth repeats ch27. 'Worse man' line muddled.",
-    "continuity": "'For six years the woman had kept ten paces' conflicts with F591: Janu crossed those paces in book 2 ch23."
+    "reader_question": "Specific and urgent: eleven unbound pages and four guards' pages stay in crown reach, and Kamalakshi's may be read tonight.",
+    "change": "Neela is publicly bound first, Devan's strike is gone, Janu breaks her vigil, and the queen shifts her claim from roll to pages.",
+    "romance_movement": "This is new: he refuses her help and fails in public by choice, and she binds herself before him; the block banter seals it.",
+    "shown_chemistry": "Responsive action carries it: her offer, his left hand closing first, the shoulder touch and shared ink. A few lines explain too much.",
+    "character_logic": "The queen says Neela holds the forty 'on loan', then threatens Kamalakshi's page 'while it lies in my case'. Janu's blocking contradicts itself.",
+    "stakes_and_cost": "Neela names the binding's price aloud, Devan's hand is permanently lost, and a named girl's page can be read tonight.",
+    "prose": "Clean and concrete, with no banned phrases. 'Quiet cage', 'better at asking' and 'weighed the cost' state the theme outright.",
+    "continuity": "The narration calls Devan 'the Warden of Kettamala'. He lost the office in book 2, Muthu holds the disc, and the bible says he never returns as warden."
   },
   "fixes": [
-    "'For six years the woman had kept ten paces from it' conflicts with F591, where Janu crossed them in book 2 ch23 for Neela's confession (continuity). Rewrite it so she crossed once, for Neela's confession, and has not gone back since. Keep 'Nobody had [known she meant to go]' and the tension of the walk.",
-    "Janu says 'She wasn't alone, then' with no source on the page (irrational behaviour to extend plot). Plant one line near the opening: Janu at the kitchen door with Devan's head bent to hers at dawn, or Neela telling her of the light by the well. Then her noon walk reads as the result of that news.",
-    "'They are *paper*, Corporal... And paper is mine' comes after the roll was written on 'a clean crown leaf' from the queen's case (character logic gap). Either have Neela strike back with it ('Then the roll is yours too. Take it.'), forcing the queen to back off, or source the sheet from the Company's own stores in the opening beat."
+    "'the Warden of Kettamala had written his name worse': continuity break, since Devan lost the wardenship in book 2 and Muthu holds the disc. Change the line to 'the man who had been Warden of Kettamala' or 'the man the whole cut still called Warden'. Characters may keep calling him Warden in dialogue, which is established as an honorific.",
+    "'You hold them on loan, Neela. They are the crown's.': this contradicts 'while it lies in my case, it can be read, tonight', a rule-logic failure. Make the queen reclaim the loan now: 'I will have them back in my case by dusk.' The threat becomes a concrete deadline, Neela's palm on the roll answers a real move, and the dusk line gains its bite.",
+    "'She went to the foot of the west stair.': this clashes with 'Then she crossed the last ten paces' two paragraphs later, so Janu arrives twice. Change it to 'She went toward the west stair and stopped where she always stopped', then keep the pause and the crossing. Also cut 'It was a very quiet cage. No one in it ever bled for me' to one line, so the gesture carries the theme."
   ],
-  "reader_question": "How can the Company free the eleven unbound members and four guards when the queen claims their pages as crown paper, before the Thurai attack at dusk?",
+  "reader_question": "How can Neela free the eleven unbound members and the four guards from the crown's paper, before dusk and before Kamalakshi's page is read in the dark, without forcing anyone to bind?",
   "techniques_landed": [
     3,
     19,
     24
   ],
-  "new_facts_assessment": "All four listed facts are consistent. The 'on loan' claim fits F865, and Ushakumari and Mathoor fit F863 and F511. Three unlisted facts need judging. Garrison men (Kandan, Bhaskaran) sign the roll, which makes non-odiyans Company members. The roll reaches sixty names. Janu knows Asha saw a light, though only Devan and Neela heard Vellan; this needs an on-page source.",
+  "new_facts_assessment": "new-facts.json is empty, but the draft adds facts: the eleven Resin House pages handed back at first light, Thankam's 'lift a cup, can't kill' prognosis, the queen's thirty years of rule, forty-one plank names with nine late fills, Ushakumari and Mathoor on the roll, and Janu's noon lamp. All are useful and match canon (F967 to F973). The pages-on-loan versus queen's-case contradiction must be resolved, and the facts should be listed.",
   "content_rule_violation": false,
   "failure_modes": [
-    "Irrational behaviour to extend plot"
+    "Worldbuilding collapse"
   ],
-  "average": 3.25,
+  "average": 3.38,
   "minimum": 0.0,
   "passed": false
 }
