@@ -2,31 +2,31 @@
   "open_errors": [
     {
       "id": "E01",
-      "chapter": 3,
-      "severity": "minor",
-      "category": "timeline",
-      "issue": "The vote count runs over by one. The prose has Neela count twenty-two hands and then raise her own. That makes 20 + 23 + Thulasi = 44 voters, but only 43 people are present (42 odiyans and Devan). Chapter 3's own 'carried by two' and F754 need her hand inside the twenty-two.",
-      "fix": "Make Neela's hand already one of the twenty-two rather than raised after the count.",
+      "chapter": 14,
+      "severity": "major",
+      "category": "knowledge",
+      "issue": "Devan thinks he 'knew nothing of its stairs' and knew only that Neela would go 'where the city was loudest'. In ch 2 Neela told him Usha's exact line ('come by the sea stair at the noon gun'), and in ch 3 the plan was argued in front of him. He knows the sea stair and the hour.",
+      "fix": "Have Devan recall the sea-stair-at-the-noon-gun plan he was told on the hill.",
       "patches": [
         {
-          "chapter": 3,
-          "find": "Neela put her own hand up for that one, and kept it there, and felt it shake.",
-          "replace": "Neela's own hand was among them, and she kept it there, and felt it shake."
+          "chapter": 14,
+          "find": "He knew nothing of its stairs. He knew only that, the night before she left, she had told him she would go where the city was loudest, because in a loud place no one hears a quiet thing. In Kodiyur the loud thing was the noon gun.",
+          "replace": "He knew nothing of its stairs but one. Usha had named it on the hill, and Neela had said it again over the ash: the sea stair, at the noon gun. In a loud hour no one hears a quiet thing."
         }
       ]
     },
     {
       "id": "E02",
-      "chapter": 5,
+      "chapter": 12,
       "severity": "minor",
-      "category": "timeline",
-      "issue": "Neela says she had the mirror man's wrist in her teeth when Devan took the knife cut. The cut came in the picket fight, hours before dawn. At that point Devan had told her 'Don't take him yet', and Koman had not yet found the mirror man. The mirror is taken only at first sun.",
-      "fix": "She was watching the mirror man, not holding him, when the cut came.",
+      "category": "knowledge",
+      "issue": "Neela recalls Usha's advice about the throat paste 'at the shelter'. At the shelter Usha spoke to Neela only in public and for 'a breath or two' at dawn, when she gave the leaf line. Nobody crossed the slab after dark. The cuff and paste warning came from Muthu at the water jars (ch 9).",
+      "fix": "Attribute the warning to Muthu by the water jars.",
       "patches": [
         {
-          "chapter": 5,
-          "find": "\"Third thing I felt on the lip,\" she said. \"I had the mirror man's wrist in my teeth when you took that knife. I nearly dropped him.\"",
-          "replace": "\"Third thing I felt on the lip,\" she said. \"I was lying ten paces from the mirror man when you took that knife. I nearly gave myself away.\""
+          "chapter": 12,
+          "find": "*Don't touch it,* Usha had said, at the shelter. *Not once. A hand at the throat is a tell.*",
+          "replace": "*Don't touch it,* Muthu had said, by the water jars. *Not once. A hand at the throat is a tell.*"
         }
       ]
     },
@@ -34,29 +34,14 @@
       "id": "E03",
       "chapter": 8,
       "severity": "minor",
-      "category": "timeline",
-      "issue": "The garrison numbers do not add up. Kettamala has about sixty men on the rolls (ch 4, F218). Chapter 8 puts forty garrison volunteers at the shelf, and chapter 11 has Muthu take thirty more garrison men down, with Bhaskaran still holding the walls. That is seventy or more out of sixty. Chapter 14 gives Kandan only ten of his own, and the named dead include a drover (Chami) and a Kalladi boy (Rajan), so the forty must be a mix.",
-      "fix": "Make the forty volunteers Kandan's ten garrison men plus drovers and village lads, wherever they are called 'garrison'.",
+      "category": "knowledge",
+      "issue": "'He had not repeated Asha's last words' implies Vellan has already said them once. At the boulder (ch 5) he only said she said something and withheld the words until ch 27.",
+      "fix": "Say he had not spoken of the words again since the boulder.",
       "patches": [
         {
           "chapter": 8,
-          "find": "Forty garrison volunteers worked the face behind him.",
-          "replace": "Forty volunteers worked the face behind him: Kandan's ten off the wall, and drovers and pass-village lads with nothing left to guard."
-        },
-        {
-          "chapter": 8,
-          "find": "Kandan's forty had not found that order interesting.",
-          "replace": "Kandan's ten had not found that order interesting, and the rest had never been under it."
-        },
-        {
-          "chapter": 9,
-          "find": "On the other side, Devan in the yard with a bound arm, and forty men at the shelf who had not found his order interesting.",
-          "replace": "On the other side, Devan in the yard with a bound arm, and forty men at the shelf, ten of them his own, who had not waited for his leave."
-        },
-        {
-          "chapter": 21,
-          "find": "On our side, forty-two odiyans, twenty-two of her own riders, forty garrison volunteers.",
-          "replace": "On our side, forty-two odiyans, twenty-two of her own riders, forty volunteers."
+          "find": "He had not repeated Asha's last words since the pass, and Devan had not asked.",
+          "replace": "He had not spoken of Asha's last words again since the boulder, and Devan had not asked."
         }
       ]
     },
@@ -64,64 +49,69 @@
       "id": "E04",
       "chapter": 8,
       "severity": "minor",
-      "category": "knowledge",
-      "issue": "At the shelf Kandan says 'You struck first' like a man who has waited a long time to see it. But in chapter 5 Kandan watched Devan strike first at the picket and called it clean. What is new in chapter 8 is that Devan killed first, which the next lines say.",
-      "fix": "Change Kandan's line to killing first.",
+      "category": "timeline",
+      "issue": "The Company reached the gorge only three days before ch 8 (descent ch 4, boulder ch 5), and Neela leaves the next dawn. Neither 'every day for a week' (ch 8) nor 'spent a week making' the cut (ch 10) fits.",
+      "fix": "Replace the week with the actual span.",
       "patches": [
         {
           "chapter": 8,
-          "find": "\"You struck first,\" Kandan said.",
-          "replace": "\"You killed first,\" Kandan said."
+          "find": "Devan had ridden past it every day for a week and had not looked up.",
+          "replace": "Devan had ridden past it every day since the boulder and had not looked up."
+        },
+        {
+          "chapter": 10,
+          "find": "Far behind and above her, in the cut he had spent a week making into a bad day of stone, he was already fighting.",
+          "replace": "Far behind and above her, in the cut he had spent his days making into a bad day of stone, he was already fighting."
         }
       ]
     },
     {
       "id": "E05",
-      "chapter": 15,
+      "chapter": 14,
       "severity": "minor",
-      "category": "place",
-      "issue": "In chapter 12 Usha describes the sea-stair landing change: the new pair comes down from the top and the old pair goes up by the chain stair. In chapter 15 the old pair walks off down the lower flight and the relief comes up the stair. The narration then says it all 'fell to the breath', exactly as Usha said.",
-      "fix": "Match chapter 15 to Usha's description: the old pair leaves by the chain stair and the relief comes down from above.",
+      "category": "timeline",
+      "issue": "Thulasi (hoof on a foreleg, so she was in shape) and Vellan (whose bear cleared the lane) were both among the fifteen in the sally. Counting them as 'one more' and 'one more' makes the count of hands off the wall sixteen when it should be fifteen.",
+      "fix": "Fold Thulasi and Vellan into the fifteen and correct the count.",
       "patches": [
         {
-          "chapter": 15,
-          "find": "The pair at the post straightened, said something to each other, and walked off down the lower flight to be relieved, each with one shoulder a little higher than the other from a long standing.",
-          "replace": "The pair at the post straightened, said something to each other, and walked off to the chain stair to be relieved, each with one shoulder a little higher than the other from a long standing."
+          "chapter": 14,
+          "find": "Fifteen hollow and flat on their mats until dusk. One more with a leg, and one more to sit by it.",
+          "replace": "Fifteen hollow and flat on their mats until dusk, one of them with a cracked leg, and another who would not leave her side."
         },
         {
-          "chapter": 15,
-          "find": "At the twelfth she was below the post, and the relief came up the stair behind her in a clatter of spears, and no one looked down.",
-          "replace": "At the twelfth she was below the post, and the relief came down the stair behind her in a clatter of spears, and no one looked down."
+          "chapter": 14,
+          "find": "\"That's sixteen hands off tomorrow's wall,\" Kamalakshi said.",
+          "replace": "\"That's fifteen hands off tomorrow's wall,\" Kamalakshi said."
         }
       ]
     },
     {
       "id": "E06",
-      "chapter": 30,
+      "chapter": 28,
       "severity": "minor",
-      "category": "place",
-      "issue": "In chapter 24 the queen sleeps in the guest room off the north range at Kettamala. In chapter 30 the lit window identified as the queen's is in the south range.",
-      "fix": "Put the queen's window in the north range.",
+      "category": "timeline",
+      "issue": "Ch 28 says Neela returned the eleven Resin House pages 'at first light'. At first light she was turning back over Devan (ch 26) and then going up the cut to the dying Vellan (ch 27).",
+      "fix": "Move the reading to after Vellan was carried down.",
       "patches": [
         {
-          "chapter": 30,
-          "find": "Across the court, the south range had one window lit.",
-          "replace": "Across the court, the north range had one window lit."
+          "chapter": 28,
+          "find": "At first light she had put the eleven Resin House pages back into their owners' hands, one by one, in the open sun, as she had promised.",
+          "replace": "Once Vellan was carried down she had put the eleven Resin House pages back into their owners' hands, one by one, in the open sun, as she had promised, if late."
         }
       ]
     },
     {
       "id": "E07",
-      "chapter": 32,
+      "chapter": 22,
       "severity": "minor",
       "category": "knowledge",
-      "issue": "Chapter 32 says Neela opened the lookout lamp a thumb's width 'because a man told her to'. In chapter 27, Vellan's account (which she accepts) says her orders were to open it twice if anyone entered the court. Asha was on the stair, not in the court, and Neela opened it once out of fright.",
-      "fix": "Say she opened it out of fright.",
+      "issue": "Neela tells the queen of Chathu's sheaf 'They're not burned. I told you why.' She has never explained anything about these pages to the queen. The queen gave them to her to keep (ch 16), and Neela does not learn they are plain ink until ch 29.",
+      "fix": "Have Neela say the queen left them in her keeping.",
       "patches": [
         {
-          "chapter": 32,
-          "find": "Once, at the foot of a stair, she had opened a lamp a thumb's width because a man told her to.",
-          "replace": "Once, at the foot of a stair, she had opened a lamp a thumb's width out of fright."
+          "chapter": 22,
+          "find": "\"Mine,\" she said. \"Chathu wrote these at your table. They're not burned. I told you why.\"",
+          "replace": "\"Mine,\" she said. \"Chathu wrote these at your table. You left them in my keeping.\""
         }
       ]
     },
@@ -129,14 +119,14 @@
       "id": "E08",
       "chapter": 32,
       "severity": "minor",
-      "category": "object",
-      "issue": "The door roll is called a plank of sixty names in Thilak's letters, with 'Neela' as the first line and 'Indu' added beside it. The Company plank (ch 1, ch 28) holds forty-one names in Neela's own hand, with her name written last. The chapter 28 roll is on a crown leaf and begins 'Indu, called Neela'. The door board has to be a separate copy.",
-      "fix": "Make the door roll a new board copied from the roll by Thilak.",
+      "category": "knowledge",
+      "issue": "Neela says she had smelled the salt-and-clove-bark resin 'once before', on the sleeper at Nellimala. She also smelled it on the dead Thurai scout at the shelf in ch 8, where she named it the same smell.",
+      "fix": "Name both earlier occasions.",
       "patches": [
         {
           "chapter": 32,
-          "find": "The roll hung there in lamp-black, sixty names on a plank, with Thilak's careful letters at the top.",
-          "replace": "The roll hung there in lamp-black, sixty names copied onto a new door board in Thilak's careful letters."
+          "find": "She had smelled it once before, on a sleeper by a half-built tower, among sixty-three tents on a slope where her mother's house had been.",
+          "replace": "She had smelled it on a dead scout at the shelf, and before that on a sleeper by a half-built tower, among sixty-three tents on a slope where her mother's house had been."
         }
       ]
     }

@@ -2,206 +2,131 @@
   "open_errors": [
     {
       "id": "E01",
-      "chapter": 1,
-      "severity": "minor",
+      "chapter": 14,
+      "severity": "major",
       "category": "knowledge",
-      "issue": "In ch 1 Neela already knows that the queen's surgeon pares the night-guard's wrists, and attributes this to Vellan. In ch 9 Muthu gives her the surgeon and the paring as new information (planted clue C11), and she thanks him for it as news.",
-      "fix": "In ch 1, Neela reads the seam only as cut by somebody, and Vellan is credited only with telling them who the night-guard are.",
+      "issue": "Devan thinks he 'knew nothing of its stairs' and knew only that Neela would go 'where the city was loudest'. In ch 2 Neela told him Usha's exact line ('come by the sea stair at the noon gun'), and in ch 3 the plan was argued in front of him. He knows the sea stair and the hour.",
+      "fix": "Have Devan recall the sea-stair-at-the-noon-gun plan he was told on the hill.",
       "patches": [
         {
-          "chapter": 1,
-          "find": "Only one kind of wrist was pared that clean. Vellan had told them what the queen's surgeon did to her night-guard.",
-          "replace": "Somebody had cut that one clean. Vellan had told them whose knives the queen's night-guard were."
+          "chapter": 14,
+          "find": "He knew nothing of its stairs. He knew only that, the night before she left, she had told him she would go where the city was loudest, because in a loud place no one hears a quiet thing. In Kodiyur the loud thing was the noon gun.",
+          "replace": "He knew nothing of its stairs but one. Usha had named it on the hill, and Neela had said it again over the ash: the sea stair, at the noon gun. In a loud hour no one hears a quiet thing."
         }
       ]
     },
     {
       "id": "E02",
-      "chapter": 10,
+      "chapter": 12,
       "severity": "minor",
-      "category": "place",
-      "issue": "Ch 4 places the warden's chamber, where Muthu now sleeps, at the head of the west stair, which matches the bible and book 1. Ch 10 puts Muthu's door in the north range, and ch 21 has Muthu waiting at the foot of a 'north stair' that leads to the warden's chamber.",
-      "fix": "Keep the warden's chamber at the head of the west stair in both chapters.",
+      "category": "knowledge",
+      "issue": "Neela recalls Usha's advice about the throat paste 'at the shelter'. At the shelter Usha spoke to Neela only in public and for 'a breath or two' at dawn, when she gave the leaf line. Nobody crossed the slab after dark. The cuff and paste warning came from Muthu at the water jars (ch 9).",
+      "fix": "Attribute the warning to Muthu by the water jars.",
       "patches": [
         {
-          "chapter": 10,
-          "find": "At the bottom of the stair, under the door of the north range where Muthu slept now, a line of yellow showed.",
-          "replace": "Across the court, under the warden's door at the head of the west stair, where Muthu slept now, a line of yellow showed."
-        },
-        {
-          "chapter": 21,
-          "find": "Muthu was waiting at the foot of the north stair with a lamp in one hand and his other arm full of bedding.",
-          "replace": "Muthu was waiting at the foot of the west stair with a lamp in one hand and his other arm full of bedding."
+          "chapter": 12,
+          "find": "*Don't touch it,* Usha had said, at the shelter. *Not once. A hand at the throat is a tell.*",
+          "replace": "*Don't touch it,* Muthu had said, by the water jars. *Not once. A hand at the throat is a tell.*"
         }
       ]
     },
     {
       "id": "E03",
-      "chapter": 7,
+      "chapter": 8,
       "severity": "minor",
-      "category": "timeline",
-      "issue": "Neela says she has walked the goat path twice this year. She walked it in book 1 ch 9, climbed it with the forty at the end of book 2, and came down it in book 3 ch 4. That makes three times.",
-      "fix": "Change 'twice' to 'three times'.",
+      "category": "knowledge",
+      "issue": "'He had not repeated Asha's last words' implies Vellan has already said them once. At the boulder (ch 5) he only said she said something and withheld the words until ch 27.",
+      "fix": "Say he had not spoken of the words again since the boulder.",
       "patches": [
         {
-          "chapter": 7,
-          "find": "I've walked it twice this year without a map, and I couldn't say how.",
-          "replace": "I've walked it three times this year without a map, and I couldn't say how."
+          "chapter": 8,
+          "find": "He had not repeated Asha's last words since the pass, and Devan had not asked.",
+          "replace": "He had not spoken of Asha's last words again since the boulder, and Devan had not asked."
         }
       ]
     },
     {
       "id": "E04",
-      "chapter": 11,
+      "chapter": 8,
       "severity": "minor",
-      "category": "magic",
-      "issue": "The wound-share carries a cut to the partner as a welt that does not open. Neela's thorn pricks appear on Devan's thumb as 'red beads' of blood.",
-      "fix": "Describe the marks on his thumb as welts.",
+      "category": "timeline",
+      "issue": "The Company reached the gorge only three days before ch 8 (descent ch 4, boulder ch 5), and Neela leaves the next dawn. Neither 'every day for a week' (ch 8) nor 'spent a week making' the cut (ch 10) fits.",
+      "fix": "Replace the week with the actual span.",
       "patches": [
         {
-          "chapter": 11,
-          "find": "Three red beads, one beside another. Small, neat, a hand-careful row.",
-          "replace": "Three red welts, one beside another. Small, neat, a hand-careful row."
+          "chapter": 8,
+          "find": "Devan had ridden past it every day for a week and had not looked up.",
+          "replace": "Devan had ridden past it every day since the boulder and had not looked up."
         },
         {
-          "chapter": 11,
-          "find": "He sat there with the sun on the back of his neck and watched the beads fade from red to pink, and from pink to nothing.",
-          "replace": "He sat there with the sun on the back of his neck and watched the welts fade from red to pink, and from pink to nothing."
+          "chapter": 10,
+          "find": "Far behind and above her, in the cut he had spent a week making into a bad day of stone, he was already fighting.",
+          "replace": "Far behind and above her, in the cut he had spent his days making into a bad day of stone, he was already fighting."
         }
       ]
     },
     {
       "id": "E05",
-      "chapter": 16,
+      "chapter": 14,
       "severity": "minor",
-      "category": "knowledge",
-      "issue": "Ch 16 recalls Kamalakshi's shelter question as 'What stops a master writing a page again?' and Neela's answer as 'Chathu never needed to'. In ch 3 Kamalakshi actually asked 'If I hold my own page, can anyone else ever hold me?', and Neela answered by quoting the rule word for word.",
-      "fix": "Make the recalled question and answer match ch 3.",
+      "category": "timeline",
+      "issue": "Thulasi (hoof on a foreleg, so she was in shape) and Vellan (whose bear cleared the lane) were both among the fifteen in the sally. Counting them as 'one more' and 'one more' makes the count of hands off the wall sixteen when it should be fifteen.",
+      "fix": "Fold Thulasi and Vellan into the fifteen and correct the count.",
       "patches": [
         {
-          "chapter": 16,
-          "find": "And at the shelter, Kamalakshi had asked it straight, with Vellan's bird in her fingers: *What stops a master writing a page again?* Neela had told her Chathu never needed to, and heard it ring hollow.",
-          "replace": "And at the shelter, Kamalakshi had asked it straight, with Vellan's bird in her fingers: *If I hold my own page, can anyone else ever hold me?* Neela had given her the rule word for word, and heard the gap in it."
+          "chapter": 14,
+          "find": "Fifteen hollow and flat on their mats until dusk. One more with a leg, and one more to sit by it.",
+          "replace": "Fifteen hollow and flat on their mats until dusk, one of them with a cracked leg, and another who would not leave her side."
+        },
+        {
+          "chapter": 14,
+          "find": "\"That's sixteen hands off tomorrow's wall,\" Kamalakshi said.",
+          "replace": "\"That's fifteen hands off tomorrow's wall,\" Kamalakshi said."
         }
       ]
     },
     {
       "id": "E06",
-      "chapter": 16,
+      "chapter": 28,
       "severity": "minor",
-      "category": "object",
-      "issue": "Neela takes all thirty crown-leaf pages from the chest, but only twenty-two guards accept theirs. Ch 16 then says 'The pages were gone, every one', which leaves eight pages unaccounted for. If Neela kept them, she would be holding pages she later swears she will not hold.",
-      "fix": "Account for the eight refused pages: Neela returns them to the queen's hand through Usha, as Lata asked.",
+      "category": "timeline",
+      "issue": "Ch 28 says Neela returned the eleven Resin House pages 'at first light'. At first light she was turning back over Devan (ch 26) and then going up the cut to the dying Vellan (ch 27).",
+      "fix": "Move the reading to after Vellan was carried down.",
       "patches": [
         {
-          "chapter": 16,
-          "find": "The pages were gone, every one, into twenty-two cuffs and sashes and hems.",
-          "replace": "Twenty-two pages were gone into cuffs and sashes and hems. The eight that no hand had asked for she had tied in oilcloth at first light and given to Usha, to go back into the queen's own hand, as Lata had wished."
+          "chapter": 28,
+          "find": "At first light she had put the eleven Resin House pages back into their owners' hands, one by one, in the open sun, as she had promised.",
+          "replace": "Once Vellan was carried down she had put the eleven Resin House pages back into their owners' hands, one by one, in the open sun, as she had promised, if late."
         }
       ]
     },
     {
       "id": "E07",
-      "chapter": 27,
+      "chapter": 22,
       "severity": "minor",
-      "category": "object",
-      "issue": "At the ch 24 namings, the crown leaves burn in a red lacquer case on the queen's lap. In ch 27 the scorched case is green-lacquered leather 'brought up from the red chest in the night', and later chapters keep calling it the green case. The scorching happened at dusk on the shelf, not overnight.",
-      "fix": "Make the case on the shelf the green-lacquered one from the start.",
+      "category": "knowledge",
+      "issue": "Neela tells the queen of Chathu's sheaf 'They're not burned. I told you why.' She has never explained anything about these pages to the queen. The queen gave them to her to keep (ch 16), and Neela does not learn they are plain ink until ch 29.",
+      "fix": "Have Neela say the queen left them in her keeping.",
       "patches": [
         {
-          "chapter": 24,
-          "find": "The queen's chair had been carried down, and Nirmala sat in it with the red lacquer case open on her lap, the thirty crown leaves laid on blue cloth.",
-          "replace": "The queen's chair had been carried down, and Nirmala sat in it with a flat case of green-lacquered leather open on her lap, the thirty crown leaves moved into it from the red chest and laid on blue cloth."
-        },
-        {
-          "chapter": 27,
-          "find": "In her lap lay a case of green-lacquered leather, scorched along one edge, brought up from the red chest in the night.",
-          "replace": "In her lap lay the case of green-lacquered leather she had held on the shelf at dusk, scorched along one edge."
+          "chapter": 22,
+          "find": "\"Mine,\" she said. \"Chathu wrote these at your table. They're not burned. I told you why.\"",
+          "replace": "\"Mine,\" she said. \"Chathu wrote these at your table. You left them in my keeping.\""
         }
       ]
     },
     {
       "id": "E08",
-      "chapter": 24,
+      "chapter": 32,
       "severity": "minor",
-      "category": "injury",
-      "issue": "Usha's cuff tears the pared seam at her wrist, but the matching welt rises 'hand-long' on the queen's forearm. A wound-share welt should match the wound's place and size. The hand-long forearm welt in ch 26 comes from a separate battle cut.",
-      "fix": "Put the dusk welt on the queen's wrist and make it thin.",
-      "patches": [
-        {
-          "chapter": 24,
-          "find": "On her forearm, where Usha's cuff had torn the seam, a hand-long red welt had risen.",
-          "replace": "On her wrist, where Usha's cuff had torn the seam, a thin red welt had risen."
-        }
-      ]
-    },
-    {
-      "id": "E09",
-      "chapter": 26,
-      "severity": "minor",
-      "category": "timeline",
-      "issue": "The queen says she has kept thirty knives for thirty years. The 'Sold to the crown' sales of the thirty ran over twenty years (Lata, the charter, the queen's own 'twenty years' elsewhere).",
-      "fix": "Change thirty years to twenty.",
-      "patches": [
-        {
-          "chapter": 26,
-          "find": "I have kept thirty knives for thirty years, and this is the first time one of them has been hurt in a fight where I could not see her.",
-          "replace": "I have kept thirty knives for twenty years, and this is the first time one of them has been hurt in a fight where I could not see her."
-        }
-      ]
-    },
-    {
-      "id": "E10",
-      "chapter": 29,
-      "severity": "major",
       "category": "knowledge",
-      "issue": "Ch 29 says Neela 'had watched the wrong paper burn and believed it' and only now realises the scorch came from the members' own Resin House pages. Ch 24 shows her seeing exactly that: Pavi's Resin House page catches, and Neela slides its intake roll free.",
-      "fix": "Her ch 29 realisation becomes that she never asked why Chathu's leaves beneath did not burn.",
+      "issue": "Neela says she had smelled the salt-and-clove-bark resin 'once before', on the sleeper at Nellimala. She also smelled it on the dead Thurai scout at the shelf in ch 8, where she named it the same smell.",
+      "fix": "Name both earlier occasions.",
       "patches": [
         {
-          "chapter": 29,
-          "find": "She had watched the wrong paper burn and believed it.",
-          "replace": "She had watched the true pages burn and never once asked why the forty beneath them did not."
-        }
-      ]
-    },
-    {
-      "id": "E11",
-      "chapter": 29,
-      "severity": "minor",
-      "category": "magic",
-      "issue": "In ch 24, twenty-eight of the forty name and eleven hold back. Thilak, who burned his own page earlier, names to no one, and burning a page does not void a witness. Ch 29 says twenty-nine are free of Chathu and that only the eleven still answer to him.",
-      "fix": "Correct the count to twenty-eight and include Thilak among those Chathu could still write.",
-      "patches": [
-        {
-          "chapter": 29,
-          "find": "And twenty-nine of them are free of Chathu entirely.",
-          "replace": "And twenty-eight of them are free of Chathu entirely."
-        },
-        {
-          "chapter": 29,
-          "find": "Only the eleven who haven't chosen still answer to his mouth.",
-          "replace": "Only the eleven who haven't chosen, and Thilak, who burned his page but named to no one, still answer to his mouth."
-        },
-        {
-          "chapter": 29,
-          "find": "He can write the eleven, and no more.",
-          "replace": "He can write those twelve, and no more."
-        }
-      ]
-    },
-    {
-      "id": "E12",
-      "chapter": 31,
-      "severity": "minor",
-      "category": "object",
-      "issue": "The 'Sold to the crown' sheet came from the green-sealed quire Devan kept in his pack (Rema refused it and handed it back). In ch 31 it appears inside the queen's green case with no handover.",
-      "fix": "Note that Devan laid the sheet in the case for the reading.",
-      "patches": [
-        {
-          "chapter": 31,
-          "find": "Beside them lay the sheet headed *Sold to the crown*.",
-          "replace": "Beside them lay the sheet headed *Sold to the crown*, which Devan had taken from his pack at dawn and laid in the case for the reading."
+          "chapter": 32,
+          "find": "She had smelled it once before, on a sleeper by a half-built tower, among sixty-three tents on a slope where her mother's house had been.",
+          "replace": "She had smelled it on a dead scout at the shelf, and before that on a sleeper by a half-built tower, among sixty-three tents on a slope where her mother's house had been."
         }
       ]
     }
