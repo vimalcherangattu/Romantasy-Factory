@@ -99,7 +99,7 @@
       }
     },
     "04": {
-      "status": "passed",
+      "status": "edited",
       "revisions": 0,
       "scores": {
         "reader_question": 4.0,
@@ -113,8 +113,19 @@
       },
       "average": 3.88,
       "flags": [],
-      "words": 2527,
-      "minimum": 3.0
+      "words": 2540,
+      "minimum": 3.0,
+      "style": {
+        "words": 2540,
+        "banned_hits": {},
+        "ai_tell_hits": {},
+        "ai_tells_per_1000": 0.0,
+        "top_4gram": "he noted that she",
+        "top_4gram_count": 2,
+        "longest_paragraph_words": 93,
+        "em_dashes_per_1000": 0.0,
+        "reading_ease": 94.8
+      }
     },
     "05": {
       "status": "passed",
@@ -1266,9 +1277,13 @@
     {
       "at": "2026-10-31T20:59:52",
       "event": "done: S8 line edit ch 3"
+    },
+    {
+      "at": "2026-10-31T21:00:25",
+      "event": "done: S8 line edit ch 4"
     }
   ],
-  "updated_at": "2026-10-31T20:59:52",
+  "updated_at": "2026-10-31T21:00:25",
   "midpoint_chapter": 16,
   "continuity_attempts": 1,
   "continuity_last_errors": 1
