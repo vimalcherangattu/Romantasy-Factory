@@ -1974,6 +1974,126 @@
       "fact": "Rohan, bound by his promise of no more questions, stops himself at 'May I' and rephrases as an offer; Meera notes 'nearly's free'.",
       "since": "s03-bound-till-the-thaw-b01 ch 28",
       "provisional": true
+    },
+    {
+      "id": "F290",
+      "category": "timeline",
+      "fact": "Book 1 day count: Rohan reaches Kothi Shilak on day 1, the avalanche and binding are on day 2, and the Snow Fair falls at dawn of day 20. Days remaining to the Fair: eleven at ch 13 dusk (day 9), eight at ch 19 (day 12), five at the start of ch 21 (day 15) and four in ch 22 (day 16). Supersedes F129, F178, F185, F189, F192 and F278.",
+      "since": "s03-bound-till-the-thaw-b01 (S7)"
+    },
+    {
+      "id": "F291",
+      "category": "timeline",
+      "fact": "Rohan counts Varun as buried under the gully for seven days at ch 13 and eight days at ch 16. Supersedes F131 and F153.",
+      "since": "s03-bound-till-the-thaw-b01 (S7)"
+    },
+    {
+      "id": "F292",
+      "category": "object",
+      "fact": "The patrol's door rule bites after the sixth day from the ash marking (day 18): no one goes in or out of a marked house without a pass after that. Supersedes F179, F193 and F276.",
+      "since": "s03-bound-till-the-thaw-b01 (S7)"
+    },
+    {
+      "id": "F293",
+      "category": "timeline",
+      "fact": "The ch 21 plan: the two marked cases take their last dose at dusk on day 16, and the pair leave at first light on day 17. The ch 23 snow delays departure to day 18, and Rohan's unsent letter tells Ila he will reach Garh Neshar the evening before the Fair. Supersedes F209's morning-of-the-Fair wording.",
+      "since": "s03-bound-till-the-thaw-b01 (S7)"
+    },
+    {
+      "id": "F294",
+      "category": "knowledge",
+      "fact": "Rohan struck the third warden from Varun's party sheet before riding to Kothi Shilak and named only two in the yard. No one in Kothi ever heard the number three. Supersedes F107 and F114.",
+      "since": "s03-bound-till-the-thaw-b01 (S7)"
+    },
+    {
+      "id": "F295",
+      "category": "relationship",
+      "fact": "Rohan first says 'Meera' in ch 7, when she lies about the shelf. Ch 10 is the first time he says it on purpose. Supersedes F088's ch 6 claim.",
+      "since": "s03-bound-till-the-thaw-b01 (S7)"
+    },
+    {
+      "id": "F296",
+      "category": "magic",
+      "fact": "Rohan's lockhouse promise in ch 27 is worded 'I won't ask you anything else about that rope', so it binds only questions about Dilan's rope. Refines F239 and F289.",
+      "since": "s03-bound-till-the-thaw-b01 (S7)"
+    },
+    {
+      "id": "F297",
+      "category": "injury",
+      "fact": "Meera has an old burn-scar on her forearm (ch 20).",
+      "since": "s03-bound-till-the-thaw-b01 (S7)"
+    },
+    {
+      "id": "F298",
+      "category": "knowledge",
+      "fact": "Rohan has read the Shilak post's file on Meera, which records her age (ch 20).",
+      "since": "s03-bound-till-the-thaw-b01 (S7)"
+    },
+    {
+      "id": "F299",
+      "category": "knowledge",
+      "fact": "Kiran tried, alone at the cairn last winter, to say Dilan's name aloud and could not.",
+      "since": "s03-bound-till-the-thaw-b01 (S7)"
+    },
+    {
+      "id": "F300",
+      "category": "object",
+      "fact": "Nimmi chalks each dose tally on her lintel beside the ash handprint.",
+      "since": "s03-bound-till-the-thaw-b01 (S7)"
+    },
+    {
+      "id": "F301",
+      "category": "place",
+      "fact": "On the night of the torches the regent's soldiers nail planks across Nimmi's goat shed door.",
+      "since": "s03-bound-till-the-thaw-b01 (S7)"
+    },
+    {
+      "id": "F302",
+      "category": "knowledge",
+      "fact": "Rohan's father, the one time he saw Dilan's rope end, said: 'Burn it, or carry it, but don't turn it into a kind of priest.'",
+      "since": "s03-bound-till-the-thaw-b01 (S7)"
+    },
+    {
+      "id": "F303",
+      "category": "knowledge",
+      "fact": "In the lockhouse Rohan hums Dilan's hymn, whose invented verse begins 'keep me till the morning, love'. Meera tells him it is a hymn, not a love song.",
+      "since": "s03-bound-till-the-thaw-b01 (S7)"
+    },
+    {
+      "id": "F304",
+      "category": "object",
+      "fact": "In ch 1 the redbark came in four crates, all four lids scraped. Meera's last recorded delivery was seven crates left at the mill below the village.",
+      "since": "s03-bound-till-the-thaw-b01 (S7)"
+    },
+    {
+      "id": "F305",
+      "category": "knowledge",
+      "fact": "Meera learned the lazy woman's lift at fourteen from Bindu's mother. She once counted in her head and carried eleven packets over the Saddle while calling them twelve.",
+      "since": "s03-bound-till-the-thaw-b01 (S7)"
+    },
+    {
+      "id": "F306",
+      "category": "place",
+      "fact": "The Goat's Teeth drop about two thousand feet to the Neshar side.",
+      "since": "s03-bound-till-the-thaw-b01 (S7)"
+    },
+    {
+      "id": "F307",
+      "category": "name",
+      "fact": "At the Fair, Lalit trips the fleeing Varun and Asha sits on his chest. Kunal's single word 'Hold' stops the soldiers moving on Meera.",
+      "since": "s03-bound-till-the-thaw-b01 (S7)"
+    },
+    {
+      "id": "F308",
+      "category": "relationship",
+      "fact": "Ila greets Rohan at the Fair by telling him he is eight days late.",
+      "since": "s03-bound-till-the-thaw-b01 (S7)"
+    },
+    {
+      "id": "F309",
+      "category": "object",
+      "fact": "On the crossing home Meera adds a fifth stone to Jassi's waystone cairn 'for the goats'. The wind-felled juniper below the Rope-Hut has put out green tips.",
+      "since": "s03-bound-till-the-thaw-b01 (S7)"
     }
   ],
   "knowledge": [

@@ -1,40 +1,42 @@
-# Continuity report: Bound till the Thaw (Book 1, 32 chapters)
+# Continuity report: Bound till the Thaw (Book 1, chapters 1–32)
 
-## What I checked
+## What was checked
 
-- **Names, ages and forms of address:** Meera, Rohan, Kiran, Ila, Asha, Varun, Nimmi, Jassi, Bindu, Hakam, Puja, Ketan, Gopal, Lalit and Pinku. I also checked the uses of Guide, Captain, Captain-ji and Didi.
-- **The twenty-day clock, chapter by chapter:** the days left to the Fair, Varun's days under the slide, days on the rope, the firewood counts (41 down to 7) and the dawn of day twenty in ch 29.
-- **Rope-Bond rules:** the eight-span distance, the size of each lie and what it costs, the loophole, bound promises and how far each one reaches, and the thaw ending.
-- **Closing Law rules:** harbouring, the warden's lack of power to pardon, and the writ and Closing Roll loophole.
-- **Injuries:** Rohan's left ribs 7 and 8, his split right knuckles and his fever. Meera's split knuckles and the loss of her left ring and little fingers. Kiran's left ear.
-- **Objects:** the seal and its double hitch, the redbark counts (12 packets to 9 sound to 18 courses), Badami's two bells, Dilan's rope end and badge, the brass buttons, the writ case and goggles, the pattus, and the count.
-- **Who knows what:** the Salt Fox, Varun, Kiran on Dilan's rope, the masked buyer, and the seal's hiding place.
+- **Bible rules.** Rope-Bond distance and lie-cold tiers, the loophole, promises while bound, what is free, and fire not warming lie-cold. Also the Closing Law, harbouring and the writ/Closing Roll loophole.
+- **Cast.** Names, ages, forms of address (Guide, Captain, Captain-ji, Didi) and fixed traits. This includes Rohan going silent rather than lying, Meera never saying please, and Kiran never saying Dilan's name.
+- **Secret map.** Who knows what and when (S1–S8), and every clue against outline.json.
+- **Day count.** The twenty-day count was tracked chapter by chapter: day 1 arrival, day 2 binding, Fair at dawn of day 20.
+- **Juniper stick ledger.** 41, then 36, 31, 26/25/24, 24, 19, 14/13, 12, 11, and 7 recovered. It is consistent.
+- **Redbark stock.** Twelve packets, three ruined, eighteen courses.
+- **Ranu figures.** Grave counts (31, then 32 with Sunni) and the sick and dose figures.
+- **Injuries.** Rohan's left ribs and arm, both of Meera's split knuckles, and her left ring and little fingers, plus which wrist carries the rope.
+- **Objects in motion.** The seal and its knot, Dilan's rope end and badge, both of Badami's bells, the brass button token, the writ, the pattus, the coat, the knife and the count.
+- **Places.** Hut, Nimmi's house, storehouse, goat shed and woodpile, and the lockhouse.
 
 ## Errors found
 
-One major error and nine minor ones. All are listed in errors.json.
+Seven minor errors, each patched in errors.json:
 
-- **E01 (major), ch 30:** Meera "slips away" from Rohan and he has to "find" her. Both are still bound, so this breaks the distance rule.
-- **E02, ch 25:** Varun says he has never seen a binding, but he crossed bound himself in ch 24.
-- **E03, ch 25:** Varun's "new regent's coat" conflicts with the button evidence, which depends on the brass button among the pewter ones on his old coat.
-- **E04, ch 25:** the "eighteen mid-course" count is stale.
-- **E05, ch 25:** Varun says Meera "roped up" the gully, but the party crossed it unroped.
-- **E06, ch 22:** Dilan cuts the rope "above his waist", although the pair were bound at the wrists.
-- **E07, ch 28:** Rohan's ch 27 promise is described more broadly than it was made, which would turn later questions into broken promises.
-- **E08, ch 31:** the thaw is defined as the "first drip", which contradicts the meltwater rule.
-- **E09, ch 27:** "the old captain" appears at Dilan's oath, during Rohan's own captaincy.
-- **E10, ch 32:** Meera recalls Rohan *wrote* "for the next one", when he said it.
+- **E01 (ch 11):** the mother question is placed on "the next night". It was asked earlier that same night.
+- **E02 (ch 13):** the Salt Fox question is dated "three nights ago". It was last asked in ch 4.
+- **E03 (ch 21):** Rohan says "twelve days" on Meera's mountain on day 16.
+- **E04 (ch 24):** a knife Meera "had not known he kept". She saw it in ch 8.
+- **E05 (ch 25):** Meera's pattu has the hole in the hem. That pattu is on Rohan.
+- **E06 (ch 28):** the button stitches are dated ten winters back. Meera stitched them in ch 1.
+- **E07 (ch 30):** the torch lane is dated "the night before". It was two nights before.
 
-## Stale continuity facts
+No major errors. World rules are not broken at any climax. Every lie to a bound partner is costed, every promise is kept or pressed, and the Jassi and fingers losses stay lost.
 
-Several provisional facts no longer match the final text. In each case the book is consistent with itself, so I treated the facts as outdated rather than the text as wrong, and recorded the corrected values in new-facts.json.
+## Notes on continuity.json
 
-| Fact(s) | Continuity says | Final text says |
-|---|---|---|
-| F129 | 9 days to the Fair at ch 13 | 11 days |
-| F131, F153 | Varun buried 9 and 11 days | 7 days at ch 13, 8 days at ch 16 |
-| F178, F179, F276, F278, F280 | 4 days left; pass rule bites on the third day | 8 days left; rule bites after the sixth day |
-| F185, F189, F192 | other day counts at ch 21 | Fair 5 days off at ch 21 |
-| F107, F114 | party numbers read in front of the guides | third warden struck before Kothi Shilak; nobody there heard "three" |
-| F157 | 31 graves | 32 graves after Sunni |
-| F209 | 17 days | 15 days on the rope at ch 23 |
+The book's settled text is internally consistent but contradicts several provisional facts. I resolved these in favour of the book and recorded corrected versions in new-facts.json:
+
+- **Time remaining.** The book has 11 days remaining at ch 13, not 9 (F129).
+- **Varun buried.** Varun has been buried 7 and 8 days at ch 13 and ch 16, not 9 and 11 (F131, F153).
+- **Patrol pass rule.** The pass rule bites on the sixth day, not the third (F179, F193, F276).
+- **Ch 19 to 23 schedule.** Ch 19 has eight days remaining, and the ch 21 and ch 23 departure plans follow from that (F178, F185, F189, F192, F209, F278).
+- **Third warden's name.** The third name was struck before riding to Kothi (F107, F114).
+- **Rohan's first use of "Meera".** He first says it in ch 7, not ch 6 (F088).
+- **Rohan's ch 27 promise.** The promise is worded "about that rope" (F239, F289).
+
+These provisional facts should be retired.

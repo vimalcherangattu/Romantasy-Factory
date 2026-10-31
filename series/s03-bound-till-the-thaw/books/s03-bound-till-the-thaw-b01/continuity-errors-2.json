@@ -2,136 +2,106 @@
   "open_errors": [
     {
       "id": "E01",
-      "chapter": 18,
-      "severity": "major",
-      "category": "knowledge",
-      "issue": "Rohan has hunted for an ear-wound since ch 2. In ch 18 Kiran's frostbitten ear 'stood out' while Rohan stood in the doorway. Ch 21 then hides both ears under a wool cap, and ch 22 treats the passage as Rohan's first look at the torn rim. As written, the hunter sees the very clue he asked the village about and ignores it for four chapters.",
-      "fix": "Cover the ear with the wool cap from Kiran's first appearance, matching ch 21 and ch 22.",
+      "chapter": 11,
+      "severity": "minor",
+      "category": "timeline",
+      "issue": "Meera recalls that Rohan asked about her mother 'the next night' after she turned her face to the wall. In ch 9 the question about her mother comes earlier that same night, before she sleeps and before the rope-end moment. The night after (ch 10) he only refuses questions about his coat.",
+      "fix": "Place his question about her mother earlier that same night.",
       "patches": [
         {
-          "chapter": 18,
-          "find": "The frostbitten ear, curled and puckered like a dried apricot, stood out against a face that had lost its flesh.",
-          "replace": "A wool cap was pulled down over both ears, hiding the frostbitten one, and under it his face had lost its flesh."
+          "chapter": 11,
+          "find": "And he had not paid her back in coin or thanks. He had asked the right question the next night, a plain one, about her mother.",
+          "replace": "And he had not asked for coin or thanks. Earlier that night he had asked the right question, a plain one, about her mother."
         }
       ]
     },
     {
       "id": "E02",
-      "chapter": 1,
+      "chapter": 13,
       "severity": "minor",
-      "category": "objects",
-      "issue": "The bible says the red rope was spun in Lata's house. Ch 1 says Bindu got the raw wool from Lata, which means Bindu spun it. The same sentence also says the wool was 'begged' and then 'sold'.",
-      "fix": "Say the wool was spun in Lata's house and sold to the crew.",
+      "category": "timeline",
+      "issue": "Rohan's Salt Fox question is called 'the same question as three nights ago'. He last asked it on the winter line in ch 4, the night they were bound, about seven nights earlier. Three nights before ch 13 (ch 9) he chose to ask about her mother instead.",
+      "fix": "Point back to the ch 4 asking.",
       "patches": [
         {
-          "chapter": 1,
-          "find": "Bindu had begged the raw wool off a Taravan trader, Lata, who sold to them at a fair price and asked nothing.",
-          "replace": "The wool had been spun in the house of a Taravan trader, Lata, who sold to them at a fair price and asked nothing."
+          "chapter": 13,
+          "find": "It was the same question as three nights ago. He knew that, and so did she.",
+          "replace": "It was the same question he had asked on the winter line, the night they were bound. He knew that, and so did she."
         }
       ]
     },
     {
       "id": "E03",
-      "chapter": 2,
+      "chapter": 21,
       "severity": "minor",
-      "category": "objects",
-      "issue": "In ch 2 Rohan draws the writ from his coat. In ch 7 it lives in a stamped writ case on his belt, and he only moves it into his coat after Meera cuts the case for goggles.",
-      "fix": "Have him draw the writ from the case at his belt in ch 2.",
+      "category": "timeline",
+      "issue": "On day 16 Rohan tells Kiran he has lived on Meera's mountain for 'twelve days'. Ch 20 already uses twelve days for day 12, and ch 23 has him say he has carried the rope fifteen days on day 17.",
+      "fix": "Replace the wrong count with a round figure that fits.",
       "patches": [
         {
-          "chapter": 2,
-          "find": "Rohan drew the writ from his coat and unfolded it so the back rows could see the brown ink and the crown's red border.",
-          "replace": "Rohan drew the writ from the leather case at his belt and unfolded it so the back rows could see the brown ink and the crown's red border."
+          "chapter": 21,
+          "find": "And I have lived on your sister's mountain for twelve days, and I have been fed, and mended, and written in a book,",
+          "replace": "And I have lived on your sister's mountain for half a month, and I have been fed, and mended, and written in a book,"
         }
       ]
     },
     {
       "id": "E04",
-      "chapter": 10,
+      "chapter": 24,
       "severity": "minor",
-      "category": "knowledge",
-      "issue": "Meera recalls counting the gully party 'on the rope'. Nobody was roped in the gully. They crossed the bowl one at a time, thirty paces apart, and were only bound later at the cairn.",
-      "fix": "Change 'rope' to 'slope'.",
+      "category": "object",
+      "issue": "Rohan opens his seam with 'a knife she had not known he kept'. In ch 8 Meera watches him stir the sattu with his knife.",
+      "fix": "Make it the knife she has already seen.",
       "patches": [
         {
-          "chapter": 10,
-          "find": "She had counted them on the rope herself.",
-          "replace": "She had counted them on the slope herself."
+          "chapter": 24,
+          "find": "The seam gave to a knife she had not known he kept.",
+          "replace": "The seam gave to the small knife he had once stirred sattu with."
         }
       ]
     },
     {
       "id": "E05",
-      "chapter": 13,
+      "chapter": 25,
       "severity": "minor",
-      "category": "magic",
-      "issue": "Meera asks 'What?' and Rohan answers 'Nothing.' when something plainly is wrong. That is a false statement made to be believed, yet his hands stay warm, and the bible never waives the cost. The narration's 'refusal' reading needs a reply that is actually a refusal.",
-      "fix": "Make the reply a deferral that is true.",
+      "category": "object",
+      "issue": "Varun sees Meera in 'a stained pattu with a hole in the hem'. The brown pattu with the hole in the hem is the one Rohan has been wearing since ch 21, and the soldiers strip it off him in this same chapter. Ch 27 confirms the hole is in his borrowed pattu.",
+      "fix": "Drop the hole from Meera's pattu.",
       "patches": [
         {
-          "chapter": 13,
-          "find": "\"Nothing.\"",
-          "replace": "\"Not yet.\""
+          "chapter": 25,
+          "find": "He was looking at Jassi's second, a woman in a stained pattu with a hole in the hem, and nothing more.",
+          "replace": "He was looking at Jassi's second, a woman in a stained and frayed pattu, and nothing more."
         }
       ]
     },
     {
       "id": "E06",
-      "chapter": 15,
+      "chapter": 28,
       "severity": "minor",
-      "category": "objects",
-      "issue": "Redbark is rust-red or blood-coloured everywhere else (ch 2, 4, 11), and this twist is said to match Meera's crown-grade stock. In ch 15 it is described as 'pale brown'.",
-      "fix": "Make the powder rust-red.",
+      "category": "object",
+      "issue": "The stitches over the brass button are said to have been sewn 'ten winters back, so that nobody would find what lay under them'. In ch 1 Meera stitches this button, the token from the latest drop, into the spine on the morning the wardens arrive.",
+      "fix": "Keep the binding ten winters old, but have the button stitched in on the ch 1 morning.",
       "patches": [
         {
-          "chapter": 15,
-          "find": "Powder, pale brown, and a smell like old tea and bitter bark.",
-          "replace": "Powder, rust-red, and a smell like old tea and bitter bark."
+          "chapter": 28,
+          "find": "She had sewn them herself, ten winters back, so that nobody would find what lay under them unless he meant to take the book apart.",
+          "replace": "She had bound the book herself, ten winters back, and stitched the button under the binding the morning the wardens came, so that nobody would find it unless he meant to take the book apart."
         }
       ]
     },
     {
       "id": "E07",
-      "chapter": 25,
-      "severity": "minor",
-      "category": "objects",
-      "issue": "Soldiers 'ran their hands down every seam' of Rohan's coat and found only the speech, his knife and Dilan's rope end. Yet the writ is still in his coat in ch 30 and 31, and in ch 30 he draws from it the flat tin holding the queen's wax and her signed line.",
-      "fix": "Have the search find the writ and the tin, with Varun dismissing them as worthless without the stone.",
-      "patches": [
-        {
-          "chapter": 25,
-          "find": "They found the speech on the back of Nimmi's tally sheet. Varun read it, smiled, and slid it back into the lining.",
-          "replace": "They found the speech on the back of Nimmi's tally sheet, the folded writ and a flat tin of wax. Varun read the speech, smiled, glanced at the rest as a man glances at a lock without its key, and slid it all back into the lining."
-        }
-      ]
-    },
-    {
-      "id": "E08",
-      "chapter": 28,
-      "severity": "minor",
-      "category": "objects",
-      "issue": "In ch 1 the brass button token was stitched into the ledger's spine 'where only a person who unpicked the binding would find it'. In ch 28 it simply comes out when Meera reaches in with two fingers.",
-      "fix": "Have her pick the stitches to free it.",
-      "patches": [
-        {
-          "chapter": 28,
-          "find": "She reached into the binding of the count with two fingers, and the little thing came out onto her palm.",
-          "replace": "She picked the stitches in the binding of the count with her thumbnail, and the little thing came out onto her palm."
-        }
-      ]
-    },
-    {
-      "id": "E09",
       "chapter": 30,
       "severity": "minor",
       "category": "timeline",
-      "issue": "Asha freed Rohan before dawn on the day before the Fair, and the party then walked a full day and a night to reach the meadow. Varun calls the escape 'last night'.",
-      "fix": "Change 'last night' to 'yesterday'.",
+      "issue": "The grey-bearded officer is said to have settled something 'in a lane the night before'. The torches at Ranu were on the night of day 18, the escape was at dawn of day 19, and the night walk was the night of day 19. The Fair is day 20, so the lane was two nights before.",
+      "fix": "Change to two nights before.",
       "patches": [
         {
           "chapter": 30,
-          "find": "He broke custody at Ranu last night with a smuggler's help.",
-          "replace": "He broke custody at Ranu yesterday with a smuggler's help."
+          "find": "Then he stood beside it with his hands empty, as if he had settled something with himself in a lane the night before.",
+          "replace": "Then he stood beside it with his hands empty, as if he had settled something with himself in a lane two nights before."
         }
       ]
     }
