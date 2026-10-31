@@ -1022,7 +1022,7 @@
   "errors": [
     "2 major continuity errors remain after 2 fix round(s): ch 26: In Neela's POV, Thankam is introduced as a woman 'Neela had never seen before'. Neela met Thankam in the Kodiyur drying shed in ch 12 and watched her lay down the paring knife.; ch 31: In ch 28 Devan has already signed the Company roll, left-handed and badly, directly under Neela's name, in front of everyone. Ch 31 says there is 'a gap' beside her name and has him sign for the first time, saying 'I can't hold the pen'."
   ],
-  "revision_round": 1,
+  "revision_round": 2,
   "asin": null,
   "created_at": "2026-10-19T17:42:11",
   "review_at": null,
@@ -2124,9 +2124,13 @@
     {
       "at": "2026-10-31T19:29:42",
       "event": "done: S10 package"
+    },
+    {
+      "at": "2026-10-31T19:31:25",
+      "event": "done: beta read"
     }
   ],
-  "updated_at": "2026-10-31T19:29:42",
+  "updated_at": "2026-10-31T19:31:25",
   "midpoint_chapter": 16,
   "continuity_attempts": 1,
   "continuity_last_errors": 3,
@@ -2154,10 +2158,10 @@
   "beta": {
     "verdict": "revise",
     "predicted_rating": 4.1,
-    "summary": "A warm, adult finale with felt chemistry, a midpoint that recasts the first half, and a real belief change shown in the roll-signing and the charter. A handful of cheap fixes would lift the last two chapters into 4.3 territory: continuity slips, a fake cliffhanger, a muddled final vote, an ambiguous guard's age and a thrice-repeated confession.",
-    "notes": "series/s02-vow-of-teeth/books/s02-vow-of-teeth-b03/beta-notes-1.md"
+    "summary": "A satisfying closing book. The midpoint witness reveal recasts the first half, the heroine's belief change is earned on the page, and the charter, Vellan's death and the lost hand give the ending real weight. A few fixable continuity contradictions, a deflated cliffhanger between chapters 31 and 32, and some narration that explains what the scene already showed keep it from a clean approve.",
+    "notes": "series/s02-vow-of-teeth/books/s02-vow-of-teeth-b03/beta-notes-2.md"
   },
-  "beta_rounds": 1,
-  "pending_owner_notes": null,
+  "beta_rounds": 2,
+  "pending_owner_notes": "/home/user/Romantasy-Factory/series/s02-vow-of-teeth/books/s02-vow-of-teeth-b03/beta-notes-2.md",
   "cover_tool": "ElevenLabs (FLUX 3 Image)"
 }
