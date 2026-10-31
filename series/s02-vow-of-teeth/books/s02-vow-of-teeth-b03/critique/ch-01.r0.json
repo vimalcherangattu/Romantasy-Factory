@@ -10,29 +10,31 @@
     "continuity": 0.0
   },
   "reasons": {
-    "reader_question": "The ending gives a specific gap: a queen's knife comes alone, with open hands, to a hunted Company. The beat's question lands cleanly.",
-    "change": "The value shift lands. Hidden safety becomes war at the door, the Company votes Devan down the hill, and the night-guard arrives.",
-    "romance_movement": "There is a new reason for the change: Neela admires Devan putting his fight to the Company's vote instead of to her or to rank.",
-    "shown_chemistry": "The brief hand between her shoulders, his crooked mouth and the exchanged look over her raised hand show the chemistry. One line, 'She loved the corner of his mouth', narrates it.",
-    "character_logic": "Devan asking the vote fits his arc. Choosing to go alone against a hundred is reckless, but he flags it himself.",
-    "stakes_and_cost": "The burning coast, Kirri fading and Devan alone in a forty-pace gorge all carry cost. The odds of the gorge stay abstract.",
-    "prose": "The prose is concrete and clean, with no banned phrases. Weak spots: Kamalakshi's 'laughed for the first time' line appears twice, 'rock-sized grief' is clunky, and 'fort and a seal and an iron disc' is redundant.",
-    "continuity": "'In eight years of watching men obey him' is impossible: she has known him under a year. 'She had never seen it' conflicts with her living at Nellimala until six. 'Middle-aged' contradicts First Guard being about Devan's age (F454)."
+    "reader_question": "The lone woman with the pared seam leaves a sharp question: why has the queen's night-guard come alone, and for what? The muddled last line blunts it.",
+    "change": "Hidden safety becomes war at the door. The Company now votes on war, and Devan is bound to go down to the gorge.",
+    "romance_movement": "The new reason is Devan asking the Company rather than Neela or rank. Her last hand acknowledges the shared-wound cost.",
+    "shown_chemistry": "Shown through the crooked mouth, the light hand that doesn't stay, the wrist glance and the answering raised hand. One line narrates love outright.",
+    "character_logic": "Devan's asking fits his arc of open power under a vote. Neela's ration ruling fits her habit of naming people.",
+    "stakes_and_cost": "Her yes stakes her own body through the wound-share. Thulasi's burned village and Kirri's decline make the war personal.",
+    "prose": "Concrete and well varied, but the suppression device repeats three times, the treaty speech tells Neela what she already knows, and the final sentence is muddy.",
+    "continuity": "F1077 (non-provisional) says the old plank holds forty-one names with hers last. The draft says forty-two."
   },
   "fixes": [
-    "'In eight years of watching men obey him': this is a continuity break, because Neela has known Devan for months, not years. Rewrite as 'In all the months she had watched men obey him' or 'In eight years, by his own count, he had not asked anyone's leave to fight.' This keeps the bible's eight-year no-strike history without giving her impossible years of witness.",
-    "'She had never seen it. She had never been told.' contradicts canon: she lived at Nellimala until six (F577). Change it to 'She had never seen it from above. Nobody had ever shown her.' so the body-memory clue survives. Separately, change 'a long plain face, middle-aged' to 'a long plain face, a few years past thirty' to match F454.",
-    "'the girl called Kamalakshi who had laughed for the first time' is a repetition: the same note appears in scene one. Cut the second instance and replace it with a fresh detail, such as Vellan's bird in her lap (F663). Also add one beat when the boy says 'Pazhayangadi's gone': let Neela see Thulasi, whose intake village it is (F563). That ties the coast to a named loved person, which fixes stakes without depth."
+    "Continuity, at \"Forty-two names, hers last.\" This conflicts with F1077: the plank holds the forty plus Neela, forty-one names. Change the line to \"Forty-one names, hers last,\" and fix F1087 to match. Optionally add one beat noting that Vellan's name isn't on the plank. Keep the hearth count of forty-two odiyans; Vellan shares the resin but not the plank.",
+    "Weak ending, at \"Neela had not believed anyone could stand to look at one.\" This muddies the hook: it is unclear who is looking at what. End instead on the meaning, in Neela's counting voice. For example, she thinks one of the queen's knives had walked up the goat path alone and shown her the blade. Then interrupt with the woman speaking first, perhaps saying Neela's number or name.",
+    "Narrated chemistry and an as-you-know speech, at \"She loved the corner of his mouth\" and \"We did that. You and I and a few months of being right.\" Cut the love line; let her keep watching the corner of his mouth, which is already shown. Trim Devan's treaty speech to the two facts Neela lacks: sixty means no one controls it, and the coast pays. Cut one of the three put-the-thought-away beats (filed, folded small, pushed it down)."
   ],
-  "reader_question": "Why has the queen's First Guard climbed alone to the Company's shelter, and has she come to bargain or to cage them?",
+  "reader_question": "Why has the queen's First Guard climbed alone to the Company's shelter with open hands, and has she come to bargain or to cage?",
   "techniques_landed": [
     1,
     5,
     6
   ],
-  "new_facts_assessment": "All seven facts are necessary and match canon: F358/F729 for the knot, F660 for the trees, F663 for Vellan's bird, F717 for Kamalakshi and F709 for Muthu's seal. Two risks remain. The count of forty-one plus Neela is unclear: is she inside the forty, or the forty-second? And the claim that she has never seen the bay must be limited to 'never from above', as the new-facts entry itself says, but the prose does not.",
+  "new_facts_assessment": "The landing two dawns back under cloud is necessary and consistent with the three-day gorge estimate. The standing crown order sent before the rains is consistent, and it usefully hints at the queen's foreknowledge. Keep it. The pinch-each ration is fine. The plank holding forty-two names conflicts with F1077 (forty-one, hers last); Vellan was never one of the forty on the plank. Correct it rather than add the fact.",
   "content_rule_violation": false,
-  "failure_modes": [],
+  "failure_modes": [
+    "Narrated-only chemistry"
+  ],
   "average": 3.38,
   "minimum": 0.0,
   "passed": false

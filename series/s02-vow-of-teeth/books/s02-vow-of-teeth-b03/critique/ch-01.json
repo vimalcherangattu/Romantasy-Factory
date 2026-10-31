@@ -2,41 +2,40 @@
   "scores": {
     "reader_question": 4.0,
     "change": 4.0,
-    "romance_movement": 3.0,
-    "shown_chemistry": 3.0,
-    "character_logic": 3.0,
-    "stakes_and_cost": 3.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 4.0,
+    "stakes_and_cost": 4.0,
     "prose": 3.0,
-    "continuity": 5.0
+    "continuity": 0.0
   },
   "reasons": {
-    "reader_question": "The queen's knife arrives alone with open hands and her pared seam shown. That is a specific, urgent gap for the next chapter.",
-    "change": "Hidden safety becomes war at the door. The treaty is broken, the coast is burning, the Company has a war vote and the crown's agent has found them.",
-    "romance_movement": "Neela's admiration of Devan binding himself to the vote is a new reason. She bears no cost and makes no choice beyond raising her hand.",
-    "shown_chemistry": "The hand that doesn't stay and the shared look over the vote are good. 'She loved the corner of his mouth' is narrated.",
-    "character_logic": "Neela never weighs the wound-share when Devan proposes holding a gorge. The news and the crown order also reach the hill implausibly fast.",
-    "stakes_and_cost": "The coast's losses are vivid (Thulasi, Kirri). The vote costs the voters nothing personal, and Neela's own body-stake is missing.",
-    "prose": "Concrete and well paced. It slips into clichés ('felt rather than saw', 'let out its breath'), overuses 'He did not', and the last line muddles.",
-    "continuity": "Consistent with the bible and the facts: Kirri, Indu of Nellimala, eleven wardens' seal, Pachan, Madhavi, the sash and 'It passes'."
+    "reader_question": "The lone woman with the pared seam leaves a sharp question: why has the queen's night-guard come alone, and for what? The muddled last line blunts it.",
+    "change": "Hidden safety becomes war at the door. The Company now votes on war, and Devan is bound to go down to the gorge.",
+    "romance_movement": "The new reason is Devan asking the Company rather than Neela or rank. Her last hand acknowledges the shared-wound cost.",
+    "shown_chemistry": "Shown through the crooked mouth, the light hand that doesn't stay, the wrist glance and the answering raised hand. One line narrates love outright.",
+    "character_logic": "Devan's asking fits his arc of open power under a vote. Neela's ration ruling fits her habit of naming people.",
+    "stakes_and_cost": "Her yes stakes her own body through the wound-share. Thulasi's burned village and Kirri's decline make the war personal.",
+    "prose": "Concrete and well varied, but the suppression device repeats three times, the treaty speech tells Neela what she already knows, and the final sentence is muddy.",
+    "continuity": "F1077 (non-provisional) says the old plank holds forty-one names with hers last. The draft says forty-two."
   },
   "fixes": [
-    "At 'I mean to go down and hold the gorge', Neela never thinks of the wound-share. That is a stakes-without-depth and character-logic failure: a spear in him opens on her. Add two or three lines before her hand rises in which she registers the cost, so raising it last is a costly choice. Devan could also name it to her in the look ('That's yours too').",
-    "The last lines, 'Neela had seen a great many wrists like it... They were never smooth.', contradict themselves: the seam is smooth, and odiyan wrists are ridged. Rewrite so the logic lands. She has seen hundreds of wrists of her kind, all ridged, and only one kind is pared flat, which is what Vellan said the queen's surgeon does. End on that recognition.",
-    "At 'They came ashore at first light, and they didn't sneak', the timing fails: the boy reports the landing, burned villages and Muthu reading a crown order by noon, up a two-day climb. Make the landing two dawns ago, hidden under the cloud. Make Muthu's paper a standing order for a fleet landing that the queen sent before the rains. Then the sails and the smoke make sense."
+    "Continuity, at \"Forty-two names, hers last.\" This conflicts with F1077: the plank holds the forty plus Neela, forty-one names. Change the line to \"Forty-one names, hers last,\" and fix F1087 to match. Optionally add one beat noting that Vellan's name isn't on the plank. Keep the hearth count of forty-two odiyans; Vellan shares the resin but not the plank.",
+    "Weak ending, at \"Neela had not believed anyone could stand to look at one.\" This muddies the hook: it is unclear who is looking at what. End instead on the meaning, in Neela's counting voice. For example, she thinks one of the queen's knives had walked up the goat path alone and shown her the blade. Then interrupt with the woman speaking first, perhaps saying Neela's number or name.",
+    "Narrated chemistry and an as-you-know speech, at \"She loved the corner of his mouth\" and \"We did that. You and I and a few months of being right.\" Cut the love line; let her keep watching the corner of his mouth, which is already shown. Trim Devan's treaty speech to the two facts Neela lacks: sixty means no one controls it, and the coast pays. Cut one of the three put-the-thought-away beats (filed, folded small, pushed it down)."
   ],
-  "reader_question": "Why has one of the queen's pared-wrist night-guard climbed alone to the Company with open hands as the fleet lands, and does she come to bargain or to cage?",
+  "reader_question": "Why has the queen's First Guard climbed alone to the Company's shelter with open hands, and has she come to bargain or to cage?",
   "techniques_landed": [
     1,
-    5
+    5,
+    6
   ],
-  "new_facts_assessment": "Needed and consistent: Pazhayangadi burned (pays off Thulasi), the forty-pace gorge in three days, the crown order on the stair, the vote binding Devan, the 27/11/4 resin vote (adds up to 42 with Neela and Vellan; the 41 names on the plank fits). The First Guard description matches F454, F471, F477 and F684. Kesu staying at the well is harmless texture. Watch two things: Vellan holds a bird while Kamalakshi has 'Vellan's carved bird' in her lap, and Thilak's 'a pinch a night' conflicts with cutting the cup into forty-two shares once. Technique 6 is only gestured at, with no stated odds for the gorge.",
+  "new_facts_assessment": "The landing two dawns back under cloud is necessary and consistent with the three-day gorge estimate. The standing crown order sent before the rains is consistent, and it usefully hints at the queen's foreknowledge. Keep it. The pinch-each ration is fine. The plank holding forty-two names conflicts with F1077 (forty-one, hers last); Vellan was never one of the forty on the plank. Correct it rather than add the fact.",
   "content_rule_violation": false,
   "failure_modes": [
-    "Irrational behaviour to extend plot",
-    "Narrated-only chemistry",
-    "Stakes without depth"
+    "Narrated-only chemistry"
   ],
-  "average": 3.5,
-  "minimum": 3.0,
-  "passed": true
+  "average": 3.38,
+  "minimum": 0.0,
+  "passed": false
 }
