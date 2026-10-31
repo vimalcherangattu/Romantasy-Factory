@@ -914,7 +914,7 @@
       ]
     },
     "30": {
-      "status": "passed",
+      "status": "edited",
       "revisions": 0,
       "scores": {
         "reader_question": 4.0,
@@ -928,18 +928,18 @@
       },
       "average": 4.0,
       "flags": [],
-      "words": 3012,
+      "words": 3009,
       "minimum": 3.0,
       "style": {
-        "words": 2916,
+        "words": 3009,
         "banned_hits": {},
         "ai_tell_hits": {},
         "ai_tells_per_1000": 0.0,
         "top_4gram": "she looked at the",
         "top_4gram_count": 3,
         "longest_paragraph_words": 113,
-        "em_dashes_per_1000": 0.34,
-        "reading_ease": 93.2
+        "em_dashes_per_1000": 0.33,
+        "reading_ease": 92.9
       },
       "owner_instructions": [
         "The queen dodges the writ (owner fix 5). Where: her answer after Devan reads the payment writ aloud. What's wrong: 'I held that a realm is safe by what it has not seen. It is only blind.' is a thesis, not an admission made to his face. Change: before that thesis, give her one plain line to Devan directly, for example 'I sealed it. Seven weeks before your wedding. I knew what it bought.' Check the interval against earlier books and the bible. If a different interval is established, use that. Then show the hall reacting in a concrete beat or two: Janu, Muthu, the Company, or Usha's welted arm. Keep the thesis line after the hall's reaction. Leave the fuller record to the ch 31 charter clause.",
@@ -2378,9 +2378,13 @@
     {
       "at": "2026-10-31T21:33:35",
       "event": "done: S8 line edit ch 29"
+    },
+    {
+      "at": "2026-10-31T21:34:08",
+      "event": "done: S8 line edit ch 30"
     }
   ],
-  "updated_at": "2026-10-31T21:33:35",
+  "updated_at": "2026-10-31T21:34:08",
   "midpoint_chapter": 16,
   "continuity_attempts": 0,
   "continuity_last_errors": null,
