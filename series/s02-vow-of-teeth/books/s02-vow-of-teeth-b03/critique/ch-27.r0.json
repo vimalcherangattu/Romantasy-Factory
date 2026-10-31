@@ -2,38 +2,41 @@
   "scores": {
     "reader_question": 4.0,
     "change": 4.0,
-    "romance_movement": 5.0,
-    "shown_chemistry": 5.0,
-    "character_logic": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 3.0,
     "stakes_and_cost": 4.0,
     "prose": 4.0,
-    "continuity": 0.0
+    "continuity": 5.0
   },
   "reasons": {
-    "reader_question": "The queen's 'Who signs first' is specific. The suspense is about cost, not outcome, since readers expect Neela to sign.",
-    "change": "Devan gains Asha's last words, Vellan dies, the leads share one grief, and the roll and its price come into play.",
-    "romance_movement": "The new reason is a shared grief with nothing to forgive. 'Half of it's mine now' changes how they carry the past.",
-    "shown_chemistry": "Both arms round him, hands checking his shoulder like a latch, his hand turning on her wrist. All shown through action.",
-    "character_logic": "Devan's insistence on going up and Vellan's choice of witnesses fit. 'Don't ask me to forgive you' answers a request she never made.",
-    "stakes_and_cost": "Nirmala names the first signer's price: bound to the vote and the crown's first answer. Devan's dead hand sharpens it.",
-    "prose": "Clean and concrete with no banned phrases. Small echoes ('small' twice, 'her mouth worked'), and 'mouth went dry' is stock.",
-    "continuity": "They carry Vellan 'down the cut' from its top to Kettamala's lower court, but the fort lies up the cut (F902)."
+    "reader_question": "The queen's closing offer and price give a sharp question. The soft cistern-clank ending lowers the pull slightly.",
+    "change": "Asha's last words are delivered, Vellan dies, the Company's losses are counted, and the roll's price is now on the table.",
+    "romance_movement": "The two leads now share one grief with no forgiveness owed either way, a new basis, though Devan states it a touch directly.",
+    "shown_chemistry": "Shown through action: her latch-checking touch on his shoulder, his hand turning over on her wrist, her arms holding him with both hands.",
+    "character_logic": "Devan walks the cut with a pierced lung and a cut nerve, against the surgeon's order, and no one stops him; that strains belief.",
+    "stakes_and_cost": "Nirmala states the cost of the roll plainly: a binding to the Company's vote and being the crown's first name to answer.",
+    "prose": "The prose is clean and concrete, with no AI tells. A few summary lines narrate the theme instead of showing it.",
+    "continuity": "Consistent with F1017, F1018, F960, F957, F1045 to F1050 and the wound-share. Vellan's clothing at dawn needs one line of setup."
   },
   "fixes": [
-    "'They carried him down the cut on the door' (continuity, geography): the narrow place sits at the top of the cut, and Kettamala's lower court lies further up (F902). Change it to 'up the last of the cut', and make the garrison line the cut above the narrow place.",
-    "'Don't ask me to forgive you.' He wasn't certain (character logic): Neela never asked, so the line reads as a non sequitur. Reword so Devan answers what she said: 'You'll want me to forgive you. There's nothing there to forgive. You gave her a light.' Or let her say 'Forgive me' first, and cut her earlier 'I know.'",
-    "'thirty-odd strong where there had been forty-two' (stakes without depth, Real Losses diluted): about ten odiyans are gone, yet the tile names only Lekha and a drover. Give the Company's dead a few more chalked names, or have Neela's lips move on a count she cannot finish, so the losses carry weight. Also replace 'names in a child's hand' with whose hand it is."
+    "\"in the grey wool of a Company tapper\": continuity gap. Vellan turned back from bear shape at dawn, so he would be bare, and a bear cannot carry a bird. Add one clause: Kamalakshi brought the wool and the bird down from where he cached them against the rock before dusk, and dressed him before she went for the Warden.",
+    "\"He had not asked leave. He had stood\": irrational behaviour. A man with a pierced lung walks against Thankam's order and nobody objects. Have Thankam object aloud and give way only if he walks the last ledge with Muthu's shoulder under him. Or let the seep visibly worsen and Neela take his weight, so the gesture is paid for.",
+    "\"which was not his grief and was the same\" and \"over a thing neither would put down and neither would carry alone\": narrated chemistry that states the theme. Cut both. Replace them with an action, for example Neela's thumb beginning a count on his wrist and Devan matching it, so the shared burden is shown, not summarised."
   ],
-  "reader_question": "Who will write the first name on the Company's roll, and will she accept being the crown's first name to answer?",
+  "reader_question": "Will Neela put her own name first on the Company's roll, knowing it makes her the crown's first name to answer?",
   "techniques_landed": [
     10,
     19,
     20
   ],
-  "new_facts_assessment": "Kamalakshi as runner explains why no one reached Vellan first, and it fits his choice to hold the place unbound. Lekha and Sreedhar on the tile are needed and consistent with F820. The meaning of 310 fits F553 (counted at the stair foot, then blindfolded again) and retires F963's 'never told'. Dropping the year counts is fine.",
+  "new_facts_assessment": "new-facts.json is empty, but the chapter adds a few small details: Vellan in tapper's wool, Lekha burning her tongue at Devan's fire, Janu with the pots, and the queen paying for odiyans for twenty years. All are harmless and consistent. The wool, though, needs a source, because a bear turning back at dawn is bare. The rest already appears in F1045 to F1050.",
   "content_rule_violation": false,
-  "failure_modes": [],
-  "average": 3.75,
-  "minimum": 0.0,
-  "passed": false
+  "failure_modes": [
+    "Irrational behaviour to extend plot",
+    "Narrated-only chemistry"
+  ],
+  "average": 4.0,
+  "minimum": 3.0,
+  "passed": true
 }
