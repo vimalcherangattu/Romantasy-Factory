@@ -1,42 +1,41 @@
 {
   "scores": {
     "reader_question": 4.0,
-    "change": 3.0,
+    "change": 4.0,
     "romance_movement": 4.0,
     "shown_chemistry": 4.0,
-    "character_logic": 3.0,
+    "character_logic": 4.0,
     "stakes_and_cost": 4.0,
     "prose": 3.0,
     "continuity": 0.0
   },
   "reasons": {
-    "reader_question": "Clear twin question: will reading the writ cost the spears and the pass, and will Neela say what she is at the gate?",
-    "change": "Both temptations are now spoken and Devan commits to reading the writ. The split of roles mostly repeats ch20's terms (F907).",
-    "romance_movement": "Being seen becomes something she asks for with the lamp lit. That reason is new. 'Won't speak for her' repeats ch20.",
-    "shown_chemistry": "Thumb on the blister, the stitches kissed past, and the shared ache under her arm all show attraction through response, not narration.",
-    "character_logic": "Devan's cost-count is sharp. He has used this hollow repeatedly, yet 'never found' a scrap under the camphor block, which strains belief.",
-    "stakes_and_cost": "Cost is named exactly: spears, pass, garrison trust, and the 'not knowing' Devan agrees to carry.",
-    "prose": "Clean and concrete. 'Rough/roughly' repeats, the sex scene has generic patches, the count speech is clunky, and the pebble ending is redundant.",
-    "continuity": "Draft says chit and seal stayed in the hollow and only the writ travelled. F744/F916 put chit and writ, then seal, in his pack on the hill."
+    "reader_question": "Devan's 'Rope or light... I'll know when I see her face' makes the writ question sharp. Her undecided self-declaration adds a second, specific question.",
+    "change": "They agree on an order (her refusal first, writ after), he gives up the first word, and Asha's withheld note is finally shared.",
+    "romance_movement": "The reason is new: being seen becomes something she asks for. They split the work at the gate. This is not a replayed refusal.",
+    "shown_chemistry": "Strong responsive beats: thumb on the blister, careful hands, the shared hook ache, him waking still so she can count. A few lines narrate meaning.",
+    "character_logic": "Her plan to say no while the queen still thinks yes is smart. Devan accepting the cost of the first word fits his arc.",
+    "stakes_and_cost": "Costs are concrete: ninety-eight against fourteen hundred, the spears possibly lost, her declaration possibly costing 'more than the fort cost you'.",
+    "prose": "Clean and concrete overall. Weak spots: a compliance-flavoured age line, summary-telling sentences, 'sure/sure' echo, and an overloaded 'the other one'.",
+    "continuity": "The writ is outside the hollow and fetched from his pack. This conflicts with F1040 (all three together in the hollow, tied with red thread) and the beat."
   },
   "fixes": [
-    "At 'There was room for a third thing, and the third thing was not there' there is a continuity conflict with F744/F916. Follow the beat: Devan returned the whole oilcloth bundle to the hollow last night (F910), so at dawn she finds chit, writ and seal together. Cut the 'Since the hill' exchange. Keep him lifting the writ and declaring he will read it.",
-    "At 'A scrap of paper, folded twice, gone soft as cloth' the setup is unfair and the image is recycled from Asha's chest (F418). Replace it with Devan taking Asha's real last note from his carved box (F415) and reading the full line he withheld in book 1, 'If you're reading this, I was right...'. That makes it a true rung on the disclosure ladder, not a convenient discovery.",
-    "At 'I won't take the command,' she said. 'That's settled.' the beat wants the explicit scene to change the bargain. Move this decision to after the lovemaking, prompted by being seen. Cut the redundant 'And not put it in your mouth.' Restate the count as 'A hundred and four. Six in the ground. Ninety-eight.' Change one of the two 'roughly' lines."
+    "At '\"The writ's not in there,\" Devan said behind her' (continuity break against F1040 and the beat): put all three items in the hollow together, chit, payment writ and gift seal, in the oilcloth bundle tied with red thread. Cut the walk to the peg. Let Devan wake and say 'Leave it there till noon. Then I take it out', which keeps the beat and his line about reading it.",
+    "At 'Her own, with the other one folded behind it' (ambiguity): 'the other one' is Neela's fixed name for her night-self, so this line reads as the leopard. Replace it with 'Her own, with Indu folded behind it and still unsaid.' Also change 'The queen has the shape of me from Usha', since 'shape' means night-shape in this world, to 'The queen knows what I am from Usha'.",
+    "At 'because she liked to say it plainly, and because it was part of the asking' (clunky, reads as rule-compliance), and at 'It was no comfort at all. She found, oddly' and 'It settled in her like one' (told meaning): fold the ages into dialogue with character in it, such as a dry joke about his grey hair. Replace the two summary sentences with a physical beat, such as her hand flattening on the shutter. Fix the 'soft and sure... to be sure' echo."
   ],
-  "reader_question": "When Devan reads the queen's writ aloud at the gate with three hundred of her spears watching, will it break the defence of the pass, and will Neela name herself there?",
+  "reader_question": "When Devan reads the queen's writ aloud at the gate, will it be rope or light, and will Neela say what she is?",
   "techniques_landed": [
     9,
     10,
     20
   ],
-  "new_facts_assessment": "F1036 conflicts with on-page ch2 (F744: chit and writ both in his pack) and with F916, F927 and F1015, and it contradicts the beat. F1037 recycles F115/F418 (the 'Say it anyway' line under a camphor block), is implausible, and is unnecessary. F1038 is consistent and useful.",
+  "new_facts_assessment": "new-facts.json is empty, but the draft adds facts that should be listed. Most are harmless: Muthu sleeps in the gate chamber tonight; Devan wrote his refusal on an arrow-cart lid and then hit a post; Muthu asked on the shelf whether refusing hurt; Asha's note bears a dated line with barred sevens. One needs care: Devan says that in ch12 he told Neela he had found Asha's last note and let her think it was about sparring. This extends F115/F418 and must be checked against B1 ch12. The writ's location contradicts F1040.",
   "content_rule_violation": false,
   "failure_modes": [
-    "Repetitive tension",
-    "Twists without setup"
+    "Narrated-only chemistry"
   ],
-  "average": 3.12,
+  "average": 3.38,
   "minimum": 0.0,
   "passed": false
 }

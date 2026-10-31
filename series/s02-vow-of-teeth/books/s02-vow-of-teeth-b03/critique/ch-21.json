@@ -7,33 +7,35 @@
     "character_logic": 4.0,
     "stakes_and_cost": 4.0,
     "prose": 3.0,
-    "continuity": 5.0
+    "continuity": 0.0
   },
   "reasons": {
-    "reader_question": "Specific: the writ is read after her no, before three hundred untested spears, and she may or may not name herself.",
-    "change": "Knowledge and power both shift: mutual temptations confessed, Asha's note given up, and Devan cedes the first word at the gate.",
-    "romance_movement": "The reason is new. Being seen becomes a request, and the refusal is split by order: her no first, then his writ.",
-    "shown_chemistry": "Thumb resting on the blister, the cracked laugh and the lamp kept lit show attraction through response, not narration.",
-    "character_logic": "Her logic is sharp: the queen must hear the no before the wax. Devan's flat cost-count fits his voice.",
-    "stakes_and_cost": "Costs are named and accepted: the first word, possibly the spears and the pass, and the price of not knowing.",
-    "prose": "Clean and concrete, but over length, with echoes ('plainly' x3, 'as he gave her everything' x2) and ch20's 'short, cracked' laugh repeated.",
-    "continuity": "Ages, hollow, bundle, stitches, pebble, counts and the Asha note match the bible; one 'last night' timing word is loose."
+    "reader_question": "Devan's 'Rope or light... I'll know when I see her face' makes the writ question sharp. Her undecided self-declaration adds a second, specific question.",
+    "change": "They agree on an order (her refusal first, writ after), he gives up the first word, and Asha's withheld note is finally shared.",
+    "romance_movement": "The reason is new: being seen becomes something she asks for. They split the work at the gate. This is not a replayed refusal.",
+    "shown_chemistry": "Strong responsive beats: thumb on the blister, careful hands, the shared hook ache, him waking still so she can count. A few lines narrate meaning.",
+    "character_logic": "Her plan to say no while the queen still thinks yes is smart. Devan accepting the cost of the first word fits his arc.",
+    "stakes_and_cost": "Costs are concrete: ninety-eight against fourteen hundred, the spears possibly lost, her declaration possibly costing 'more than the fort cost you'.",
+    "prose": "Clean and concrete overall. Weak spots: a compliance-flavoured age line, summary-telling sentences, 'sure/sure' echo, and an overloaded 'the other one'.",
+    "continuity": "The writ is outside the hollow and fetched from his pack. This conflicts with F1040 (all three together in the hollow, tied with red thread) and the beat."
   },
   "fixes": [
-    "Length. 'On our side, forty-two odiyans, twenty-two of her own riders' begins a dawn scene that pushes the chapter past about 3,300 words, over the style range. Cut the troop arithmetic to one line ('Ninety-eight against fourteen hundred') and trim Devan's recap of the Asha's-room lie to two sentences. Keep the handed-back 'Thank you for telling me' intact.",
-    "Prose echo. 'He gave her the answer as he gave her everything' repeats 'He said it plainly, as he said everything' a page earlier, and 'plainly' appears three times. 'It came out short and cracked' echoes ch20's 'short, cracked laugh'. Keep one 'plainly'. Recast the laugh with a new image specific to Devan, such as a sound he seems not to recognise as his own.",
-    "Timing and unlogged fact. 'You told me last night you'd say nothing' points to the ch20 cistern-housing talk, which happened by day. Change it to 'yesterday, at the cistern'. Either log 'the one she had chosen' (Neela as a self-chosen name) in new-facts.json or cut it to 'Her own'."
+    "At '\"The writ's not in there,\" Devan said behind her' (continuity break against F1040 and the beat): put all three items in the hollow together, chit, payment writ and gift seal, in the oilcloth bundle tied with red thread. Cut the walk to the peg. Let Devan wake and say 'Leave it there till noon. Then I take it out', which keeps the beat and his line about reading it.",
+    "At 'Her own, with the other one folded behind it' (ambiguity): 'the other one' is Neela's fixed name for her night-self, so this line reads as the leopard. Replace it with 'Her own, with Indu folded behind it and still unsaid.' Also change 'The queen has the shape of me from Usha', since 'shape' means night-shape in this world, to 'The queen knows what I am from Usha'.",
+    "At 'because she liked to say it plainly, and because it was part of the asking' (clunky, reads as rule-compliance), and at 'It was no comfort at all. She found, oddly' and 'It settled in her like one' (told meaning): fold the ages into dialogue with character in it, such as a dry joke about his grey hair. Replace the two summary sentences with a physical beat, such as her hand flattening on the shutter. Fix the 'soft and sure... to be sure' echo."
   ],
-  "reader_question": "When Devan reads the queen's writ aloud after Neela's refusal, will it cost them the crown spears and the pass, and will Neela say at the gate what she is?",
+  "reader_question": "When Devan reads the queen's writ aloud at the gate, will it be rope or light, and will Neela say what she is?",
   "techniques_landed": [
     9,
     10,
     20
   ],
-  "new_facts_assessment": "The draft lists no new facts but adds several. The queen sat on a crate in the fish shed. Devan wrote his refusal on an arrow-cart lid and hit a post for an hour. Muthu asked on the shelf whether refusing hurt. Devan let Neela think the note was about sparring. All are texture and consistent. One is a backstory claim that must be logged or cut: 'Neela' is 'the one she had chosen'.",
+  "new_facts_assessment": "new-facts.json is empty, but the draft adds facts that should be listed. Most are harmless: Muthu sleeps in the gate chamber tonight; Devan wrote his refusal on an arrow-cart lid and then hit a post; Muthu asked on the shelf whether refusing hurt; Asha's note bears a dated line with barred sevens. One needs care: Devan says that in ch12 he told Neela he had found Asha's last note and let her think it was about sparring. This extends F115/F418 and must be checked against B1 ch12. The writ's location contradicts F1040.",
   "content_rule_violation": false,
-  "failure_modes": [],
-  "average": 4.0,
-  "minimum": 3.0,
-  "passed": true
+  "failure_modes": [
+    "Narrated-only chemistry"
+  ],
+  "average": 3.38,
+  "minimum": 0.0,
+  "passed": false
 }
