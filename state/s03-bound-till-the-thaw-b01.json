@@ -476,7 +476,7 @@
       }
     },
     "17": {
-      "status": "passed",
+      "status": "edited",
       "revisions": 1,
       "scores": {
         "reader_question": 4.0,
@@ -490,11 +490,22 @@
       },
       "average": 4.12,
       "flags": [],
-      "words": 2789,
+      "words": 2776,
       "minimum": 4.0,
       "continuity_fixes": [
         "Ch17 says that for ten days Rohan took the downhill place on the rope and went first through every door. In fact he walked in her steps behind her (ch3, ch4, ch7) and she entered the hut first (ch8). FIX: Make it a habit he kept reaching for and she kept stopping."
-      ]
+      ],
+      "style": {
+        "words": 2776,
+        "banned_hits": {},
+        "ai_tell_hits": {},
+        "ai_tells_per_1000": 0.0,
+        "top_4gram": "he could have said",
+        "top_4gram_count": 3,
+        "longest_paragraph_words": 108,
+        "em_dashes_per_1000": 1.08,
+        "reading_ease": 94.7
+      }
     },
     "18": {
       "status": "passed",
@@ -1461,9 +1472,13 @@
     {
       "at": "2026-10-31T21:07:06",
       "event": "done: S8 line edit ch 16"
+    },
+    {
+      "at": "2026-10-31T21:07:45",
+      "event": "done: S8 line edit ch 17"
     }
   ],
-  "updated_at": "2026-10-31T21:07:06",
+  "updated_at": "2026-10-31T21:07:45",
   "midpoint_chapter": 16,
   "continuity_attempts": 1,
   "continuity_last_errors": 1
