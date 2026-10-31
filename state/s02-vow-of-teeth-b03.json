@@ -12,7 +12,7 @@
   ],
   "chapters": {
     "01": {
-      "status": "passed",
+      "status": "edited",
       "revisions": 2,
       "scores": {
         "reader_question": 4.0,
@@ -26,18 +26,18 @@
       },
       "average": 4.12,
       "flags": [],
-      "words": 3103,
+      "words": 3097,
       "minimum": 4.0,
       "style": {
-        "words": 3309,
+        "words": 3097,
         "banned_hits": {},
         "ai_tell_hits": {},
         "ai_tells_per_1000": 0.0,
         "top_4gram": "had come up the",
-        "top_4gram_count": 3,
-        "longest_paragraph_words": 103,
+        "top_4gram_count": 2,
+        "longest_paragraph_words": 94,
         "em_dashes_per_1000": 0.0,
-        "reading_ease": 90.4
+        "reading_ease": 89.9
       },
       "owner_instructions": [
         "Count drift (owner fix 8). Where: the resin vote and the plank. What's wrong: the chapter says 'Forty-two odiyans' and 'divided the cup into forty-two', but then shows 'forty-one names' on the plank after Neela adds hers, and everyone still says 'the forty'. Change: make the plank hold forty-two names once Neela chalks hers last. Keep the cup at forty-two.",
@@ -2340,9 +2340,13 @@
     {
       "at": "2026-10-31T21:27:48",
       "event": "done: book-level checks"
+    },
+    {
+      "at": "2026-10-31T21:28:24",
+      "event": "done: S8 line edit ch 1"
     }
   ],
-  "updated_at": "2026-10-31T21:27:48",
+  "updated_at": "2026-10-31T21:28:24",
   "midpoint_chapter": 16,
   "continuity_attempts": 0,
   "continuity_last_errors": null,
