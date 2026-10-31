@@ -753,7 +753,7 @@
       ]
     },
     "25": {
-      "status": "passed",
+      "status": "edited",
       "revisions": 0,
       "scores": {
         "reader_question": 5.0,
@@ -767,18 +767,18 @@
       },
       "average": 4.38,
       "flags": [],
-      "words": 2621,
+      "words": 2618,
       "minimum": 4.0,
       "style": {
-        "words": 2572,
+        "words": 2618,
         "banned_hits": {},
         "ai_tell_hits": {},
         "ai_tells_per_1000": 0.0,
-        "top_4gram": "he did not know",
-        "top_4gram_count": 3,
+        "top_4gram": "came over the lip",
+        "top_4gram_count": 2,
         "longest_paragraph_words": 117,
-        "em_dashes_per_1000": 0.39,
-        "reading_ease": 92.5
+        "em_dashes_per_1000": 0.38,
+        "reading_ease": 92.6
       },
       "owner_instructions": [
         "'Good hand' and 'flat' check (owner fix 6, pattern). Where: after the spear takes his right hand. Change: if the text starts calling his left 'his good hand' or 'the good one', replace it with 'his left' or with the gesture itself. Keep 'flat' only for Usha's voice, at most once."
@@ -2360,9 +2360,13 @@
     {
       "at": "2026-10-31T21:30:43",
       "event": "done: S8 line edit ch 21"
+    },
+    {
+      "at": "2026-10-31T21:31:13",
+      "event": "done: S8 line edit ch 25"
     }
   ],
-  "updated_at": "2026-10-31T21:30:43",
+  "updated_at": "2026-10-31T21:31:13",
   "midpoint_chapter": 16,
   "continuity_attempts": 0,
   "continuity_last_errors": null,
