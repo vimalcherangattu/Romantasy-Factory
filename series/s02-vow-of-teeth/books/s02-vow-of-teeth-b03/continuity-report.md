@@ -2,38 +2,45 @@
 
 ## What I checked
 
-- **Names and ages:** the leads' ages are stated before ch 10. I also checked Usha, Sanu, Sajan and Lata, Kamalakshi, Pavi, Thilak, Koman and Thankam.
+- **Names:** cast and minor names across all three books: Kuttu and Kuttan, Sajan, Sanu, Lata, Usha, Thankam, Koman, Ponni, Ammini, the dead on Kandan's tile, and the villages.
+- **Ages:** Neela 27, Devan 32, Sanu 26, Pavi 24, Thilak 41, Kamalakshi about 19, Asha 22, and the queen 54.
 - **Timeline:**
-  - The day count from the landing through the Kodiyur road.
-  - The noon-gun day, with the ch 12/14 ladder-hook and boarding-hook welts falling on the right days.
-  - The ch 16 missed signal and the ch 17/19 arrival.
-  - The column's arrival, Rema's arrival, and the weeks after the charter.
+  - The departure on day 1 and the four days of road.
+  - The noon-gun day, the sally and the hook wound, which align correctly across chapters 12–15.
+  - The two noons on the road and the queen's rider.
+  - The column's arrival.
+  - The assault and answer dusk.
+  - Rema's arrival.
 - **Magic rules:**
-  - Turning only after dusk and turning back at first light, with no speech in shape.
-  - Self-naming done once per odiyan, to someone who is looking.
-  - Wound-share: welts that never open, and the mortal drag in ch 26.
-  - Pages read only by daylight.
-  - The resin-ink and plain-ink clue.
-  - The crown leaf count (30 → 26 burned → 4 → 3).
-- **Injuries:** Devan's forearm, upper arm, back, right ribs (nine stitches), palms and collarbone, against Neela's matching welts.
-- **Who knows what:** the sea-stair plan, the payment writ, the queen's knowledge via Usha, and Chathu's ink.
-- **Objects:** the oilcloth bundle, the tooth, the pebbles, the tin of sweets and its count, the plank and roll counts, and the green case.
-- **Relationship terms:** "say it before you do it", "pain is not a summons", and "bound by choice".
+  - Turning only after dusk, return at first light, no speech in shape.
+  - Self-naming in the dusk minute, once per life, to one person who is looking.
+  - Witness entries burning while intake rolls survive.
+  - Daylight read-back for pages.
+  - Resin burning non-odiyan skin (Bhaskaran).
+  - Wound-share welts that never open, and the mortal drag.
+  - Chathu's plain-ink pages.
+- **Injuries:** every wound and its matching welt, including Devan's right forearm, left arm, back hook, nine-stitch right ribs, palms and spear-cut nerve; Neela's blisters and collarbone welt; the queen's welt from Usha.
+- **Objects:** the oilcloth bundle's movements, the leopard tooth, the pebbles, Chathu's tins, the iron disc, the crown leaf counts (30, then 26 burned, 4, then 3), the 28/11/Thilak page arithmetic, and resin pinches.
+- **Who knows what:** what each character knows at each point, and the order of each reveal.
+- **Relationship state:** the tack-room term, its breach and repair, and the progression of the consent bargains.
 
 ## Errors found
 
-1. **E01 (major), ch 14:** Devan is shown not knowing the sea-stair-at-the-noon-gun plan, though he heard it in ch 2 and ch 3.
-2. **E02, ch 12:** the throat-paste advice is credited to Usha "at the shelter", where she could not have given it. It was Muthu's.
-3. **E03, ch 8:** Vellan "had not repeated" Asha's words, though he had never said them.
-4. **E04, ch 8 and ch 10:** "a week" at the shelf, when only a few days have passed.
-5. **E05, ch 14:** the sally count is sixteen hands off the wall. Thulasi and Vellan were counted twice; the right figure is fifteen.
-6. **E06, ch 28:** the eleven pages are read back "at first light", when Neela was with Devan and Vellan.
-7. **E07, ch 22:** "I told you why" refers to an explanation Neela never gave the queen.
-8. **E08, ch 32:** the clove resin is "smelled once before"; it was twice.
+Seven, all minor:
 
-All have patches.
+- **E01 (ch 8):** the text implies Vellan had already spoken Asha's last words.
+- **E02 (ch 12):** the throat-paste warning is credited to Usha at the shelter. It was Muthu's.
+- **E03 (ch 15):** the text says Neela stood below the palace "all her childhood".
+- **E04 (ch 17):** the queen's letter came after noon, but the chapter later says Devan refused the office "that morning".
+- **E05 (ch 24):** the cairn-fire telling is dated "last night" instead of the night the queen came.
+- **E06 (ch 24):** a "forepaw" for Kuttu's boar shape.
+- **E07 (ch 32):** "eight years" on the drill, against ch 2's seven.
 
-## Not counted as errors
+## Not reported
 
-- The ch 31 lone climber is never resolved in ch 32. It is a dangling thread, not a contradiction.
-- The ch 5–10 resin pinch accounting is loose, but it is covered by the extra noon-tree ration (F787).
+These looked odd but have a plausible reading, or are outside scope:
+
+- **Resin pinch totals:** fuzzy, but not contradictory.
+- **Lata joining at the Salt Gate while the party left by the Hill Gate:** possible if they gathered at one gate and left by the other.
+- **Devan's "four mornings" of reading welts:** loose phrasing, not a clear slip.
+- **The undrawn pardon vote from ch 2:** a dropped thread, not a contradiction.
