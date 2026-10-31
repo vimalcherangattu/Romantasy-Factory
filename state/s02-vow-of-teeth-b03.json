@@ -803,7 +803,7 @@
       }
     },
     "27": {
-      "status": "passed",
+      "status": "edited",
       "revisions": 1,
       "scores": {
         "reader_question": 4.0,
@@ -817,18 +817,18 @@
       },
       "average": 4.12,
       "flags": [],
-      "words": 2932,
+      "words": 2934,
       "minimum": 4.0,
       "style": {
-        "words": 2705,
+        "words": 2934,
         "banned_hits": {},
         "ai_tell_hits": {},
         "ai_tells_per_1000": 0.0,
         "top_4gram": "keep the light there",
         "top_4gram_count": 2,
-        "longest_paragraph_words": 97,
+        "longest_paragraph_words": 98,
         "em_dashes_per_1000": 0.0,
-        "reading_ease": 95.4
+        "reading_ease": 94.6
       },
       "owner_instructions": [
         "Number drift. Change 'let no one at his back for six years' so it agrees with the seven-year drill span from chapter 2. Use 'seven years'. If the series bible dates Asha's death to a different year than the drill, drop the number and write 'since Asha', so no second count appears to drift."
@@ -2094,9 +2094,13 @@
     {
       "at": "2026-10-31T19:24:25",
       "event": "done: S8 line edit ch 24"
+    },
+    {
+      "at": "2026-10-31T19:25:01",
+      "event": "done: S8 line edit ch 27"
     }
   ],
-  "updated_at": "2026-10-31T19:24:25",
+  "updated_at": "2026-10-31T19:25:01",
   "midpoint_chapter": 16,
   "continuity_attempts": 1,
   "continuity_last_errors": 3,
