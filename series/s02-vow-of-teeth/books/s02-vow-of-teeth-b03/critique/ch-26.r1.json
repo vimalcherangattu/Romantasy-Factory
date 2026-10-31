@@ -1,0 +1,42 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 4.0,
+    "stakes_and_cost": 4.0,
+    "prose": 3.0,
+    "continuity": 5.0
+  },
+  "reasons": {
+    "reader_question": "The roaring stops mid-breath and Nirmala asks 'Who will go up?'. The reader carries a concrete question about Vellan's fate.",
+    "change": "The nerve verdict is permanent, the queen confesses her lamp-holding, Neela chooses to stay, and the bear falls silent.",
+    "romance_movement": "There is a new reason here: staying is the act. Devan's 'Stubborn. Good.' confirms it, though the bond-as-rest shift is partly narrated.",
+    "shown_chemistry": "Devan notices her cold legs through his own wound. Her weight, her counting and his hand in her fur are responsive action, not narration.",
+    "character_logic": "The choice to stay is sound and in character. The alternative is weakened because Vellan explicitly asked for no one.",
+    "stakes_and_cost": "If she rises, he bleeds. The pull of the fight is real, though staying is never truly in doubt.",
+    "prose": "Strong and concrete overall. The weighing paragraph has muddy referents, the bond turn is told, and 'the bear roared' recurs often.",
+    "continuity": "Wound-share welts, the hitch, the dead right hand, Thankam and the river shape all match the facts. The queen's 'thirty years' is loose but not contradictory."
+  },
+  "fixes": [
+    "At 'Under the coat it stopped, then drew back, a hand's breadth, two' (Convenient magic): warmth should not reverse the share's drag. Let the coat ease the shivering only, and have the cold hold at her hips. Move the retreat to the knees after Thankam sets the clamp, so the easing tracks his bleeding, not the blanket. Keep Devan's noticing and Muthu's clumsy tucking, which are the real point.",
+    "At 'A man she owed a debt she could never pay' (muddy referents weaken the Choice Under Pressure): name both men. Example: 'Vellan, who had held a lamp's worth of her guilt for six years, up there in the roar. Devan, who had ridden half-dead into the Resin House yard for her, under her chin.' Use concrete history so the reader feels each side of the weighing.",
+    "At 'The bond had pulled her down all night. Now it held her up' (Narrated-only chemistry): the romance change is stated outright. Cut the summary sentences and show it instead. Her breath falls into his hitch, the collarbone ache eases on his exhale, and she notices she has stopped counting exits for the first time in her life. The reader should infer 'rest instead of a leash' from action."
+  ],
+  "reader_question": "Did Vellan survive holding the cut alone, and who will go up to find out?",
+  "techniques_landed": [
+    9,
+    18,
+    25
+  ],
+  "new_facts_assessment": "Thankam as the drying-shed woman is a useful callback and consistent with F824. Kuttan taking the sheaves is consistent and necessary. Muthu's coat drawing back the share-cold is a risk: plain warmth reversing a mortal-wound drag reads as convenient magic. The collarbone welt matches F627. The healing marma point fits bible marma (heal or kill). One loose phrase: the queen's 'thirty knives for thirty years' sits awkwardly with F715, where sales ran over twenty years. Reword it to 'thirty knives, some of them thirty years'.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Convenient magic",
+    "Narrated-only chemistry"
+  ],
+  "average": 4.0,
+  "minimum": 3.0,
+  "passed": true
+}

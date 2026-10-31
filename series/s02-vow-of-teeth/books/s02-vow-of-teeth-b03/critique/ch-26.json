@@ -4,37 +4,39 @@
     "change": 4.0,
     "romance_movement": 4.0,
     "shown_chemistry": 4.0,
-    "character_logic": 3.0,
-    "stakes_and_cost": 3.0,
+    "character_logic": 4.0,
+    "stakes_and_cost": 4.0,
     "prose": 3.0,
-    "continuity": 0.0
+    "continuity": 5.0
   },
   "reasons": {
-    "reader_question": "The roar stops and the queen asks who will go up. The question about Vellan's fate is sharp and specific.",
-    "change": "Devan's hand is diagnosed as lost, the bond turns from drag to support, the queen confesses, and Vellan falls silent.",
-    "romance_movement": "The new reason is that staying becomes the act of love. The cost of the bond becomes rest, a fresh turn.",
-    "shown_chemistry": "His first words are about her cold legs. His hand goes into her fur with 'Stubborn. Good.' She syncs to his hitch. All responsive.",
-    "character_logic": "Neela's choice is smart. But Muthu leaves the archer line all night during the tower assault with no reason given.",
-    "stakes_and_cost": "Her dead hind legs make 'go up' nearly impossible, so the choice to stay costs less than it should.",
-    "prose": "Clean and concrete. Too many 'It was not X. It was Y' pairs, aphorisms ('not hard to see... hard to do'), and the 'light as a held breath' cliché.",
-    "continuity": "The queen says Usha's welt is the first time a knife 'told me she was hurt', but she felt Usha's welt sting at ch24 (F938, F1043)."
+    "reader_question": "The roaring stops mid-breath and Nirmala asks 'Who will go up?'. The reader carries a concrete question about Vellan's fate.",
+    "change": "The nerve verdict is permanent, the queen confesses her lamp-holding, Neela chooses to stay, and the bear falls silent.",
+    "romance_movement": "There is a new reason here: staying is the act. Devan's 'Stubborn. Good.' confirms it, though the bond-as-rest shift is partly narrated.",
+    "shown_chemistry": "Devan notices her cold legs through his own wound. Her weight, her counting and his hand in her fur are responsive action, not narration.",
+    "character_logic": "The choice to stay is sound and in character. The alternative is weakened because Vellan explicitly asked for no one.",
+    "stakes_and_cost": "If she rises, he bleeds. The pull of the fight is real, though staying is never truly in doubt.",
+    "prose": "Strong and concrete overall. The weighing paragraph has muddy referents, the bond turn is told, and 'the bear roared' recurs often.",
+    "continuity": "Wound-share welts, the hitch, the dead right hand, Thankam and the river shape all match the facts. The queen's 'thirty years' is loose but not contradictory."
   },
   "fixes": [
-    "At \"this is the first time one of them has told me she was hurt\" there is a continuity conflict: the queen already felt Usha's welt at the ch24 naming (F938, F1043). Rewrite it as \"the first time one of them has been hurt in a fight where I could not see her\". Keep \"I know it the way I know my own pulse\" only as an inference from the welt, not as a sense of life, since the share carries wounds only (F265).",
-    "At \"She could have been up the stones in three bounds, if her legs would carry her\" technique 18 is undercut: dead legs remove the choice. Have the cold ease to the knees just before Devan says 'Go up', so she can feel she could rise. Then she chooses to stay with the bear roaring, and the cost is real.",
-    "At \"She was bleeding there, a little, in the thick fur\" the text conflicts with F627 (a partner's welt weeps but does not open). Change it to a hot, weeping welt. Separately, add one line before the night watch where Muthu hands the archers to a named man, or have him go and return, so his all-night absence from the line makes sense."
+    "At 'Under the coat it stopped, then drew back, a hand's breadth, two' (Convenient magic): warmth should not reverse the share's drag. Let the coat ease the shivering only, and have the cold hold at her hips. Move the retreat to the knees after Thankam sets the clamp, so the easing tracks his bleeding, not the blanket. Keep Devan's noticing and Muthu's clumsy tucking, which are the real point.",
+    "At 'A man she owed a debt she could never pay' (muddy referents weaken the Choice Under Pressure): name both men. Example: 'Vellan, who had held a lamp's worth of her guilt for six years, up there in the roar. Devan, who had ridden half-dead into the Resin House yard for her, under her chin.' Use concrete history so the reader feels each side of the weighing.",
+    "At 'The bond had pulled her down all night. Now it held her up' (Narrated-only chemistry): the romance change is stated outright. Cut the summary sentences and show it instead. Her breath falls into his hitch, the collarbone ache eases on his exhale, and she notices she has stopped counting exits for the first time in her life. The reader should infer 'rest instead of a leash' from action."
   ],
-  "reader_question": "Did Vellan survive holding the cut alone, and who will climb up to find out?",
+  "reader_question": "Did Vellan survive holding the cut alone, and who will go up to find out?",
   "techniques_landed": [
     9,
+    18,
     25
   ],
-  "new_facts_assessment": "Drawing the shaft out the back fits F942 and is needed for the surgery. Unlisted additions need logging: Thankam is the drying-shed woman with the paring knife, Muthu's coat over Neela, and the throat healing point learned at the Resin House. All are consistent. The line 'Her mother's people could not have taught her' is unclear and should be cut or clarified.",
+  "new_facts_assessment": "Thankam as the drying-shed woman is a useful callback and consistent with F824. Kuttan taking the sheaves is consistent and necessary. Muthu's coat drawing back the share-cold is a risk: plain warmth reversing a mortal-wound drag reads as convenient magic. The collarbone welt matches F627. The healing marma point fits bible marma (heal or kill). One loose phrase: the queen's 'thirty knives for thirty years' sits awkwardly with F715, where sales ran over twenty years. Reword it to 'thirty knives, some of them thirty years'.",
   "content_rule_violation": false,
   "failure_modes": [
+    "Convenient magic",
     "Narrated-only chemistry"
   ],
-  "average": 3.12,
-  "minimum": 0.0,
-  "passed": false
+  "average": 4.0,
+  "minimum": 3.0,
+  "passed": true
 }
