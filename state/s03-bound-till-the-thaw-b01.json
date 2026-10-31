@@ -360,7 +360,7 @@
       }
     },
     "13": {
-      "status": "passed",
+      "status": "edited",
       "revisions": 1,
       "scores": {
         "reader_question": 4.0,
@@ -374,8 +374,19 @@
       },
       "average": 4.0,
       "flags": [],
-      "words": 2695,
-      "minimum": 3.0
+      "words": 2685,
+      "minimum": 3.0,
+      "style": {
+        "words": 2685,
+        "banned_hits": {},
+        "ai_tell_hits": {},
+        "ai_tells_per_1000": 0.0,
+        "top_4gram": "at the third bend",
+        "top_4gram_count": 2,
+        "longest_paragraph_words": 113,
+        "em_dashes_per_1000": 1.12,
+        "reading_ease": 95.2
+      }
     },
     "14": {
       "status": "passed",
@@ -1401,9 +1412,13 @@
     {
       "at": "2026-10-31T21:05:01",
       "event": "done: S8 line edit ch 12"
+    },
+    {
+      "at": "2026-10-31T21:05:31",
+      "event": "done: S8 line edit ch 13"
     }
   ],
-  "updated_at": "2026-10-31T21:05:01",
+  "updated_at": "2026-10-31T21:05:31",
   "midpoint_chapter": 16,
   "continuity_attempts": 1,
   "continuity_last_errors": 1
