@@ -6,36 +6,36 @@
     "shown_chemistry": 4.0,
     "character_logic": 4.0,
     "stakes_and_cost": 4.0,
-    "prose": 3.0,
-    "continuity": 0.0
+    "prose": 4.0,
+    "continuity": 5.0
   },
   "reasons": {
-    "reader_question": "Devan's 'Rope or light... I'll know when I see her face' makes the writ question sharp. Her undecided self-declaration adds a second, specific question.",
-    "change": "They agree on an order (her refusal first, writ after), he gives up the first word, and Asha's withheld note is finally shared.",
-    "romance_movement": "The reason is new: being seen becomes something she asks for. They split the work at the gate. This is not a replayed refusal.",
-    "shown_chemistry": "Strong responsive beats: thumb on the blister, careful hands, the shared hook ache, him waking still so she can count. A few lines narrate meaning.",
-    "character_logic": "Her plan to say no while the queen still thinks yes is smart. Devan accepting the cost of the first word fits his arc.",
-    "stakes_and_cost": "Costs are concrete: ninety-eight against fourteen hundred, the spears possibly lost, her declaration possibly costing 'more than the fort cost you'.",
-    "prose": "Clean and concrete overall. Weak spots: a compliance-flavoured age line, summary-telling sentences, 'sure/sure' echo, and an overloaded 'the other one'.",
-    "continuity": "The writ is outside the hollow and fetched from his pack. This conflicts with F1040 (all three together in the hollow, tied with red thread) and the beat."
+    "reader_question": "Clear question: will the writ at the gate be 'rope or light', and will Neela name what she is? The ending gesture blurs it.",
+    "change": "Knowledge and power both shift: mutual temptations confessed, Asha's full note disclosed, and Devan cedes the first word to her.",
+    "romance_movement": "Being seen becomes chosen and asked for. The bargain over the writ's order is new, but part of the dawn talk restates ch20 terms.",
+    "shown_chemistry": "Responsive acts carry it: the thumb on her blister, the returned phrase, the lamp kept lit, and 'I'm lying very still so you can.'",
+    "character_logic": "Neela's case for the writ coming after her refusal is shrewd. Devan's flat costing of the spears fits his voice exactly.",
+    "stakes_and_cost": "Costs are named and concrete: the first word, the spears, the pass, and not knowing whether she will declare herself.",
+    "prose": "Clean, specific, no banned phrases. Some echoes ('let it', 'had gone low/careful') and one inaccurate 'only lately'.",
+    "continuity": "Stitches, hook welt, pebble, bundle, ages, Indu, and the ninety-eight count all match. The writ order matches F918."
   },
   "fixes": [
-    "At '\"The writ's not in there,\" Devan said behind her' (continuity break against F1040 and the beat): put all three items in the hollow together, chit, payment writ and gift seal, in the oilcloth bundle tied with red thread. Cut the walk to the peg. Let Devan wake and say 'Leave it there till noon. Then I take it out', which keeps the beat and his line about reading it.",
-    "At 'Her own, with the other one folded behind it' (ambiguity): 'the other one' is Neela's fixed name for her night-self, so this line reads as the leopard. Replace it with 'Her own, with Indu folded behind it and still unsaid.' Also change 'The queen has the shape of me from Usha', since 'shape' means night-shape in this world, to 'The queen knows what I am from Usha'.",
-    "At 'because she liked to say it plainly, and because it was part of the asking' (clunky, reads as rule-compliance), and at 'It was no comfort at all. She found, oddly' and 'It settled in her like one' (told meaning): fold the ages into dialogue with character in it, such as a dry joke about his grey hair. Replace the two summary sentences with a physical beat, such as her hand flattening on the shutter. Fix the 'soft and sure... to be sure' echo."
+    "Ending, 'He closed his fingers round it. He did not lift it.': the closing gesture is ambiguous and quiet, so the chapter lacks an ending that makes the next one necessary. Give the pebble a stated meaning, for example 'Not today. Today I say it.' as he sets it back on the sill. Then cut in Bhaskaran's crown-rider horn (two long, a short, a long; F797) sounding earlier than noon, so the queen arrives on the story's clock.",
+    "Dawn, 'But I won't refuse her in a corner': this recaps the open-refusal and step-behind terms already settled at the cistern in ch20 (repetitive tension). Cut the restatement to one line. Make the new terms carry the scene: the writ comes after her no, Devan loses the first word, and her undecided self-declaration. Let Devan name aloud that this is a new bargain and not the old one.",
+    "Afterwards, 'and only lately told him why': this is inaccurate, since she told him in book 1 (F165). Change it to 'and had long since told him why'. Also break the echo between 'She heard her voice go flat and let it' and 'She let it' by cutting the second. Vary 'His voice had gone low' and 'His voice had gone careful' so the construction does not repeat."
   ],
-  "reader_question": "When Devan reads the queen's writ aloud at the gate, will it be rope or light, and will Neela say what she is?",
+  "reader_question": "When Devan reads the queen's writ after Neela's refusal, will it hang the queen or win the spears, and will Neela say at the gate what she is?",
   "techniques_landed": [
     9,
     10,
     20
   ],
-  "new_facts_assessment": "new-facts.json is empty, but the draft adds facts that should be listed. Most are harmless: Muthu sleeps in the gate chamber tonight; Devan wrote his refusal on an arrow-cart lid and then hit a post; Muthu asked on the shelf whether refusing hurt; Asha's note bears a dated line with barred sevens. One needs care: Devan says that in ch12 he told Neela he had found Asha's last note and let her think it was about sparring. This extends F115/F418 and must be checked against B1 ch12. The writ's location contradicts F1040.",
+  "new_facts_assessment": "new-facts.json is empty, but the draft adds minor facts: the refusal written on an arrow-cart lid, Devan hitting a post for an hour, Janu changing the sheets, and barred sevens in Asha's date. All are consistent and harmless. The Asha last-note reading is already logged as F1039 and fits F115/F415, though it crowds the beat's dawn scene. List these facts for S7.",
   "content_rule_violation": false,
   "failure_modes": [
-    "Narrated-only chemistry"
+    "Repetitive tension"
   ],
-  "average": 3.38,
-  "minimum": 0.0,
-  "passed": false
+  "average": 4.12,
+  "minimum": 4.0,
+  "passed": true
 }

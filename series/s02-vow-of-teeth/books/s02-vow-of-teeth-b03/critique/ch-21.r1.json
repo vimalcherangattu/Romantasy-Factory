@@ -7,35 +7,35 @@
     "character_logic": 4.0,
     "stakes_and_cost": 4.0,
     "prose": 4.0,
-    "continuity": 0.0
+    "continuity": 5.0
   },
   "reasons": {
-    "reader_question": "Clear twin gap: will reading the writ cost the spears and pass, and will Neela name herself? The soft pebble ending blurs the hook.",
-    "change": "Knowledge shifts (Asha's note, the exact cost of the reading) and Neela's refusal gains its real reason; power stays largely level.",
-    "romance_movement": "Being seen becomes something she asks for, which is new. The 'step behind' split repeats ch20's term almost word for word.",
-    "shown_chemistry": "Strong responsive action: thumb on the blister, the lamp kept lit on request, the handed-back line. 'Nobody had ever said that to her' narrates.",
-    "character_logic": "Both act like smart versions of themselves. Devan's 'I let you think' strains his never-lie rule but is owned as a confession.",
-    "stakes_and_cost": "Devan gives the cost in numbers: the spears, the pass, men who go home. Her self-naming at the gate carries a stated, open price.",
-    "prose": "Concrete and controlled, no banned phrases. Echoes ('the lamp showed her' twice, 'a long moment' twice) and an on-the-nose thesis speech afterwards.",
-    "continuity": "'I've carried it six years' conflicts with F113/F115/F418: Devan first found Asha's last note in book 1 ch12."
+    "reader_question": "Clear question: will the writ at the gate be 'rope or light', and will Neela name what she is? The ending gesture blurs it.",
+    "change": "Knowledge and power both shift: mutual temptations confessed, Asha's full note disclosed, and Devan cedes the first word to her.",
+    "romance_movement": "Being seen becomes chosen and asked for. The bargain over the writ's order is new, but part of the dawn talk restates ch20 terms.",
+    "shown_chemistry": "Responsive acts carry it: the thumb on her blister, the returned phrase, the lamp kept lit, and 'I'm lying very still so you can.'",
+    "character_logic": "Neela's case for the writ coming after her refusal is shrewd. Devan's flat costing of the spears fits his voice exactly.",
+    "stakes_and_cost": "Costs are named and concrete: the first word, the spears, the pass, and not knowing whether she will declare herself.",
+    "prose": "Clean, specific, no banned phrases. Some echoes ('let it', 'had gone low/careful') and one inaccurate 'only lately'.",
+    "continuity": "Stitches, hook welt, pebble, bundle, ages, Indu, and the ninety-eight count all match. The writ order matches F918."
   },
   "fixes": [
-    "Continuity: 'I've carried it six years and read it to nobody' contradicts F115/F418, which have Devan first finding the note in Asha's chest in book 1 ch12. Change it to 'I've kept it since the day we opened her chest, and read it to nobody.' Keep 'She wrote this the week she found the first token.'",
-    "Repetitive tension: 'You stand at my back. You don't speak for me.' and 'A step behind.' restate the ch20 term (F907) nearly verbatim. Make the term new. For example, Neela sets the order: he reads the writ only after she has refused, so the queen hears her no before her guilt. Devan accepts that this costs him the first word. This also seeds F918.",
-    "On-the-nose thesis: the passage from 'For twenty-one years being seen meant someone had a hold on me' to 'So the fish shed was wrong' explains the arc's theme aloud. Cut it to one concrete beat. She touches the unbandaged scars at her throat, finds nothing taken, and says only 'I don't want her roof.' Let the reader draw the conclusion."
+    "Ending, 'He closed his fingers round it. He did not lift it.': the closing gesture is ambiguous and quiet, so the chapter lacks an ending that makes the next one necessary. Give the pebble a stated meaning, for example 'Not today. Today I say it.' as he sets it back on the sill. Then cut in Bhaskaran's crown-rider horn (two long, a short, a long; F797) sounding earlier than noon, so the queen arrives on the story's clock.",
+    "Dawn, 'But I won't refuse her in a corner': this recaps the open-refusal and step-behind terms already settled at the cistern in ch20 (repetitive tension). Cut the restatement to one line. Make the new terms carry the scene: the writ comes after her no, Devan loses the first word, and her undecided self-declaration. Let Devan name aloud that this is a new bargain and not the old one.",
+    "Afterwards, 'and only lately told him why': this is inaccurate, since she told him in book 1 (F165). Change it to 'and had long since told him why'. Also break the echo between 'She heard her voice go flat and let it' and 'She let it' by cutting the second. Vary 'His voice had gone low' and 'His voice had gone careful' so the construction does not repeat."
   ],
-  "reader_question": "Will Devan's open reading of the queen's writ at the gate cost them the crown spears and the pass, and will Neela say aloud what she is?",
+  "reader_question": "When Devan reads the queen's writ after Neela's refusal, will it hang the queen or win the spears, and will Neela say at the gate what she is?",
   "techniques_landed": [
     9,
     10,
     20
   ],
-  "new_facts_assessment": "F1039 pays off the note withheld in book 1, and Asha's 'Say it anyway' feeds Neela's open choice. It is necessary, but the dialogue's 'six years' conflicts with the note being found in B1 ch12, so the line must change. The box staying under the bed while Muthu used the room is plausible but unstated. F1040 is consistent with the chapter's evening action and correctly retires F1036. F744 and F910 align.",
+  "new_facts_assessment": "new-facts.json is empty, but the draft adds minor facts: the refusal written on an arrow-cart lid, Devan hitting a post for an hour, Janu changing the sheets, and barred sevens in Asha's date. All are consistent and harmless. The Asha last-note reading is already logged as F1039 and fits F115/F415, though it crowds the beat's dawn scene. List these facts for S7.",
   "content_rule_violation": false,
   "failure_modes": [
     "Repetitive tension"
   ],
-  "average": 3.5,
-  "minimum": 0.0,
-  "passed": false
+  "average": 4.12,
+  "minimum": 4.0,
+  "passed": true
 }
