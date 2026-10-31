@@ -849,7 +849,7 @@
       ]
     },
     "28": {
-      "status": "passed",
+      "status": "edited",
       "revisions": 1,
       "scores": {
         "reader_question": 4.0,
@@ -863,19 +863,17 @@
       },
       "average": 4.12,
       "flags": [],
-      "words": 3039,
+      "words": 3035,
       "minimum": 4.0,
       "style": {
-        "words": 2843,
+        "words": 3035,
         "banned_hits": {},
-        "ai_tell_hits": {
-          "the weight of": 1
-        },
-        "ai_tells_per_1000": 0.35,
-        "top_4gram": "garrison men in grey",
+        "ai_tell_hits": {},
+        "ai_tells_per_1000": 0.0,
+        "top_4gram": "smear of lamp black",
         "top_4gram_count": 2,
         "longest_paragraph_words": 102,
-        "em_dashes_per_1000": 0.7,
+        "em_dashes_per_1000": 0.66,
         "reading_ease": 93.4
       },
       "owner_instructions": [
@@ -2372,9 +2370,13 @@
     {
       "at": "2026-10-31T21:32:26",
       "event": "done: S8 line edit ch 27"
+    },
+    {
+      "at": "2026-10-31T21:33:01",
+      "event": "done: S8 line edit ch 28"
     }
   ],
-  "updated_at": "2026-10-31T21:32:26",
+  "updated_at": "2026-10-31T21:33:01",
   "midpoint_chapter": 16,
   "continuity_attempts": 0,
   "continuity_last_errors": null,
