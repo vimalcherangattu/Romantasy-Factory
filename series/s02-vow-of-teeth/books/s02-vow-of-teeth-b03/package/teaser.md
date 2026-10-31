@@ -1,17 +1,15 @@
-# If you're just arriving: The Odiyan Contracts
+# The Odiyan Contracts: Start Here
 
-Varanad has a secret. In the black woods above the pepper coast, a guild trains orphans to become odiyans. At dusk, a smear of bitter resin on throat and wrists, and a woman becomes a leopard, a jackal, a bear. By dawn she is a woman again, and anyone who saw her change holds her life in their mouth. One word, her animal's name spoken in the dark, and she is caged in fur forever.
+Neela has twelve contracts to earn her freedom, and one left to go.
 
-Neela has done eleven contracts. The twelfth will earn her release, her page burned and her birth name returned. The twelfth is a man.
+She is an odiyan of the Resin House. At night, with a smear of bitter black resin on her throat and wrists, she becomes a leopard. By day she is a quiet, dangerous bride, sold in marriage to the warden of Kettamala, a hill fort above the only pass into the pepper hills. Her orders are simple. Kill him before the monsoon closes the road.
 
-Devan, warden of Kettamala, is the husband she was sold to. She has forty days before the monsoon closes the Monkey Pass. She has a window, a ledge broad enough for a crouching body, and a plan to make his death look like a leopard's work.
+Devan is not the fool the guild expects. He is a man of few words and exact facts who has not sparred another living soul in eight years. He closes her shutters at every dusk. He never asks where she goes at night. And he knows a secret that could ruin her: anyone who sees an odiyan turn can lock her in her animal shape for life, with one word spoken at the wrong moment.
 
-He has a secret too. He saw her turn on their wedding night, and he has said nothing.
+She has watched every witness she has known treat that word as a leash. She has forty days to decide whether he is any different.
 
-Every shutter he closes at dusk is a mercy or a trap. Every night he sleeps beside her is a night she could end it, or he could. And somewhere above them both, a seal in green wax has paid for his death.
+Across three books, The Odiyan Contracts follows an arranged marriage that begins as a murder plot. It brings a guild that owns its members, a queen with secret knives, a war at the pass, and a love built on the hardest thing in the world: being known by someone who could cage you, and trusted not to.
 
-Three books. One couple. A guild that owns its killers, a queen who keeps knives nobody sees, and a love that costs blood to keep.
-
-Start with *Vow of Teeth*. It begins with a wedding at sunset, and one question:
+Start with Vow of Teeth, and ask the question that begins it all.
 
 Will Neela kill the husband she was sold to?

@@ -1,6 +1,6 @@
 # Crown of Night {.unnumbered .unlisted}
 
-*A Dark Romantasy of Shifters, Oaths and War*
+*A Shapeshifter Assassin Romantasy*
 
 The Odiyan Contracts, Book 3
 
@@ -252,13 +252,13 @@ Devan stepped between the woman and the door before Neela could, and he did not 
 
 The sun had already gone behind the western ridge. What was left lay on the scree in a thin copper wash that would last a quarter hour. When it went, the forty would want the dark, the cup and the low room to themselves. He had said three words to the room the moment he saw the green sash: *Nobody smears tonight.* Kuttu had groaned. Nobody had asked why. They were learning what he was afraid of.
 
-The woman stopped on the flat slab, six paces off. Vellan stood a pace behind Devan's right shoulder and said nothing, which for Vellan was loud. Neela was at his left. He had not asked for that either, and he did not move away from it.
+The woman stopped on the flat slab, six paces off. Vellan stood a pace behind Devan's right shoulder and said nothing, which for Vellan was loud. Neela stood at his left. He had not asked for that either, and he did not move away from it.
 
 "I am alone," the woman said. "I carry no resin and no flask. You may look."
 
 "I will."
 
-She pushed her sleeves back, left and then right, and held out her wrists in the last of the light. The left bore the single flat seam he remembered from the passage outside Ittan's guardroom, where a cuff had slipped for the length of a breath. The right bore its twin. Both had been pared, and neatly. Somebody had cut away a girl's worth of layered ridges and left a line a finger long.
+She pushed her sleeves back, left and then right, and held out her wrists in the failing light. The left bore the single flat seam he remembered from the passage outside Ittan's guardroom, where a cuff had slipped for the length of a breath. The right bore its twin. Both had been pared, and neatly. Somebody had cut away a girl's worth of layered ridges and left a line a finger long.
 
 Vellan breathed in through his nose, slow, twice. Then he gave one small shake of his big head. No tamarind. No scorched pine. She was clean.
 
@@ -268,7 +268,7 @@ Vellan breathed in through his nose, slow, twice. Then he gave one small shake o
 
 He waited for the rest of it. There was no rest. She had given it the way a person sets down a knife, handle first.
 
-For three days her escort had slept in his south range and eaten Janu's rice. They had answered to First, Second, Third and Fourth. Janu had tried each of them with a plate and a scolding and got nothing back. Not one had offered a name to anyone at Kettamala. This one had walked up a mountain to hand hers over, and he did not know what it was meant to buy.
+For three days her escort had slept in his south range and eaten Janu's rice. They had answered to First, Second, Third and Fourth. Janu had tried each of them with a plate and a scolding and got nothing back. Not one had offered a name to anyone at Kettamala. This one had walked up a mountain to hand hers over, and he could not guess what it was meant to buy.
 
 "You came to give us a name," he said.
 
@@ -276,9 +276,9 @@ For three days her escort had slept in his south range and eaten Janu's rice. Th
 
 *Company.* So the word had climbed down the hill ahead of her, or she had guessed it. He filed that, and took the letter.
 
-Even in poor light the wax was clear. The sunbird was pressed deep, wings spread wide, and at the tip of the left wing sat the little chip he knew as he knew his own scars. The same chip marked the payment writ in the oilcloth at the bottom of his pack, which he had carried up the hill rather than leave it in the shutter frame. That seal had bought his death. This one was asking for something.
+Even in poor light the wax was clear. The sunbird was pressed deep, wings spread wide, and at the tip of the left wing sat the little chip he knew as he knew his own scars. The same chip marked the payment writ in the oilcloth at the bottom of his pack, which he had carried up the hill rather than leave it in the hollow behind the third slat at Kettamala. That seal had bought his death. This one was asking for something.
 
-He turned the letter to the last of the light. Where the thread crossed the wax, a second bird had been pressed so lightly that he nearly missed it. It was smaller and faint, wings folded close to its body. He had seen that bird in the margins of Ittan's tally book, and on the stubs of thirty cut leaves. He kept his face still.
+He turned the letter to what was left of the copper. Where the thread crossed the wax, a second bird had been pressed so lightly that he nearly missed it. It was smaller and faint, wings folded close to its body. He had seen that bird in the margins of Ittan's tally book, and on the stubs of thirty cut leaves. He kept his face still.
 
 "Read it aloud," Neela said quietly. "They should hear it."
 
@@ -298,7 +298,17 @@ Nobody spoke. Devan read the last lines again in his head, and then once more, s
 
 Six boats. Twelve in a good season. A village burned at a time and a purse of silver coin in the right hand, and the queen telling herself it was bandits. *As they always have* was the treaty written in her own words, a line she must have thought no one could read. She wanted forty knives behind her walls. She had sixty ships on the beach, and she had written that the hill would bear it. Nobody in that sentence had been counted but him.
 
-His goal, which had been a vote at a fire an hour ago, went hard as set mortar. He held the Monkey Pass, with no office and no seal and no leave from the woman whose chipped sunbird lay in his hand. Nothing in that letter would change it, and nothing in an answer could.
+His goal, which had been a vote at a fire an hour ago, went hard as set mortar. He held the Monkey Pass, with no office and no seal and no leave from the woman whose chipped sunbird lay in his hand. Nothing in that letter would change it.
+
+But the forty had just heard a pardon with their names in it.
+
+"And our names?" Kuttu said from the doorway, hoarse. "It says every name on the plank."
+
+Devan turned. Faces, stacked and pale. Thilak had his hooked knife in his fist and did not seem to know it.
+
+"The pardon is yours," he said. "You'll vote it at dawn, hand by hand, and I'll abide what you choose. The pass is already carried. That one is mine."
+
+Nobody answered. Somewhere in the dark of the room someone let out a breath that was half a curse. It was the sound of a Company finding the first crack in itself.
 
 "The pardon is real," Usha said. "I would not say it if it weren't."
 
@@ -318,7 +328,7 @@ He folded the letter along its creases. "How did you find the shelter?"
 
 He waited again. She gave him nothing more, and he could not say whether that was discipline or a wall.
 
-Behind him a boot scraped grit. Neela had moved, no more than a step, and now she stood level with Usha, close, her bandaged left hand held loose at her side. Her voice came pitched low, but the evening was still and the slab was small.
+Behind him a boot scraped grit. Neela had moved, no more than a step, and now she stood level with Usha, close, her hand held loose at her side. Her voice came pitched low, but the evening was still and the slab was small.
 
 "It passes," Usha said to her.
 
@@ -370,7 +380,7 @@ A roof post stood at the back, where the lean-to for the packhorse met the wall.
 
 He stood square. He took a breath through the nose and let it go. Then he raised his right hand, flat, the first two fingers joined and the others folded under, and began the slow drill.
 
-He had made it up at twenty-five, the winter after the ford, when he had stopped hitting living things and could not stop hitting wood. It was a stripped form: one strike, a stride in, a turn of the wrist. Each step took a count of ten. At the end the two fingers stopped a hair short of the post, at the place where on a man the notch below the ear would be. A hair. He knew exactly how wide it was, because he had spent seven years measuring it.
+He had made it up the winter after the ford, when he had stopped hitting living things and could not stop hitting wood. It was a stripped form: one strike, a stride in, a turn of the wrist. Each step took a count of ten. At the end the two fingers stopped a hair short of the post, at the place where on a man the notch below the ear would be. A hair. He knew exactly how wide it was, because he had spent seven years measuring it.
 
 He did it again. And again. He was not thinking of the queen, or of sixty ships. He was thinking about the width of a hair and how it differed from nothing, and how his hand, tonight, wanted to close the gap.
 
@@ -388,7 +398,7 @@ It did. The same woman had written *I would rather you were mine than anyone's p
 
 He tied the flap and sat back on his heels. The hill was quiet. Somewhere far down, past the dark of the scree, a red smudge lay on the edge of the world, low and steady. Pazhayangadi, or what was left of it.
 
-He went in and lay down at Neela's back, careful of her left hand, and counted her breaths until his own fell into step with them. He did not sleep for long.
+He went in and lay down at Neela's back and counted her breaths until his own fell into step with them. He did not sleep for long.
 
 
 ::: {.scene-break}
@@ -418,19 +428,17 @@ Neela turned and walked back to him. Her face had nothing in it at all.
 
 The wind lifted the corner of the letter in his pocket. He had not known he was holding it.
 
-A woman who had given her name to a stranger and shown her scars on a bare hillside. A woman who had asked what the naming cost, and listened to the answer as if it were the only thing in the world she wanted to know. She had come alone, with open hands, and left a door.
-
-Or a snare. The same hinges served both. He had been in the border service long enough to know that, and married long enough to know that Neela knew it too.
+She had come alone, with open hands, and left a door.
 
 He looked at the path where the green had gone. The mist was thickening into the gorge, and there was no knowing what waited at the bottom of it.
 
-"Door or snare," Neela said.
+"Door or snare," Neela said. Then, flat, counting: "Kodiyur is four days at a hard ride. The raiders are in the gorge in three."
 
-"Kodiyur is four days at a hard ride," she went on, flat, counting. "The raiders are in the gorge in three."
+The same hinges served both. He had been in the border service long enough to know that, and married long enough to know that she knew it too.
 
-"So the door costs the pass I swore to the fire I'd hold," said Devan, "or it costs you going alone."
+"So the door costs the pass I swore to the fire I'd hold," said Devan, "or it costs you going alone. And if you go, a spear in me at the gorge is a spear in you, wherever you stand. I'd not have the road decide that for you."
 
-"Yes."
+"Yes," she said.
 
 He looked at her bare feet on the wet rock, then at the path.
 
@@ -530,7 +538,7 @@ She counted. Twenty hands. Devan's was among them, steady and open, and he did n
 
 She counted twice. Twenty-two. One person had not raised a hand either time, and it was Thulasi, who was looking at her knees.
 
-Neela put her own hand up for that one, and kept it there, and felt it shake.
+Neela's own hand was among them, and she kept it there, and felt it shake.
 
 "Carried," said Thilak, rough. "By two."
 
@@ -1136,7 +1144,7 @@ His forearm had opened while he wasn't thinking. The sleeve was dark and stiff t
 
 She had come up beside him in a cloth the colour of dust, her hair wet at the temples. She had a new bruise on her cheekbone and a look he knew, tired and amused and furious all at once. She held out her right arm. Along the outside of the forearm, red and raised and weeping at the edge, ran a thin shallow line.
 
-"Third thing I felt on the lip," she said. "I had the mirror man's wrist in my teeth when you took that knife. I nearly dropped him."
+"Third thing I felt on the lip," she said. "I was lying ten paces from the mirror man when you took that knife. I nearly gave myself away."
 
 "You didn't."
 
@@ -1654,7 +1662,7 @@ He had put a lookout on the lip for that reason. Biju, a volunteer with a red he
 
 "Fourteen hundred what?" Kandan said.
 
-The corporal stood below with a rope round his waist and a spear across his back. The scar through his brow was white with dust. Forty garrison volunteers worked the face behind him, cutting and prying and hauling. Muthu's order had said the garrison stays inside the walls. Kandan's forty had not found that order interesting.
+The corporal stood below with a rope round his waist and a spear across his back. The scar through his brow was white with dust. Forty garrison volunteers worked the face behind him, cutting and prying and hauling. Muthu's order had said the garrison stays inside the walls. Kandan's ten had not found that order interesting, and the rest had never been under it.
 
 "Thurai." Devan wiped his palms on his thighs. "Sixty hulls on the water. Twenty-odd to a hull."
 
@@ -1692,7 +1700,7 @@ Thilak set the bar again. He was a broad, quiet man, a member of the Resin House
 
 Devan's spear leaned against the pry-pole at his elbow. It had been within arm's reach every hour since Raman died. He no longer noticed putting it there.
 
-Down the road, on the verge where the gorge opened toward the sea, Neela's six stood by a pack pony. She had come as far as the shelf with them at first light and then stopped, head tilted back, looking up at the lip. *Show me what you mean to do,* she'd said. He had shown her. Then the sun had climbed, and no one had left. She had checked the pony's girth. She checked it again, one eye on him, and then a third time, though the strap had not moved.
+Down the road, on the verge where the gorge opened toward the sea, the rest of Neela's six stood by a pack pony; Thilak had stayed to lend the bar his weight before the road. She had come as far as the shelf with them at first light and then stopped, head tilted back, looking up at the lip. *Show me what you mean to do,* she'd said. He had shown her. Then the sun had climbed, and no one had left. She had checked the pony's girth. She checked it again, one eye on him, and then a third time, though the strap had not moved.
 
 A pebble ticked.
 
@@ -1718,7 +1726,7 @@ Men scattered. A volunteer named Vasu was too slow, bent over a rope with his ba
 
 It was twelve steps. He had counted them that morning, because he counted everything now.
 
-He had not struck first at a living man in eight years. He had trained the habit out of his hands. Let them come. Hold the line. Stand and be the wall. And a man had died under this shelf while he stood and was the wall, and the wall had not been enough.
+He had not killed a man first in eight years. He had trained the habit out of his hands. Let them come. Hold the line. Stand and be the wall. And a man had died under this shelf while he stood and was the wall, and the wall had not been enough.
 
 The runner raised his blade in a clean, practised motion. He had not yet turned toward Vasu's back. He was still a body in the air, between one stride and the next.
 
@@ -1736,7 +1744,7 @@ Devan stood over the man he had killed. The weight he'd expected did not come. I
 
 *Neela.*
 
-"You struck first," Kandan said.
+"You killed first," Kandan said.
 
 The corporal had come up beside him, breathing hard, his spear dripping. There was no accusation in his face. He looked like a man who had waited a long time to see something and had now seen it.
 
@@ -1908,7 +1916,7 @@ Muthu was loud. He laughed from the belly and cursed the weather, the cook, the 
 
 No, Neela thought. She had seen Muthu lie, at the feast, over a letter. That quiet had been thin and quick, like a hand drawn off a hot pan. This one was heavy. It had two weights in it.
 
-On one side were six years of grey wax and a woman held in a household somewhere. On the other, Devan in the yard with a bound arm, and forty men at the shelf who had not found his order interesting.
+On one side were six years of grey wax and an oath to a household he had never seen. On the other, Devan in the yard with a bound arm, and forty men at the shelf who had not found his order interesting.
 
 He was not hiding a choice. He was standing between two. She knew exactly what that looked like from inside.
 
@@ -2032,7 +2040,7 @@ He took her to the lee of the water jars. The cistern chain clanked the hour abo
 
 "You weren't lying."
 
-"No." He said it heavily. "I wish I had been. Lying's easy." His eyes slid to the toddy and back. "That wax is dry by now. Somewhere a woman is kept on my silence, and I've just spoken. I don't know what they'll do with that. I'll say the rest of this while I can still say it. You're going to Kodiyur."
+"No." He said it heavily. "I wish I had been. Lying's easy." His eyes slid to the toddy and back. "That wax is dry by now. Six years that household had my silence, and I've just spoken. I don't know what they'll do with that. I'll say the rest of this while I can still say it. You're going to Kodiyur."
 
 "Yes."
 
@@ -2620,7 +2628,7 @@ Half the quay ducked. Neela, who had been waiting for it, only pressed. One. Two
 
 The echo rolled off the harbour tower and out across the water. Kodiyur went back to its shouting.
 
-Four days of road had gone by in a page of dust. The sea road was dry, and the horses were good, and she had counted the milestones because counting was what her mind did when the rest of her wanted to turn round. Pavi rode close and said little. Meenu snored under the cart. Every noon Neela got down in some roadside field, pricked her thumb three times, and climbed back up without a word. Nobody asked. By the second day Kuttu had started to look away at noon, the way you look away from a person praying.
+Four days of road had blown past in dust. The sea road was dry, and the horses were good, and she had counted the milestones because counting was what her mind did when the rest of her wanted to turn round. Pavi rode close and said little. Meenu snored under the cart. Every noon Neela got down in some roadside field, pricked her thumb three times, and climbed back up without a word. Nobody asked. By the second day Kuttu had started to look away at noon, the way you look away from a person praying.
 
 Now the road had run out at salt water.
 
@@ -2680,7 +2688,7 @@ Three people waited among the racks.
 :::
 
 
-A man sat on an upturned basket with his sleeves down to his knuckles and a face like a closed shutter. A woman a little older leaned on a post and looked at Neela's throat. The third, younger than both, sat apart on the floor with his arms round his knees. He had the sulky, scrubbed look of a boy who had been told to wait outside.
+A man sat on an upturned basket with his sleeves down to his knuckles and a face like a closed shutter. A woman past thirty leaned on a post and looked at Neela's throat. The third sat apart on the floor with his arms round his knees, a lean man with a clerk's stoop who looked dreadfully afraid of being called on.
 
 "Second," said Usha. "Third. Fourth. This is Seventeen."
 
@@ -2690,17 +2698,31 @@ The man stared. "We don't—"
 
 "I know. Tell me anyway."
 
-A silence. Fish swung overhead on their strings.
+Silence. Fish swung overhead on their strings.
 
 "Sajan," the man said at last, as though handing over a coin.
 
 "Lata," said the woman.
 
-The youngest drew a breath. "Sanu."
+The third drew a breath. "Sanu."
+
+Usha, behind her, added in a dry undertone, "Twenty-six. Fourth Guard. Still goes red when I say his name." Sanu went red.
 
 "Sanu." Neela went down on her heels in front of him. "Usha says you've something to tell me."
 
-He looked at the floor. His hands pulled at his cuffs. "I carried notes," he said, in a small cramped voice. "For a year. Not to the palace. Out. A man in a grey cloak gave them to me in the lower court. I sealed each one in a pot of salve, and I gave the pots to the ninth-day post rider bound for Kettamala. They were always for the physician at the fort. Eravi." He swallowed. "I only went up myself once, with the escort the queen's clerk sent. I had a blistered heel. I left a pot at his dispensary, as thanks, and I never read a note. I swear I didn't. I thought they were medicine orders. The Keeper's wife was sick."
+He looked at the floor. His hands pulled at his cuffs. "I carried notes," he said, in a small cramped voice. "For a year. Not to the palace. Out. A man in a grey cloak gave them to me in the lower court."
+
+"What did he say when he gave them?"
+
+"Nothing. He never said anything." Sanu shook his head. "He just counted me. Every time. Like I was a coin."
+
+*Counted.* She put it away with the rest.
+
+"I sealed each note in a pot of salve," he said, "and gave the pots to the ninth-day post rider bound for Kettamala. They were for the physician at the fort. Eravi."
+
+Sajan shifted on his basket. "Tell her the rest."
+
+"I went up myself once, with the escort the queen's clerk sent. I had a blistered heel. I left a pot at his dispensary, as thanks." Sanu swallowed. "I never read a note. I thought they were medicine orders. The Keeper's wife was sick."
 
 "Which pot?"
 
@@ -2708,21 +2730,15 @@ He looked at the floor. His hands pulled at his cuffs. "I carried notes," he sai
 
 "Scorched tamarind and pine sap," Neela said. "I kept the pot."
 
-He flinched. Sajan looked at her sharply.
+He flinched. Lata looked at her sharply.
 
 "I was glad of the salve," she said. "I'd have used it either way."
 
-It did not seem to help. Sanu pressed his forehead to his knees. "A man died at Kettamala," he said, muffled. "On the stair, in the dark. I've done sums on it. The lamps. If I'd read one note..."
+It did not seem to help. Sanu pressed his forehead to his knees. "A man died at Kettamala," he said, muffled. "On the stair, in the dark. I've done sums on it. If I'd read one note..."
 
-"His name was Raiu," Neela said. "And you'd have read one note. They'd have found another boy." She had said it often in her head, over Ammu. It was as flat and true as a floor. "Eravi's held. He's told us what he sent. You're the first of them to say it to my face. That's worth something."
+"His name was Raiu," Neela said. "And you'd have read one note. They'd have found another courier." She had said it often in her head, over Ammu. It was as flat and true as a floor. "Eravi's held. He's told us what he sent. You're the first of them to say it to my face. That's worth something."
 
 He lifted his head. His eyes were red.
-
-"What did the man in grey say?" she asked. "When he gave you the notes."
-
-"Nothing. He never said anything." Sanu shook his head. "He just counted me. Every time. Like I was a coin."
-
-*Counted.* She put it away with the rest.
 
 
 ::: {.scene-break}
@@ -2742,15 +2758,15 @@ It was small. A hand's length, the blade thin as a leaf and curved at the point 
 
 Thankam did not use it on Lata's arm. She laid it on the basket beside her gently, as one might lay a spoon. While she bound the wound she talked of the tide, and the price of linen, and the bad temper of the Keeper's widow, who still kept his window open in the rain. Her bare forearms showed under the rolled sleeves. There was no seam on them.
 
-But Lata's other wrist had slipped from her cuff as she shifted. Neela saw it. A flat pale line, a finger long, no ridge to it, no layers. Smooth as a stitched silk edge. Somebody had cut away twenty years of burned skin and sewn the rest back neat.
+But Lata's other wrist had slipped from its cuff as she shifted. Neela saw it. A flat pale line, a finger long, no ridge to it, no layers. Smooth as a stitched silk edge. Somebody had cut away years of burned skin and sewn the rest back neat.
 
 Her own scars lay thick on the inner wrist, ridge on ridge, the first laid down at sixteen. She felt every one now, under green cotton.
 
-"Looser at the wrist," Thankam said, without turning. Her eyes stayed on the bandage. "That cuff will chafe. It'll chafe worse on the next fortnight, on a hard wall."
+"That cuff will chafe," Thankam said, without turning. Her eyes stayed on the bandage. "Come to me before it ridges worse. A fortnight to heal, and nobody need read the wrist again."
 
-It was said to Lata, and it was not. Neela kept her face still. After a moment, Thankam picked up her knife and wiped it, clean and unhurried, on a cloth.
+It was said to Lata, and it was not. Neela's right hand had pressed her own left cuff flat against the bone before she knew it had moved. She made it lie still in her lap. After a moment Thankam picked up her knife and wiped it, clean and unhurried, on a cloth.
 
-"You'll want a fortnight to heal after," she said, to the room. "The palace is not generous with that." She shut the satchel and went out, humming, and the door banged behind her.
+"The palace is not generous with fortnights," she said, to the room. She shut the satchel and went out, humming, and the door banged behind her.
 
 Nobody spoke for the length of a long breath.
 
@@ -2766,7 +2782,7 @@ Nobody spoke for the length of a long breath.
 
 They sat on baskets. Usha poured water from a clay jar and gave Neela the first cup. Lata drank hers standing.
 
-The thirty, Neela learned, were not one mind. She had hoped for it on the road without quite saying so. Within the first quarter hour she heard the shape of it: the thirty were close to evenly split, and not about courage.
+The thirty, Neela learned, were not one mind. She had hoped for it on the road without quite saying so. Within a quarter hour she heard the shape of it: the thirty were close to evenly split, and not about courage.
 
 "Some want their pages," Usha said. "They've heard what you did at the Resin House. Some have heard it as a rumour, some as a hymn. They'd go to you at a run if they thought the gate was open."
 
@@ -2782,21 +2798,19 @@ Sajan made a sound. Lata turned on him.
 
 "I know that too."
 
-"She held the lamp," said Sajan. "Ask them that. Ask them what she held."
-
 Neela looked at Usha.
 
-Usha was quiet a moment, turning her cup. "She watches each of us turn," she said. "The first time. In her own chamber, with the shutters closed. She holds the lamp herself. She won't let a servant do it. She holds it high so she can see every moment, and then she sits the night through in a chair and says nothing at all. Not a word. At first light, when you're a woman again on her floor, she kneels down and tells you your shape."
+Usha was quiet a moment, turning her cup. "She watches each of us turn," she said. "The first night in her service. In her own chamber, with the shutters closed. She holds the lamp herself. She won't let a servant do it. She holds it high so she can see every moment, and then she sits the night through in a chair and says nothing at all. At first light, when you're a woman again on her floor, she kneels down with a cloth and a cup of water. Never a word about it. Not then, not since."
 
 "To you," said Lata. "Gently."
 
-"So you know what you are," said Sajan. "And so she does. And so you're caged by the only person alive who's ever held a light to you."
+"Gently," said Sajan. "And you're caged anyway, by one of two people alive who've held a light to you. She keeps the other in her cells."
 
 "She's never said it at night," Lata said.
 
 "She'd never have to start. She only has to open her mouth after dusk."
 
-Nobody answered that. Neela felt her own scars drag under her cuffs. She thought of Chathu, a long time ago, sitting a girl down at a table. A kindness first. Then the lamp.
+Nobody answered that. Neela felt her own scars drag under her cuffs. *The other in her cells.* Chathu, a long time ago, sitting a girl down at a table. A kindness first. Then the lamp.
 
 "Tell me about the sea stair," she said, because the room needed a different floor.
 
@@ -2836,13 +2850,13 @@ Nothing followed. No second line, no tearing. No pull toward the dark. Only the 
 
 "Is it him?"
 
-Neela gave no answer. Sajan's shuttered face turned toward her with a new look in it. Lata glanced from one to the other.
+Neela gave no answer. She stood. Her legs did it without asking. Two steps toward the front door, and her mind was already counting: the front, the side, the one behind the nets. Three doors. Four days of road behind each of them. A hundred miles, and she would arrive for the burying.
 
-If you bleed, I won't. She had said it in a warm room with rain on the roof. She had said it twice, so that it would stay said. Now she sat on a basket in a shed full of fish, with her fingers dug into the starched cotton of her cuffs, and for a long, awful moment her whole body leaned toward the door. A hundred miles of road. Four days of it. She would arrive for the burying.
+Across the shed Sanu was watching her. Not the door. Her. He had stopped pulling at his cuffs. He watched the way a man watches a stranger cross a bridge he has to cross himself, to learn whether it holds. A bargain between a guard and a warden, thorns at noon, a debt written on skin. If she ran, it was a story that ended in flight. If she stayed, it was a thing a person could do.
 
-She did not stand.
+Neela turned round. She walked back, sat on her basket, and put her back against the post. She pressed the long welt flat against the rough wood, hard, until the sting climbed her ribs and made itself hers.
 
-"He's living," she said. Her voice came out odd and low. "If he weren't, I'd be on the floor. It's a cut. It's long. It isn't deep." She looked at her hands. "I can't send him anything. There's nothing to send but the thorns, and the thorns are for noon. Three, tomorrow. That's all he'll get."
+"He's living," she said. Her voice came out odd and low. "If he weren't, I'd be on the floor. It's a cut. It's long. It isn't deep." She looked at Sanu. "I can't send him anything. There's nothing to send but the thorns, and the thorns are for noon. Three, tomorrow. That's all he'll get."
 
 "That's all?" said Sanu, in a frightened whisper.
 
@@ -3476,13 +3490,13 @@ She went down.
 
 The stair was empty all the way to the landing, and at the landing the sixth bell began.
 
-It was a thin bright sound off the harbour tower, and it was the sound Usha had promised. The pair at the post straightened, said something to each other, and walked off down the lower flight to be relieved, each with one shoulder a little higher than the other from a long standing. Neela pressed into the shadow of the bend and counted.
+It was a thin bright sound off the harbour tower, and it was the sound Usha had promised. The pair at the post straightened, said something to each other, and walked off to the chain stair to be relieved, each with one shoulder a little higher than the other from a long standing. Neela pressed into the shadow of the bend and counted.
 
 Sixty breaths for the change. The last twelve with the landing bare.
 
 She reached ten in the dark and the post was empty. She reached twelve with her feet on the stones of the landing and the sea flat as a plate beyond the arch. No wind. If it had been blowing it would have been nine, Usha said.
 
-She crossed in eleven. At the twelfth she was below the post, and the relief came up the stair behind her in a clatter of spears, and no one looked down.
+She crossed in eleven. At the twelfth she was below the post, and the relief came down the stair behind her in a clatter of spears, and no one looked down.
 
 It had fallen to the breath.
 
@@ -3590,7 +3604,7 @@ The first name Neela read aloud belonged to a boy who had stopped answering to i
 
 "Intake," she said. She held the leaf nearer the shed's one grey window. Dawn came through the slats in stripes and lay across the mackerel racks. "Chandrika. A tailor's son. Of Pallikara, by the river. Sold at seven."
 
-Sanu stood very still in front of her. He was the youngest of the twenty-two, and he had carried notes for a year without reading one.
+Sanu stood very still in front of her. He had carried notes for a year without reading one.
 
 "That's me," he said, as if someone else had said it.
 
@@ -3600,17 +3614,17 @@ Sanu stood very still in front of her. He was the youngest of the twenty-two, an
 
 "It was your mother's mother's. It says so, two lines down."
 
-She read the rest. The number. The date, six years back, in a witness's hand. Then the line that named the shape, which she said aloud in the shed's cold light because the rule said she must, in full, before the one it belonged to. Twenty-one people heard it. Sanu closed his eyes. When she folded the leaf into his palm his fingers shut on it like a trap.
+She read the rest. The number. The date, nineteen years back, in a witness's hand. Then the line that named the shape, which she said aloud in the shed's cold light because the rule said she must, in full, before the one it belonged to. Twenty-one people heard it. Sanu closed his eyes. When she folded the leaf into his palm his fingers shut on it like a trap.
 
 "It's yours," she said. "Nobody else can read it against you. Burn it, keep it, eat it."
 
-"Keep it," he said, thickly. "Can I keep it?"
+"Can I keep it?"
 
 "Anything but give it away."
 
 That was the rule of the work. A page read and handed over, and the room left holding what it had heard. She had done it eighty-two times at the Resin House with the sun on her back. She had not known it would be this hard with a roof on.
 
-She did them in ledger order. Each came forward. Each heard a village that had not been said aloud in fifteen years, a trade, a mother's name. A woman learned she had a sister. A man of thirty with a soldier's walk was a fisherman's son from a place that had since gone under the tide, and he laughed once and sat down on a crate.
+She did them in ledger order. Each came forward. Each heard a village that had not been said aloud in fifteen years, a trade, a mother's name. A woman learned she had a sister. A man of thirty with a soldier's walk turned out to be a fisherman's son from a place that had since gone under the tide, and he laughed once and sat down on a crate.
 
 Usha came nineteenth.
 
@@ -3620,7 +3634,7 @@ She came up with her hands open and her sleeves pulled to the knuckle, as she ha
 
 She took the page. She folded it twice, small, and put it inside her cuff against the pared-flat seam on her wrist. She offered not one word of thanks, and went back to the wall.
 
-Neela noted it the way she noted everything. A woman who had asked no question. A woman who had stood nearest the door since first light.
+Neela marked it the way she marked everything. A woman who had asked no question. A woman who stood nearest the door since first light.
 
 Twenty-two. When the last had gone out into the lane, blinking, the shed was empty but for Thilak at the net door and the smell of brine.
 
@@ -3638,17 +3652,17 @@ Neela sat on a crate with her back to the racks and ate cold rice, because Thila
 
 She had the first thorn in her fingers when Thilak lifted his head.
 
-He made no sound. He only turned the broken cup in his hands, once, the way he did when he scented a thing before it came into view. The net door moved. Not a push. A hand, laid flat and patient, and the door swung back a handspan, and then wide.
+He made no sound. He only turned the broken cup in his hands, once, the way he did when he scented a thing before it came into view. The net door moved. Not a push. A hand, laid flat, and the door swung back a handspan, and then wide.
 
 A woman stood in it with a writing case.
 
-She was not tall. She wore plain grey cotton, a plain wrap, and her hair was greying under a cloth. She was fifty-four. Neela knew the number as she knew the sum of a lock's pins. She knew the voice before the woman opened her mouth.
+She was not tall. She wore plain grey cotton, and her greying hair was tied under a cloth. Neela knew the voice before the woman opened her mouth.
 
 "May I come in? I would knock, but there is nothing to knock on."
 
 Behind her, a step back, with her sleeves pulled down, stood Usha.
 
-There were no soldiers. Neela looked past both of them, down the alley, to the roofs and the blank wall opposite. No green sash. No spear. Thilak's eyes found hers and asked a question with his whole boar's body. She gave him the smallest shake of her head, and he moved his bulk aside from the door.
+There were no soldiers. Neela looked past both of them, down the alley, to the roofs and the blank wall opposite. No green sash. No spear. Thilak's eyes found hers and asked a question with his whole boar's body. She gave the smallest shake of her head, and he moved his bulk aside from the door.
 
 The queen came in alone, and every door in the shed was open behind her.
 
@@ -3660,29 +3674,25 @@ The queen came in alone, and every door in the shed was open behind her.
 
 "No," she said, when Neela stood. "Sit. I've been walking since first light and I would like to do the same."
 
-She took the second crate. It was low, and she settled on it without fuss, her case across her knees. She looked at the racks of split fish and at the stripes of light. Her face was lined and kind, and tired in a way that had been earned a petition at a time.
+She took the second crate and set her case on the barrel between them. It sat a little crooked. She squared it to the barrel's rim with two fingers, and only then looked at the racks of split fish and the stripes of light. Her face was lined and kind, and tired in a way that had been earned a petition at a time.
 
 "You climbed in by the spray slot," Nirmala said. "My grandfather's masons left it. I've been meaning to ask them to close it for thirty years. I'm glad I never did."
 
 "You left the lock open."
 
-"I did." She did not look away. "I wished to see what you'd take, and what you'd leave. You took the thirty and left the petitions square. That told me more than a good many reports." She unlatched the case. "Usha, would you shut the net door? Thank you."
+"I did. Usha told me you were coming. I wished to see what you'd take, and what you'd leave. A shut lock would have been an answer too, and a worse one. You took the thirty and left the petitions square. That told me more than a good many reports." She unlatched the case. "Usha, would you shut the net door? Thank you."
 
-Usha shut it. She did not look at Neela.
+Usha shut it. Her hand stayed on the wood a moment, then went flat against the folded page in her cuff. She did not look at Neela.
 
 "You told her," Neela said.
 
-"Last night," Usha said. "After the lamp."
-
-"Why?"
-
-"Because you'd run thirty of us into rogue lives before the week was out." Her flat voice cracked at one corner. "Half of us hunted by crown and guild. I wanted you to see the rest before you read the first. And she asked me. She asked, Neela. Nobody has asked me a thing in eleven years."
+"The day I gave you the landing count," Usha said. "And last night, after the lamp, I told her what the shed had voted." Her flat voice cracked at one corner. "Because you'd run thirty of us into rogue lives before the week was out. Half of us hunted by crown and guild. I wanted you to see the rest before you read the first. And she asked me. She asked, Neela. Nobody has asked me a thing in eleven years."
 
 "That's what a leash does," Neela said. "It asks."
 
 "Yes," said the queen. "And I would like to ask you something, too."
 
-From the case she drew a leaf and laid it on the barrel between them.
+From the case she drew a leaf and laid it on the barrel.
 
 It was a fresh page. The paper was still the pale, stiff kind. The ink was black and tacky, and a fly had landed on one corner and could not get free. The hand was a quick slanting hand Neela had read twenty times over in a petition stack.
 
@@ -3690,27 +3700,41 @@ It was a fresh page. The paper was still the pale, stiff kind. The ink was black
 
 The word was there. Neela did not read past it.
 
-"I wrote it last night," Nirmala said. "In my own hand, after I had fed her tea and heard what she had done. It will never dry; resin-ink doesn't. It has taken, as you see." She laid a finger beside the line, not touching. "You carried away paper. You can't carry away what I saw."
+"I wrote it last night," Nirmala said. "In my own hand, after I had fed her tea and heard what the shed had decided. It will never dry; resin-ink doesn't. It has taken, as you see." She laid a finger beside the line, not touching. "You carried away paper. You can't carry away what I saw."
 
 Neela looked at it. The shed stopped being a shed.
 
 *A master who saw you turn can always write you again.* She had been twelve or thirteen. She had stood at the door of Chathu's room and watched him bend over a gnawed page, one that rats had been into, resin-ink blooming wet under his reed. *Kirri's,* he had said, not looking up. He had written it whole inside a quarter hour. Neela had walked away believing she had seen a kindness.
 
-And at the shelter, Kamalakshi had asked it straight, with Vellan's bird in her fingers: *Can anyone else ever hold me?* Neela had given her the rule word for word and heard it ring hollow. She had not liked how fast she said it.
+And at the shelter, Kamalakshi had asked it straight, with Vellan's bird in her fingers: *Can anyone else ever hold me?* Neela had given her the rule word for word and heard it ring hollow.
 
 Burn a page and the witness remained. A page was only the memory of a witness, set down in a form that could be read. Anyone who had stood and seen could write it out afresh.
 
 "The pages in the chest were only leaves," she said. Her mouth had gone dry. "You are the page."
 
-"I am the witness." Nirmala said it gently. "I saw every one of the thirty turn, the first time, in a room of mine. I held each hand. That cannot be stolen." She looked at the fly on the corner of the leaf. "I did not tell you in order to frighten you. I told you so that you would not walk out of here believing something that wasn't true."
+"I am the witness." Nirmala said it gently. "I saw every one of the thirty turn, the first time, in a room of mine. I held each hand. That cannot be stolen. I did not tell you in order to frighten you. I told you so that you would not walk out of here believing something that wasn't true."
 
-From the case, once more, she took a sheaf of leaves and set it on the barrel beside Usha's.
+The barrel shuddered under the leaf, a dull blow through wood and fish racks. The racks swayed. Dust sifted from the beams.
 
-They were forty. Neela knew them by their thickness. Black ink, a master's hand.
+The noon gun.
+
+Neela knew it at once, as she knew every count in her life. The thorn was in her fingers. Three beads on her thumb, and a man on a wall who would feel them clean. Her hand wanted to move. She kept it on her knee, still as a stone, and let the gun roll out over the harbour and die.
+
+The queen's eyes had flickered to the rack at the blow, and then to Neela's hands. Only that. A woman who read petitions for a living, reading a wrist.
+
+*Not here.* If she pricked in front of Nirmala, the queen would see exactly where the lever bit. Three welts, and a name that answered to them. She would learn that a thumb could reach Devan across a hill, and what it cost to leave it unpricked. Neela had chosen. She sat with the thorn between her fingers and let him wait.
+
+The queen took a sheaf from the case and set it beside Usha's page.
+
+There were forty leaves. Neela knew them by their thickness. Black ink, a master's hand.
 
 "Chathu's," the queen said. "I had him write at my table, four evenings. Your forty, from memory. He has a very good memory. He wept for the ones who died. He said he'd never had cause to forget a girl." She did not smile. "These are true pages, and true pages hold. Your forty are mine too, whenever I choose."
 
-Something snagged. Neela saw a cell under the palace rock, and a man's fingertips stained dry grey-brown from common ink. She saw a steward's list of forty names with blanks, and a man who had not answered it. The pictures would not lie flat against the black leaves in front of her. She reached for the thought and the queen's calm voice went on over it, patient, and it slid away.
+Something snagged. Neela saw a cell under the palace rock, and a man's fingertips stained dry grey-brown from common ink. She saw a steward's list of forty names with blanks, and a man who had not answered it. The pictures would not lie flat against the black leaves in front of her.
+
+The question formed. *How, with a reed and a pot of grey ink?* She had it on her tongue.
+
+She closed her mouth on it. To ask was to tell the queen what she was checking, and which thread she had her fingers on. A woman who watched wrists would watch that too. Neela folded the question small and put it away where she kept the things she meant to come back for.
 
 
 ::: {.scene-break}
@@ -3718,25 +3742,19 @@ Something snagged. Neela saw a cell under the palace rock, and a man's fingertip
 :::
 
 
-Neela did not move.
-
 *Whenever I choose.* The words went into her like the hook, and caught, and she breathed through her nose.
 
 "You'll say it at night," she said. "To cage them."
 
 "I will not." The queen's mouth tightened, and for a moment she looked her age. "I have not caged a single one of my own in thirty years, and I will tell you what it cost me not to. But I would be lying if I said I could not. You'd know I was lying, and I don't wish to start that way."
 
-"Why does it matter, what I think?"
+"What do you want?"
 
-"Because I want something from you." Nirmala sat back. "I'll say it plainly, and then you will want to know why I have sat in a fish shed to say it."
-
-Neela waited. Her hands were cold.
-
-"The folded bird," the queen said. "You've seen it. You have a tally book in your wrap. You've been trying for a month to learn whose leave."
+"I'll say it plainly." Nirmala sat back. "The folded bird. You've seen it. You have a tally book in your wrap. You've been trying for a month to learn whose leave."
 
 "Yours."
 
-"Mine." No shame in it, and no pride either. "Spread for what the realm sees. Folded for what it needn't." She raised one hand, wings flat. Folded it. "I keep a private hand. Everyone who rules does. You'd have found it sooner or later, and I would rather you heard it from me than from a clerk with a reason."
+"Mine." No shame in it, and no pride either. She raised one hand, wings flat. Folded it. "Spread for what the realm sees. Folded for what it needn't. I keep a private hand. Everyone who rules does. You'd have found it sooner or later, and I would rather you heard it from me than from a clerk with a reason."
 
 *Whose leave. By leave.* A boat crossing a bar at slack water without a pilot. A man in grey counting children. Neela waited for the rest to come, and the queen watched it not come, and did not offer it.
 
@@ -3758,11 +3776,11 @@ It was the way she said the last of it. *Mine.* It came out of a warm, tired mou
 
 "They've landed."
 
-"They have." The queen's eyes did not change. "And I have kept a promise to my own people, which I may not break. You will want to ask about it. Not today."
+"They have." The queen's eyes did not change. "And I have made a promise to my own people which I may not break. You will want to ask about it. Not today."
 
-Neela turned the words over, and one stuck.
+Neela took up the fresh page by its dry edge and held it before her, and did not lower it. One thing stuck.
 
-"There's a better way," she said. "I know it. I've done it. An odiyan says her own shape, aloud, in her own voice, to one person she chooses, at the dusk turning. It voids every other witness. Every one. You. Chathu. The room. After that nobody can cage her without her. It's the only way to be free of all of you at once."
+"There's a better way," she said. "I know it. I've done it. An odiyan says her own shape, aloud, in her own voice, to one person she chooses, at the dusk turning. It voids every other witness. You. Chathu. The room. After that nobody can cage her without her. It's the only way to be free of all of you at once."
 
 "I know." The queen's voice was very quiet. "I have known it for nine days. Usha told me what a ledger page does when it burns by itself."
 
@@ -3772,41 +3790,39 @@ Neela turned the words over, and one stuck.
 
 It was not a taunt. It was a question put, patiently, to a woman who had been paying the cost since a night at the Resin House with a bleeding wrist.
 
-"You'll have thirty pairs," Nirmala said. "Thirty odiyans each bound to a chosen person, and each pair feeling every wound the other takes. A spear in a night-guard's thigh is a spear in her husband's thigh, her sister's. They bleed for each other for life. And every one of them marked rogue, because the guild cannot vouch for a page that has burned. Your Company will be the freest knives in Varanad, and also the most precious, because every blade has a heart in the shape of a wound. You'll have made them precious, and precious knives don't win wars."
+"You'll have thirty pairs," Nirmala said. "Thirty odiyans each bound to a chosen person, and each pair feeling every wound the other takes. A spear in a night-guard's thigh is a spear in her husband's thigh, her sister's. And every one of them marked rogue, because the guild cannot vouch for a page that has burned. Your Company will be the freest knives in Varanad, and also the most precious, because every blade has a heart in the shape of a wound. You'll have made them precious, and precious knives don't win wars."
 
 Neela didn't answer.
 
 "I'm not saying it to wound you," Nirmala said. "I'm saying it because I've watched what a wall does to a man whose wife stands on the other side of it. I would not like to watch it thirty times."
 
-*A thumb. Three welts, an hour late.* Neela had sat on a cliff path with her split tongue against the pad of it, and for some time she had not been a woman who needed anything.
+*A thumb. Three welts, an hour late.* Neela had sat on a cliff path with her split tongue against the pad of it, and for some time she had not needed anything.
 
-She had told herself it was freedom. Freedom was belonging to no one. She had said it to Ammu at fourteen, and to Chathu in a locked room, and to a man on a rampart in the dusk with resin on her wrists. She had meant it as armour.
-
-And the only time in twenty-seven years she had not been owned, she had been tied to a man by a wound that opened when he cut his chin shaving.
+Freedom was belonging to no one. She had said it to Ammu, to Chathu, to a man on a rampart with resin on her wrists. She had meant it as armour. And the only time in twenty-seven years she had not been owned, she had been tied to a man by a wound that opened when he cut his chin shaving.
 
 *The only freedom I have ever had,* she thought, *is the one that bleeds when he does.*
 
-She would not know how to say it. She did not say it.
+She did not say it.
 
-"You've not yet asked about him," Nirmala said, "and you have asked about nothing else with your eyes. So I will say it. A rider leaves the Salt Gate for Kettamala at dusk with the same offer in my hand. Three hundred crown spears for the pass, and the fort given back. If his wife takes command. If she does not, the rider turns round."
+"You've not yet asked about him," Nirmala said, "and you have asked about nothing else with your hands. So I will say it. A rider leaves the Salt Gate for Kettamala at dusk with the same offer in my hand. Three hundred crown spears for the pass, and the fort given back. If his wife takes command. If she does not, the rider turns round."
 
-Neela's hands, in her lap, closed.
+Neela's hands closed on the page.
 
 "He will have it before you do," the queen said. "I thought you would rather know."
 
 "You've priced him."
 
-"I've priced his old office. Which is not the same as pricing him, and you know it. But I'll own it's a lever, and I won't pretend otherwise." The queen's tired face was gentle. "It is a hard thing, to hold a lever on a person one respects. I would not have done it to a stranger."
+"I've priced his old office. Which is not the same as pricing him, and you know it. But I'll own it's a lever. It is a hard thing, to hold a lever on a person one respects. I would not have done it to a stranger."
 
-*He'll get a letter that says his house for my answer. And I can't answer before the rider does.* She had no right to decide his life, and no right to let someone else decide it either. His fort. His father's seal on a nail. Raiu's pyre. A garrison who had saluted him fist by fist at the gate.
+*He'll get a letter that says his house for my answer. And I can't answer before the rider does.* She had no right to decide his life, and no right to let someone else decide it either. His fort. His father's seal on a nail. Raiu's pyre. A garrison who had saluted him fist by fist as he walked out of the hall.
 
 If she said yes, she bought it for him. If she said no, she kept it from him, and he would never have asked her to.
 
 "I want time," she said.
 
-"You'll have it. Until the pass." Nirmala stood, and the crate scraped, and she was a plain woman with a case in her hand. "You'll be going north to him, and I will be sending what I send. Answer me there. Not before, if you'd rather. I won't ask twice."
+"You'll have it. Until the pass." Nirmala stood, and the crate scraped, and she was a plain woman with a case in her hand. "You'll be going north to him, and I will be sending what I send. Answer me there. I won't ask twice."
 
-She took up the leaf with Usha's name on it, and blew once across the tacky ink. Then she laid it on top of the forty on the barrel and left them both there.
+She took the fresh page gently out of Neela's hand, blew once across the tacky ink, and laid it on top of the forty on the barrel.
 
 "Keep them," she said. "A witness who tells you what she holds is one you can bargain with. The other kind does not tell."
 
@@ -3824,19 +3840,15 @@ She went out. Usha went after her without looking back.
 
 Thilak shut the door.
 
-Neela sat very still. The light on the barrel was white now, high, falling straight down through the slats. Two stacks of pages lay before her, and the fly in the corner of one leaf had stopped moving.
+Neela sat very still. The light on the barrel had gone from white to gold. Far off, over the roofs, the harbour tower rang the long bell that turned the water-clock. The queen's audience would have ended with it. The hour was gone, and Nirmala had spent all of it in this shed, in a room that held no more petitions than a widow's cup.
 
-*Noon.*
+*She sat the whole hour on my crate.* Neela went cold. It had not been courtesy. A queen who gave away her noon had made sure there was no thumb to prick.
 
-Counting was the one habit that never left her. She went back over the last quarter hour and found where the count had broken: the gun had gone, a dull blow through the rock and the racks, and she had not felt it. Somewhere between *May I come in* and *a lever, and I won't pretend otherwise*, the harbour tower had fired and she had been sitting with a thorn in her fingers.
+Her hand opened. The thorn lay in her palm. The pad of her thumb was smooth.
 
-Her hand opened on it. The pad of her thumb was smooth.
+Yesterday she had signalled early. Today she was an hour late, and there was no word. He would sit on a wall or a ladder rung with a stitched side and listen for a pain that was not his own, and hear nothing, and know what nothing could mean. She had chosen that, with her hand on her knee. She had paid for the queen's blindness with his hour.
 
-The gun had come and gone without her.
-
-A day behind, she had pricked early. Now late, the gun a quarter hour gone, and no word. And he would sit on a wall or a ladder rung with a stitched side and listen for a pain that was not his own, and hear nothing, and know what nothing could mean.
-
-She took the thorns out of her sash. Three, in a row. She put the point to her thumb and pressed.
+She put the point of the thorn to her thumb and pressed.
 
 One. Two. Three.
 
@@ -3994,7 +4006,7 @@ Vellan sat in the lee of the wall, on a flat stone near Thulasi's blanket. The b
 
 "Who?"
 
-"The Company. Who they'd name, if they named. It's the sally. All that talk of shared wounds, and Neela's welts on your thumb, and who you'd trust to carry yours." The knife took a curl of wood. "Kuttu asked me."
+"The Company. Who they'd name, if they named. It's the sally. All that talk of shared wounds, and Neela's welts on your thumb, and who you'd trust to carry yours." The knife took a curl of wood. "Thulasi asked me."
 
 "What did you say?"
 
@@ -4066,17 +4078,17 @@ She said it to the road ahead, not to anyone. The road was red dust, a day north
 
 "Nobody's saying small," said Sanu.
 
-"You are. Every time you open your mouth." Lata rode with her back straight and her cuffs buttoned to the knuckle. She was Third Guard, the one who had refused her page in the fish shed and would take it only from the queen's hand. She had come anyway. She had been at the Salt Gate at dusk with a horse and no explanation. "A vouched name. A roof with a lamp in it. No hunter on the road who may lay a hand on you. Thirty years she hasn't caged one of us. Tell me what the hill has given you that matches that."
+"You are. Every time you open your mouth." Lata rode with her back straight and her cuffs buttoned to the knuckle. She was Third Guard, the one who had refused her page in the fish shed and would take it only from the queen's hand. She had come anyway. She had been at the Salt Gate at dusk with a horse and no explanation, in the place of a man who had said yes in the shed and been kept back at the palace. "A vouched name. A roof with a lamp in it. No hunter on the road who may lay a hand on you. Twenty years she hasn't caged one of us. Tell me what the hill has given you that matches that."
 
 "It gave me a brother," Sanu said.
 
 Nobody answered. The hooves went on. Neela knew the rest of it, because she had read it aloud at dawn four days back, in a shed that smelled of brine. Sajan's leaf had come ninth. *Pallikara, a tailor's son, sold at nine, one brother younger, sold at seven.* Sanu had been standing by the door. Both men had gone the colour of ash, and neither had spoken until the shed emptied.
 
-"He hasn't said yes," Sanu said now, lower. "I know he hasn't. I only want to be asked what I'd do with the yes."
+"Nineteen years in the queen's keeping," Sanu said now, lower, "and I never knew I had one. He hasn't said yes. I know he hasn't. I only want to be asked what I'd do with the yes."
 
 "Then ask him," said Lata.
 
-"I've asked him. He says he'd bleed for me and he'd rather not." Sanu laughed, a short wrecked sound. "That's the nicest thing he's said to me in twenty years. I think he meant it kindly."
+"I've asked him. He says he'd bleed for me and he'd rather not." Sanu laughed, a short wrecked sound. "It's the first thing he's said to me that wasn't *pass the salt*. I think he meant it kindly."
 
 Sajan, riding twenty paces back, kept his eyes on his horse's ears. Neela did not turn her head.
 
@@ -4114,23 +4126,23 @@ Against her saddle, under the flap, lay Chathu's tin. She had taken it from the 
 :::
 
 
-They made camp in a dry grove off the road on the third night, under teak trees with the leaves gone leathery and brown. Nobody smeared. It had been Devan's last order before she left, and the Company had carried it out of the shelter on its back. The air went blue and the stars came on over the hill road. Twenty-eight odiyans and guards sat round a small fire in their own skins.
+They made camp in a dry grove off the road on the third night, under teak trees with the leaves gone leathery and brown. Nobody smeared. It was Devan's standing order on the road, and the Company had carried it out of the shelter on its back. The air went blue and the stars came on over the hill road. Twenty-eight odiyans and guards sat round a small fire in their own skins.
 
 Neela walked to the stream with her cloth and her kit and a bar of the brown soap Pavi had bought from a tinker.
 
 For five days she had worn a green starched cuff and a throat paste of lime and ochre. It had dried chalky and cracked when she swallowed. She knelt by the water and began to wash it off. The paste came away in grey ropes, and the water took it, and under it lay the scars.
 
-She heard them come up behind her. She had known they would.
+Boots scuffed the gravel behind her. She had known they would come.
 
-She did not turn. She scrubbed until the skin stung. She undid the cuffs and rolled them back, the green cotton, the wedding bangle under the left one, and laid her wrists on her knees with the palms up. Throat. Wrists. The pale thick ridges, layered over each other like a tree's rings. Eleven years' worth.
+She did not turn, but scrubbed until the skin stung. Then she undid the cuffs and rolled them back, the green cotton, the wedding bangle under the left one, and laid her wrists on her knees with the palms up. Throat. Wrists. The pale thick ridges, layered over each other like a tree's rings. Eleven years' worth.
 
-Then she stood and walked back to the fire and sat down in the light with every inch of it showing.
+Then she stood, walked back to the fire and sat down in the light with every inch of it showing.
 
 Nobody spoke. The queen's guards were pared smooth at the wrist and painted at the neck. A surgeon had taken their scars once a season, and they'd learned to think of it as care. Sanu looked at his own cuff, and then at hers.
 
 "Does it hurt?" he said. "The real kind. Still."
 
-"The burn's the first night. After that it's the morning." She turned her wrist to the fire. "I don't hide mine. I'm not telling you not to. I just want you to see what it looks like when you leave it."
+"The burn's the first night. After that it's the morning." Neela turned her wrist to the fire. "I don't hide mine. I'm not telling you not to. I just want you to see what it looks like when you leave it."
 
 "A question for a question?" Kuttu said.
 
@@ -4170,21 +4182,27 @@ Later, when the others slept, Kuttu sat with her on the stream bank. He didn't a
 
 She did not know she was humming until he went quiet to listen.
 
-It was the old tune. Ammu's, the fishing song she'd hummed at nine and twelve and twenty-four, when her hands were busy and her head was not. It had no tidy words. Neela had made up the half she didn't know.
+It was the old tune, the fishing song Ammu had hummed when her hands were busy and her head was not. It had no tidy words. Neela had made up the half she didn't know.
 
 "Pull and pull," she sang, under her breath. "The tide is coming in."
 
 "I know that one," Kuttu said. "My father's ferry crew sang it. Different tune." He hummed his version, flat, slower. "Where'd you get it?"
 
-"From someone who heard it at a net-mender's knee." She stopped. *A net-mender behind the sheds,* Ammu had always said, *taught us both the hitch.* There had been no net-mender behind the sheds. There had been Ammini, a net-mender of Nellimala, and her hands, which Neela's fingers had carried up the goat path without her. Maybe a girl of seven had tied it for a smaller girl, and Ammu had never had the heart to say whose knot it was.
+"From Ammu. She never said where she'd had it."
+
+"Well, it's gone a long way."
+
+Her hands had been busy while she hummed. She looked down. A strip of cloth hem lay knotted round her finger, and the knot was the double hitch, tied without a thought. *Like the hitch.* Ammu had always said a net-mender behind the sheds taught them both. There had been no net-mender behind the sheds. Neela had stood in Nellimala's footings and heard a name, Ammini, a net-mender, and her mother's hands were in her own. Maybe a girl of seven had tied it for a smaller girl, and Ammu had never had the heart to say whose knot it was.
 
 She sat with that, and then with the other thing it knocked loose.
 
-Three short yips. A pause. One long rising note. *Tomorrow, I will find you.* She had heard it a hundred times as a child, from a girl with a gap in her teeth. She had heard it a last time in the Resin House yard, from a jackal's throat, the dusk Ammu drew Vellan and the hunters off. Neela had stood there in shape and could not answer.
+Three short yips. A pause. One long rising note. *Tomorrow, I will find you.* She had heard it a hundred times as a child, from a girl with a gap in her teeth. She had heard it the dawn after the fever, lying in shape behind Devan's curtain, while Ammu cried it from the spur. The stone had been empty, the cup bare. Ammu could have carried that straight to Chathu. She had not. She had called, and waited at an inn for three weeks, and told no one.
 
-She had always taken it for a goodbye. A promise Ammu had broken because she died.
+She had heard it once more in the Resin House yard, from a jackal's throat, before Ammu drew Vellan and the hunters off. Neela had stood there in shape and could not answer.
 
-But Ammu had given it on the nights Neela went off alone to settle something that was not hers alone. The stone empty, the cup bare, and that thin cry from the spur. It had never meant *I'll arrive.* It had meant *don't decide without me.*
+She had always taken that last cry for a goodbye. A promise Ammu had broken because she died.
+
+But it had been the same cry as the fever dawn. Ammu had given it on the nights Neela went off alone to settle something that was not hers alone. The stone empty, the cup bare, and that thin call from the spur. It had never meant *I'll arrive.* It had meant *don't decide without me.* In the yard, with Chathu's hunters closing, it had been the last time she said it. She had said it to a leopard who could not answer, and then she had gone to do the thing alone.
 
 "What?" said Kuttu.
 
@@ -4202,7 +4220,7 @@ And Devan would have a voice among theirs. He had said so himself, in the shelte
 
 She was afraid of it.
 
-She had watched him do it the morning the hands sent her south. He had put a river pebble in his cheek before the count, so that whatever he felt would stay behind his teeth until the last hand was up. Then he had said *yes* to the result. One flat word, level and careful, for the pass, for Kesu's people, for a boy in a red headcloth. He had said it the way a man shuts a gate on his own fingers and keeps his face still. She had not been able to tell what it cost him. She had only seen that he could pay it.
+She had watched him do it the morning the hands sent her south. He had put a river pebble in his cheek before the count, so that whatever he felt would stay behind his teeth until the last hand was up. Then he had said *yes* to the result. One flat word, level and careful, for the pass, for Kesu's people, for the goat-boy at the fort. He had said it the way a man shuts a gate on his own fingers and keeps his face still. She had not been able to tell what it cost him. She had only seen that he could pay it.
 
 That voice would say yes to the queen. Or a no said for her sake, so that she'd never know whether she had wanted him to say yes. Either way he would say it gently, and she would have to stand there and hear it.
 
@@ -4214,7 +4232,7 @@ She fell asleep counting the stars she could name, and she knew only four.
 :::
 
 
-They climbed the last day without stopping. The road bent west, steepened, and went to stones. By afternoon the langurs had gone silent on the cliff faces, and she did not need Thilak to say what that meant. Strangers on the road. The Thurai, or the hunger of them.
+They climbed the last day without stopping. The road bent west, steepened, and went to stones. By afternoon the langurs had gone silent on the cliff faces, and she did not need Thilak to say what that meant. Strangers on the road. Thurai scouts, or the people running from them.
 
 Nobody sang. Even Lata rode without a word. They went up through thorn and scree, up past the lightning-split boulder where the goat path left the cart road, and Neela knew the place without a map, and for once did not wonder why. She did not slow.
 
@@ -4224,7 +4242,7 @@ Below them, past a long fall of rock, the cut lay in its own blue shadow. A thre
 
 She gathered the reins.
 
-The first sting came in her left palm. It was like a bee, small and bright. She ignored it. Then the right went, and the ones that followed were not stings. Heat rose under her skin, across the pad of each hand, along the base of each finger, slow and then fast. She looked down. The leather of the reins had not changed. The skin under it was lifting, white, in two bubbles the size of a thumbprint, and then in four.
+The first sting came in her left palm, small and bright as a bee's. She ignored it. Then the right went, and the ones that followed were not stings. Heat rose under her skin, across the pad of each hand, along the base of each finger, slow and then fast. She looked down. The leather of the reins had not changed. The skin under it was lifting, white, in two bubbles the size of a thumbprint, and then in four.
 
 She did not cry out. She made a sound in her throat and her horse tossed its head.
 
@@ -4384,7 +4402,7 @@ His eyes opened. "I'd have waited longer."
 
 "You did right."
 
-"I know. I hated it." She wiped the salve from her fingers on the cloth. "I pricked a quarter hour late, once she'd gone. Two noons on, I was on a post-horse at a gallop and couldn't loose a hand from the rein. You'd have stood on the shelf with a sheaf of arrows and a thumb that did nothing. I knew that, and I rode on."
+"I know. I hated it." She wiped the salve from her fingers on the cloth. "I pricked an hour late, once she'd gone. Two noons on, I was on a post-horse at a gallop and couldn't loose a hand from the rein. You'd have stood on the shelf with a sheaf of arrows and a thumb that did nothing. I knew that, and I rode on."
 
 "It did nothing," Devan said, "and I counted the arrows three times." His mouth twitched. "Muthu says I'm the worst liar he's ever known when I'm worried."
 
@@ -4510,7 +4528,7 @@ Kuttu didn't stand. He crossed the court to the gate arch, where Bhaskaran stood
 
 Kamalakshi was on her feet before the murmur finished. She turned in a slow circle, taking in the whole court. "No," she said. "Not you, or you, or you. I've been looked at by enough people who could do something about it. I'll look at myself." She sat down, and from somewhere near the wall came a short, cracked laugh that might have been hers.
 
-Vellan sat in the doorway with his knife and a scrap of pale wood. He did not lift his head. "No," he said. "I told the lad once."
+Vellan sat in the doorway with his knife and a scrap of pale wood. He did not lift his head. "No," he said. "I told the girl once."
 
 Sanu was watching Sajan. Sajan put one hand on his brother's shoulder and said nothing, which was not a yes, and was not a no. Sanu looked at the hand as if it were a letter.
 
@@ -4638,11 +4656,7 @@ She counted the doors. Two. The little one by the hearth made three.
 
 The council had run until the lamps burned low. Nobody would answer the queen until the queen had spoken in the open, at the gate, with the Company standing where she could see them. No vote on her offer had been taken. It was a delay. It was also a door held ajar. Dusk had come with the old pull at her throat, ten counts of burn in the scars, and gone. She was human. The ache would count the night against her. She let it.
 
-Devan set the lamp on the table. Then he went to the pack hanging on the peg and took out an oilcloth bundle tied with red thread.
-
-"I carried it up a hill and down again," he said. "It can sleep one night where we hid it."
-
-He knelt at the third shutter and pressed the housing of the slat. A piece of the frame swung in on a hidden pin, no wider than a hand. He laid the bundle in the hollow and closed it, and the slat gave its small dry creak under his thumb.
+Devan took the oilcloth bundle from his pack and carried it to the third shutter. She heard the dry creak of the slat, the small knock of the hollow opening and closing. He hung the empty pack on its peg and set the lamp on the table. The stitches pulled when he reached. She saw him hide the wince.
 
 "Sit," she said. "Please. I'd like to say a thing before I lose it."
 
@@ -4652,7 +4666,7 @@ He sat on the edge of the bed. She stayed standing, because the telling wanted h
 
 He said nothing. He watched her and waited, and the waiting let her go on.
 
-"In the fish shed. She sat on a crate among the racks and asked if she might come in, because there was nothing to knock on. She was kind about it. She offered me thirty knives with no pages on them and a roof with no number on it, and I stood there and wanted it the way I want water after a turning." She heard her voice go flat and let it. "Command, Devan. Nobody over me. And nobody looking. That's the part I'm ashamed of. I could have been unseen again. No one with power over me who'd chosen not to use it, only a quiet house where no one could. Twenty-one years I answered to a number. It was safe. I missed it for an hour, and I hated that I missed it, and I came home and put my hand to the thorns and I still missed it."
+"In the fish shed. She sat on a crate among the racks and asked if she might come in, because there was nothing to knock on. She was kind about it. She offered me thirty knives with no pages on them and a roof with no number on it, and I stood there and wanted it the way I want water after a turning." She heard her voice go flat and let it. "Command, Devan. Nobody over me. And nobody looking. That's the part I'm ashamed of. I could have been unseen again. Twenty-one years I answered to a number. It was safe. I missed it for an hour, and I hated that I missed it, and I came home and put my hand to the thorns and I still missed it."
 
 "Is it gone?"
 
@@ -4662,11 +4676,11 @@ He did not tell her it was nothing. He reached out and turned one of her bound h
 
 "Thank you for telling me," he said. "I won't make it smaller than it is."
 
-It was what she had needed, and nobody had ever said it to her.
+She had to look at the lamp for a moment.
 
 "Now you," she said. "I know the answer you gave the queen. I don't know the one you gave yourself."
 
-His jaw worked. He looked at the lamp.
+His jaw worked. He looked at the flame.
 
 "Muthu asked me on the shelf if it hurt," he said. "To refuse her. I said no. That was a lie, and he knew, and he let me have it." He drew breath. "It hurt more than I let him see. Her letter said *Kettamala restored,* and I stood on the shelf and smelled the pepper coming down the cut and I wanted it back. All of it. My father's chair. Asha's door. The shutters open for the air, the way he kept them. I wrote my refusal on the lid of an arrow cart, and my hand didn't shake, and then I went and hit a post for an hour."
 
@@ -4682,23 +4696,15 @@ She sat down beside him, close enough that the bed gave under them. "That one's 
 
 He laughed. It came out short and cracked, and it startled him. She leaned into his shoulder and felt it in her own ribs.
 
-"I won't take the command," she said. "That's settled. But I won't refuse it in a corner either, the way I'd refuse a tin of sweets. She hears my reasons in the open, with the Company standing there. If she's wrong, she can be wrong where people hear."
-
-"And if she's right?"
-
-"Then I'll say that too."
-
-He nodded slowly. It was a smaller thing than a vow, and it settled in her like one.
-
 
 ::: {.scene-break}
 \* \* \*
 :::
 
 
-She did not remember who moved first. She remembered undoing the strips of hem from her own hands, one wrap at a time, and his hands taking over when her fingers fumbled. The raw skin of her palms shone in the lamp. His matched it. He turned them side by side and studied the pair for a long moment.
+She did not remember who moved first. She remembered undoing the strips of hem from her own hands, one wrap at a time, and his hands taking over when her fingers fumbled. The raw skin of her palms shone in the lamp. His matched it. He turned them side by side and studied the pair.
 
-"I'm twenty-seven," she said, because she liked to say it plainly, and because it felt like part of the asking. "You're thirty-two. We're both grown, and nobody here is paying for either of us."
+"I'm twenty-seven," she said, because she liked to say it plainly, and because it was part of the asking. "You're thirty-two. We're both grown, and nobody here is paying for either of us."
 
 "No one." His voice had gone low. "Neela, if you want to stop, you say. Any time. No reason."
 
@@ -4712,15 +4718,15 @@ He took a breath that shook. "I'll look."
 
 "Then do."
 
-His hands came to her face first, careful of the blisters, and he kissed her like a man learning a path. She pulled at his shirt. He lifted his arms so she could drag it over his head, and the lamp showed her what the shelf had cost him. The long ladder-hook cut across his back, dressed and still pulling. On his right ribs, nine stitches of waxed silk, black and fresh, the skin round them angry. Beside them ran the old white seam from the ford.
+His hands came to her face first, careful of the blisters, and he kissed her like a man learning a path. She pulled at his shirt. He lifted his arms so she could drag it over his head, and the flame showed her what the shelf had cost him. The long ladder-hook cut across his back, dressed and still pulling. On his right ribs, nine stitches of waxed silk, black and fresh, the skin round them angry. Beside them ran the old white seam from the ford.
 
-She put her mouth to the old seam first. Then, slowly, past the stitches, as lightly as she could manage. The ache came anyway, a dull hot line under her own right arm, where the same hook had torn her in a room in Kodiyur. It lay along her ribs like a held note. He made a sound she felt in her chest.
+She put her mouth to the old seam first. Then, slowly, past the stitches, as lightly as she could manage. The ache came anyway, a dull hot line under her own right arm, where the same hook had torn her in a room in Kodiyur. He made a sound she felt in her chest.
 
 "Does it hurt?" he said.
 
 "Both of us. Don't stop."
 
-"I won't." His voice was rough. "Tell me if it's too much."
+"I won't. Tell me if it's too much."
 
 When he bared her throat, he stopped. The scars lay there, pale ridges under the lamplight. He looked at them the way he looked at the pass from the wall, and then he put his lips to each in turn. She had once let a man see them as a lie. She let him see them now as a fact, and she did not look away.
 
@@ -4728,15 +4734,15 @@ When he bared her throat, he stopped. The scars lay there, pale ridges under the
 
 "I am."
 
-He was. His eyes did not leave her face as he laid her back on the bed that had held the worst night of her life and the best. His hand went under her mundu, slow, a question, and she answered it with her whole body. She reached for him, blistered palms and all, and the burn of her own hands bloomed across his skin at the same moment, and he gasped. Then warmth came through it. The wound-share carried that too, she had learned: a heat in her that she felt twice, once in herself and once in his shoulders, bright and shared.
+He was. His eyes stayed on her face as he laid her back on the bed that had held the worst night of her life and the best. His hand went under her mundu, slow, a question, and she answered it with her whole body. She reached for him, blistered palms and all, and the burn of her own hands bloomed across his skin at the same moment, and he gasped. Then warmth came through it. The wound-share carried that too, she had learned: a heat she felt twice, once in herself and once in his shoulders, bright and shared.
 
-"You feel that," he said, roughly.
-
-"Both ways."
+"You feel that," he said, low.
 
 "Both ways."
 
-It slowed after that. He moved above her, and the lamp showed her his face, the grey in his hair, the line between his brows, which eased and came back and eased. She watched him watch her. She did not close her eyes. When the pleasure rose in her it rose in her face, open, helpless, undefended, and he saw it. She felt him see it.
+"Both ways."
+
+It slowed after that. He moved above her, and she saw his face: the grey in his hair, the line between his brows, which eased and came back and eased. She watched him watch her. She did not close her eyes. When the pleasure rose in her it rose in her face, open, helpless, undefended, and he saw it. She felt him see it.
 
 She said his name. He said hers. Not the number. Not the cover. Her own, the one she had chosen, with the other one folded behind it and still unsaid.
 
@@ -4748,7 +4754,7 @@ The bed creaked under them. The slat did not.
 :::
 
 
-Afterwards she lay with her head on his good side and the lamp burning down. Her palms ached, pleasantly now. His breathing slowed, and she counted it, as she had counted it for forty nights without telling anyone why.
+Afterwards she lay with her head on his good side and the lamp burning down. His breathing slowed, and she counted it, as she had since the first week of her marriage, and only lately told him why.
 
 One, two. The hitch came a third of the way through the long count, soft and sure. She counted again to be sure, and it came again.
 
@@ -4760,7 +4766,29 @@ One, two. The hitch came a third of the way through the long count, soft and sur
 
 "It's always right."
 
-On the sill by the shutters sat a grey river pebble in the dust, exactly where he had left it. Muthu had not moved it. Janu had cleaned the sill around it. She looked at it a long time in the thin, steady light.
+On the sill by the shutters sat a grey river pebble in the dust, exactly where he had left it. Muthu had not moved it. Janu had cleaned the sill around it.
+
+"You looked the whole time," she said.
+
+"You asked me to."
+
+"I know." She lifted her free hand to her throat and laid two fingers on the ridged scars, pressing, the way she would press a bruise to learn if it was still there. Skin. Pulse. The old pale ridges. Nothing missing. "I don't want her roof."
+
+He did not stir. "You said that to the Company."
+
+"I gave the Company reasons. This is the one under them." She turned her head to see his face. "But I won't refuse her in a corner, the way I'd turn down a tin of sweets. She hears my no at the gate, in the open, with the Company standing there."
+
+"And the writ?"
+
+"After." She said it before she could soften it. "You read it after I've refused. Not before. If she hears her own wax first, she'll answer that and never hear me. I want her to hear my no while she still thinks I might say yes."
+
+His hand stopped in her hair. "That costs me the first word."
+
+"Yes."
+
+"She'll have the whole courtyard's ear before I've opened my mouth." He said it plainly, as he said everything, and she waited for the rest. "All right. It's yours to spend first. I'll wait."
+
+It was a smaller thing than a vow, and it settled in her like one.
 
 She slept.
 
@@ -4774,25 +4802,39 @@ She woke before the first clank of the chain. The lamp had burned out. Grey ligh
 
 Then she got up, wrapped a cloth around her, and went to the third shutter on bare feet.
 
-The housing gave under her thumb with its dry creak. He did not stir. The hollow opened.
+The housing of the slat gave under her thumb with its dry creak. He did not stir. A piece of the frame swung in on its hidden pin, and the hollow behind the third slat opened, no wider than a hand.
 
-Inside, the oilcloth bundle lay where he had put it. She untied the red thread with fingers that no longer shook. The hide strip of the contract chit, with the warden's chamber and *death by beast* in a hand she knew. The payment writ, folded small, dated seven weeks before her wedding. And the gift seal, cut from the sandalwood box, green wax with a sunbird and a small chip at the left wing.
-
-She laid the three side by side on the sill, next to the pebble. In the grey they looked small. A hide strip. A folded paper. A piece of wax. Raiu had died of the first. Ammu had died of what came after. She did not think the queen knew what they weighed. She thought she knew exactly.
+The oilcloth bundle lay inside, tied with its red thread, just as he had left it. She untied it. The hide strip of the contract chit lay on top, with the warden's chamber and *death by beast* in a hand she knew. Beside it, folded small, was the payment writ, dated seven weeks before her wedding, under the queen's green wax, the sunbird with its chipped wing. Last lay the gift seal cut from the sandalwood box. The chit had killed Raiu. The writ had paid for Ammu's death, and for what came after. In the grey they looked very small.
 
 "It's all there," Devan said behind her.
 
 She had not heard him wake. He was propped on one elbow, hair on end, his eyes already clear.
 
-"You can't leave a bundle in a wall and expect me not to count it."
+"I counted it last night," he said. "I'll count it again when I take it down."
 
-"I'd have been disappointed." He sat up, and she saw him catch his breath at the stitches. "She comes at noon."
+He sat up, and she saw him catch his breath at the stitches. He did not go to the hollow. He knelt and drew the carved box from under the bed, and lifted out a paper gone soft as cloth along its folds.
 
-"With three hundred spears." She did not turn from the sill. "What do they do, Devan, when their queen is named a murderer at her own gate?"
+"Before I touch that writ, I owe you something." His voice had gone careful. "In Asha's room, the day you asked if the notes were hers, I told you I'd found her last one. I didn't say what was on it. I let you think it was a line about sparring."
 
-He did not reach for comfort. He was quiet, and then he gave her the answer as he gave her everything, flat and whole.
+"I remember."
 
-"I don't know. Here's what I do know. Three hundred, under captains of her household who have never met me. On our side, ninety-eight. Forty-two odiyans, now the six are back from Kodiyur. Twenty-two of her own riders, who may not hold when she's named. Forty garrison volunteers. That's a hundred and four, less six in the ground: Biju, Sankaran, Chami, Rajan and two more. Fourteen hundred Thurai wait on the far side of the cut. If one captain lifts a spear when I finish reading, we fight at our own gate with the host at our backs, and we lose the pass. If none lifts, I've still named her a murderer in front of the only men who can hold the cut beside us. Some of them will not forgive me. Some will go home."
+"It wasn't." He unfolded it. His thumb rested on the barred sevens in her date. "She wrote this the week she found the first token. I've kept it since the day we opened her chest, and read it to nobody." He read it plainly, because he had told her once he would hide nothing. "*If you're reading this, I was right, and it's ugly. Say it anyway. The truth protects whoever finds it.*"
+
+The chain clanked the first hour. Neither of them moved.
+
+"I kept it back because it asked something of me," he said. "I wasn't ready to be asked."
+
+She did not take it from him. She laid her bare hand over his, over the paper, and held it there.
+
+"Thank you for telling me," she said. "I won't make it smaller than it is."
+
+His mouth moved. He looked at her, and she saw him hear his own words handed back. He folded the note along its creases and put it in the box, and the box away. Then he lifted the writ from the hollow and held it, and looked at the sunbird.
+
+"I'll read this aloud," he said. "At the gate, in daylight, with the Company and the garrison and the village standing there. The whole of it, her wording, her wax. After you've refused her. Not a word before."
+
+"With three hundred spears at her back."
+
+"With three hundred spears." He did not reach for comfort. He gave her the answer as he gave her everything, flat and whole. "Under captains of her household who have never met me. On our side, forty-two odiyans, twenty-two of her own riders, forty volunteers. A hundred and four. Six in the ground. Ninety-eight. Fourteen hundred Thurai wait beyond the cut. If one captain lifts a spear when I finish, we fight at our own gate with the host at our backs, and we lose the pass. If none lifts, I've still named her before the only men who can hold the cut beside us. Some will not forgive me. Some will go home."
 
 "So it might cost us the spears."
 
@@ -4800,43 +4842,37 @@ He did not reach for comfort. He was quiet, and then he gave her the answer as h
 
 It was no comfort at all. She found, oddly, that she could stand on it.
 
-"Then read it," she said.
+"Then read it," she said. "I won't ask you which it is. Rope or light."
 
-"I'll read the writ aloud before her. In daylight, at the gate, with the Company and the garrison and the village standing there. The whole of it, her wording, her wax. Not hidden. Not whispered in a stair." He swung his legs over the bed's edge. "And I'll tell her first, to her face, that I'm going to."
+"I don't know which it is yet." He said it to the writ. "I'll know when I see her face."
 
-"Why first?"
+She folded the oilcloth over the writ, and her hands knew the knot. He laid the bundle back in the hollow. She shut it, and the slat gave its small dry creak under her thumb.
 
-"Because the last man to keep a thing in his sleeve against me was Chathu." He met her eyes. "I said I'd say it before I do it. I mean to keep that."
+"Mine is the other half," she said. "I'll refuse her first, in the open. That's settled. What isn't, is whether I say at the gate what I am."
 
-She looked at the green chipped wax on the sill. For weeks that seal had ridden in his own sleeve, and he had told nobody. He saw where her eyes went.
+He turned his head. She watched him decide not to speak.
 
-"I know," he said. "I kept one too. I put the seal in the bundle on the hill, so it's there for you to see. I'm telling you before, and not after."
+"You told me last night you'd say nothing of it unless I did," she said. "I don't know yet if I will. The queen has the shape of me from Usha. She hasn't heard it from my mouth, before the Company, in daylight. It might cost me more than the fort cost you. It might be the only thing that makes the refusal mine."
 
-She almost laughed. It stopped short of her mouth.
+"Do you want me to ask which?"
 
-"Then here's the term," she said. "You read. I refuse. My refusal, my reasons, in my own voice, to her face. You don't carry any of it."
+"No."
 
-"I'll stand a step behind you. I won't speak for you."
+"Then I won't." His good hand came to rest against the shutter beside hers. "I'll stand there, not knowing, until you open your mouth or you don't. That's the cost, isn't it? Not knowing."
 
-"Is reading the writ not answering for me?"
+"That's the cost."
 
-He took the question seriously, as he took all of hers. "The writ is my account of what she did to me and mine. That's mine to read. The Company's answer is yours."
+"I can pay it."
 
-She folded the bundle back together. Her hands knew the knot. She still wanted to ask whether he would use the writ as a rope or only as a light, and she found he had not promised her which. Neither did she know.
+Down in the court the cistern chain clanked, and the first cocks answered. She crossed to the sill and picked up the grey pebble, cold and light in her scarred palm, and held it out to him.
 
-"Then I'll have my own words ready," she said. "Hold the pebble."
-
-"Why?"
-
-"Because I want to see you hold it," she said, "and not put it in your mouth."
-
-He took the stone from the sill. It was cold, and it sat in his scarred palm like something small and honest, and he closed his hand around it and did not lift it. Down in the court the cistern chain clanked again, and the first cocks answered.
+He closed his fingers round it. He did not lift it.
 
 # Chapter 22: The Queen at Kettamala
 
 Neela counted the spears from the padippura roof and got to three hundred and four before the first of them reached the shingle bank.
 
-They came up the cart road in a double file, green pennants limp in the noon heat. Grey dust rose behind them. At the head rode a woman on a grey horse, one hand loose on the rein. No woman who knew she was going to be refused rode like that. Usha walked at her stirrup, bareheaded, sleeves pulled to her knuckles. Behind them, in a tight knot, rode seven guards in green sashes. Neela knew every one of their names from the drying shed in Kodiyur. They had been offered their pages and had said no. The eighth who had said no, Lata, was not with them. She had ridden north with Usha's riders and was already up on the shelf, and she had not looked at the road once.
+They came up the cart road in a double file, green pennants limp in the noon heat. Grey dust rose behind them. At the head rode a woman on a grey horse, one hand loose on the rein. No woman who knew she was going to be refused rode like that. Usha walked at her stirrup, bareheaded, sleeves pulled to her knuckles. Behind them, in a tight knot, rode eight guards in green sashes. Neela knew every one of their names from the drying shed in Kodiyur. Seven had been offered their pages and had said no; the eighth had said yes in the shed and been kept at the palace when the riders went north. The last who had said no, Lata, was not with them. She had ridden north with Usha's riders and was already up on the shelf, and she had not looked at the road once.
 
 "Three hundred and four," Neela said.
 
@@ -4968,7 +5004,7 @@ Neela kept her face still. She had never in her life been so sure that she had t
 
 The west stair had forty-four steps. Neela went up them at dusk, because the queen asked it.
 
-"Would you walk with me," Nirmala had said, after the meal, after the spears had been settled on the terraces and Usha had gone to see to the seven in green. "The warden's wife may choose the stair."
+"Would you walk with me," Nirmala had said, after the meal, after the spears had been settled on the terraces and Usha had gone to see to the eight in green. "The warden's wife may choose the stair."
 
 Neela had chosen this one. She had gone wide of the parrot newel from her first week, without knowing why. She knew why now. She had stood at its foot with a shuttered lamp, six years ago, and counted. She laid a hand on its broken beak and felt it smooth as a river stone.
 
@@ -5254,61 +5290,65 @@ The queen said yes to the afternoon before Neela had finished asking.
 
 So it was the lower court, in the long heat after noon, with the dust lying still on the stones and the ram's horn hanging silent on its post.
 
-Neela stood in the middle of the court with her bound hands at her sides. At the cairn fire last night she had told the Company what she meant to say. Kuttu had tried to argue her out of half of it, and Madhavi had made him stop. Now they stood along the north wall in their mud-coloured cloth, forty-one of them, with Vellan at the end, apart, arms crossed. Opposite them stood the queen's thirty. They had come down from the terraces in their green sashes with their sleeves pulled to the knuckle. Usha was at their head. Lata was at the back, looking at the ground.
+Neela stood in the middle of the court with her bound hands at her sides. Last night, at the cairn fire, she had told the Company what she meant to say. Kuttu had tried to argue her out of half of it, and Madhavi had made him stop. Now they stood along the north wall in their mud-coloured cloth, forty-one of them, with Vellan at the end, apart, arms crossed. Opposite them stood the queen's thirty in green sashes, sleeves pulled to the knuckle. Usha was at their head. Lata was at the back, looking at the ground.
 
-The queen sat on a plain bench under the tamarind. Haran stood at her right, Sethu at his shoulder. Muthu had the iron disc at his belt. Janu had come out with her tray and stood by the kitchen door with her chin up, not sitting this time.
+The queen sat on a plain bench under the tamarind. Haran stood at her right, Sethu at his shoulder. Muthu had the iron disc at his belt. Janu stood by the kitchen door with her tray and her chin up.
 
-Devan stood a step behind Neela's left shoulder. She knew it without looking. She could hear the small hitch in his breath.
+Devan stood a step behind Neela's left shoulder. She could hear the small hitch in his breath.
 
-"Majesty," she said. "You offered me thirty knives with no pages. Safe, unseen, and yours. The offer was kind. I'm going to refuse it."
+"Majesty," she said. "You offered me thirty knives with no pages. Safe, unseen, and yours."
+
+She let her eyes go to Lata, at the back. Lata, who had refused her page and rode north anyway. A page-free guard, kept by Neela, was the safest thing she could give her. She could make it true by nodding. For one breath she wanted to, badly.
+
+"The offer was kind," she said. "I'm going to refuse it."
 
 No sound came from the garrison. Somewhere on the wall a sandal scraped.
 
-"You asked me to be their master," Neela said. She did not look at the thirty. "I'll say what that means, since nobody here has ever said it plainly. A page owns a woman. You'd burn the pages, so you'd say you'd freed them. But the queen would still be the one who saw them turn. They'd be unseen to everyone but you. Unseen is owned. It is the same cage with the bars painted out."
+"You asked me to be their master. A page owns a woman. You'd burn the pages and say you'd freed them, but you'd still be the one who saw them turn. Unseen to everyone but you. Unseen is owned. It is the same cage with the bars painted out."
 
 She counted her breaths. Four. She went on.
 
-"I was Seventeen for twenty-one years. I know what it is to be safe because no one can see you. It was never safety. It was waiting to be sold." She turned her head, then, to the green sashes. "I will not be your master. I won't hold your pages or your names. Nobody in this court will hold a leash over another person while I live. The Company fights by vote. It is bound by what its hands choose, and by nothing else. If the hands say no to me, I sit down."
+"I was Seventeen for twenty-one years. I know what it is to be safe because no one can see you. It was never safety. It was waiting to be sold." She turned her head to the green sashes. "I will not be your master. I won't hold your pages or your names. The Company fights by vote, and it is bound by what its hands choose. If the hands say no to me, I sit down."
 
-"That's a lot of sitting down," Kuttu said, from the wall, not quite under his breath. A few of the Company laughed, a short, startled sound.
+"That's a lot of sitting down," Kuttu said from the wall, not quite under his breath. A few of the Company laughed, a short, startled sound.
 
 Neela's mouth twitched. It helped. It always helped, and she hated that.
 
-"One more thing." Her voice went quieter, and she let it. "Before you all. When I came to Kettamala I came to kill the warden. I was paid for it. I had the night, the window and the knife." She breathed in. "I told him my name instead."
+"One more thing." Her voice went quieter, and she let it. "When I came to Kettamala I came to kill the warden. I was paid for it. I had the night, the window and the knife." She breathed in. "He had seen me turn on our wedding night. That made him my witness, and one word from him would have caged me for life. He held it for weeks and never used it."
 
 She took a step to the side. Not toward him. Only out of his way, so that the court could see.
 
-"This is Devan. I chose him. Nobody gave me to him, and nobody paid for it. I said the one word that could have caged me to the one man who could have used it, and he never did. That is how I know what free is. It is not belonging to no one. It is choosing who you're tied to, and being able to walk away, and staying." Her hands had gone cold. "I'd like the realm to know whose wife I am, and why."
+"This is Devan. Nobody gave me to him, and nobody paid for it. In the end I said the word to him myself, aloud, at dusk, when no one could have made me. His keeping it was the first thing. My giving it was the second, and that one was freedom. That is how I know what free is. It is not belonging to no one. It is choosing who you're tied to, and being able to walk away, and staying." Her hands had gone cold. "I'd like the realm to know whose wife I am, and why."
 
-Behind her, Devan was silent. She had asked him to be. But his breath left him, slow and ragged, and a moment later his fingers touched the back of her bound hand. He did not take it. He only let her know he was there. In front of three hundred spears, that was louder than a speech.
+Behind her, Devan was silent. She had asked him to be. His breath left him, slow and ragged. Then his fingers touched the back of her bound hand. He did not take it. She turned her hand over, slowly, so that his fingers lay against her palm, and closed her own around them. On the north wall, Kuttu's grin faded to something plainer.
 
-The queen sat very still. Then she nodded, once, slowly, as she had nodded in the hall.
+The queen nodded, once, as she had nodded in the hall.
 
 "Warden," she said. "You had a paper."
 
-Devan's hand went to his coat. The whole court turned to him.
+Devan's other hand went to his coat. The whole court turned.
 
 "I said I'd read it once my wife had answered," he said. "She has. Majesty, do you want it read before the ladders, or after?"
 
-It was how he asked everything, flat and exact, with the choice left in the other person's hands. Neela did not look round.
+It was how he asked everything, flat and exact, with the choice left in the other person's hands.
 
-"After," Nirmala said. Her mouth had a dry, tired line in it. "I know what it says. Read now, in front of Haran's three hundred, it would break the line tonight. Men do not hold a shelf for a queen they have just heard named. Read it once the ladders come down."
+"After," Nirmala said. Her mouth had a dry, tired line in it. "I know what it says. Read now, in front of Haran's three hundred, it would break the line tonight. Men do not hold a shelf for a queen they have just heard named."
 
-"Then after." Devan took his hand from his coat. "I won't read it unasked."
+"Then after. I won't read it unasked."
 
 "Thank you. Now I answer the warden's wife."
 
-She stood, and the whole court shifted.
+She stood, and the court shifted.
 
-"I could say I'd keep my pages and my guard," she said. "I could say it, and Captain Haran would be glad. But she is right about the cage, and I am too old to make a show of not seeing it." She looked past Neela, to the green sashes. "So. The night-guard stays mine until each of you frees herself. That is the price, and it is a hard one, and I won't hide it. Every guard who names herself will carry her partner's wounds, and her partner hers. Each wound counts twice, once as blood and once as a welt. A death can pull a second one after it. I'll have a night-guard that cannot be cut without hurting someone she loves. I have weighed that. I think it is worth the weight."
+"I could say I'd keep my pages and my guard, and Captain Haran would be glad. But she is right about the cage, and I am too old to make a show of not seeing it." She looked past Neela, to the green sashes. "So. The night-guard stays mine until each of you frees herself. That is the price, and I won't hide it. Every guard who names herself will carry her partner's wounds, and her partner hers. Each wound counts twice, once as blood and once as a welt. A death can pull a second one after it. I'll have a night-guard that cannot be cut without hurting someone she loves. I think it is worth the weight."
 
-The garrison stood very quiet.
+The garrison stood silent.
 
-"I will read no page tonight. I say it in front of my captains. Every leaf I hold stays quiet, and no one will be caged by my voice. I need you whole." Her gaze rested on Usha, and then moved along the row, face by face. "Each of you chooses. At this dusk, with the Company, on the shelf, you may name yourselves to someone you've chosen and fight carefully, knowing it. Or you may stay unbound and fight as mine. I won't think the worse of either. I will think the worse of any who choose without looking at the cost."
+"I will read no page tonight. I say it in front of my captains. I need you whole." Her gaze rested on Usha, then moved along the row, face by face. "At this dusk, on the shelf, you may name yourselves to someone you've chosen and fight carefully, knowing it. Or you may stay unbound and fight as mine. I won't think the worse of either. I will think the worse of any who choose without looking at the cost."
 
 She sat. It was done.
 
-Neela stood where she was while the court came to pieces around her. Voices rose, boots shuffled, somebody started to weep without noise. Janu was crossing the stones toward her with the tray. The queen had named the price, Neela thought, but not one person who would pay it. She would do that herself, by name, tonight.
+Neela stood where she was while the court came to pieces around her. The queen had named the price, she thought, but not one person who would pay it.
 
 
 ::: {.scene-break}
@@ -5318,11 +5358,7 @@ Neela stood where she was while the court came to pieces around her. Voices rose
 
 After the sun went under the ridge, the shelf was the colour of old brass. The stakes stood in their rows, pale at the points. Below the lip the river ran loud, and on the far bank the Thurai fires were thick and low, with something big and square moving among them.
 
-Neela counted what she could see. Sixty breaths between the last light and the first drum. Eleven sheaves behind the wall. The tower on the shingle, three men high.
-
-She did not count what she could not. Thirty of the queen's, forty-one of her own. Every one of them would be a cost.
-
-They came out onto the shelf in the going light. The queen's chair had been carried down, and Nirmala sat in it with the red lacquer case open on her lap, the thirty crown leaves laid on blue cloth. Neela sat on a flat stone at her side with Chathu's forty fresh leaves across her knees, the Company's pages written at the queen's table, held under a board against the wind. On top of them lay the members' own Resin House pages, handed to her for the dusk. Between them they would see every naming burn. Haran's spears stood behind them with their backs turned to the shelf, as Devan had ordered, the garrison facing the road, counting sixty.
+They came out onto the shelf in the going light. The queen's chair had been carried down, and Nirmala sat in it with the red lacquer case open on her lap, the thirty crown leaves laid on blue cloth. Neela sat on a flat stone at her side with Chathu's forty fresh leaves across her knees, held under a board against the wind. On top lay the members' own Resin House pages, handed to her for the dusk. Haran's spears stood with their backs to the shelf, as Devan had ordered, facing the road, counting sixty.
 
 "No one smears who isn't naming," Neela said. "No one turns who isn't ready. If you want to wait for the next dusk, there will be one."
 
@@ -5330,49 +5366,49 @@ They came out onto the shelf in the going light. The queen's chair had been carr
 
 "There might not," Neela agreed.
 
-The first to go was Pavi. She walked across the shelf to Thilak and smeared her throat and wrists without a hand to steady her. Her old-broken forepaw was still a bent wrist for one more minute. Thilak stood where she had put him, with his big tapper's hands open at his sides. When the burn took her, she looked at his face and said something low and quick, in her own voice, and the otter finished on the stones in front of him.
+Pavi went first. She walked across the shelf to Thilak and smeared her throat and wrists without a hand to steady her. Thilak stood where she had put him, his big tapper's hands open at his sides. When the burn took her, she looked at his face and said something low and quick, in her own voice, and the otter finished on the stones in front of him.
 
-Neela did not hear the word. It was not hers to hear.
+Neela did not hear the word. It was not hers to hear. Thilak had no page left to burn. He had given his to the gate basket at the Resin House, and what bound him now was only the otter at his feet and the cut she would carry for him.
 
-On her knee, Pavi's own Resin House page caught where it lay on Chathu's sheaf. A thin line of flame ran along the witness entry and ate it. The intake roll fastened beneath it stayed whole, the green thread unscorched. Neela slid it free and pressed it flat under the board. A name and a village were not the guild's to burn.
+On her knee, Pavi's Resin House page caught where it lay. A thin line of flame ran along the witness entry and ate it. The intake roll fastened beneath stayed whole, the green thread unscorched. Neela slid it free and pressed it flat under the board. A name and a village were not the guild's to burn.
 
-Kuttu went to Bhaskaran. The sergeant of the padippura stood with his helm under his arm. At the cairn fire an hour ago he had told his wife, by name, what he meant to do, before he said yes to anyone, so that she would hear it first. Kuttu was shaking too hard to smear the resin. Bhaskaran took the pot from him and did it with his bare fingers, very slowly, because a man with four daughters could do a thing slowly. The resin bit. His fingertips went red and then raw, and he hissed through his teeth and kept going until the last wrist was done. Then he wiped his hand on his thigh and stood and held still. A second leaf curled on Neela's knee, and she saved the roll beneath it.
+Kuttu went to Bhaskaran. An hour ago, at the fire, the sergeant had told his wife by name what he meant to do, so that she would hear it first. Kuttu was shaking too hard to smear the resin. Bhaskaran took the pot and did it with his bare fingers, slowly, as a man with four daughters learns to do a hard thing. The resin bit. His fingertips went red and then raw, and he hissed through his teeth and kept going until the last wrist was done.
 
-Sanu went to Kandan. The corporal had a scar through one brow, and a lame mother in Mathoor, and Neela had once said his name and been answered. Sanu had wanted his brother. His brother stood at the back with hands shut, Sajan, not ready, not refusing. Sanu looked once toward him and said, "I'll ask you again after." Then he turned to Kandan, who was white around the mouth and standing as if braced for a blow, and held out his hands.
+Sanu went to Kandan. The corporal had a scar through one brow and a lame mother in Mathoor. Sanu had wanted his brother, but Sajan stood at the back with his hands shut, not ready, not refusing. Sanu looked once toward him and said, "I'll ask you again after." Then he turned to Kandan, who was white around the mouth and braced as for a blow, and held out his hands.
 
 "Not you," Kandan said. "I'm nobody's—"
 
 "You're the one who said my name when you knew it," Sanu said. "That's enough."
 
-It was true. On the cart road, when Sanu's horse went lame at the boulder, Kandan had asked his name once, from the saddle, and had used it every time since: *Left, Sanu. Water, Sanu.* No one in the green sashes had been called anything in years but a number. Kandan closed his mouth. He nodded. In the queen's lap, a leaf of the thirty caught. Nirmala watched it burn. She made no move to put it out.
+It was true. On the cart road, when Sanu's horse went lame at the boulder, Kandan had asked his name once and used it every time since. *Left, Sanu. Water, Sanu.* In the green sashes, names were kept like coins in a hidden seam. Usha had spent hers unasked; Sanu had spent his on the road, and been answered. Kandan closed his mouth. He nodded. In the queen's lap, a leaf of the thirty caught. Nirmala watched it burn. She made no move to put it out.
 
-They went on. Thulasi started toward Vellan's side of the shelf, remembered he would take no one, and walked to Madhavi instead. A heavy-set guard from the queen's thirty, who had said no in Kodiyur, crossed to a man in Haran's rank, a stranger, a spear-captain with a grey moustache. He took his helm off. Neela knew neither name. Company leaves curled on her knee, guards' leaves in the queen's lap. By the time the red had gone off the ridge, the lacquer case had half emptied itself into ash, and the wind off the river carried the smell of it, scorched and bitter.
+They went on. Thulasi walked to Madhavi. A heavy-set guard from the queen's thirty, who had said no in Kodiyur, crossed to a spear-captain with a scarred chin, a stranger, and he took his helm off. Company leaves curled on Neela's knee, guards' leaves in the queen's lap. By the time the red had gone off the ridge, the lacquer case had half emptied itself into ash, and the wind off the river carried the smell of it, scorched and bitter.
 
-Neela kept the ledger in her head, because it was easier than watching faces. Each of them rogue now, in the eyes of the crown. Each of them leaving a page that had burned where it lay. Each wound counted twice, once as blood and once as a welt, and each death able to pull a second after it. A line made of pairs, and a Company that could not afford to be hurt in two places at once.
+Neela slid the saved rolls into order beneath the board, one by one, and counted them under her breath. Then she said it aloud, because she wanted it said to someone.
 
-Devan stood beside her and said nothing. He had ordered the wall. He was holding the shelf. Whatever came up the cut would find the line bent round these people, who had chosen to be bled.
+"Twenty-eight."
+
+"Twenty-eight," Devan said, beside her, and repeated it, flat and sure. Thirty-nine pages had been left to burn, now that Thilak's was gone, and eleven of those lay whole under her hand. That left twenty-eight Company names, twenty-eight villages, safe under a plank on a woman's knee. She did not let herself count which of them would be cut first.
 
 Usha went last.
 
-The light had thinned to the colour of weak tea. The Thurai drums had started, one and then three, as if tuning. Usha crossed the shelf with her sleeves still pulled down, and the paste on her throat cracked a little as she swallowed. She went to no one on the wall. She went to the queen's chair, and stopped three paces in front of it.
+The light had thinned to the colour of weak tea. The Thurai drums had started, one and then three, as if tuning. Usha crossed the shelf with her sleeves still pulled down, and the ochre paste on her throat cracked a little as she swallowed. She went to no one on the wall. She went to the queen's chair and stopped three paces in front of it.
 
 "Majesty," she said. "Look at me."
 
-Nirmala's hand stayed on the case. The topmost leaf lay under it, the one with Usha's number, Nineteen, in a quick slanting hand.
-
-Neela saw the old woman's face. She saw the queen weigh it as she had weighed everything, a realm's worth of arithmetic folded into one pause. Nirmala could have looked away. Anyone could have looked at the river, or the case, or Haran. Looking would cost her. It would give the girl she had once sealed into a green sash a share of her wounds, and a woman who had never in fifty-four years shared a cut with anyone would share them with a guard.
+Nirmala's hand stayed on the case. Her thumb pressed the leaf on top, the one marked Nineteen in a quick slanting hand, pinning it flat against the wind. Her eyes went once to the river and came back. She drew a breath, shallow and careful, as if the air had weight.
 
 The queen looked.
 
-She raised her eyes and held Usha's, steady, and did not blink. Usha smeared the resin on her own throat with two fingers and then on her wrists, and pulled back her cuffs. The flat pared seam showed. The burn took her. Her breath caught.
+She held Usha's eyes, steady, and did not blink. Usha smeared the resin on her own throat with two fingers and then on her wrists, and pulled back her cuffs. The flat pared seam showed, and the cuff dragged across it and opened a thin red line. The burn took her.
 
-"I choose you," Usha said. It was not the shape. It was the word before the word. Then she said the other, very low, to Nirmala alone, and Neela turned her face away.
+"I choose you," Usha said. It was not the shape. It was the word before the word. Then she said the other, low, to Nirmala alone, and Neela turned her face away.
 
-The last leaf of the twenty-six went up with a small dry sound. The ash rose white in the dusk. Four leaves lay on in the case, untouched, for the four who were not ready.
+The last leaf of the twenty-six went up with a small dry sound. The ash rose white in the dusk. Four leaves lay in the case, untouched.
 
-The queen's mouth shook once. Then she put her hand over it, and took it down.
+The queen pushed back her own sleeve. On her forearm, where Usha's cuff had torn the seam, a hand-long red welt had risen. She put her other hand over her mouth, and took it down.
 
-"It stings," Nirmala said, to nobody. "It does sting."
+"It stings," Nirmala said, to nobody, looking at her arm. "It does sting."
 
 
 ::: {.scene-break}
@@ -5380,11 +5416,25 @@ The queen's mouth shook once. Then she put her hand over it, and took it down.
 :::
 
 
-Four of the thirty held back from the naming line and did not come forward. Lata was one. She stood by the stakes with her arms crossed over her sash and her face closed. She had refused her page in Kodiyur, and she was refusing this too, and nobody went to her. Sajan stood near her, two others behind him. The queen had said she would not think the worse. She did not turn her head.
+Four of the thirty held back and did not come forward. Lata was one. She stood by the stakes with her arms crossed over her sash and her face closed. Sajan stood near her, two others behind him. The queen had said she would not think the worse. She did not turn her head.
 
-Kamalakshi did not name. She had said in the cairn firelight that she had no one to give it to, and she would not give it to a person who didn't want it. She stood at the back with her arms folded, a thin cropped girl who had laughed once at the shelter. Her leaf lay unburned on Neela's knee. Vellan stood a long way from her, at the narrow place, a man alone against a wall. Unbound, he had said. He had a bad wooden bird inside his shirt, and he looked at no one.
+The Company held back too. Meenu stood pressed to the wall with her fists in her sleeves, as she had stood at the Resin House. Kamalakshi stood at the back, thin and cropped, her arms folded. She had said she had no one to give it to, and she would not give it to a person who didn't want it. Eleven of the forty, in all, had not come forward. Their Resin House pages lay unburned under Neela's hand.
 
-Neela turned that over, too. Four unready, two unbound, and the rest tied to a person by a cord of blood. It was the most exact accounting she had ever done, and it would not balance.
+Her stomach turned. *I won't hold your pages.* She had said it before three hundred spears not five hours ago. Here were eleven, and here was her knee.
+
+She stood and crossed the stones to Kamalakshi, then to Meenu, and held the leaves out flat so they could see they were only paper.
+
+"These are yours," she said, loud enough for the ones behind them. "I said I'd hold no one's, and I'm holding eleven. Until I read them to you, I hold the leash I refused, and I'd rather you heard me say so. At first light I read every one of these back, in the sun, as the rule requires. Then they're yours to keep or burn."
+
+Meenu stared at the leaf and then at her. Kamalakshi said, "You could have kept quiet."
+
+"No," Neela said. "I couldn't."
+
+Kamalakshi gave one short nod. Neela went back to her stone and laid the leaves under the board, where she would feel them against her knee all night.
+
+Vellan stood a long way from them, at the narrow place, a man alone against a wall. Unbound, he had said. He had a bad wooden bird inside his shirt, and he looked at no one.
+
+Four guards unready, eleven of the forty holding back, one man standing alone. The rest tied to a person by a cord of blood. It was the most exact accounting she had ever done, and it would not balance.
 
 "Now the dark," Devan said, low. He was looking at the far bank.
 
@@ -5392,25 +5442,25 @@ The last light went off the water. The fires on the far side blinked as somethin
 
 Neela went to the thorn below the lip, where the Company by rotation was to smear and turn, and found the new pairs already learning each other. Kuttu, in shape, set a forepaw on a stake point, and Bhaskaran, ten paces off at the wall, swore and shook his hand. Pavi clipped her paw on a rock and Thilak staggered like a man pushed. Thulasi's foreleg scraped a thorn, and Madhavi hopped three steps and caught herself on the wall. Sanu put a pad down on a flint edge and Kandan gave a startled laugh and then stopped laughing.
 
-"That's how it feels," Neela said to them all, over the drums. She was not shouting. "It's a small thing. It's meant to be small. Learn it now, with thorns. By midnight you'll be learning it with iron."
+"That's how it feels," Neela said to them all, over the drums. "It's a small thing. It's meant to be small. Learn it now, with thorns. By midnight you'll be learning it with iron."
 
-Bhaskaran had crossed the stakes. He crouched by the animal at his feet, still rubbing his raw fingertips, and looked down into its eyes. "Does it get easier?" he asked it.
+Bhaskaran crouched by the animal at his feet, rubbing his raw fingertips, and looked down into its eyes. "Does it get easier?" he asked it.
 
 The animal looked up at him and could not answer. Neela did.
 
 "No," she said. "You get better at it."
 
-Devan's hand closed on her shoulder, brief and dry. She did not turn. She smelled the resin on her own wrists, and the first burn began at her throat.
+Devan's hand closed on her shoulder, brief and dry. The resin was sharp on her own wrists, and the first burn began at her throat.
 
 "Left side," he said.
 
 "I know where it is."
 
-She put her eyes on his face for the span of one long breath. She did not say the word. She had no need. She stepped down into the thorn, and the world went to scent.
+She put her eyes on his face for the span of one long breath. She stepped down into the thorn, and the world went to scent.
 
 A drum stopped.
 
-The silence was entire. On the far bank, the great square shape on the shingle began to move, very slowly, on its cart. Torches ran ahead of it. Along the lip the garrison's backs straightened, and Haran's voice rolled down the line, flat and carrying, calling the ranks.
+The silence was entire. On the far bank, the great square shape on the shingle began to move, slowly, on its cart. Torches ran ahead of it. Along the lip the garrison's backs straightened, and Haran's voice rolled down the line, flat and carrying, calling the ranks.
 
 Then the first ladder came out of the dark, iron-hooked and slick with river water, and struck the lip of the shelf with a crack of timber on stone.
 
@@ -5754,7 +5804,7 @@ Her eyes came up. They told him she had been listening to that silence all night
 
 "Sitting where?"
 
-"At the top. Against the rock. Nobody's gone near him." She swallowed. "Nobody knows what the bear left."
+"At the top. Against the rock." She swallowed. "The bear held the narrow place against anyone who came near until first light. Nobody could get past it. Then Vellan sent Kamalakshi back down with a Company runner. He asked for the Warden. Only the Warden." Her mouth worked. "Muthu says he told them to keep everyone else away. That's his choice, Dev. Not the cut's."
 
 He tried to rise. The shoulder said no in a voice like a cleaver, and the dead arm dragged at his side. Thankam, asleep on her knees over her roll, jerked awake.
 
@@ -5770,7 +5820,7 @@ Thankam looked at him a long moment. Then at Neela, who said nothing and did not
 
 Muthu and Kandan did it with a door. It had come off a guard shed in the night, and it still had its iron strap hinge. They laid it by the tarpaulin and slid Devan onto it, and Thankam bound his arm to his chest with a green sash so the dead hand could not swing. Neela walked beside him, barefoot on the stones, holding the corner of the blanket with one fist. Every few steps her hand came up and touched his shoulder, then went away, as though checking a latch.
 
-The cut climbed between walls of red rock. He saw it from his back, one ledge at a time. A bronze cap in the shingle. A ladder hook still sunk in a stake. Thurai dead lay in rows where the line had held them, and others lay singly where they had come over and not gone back. Past the stakes the river ran brown and quiet. Far down the road, toward the strand, a thin dust rose where the host was pulling away. The drums were still going, but slowly, like a heart that has finished running.
+The cut climbed between walls of red rock. He saw it from his back, one ledge at a time. A bronze cap in the shingle. A ladder hook still sunk in a stake. The Thurai dead lay in rows where the line had held them, and others lay singly where they had come over and not gone back. Past the stakes the river ran brown and quiet. Far down the road, toward the strand, a thin dust rose where the host was pulling away. The drums were still going, but slowly, like a heart that has finished running.
 
 "They've drawn back," Kandan said, to nobody. "To the beach. They'll count us."
 
@@ -5788,7 +5838,7 @@ The bear had made a wall of them. Vellan sat against the rock behind it.
 
 He was a man again, as the dawn had made him. He sat with his legs out and his big hands in his lap, in the grey wool of a Company tapper, and the wool was dark to the knees. Someone's hook had opened him from hip to ribs. He held his belly shut with one arm, and the other lay across his chest. The bad leg lay straight at last, with no drag left in it. A bird sat in his palm.
 
-It was a bad bird. Devan saw that from the door, and so did the whole cut, probably. One wing was thicker than the other and the beak had split. Someone had cut it with a dull knife and no patience.
+It was a bad bird. One wing was thicker than the other and the beak had split. Someone had cut it with a dull knife and no patience.
 
 "Warden," Vellan said. His voice was a grumble with the bottom taken out. "You brought a door."
 
@@ -5798,7 +5848,7 @@ It was a bad bird. Devan saw that from the door, and so did the whole cut, proba
 
 Neela knelt in the blood. She did not argue. Kandan and Muthu lowered the door and stepped back, and Muthu pulled Kandan's sleeve until the two of them walked away down the cut, out of hearing. Devan was grateful. Nobody ought to see this.
 
-"I can't do anything for it," Vellan said. "Thankam would say so. I'd not trouble her." He looked down at the arm across his belly. "Unbound. That was the point. Nobody bleeds for me. I'd have hated to hear that I'd cut anyone."
+"I can't do anything for it," Vellan said. "Thankam would say so. I'd not trouble her." He looked down at the arm across his belly. "Unbound. That was the point. Nobody bleeds for me."
 
 "You left the narrow place," Devan said.
 
@@ -5814,9 +5864,9 @@ Devan found that he could not speak. Neela's fingers had come to rest on his lef
 
 They did.
 
-"She came down the west stair in the dark," Vellan said. "Late. Past the second watch. She had no lamp. I was low on the stair, in shape, by the grate under the eleventh step, back against the wall where the dark was thickest. I heard her before I saw her. She was counting."
+"She came down the west stair in the dark," Vellan said. "Late. Past the second watch. She had no lamp. I was low on the stair, in the bear's shape, by the grate under the eleventh step, back against the wall where the dark was thickest. I heard her before I saw her. She was counting."
 
-Devan's mouth went dry.
+Devan's throat closed.
 
 "Out loud, under her breath. Forty-four, forty-three, forty-two. Slow. One hand on the rail. I thought, this one's afraid of the dark. It's no business of mine, but I marked it." Vellan's eyes had gone far back. "She came down a long way before she saw anything. Then, far below, at the foot, a little glimmer. A shuttered lamp, opened a thumb's width."
 
@@ -5830,15 +5880,15 @@ Neela made a sound. It was very small.
 
 Devan shut his eyes.
 
-"You didn't answer. You were twenty-one and you'd been blindfolded and told to be a post. Quite right. And she waited. And then she smiled." The big man's voice changed. It wasn't an imitation. It was only as careful as a man handing over something that might break. "I saw it. I was close enough. She smiled at the light, and she said, 'Dev? Keep the light there. I can see the steps.'"
+"You didn't answer. You were twenty-one and you'd been told to be a post. Quite right. And she waited. And then she smiled." The big man's voice changed. It wasn't an imitation. It was only as careful as a man handing over something that might break. "I saw it. I was close enough. She smiled at the light, and she said, 'Dev? Keep the light there. I can see the steps.'"
 
 The cut was so quiet Devan could hear the river.
 
 "She thought it was you, Warden. At the foot of the stair, with a lamp, for her. She thought her brother had waited up." Vellan swallowed. "She came on down, counting, her palm sliding on the rail. Easy. She wasn't afraid. She only saw me at the last, when she was nearly on me, and I'll tell you, she looked at the bear and then she looked back down at the light. As if to check it was still there. She never took her eyes off it."
 
-Neela had made herself small beside him. Her hand had gone to her mouth.
+Neela had folded in beside him. Her hand had gone to her mouth.
 
-"That's the whole of it," Vellan said. "I've carried it six years and I thought it would be heavier to put down. It isn't."
+"That's the whole of it," Vellan said. "I've carried it ever since and I thought it would be heavier to put down. It isn't."
 
 
 ::: {.scene-break}
@@ -5848,7 +5898,7 @@ Neela had made herself small beside him. Her hand had gone to her mouth.
 
 For a long moment Devan felt nothing. That was how he knew it was coming.
 
-Then it came all at once, from under his right collarbone, where the spear had passed. Six years. Six years of a wall at his back. He had slept with it, eaten with it, and never let a living soul stand behind him on a stair.
+Then it came all at once, from under his right collarbone, where the spear had passed. Every year since Asha, a wall at his back. He had slept with it, eaten with it, and never let a living soul stand behind him on a stair.
 
 Asha had come down forty-odd steps in the dark, afraid of it all her life, and she had looked at a thumb of lamplight and thought: *Dev's there.*
 
@@ -5858,21 +5908,21 @@ He did not choose to weep. The sound came up through his chest like water from a
 
 Neela's arms came round him.
 
-Both of them. She did not ask. She got her arms under his good shoulder and across his chest, below the wound, and pulled him against her, and held on with both hands as if he might go over an edge. He felt her cheek on his hair. Through her he felt the shape of her own grief, which was not his grief and was the same. Her breath shook. A tear fell on his scalp.
+Both of them. She did not ask. She got her arms under his good shoulder and across his chest, below the wound, and pulled him against her, and held on with both hands as if he might go over an edge. Her cheek rested on his hair. Through her he felt the shape of her own grief, which was not his grief and was the same. Her breath shook. A tear fell on his scalp.
 
 "I opened it once," she said into his hair. "Once. I didn't know."
 
 "You couldn't have."
 
-"I know."
+She was quiet so long he thought she would say nothing more. He knew what she was waiting for. She had waited for it from every witness she had ever known.
 
-"Don't ask me to forgive you." He wasn't certain it was his voice. "There's nothing there to forgive. You gave her a light."
+"You'll want me to forgive you," he said. His voice was not quite his own. "There's nothing there to forgive. You gave her a light."
 
-She was quiet so long he thought she would say nothing. Then her voice came, very low, against his hair.
+Her voice came, very low, against his hair.
 
-"Three hundred and ten," she said. "That's how long I stood at the foot of that stair, after. They'd unwrapped my eyes and told me to count, and I counted. I've never told anyone the number. I thought if I said it out loud it would be something I'd done."
+"Three hundred and ten," she said. "You heard the number at the ledger. You never heard why. They took the lamp and told me to count, and I counted. I thought if I kept counting, whoever was on the stair would finish, and it would be over before I got to the end."
 
-"It was something you did," Devan said. "You stood where you were put, in the dark, and you counted. So did she. Two of you, counting, on the same stair." He turned his good hand over on her wrist. "I'll keep the three hundred and ten with you. Half of it's mine now."
+"It was over before you began," Devan said. "You stood where you were put, in the dark, and you counted. So did she. Two of you, counting, on the same stair." He turned his good hand over on her wrist. "I'll keep the three hundred and ten with you. Half of it's mine now."
 
 She said no word. She only held him tighter, and the two of them rocked together on the red stone, a man with a dead hand and a woman in a borrowed coat, over a thing neither would put down and neither would carry alone.
 
@@ -5908,7 +5958,13 @@ They carried him up the last of the cut on the door. Devan walked.
 
 He had not asked leave. He had stood, with Muthu's arm under his good shoulder, and said, "Put Vellan on it." Nobody had argued. Four men lifted the big man between them, and his hand stayed shut on the bird, and the blanket over his face moved a little in the wind.
 
-The cut climbed on in the new light, red and wet. Garrison men stood along it with their spears grounded. They did not salute. Some looked at the door, and some at Devan's sash, and Kuttu, the ferryman's son, stood with both hands over his mouth. Pavi had her arm round Thilak, who was not weeping but breathing like a man who had been under water. The Company had come out of the night thirty-odd strong where there had been forty-two. Nobody counted aloud.
+Garrison men lined the cut above the narrow place with their spears grounded. They did not salute. Some looked at the door, and some at Devan's sash, and Kuttu, the ferryman's son, stood with both hands over his mouth. Pavi had her arm round Thilak, who was not weeping but breathing like a man who had been under water. The Company had come out of the night thirty-odd strong where there had been forty-two.
+
+At the mouth of the lower court Kandan sat on the lip of the well with a roof tile across his knee and a stub of chalk in his fist. It was the tile of the dead. Devan had seen it before, in the shelf camp, with names in Kandan's own square hand. The column had grown. Near the bottom, still white, stood a run of new lines. *Lekha, of the Company. Orma, of the Company. Kani, of the Company. Swathi, of the Company.* Then a gap, and one more. *Sreedhar, drover, Kalladi.*
+
+Lekha had shared Devan's fire two nights ago and burned her tongue on the tea. Sreedhar had asked him if the cut would hold. He had said yes.
+
+Neela stopped beside the tile. Her lips moved down the column, once on each name, the way they moved on steps and exits. At the fifth they stumbled. She began again. She got as far as the sixth, and then she stopped, because Kandan's chalk had not reached the rest, and she knew the number that was still to be written. She touched the last line with one finger, very lightly, and walked on.
 
 The lower court of Kettamala had been turned into a camp. Cook-fires, a row of cots, a well with a line already at it. Janu stood by the kitchen door with a pot in each fist. When she saw the door and the blanket and the sash on Devan's arm, she set the pots down very slowly and did not come forward. He gave her a nod. She pressed her apron to her mouth.
 
@@ -5932,7 +5988,7 @@ Nirmala turned the case so that Devan could see.
 
 "I have not decided. That is the worst thing I own." She closed the lid over the black. "You have your hand, Warden? No. Thankam told me. Then I will say it to the one who still has two." She looked at Neela. "You cannot hold what is left with a promise. A company needs a roll. It needs a first name on it, written by daylight where every witness can see, and someone to write it who is not afraid of the ink."
 
-Neela stood very still in Muthu's coat, bare-footed on the court stones, with Vellan's blood to her knees.
+Neela stood still in Muthu's coat, bare-footed on the court stones, with Vellan's blood to her knees.
 
 "I will tell you what it costs, because no one told me what mine cost," Nirmala said. "The first name written binds that person to the Company's vote, whatever the hands decide. And it makes her the crown's first name to answer. Whatever the Company does, I will lay at that name. I would not ask it of anyone I did not mean to hear from."
 
@@ -5954,7 +6010,7 @@ It sat in a cracked clay pot on the well curb, plain black, the kind a clerk buy
 
 "Good."
 
-He had brought a sheet from the queen's green case, a clean crown leaf, ivory and heavy. He had flattened it on a board across two buckets and weighted the corners with pebbles. His big tapper's hands kept straightening it, though it was already straight. The lamp-black plank leaned against the well. Forty names ran down it in her own hand, and nine blanks had been filled since the Resin House.
+He had brought a sheet from the queen's green case, a clean crown leaf, ivory and heavy. He had flattened it on a board across two buckets and weighted the corners with pebbles. His big tapper's hands kept straightening it, though it was already straight. The lamp-black plank leaned against the well. Forty-one names ran down it in her own hand, and nine blanks had been filled since the Resin House.
 
 Behind her the court was filling. She did not turn to count. She listened: boots on stone, a cough, Kuttu telling someone to move his feet. Garrison men in grey stood three deep along the kitchen wall, and the queen's riders in green along the other. The Company had no colour. They stood where they had slept, in tapper's wool and borrowed coats, thirty-odd where there had been forty-two. She knew every face. She had said every name.
 
@@ -6206,7 +6262,7 @@ Neela counted the hall without meaning to. Eight pillars, two doors, one window 
 
 "As would I." Nirmala folded her hands. "It is a gift I would be a fool to refuse, and a fool to trust. Send the herald back with a yes, Corporal. Tell him the stakes stay where they are."
 
-Kandan went. The hall let out its breath, and Neela felt the stool under her again. She sat by the wall with Chathu's sheaf in its oilcloth across her knees. She had carried it so long that her arms had stopped noticing.
+Kandan went. The hall let out its breath, and Neela felt the stool under her again. She sat by the wall with Chathu's sheaf in its oilcloth across her knees. She had carried it so long that her arms no longer noticed.
 
 "Then let us use the three," said the queen.
 
@@ -6220,11 +6276,9 @@ She did not rise. She never needed to. The court of Kettamala had learned that a
 
 Neela listened and found, to her annoyance, that part of it was an argument. A good one. Better a known hand than none. She had thought it herself, once, about Chathu.
 
-She lifted the sheaf out of its oilcloth because her hands wanted something to do.
+Her hands wanted something to do, so she lifted the sheaf out of its oilcloth.
 
-She laid it against her face.
-
-She hadn't meant to. She was tired in the way that makes people press a cheek to cold stone. Forty stiff pale leaves, and she bent her head to them and breathed. Something in her went still.
+Then she laid it against her face, without meaning to. She was tired in the way that makes people press a cheek to cold stone. Forty stiff pale leaves, and she bent her head to them and breathed. Something in her went still.
 
 Nothing.
 
@@ -6248,13 +6302,13 @@ Nirmala looked at her. "No. I watched him write them, four evenings running. I d
 
 Nobody spoke. Haran took his shoulder off the pillar.
 
-And she saw the namings again, the scorch rising at each dusk. It had come off each member's own handed-back Resin House page, the true one, which she had held beside the sheaf on her knee. Chathu's leaves beside it had only curled in the heat, like anything near a flame. She had watched the wrong paper burn and believed it.
+She saw the namings again, the scorch rising at each dusk. It had come off each member's own handed-back Resin House page, the true one, which she had held beside the sheaf on her knee. Chathu's leaves beside it had only curled in the heat, like anything near a flame. She had watched the wrong paper burn and believed it.
 
-Neela heard the thing she was saying as she said it, and it took her a moment to understand what she felt. It was not triumph, or not only. A man who held every one of their cages, who had sold her at nineteen and bound her at twenty-seven and told her the ledger was mercy, had been handed forty fresh cages and a reed, and he had written forty empty rooms.
+Neela heard the thing she was saying as she said it. It was not triumph, or not only. A man who held every one of their cages, who had sold her at nineteen and bound her at twenty-seven and told her the ledger was mercy, had been handed forty fresh cages and a reed, and he had written forty empty rooms.
 
 Behind her, Devan said very quietly, "Neela."
 
-She did not answer. She sat there with the sheaf against her chest and her eyes burning, and the hall went on being a hall around her.
+She did not answer. She sat with the sheaf against her chest and her eyes burning, and the hall went on being a hall around her.
 
 "We will break for the hour," said the queen, and her voice had gone strangely careful. "I should like to look at those."
 
@@ -6296,11 +6350,11 @@ Devan was silent.
 
 "I want it to add up."
 
-"It doesn't." He said it gently, with the plain flatness she had learned to trust. "I won't tell you he was kind. He sold Asha. He sold you. He'd have sold me to the same bidder and sent a tin to my funeral. I won't say a word for him." He turned his good hand palm up on his knee, not reaching for her, only leaving it there. "And I won't tell you not to grieve him. I haven't the right, and I haven't the grief. Say it. I'll sit here."
+"It doesn't." He said it gently, with the plain flatness she had learned to trust. "I won't tell you he was kind. He sold Asha. He sent you out at nineteen on your first contract. He sold my death to the same buyer and would have sent you a tin for the pyre. I won't say a word for him." He turned his good hand palm up on his knee, not reaching for her, only leaving it there. "And I won't tell you not to grieve him. I haven't the right, and I haven't the grief. Say it. I'll sit here."
 
-She stared at him.
+Neela stared at him.
 
-She had expected an argument. Not a hard one. Devan would never have been hard. But she had braced herself for some careful sentence about what the man had done, and how little right she had to mourn him. She'd have deserved it. He didn't say it. He sat in the sun with a dead arm and a face grey from no sleep, beside the well where Ammu's blue cloth should have been, and let her miss the man who fed her and sold her. He did not mistake it for love, or call it weakness. He left it a space the size of a body.
+She had braced for an argument. Not a hard one. Devan would never have been hard. But she had expected some careful sentence about what the man had done, and how little right she had to mourn him. She'd have deserved it. He didn't say it. He sat in the sun with a dead arm and a face grey from no sleep, beside the well where Ammu's blue cloth should have been, and let her miss the man who fed her and sold her. He left it a space the size of a body.
 
 "I'm not sorry he's in a cell," she said, with her eyes shut.
 
@@ -6336,15 +6390,25 @@ She stood. Her legs held. She picked up the sheaf, and the scrap of paper, and I
 :::
 
 
+The hall had filled again. Neela counted it before she crossed it. Haran stood at the same pillar with four crown sergeants behind him, and beyond the open shutter the beach lay quiet under its truce. Three hundred crown spears held the cut beside the Company's. They were the queen's, and the truce ran out in three days.
+
+Haran caught her looking. "My men took the queen's word to come up this road, mistress," he said. "Mind what you do with it."
+
+"I'm minding," she said.
+
 The queen had not moved from the warden's chair. Before her on the table lay three of Chathu's leaves, and she had her good hand flat on them as if to keep them from lifting. Usha stood very straight at her shoulder. Her face said she had already heard.
 
 Neela put the scrap of paper on the table. Nirmala read it. A line cut deep between her brows and was gone.
 
-"He wrote you forty cages in plain ink," Neela said, aware of the hall filling at her back. "I'm not saying it to shame you. You'd have been right to want something to hold, with thirty thousand Thurai on the beach."
+"He wrote you forty cages in plain ink," Neela said, aware of the hall at her back. "I'm not saying it to shame you. You'd have been right to want something to hold, with thirty thousand Thurai on the beach."
 
 "Fourteen hundred," said Haran.
 
-"Fourteen hundred. It felt like more." She let it stand. "So the forty are free. They always were. The pages are ash with a name on, and the only living witness to those forty turnings is a man in your cell with ink on his fingers. You hold four real leaves, Majesty, and I'll come to them. But first I want to read you something."
+"Fourteen hundred. It felt like more." She let it stand. "So the forty are free. They always were. The pages are plain ink with a name on. You hold four real leaves, Majesty, and I'll come to them."
+
+"And I hold the man who can write the forty true," the queen said, mildly. "Chathu can still write a page. You know that better than I."
+
+"The crown's own post just showed what he'll write for you." Neela touched the scrap. "And he isn't yours to hold. He's Justice Rema's prisoner, sent south for the high court. Before I say what I came to say, I want to read you something."
 
 "I am listening."
 
@@ -6356,23 +6420,27 @@ The queen said nothing.
 
 "Neela," said Devan, behind her. Not to stop her. Only so that she'd know where he stood.
 
-"Ponni is an old fishwife sleeping in Kesu's shed, and she was there. She says two boats crossed the bar at slack water with no pilot, as if expected. Men in grey waited at the top of the goat path with a flat cart. There was a small new yellow bird on the tailboard. One of them counted the youngest children as they were lifted on." Her voice did not shake. She had said it to herself on the road so often it had worn smooth. "I was in that count."
+"Ponni, the fishwife we brought out of Kesu's village, was there. She says two boats crossed the bar at slack water with no pilot, as if expected. Men in grey waited at the top of the goat path with a flat cart. There was a small new yellow bird on the tailboard. One of them counted the youngest children as they were lifted on." Her voice did not shake. She had said it to herself on the road so often it had worn smooth. "I was in that count."
 
 A low sound went through the hall. Kuttu, near the door, had put his hand over his mouth.
 
-"Then the crown leaf." She laid it beside the tally book, the green-threaded intake rolls, the thin brown birds in every margin. "Thirty rolls. I've read them all. Usha, a potter's daughter from a hill village. Sanu, tailor's son, of Pallikara, which burned this season, and its name stands in the ledger as an intake village the year he was taken. Every village on these rolls was raided in the year its child was taken. Every one. I checked them against the raids Devan has on his border roll." She breathed. "And a Thurai scout died at the shelf with eleven new Varanad silver coins in his purse, with the lowest pepper leaf doubled on the die. That's the same die as the widow's coin you paid out of your own treasury. The same weight, to a grain."
+"Then the crown leaf." She laid it beside the tally book, the green-threaded intake rolls, the thin brown birds in every margin. "Thirty rolls. I've read them all. Usha, a potter's daughter from a hill village. Sanu, tailor's son, of Pallikara. Every village on these rolls was raided in the year its child was taken. Every one. I checked them against the raids Devan has on his border roll." She breathed. "And a Thurai scout died at the shelf with eleven new Varanad silver coins in his purse, with the lowest pepper leaf doubled on the die. That's the same die as the widow's coin you paid out of your own treasury. The same weight, to a grain."
+
+"The four leaves you hold are the four guards' to ask for," she said. "Not yours to keep and not mine. I'll sign no charter that leaves them in the crown's hand."
 
 She stopped. She had not known how loud a hall could be with nobody saying anything.
 
-"The raids made your knives," Neela said. "That is all I have to say. I don't say it to bargain. I'm not holding it over you. I just don't think we can write a charter on top of it as if it weren't there."
+"The raids made your knives," Neela said. "That is all I have to say. I don't say it to bargain. I just don't think we can write a charter on top of it as if it weren't there."
 
-Nirmala did not look away. She did not glance at Usha, or at Haran, or at the door. For a long moment she studied Neela's face, and the warm, unhurried expression she had worn through every hour since the Salt Gate stayed where it was and meant something different.
+Nirmala did not look away. She did not glance at Usha, or at Haran, or at the door. For a long moment she studied Neela's face, and the warm, unhurried expression she had worn through every hour since the drying shed stayed where it was and meant something different.
 
 "Yes," she said.
 
-It was not loud. It dropped into the hall like a stone into a well, and Neela, who had braced for a denial, a lawyerly sidestep or a gentle *you mistake me,* found she did not know what to do with her hands.
+It was not loud. It dropped into the hall like a stone into a well. Neela, who had braced for a denial, a lawyerly sidestep or a gentle *you mistake me,* found she did not know what to do with her hands.
 
-"Yes," the queen said again. "To all of it. I will not make you prove the rest." She drew her good hand off Chathu's leaves. Her bandaged arm lay in her lap, and Neela saw Usha's shoulder move as though the welt had stung them both. "I think I am being asked, today, to put down several things I have carried a long time. I should like to say what I will sign. I would like the hall to hear it, and the Thurai to hear it, if there is a wind. I will sign a charter that—"
+The queen drew her good hand off Chathu's leaves. Her bandaged arm lay in her lap, and Neela saw Usha's shoulder move as though the welt had stung them both.
+
+"I should like to say what I will sign," Nirmala said. "I would like the hall to hear it, and the Thurai to hear it, if there is a wind. I will sign a charter that—"
 
 A horn sounded from the padippura.
 
@@ -6382,7 +6450,7 @@ Everyone turned. Behind her, Devan drew breath.
 
 The note sounded again, and a third time, with something added at the end that she had never heard. Bhaskaran, who had a wife and four daughters and a soldier's discipline about horns, had let it run long.
 
-Muthu was already at the door. He looked down the stair and back. His face was a man's who has read something in a clerk's round hand and hopes he's mistaken.
+Muthu was already at the door. He looked down the stair and back. He wet his lips and looked at Devan before he spoke, as a man does who would rather the news came from someone else.
 
 "Warden," he said. "It's Justice Rema. On your letter." A pause. "She's brought the high court's roll."
 
@@ -6404,7 +6472,7 @@ Janu waited in the doorway, Muthu behind her. The Company had come in at Neela's
 
 *Say it anyway,* Devan thought.
 
-Asha had written it on a scrap he found under a camphor block. He had kept it from Neela for weeks, because it was the one thing of Asha's he could not share. She had meant it for whoever found the ugly truth. He had spent six years being a man who found it and kept it in a box.
+Asha's scrap. Neela had heard him read it at dawn in the warden's chamber, and she had said *Thank you for telling me.* Asha had meant it for whoever found the ugly truth. He had spent six years being a man who found it and kept it in a box. Neela knew that. They both knew what it was asking of him now.
 
 "Justice," he said. "I have a paper to read. Then I will give it to you."
 
@@ -6412,7 +6480,7 @@ He took the oilcloth bundle from inside his coat. He had lifted it out of the ho
 
 The queen did not move. Usha, at her shoulder, did.
 
-"This is a contract chit," he said. "It is the buyer's half. It names the warden's chamber at Kettamala, death by beast, before the pass closes. It is in Master Chathu's hand, and I know the hand from a letter shown at a border school." He turned the sheet and held it where the window light fell. "And this is a payment writ. It is dated seven weeks before my wedding. It is payable to the Resin House on the warden's account. It is sealed in green wax with a sunbird, and the sunbird has a chip at the left wing tip."
+"This is a contract chit," he said. "It is the buyer's half. It names the warden's chamber at Kettamala, death by beast, before the pass closes. It is in Master Chathu's hand." He turned the sheet and held it where the window light fell. "And this is a payment writ. It is dated seven weeks before my wedding. It is payable to the Resin House on the warden's account. It is sealed in green wax with a sunbird, and the sunbird has a chip at the left wing tip."
 
 He set the cut wedding-gift seal beside the writ. The chip matched.
 
@@ -6420,7 +6488,7 @@ He set the cut wedding-gift seal beside the writ. The chip matched.
 
 The Company stood at his back like weather.
 
-He knew what he was spending. Three hundred spears. The captains who had not yet decided to follow a man with one hand. The pass. He had told Neela the cost at dawn, plainly, because she asked for no softer word.
+Three hundred spears, he had told Neela at dawn. The captains who had not yet decided to follow a man with one hand. The pass. She had asked for no softer word, and he had given none. Now he was spending all of it.
 
 "I will not hold this over you, Majesty," he said, turning to the chair. "I have carried it on a hill for weeks and thought about how I might. I don't want a lever. I want it seen."
 
@@ -6440,17 +6508,13 @@ Rema took it as if it were hot. Her thumb found the chip in the wax. She looked 
 
 Nirmala stood.
 
-She did it without Usha's arm, which cost her something. The welt on her left forearm showed pale under the bandage where she had pushed back her cuff. It was Usha's, shared, and she did not try to hide it.
+She did it without Usha's arm, which cost her something. The welt on her left forearm showed pale where she had pushed back her cuff. It was Usha's, shared, and she did not try to hide it.
 
 "May I answer?"
 
 "The hall is yours," Devan said. It was the first thing he had given her that was not evidence.
 
-"I permitted the raids," said the queen. Her voice was warm and unhurried. It did not rise. "Limited, through controlled passes, in exchange for no fleet on the coast. I made that treaty with sea lords I did not respect, and I called it keeping the peace. I bought thirty children's pages from a man I knew to be a seller of children, and I called it an economy. I sealed this writ." She did not look at it. "I paid for your death, Warden. You had asked a question that led to my councillor's door, and my councillor's door led to mine."
-
-Devan had heard liars confess. He had heard frightened men do it. He had never heard it done like a ledger being read aloud, one line at a time, by the person who kept it.
-
-"I believed a realm is kept safe by what it never has to see," she said. "The widows saw the sums paid. The villages saw the smoke. I saw only that the harbour was whole." She took a breath that Devan watched her pay for. "The night the Thurai came up that cut with bronze caps and ladders, twenty-six of my own knives knelt in the wet, bleeding for strangers. A realm is not safe by what it has not seen. I held that it was. I find it isn't so. It is only blind."
+"Twenty-six of my own knives knelt in the dark and chose who they would bleed for," said the queen. Her voice was warm and unhurried. It did not rise. "I held that a realm is safe by what it has not seen. It is only blind."
 
 She stopped. The hall let her.
 
@@ -6480,11 +6544,23 @@ He lowered his hand. "That's all of it. These are not mine to sign. Hands, if yo
 
 "No. They are yours. Guard them or don't."
 
-Thulasi asked whether *the pass by contract* meant they could be ordered back to the cut against their wishes. Devan said, "No. The contract says what you agree to. Anything past it comes back to a vote." She nodded and said nothing more.
+Madhavi had not raised a hand. She stood with her arms folded, and her voice, when it came, was flat.
+
+"The fifth. Contract means pay. Lekha wasn't paid. Orma wasn't, nor Kani, nor Swathi. They died on that shelf because we voted to stand on it." She looked at the queen's chair and back. "If the crown can hire us to hold a pass, it can hire us to die on one. I'll not raise a hand for that."
+
+Nobody moved. It was a fair thing to say, and Devan did not pretend otherwise.
+
+"Then the clause changes," he said. "The Company holds the pass by contract, and no contract binds a member to stand in any place she hasn't voted to stand. The vote comes first, every time, the dead or the living. It goes in as written."
+
+Madhavi studied him a long moment. "And if the crown calls it a refusal?"
+
+"Then it's a refusal. That's what the word means."
+
+She unfolded her arms. Thulasi, beside her, lifted a hand, and then Madhavi did, last and slowest.
 
 Kuttu counted. He counted twice, because he did not trust his own thumb. When he was done he looked at Neela.
 
-"All of them," Kuttu said. "All five. No one wanted a clause cut." He swallowed. "Kamalakshi's hand was the last one up, and the highest."
+"All five," he said. "None cut. Fifth carried as amended." He swallowed. "Kamalakshi's hand was the last one up, and the highest."
 
 Devan found his own throat unreliable. He had asked, and they had answered. It was the whole of the thing.
 
@@ -6502,7 +6578,7 @@ Rema's pen stopped over the page. "That roll goes past the assize note, Devan. I
 
 "You would have no office to shelter behind. The crown could answer any one of them on you."
 
-"Then it's spent." He kept his eyes on her. "I want the Company's life. I do not want Kettamala. I will not go home to it if home means standing apart from her. Wherever the vote sends her, my name will be on the roll beside hers."
+"Then it's spent." He kept his eyes on her. "I want the Company's life. I do not want Kettamala. I will not go home to it if home means standing apart from her. My name goes on the roll, and it stays there."
 
 The silence went on a moment longer than he could bear.
 
@@ -6556,7 +6632,7 @@ He kept his eyes on the road. It was an odd thing to be given: a witness's knowl
 
 "Names only."
 
-Behind them, a flask clinked. Resin has a smell like scorched tamarind, and he had hated it for twelve years. It no longer made his skin crawl. It smelled like the start of her mornings.
+Behind them, a flask clinked. Resin has a smell like scorched tamarind, and he had hated it for twelve years. It no longer made his skin crawl. It smelled like the hour she came back to him.
 
 "Lata," Neela murmured. Hard heels on the stones, a guard's boots, then a stop. "She's stopped at Usha."
 
@@ -6584,7 +6660,7 @@ Usha let out a long, shaking exhale. It was the sound of a person taking a weigh
 
 "I have it," Usha said. "Lata. I have it."
 
-"Done," Neela breathed. "Both of them standing." Her shoulder was warm against his arm. She went on counting for him, a name at a time, as the last of the unbound came. "Sajan. He's stopped at the edge. Sanu's watching him go." A scuff. "Kandan, close behind Sanu. Fists under his arms by the sound of his coat." Devan didn't turn. Voices, one by one. A word. A breath answering. Madhavi crying. Kuttu telling someone, in a cracked voice, that it didn't hurt, it didn't, he swore it.
+"Done," Neela breathed. "Both of them standing." Her shoulder was warm against his arm. She went on counting for him, a name at a time, as the last of the unbound came. "Sajan. He's come to the edge, and he's stopped. Sanu's watching him." A long scuff, then a boot turning back. "He's not stepping out. Not tonight." Devan didn't turn. "Kandan, close behind Sanu. Fists under his arms by the sound of his coat." Voices, one by one. A word. A breath answering. Madhavi crying. Kuttu telling someone, in a cracked voice, that it didn't hurt, it didn't, he swore it.
 
 "Kamalakshi," Neela said last, and he heard her smile. "Straight line. She's walking it like a rope."
 
@@ -6596,7 +6672,7 @@ He heard Kamalakshi say, "Steward."
 
 A silence. Then Janu, in the voice she used for burned rice, "Me? I'm sixty-one."
 
-"You sat up with a lamp for the lot of us and didn't ask for anything after."
+"You fed the lot of us and didn't ask for anything after."
 
 Another pause, longer. Devan could picture the apron, the fists in it.
 
@@ -6622,7 +6698,7 @@ Neela's hand found his, the good one, and stayed. "That's all of them," she said
 
 He turned. She was already looking at him, her eyes bright.
 
-Across the court, the south range had one window lit. A thin thread of smoke rose from it, too pale for a cookfire and too steady for a lamp.
+Across the court, the north range had one window lit. A thin thread of smoke rose from it, too pale for a cookfire and too steady for a lamp.
 
 "That's the queen's," Neela said.
 
@@ -6640,9 +6716,9 @@ Across the court, the south range had one window lit. A thin thread of smoke ros
 
 By noon the queen had not come, and Neela had counted the road four times.
 
-The old watch-house stood on the shoulder above the narrows, a squat laterite room with a slate roof, a door that had lost its hinges and a gate fire-basket rusted the colour of dried blood. It had one window facing the pass. Someone had swept the floor. Janu, probably, who had arrived at dawn with a broom and a list of complaints.
+The old watch-house stood on the shoulder above the narrows, a squat laterite room with a slate roof, a door that had lost its hinges and a gate fire-basket rusted the colour of dried blood. Someone had swept the floor. Janu, probably, who had arrived at dawn with a broom and a list of complaints.
 
-Rema's table stood in the middle, borrowed from the lower court. The Company stood along the walls, sixty names and more, with garrison men packed in at the back. Devan stood at Neela's shoulder, a step behind and a little to the side, as he had promised. His dead arm lay bound in Thankam's green sash. His good hand was in her sleeve, and he did not seem to know it.
+Rema's table stood in the middle. The Company lined the walls, sixty names and more, with garrison men packed in at the back. Devan stood a step behind Neela's shoulder, as he had promised. His right arm lay bound in Thankam's green sash. His good hand had found her sleeve, and he did not seem to know it.
 
 "She'll come," he said.
 
@@ -6654,11 +6730,11 @@ Rema's table stood in the middle, borrowed from the lower court. The Company sto
 
 "It hasn't moved."
 
-"Neither has she," said Neela, and Kandan's voice came from the door, loud with relief.
+"Neither has she," said Neela, and Kandan called from the door, loud with relief.
 
 "Riders. The queen's own."
 
-Nirmala came up the last of the slope on foot. Usha walked at her side, and behind them came Captain Haran with a grim face and a flat green case under his arm. The queen's grey hair was freshly dressed, and her face carried a night with no sleep in it. She stopped in the doorless frame and looked at the sweepings and the rust and the people.
+Nirmala came up the last of the slope on foot, Usha at her side. Captain Haran followed with a grim face and a flat green case under his arm. The queen's face carried a night with no sleep in it. She stopped in the doorless frame and looked at the sweepings and the rust and the people.
 
 "I have been in many halls," she said. "None of them had its owners in the doorway."
 
@@ -6666,43 +6742,69 @@ Nirmala came up the last of the slope on foot. Usha walked at her side, and behi
 
 "No. It is better for that." She walked in.
 
-She did not take a chair. She stood at Rema's table, and Rema stood to one side with the roll open. The first copy of the charter was in a clerk's round hand. As Nirmala unfolded it, Neela saw that the last third was in the slanting hand she knew from the sea room, quick and uneven, with two lines struck through.
+She took no chair. She stood at Rema's table and unfolded the charter. The first part was in a clerk's round hand. The last third was in the slanting hand Neela knew from the sea room, quick and uneven, with two lines struck through.
 
-"I wrote this myself," said the queen. "I would like to read it myself. Justice, tell me if I leave a word out."
+"I wrote this myself," said the queen. "I will read it myself. Justice, tell me if I leave a word out."
 
 "I will."
 
-She began.
-
 "*We, Nirmala, queen of Varanad, in daylight and before witnesses, recognise the Night Company as a body of free persons, owning its name, its groves, its hall and its members' lives. No page, leaf or ledger of any member shall be held by the crown or by any hand but the member's own. No member shall be hunted, caged, sold or named rogue under this charter. The Company contracts by its own vote and refuses by its own vote.*"
 
-Neela had heard her read a dozen petitions in the same warm, even voice. The voice had not changed, only what it carried.
+It was the voice Neela had heard read a dozen petitions, warm and even. The voice had not changed, only what it carried.
 
-"*The Company holds the Blackbark groves under the map of Pachan, hunter and tapper, and the resin is the Company's to ration and no one's to sell. The sums entered in the crown's book as 'Sold to the crown', for thirty pages over twenty years, were taken from the price of children. They are owed back to the members they name, with the years, from the crown's own treasury, in panam, on the first day of the dry season.*"
+"*The groves go to the Company under the map of Pachan, hunter and tapper. The sums entered as 'Sold to the crown', thirty pages over twenty years, were taken from the price of children. They are owed back to the members they name, with the years, from the crown's treasury, on the first day of the dry season.*"
 
 A sound went round the walls. It was not a cheer. Thulasi had shut her eyes.
 
-"*And the crown sets down, so that none who comes after may say it did not know, what it permitted.*" The queen's voice did not drop. "*The crown permitted limited raids by Thurai through the controlled passes, in exchange for a fleet that did not land. The crown permitted the pass-tokens of its councillor. The crown permitted the taking of children from villages the raids had burned, and bought their pages, and told the children they were safe. The crown kept in office the councillor who bought the death of the warden's sister Asha, and sealed the writ for the warden's own death in its own wax.*"
+"*And the crown sets down what it permitted, so that none who comes after may say it did not know.*"
 
-She stopped, and breathed once.
+Rema's pen lifted and waited.
+
+Haran moved before the queen could go on. He stepped out from the pillar with the green case still under his arm, and every head turned.
+
+"Majesty." His voice was rough. "Strike the next clause. Whatever it says, it names the raids. I have held your crown spears twenty years on the word that Varanad did not trade its villages. Say it was done by the Keeper alone and I will stand behind you to the sea. Say it in front of sixty rogues and Thurai spies and every spear I command, and I don't know what I'm standing behind."
+
+It was a loyal man's plea, and a fair one. The queen could have a clerk cross out a line. Nobody in the room would ever see it.
+
+The words rose in Neela's throat. *Keep it.* She had carried Nellimala on a torn leaf for weeks. If she spoke, the queen's choice became Neela's demand, and the queen could hand the whole weight to her and say she was made to. If she held her tongue, it would be the queen's own act or nothing.
+
+She closed her mouth. Devan's hand tightened on her sleeve, once, and let go.
+
+Nirmala looked at her captain a long moment.
+
+"No, Haran," she said. "I keep it. If a man cannot stand behind what I did, he should know that today, not at some worse hour." She turned the page. "I am sorry. I would have liked to keep you."
+
+His jaw worked. He bowed, correctly, and stepped back to his pillar. He did not look at her again.
+
+She read on, in daylight, in the same voice, one line after the next.
+
+"*The crown permitted limited raids by Thurai through the controlled passes, in exchange for a fleet that did not land. At Nellimala, in the second harvest, the crown permitted two boats to cross the bar, and its men stood at the head of the goat path with a cart, and the children of the village were counted onto it. The crown bought their pages. The crown told them they were safe.*"
+
+Neela did not move. She had never heard anyone say that village's name in a hall.
+
+"*The crown sealed, in its own green wax, the writ that paid for the death of Devan, warden of Kettamala. The crown kept in office the councillor who bought the killing of Asha, the warden's sister, on the west stair, and the crown knew.*"
+
+Muthu stared at the floor. Bhaskaran's lips moved on a name. Somewhere behind her a spear butt slid on the flagstones, and the sound ran out into the wind in the slates.
+
+The queen stopped.
 
 "I have left no word out, Justice?"
 
-"None," said Rema.
+"None," said Rema. Her hand was not quite steady.
 
 "Then I sign."
 
-*Nirmala,* in full, quick and slanted, no stamp, no clerk's copy. She set the pen down gently, as if it weighed more than a pen should.
+*Nirmala,* in full, quick and slanted, no stamp. She set the pen down gently, as if it weighed more than a pen should.
 
-"Recorded," said Rema, writing. "In daylight, by the high court's leave, before the parties. Captain Muthu."
+"Captain Muthu," said Rema.
 
-Muthu came forward with the iron warden's disc in his fist. He had carried it since the day Devan unhooked it in the hall, and it still hung on him like a borrowed coat. He pressed it into the black bead of wax beside the queen's name with his whole weight. "Witnessed," he said. His voice cracked. "For the border. And the villages."
+Muthu came forward with the iron warden's disc in his fist. It still hung on him like a borrowed coat. He pressed it into the black wax beside the queen's name with his whole weight. "Witnessed," he said. His voice cracked. "For the border. And the villages."
 
 "And not for the household," said Devan quietly.
 
-"Not for anyone's household," Muthu said, and stepped back without looking at anybody.
+"Not for anyone's household," said Muthu, and stepped back.
 
-Neela found she was holding Devan's hand hard. Under her thumb sat the rope blister he had raised on the shelf ropes, three days old and tender. A welt rose on her own palm, and she let it. He turned his hand and held hers back, blister and all.
+Neela found she was gripping Devan's hand. Under her thumb sat the rope blister he had raised on the shelf ropes, three days old. A welt rose on her own palm, and she let it. He turned his hand and held hers back, blister and all.
 
 
 ::: {.scene-break}
@@ -6710,63 +6812,55 @@ Neela found she was holding Devan's hand hard. Under her thumb sat the rope blis
 :::
 
 
-The green case lay open on the table. Haran had unbuckled it without being told.
+Haran opened the green case without being told.
 
-Inside lay the crown leaf, what was left of it: three stiff pale leaves, each with a green-threaded roll looped to it, scorched along one edge. Lata's had burned itself at dusk, when she named Usha. Beside them lay the sheet headed *Sold to the crown*, which Devan had taken from his pack and laid there at dawn, with thirty ledger numbers and the folded-wing birds. Under that, tied with plain tape, lay forty leaves in Chathu's tidy hand.
+Inside lay the crown leaf, what was left of it: three stiff pale leaves, each with a green-threaded roll looped to it, scorched along one edge. Beside them lay the sheet headed *Sold to the crown*, with thirty ledger numbers. Under that, tied with plain tape, lay Chathu's forty leaves in his tidy hand.
 
 "The gate basket, I think," said the queen. "Is it lit?"
 
-It was. Kuttu had lit it at dawn, with a face that said he had a view on the matter. Nirmala took up the three leaves herself and carried them to the door and the small hungry flame in the rusted basket. The Company let her through. Neela went too, because she would not have missed it for a pardon, and she saw the queen's hand lift.
+Kuttu had lit it at dawn, with a face that said he had a view on the matter. Nirmala took up the three leaves and carried them to the door. Neela went too, because she would not have missed it for a pardon.
 
-"Stop."
+The first leaf was an inch from the flame when Neela said, "Stop."
 
-The queen stopped, the first leaf an inch from the fire.
+The queen stopped.
 
-"The rolls," said Neela. Her voice came out harder than she meant. "They're looped on. Birth names, birth villages. Burn the leaf and you burn those with it."
+"The rolls are looped on. Birth names, birth villages. Burn the leaf and you burn those with it."
 
-Nirmala looked at the green thread as though she had never seen it, and Neela believed she hadn't. The crown had read those leaves for twenty years and never once read the part that belonged to the children.
+Nirmala looked at the green thread as though she had never seen it, and Neela believed she hadn't. The crown had read those leaves for twenty years and never read the part that belonged to the children.
 
 "I did not think," said the queen.
 
 "No."
 
-Usha held out her belt knife, hilt first. Neela cut the thread on the first roll, carefully, the way she cut a lock-spring. It came away whole. She did it three times. Then she held the rolls out on her palm and looked for the people they belonged to.
+Usha held out her belt knife, hilt first. Neela cut the thread on each roll the way she cut a lock-spring, carefully, and held them out on her palm.
 
-Two guards came forward and took theirs. Sajan came last. His brother Sanu stood beside him, close enough that their sleeves touched. Sajan closed his fist on the roll. It named a younger brother sold at seven, and the brother was standing next to him, not quite looking at the paper.
+Two guards took theirs. Sajan came last, his brother Sanu beside him, sleeves touching. Sajan closed his fist on his roll. It named a younger brother sold at seven, and the brother stood next to him, not quite looking at the paper.
 
-"The leaf is only the leash," Neela said. "The roll is yours. What you do with the leaf is yours too."
+"I'd like to burn the leaf myself," said Sajan.
 
-"I'd like to do it myself," said Sajan.
+The queen held it out with both hands. He fed it to the basket corner first. It curled and blackened, and the ash went off on the pass wind. The other two folded theirs away and said nothing. They had the rest of their lives to decide.
 
-The queen held the leaf out with both hands. He took it and fed it to the basket corner first. It caught, curled and blackened, and the ash rose and was gone on the pass wind. The other two folded theirs away and said nothing, and nobody asked them to. They had the rest of their lives to decide.
+The *Sold to the crown* sheet went in next, once Rema nodded that every number was copied into the charter. Then the queen loosened the tape on Chathu's forty and let them fall in a heap. They smoked, brown and ordinary, a clerk's list of rooms nobody lived in.
 
-The queen put the sheet in next, once Rema nodded that every number was copied into the charter. The thirty numbers blackened in order. Then she loosened the tape on Chathu's forty and let them fall in a heap. They smoked, brown and ordinary, a clerk's list of rooms nobody lived in.
-
-"Done," said the queen. She wiped her hands on her skirt like any woman at a hearth. "I keep my throne, Neela Seventeen, I believe. I do not keep my knives."
+"I keep my throne, I believe," said Nirmala, wiping her hands on her skirt like any woman at a hearth. "I do not keep my knives."
 
 "You keep your name," said Neela. "That's a good deal."
 
-"Is it?" The queen smiled slightly. "It is the one thing I may no longer hide behind."
+"It is the one thing I may no longer hide behind." She waited. "You have something else to ask. You have had it in your mouth all morning."
 
-Neela had braced all morning for the second thing, and it came up in her throat.
+"Chathu."
 
-"I have a request. Chathu."
+Behind her, Devan did not move.
 
-The queen waited. Behind Neela, Devan did not move.
+"Don't kill him. Don't keep him in the rock. The kennels at the groves hold forty-one caged animals, and Pachan carries all the water. Kirri's in the third from the end. Chathu is the only one who knows which animal is whose. Send him there, under Pachan. He feeds them and cleans every cage with his own hands until he dies. He doesn't leave, he doesn't write, and he doesn't speak a shape between dusk and dawn. Pachan can keep the gag cloth."
 
-"Don't kill him," said Neela. "Don't keep him in the rock. The kennels at the groves hold forty-one caged animals, and Pachan carries all the water, and he has two hands. Kirri's in the third from the end. Chathu kept them. He was the only one who knew which animal was whose. Send him there, under Pachan. He feeds them and waters them and cleans every cage with his own hands until he dies. He doesn't leave, he doesn't write, and he doesn't speak a shape aloud between dusk and dawn. Pachan can keep the gag cloth."
-
-"For life. You think that is mercy?"
+"You think that is mercy?"
 
 "No," said Neela. "I think it's the only job he's never done."
 
 Nirmala was silent. Then she said, "Captain Haran, you will write that."
 
-"Majesty—"
-
-"At once, Captain."
-
-Haran wrote.
+Haran wrote, without looking up.
 
 
 ::: {.scene-break}
@@ -6774,27 +6868,31 @@ Haran wrote.
 :::
 
 
-One more thing remained, and Neela had been afraid of it all morning.
+One thing remained, and Neela had been afraid of it all morning.
 
-It was small. The Company's roll lay on a board across two buckets, a crown leaf in clerk's ink with sixty-odd names. Neela's own was first, in her hand. Under it sat Devan's, left-handed and crooked, where he had signed it in front of everyone. Beside the two names, in the margin, there was room for one more line.
+The Company's roll lay on a board across two buckets. Neela's name was first, in her own hand. Under it sat Devan's, left-handed and crooked. In the margin there was room for one line.
 
-"Your hand," Devan said. "Mine looks as if a hen wrote it."
+Devan looked at the reed in the pot, and at his left hand. Then he looked at her, in front of sixty people.
 
-"It looks like yours."
+"Write it for me," he said. "Mine looks as if a hen wrote it. I'm asking."
 
-She took the reed, and beside their names, in her own steadier letters, she wrote the line they had worked out on the walk up the shoulder at dawn, in whispers, with the whole Company asleep below.
+She heard what he was doing. Nobody in that room had ever seen the warden of Kettamala ask anyone for a hand.
 
-She read it aloud for the walls, because the Company had a right to hear.
+"Ask, and I do it," said Neela.
+
+She took the reed and wrote the line they had worked out at dawn, in whispers, with the Company asleep below. Then she read it aloud, because the Company had a right to hear.
 
 "*Bound by choice.*"
 
-"Bound by choice," Devan said after her, to the sixty, and he said it like a clause he had read ten times and agreed with.
+"Bound by choice," Devan said after her, to the sixty, like a clause he had read ten times and agreed with.
 
-"That is all?" said Rema, peering.
+Kamalakshi thumped the wall once with the flat of her hand. Nobody told her to hush.
 
-"That is all," said Neela. "We'll say the rest to each other."
+"He asked her," Madhavi said, low, to nobody. "Did you hear it? He *asked.*"
 
-Kamalakshi said "Finally," and nobody told her to hush.
+"I heard," said Kandan, and for once he did not sound as if he were arguing.
+
+Neela kept her eyes on the wet ink. The line on the roll was the smaller one, she knew. The larger one had been said first, and aloud.
 
 
 ::: {.scene-break}
@@ -6802,11 +6900,9 @@ Kamalakshi said "Finally," and nobody told her to hush.
 :::
 
 
-The tent was Muthu's, lent and not asked for. It stood on the shoulder behind the watch-house with its back to the wind. It held a lamp, a rush mat, two blankets and one pot of water. A leaf packet of cold rice and curd stood by the door, left by a hand that had not come in.
+The tent was Muthu's, lent and not asked for. It stood on the shoulder behind the watch-house with its back to the wind: a lamp, a rush mat, two blankets, a pot of water. A leaf packet of cold rice and curd lay by the door, left by a hand that had not come in.
 
-Neela undid the flap, and Devan ducked in after her.
-
-He stood with his bad arm against his chest. In the lamplight his face looked tired and unguarded, the grey in his hair standing out. He was thirty-two and she was twenty-seven, and he had refused a throne's offer, and he looked at the floor of the tent like a field he had been told to cross.
+Devan ducked in after her and stood with his bad arm against his chest. In the lamplight his face looked tired and unguarded, the grey in his hair showing. He was thirty-two and she was twenty-seven, and he looked at the floor of the tent like a field he had been told to cross.
 
 "I can't do some of it," he said.
 
@@ -6820,33 +6916,29 @@ He stood with his bad arm against his chest. In the lamplight his face looked ti
 
 "Between sums."
 
-The corner of his mouth gave. Then he said, low, "I'm afraid I'll do it wrong. I've only ever done this with two hands. With you."
+The corner of his mouth gave. Then, low, "I'm afraid I'll do it wrong. I've only ever done this with two hands."
 
 "Come here."
 
-He knelt on the mat. She found the knot of the green sash. Thankam had tied it with a surgeon's firmness, and Neela bent over it the way she bent over a lock. When it fell open she eased the arm out and laid it across her knee, the dead weight of it, the hand curled and still.
-
-She kissed the palm. Nothing moved, but he drew a sharp breath through his teeth.
+He knelt. She found the knot of the green sash. Thankam had tied it with a surgeon's firmness, and Neela bent over it the way she bent over a lock. When it fell open she eased the arm out and laid it across her knee, the dead weight of it, the hand curled and still. She kissed the palm. Nothing moved, but he drew a sharp breath through his teeth.
 
 "Can you feel that?"
 
 "A little. Like a lamp across a room." His voice had roughened. "More than I did."
 
-So the hand was dead, and still it listened. She turned his fingers over and set his palm against her ribs, where the hook had torn them in Kodiyur, and held it there with her own.
-
-"Then feel it there. Tell me if it's too much."
+She set his palm against her ribs, where the hook had torn them at Kodiyur, and held it there with her own. "Then feel it there. Tell me if it's too much."
 
 He told her it was not.
 
-She undressed him slowly, with her eyes on the work, the way she had done every hard thing in her life. She eased the wool from the stitched shoulder and kissed round the place under the collarbone, then the nine silk stitches on his ribs. Under her mouth his breath went to pieces. When she was done she let him do the same for her, with his good hand, one finger at a time, learning a word in a language he'd stopped speaking.
+She undressed him slowly, with her eyes on the work, as she had done every hard thing in her life. She kissed round the stitched place under the collarbone, then the nine silk stitches on his ribs. Under her mouth his breath came apart. When she was done she let him do the same for her with his good hand, one finger at a time.
 
 "Ask me," she said, when he stopped.
 
 "What?"
 
-"You always do it without asking. You work it out from my back, my face. Do it aloud."
+"You work it out from my back, my face. Do it aloud."
 
-His breath caught. "May I—" The sentence did not come, and she waited. He closed his eyes. "Neela. May I put my hand here."
+"May I—" The sentence did not come, and she waited. He closed his eyes. "Neela. May I put my hand here."
 
 "Yes."
 
@@ -6858,33 +6950,35 @@ His breath caught. "May I—" The sentence did not come, and she waited. He clos
 
 "I'm not going anywhere," she said, and moved over him.
 
-She guided his hand where she wanted it. He learned fast, as he had learned everything she showed him. He asked, and she answered, and between the answers neither had much breath. Her fingers laced through the ones that would not close. She took his weight on her own thighs so his shoulder would not carry it. He said her name into the hollow of her throat, over the pale ridged scars he had kissed a dozen times without once mentioning them, and something she had held tight since she was six years old let go.
+She guided his hand where she wanted it. He learned fast, as he had learned everything she showed him. Her fingers laced through the ones that would not close. She took his weight on her own thighs so his shoulder would not carry it, and the ache of that shoulder came through the share anyway and settled under her own collarbone, dull and hot. She kept his weight where it was. He said her name into the hollow of her throat, over the pale ridged scars he had kissed a dozen times without once mentioning them.
 
-The share carried the rest. It ran as it always ran, her heat in his skin and his in hers, a doubled pulse, but tonight it ran louder, the dead side of him heard at last. Her pleasure reached him before she had finished having it. He made a sound she had never heard from him, low and astonished, and held on with his one good hand like a man who thought she might be taken.
+Then his good hand slid up and came to rest at the back of her neck.
 
-When it was over, neither moved for a long time.
+Her whole life that place had been the place for *wait.* At the Resin House the hunters had dropped an iron ring on its chain over her nape while the paddle did its work on her throat. After that, a hand there meant being led. The old tightness started in her shoulders, and she let it go by. She did not stiffen. His hand lay there, warm and a little clumsy, and it was only his.
+
+The share carried the rest, her heat in his skin and his in hers, a doubled pulse. Her pleasure reached him before she had finished having it. He made a sound she had never heard from him, low and astonished, and held on with his one good hand like a man who thought she might be taken.
+
+Afterwards they lay quiet while the lamp burned down a finger's width.
 
 "I count the exits," she said into his collar. She hadn't meant to say it.
 
 "I know."
 
-"Door, flap, the seam by the pole. I always do." She was quiet. "I stopped. About the time you said my name. I didn't count anything."
+"Door, the seam by the pole. I always do." She was quiet. "I stopped. About the time you said my name."
 
 He didn't say *good.* He didn't say *safe.* He put his mouth against her hair.
 
-"Then it's the one place," he said. "The place where you can stop." He said it slowly, picking it out from the rest. "I'd like to be that. If you let me."
+"Then it's the one place," he said slowly. "The place where you can stop. I'd like to be that. If you let me."
 
-She lay on his good shoulder and looked at the lamp's moving ring on the roof. She had worn a leash once, a ledger, a number. She had spent years learning that a hand on the back of the neck means *wait.* His hand lay on hers now, and it meant nothing but *here.*
-
-"And I'll be your right hand," she said. "The pen, the sword, the knots. Whatever you can't do, I do. Ask, and I do it. I'll say when I can't."
+She lay on his good shoulder and watched the lamp's ring move on the roof. "And I'll be your right hand. The pen, the sword, the knots. Ask, and I do it, the way I said at the roll. I'll say when I can't."
 
 "You'll say it before you do it."
 
-"Before," said Neela. "That's the bargain."
+"Before. That's the bargain."
 
 "It's a better one than the first."
 
-"The first was a bad one," she said, and he laughed into her hair, the slow dry laugh she had waited half a year of mornings for.
+"The first was a bad one," she said, and he laughed into her hair, the slow dry laugh she had waited half a year for.
 
 
 ::: {.scene-break}
@@ -6894,57 +6988,59 @@ She lay on his good shoulder and looked at the lamp's moving ring on the roof. S
 
 She woke at first grey with her cheek on his collarbone and the lamp long out.
 
-Cold came in under the flap. Out on the shoulder a langur barked once and stopped. She did not count the door. She counted what she had counted every morning since the wedding, and it was waiting where it always was: a small catch in a long slow breath, a third of the way through the count.
-
-*One, two, and—*
+Cold came in under the tent wall. Out on the shoulder the wind worried the rusted basket. She counted what she counted every morning she woke beside him, and it was waiting where it always was: a small catch in a long slow breath, a third of the way through.
 
 There. Alive.
 
-"Seven," said a voice by her ear, rough with sleep.
+"You hitch at nine," said a voice by her ear, rough with sleep. "I've counted it every morning I've woken beside you."
 
-She went still. "What?"
-
-"Seven breaths from the first of the grey. Yours catches at the ninth count. You hitch like a cart on a stone." His chest lifted under her cheek. "I've been awake a while. I wanted to be sure."
-
-"You count mine."
-
-"Every morning. Since the wedding. I thought you knew."
-
-She hadn't. She lay with that and found her eyes were wet, and thought, quite calmly, that she'd been counting him for half a year and he'd been counting her as long, and neither had said.
+She went still. She had known he listened. She had not known how closely. Every morning they'd had, he'd spent it counting.
 
 "Then we've kept each other alive for half a year," she said, "on a bad habit."
 
-"It's a good habit." In the thin light his face looked slack and easy, a man who had slept. "The Company will want its first vote today. As a chartered body, I mean. The crown can't order it now, and it can refuse the crown." He sounded almost amused. "Kuttu has been looking at the road since we came in."
+"It's a good habit."
 
-She thought of Kamalakshi's raised hand and sixty ways of saying *no.* "What will he put to them?"
+She sat up, and the cold found her shoulders. His coat lay where it had been dropped, the sleeve turned inside out. His right arm lay on the blanket, the hand curled, patient.
 
-"I don't know. That's the point of it."
+"Ask," she said.
 
-Outside, the horn spoke, one long bellow from the watch-house door. It was Kuttu's, and he was not a man who waited for the light.
+"My sleeve," said Devan. "If you would."
 
-Neela sat up. Through the flap she saw him on the shoulder, pointing down the pass road. A stranger was climbing it alone at grey, small as a thumb against the mist, in no hurry at all.
+She took the coat and knelt beside him and eased the dead hand toward the cuff the way she would thread a needle.
 
-Devan reached for her with his good hand, and she took it, and for a breath neither moved.
+Far off, from the watch-house, a horn bellowed, one long note.
 
-Then she helped him find his sleeve.
+Her fingers stopped on the cuff. The horn came again, and Kuttu's voice with it, cracked and carrying across the shoulder.
+
+"Lone climber! On the pass road, at grey! One man, walking!"
+
+Devan was already listening. His face had gone from slack to still in a breath.
+
+"No horn in answer," he said. "No riders behind him. He wants to be seen." He looked at the hand in her fingers. "It's the Company's road now. Under the charter it's the Company's to answer, and the Company's to refuse. This is our first vote, Neela. The first one with the right to say no to the crown."
+
+"If he comes from the crown."
+
+"Then we'll find out together."
+
+She pulled the sleeve up over the dead hand, shoved the coat onto her own shoulder with the other arm still hanging out, and ducked through the tent wall into the grey, half-wrapped in his coat, to see who was climbing.
 
 # Chapter 32: The Night Company
+
+Weeks after the charter, the Thurai fleet sailed.
+
+Sixty hulls crept out of the bay on one tide, like a stain going out of cloth. The queen read the truce aloud on the Kodiyur harbour steps, in her own voice and under her own name. Usha stood at her shoulder and told it to Neela twice. Fishwives came down to hear. Rukmini sold mackerel through the whole reading and shouted at the scale-boy for staring.
+
+Open truce, the queen called it. Ships might return, under a cloth, to talk. Nobody in the hall believed it was peace. They believed it was a door left on the latch, and they had all learned to sleep beside one of those.
 
 The lamp at the hall door had no shutter.
 
 Neela checked it every dawn, the way she had once checked exits. It was a plain clay lamp on an iron hook, and it burned sesame oil day and night. Devan had taken the shutter off the first evening, prying the little tin door from its hinge with his left hand and a borrowed knife. He had set it on the sill without a word.
 
-Once, at the foot of a stair, she had opened a lamp a thumb's width because a man told her to. She had counted to three hundred and ten in the dark afterward. Now the lamp stood open to the whole pass, and anyone climbing the shoulder could see it from a mile off. It said: *someone is here, and the door is not shut.*
+Once, at the foot of a stair, she had opened a lamp a thumb's width out of fright. Afterward she had counted to three hundred and ten in the dark. Now the lamp stood open to the whole pass, and anyone climbing the shoulder could see it from a mile off. It said: *someone is here, and the door is not shut.*
 
 She trimmed the wick and went in.
 
-Weeks had gone by since the charter. The dry season had come early and hard, red dust where there had been mud, and the pass road had opened behind the last of the rains. The stranger who had climbed at grey after Kuttu's horn had turned out to be a boy, the pepper factors' runner, with wet sandals and a letter. Kuttu had been so embarrassed that he carried the boy's water up himself for a week.
-
-The Thurai fleet had sailed. Sixty hulls had crept out of the bay on one tide, like a stain going out of cloth. The queen had read the truce aloud on the Kodiyur harbour steps with her own voice and her own name. Usha had stood at her shoulder, and Usha had told it to Neela twice. Fishwives had come down to hear it. Rukmini had sold mackerel through the whole reading and shouted at the scale-boy for staring.
-
-Open truce, the queen called it. Ships might return, under a cloth, to talk. Nobody in the hall believed it was peace. They believed it was a door left on the latch, and they had all learned to sleep beside one of those.
-
-The hall was the old watch-house with its roof mended and its floor swept, and a long table that Thilak had built from the lower court's doors. Sixty-odd names hung on a board by the entrance in lamp-black. Sunlight lay across the table in a slab. Out on the packed earth behind, someone was swearing in a bright, cracked voice.
+The dry season had come early and hard, red dust where there had been mud, and the pass road had opened behind the last of the rains. The hall was the old watch-house with its roof mended and its floor swept, and a long table that Thilak had built from the lower court's doors. Sixty-odd names hung on a board by the entrance in lamp-black. Sunlight lay across the table in a slab. Out on the packed earth behind, someone was swearing in a bright, cracked voice.
 
 
 ::: {.scene-break}
@@ -6954,13 +7050,13 @@ The hall was the old watch-house with its roof mended and its floor swept, and a
 
 "Left," said Devan. "Not the right. Your right is the clever one. That's the problem."
 
-He stood in the yard with his dead arm in its sash and his good hand held out flat. In front of him stood six of the youngest: Kuttu's cousin from the ferry, a pair of Kandan's recruits with the cuffs still too long for them, and Meenu, who still kept her back to a wall whenever she could. Each held a wooden practice staff in the wrong hand.
+He stood in the yard with his dead arm in its sash and his good hand held out flat. In front of him stood six of the youngest: Kuttu's cousin from the ferry, a pair of Kandan's recruits with the cuffs still too long for them, and Meenu, who kept her back to a wall whenever she could. Each held a wooden practice staff in the wrong hand.
 
 "Why?" asked Meenu.
 
-"Because you're going to lose the other one someday." He said it flatly, as a fact about weather. "Everyone does, a little. A hook. A fever. A door shut on it. I had eight years of a drill that needed both hands, and it took a spear to teach me I'd only learned half of it." He turned the staff in the boy's fist, gently. "Again. Slowly. Slow is how you find where it hurts."
+"Because you're going to lose the other one someday." He said it flatly, as a fact about weather. "Everyone does, a little. A hook. A fever. A door shut on it. I spent eight years on a drill that needed both hands, and it took a spear to teach me I'd only learned half of it." He turned the staff in the cousin's fist, gently. "Again. Slowly. Slow is how you find where it hurts."
 
-They went again. The staves clacked. The drill was a slow open-handed pattern he had made himself at twenty-five, the winter after the ford. She had watched him learn to run it backward with the wrong arm, a hundred times a day, swearing quietly. He did not look at her. He knew she was in the doorway. The first boy's staff swung wide and caught Devan across the good forearm with a crack. Devan said nothing, but his ears went a little pink. On Neela's own left forearm a welt rose, hot and neat, and she rubbed it and did not look away.
+They went again. The staves clacked. The drill was a left-handed one he had built out of the old two-finger strike, the two fingers opened into a parry and slowed until the young could follow. She had watched him work it out in the pit before dawn, a hundred times a day, swearing quietly. He did not look at her, though he knew she was in the doorway. The cousin's staff swung wide and caught Devan across the good forearm with a crack. Devan said nothing, but his ears went a little pink. On Neela's own left forearm a welt rose, hot and neat. She rubbed it and did not look away.
 
 Muthu rode up at midmorning, which meant it was the seventh day.
 
@@ -6986,7 +7082,7 @@ They squared up in the dust. It was not graceful. Muthu led with a stroke so wid
 
 Muthu stood over him, panting.
 
-"That's one," he said, delighted. "That's one in eight years. Admit it, you're beaten."
+"That's one," he said, delighted. "One, since we were boys. Admit it, you're beaten."
 
 For a moment Devan lay looking at the sky. Then his shoulders began to shake, and the sound that came out of him was the slow dry one she knew, except that this time it came all the way up. He laughed at the sky. He laughed until he had to put his good hand over his eyes. The six young ones watched him in awe.
 
@@ -6994,9 +7090,7 @@ For a moment Devan lay looking at the sky. Then his shoulders began to shake, an
 
 "Say it again," said Muthu. He was laughing too, with his head back, the big army laugh that had once drowned out a lie. "Say it for the roll."
 
-Neela leaned on the doorpost and let her ribs ache. Far off in the dust a welt rose on her own ankle, a small bright joke in her bones.
-
-She remembered the day he told her he had laughed only once before she made him do it. She had stopped counting how many times since.
+Neela leaned on the doorpost and let her ribs ache. She had stopped counting how many times he had laughed since the first.
 
 
 ::: {.scene-break}
@@ -7006,21 +7100,21 @@ She remembered the day he told her he had laughed only once before she made him 
 
 The boat came in the afternoon, and it came as a basket.
 
-It arrived on a cart with a fisherman's boy who had walked up from the coast, and it was the sort of woven basket that carried mackerel. The boy had a letter. The letter was from a boatwright at Pazhayangadi, who had raised a new shed on the burned shore. He wrote carefully that the vessel was sound and the keel true, and that he had painted the name as requested. *Kirri.* Twelve feet of coast fishing boat, bought with the Company's first earnings, the pay the crown had sent up in a sealed bag for a month of holding the pass.
+It arrived on a cart with a fisherman's boy who had walked up from the coast, a woven basket of the sort that carried mackerel. The boy had a letter from the boatwright at Pazhayangadi, who had raised a new shed on the burned shore. He wrote carefully that the vessel was sound and the keel true, and that he had painted the name as requested. *Kirri.* Twelve feet of coast fishing boat, bought with the Company's first earnings, the pay the crown had sent up in a sealed bag for a month of holding the pass.
 
 The vote had been quick and strange. Kuttu had proposed it as a joke. Madhavi had stopped laughing before he finished. Thulasi had raised her hand first. Then it was hands all round the long table, even the four who never raised them for anything.
 
-Neela turned the letter over and read it a second time.
+Neela read the letter a second time.
 
-Kirri had promised to send her anklet back in a fish-basket, a sign, once she had a boat of her own. She had been the guild's best liar, and nobody had believed her. Now there was a boat and a basket, and Kirri herself lay in a cage in the Resin House kennels with her mind nearly gone. The anklet was still on her.
+Kirri had promised to send her anklet back in a fish-basket, a sign, once she had a boat of her own. She had been the guild's best liar, and nobody had believed her. Now there was a boat and a basket, and Kirri herself lay in a cage in the Resin House kennels with her mind gone. The anklet was still on her.
 
 Neela had a clean cloth folded. She had washed it three times in the well, with Janu's lye soap, and laid it in the sun. She put it in the basket with a leaf of rice and a note, which she had written four times and torn three.
 
-*Kirri. Your boat is built. She floats. I'll send the anklet down to her when you're ready to go out. Or you come out. I don't know which. Neela.*
+*Kirri. Your boat is built. She floats. I know the cage does not open, and I won't tell you it will. The boat sails in your name. When the day comes that your anklet can come off, it rides on her stem. Neela.*
 
 She had not written *I'm sorry.* The word had no place in a cage. But she had signed with both names, in the bottom corner, small. *Indu.*
 
-Pachan would carry it to the cage. He carried everything now, with Chathu behind him under a gag cloth at dusk and nothing but a mop and a bucket in his hands. Muthu had seen him on the cook-house step. Gaunt, grey, mopping.
+Pachan would carry it to the cage. He carried everything now, with Chathu behind him under a gag cloth at dusk and nothing but a mop and a bucket in his hands. Gaunt, grey, mopping.
 
 Neela sent the basket down with the fisherman's boy and watched him go.
 
@@ -7038,13 +7132,13 @@ The old woman had come up the shoulder alone, which at her age was a kind of reb
 
 Neela looked down. Her fingers had been working a sash end all the while, pulling a double hitch tight. She had done it without thought. She did it in her sleep.
 
-"Your mother tied it so," Ponni said. "Same hand. Same little flick of the thumb. She'd not have known she did it." She wiped her eyes briskly with the heel of her palm. "Don't fuss. I've seen the whole thing and I'm too old for you to fuss at."
+"Your mother tied it so," Ponni said. "Same hand. Same little flick of the thumb." She wiped her eyes briskly with the heel of her palm. "Don't fuss. I've seen the whole thing and I'm too old for you to fuss at."
 
 "Come and sit."
 
 "I'll see this door first."
 
-So Neela took her to the board by the entrance. The roll hung there in lamp-black, sixty names on a plank, with Thilak's careful letters at the top. *Neela,* the first line read, and beside it, in a smaller hand she had added herself, *Indu.* The two names stood together with a short bar between them, like two rivets in one plate.
+So Neela took her to the board by the entrance. The roll hung there in lamp-black, sixty names copied onto a new door board in Thilak's careful letters. *Neela,* the first line read, and beside it, in a smaller hand she had added herself, *Indu.* The two names stood together with a short bar between them, like two rivets in one plate.
 
 Ponni could not read. She put a finger on each name and listened while Neela read them aloud. She went over the second one twice.
 
@@ -7054,7 +7148,7 @@ Ponni could not read. She put a finger on each name and listened while Neela rea
 
 "You'll keep both?"
 
-"I'll keep both," said Neela. "One of them is a number I answered to. The other I didn't know I had. I'd like to have them in the same place."
+"I'll keep both," said Neela. "One I answered to for twenty-one years. The other I didn't know I had. I'd like to have them in the same place."
 
 Ponni nodded, once, as if closing a ledger. Then she squinted into the hall and saw Janu's tiffin on the table. Kannan had brought it up that morning, in a covered brass tin, with a note in Janu's large furious hand. The note said the rice was overboiled because the cairn-fire wood had been wet, that the greens were the last the garden would give, that Neela was thinner than she had any right to be, and that she should send the tin back clean. A second line added, almost as an afterthought, *Eat the curd first.*
 
@@ -7074,7 +7168,7 @@ At dusk they voted.
 
 It was the Company's first contract, and the Company took its time. Sixty-odd of them sat at Thilak's table or stood along the walls, with the lamp in the door burning behind them. Kuttu stood at the head with the great ram's horn on a thong round his neck. He had insisted. He had also insisted on speaking first, and had to be asked to stop.
 
-The offer was in the letter the runner had carried up weeks ago, from the pepper factors of the lower village, in a plain hand with no wax. Forty carts of pepper were stacked at the pass foot, waiting since the rains. The raiders had never touched them. But the road beyond the shelf was long and lonely, and the factors had lost two drovers in the spring. They wanted the carts escorted over the pass and down to the coast road, in daylight, by the Company. They offered pay by the cart.
+The offer was in a letter from the pepper factors of the lower village, in a plain hand with no wax. The runner who first carried word of it had been the lone climber at grey on charter morning, a barefoot boy with a satchel and no riders behind him, the vote Devan had called the Company's first. The factors had since put it down in ink. Forty carts of pepper were stacked at the pass foot, waiting since the rains. The raiders had never touched them. But the road beyond the shelf was long and lonely, and the factors had lost two drovers in the spring. They wanted the carts escorted over the pass and down to the coast road, in daylight, by the Company. They offered pay by the cart.
 
 "Paired members only," Neela said. "That's my one clause."
 
@@ -7082,13 +7176,13 @@ Heads turned. She had said it quietly, as she said most things, but the room hea
 
 "A pair can bleed for each other and know it," she said. "A lone member out on a road with a wound she didn't take is a woman in trouble nobody can trace. Pairs go together. If one is cut, the other knows where, and how bad, and which way to run." She looked down the table. "And nobody goes who isn't ready to bleed for the one beside them. If you've no partner yet, you stay."
 
-There was a silence. Then Kamalakshi, from the bottom of the table, said, "Janu will want a place on the first cart."
+Silence. Then Kuttu said, "Janu will want a place on the first cart."
 
 "Janu," said Pavi, "is sixty-one."
 
 "She says she isn't."
 
-The laughter broke the room open. It was not the laughter of people at ease. It was the laughter of people who had bled for strangers a few weeks ago and were relearning how to do it for money. Neela let it run. Then Kuttu raised the horn and sounded one short note, the hall's sign for hands.
+At the bottom of the table Kamalakshi lifted both hands as if she held reins, and the laughter broke the room open. People who had bled for strangers a few weeks ago were relearning how to do it for money. Neela let it run. Then Kuttu raised the horn and sounded one short note, the hall's sign for hands.
 
 They voted. Forty-one for, nine against, the rest holding. Nobody had asked Devan to lead it. He sat at the table's end with his dead arm along the wood, and when the count was done he said only, "Pairs, then. We start at first light."
 
@@ -7098,17 +7192,25 @@ They voted. Forty-one for, nine against, the rest holding. Nobody had asked Deva
 :::
 
 
-Mist still lay on the pass the next morning when the horn went.
+Mist still lay on the pass the next morning when Neela went to trim the lamp.
 
-It was not Kuttu's long bellow this time. It was Bhaskaran's code, blown from the gate far below and carried up the cut on the cold air. One long note, two short. Unarmed strangers at the gate, and not many.
+Koman was already at the door. The old watcher stood with his hands tucked in his sleeves, looking down the cut, and he did not turn when she came.
 
-Neela went to the door.
+"The long one was in the river again," he said. "Below the pass, at dawn. Took nothing. Stayed on the shingle and watched the road."
 
-The lamp still burned in its hook. Devan came and stood beside her in the way he had learned, a step behind and a little to the side. They watched the road together.
+"Watched it how?"
+
+"The way you count carts." He shrugged. "Then it was gone. I thought you'd want it said."
+
+"I do," said Neela. "Keep saying it."
+
+Far below, a horn went. It was Bhaskaran's code, carried up the cut on the cold air. One long note, two short. Unarmed strangers at the gate, and not many.
+
+Devan came and stood beside her in the way he had learned, a step behind and a little to the side. They watched the road together. Behind them, drawn by the horn, the Company drifted into the doorway: Kuttu, Madhavi, Thilak, Pavi, Kandan with his arms folded.
 
 Three came up the shoulder in the grey. The first was a tall man in a pale robe, grey at the temple, with a white cloth tied at his left wrist and another at the head of the staff he carried. A truce cloth. Behind him walked a servant with a flat box. And at the tail, a pace apart from the others, came a lean man with a long jaw and a coat too heavy for the weather.
 
-The envoy stopped ten paces from the lamp. He looked at it for a time. It was the look of a man who had expected a guarded door.
+The envoy stopped ten paces from the lamp. He looked at it for a time, like a man who had expected a guarded door.
 
 "I am told," he said, in careful, accented Varanad, "that this is the house of the Night Company."
 
@@ -7138,25 +7240,29 @@ He was in none of it.
 
 "He is ours," said the envoy. "He asked to come. He says you will want to see him." A small, thin smile. "He says also that he is in no book you hold. I confess I did not understand what he meant."
 
-Neela understood it perfectly. It rose in her like cold water. A rogue, with no master and no ledger, who smelled of a House that had been finished. Someone had been making odiyans in a place she had not found, and had been doing it with the sea lords' salt on them.
-
-Who made you? she wanted to ask. And what do they want with free knives?
-
-She did not ask. She had learned that much. You do not put the question that matters to a stranger at your door. You put it to your own people first.
+Neela understood it perfectly. It rose in her like cold water. A rogue, with no master and no ledger, who smelled of a House that had been finished. Someone had been making odiyans in a place she had not found, and the sea lords had him on a leash of salt.
 
 She turned her head.
 
-Devan was looking at the rogue too. His good hand had closed, once, at his side. Then he looked at her, and only at her, and his face had changed in a way she knew now. It was the face of a man who had spent eight years deciding everything alone, and had chosen, in front of the envoy and the whole yard, to wait for her.
+Devan was looking at the rogue too. His good hand had closed, once, at his side. Then he looked at her.
 
-"I'm asking aloud," Neela said, quietly, so the stranger would hear it and so Devan would. "Before the Company, and before them. How do you vote?"
+"How do you vote?" Neela said. She said it aloud, so the doorway and the envoy both heard.
 
-Devan held her eyes. A breath. Two. In the mist, the lamp burned in its open frame.
+"You first," said Devan.
 
-"You first," he said.
+He stepped back half a pace, so that she stood alone in the lamplight of the doorway. His good hand came off the doorpost, and he kept it lowered at his side.
 
-She had not known how much she wanted it until it was given. She turned back to the envoy, and the stranger, and the box, and the long road down.
+"I lean no," she said. "Thurai camped in my village's footings. I watched their tower go up on my mother's floor."
 
-"Then I vote no," she said. "Thurai burned Nellimala. I was carried out of it in a fishwife's arm. I'd sooner go hungry a season than be paid in their silver, and if the table says yes against me, I'll carry that cost too." She lifted her chin. "But we'll hear you. All of us, at the table. And you'll leave your staff at the door. We vote at noon."
+"I lean the other way," said Devan, as plainly. "That man walked up beside the envoy and wanted you to see him. He's the only lead we have. I want him at the table before I say no to anything."
+
+A murmur ran through the doorway. Kandan's eyebrows went up. Madhavi looked from one of them to the other.
+
+She had not been sure what he would say, and it was his own. Neela understood why she had asked in the open. A flat no from her alone, given at a door, could be carried home as a slight to the sea lords. A lean, argued out where the Company could hear it, was only the start of a vote, and the answer, whichever it turned out to be, would be the Company's. The envoy could see that this door had no back room. Nor could the queen be asked to answer for a rogue knife's private temper under her open truce.
+
+She nodded once. Then she turned to the envoy, and the servant with the box, and the man with the scarred wrists, and the long road down.
+
+"We'll hear you at the table," she said. "Leave your staff at the door. We vote at noon."
 
 ## Also by Anya Kalloor {.unnumbered}
 
@@ -7169,18 +7275,16 @@ She had not known how much she wanted it until it was given. She turned back to 
 ## Coming next {.unnumbered}
 
 
-Varanad has a secret. In the black woods above the pepper coast, a guild trains orphans to become odiyans. At dusk, a smear of bitter resin on throat and wrists, and a woman becomes a leopard, a jackal, a bear. By dawn she is a woman again, and anyone who saw her change holds her life in their mouth. One word, her animal's name spoken in the dark, and she is caged in fur forever.
+Neela has twelve contracts to earn her freedom, and one left to go.
 
-Neela has done eleven contracts. The twelfth will earn her release, her page burned and her birth name returned. The twelfth is a man.
+She is an odiyan of the Resin House. At night, with a smear of bitter black resin on her throat and wrists, she becomes a leopard. By day she is a quiet, dangerous bride, sold in marriage to the warden of Kettamala, a hill fort above the only pass into the pepper hills. Her orders are simple. Kill him before the monsoon closes the road.
 
-Devan, warden of Kettamala, is the husband she was sold to. She has forty days before the monsoon closes the Monkey Pass. She has a window, a ledge broad enough for a crouching body, and a plan to make his death look like a leopard's work.
+Devan is not the fool the guild expects. He is a man of few words and exact facts who has not sparred another living soul in eight years. He closes her shutters at every dusk. He never asks where she goes at night. And he knows a secret that could ruin her: anyone who sees an odiyan turn can lock her in her animal shape for life, with one word spoken at the wrong moment.
 
-He has a secret too. He saw her turn on their wedding night, and he has said nothing.
+She has watched every witness she has known treat that word as a leash. She has forty days to decide whether he is any different.
 
-Every shutter he closes at dusk is a mercy or a trap. Every night he sleeps beside her is a night she could end it, or he could. And somewhere above them both, a seal in green wax has paid for his death.
+Across three books, The Odiyan Contracts follows an arranged marriage that begins as a murder plot. It brings a guild that owns its members, a queen with secret knives, a war at the pass, and a love built on the hardest thing in the world: being known by someone who could cage you, and trusted not to.
 
-Three books. One couple. A guild that owns its killers, a queen who keeps knives nobody sees, and a love that costs blood to keep.
-
-Start with *Vow of Teeth*. It begins with a wedding at sunset, and one question:
+Start with Vow of Teeth, and ask the question that begins it all.
 
 Will Neela kill the husband she was sold to?

@@ -2,7 +2,7 @@
 
 Book ID: s02-vow-of-teeth-b03
 Pen name: Anya Kalloor
-Generated: 2026-10-26
+Generated: 2026-10-31
 
 ## What was AI-generated
 

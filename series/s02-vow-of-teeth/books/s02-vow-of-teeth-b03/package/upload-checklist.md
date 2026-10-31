@@ -9,7 +9,7 @@ Re-check KDP's current limits in KDP Help before the first upload of a series (P
 |---|---|
 | Language | English |
 | Book title | Crown of Night |
-| Subtitle | A Dark Romantasy of Shifters, Oaths and War |
+| Subtitle | A Shapeshifter Assassin Romantasy |
 | Series | The Odiyan Contracts (add to existing series after book 1) |
 | Series number | 3 |
 | Edition number | (leave blank) |
@@ -19,14 +19,14 @@ Re-check KDP's current limits in KDP Help before the first upload of a series (P
 | Publishing rights | I own the copyright and I hold the necessary publishing rights |
 | Primary audience: sexually explicit images or title | No |
 | Reading age | (leave blank: adult) |
-| Categories | Kindle Store > Kindle eBooks > Romance > Fantasy; Kindle Store > Kindle eBooks > Romance > Paranormal > Shifters; Kindle Store > Kindle eBooks > Science Fiction & Fantasy > Fantasy > Romantic |
-| Keyword 1 | dark romantasy shifter heroine series finale |
-| Keyword 2 | married couple fantasy romance wound bond |
-| Keyword 3 | assassin heroine leopard shifter romance |
-| Keyword 4 | enemies to lovers romantasy trilogy |
-| Keyword 5 | morally grey hero fantasy romance war |
-| Keyword 6 | slow burn fantasy romance Indian inspired |
-| Keyword 7 | found family fantasy romance open door |
+| Categories | Kindle Store > Kindle eBooks > Science Fiction & Fantasy > Fantasy > Paranormal & Urban > Shifters; Kindle Store > Kindle eBooks > Romance > Fantasy; Kindle Store > Kindle eBooks > Science Fiction & Fantasy > Fantasy > Romantic |
+| Keyword 1 | arranged marriage assassin romantasy |
+| Keyword 2 | shapeshifter assassin fantasy romance |
+| Keyword 3 | morally grey hero fantasy romance |
+| Keyword 4 | married couple fantasy romance series |
+| Keyword 5 | found family fantasy romance war |
+| Keyword 6 | Indian folklore inspired romantasy |
+| Keyword 7 | protective hero assassin heroine fantasy |
 | Release option | I'm ready to release my book now |
 
 Save and continue (Claude asks before saving).

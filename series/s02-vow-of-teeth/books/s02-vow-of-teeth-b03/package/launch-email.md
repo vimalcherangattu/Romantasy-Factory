@@ -1,18 +1,20 @@
-Subject: Crown of Night is here: the Odiyan Contracts finale
+Subject: Crown of Night is out today
 
-Hello, lovely readers,
+Hello, my dear readers,
 
-It's done. Crown of Night, the final book of The Odiyan Contracts, is out today.
+It's here. Crown of Night, the last book in The Odiyan Contracts, is live today.
 
-Last time, Neela and Devan were homeless and hunted, with forty freed odiyans at their back and one terrible truth in their hands: the queen's own guard are odiyans too, kept in paper cages. Now sixty Thurai ships have landed, and freeing those knives could leave the whole kingdom undefended.
+Where we left Neela and Devan at the end of Oath of Claws: homeless, hunted, married in every way that counts, and riding into the hills with forty freed odiyans who each hold their own page. They also learned the queen's own guard are odiyans, held in a secret ledger of her making.
 
-This is the book where my couple stops running. Neela, who always said freedom meant belonging to no one, has to decide what she will be bound to. Devan, a man with no fort and every reason to keep his strength hidden, has to fight in the open. Every wound he takes is hers. Every choice she makes is his to stand behind.
+Now the rains lift, and sixty Thurai sails appear off the coast.
 
-It has heat, war, grief, a queen who is never a cartoon, and the ending I promised you from the first chapter.
+This time Neela wants to free everyone, even the queen's knives. Devan, who has given up his fort, holds the pass with no office at all. Every wound he takes opens on her skin. Every choice they make has to hold both of them.
 
-Thank you for staying with Neela and Devan this far. I've loved every bit of it.
+It's a book about love that survives power used in the open, and I've loved writing every page of it. There is war, there is grief, and there is a happy ending, earned the slow way.
 
-Get your copy here: {{AMAZON_LINK}}
+You can get it here: {{AMAZON_LINK}}
 
-With love and a lamp left lit,
+If you've followed this couple from the first night, thank you. Hearing from you has meant more than I can say. Reply and tell me which scene stayed with you.
+
+Warmly,
 Anya

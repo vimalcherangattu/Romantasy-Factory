@@ -9,7 +9,8 @@
     "S3",
     "S7",
     "book_check",
-    "S9"
+    "S9",
+    "S10"
   ],
   "chapters": {
     "01": {
@@ -2119,9 +2120,13 @@
     {
       "at": "2026-10-31T19:28:31",
       "event": "done: S9 summary"
+    },
+    {
+      "at": "2026-10-31T19:29:42",
+      "event": "done: S10 package"
     }
   ],
-  "updated_at": "2026-10-31T19:28:31",
+  "updated_at": "2026-10-31T19:29:42",
   "midpoint_chapter": 16,
   "continuity_attempts": 1,
   "continuity_last_errors": 3,
@@ -2130,11 +2135,21 @@
     "epubcheck": true,
     "docx_headings": true,
     "paperback": {
-      "pages": 305,
+      "pages": 313,
       "gutter_in": 0.625,
-      "interior": "interior.pdf"
-    },
-    "cover": "missing: generate art from cover-prompt.md, then run `factory cover`"
+      "interior": "interior.pdf",
+      "spine_in": 0.7825,
+      "wrap_in": [
+        12.0333,
+        8.75
+      ],
+      "wrap_px": [
+        3610,
+        2625
+      ],
+      "spine_text": "CROWN OF NIGHT     ANYA KALLOOR",
+      "paper": "cream"
+    }
   },
   "beta": {
     "verdict": "revise",
