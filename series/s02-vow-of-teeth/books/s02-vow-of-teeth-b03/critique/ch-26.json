@@ -5,35 +5,36 @@
     "romance_movement": 4.0,
     "shown_chemistry": 4.0,
     "character_logic": 3.0,
-    "stakes_and_cost": 4.0,
-    "prose": 4.0,
-    "continuity": 5.0
+    "stakes_and_cost": 3.0,
+    "prose": 3.0,
+    "continuity": 0.0
   },
   "reasons": {
-    "reader_question": "The roar stopping and 'Who will go up?' leave a specific, urgent question about Vellan, unanswered by design.",
-    "change": "Neela chooses to stay over fighting, the hand loss is confirmed, the queen confesses, and the cut falls silent.",
-    "romance_movement": "The reason is new: with no voice or hands, staying becomes the act. 'Rest instead of leash' is implied, never felt.",
-    "shown_chemistry": "Devan, speared, notices her cold legs; 'Stubborn. Good.' with his good hand in her fur. All responsive action.",
-    "character_logic": "Her choice is smart and in character. The surgery is mis-staged: the shaft still stands while cloth is packed in the wound.",
-    "stakes_and_cost": "Going up to fight would bleed him out; staying leaves Vellan alone. A real cost, paid in the silence at dawn.",
-    "prose": "Clean rhythm, no dashes, few tells. Simile density is high, 'She' opens consecutive paragraphs, and 'old woman' misfires at 54.",
-    "continuity": "Hitch, wound-share, Koman's shape, Usha's bond, right-hand loss and self-naming witness logic all match the bible and facts."
+    "reader_question": "The roar stops and the queen asks who will go up. The question about Vellan's fate is sharp and specific.",
+    "change": "Devan's hand is diagnosed as lost, the bond turns from drag to support, the queen confesses, and Vellan falls silent.",
+    "romance_movement": "The new reason is that staying becomes the act of love. The cost of the bond becomes rest, a fresh turn.",
+    "shown_chemistry": "His first words are about her cold legs. His hand goes into her fur with 'Stubborn. Good.' She syncs to his hitch. All responsive.",
+    "character_logic": "Neela's choice is smart. But Muthu leaves the archer line all night during the tower assault with no reason given.",
+    "stakes_and_cost": "Her dead hind legs make 'go up' nearly impossible, so the choice to stay costs less than it should.",
+    "prose": "Clean and concrete. Too many 'It was not X. It was Y' pairs, aphorisms ('not hard to see... hard to do'), and the 'light as a held breath' cliché.",
+    "continuity": "The queen says Usha's welt is the first time a knife 'told me she was hurt', but she felt Usha's welt sting at ch24 (F938, F1043)."
   },
   "fixes": [
-    "Staging gap (character logic) at 'looked at the broken shaft standing out of Devan's chest' and 'the wet cloth they had packed in the hole'. The shaft is never drawn, yet the wound is packed and clamped. Add two or three lines once Thankam cuts the coat: she draws the broken shaft out the back while Neela bears down, and Neela's own collarbone flares as it goes. Pack the cloth only after that.",
-    "Romance change under-landed at 'The cold in her legs held at the knees.' The beat promises the bond becoming rest instead of a leash, but the share reads only as pain. Add one concrete beat in the long night: her breath falls into his rhythm, hitch for hitch, and the ache in her own chest eases when his does. She registers the bond holding her up, not pulling her down.",
-    "Prose and repetition fixes. At 'saw how small the old woman was', the queen is 54, so cut 'old' in both uses ('a small woman' works). 'It does sting... I was told it would' repeats her ch24 line; give her a new remark. Change 'Muthu's shirt-sleeves' to 'coat-sleeves'. Change 'where the Thurai dead lay' to 'wounded' so the creature's rescue makes sense. Vary the two consecutive 'She' paragraph openings at the marma point."
+    "At \"this is the first time one of them has told me she was hurt\" there is a continuity conflict: the queen already felt Usha's welt at the ch24 naming (F938, F1043). Rewrite it as \"the first time one of them has been hurt in a fight where I could not see her\". Keep \"I know it the way I know my own pulse\" only as an inference from the welt, not as a sense of life, since the share carries wounds only (F265).",
+    "At \"She could have been up the stones in three bounds, if her legs would carry her\" technique 18 is undercut: dead legs remove the choice. Have the cold ease to the knees just before Devan says 'Go up', so she can feel she could rise. Then she chooses to stay with the bear roaring, and the cost is real.",
+    "At \"She was bleeding there, a little, in the thick fur\" the text conflicts with F627 (a partner's welt weeps but does not open). Change it to a hot, weeping welt. Separately, add one line before the night watch where Muthu hands the archers to a named man, or have him go and return, so his all-night absence from the line makes sense."
   ],
   "reader_question": "Did Vellan survive holding the cut alone, and who will climb up to find out?",
   "techniques_landed": [
     9,
-    18,
     25
   ],
-  "new_facts_assessment": "All five are necessary and consistent. Thankam is already tied to the palace infirmary (F824), and 'queen's surgeon' fits that. The queen's welt follows F938. The marma healing point is set up by the bible's 'heal or kill'. 'A hand's breadth under the jaw at the hollow of the throat' is anatomically loose but harmless.",
+  "new_facts_assessment": "Drawing the shaft out the back fits F942 and is needed for the surgery. Unlisted additions need logging: Thankam is the drying-shed woman with the paring knife, Muthu's coat over Neela, and the throat healing point learned at the Resin House. All are consistent. The line 'Her mother's people could not have taught her' is unclear and should be cut or clarified.",
   "content_rule_violation": false,
-  "failure_modes": [],
-  "average": 4.0,
-  "minimum": 3.0,
-  "passed": true
+  "failure_modes": [
+    "Narrated-only chemistry"
+  ],
+  "average": 3.12,
+  "minimum": 0.0,
+  "passed": false
 }
