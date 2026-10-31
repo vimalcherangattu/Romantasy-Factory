@@ -949,7 +949,7 @@
       ]
     },
     "31": {
-      "status": "passed",
+      "status": "edited",
       "revisions": 2,
       "scores": {
         "reader_question": 4.0,
@@ -963,18 +963,18 @@
       },
       "average": 4.25,
       "flags": [],
-      "words": 3248,
+      "words": 3263,
       "minimum": 4.0,
       "style": {
-        "words": 3175,
+        "words": 3263,
         "banned_hits": {},
         "ai_tell_hits": {},
         "ai_tells_per_1000": 0.0,
-        "top_4gram": "counted the road four",
+        "top_4gram": "stood on the shoulder",
         "top_4gram_count": 2,
-        "longest_paragraph_words": 96,
+        "longest_paragraph_words": 90,
         "em_dashes_per_1000": 0.31,
-        "reading_ease": 91.6
+        "reading_ease": 92.4
       },
       "owner_instructions": [
         "Pay off Sajan and close the rule gap (owner fix 1). Where: after the queen burns the crown leaf in the gate fire-basket. Change: Sajan burns his own leaf at the gate basket, then names himself to his brother Sanu there, with Sanu's sleeve touching his. Self-naming needs a dusk turning with the chosen person looking at him (ch 20 rule), so stage it at dusk the same day, at the gate basket, before the tent scene. Keep it to a few lines, with no speech about it. Do not change Sanu's existing bond to Kandan. The share runs both ways, and Sajan naming himself to Sanu is a separate bond.",
@@ -2382,9 +2382,13 @@
     {
       "at": "2026-10-31T21:34:08",
       "event": "done: S8 line edit ch 30"
+    },
+    {
+      "at": "2026-10-31T21:34:44",
+      "event": "done: S8 line edit ch 31"
     }
   ],
-  "updated_at": "2026-10-31T21:34:08",
+  "updated_at": "2026-10-31T21:34:44",
   "midpoint_chapter": 16,
   "continuity_attempts": 0,
   "continuity_last_errors": null,
