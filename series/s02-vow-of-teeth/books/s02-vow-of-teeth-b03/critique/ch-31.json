@@ -1,42 +1,41 @@
 {
   "scores": {
-    "reader_question": 2.0,
-    "change": 4.0,
+    "reader_question": 3.0,
+    "change": 5.0,
     "romance_movement": 4.0,
-    "shown_chemistry": 4.0,
+    "shown_chemistry": 5.0,
     "character_logic": 4.0,
     "stakes_and_cost": 3.0,
-    "prose": 4.0,
+    "prose": 3.0,
     "continuity": 0.0
   },
   "reasons": {
-    "reader_question": "The chapter ends on a tender sleeve request. Nothing points to the beat's question about the Company's first vote, so there is no outward pull to ch 32.",
-    "change": "Hunted becomes chartered on the page. The queen loses her knives and Haran's regard, Chathu is sentenced, and the crown leaf is undone.",
-    "romance_movement": "The vow is made public and the bargain is remade around his dead hand: she is his hand, he is her rest. The reason for the change is new.",
-    "shown_chemistry": "Shown through responsive acts: the sleeve grip, 'Between sums', asking aloud, taking his weight. The line 'He learned fast' tips briefly into telling.",
-    "character_logic": "Neela's silence during Haran's plea is smart and costly. The queen missing the looped rolls for twenty years strains belief a little.",
-    "stakes_and_cost": "Haran's plea and his lost loyalty bite hard. After the tent, though, no next decision carries a price.",
-    "prose": "Clean and concrete, with no banned phrases and one em dash. 'Sleeves touching' repeats three times, and 'a loyal man's plea, and a fair one' is editorialising.",
-    "continuity": "The queen hands the crown leaves back without reading them aloud by daylight, which breaks Rule 3 (F011). The nape habit clashes with Devan standing behind her."
+    "reader_question": "The lone climber and the first chartered vote give a clear question, but the light 'Quickly' close lowers the urgency.",
+    "change": "Hunted becomes chartered. Pages go home, the crown's knives burn, Haran's loyalty is lost, Chathu is sentenced, and the Company has legal standing.",
+    "romance_movement": "The public vow and the bargain remade around his ruined hand are new reasons. The 'Ask, and I do it' echo at the roll links the two halves well.",
+    "shown_chemistry": "Unpicking the sash knot, the blister welt, the asked permissions and the nape release are all responsive, specific action.",
+    "character_logic": "Neela's silence, Haran's objection and the queen's refusal are smart choices. Saying only Chathu knows the kennel cages ignores the cage tags.",
+    "stakes_and_cost": "Haran's loss and the pages' new witnesses carry real cost. The ending decision is pending but carries no cost on the page.",
+    "prose": "The opening exchange is misattributed. 'Nobody in the room would ever see it' contradicts a public plea. Similes cluster around 'like a man'.",
+    "continuity": "'For years, she had kept a wall at her back' ties years of habit to a nape trigger only months old (F1063). The charter titles also drift from Rema's roll."
   },
   "fixes": [
-    "'The queen gave each their own leaf, with both hands, and did not say a word.' Failure mode: worldbuilding collapse. Rule 3 says a handover must be read aloud in full by the holder, by daylight, before the subject. Have the queen read each leaf aloud at noon, with only that guard and whoever they choose at the basket, while the Company turns away. Add one line naming the cost: those standing near now hold the shape.",
-    "'\"My sleeve,\" said Devan. \"If you would.\"' Failure mode: the chapter has no hook, and the beat's question is missing. Keep the sleeve line, then add a short beat: Kuttu's horn sounds from the watch-house at first grey, and a lone climber is on the pass road with no riders behind. Devan, one-armed in the half-done sleeve, says it is the Company's first vote under the charter, with the right to refuse. This matches what ch 32 expects (F1062, F1070).",
-    "'It was why she never let anyone walk behind her, in a lane or a hall or a kitchen.' Failure mode: trauma as decoration, and a continuity clash. Devan stands 'a step behind Neela's shoulder' on page one, and has done so since F907/F917. Replace the line with something like 'It was why, for years, she had kept a wall at her back, and why letting him stand there had cost her.' That ties the trigger to choices we have already seen."
+    "'It was why, for years, she had kept a wall at her back': this is a continuity conflict. The ring-on-nape trigger comes from the forced turning in book 1, ch 27, months ago, not years. Change it to 'It was why, since then, she had kept a wall at her back.' Alternatively, root the years-long wall habit in the Resin House childhood (the hunters' shadow) and give the nape its own recent origin.",
+    "'\"Neither has she moved,\" said Neela': two consecutive lines go to Neela and the joke does not land. Give Devan 'You keep looking at the road.' Give Neela 'It's a road. It's there. Neither has it moved.' Cut 'Neither has she moved.' Then 'The queen could have a clerk cross out a line. Nobody in the room would ever see it' contradicts Haran's public plea. Rewrite it as: the queen could strike it with one stroke, and the room would have to pretend not to have heard him ask.",
+    "'the death of Devan, warden of Kettamala ... Asha, the warden's sister': these titles drift from Rema's court roll (F680, F555), and Devan has given up his office (F683). Make it 'the writ that paid for the death of Devan, then warden of Kettamala' and 'the killing of Asha, daughter of the late warden, on the west stair'. Also change 'Chathu is the only one who knows which is whose' to 'Chathu knows what each of them was', since the cages are tagged."
   ],
-  "reader_question": "With the charter signed, what will the Company do with its first chance to say yes or no?",
+  "reader_question": "Who is the lone climber, and what will the Company decide in its first vote under the charter, with the right to refuse?",
   "techniques_landed": [
     9,
     14,
     20
   ],
-  "new_facts_assessment": "Sajan's self-naming to Sanu is a fair payoff of F882 and F1056, and Sanu's second share has a precedent in Usha (F986). The guards' pages being handed over in silence conflicts with the bible's handover rule. Cutting the rolls free from the leaves works as a loophole, but it quietly cheapens Thilak's choice in F724; one line acknowledging that would protect it. The nape trigger is rooted in F444 and is necessary for the tent beat. The added habit 'never let anyone walk behind her' contradicts the opening image and F907/F917, so cut it or qualify it.",
+  "new_facts_assessment": "new-facts.json is empty, yet the draft adds facts. These include the watch-house fabric, Haran's plea to strike the clause and his lost regard, cutting the intake rolls before burning, Sajan burning his leaf, the Chathu sentence terms and the nape trigger. All are already logged as provisional ch31 entries (F994-F1113) and are consistent and needed. The exception is the nape habit 'for years', which contradicts F1063. The new claim that Chathu alone knows which cage is whose conflicts with the cage tags (F550) and the readings (F639). Cut or soften it.",
   "content_rule_violation": false,
   "failure_modes": [
-    "Worldbuilding collapse",
-    "Trauma as decoration"
+    "Contrived delays"
   ],
-  "average": 3.12,
+  "average": 3.38,
   "minimum": 0.0,
   "passed": false
 }
