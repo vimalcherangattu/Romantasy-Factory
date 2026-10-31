@@ -8,7 +8,8 @@
   "done": [
     "S3",
     "S7",
-    "book_check"
+    "book_check",
+    "S9"
   ],
   "chapters": {
     "01": {
@@ -2114,9 +2115,13 @@
     {
       "at": "2026-10-31T19:27:20",
       "event": "done: S8 line edit ch 32"
+    },
+    {
+      "at": "2026-10-31T19:28:31",
+      "event": "done: S9 summary"
     }
   ],
-  "updated_at": "2026-10-31T19:27:20",
+  "updated_at": "2026-10-31T19:28:31",
   "midpoint_chapter": 16,
   "continuity_attempts": 1,
   "continuity_last_errors": 3,
