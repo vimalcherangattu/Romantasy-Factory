@@ -974,7 +974,7 @@
       ]
     },
     "32": {
-      "status": "passed",
+      "status": "edited",
       "revisions": 1,
       "scores": {
         "reader_question": 4.0,
@@ -988,18 +988,18 @@
       },
       "average": 3.62,
       "flags": [],
-      "words": 3325,
+      "words": 3318,
       "minimum": 3.0,
       "style": {
-        "words": 3260,
+        "words": 3318,
         "banned_hits": {},
         "ai_tell_hits": {},
         "ai_tells_per_1000": 0.0,
         "top_4gram": "board by the entrance",
         "top_4gram_count": 2,
-        "longest_paragraph_words": 103,
+        "longest_paragraph_words": 132,
         "em_dashes_per_1000": 0.0,
-        "reading_ease": 91.6
+        "reading_ease": 90.9
       },
       "owner_instructions": [
         "Opening. Remove the line that deflates chapter 31's stranger ('turned out to be a boy... with wet sandals') and any reference to that stranger. Open straight on weeks on: the truce sailing and the hall with its lamp.",
@@ -2110,9 +2110,13 @@
     {
       "at": "2026-10-31T19:26:45",
       "event": "done: S8 line edit ch 31"
+    },
+    {
+      "at": "2026-10-31T19:27:20",
+      "event": "done: S8 line edit ch 32"
     }
   ],
-  "updated_at": "2026-10-31T19:26:45",
+  "updated_at": "2026-10-31T19:27:20",
   "midpoint_chapter": 16,
   "continuity_attempts": 1,
   "continuity_last_errors": 3,
