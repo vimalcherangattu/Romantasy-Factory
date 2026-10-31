@@ -470,7 +470,7 @@
       }
     },
     "16": {
-      "status": "passed",
+      "status": "edited",
       "revisions": 1,
       "scores": {
         "reader_question": 4.0,
@@ -484,18 +484,18 @@
       },
       "average": 4.25,
       "flags": [],
-      "words": 3299,
+      "words": 3333,
       "minimum": 3.0,
       "style": {
-        "words": 3467,
+        "words": 3333,
         "banned_hits": {},
         "ai_tell_hits": {},
         "ai_tells_per_1000": 0.0,
-        "top_4gram": "safe unseen and mine",
-        "top_4gram_count": 2,
+        "top_4gram": "a woman who had",
+        "top_4gram_count": 3,
         "longest_paragraph_words": 93,
-        "em_dashes_per_1000": 0.29,
-        "reading_ease": 93.4
+        "em_dashes_per_1000": 0.3,
+        "reading_ease": 92.7
       },
       "owner_instructions": [
         "Staging slip 1 (owner fix 7). Where: 'He would be at the cistern shed now, or on a wall.' What's wrong: Devan is at the shelf in the lower narrows at this point (ch 14 and 17). Change: place him at the shelf in the lower narrows, for example 'He would be on the shelf now, counting arrows he didn't need'. Keep the line's function: she can't reach him.",
@@ -2352,9 +2352,13 @@
     {
       "at": "2026-10-31T21:29:38",
       "event": "done: S8 line edit ch 4"
+    },
+    {
+      "at": "2026-10-31T21:30:13",
+      "event": "done: S8 line edit ch 16"
     }
   ],
-  "updated_at": "2026-10-31T21:29:38",
+  "updated_at": "2026-10-31T21:30:13",
   "midpoint_chapter": 16,
   "continuity_attempts": 0,
   "continuity_last_errors": null,
