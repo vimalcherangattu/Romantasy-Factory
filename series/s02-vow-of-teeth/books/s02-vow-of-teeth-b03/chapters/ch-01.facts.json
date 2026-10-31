@@ -1,20 +1,9 @@
 {
   "facts": [
     {
-      "category": "",
-      "fact": "The Thurai landed two dawns before chapter 1 under the cloud, unseen from the hill; Pazhayangadi burned the day before."
-    },
-    {
-      "category": "",
-      "fact": "Muthu's crown order is a standing order for a fleet landing, sent before the rains."
-    },
-    {
-      "category": "",
-      "fact": "The plank holds forty-two names once Neela chalks hers last; the Company still calls itself 'the forty'."
-    },
-    {
-      "category": "",
-      "fact": "Thilak offers one pinch each, split even, to last the week."
+      "category": "object",
+      "fact": "The old plank holds forty-one names (the forty plus Neela, hers last); Vellan's name is not on it, though he shares the resin and is counted among the forty-two odiyans at the hearth. Corrects F1087.",
+      "since": "s02-vow-of-teeth-b03 ch 1"
     }
   ]
 }
