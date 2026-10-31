@@ -6,34 +6,34 @@
     "shown_chemistry": 4.0,
     "character_logic": 4.0,
     "stakes_and_cost": 4.0,
-    "prose": 3.0,
+    "prose": 4.0,
     "continuity": 5.0
   },
   "reasons": {
-    "reader_question": "Specific: the advance guard is already in the gorge, Devan has no seal and no garrison, and the signal flame has died. Can they hold?",
-    "change": "Law blocks the garrison, Muthu's drover loophole buys one night, and the three-day estimate collapses. Hope turns to emergency.",
-    "romance_movement": "New reason: he spends his pass, then answers anyway, and he asks her before acting. Both changes follow the beat and are earned.",
-    "shown_chemistry": "Rope burns mirrored by the wound-share, his palm on the stone under hers, the caught wrist. All shown through action, none narrated.",
-    "character_logic": "Muthu's loophole and his demand for 'a reason I can write down' fit him. Neela lifting the bowl herself spares Janu. Devan's restraint is consistent.",
-    "stakes_and_cost": "Neela weighs the cost aloud: the six delayed, hours lost on the Kodiyur stair. Janu's withheld hand is a personal price.",
-    "prose": "Strong voice and counting, but 'like a man...' similes stack up, one creak-scene line is overwritten, and the Janu paragraph's syntax collapses.",
-    "continuity": "Consistent with seal, sixty men, forehead kiss, the given-away knife and the spent pass. Warden's-chamber geography is ambiguous but not contradictory."
+    "reader_question": "Clear and specific: the advance guard is already in the gorge, and Devan has no seal or garrison. The winking second flame adds a sharp sub-question.",
+    "change": "Law now blocks the garrison, Muthu opens only a drover loophole, the enemy timetable collapses, and the Kodiyur party's departure is now in doubt.",
+    "romance_movement": "The reason is new: he spends his one pass and then answers anyway, and he asks her before acting. Both answer the earlier 'say it before you do it' bargain.",
+    "shown_chemistry": "Chemistry is shown through action: shared rope-burn palms on the stone, the creak confession, and her forehead on his collar. Narration rarely labels feeling.",
+    "character_logic": "Muthu's honest refusal plus loophole fits his split loyalty. Neela's name-learning and refusing to lie to Chandu are on-brand. Devan reading the order aloud is smart.",
+    "stakes_and_cost": "Choosing the gorge costs the sea-road departure and hours off the queen's stair, named in one breath before she lets go.",
+    "prose": "Mostly strong and concrete: the turnip song, the coins line, 'least welcoming music'. Weak spots are 'said nothing' repeated six-plus times, the clunky Muthu-tell paragraph, and the pre-explained exit.",
+    "continuity": "Consistent with F455, F269, F675, F685, F762-F769, F399 and F302. The warden's chamber at the west-stair head matches F337 and contradicts only stale provisional F770."
   },
   "fixes": [
-    "Janu scene, 'told this woman whose hands had held the lamp': garbled syntax obscures the emotional turn. Rewrite as clear sentences. Neela had confessed to Janu at the stair foot. Janu kissed her forehead after. But Janu's hands found Asha's body, and they cannot yet touch the hand that kept the lamp. Cut 'The hand that took a bowl from a stranger's, that she could not yet carry.'",
-    "Prose repetition: 'like a man holding a snake by the neck', 'like a man who had been holding a wall up', 'like a man walking round a hole in a floor', 'a man stands between two doors'. Four man-similes stack up in one chapter. Keep the two-doors line, which pays off F425. Replace the others with concrete action (Muthu pinching the paper's corner; Devan's eyes skipping the stair). Also cut 'as if it had been handed to him in the dark and he was reading it by feel' to one plain clause.",
-    "Geography, 'The warden's chamber was at the end of the north range, up its own stair': this is ambiguous against F337, where the west stair is the only way to the warden's door. State that the line of light sits at the head of the west stair. This removes the continuity risk, and it doubles the meaning of Devan not looking: the stair where Asha died and the room he lost."
+    "At \"He didn't mean to go without telling her. He meant to be in the court\": the narration pre-explains Devan's motive (contrived delay/told intent), which defuses the wrist-catch and 'I'm asking you first'. Cut both sentences and the 'She had watched him decide' line. Let Neela see only the turned shoulder and his speed, so his turn in the doorway and the ask land as his visible choice.",
+    "At \"His mouth had gone flat. She watched it. This was not\": the tell paragraph is clunky, and 'it' is used four times. Rewrite it as two lines, for example: 'His mouth went flat. Not his lying quiet; Devan had taught her that one. This was a man holding his breath between two doors.' Also cut two of the six-plus 'said nothing' instances (Vellan on the rope, Devan at the blanket) to avoid echo.",
+    "At \"Chandu stared at Neela's bandaged left hand\": the bandage appears from nowhere. In the rope scene, name which palm the rope burned (left) and have her wrap it under the thorn. Also tighten \"I was a thief in your house for forty days\" to the truer, costlier \"I was sent to kill you, and I rang a bell on your window every night\"."
   ],
-  "reader_question": "With the Thurai advance guard already in the gorge and the second signal fire gone dark, can a stripped warden and the Company hold the narrows without the garrison?",
+  "reader_question": "With the Thurai advance guard already in the gorge and Muthu's garrison locked behind the walls, can a stripped warden and a borrowed Company stop them, and what was the second flame signalling?",
   "techniques_landed": [
     7,
     14,
     20
   ],
-  "new_facts_assessment": "Muthu sleeping in the warden's chamber is necessary and fits his holding the seal (F683, F709). 'North range, up its own stair' must stay compatible with F337, where the west stair is the only way to the warden's door. Name that stair as the west stair to lock it. Janu's 'burn not fresh' fits F766. Parukutty's cough (F767) is consistent. No conflicts.",
+  "new_facts_assessment": "new-facts.json is empty, but the draft adds facts that should be listed. These are: nineteen horses borrowed on a tally stick; Madhavi's turnip song; 'Saroja's father'; Muthu's drover-in-the-lower-court loophole; the order signed by the queen's household, not the queen; a borrowed knife; and Bhaskaran's spear rack by the lintel. All are consistent and earn their place. The warden's chamber is placed at the west-stair head, which matches F337 and F229. Retire provisional F770 (north range, own stair). Janu's 'burn not fresh' should replace F766's 'day-old burn'.",
   "content_rule_violation": false,
   "failure_modes": [],
-  "average": 4.0,
-  "minimum": 3.0,
+  "average": 4.12,
+  "minimum": 4.0,
   "passed": true
 }

@@ -111,7 +111,7 @@
       }
     },
     "04": {
-      "status": "revised",
+      "status": "passed",
       "revisions": 0,
       "scores": {
         "reader_question": 4.0,
@@ -120,13 +120,13 @@
         "shown_chemistry": 4.0,
         "character_logic": 4.0,
         "stakes_and_cost": 4.0,
-        "prose": 3.0,
+        "prose": 4.0,
         "continuity": 5.0
       },
-      "average": 4.0,
+      "average": 4.12,
       "flags": [],
       "words": 3137,
-      "minimum": 3.0,
+      "minimum": 4.0,
       "style": {
         "words": 3182,
         "banned_hits": {},
@@ -2175,9 +2175,13 @@
     {
       "at": "2026-10-31T19:43:35",
       "event": "done: S6 revise ch 4"
+    },
+    {
+      "at": "2026-10-31T19:45:10",
+      "event": "done: S5 critique ch 4"
     }
   ],
-  "updated_at": "2026-10-31T19:43:35",
+  "updated_at": "2026-10-31T19:45:10",
   "midpoint_chapter": 16,
   "continuity_attempts": 0,
   "continuity_last_errors": null,

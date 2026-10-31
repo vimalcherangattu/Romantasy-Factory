@@ -4,38 +4,36 @@
     "change": 4.0,
     "romance_movement": 4.0,
     "shown_chemistry": 4.0,
-    "character_logic": 3.0,
+    "character_logic": 4.0,
     "stakes_and_cost": 4.0,
-    "prose": 3.0,
-    "continuity": 0.0
+    "prose": 4.0,
+    "continuity": 5.0
   },
   "reasons": {
-    "reader_question": "Clear and urgent: the advance guard is early and Devan has no seal and no garrison. The ignored Kodiyur party blurs it.",
-    "change": "Hope for Muthu's help ends blocked by law. A loophole roof, a 'write it down' condition and an early enemy reset the power state.",
-    "romance_movement": "The movement is new: he spends his pass, then answers anyway, and he asks her before he acts. Both match the beat's romance change.",
-    "shown_chemistry": "Shown through action: matched rope burns, the hand on the stone, the slat confession, the wrist catch. Almost none of it is narrated.",
-    "character_logic": "Neela carried a vote to lead six south, yet she never mentions Kodiyur. She chooses the gorge with no word on the broken plan.",
-    "stakes_and_cost": "Muthu risks hanging, the refugees are named and Devan has no office. Her 'I'm coming' costs the south party, but the page never names that cost.",
-    "prose": "Mostly clean and concrete. Some lines muddle or slip into cliché: the welt line, 'strings had been cut', 'set, like wax', scent as identity.",
-    "continuity": "Two conflicts: the back-to-wall habit dates from Asha's death six years ago (F189), and the waistband held a leopard tooth, not a knife (F039/F346)."
+    "reader_question": "Clear and specific: the advance guard is already in the gorge, and Devan has no seal or garrison. The winking second flame adds a sharp sub-question.",
+    "change": "Law now blocks the garrison, Muthu opens only a drover loophole, the enemy timetable collapses, and the Kodiyur party's departure is now in doubt.",
+    "romance_movement": "The reason is new: he spends his one pass and then answers anyway, and he asks her before acting. Both answer the earlier 'say it before you do it' bargain.",
+    "shown_chemistry": "Chemistry is shown through action: shared rope-burn palms on the stone, the creak confession, and her forehead on his collar. Narration rarely labels feeling.",
+    "character_logic": "Muthu's honest refusal plus loophole fits his split loyalty. Neela's name-learning and refusing to lie to Chandu are on-brand. Devan reading the order aloud is smart.",
+    "stakes_and_cost": "Choosing the gorge costs the sea-road departure and hours off the queen's stair, named in one breath before she lets go.",
+    "prose": "Mostly strong and concrete: the turnip song, the coins line, 'least welcoming music'. Weak spots are 'said nothing' repeated six-plus times, the clunky Muthu-tell paragraph, and the pre-explained exit.",
+    "continuity": "Consistent with F455, F269, F675, F685, F762-F769, F399 and F302. The warden's chamber at the west-stair head matches F337 and contradicts only stale provisional F770."
   },
   "fixes": [
-    "Continuity. Change 'For eight years I slept with my back to the wall' to 'six years', because the habit dates from Asha's death (F189); the eight-year count is his bad sleep since the ford. Change 'married into it with a knife sewn in her waistband' to 'a leopard's tooth sewn in her waistband' (F039/F346). Her knife went to Devan in book 1 (F399).",
-    "Irrational behaviour. Neela leads the six for Kodiyur, yet the chapter never mentions them. Add one line on the descent or at the gate about the six and the road south. Then, in the last exchange after 'I'm asking you first', give her a breath that names the cost: going to the boulder delays the sea stair and the thirty. Make 'Then I'm coming' a costly choice, not a free one.",
-    "Prose and technique 7. 'where the welt would rise on her if he cut it' is anatomically muddled, because the wound-share puts the welt on the matching spot. Cut it or rewrite it as his burned palm against hers. For technique 7, end on an interrupted action, such as Neela reaching for the knife as the second gorge flame winks again, rather than the settled 'Then I'm coming.'"
+    "At \"He didn't mean to go without telling her. He meant to be in the court\": the narration pre-explains Devan's motive (contrived delay/told intent), which defuses the wrist-catch and 'I'm asking you first'. Cut both sentences and the 'She had watched him decide' line. Let Neela see only the turned shoulder and his speed, so his turn in the doorway and the ask land as his visible choice.",
+    "At \"His mouth had gone flat. She watched it. This was not\": the tell paragraph is clunky, and 'it' is used four times. Rewrite it as two lines, for example: 'His mouth went flat. Not his lying quiet; Devan had taught her that one. This was a man holding his breath between two doors.' Also cut two of the six-plus 'said nothing' instances (Vellan on the rope, Devan at the blanket) to avoid echo.",
+    "At \"Chandu stared at Neela's bandaged left hand\": the bandage appears from nowhere. In the rope scene, name which palm the rope burned (left) and have her wrap it under the thorn. Also tighten \"I was a thief in your house for forty days\" to the truer, costlier \"I was sent to kill you, and I rang a bell on your window every night\"."
   ],
-  "reader_question": "With no seal, no garrison and the Thurai already in the gorge, can a stripped warden and an untested Company hold the pass at all?",
+  "reader_question": "With the Thurai advance guard already in the gorge and Muthu's garrison locked behind the walls, can a stripped warden and a borrowed Company stop them, and what was the second flame signalling?",
   "techniques_landed": [
+    7,
     14,
     20
   ],
-  "new_facts_assessment": "The listed facts are necessary and consistent: refugee names, the beacon, the two-day descent, Muthu's 'drovers' loophole and Janu's rim-touch clue. Several facts are unlisted and need logging: Parukutty's cough; the warden's chamber in the north range, which must still face west (F017); and 'nine men I can name', whose source is never set up. Chellam's flight from Kalladi sits uneasily with F736, which has Kalladi still holding. Technique 7 only half lands: 'Then I'm coming' resolves the action instead of interrupting it.",
+  "new_facts_assessment": "new-facts.json is empty, but the draft adds facts that should be listed. These are: nineteen horses borrowed on a tally stick; Madhavi's turnip song; 'Saroja's father'; Muthu's drover-in-the-lower-court loophole; the order signed by the queen's household, not the queen; a borrowed knife; and Bhaskaran's spear rack by the lintel. All are consistent and earn their place. The warden's chamber is placed at the west-stair head, which matches F337 and F229. Retire provisional F770 (north range, own stair). Janu's 'burn not fresh' should replace F766's 'day-old burn'.",
   "content_rule_violation": false,
-  "failure_modes": [
-    "Irrational behaviour to extend plot",
-    "Romance buried by plot"
-  ],
-  "average": 3.25,
-  "minimum": 0.0,
-  "passed": false
+  "failure_modes": [],
+  "average": 4.12,
+  "minimum": 4.0,
+  "passed": true
 }
