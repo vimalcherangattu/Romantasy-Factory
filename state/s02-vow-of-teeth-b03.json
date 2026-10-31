@@ -866,7 +866,7 @@
       }
     },
     "29": {
-      "status": "passed",
+      "status": "edited",
       "revisions": 1,
       "scores": {
         "reader_question": 4.0,
@@ -880,18 +880,18 @@
       },
       "average": 3.88,
       "flags": [],
-      "words": 3117,
+      "words": 3113,
       "minimum": 3.0,
       "style": {
-        "words": 3021,
+        "words": 3113,
         "banned_hits": {},
         "ai_tell_hits": {},
         "ai_tells_per_1000": 0.0,
         "top_4gram": "she had carried it",
         "top_4gram_count": 2,
-        "longest_paragraph_words": 138,
-        "em_dashes_per_1000": 0.66,
-        "reading_ease": 93.8
+        "longest_paragraph_words": 124,
+        "em_dashes_per_1000": 0.64,
+        "reading_ease": 94.1
       },
       "owner_instructions": [
         "Keep the queen's single word 'Yes.' as her first admission. It is the first of the three confession beats, and it stays short. Don't expand it, so chapters 30 and 31 each carry a distinct, new act."
@@ -2098,9 +2098,13 @@
     {
       "at": "2026-10-31T19:25:01",
       "event": "done: S8 line edit ch 27"
+    },
+    {
+      "at": "2026-10-31T19:25:35",
+      "event": "done: S8 line edit ch 29"
     }
   ],
-  "updated_at": "2026-10-31T19:25:01",
+  "updated_at": "2026-10-31T19:25:35",
   "midpoint_chapter": 16,
   "continuity_attempts": 1,
   "continuity_last_errors": 3,
