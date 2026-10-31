@@ -113,7 +113,7 @@
       }
     },
     "04": {
-      "status": "passed",
+      "status": "edited",
       "revisions": 0,
       "scores": {
         "reader_question": 4.0,
@@ -127,18 +127,18 @@
       },
       "average": 4.12,
       "flags": [],
-      "words": 3137,
+      "words": 3130,
       "minimum": 4.0,
       "style": {
-        "words": 3182,
+        "words": 3130,
         "banned_hits": {},
         "ai_tell_hits": {},
         "ai_tells_per_1000": 0.0,
-        "top_4gram": "at the foot of",
-        "top_4gram_count": 3,
+        "top_4gram": "it down on the",
+        "top_4gram_count": 2,
         "longest_paragraph_words": 107,
-        "em_dashes_per_1000": 0.31,
-        "reading_ease": 93.2
+        "em_dashes_per_1000": 0.32,
+        "reading_ease": 93.0
       },
       "owner_instructions": [
         "Count consistency, following from the ch 1 change to forty-two (owner fix 8). Where: the descent, and any other place the narration states a literal headcount, such as 'forty odiyans' on the ropes. Change: wherever 'forty' is meant as an exact count, make it 'forty-two' or rephrase as 'the forty' used as the Company's name. Leave 'the forty' as the name untouched."
@@ -2348,9 +2348,13 @@
     {
       "at": "2026-10-31T21:29:00",
       "event": "done: S8 line edit ch 2"
+    },
+    {
+      "at": "2026-10-31T21:29:38",
+      "event": "done: S8 line edit ch 4"
     }
   ],
-  "updated_at": "2026-10-31T21:29:00",
+  "updated_at": "2026-10-31T21:29:38",
   "midpoint_chapter": 16,
   "continuity_attempts": 0,
   "continuity_last_errors": null,
