@@ -5,37 +5,35 @@
     "romance_movement": 4.0,
     "shown_chemistry": 4.0,
     "character_logic": 4.0,
-    "stakes_and_cost": 3.0,
+    "stakes_and_cost": 4.0,
     "prose": 4.0,
     "continuity": 5.0
   },
   "reasons": {
-    "reader_question": "The queen's claim on the four guards and eleven pages, with the Thurai counting by dusk, is specific. The danger of those pages is implied, never stated.",
-    "change": "The Company is now a real roll of sixty names. Devan accepts the lost strike, Janu's guilt turns into a daily rite, and the queen's last lever is exposed.",
-    "romance_movement": "There is a new reason: he refuses her help and fails at the pen in public, and she says 'Yes' instead of rescuing him. Her binding is spoken to him first.",
-    "shown_chemistry": "Responsive beats carry it: the six paces watched, the reed exchange, the ink-on-collar banter, his hand closing on her wrist. Almost no narration of feeling.",
-    "character_logic": "Neela's 'take it now and see who signs' gambit is smart, and the queen's retreat-and-hold fits her. Devan's refusal follows his arc.",
-    "stakes_and_cost": "Neela's binding cost is stated publicly. The next decision's cost is vague: no named person among the eleven, and no stated harm if the queen keeps them.",
-    "prose": "Clean, varied and quotable in places. The child simile appears three times, 'looked at the sky' twice, the 'Nobody ...' beat is overused, and 'ink-blue' contradicts the black ink.",
-    "continuity": "Consistent with F181, F591, F647, F722, F758, F863, F878, F933, F946, F950 and F967. No hard conflicts found."
+    "reader_question": "The dusk deadline and Kamalakshi's named page make a specific, ticking question about how to free the eleven without forcing them to name.",
+    "change": "Neela goes from unbound to first name on the roll, and the queen's move reopens the pages fight, so both power and identity shift.",
+    "romance_movement": "He refuses her help and fails at the pen in public, which is new. Her binding to him specifically is implied rather than enacted.",
+    "shown_chemistry": "The offer and refusal at the pen, the shared ache at the collarbone, and the 'clerks' banter all work through action and response.",
+    "character_logic": "The queen's cruel-fact leverage and Neela's 'Take it now' counter are both smart. Devan accepts losing the hand too serenely.",
+    "stakes_and_cost": "Neela's name makes her the crown's first target, the hand is permanently lost, and Kamalakshi faces a night of exposure by dusk.",
+    "prose": "Clean, varied and quotable ('a very quiet cage'). Similes pile up in the signing scene, and one closing line is unclear.",
+    "continuity": "Consistent with F329, F591, F647, F722, F758, F863, F878, F950, F971 and F1041. The pages threat sets up F975 fairly."
   },
   "fixes": [
-    "The queen's line 'Eleven have no name beside them yet' fails as stakes without depth. Have Neela count the eleven and name at least one aloud, such as Kamalakshi, who refused everyone (F903). Add one cruel fact from the queen: whoever holds a page can read it after dark. Give Neela one beat of what that means for Kamalakshi tonight.",
-    "Three lines repeat the child simile: 'the way a woman checks a sleeping child', 'like a child's first lesson' and 'as one might touch a child's'. Keep only Janu's parrot touch. Replace the other two with images specific to the place, such as letters leaning like a tapper's ladder. Change one of the two 'looked at the sky' and cut one of the four 'Nobody ...' beats.",
-    "Three small fixes. 'Lips move on the word Kettamala' is an unlisted plant: list it in new-facts with its intended payoff, or cut it. Change 'ink-blue to the wrist' to black, to match the pot. Kuttan cannot write (F512), so replace 'worse than Kuttan could' with something like 'worse than the line Neela wrote for Kuttan's mother'."
+    "At \"Then it won't,\" said Devan. / \"I find I don't mind the gap.\": the Real Losses technique (19) risks shock without grief, because the loss is accepted with no friction. Before 'Then it won't', add one concrete beat: he tries to press two fingers together and they fail, and Neela sees his face change for a breath. Keep the acceptance, but make it visibly chosen. Cut 'I think I'll be better at that' or move it to her POV reading him.",
+    "At \"Neela found she meant to pass it.\": this payoff line is unclear. Readers can't tell whether she means walking past the flame or taking the west stair she has always avoided (F449). Replace it with a concrete choice, for example: 'Tonight she would take the west stair up, past the light, and count it from the bottom.' That ties Janu's act to Neela's own changed habit.",
+    "At \"like a tapper's ladder left leaning on a wet wall\": this signing sequence stacks similes (ladder, 'like a field of grass', 'as they would for a bier', 'like a cough', 'like a cat sneezing'). Keep at most two in this stretch. Also fix the opening mixed image 'the old click of a latch closing... a door she had chosen to stand in'. Pick one metaphor, latch or door, and use it alone."
   ],
-  "reader_question": "How can Neela free the four unready guards and the eleven unnamed members from the queen's paper without forcing anyone to self-name, before the Thurai attack again?",
+  "reader_question": "How can Neela get the eleven unnamed pages out of the queen's case before dusk without forcing anyone, Kamalakshi first, to self-name?",
   "techniques_landed": [
     3,
     19,
     24
   ],
-  "new_facts_assessment": "Janu's lamp motive (F971), the roll-as-crown-leaf gambit (F972) and sixty names with garrison signers (F973) are all necessary and consistent. Two things are unlisted. First, the queen mouthing 'Kettamala' with an odd stillness is a plant with no listed payoff. Second, Janu's hand 'wrapped in its cloth from the day before' reads as a new injury, unless it is meant as the ch4 burn (F766), which would be weeks old by now. List the first and clarify the second.",
+  "new_facts_assessment": "All five are necessary and consistent. Returning the eleven pages fulfils F1041. The queen's dusk reclaim escalates and pays off fairly in F975. The hand verdict matches F950 and the bible. The roll and plank counts fit F562. Janu's noon lamp follows from F971.",
   "content_rule_violation": false,
-  "failure_modes": [
-    "Stakes without depth"
-  ],
-  "average": 4.0,
-  "minimum": 3.0,
+  "failure_modes": [],
+  "average": 4.12,
+  "minimum": 4.0,
   "passed": true
 }

@@ -4,38 +4,36 @@
     "change": 4.0,
     "romance_movement": 4.0,
     "shown_chemistry": 4.0,
-    "character_logic": 3.0,
+    "character_logic": 4.0,
     "stakes_and_cost": 4.0,
     "prose": 4.0,
-    "continuity": 0.0
+    "continuity": 5.0
   },
   "reasons": {
-    "reader_question": "Specific and urgent: eleven unbound pages and four guards' pages stay in crown reach, and Kamalakshi's may be read tonight.",
-    "change": "Neela is publicly bound first, Devan's strike is gone, Janu breaks her vigil, and the queen shifts her claim from roll to pages.",
-    "romance_movement": "This is new: he refuses her help and fails in public by choice, and she binds herself before him; the block banter seals it.",
-    "shown_chemistry": "Responsive action carries it: her offer, his left hand closing first, the shoulder touch and shared ink. A few lines explain too much.",
-    "character_logic": "The queen says Neela holds the forty 'on loan', then threatens Kamalakshi's page 'while it lies in my case'. Janu's blocking contradicts itself.",
-    "stakes_and_cost": "Neela names the binding's price aloud, Devan's hand is permanently lost, and a named girl's page can be read tonight.",
-    "prose": "Clean and concrete, with no banned phrases. 'Quiet cage', 'better at asking' and 'weighed the cost' state the theme outright.",
-    "continuity": "The narration calls Devan 'the Warden of Kettamala'. He lost the office in book 2, Muthu holds the disc, and the bible says he never returns as warden."
+    "reader_question": "The dusk deadline and Kamalakshi's named page make a specific, ticking question about how to free the eleven without forcing them to name.",
+    "change": "Neela goes from unbound to first name on the roll, and the queen's move reopens the pages fight, so both power and identity shift.",
+    "romance_movement": "He refuses her help and fails at the pen in public, which is new. Her binding to him specifically is implied rather than enacted.",
+    "shown_chemistry": "The offer and refusal at the pen, the shared ache at the collarbone, and the 'clerks' banter all work through action and response.",
+    "character_logic": "The queen's cruel-fact leverage and Neela's 'Take it now' counter are both smart. Devan accepts losing the hand too serenely.",
+    "stakes_and_cost": "Neela's name makes her the crown's first target, the hand is permanently lost, and Kamalakshi faces a night of exposure by dusk.",
+    "prose": "Clean, varied and quotable ('a very quiet cage'). Similes pile up in the signing scene, and one closing line is unclear.",
+    "continuity": "Consistent with F329, F591, F647, F722, F758, F863, F878, F950, F971 and F1041. The pages threat sets up F975 fairly."
   },
   "fixes": [
-    "'the Warden of Kettamala had written his name worse': continuity break, since Devan lost the wardenship in book 2 and Muthu holds the disc. Change the line to 'the man who had been Warden of Kettamala' or 'the man the whole cut still called Warden'. Characters may keep calling him Warden in dialogue, which is established as an honorific.",
-    "'You hold them on loan, Neela. They are the crown's.': this contradicts 'while it lies in my case, it can be read, tonight', a rule-logic failure. Make the queen reclaim the loan now: 'I will have them back in my case by dusk.' The threat becomes a concrete deadline, Neela's palm on the roll answers a real move, and the dusk line gains its bite.",
-    "'She went to the foot of the west stair.': this clashes with 'Then she crossed the last ten paces' two paragraphs later, so Janu arrives twice. Change it to 'She went toward the west stair and stopped where she always stopped', then keep the pause and the crossing. Also cut 'It was a very quiet cage. No one in it ever bled for me' to one line, so the gesture carries the theme."
+    "At \"Then it won't,\" said Devan. / \"I find I don't mind the gap.\": the Real Losses technique (19) risks shock without grief, because the loss is accepted with no friction. Before 'Then it won't', add one concrete beat: he tries to press two fingers together and they fail, and Neela sees his face change for a breath. Keep the acceptance, but make it visibly chosen. Cut 'I think I'll be better at that' or move it to her POV reading him.",
+    "At \"Neela found she meant to pass it.\": this payoff line is unclear. Readers can't tell whether she means walking past the flame or taking the west stair she has always avoided (F449). Replace it with a concrete choice, for example: 'Tonight she would take the west stair up, past the light, and count it from the bottom.' That ties Janu's act to Neela's own changed habit.",
+    "At \"like a tapper's ladder left leaning on a wet wall\": this signing sequence stacks similes (ladder, 'like a field of grass', 'as they would for a bier', 'like a cough', 'like a cat sneezing'). Keep at most two in this stretch. Also fix the opening mixed image 'the old click of a latch closing... a door she had chosen to stand in'. Pick one metaphor, latch or door, and use it alone."
   ],
-  "reader_question": "How can Neela free the eleven unbound members and the four guards from the crown's paper, before dusk and before Kamalakshi's page is read in the dark, without forcing anyone to bind?",
+  "reader_question": "How can Neela get the eleven unnamed pages out of the queen's case before dusk without forcing anyone, Kamalakshi first, to self-name?",
   "techniques_landed": [
     3,
     19,
     24
   ],
-  "new_facts_assessment": "new-facts.json is empty, but the draft adds facts: the eleven Resin House pages handed back at first light, Thankam's 'lift a cup, can't kill' prognosis, the queen's thirty years of rule, forty-one plank names with nine late fills, Ushakumari and Mathoor on the roll, and Janu's noon lamp. All are useful and match canon (F967 to F973). The pages-on-loan versus queen's-case contradiction must be resolved, and the facts should be listed.",
+  "new_facts_assessment": "All five are necessary and consistent. Returning the eleven pages fulfils F1041. The queen's dusk reclaim escalates and pays off fairly in F975. The hand verdict matches F950 and the bible. The roll and plank counts fit F562. Janu's noon lamp follows from F971.",
   "content_rule_violation": false,
-  "failure_modes": [
-    "Worldbuilding collapse"
-  ],
-  "average": 3.38,
-  "minimum": 0.0,
-  "passed": false
+  "failure_modes": [],
+  "average": 4.12,
+  "minimum": 4.0,
+  "passed": true
 }
