@@ -660,7 +660,7 @@
       }
     },
     "23": {
-      "status": "passed",
+      "status": "edited",
       "revisions": 2,
       "scores": {
         "reader_question": 4.0,
@@ -676,8 +676,19 @@
       "flags": [
         "needs-owner"
       ],
-      "words": 2712,
-      "minimum": 0.0
+      "words": 2701,
+      "minimum": 0.0,
+      "style": {
+        "words": 2701,
+        "banned_hits": {},
+        "ai_tell_hits": {},
+        "ai_tells_per_1000": 0.0,
+        "top_4gram": "he had watched her",
+        "top_4gram_count": 2,
+        "longest_paragraph_words": 131,
+        "em_dashes_per_1000": 0.37,
+        "reading_ease": 93.4
+      }
     },
     "24": {
       "status": "passed",
@@ -1551,9 +1562,13 @@
     {
       "at": "2026-10-31T21:10:40",
       "event": "done: S8 line edit ch 22"
+    },
+    {
+      "at": "2026-10-31T21:11:10",
+      "event": "done: S8 line edit ch 23"
     }
   ],
-  "updated_at": "2026-10-31T21:10:40",
+  "updated_at": "2026-10-31T21:11:10",
   "midpoint_chapter": 16,
   "continuity_attempts": 1,
   "continuity_last_errors": 1
