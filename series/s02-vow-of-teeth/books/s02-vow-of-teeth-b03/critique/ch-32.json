@@ -3,40 +3,39 @@
     "reader_question": 4.0,
     "change": 4.0,
     "romance_movement": 3.0,
-    "shown_chemistry": 3.0,
-    "character_logic": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 3.0,
     "stakes_and_cost": 3.0,
-    "prose": 3.0,
+    "prose": 4.0,
     "continuity": 5.0
   },
   "reasons": {
-    "reader_question": "Clear, specific hinge: an unledgered rogue odiyan with fresh resin at a Thurai envoy's side, plus a hire offer whose purpose is withheld.",
-    "change": "The Company moves from chartered to working: first contract voted, first foreign offer at the door, and proof that someone still makes odiyans.",
-    "romance_movement": "The new move is a public disagreement handled as equals. But the leads barely share a scene until the last page.",
-    "shown_chemistry": "The forearm welt and Devan's pink ears land well. Otherwise attraction is mostly observed at a distance, with few exchanged responsive actions.",
-    "character_logic": "Asking openly and leaning apart is smart and in character. Devan wanting the rogue as a lead is credible.",
-    "stakes_and_cost": "Hiring out to Nellimala's burners has a moral cost, but the price of refusing is never put on the page.",
-    "prose": "Mostly clean and concrete. The closing rationale paragraph is clunky and over-explained, and a few lines read as confused.",
-    "continuity": "Consistent with the facts: horn code, scents, 63 tents, Koman, roll and kennels. Check 'answered to for twenty-one years' against Seventeen (F329)."
+    "reader_question": "Sharp hinge: a scarred rogue in no ledger, smelling of a different resin, hired out by Thurai. The question is specific and stated by the envoy.",
+    "change": "The Company takes its first contract by vote, Neela's pairs clause becomes policy, and the world now knows it as hireable and tests it at the door.",
+    "romance_movement": "Public, opposite leans are new. The step-behind and 'you first' repeat the ch20/21 terms, so the HEA reads as confirmation more than change.",
+    "shown_chemistry": "The forearm welt Neela rubs with her thumb, his pink ears and his lowered hand are all responsive action. Little else in the chapter is between them.",
+    "character_logic": "Neela claims 'He was in none of it' from sight, but pages record numbers and shapes, not faces. Mailing a note to a mindless civet is sentimental but acknowledged.",
+    "stakes_and_cost": "The noon vote splits the leads and weighs Nellimala against the only lead. Its cost to the Company itself (truce, queen) goes unspoken.",
+    "prose": "Clean and concrete, with no banned phrases or dashes. The opening is summary-heavy, and 'Usha stood at her shoulder' blurs who was where at Kodiyur.",
+    "continuity": "No hard conflicts with the bible or facts. Wound-share, the Muthu round, the roll and the rogue's clues all match. The ch31 climber is dropped but not contradicted."
   },
   "fixes": [
-    "At 'She had not been sure what he would say', the paragraph explains Neela's strategy after the fact and closes on a tangled queen clause (Endless monologue). Cut it to one or two lines. Show the effect instead: the envoy's eyes go to the listening Company, and Madhavi says 'It's ours, then.' Then go to 'She nodded once.'",
-    "In the drill scene, at 'He did not look at her. He knew she was in the doorway', the leads never exchange anything until the hinge (Romance buried by plot). Add one responsive beat. After the welt rises, Devan glances to the doorway, lifts his stung forearm a finger's width as apology, and she answers by rubbing hers in a gesture only he reads. Keep it under 60 words.",
-    "At 'She had been the guild's best liar, and nobody had believed her', the logic is muddled: it reads as a liar nobody believed. Change it to 'She had been the guild's best liar, and this was the one promise she meant.' Also fix 'with Chathu behind him... nothing but a mop and a bucket in his hands' so it is clear the mop is Chathu's."
+    "At 'Weeks after the charter, the Thurai fleet sailed.': the page-one hook is a summary, and ch31's cliffhanger (horn, lone climber, 'first vote') is orphaned. Open in scene with Neela trimming the lamp. In two or three lines, pay off the climber: the factors' runner whose word became today's contract. Fold the truce into her memory of Usha's telling, cutting the Rukmini detail she could not have seen.",
+    "At 'He was in none of it.': Neela's certainty is unearned because pages hold numbers and shapes, not faces. Ground it in what she can know. Salt and clove-bark is no resin the House ever tapped or rationed, and she has smelled every batch since she was fourteen. His ridges are fresh-layered while every House member is accounted for. Let the envoy's line confirm her reasoning rather than supply it.",
+    "At 'I lean no,' she said.: the step-back reprises earlier terms, so the HEA turn lacks a new reason. Add one exchange showing what's new: this is the first time he has opposed her before the Company. She notes he didn't soften it. He answers literally, in his voice, that the Company should see them disagree and not break. Keep it to three lines before 'It's ours, then.'"
   ],
-  "reader_question": "Who made the rogue odiyan that no ledger holds, and what do the Thurai sea lords want to hire free knives for?",
+  "reader_question": "Who is the rogue odiyan no ledger holds, who made him, and what do the Thurai sea lords want to hire free knives for?",
   "techniques_landed": [
     20,
     23,
     26
   ],
-  "new_facts_assessment": "F1070 (ch31 climber was the factors' runner) is consistent and necessary, but it is buried in one subordinate clause. That deflates ch31's cliffhanger, so give it its own beat. F1071 (open leans at the door) matches the beat and replaces F1066/F1067 cleanly. The fresh-resin rogue fits F786 and F876, and its open question is acceptable as the series hinge.",
+  "new_facts_assessment": "F1114 cuts the link to ch31's ending, so Kuttu's horn, the lone climber and Devan's 'that's its first vote' are left unpaid. Either name the climber in ch32 or revise ch31's last beat. The other additions are consistent and minor: the lacquered box, Muthu thinner, Janu's tiffin, the pairs clause, the boat bought with crown pay (F1008). The rogue's salt-and-clove resin implies groves outside the Resin House. That suits a hinge, but the bible's 'only groves' rule should note it as a series reveal.",
   "content_rule_violation": false,
   "failure_modes": [
-    "Endless monologue",
-    "Romance buried by plot"
+    "Contrived delays"
   ],
-  "average": 3.62,
+  "average": 3.75,
   "minimum": 3.0,
   "passed": true
 }

@@ -1,41 +1,41 @@
 {
   "scores": {
     "reader_question": 4.0,
-    "change": 3.0,
+    "change": 4.0,
     "romance_movement": 3.0,
-    "shown_chemistry": 3.0,
+    "shown_chemistry": 4.0,
     "character_logic": 3.0,
     "stakes_and_cost": 3.0,
-    "prose": 3.0,
-    "continuity": 0.0
+    "prose": 4.0,
+    "continuity": 5.0
   },
   "reasons": {
-    "reader_question": "The rogue's ledgerless wrists and fresh clove-bark resin pose a sharp, specific question that points to a second House. The sea lords' purpose is only implied.",
-    "change": "The Company moves from chartered to tested by the world. Most of the chapter is an epilogue tour, and power only shifts in the last scene.",
-    "romance_movement": "There is new movement at the door: they disagree openly and he defers. The rest of the chapter shows them side by side, not changing.",
-    "shown_chemistry": "The welt on her forearm and his pink ears land well. The leads barely exchange words until the final half page.",
-    "character_logic": "Neela reasons that asking in public makes the answer the Company's, then whispers her answer. The stated tactic contradicts the action.",
-    "stakes_and_cost": "A public no would make the queen answer for it under the truce, but the chapter defers the choice to noon. Kirri's note carries real, honest cost.",
-    "prose": "There are good concrete details: the tin shutter, 310, the Indu bar. The 'It was not X. It was Y' frame recurs, and opening exposition summarises rather than dramatises.",
-    "continuity": "Devan's 'seven years on a drill' (F558, made at 25) and Muthu's 'one in seven years' break the eight-plus-year count. The ch31 lone climber is silently dropped."
+    "reader_question": "Sharp hinge: a scarred rogue in no ledger, smelling of a different resin, hired out by Thurai. The question is specific and stated by the envoy.",
+    "change": "The Company takes its first contract by vote, Neela's pairs clause becomes policy, and the world now knows it as hireable and tests it at the door.",
+    "romance_movement": "Public, opposite leans are new. The step-behind and 'you first' repeat the ch20/21 terms, so the HEA reads as confirmation more than change.",
+    "shown_chemistry": "The forearm welt Neela rubs with her thumb, his pink ears and his lowered hand are all responsive action. Little else in the chapter is between them.",
+    "character_logic": "Neela claims 'He was in none of it' from sight, but pages record numbers and shapes, not faces. Mailing a note to a mindless civet is sentimental but acknowledged.",
+    "stakes_and_cost": "The noon vote splits the leads and weighs Nellimala against the only lead. Its cost to the Company itself (truce, queen) goes unspoken.",
+    "prose": "Clean and concrete, with no banned phrases or dashes. The opening is summary-heavy, and 'Usha stood at her shoulder' blurs who was where at Kodiyur.",
+    "continuity": "No hard conflicts with the bible or facts. Wound-share, the Muthu round, the roll and the rogue's clues all match. The ch31 climber is dropped but not contradicted."
   },
   "fixes": [
-    "At 'She did not turn to the envoy. She spoke low' (character logic): the paragraph claims she asks in the open so the Company owns the answer, then she whispers. Either give the lean-no and lean-yes exchange aloud before Koman and the gathering Company, or cut the public-no rationale and make the whisper a deliberate private check before the public line. Move the rationale paragraph after she asks, not before.",
-    "At 'I spent seven years on a drill' and 'That's one in seven years' (continuity): the count is eight-plus years. Change Devan's line to 'eight years' to match F558, and make Muthu's 'That's one. One, since we were boys' so it agrees with 'losing to you since we were boys' and F720.",
-    "At 'Weeks after the charter, the Thurai fleet sailed' (contrived delay): ch31 ended on a lone climber Devan called the Company's first vote, and ch32 never mentions him. Add one or two sentences in the hall section identifying him as the pepper factors' runner who first carried the offer, so the cliffhanger pays off and the pepper vote is that first vote."
+    "At 'Weeks after the charter, the Thurai fleet sailed.': the page-one hook is a summary, and ch31's cliffhanger (horn, lone climber, 'first vote') is orphaned. Open in scene with Neela trimming the lamp. In two or three lines, pay off the climber: the factors' runner whose word became today's contract. Fold the truce into her memory of Usha's telling, cutting the Rukmini detail she could not have seen.",
+    "At 'He was in none of it.': Neela's certainty is unearned because pages hold numbers and shapes, not faces. Ground it in what she can know. Salt and clove-bark is no resin the House ever tapped or rationed, and she has smelled every batch since she was fourteen. His ridges are fresh-layered while every House member is accounted for. Let the envoy's line confirm her reasoning rather than supply it.",
+    "At 'I lean no,' she said.: the step-back reprises earlier terms, so the HEA turn lacks a new reason. Add one exchange showing what's new: this is the first time he has opposed her before the Company. She notes he didn't soften it. He answers literally, in his voice, that the Company should see them disagree and not break. Keep it to three lines before 'It's ours, then.'"
   ],
-  "reader_question": "Who made the rogue odiyan that no ledger holds, and what do the Thurai sea lords want to hire the Night Company's free knives for?",
+  "reader_question": "Who is the rogue odiyan no ledger holds, who made him, and what do the Thurai sea lords want to hire free knives for?",
   "techniques_landed": [
     20,
     23,
     26
   ],
-  "new_facts_assessment": "Koman's river report is consistent and a fair open thread for the series. Revising F1013 to an open noon vote with the leads disagreeing is better than the original, but the stated 'public' rationale must match the staging. Kirri's note honours F007 and is necessary. Dropping F1012 leaves ch31's cliffhanger, the lone climber called 'our first vote', unresolved. That breaks the urge-to-resume the previous chapter set up, so restore one line rather than drop it.",
+  "new_facts_assessment": "F1114 cuts the link to ch31's ending, so Kuttu's horn, the lone climber and Devan's 'that's its first vote' are left unpaid. Either name the climber in ch32 or revise ch31's last beat. The other additions are consistent and minor: the lacquered box, Muthu thinner, Janu's tiffin, the pairs clause, the boat bought with crown pay (F1008). The rogue's salt-and-clove resin implies groves outside the Resin House. That suits a hinge, but the bible's 'only groves' rule should note it as a series reveal.",
   "content_rule_violation": false,
   "failure_modes": [
-    "Romance buried by plot"
+    "Contrived delays"
   ],
-  "average": 2.75,
-  "minimum": 0.0,
-  "passed": false
+  "average": 3.75,
+  "minimum": 3.0,
+  "passed": true
 }
