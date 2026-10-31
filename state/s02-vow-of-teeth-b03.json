@@ -914,15 +914,15 @@
       ]
     },
     "30": {
-      "status": "revised",
+      "status": "passed",
       "revisions": 0,
       "scores": {
         "reader_question": 4.0,
         "change": 4.0,
         "romance_movement": 4.0,
         "shown_chemistry": 4.0,
-        "character_logic": 3.0,
-        "stakes_and_cost": 4.0,
+        "character_logic": 4.0,
+        "stakes_and_cost": 3.0,
         "prose": 4.0,
         "continuity": 5.0
       },
@@ -2279,9 +2279,13 @@
     {
       "at": "2026-10-31T20:12:05",
       "event": "done: S6 revise ch 30"
+    },
+    {
+      "at": "2026-10-31T20:13:25",
+      "event": "done: S5 critique ch 30"
     }
   ],
-  "updated_at": "2026-10-31T20:12:05",
+  "updated_at": "2026-10-31T20:13:25",
   "midpoint_chapter": 16,
   "continuity_attempts": 0,
   "continuity_last_errors": null,

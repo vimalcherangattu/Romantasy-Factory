@@ -4,36 +4,36 @@
     "change": 4.0,
     "romance_movement": 4.0,
     "shown_chemistry": 4.0,
-    "character_logic": 3.0,
-    "stakes_and_cost": 4.0,
+    "character_logic": 4.0,
+    "stakes_and_cost": 3.0,
     "prose": 4.0,
     "continuity": 5.0
   },
   "reasons": {
-    "reader_question": "The lone lit window and pale smoke turn the question into a concrete one: what is the queen burning, and will she sign at noon?",
-    "change": "The writ moves from private leverage to the court roll, and Devan joins the Company on the record. Both shifts are clear and irreversible.",
-    "romance_movement": "This is Devan's first public binding, entered on a crown roll with no office to shelter him. Neela answers by daylight. The reason is new.",
-    "shown_chemistry": "'Names only' gives Devan a witness's knowledge with the witnessing removed. Her fingers on his sleeve and the left-hand clasp land through action.",
-    "character_logic": "Devan's choices are smart. The queen never openly owns the writ, so the beat's public confession is dodged and her answer reads as evasion.",
-    "stakes_and_cost": "Rema names the price: the crown can answer any Company act on Devan. Madhavi's dead give the fifth clause a real cost.",
-    "prose": "Clean, varied and quotable ('like weather', the burned-rice voice). Minor slips: the vote-order contradiction and the redundant case line.",
-    "continuity": "Dates, welts, the twenty-six burned leaves, Lata's ride north, Janu's noon lamp and the Usha double share all match the bible and facts."
+    "reader_question": "The lit north window and pale smoke make 'what is she burning, and will she sign at noon?' concrete and urgent.",
+    "change": "Writ goes from private lever to court record, charter carried as amended, Devan joins the Company, two new bonds formed.",
+    "romance_movement": "First public declaration, entered on a high-court roll at real legal cost; partly recycles the B2 ch32 'back, not wall' vow.",
+    "shown_chemistry": "Her grip on his sleeve, stepping out to be seen, and turning her back to give him 'names only' all show it without narration.",
+    "character_logic": "Devan spends his lever deliberately, and his amendment to Madhavi is the smart answer. The queen's 'alone, and be seen' fits her.",
+    "stakes_and_cost": "Roll liability is stated well, but the three hundred spears never react to a confessed royal murder, so the spent lever costs nothing visible.",
+    "prose": "Clean, readable and specific. Minor echoes: Janu's apron fists three times, a duplicated green-case line, and a few telling sentences.",
+    "continuity": "Consistent with F980-F993, F1039, F1055, F1056, F970 and the wound-share rules. Only small wording slips."
   },
   "fixes": [
-    "At 'Twenty-six of my own knives knelt in the dark', the queen never owns the writ in public. The beat requires her to admit she permitted the raids, bought the thirty and paid for his death. As written this is a contrived delay: the confession stays implied. Add two plain sentences in her cruel-facts voice, such as 'I sealed it. I would have let you die on that stair,' before her line about the realm being blind.",
-    "At 'Madhavi did, last and slowest', the count contradicts Kuttu's 'Kamalakshi's hand was the last one up, and the highest'. Two hands cannot both be last. Keep Madhavi last, and change Kuttu's line to 'Kamalakshi's hand was the first one up, and the highest.' Kamalakshi then reads as eager, not as a counting error.",
-    "At 'He thought he knew where her eyes had gone', the close repeats a beat the reader just saw (her hand on the green case). This is redundant interiority that blunts the smoke reveal. Cut the three sentences to one, 'Her hand stayed on the green case,' so the lit window and the smoke carry the question alone."
+    "At \"and Haran's sergeants studied the rafters\" the confession costs nothing visible (Stakes without depth). Devan spent the spears, so make it land. Give Haran one line, or one act such as stepping off his pillar and asking the queen whether his men climbed this road for a crown that buys its wardens' deaths. Keep his answer open until noon, so the night's wait carries a real risk to the pass.",
+    "At \"Behind her when she wants a back, beside her\" the vow repeats Devan's B2 ch32 words to the forty (F671), which risks repetitive tension. Frame it as a deliberate callback with a new edge. Have him say he said it once on a hill to people who could forgive him, and now says it to a court that cannot. Then make the roll liability, not the phrasing, the new thing.",
+    "At \"over the welt that matched the queen's\" the wording is muddled: Usha carries the cut and the queen carries the welt. Rewrite as 'over the dressed cut whose twin rose on the queen'. Cut the duplicate \"Her hand stayed on the green case.\" Vary Janu's apron fists, which appear three times, by keeping one and giving her a different gesture elsewhere."
   ],
-  "reader_question": "What is the queen burning alone in the south range tonight, and will she sign the Company's five terms at noon?",
+  "reader_question": "What is the queen burning alone in the north range tonight, and will she sign the Company's charter at noon?",
   "techniques_landed": [
     9,
     16,
     20
   ],
-  "new_facts_assessment": "Madhavi's challenge is needed: it makes the vote real, honours Lekha, Orma, Kani and Swathi (F1049), and fits the right-to-refuse theme. Sajan stepping back fits F999/F1004 (he burns his own page in ch31) and keeps exactly three crown leaves after Lata names. Both are consistent.",
+  "new_facts_assessment": "The draft lists no new facts, but the page adds: the court sat nine days ago, the bailiffs, the watch-house as hall, Devan entered as a Company member, Usha's double bond, and twelve years of hating resin. All already appear in continuity (F981-F993) and fit. The draft's empty new-facts list is an omission but not a conflict.",
   "content_rule_violation": false,
   "failure_modes": [
-    "Contrived delays"
+    "Stakes without depth"
   ],
   "average": 4.0,
   "minimum": 3.0,
