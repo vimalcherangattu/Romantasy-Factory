@@ -1,19 +1,3 @@
 {
-  "facts": [
-    {
-      "category": "relationship",
-      "fact": "At dawn Neela told Janu what Vellan said about the shuttered lamp at the foot of the west stair; this is why Janu lights the lamp at noon.",
-      "since": "s02-vow-of-teeth-b03 ch 28"
-    },
-    {
-      "category": "plot",
-      "fact": "Neela answers the queen's claim on the paper by offering her the roll itself, written on a crown leaf; the queen backs off ('Keep your roll. I want the pages.') but keeps her claim on the four guards' pages and the eleven unnamed pages of the forty.",
-      "since": "s02-vow-of-teeth-b03 ch 28"
-    },
-    {
-      "category": "plot",
-      "fact": "Garrison men (Kandan, Bhaskaran) sign the roll, which reaches sixty names.",
-      "since": "s02-vow-of-teeth-b03 ch 28"
-    }
-  ]
+  "facts": []
 }
