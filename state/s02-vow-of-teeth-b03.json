@@ -882,7 +882,7 @@
       ]
     },
     "29": {
-      "status": "passed",
+      "status": "edited",
       "revisions": 1,
       "scores": {
         "reader_question": 4.0,
@@ -896,10 +896,10 @@
       },
       "average": 3.88,
       "flags": [],
-      "words": 3125,
+      "words": 3144,
       "minimum": 3.0,
       "style": {
-        "words": 3113,
+        "words": 3144,
         "banned_hits": {},
         "ai_tell_hits": {},
         "ai_tells_per_1000": 0.0,
@@ -907,7 +907,7 @@
         "top_4gram_count": 2,
         "longest_paragraph_words": 124,
         "em_dashes_per_1000": 0.64,
-        "reading_ease": 94.1
+        "reading_ease": 93.5
       },
       "owner_instructions": [
         "'Good hand' and 'flat' check (owner fix 6, pattern). Change: replace any 'good hand' or 'the good one' with 'his left' or with the action. Keep 'flat' only for Usha's voice, at most once."
@@ -2374,9 +2374,13 @@
     {
       "at": "2026-10-31T21:33:01",
       "event": "done: S8 line edit ch 28"
+    },
+    {
+      "at": "2026-10-31T21:33:35",
+      "event": "done: S8 line edit ch 29"
     }
   ],
-  "updated_at": "2026-10-31T21:33:01",
+  "updated_at": "2026-10-31T21:33:35",
   "midpoint_chapter": 16,
   "continuity_attempts": 0,
   "continuity_last_errors": null,
