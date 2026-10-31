@@ -629,7 +629,7 @@
       }
     },
     "22": {
-      "status": "passed",
+      "status": "edited",
       "revisions": 2,
       "scores": {
         "reader_question": 5.0,
@@ -645,8 +645,19 @@
       "flags": [
         "needs-owner"
       ],
-      "words": 2967,
-      "minimum": 0.0
+      "words": 2953,
+      "minimum": 0.0,
+      "style": {
+        "words": 2953,
+        "banned_hits": {},
+        "ai_tell_hits": {},
+        "ai_tells_per_1000": 0.0,
+        "top_4gram": "in the hut and",
+        "top_4gram_count": 2,
+        "longest_paragraph_words": 170,
+        "em_dashes_per_1000": 1.02,
+        "reading_ease": 97.7
+      }
     },
     "23": {
       "status": "passed",
@@ -1536,9 +1547,13 @@
     {
       "at": "2026-10-31T21:10:08",
       "event": "done: S8 line edit ch 21"
+    },
+    {
+      "at": "2026-10-31T21:10:40",
+      "event": "done: S8 line edit ch 22"
     }
   ],
-  "updated_at": "2026-10-31T21:10:08",
+  "updated_at": "2026-10-31T21:10:40",
   "midpoint_chapter": 16,
   "continuity_attempts": 1,
   "continuity_last_errors": 1
