@@ -1,0 +1,70 @@
+{
+  "checks": [
+    {
+      "name": "central_question_resolved",
+      "pass": true,
+      "evidence": "Both halves of the central question are answered. Medicine: ch 18 the nine sound packets plus the hunter's twist reach Ranu ('Eighteen courses, forty-one sick'). Ch 20 Kiran's fever breaks ('Cool. His skin was cool and slick with sweat'). Ch 24 the masked buyer's sack finishes the remaining sick. Arrest: ch 32 at the cairn Rohan tells his senior warden, 'I am not arresting her. I am walking to Taravan beside her, with the law in her hand,' and Gopal enters it in the post book. The queen's ruling in spring is flagged as possible but not left as the book's question. Only the Old Bargain hinge stays open."
+    },
+    {
+      "name": "clues_paid_off",
+      "pass": true,
+      "evidence": "Every clue either pays off on the page or is logged as a series thread. C02 pays off ch 22 (Kiran's account of the ear). C04, C05, C07, C09, C13 and C15 pay off ch 16 (the Varun deduction). C08 and C16 pay off ch 29. C10 pays off ch 25. C11 pays off ch 24 (and is noted by Rohan in ch 16). C20 pays off ch 30. C21 and C22 pay off ch 28 and ch 30 (the button match). C23 pays off ch 14. C26 pays off ch 27. C19 is logged as series but in fact pays off in ch 30 (the blood thread in the wax). Four payoffs land in a different chapter or form than the outline says, but they are still on the page. C01: the scraped crate stamp is not raised in ch 16; it pays off in ch 28 and ch 30 ('The stamp scraped off with a spoon by a left-handed man'). C03: the frozen-cartilage report connects to Kiran's ear in ch 25 rather than ch 29. C25: Jassi's kid bell is buried with Sunni in ch 19, so ch 32 hangs Badami's big bell instead; the payoff is made explicit on the page. No clue is left without either a payoff or a series log."
+    },
+    {
+      "name": "midpoint_reversal",
+      "pass": true,
+      "evidence": "Ch 16 (the midpoint chapter): 'I am the Salt Fox.' / 'My writ orders me to deliver the Salt Fox to the warden-judge at Taravan at the thaw.' Both sets of hands stay warm. From the button, the gully route, the iron ring, Lalit's 'three wardens' and the sieve ring, the pair work out that Varun is both the traitor and Meera's middleman. The mirror: 'My lifeline was your enemy's purse... I've been funding the coup you're riding to stop' / 'I trusted the man who killed Jassi.' This changes the romance: they share their first kiss, and Rohan's promise 'I will not let you fall on this mountain' binds his body to her footing until the thaw."
+    },
+    {
+      "name": "heroine_belief_change",
+      "pass": true,
+      "evidence": "In ch 1 Meera treats the law as a noose: she spits at the Closing Law, hides the redbark, refuses to give the captain her name ('It's the one you can prove'), and counts the pegs on the hanging tree. In ch 30 she chooses to enter herself into the crown's own record: 'My name is Meera of Kothi Shilak, called the Salt Fox. I have crossed the Shilak closed, ten winters running... That is a hanging, by your law. I put it in the crown's record, under my own name, so that no one needs to guess.' Her interiority states the changed belief just before: 'A law is a rope, she thought. It depends who ties it.' Ch 31 reinforces it when she accepts the Closing Roll for life: 'I'll owe them winters. I'd give them anyway.'"
+    },
+    {
+      "name": "real_loss",
+      "pass": true,
+      "evidence": "Three losses stay lost. Ch 3: Jassi dies in the avalanche, found 'with Badami's kid bell' in his fist, and is mourned at the cairns in ch 4, ch 31 and ch 32. Ch 18: Sunni, seven, dies before dawn after getting her course too late; she is buried in ch 19 and written into the count. Ch 26: Meera's great lie kills her left ring and little fingers; Nimmi amputates them in ch 31 ('Ninety-one... Done'). Ch 30 later counts 'all eight' of her remaining fingers."
+    },
+    {
+      "name": "love_interest_goal",
+      "pass": true,
+      "evidence": "Rohan's goal is unrelated to Meera. He must carry the queen's lapis seal to the Snow Fair within twenty days and press it before the assembly, so that Regent Pritam's investiture fails (ch 2 interiority; achieved ch 30, 'The regent's claim is revoked'). From ch 21 he also must reach Garh Neshar in time to protect his sister Ila, who is trapped there."
+    },
+    {
+      "name": "series_hinge",
+      "pass": true,
+      "evidence": "Ch 32: after the bond ends and they retie by choice, the jogini speak through the cold in every hand at the cairn: 'The bargain is owed. It was made at this stone. It was never paid... When the fourth winter ends, the pass closes. Forever. Unless someone pays.' The hinge ties back to earlier threads. Meera reads the carving as two unequal hands, a rope tied in Asha's knot, and a cut end. Rohan recalls his grandfather's gloves laid neatly on a stone. Meera fears for Kiran. Ila's map 'the queen will want.' This opens the next book's question without reopening this book's."
+    }
+  ],
+  "series_threads": [
+    {
+      "clue": "C06",
+      "thread": "Carving of two hands on one rope. Ch 32 reveals the hands are unequal (worker's and careful), the rope is tied in Asha's three-loop knot, and it ends cut or unpaid. This ties the carving to the Old Bargain."
+    },
+    {
+      "clue": "C12",
+      "thread": "Asha's three nested loops match the cairn carving. Ch 28 Asha silences Meera's question about it ('Not here, and not before him'), and ch 32 sees the knot on the carving. Asha knows something about the Bargain."
+    },
+    {
+      "clue": "C14",
+      "thread": "Rohan's grandfather died on the pass the winter before the Closing Law. Ch 27 adds the gloves laid one on the other on a flat stone, and ch 32 recasts this as possibly a deliberate payment of the Bargain."
+    },
+    {
+      "clue": "C17",
+      "thread": "The masked buyer's Neshar silver stamped with a cut corner, and the buyer's identity. Neither reappears after ch 24, so this thread is dormant. Book 2 must pick it up."
+    },
+    {
+      "clue": "C18",
+      "thread": "The grey-bearded officer who lowered the torches. He reappears in ch 30 laying down his sword belt; his name is withheld, and Nimmi has memorised his face."
+    },
+    {
+      "clue": "C24",
+      "thread": "The regent's general is officially exiled while Ranu whispers otherwise (ch 31). This likely links to C18."
+    },
+    {
+      "clue": "C19",
+      "thread": "The queen's blood mixed into the seal wax. It pays off on the page in ch 30 (the red thumb-thread proves her hand), but it is logged as a series thread for what the blood-sealing implies about the queen and the Bargain."
+    }
+  ],
+  "summary": "The book meets every structural promise in canon/novel-structure.md. The central question is answered: the medicine reaches Ranu and Kiran lives, and Rohan publicly declines to arrest Meera at the cairn. Only the Old Bargain hinge is left open. The ch 16 midpoint reverses both leads' understanding of Varun, makes each complicit in the other's harm, and turns the romance through the first kiss and a binding promise. Meera's belief change is proven by a choice: in ch 30 she writes her own Salt Fox confession into the crown's record, then accepts the Closing Roll in ch 31. Jassi, Sunni and two of Meera's fingers are lost and stay lost. Rohan's seal mission and his sister Ila give him goals independent of her. Every outline clue pays off or is a logged series thread, but four payoffs land differently from the outline. C01's scraped crate stamp pays off in ch 28 and ch 30, not ch 16. C03's frozen-cartilage record connects in ch 25, not ch 29. C25 swaps Jassi's kid bell, which is buried with Sunni, for Badami's big bell at the cairn. C17 (the cut-corner silver) is never touched again after ch 24 and is the weakest series thread. If the outline's chapter mapping matters to the owner, update it to match these four on-page changes."
+}
