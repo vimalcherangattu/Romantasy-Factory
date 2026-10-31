@@ -1,41 +1,41 @@
 {
   "scores": {
-    "reader_question": 4.0,
+    "reader_question": 5.0,
     "change": 4.0,
     "romance_movement": 4.0,
     "shown_chemistry": 4.0,
-    "character_logic": 3.0,
+    "character_logic": 4.0,
     "stakes_and_cost": 4.0,
-    "prose": 3.0,
+    "prose": 4.0,
     "continuity": 0.0
   },
   "reasons": {
-    "reader_question": "The ending is a specific image: the queen's First Guard climbs alone with open hands and cuffs pulled down. The reader wants to know why.",
-    "change": "Safety turns to war. The treaty collapse is read aloud, the crown abandons the hills, and Devan takes the Company's leave to fight.",
-    "romance_movement": "The reason is new: Neela admires him putting his goal to the people it costs. 'I'll go either way' blunts it.",
-    "shown_chemistry": "Responsive beats land: the crooked mouth, a hand that doesn't stay, the look answered with her raised hand. Some realisation is narrated.",
-    "character_logic": "Devan says he'll go regardless, which makes the vote ornamental. Holding a gorge alone against a hundred reads as heroics, not command.",
-    "stakes_and_cost": "Stakes are personal: Thulasi's Pazhayangadi burned, Nellimala's bay, Kirri fading. Devan's descent costs the Company its only shield.",
-    "prose": "Mostly concrete and quick. Lapses: the wedding-cake anachronism, a muddled cuff beat, the confusing 'If the rains hold', a doubled 'Nobody spoke'.",
-    "continuity": "The odiyan count conflicts. Forty members plus Neela plus Vellan makes 42, but the text says 'Forty-one odiyans, herself and Vellan among them'."
+    "reader_question": "The ending is a sharp, specific gap: the queen's pared-wrist knife arrives alone, in daylight, and says Neela's name.",
+    "change": "The state shifts from hidden safety to war. Devan binds himself to the vote, and a crown agent is at the door.",
+    "romance_movement": "New reason: Neela watches him submit his goal to the Company and ask leave of her body without leaning on her.",
+    "shown_chemistry": "Strong responsive beats: she watches his mouth until it eases, the brief hand on her back, the wrist glance. One admiration paragraph is narrated.",
+    "character_logic": "Devan's asking fits his arc. Neela, the Company's leader, says nothing during the debate, which is slightly passive.",
+    "stakes_and_cost": "The wound-share makes his gorge stand her risk too. Thulasi, Kesu and Kirri give the stakes names.",
+    "prose": "Concrete and varied, and no banned phrases. A few tells creep in ('which was how she knew', 'too quick to be kind').",
+    "continuity": "'A number on a page she'd never seen' conflicts with F664: Neela has seen and checked the 'Sold to the crown' sheet."
   },
   "fixes": [
-    "'Forty-one odiyans, herself and Vellan among them' (continuity). The forty members plus Neela plus Vellan make forty-two, and the plank holds forty-one names without Vellan. Change it to 'Forty-two odiyans, herself and Vellan among them'. Have Thilak divide the cup into forty-two, or state that Vellan takes no share. Make sure the hand counts (26+11+4) add up to whichever number of voters you choose.",
-    "'I'll go either way, in the sense that' (irrational behaviour; weakens the romance beat). If he goes regardless, the vote isn't permission, and Neela's admiration rings hollow. Have him bind himself to the vote: 'If the hands say no, I sit by this fire and hate it.' Give him a reason beyond 'alone', such as Vellan or Thilak volunteering after. Then cut 'She understood something then that she had not had a word for...', since her raised hand already shows it.",
-    "'careful as a man cutting a wedding cake' (prose; wrong-world image). Replace it with a Malabar-hill image, such as 'careful as a man halving a pepper berry'. Also fix the end beat: 'let her cuffs fall to her knuckles' repeats a position the cuffs already hold. Make her let them ride back instead, so Neela sees the single pared seam at the wrist. That plants the night-guard reveal rather than the closing line telling it."
+    "'as a number on a page she'd never seen': this is a continuity conflict, because Neela laid the stubs beside the 'Sold to the crown' sheet (F664). Change it to 'as thirty numbers on a sheet, never a face', so the gap is faces, not the page.",
+    "'We broke it, by shutting the door the queen kept open.': this is a missed beat element and opaque to a returning reader. Add one or two lines of Devan's literal facts: Ittan is dead, Muthu seals the pass honestly, no more sold passages, so the sea lords stopped waiting. Keep it as tally-like speech.",
+    "'Asking her would have been easy. She'd have said yes': this is narrated admiration. Cut it to one line. Then add a responsive action, for example Neela starts to speak for him, stops, and lowers her half-raised hand so the Company votes first, which shows her choosing not to lead him."
   ],
-  "reader_question": "Why has the queen's First Guard, a hidden odiyan herself, climbed alone to the Company's shelter just as the fleet lands, and is she there to bargain or to cage?",
+  "reader_question": "Why has the queen sent one of her hidden knives alone up the goat path, and what does she want with Neela?",
   "techniques_landed": [
     1,
-    5
+    5,
+    6
   ],
-  "new_facts_assessment": "new-facts.json is empty, but the draft adds several facts. Pazhayangadi is burned and Kalladi is holding. A hundred raiders are on the road and the gorge is forty paces wide, three days off. The grandson's mother waits with the goats, Muthu reads the order from the stair, and Devan carries no sword. First Guard is 'a few years past thirty'. All are consistent and useful (Pazhayangadi ties to Thulasi, Kalladi to Vasu) and should be logged. Technique 6 is only partial: the odds of one man holding the gorge are asserted, not made credible.",
+  "new_facts_assessment": "Plank of forty-one names, Vellan unlisted: this is necessary and consistent with F740, F1077 and the text. It correctly supersedes F1087. No other new facts conflict.",
   "content_rule_violation": false,
   "failure_modes": [
-    "Irrational behaviour to extend plot",
     "Narrated-only chemistry"
   ],
-  "average": 3.25,
+  "average": 3.62,
   "minimum": 0.0,
   "passed": false
 }
