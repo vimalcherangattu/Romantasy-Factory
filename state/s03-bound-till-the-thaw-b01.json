@@ -598,7 +598,7 @@
       }
     },
     "21": {
-      "status": "passed",
+      "status": "edited",
       "revisions": 2,
       "scores": {
         "reader_question": 4.0,
@@ -614,8 +614,19 @@
       "flags": [
         "needs-owner"
       ],
-      "words": 2973,
-      "minimum": 0.0
+      "words": 2957,
+      "minimum": 0.0,
+      "style": {
+        "words": 2957,
+        "banned_hits": {},
+        "ai_tell_hits": {},
+        "ai_tells_per_1000": 0.0,
+        "top_4gram": "a day and a",
+        "top_4gram_count": 3,
+        "longest_paragraph_words": 112,
+        "em_dashes_per_1000": 0.68,
+        "reading_ease": 95.2
+      }
     },
     "22": {
       "status": "passed",
@@ -1521,9 +1532,13 @@
     {
       "at": "2026-10-31T21:09:30",
       "event": "done: S8 line edit ch 20"
+    },
+    {
+      "at": "2026-10-31T21:10:08",
+      "event": "done: S8 line edit ch 21"
     }
   ],
-  "updated_at": "2026-10-31T21:09:30",
+  "updated_at": "2026-10-31T21:10:08",
   "midpoint_chapter": 16,
   "continuity_attempts": 1,
   "continuity_last_errors": 1
