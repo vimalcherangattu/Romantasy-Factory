@@ -1,6 +1,6 @@
 {
   "scores": {
-    "reader_question": 5.0,
+    "reader_question": 4.0,
     "change": 4.0,
     "romance_movement": 4.0,
     "shown_chemistry": 4.0,
@@ -10,33 +10,32 @@
     "continuity": 0.0
   },
   "reasons": {
-    "reader_question": "The burning man, the warm coat against her wrist and Asha's deadline make the next chapter's question sharp and specific.",
-    "change": "Meera gains the leak clue, Asha's deadline, a partial answer about the coat, and power over the information; Rohan is suddenly helpless.",
-    "romance_movement": "His first deliberate 'Meera' and a costed partial disclosure move the bond. His refusal has a new reason: the truth would endanger her crew.",
-    "shown_chemistry": "The dropped stick, the catch, and 'Say my name' work as action. 'I am not being careful with you' edges toward narration.",
-    "character_logic": "Meera hides the leak but hands Rohan her own bounty price. She also deduces a 'cut' to the party list she couldn't know about.",
-    "stakes_and_cost": "Kiran's pardon dangles at the cost of one word. Two sticks are burned, a day and a night are left, and the fever puts his life at stake.",
-    "prose": "Voice is mostly clean and specific. 'Slates' repeats, 'colour of hands' echoes, 'like a thrown pot' is odd, and 'price' is used heavily.",
-    "continuity": "'Forty paces down, Rohan lay' puts them beyond the eight-span rope (F008/F009) with no cold. That breaks the world rule."
+    "reader_question": "The collapse with a burning man and a warm coat against her wrist makes the reader ask about survival and the seal.",
+    "change": "Asha moves from shadow to a priced, deadlined threat. Meera gains the 'three wardens' leak and a partial answer.",
+    "romance_movement": "He says 'Meera' on purpose for the first time and gives a costed partial truth. She catches him. The reason is new.",
+    "shown_chemistry": "Shown through response: the dropped stick, his unnoticed trembling, her small thanks, and the catch. There is little narrated feeling.",
+    "character_logic": "Meera, the expert lie-reader, never checks his fingers when he claims he heard only 'the tune'. Suspecting Rohan of leaking his own death route is thin.",
+    "stakes_and_cost": "Kiran's pardon against Rohan's coat is a real cost. The deadline and the two burned sticks bite.",
+    "prose": "Concrete and well varied. 'Low and level' cairn hum is repeated in-chapter and echoes ch9's last image. 'Proved' overclaims the stones' power.",
+    "continuity": "The rib sits 'forty paces' up, yet Asha sits nine spans from the door. F120 puts eight spans at under ten paces."
   },
   "fixes": [
-    "'Forty paces down, Rohan lay with his ear': this breaks the rope rule (worldbuilding collapse). At the rope's end Meera is at most eight spans from the hut. Change it to 'Eight spans down.' Then recast Asha's distance: she sits just past the rope's reach, so Meera physically cannot close it. Replace 'how fast Meera could cover forty paces uphill' with Asha showing she knows exactly how far a bound guide can come.",
-    "'And a price,' she said. 'Two hundred in silver for the skin.' Meera hides the leak, then hands Rohan proof she carries a bounty. That pre-empts the ch16 midpoint and F148, so a smart Meera wouldn't do it (irrational behaviour). Substitute a safe truth, such as Asha's deadline or the price on his coat. Keep Rohan seeing the stop and saying 'Silence is free.'",
-    "'a number written down before someone cut it': per F294 no one in Kothi heard 'three', so Meera can't know about a cut. Reword so she infers only that the number came from a plan on paper, not from eyes on the slope. Add one line of her writing 'three wardens, two goat-folk' in the count, which sets up F155."
+    "'Forty paces up the slope, a black rib of rock' conflicts with Asha's 'I'm sitting nine' spans and with F120 (eight spans is under ten paces). Change it to about fifteen paces. Make 'the gap between them' one span of steep snow Meera can see but not cross.",
+    "'Not the words. The tune of it.' Meera, who reads lies from fingertips, accepts this blind, and Asha's shouts carried into the hut earlier. Have Meera glance at his fingertips and find them warm. Add a line that the wind turned downslope after Asha's opening hail, so his claim is checked and plausible.",
+    "'hummed through the roof stones, low and level' repeats in-chapter and echoes ch9's closing image. Replace the second hum after 'the queen's will' with a different cue, such as the red rope lying slack and warm at her wrist. Change 'It proved he did not know' to 'It told her no one under that roof had lied' (F320)."
   ],
-  "reader_question": "Can Meera keep Rohan alive through the fever, and what will she find, and do, when she opens the coat Asha wants?",
+  "reader_question": "Can Meera keep a feverish Rohan alive with Asha's deadline running, and what will she do with the thing sewn in his coat?",
   "techniques_landed": [
     4,
     7,
     16
   ],
-  "new_facts_assessment": "N10-1 makes the temptation strong, but it needs a reason Asha keeps this from Varun, who pays her (F228). N10-2 and N10-3 are needed and consistent, and 'queen's hand' is a good ambiguous clue. Reword N10-4 to match F320: stones don't verify alone, so Meera reads hands plus a level hum. N10-5 is fine, but per F294 Meera can't know the list was 'cut'.",
+  "new_facts_assessment": "The nine-span placement (F333) is useful as a power-seesaw device, but it conflicts with 'forty paces' and F120's scale. The count entry (F334) is necessary and matches F155. The draft list omits several facts that should be logged. Asha knowing Meera is the Salt Fox (F328) is significant and needs a bible ruling. The 200/300 silver bounty, the Kiran pardon list and the cairn on the rise were also omitted.",
   "content_rule_violation": false,
   "failure_modes": [
-    "Irrational behaviour to extend plot",
-    "Worldbuilding collapse"
+    "Irrational behaviour to extend plot"
   ],
-  "average": 3.5,
+  "average": 3.38,
   "minimum": 0.0,
   "passed": false
 }

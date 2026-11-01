@@ -1,0 +1,41 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 3.0,
+    "stakes_and_cost": 4.0,
+    "prose": 4.0,
+    "continuity": 0.0
+  },
+  "reasons": {
+    "reader_question": "The collapse with a burning man and a warm coat against her wrist makes the reader ask about survival and the seal.",
+    "change": "Asha moves from shadow to a priced, deadlined threat. Meera gains the 'three wardens' leak and a partial answer.",
+    "romance_movement": "He says 'Meera' on purpose for the first time and gives a costed partial truth. She catches him. The reason is new.",
+    "shown_chemistry": "Shown through response: the dropped stick, his unnoticed trembling, her small thanks, and the catch. There is little narrated feeling.",
+    "character_logic": "Meera, the expert lie-reader, never checks his fingers when he claims he heard only 'the tune'. Suspecting Rohan of leaking his own death route is thin.",
+    "stakes_and_cost": "Kiran's pardon against Rohan's coat is a real cost. The deadline and the two burned sticks bite.",
+    "prose": "Concrete and well varied. 'Low and level' cairn hum is repeated in-chapter and echoes ch9's last image. 'Proved' overclaims the stones' power.",
+    "continuity": "The rib sits 'forty paces' up, yet Asha sits nine spans from the door. F120 puts eight spans at under ten paces."
+  },
+  "fixes": [
+    "'Forty paces up the slope, a black rib of rock' conflicts with Asha's 'I'm sitting nine' spans and with F120 (eight spans is under ten paces). Change it to about fifteen paces. Make 'the gap between them' one span of steep snow Meera can see but not cross.",
+    "'Not the words. The tune of it.' Meera, who reads lies from fingertips, accepts this blind, and Asha's shouts carried into the hut earlier. Have Meera glance at his fingertips and find them warm. Add a line that the wind turned downslope after Asha's opening hail, so his claim is checked and plausible.",
+    "'hummed through the roof stones, low and level' repeats in-chapter and echoes ch9's closing image. Replace the second hum after 'the queen's will' with a different cue, such as the red rope lying slack and warm at her wrist. Change 'It proved he did not know' to 'It told her no one under that roof had lied' (F320)."
+  ],
+  "reader_question": "Can Meera keep a feverish Rohan alive with Asha's deadline running, and what will she do with the thing sewn in his coat?",
+  "techniques_landed": [
+    4,
+    7,
+    16
+  ],
+  "new_facts_assessment": "The nine-span placement (F333) is useful as a power-seesaw device, but it conflicts with 'forty paces' and F120's scale. The count entry (F334) is necessary and matches F155. The draft list omits several facts that should be logged. Asha knowing Meera is the Salt Fox (F328) is significant and needs a bible ruling. The 200/300 silver bounty, the Kiran pardon list and the cairn on the rise were also omitted.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Irrational behaviour to extend plot"
+  ],
+  "average": 3.38,
+  "minimum": 0.0,
+  "passed": false
+}
