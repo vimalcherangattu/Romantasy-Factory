@@ -957,7 +957,7 @@
       ]
     },
     "31": {
-      "status": "passed",
+      "status": "edited",
       "revisions": 1,
       "scores": {
         "reader_question": 3.0,
@@ -974,15 +974,15 @@
       "words": 2970,
       "minimum": 3.0,
       "style": {
-        "words": 2768,
+        "words": 2970,
         "banned_hits": {},
         "ai_tell_hits": {},
         "ai_tells_per_1000": 0.0,
         "top_4gram": "the council has sealed",
         "top_4gram_count": 2,
-        "longest_paragraph_words": 83,
+        "longest_paragraph_words": 78,
         "em_dashes_per_1000": 0.0,
-        "reading_ease": 92.4
+        "reading_ease": 92.0
       },
       "owner_instructions": [
         "Bond-rule contradiction in the drafting sessions. Problem: Rohan's line 'The jogini allow twelve... Eight is what one guide can hold on a slide.' contradicts the rest of the book, the blurb ('neither can stray beyond eight arm-spans') and ch1 ('no longer than the spirits would stand'), all of which make eight the spirits' limit. Change: delete the twelve-versus-eight claim. Make Ila's quarrel purely about whose arm sets the measure: a broad warden's arm or a long guide's arm, a surveyor's fixed span or the guide's own. The clause then settles on 'the guide's arm is the unit of measure'. Eight arm-spans stays the spirits' limit throughout.",
@@ -2214,9 +2214,13 @@
     {
       "at": "2026-11-01T21:45:31",
       "event": "done: S8 line edit ch 30"
+    },
+    {
+      "at": "2026-11-01T21:46:07",
+      "event": "done: S8 line edit ch 31"
     }
   ],
-  "updated_at": "2026-11-01T21:45:31",
+  "updated_at": "2026-11-01T21:46:07",
   "midpoint_chapter": 16,
   "continuity_attempts": 0,
   "continuity_last_errors": null,
