@@ -357,7 +357,7 @@
       ]
     },
     "12": {
-      "status": "passed",
+      "status": "edited",
       "revisions": 0,
       "scores": {
         "reader_question": 4.0,
@@ -371,18 +371,18 @@
       },
       "average": 4.0,
       "flags": [],
-      "words": 2696,
+      "words": 2688,
       "minimum": 3.0,
       "style": {
-        "words": 3111,
+        "words": 2688,
         "banned_hits": {},
         "ai_tell_hits": {},
         "ai_tells_per_1000": 0.0,
-        "top_4gram": "out to its end",
+        "top_4gram": "down the slope a",
         "top_4gram_count": 2,
-        "longest_paragraph_words": 113,
+        "longest_paragraph_words": 103,
         "em_dashes_per_1000": 0.0,
-        "reading_ease": 95.1
+        "reading_ease": 94.9
       },
       "owner_instructions": [
         "Consistency with the chapter 1 Salt Fox change. Where: 'The double price is in no record' / 'Nobody writes down what we do for free.' What to change: if any surrounding interiority coyly withholds that she is the Salt Fox, make it plain in one line. Otherwise make no change."
@@ -2038,9 +2038,13 @@
     {
       "at": "2026-11-01T20:57:52",
       "event": "done: S8 line edit ch 11"
+    },
+    {
+      "at": "2026-11-01T20:58:24",
+      "event": "done: S8 line edit ch 12"
     }
   ],
-  "updated_at": "2026-11-01T20:57:52",
+  "updated_at": "2026-11-01T20:58:24",
   "midpoint_chapter": 16,
   "continuity_attempts": 1,
   "continuity_last_errors": 1,
