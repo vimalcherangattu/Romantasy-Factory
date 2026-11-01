@@ -4,36 +4,39 @@
     "change": 4.0,
     "romance_movement": 4.0,
     "shown_chemistry": 4.0,
-    "character_logic": 4.0,
-    "stakes_and_cost": 3.0,
+    "character_logic": 3.0,
+    "stakes_and_cost": 4.0,
     "prose": 4.0,
-    "continuity": 0.0
+    "continuity": 5.0
   },
   "reasons": {
-    "reader_question": "He pockets crown-cough powder from the guide's fleece and tells no one; the question is sharp, though his motive stays offstage.",
-    "change": "Knowledge (redbark trace), power (she wins her place on the crossing) and relationship (each has seen the other's hidden conduct) all shift.",
-    "romance_movement": "Respect starts against his judgement for a new reason, her choosing the pass over Jassi; she now watches his unexplained kindness.",
-    "shown_chemistry": "Shown through counted steps, 'count them', the refused name and mutual watching; no narrated attraction.",
-    "character_logic": "The pairing and the public ear question are smart; skipping the cut bale is motivated by the village's winter and his fine-paying habit.",
-    "stakes_and_cost": "Meera's cost to cross is named, but the cost of his silence over the powder (harbouring by the letter) never reaches the page.",
-    "prose": "Clean and concrete, with no banned phrases. The 'done it for Dilan... rope end in his pocket' line is muddled and front-runs ch 9.",
-    "continuity": "'Yesterday, in the doorway' conflicts with day 1 (F290); 'a queen who signed a hanging law' conflicts with a law that predates her reign."
+    "reader_question": "Ending pocketed redbark plus earlier 'Leave it' gives a sharp question: why is the hunter letting the load cross?",
+    "change": "Pairing fixed, Rohan now holds proof of contraband and harbouring exposure, and Meera has witnessed an unexplained kindness.",
+    "romance_movement": "Respect grows against his judgement through her choice for Jassi. The reason is new and specific: her loyalty, and a lie he can count.",
+    "shown_chemistry": "Chemistry rests on her counting his stride, the lifted mouth corner, the name refusal and 'Count them', with no narrated attraction.",
+    "character_logic": "Refusing to cut the bale on a thin 'village's winter' reason strains a three-winter hunter. The corporal is right and one bale ruins nothing.",
+    "stakes_and_cost": "His closing silence makes him a harbourer by the letter of the law. Her crossing risks the noose and his writ deadline.",
+    "prose": "Concrete and varied, with no banned phrases. Weak spots: one muddled sentence, an over-signposted button and a same-word paragraph opening.",
+    "continuity": "Matches F056, F057, F062, F383, F384, F385 and F386, the seal pocket (F116), the bale location and Meera's age. No conflicts."
   },
   "fixes": [
-    "Continuity: 'Yesterday, in the doorway, she had said Jassi' puts the doorway exchange a day earlier. By F290 the arrival, search and yard all fall on day 1. Change 'Yesterday' to 'Two hours ago' or 'That morning'.",
-    "Continuity: 'a queen who signed a hanging law' conflicts with the bible. The Closing Law is 60 winters old and Sarala has reigned 30. Change it to 'a queen who kept a hanging law' or 'a queen whose hand enforced a hanging law'.",
-    "Stakes without depth: at 'Then he went to find his lieutenant, and said nothing', the cost of the choice is invisible. Add one plain sentence before it: a warden who lets a known load cross is harbouring it, the same rope. Also cut 'and the answer had come out as a rope end in his pocket', which is muddled and pre-empts ch 9's reveal."
+    "'Cheap, bright, new, wrong.' (Varun's button gripe). Failure mode: signposted clue (C04 should be buried). Cut this line so the brass button sits as one flat item in the run of complaints with the cuff and the chalky polish. A reader should pass over it now and remember it at ch 16.",
+    "'Cut one open, sir,' ... 'Leave it.' Failure mode: irrational behaviour. 'The village's winter' is too thin a reason for a hunter of three winters. Show the corporal probing three bales but not the one the thin woman sits on, and Rohan noticing that and choosing not to order it. His choice becomes visible and costed, and the reader question sharpens without explaining his motive.",
+    "'A guide whose lies he could count was a rarer thing than a guide who knew the mountain.' This sentence is muddled and contradicts the next line. Rewrite it so the point is plain, e.g. 'A liar he could count was safer than a stranger he couldn't.' Also change the opening of 'Jassi had stood through the whole exchange' so it no longer starts with the same word as the paragraph before it, e.g. 'Across the yard, Jassi...'"
   ],
-  "reader_question": "Rohan has found redbark grease in the guide's fleece and pocketed it in silence: does he already suspect her, and what will he do with the evidence?",
+  "reader_question": "Rohan has found redbark in the crew's fleece and let it go: why is a captain who hangs smugglers silently letting contraband cross?",
   "techniques_landed": [
     13,
     15,
     16
   ],
-  "new_facts_assessment": "F383 (ear skin) is necessary and fits Kiran's ear. F384 is good, but 'yesterday' breaks the day count. F385 sharpens clue C22 and is consistent. F386 is acceptable as a separate order; later 'writ's orders' references (ch 16, 31) must treat it as part of the writ packet.",
+  "new_facts_assessment": "The draft listed no new facts, yet it adds minor ones: the corporal, the probe driven 'to the hilt', the widow beside Hakam whose husband never came down, Puja's coughing child and her 'boy' who calls hanging sport, and the fine notice on her door since the last sweep. All are consistent with F059, F061 and F312 and are needed for texture. They should be logged.",
   "content_rule_violation": false,
-  "failure_modes": [],
-  "average": 3.38,
-  "minimum": 0.0,
-  "passed": false
+  "failure_modes": [
+    "Irrational behaviour to extend plot",
+    "Twists without setup"
+  ],
+  "average": 4.0,
+  "minimum": 3.0,
+  "passed": true
 }
