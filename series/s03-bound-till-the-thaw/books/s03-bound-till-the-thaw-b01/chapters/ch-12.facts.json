@@ -1,16 +1,16 @@
 {
   "facts": [
     {
-      "id": "F121",
-      "category": "object",
-      "fact": "Asha's crew leaves a bundle hung in the deadfall juniper: sattu, dried apricots, a twist of salt and a strip of smoked goat, tied in the three-nested-loop knot that matches the cairn carving. Meera sketches it in the count as 'Same as cairn'. She eats a strip of the goat at noon; Rohan does not. She has not decided its purpose.",
+      "id": "F335",
+      "category": "knowledge",
+      "fact": "The Shilak post's file holds a seized Taravan factor's receipt showing a crossing paid at twice the Kothi rate, while a widow's crossing with a sick child the same week has no payment recorded. This anomaly lets Rohan infer Meera's double pricing. Supersedes the 'guessing from a sum' basis in F124.",
       "since": "s03-bound-till-the-thaw-b01 ch 12",
       "provisional": true
     },
     {
-      "id": "F123",
-      "category": "name",
-      "fact": "The second man Rohan hanged was Ketan, seventeen, a lowland boy from the Taravan road carrying forty pounds of salt over the closed pass to his mother, who had married into Neshar and had a cough. The first was an unnamed lowland runner of about thirty-one who carried powder for the regent's men. Rohan afterwards paid the fine the post levied on Ketan's mother.",
+      "id": "F336",
+      "category": "knowledge",
+      "fact": "Ch 12 retires F121 and F123 in favour of F125 and F126. At the end of ch 12 the regent's hunters' two-note falling horn sounds from downslope, where Asha's crew went.",
       "since": "s03-bound-till-the-thaw-b01 ch 12",
       "provisional": true
     }

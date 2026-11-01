@@ -2269,6 +2269,20 @@
       "fact": "Meera writes in the count: 'Three wardens, two goat-folk. Said by Asha's boy. We were two and two.'",
       "since": "s03-bound-till-the-thaw-b01 ch 10",
       "provisional": true
+    },
+    {
+      "id": "F335",
+      "category": "knowledge",
+      "fact": "The Shilak post's file holds a seized Taravan factor's receipt showing a crossing paid at twice the Kothi rate, while a widow's crossing with a sick child the same week has no payment recorded. This anomaly lets Rohan infer Meera's double pricing. Supersedes the 'guessing from a sum' basis in F124.",
+      "since": "s03-bound-till-the-thaw-b01 ch 12",
+      "provisional": true
+    },
+    {
+      "id": "F336",
+      "category": "knowledge",
+      "fact": "Ch 12 retires F121 and F123 in favour of F125 and F126. At the end of ch 12 the regent's hunters' two-note falling horn sounds from downslope, where Asha's crew went.",
+      "since": "s03-bound-till-the-thaw-b01 ch 12",
+      "provisional": true
     }
   ],
   "knowledge": [
