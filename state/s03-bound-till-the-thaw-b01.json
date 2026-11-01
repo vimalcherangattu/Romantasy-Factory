@@ -1706,9 +1706,13 @@
     {
       "at": "2026-11-01T19:27:06",
       "event": "done: S9 summary"
+    },
+    {
+      "at": "2026-11-01T19:30:38",
+      "event": "done: bonus story"
     }
   ],
-  "updated_at": "2026-11-01T19:27:06",
+  "updated_at": "2026-11-01T19:30:38",
   "midpoint_chapter": 16,
   "continuity_attempts": 1,
   "continuity_last_errors": 1
