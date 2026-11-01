@@ -1,3 +1,20 @@
 {
-  "facts": []
+  "facts": [
+    {
+      "category": "knowledge",
+      "fact": "The Shilak blockade order is written by the post commander and signed by the captain; Rohan signed it in the autumn before first snow, three winters running (ch 20)."
+    },
+    {
+      "category": "injury",
+      "fact": "Meera has an old burn-scar on her forearm; Rohan kisses it in ch 20."
+    },
+    {
+      "category": "magic",
+      "fact": "When Meera begins to say a half-false claim aloud, her fingertips start to whiten; she stops before completing it, corrects herself, and the colour returns (ch 20)."
+    },
+    {
+      "category": "place",
+      "fact": "The ash handprint is on the lintel of Nimmi's storehouse door as well as the house (ch 20)."
+    }
+  ]
 }
