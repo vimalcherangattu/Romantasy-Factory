@@ -1,41 +1,39 @@
 {
   "scores": {
-    "reader_question": 4.0,
-    "change": 4.0,
+    "reader_question": 5.0,
+    "change": 5.0,
     "romance_movement": 4.0,
-    "shown_chemistry": 4.0,
+    "shown_chemistry": 5.0,
     "character_logic": 4.0,
-    "stakes_and_cost": 3.0,
-    "prose": 3.0,
-    "continuity": 0.0
+    "stakes_and_cost": 4.0,
+    "prose": 4.0,
+    "continuity": 5.0
   },
   "reasons": {
-    "reader_question": "The jogini's warning plus the uneven carved hands and the cut rope give a sharp, specific series question, though the payer stays unnamed.",
-    "change": "The bond ends, Rohan declares publicly before his wardens, the betrothal is chosen, and the pass gains a deadline.",
-    "romance_movement": "The new reason is choice without proof. Swapped knots and 'You'll have to take my word' make it fresh.",
-    "shown_chemistry": "He stands still while she walks away. 'Sixteen and a half' and 'last time you get to check' show care through action.",
-    "character_logic": "Gopal's reminder, Rohan's public framing and Meera's walk-and-return all suit smart versions of these people.",
-    "stakes_and_cost": "Betrothal and declaration cost nothing on the page. The Bargain threat is communal and not yet tied to a named loved one.",
-    "prose": "Strong images, but there are negation-pattern tells, a told epiphany, an ambiguous 'never been spoken to', a 'no Captain' typo and an off-voice 'ain't'.",
-    "continuity": "'Twenty-nine days' conflicts with ch23 (seventeen days at Ranu) plus six weeks of drafting; the bond has lasted about two months."
+    "reader_question": "The jogini's unpaid Bargain, the fourth-winter deadline and Kiran's silent nod leave a sharp, personal question about who pays.",
+    "change": "The bond ends, Rohan publicly defies his writ, and a book's peace turns into a series threat. All three are shown on the page.",
+    "romance_movement": "Rope chosen freely, belief without bodily proof is a new reason. The 'drops Captain' beat is weak because she has said Rohan for chapters.",
+    "shown_chemistry": "Swapped knots, 'Sixteen and a half', 'last time you get to check' and him not following: responsive action throughout.",
+    "character_logic": "Rohan choosing aloud fits him. Meera voicing 'As payment' jumps to a conclusion the evidence barely supports.",
+    "stakes_and_cost": "Rohan's defiance risks the queen's judgement and Gopal's book. The walk-away is a real choice. Kiran ties the jogini threat to a loved person.",
+    "prose": "Clean, concrete and varied. It has a few strong lines. One illogical sentence ('right both times') and some soft spots.",
+    "continuity": "Consistent: three left fingers, mitten at fifteen, knots, gloves memory, eleven lines and the jogini wording all match. Badami's move is unexplained but plausible."
   },
   "fixes": [
-    "Continuity: in 'sat tight on her pulse for twenty-nine days' and the repeat 'waited at that distance for twenty-nine days', replace the figure with the true span of about two months (for example 'since before midwinter'). Also fix 'For three weeks and more they had not touched a rope', 'saying it for a month in the dark' and 'They'd had that for a month' so every duration fits ch23 plus six weeks of drafting plus the crossing home.",
-    "Stakes without depth: after 'Who is to pay?' said Chand, give Meera one beat that ties the debt to a named person. For example, she thinks of Kiran at the drafting table, who owes a life and believes his is the coin, or of Rohan's grandfather's gloves laid on a stone (F236). One line of fear for a specific loved one will make the series hinge cost her something now.",
-    "Prose: change 'She had never been spoken to in her life' to 'Nothing had ever spoken to her through her skin.' Fix the typo in 'And it's Rohan, no Captain' (use 'not Captain'). Change Hakam's 'ain't' to 'isn't'. Cut the told epiphany 'And she saw what it was... with nothing to prove it' to one line, or let the dialogue carry it. Vary the stacked 'It did not... It did not' and 'It was not... It was' constructions."
+    "At '\"As payment,\" Meera said. It came out barely a sound', the line pre-empts S4, Book 2's midpoint reveal (a contrived early reveal of the series twist). Cut Meera's line. Let Rohan end on 'As you would leave a thing you will not need again.' and have Meera say nothing. That keeps the gloves as a shaped gap and protects Ila's discovery in Book 2.",
+    "At '\"Rohan,\" said Meera... \"Not Captain. Not today.\"', 'Not today' implies Captain returns tomorrow. She has also used his name privately for chapters, so the beat lacks a new reason. Change it to 'Not Captain. Not to me, and not in front of me,' making it a public claim. Alternatively have Gopal's salute meet the name, so the change is that the post accepts it.",
+    "At 'she had been right both times', the logic misfires: she told herself not to look, which is a resolve, not a prediction that can be right. Rewrite as 'and both times she had known she would want to.' Also add one clause at 'Badami is with your sister Leela' ('Bindu walked her down after midwinter') so Meera's knowledge and Badami's location are grounded."
   ],
-  "reader_question": "What is the Old Bargain the founders never paid, and who will be made to pay it before the fourth winter closes the pass?",
+  "reader_question": "What is the Old Bargain, who must pay it before the fourth winter ends, and will Kiran try to be the one?",
   "techniques_landed": [
     3,
     20,
     26
   ],
-  "new_facts_assessment": "Gopal, Badami's working bell (a smart fix for F173), the cream two-span rope with swapped knots, and the carving detail are all necessary and consistent; the carving pays S3/S7 fairly. One fact is unlisted: Roop and Chand's bond ended 'weeks ago at the thaw's first rumour' (F049). It is vague and only works if they were tied at a Neshar-side cairn, so state that or cut it. The 'twenty-nine days' and 'a month' durations break the timeline.",
+  "new_facts_assessment": "Leela as Jassi's sister is harmless and pays off his want. Badami being at Leela's orchard conflicts mildly with F066/F268, which put her in the salt-house pen with her bell fetched from it. Meera also has no on-page way to know of the move. Add one clause saying Bindu walked her down at midwinter. The unlisted 'As payment' inference is a de facto new fact that pre-empts S4.",
   "content_rule_violation": false,
-  "failure_modes": [
-    "Stakes without depth"
-  ],
-  "average": 3.25,
-  "minimum": 0.0,
-  "passed": false
+  "failure_modes": [],
+  "average": 4.5,
+  "minimum": 4.0,
+  "passed": true
 }

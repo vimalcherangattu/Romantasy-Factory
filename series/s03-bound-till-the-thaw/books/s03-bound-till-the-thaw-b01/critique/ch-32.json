@@ -1,39 +1,39 @@
 {
   "scores": {
-    "reader_question": 4.0,
+    "reader_question": 5.0,
     "change": 5.0,
-    "romance_movement": 5.0,
-    "shown_chemistry": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 5.0,
     "character_logic": 4.0,
     "stakes_and_cost": 4.0,
     "prose": 4.0,
     "continuity": 5.0
   },
   "reasons": {
-    "reader_question": "The Bargain warning, the mismatched carved hands and the grandfather's gloves make a sharp question. Meera's leap to Kiran is fuzzy.",
-    "change": "Mountain bond becomes chosen betrothal, Rohan publicly refuses the writ, and the book's peace turns into a series threat.",
-    "romance_movement": "The reason is new: she is free to walk away, walks fourteen spans and chooses to come back. The knot swap seals it.",
-    "shown_chemistry": "Shown in action: 'Sixteen and a half', each tying the other's knot, 'take my word', 'I do'. The cheer section drifts into crowd summary.",
-    "character_logic": "Rohan's public defiance and Gopal's salute are earned. Meera reads a threat to Kiran into a silence from before the Bargain was known.",
-    "stakes_and_cost": "Rohan's career, the queen's judgement and a four-winter deadline are named and tied to Kiran, though only loosely.",
-    "prose": "Tight and specific with no banned phrases. Jassi's bell speech is muddled, and the jogini passage mixes its similes.",
-    "continuity": "Consistent with the bible and earlier facts. Roop and Chand's cairn origin is shaky but not an outright conflict."
+    "reader_question": "The jogini's unpaid Bargain, the fourth-winter deadline and Kiran's silent nod leave a sharp, personal question about who pays.",
+    "change": "The bond ends, Rohan publicly defies his writ, and a book's peace turns into a series threat. All three are shown on the page.",
+    "romance_movement": "Rope chosen freely, belief without bodily proof is a new reason. The 'drops Captain' beat is weak because she has said Rohan for chapters.",
+    "shown_chemistry": "Swapped knots, 'Sixteen and a half', 'last time you get to check' and him not following: responsive action throughout.",
+    "character_logic": "Rohan choosing aloud fits him. Meera voicing 'As payment' jumps to a conclusion the evidence barely supports.",
+    "stakes_and_cost": "Rohan's defiance risks the queen's judgement and Gopal's book. The walk-away is a real choice. Kiran ties the jogini threat to a loved person.",
+    "prose": "Clean, concrete and varied. It has a few strong lines. One illogical sentence ('right both times') and some soft spots.",
+    "continuity": "Consistent: three left fingers, mitten at fifteen, knots, gloves memory, eleven lines and the jogini wording all match. Badami's move is unexplained but plausible."
   },
   "fixes": [
-    "'the goat is warm and fat and under your roof': the speech is muddled. Whose roof is it, and who is 'a man who's looking after her'? Bindu's 'He did' is also unclear. Name the arrangement plainly, for example: Badami is in the salt-house pen and Bindu feeds her until the roads open to the orchard. Make Bindu's line say clearly that Jassi needed the bell rung for him.",
-    "'Her stomach turned over now, cold with a fear': this is a character-logic gap. Kiran could not have known of the Bargain at the drafting table. Reword so Meera fears the future, not the past. She knows the boy who nodded at 'for the next one' is looking for a debt to pay, and he will hear of this one. One or two sentences; keep the rest.",
-    "'Their bond had been tied at this same cairn': this is a continuity risk. Roop and Chand crossed back from Ranu (F049), so they would have bound on the Neshar side. Cut the sentence, or make their bond end at their own cairn the same morning. Then drop the new fact F274."
+    "At '\"As payment,\" Meera said. It came out barely a sound', the line pre-empts S4, Book 2's midpoint reveal (a contrived early reveal of the series twist). Cut Meera's line. Let Rohan end on 'As you would leave a thing you will not need again.' and have Meera say nothing. That keeps the gloves as a shaped gap and protects Ila's discovery in Book 2.",
+    "At '\"Rohan,\" said Meera... \"Not Captain. Not today.\"', 'Not today' implies Captain returns tomorrow. She has also used his name privately for chapters, so the beat lacks a new reason. Change it to 'Not Captain. Not to me, and not in front of me,' making it a public claim. Alternatively have Gopal's salute meet the name, so the change is that the post accepts it.",
+    "At 'she had been right both times', the logic misfires: she told herself not to look, which is a resolve, not a prediction that can be right. Rewrite as 'and both times she had known she would want to.' Also add one clause at 'Badami is with your sister Leela' ('Bindu walked her down after midwinter') so Meera's knowledge and Badami's location are grounded."
   ],
-  "reader_question": "What is the Old Bargain the stones say is unpaid, what did Rohan's grandfather pay at that cairn, and will Kiran try to pay it himself?",
+  "reader_question": "What is the Old Bargain, who must pay it before the fourth winter ends, and will Kiran try to be the one?",
   "techniques_landed": [
     3,
     20,
     26
   ],
-  "new_facts_assessment": "Kiran staying at Garh Neshar is necessary because it keeps him offstage for Book 4, and it fits ch31, where only Ila is said to stay; consider one line confirming it. The Kiran-silence fact is useful setup, but as written it implies he anticipated a bargain nobody had heard of; the fear needs rewording. Roop and Chand being tied at the Shilak Cairn is questionable. They crossed back from Ranu (F049), so they would have bound on the Neshar side, not at the Kothi-side cairn. The fact is unnecessary and risky.",
+  "new_facts_assessment": "Leela as Jassi's sister is harmless and pays off his want. Badami being at Leela's orchard conflicts mildly with F066/F268, which put her in the salt-house pen with her bell fetched from it. Meera also has no on-page way to know of the move. Add one clause saying Bindu walked her down at midwinter. The unlisted 'As payment' inference is a de facto new fact that pre-empts S4.",
   "content_rule_violation": false,
   "failure_modes": [],
-  "average": 4.38,
+  "average": 4.5,
   "minimum": 4.0,
   "passed": true
 }
