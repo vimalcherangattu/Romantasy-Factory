@@ -7,37 +7,37 @@
     "character_logic": 3.0,
     "stakes_and_cost": 4.0,
     "prose": 3.0,
-    "continuity": 0.0
+    "continuity": 5.0
   },
   "reasons": {
-    "reader_question": "Sharp closing paradox: his life is tied to her footing until the very day he must hand her over.",
-    "change": "Both identities confessed, Varun exposed as saboteur and supplier, first kiss, and a binding promise. A true midpoint pivot.",
-    "romance_movement": "Mutual confession and a costed first kiss with a new reason: full knowledge instead of half. It is undercut slightly by a recap of the old refusal.",
-    "shown_chemistry": "Watching each other's hands, 'That was free' / 'I watched your hands', and the kiss metaphor are all responsive and specific.",
-    "character_logic": "Rohan, who goes silent rather than lie, starts a lie on the no-lies night. Meera then claims 'neither of us froze'.",
-    "stakes_and_cost": "Seven sticks, the no-lies rule, complicity guilt and the promise-contract all carry concrete costs.",
-    "prose": "Clean and specific, but 'hands on his knees' recurs heavily, and the numbered deduction reads as a recap list.",
-    "continuity": "His whitened fingertips fade within seconds, against F010/F011 (a small lie lasts an hour; only time or touch clears it)."
+    "reader_question": "The question is sharp and earned: his promise binds him to protect the woman he must deliver. The ending states it rather than interrupting an action.",
+    "change": "Both identities are confessed, Varun is exposed as saboteur and supplier, the first kiss happens and a binding promise is made. Power, knowledge and relationship all shift.",
+    "romance_movement": "The two enemy facts are spoken and verified warm, then the kiss is chosen against them. The new reason is that each knows exactly what they are kissing.",
+    "shown_chemistry": "Watching hands, 'I will not move. You will tell me which', and 'I watched your hands' show response well. The kiss simile is specific to him.",
+    "character_logic": "Meera confesses a hanging crime to save one stick, which is thin for a careful smuggler. Rohan's Teeth-and-seal paragraph is author-convenient.",
+    "stakes_and_cost": "Wood, the rope and the promise all carry explicit prices. The confession's cost is weighed, but its trigger is too cheap.",
+    "prose": "Mostly clean and concrete. 'His breathing caught at the ribs' appears twice, and warm-hands confirmations repeat about four times.",
+    "continuity": "Consistent with F054, F071, F120, F294, F304, F334, F342, F385, F392 and the eight-span rule. The juniper retrieval with both partners going out is neatly lawful."
   },
   "fixes": [
-    "At '\"I knew,\" he began.' / 'The white was there, and fading': continuity and character-logic break. A small lie whitens for an hour and nothing warms it, and Rohan goes silent rather than lie. Cut the false start. He stays silent (free), then says 'I suspected.' Or keep the whitening for the full hour and change Meera's 'neither of us froze' to acknowledge it.",
-    "At 'Let's do it in order,' said Meera. 'I'll go slow.': the six-point numbered case is an evidence recap (Endless monologue). Fold it into three exchanges driven by objects on the hearth (twist, button, Lalit's number). Let Rohan supply the chimney and seal deductions himself, as a competence duet, and drop 'Two... Three... Four' as spoken counters.",
-    "At 'put both hands on his knees where she could see them': this image recurs about six times and blunts the payoff of 'I watched your hands'. Keep it at the confession and the promise only. Also replace 'for a while the wind was a long way off' (a near world-fell-away cliché) with a concrete sensation tied to the rope or her split knuckles from ch15."
+    "At 'A refusal would burn a sixth stick, and a sixth was tomorrow's' (irrational behaviour): one stick is too cheap a price for confessing a hanging crime. Add a reason that is hers. She needs him to trust her before she can name the sieve ring on the twist, or she keeps her ch14 rule that he must choose with open eyes. Keep the wood as the trigger, not the reason.",
+    "At 'He touched his collar. \"And the Teeth.' (endless monologue/info dump): Rohan delivers the fallback route, the seal and the hitch in one paragraph. Split it into three exchanges, with Meera supplying the chimney's exit point herself. Either pay off 'I have wondered who taught you the hitch' with a free truthful answer from Meera, or cut it. As written it opens a side question at the climax of the deduction.",
+    "At 'His breathing caught at the ribs, steady and not quite even' (repetition): this echoes the same line a few paragraphs earlier, so change one. Cut two of the four warm-hands confirmations ('Still warm', 'stayed warm all the way through it'). Replace 'She had two choices, then... Or she could stop' and 'shaking, and not from cold' with a concrete action, such as her setting the count down or untying the rope's slack."
   ],
-  "reader_question": "What will a promise to keep her from falling cost a man who is ordered to hand her to the rope at the thaw?",
+  "reader_question": "What will a binding promise to keep her from falling do to a warden ordered to hand her to the rope at the thaw?",
   "techniques_landed": [
     3,
     12,
     17,
     22
   ],
-  "new_facts_assessment": "The iron strike before the slide, the chimney line on the fallback sheet and the eleven days buried are all consistent and pay off earlier clues. The rope humming at a true promise extends F081 without needing a stone; it is acceptable but borders on convenient, so keep it rare. The seal-knot fact needs a reason: Meera retied the cord his way precisely so he wouldn't notice, so the page must say how he knew she'd touched it.",
+  "new_facts_assessment": "new-facts.json is empty, but the chapter asserts facts: Varun dropped back for a strap, the writ names the warden-judge at Taravan, Rohan stood at Varun's wedding, the chimney lets out behind the stone fold, and ten winters of one scraper's hand. These are already logged (F148, F152, F392, F393) and are consistent. Two points need watching. 'He's my middleman' conflates Varun with his runner (F242), which is acceptable as Meera's inference. 'One scraper's hand on every lid' for ten winters ties Varun to the trade for a decade, so ch 28 must keep this consistent.",
   "content_rule_violation": false,
   "failure_modes": [
-    "Endless monologue",
-    "Irrational behaviour to extend plot"
+    "Irrational behaviour to extend plot",
+    "Endless monologue"
   ],
-  "average": 3.38,
-  "minimum": 0.0,
-  "passed": false
+  "average": 4.0,
+  "minimum": 3.0,
+  "passed": true
 }
