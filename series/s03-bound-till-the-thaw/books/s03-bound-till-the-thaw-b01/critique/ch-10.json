@@ -1,6 +1,6 @@
 {
   "scores": {
-    "reader_question": 4.0,
+    "reader_question": 5.0,
     "change": 4.0,
     "romance_movement": 4.0,
     "shown_chemistry": 4.0,
@@ -10,33 +10,33 @@
     "continuity": 0.0
   },
   "reasons": {
-    "reader_question": "The collapse mid-route-briefing, with the coat warm at her wrist, leaves a sharp question: can she save him, and will she search him?",
-    "change": "She gains the leak clue, a bounty on herself and 'the queen's will'. Power flips when the captain becomes a dead weight in her arms.",
-    "romance_movement": "There is a new reason for distance: she withholds the leak as leverage for Kiran. He gives a first partial disclosure and says her name on purpose.",
-    "shown_chemistry": "He lies back on her order, she reads his paused question, the dropped stick at her name and the catch. All of it is shown through action.",
-    "character_logic": "Asha's 'we're tied, I can't come nearer' misreads the bond. Meera repeats an identical question, breaking her own rule.",
-    "stakes_and_cost": "Kiran's pardon is priced against Rohan's coat, with a two-day deadline and the hunters below. Every choice now costs a loved name.",
-    "prose": "The prose is strong and specific. 'For three winters' appears four times, 'a long moment' twice, and 'She did not breathe' is stock.",
-    "continuity": "'Read out in the post room... with the guides present' conflicts with F294. No guide heard 'three', so Meera cannot know the plan said it."
+    "reader_question": "The burning man, the warm coat against her wrist and Asha's deadline make the next chapter's question sharp and specific.",
+    "change": "Meera gains the leak clue, Asha's deadline, a partial answer about the coat, and power over the information; Rohan is suddenly helpless.",
+    "romance_movement": "His first deliberate 'Meera' and a costed partial disclosure move the bond. His refusal has a new reason: the truth would endanger her crew.",
+    "shown_chemistry": "The dropped stick, the catch, and 'Say my name' work as action. 'I am not being careful with you' edges toward narration.",
+    "character_logic": "Meera hides the leak but hands Rohan her own bounty price. She also deduces a 'cut' to the party list she couldn't know about.",
+    "stakes_and_cost": "Kiran's pardon dangles at the cost of one word. Two sticks are burned, a day and a night are left, and the fever puts his life at stake.",
+    "prose": "Voice is mostly clean and specific. 'Slates' repeats, 'colour of hands' echoes, 'like a thrown pot' is odd, and 'price' is used heavily.",
+    "continuity": "'Forty paces down, Rohan lay' puts them beyond the eight-span rope (F008/F009) with no cold. That breaks the world rule."
   },
   "fixes": [
-    "Continuity at 'read out in the post room the night before with the guides present'. This contradicts F294: no guide heard 'three', so Meera cannot know the plan said it. Rewrite her deduction. She knows only that two went in, so a watcher would say two and a Kothi gossip would say two. 'Three' is wrong in a way only a paper, not an eye, is wrong. Whoever told Asha read the party before it was cut. Keep the plan itself for ch16.",
-    "Worldbuilding collapse at 'We're tied, so I can't come nearer'. Asha's rope binds her to Lalit, not to the rock, and the pair can walk down together. Make her distance a choice that suits her character. For example: 'I'm not bringing my boy within reach of that axe, and I like the high ground.' Meera can also note the excuse is false, since Asha is pricing her.",
-    "Repetitive tension at 'Then I'm spending tomorrow night's question as well'. The same question is refused twice, so the second refusal tells us nothing. Make her second question narrower and new, such as 'Does the regent want you dead, or only the coat?' His refusal of that should frighten her differently. Also cut two of the four 'for three winters' in the parley."
+    "'Forty paces down, Rohan lay with his ear': this breaks the rope rule (worldbuilding collapse). At the rope's end Meera is at most eight spans from the hut. Change it to 'Eight spans down.' Then recast Asha's distance: she sits just past the rope's reach, so Meera physically cannot close it. Replace 'how fast Meera could cover forty paces uphill' with Asha showing she knows exactly how far a bound guide can come.",
+    "'And a price,' she said. 'Two hundred in silver for the skin.' Meera hides the leak, then hands Rohan proof she carries a bounty. That pre-empts the ch16 midpoint and F148, so a smart Meera wouldn't do it (irrational behaviour). Substitute a safe truth, such as Asha's deadline or the price on his coat. Keep Rohan seeing the stop and saying 'Silence is free.'",
+    "'a number written down before someone cut it': per F294 no one in Kothi heard 'three', so Meera can't know about a cut. Reword so she infers only that the number came from a plan on paper, not from eyes on the slope. Add one line of her writing 'three wardens, two goat-folk' in the count, which sets up F155."
   ],
-  "reader_question": "Can Meera keep the burning Rohan alive, and what will she find when she opens his coat?",
+  "reader_question": "Can Meera keep Rohan alive through the fever, and what will she find, and do, when she opens the coat Asha wants?",
   "techniques_landed": [
     4,
     7,
     16
   ],
-  "new_facts_assessment": "new-facts.json is empty, yet the draft adds several facts. Asha knows Meera is the Salt Fox and puts a 200+100 silver price on her, which is unlisted and may clash with Varun not knowing (F228). The regent claims he will have the queen's hand by midwinter. A cairn stands above the hut. Asha's offer adds Shilak names to the pardon list. All must be listed. The Salt Fox knowledge needs an S2 ruling.",
+  "new_facts_assessment": "N10-1 makes the temptation strong, but it needs a reason Asha keeps this from Varun, who pays her (F228). N10-2 and N10-3 are needed and consistent, and 'queen's hand' is a good ambiguous clue. Reword N10-4 to match F320: stones don't verify alone, so Meera reads hands plus a level hum. N10-5 is fine, but per F294 Meera can't know the list was 'cut'.",
   "content_rule_violation": false,
   "failure_modes": [
-    "Repetitive tension",
+    "Irrational behaviour to extend plot",
     "Worldbuilding collapse"
   ],
-  "average": 3.38,
+  "average": 3.5,
   "minimum": 0.0,
   "passed": false
 }
