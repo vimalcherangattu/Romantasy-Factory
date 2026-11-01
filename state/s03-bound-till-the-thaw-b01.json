@@ -611,7 +611,7 @@
       ]
     },
     "20": {
-      "status": "passed",
+      "status": "edited",
       "revisions": 1,
       "scores": {
         "reader_question": 4.0,
@@ -625,18 +625,18 @@
       },
       "average": 4.12,
       "flags": [],
-      "words": 2910,
+      "words": 2908,
       "minimum": 3.0,
       "style": {
-        "words": 2716,
+        "words": 2908,
         "banned_hits": {},
         "ai_tell_hits": {},
         "ai_tells_per_1000": 0.0,
         "top_4gram": "on her knee and",
         "top_4gram_count": 2,
-        "longest_paragraph_words": 96,
-        "em_dashes_per_1000": 1.1,
-        "reading_ease": 94.8
+        "longest_paragraph_words": 101,
+        "em_dashes_per_1000": 1.38,
+        "reading_ease": 95.0
       },
       "owner_instructions": [
         "Verification only, for the chapter 30 age-line cut. Make sure both leads' ages (29 and 35) are on the page before the open-door scene, as the outline requires. If they are present, make no change. If they are missing, add them naturally, for example through the count, a winters-of-service detail, or dialogue. Do not use a compliance-style line."
@@ -2054,9 +2054,13 @@
     {
       "at": "2026-11-01T21:00:08",
       "event": "done: S8 line edit ch 19"
+    },
+    {
+      "at": "2026-11-01T21:00:43",
+      "event": "done: S8 line edit ch 20"
     }
   ],
-  "updated_at": "2026-11-01T21:00:08",
+  "updated_at": "2026-11-01T21:00:43",
   "midpoint_chapter": 16,
   "continuity_attempts": 1,
   "continuity_last_errors": 1,
