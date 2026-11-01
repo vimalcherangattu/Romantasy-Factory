@@ -479,7 +479,7 @@
       }
     },
     "16": {
-      "status": "passed",
+      "status": "edited",
       "revisions": 0,
       "scores": {
         "reader_question": 4.0,
@@ -496,15 +496,15 @@
       "words": 2660,
       "minimum": 3.0,
       "style": {
-        "words": 2830,
+        "words": 2660,
         "banned_hits": {},
         "ai_tell_hits": {},
         "ai_tells_per_1000": 0.0,
-        "top_4gram": "a man who had",
-        "top_4gram_count": 3,
-        "longest_paragraph_words": 104,
-        "em_dashes_per_1000": 0.35,
-        "reading_ease": 95.4
+        "top_4gram": "on the hearth stones",
+        "top_4gram_count": 2,
+        "longest_paragraph_words": 108,
+        "em_dashes_per_1000": 0.38,
+        "reading_ease": 95.6
       },
       "owner_instructions": [
         "Where: the Varun deduction sequence, which runs through the sieve ring, button, gully, iron ring, Lalit's number, the fallback and the seal. What's wrong: it is a long back-and-forth of evidence that slows the midpoint. What to change: build the deduction on three clinching facts only. These are the brass button, Lalit's 'three wardens' (the approach numbers only the plan held), and the fallback route only Rohan and Varun drew. The other clues still need to stay retrievable for fair play: the scraped stamps (C01), the gully 'safer' route (C04), the double crack and Varun lagging (C05), the sieve mark (C07) and the hunter's redbark (C15). Compress them into one fast line, or a single shared glance, rather than debating each one.",
@@ -2046,9 +2046,13 @@
     {
       "at": "2026-11-01T20:59:05",
       "event": "done: S8 line edit ch 14"
+    },
+    {
+      "at": "2026-11-01T20:59:36",
+      "event": "done: S8 line edit ch 16"
     }
   ],
-  "updated_at": "2026-11-01T20:59:05",
+  "updated_at": "2026-11-01T20:59:36",
   "midpoint_chapter": 16,
   "continuity_attempts": 1,
   "continuity_last_errors": 1,
