@@ -3,39 +3,39 @@
     "reader_question": 4.0,
     "change": 4.0,
     "romance_movement": 5.0,
-    "shown_chemistry": 4.0,
+    "shown_chemistry": 5.0,
     "character_logic": 4.0,
-    "stakes_and_cost": 3.0,
+    "stakes_and_cost": 4.0,
     "prose": 4.0,
-    "continuity": 5.0
+    "continuity": 0.0
   },
   "reasons": {
-    "reader_question": "The bond ends in two or three nights and the writ's orders stay unsolved. The question is specific but the ending lands soft.",
-    "change": "The law is drafted, Meera enters the Roll, and she asks for something for herself. All three are visible shifts.",
-    "romance_movement": "There are new reasons each step: being entered as 207, the glove, the Roll chosen beside him, the first 'Stay.' Nothing is recycled.",
-    "shown_chemistry": "Counting together, the measured glove, the bolt shot and 'Watch mine' are responsive actions. One line narrates ('best thing all winter').",
-    "character_logic": "Meera prices the Roll aloud before choosing it. Rohan promises only what he controls. Kiran asking to be present fits his arc.",
-    "stakes_and_cost": "The Roll cost lands, but six weeks of drafting meet no opposition. Rohan halving his own seal is told as costless.",
-    "prose": "Clean, varied and quotable ('longer than the glove deserved'). There are no banned phrases or AI tells, but the closing interiority slides into abstraction.",
-    "continuity": "Consistent with ch30 (206, latch, 'twelve winters'), F074, F118 and F159. Minor geography and naming wobbles, but nothing conflicts."
+    "reader_question": "Clear question: at the thaw, with the orders still in his coat, what will they choose? The closed-fingers ending partly pre-answers it.",
+    "change": "The law is drafted, Rohan gives up his veto, Meera enters the Roll for life and asks for herself. Every beat lands.",
+    "romance_movement": "The reasons are new. She binds her freedom beside him and makes her first personal ask. He refuses to promise because he loves her.",
+    "shown_chemistry": "The 207 count, the three-finger glove and 'Watch mine' are responsive, specific and earned. 'Be kind quietly' is banter that does work.",
+    "character_logic": "His refusal to vow and her eyes-open choice of the Roll are smart. The warden 'veto' over crossings is lightly justified.",
+    "stakes_and_cost": "The Roll for life and the lost veto are real prices. The open orders keep the cost live. The news scene carries no cost.",
+    "prose": "Clean and concrete, with no banned phrases. A few told beats remain ('He had no answer. His mouth opened and nothing came out').",
+    "continuity": "Rohan says the jogini refuse ropes longer than eight spans. The bible and F008 set the spirit limit at twelve."
   },
   "fixes": [
-    "At 'Hill council men came and went with their opinions and their tea', the drafting has no opposition and the law arrives free (stakes). Give one clause a real opponent: a council man or Kunal wants the post's seal struck, or the medicine clause limited. Make Rohan concede something he values on the page, so 'cut it in half with his own pen' costs him visibly.",
-    "At 'He saw, with the cold clarity of the pass, that he wanted both', abstract interiority closes the chapter (Endless monologue edge). Turn it into an action. For example, Rohan loosens his wrist knot and holds the slack out to her without speaking, handing the choice over physically before her line. Don't pre-empt the thaw itself.",
-    "At 'below them lay Kothi Shilak, a tall old salt house', the village and the salt house are conflated, and 'beyond it' puts the cairn past the village when it sits at the foot of the pass above it. Rewrite as village roofs, the salt house and goat pen, and nearer, the cairn. Also clarify that Ila's 'post door' measurement happened before winter."
+    "Find \"'The jogini refuse anything longer,' Rohan said.\" This is a worldbuilding collapse: the spirits refuse ropes over twelve spans (F008). Change the line to \"The jogini allow twelve. Eight is what one guide can hold on a slide.\" Keep Ila's 'measure the jogini' joke, retargeted at the twelve. Correct the new-facts note so it says the law sets eight while the spirit limit stays twelve.",
+    "Find \"The rope tightened once against both their wrists, then eased\". This is a rule drift: a sincere bound promise makes the rope hum low and level through the wrist (F149, F194). Rewrite it as that hum, felt by both of them. Also check \"I would not abuse the call.\" It is a promise in all but form. Either let the rope hum there too, or reword it as a stated belief ('I do not mean to').",
+    "Find \"Ila stayed behind with her cord and her unfinished map\". The departure drops Kiran, yet chapter 32 relies on him staying at Garh Neshar with Ila (F272, F273). Add two lines at the gate: Kiran too weak for the road, silent, perhaps touching his ear under the blanket. That plants his absence and his unspoken resolve before the thaw."
   ],
-  "reader_question": "When meltwater ends the bond at the cairn, will they choose to stay bound, and how will Rohan keep his promise against the writ's orders?",
+  "reader_question": "When meltwater ends the bond at the cairn, with his writ still ordering her delivered, what will Meera and Rohan choose?",
   "techniques_landed": [
     9,
     14,
     24
   ],
-  "new_facts_assessment": "new-facts.json is empty, yet the draft adds the 207 entry, the glove, the eleven-line law, two-seal licences, the guide's-own-arm span standard, Varun in the cellar, the bare Rope-Hut nail and the fourth waystone stone. All are consistent and useful, and all should be listed. The arm-span standard is a human definition and leaves Rule 1 intact.",
+  "new_facts_assessment": "Bhim, the post-signs-second clause, the glove, the 207 count and the bare nail are all useful and consistent. The eight-span law limit is fine as human law, but the draft's note wrongly treats it as matching the jogini rule. The twelve-span spirit limit stands, and Rohan's line breaks it. The fourth waystone stone being Rohan's is unestablished but plausible from the ascent. Two facts are missing from new-facts: Hakam's cousin as the first person Meera carried, and a 'Neshar post'. The rope 'tightening' for a promise departs from the established level hum (F149).",
   "content_rule_violation": false,
   "failure_modes": [
-    "Plot buried by romance"
+    "Worldbuilding collapse"
   ],
-  "average": 4.12,
-  "minimum": 3.0,
-  "passed": true
+  "average": 3.75,
+  "minimum": 0.0,
+  "passed": false
 }
