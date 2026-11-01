@@ -1,0 +1,41 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 5.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 3.0,
+    "stakes_and_cost": 4.0,
+    "prose": 4.0,
+    "continuity": 0.0
+  },
+  "reasons": {
+    "reader_question": "Clear question at the end: he knows about the medicine, so what does a warden who knowingly lets it pass want? The iron-ring clue adds pull.",
+    "change": "The value shift lands fully: the crew is dead, command passes to Meera, and the two enemies are bound with the line lit.",
+    "romance_movement": "Each change has a new reason: a life debt, handed-over command and a first free truth. Bound by the mountain, not by choice, as the beat asks.",
+    "shown_chemistry": "Shown through action: he closes the spacing to stay near her, keeps a careful distance in her grief, brushes her wrist and steps into her print unasked.",
+    "character_logic": "Mostly sharp. But the silence-cost reasoning muddles what Rohan already knows, and a Shilak captain who has never seen a cairn light strains belief.",
+    "stakes_and_cost": "Jassi's death costs her. Her silence and the truth she gives are both priced against the law and the bond.",
+    "prose": "Concrete and rhythmic, with the drum-skin motif and the bell. Lightly overuses 'counted everything', and the ending image is a little soft.",
+    "continuity": "The cairn hum 'stayed low and level, which told him nothing' conflicts with F387 (the hum drops half a note) and with F015 (stones ring at a lie)."
+  },
+  "fixes": [
+    "At 'The stones did not ring. The hum stayed low and level, which told him nothing': this breaks the world rule and conflicts with F387. Rewrite so the hum drops half a note, like a bowl's song when a wet finger leaves the rim. Meera then reasons that a warden cannot read cairn-song, since the stones never say who spoke. That leaves her pink fingertips as the only proof he can read.",
+    "At 'I have seen a hundred cairns. I have never seen one light': this is worldbuilding collapse. Ch2 has Rohan crossing with two guides to tie the rope, so a Shilak captain would have been bound before. Change his wonder to something specific. Either he has only crossed in summer and by writ with the post's paired guides, or he has never seen the line run so far ahead this fast.",
+    "At 'It cost her the one thing she had wanted to keep': this is a character-logic slip. He has already named 'the medicine', so silence cannot cost her his ignorance. Make the cost what silence actually gives up: the chance to learn what he plans to do with what he knows. Then cut the second 'counted everything' echo near the end."
+  ],
+  "reader_question": "Rohan knows she carries contraband medicine and has not seized it, so what does he want, and what will the bond cost two people who are each other's hanging?",
+  "techniques_landed": [
+    5,
+    6,
+    19
+  ],
+  "new_facts_assessment": "The draft lists no new facts, yet it adds several. Leela is consistent with F372. Bindu's wool is dyed with walnut husk. Bindu's knot-song is 'two over, one under'. Rohan has never seen a cairn light, which strains against ch2's two-guide rope crossings. List these in new-facts.json; F387's half-note drop is missing from the page.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Worldbuilding collapse"
+  ],
+  "average": 3.5,
+  "minimum": 0.0,
+  "passed": false
+}
