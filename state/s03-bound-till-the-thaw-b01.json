@@ -6,11 +6,7 @@
   "status": "revising",
   "stage": "S3",
   "done": [
-    "S3",
-    "S7",
-    "book_check",
-    "S9",
-    "S10"
+    "S3"
   ],
   "chapters": {
     "01": {
@@ -48,7 +44,7 @@
       ]
     },
     "02": {
-      "status": "edited",
+      "status": "owner-revise",
       "revisions": 2,
       "scores": {
         "reader_question": 3.0,
@@ -74,10 +70,16 @@
         "longest_paragraph_words": 111,
         "em_dashes_per_1000": 0.0,
         "reading_ease": 91.0
-      }
+      },
+      "owner_instructions": [
+        "Button scene (Varun polishing his coat button, the narration after 'one of brass. Cheap, bright, wrong'). Problem: ch1 already says the token's shank 'had never been sewn to anything'. Ch2 then adds 'its shank still stiff' and the sentence 'A man who cared that much about buttons did not cut corners with lives.' That is three signals plus a dramatic-irony signpost, so readers name Varun as the middleman here and the ch16 deduction becomes confirmation. Change: cut 'its shank still stiff' and cut the 'A man who cared that much about buttons...' sentence entirely. Do not replace them with any other sentence that comments on Varun's character through the button.",
+        "Same scene: bury the brass button inside a short run of Varun's fastidious gripes so it reads as texture. He mourns the pewter button he lost, complains about the quartermaster who replaced it with brass, and has one more small grievance (a frayed cuff, the polish, the coat's cut). The brass button must still be named on the page as new and brass, so ch28 can match it. It should be one item among three, with no lingering, no close-up and no reflection from Rohan.",
+        "Ending (from the paragraph beginning 'By the letter of the Closing Law...' through '...it might lead him to the hand behind it'). Problem: it answers the chapter's out-question, 'Why hasn't he searched the bales?', so the closing line lands flat. Change: delete that whole explanatory paragraph. End on the action: he finds the red grain on Bindu's wool, rubs it between his fingers and pockets it. Then close on 'Then he went to find his lieutenant, and said nothing' or a tightened version of it. Give no interiority about why he isn't searching. The question must stay open until ch4.",
+        "Protect while revising: keep Rohan's age (35) on the page. Keep the writ interiority, including the unanswered thought about why the queen wants the Salt Fox delivered and not hanged; ch32 will now pay it off. Keep Varun's 'Captain-ji', the gully route as 'safer', and the widow Puja's fine. After the cuts, check the chapter still falls within 2,500 to 3,000 words. If it falls short, add a little texture to the Puja or salt-house search beats, not to the button."
+      ]
     },
     "03": {
-      "status": "edited",
+      "status": "owner-revise",
       "revisions": 0,
       "scores": {
         "reader_question": 4.0,
@@ -105,7 +107,7 @@
         "reading_ease": 95.0
       },
       "owner_instructions": [
-        "Consistency with the chapter 1 Salt Fox change. Where: any Meera interiority that dodges or veils her identity as the Salt Fox, for example while she sizes up Rohan or Varun. What to change: if her thoughts hide the name from the reader, let her name it plainly and briefly in her own head. She still says nothing aloud. If there is no such dodge, make no change."
+        "Jassi's talk in the gully about his sister's apricot orchard and Badami. Problem: ch32 has Meera tell Jassi's cairn that Badami is 'with your sister Leela, in the apricot orchard, forty trees', but this may not be planted. Change: if Jassi does not already name his sister Leela and the forty trees here, add both in one line of his grumbling. Example in spirit: he has counted Leela's forty trees and Badami will eat the bark off every one. Keep the beat short and in his voice. Do not change anything else in the avalanche sequence."
       ]
     },
     "04": {
@@ -481,7 +483,7 @@
       }
     },
     "16": {
-      "status": "edited",
+      "status": "owner-revise",
       "revisions": 0,
       "scores": {
         "reader_question": 4.0,
@@ -509,11 +511,9 @@
         "reading_ease": 95.6
       },
       "owner_instructions": [
-        "Where: the Varun deduction sequence, which runs through the sieve ring, button, gully, iron ring, Lalit's number, the fallback and the seal. What's wrong: it is a long back-and-forth of evidence that slows the midpoint. What to change: build the deduction on three clinching facts only. These are the brass button, Lalit's 'three wardens' (the approach numbers only the plan held), and the fallback route only Rohan and Varun drew. The other clues still need to stay retrievable for fair play: the scraped stamps (C01), the gully 'safer' route (C04), the double crack and Varun lagging (C05), the sieve mark (C07) and the hunter's redbark (C15). Compress them into one fast line, or a single shared glance, rather than debating each one.",
-        "Where: the line 'It's Varun. It was always Varun.' What's wrong: it tells the reader a conclusion the evidence has already delivered. What to change: cut it. Do not replace it with another summary line. End the deduction on the two twists lying side by side on the stone, her silver funding Pritam and his trust in Jassi's killer, and let the silence carry it. Remember that silence is free.",
-        "Where: Rohan's dialogue in this chapter, including 'It would appear so,' 'I do not say it for pardon,' and 'That is no small thing to share.' What's wrong: the formal, no-contraction legal cadence stacks up until he sounds like a deposition. What to change: rewrite at least two of these three lines so they are shorter, plainer, or more physical, while he still sounds like Rohan. Keep his no-contraction signature where it bites.",
-        "Consistency with the chapter 1 Salt Fox change. Where: the build-up to 'I am the Salt Fox.' What to change: the reader has known since chapter 1. Frame the beat as a confession Meera dreads making to him, priced in sticks, heat and the hanging tree, and not as information revealed to the reader. Remove any narration that treats the name as a surprise.",
-        "Keep unchanged: 'I suspected and I chose not to know. That is not the same as ignorance, but it is not far from it.'; 'He kissed like a man reading a document he had waited a long time to sign'; 'That was free.' / 'I know. I watched your hands.'; and the promise 'I will not let you fall on this mountain' with the rope's hum."
+        "Opening line. Problem: 'For one stupid breath, Meera thought the rope tied her to the door' is a confusing first line for the midpoint after ch15's cliffhanger with the woodpile scattered into the dark. Change: cut it and open straight on the action. The juniper sticks skid across the snow outside the torn door, the wind takes them, someone shouts (Rohan or Meera), and they lunge within the rope's length to save the wood. Any thought Meera has about the rope comes after the physical struggle, in one clear sentence or not at all.",
+        "Phrase repetition. 'Silence was free' appears three times in this chapter and recurs in ch30 and ch32. Change: keep at most one instance of the exact phrase in ch16, ideally at the moment it carries the most weight. Rephrase the others so the rule stays clear but the wording varies, for example 'Saying nothing cost nothing', 'He could have kept quiet for free', or simply showing a held silence with warm hands. Do not touch the exchange \"'That,' said Meera, 'was free.' / 'I know,' he said. 'I watched your hands.'\" The owner singles it out to keep.",
+        "Protect: the dual confessions with warm hands; 'We fed the same hand. Your silver. My faith.'; the costed first kiss; the promise 'I will not let you fall on this mountain' and the rope's level hum. The closing beat of Meera lying awake facing the deliver-at-thaw threat may stay. Ch30's ending is the one being changed so the two no longer mirror each other."
       ]
     },
     "17": {
@@ -854,7 +854,7 @@
       }
     },
     "28": {
-      "status": "edited",
+      "status": "owner-revise",
       "revisions": 2,
       "scores": {
         "reader_question": 5.0,
@@ -885,7 +885,10 @@
         "longest_paragraph_words": 119,
         "em_dashes_per_1000": 0.98,
         "reading_ease": 95.5
-      }
+      },
+      "owner_instructions": [
+        "Continuity check after the ch2 cut. Where Meera's torn count page and the brass button token are matched to Varun's coat button, make sure the match does not quote or depend on ch2's deleted phrase 'its shank still stiff'. The match can rest on the ch1 detail (a stiff shank never sewn to anything) against a button that is new, brass and of the same pattern on Varun's coat. If this chapter echoes the ch2 wording, revise it to fit."
+      ]
     },
     "29": {
       "status": "edited",
@@ -917,7 +920,7 @@
       }
     },
     "30": {
-      "status": "edited",
+      "status": "owner-revise",
       "revisions": 1,
       "scores": {
         "reader_question": 4.0,
@@ -945,14 +948,16 @@
         "reading_ease": 93.1
       },
       "owner_instructions": [
-        "Where: 'We're twenty-nine and thirty-five, and I want to be very clear that I am not asking leave of anybody.' What's wrong: it reads like a compliance box. The ages are already on the page in chapters 1, 2 and 20, so the adults-only rule is met. What to change: cut the ages and keep the defiance, as in 'I'm not asking leave of anybody.'",
-        "Where: 'since you climbed out of that gully swearing in verse.' What's wrong: it may point to a moment that is not on the page, or to the wrong place. What to change: check chapters 3, 7 and 8. If he swore in verse climbing out of the crevasse or snow bridge in the chapter 8 haul-out, change 'gully' to 'crevasse'. If the swearing happened in the chapter 3 gully avalanche, keep 'gully'. If no such moment exists anywhere, rewrite the callback to a moment that does exist, such as climbing on her count with his ribs screaming.",
-        "Where: the italic line *A law is a rope, she thought. It depends who ties it.*, placed just before Meera steps forward to confess. What's wrong: it tells the reader the meaning before the act delivers it. What to change: remove it from before the confession. Let the act land first: she steps up and enters the count under 'Meera of Kothi Shilak, called the Salt Fox.' Then deliver the line either after the herald writes her name, or aloud to Rohan on the wall afterwards. Speaking it to him is preferred, because dialogue does the work. Use it once only.",
-        "Keep unchanged: the 'Watch my hands' declaration with bare, warm hands, and her three remaining left fingers staying warm. Do not signpost the callback."
+        "Theme statement. Problem: \"I used to think the law was only ever a noose for people like us... It's a rope. It depends who ties it.\" / \"Then we will tie it well.\" recites the book's thesis, and the reply reads like a greeting card. Change: cut the first sentence ('I used to think...'). Cut Rohan's reply 'Then we will tie it well.' Her public self-entry in the herald's book already proves the change. Fold a short, sharp version of the rope line into that act. Example: as she writes 'Meera of Kothi Shilak, called the Salt Fox' and lays the count down, she says or thinks one clipped line such as 'Depends who ties it.' Then she moves on, with no answering speech. Keep the summary's changed belief intact in substance (it's a rope; it depends who ties it).",
+        "Pritam's grain leverage. Problem: his one real threat (the grain) collapses in a few lines into a crowd chorus ('I paid... And another. And another.'), which edges into strawman. Change: before the meadow turns, give the threat one beat of genuine danger. A named hill-council man whose valley depends on Pritam's grain hesitates in the open. He half-rises to speak for Pritam, or says aloud that his people will starve by spring without the regent's stores, and for a moment the vote could go the other way. Only then does the first voice ('I paid') break it, and the chorus follows. Keep the outcome: claim revoked, Pritam taken, Varun arrested. If this council man appears in ch31's drafting sessions, he may reappear there as a reluctant signatory, but that is optional.",
+        "Continuity slip in Meera's declaration. 'since you climbed out of that gully on my count' mixes up the ch3 gully with the ch7 to ch8 snow-bridge haul, where he climbed on her numbers. Change the phrase to 'since you climbed off that ledge on my count'.",
+        "Heat. Problem: the blurb promises two open-door scenes and the outline's heat plan marks this chapter explicit, but the scene fades at 'After that there was not much talk.' Change: write the scene on the page at the same heat level as ch20 (the series level set in taste.md; do not exceed it). Use the ingredients already present: her dead left fingers kept safe in their glove and handled carefully (acknowledged, never eroticised; no injury detail beyond what the stakes need), his mending ribs, Meera taking the lead, and the turn of being 'held without counting'. Consent is explicit and mutual on the page: she asks, he answers and asks back. Both are established adults (29 and 35, stated in ch1 to ch3 and before ch20). A brief anchor such as his thirty-five winters or her ten winters on the pass is welcome but need not be a full restatement. The scene must change the relationship: it is the first time she does not count, set against ch20, where she wrote him into the ledger. It must not read as interchangeable with ch20. Remove the fade line 'After that there was not much talk.' Keep the chapter near 3,000 words by trimming elsewhere, for example the Fair's crowd description.",
+        "Phrase repetition: if 'Silence was free' appears in this chapter, rephrase it or replace it with a shown silence. Keep 'Watch my hands' exactly; the owner wants it kept.",
+        "Final beat. Problem: the chapter ends with Meera lying awake eyeing the deliver-at-thaw threat, which mirrors the end of ch16. Change: no wakeful rumination at the close. Carry the writ tension through a concrete object or a line of dialogue instead. For example, close inside the held-without-counting moment with the writ case on the chair in view (the strap she cut for his goggles in ch7), and she does not count it. Or he says one plain sentence about the thaw that is not a promise. The out-question 'At the thaw, will he deliver her?' must still be live, but lightly, because ch31 already builds that tension."
       ]
     },
     "31": {
-      "status": "edited",
+      "status": "owner-revise",
       "revisions": 1,
       "scores": {
         "reader_question": 4.0,
@@ -980,13 +985,13 @@
         "reading_ease": 92.4
       },
       "owner_instructions": [
-        "Where: Ila's 'A bound rope is not \"about twelve arm-spans\"' and Rohan's 'The jogini refuse anything longer.' What's wrong: every other chapter, chapter 32 and the blurb say eight arm-spans. What to change: make it eight. Keep Ila's precision joke, for example by correcting someone's 'about eight' to exactly eight. Check every other distance in the drafting scene for the same error.",
-        "Where: Rohan's 'I will not hand you to anyone,' with the rope humming low and level. What's wrong: by the mountain's rule that is a binding promise. It answers chapter 32's question a chapter early and drains the cairn scene of suspense. It also breaks Rohan's established refusal to promise what he cannot guarantee (chapters 6, 20 and 23). What to change: turn it into an intent he will not dress up as a promise, along the lines of 'I have not found how to make the paper say no. I am looking.' Remove the rope's hum entirely. Then show Meera noticing that he did not promise. This is Rohan's POV, so show it through her action or dialogue, for example a dry 'That isn't a promise' or a look at the silent rope. Give him a brief, honest reply.",
-        "Keep unchanged: the amputation count, with 206 people carried and then 'Two hundred and seven'; the felted glove cut for a thumb and three fingers; Kiran in the room for the 'no one hangs for a death on a bound crossing' clause; and the closed-door 'Stay.'"
+        "Bond-rule contradiction in the drafting sessions. Problem: Rohan's line 'The jogini allow twelve... Eight is what one guide can hold on a slide.' contradicts the rest of the book, the blurb ('neither can stray beyond eight arm-spans') and ch1 ('no longer than the spirits would stand'), all of which make eight the spirits' limit. Change: delete the twelve-versus-eight claim. Make Ila's quarrel purely about whose arm sets the measure: a broad warden's arm or a long guide's arm, a surveyor's fixed span or the guide's own. The clause then settles on 'the guide's arm is the unit of measure'. Eight arm-spans stays the spirits' limit throughout.",
+        "Plant for ch32 (bell and orchard, C25). Problem: ch32's 'Badami's big bell' and Meera's knowledge that Badami is 'with your sister Leela, in the apricot orchard, forty trees' arrive unplanted, because the bell from ch3 was buried with Sunni in ch19. Change: after the return crossing over Shilak, add a short beat at Kothi before they go up to the cairn for the thaw. The bond still holds, so Rohan is within eight spans and observes it. Meera takes Badami's big bell down from its peg in the salt house and sends Badami down the valley with Bindu or a crew pair to Leela's orchard. Keep it to a few lines and let the gesture carry the grief for Jassi. If the chapter currently goes straight to the cairn, add a single transition sentence: they come down to Kothi to wait for the meltwater and walk back up with the village.",
+        "Protect: the amputation counted to 'Two hundred and seven'; the felted glove 'cut for a thumb and two fingers'; the veto given away ('It was never a good thing to be proud of.'); 'Don't be kind in front of the council.'; the closed-door 'Stay.' Keep the existing setup of the writ tension; the owner says it works well here."
       ]
     },
     "32": {
-      "status": "edited",
+      "status": "owner-revise",
       "revisions": 0,
       "scores": {
         "reader_question": 5.0,
@@ -1014,13 +1019,10 @@
         "reading_ease": 93.4
       },
       "owner_instructions": [
-        "Consistency with the chapter 31 promise change. Where: before and during the senior warden Gopal raising the writ at the cairn. What to change: chapter 31 no longer contains a binding promise. Make sure nothing here refers to a hum or a promise from chapter 31. Give Meera a short beat of real uncertainty before Rohan answers: he told her he was looking and did not promise. His public 'I am not arresting her. I am walking to Taravan beside her, with the law in her hand' then becomes the payoff.",
-        "Where: the bell at the cairn. This includes Bindu's 'She's retired. She doesn't need it. He did.' and Meera telling Jassi the goat is 'under your roof, which is the roof of a man who's looking after her.' What's wrong: it is unclear whose bell this is, where the small one went, and who keeps Badami. What to change: replace these lines with one clean line, or two at most, that name all three facts. This is Badami's big bell. Jassi's small kid bell lies with Sunni. Badami is kept by a named keeper, for example at his sister's apricot orchard as Jassi planned in chapter 3. Pick one keeper consistent with earlier chapters and name them. Use no unclear 'her' or 'a man'.",
-        "Where: the hinge, about a thousand words in which the jogini voice, the unequal hands, Asha's knot, the cut rope end, the grandfather's gloves, Kiran's silence, Ila's map and the queen all arrive. What's wrong: it is overloaded, and five gestured threads pull weaker than two sharp ones. What to change: keep the jogini speaking through the cold whole, with the Old Bargain unpaid and the pass closing after the fourth winter. Then sharpen two threads only, and reduce the rest to a single glance or cut them.",
-        "Where: 'I know what your father said.' What's wrong: it reads like a missing line. What to change: either have Rohan say the gloves detail aloud, his grandfather's gloves found laid neatly on a flat stone, so it lands as a possible precedent of payment (C14), or cut the exchange.",
-        "Where: Meera's 'cold with a fear no mountain had put there' about Kiran. What's wrong: the fear is vague. What to change: make it one concrete thought, for example that the Bargain is made on a rope, and her brother survived a rope that was cut. Otherwise cut it.",
-        "Where: the unequal carved hands, Asha's knot, the cut rope end, Ila's map and the queen. What to change: compress these to at most one brief image or line each, or cut them. Keep a glance at the carved hands (C06) if it fits, and keep Ila's map as a single line at most.",
-        "Keep unchanged: the walk past the eight spans and back ('Every step of it she chose'), and the final exchange, 'Nothing's watching them now... You'll have to take my word.' / 'I do.'"
+        "Bell payoff. When Meera hangs Badami's big bell on the cairn and tells Jassi that Badami is with Leela in the apricot orchard, forty trees, make it plainly the bell she took from the salt-house peg in ch31. A half-line reference is enough. No other change to the offering.",
+        "Hinge: fold the legal tail into the series question. Problem: 'Held pending the queen's judgement' (ch30), Gopal's 'The queen may say otherwise', and ch2's unanswered 'why... delivered and not hanged' read as a second open question beside the Old Bargain, and leave readers asking whether she is pardoned. Change: in the final exchange, after the stones speak and Meera looks at the unequal carved hands and the folded gloves, have Rohan connect them aloud in his plain, contraction-free voice. The queen wanted the Salt Fox delivered, not hanged. She will want Ila's map. She may want both for the same reason. He frames it as a reasoned guess, not a promise. Make clear in one line that Meera is not yet pardoned and her judgement waits in Taravan, which is why they walk there together. The romance stays closed (betrothed, HFN); only the Old Bargain stays open.",
+        "Placement: do not disturb the walk past eight spans and back, the retied rope of Bindu's spinning, her calling him Rohan, or 'Look at my hands. Nothing's watching them now... You'll have to take my word.' Put the hinge exchange after these, or let it grow out of Rohan's existing line about Ila finishing her map.",
+        "Phrase repetition: if 'Silence was free' appears here, rephrase it. With the bond ended, it could be turned to show that silence is now simply silence, which also echoes 'You'll have to take my word.'"
       ]
     }
   },
@@ -2084,12 +2086,16 @@
     {
       "at": "2026-11-01T21:06:07",
       "event": "done: beta read"
+    },
+    {
+      "at": "2026-11-01T21:07:58",
+      "event": "done: owner notes plan"
     }
   ],
-  "updated_at": "2026-11-01T21:06:07",
+  "updated_at": "2026-11-01T21:07:58",
   "midpoint_chapter": 16,
-  "continuity_attempts": 1,
-  "continuity_last_errors": 1,
+  "continuity_attempts": 0,
+  "continuity_last_errors": null,
   "package": {
     "problems": [],
     "epubcheck": true,
@@ -2108,5 +2114,5 @@
     "notes": "series/s03-bound-till-the-thaw/books/s03-bound-till-the-thaw-b01/beta-notes-2.md"
   },
   "beta_rounds": 2,
-  "pending_owner_notes": "/home/user/Romantasy-Factory/series/s03-bound-till-the-thaw/books/s03-bound-till-the-thaw-b01/beta-notes-2.md"
+  "pending_owner_notes": null
 }
