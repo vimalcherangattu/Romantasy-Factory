@@ -856,7 +856,7 @@
       }
     },
     "28": {
-      "status": "passed",
+      "status": "edited",
       "revisions": 0,
       "scores": {
         "reader_question": 5.0,
@@ -870,21 +870,21 @@
       },
       "average": 4.12,
       "flags": [],
-      "words": 3110,
+      "words": 3109,
       "minimum": 3.0,
       "continuity_fixes": [
         "In ch 1 the brass button token was stitched into the ledger's spine 'where only a person who unpicked the binding would find it'. In ch 28 it simply comes out when Meera reaches in with two fingers. FIX: Have her pick the stitches to free it."
       ],
       "style": {
-        "words": 3062,
+        "words": 3109,
         "banned_hits": {},
         "ai_tell_hits": {},
         "ai_tells_per_1000": 0.0,
         "top_4gram": "she held it out",
         "top_4gram_count": 2,
-        "longest_paragraph_words": 119,
-        "em_dashes_per_1000": 0.98,
-        "reading_ease": 95.5
+        "longest_paragraph_words": 127,
+        "em_dashes_per_1000": 0.96,
+        "reading_ease": 95.3
       },
       "owner_instructions": [
         "Continuity check after the ch2 cut. Where Meera's torn count page and the brass button token are matched to Varun's coat button, make sure the match does not quote or depend on ch2's deleted phrase 'its shank still stiff'. The match can rest on the ch1 detail (a stiff shank never sewn to anything) against a button that is new, brass and of the same pattern on Varun's coat. If this chapter echoes the ch2 wording, revise it to fit."
@@ -2206,9 +2206,13 @@
     {
       "at": "2026-11-01T21:44:20",
       "event": "done: S8 line edit ch 16"
+    },
+    {
+      "at": "2026-11-01T21:44:55",
+      "event": "done: S8 line edit ch 28"
     }
   ],
-  "updated_at": "2026-11-01T21:44:20",
+  "updated_at": "2026-11-01T21:44:55",
   "midpoint_chapter": 16,
   "continuity_attempts": 0,
   "continuity_last_errors": null,
