@@ -6,36 +6,36 @@
     "shown_chemistry": 4.0,
     "character_logic": 4.0,
     "stakes_and_cost": 4.0,
-    "prose": 3.0,
-    "continuity": 5.0
+    "prose": 4.0,
+    "continuity": 0.0
   },
   "reasons": {
-    "reader_question": "Clear: why hasn't Rohan seized the medicine he knows about, and what will binding to him cost?",
-    "change": "She goes from crew leader to the last survivor, roped to her hunter. He knows about the medicine, and she owes him her life.",
-    "romance_movement": "There are three new reasons: a life debt, his handing over command, and her first free truth. The romance is still missing his response to that truth.",
-    "shown_chemistry": "He breaks spacing to stay near her, says 'Where you told me...', and his thumb brushes her wrist. All of it is shown through action, not narration.",
-    "character_logic": "Both leads act smart overall. Meera's 'I'll go on' contradicts the rule that a lone crosser dies within an hour.",
-    "stakes_and_cost": "The odds are stated, the loss is irreversible, and her silence and her truth each cost her leverage.",
-    "prose": "The rib-holding gesture repeats five times, once oddly before the injury. One AI tell ('In that moment'). The final line is flat.",
-    "continuity": "Consistent with the bible and with F066 to F071 and F315 to F319. Goats, ribs, bell, note and tent poles all match."
+    "reader_question": "The iron strike and the lit bond give a clear question, but the quiet footprint ending leans on mood more than an interrupted action.",
+    "change": "She goes from crew leader to sole survivor, bound to her enemy. She owes him her life, he has handed her command, and each knows what the other knows.",
+    "romance_movement": "The reasons are new: a life debt, his handover of command and her first free truth. All are forced by the mountain, as the beat asks.",
+    "shown_chemistry": "His closing of the spacing, the thumb at her wrist and his boot set in her footprint all show responsive action. Only the thumb brush is stock.",
+    "character_logic": "Each choice fits. Her silence on the medicine is smart, he obeys orders with a reason, and his question shows strategy.",
+    "stakes_and_cost": "Silence costs her the secret that she hides anything. The truth about Ranu becomes evidence. The bond's price is clear, though not yet felt in the body.",
+    "prose": "Concrete and varied: salt on slate, a wage taken in full. It has no banned phrases. The last paragraph explains its own image.",
+    "continuity": "One line contradicts chapter 2, where pass rope is legal to own. F387 also turns the stones into a truth-test, against F320."
   },
   "fixes": [
-    "Before the slide, the line 'one hand pressed to his side. When she looked again' shows Rohan holding his ribs before he is hurt. This is a continuity glitch. Cut it. Later, vary the four repeats ('good hand pressed to his side', 'hand pressed to his ribs', 'A hand held his side') into one held side plus different tells: the shallow breath, the slow sit, the arm kept low.",
-    "At the cairn, 'I'll go on and I won't be able to stop' implies Meera could cross alone. That contradicts the world rule that a lone crosser loses the path within an hour, and the failure mode is irrational behaviour. Rewrite as: 'You stand here till the cold finishes you, and I lose the line inside the hour. Two dead instead of none.' This makes the shared stake explicit.",
-    "After 'Because my brother is dying there', the disclosure gets no response from Rohan, so the intimacy ladder is incomplete (technique 10, chemistry worksheet). Before the closing lines, add one specific action from Rohan that shows he understood. For example, he turns his face up the lit line and says only 'Then we go,' and steps into her footprint unasked. Replace 'Nothing in the world would take it back' with a sharper image."
+    "Continuity: 'like a man who had hanged people for owning one' contradicts chapter 2, which says pass rope is legal to own. Change it to 'like a man who had hanged people for crossing on one', or to 'like a man who had cut one off a dead smuggler's wrist'.",
+    "Continuity and new fact: 'then it dropped half a note, the way a bowl's song falls' makes the stones confirm truth, against F320 and F081. Replace it with: 'The hum stayed low and level, which told him nothing, and she knew it.' Then let her glance at her own fingertips, still pink, as the only proof either of them has. Retire F387.",
+    "Narrated chemistry: 'It was the first true thing she had given him for nothing' explains the footprint image, which already landed. Cut that paragraph. End on the boot in her footprint, or add one concrete action, such as her lips moving as she counts his steps behind her, then stopping because she has no number for this."
   ],
-  "reader_question": "Rohan knows she carries medicine and has not taken it, so what does he want, and what will the bond cost two people who could hang each other?",
+  "reader_question": "What did that iron note before the slide mean, and what will a bond that lets no lie pass cost two people who could each hang the other?",
   "techniques_landed": [
     5,
     6,
     19
   ],
-  "new_facts_assessment": "All five facts are necessary and consistent. Moving the redbark to her pack plants its survival fairly. Rohan closing the spacing sets up the rescue. The medicine question sharpens chapter 4. The archive's partial rule fits the wardens' buried knowledge. The stones dropping half a note on a truth is new and unlisted, so log it beside F081.",
+  "new_facts_assessment": "F387 is unnecessary and conflicts with canon. F320 says the stones are not a truth-test on their own, and F081 and F149 say true speech leaves the hum level. A drop on the truth gives Rohan a free lie detector and weakens the fingertip economy. Keep the hum level instead. The other details are consistent with F066-F072, F315-F319 and F372: the five goats, Leela, the redbark moved to her pack, the tent poles left behind and the unread iron ring.",
   "content_rule_violation": false,
   "failure_modes": [
-    "Irrational behaviour to extend plot"
+    "Narrated-only chemistry"
   ],
-  "average": 4.12,
-  "minimum": 3.0,
-  "passed": true
+  "average": 3.62,
+  "minimum": 0.0,
+  "passed": false
 }
