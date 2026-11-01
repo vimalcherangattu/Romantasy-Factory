@@ -984,7 +984,7 @@
       ]
     },
     "32": {
-      "status": "passed",
+      "status": "edited",
       "revisions": 0,
       "scores": {
         "reader_question": 5.0,
@@ -998,17 +998,17 @@
       },
       "average": 4.5,
       "flags": [],
-      "words": 2711,
+      "words": 2709,
       "minimum": 4.0,
       "style": {
-        "words": 2863,
+        "words": 2709,
         "banned_hits": {},
         "ai_tell_hits": {},
         "ai_tells_per_1000": 0.0,
         "top_4gram": "on the top stone",
         "top_4gram_count": 2,
-        "longest_paragraph_words": 98,
-        "em_dashes_per_1000": 0.35,
+        "longest_paragraph_words": 87,
+        "em_dashes_per_1000": 0.37,
         "reading_ease": 93.4
       },
       "owner_instructions": [
@@ -2066,9 +2066,13 @@
     {
       "at": "2026-11-01T21:02:00",
       "event": "done: S8 line edit ch 31"
+    },
+    {
+      "at": "2026-11-01T21:02:32",
+      "event": "done: S8 line edit ch 32"
     }
   ],
-  "updated_at": "2026-11-01T21:02:00",
+  "updated_at": "2026-11-01T21:02:32",
   "midpoint_chapter": 16,
   "continuity_attempts": 1,
   "continuity_last_errors": 1,
