@@ -10,28 +10,28 @@
     "continuity": 5.0
   },
   "reasons": {
-    "reader_question": "Sharp and specific: his promise binds him to her footing until the exact day his writ makes him hand her over.",
-    "change": "Identities, writ, seal and traitor are all confessed or deduced. They move from enemies hiding things to complicit lovers. Power and knowledge both shift.",
-    "romance_movement": "Full mutual confession, then a chosen first kiss. The refusal reason is new because both now know everything, and the promise turns care into a contract.",
-    "shown_chemistry": "Shown through action: he holds still and lets her choose, they watch each other's hands, and the kiss image is character-specific. The reread beat drifts into summary.",
-    "character_logic": "The no-lies pact, the collaborative deduction and his deliberate promise all fit smart versions of them. Going out together to beat the rope limit is clever.",
-    "stakes_and_cost": "The kiss is costed in harbouring and the writ. The promise carries a great-lie penalty. Losing the wood sets a hard clock.",
-    "prose": "Clean, with few tells. But the 'like a man' simile recurs about five times, 'He said it' becomes a tic, and the ending restates its own realisation.",
-    "continuity": "Sticks, button, sieve ring, party count, fallback sheet and seal all match the facts. Risks: 'as she had the night before' is unverified, and 'his life was tied' overstates the cost of a broken promise."
+    "reader_question": "Specific: the promise binds his body to her footing until the exact day he must hand her over. Varun's survival adds a second thread.",
+    "change": "Both identities and the writ are confessed, Varun is exposed, there is a first kiss and a binding promise. Power, knowledge and relationship all flip.",
+    "romance_movement": "The refusal from ch14 is overturned for a new reason: full knowledge on both sides. The kiss is chosen with every cost named.",
+    "shown_chemistry": "Watched hands, palms turned up, 'I watched your hands'. Attraction is read through the rule. 'Cradle as if it might break' is stock.",
+    "character_logic": "The confessions are well motivated, especially Rohan's chosen not-knowing. But the stick arithmetic behind 'no lies' doesn't add up under the rules.",
+    "stakes_and_cost": "The promise is a great-lie contract that expires at the handover. The midpoint mirror makes her complicit in Jassi's death.",
+    "prose": "Strong lines, but the sieve-ring beat is staged twice, 'Silence was free' and 'The fire ticked' repeat, and the deduction is summarised.",
+    "continuity": "Stick count, button, party sheet, fallback route, seal hitch and promise hum all match F145 to F155 and the bible's rules."
   },
   "fixes": [
-    "At \"Then everything in the last ten days is different,\" the Fair Twist (12) is delivered as summary, with abstract lines like 'Every look I gave you'. Replace them with one concrete reread from earlier chapters, spoken aloud. For example, Meera recalls the scraped crown stamp on her crates in ch1 and now names whose hands scraped it. Rohan answers with one specific Varun moment. Cut the generic 'Every look' sentence.",
-    "Repeated simile frame: 'like a man who had caught a fish', 'shape of a man bracing for weather', 'a man holding very still', 'look of a man about to set down', and 'kissed like a man reading a document'. Keep only the document-signing simile. Recast the others as plain action, for example 'He held the stick up, grinning.' Also cut two of the 'He said it flatly/simply/before she could' tags.",
-    "At \"If she fell, he must catch her,\" the ending states the realisation twice. It also overstates the rule: a broken promise strikes as a great lie, which kills flesh, not life. Rewrite as 'his hands, his body, were tied to her footing'. Delete the 'If she slipped' sentence and let the final count line carry the turn. Also change 'I watched your hands' to a variant, so the ch30 'Watch my hands' callback stays unspent."
+    "Fix the duplicated beat at 'She laid the hunter's twist beside her own packet'. She already set the two sieve rings together at the start of the scene. Also replace the summary 'She did not stop to argue the rest' with three or four exchanged lines: the iron ring, Varun's strap, the gully. End with one of them saying aloud that Varun set the slide and is her middleman. The beat requires them to work it out on the page.",
+    "Fix the logic at 'A refusal would burn a sixth stick' (irrational behaviour to extend plot). No question was asked, so volunteering costs nothing. Fire doesn't warm lie-cold, so the wood can't govern lies. Either have Rohan formally spend the night's question ('Who is the Salt Fox?') so that refusal costs a stick, or rest her 'no lies' rule on a shaking partner needing extra sticks for ordinary cold.",
+    "Rewrite the opening 'Meera thought the rope tied her to the door'. It muddles the ch15 cliffhanger. In one plain line, state that the eight-span reach runs between the two of them, not from the sill, so they can go out together. Then cut 'grinning like a boy'. A man with cracked ribs in a whiteout grinning reads off-tone; replace it with one concrete action."
   ],
-  "reader_question": "What does a promise to keep her from falling do to a man whose writ makes him hand her to the rope on the day that promise expires?",
+  "reader_question": "What will Rohan's promise not to let her fall cost him when the thaw ends the bond on the very day his writ makes him hand her over?",
   "techniques_landed": [
     3,
     12,
     17,
     22
   ],
-  "new_facts_assessment": "Both new facts are necessary and consistent. The harder-snugged hitch earns Rohan's suspicion fairly, and the count page fits Meera's ledger habit and F114. One beat item is missing: the scraped crown stamps on the crates are never cited as evidence.",
+  "new_facts_assessment": "new-facts.json is empty, but the draft adds several facts. The writ names a 'warden-judge at Taravan'. Varun dropped back 'for a strap' before the slide. He laughed that the pedlar took long to find brass. The middleman's carter leaves the button. Rohan stood at Varun's wedding (already F148). All are consistent and useful. The warden-judge and the strap lag should be logged for ch25 to ch30.",
   "content_rule_violation": false,
   "failure_modes": [],
   "average": 4.25,

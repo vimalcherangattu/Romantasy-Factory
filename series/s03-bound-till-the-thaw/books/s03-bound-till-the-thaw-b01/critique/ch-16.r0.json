@@ -2,42 +2,39 @@
   "scores": {
     "reader_question": 4.0,
     "change": 5.0,
-    "romance_movement": 4.0,
+    "romance_movement": 5.0,
     "shown_chemistry": 4.0,
-    "character_logic": 3.0,
+    "character_logic": 4.0,
     "stakes_and_cost": 4.0,
     "prose": 3.0,
-    "continuity": 0.0
+    "continuity": 5.0
   },
   "reasons": {
-    "reader_question": "The closing promise-versus-thaw sum makes the beat's question sharp and stateable in one sentence.",
-    "change": "Both identities confessed, Varun named, the first kiss, and a binding promise. Knowledge, power and relationship all flip.",
-    "romance_movement": "The kiss is chosen with full knowledge of each other, a new and stronger reason than the earlier refusal. It is undercut by narrated reasoning.",
-    "shown_chemistry": "Watching hands, 'That was free' / 'I watched your hands', and him refusing to move first show response well.",
-    "character_logic": "Silence is free, so 'no lies' doesn't force her confession. The Teeth point contradicts Meera's own ch15 'every crew knows the Teeth'.",
-    "stakes_and_cost": "The promise ties his life to her footing until the thaw. The kiss costs both of them the law. The firewood stakes are clear.",
-    "prose": "Leaked craft language ('the reason had been new'), a table simile used three times, repeated 'went still', and a list-like evidence chain.",
-    "continuity": "Rohan's false 'I knew' costs no heat. Lalit's count was days ago, not 'a night ago'. Varun has been buried nearly eleven days, not nine."
+    "reader_question": "Specific: the promise binds his body to her footing until the exact day he must hand her over. Varun's survival adds a second thread.",
+    "change": "Both identities and the writ are confessed, Varun is exposed, there is a first kiss and a binding promise. Power, knowledge and relationship all flip.",
+    "romance_movement": "The refusal from ch14 is overturned for a new reason: full knowledge on both sides. The kiss is chosen with every cost named.",
+    "shown_chemistry": "Watched hands, palms turned up, 'I watched your hands'. Attraction is read through the rule. 'Cradle as if it might break' is stock.",
+    "character_logic": "The confessions are well motivated, especially Rohan's chosen not-knowing. But the stick arithmetic behind 'no lies' doesn't add up under the rules.",
+    "stakes_and_cost": "The promise is a great-lie contract that expires at the handover. The midpoint mirror makes her complicit in Jassi's death.",
+    "prose": "Strong lines, but the sieve-ring beat is staged twice, 'Silence was free' and 'The fire ticked' repeat, and the deduction is summarised.",
+    "continuity": "Stick count, button, party sheet, fallback route, seal hitch and promise hum all match F145 to F155 and the bible's rules."
   },
   "fixes": [
-    "At '\"I knew,\" he said at last.' (Rule That Bites Back broken): Rohan states a falsehood with no lie-cold and against his voice, since he goes silent instead of lying. Replace it with a held silence, then 'I suspected.' Or let his fingertips whiten and have Meera see it before he corrects himself.",
-    "At 'A crack, a pause, and then another' (Twists without setup): ch3 planted an iron ring before the crack, not a double crack. Make the iron ring the clue, echoing the pick-strikes in ch15. Also change 'called the party a night ago' to 'on the ridge, days back', and 'Nine days under it' to eleven.",
-    "At 'the reason had been new and had been good' (craft language leaking into prose): name the actual reason in Meera's words. Cut two of the three table similes ('like a table'). Answer Meera's own ch15 objection in point five: the hunters knew which line of the Teeth, and that line was on the fallback sheet."
+    "Fix the duplicated beat at 'She laid the hunter's twist beside her own packet'. She already set the two sieve rings together at the start of the scene. Also replace the summary 'She did not stop to argue the rest' with three or four exchanged lines: the iron ring, Varun's strap, the gully. End with one of them saying aloud that Varun set the slide and is her middleman. The beat requires them to work it out on the page.",
+    "Fix the logic at 'A refusal would burn a sixth stick' (irrational behaviour to extend plot). No question was asked, so volunteering costs nothing. Fire doesn't warm lie-cold, so the wood can't govern lies. Either have Rohan formally spend the night's question ('Who is the Salt Fox?') so that refusal costs a stick, or rest her 'no lies' rule on a shaking partner needing extra sticks for ordinary cold.",
+    "Rewrite the opening 'Meera thought the rope tied her to the door'. It muddles the ch15 cliffhanger. In one plain line, state that the eight-span reach runs between the two of them, not from the sill, so they can go out together. Then cut 'grinning like a boy'. A man with cracked ribs in a whiteout grinning reads off-tone; replace it with one concrete action."
   ],
-  "reader_question": "What does a promise to keep her from falling do to a man ordered to hand her to the rope at the thaw?",
+  "reader_question": "What will Rohan's promise not to let her fall cost him when the thaw ends the bond on the very day his writ makes him hand her over?",
   "techniques_landed": [
     3,
+    12,
     17,
     22
   ],
-  "new_facts_assessment": "Seven sticks recovered is necessary and consistent. The button token matches F052/F060. Naming the seal is necessary, but 'You have held it' implies Rohan knows about ch11 without saying how. Suspecting her since ch14 is useful. The wedding detail is harmless. Unlisted: the rope humming at a promise is new magic and needs a new-facts entry.",
+  "new_facts_assessment": "new-facts.json is empty, but the draft adds several facts. The writ names a 'warden-judge at Taravan'. Varun dropped back 'for a strap' before the slide. He laughed that the pedlar took long to find brass. The middleman's carter leaves the button. Rohan stood at Varun's wedding (already F148). All are consistent and useful. The warden-judge and the strap lag should be logged for ch25 to ch30.",
   "content_rule_violation": false,
-  "failure_modes": [
-    "Twists without setup",
-    "Irrational behaviour to extend plot",
-    "Endless monologue"
-  ],
-  "average": 3.38,
-  "minimum": 0.0,
-  "passed": false
+  "failure_modes": [],
+  "average": 4.25,
+  "minimum": 3.0,
+  "passed": true
 }
