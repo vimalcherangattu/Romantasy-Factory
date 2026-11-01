@@ -1,14 +1,3 @@
 {
-  "facts": [
-    {
-      "category": "knowledge",
-      "fact": "Asha knows the red rope is eight spans and sits nine spans from the hut door, just beyond a bound guide's reach, so Meera cannot close the distance.",
-      "since": "ch 10"
-    },
-    {
-      "category": "object",
-      "fact": "Meera writes in the count: 'Three wardens, two goat-folk. Said by Asha's boy. We were two and two.'",
-      "since": "ch 10"
-    }
-  ]
+  "facts": []
 }
