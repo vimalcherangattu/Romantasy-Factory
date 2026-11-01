@@ -229,7 +229,7 @@
       ]
     },
     "08": {
-      "status": "passed",
+      "status": "edited",
       "revisions": 0,
       "scores": {
         "reader_question": 5.0,
@@ -243,10 +243,10 @@
       },
       "average": 4.25,
       "flags": [],
-      "words": 2747,
+      "words": 2745,
       "minimum": 4.0,
       "style": {
-        "words": 2509,
+        "words": 2745,
         "banned_hits": {},
         "ai_tell_hits": {},
         "ai_tells_per_1000": 0.0,
@@ -254,7 +254,7 @@
         "top_4gram_count": 2,
         "longest_paragraph_words": 102,
         "em_dashes_per_1000": 0.0,
-        "reading_ease": 96.0
+        "reading_ease": 96.1
       },
       "owner_instructions": [
         "Consistency with the chapter 1 Salt Fox change. Where: Meera's interiority in the Rope-Hut, especially around 'this fire is harbouring' and the crown-grade redbark. What to change: remove any line that hides her Salt Fox identity from the reader. If there is none, make no change.",
@@ -2026,9 +2026,13 @@
     {
       "at": "2026-11-01T20:56:09",
       "event": "done: S8 line edit ch 7"
+    },
+    {
+      "at": "2026-11-01T20:56:46",
+      "event": "done: S8 line edit ch 8"
     }
   ],
-  "updated_at": "2026-11-01T20:56:09",
+  "updated_at": "2026-11-01T20:56:46",
   "midpoint_chapter": 16,
   "continuity_attempts": 1,
   "continuity_last_errors": 1,
