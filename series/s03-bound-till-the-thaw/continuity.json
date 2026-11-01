@@ -2094,6 +2094,41 @@
       "category": "object",
       "fact": "On the crossing home Meera adds a fifth stone to Jassi's waystone cairn 'for the goats'. The wind-felled juniper below the Rope-Hut has put out green tips.",
       "since": "s03-bound-till-the-thaw-b01 (S7)"
+    },
+    {
+      "id": "F310",
+      "category": "relationship",
+      "fact": "Roop and Chand are a married couple, bound together by the rope until the thaw.",
+      "since": "s03-bound-till-the-thaw-b01 ch 1",
+      "provisional": true
+    },
+    {
+      "id": "F311",
+      "category": "knowledge",
+      "fact": "Meera's mother taught her to count aloud ('a number spoken is a number kept').",
+      "since": "s03-bound-till-the-thaw-b01 ch 1",
+      "provisional": true
+    },
+    {
+      "id": "F312",
+      "category": "name",
+      "fact": "The widow Puja has a son whom Meera promises a free crossing next run, to be paid for by the Taravan salt merchant's double fee.",
+      "since": "s03-bound-till-the-thaw-b01 ch 1",
+      "provisional": true
+    },
+    {
+      "id": "F313",
+      "category": "object",
+      "fact": "On the morning of the warden sweep Meera left the count and the oilcloth roll on the top-room table, then grabbed both when the horns sounded; she carries the count inside her coat against her ribs while Rohan looks at her.",
+      "since": "s03-bound-till-the-thaw-b01 ch 1",
+      "provisional": true
+    },
+    {
+      "id": "F314",
+      "category": "knowledge",
+      "fact": "Meera knows the third empty peg on the hanging tree is waiting for the Salt Fox, which is herself.",
+      "since": "s03-bound-till-the-thaw-b01 ch 1",
+      "provisional": true
     }
   ],
   "knowledge": [
