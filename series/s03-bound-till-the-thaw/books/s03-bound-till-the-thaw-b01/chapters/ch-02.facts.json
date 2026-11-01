@@ -2,18 +2,23 @@
   "facts": [
     {
       "category": "knowledge",
-      "fact": "The warden report of Dilan's death records blood on the ice and a curl of frozen cartilage no longer than a fingernail, which Rohan reads as the rim of an ear.",
-      "since": "ch 2"
+      "fact": "Revises F063: the warden report of Dilan's death records blood on the ice and a scrap of skin frozen to it, torn from the rim of an ear (not cartilage), consistent with Kiran's blackened ear rim.",
+      "since": "s03-bound-till-the-thaw-b01 ch 2"
     },
     {
       "category": "knowledge",
-      "fact": "Rohan knows a warden who lets a known load cross is harbouring it by the letter of the Closing Law; he writes no report and decides to follow the redbark toward the Salt Fox.",
-      "since": "ch 2"
+      "fact": "Rohan privately counts Meera's first lie to him: her ch 1 claim that Jassi was deaf in the left ear and had a cold in his chest, disproved when Jassi answered across the yard. He says nothing.",
+      "since": "s03-bound-till-the-thaw-b01 ch 2"
     },
     {
-      "category": "place",
-      "fact": "The wool bales (Bindu's, with the hidden redbark) stand in the goat pen beneath the salt house; the wardens search the pen last.",
-      "since": "ch 2"
+      "category": "object",
+      "fact": "Revises F060: Varun lost a pewter button on the stair and wears a brand-new brass one from the quartermaster's tin of odds, among his pewter buttons; he also grumbles of a frayed cuff and chalky issue polish. It is named once in a run of gripes.",
+      "since": "s03-bound-till-the-thaw-b01 ch 2"
+    },
+    {
+      "category": "knowledge",
+      "fact": "Rohan's sealed order reads 'Bring in the Salt Fox at the thaw'; he does not know why the queen wants the fox delivered rather than hanged. The order's seal has been broken once and pressed flat since.",
+      "since": "s03-bound-till-the-thaw-b01 ch 2"
     }
   ]
 }

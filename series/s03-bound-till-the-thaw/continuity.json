@@ -2595,6 +2595,34 @@
       "category": "name",
       "fact": "At the Fair Pritam wears a butter-coloured coat, Prince Kunal wears a prince's circlet, and the herald is a thin man with a brass voice (ch 30).",
       "since": "s03-bound-till-the-thaw-b01 (S7)"
+    },
+    {
+      "id": "F383",
+      "category": "knowledge",
+      "fact": "Revises F063: the warden report of Dilan's death records blood on the ice and a scrap of skin frozen to it, torn from the rim of an ear (not cartilage), consistent with Kiran's blackened ear rim.",
+      "since": "s03-bound-till-the-thaw-b01 ch 2",
+      "provisional": true
+    },
+    {
+      "id": "F384",
+      "category": "knowledge",
+      "fact": "Rohan privately counts Meera's first lie to him: her ch 1 claim that Jassi was deaf in the left ear and had a cold in his chest, disproved when Jassi answered across the yard. He says nothing.",
+      "since": "s03-bound-till-the-thaw-b01 ch 2",
+      "provisional": true
+    },
+    {
+      "id": "F385",
+      "category": "object",
+      "fact": "Revises F060: Varun lost a pewter button on the stair and wears a brand-new brass one from the quartermaster's tin of odds, among his pewter buttons; he also grumbles of a frayed cuff and chalky issue polish. It is named once in a run of gripes.",
+      "since": "s03-bound-till-the-thaw-b01 ch 2",
+      "provisional": true
+    },
+    {
+      "id": "F386",
+      "category": "knowledge",
+      "fact": "Rohan's sealed order reads 'Bring in the Salt Fox at the thaw'; he does not know why the queen wants the fox delivered rather than hanged. The order's seal has been broken once and pressed flat since.",
+      "since": "s03-bound-till-the-thaw-b01 ch 2",
+      "provisional": true
     }
   ],
   "knowledge": [
