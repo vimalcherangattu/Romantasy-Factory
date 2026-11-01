@@ -485,7 +485,7 @@
       }
     },
     "16": {
-      "status": "passed",
+      "status": "edited",
       "revisions": 1,
       "scores": {
         "reader_question": 4.0,
@@ -499,18 +499,18 @@
       },
       "average": 4.0,
       "flags": [],
-      "words": 2702,
+      "words": 2700,
       "minimum": 3.0,
       "style": {
-        "words": 2660,
+        "words": 2700,
         "banned_hits": {},
         "ai_tell_hits": {},
         "ai_tells_per_1000": 0.0,
-        "top_4gram": "on the hearth stones",
+        "top_4gram": "he looked at the",
         "top_4gram_count": 2,
-        "longest_paragraph_words": 108,
-        "em_dashes_per_1000": 0.38,
-        "reading_ease": 95.6
+        "longest_paragraph_words": 106,
+        "em_dashes_per_1000": 0.37,
+        "reading_ease": 95.5
       },
       "owner_instructions": [
         "Opening line. Problem: 'For one stupid breath, Meera thought the rope tied her to the door' is a confusing first line for the midpoint after ch15's cliffhanger with the woodpile scattered into the dark. Change: cut it and open straight on the action. The juniper sticks skid across the snow outside the torn door, the wind takes them, someone shouts (Rohan or Meera), and they lunge within the rope's length to save the wood. Any thought Meera has about the rope comes after the physical struggle, in one clear sentence or not at all.",
@@ -2202,9 +2202,13 @@
     {
       "at": "2026-11-01T21:43:48",
       "event": "done: S8 line edit ch 3"
+    },
+    {
+      "at": "2026-11-01T21:44:20",
+      "event": "done: S8 line edit ch 16"
     }
   ],
-  "updated_at": "2026-11-01T21:43:48",
+  "updated_at": "2026-11-01T21:44:20",
   "midpoint_chapter": 16,
   "continuity_attempts": 0,
   "continuity_last_errors": null,
