@@ -1,0 +1,41 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 3.0,
+    "stakes_and_cost": 4.0,
+    "prose": 4.0,
+    "continuity": 5.0
+  },
+  "reasons": {
+    "reader_question": "The storm wall plus a two-day route is concrete. A second question hangs: will Rohan now join 'Salt Fox' to her face?",
+    "change": "She learns why he keeps the law and that he pays the fines. He learns her refusal is about the writ, not hate.",
+    "romance_movement": "Hatred is retired aloud and desire is refused for a fresh reason, the thaw delivery. A clear state change, not a replayed refusal.",
+    "shown_chemistry": "His stillness that leaves her the choice, the jaw touch and the eased shoulders are responsive. 'A hunger in it' leans on narration.",
+    "character_logic": "Meera's near-confession is guarded but muddled. She risks her crew and Kiran, yet her stated reason ('knowing that she knew') is unclear.",
+    "stakes_and_cost": "The wet branch costs warmth and the kettle, the Teeth cost a day, and the storm is hours off. Her refusal costs her want.",
+    "prose": "Concrete and well-varied, with strong images (the walking cliff, the greasy smear). The ledger and count metaphor is overused, and some lines are stiff.",
+    "continuity": "Firewood 13 to 12, the bell, rope signals, grandfather details, the camphor pattu and the writ line all match F067, F128 and F135 to F342."
+  },
+  "fixes": [
+    "At 'She had said it plain, and on purpose', the reasoning is muddled ('knowing that she knew what he carried'), a character-logic failure. Make the cost explicit in two short sentences: she has as good as named herself, which puts Kiran and the crew at risk. Say why she still risks it: he deserves to know who holds his rope before he hangs over two thousand feet of air.",
+    "At 'She was keeping the law's hand and the law's victim in the same ledger', the ledger, count and sum metaphor stacks across the chapter (here, 'put it in the count in her head', 'the hatred had a hole'). This is an endless-monologue drift. Cut this ledger line and the 'count in her head' line, and keep the 'hole the exact size' image as the single summary beat.",
+    "At 'It was not an official face. She did not think anyone had seen it', technique 25 is narrated rather than shown. Replace these two sentences with one concrete unguarded gesture specific to Rohan, such as the right hand letting go of the rope-end knot or a dry word tried twice. Let Meera's reaction carry the meaning, and trim the redundant 'There was no lie in them, because he had not told one.'"
+  ],
+  "reader_question": "Can Meera and a one-armed Rohan get down the Goat's Teeth before the storm wall and the hunters close, and now that she has said 'you deliver me', what will he do with it?",
+  "techniques_landed": [
+    10,
+    15,
+    25
+  ],
+  "new_facts_assessment": "The draft lists no new facts, but it adds several: the Teeth details, the grandfather's death, seven buried wardens, Pritam's grain wagons and the wet-branch round. These already appear as F337 to F342 and are consistent. The grandfather's 'stupid' accident plants C14 fairly. The empty list is sloppy but harmless.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Endless monologue"
+  ],
+  "average": 4.0,
+  "minimum": 3.0,
+  "passed": true
+}

@@ -1,39 +1,41 @@
 {
   "scores": {
-    "reader_question": 5.0,
+    "reader_question": 4.0,
     "change": 4.0,
-    "romance_movement": 5.0,
+    "romance_movement": 4.0,
     "shown_chemistry": 4.0,
-    "character_logic": 4.0,
+    "character_logic": 3.0,
     "stakes_and_cost": 4.0,
     "prose": 4.0,
-    "continuity": 0.0
+    "continuity": 5.0
   },
   "reasons": {
-    "reader_question": "Storm wall, hunters on the cut and a two-thousand-foot down-climb with one arm make a sharp, physical question. The 'me' slip adds a second.",
-    "change": "She learns the law's origin and his secret mercy, and she hands him near-proof she is the Salt Fox. Knowledge and power both move.",
-    "romance_movement": "Desire is named and refused for a new reason, the thaw delivery, not hatred. He accepts it as a fair reason he cannot answer.",
-    "shown_chemistry": "He holds still and leaves her the choice, she touches his jaw, and he burns a stick he needn't. Some summary ('the night belonged to them') tells.",
-    "character_logic": "Her near-confession is reasoned (he must choose before the Teeth), but asking him to promise rather than staying silent is a risky slip for a careful woman.",
-    "stakes_and_cost": "Every choice is priced: a lost day, the wet branch's warmth and kettle, a voluntary stick, and her own exposure.",
-    "prose": "Concrete and voiced, with strong images (goat on a ledge, greasy smear). Heavy 'did not' rhythm, a repeated ch13 hand image, 'fire ticked' twice.",
-    "continuity": "'She had learned it over ten days' conflicts with the day count (F290/F291: ch14 is the night of day 9, eight days after the binding)."
+    "reader_question": "The storm wall plus a two-day route is concrete. A second question hangs: will Rohan now join 'Salt Fox' to her face?",
+    "change": "She learns why he keeps the law and that he pays the fines. He learns her refusal is about the writ, not hate.",
+    "romance_movement": "Hatred is retired aloud and desire is refused for a fresh reason, the thaw delivery. A clear state change, not a replayed refusal.",
+    "shown_chemistry": "His stillness that leaves her the choice, the jaw touch and the eased shoulders are responsive. 'A hunger in it' leans on narration.",
+    "character_logic": "Meera's near-confession is guarded but muddled. She risks her crew and Kiran, yet her stated reason ('knowing that she knew') is unclear.",
+    "stakes_and_cost": "The wet branch costs warmth and the kettle, the Teeth cost a day, and the storm is hours off. Her refusal costs her want.",
+    "prose": "Concrete and well-varied, with strong images (the walking cliff, the greasy smear). The ledger and count metaphor is overused, and some lines are stiff.",
+    "continuity": "Firewood 13 to 12, the bell, rope signals, grandfather details, the camphor pattu and the writ line all match F067, F128 and F135 to F342."
   },
   "fixes": [
-    "'she had learned it over ten days' breaks the established day count: they met on day 1 and this is the night of day 9. Meera counts everything, so she would get it right. Change it to 'over nine days', or 'since the cairn' if you want to avoid numbers.",
-    "'A day and a half to the Teeth, if the ledges hold' contradicts her own earlier estimate in the same chapter ('A pair with one good arm will want two'). It also misplaces the time: the day and a half is the descent itself, not the walk to it. Change it to 'Two days down the Teeth, with your arm, if the ledges hold.'",
-    "'entirely the colour of hands' repeats a distinctive image from ch13 ('stayed the colour of hands') and breaks the three-chapter rule. Replace it with a fresh, chapter-specific proof that he did not lie, for example 'steady in the light, the nails pink as hers'. Also cut the second 'The fire ticked.' to break the echo."
+    "At 'She had said it plain, and on purpose', the reasoning is muddled ('knowing that she knew what he carried'), a character-logic failure. Make the cost explicit in two short sentences: she has as good as named herself, which puts Kiran and the crew at risk. Say why she still risks it: he deserves to know who holds his rope before he hangs over two thousand feet of air.",
+    "At 'She was keeping the law's hand and the law's victim in the same ledger', the ledger, count and sum metaphor stacks across the chapter (here, 'put it in the count in her head', 'the hatred had a hole'). This is an endless-monologue drift. Cut this ledger line and the 'count in her head' line, and keep the 'hole the exact size' image as the single summary beat.",
+    "At 'It was not an official face. She did not think anyone had seen it', technique 25 is narrated rather than shown. Replace these two sentences with one concrete unguarded gesture specific to Rohan, such as the right hand letting go of the rope-end knot or a dry word tried twice. Let Meera's reaction carry the meaning, and trim the redundant 'There was no lie in them, because he had not told one.'"
   ],
-  "reader_question": "Can Meera get one-armed Rohan down the Goat's Teeth before the storm wall and the hunters close, and has he now joined the Salt Fox to her face?",
+  "reader_question": "Can Meera and a one-armed Rohan get down the Goat's Teeth before the storm wall and the hunters close, and now that she has said 'you deliver me', what will he do with it?",
   "techniques_landed": [
     10,
     15,
     25
   ],
-  "new_facts_assessment": "All are necessary and consistent. The grandfather story fits S4 and sets up F236's gloves. The Teeth matches F306 and F337. The wet branch fits F120. Pritam's grain wagons fits Rohan's side of the theme, though the bible says the regent profits from closure; worth a later echo.",
+  "new_facts_assessment": "The draft lists no new facts, but it adds several: the Teeth details, the grandfather's death, seven buried wardens, Pritam's grain wagons and the wet-branch round. These already appear as F337 to F342 and are consistent. The grandfather's 'stupid' accident plants C14 fairly. The empty list is sloppy but harmless.",
   "content_rule_violation": false,
-  "failure_modes": [],
-  "average": 3.75,
-  "minimum": 0.0,
-  "passed": false
+  "failure_modes": [
+    "Endless monologue"
+  ],
+  "average": 4.0,
+  "minimum": 3.0,
+  "passed": true
 }
