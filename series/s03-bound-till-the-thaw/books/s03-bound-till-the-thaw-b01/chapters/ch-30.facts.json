@@ -1,22 +1,34 @@
 {
   "facts": [
     {
-      "id": "F354",
-      "category": "knowledge",
-      "fact": "At the Fair Pritam orders the forty to hold the herald and claims Neshar owes him eleven hundred measures of winter grain. Rohan answers that those are the crown's measures, carry Pritam's store-bell, were hoarded through the closing and sold back to Ranu at famine price; a hill-council man says he paid four times the autumn price for a sack. The officer lowers his spear only after Tej's sword belt lies on the grass. Revises earlier F354 wording.",
-      "since": "s03-bound-till-the-thaw-b01 ch 30"
+      "category": "name",
+      "fact": "Chetu of Upper Kuhl is a hill-council man whose valley has forty sacks left, all the regent's; he half-rises to speak for Pritam's grain at the Fair, then sits back when a woman says she paid four times the autumn price. He may reappear in ch31 as a reluctant signatory.",
+      "since": "ch 30"
     },
     {
-      "id": "F355",
-      "category": "magic",
-      "fact": "Meera uses the rope signal of one long pull (come, per F128) to call Rohan away from Ila at the Fair; he leaves his sister mid-sentence and follows.",
-      "since": "s03-bound-till-the-thaw-b01 ch 30"
+      "category": "knowledge",
+      "fact": "The officer of the forty lowers his spear because his own sister's house paid four times the autumn price for a bell-marked sack, as well as seeing Tej's sword belt on the grass. The 'And another' crowd chorus is cut.",
+      "since": "ch 30"
     },
     {
-      "id": "F356",
+      "category": "object",
+      "fact": "Asha lays a page torn from Meera's count beside the book at the Fair; its dates match her own record of Varun's payments.",
+      "since": "ch 30"
+    },
+    {
       "category": "knowledge",
-      "fact": "At the Fair two soldiers take Meera's arms and the herald enters her as 'Meera of Kothi Shilak, called the Salt Fox. Held pending the queen's judgement.' Kunal's 'Hold' stops them removing her; the officer has them release her after the herald is freed. The entry stands in the crown's record. (F353, Ila's 'two hours late', is withdrawn; F308 'eight days late' stands.)",
-      "since": "s03-bound-till-the-thaw-b01 ch 30"
+      "fact": "Rohan counted thirty-one graves and held the rope while the thirty-second was dug, so he states thirty-two to the assembly.",
+      "since": "ch 30"
+    },
+    {
+      "category": "object",
+      "fact": "Meera writes her own name in the herald's book ('Meera of Kothi Shilak, called the Salt Fox') with the herald's pen; the herald adds 'Held pending the queen's judgement' beneath it. She says 'Law's a rope. Depends who ties it.'",
+      "since": "ch 30"
+    },
+    {
+      "category": "relationship",
+      "fact": "In the Garh Neshar room Meera and Rohan have their second love scene; she keeps her left glove on and does not count anything afterwards. Rohan says 'The thaw is a long way off yet' as a plain sentence, not a promise, and the rope stays level.",
+      "since": "ch 30"
     }
   ]
 }
