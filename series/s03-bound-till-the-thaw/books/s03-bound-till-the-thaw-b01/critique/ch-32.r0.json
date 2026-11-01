@@ -2,7 +2,7 @@
   "scores": {
     "reader_question": 5.0,
     "change": 5.0,
-    "romance_movement": 4.0,
+    "romance_movement": 5.0,
     "shown_chemistry": 5.0,
     "character_logic": 4.0,
     "stakes_and_cost": 4.0,
@@ -10,30 +10,32 @@
     "continuity": 5.0
   },
   "reasons": {
-    "reader_question": "The jogini's unpaid Bargain, the fourth-winter deadline and Kiran's silent nod leave a sharp, personal question about who pays.",
-    "change": "The bond ends, Rohan publicly defies his writ, and a book's peace turns into a series threat. All three are shown on the page.",
-    "romance_movement": "Rope chosen freely, belief without bodily proof is a new reason. The 'drops Captain' beat is weak because she has said Rohan for chapters.",
-    "shown_chemistry": "Swapped knots, 'Sixteen and a half', 'last time you get to check' and him not following: responsive action throughout.",
-    "character_logic": "Rohan choosing aloud fits him. Meera voicing 'As payment' jumps to a conclusion the evidence barely supports.",
-    "stakes_and_cost": "Rohan's defiance risks the queen's judgement and Gopal's book. The walk-away is a real choice. Kiran ties the jogini threat to a loved person.",
-    "prose": "Clean, concrete and varied. It has a few strong lines. One illogical sentence ('right both times') and some soft spots.",
-    "continuity": "Consistent: three left fingers, mitten at fifteen, knots, gloves memory, eleven lines and the jogini wording all match. Badami's move is unexplained but plausible."
+    "reader_question": "Specific gap with a deadline and a named loved person: what bargain, who pays, and whether Kiran will offer himself.",
+    "change": "The bond ends, the arrest is publicly refused, the betrothal is chosen, and the book's peace becomes a series threat.",
+    "romance_movement": "The reason is new. She walks past the old limit and returns by choice. 'Take my word' replaces proof by the hands.",
+    "shown_chemistry": "Swapped knots, 'Sixteen and a half', his refusal to follow her and his shaking fingers: all responsive action, no narrated attraction.",
+    "character_logic": "Gopal raising the writ publicly is smart. Rohan's 'walk her to Taravan' half-complies with 'deliver', and Meera's reading slightly overstates the defiance.",
+    "stakes_and_cost": "She is still held and unpardoned. Kiran is now in danger. A bound vow at the cairn is never priced.",
+    "prose": "Strong hook and clean rhythm. A few thesis lines explain beats already shown. 'Rohan breathed in. The stones stayed quiet' is murky.",
+    "continuity": "Bell, Leela, glove digits, gloves on the flat stone, Gopal, cream rope and the jogini warning all match the bible and facts."
   },
   "fixes": [
-    "At '\"As payment,\" Meera said. It came out barely a sound', the line pre-empts S4, Book 2's midpoint reveal (a contrived early reveal of the series twist). Cut Meera's line. Let Rohan end on 'As you would leave a thing you will not need again.' and have Meera say nothing. That keeps the gloves as a shaped gap and protects Ila's discovery in Book 2.",
-    "At '\"Rohan,\" said Meera... \"Not Captain. Not today.\"', 'Not today' implies Captain returns tomorrow. She has also used his name privately for chapters, so the beat lacks a new reason. Change it to 'Not Captain. Not to me, and not in front of me,' making it a public claim. Alternatively have Gopal's salute meet the name, so the change is that the post accepts it.",
-    "At 'she had been right both times', the logic misfires: she told herself not to look, which is a resolve, not a prediction that can be right. Rewrite as 'and both times she had known she would want to.' Also add one clause at 'Badami is with your sister Leela' ('Bindu walked her down after midwinter') so Meera's knowledge and Badami's location are grounded."
+    "At 'I am not arresting her. I am walking to Taravan beside her', Rohan states an intent while still bound, which is a promise under the rule, yet the rope stays silent. Add one line: the rope hums low and level on Meera's wrist (F149). She thinks it binds him for perhaps a quarter hour, but Gopal is writing it in the post book. This pays off his ch31 refusal to promise.",
+    "At 'Say it to the stones,' said Hakam, the pair tie knots and speak name and road at a jogini cairn, so readers may think they have re-bound themselves. Add a short Meera beat: the binding needs the same knot on both wrists. These knots differ on purpose, so the mountain has no claim. That makes 'I can lie to you all I like' rule-true.",
+    "Cut the narrated thesis lines 'The rope had never let them have that: belief with nothing to prove it' and 'It was the only thing about the morning that was entirely clear.' The scene already shows both. Replace 'Rohan breathed in. The stones stayed quiet' with a concrete beat, such as his fingertips staying pink on a deliberate test lie."
   ],
-  "reader_question": "What is the Old Bargain, who must pay it before the fourth winter ends, and will Kiran try to be the one?",
+  "reader_question": "What is the unpaid Old Bargain, and will Kiran try to pay it with his life before the fourth winter ends?",
   "techniques_landed": [
     3,
     20,
     26
   ],
-  "new_facts_assessment": "Leela as Jassi's sister is harmless and pays off his want. Badami being at Leela's orchard conflicts mildly with F066/F268, which put her in the salt-house pen with her bell fetched from it. Meera also has no on-page way to know of the move. Add one clause saying Bindu walked her down at midwinter. The unlisted 'As payment' inference is a de facto new fact that pre-empts S4.",
+  "new_facts_assessment": "The draft lists none, but it adds: the cairn betrothal custom ('Say it to the stones. It's usual'); the jogini cold reaching phantom fingers; and Rohan's guess that the queen wants Meera and Ila's map for the same reason. All fit S3, S4 and the bible's Book 2 setup. Gopal, the cream rope, the carving detail and Chand already appear as F267, F269, F271 and F381. The new facts should be logged.",
   "content_rule_violation": false,
-  "failure_modes": [],
-  "average": 4.5,
+  "failure_modes": [
+    "Worldbuilding collapse (minor): a bound promise at the cairn gets no rope hum"
+  ],
+  "average": 4.62,
   "minimum": 4.0,
   "passed": true
 }
