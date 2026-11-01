@@ -1030,7 +1030,7 @@
     "1 major continuity errors remain after 1 fix round(s): ch 19: Chapter 19 falls on day 12 of twenty: Sunni dies at dawn after the day-11 arrival. Nimmi says the Fair is 'four days' off, but chapter 21 (day 15) says five days remain and chapter 22 (day 16) says four, so the count goes up. Chapter 19's 'third day' door rule also cannot fit. Counted from the day-12 patrol, the doors would shut around day 15, yet chapter 21 has the rule biting only after they leave on day 17. A sixth-day rule and eight days to the Fair fit every later chapter.",
     "2 major continuity errors remain after 2 fix round(s): ch 25: Varun was assigned as Meera's rope partner in ch 2 and walked behind her up the gully in ch 3, so he knows her face as Jassi's second. In ch 25 he asks 'Who is the woman?' and the narration says 'He did not know her'. He should not know she is the Salt Fox, but he should recognise her.; ch 26: Meera tells her bound partner 'I'm well' while believing she is dying of cold, and says it to be believed. Nothing happens, and the narration says the mountain 'had no jurisdiction over well'. The bible defines a lie as a statement believed false and said to be believed. It also says the rule is never suspended in a crisis."
   ],
-  "revision_round": 1,
+  "revision_round": 2,
   "asin": null,
   "created_at": "2026-10-19T17:50:53",
   "review_at": null,
@@ -2080,9 +2080,13 @@
     {
       "at": "2026-11-01T21:04:20",
       "event": "done: S10 package"
+    },
+    {
+      "at": "2026-11-01T21:06:07",
+      "event": "done: beta read"
     }
   ],
-  "updated_at": "2026-11-01T21:04:20",
+  "updated_at": "2026-11-01T21:06:07",
   "midpoint_chapter": 16,
   "continuity_attempts": 1,
   "continuity_last_errors": 1,
@@ -2100,9 +2104,9 @@
   "beta": {
     "verdict": "revise",
     "predicted_rating": 4.2,
-    "summary": "A distinctive, emotionally exact enemies-to-lovers book: the lie-cold rule turns every confession into a costly act, and the payoffs in chapters 30 to 32 land the way readers hope. A continuity error, a thaw question that chapter 31 answers a chapter early, and a few on-the-nose lines are worth one short revision round before release.",
-    "notes": "series/s03-bound-till-the-thaw/books/s03-bound-till-the-thaw-b01/beta-notes-1.md"
+    "summary": "A strong, distinctive enemies-to-lovers book: the lie-cold bond produces real, costed chemistry, the ch16 midpoint turns both the romance and the mystery, and the ending lands the belief change, the HFN and a good hinge. A small round would lift it: the Varun clue is too loud in ch2, there is a bond-rule contradiction in ch31, the ch30 climax states its theme aloud and under-delivers the promised heat, and two endgame threads need tidying.",
+    "notes": "series/s03-bound-till-the-thaw/books/s03-bound-till-the-thaw-b01/beta-notes-2.md"
   },
-  "beta_rounds": 1,
-  "pending_owner_notes": null
+  "beta_rounds": 2,
+  "pending_owner_notes": "/home/user/Romantasy-Factory/series/s03-bound-till-the-thaw/books/s03-bound-till-the-thaw-b01/beta-notes-2.md"
 }
