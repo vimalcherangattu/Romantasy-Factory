@@ -950,7 +950,7 @@
       ]
     },
     "31": {
-      "status": "passed",
+      "status": "edited",
       "revisions": 1,
       "scores": {
         "reader_question": 4.0,
@@ -967,15 +967,15 @@
       "words": 2768,
       "minimum": 3.0,
       "style": {
-        "words": 2394,
+        "words": 2768,
         "banned_hits": {},
         "ai_tell_hits": {},
         "ai_tells_per_1000": 0.0,
-        "top_4gram": "he did not want",
+        "top_4gram": "the council has sealed",
         "top_4gram_count": 2,
         "longest_paragraph_words": 83,
         "em_dashes_per_1000": 0.0,
-        "reading_ease": 91.7
+        "reading_ease": 92.4
       },
       "owner_instructions": [
         "Where: Ila's 'A bound rope is not \"about twelve arm-spans\"' and Rohan's 'The jogini refuse anything longer.' What's wrong: every other chapter, chapter 32 and the blurb say eight arm-spans. What to change: make it eight. Keep Ila's precision joke, for example by correcting someone's 'about eight' to exactly eight. Check every other distance in the drafting scene for the same error.",
@@ -2062,9 +2062,13 @@
     {
       "at": "2026-11-01T21:01:25",
       "event": "done: S8 line edit ch 30"
+    },
+    {
+      "at": "2026-11-01T21:02:00",
+      "event": "done: S8 line edit ch 31"
     }
   ],
-  "updated_at": "2026-11-01T21:01:25",
+  "updated_at": "2026-11-01T21:02:00",
   "midpoint_chapter": 16,
   "continuity_attempts": 1,
   "continuity_last_errors": 1,
