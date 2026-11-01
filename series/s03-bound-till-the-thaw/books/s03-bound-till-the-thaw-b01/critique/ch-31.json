@@ -5,37 +5,37 @@
     "romance_movement": 4.0,
     "shown_chemistry": 4.0,
     "character_logic": 3.0,
-    "stakes_and_cost": 4.0,
+    "stakes_and_cost": 3.0,
     "prose": 4.0,
-    "continuity": 5.0
+    "continuity": 0.0
   },
   "reasons": {
-    "reader_question": "The question is specific: thaw in two nights, unrevoked orders in his coat, and a rope about to become ordinary.",
-    "change": "The law is drafted, Rohan gives up his veto, Meera joins the Closing Roll, and they leave Neshar as a lawful pair.",
-    "romance_movement": "New reasons drive each step: entry 207, the glove, the Roll chosen beside him, her first 'Stay'.",
-    "shown_chemistry": "Counting with her, the measured glove and 'be kind quietly' are responsive. A few lines tell rather than show.",
-    "character_logic": "Nothing on the page says why they must cross before the thaw. That leaves Meera's lifelong Roll cost looking optional.",
-    "stakes_and_cost": "Real costs: the veto, lifelong winter service, two fingers. He refuses a vow he can't keep, so the orders stay a live threat.",
-    "prose": "Clean and concrete with no tells. But three consecutive 'They' openings, a few button-line endings and some soft phrasing.",
-    "continuity": "Consistent with the bible, F238, F262, F360-F371 and the ch30 latch. Ch32's F273 needs Meera visibly present for the last clause."
+    "reader_question": "Clear question at close: when the bond ends, what will they choose, and what of the unresolved writ orders?",
+    "change": "The law is drafted, Rohan gives up his veto, Meera is entered in the Closing Roll, and they return lawfully.",
+    "romance_movement": "There are new reasons for movement: count 207, the veto given up, her first ask for herself. Each lands on the page.",
+    "shown_chemistry": "Counting together, the measured glove and 'be kind quietly' all show responsive care, with almost no narrated feeling.",
+    "character_logic": "N1 removes Meera's alternative ('So there's no door'), so her chosen sacrifice becomes compliance. The measuring cord taken while she slept is acknowledged.",
+    "stakes_and_cost": "The veto costs Rohan, but the Roll costs Meera less than it should because she has no option left. The ending is soft.",
+    "prose": "Clean and specific, with no banned phrases. Some 'did not' stacking, and 'stall' is obscure. The counting motif echoes ch30.",
+    "continuity": "'Ten winters' holding the seal conflicts with F359 and ch30's twelve. Meera taking the bell conflicts with F268."
   },
   "fixes": [
-    "At \"A warden cannot pardon. Only the queen.\" (Irrational behaviour): nothing explains why they can't wait out the thaw in Neshar and use summer roads, so the lifelong Roll cost looks avoidable. Add one or two lines with a world-rule reason. For example, a 'held' name not presented at the Shilak post by the thaw goes to the assembly lockhouse. Have Meera name the wait option and reject it on that basis.",
-    "At \"The last clause he wrote on a grey afternoon\": ch32 (F273) depends on Meera having watched Kiran's silence at this table, but she is absent from the scene. She must be within eight spans anyway, so place her at the window watching her brother. Add one Rohan-observed beat in which she notices Kiran's missing joke, so her ch32 reading is planted fairly.",
-    "At \"They crossed back as lawful as paper\" / \"They passed the Rope-Hut\" / \"They travelled in the dark hours\": three consecutive paragraphs open with 'They', which breaks the style guide. Recast two of the openings, e.g. 'The Rope-Hut came on the second morning.' Also cut the button lines \"He was. It took no effort at all.\" and \"somewhat to his surprise\", which narrate what the scene already shows."
+    "'Rohan had held the only seal on that road for ten winters': this is a continuity conflict with F359 and ch30 ('I enforced that law twelve winters'). Change it to 'twelve winters', or make it explicit that ten is his captaincy and twelve his service, so the reader can't read a contradiction.",
+    "'So there's no door.' / 'You walk in on my writ, or you are fetched': N1 makes the choice forced (irrational behaviour to extend plot), weakening technique 24. Keep the summer-road option real but costly. For example, she stays a held name, and her crew's marks stay open to the assembly's questioning until spring. Then 'I'll owe them winters. I'd give them anyway' is a free choice. Cut the Ila lockhouse-key line.",
+    "'watched Meera lift it down and thumb the tongue': this conflicts with F268 (Bindu fetches Badami's big bell from the goat pen in ch32). Have Meera thumb the bell and leave it on its peg, saying 'For the cairn. Bindu'll bring it.' Or send a ch32 revision note. Keep the Badami handover, which is strong."
   ],
-  "reader_question": "When meltwater runs and the rope is only wool, will Rohan defy the writ that orders him to deliver her, and what will they choose to tie?",
+  "reader_question": "When meltwater ends the bond, will they retie by choice, and what will Rohan do with the orders to deliver the Salt Fox?",
   "techniques_landed": [
     9,
     14,
     24
   ],
-  "new_facts_assessment": "The eight-span law vs the jogini's twelve is necessary, consistent with F008, and repairs F263. The 'I will stay' hum applies F149 correctly. Kiran at the gate is needed for ch32. Hakam's cousin fits F056 and Meera starting at nineteen. The Neshar post is minor and harmless.",
+  "new_facts_assessment": "N1 is consistent but harmful: it forces Meera's hand and undercuts the beat's 'she chooses it'. The 'Ila's lockhouse key' line is unexplained. N2 is consistent with F066 and F372 but conflicts with F268, where Bindu fetches the bell from the goat pen in ch32. The draft's 'thumb and two fingers' glove is correct per the bible, so F262/F363 ('three fingers') should be corrected.",
   "content_rule_violation": false,
   "failure_modes": [
     "Irrational behaviour to extend plot"
   ],
-  "average": 4.0,
-  "minimum": 3.0,
-  "passed": true
+  "average": 3.25,
+  "minimum": 0.0,
+  "passed": false
 }
