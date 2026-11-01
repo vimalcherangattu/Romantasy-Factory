@@ -6,36 +6,37 @@
     "shown_chemistry": 4.0,
     "character_logic": 3.0,
     "stakes_and_cost": 4.0,
-    "prose": 3.0,
-    "continuity": 0.0
+    "prose": 4.0,
+    "continuity": 5.0
   },
   "reasons": {
-    "reader_question": "Kiran's final line interrupts a confession in progress; the reader needs Rohan's response to the truth Meera paid two fingers to hide.",
-    "change": "Captive to free and armed: the seal is recovered, Varun is exposed through ledger and witness, and Asha switches sides.",
-    "romance_movement": "She hands him her load for the first time. The reason is new: the rope makes 'I've got it' a lie now.",
-    "shown_chemistry": "Chemistry shows in action: the cord held taut without touch, him retying the double hitch, the swallowed 'May I', the sattu joke.",
-    "character_logic": "Meera trades well, but stitching a brand-new button under thread sewn 'ten winters back' breaks logic. Asha's silencing look is under-motivated.",
-    "stakes_and_cost": "Dead fingers come off on a deadline after the Fair, and Kiran's confession puts Rohan's oath and his law at risk.",
-    "prose": "Concrete and readable, but there are told beats ('Her whole face changed'), stacked 'did not' negations, and cold stone pulled from steaming tea.",
-    "continuity": "Nimmi's 'a day after, no more' conflicts with F260 (she amputates two days after the Fair). The ten-winter stitching conflicts with F052's new button."
+    "reader_question": "Kiran's interrupted confession leaves one sharp question: how will Rohan answer the truth Meera paid two fingers to keep from him?",
+    "change": "Meera goes from chained captive to free, with the seal, the button and Asha's testimony. Varun is exposed. Her fingers are sentenced.",
+    "romance_movement": "The pack handover is a new and physical form of reliance. Rohan's half-asked 'May I' gives his restraint a fresh reason.",
+    "shown_chemistry": "The taut cord, the deliberate gap between their hands, the retied double hitch and the sattu callback all show attraction in response to each other.",
+    "character_logic": "Asha's price is stated, then the trade blurs. The page and Rohan's testimony don't clearly buy her crew's safety or erase her name.",
+    "stakes_and_cost": "Two dead fingers on a two-day deadline and Kiran's confession cost a lot. The escape itself costs nothing: the sentries are already tied.",
+    "prose": "Concrete, quick and voiced. One image repeats from ch 27, and a few lines narrate feelings the action already shows.",
+    "continuity": "Consistent with F052, F222, F232, F244, F260, F385 and F396. Varun's 'pedlar' story to Asha reads as his own varying lie."
   },
   "fixes": [
-    "At 'She had sewn them herself, ten winters back': the button is new this winter (F052), so this is a logic break. Change it to say she has re-stitched the spine after every drop for ten winters, and sewed this button in the night after the chapter 1 drop. Keep the habit; fix the date.",
-    "At 'After the Fair. A day after, no more.': this conflicts with F260, where Nimmi amputates two days after the Fair. Change it to 'Two days after, no more,' and keep the threat that the rot reaches the wrist. Also update 'Two fingers. A day.' to 'Two days.'",
-    "At 'Asha's eyes went to it. Her whole face changed.': this is narrated reaction. Replace it with an action, such as her knife hand going still or her thumb rubbing the pewter button on her own cuff, before she speaks. Separately, at 'and then on cold stone', make the stone hot from the tea, so the reader isn't left with cold stone pulled from steaming water."
+    "At \"That's the bill. A name for a name.\" (character logic): the trade doesn't clearly meet Asha's stated price. Add one or two lines where Meera spells out what the page does for Asha. It proves Varun's trade from a source that isn't Asha's word, so her testimony against him becomes believable and her crew become witnesses rather than his knives. Asha should accept it as payment for that reason.",
+    "At \"Both sentries sat against the lockhouse wall\" (contrived delays): the escape happens offstage and costs nothing, so the beat's goal is free. Add one small, costed beat. For example, the red-moustached captain stirs in his chair. Or Meera must decide in seconds to leave the taken gear except her pack and knife. Keep it under 120 words so the knot clue still lands at the peak.",
+    "At \"the way she looked down a bed of the sick\": this repeats ch 27's Nimmi-looks-like-at-a-patient image (style guide, image repetition), so find a new comparison. Also cut \"and her whole body knew the difference and didn't know what to do with it\". It narrates what the light walk already shows. Replace it with one physical detail, such as her shoulder rising unasked."
   ],
-  "reader_question": "What will Rohan do when Kiran tells him he was the smuggler on Dilan's rope?",
+  "reader_question": "What will Rohan do when Kiran tells him the truth Meera lied and lost two fingers to hide?",
   "techniques_landed": [
     11,
     12,
     16
   ],
-  "new_facts_assessment": "Crate marks are useful and consistent: the scored bell echoes the regent's store mark (F217). The spine-stitching fact conflicts with F052, since the button arrived new this winter. The 'May I' fact stretches the ch27 promise, which covered only that rope, into all questions. It is acceptable as scrupulousness but should be stated as her reading.",
+  "new_facts_assessment": "N1 is needed for the button reveal and fits F052 and F287. N2 fixes the amputation timing to match F260 and is necessary. N3 fits F385. Asha hearing 'a pedlar' while the file says quartermaster's tin works as Varun lying differently to different people. Keep it, but don't let ch 30 treat either source as settled truth.",
   "content_rule_violation": false,
   "failure_modes": [
-    "Irrational behaviour to extend plot"
+    "Irrational behaviour to extend plot",
+    "Contrived delays"
   ],
-  "average": 3.38,
-  "minimum": 0.0,
-  "passed": false
+  "average": 4.12,
+  "minimum": 3.0,
+  "passed": true
 }

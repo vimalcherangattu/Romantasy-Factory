@@ -4,35 +4,39 @@
     "change": 4.0,
     "romance_movement": 4.0,
     "shown_chemistry": 4.0,
-    "character_logic": 4.0,
+    "character_logic": 3.0,
     "stakes_and_cost": 4.0,
-    "prose": 3.0,
-    "continuity": 0.0
+    "prose": 4.0,
+    "continuity": 5.0
   },
   "reasons": {
-    "reader_question": "Kiran's interrupted confession lands on Rohan's unasked question about the hand; the reader knows exactly what is coming and fears the response.",
-    "change": "Captive to free, armed with seal, ledger page, button and Asha's confirmation of Varun. The value shift lands cleanly.",
-    "romance_movement": "The new reason is her body's limit. She hands over the pack and lets him retie the hitch, so her need for help becomes physical.",
-    "shown_chemistry": "Palm held a breath too long, the retied hitch, the sattu joke. All responsive action and no narrated chemistry.",
-    "character_logic": "Meera trades evidence because a bound promise is too dangerous. Asha refusing the button and Rohan offering only true testimony both fit.",
-    "stakes_and_cost": "She gives away her own neck on a page. Two fingers are due a day after the Fair. Rohan carries the pack on unhealed ribs.",
-    "prose": "Mostly concrete and clean, but one garbled paragraph about the hiding. Asha lacks her bible voice: invented oaths, mercantile brashness.",
-    "continuity": "Internal contradictions: the sentries took her pack, yet she carries it. Nimmi took the seal last night but heard of it this morning."
+    "reader_question": "Kiran's interrupted confession leaves one sharp question: how will Rohan answer the truth Meera paid two fingers to keep from him?",
+    "change": "Meera goes from chained captive to free, with the seal, the button and Asha's testimony. Varun is exposed. Her fingers are sentenced.",
+    "romance_movement": "The pack handover is a new and physical form of reliance. Rohan's half-asked 'May I' gives his restraint a fresh reason.",
+    "shown_chemistry": "The taut cord, the deliberate gap between their hands, the retied double hitch and the sattu callback all show attraction in response to each other.",
+    "character_logic": "Asha's price is stated, then the trade blurs. The page and Rohan's testimony don't clearly buy her crew's safety or erase her name.",
+    "stakes_and_cost": "Two dead fingers on a two-day deadline and Kiran's confession cost a lot. The escape itself costs nothing: the sentries are already tied.",
+    "prose": "Concrete, quick and voiced. One image repeats from ch 27, and a few lines narrate feelings the action already shows.",
+    "continuity": "Consistent with F052, F222, F232, F244, F260, F385 and F396. Varun's 'pedlar' story to Asha reads as his own varying lie."
   },
   "fixes": [
-    "Continuity hole: 'the sentries, who had taken her pack and her knife' conflicts with her later carrying the pack. Add a line at the lockhouse where Lalit drags her pack and knife from the sentries' pile and hands them over. Also make 'The count's in my coat' read 'in my shirt' to match the opening.",
-    "Timing contradiction: 'He told me this morning that the lady' sits beside 'I took it out last night'. Change it to 'He told me at dusk' so the telling comes before the move. Make 'after the soldiers marked the door' read 'after the torches came down the lane', since doors were marked days ago.",
-    "Garbled paragraph: 'He had watched her hide it, in a way'. Replace it with one clear sentence: he faced the wall and counted to a hundred and sixty, and he kept his word not to ask where. Separately, give Asha one invented oath and a priced remark in the trade scene to restore her bible voice."
+    "At \"That's the bill. A name for a name.\" (character logic): the trade doesn't clearly meet Asha's stated price. Add one or two lines where Meera spells out what the page does for Asha. It proves Varun's trade from a source that isn't Asha's word, so her testimony against him becomes believable and her crew become witnesses rather than his knives. Asha should accept it as payment for that reason.",
+    "At \"Both sentries sat against the lockhouse wall\" (contrived delays): the escape happens offstage and costs nothing, so the beat's goal is free. Add one small, costed beat. For example, the red-moustached captain stirs in his chair. Or Meera must decide in seconds to leave the taken gear except her pack and knife. Keep it under 120 words so the knot clue still lands at the peak.",
+    "At \"the way she looked down a bed of the sick\": this repeats ch 27's Nimmi-looks-like-at-a-patient image (style guide, image repetition), so find a new comparison. Also cut \"and her whole body knew the difference and didn't know what to do with it\". It narrates what the light walk already shows. Replace it with one physical detail, such as her shoulder rising unasked."
   ],
-  "reader_question": "When Rohan hears Kiran was on Dilan's rope, will he arrest him, and how will he face Meera's lie and her two dead fingers?",
+  "reader_question": "What will Rohan do when Kiran tells him the truth Meera lied and lost two fingers to hide?",
   "techniques_landed": [
+    11,
     12,
     16
   ],
-  "new_facts_assessment": "All six are necessary and mostly consistent. Nimmi's move of the seal is needed but its timing contradicts itself. The count escaping the search is plausible, but it later moves from shirt to coat. The runner's bad left foot and the left-handed scrape are good, but technique 11 is weak because the clue is not marked at a peak. The pony, Varun's midnight exit and the amputation timing are all sound.",
+  "new_facts_assessment": "N1 is needed for the button reveal and fits F052 and F287. N2 fixes the amputation timing to match F260 and is necessary. N3 fits F385. Asha hearing 'a pedlar' while the file says quartermaster's tin works as Varun lying differently to different people. Keep it, but don't let ch 30 treat either source as settled truth.",
   "content_rule_violation": false,
-  "failure_modes": [],
-  "average": 3.5,
-  "minimum": 0.0,
-  "passed": false
+  "failure_modes": [
+    "Irrational behaviour to extend plot",
+    "Contrived delays"
+  ],
+  "average": 4.12,
+  "minimum": 3.0,
+  "passed": true
 }
