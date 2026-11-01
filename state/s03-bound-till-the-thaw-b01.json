@@ -291,7 +291,7 @@
       }
     },
     "10": {
-      "status": "passed",
+      "status": "edited",
       "revisions": 3,
       "scores": {
         "reader_question": 4.0,
@@ -307,18 +307,18 @@
       "flags": [
         "needs-owner"
       ],
-      "words": 3120,
+      "words": 3114,
       "minimum": 0.0,
       "style": {
-        "words": 2764,
+        "words": 3114,
         "banned_hits": {},
         "ai_tell_hits": {},
         "ai_tells_per_1000": 0.0,
-        "top_4gram": "the gully approach three",
+        "top_4gram": "were told where to",
         "top_4gram_count": 2,
-        "longest_paragraph_words": 130,
-        "em_dashes_per_1000": 1.09,
-        "reading_ease": 95.1
+        "longest_paragraph_words": 137,
+        "em_dashes_per_1000": 1.28,
+        "reading_ease": 95.6
       },
       "owner_instructions": [
         "Consistency with the chapter 1 Salt Fox change. Where: the parley with Asha and the evening questions. What to change: if Meera's narration veils that she is the Salt Fox in a way that hides a fact the reader should already own, replace the veiling with a plain line of dread. Otherwise make no change."
@@ -2030,9 +2030,13 @@
     {
       "at": "2026-11-01T20:56:46",
       "event": "done: S8 line edit ch 8"
+    },
+    {
+      "at": "2026-11-01T20:57:21",
+      "event": "done: S8 line edit ch 10"
     }
   ],
-  "updated_at": "2026-11-01T20:56:46",
+  "updated_at": "2026-11-01T20:57:21",
   "midpoint_chapter": 16,
   "continuity_attempts": 1,
   "continuity_last_errors": 1,
