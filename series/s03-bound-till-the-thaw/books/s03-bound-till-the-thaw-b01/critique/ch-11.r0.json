@@ -1,42 +1,39 @@
 {
   "scores": {
-    "reader_question": 4.0,
+    "reader_question": 5.0,
     "change": 4.0,
     "romance_movement": 4.0,
     "shown_chemistry": 4.0,
     "character_logic": 4.0,
-    "stakes_and_cost": 4.0,
-    "prose": 3.0,
-    "continuity": 0.0
+    "stakes_and_cost": 5.0,
+    "prose": 4.0,
+    "continuity": 5.0
   },
   "reasons": {
-    "reader_question": "A sharp, specific question: did his fevered eyes take in the warden knot and the open seam? The last line states it rather than leaving it.",
-    "change": "Knowledge (seal, coup, Asha's motive) and power (she holds and returns his life and mission) both shift clearly.",
-    "romance_movement": "A new reason: a declined chance to betray him. It ties directly to worksheet trust choice two and to her unrequited ch9 turn.",
-    "shown_chemistry": "Shown through care: the hand kept on his ribs, the copied knot, his eyelids sinking. He is mostly unconscious, so it stays one-sided.",
-    "character_logic": "She opens the seam because Asha said 'sewn in', distrusts her own convenient reason, and covers her tracks. Smart and consistent.",
-    "stakes_and_cost": "Refusing costs a pardon, Kiran's name and silver. Half a dose is spent from Ranu. Asha's deadline still looms.",
-    "prose": "Strong images (third party at the hearing), but the knot steps repeat three times. Runs of paragraphs open with 'She', and the choice section sags into monologue.",
-    "continuity": "Meera already knows his writ delivers her at the thaw and that he 'told her so'. Rohan doesn't know she's the Salt Fox; the writ reveal belongs to ch16."
+    "reader_question": "Rohan's slitted eyes on the knot, then his hand over the seam, leave a sharp, answerable question about what he saw.",
+    "change": "Meera now knows the seal and the coup, and hands back power she held outright; knowledge and power both shift.",
+    "romance_movement": "A new reason: she could sell him for everything she wants and doesn't. The motive leans on an off-page memory.",
+    "shown_chemistry": "Care is all action: juniper strips, the half-pinch, his fevered 'Meera', his hand guarding the seam. He is mostly insensate.",
+    "character_logic": "Copying his knot to hide her tampering is smart and in character. She tests her own 'good reason' and rejects it, which is shrewd.",
+    "stakes_and_cost": "The ledger prices both acts: Ranu one dose poorer, then pardon, Kiran's medicine and her own neck refused.",
+    "prose": "Concrete and well paced. It echoes ch10's 'Her mouth had gone dry', has some still/sat-still repetition and one muddled rope-logic line.",
+    "continuity": "Consistent with F097, F116 to F119, F150, F154, F162 and F328. The fever day-count reads oddly but is attributable to delirium."
   },
   "fixes": [
-    "'When the thaw came he meant to hand her to the queen with a writ...He had told her so himself': this breaks continuity by pre-empting the ch16 writ reveal, and Rohan can't know she's the Salt Fox. Replace it with what he has actually said: that he hunts the Salt Fox crew for Dilan's sake and will bring it in. Let her draw the inference herself ('and the Salt Fox was standing over him with his life in her pack').",
-    "'On one side: the crew, Kiran, the road...A woman who sold what she carried': this is endless monologue, a fourth pass over the same ledger. Cut the binary 'Which of them was she' question and the 'I do not know what this is' line. Move directly from the ch9 memory (the cut rope, the question about her mother) to 'Right,' said Meera. That trims about 120 words and lets the choice land as action.",
-    "'Then she looked at it, and shut the book, and did not know whether he had seen enough': the closing line restates the reader question as narration. End on a concrete beat instead. For example, she glances at his collar and finds his right hand has crept up to rest over the seam, or she simply writes the line and the stones hold their note. Also vary the consecutive 'She...' paragraph openings in the resewing scene."
+    "At 'Her hands would not close because of two nights ago': this is a near-contrived motive, because the decisive reason is a blanket memory first introduced here. Anchor the turn in ch10's on-page disclosure ('Then you should have part. I did not want to give it'): he paid to give her a piece of the truth. Keep the blanket as a second, shorter beat so the choice rests on something the reader saw.",
+    "At 'Twenty days from the post. Fifteen, now. Sixteen.': by F290 about twelve or thirteen days remain here, so readers may take these numbers as an author error. Make the fevered count plainly a count of days gone ('Seven gone. Eight.'), or use the true remainder, so delirium can't be mistaken for a continuity slip.",
+    "At 'Her mouth had gone dry.': this repeats a ch10 image verbatim within one chapter (repetition rule). Replace it with a character-specific beat, such as her thumb counting the goat's horn ridges. Also cut 'That was the trouble with a rope that took lies out of your mouth' to one plain line, since its logic is muddled. Change 'held the notice on the Kothi gatepost' to a tied object so it doesn't conflict with F054's nailed notice."
   ],
-  "reader_question": "Did Rohan, surfacing from fever, see enough of the open seam and the retied knot to understand that she held the seal and refused to sell him?",
+  "reader_question": "Did Rohan, half-conscious, see enough to understand that Meera found the seal and refused to sell it?",
   "techniques_landed": [
     14,
     16,
     18
   ],
-  "new_facts_assessment": "The seal description, knot mechanics and reef knot are necessary for C11 and consistent with F018 and F090's goat stamp. Four sticks for the pot is fine; the bundle should be recounted later (24 to 20). Two unlisted additions: the goat on Hemkot coins (harmless, so list it), and Pritam declaring 'the crown's heir unfit', which muddies F039's claim that the queen is dying. Rohan's fevered 'Fifteen, now. Sixteen' is acceptable as delirium but overstates the days left.",
+  "new_facts_assessment": "new-facts.json is empty, but the draft adds facts. It says the crew hung the juniper for luck and that the double hitch holds the gatepost notice, lanterns and noose peg; F054 says the notice is nailed, so this is a minor risk. It also adds Rohan asking about her mother two nights ago, Meera pulling a blanket over his rope hand, and her needle kept in her coat. All are harmless and should be listed.",
   "content_rule_violation": false,
-  "failure_modes": [
-    "Endless monologue",
-    "Contrived delays"
-  ],
-  "average": 3.38,
-  "minimum": 0.0,
-  "passed": false
+  "failure_modes": [],
+  "average": 4.38,
+  "minimum": 4.0,
+  "passed": true
 }

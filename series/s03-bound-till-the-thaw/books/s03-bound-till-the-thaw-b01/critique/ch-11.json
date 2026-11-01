@@ -1,41 +1,39 @@
 {
   "scores": {
-    "reader_question": 4.0,
+    "reader_question": 5.0,
     "change": 4.0,
     "romance_movement": 4.0,
-    "shown_chemistry": 3.0,
+    "shown_chemistry": 4.0,
     "character_logic": 4.0,
-    "stakes_and_cost": 4.0,
+    "stakes_and_cost": 5.0,
     "prose": 4.0,
     "continuity": 5.0
   },
   "reasons": {
-    "reader_question": "The ending lands the beat's question cleanly: his hand over the seam leaves open what he understood and what he will do.",
-    "change": "Meera now knows about the seal and the coup, and she has handed back the most power she will ever hold over him.",
-    "romance_movement": "The reason is new: a declined chance to betray him. Its root, the cut-rope night, is asserted rather than evoked.",
-    "shown_chemistry": "The care is shown well (poultices, the half-pinch, her hand on his ribs), but he is unconscious, so almost nothing passes between them.",
-    "character_logic": "She weighs the regent's grain, the hangings and the pardon like a ledger. The knot-as-concealment choice is smart and in character.",
-    "stakes_and_cost": "A real dose is taken from Ranu, and the pardon for Kiran and the crew is refused with full knowledge of what it buys.",
-    "prose": "Concrete and well paced. The 'stones in the wall... low note' echo appears twice, and a few lines are clotted.",
-    "continuity": "Seal, knot, redbark packets, Asha's prices, the juniper sprig and Pritam's plan all match. The delirious day count is excusable."
+    "reader_question": "Rohan's slitted eyes on the knot, then his hand over the seam, leave a sharp, answerable question about what he saw.",
+    "change": "Meera now knows the seal and the coup, and hands back power she held outright; knowledge and power both shift.",
+    "romance_movement": "A new reason: she could sell him for everything she wants and doesn't. The motive leans on an off-page memory.",
+    "shown_chemistry": "Care is all action: juniper strips, the half-pinch, his fevered 'Meera', his hand guarding the seam. He is mostly insensate.",
+    "character_logic": "Copying his knot to hide her tampering is smart and in character. She tests her own 'good reason' and rejects it, which is shrewd.",
+    "stakes_and_cost": "The ledger prices both acts: Ranu one dose poorer, then pardon, Kiran's medicine and her own neck refused.",
+    "prose": "Concrete and well paced. It echoes ch10's 'Her mouth had gone dry', has some still/sat-still repetition and one muddled rope-logic line.",
+    "continuity": "Consistent with F097, F116 to F119, F150, F154, F162 and F328. The fever day-count reads oddly but is attributable to delirium."
   },
   "fixes": [
-    "At \"Meera.\" She jerked. But his eyes were closed\": the delirium muddles the beat. He says her name, yet the text says he is talking to somebody else. Either have him say \"Dilan\" first, or let her register that he named her in fever. That one held moment would add shown chemistry while he is unconscious.",
-    "At \"he had lain awake with a cut rope in his fist\": the decisive reason is summarised (Narrated-only chemistry). Replace the abstract line \"it had cost her nothing the cold would count\" with one concrete remembered image from that night: the whipped black thread, his exact question about her mother, what her hands did. The turn should rest on a specific witnessed act.",
-    "At \"the stones in the wall made their low note and held it\": this exact image recurs at the chapter's close and echoes chapter 10 (Repetition). It also implies the stones respond to a knot, not a truth. Cut it from the knot-setting moment and keep it only after she writes \"Price: none.\" Also reconcile \"fast, so there would be no time to think\" with the slow, deliberate retying."
+    "At 'Her hands would not close because of two nights ago': this is a near-contrived motive, because the decisive reason is a blanket memory first introduced here. Anchor the turn in ch10's on-page disclosure ('Then you should have part. I did not want to give it'): he paid to give her a piece of the truth. Keep the blanket as a second, shorter beat so the choice rests on something the reader saw.",
+    "At 'Twenty days from the post. Fifteen, now. Sixteen.': by F290 about twelve or thirteen days remain here, so readers may take these numbers as an author error. Make the fevered count plainly a count of days gone ('Seven gone. Eight.'), or use the true remainder, so delirium can't be mistaken for a continuity slip.",
+    "At 'Her mouth had gone dry.': this repeats a ch10 image verbatim within one chapter (repetition rule). Replace it with a character-specific beat, such as her thumb counting the goat's horn ridges. Also cut 'That was the trouble with a rope that took lies out of your mouth' to one plain line, since its logic is muddled. Change 'held the notice on the Kothi gatepost' to a tied object so it doesn't conflict with F054's nailed notice."
   ],
-  "reader_question": "Did Rohan, half-conscious, see enough to understand that she found the seal and chose to give it back?",
+  "reader_question": "Did Rohan, half-conscious, see enough to understand that Meera found the seal and refused to sell it?",
   "techniques_landed": [
     14,
     16,
     18
   ],
-  "new_facts_assessment": "N11a (the goat on Hemkot's coins, cut finer on the seal) is necessary so Meera can recognise the seal unaided. It fits the goat-stamped writ case (F090) and conflicts with nothing.",
+  "new_facts_assessment": "new-facts.json is empty, but the draft adds facts. It says the crew hung the juniper for luck and that the double hitch holds the gatepost notice, lanterns and noose peg; F054 says the notice is nailed, so this is a minor risk. It also adds Rohan asking about her mother two nights ago, Meera pulling a blanket over his rope hand, and her needle kept in her coat. All are harmless and should be listed.",
   "content_rule_violation": false,
-  "failure_modes": [
-    "Narrated-only chemistry"
-  ],
-  "average": 4.0,
-  "minimum": 3.0,
+  "failure_modes": [],
+  "average": 4.38,
+  "minimum": 4.0,
   "passed": true
 }
