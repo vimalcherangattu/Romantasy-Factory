@@ -1,0 +1,41 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 5.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 4.0,
+    "stakes_and_cost": 4.0,
+    "prose": 4.0,
+    "continuity": 5.0
+  },
+  "reasons": {
+    "reader_question": "Rohan knows about the medicine and hasn't seized it, and now they're bound. What does he intend? Specific and sharp.",
+    "change": "The crew is dead, the approach is buried, command passes to Meera, and two enemies are bound with a first true disclosure.",
+    "romance_movement": "The new reasons are a life debt, a handed-over command and a free truth. The bond is forced, as the beat requires.",
+    "shown_chemistry": "Chemistry is shown in action: he closes the spacing, his thumb rests on her wrist, he steps in her print unasked, and he declines to check her hands.",
+    "character_logic": "Rohan breaking spacing is in character and gets corrected. Meera conceding the gully at odds she hates is slightly soft for the expert.",
+    "stakes_and_cost": "Jassi's death lands hard. Her silence costs her his plan, and her truth hands an enemy evidence.",
+    "prose": "Concrete and rhythmic overall. Explanatory interiority at the cairn peak and the ending's spatial muddle drag it down.",
+    "continuity": "Consistent with the bible, F066-F071 and F315-F319. Goats, ribs, bell and destinations all match."
+  },
+  "fixes": [
+    "'But a warden could not read cairn-song, and the stones' (Endless monologue/exposition at the peak): cut this paragraph to the hum dip plus one line of Meera glancing at her own pink fingertips. Then let Rohan pointedly not look at her hands. That carries the trust beat without restating the rulebook.",
+    "'He stepped past her onto the path, and set his boot' (spatial contradiction, ending): no footprint of hers lies ahead of her on the new line. Have Meera step onto the line first and Rohan follow, matching each print unasked. Cut 'then stopped, because the line was hers to lead'. End on her counting his steps behind hers.",
+    "'Silence was free. She had learned that at six winters old' (Endless monologue): before the knot is tied, every word is free, so the 'free' framing muddles the rule. Trim this paragraph and the one after it to two lines of action: her hands busy with the rope, the coin left unturned. Move the reasoning into what she does next."
+  ],
+  "reader_question": "Rohan knows Meera carries medicine and let it pass, so what does he mean to do with it now that the mountain has bound them until the thaw?",
+  "techniques_landed": [
+    5,
+    6,
+    19
+  ],
+  "new_facts_assessment": "The walnut-husk dye and the knot-song are harmless texture. 'Paid guides tie for the fee; the mountain can tell' creates a new rule: cairn-light strength varies with sincerity. The bible doesn't have this rule, and it risks convenient magic later. It needs an S2 ruling or should be cut. 'A warden cannot read cairn-song' is redundant with F320 and reads as rule-explaining.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Endless monologue"
+  ],
+  "average": 4.25,
+  "minimum": 4.0,
+  "passed": true
+}
