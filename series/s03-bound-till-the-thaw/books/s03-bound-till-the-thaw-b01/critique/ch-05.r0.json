@@ -7,35 +7,35 @@
     "character_logic": 3.0,
     "stakes_and_cost": 4.0,
     "prose": 3.0,
-    "continuity": 0.0
+    "continuity": 5.0
   },
   "reasons": {
-    "reader_question": "The ending is strong. Rohan's 'It's nothing' whitens his fingers under the cairn-light while Meera counts, and Kiran's ear quietly sharpens the Dilan thread.",
-    "change": "Rohan now holds evidence against her (206 crossings, written down). He has committed harbouring on purpose. Both have felt that the other's body is their own survival.",
-    "romance_movement": "The reasons are new. She says his body is hers to keep, and he answers 'mine to keep in turn.' He sits at her fire and returns half her ration. Trust moves without a recycled refusal.",
-    "shown_chemistry": "The chemistry comes through action: his palms turned up to the fire, half the cup handed back, his unasked listening, her hauling him in. A few lines still narrate ('surprised her more than anything').",
-    "character_logic": "Mostly sharp. Rohan's motive line ('three winters') undercuts his own answer, and the invented 'summer, then autumn' exchange makes him misquote her for no reason.",
-    "stakes_and_cost": "Each step has a price. Sitting at the fire is a hanging crime, the count is spoken evidence, the distance cold costs them both, and the rib lie sets up ch. 6.",
-    "prose": "The prose is clean and readable. It repeats images from ch. 4 ('like frost on a window', sky/eyes 'the colour of iron') and leans on 'X was free' several times. 'His eyes held hers' is a stock line.",
-    "continuity": "The memory 'ten winters back, when she and Kiran had been children' conflicts with the bible. Ten winters ago Meera was 19 and Kiran 14, and that was the winter their mother died."
+    "reader_question": "The gloved, whitening hand and the rising hum leave a sharp question: how big was the lie, and what will the climb cost.",
+    "change": "He commits harbouring with no cover story, makes his first lie on the rope, and she learns his hunt is personal grief.",
+    "romance_movement": "The new reason is mutual custody of each other's bodies, then a deliberate crime at her fire. Both follow the beat and are fresh.",
+    "shown_chemistry": "The returned half-ration, 'I am not laughing' at the ledgers, and the hauling scene are all responsive action. Little is narrated.",
+    "character_logic": "Rohan goes silent rather than lie. His first lie is weakly motivated, since he must know a lie exposes him as much as a refusal would.",
+    "stakes_and_cost": "Her question prices the answer (a day, the Fair), and the hauling scene makes the separation cost physical for both.",
+    "prose": "Mostly clean and concrete. Problems: an echo of 'nobody had written down', one muddled dread line, and a confusing closing sentence about the white.",
+    "continuity": "Consistent with the bible and earlier chapters. Provisional ch6 facts F087/F089 place the ribs lie at first light on the pitch; ch6 must adapt."
   },
   "fixes": [
-    "In 'ten winters back, when she and Kiran had been children playing at the end of a rope', there is a continuity error: Meera was 19 and Kiran 14 that winter, and children cannot be bound by play. Replace it with a real bound crossing before their mother's death. For example: 'the winter she was fifteen, on her first bound crossing with her mother, when she had gone back for a dropped mitten and her mother had screamed.' Update new-facts.json to match.",
-    "In 'I have not found a better reason in three winters, and I have looked', the motive contradicts itself (Irrational behaviour). Dilan died two winters ago, but Rohan has hunted the crew for three, so the stated reason postdates the hunt. Meera's flat 'Two winters' / 'Yes' leaves the reader wondering whether he lied with no cold to show for it. Make the gap the point. For example: 'I hunted the crew one winter because the law said so. I have hunted it two more for him.' Let Meera's correction become her noticing that the timing is precise.",
-    "Cut or rewrite 'You walked it in summer, you said, and then in autumn', and 'She had said no such thing.' Rohan misquoting her contradicts the next line, which says he listened and kept everything. It also raises the unanswered question of whether her 'turn of the year' claim was a lie. Have him quote something she actually said in ch. 4 (for example the rock band or the dry seam). In the same pass, replace the reused ch. 4 images ('like frost on a window' on his fingertips; eyes 'the colour of cold iron') with fresh ones."
+    "At \"'It's nothing,' he said.\" (Irrational behaviour): Rohan lies when a refusal costs the same exposure. Before he answers, have him reach for the glove and start working it on. That makes the lie a plan: he believes the wool will hide the white. Meera notices the hand move first. Keep 'Rohan did not seem to hear', so the hum, which is crew lore, surprises him and becomes dramatic irony instead of carelessness.",
+    "At \"She had seen the white pass the first joint\" (confusing image, undercuts the reader question): this states a size larger than a small lie, and the next clause about 'the gloved hand' tangles. Rewrite it so she saw the white take the nails and start down before the cuff closed, and cannot tell how far it went. That keeps the size truly uncertain for ch6 and makes her counting his breaths the only evidence she has left.",
+    "At \"The crew he hunted was hers. She heard\" (muddled interiority, over-signalled twist): she has always known he hunts her crew, so make the dread specific. A warden died chasing one of her smugglers. In the next paragraph, cut 'Kiran had come in with an ear that would not heal' down to a single ambiguous image, so S1 is planted without telegraphing. Also reword the dung-cache line 'no one had ever written it down' so it doesn't echo the hum paragraph."
   ],
-  "reader_question": "How big was Rohan's 'It's nothing' lie, and what will it cost him on the climb to the Long Saddle?",
+  "reader_question": "How big was Rohan's 'It's nothing' lie, and what will his hidden ribs and hands cost them on the night climb?",
   "techniques_landed": [
     1,
     4,
     10
   ],
-  "new_facts_assessment": "The dung-cake cache is necessary and consistent, and it is a nice unwritten-law texture. The count of 206 is necessary, plausible over ten winters, and makes the trade costly. The carving on the waystone's east face plants C06 correctly. The childhood rope memory conflicts with the timeline: at ten winters back they were not children. Binding also requires a cairn ritual, so 'playing at the end of a rope' needs a real bound pair. Two facts are unlogged and should be added. First, the waystone hums and rises in pitch at a lie, which extends F015 beyond the Shilak Cairn. Second, the 'first chronicle of the Shilak post' wording of the founding story.",
+  "new_facts_assessment": "N1 (stones hum near a bound pair and rise at a lie without naming the liar) is necessary and properly limited. It replaces F081's truth-detector use and keeps the fingertips as the real evidence. N2 is consistent with F080 and the ch1-4 timeline, and correctly retires F079. N3 (cut knuckles on the carving) is a fair, ambiguous clue for S3 and pairs well with F271. N4 is reasonable, but the page shows white past the first joint, which reads larger than 'small'; keep the size ambiguous. N5 is fine. Flag for the orchestrator: F087 and F089 (ch6) say the ribs lie happens 'at first light on the pitch above the waystone'. This chapter, following its beat, places it at dusk at the waystone fire. A small lie fades in an hour, so ch6 needs Rohan to repeat or extend the lie on the pitch before Meera takes the cold. Revise those provisional facts, not this chapter. Meera's flicker of suspicion about Kiran's ear is a legitimate plant for S1, but it risks over-signalling the ch22 reveal.",
   "content_rule_violation": false,
   "failure_modes": [
     "Irrational behaviour to extend plot"
   ],
-  "average": 3.25,
-  "minimum": 0.0,
-  "passed": false
+  "average": 3.88,
+  "minimum": 3.0,
+  "passed": true
 }
