@@ -46,7 +46,7 @@
       ]
     },
     "02": {
-      "status": "passed",
+      "status": "edited",
       "revisions": 1,
       "scores": {
         "reader_question": 4.0,
@@ -60,18 +60,18 @@
       },
       "average": 4.0,
       "flags": [],
-      "words": 2815,
+      "words": 2814,
       "minimum": 3.0,
       "style": {
-        "words": 2854,
+        "words": 2814,
         "banned_hits": {},
         "ai_tell_hits": {},
         "ai_tells_per_1000": 0.0,
-        "top_4gram": "as if she were",
+        "top_4gram": "his coat lay a",
         "top_4gram_count": 2,
-        "longest_paragraph_words": 111,
+        "longest_paragraph_words": 106,
         "em_dashes_per_1000": 0.0,
-        "reading_ease": 91.0
+        "reading_ease": 91.5
       },
       "owner_instructions": [
         "Button scene (Varun polishing his coat button, the narration after 'one of brass. Cheap, bright, wrong'). Problem: ch1 already says the token's shank 'had never been sewn to anything'. Ch2 then adds 'its shank still stiff' and the sentence 'A man who cared that much about buttons did not cut corners with lives.' That is three signals plus a dramatic-irony signpost, so readers name Varun as the middleman here and the ch16 deduction becomes confirmation. Change: cut 'its shank still stiff' and cut the 'A man who cared that much about buttons...' sentence entirely. Do not replace them with any other sentence that comments on Varun's character through the button.",
@@ -2194,9 +2194,13 @@
     {
       "at": "2026-11-01T21:42:31",
       "event": "done: book-level checks"
+    },
+    {
+      "at": "2026-11-01T21:43:03",
+      "event": "done: S8 line edit ch 2"
     }
   ],
-  "updated_at": "2026-11-01T21:42:31",
+  "updated_at": "2026-11-01T21:43:03",
   "midpoint_chapter": 16,
   "continuity_attempts": 0,
   "continuity_last_errors": null,
