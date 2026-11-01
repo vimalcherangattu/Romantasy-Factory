@@ -325,7 +325,7 @@
       ]
     },
     "11": {
-      "status": "passed",
+      "status": "edited",
       "revisions": 0,
       "scores": {
         "reader_question": 5.0,
@@ -339,17 +339,17 @@
       },
       "average": 4.38,
       "flags": [],
-      "words": 2632,
+      "words": 2607,
       "minimum": 4.0,
       "style": {
-        "words": 2505,
+        "words": 2607,
         "banned_hits": {},
         "ai_tell_hits": {},
         "ai_tells_per_1000": 0.0,
         "top_4gram": "the stub of lead",
         "top_4gram_count": 2,
-        "longest_paragraph_words": 89,
-        "em_dashes_per_1000": 1.2,
+        "longest_paragraph_words": 88,
+        "em_dashes_per_1000": 1.15,
         "reading_ease": 94.0
       },
       "owner_instructions": [
@@ -2034,9 +2034,13 @@
     {
       "at": "2026-11-01T20:57:21",
       "event": "done: S8 line edit ch 10"
+    },
+    {
+      "at": "2026-11-01T20:57:52",
+      "event": "done: S8 line edit ch 11"
     }
   ],
-  "updated_at": "2026-11-01T20:57:21",
+  "updated_at": "2026-11-01T20:57:52",
   "midpoint_chapter": 16,
   "continuity_attempts": 1,
   "continuity_last_errors": 1,
