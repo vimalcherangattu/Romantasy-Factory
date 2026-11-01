@@ -2,106 +2,211 @@
   "open_errors": [
     {
       "id": "E01",
-      "chapter": 11,
+      "chapter": 6,
       "severity": "minor",
       "category": "timeline",
-      "issue": "Meera recalls that Rohan asked about her mother 'the next night' after she turned her face to the wall. In ch 9 the question about her mother comes earlier that same night, before she sleeps and before the rope-end moment. The night after (ch 10) he only refuses questions about his coat.",
-      "fix": "Place his question about her mother earlier that same night.",
+      "issue": "Under the agreed day count (F290: the Fair is at dawn of day 20, and remaining days = 20 minus the day number, so eleven remain on day 9), the ribs lie at first light falls on day 4. Sixteen days remain then, not seventeen, and fifteen remain once that day is lost.",
+      "fix": "Change the dawn count to sixteen and the night count to fifteen.",
       "patches": [
         {
-          "chapter": 11,
-          "find": "And he had not paid her back in coin or thanks. He had asked the right question the next night, a plain one, about her mother.",
-          "replace": "And he had not asked for coin or thanks. Earlier that night he had asked the right question, a plain one, about her mother."
+          "chapter": 6,
+          "find": "She would take a day, perhaps two, and he had seventeen left and a regent counting them for him.",
+          "replace": "She would take a day, perhaps two, and he had sixteen left and a regent counting them for him."
+        },
+        {
+          "chapter": 6,
+          "find": "The day was gone. Sixteen of the twenty, then, and he had spent one on his own pride.",
+          "replace": "The day was gone. Fifteen of the twenty, then, and he had spent one on his own pride."
         }
       ]
     },
     {
       "id": "E02",
-      "chapter": 13,
+      "chapter": 3,
       "severity": "minor",
-      "category": "timeline",
-      "issue": "Rohan's Salt Fox question is called 'the same question as three nights ago'. He last asked it on the winter line in ch 4, the night they were bound, about seven nights earlier. Three nights before ch 13 (ch 9) he chose to ask about her mother instead.",
-      "fix": "Point back to the ch 4 asking.",
+      "category": "name",
+      "issue": "In ch 2 Rohan sends the other wardens back to the post, so only Varun crosses with him. In ch 3, on the gully, Rohan 'went to find his men', but he has no men there.",
+      "fix": "He goes to find his lieutenant.",
       "patches": [
         {
-          "chapter": 13,
-          "find": "It was the same question as three nights ago. He knew that, and so did she.",
-          "replace": "It was the same question he had asked on the winter line, the night they were bound. He knew that, and so did she."
+          "chapter": 3,
+          "find": "said Rohan, and went to find his men.",
+          "replace": "said Rohan, and went to find his lieutenant."
         }
       ]
     },
     {
       "id": "E03",
-      "chapter": 21,
+      "chapter": 14,
       "severity": "minor",
       "category": "timeline",
-      "issue": "On day 16 Rohan tells Kiran he has lived on Meera's mountain for 'twelve days'. Ch 20 already uses twelve days for day 12, and ch 23 has him say he has carried the rope fifteen days on day 17.",
-      "fix": "Replace the wrong count with a round figure that fits.",
+      "issue": "Asha's deadline, set on day 7 in ch 10, ran to dusk of the next day (day 8, ch 12). Lalit guides the hunters on the night of day 9, a full day past the deadline. Meera says Asha 'hasn't waited an hour past it'.",
+      "fix": "Change 'an hour' to 'a day'.",
       "patches": [
         {
-          "chapter": 21,
-          "find": "And I have lived on your sister's mountain for twelve days, and I have been fed, and mended, and written in a book,",
-          "replace": "And I have lived on your sister's mountain for half a month, and I have been fed, and mended, and written in a book,"
+          "chapter": 14,
+          "find": "She gave me the day and the next until the light went, and she hasn't waited an hour past it.",
+          "replace": "She gave me the day and the next until the light went, and she hasn't waited a day past it."
         }
       ]
     },
     {
       "id": "E04",
-      "chapter": 24,
+      "chapter": 17,
       "severity": "minor",
-      "category": "object",
-      "issue": "Rohan opens his seam with 'a knife she had not known he kept'. In ch 8 Meera watches him stir the sattu with his knife.",
-      "fix": "Make it the knife she has already seen.",
+      "category": "timeline",
+      "issue": "The Closing Law was written 60 winters before Book 1 and Rohan is 35. The law was therefore written about 25 winters before he was born, not 'sixty winters before he was born'.",
+      "fix": "Say the law was written sixty winters ago, long before he was born.",
       "patches": [
         {
-          "chapter": 24,
-          "find": "The seam gave to a knife she had not known he kept.",
-          "replace": "The seam gave to the small knife he had once stirred sattu with."
+          "chapter": 17,
+          "find": "He could have said the warden-judge, or the queen, or the Closing Law itself, written sixty winters before he was born.",
+          "replace": "He could have said the warden-judge, or the queen, or the Closing Law itself, written sixty winters ago, long before he was born."
         }
       ]
     },
     {
       "id": "E05",
-      "chapter": 25,
+      "chapter": 31,
       "severity": "minor",
-      "category": "object",
-      "issue": "Varun sees Meera in 'a stained pattu with a hole in the hem'. The brown pattu with the hole in the hem is the one Rohan has been wearing since ch 21, and the soldiers strip it off him in this same chapter. Ch 27 confirms the hole is in his borrowed pattu.",
-      "fix": "Drop the hole from Meera's pattu.",
+      "category": "timeline",
+      "issue": "Ch 17 says Varun held Rohan's horse 'when Rohan was newly captain' and calls them ten years friends. Ch 2 and ch 16 also say ten years. Ch 31 says Rohan held the post's seal as captain for twelve winters.",
+      "fix": "Make the seal tenure ten winters to match the ten-year captaincy.",
       "patches": [
         {
-          "chapter": 25,
-          "find": "He was looking at Jassi's second, a woman in a stained pattu with a hole in the hem, and nothing more.",
-          "replace": "He was looking at Jassi's second, a woman in a stained and frayed pattu, and nothing more."
+          "chapter": 31,
+          "find": "Rohan had held the only seal on that road for twelve winters.",
+          "replace": "Rohan had held the only seal on that road for ten winters."
         }
       ]
     },
     {
       "id": "E06",
-      "chapter": 28,
+      "chapter": 19,
       "severity": "minor",
-      "category": "object",
-      "issue": "The stitches over the brass button are said to have been sewn 'ten winters back, so that nobody would find what lay under them'. In ch 1 Meera stitches this button, the token from the latest drop, into the spine on the morning the wardens arrive.",
-      "fix": "Keep the binding ten winters old, but have the button stitched in on the ch 1 morning.",
+      "category": "knowledge",
+      "issue": "Rohan says he vowed to keep the law 'in the Teeth'. He made no such statement on the Goat's Teeth in ch 15. He defended the law in the Rope-Hut (ch 13 and 14).",
+      "fix": "Place the earlier statement in the Rope-Hut.",
       "patches": [
         {
-          "chapter": 28,
-          "find": "She had sewn them herself, ten winters back, so that nobody would find what lay under them unless he meant to take the book apart.",
-          "replace": "She had bound the book herself, ten winters back, and stitched the button under the binding the morning the wardens came, so that nobody would find it unless he meant to take the book apart."
+          "chapter": 19,
+          "find": "I said I would, in the Teeth. I said it at the grave.",
+          "replace": "I said I would, in the Rope-Hut. I said it at the grave."
         }
       ]
     },
     {
       "id": "E07",
-      "chapter": 30,
+      "chapter": 21,
       "severity": "minor",
-      "category": "timeline",
-      "issue": "The grey-bearded officer is said to have settled something 'in a lane the night before'. The torches at Ranu were on the night of day 18, the escape was at dawn of day 19, and the night walk was the night of day 19. The Fair is day 20, so the lane was two nights before.",
-      "fix": "Change to two nights before.",
+      "category": "magic",
+      "issue": "In ch 19 Rohan makes a bound promise: 'Until then I carry every bucket.' In ch 21, before the doors shut, the text reads as if Nimmi is the one carrying two buckets ('She set both buckets down'). Read literally, that breaks a bound promise with no great-lie cost. Later in the same scene Rohan picks the buckets up.",
+      "fix": "Make the buckets Rohan's from the start of the scene.",
       "patches": [
         {
-          "chapter": 30,
-          "find": "Then he stood beside it with his hands empty, as if he had settled something with himself in a lane the night before.",
-          "replace": "Then he stood beside it with his hands empty, as if he had settled something with himself in a lane two nights before."
+          "chapter": 21,
+          "find": "Nimmi caught him in the lane with a bucket in each hand and no patience.",
+          "replace": "Nimmi caught him in the lane, a bucket in each of his hands, and she had no patience."
+        },
+        {
+          "chapter": 21,
+          "find": "She set both buckets down on the frozen mud.",
+          "replace": "He set both buckets down on the frozen mud."
+        }
+      ]
+    },
+    {
+      "id": "E08",
+      "chapter": 22,
+      "severity": "minor",
+      "category": "magic",
+      "issue": "The book states that a lone crosser loses the path within the hour and the mountain takes them (ch 3). In ch 22, Dilan follows Kiran's tracks alone up to the waystone with no sign of the same failure. This makes a solo crossing look survivable.",
+      "fix": "Show that Dilan had lost the line too and was failing when they met.",
+      "patches": [
+        {
+          "chapter": 22,
+          "find": "There was a warden there. He'd been following my tracks.",
+          "replace": "There was a warden there. He'd been following my tracks, and he'd lost the line as fast as I had. His hands were as white as mine."
+        }
+      ]
+    },
+    {
+      "id": "E09",
+      "chapter": 23,
+      "severity": "minor",
+      "category": "knowledge",
+      "issue": "In ch 16 Rohan says he told only Varun and the queen that he carries the seal ('No one else alive'). His ch 23 letter to Ila says 'I carry what you know the name of', which implies Ila knows about the seal.",
+      "fix": "Make the letter withhold the object rather than assume Ila knows it.",
+      "patches": [
+        {
+          "chapter": 23,
+          "find": "I carry what you know the name of.",
+          "replace": "I carry a thing I will not name in a letter."
+        }
+      ]
+    },
+    {
+      "id": "E10",
+      "chapter": 31,
+      "severity": "minor",
+      "category": "injury",
+      "issue": "Meera loses her left ring and little fingers, leaving a thumb and two fingers. Ch 30 confirms 'three living fingers' on the left, counting the thumb. The made-to-measure glove in ch 31 is 'cut for a thumb and three fingers'. In ch 32 the same custom glove is said to have 'its empty stall'.",
+      "fix": "Cut the glove for a thumb and two fingers and drop the empty stall.",
+      "patches": [
+        {
+          "chapter": 31,
+          "find": "a left glove of felted wool, lined with lambskin, cut for a thumb and three fingers.",
+          "replace": "a left glove of felted wool, lined with lambskin, cut for a thumb and two fingers."
+        },
+        {
+          "chapter": 32,
+          "find": "One young man looked at her left glove, with its empty stall, and then at the sky.",
+          "replace": "One young man looked at her left glove, with its two missing stalls, and then at the sky."
+        }
+      ]
+    },
+    {
+      "id": "E11",
+      "chapter": 29,
+      "severity": "minor",
+      "category": "object",
+      "issue": "Meera wears Rohan's coat out of the lockhouse and on the salt road in ch 28 ('his borrowed coat'). The rope end, writ and tin are all in that coat. In ch 29 Rohan simply 'opened his coat' and finds the rope end, with no handback shown.",
+      "fix": "Note that Meera returned his coat at the halt.",
+      "patches": [
+        {
+          "chapter": 29,
+          "find": "Rohan opened his coat.",
+          "replace": "Meera had handed his coat back at the halt. Rohan opened it."
+        }
+      ]
+    },
+    {
+      "id": "E12",
+      "chapter": 29,
+      "severity": "minor",
+      "category": "object",
+      "issue": "Asha's crew is four people including Asha: Asha, Lalit and a second pair (ch 7 and ch 10). 'Asha and her four' makes five.",
+      "fix": "Change to 'Asha's four'.",
+      "patches": [
+        {
+          "chapter": 29,
+          "find": "He turned so that Asha and her four could see his face.",
+          "replace": "He turned so that Asha's four could see his face."
+        }
+      ]
+    },
+    {
+      "id": "E13",
+      "chapter": 32,
+      "severity": "minor",
+      "category": "place",
+      "issue": "The Shilak Cairn is half a day's climb above Kothi Shilak (ch 1: 'at the cairn by noon'; ch 31 shows it apart from the village). In ch 32 Meera walks about fifteen spans from the cairn and reaches 'the goat pen gate', which reads as the salt-house pen in the village.",
+      "fix": "Make it a herders' fold near the cairn.",
+      "patches": [
+        {
+          "chapter": 32,
+          "find": "She went on to the goat pen gate, and the creak of it told her she had gone far enough.",
+          "replace": "She went on to the herders' fold below the ring, and the creak of its gate told her she had gone far enough."
         }
       ]
     }
