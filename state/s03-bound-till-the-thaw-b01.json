@@ -915,7 +915,7 @@
       }
     },
     "30": {
-      "status": "passed",
+      "status": "edited",
       "revisions": 1,
       "scores": {
         "reader_question": 4.0,
@@ -929,18 +929,18 @@
       },
       "average": 4.38,
       "flags": [],
-      "words": 3275,
+      "words": 3272,
       "minimum": 4.0,
       "style": {
-        "words": 2829,
+        "words": 3272,
         "banned_hits": {},
         "ai_tell_hits": {},
         "ai_tells_per_1000": 0.0,
-        "top_4gram": "on the herald's book",
+        "top_4gram": "meera of kothi shilak",
         "top_4gram_count": 3,
-        "longest_paragraph_words": 112,
+        "longest_paragraph_words": 109,
         "em_dashes_per_1000": 0.0,
-        "reading_ease": 92.9
+        "reading_ease": 93.1
       },
       "owner_instructions": [
         "Where: 'We're twenty-nine and thirty-five, and I want to be very clear that I am not asking leave of anybody.' What's wrong: it reads like a compliance box. The ages are already on the page in chapters 1, 2 and 20, so the adults-only rule is met. What to change: cut the ages and keep the defiance, as in 'I'm not asking leave of anybody.'",
@@ -2058,9 +2058,13 @@
     {
       "at": "2026-11-01T21:00:43",
       "event": "done: S8 line edit ch 20"
+    },
+    {
+      "at": "2026-11-01T21:01:25",
+      "event": "done: S8 line edit ch 30"
     }
   ],
-  "updated_at": "2026-11-01T21:00:43",
+  "updated_at": "2026-11-01T21:01:25",
   "midpoint_chapter": 16,
   "continuity_attempts": 1,
   "continuity_last_errors": 1,
