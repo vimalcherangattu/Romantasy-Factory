@@ -576,7 +576,7 @@
       }
     },
     "19": {
-      "status": "passed",
+      "status": "edited",
       "revisions": 2,
       "scores": {
         "reader_question": 4.0,
@@ -590,21 +590,21 @@
       },
       "average": 4.0,
       "flags": [],
-      "words": 2868,
+      "words": 2865,
       "minimum": 3.0,
       "continuity_fixes": [
         "The countdown to the Snow Fair contradicts the events and the twenty-day frame. Chapter 6 gives seventeen days left at dawn of day 4, and chapter 29 has the Fair at the dawn of day twenty. Chapter 13 (day 9) says nine days are left. Chapter 19 (day 12) says four. Chapter 21 says three, and chapter 22 says two. Chapter 23 says the snow day forces them to push through to arrive on the Fair morning even if they leave the next dawn. Yet Varun delays them a further day, they walk a day and a night, and they still arrive while the investiture is under way. FIX: Make the Fair fall on day twenty throughout. Kiran sleeps two days, so ch21 opens on day 15. Restate the days left at each point. Ch21's one-day concession leaves one spare day, the snow takes it, and Varun's day forces the night push to reach the meadow."
       ],
       "style": {
-        "words": 3038,
+        "words": 2865,
         "banned_hits": {},
         "ai_tell_hits": {},
         "ai_tells_per_1000": 0.0,
-        "top_4gram": "the bell on the",
+        "top_4gram": "all of it the",
         "top_4gram_count": 2,
-        "longest_paragraph_words": 112,
-        "em_dashes_per_1000": 0.33,
-        "reading_ease": 95.5
+        "longest_paragraph_words": 102,
+        "em_dashes_per_1000": 0.35,
+        "reading_ease": 96.2
       },
       "owner_instructions": [
         "Consistency check for chapter 32's bell fix. Where: Sunni's burial. What to change: make sure the page shows Jassi's small kid bell going into Sunni's grave, in one clear concrete line naming whose bell it was. Chapter 32 relies on this. If it is already clear on the page, make no change."
@@ -2050,9 +2050,13 @@
     {
       "at": "2026-11-01T20:59:36",
       "event": "done: S8 line edit ch 16"
+    },
+    {
+      "at": "2026-11-01T21:00:08",
+      "event": "done: S8 line edit ch 19"
     }
   ],
-  "updated_at": "2026-11-01T20:59:36",
+  "updated_at": "2026-11-01T21:00:08",
   "midpoint_chapter": 16,
   "continuity_attempts": 1,
   "continuity_last_errors": 1,
