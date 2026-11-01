@@ -197,7 +197,7 @@
       }
     },
     "07": {
-      "status": "passed",
+      "status": "edited",
       "revisions": 0,
       "scores": {
         "reader_question": 4.0,
@@ -211,10 +211,10 @@
       },
       "average": 3.88,
       "flags": [],
-      "words": 3004,
+      "words": 2995,
       "minimum": 3.0,
       "style": {
-        "words": 2974,
+        "words": 2995,
         "banned_hits": {},
         "ai_tell_hits": {},
         "ai_tells_per_1000": 0.0,
@@ -222,7 +222,7 @@
         "top_4gram_count": 2,
         "longest_paragraph_words": 87,
         "em_dashes_per_1000": 0.0,
-        "reading_ease": 96.5
+        "reading_ease": 96.6
       },
       "owner_instructions": [
         "Consistency with the chapter 1 Salt Fox change. Where: the moment Rohan asks her not to show him anything he would have to report, before she shows him the crew ledge. What to change: if her narration coyly withholds why the ledge is dangerous for her personally, state it plainly in her head. It is her crew's ledge and she is the Salt Fox. Keep it to one line. Otherwise make no change."
@@ -2022,9 +2022,13 @@
     {
       "at": "2026-11-01T20:55:34",
       "event": "done: S8 line edit ch 5"
+    },
+    {
+      "at": "2026-11-01T20:56:09",
+      "event": "done: S8 line edit ch 7"
     }
   ],
-  "updated_at": "2026-11-01T20:55:34",
+  "updated_at": "2026-11-01T20:56:09",
   "midpoint_chapter": 16,
   "continuity_attempts": 1,
   "continuity_last_errors": 1,
