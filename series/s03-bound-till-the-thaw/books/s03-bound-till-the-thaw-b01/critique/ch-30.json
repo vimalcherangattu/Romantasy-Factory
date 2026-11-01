@@ -2,41 +2,40 @@
   "scores": {
     "reader_question": 4.0,
     "change": 5.0,
-    "romance_movement": 5.0,
-    "shown_chemistry": 4.0,
-    "character_logic": 3.0,
-    "stakes_and_cost": 3.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 5.0,
+    "character_logic": 4.0,
+    "stakes_and_cost": 4.0,
     "prose": 4.0,
-    "continuity": 0.0
+    "continuity": 5.0
   },
   "reasons": {
-    "reader_question": "The closing image of the writ in the coat after her public confession gives a sharp, specific question, though the bible has already half-signalled the answer.",
-    "change": "Pritam is revoked, Varun is exposed, Meera moves from outlaw to named witness, and the leads move from lovers to declared. Every axis shifts.",
-    "romance_movement": "The declaration is new and verified by the body. The 'Watch my hands' threat returns as devotion. Each lead self-incriminates publicly for the other's cause.",
-    "shown_chemistry": "The one long pull on the rope, his bare hands, her glove pulled off with her teeth and him stopping at the dead sleeve are all responsive, specific actions.",
-    "character_logic": "Forty soldiers fold after one unexplained sword belt, and Kunal's single 'Hold' neutralises Varun. The climax resolves by others' convenience.",
-    "stakes_and_cost": "Meera confesses to hanging crimes, but nobody on the page moves to hold her. The cost is deferred wholesale to the final writ image.",
-    "prose": "The prose is clean, concrete and well paced, with no banned phrases and few tells. 'Voice was still silk' and 'ten different ways' are soft spots.",
-    "continuity": "Ila's 'two hours late' contradicts locked S7 fact F308 ('eight days late'). All other details match: fingers, button, hanged boy, graves explained as 31+1."
+    "reader_question": "The question is specific and sharpened by the herald's entry, but it repeats the coat-and-writ glance that closed chapter 29.",
+    "change": "Pritam falls, Varun is exposed, Meera becomes a named defendant in the record, and both declare love. The shift is large and clean.",
+    "romance_movement": "Declarations are verified by the body, which is new. The closing silence over the writ replays chapter 29's last beat almost exactly.",
+    "shown_chemistry": "The long pull, him leaving Ila mid-word, bare hands and her dead glove removed beside his all show chemistry in action, with no narrated attraction.",
+    "character_logic": "Meera's confession and Rohan's speech are earned. The forty fold too fast, and Pritam calling the queen's line 'a stranger's hand' reads oddly.",
+    "stakes_and_cost": "Her confession costs her real legal exposure, now written down. The spice scene costs nothing by design, and the cost returns at the end.",
+    "prose": "Concrete and quotable in places. 'Did not move' and 'not move' are overused, the crowd chorus is stock, and 'silence was free' echoes chapter 29.",
+    "continuity": "206 carried, ten winters, two fingers, Ila's 'eight days', the button nick, the slate-cloaked Tej and the thirty-two graves all match canon and chapter 29."
   },
   "fixes": [
-    "Continuity, at \"You are two hours late and a belt-hole thinner\": this contradicts locked fact F308 ('eight days late'). Keep the surveyor's exactness but restore the locked figure, for example: \"You are eight days late and a belt-hole thinner.\" Ila is counting from the date he wrote he'd come before the snow. Alternatively, drop F353 from new facts and request an S7 ruling before keeping the change.",
-    "Character logic and stakes, at \"'Hold,' said the prince, quite softly\" and the officer's wavering spear: the climax folds by convenience, and Meera's confession costs nothing on the page. Have two soldiers actually take Meera's arms, with the herald entering her as held pending the queen's judgement. Only then does the officer lower the spear on the Ranu sacks and Tej's belt. Her hanging confession should visibly bite before it is set aside.",
-    "Clarity, at \"Your bell is on every sack in Ranu. Count them\": Pritam's grain threat decides the standoff, but Rohan's answer is too cryptic for readers to follow. Make the logic explicit in one line, using Pritam's own numbers: the crown's grain carries his store-bell, was hoarded, and was sold back to Ranu at famine price. Then let a hill-council man say he paid for a sack himself."
+    "Ending, 'and that silence was free.' This replays chapter 29's close (glance at the writ, silence is free), which is repetitive tension. Escalate instead with something only today could cause. For example, she remembers the herald's clerk saying a copy of the entry rides to Taravan at the thaw, so the writ and the record now point at the same day. Cut 'silence was free' and end on that new fact.",
+    "Pritam's collapse, from 'I paid,' said another voice. And another.' to 'The point went up, then down'. The forty fold on a stock crowd chorus, so the opposition is too easy. Cut the 'And another' chorus. Give the officer a named, concrete reason to lower the spear, such as his own family's bell-marked sack or Tej's look, so the yield is a choice and not a mood.",
+    "Repeated motif: 'Pritam did not move. Only his smile did', 'She saw Rohan not move' and 'I did not move'. Overusing the phrase dilutes the payoff at the wall. Keep 'I said I wouldn't move' and 'I did not move' for the wall scene. Rewrite the Pritam line as 'Pritam's smile went like ice on a river' and the other as 'She saw Rohan hold.'"
   ],
-  "reader_question": "Now that Meera has confessed to being the Salt Fox before the crown's record, will Rohan obey his writ and deliver her at the thaw?",
+  "reader_question": "Now that the crown's record names her the Salt Fox, will Rohan obey his writ and deliver her at the thaw?",
   "techniques_landed": [
     18,
     20,
     24
   ],
-  "new_facts_assessment": "Ila's 'two hours late and a belt-hole thinner' is charming and in voice, but it overwrites non-provisional F308. It needs an S7 ruling or reverting. Pritam's eleven hundred measures fit his numeric voice and F220's bell-marked sacks, but Rohan's rebuttal is too oblique to land. The long-pull rope signal is consistent with F128, necessary and well used.",
+  "new_facts_assessment": "F354 is consistent with the bible's grain-hoarding. F355 duplicates existing F355/F357 and is harmless. F356 matches the page. Two facts are unlogged: Asha produces a page torn from Meera's count, and the thirty-one/thirty-two grave reconciliation. Log both.",
   "content_rule_violation": false,
   "failure_modes": [
-    "Irrational behaviour to extend plot",
-    "Stakes without depth"
+    "Repetitive tension"
   ],
-  "average": 3.5,
-  "minimum": 0.0,
-  "passed": false
+  "average": 4.38,
+  "minimum": 4.0,
+  "passed": true
 }
