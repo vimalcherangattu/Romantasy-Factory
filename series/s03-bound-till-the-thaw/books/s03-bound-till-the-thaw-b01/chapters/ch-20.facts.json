@@ -1,20 +1,9 @@
 {
   "facts": [
     {
-      "category": "knowledge",
-      "fact": "The Shilak blockade order is written by the post commander and signed by the captain; Rohan signed it in the autumn before first snow, three winters running (ch 20)."
-    },
-    {
-      "category": "injury",
-      "fact": "Meera has an old burn-scar on her forearm; Rohan kisses it in ch 20."
-    },
-    {
       "category": "magic",
-      "fact": "When Meera begins to say a half-false claim aloud, her fingertips start to whiten; she stops before completing it, corrects herself, and the colour returns (ch 20)."
-    },
-    {
-      "category": "place",
-      "fact": "The ash handprint is on the lintel of Nimmi's storehouse door as well as the house (ch 20)."
+      "fact": "Revises F350. In ch 20 Meera starts a half-false claim, her first two fingertips whiten, and she corrects herself, but the white stays for the full hour as the rule requires. She tells Rohan her hands cannot vouch for anything she says in that hour, says 'I want you' anyway, and he takes it unverified on her word. The colour has returned by the time they lie afterwards.",
+      "since": "s03-bound-till-the-thaw-b01 ch 20"
     }
   ]
 }
