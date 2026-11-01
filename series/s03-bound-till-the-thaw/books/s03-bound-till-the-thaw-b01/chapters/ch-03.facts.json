@@ -1,29 +1,11 @@
 {
   "facts": [
     {
-      "category": "knowledge",
-      "fact": "At the Shilak Cairn Rohan asks 'And the medicine in your pack?', so Meera learns he knows she carries medicine (he found the redbark grain in ch 2). She reasons he has not seized it and cannot tell why, and answers with silence.",
-      "since": "s03-bound-till-the-thaw-b01 ch 3"
-    },
-    {
-      "category": "object",
-      "fact": "Meera moved the oilcloth roll of redbark from the fleece under the goat straps into the bottom of her own pack at the last halt before the avalanche.",
-      "since": "s03-bound-till-the-thaw-b01 ch 3"
-    },
-    {
-      "category": "knowledge",
-      "fact": "During the bowl crossing Rohan ignores Meera's thirty-pace spacing and closes to a few paces behind her, which is how he reaches her when the slope slides. Meera notices and resents it; she tells him afterward to stay behind her where she ordered.",
-      "since": "s03-bound-till-the-thaw-b01 ch 3"
-    },
-    {
-      "category": "knowledge",
-      "fact": "Rohan's post archive quotes the cairn rule only as 'One rope, one pair, until meltwater runs at this cairn.'",
-      "since": "s03-bound-till-the-thaw-b01 ch 3"
-    },
-    {
-      "category": "knowledge",
-      "fact": "Meera thinks plainly, in her own head, that she is the Salt Fox and that Rohan would hang her at the thaw if he connected the two. She says nothing aloud.",
-      "since": "s03-bound-till-the-thaw-b01 ch 3"
+      "id": "F387",
+      "category": "magic",
+      "fact": "When Meera tells Rohan a true thing at the Shilak Cairn ('Because my brother is dying there'), the stones' hum drops half a note, like a bowl's song when a wet finger leaves the rim. Extends F081 and F320.",
+      "since": "s03-bound-till-the-thaw-b01 ch 3",
+      "provisional": true
     }
   ]
 }
