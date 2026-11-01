@@ -1,39 +1,42 @@
 {
   "scores": {
-    "reader_question": 3.0,
+    "reader_question": 4.0,
     "change": 4.0,
-    "romance_movement": 5.0,
+    "romance_movement": 4.0,
     "shown_chemistry": 4.0,
     "character_logic": 4.0,
     "stakes_and_cost": 3.0,
-    "prose": 3.0,
+    "prose": 4.0,
     "continuity": 0.0
   },
   "reasons": {
-    "reader_question": "The thaw-and-writ question is restated in the last paragraph, not escalated. The relief ending answers more than it opens.",
-    "change": "They become lovers, she writes him into the count, and he names harbouring knowingly. The power and knowledge state is barely altered.",
-    "romance_movement": "The change has a new reason: a verified confession, plus the ledger entry 'Carried water, eleven trips'. The bond is chosen with eyes open.",
-    "shown_chemistry": "The goat fat warmed first and the careful learning of his ribs prove attention. Parts of the sex scene slide into summary ('She felt trusted').",
-    "character_logic": "The choices are smart and earned. Precise Rohan misstates the queen's reign and quotes a stale death count.",
-    "stakes_and_cost": "Harbouring and the writ are named, but nothing new tightens. The pass rule, Fair deadline and writ are only restated.",
-    "prose": "Clean of banned phrases. 'The way you...' similes recur, 'in the lamplight' appears four times, and some paragraphs open on the same word back to back.",
-    "continuity": "The queen 'signed pardons for sixty winters' (she has reigned 30). Rohan was 'struck white once for a promise', which never happened. Nimmi's count says 31, not 32."
+    "reader_question": "The badge gripped at the sight of Rohan's hands raises a sharp, specific question; the thaw-and-writ question is stated but held more softly.",
+    "change": "They become lovers by stated choice, Rohan enters the count beside the blockade line, and he names his harbouring knowingly.",
+    "romance_movement": "The reason is new: a confession he volunteers, verified by warm hands. The ledger entry turns it from forgiveness into an accounting.",
+    "shown_chemistry": "The goat-fat scene pays off a passing remark and is shown well; the asking-back about 'what' proves understanding.",
+    "character_logic": "Both act like smart versions of themselves; his refusal to promise fits the rope. A few contractions ('I'll tell you') blur his formal voice.",
+    "stakes_and_cost": "Harbouring is named, but the next decision's price is only stated. Nothing on the page tightens the writ or the thaw.",
+    "prose": "Clean, concrete and readable, with no banned phrases. The afterwards interiority explains what the silence already showed, and 'nothing but the brazier' is soft.",
+    "continuity": "The bible says small lie-cold lasts an hour and only time or the loophole cures it. Here the whitening ebbs within moments of a correction."
   },
   "fixes": [
-    "Continuity. Change 'a queen who has signed pardons for sixty winters' to 'thirty winters', since the law is sixty. Replace 'struck white once for a promise to a mountain' with 'already holding one promise to the mountain', the ch16 promise. Change 'Nimmi says thirty-one dead' to 'thirty-two now, with Sunni', matching his own ch19 count. Soften 'nobody had read it' to 'nobody had read it through', since F155 has him shown one page.",
-    "Spent callback. Meera's line 'Watch my hands, Rohan.' uses the book's reframing line, which is reserved for Rohan's ch30 declaration. That signposts the callback and weakens its payoff. Rephrase it to 'Look at my hands, Rohan. They're warm.' Keep Rohan's later 'Look first' from 'Look at them,' he said, and cut any echo of 'watch'.",
-    "Weak ending hook. 'for the length of one slow count' ends on relief plus a restated deadline. Interrupt the relief with a story-caused beat. For example, Kiran half-wakes, sees Rohan in the doorway and closes his fist on the badge under his pillow, and Meera sees it. This raises the S1 question before ch22 without answering it."
+    "At 'The white was ebbing from the tips as she watched' (Convenient magic, continuity break): keep her tips white for the hour as the rule demands. Let the cost bite. Her hands now cannot prove 'I want you', so she says it anyway with white fingers and he must trust it unverified. Or she offers her hand for him to take the cold, and he declines. Revise F350 to match.",
+    "At '*R., captain, Shilak post. Signed.*' (missed reinterpretation callback): the count already holds her Rope-Hut page 'Warden. The noose.', which she could not add to in ch19. Have her turn to that page, or carry the entry across to it, so the new line visibly answers the old one. Without this, the ledger beat ignores its own setup.",
+    "At 'A man already holding one promise to the mountain' (Endless monologue, factual slip): Rohan holds at least two bound promises, the ch16 vow and the ch19 bucket promise. Cut the explanatory sentences after 'this was one'. Let her register his silence through a single concrete detail, such as his thumb stopping on her knuckle, then go to 'Is this only the cold?'"
   ],
-  "reader_question": "Now that she has chosen him with his writ still naming her, will Rohan deliver the Salt Fox at the thaw, four days before the Fair?",
+  "reader_question": "Why does Kiran clutch the warden badge the moment he sees Rohan's hands, and what happens when the thaw brings Rohan's writ?",
   "techniques_landed": [
     9,
     10,
     14
   ],
-  "new_facts_assessment": "The storehouse, the ruled-off blockade line and the knuckle mention are necessary and consistent. Three unlisted facts: the forearm burn-scar (harmless), the queen's 'sixty winters' (conflicts with F038) and 'struck white for a promise' (no prior event). 'Nobody had read it' sits uneasily with F155, where she showed him a page.",
+  "new_facts_assessment": "Blockade signing order (F348): necessary, consistent and sets up the ch30 speech. Burn-scar (F349): harmless texture. Lie-cold reversing on self-correction (F350): conflicts with the bible's one-hour rule and the 'only time or loophole' clause, and weakens later stakes; reject it. Ash print on the storehouse lintel (F351): plausible but unexplained, since ch19 marked the goat shed and the house, not the storehouse; cut it or tie it to the shed.",
   "content_rule_violation": false,
-  "failure_modes": [],
-  "average": 3.25,
+  "failure_modes": [
+    "Convenient magic",
+    "Endless monologue"
+  ],
+  "average": 3.38,
   "minimum": 0.0,
   "passed": false
 }

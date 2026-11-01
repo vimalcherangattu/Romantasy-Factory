@@ -1,39 +1,42 @@
 {
   "scores": {
     "reader_question": 4.0,
-    "change": 5.0,
-    "romance_movement": 5.0,
-    "shown_chemistry": 5.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
     "character_logic": 4.0,
-    "stakes_and_cost": 4.0,
+    "stakes_and_cost": 3.0,
     "prose": 4.0,
-    "continuity": 5.0
+    "continuity": 0.0
   },
   "reasons": {
-    "reader_question": "Kiran's shuttered face and closed fist on the badge pose a sharp, specific question. The thaw and writ question stays secondary.",
-    "change": "They are now lovers by choice, Rohan is in her count, and harbouring is knowing. Kiran's survival flips the next chapter's terrain.",
-    "romance_movement": "The new reason is a verified blockade confession plus being written into her ledger. This is not a replayed refusal.",
-    "shown_chemistry": "Goat fat warmed first, the remembered knuckles and the rib-shaped rules. Desire is proven through responsive action, not narration.",
-    "character_logic": "Both act smartly. The 'partly a lie' moment bends the lie-cold rule, and 'back of that coat' contradicts her leading.",
-    "stakes_and_cost": "Harbouring is now knowing, the writ still stands and he withholds a promise. The cost is clear but no new decision is forced tonight.",
-    "prose": "Strong and specific, but a few stock beats: the held breath let go, 'closed like a shutter' and a summarising afterglow line.",
-    "continuity": "Counts, 206 carried, eleven trips, the badge dent and ages all match. No hard conflict found."
+    "reader_question": "The badge gripped at the sight of Rohan's hands raises a sharp, specific question; the thaw-and-writ question is stated but held more softly.",
+    "change": "They become lovers by stated choice, Rohan enters the count beside the blockade line, and he names his harbouring knowingly.",
+    "romance_movement": "The reason is new: a confession he volunteers, verified by warm hands. The ledger entry turns it from forgiveness into an accounting.",
+    "shown_chemistry": "The goat-fat scene pays off a passing remark and is shown well; the asking-back about 'what' proves understanding.",
+    "character_logic": "Both act like smart versions of themselves; his refusal to promise fits the rope. A few contractions ('I'll tell you') blur his formal voice.",
+    "stakes_and_cost": "Harbouring is named, but the next decision's price is only stated. Nothing on the page tightens the writ or the thaw.",
+    "prose": "Clean, concrete and readable, with no banned phrases. The afterwards interiority explains what the silence already showed, and 'nothing but the brazier' is soft.",
+    "continuity": "The bible says small lie-cold lasts an hour and only time or the loophole cures it. Here the whitening ebbs within moments of a correction."
   },
   "fixes": [
-    "At \"That's partly a lie. I'll start again.\": the world rule is quietly suspended (Rule That Bites Back). A believed-false statement to her bound partner should whiten her fingertips. Have her stop mid-sentence before completing the claim. Alternatively, show a faint whitening at the tips that he sees, which she then corrects aloud. Then let 'Look at my hands' land on hands that are warming back, not untouched.",
-    "At \"she found she was holding her breath, and let it go\": this is a near-variant of a banned cliché, and it echoes ch19's closing breath beat. Replace it with a concrete reaction tied to these two, such as her fingers curling around his thumb when he stops. Also rework \"Kiran's face closed like a shutter\" into a Kiran-specific tell, such as the joke dying on his mouth and his gaze going to Rohan's hands.",
-    "At \"looking at the back of that coat for twelve days\": this is a logic and continuity slip. Meera leads and ordered him behind her (ch17), and the day count is nearer fifteen. Change it to something she has actually watched, such as the coat across the hut fire every night since the Saddle. Avoid a day number, or use one that matches the timeline."
+    "At 'The white was ebbing from the tips as she watched' (Convenient magic, continuity break): keep her tips white for the hour as the rule demands. Let the cost bite. Her hands now cannot prove 'I want you', so she says it anyway with white fingers and he must trust it unverified. Or she offers her hand for him to take the cold, and he declines. Revise F350 to match.",
+    "At '*R., captain, Shilak post. Signed.*' (missed reinterpretation callback): the count already holds her Rope-Hut page 'Warden. The noose.', which she could not add to in ch19. Have her turn to that page, or carry the entry across to it, so the new line visibly answers the old one. Without this, the ledger beat ignores its own setup.",
+    "At 'A man already holding one promise to the mountain' (Endless monologue, factual slip): Rohan holds at least two bound promises, the ch16 vow and the ch19 bucket promise. Cut the explanatory sentences after 'this was one'. Let her register his silence through a single concrete detail, such as his thumb stopping on her knuckle, then go to 'Is this only the cold?'"
   ],
-  "reader_question": "What is Kiran hiding in his fist, and why does the sight of Rohan close his face like that?",
+  "reader_question": "Why does Kiran clutch the warden badge the moment he sees Rohan's hands, and what happens when the thaw brings Rohan's writ?",
   "techniques_landed": [
     9,
     10,
     14
   ],
-  "new_facts_assessment": "The draft listed no new facts but added several. First, Meera's forearm burn-scar: new, harmless, and should be logged. Second, a 'post commander' who writes the blockade order: this needs checking against Rohan's authority, since it shifts his culpability. Third, the order is signed 'in the autumn, before first snow': fine. Fourth, the ash handprint on the storehouse lintel: this implies the storehouse was marked, which fits since it is part of Nimmi's house. All are consistent so far but must be entered in new-facts.json.",
+  "new_facts_assessment": "Blockade signing order (F348): necessary, consistent and sets up the ch30 speech. Burn-scar (F349): harmless texture. Lie-cold reversing on self-correction (F350): conflicts with the bible's one-hour rule and the 'only time or loophole' clause, and weakens later stakes; reject it. Ash print on the storehouse lintel (F351): plausible but unexplained, since ch19 marked the goat shed and the house, not the storehouse; cut it or tie it to the shed.",
   "content_rule_violation": false,
-  "failure_modes": [],
-  "average": 4.5,
-  "minimum": 4.0,
-  "passed": true
+  "failure_modes": [
+    "Convenient magic",
+    "Endless monologue"
+  ],
+  "average": 3.38,
+  "minimum": 0.0,
+  "passed": false
 }
