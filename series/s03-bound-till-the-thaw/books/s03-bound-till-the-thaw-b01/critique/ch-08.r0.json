@@ -1,39 +1,39 @@
 {
   "scores": {
-    "reader_question": 4.0,
+    "reader_question": 5.0,
     "change": 4.0,
     "romance_movement": 4.0,
     "shown_chemistry": 4.0,
-    "character_logic": 3.0,
+    "character_logic": 4.0,
     "stakes_and_cost": 4.0,
-    "prose": 3.0,
-    "continuity": 0.0
+    "prose": 4.0,
+    "continuity": 5.0
   },
   "reasons": {
-    "reader_question": "The torches and the regent's horn turn chapter 7's 'who knew my road' into a sharper, bigger question about a leak reaching the Neshar side.",
-    "change": "Knowledge changes because the redbark is proven crown stock. The threat escalates from Asha's four to a regent's column. Their status changes as the shared fire makes both of them criminals.",
-    "romance_movement": "There is a new reason for change: harbouring is now mutual, and she accepts his care (pattu, shelf) for the first time. Her body-awareness is new, not a replayed refusal.",
-    "shown_chemistry": "Strong responsive action ('She slowed by a third and said nothing', the folded pattu, the shared broken laugh). The 'awake to him. Every inch of him' passage slides into narration.",
-    "character_logic": "Meera keeps exact ledgers, yet she says forty-one sticks at five a night is 'Nine nights. Maybe ten'. The sattu bet is also muddled: owing him sattu somehow becomes him cooking.",
-    "stakes_and_cost": "The fire carries the rope for both of them, the woodpile is finite, and the crown-grade reveal costs Meera her innocence about her supply line.",
-    "prose": "No banned phrases and the line-level detail is good. Tics weaken it: 'She had not meant to' three times, three consecutive 'She' paragraph openings in the redbark scene, 'forty winters of crossers' twice, and 'a warden's rope' when the rope is hers.",
-    "continuity": "POV breach: Meera's narration says Rohan carries 'a seal in his coat'. Per the bible and ch 7 she does not know what he carries (he declined to name it). She learns of the seal later."
+    "reader_question": "The torches and the horn, plus 'Nobody should have known which pass', set up one sharp question: who betrayed the route?",
+    "change": "Knowledge: the redbark is crown-stolen and the count is marked. Power: Meera now holds the torch secret overnight.",
+    "romance_movement": "The fire becomes a shared hanging crime by his choice. He gives her the shelf and pattu, and she tends his rope in the night. Both reasons are new.",
+    "shown_chemistry": "Chemistry comes through action: the count-and-climb, the mutual laugh, the bad sattu eaten whole, the eased rope. Narration rarely labels feeling.",
+    "character_logic": "Each choice is reasoned. Withholding the torches is defended by his rib sleep and the hunters' distance, and she owns the cost.",
+    "stakes_and_cost": "Forty-one sticks, harbouring named aloud, hours stolen from his anger at dawn. Each choice has a price.",
+    "prose": "Concrete and rhythmic, with quotable lines. Flaws: three consecutive 'She' paragraph openers, one awkward skin-colour line, and a slight head-hop in the haul.",
+    "continuity": "Consistent on sticks, ochre packs, the lazy woman's lift, ten winters of crates and the torch count. One sieve wording should be aligned."
   },
   "fixes": [
-    "'with a seal in his coat that a lordship' breaks POV: Meera does not know it is a seal (ch 7, Rohan 'declined'), and the sentence is garbled. Rewrite as: 'with the thing in his coat that the regent would pay a lordship for, and that she still could not name.'",
-    "'Nine nights. Maybe ten, if no one gets hungry.' is a character-logic failure: the woman who keeps the count would not miscount forty-one at five a night. Change it to 'Eight nights, and one stick over.' Clarify 'two days short of the next pile' so the woodpile ration is exact. It is the engine for the nightly stick-per-refused-question in ch 9.",
-    "In 'She did the redbark while the fire caught. / She did it every night. / She had not planned to.', three consecutive paragraphs open with 'She', and 'She had not meant to' recurs in the sattu and listening scenes. Vary the openings and cut two of the 'had not meant to' lines. Change the second 'forty winters of crossers' to a new image. Change 'a warden's rope across the floor' to 'her red rope running across the floor to his wrist'."
+    "At 'She turned and looked at him.' / 'She weighed one against the other' / 'She shut the door', three consecutive paragraphs open with 'She' (repetition rule). Recast two of them, for example 'One shake of his shoulder...' moved first, and 'Dawn, then.' opening the decision paragraph.",
+    "At 'Brown and warm in the light, her fingers stayed still', the skin-colour phrase reads as an inserted description and blurs the lie-test. Rewrite to tie it to the test: 'Her fingers stayed warm, their colour unchanged in the firelight. He studied them, and she let him.' Also clarify 'The cold would do the believing' so it is plain that her hands, not his word, are the proof.",
+    "At 'The crown storehouses sift through a silk sieve', this wording conflicts in spirit with F100/F141, which say 'guild stores' sieve'. Either say 'the crown's guild storehouses', or update the facts. Add 'There are forty more at the post' to new-facts.json so later chapters keep the warden count."
   ],
-  "reader_question": "Who on the inside told the regent's hunters which pass, and which man, to hunt?",
+  "reader_question": "Who told the regent's hunters there was a man to hunt, and which pass he would come down?",
   "techniques_landed": [
     9,
     11,
     23
   ],
-  "new_facts_assessment": "Juniper sprig, downhill door and the hour's descent are necessary and consistent with F029/F092. Asha's four casting east is plausible and needed. The lazy woman's lift is a good, established crew skill tied to Bindu, though the 'woman with no patience' who taught Meera at fourteen should be pinned as Bindu or Bindu's mother. The sieve-mark on the wax plants C07 cleanly and is compatible with the scraped crate stamp (F019). The horn call and torch line are necessary and fine. Unlisted addition: 'The stones did not ring' implies the hut's walls ring at lies, which F015/F081 establish only for cairns and the waystone. Either cut it or make it a jogini marker inside the hut and log it. Unlisted error: 'a warden's rope across the floor' misattributes Meera's red rope (F022).",
+  "new_facts_assessment": "The listed facts (five sticks a night, next pile two days on, unsalted mess sattu, the dawn decision, the count mark) are necessary and consistent; the arithmetic of 41 matches ch9's 36. Unlisted: 'forty more at the post' (warden strength) and 'crown storehouses' owning the sieve, where F100/F141 say guild stores. Log both and reconcile the sieve wording.",
   "content_rule_violation": false,
   "failure_modes": [],
-  "average": 3.25,
-  "minimum": 0.0,
-  "passed": false
+  "average": 4.25,
+  "minimum": 4.0,
+  "passed": true
 }
