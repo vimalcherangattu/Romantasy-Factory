@@ -2,41 +2,38 @@
   "scores": {
     "reader_question": 4.0,
     "change": 5.0,
-    "romance_movement": 5.0,
+    "romance_movement": 4.0,
     "shown_chemistry": 4.0,
-    "character_logic": 3.0,
-    "stakes_and_cost": 3.0,
-    "prose": 4.0,
-    "continuity": 0.0
+    "character_logic": 4.0,
+    "stakes_and_cost": 4.0,
+    "prose": 3.0,
+    "continuity": 5.0
   },
   "reasons": {
-    "reader_question": "The closing image of the writ in the coat after her public confession gives a sharp, specific question, though the bible has already half-signalled the answer.",
-    "change": "Pritam is revoked, Varun is exposed, Meera moves from outlaw to named witness, and the leads move from lovers to declared. Every axis shifts.",
-    "romance_movement": "The declaration is new and verified by the body. The 'Watch my hands' threat returns as devotion. Each lead self-incriminates publicly for the other's cause.",
-    "shown_chemistry": "The one long pull on the rope, his bare hands, her glove pulled off with her teeth and him stopping at the dead sleeve are all responsive, specific actions.",
-    "character_logic": "Forty soldiers fold after one unexplained sword belt, and Kunal's single 'Hold' neutralises Varun. The climax resolves by others' convenience.",
-    "stakes_and_cost": "Meera confesses to hanging crimes, but nobody on the page moves to hold her. The cost is deferred wholesale to the final writ image.",
-    "prose": "The prose is clean, concrete and well paced, with no banned phrases and few tells. 'Voice was still silk' and 'ten different ways' are soft spots.",
-    "continuity": "Ila's 'two hours late' contradicts locked S7 fact F308 ('eight days late'). All other details match: fingers, button, hanged boy, graves explained as 31+1."
+    "reader_question": "The writ case in the coat pocket and the 'not a promise' line set up a sharp thaw question, though Rohan's ch31 answer is already half-signalled.",
+    "change": "Pritam's claim is revoked, Varun is exposed and arrested, Meera is entered in the crown's record, and the leads' love is declared and verified.",
+    "romance_movement": "The declaration is new and verified by the body, and both make public self-incriminations. The love scene repeats a familiar intimacy pattern.",
+    "shown_chemistry": "Chemistry comes through action: he leaves Ila mid-word at one pull, holds still under the promise, and asks at the glove.",
+    "character_logic": "Meera's choice to confess fits her arc. The button comparison and the open door in a busy guest-house are logistically fuzzy.",
+    "stakes_and_cost": "Meera's confession puts her under the queen's judgement for real. Rohan publicly owns the graves. The cost is felt in the soldiers' grip.",
+    "prose": "The prose is mostly concrete and voiced. It slips in places: 'seconds' in a pre-clock world, a muddled ice simile, sentence-echo descriptions, and one 'the weight of'.",
+    "continuity": "Consistent with the bible and facts F240 to F404: thirty-two graves per ch29, 'eight days late', the dead fingers still attached before the amputation, and 206 carried."
   },
   "fixes": [
-    "Continuity, at \"You are two hours late and a belt-hole thinner\": this contradicts locked fact F308 ('eight days late'). Keep the surveyor's exactness but restore the locked figure, for example: \"You are eight days late and a belt-hole thinner.\" Ila is counting from the date he wrote he'd come before the snow. Alternatively, drop F353 from new facts and request an S7 ruling before keeping the change.",
-    "Character logic and stakes, at \"'Hold,' said the prince, quite softly\" and the officer's wavering spear: the climax folds by convenience, and Meera's confession costs nothing on the page. Have two soldiers actually take Meera's arms, with the herald entering her as held pending the queen's judgement. Only then does the officer lower the spear on the Ranu sacks and Tej's belt. Her hanging confession should visibly bite before it is set aside.",
-    "Clarity, at \"Your bell is on every sack in Ranu. Count them\": Pritam's grain threat decides the standoff, but Rohan's answer is too cryptic for readers to follow. Make the logic explicit in one line, using Pritam's own numbers: the crown's grain carries his store-bell, was hoarded, and was sold back to Ranu at famine price. Then let a hill-council man say he paid for a sack himself."
+    "At 'A clerk was sent down, unwilling and quick, and held the two close together', the second button is never taken from Varun's coat, and Asha's 'I'll want that button back' has no setup (logic gap). Add one beat before the clerk: Asha or a soldier cuts the brass button from Varun's coat with a knife and hands it down.",
+    "At \"'Pritam holds Neshar for us and not for himself.'\", the queen's line reads at first like an endorsement of Pritam, which muddies the seal's payoff (clarity). Add a half-line from the herald or Rohan making the meaning plain: Pritam holds Neshar in her name, so there is no investiture. Or reword the line itself to read as a revocation.",
+    "At 'She watched. Ten seconds. Twenty.', clock units are anachronistic in this world, which counts in breaths and heartbeats. Change this to breaths. Also replace 'Pritam's smile went like ice on a river' with a concrete image of the smile failing. Cut one of 'the full sentence' and 'like the rest of his sentences, whole', since they echo each other."
   ],
-  "reader_question": "Now that Meera has confessed to being the Salt Fox before the crown's record, will Rohan obey his writ and deliver her at the thaw?",
+  "reader_question": "With her confession now in the crown's record and his writ still ordering delivery at the thaw, will Rohan hand her over?",
   "techniques_landed": [
     18,
     20,
     24
   ],
-  "new_facts_assessment": "Ila's 'two hours late and a belt-hole thinner' is charming and in voice, but it overwrites non-provisional F308. It needs an S7 ruling or reverting. Pritam's eleven hundred measures fit his numeric voice and F220's bell-marked sacks, but Rohan's rebuttal is too oblique to land. The long-pull rope signal is consistent with F128, necessary and well used.",
+  "new_facts_assessment": "Chetu, the officer's sister and the torn count page are necessary and consistent. The thirty-two graves match ch29, though the beat said thirty-one. F256's filed nick goes beyond F396's pattern-only match, so plant it in ch28 or cut it. The love-scene facts are consistent.",
   "content_rule_violation": false,
-  "failure_modes": [
-    "Irrational behaviour to extend plot",
-    "Stakes without depth"
-  ],
-  "average": 3.5,
-  "minimum": 0.0,
-  "passed": false
+  "failure_modes": [],
+  "average": 4.12,
+  "minimum": 3.0,
+  "passed": true
 }

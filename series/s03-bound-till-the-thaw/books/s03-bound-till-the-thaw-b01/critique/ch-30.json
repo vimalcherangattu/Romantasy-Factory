@@ -3,39 +3,37 @@
     "reader_question": 4.0,
     "change": 5.0,
     "romance_movement": 4.0,
-    "shown_chemistry": 5.0,
+    "shown_chemistry": 4.0,
     "character_logic": 4.0,
     "stakes_and_cost": 4.0,
-    "prose": 4.0,
+    "prose": 3.0,
     "continuity": 5.0
   },
   "reasons": {
-    "reader_question": "The question is specific and sharpened by the herald's entry, but it repeats the coat-and-writ glance that closed chapter 29.",
-    "change": "Pritam falls, Varun is exposed, Meera becomes a named defendant in the record, and both declare love. The shift is large and clean.",
-    "romance_movement": "Declarations are verified by the body, which is new. The closing silence over the writ replays chapter 29's last beat almost exactly.",
-    "shown_chemistry": "The long pull, him leaving Ila mid-word, bare hands and her dead glove removed beside his all show chemistry in action, with no narrated attraction.",
-    "character_logic": "Meera's confession and Rohan's speech are earned. The forty fold too fast, and Pritam calling the queen's line 'a stranger's hand' reads oddly.",
-    "stakes_and_cost": "Her confession costs her real legal exposure, now written down. The spice scene costs nothing by design, and the cost returns at the end.",
-    "prose": "Concrete and quotable in places. 'Did not move' and 'not move' are overused, the crowd chorus is stock, and 'silence was free' echoes chapter 29.",
-    "continuity": "206 carried, ten winters, two fingers, Ila's 'eight days', the button nick, the slate-cloaked Tej and the thirty-two graves all match canon and chapter 29."
+    "reader_question": "The writ case in the coat pocket and the 'not a promise' line set up a sharp thaw question, though Rohan's ch31 answer is already half-signalled.",
+    "change": "Pritam's claim is revoked, Varun is exposed and arrested, Meera is entered in the crown's record, and the leads' love is declared and verified.",
+    "romance_movement": "The declaration is new and verified by the body, and both make public self-incriminations. The love scene repeats a familiar intimacy pattern.",
+    "shown_chemistry": "Chemistry comes through action: he leaves Ila mid-word at one pull, holds still under the promise, and asks at the glove.",
+    "character_logic": "Meera's choice to confess fits her arc. The button comparison and the open door in a busy guest-house are logistically fuzzy.",
+    "stakes_and_cost": "Meera's confession puts her under the queen's judgement for real. Rohan publicly owns the graves. The cost is felt in the soldiers' grip.",
+    "prose": "The prose is mostly concrete and voiced. It slips in places: 'seconds' in a pre-clock world, a muddled ice simile, sentence-echo descriptions, and one 'the weight of'.",
+    "continuity": "Consistent with the bible and facts F240 to F404: thirty-two graves per ch29, 'eight days late', the dead fingers still attached before the amputation, and 206 carried."
   },
   "fixes": [
-    "Ending, 'and that silence was free.' This replays chapter 29's close (glance at the writ, silence is free), which is repetitive tension. Escalate instead with something only today could cause. For example, she remembers the herald's clerk saying a copy of the entry rides to Taravan at the thaw, so the writ and the record now point at the same day. Cut 'silence was free' and end on that new fact.",
-    "Pritam's collapse, from 'I paid,' said another voice. And another.' to 'The point went up, then down'. The forty fold on a stock crowd chorus, so the opposition is too easy. Cut the 'And another' chorus. Give the officer a named, concrete reason to lower the spear, such as his own family's bell-marked sack or Tej's look, so the yield is a choice and not a mood.",
-    "Repeated motif: 'Pritam did not move. Only his smile did', 'She saw Rohan not move' and 'I did not move'. Overusing the phrase dilutes the payoff at the wall. Keep 'I said I wouldn't move' and 'I did not move' for the wall scene. Rewrite the Pritam line as 'Pritam's smile went like ice on a river' and the other as 'She saw Rohan hold.'"
+    "At 'A clerk was sent down, unwilling and quick, and held the two close together', the second button is never taken from Varun's coat, and Asha's 'I'll want that button back' has no setup (logic gap). Add one beat before the clerk: Asha or a soldier cuts the brass button from Varun's coat with a knife and hands it down.",
+    "At \"'Pritam holds Neshar for us and not for himself.'\", the queen's line reads at first like an endorsement of Pritam, which muddies the seal's payoff (clarity). Add a half-line from the herald or Rohan making the meaning plain: Pritam holds Neshar in her name, so there is no investiture. Or reword the line itself to read as a revocation.",
+    "At 'She watched. Ten seconds. Twenty.', clock units are anachronistic in this world, which counts in breaths and heartbeats. Change this to breaths. Also replace 'Pritam's smile went like ice on a river' with a concrete image of the smile failing. Cut one of 'the full sentence' and 'like the rest of his sentences, whole', since they echo each other."
   ],
-  "reader_question": "Now that the crown's record names her the Salt Fox, will Rohan obey his writ and deliver her at the thaw?",
+  "reader_question": "With her confession now in the crown's record and his writ still ordering delivery at the thaw, will Rohan hand her over?",
   "techniques_landed": [
     18,
     20,
     24
   ],
-  "new_facts_assessment": "F354 is consistent with the bible's grain-hoarding. F355 duplicates existing F355/F357 and is harmless. F356 matches the page. Two facts are unlogged: Asha produces a page torn from Meera's count, and the thirty-one/thirty-two grave reconciliation. Log both.",
+  "new_facts_assessment": "Chetu, the officer's sister and the torn count page are necessary and consistent. The thirty-two graves match ch29, though the beat said thirty-one. F256's filed nick goes beyond F396's pattern-only match, so plant it in ch28 or cut it. The love-scene facts are consistent.",
   "content_rule_violation": false,
-  "failure_modes": [
-    "Repetitive tension"
-  ],
-  "average": 4.38,
-  "minimum": 4.0,
+  "failure_modes": [],
+  "average": 4.12,
+  "minimum": 3.0,
   "passed": true
 }
