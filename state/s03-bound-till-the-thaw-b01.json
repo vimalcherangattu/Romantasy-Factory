@@ -899,7 +899,7 @@
       }
     },
     "31": {
-      "status": "passed",
+      "status": "edited",
       "revisions": 1,
       "scores": {
         "reader_question": 4.0,
@@ -913,8 +913,19 @@
       },
       "average": 4.12,
       "flags": [],
-      "words": 2387,
-      "minimum": 3.0
+      "words": 2394,
+      "minimum": 3.0,
+      "style": {
+        "words": 2394,
+        "banned_hits": {},
+        "ai_tell_hits": {},
+        "ai_tells_per_1000": 0.0,
+        "top_4gram": "he did not want",
+        "top_4gram_count": 2,
+        "longest_paragraph_words": 83,
+        "em_dashes_per_1000": 0.0,
+        "reading_ease": 91.7
+      }
     },
     "32": {
       "status": "passed",
@@ -1671,9 +1682,13 @@
     {
       "at": "2026-11-01T19:24:49",
       "event": "done: S8 line edit ch 30"
+    },
+    {
+      "at": "2026-11-01T19:25:18",
+      "event": "done: S8 line edit ch 31"
     }
   ],
-  "updated_at": "2026-11-01T19:24:49",
+  "updated_at": "2026-11-01T19:25:18",
   "midpoint_chapter": 16,
   "continuity_attempts": 1,
   "continuity_last_errors": 1
