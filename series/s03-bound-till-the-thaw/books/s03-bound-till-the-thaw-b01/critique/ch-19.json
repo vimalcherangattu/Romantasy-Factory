@@ -6,33 +6,38 @@
     "shown_chemistry": 4.0,
     "character_logic": 4.0,
     "stakes_and_cost": 4.0,
-    "prose": 4.0,
+    "prose": 3.0,
     "continuity": 0.0
   },
   "reasons": {
-    "reader_question": "The ash prints and 'cleansing' leave a sharp, ominous gap, and the eight-day and sixth-day clock is stated plainly.",
-    "change": "Knowledge shifts with the cleansing order and the general's ride. Relationship shifts when he confesses doubt. Meera commits to leaving Nimmi.",
-    "romance_movement": "The refusal reason is new: his certainty cracks in front of her, and she loses the comfort of hating him.",
-    "shown_chemistry": "The pattu strip, 'Move your arm', the arm closing round her and the haystack joke all land. Not narrated.",
-    "character_logic": "Nimmi's goat bluff is smart. The whispered confession under a search is risky, but Meera names that risk herself.",
-    "stakes_and_cost": "Leaving Nimmi alone behind a shut door is a real, written cost. The general's ride raises the threat to the village.",
-    "prose": "The prose is mostly concrete and strong. The graveside counterfactual tense is garbled, and the bell dialogue reads as exposition.",
-    "continuity": "'Two cups to a course' contradicts F162 (a course is six doses over three days). The sixth-day promise conflicts with F293/F194."
+    "reader_question": "The ash prints, 'cleansing', the general and the sixth-day door rule give the reader a sharp, nameable question.",
+    "change": "She loses the clean villain. He admits his certainty has cracked. The patrol sets a deadline that forces her to leave Nimmi.",
+    "romance_movement": "The reason is new: an honest confession given under threat replaces her old enmity. Disclosure plus his chosen care.",
+    "shown_chemistry": "The loft works through action: his good arm, her care for his ribs, warm hands as proof of truth, the haystack joke.",
+    "character_logic": "Stripping the grey pattu and choosing the loft are smart. Nimmi's bluff fits her. The captain's retreat is plausible.",
+    "stakes_and_cost": "Leaving twenty-three untreated with Nimmi alone is a real cost. The ending states it but sits in a static image.",
+    "prose": "Strong voice overall. 'Wide as a plate' appears three times, the 'sum' motif is overworked, and the post-loft turn is narrated.",
+    "continuity": "Rohan's intent ('Until then I carry every bucket') meets a quiet rope, which contradicts F149: sincere bound promises hum."
   },
   "fixes": [
-    "At 'Seventeen courses still running, two cups to a course', the dose arithmetic breaks continuity with F162. Courses begun on day 11 finish by day 14, long before the door shuts. Recast Nimmi's burden as twenty-three untreated sick nursed alone with no water-hauler behind a shut door. Write the count entry to match, e.g. 'Sixth day. Twenty-three, no course. Nimmi alone. I go.'",
-    "At 'I do not pull this rope toward the road one hour before it', the bound promise pre-empts ch21's concession and makes the day-17 departure plan (F293) a broken promise struck as a great lie. Cut the timing vow. Keep only 'Until then I carry every bucket', or make the line a stated intent with the rope silent. End on the ash print over Kiran's door.",
-    "At 'Before the Closing Law the wardens on Shilak kept the cairns', the counterfactual is garbled (past tense mixed with 'would have'). Rewrite it as 'Without the Closing Law, the Saddle would run all season with the regent's grain wagons...'. Also trim the bell exposition 'He wore this bell on a thong at his collar, the one Badami wore as a kid' to 'It was Jassi's. Put it in with her.'"
+    "At 'The rope lay quiet against her wrist' (continuity, F149), Rohan's 'Until then I carry every bucket' is a bound statement of intent, so the rope must hum low and level. Show the hum and let Meera register that he has made a contract with the mountain. Then either give 'I'll hold the adze' its own hum or recast it as plainly hypothetical ('I would hold the adze').",
+    "At 'she watched it until the sun moved off it' (weak ending, checklist item 5), the chapter closes on a static image. Before it, have Meera notice the cause behind the marks: the prints sit only on houses that took the regent's bell-marked grain, or a rider leaves split pitch-pine stacked at the lane's foot. Plant it, don't explain it. This sharpens 'cleansing' and makes the next chapter necessary.",
+    "At 'She had walked down the mountain with a single' (narrated turn, plus repetition), replace part of the summary with an action. She opens the count to the line where she wrote him as the noose and cannot add to it. Then cut two of the three 'wide as a plate' and 'width of a plate' uses, and one of the 'did the sum' / 'ran the sum' phrasings."
   ],
-  "reader_question": "What will the regent's 'cleansing' do to the marked houses, and can Meera and Rohan reach the Fair in time without abandoning Ranu to it?",
+  "reader_question": "What does the regent mean by 'cleansing' the marked houses, and can Ranu survive the six days before the doors shut?",
   "techniques_landed": [
     15,
-    16
+    16,
+    9,
+    10,
+    11
   ],
-  "new_facts_assessment": "The new-facts file is empty, but the draft adds two unlisted facts. First, a bound promise (rope hums) not to move toward the road before the sixth day, which conflicts with the ch21 day-17 plan (F293, F194). Second, a cup count that breaks the course rule (F162). Pasang, the shoulder bells, the pattu business and the door rule already match F174-F176, F279 and F292.",
+  "new_facts_assessment": "The draft lists no new facts but adds several. These are consistent: the patrol is twelve riders, Nimmi has healed thirty years, the general comes after the Fair (later recast by ch27), and Ranu has thirty-two graves (matches F157 plus Sunni). Rohan's 'twelve years' of belief is unlisted and should be logged. 'Twenty-three, no course' replaces F280's 'Thirty-four cups' wording, so F280 must be superseded. Day count and the sixth-day rule match F290 and F292.",
   "content_rule_violation": false,
-  "failure_modes": [],
-  "average": 3.5,
+  "failure_modes": [
+    "Contrived delays"
+  ],
+  "average": 3.38,
   "minimum": 0.0,
   "passed": false
 }
