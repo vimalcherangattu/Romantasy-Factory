@@ -6,34 +6,37 @@
     "shown_chemistry": 4.0,
     "character_logic": 3.0,
     "stakes_and_cost": 4.0,
-    "prose": 4.0,
-    "continuity": 5.0
+    "prose": 3.0,
+    "continuity": 0.0
   },
   "reasons": {
-    "reader_question": "Clear, specific and timed: can a one-armed man and his guide get down the Teeth before the storm wall and the hunters?",
-    "change": "She learns the law's origin and his secret mercy. Her hatred is openly retired. The hut is abandoned and the plan is fixed.",
-    "romance_movement": "Desire is acted on and refused for a new reason, the thaw delivery. His refusal to promise deepens it rather than replaying it.",
-    "shown_chemistry": "He refuses to lean in, the stubble rasps her glove, the 'Sleep' laugh lands, and he declines a promise to protect her hands.",
-    "character_logic": "Meera breaks her own one-question firewood rule for free. Rohan confirms he will deliver her before he knows she is the Salt Fox.",
-    "stakes_and_cost": "Real costs: a stick burned for silence, a day lost to the Teeth, a storm on an ice chimney. Extra questions cost nothing, though.",
-    "prose": "Concrete and well varied, with strong images. 'Bruise' appears three times, and a few lines tell where they could show ('different animal', 'fire's fault').",
-    "continuity": "Firewood, the bell, Puja's fine, the mother's death, the name usage and the grandfather clue are all consistent with the bible and earlier chapters."
+    "reader_question": "The storm wall, the Teeth and the hunters give a sharp survival question. Rohan's stillness at 'me' adds a second hook.",
+    "change": "She learns the law's origin and his secret mercy, names that the hate has ended, and commits to the Teeth.",
+    "romance_movement": "The refusal has a new reason, the thaw delivery rather than hatred. His 'not when it would cost you my hands' deepens the bond.",
+    "shown_chemistry": "His stillness, his closed eyes at her touch and the burned stick show desire through action. 'That was what undid her' tells instead.",
+    "character_logic": "Saying 'deliver me' to the Salt Fox's hunter is a near-confession. The text calls it deliberate but never gives her a motive.",
+    "stakes_and_cost": "The Teeth cost a day and the storm cost a kettle. The kiss refusal and the 'me' risk carry real emotional and legal cost.",
+    "prose": "The dialogue is strong, but several passages explain what the scene already shows ('different animal altogether', the 'inference' paragraph, 'fire's fault').",
+    "continuity": "'Last night' twice places ch13's writ line and hand-on-rope a night earlier, but ch14 continues the same night directly."
   },
   "fixes": [
-    "At 'But at the thaw you deliver me. It's in your writ.' the line pre-empts the ch16 midpoint, where the writ's content is revealed and Rohan learns she is the Salt Fox. Ground it in the Closing Law: every unlawful crosser goes to the post at the thaw. Change Rohan's 'because it is true' so his warm hands confirm only that he keeps the law, not that he knows she is his named quarry.",
-    "At 'That was the day's. This is the night's.' Meera breaks the firewood rule (one question each per night) at no cost, and Rohan then asks a second question free. This is a cost ledger waived. Have her lay a stick on the fire to buy the out-of-turn question, so the wood drops to eleven. Update the count in the last scene and in new-facts.json.",
-    "The 'bruise' image is repeated: 'colour of a bruise three days old', 'struck on a bruise' and 'bruise-yellow'. Keep only the second. Also replace 'A low fire in a small room did strange things to the distance' with a concrete action, such as who shifted on the hearth stones and why. Cut 'That was a different animal altogether.'"
+    "'And last night, with his hands warm in the firelight' and 'Last night he had held one an inch from hers': continuity break. Ch13's writ line and the hand on the rope happened earlier this same night, since ch14 opens on Lalit's voice. Change both to 'an hour ago' or 'tonight, before Lalit called'.",
+    "'Your turn,' she said, and her voice came out rough. 'Ask.': rule break. Rohan already spent his question tonight on the Salt Fox. Have Meera say the wet branch buys a round for both of them, or have Rohan lay a damp stick himself. That way his question is paid and the firewood ledger stays exact.",
+    "'Deliver me. She heard it hang in the air. It was an inference': overlong interiority with no motive. Cut the explanation and give one concrete reason she risks it, such as wanting him to choose with open eyes before the Teeth. Also cut 'He did not want thanks... different animal altogether' and 'It was the fire's fault' and let the actions carry those beats."
   ],
-  "reader_question": "Can they get down the Goat's Teeth before the storm wall and Lalit's hunters close on them?",
+  "reader_question": "Can Meera and Rohan get down the Goat's Teeth before the storm wall and the hunters close, and did he hear what her 'deliver me' gave away?",
   "techniques_landed": [
     10,
     15,
     25
   ],
-  "new_facts_assessment": "The Goat's Teeth is necessary and well tied to Jassi. 'Buried seven' is fine. The grandfather story plants C14 cleanly, but the father's detailed version needs reconciling with Ila knowing 'not how'. 'The first hanged man's curse' is unlisted.",
+  "new_facts_assessment": "new-facts.json is empty, but the draft adds facts: the Goat's Teeth geography, the grandfather's warden post 'before the post had a hall', seven buried wardens, Pritam's grain wagons, and wet deadfall burned to buy a question. All are consistent and useful. C14 lands as the bible requires. They must be logged.",
   "content_rule_violation": false,
-  "failure_modes": [],
-  "average": 4.0,
-  "minimum": 3.0,
-  "passed": true
+  "failure_modes": [
+    "Irrational behaviour to extend plot",
+    "Endless monologue"
+  ],
+  "average": 3.25,
+  "minimum": 0.0,
+  "passed": false
 }
