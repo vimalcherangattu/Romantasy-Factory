@@ -1992,12 +1992,20 @@
     {
       "at": "2026-11-01T20:35:13",
       "event": "done: S5 critique ch 32"
+    },
+    {
+      "at": "2026-11-01T20:40:41",
+      "event": "continuity round 1: 8 errors, 10 patches applied, 0 to revise"
+    },
+    {
+      "at": "2026-11-01T20:40:41",
+      "event": "done: S7 continuity"
     }
   ],
-  "updated_at": "2026-11-01T20:35:13",
+  "updated_at": "2026-11-01T20:40:41",
   "midpoint_chapter": 16,
-  "continuity_attempts": 0,
-  "continuity_last_errors": null,
+  "continuity_attempts": 1,
+  "continuity_last_errors": 1,
   "package": {
     "problems": [],
     "epubcheck": true,
