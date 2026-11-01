@@ -10,30 +10,31 @@
     "continuity": 0.0
   },
   "reasons": {
-    "reader_question": "A concrete double hook: a feverish man collapses mid-route, his coat is warm against her wrist, and the leak question is planted underneath.",
-    "change": "Asha moves from rival to named threat with a deadline. Meera learns of the leak. Rohan gives a first partial disclosure.",
-    "romance_movement": "The new reason is that he chooses to pay twice and then gives a part anyway. His deliberate 'Meera' and his trembling hands move the bond.",
-    "shown_chemistry": "Guess-banter, the 'bribe-sack' reply, her watching his hands, and the catch at the end all show chemistry without narrating it.",
-    "character_logic": "She hides the leak clue from Rohan with no reason on the page. She checks her fingers after lying to Asha, although lies to others are free.",
-    "stakes_and_cost": "Kiran's pardon set against Rohan's coat is a sharp personal price. The deadline and the hunters press, and the fever adds a cost.",
-    "prose": "Specific and voiced; Asha sparkles. A few muddled lines ('Rivals', 'before the rule') and a 'the weight of' tell.",
-    "continuity": "The firewood arithmetic conflicts with F105: five sticks already burning tonight means the bundle should read 26, not 31 to 30."
+    "reader_question": "The collapse mid-route-briefing, with the coat warm at her wrist, leaves a sharp question: can she save him, and will she search him?",
+    "change": "She gains the leak clue, a bounty on herself and 'the queen's will'. Power flips when the captain becomes a dead weight in her arms.",
+    "romance_movement": "There is a new reason for distance: she withholds the leak as leverage for Kiran. He gives a first partial disclosure and says her name on purpose.",
+    "shown_chemistry": "He lies back on her order, she reads his paused question, the dropped stick at her name and the catch. All of it is shown through action.",
+    "character_logic": "Asha's 'we're tied, I can't come nearer' misreads the bond. Meera repeats an identical question, breaking her own rule.",
+    "stakes_and_cost": "Kiran's pardon is priced against Rohan's coat, with a two-day deadline and the hunters below. Every choice now costs a loved name.",
+    "prose": "The prose is strong and specific. 'For three winters' appears four times, 'a long moment' twice, and 'She did not breathe' is stock.",
+    "continuity": "'Read out in the post room... with the guides present' conflicts with F294. No guide heard 'three', so Meera cannot know the plan said it."
   },
   "fixes": [
-    "Continuity, at 'thirty-one down to thirty, and put it on the coals beside the five': the night's five came from the bundle, so the count should read 31 → 26, then 25 and 24 after the refusals. Correct both numbers and update F110 to match. Alternatively, have her lay the refusal sticks before the night's five, and say so on the page.",
-    "Irrational behaviour, at 'except the one thing she had already put away': give one line of reason for withholding the leak. For example: the leak came from his own post, she cannot yet rule him out, and it is leverage for Kiran's name. Silence is free under the bond, so let her note that she is choosing it.",
-    "Muddled logic, at 'She had told no lie. She had not been asked for one': lies to Asha cost nothing, so a fingers check is out of character for Meera. Cut it and let the Kiran offer cause the shaking. Clarify 'I'm asking before the rule' as 'I'm asking early', and replace 'Fine, then. Rivals.' with a thought that plainly means matching his stubbornness."
+    "Continuity at 'read out in the post room the night before with the guides present'. This contradicts F294: no guide heard 'three', so Meera cannot know the plan said it. Rewrite her deduction. She knows only that two went in, so a watcher would say two and a Kothi gossip would say two. 'Three' is wrong in a way only a paper, not an eye, is wrong. Whoever told Asha read the party before it was cut. Keep the plan itself for ch16.",
+    "Worldbuilding collapse at 'We're tied, so I can't come nearer'. Asha's rope binds her to Lalit, not to the rock, and the pair can walk down together. Make her distance a choice that suits her character. For example: 'I'm not bringing my boy within reach of that axe, and I like the high ground.' Meera can also note the excuse is false, since Asha is pricing her.",
+    "Repetitive tension at 'Then I'm spending tomorrow night's question as well'. The same question is refused twice, so the second refusal tells us nothing. Make her second question narrower and new, such as 'Does the regent want you dead, or only the coat?' His refusal of that should frighten her differently. Also cut two of the four 'for three winters' in the parley."
   ],
-  "reader_question": "Can Meera keep a fevered Rohan alive with Asha's deadline running, and what will she find in his coat?",
+  "reader_question": "Can Meera keep the burning Rohan alive, and what will she find when she opens his coat?",
   "techniques_landed": [
     4,
     7,
     16
   ],
-  "new_facts_assessment": "F107 is necessary. But if Varun read the party aloud at the gate, anyone there heard it, so 'only the plan held those numbers' overclaims; make it a private reading. F108 to F112 are fine. Several facts are unlisted: the 200+100 silver bounty on Meera (who posted it?), the regent's 'queen's hand by midwinter', and Rohan's father.",
+  "new_facts_assessment": "new-facts.json is empty, yet the draft adds several facts. Asha knows Meera is the Salt Fox and puts a 200+100 silver price on her, which is unlisted and may clash with Varun not knowing (F228). The regent claims he will have the queen's hand by midwinter. A cairn stands above the hut. Asha's offer adds Shilak names to the pardon list. All must be listed. The Salt Fox knowledge needs an S2 ruling.",
   "content_rule_violation": false,
   "failure_modes": [
-    "Irrational behaviour to extend plot"
+    "Repetitive tension",
+    "Worldbuilding collapse"
   ],
   "average": 3.38,
   "minimum": 0.0,
