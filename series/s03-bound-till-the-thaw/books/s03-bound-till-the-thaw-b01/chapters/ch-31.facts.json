@@ -1,24 +1,14 @@
 {
   "facts": [
     {
-      "category": "magic",
-      "fact": "The Winter Crossing Law sets the bound rope at eight spans of the guide's own arm (what one guide can hold on a slide). The spirit limit stays twelve arm-spans (F008); Rohan says so, and Ila jokes that someone should measure the jogini's twelve. This supersedes F263's twelve for the law."
-    },
-    {
-      "category": "magic",
-      "fact": "Rohan's night promise 'I will stay' makes the rope hum low and level, felt by both of them (applies F149). His 'I do not mean to abuse the call' is stated as belief, not a vow, and the rope stays silent."
-    },
-    {
-      "category": "place",
-      "fact": "At the Garh Neshar gate Kiran, too weak for the road, stands silent in his blanket with a hand on his torn ear, and stays with Ila (sets up F272, F273)."
-    },
-    {
+      "id": "N1",
       "category": "knowledge",
-      "fact": "Hakam's cousin, the winter Meera was nineteen, is the first person in her count; the second is his wife."
+      "fact": "Held names not presented at the Shilak post by the thaw go to the assembly lockhouse; this is why Meera cannot wait out the thaw in Neshar and take summer roads."
     },
     {
-      "category": "place",
-      "fact": "A Neshar post stands on the road back toward Shilak; its guards pass the writ after one look at the seal."
+      "id": "N2",
+      "category": "object",
+      "fact": "Badami's big bell hangs on a peg by the stair in the Kothi Shilak salt house; Meera takes it down on returning, and sends Badami with Roop and Chand to Jassi's sister Leela's apricot orchard."
     }
   ]
 }
