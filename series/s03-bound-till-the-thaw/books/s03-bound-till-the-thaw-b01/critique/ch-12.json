@@ -4,38 +4,38 @@
     "change": 4.0,
     "romance_movement": 4.0,
     "shown_chemistry": 4.0,
-    "character_logic": 3.0,
+    "character_logic": 4.0,
     "stakes_and_cost": 3.0,
     "prose": 4.0,
     "continuity": 5.0
   },
   "reasons": {
-    "reader_question": "The knot and 'nobody writes down what we do for free' leave two specific gaps: Asha's purpose, and what the records omit.",
-    "change": "Asha withdraws and Meera holds the cairn-knot clue. Both leads' judgements of each other crack, and Ketan is entered in the count.",
-    "romance_movement": "This is the first two-way reversal of judgement, and the reason is new: price disclosure meets a truthful hanging confession with warm hands.",
-    "shown_chemistry": "The drag banter, her laugh he resents, the look she can't hold and the third loop shaded too dark carry it without narration.",
-    "character_logic": "Rohan's leap from 'you wrote them all down' to 'you charge the rich double' is unearned. A careful reader of files needs evidence.",
-    "stakes_and_cost": "The extra paces past the rope and the unknown food cost a little. Asha's deadline and the hunters stay vague, and the ending carries no pressure.",
-    "prose": "Clean, specific and funny, with no banned phrases or dashes. There are a few stock beats, and 'on his knees in the sun' repeats.",
-    "continuity": "This matches the stick count, the rope length, Asha's deadline, the cairn and waystone carvings, the two hangings and Rohan's habit of paying fines."
+    "reader_question": "The horn from Asha's line plus the knot sketch leaves a sharp question: is Asha working with the hunters, and what is her knot?",
+    "change": "Both learn something true. He learns the double price, she hears Ketan in his own voice, and Asha's camp is gone.",
+    "romance_movement": "This is the first two-way reversal of judgement, with new reasons: his file breaks, and she hears his worst deed with warm hands and counts it.",
+    "shown_chemistry": "The dragging banter, his sworn word, her laugh, and the look she can't hold all show attraction without narrating it.",
+    "character_logic": "Smart throughout. But a pace past the rope chills Rohan too, and she never weighs that cost for a fever-broken man.",
+    "stakes_and_cost": "Disclosure costs both of them, but the chapter sets up no hard next decision, and the warmth leak is costed only for her.",
+    "prose": "Specific and funny. The thumb-on-knuckle tic recurs three times, and the forgiveness paragraph goes abstract and murky.",
+    "continuity": "Consistent with F101, F108, F113/F118, F126 and F078. The stick line is ambiguous but does not conflict."
   },
   "fixes": [
-    "'No one. I am guessing from a sum.' This is an irrational leap: knowing she logs 206 people doesn't imply double pricing. Give Rohan a concrete anomaly from the file instead. For example, a seized Taravan factor's receipt showed twice the Kothi rate, while a widow's crossing the same week left no payment record. Then he can ask from evidence.",
-    "'She got up to see to the fire.' The ending neither interrupts an action nor reveals anything (chapter checklist item 5). After the exchange, add a short beat caused by the story. For example, the hunters' two-note horn sounds from where Asha's crew went down. Or Rohan asks what else the file has missed and looks at the knot drawing. Keep the slack-rope image.",
-    "'palms up, the fingers curled a little' repeats 'on his knees in the sun' from two paragraphs earlier. Cut the echo. Also rework the stock beats 'Meera stopped breathing for a moment' and 'The back of her neck had gone cold' into a concrete action, such as her thumb tracing the tuck. Fix 'the rock rib... with the hut's roof under it', which muddles where the camp sits."
+    "At 'Three trips, three paces past the line', the separation rule chills both partners, yet only Meera pays. This weakens the stakes and the world rule. Have her glance back after the second trip and see Rohan grey and shivering in the doorway. Make her choose to cut the fourth trip short, or press on knowing he pays. That is how the bundle on the fourth trip gets its price.",
+    "At 'stood on the right side of a rope and let a boy go through', the image is murky (he hanged the boy) and the paragraph turns into abstract rumination. Cut 'She wanted that clear to herself.' Replace the rope image with a concrete line, for example: 'a man who heard a boy ask him to carry the salt and said no.' Keep 'It was a debt' and the unclosed page.",
+    "At 'Twenty-four dry sticks of juniper, and a fever that had eaten four', the count is ambiguous against F113/F118 (24 before the fever, 20 after). Write: 'Twenty dry sticks left, after the fever ate four.' Also cut one of Rohan's two thumb-on-knuckle beats; keep the second, which he 'did not seem to know'."
   ],
-  "reader_question": "Why did Asha leave food tied in the knot carved on the cairn, and if the warden file is wrong about Meera, what else does it get wrong?",
+  "reader_question": "Did Asha's crew lead the regent's hunters to the hut, and why does her knot match the old cairn carving?",
   "techniques_landed": [
     10,
     11,
     23
   ],
-  "new_facts_assessment": "F125 (bundle, eaten goat) and F126 (Ketan) are necessary and consistent, and they plant S7 and pay off misunderstanding 4. The continuity file still holds the superseded F121 (says she doesn't eat) and F123 ('high village', 'lean-to'). Retire both so they don't conflict.",
+  "new_facts_assessment": "F335 is necessary and gives Rohan a fair basis for his inference. 'Twice the Kothi rate' is unclear when Meera is herself the Kothi crew, so word it as 'twice the crew's usual rate'. F336 is valid bookkeeping and matches F101. One fact is missing from the list: 'I have commanded forty men' should be logged.",
   "content_rule_violation": false,
   "failure_modes": [
-    "Irrational behaviour to extend plot"
+    "Stakes without depth"
   ],
-  "average": 3.88,
+  "average": 4.0,
   "minimum": 3.0,
   "passed": true
 }

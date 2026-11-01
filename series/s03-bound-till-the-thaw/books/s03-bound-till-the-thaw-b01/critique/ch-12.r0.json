@@ -4,39 +4,38 @@
     "change": 4.0,
     "romance_movement": 4.0,
     "shown_chemistry": 4.0,
-    "character_logic": 3.0,
+    "character_logic": 4.0,
     "stakes_and_cost": 3.0,
-    "prose": 3.0,
-    "continuity": 0.0
+    "prose": 4.0,
+    "continuity": 5.0
   },
   "reasons": {
-    "reader_question": "Two live questions come out of it: what the knot means, and where Asha went. The beat's question about the records lands through the final exchange.",
-    "change": "Both judgements move. He can't fit her into the file, and she logs Ketan in his own words, the first time she has recorded a warden's act this way.",
-    "romance_movement": "There is a new reason: mutual disclosure in which each one's worst picture of the other is tested. The warm hands verify him. This is not a replayed refusal.",
-    "shown_chemistry": "The dragging banter ('I wish it noted that I thought of it') and her watching his hands carry the chemistry. Narration doesn't have to.",
-    "character_logic": "She thinks Asha ties 'everything that way, out of habit', which she can't know. The rope 'drew tight at six spans' on an eight-span rope.",
-    "stakes_and_cost": "The disclosures cost little in the moment. Asha's withdrawal and the hunters get dropped. The quiet ending forces no next decision.",
-    "prose": "There is a strong comic opening. A tic repeats: six 'a man who…/the way a man…' similes. 'One habit among his many' is filler.",
-    "continuity": "Several conflicts. Heat loss starts at seven spans, inside the rope (F009). Ketan as a hill boy contradicts 'two lowland smugglers' (F033). Meera eats the goat, but new-facts says she doesn't."
+    "reader_question": "The horn from Asha's line plus the knot sketch leaves a sharp question: is Asha working with the hunters, and what is her knot?",
+    "change": "Both learn something true. He learns the double price, she hears Ketan in his own voice, and Asha's camp is gone.",
+    "romance_movement": "This is the first two-way reversal of judgement, with new reasons: his file breaks, and she hears his worst deed with warm hands and counts it.",
+    "shown_chemistry": "The dragging banter, his sworn word, her laugh, and the look she can't hold all show attraction without narrating it.",
+    "character_logic": "Smart throughout. But a pace past the rope chills Rohan too, and she never weighs that cost for a fever-broken man.",
+    "stakes_and_cost": "Disclosure costs both of them, but the chapter sets up no hard next decision, and the warmth leak is costed only for her.",
+    "prose": "Specific and funny. The thumb-on-knuckle tic recurs three times, and the forgiveness paragraph goes abstract and murky.",
+    "continuity": "Consistent with F101, F108, F113/F118, F126 and F078. The stick line is ambiguous but does not conflict."
   },
   "fixes": [
-    "Continuity, rope distance. 'At six spans the line drew tight. At seven the warmth began to go': heat loss starts only beyond the rope's length (F009). Make the line draw tight at eight spans and have the leak begin with her first step past it. Check also 'a day and a night of mine still owing' against F109, where only today remains, until the light goes.",
-    "Continuity, the hangings. 'up the south ridge to his mother in the high village' clashes with F033's two lowland smugglers. Make Ketan a lowland boy, from the Taravan road, carrying salt to a mother who married into Neshar. Then fix 'I paid the widow's fine for the lean-to': either name it as Ketan's mother's own fine and drop 'lean-to', or cut it so it doesn't reuse Puja's case. Align new-facts F121 with Meera eating the goat.",
-    "Over-signposted clue (Twists without setup, in reverse). 'Somebody who tied everything that way, probably, out of habit' gives Meera knowledge she lacks and explains the clue away. Cut that sentence and 'She could see how Asha might…'. Keep only the cairn match and her unease. In the hanging scene, replace two of the 'the way a man…' similes with concrete action."
+    "At 'Three trips, three paces past the line', the separation rule chills both partners, yet only Meera pays. This weakens the stakes and the world rule. Have her glance back after the second trip and see Rohan grey and shivering in the doorway. Make her choose to cut the fourth trip short, or press on knowing he pays. That is how the bundle on the fourth trip gets its price.",
+    "At 'stood on the right side of a rope and let a boy go through', the image is murky (he hanged the boy) and the paragraph turns into abstract rumination. Cut 'She wanted that clear to herself.' Replace the rope image with a concrete line, for example: 'a man who heard a boy ask him to carry the salt and said no.' Keep 'It was a debt' and the unclosed page.",
+    "At 'Twenty-four dry sticks of juniper, and a fever that had eaten four', the count is ambiguous against F113/F118 (24 before the fever, 20 after). Write: 'Twenty dry sticks left, after the fever ate four.' Also cut one of Rohan's two thumb-on-knuckle beats; keep the second, which he 'did not seem to know'."
   ],
-  "reader_question": "If the warden file is this wrong about Meera, what else is the crown's record wrong about, and why is a smuggler's family knot carved on the cairn?",
+  "reader_question": "Did Asha's crew lead the regent's hunters to the hut, and why does her knot match the old cairn carving?",
   "techniques_landed": [
     10,
     11,
     23
   ],
-  "new_facts_assessment": "Several facts are necessary and consistent: the juniper deadfall, the second redbark half-pinch, and the file read eleven times. The cache is consistent, but the facts file says Meera doesn't eat it, and the text has her eat the goat. Ketan conflicts with 'lowland' in F033. The 'widow's fine for the lean-to' blurs into Widow Puja (F061) and needs separating. 'Forty men' is harmless.",
+  "new_facts_assessment": "F335 is necessary and gives Rohan a fair basis for his inference. 'Twice the Kothi rate' is unclear when Meera is herself the Kothi crew, so word it as 'twice the crew's usual rate'. F336 is valid bookkeeping and matches F101. One fact is missing from the list: 'I have commanded forty men' should be logged.",
   "content_rule_violation": false,
   "failure_modes": [
-    "Twists without setup",
     "Stakes without depth"
   ],
-  "average": 3.12,
-  "minimum": 0.0,
-  "passed": false
+  "average": 4.0,
+  "minimum": 3.0,
+  "passed": true
 }
