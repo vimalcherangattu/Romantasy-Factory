@@ -1,0 +1,42 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 3.0,
+    "stakes_and_cost": 4.0,
+    "prose": 4.0,
+    "continuity": 0.0
+  },
+  "reasons": {
+    "reader_question": "Clear and urgent: will the fever kill him, and will she open the coat she now holds against her wrist?",
+    "change": "Asha becomes a named threat with a deadline, the leak is traced to a written plan, and Rohan gives his first partial disclosure.",
+    "romance_movement": "There is a new reason for refusal: he protects her crew from the weight. His deliberate 'Meera' and 'the queen's will' move the bond forward.",
+    "shown_chemistry": "Shown through checking fingertips, his lying back on her order, his trembling hands and her catch. Very little is narrated.",
+    "character_logic": "An expert in lie-cold says 'That's all of it' while withholding. Precise Rohan lets 'three ward—' pass without a word.",
+    "stakes_and_cost": "Kiran's pardon is one word away, the deadline is fixed, and two sticks are burned. His silence about 'dead or only the coat' lands hard.",
+    "prose": "Concrete and well varied. A few glitches remain: the garbled 'her hand to hand', 'as at the edge of a well', and one muddled passage about the wind.",
+    "continuity": "Meera's 'That's all of it' is a lie to her bound partner with no lie-cold. The rule is never suspended."
+  },
+  "fixes": [
+    "At '\"And a deadline,\" she said. \"That's all of it.\"' the world rule is suspended: this is a lie to her bound partner with no cold. Cut 'That's all of it.' and replace it with a free evasion such as 'That's what you're getting.' Have Rohan's eyes drop to her warm fingertips, so the reader sees that she chose silence, not a lie.",
+    "There is a contradiction between 'and it carried every word' and 'He had caught the tune and not the words'. Rewrite the opening so the wind gusts across the slope and shreds the words before they reach the door. Keep Meera's fear that he heard 'what you are'. Her later fingertip check should then confirm a plausible truth instead of an impossible one.",
+    "At 'He says he'll have her hand to hand by midwinter' the line is garbled. Make it 'He says he'll have the queen's own hand on it by midwinter.' Also, after Meera cuts off at 'three ward—', give Rohan one banked beat, e.g. '\"Three,\" he said, and nothing after it.' That way his precision registers and his letting it go reads as a choice."
+  ],
+  "reader_question": "Can Meera keep the burning Rohan alive, and will she look at what is sewn in the coat over his heart?",
+  "techniques_landed": [
+    4,
+    7,
+    16
+  ],
+  "new_facts_assessment": "The draft lists no new facts, yet it adds Asha's knowledge that Meera is the Salt Fox, a 200+100 silver bounty, the nine-span seat, Lalit and the pardon-list offer. Most of these are logged as provisional F328 to F334. The Salt Fox knowledge needs an S2 ruling, and the bounty's payer is unstated. The firewood counts (31, 26, 25, 24), 'three wardens' (F294) and Rohan's first deliberate 'Meera' (F295) are consistent.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Worldbuilding collapse",
+    "Irrational behaviour to extend plot"
+  ],
+  "average": 3.38,
+  "minimum": 0.0,
+  "passed": false
+}
