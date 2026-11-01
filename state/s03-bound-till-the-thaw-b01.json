@@ -920,7 +920,7 @@
       }
     },
     "30": {
-      "status": "passed",
+      "status": "edited",
       "revisions": 0,
       "scores": {
         "reader_question": 4.0,
@@ -934,18 +934,18 @@
       },
       "average": 4.12,
       "flags": [],
-      "words": 3270,
+      "words": 3260,
       "minimum": 3.0,
       "style": {
-        "words": 3272,
+        "words": 3260,
         "banned_hits": {},
         "ai_tell_hits": {},
         "ai_tells_per_1000": 0.0,
-        "top_4gram": "meera of kothi shilak",
-        "top_4gram_count": 3,
-        "longest_paragraph_words": 109,
+        "top_4gram": "the foot of the",
+        "top_4gram_count": 2,
+        "longest_paragraph_words": 111,
         "em_dashes_per_1000": 0.0,
-        "reading_ease": 93.1
+        "reading_ease": 94.0
       },
       "owner_instructions": [
         "Theme statement. Problem: \"I used to think the law was only ever a noose for people like us... It's a rope. It depends who ties it.\" / \"Then we will tie it well.\" recites the book's thesis, and the reply reads like a greeting card. Change: cut the first sentence ('I used to think...'). Cut Rohan's reply 'Then we will tie it well.' Her public self-entry in the herald's book already proves the change. Fold a short, sharp version of the rope line into that act. Example: as she writes 'Meera of Kothi Shilak, called the Salt Fox' and lays the count down, she says or thinks one clipped line such as 'Depends who ties it.' Then she moves on, with no answering speech. Keep the summary's changed belief intact in substance (it's a rope; it depends who ties it).",
@@ -2210,9 +2210,13 @@
     {
       "at": "2026-11-01T21:44:55",
       "event": "done: S8 line edit ch 28"
+    },
+    {
+      "at": "2026-11-01T21:45:31",
+      "event": "done: S8 line edit ch 30"
     }
   ],
-  "updated_at": "2026-11-01T21:44:55",
+  "updated_at": "2026-11-01T21:45:31",
   "midpoint_chapter": 16,
   "continuity_attempts": 0,
   "continuity_last_errors": null,
