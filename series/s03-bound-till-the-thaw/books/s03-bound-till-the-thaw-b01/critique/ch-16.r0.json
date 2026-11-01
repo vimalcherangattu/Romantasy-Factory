@@ -1,40 +1,42 @@
 {
   "scores": {
     "reader_question": 4.0,
-    "change": 5.0,
-    "romance_movement": 5.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
     "shown_chemistry": 4.0,
     "character_logic": 4.0,
     "stakes_and_cost": 4.0,
     "prose": 3.0,
-    "continuity": 5.0
+    "continuity": 0.0
   },
   "reasons": {
-    "reader_question": "Specific: the promise binds his body to her footing until the exact day he must hand her over. Varun's survival adds a second thread.",
-    "change": "Both identities and the writ are confessed, Varun is exposed, there is a first kiss and a binding promise. Power, knowledge and relationship all flip.",
-    "romance_movement": "The refusal from ch14 is overturned for a new reason: full knowledge on both sides. The kiss is chosen with every cost named.",
-    "shown_chemistry": "Watched hands, palms turned up, 'I watched your hands'. Attraction is read through the rule. 'Cradle as if it might break' is stock.",
-    "character_logic": "The confessions are well motivated, especially Rohan's chosen not-knowing. But the stick arithmetic behind 'no lies' doesn't add up under the rules.",
-    "stakes_and_cost": "The promise is a great-lie contract that expires at the handover. The midpoint mirror makes her complicit in Jassi's death.",
-    "prose": "Strong lines, but the sieve-ring beat is staged twice, 'Silence was free' and 'The fire ticked' repeat, and the deduction is summarised.",
-    "continuity": "Stick count, button, party sheet, fallback route, seal hitch and promise hum all match F145 to F155 and the bible's rules."
+    "reader_question": "The ending states the trap plainly: his promise binds him to her footing until the thaw, when he must hand her over.",
+    "change": "Identities, the writ and Varun's treachery are all out, and the pair move from hidden enemies to complicit allies.",
+    "romance_movement": "Full mutual confession, then a chosen first kiss. The new reason is that both now know everything; the promise turns it into a contract.",
+    "shown_chemistry": "Watching each other's hands, 'That was free' and 'I watched your hands' show attraction through response, not narration.",
+    "character_logic": "Rohan choosing not to know is sharp. 'She did not remember deciding it' undercuts Meera's agency at the costed kiss.",
+    "stakes_and_cost": "Seven sticks, a stick per refusal, and a bound promise against the writ make every word cost.",
+    "prose": "Concrete and readable, but 'hands on his knees' appears six times, 'wind leaned on the door' twice, and the deduction runs list-like.",
+    "continuity": "Rohan says a pedlar sold Varun the brass button; F385 revised its source to the quartermaster's tin of odds. 'Ten days back' for the firewood rule also strains the day count."
   },
   "fixes": [
-    "Fix the duplicated beat at 'She laid the hunter's twist beside her own packet'. She already set the two sieve rings together at the start of the scene. Also replace the summary 'She did not stop to argue the rest' with three or four exchanged lines: the iron ring, Varun's strap, the gully. End with one of them saying aloud that Varun set the slide and is her middleman. The beat requires them to work it out on the page.",
-    "Fix the logic at 'A refusal would burn a sixth stick' (irrational behaviour to extend plot). No question was asked, so volunteering costs nothing. Fire doesn't warm lie-cold, so the wood can't govern lies. Either have Rohan formally spend the night's question ('Who is the Salt Fox?') so that refusal costs a stick, or rest her 'no lies' rule on a shaking partner needing extra sticks for ordinary cold.",
-    "Rewrite the opening 'Meera thought the rope tied her to the door'. It muddles the ch15 cliffhanger. In one plain line, state that the eight-span reach runs between the two of them, not from the sill, so they can go out together. Then cut 'grinning like a boy'. A man with cracked ribs in a whiteout grinning reads off-tone; replace it with one concrete action."
+    "'A pedlar sold it to him, he said, after he lost one on the stair': continuity break with F385. Change it to 'He took it from the quartermaster's tin of odds, he said, after he lost a pewter one on the stair.' Replace the pedlar laugh with a matching detail, e.g. Varun grumbling about the chalky polish. Also change 'She had set that rule herself, ten days back' to 'days back'.",
+    "'She did not remember deciding it.': this weakens the costed choice the beat requires. Show the decision instead. Have Meera cross the hearth deliberately and name her new reason in one line, e.g. that this time she kisses him knowing exactly who he is, unlike when she refused him as her noose. Keep 'Tell me why I shouldn't.'",
+    "'They sat with their hands open on their knees': repetition. The hands-on-knees beat recurs six times and 'The wind leaned on the door' twice. Keep it only at the writ reveal ('Still warm') and the promise. In the deduction section, replace the others with varied action: Meera turning the count's page, or Rohan touching Dilan's rope end. This breaks up the list-like run of evidence."
   ],
-  "reader_question": "What will Rohan's promise not to let her fall cost him when the thaw ends the bond on the very day his writ makes him hand her over?",
+  "reader_question": "What does a promise to keep her safe do to a man ordered to hand her to the rope at the thaw?",
   "techniques_landed": [
     3,
     12,
     17,
     22
   ],
-  "new_facts_assessment": "new-facts.json is empty, but the draft adds several facts. The writ names a 'warden-judge at Taravan'. Varun dropped back 'for a strap' before the slide. He laughed that the pedlar took long to find brass. The middleman's carter leaves the button. Rohan stood at Varun's wedding (already F148). All are consistent and useful. The warden-judge and the strap lag should be logged for ch25 to ch30.",
+  "new_facts_assessment": "Writ wording (Taravan warden-judge, alive) is necessary and consistent with F386. Varun dropping back for a strap is a fair, useful clue, though it was never planted earlier. Using the night's question for 'Who is the Salt Fox?' is consistent with F105. The pedlar laugh conflicts with F385 (quartermaster's tin) and should be cut or reworded.",
   "content_rule_violation": false,
-  "failure_modes": [],
-  "average": 4.25,
-  "minimum": 3.0,
-  "passed": true
+  "failure_modes": [
+    "Repetitive tension"
+  ],
+  "average": 3.38,
+  "minimum": 0.0,
+  "passed": false
 }
