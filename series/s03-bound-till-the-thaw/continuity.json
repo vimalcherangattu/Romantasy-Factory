@@ -2630,6 +2630,34 @@
       "fact": "When Meera tells Rohan a true thing at the Shilak Cairn ('Because my brother is dying there'), the stones' hum drops half a note, like a bowl's song when a wet finger leaves the rim. Extends F081 and F320.",
       "since": "s03-bound-till-the-thaw-b01 ch 3",
       "provisional": true
+    },
+    {
+      "id": "F388",
+      "category": "object",
+      "fact": "Bindu's wool is dyed with walnut husk; Jassi's goat-brown sleeve is her weave.",
+      "since": "s03-bound-till-the-thaw-b01 ch 3",
+      "provisional": true
+    },
+    {
+      "id": "F389",
+      "category": "magic",
+      "fact": "Bindu's knot-song for the wrist knot runs 'Two over, one under, the third one tells the truth.'",
+      "since": "s03-bound-till-the-thaw-b01 ch 3",
+      "provisional": true
+    },
+    {
+      "id": "F390",
+      "category": "knowledge",
+      "fact": "Rohan has crossed by writ before with the post's paired guides and seen cairn-light only a lamp's throw; he has never seen the line run so far ahead so fast. Paid guides tie for a fee, and Meera says the mountain can tell the difference.",
+      "since": "s03-bound-till-the-thaw-b01 ch 3",
+      "provisional": true
+    },
+    {
+      "id": "F391",
+      "category": "magic",
+      "fact": "A warden cannot read cairn-song: the stones' hum dips at a true word but never says who spoke, so Meera's pink fingertips are the only proof Rohan can read. Applies F387 and F320.",
+      "since": "s03-bound-till-the-thaw-b01 ch 3",
+      "provisional": true
     }
   ],
   "knowledge": [
