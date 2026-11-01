@@ -4,38 +4,38 @@
     "change": 4.0,
     "romance_movement": 4.0,
     "shown_chemistry": 4.0,
-    "character_logic": 4.0,
+    "character_logic": 3.0,
     "stakes_and_cost": 4.0,
     "prose": 3.0,
     "continuity": 0.0
   },
   "reasons": {
-    "reader_question": "Storm wall, hunters on the cut and a day-and-a-half climb give a concrete race question at the cut-off.",
-    "change": "Meera learns the law's origin and his secret fines. Her hatred is gone, and a route is chosen at the cost of a day.",
-    "romance_movement": "Desire is named and refused for a new reason, the thaw delivery. His refusal to promise deepens it.",
-    "shown_chemistry": "His stillness leaves her the whole choice, she touches his jaw, and he burns a stick to avoid being thanked. All of it is shown.",
-    "character_logic": "Mostly sharp. Meera breaks her own one-question rule on a starved woodpile with only a thin excuse.",
-    "stakes_and_cost": "Teeth versus hunters is a real trade. The refused kiss costs both of them, and the storm makes waiting deadly.",
-    "prose": "Clean and voiced, but 'colour of hands' repeats from ch13 and twice here. Meera's italic gloss narrates his reasoning.",
-    "continuity": "Firewood maths conflicts. Thirteen sticks, five fed and one burned cannot leave twelve. The grandfather's dating contradicts itself."
+    "reader_question": "The storm wall, the hunters and the day-and-a-half Teeth route form one sharp, specific question for the next chapter.",
+    "change": "Meera learns the source of his law and his secret mercy. Desire is named and refused, so both knowledge and relationship shift.",
+    "romance_movement": "The refusal reason is new (the thaw delivery, not hate). His 'better reason than the last one' explicitly marks the change.",
+    "shown_chemistry": "He holds still and gives her the choice. The stick burned instead of thanks and the small laugh at 'Sleep' work through action.",
+    "character_logic": "A careful Meera says 'you deliver me' to a man who reads files eleven times. She also waives the wood rule while wood is scarce.",
+    "stakes_and_cost": "A day lost to the Teeth, a storm due in hours and a refusal that costs her something she wants. The costs are clear.",
+    "prose": "The prose is mostly clean and concrete. It has a head-hop into Rohan, a repeated bruise image and a stock 'That was what undid her'.",
+    "continuity": "Meera quotes the writ ('deliver the Salt Fox at the thaw') before the ch16 admission. The bible says she does not yet know she is named."
   },
   "fixes": [
-    "Continuity error at 'She fed it five sticks and then'. Ch13 already burned the night's five and left thirteen, so 'That's twelve' fails the arithmetic. Change the line to 'She banked the coals rather than feed them' so no sticks are spent. Rohan's burned stick then takes thirteen to twelve, which matches new-facts and bridges to ch15's eleven.",
-    "Internal contradiction at 'It was when the Closing Law was new'. The law was written the spring after his death, so it was not yet new. Replace the line with 'It was sixty winters ago, the winter before the Closing Law.' This keeps the bible's timing and keeps the S4 plant clean.",
-    "Repeated image at 'his hands were the colour of hands'. It is used twice in this chapter and in ch13, so it is wearing thin. Keep only the second use, after the fine silence, where the lie-check matters. Also cut the italic 'And so I keep it...' paragraph. Meera narrating his motive pre-empts his own lines. Let 'So no one dies that way' carry it."
+    "Fix the writ knowledge at 'the writ in his coat said deliver the Salt Fox at the thaw' (continuity conflict with the ch16 midpoint). Base her fear only on the third peg and ch13's 'I will do what the writ says at the thaw'. Change 'It's in your writ' to 'You said the writ comes due at the thaw'. Keep 'you deliver me' as an inference she risks saying aloud, and let her register that risk in one line.",
+    "Fix the POV break at 'He heard a guide speaking of a crossing's end' (a head-hop out of Meera's POV). Cut both sentences. Replace them with something Meera sees: his eyes go still on 'me' for half a breath, then move on. That plants F148's suspicion without entering his head and raises the reader's dread.",
+    "Fix the question rule at 'That was the day's. This is the night's.' (a cheap waiver of the F105 wood cost). Make the second exchange cost something: Meera lays a stick on the coals to buy the extra question, and the count must still end at twelve after Rohan's refusal, so adjust the banking line. Also change 'again at the fold, when he took the bowline' to 'on the sill'."
   ],
-  "reader_question": "Can Meera get Rohan, one-armed, down the Goat's Teeth before the storm wall and Asha's hunters close on them?",
+  "reader_question": "Can Meera get one-armed Rohan down the Goat's Teeth before the storm wall and the regent's hunters close on them?",
   "techniques_landed": [
     10,
     15,
     25
   ],
-  "new_facts_assessment": "The grandfather story is necessary and ambiguous enough for S4, but 'when the Closing Law was new' contradicts 'written the next spring'. The Goat's Teeth is necessary and consistent. The firewood fact (twelve) contradicts the page, because she feeds five more sticks after ch13 left thirteen. Some facts are unlisted: seven wardens buried, Pritam's grain wagons and the 'first hanged man's curse'. They are plausible but must be logged.",
+  "new_facts_assessment": "new-facts.json is empty, but the draft adds unlogged facts. First, Rohan 'took the first hanged man's curse' without flinching: this is unlogged, and it is unclear how Meera, the POV character, knows it. Second, Meera knows the writ's literal wording: this conflicts with the bible's knowledge rules. Third, the bowline is placed 'at the fold': in ch13 it was tied at the sill, so this is an error. The storm smear and the Teeth details match F133, F138 and F306. The grandfather story matches F136 and leaves room for F236.",
   "content_rule_violation": false,
   "failure_modes": [
-    "Repetitive tension"
+    "Irrational behaviour to extend plot"
   ],
-  "average": 3.38,
+  "average": 3.25,
   "minimum": 0.0,
   "passed": false
 }
