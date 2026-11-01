@@ -12,7 +12,7 @@
   ],
   "chapters": {
     "01": {
-      "status": "passed",
+      "status": "edited",
       "revisions": 0,
       "scores": {
         "reader_question": 5.0,
@@ -29,7 +29,7 @@
       "words": 2720,
       "minimum": 3.0,
       "style": {
-        "words": 2609,
+        "words": 2720,
         "banned_hits": {},
         "ai_tell_hits": {},
         "ai_tells_per_1000": 0.0,
@@ -37,7 +37,7 @@
         "top_4gram_count": 2,
         "longest_paragraph_words": 81,
         "em_dashes_per_1000": 0.0,
-        "reading_ease": 90.5
+        "reading_ease": 90.0
       },
       "owner_instructions": [
         "Where: the line 'Meera did not think about the rest of what she carried, and she was good at not thinking about it.' What's wrong: Meera's own POV knows she is the Salt Fox, and this line hides it from the reader. That is the 'Contrived delays' failure mode, and it is the likely reason chapter 1 scores lowest of the opening. What to change: cut the coy line. In its place, give Meera one short, plain line that owns the crew name and its price. Put it at the village gate, at the Closing Law notice and the hanging tree with its two fresh pegs. For example, she knows which name those empty pegs are waiting for: the Salt Fox, hers. Keep it to one or two sentences of interiority that turn into action, such as looking away, counting, or walking on. Do not let it become rumination.",
@@ -2010,9 +2010,13 @@
     {
       "at": "2026-11-01T20:53:40",
       "event": "done: book-level checks"
+    },
+    {
+      "at": "2026-11-01T20:54:19",
+      "event": "done: S8 line edit ch 1"
     }
   ],
-  "updated_at": "2026-11-01T20:53:40",
+  "updated_at": "2026-11-01T20:54:19",
   "midpoint_chapter": 16,
   "continuity_attempts": 1,
   "continuity_last_errors": 1,
