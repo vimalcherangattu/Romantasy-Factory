@@ -19,14 +19,14 @@ Re-check KDP's current limits in KDP Help before the first upload of a series (P
 | Publishing rights | I own the copyright and I hold the necessary publishing rights |
 | Primary audience: sexually explicit images or title | No |
 | Reading age | (leave blank: adult) |
-| Categories | Kindle Store > Kindle eBooks > Romance > Fantasy; Kindle Store > Kindle eBooks > Science Fiction & Fantasy > Fantasy > Romantic; Kindle Store > Kindle eBooks > Science Fiction & Fantasy > Fantasy > Myths & Legends |
-| Keyword 1 | enemies to lovers fantasy romance |
-| Keyword 2 | forced proximity romantasy snow mountain |
-| Keyword 3 | magical bond romantasy slow burn |
-| Keyword 4 | smuggler warden fantasy romance |
-| Keyword 5 | survival fantasy romance open door |
-| Keyword 6 | rope bound lovers fantasy romance series |
-| Keyword 7 | mountain spirits folklore fantasy romance |
+| Categories | Kindle Store > Kindle eBooks > Romance > Fantasy; Kindle Store > Kindle eBooks > Science Fiction & Fantasy > Fantasy > Romantic; Kindle Store > Kindle eBooks > Romance > Action & Adventure |
+| Keyword 1 | enemies to lovers romantasy |
+| Keyword 2 | forced proximity fantasy romance |
+| Keyword 3 | magical bond slow burn romantasy |
+| Keyword 4 | mountain spirits folklore fantasy romance |
+| Keyword 5 | smuggler heroine warden hero romance |
+| Keyword 6 | winter survival romantasy series |
+| Keyword 7 | open door fantasy romance happy ending |
 | Release option | I'm ready to release my book now |
 
 Save and continue (Claude asks before saving).

@@ -1,18 +1,16 @@
-Subject: Bound till the Thaw is out today
+Subject: Bound till the Thaw is live
 
 Hello, friend,
 
-It's here. *Bound till the Thaw*, the first book in The Winter Passes, is out today.
+The first Winter Passes book is out today, and I'm nervous and delighted in equal parts.
 
-Meera is a smuggler-guide with twelve packets of medicine and a brother dying in a fever village. Rohan is the queen's warden captain, sworn to hang her crew. When an avalanche leaves them alone on a closed mountain pass, the spirits bind them together with one red rope. Neither can move more than eight arm-spans from the other until the thaw. Every lie costs body heat. Every truth is evidence. Sharing a fire is a hanging crime.
+Here is the heart of it. Meera is a smuggler-guide with a ledger as exact as a tax clerk's, racing medicine over a closed pass to her sick brother. Rohan is the warden captain who has sworn to hang her crew. The mountain spirits tie them together with one red rope, and on that rope every lie costs you body heat. Every true word between them is an intimacy, and also evidence.
 
-It's enemies to lovers, forced proximity and a slow burn with open-door heat. It's also a survival story, with cold, grief and graves, and a happy ending that costs something. I wanted a love story where nobody can bluff, and where "I trust you" has to show up on your hands.
+It's an enemies-to-lovers slow burn with forced proximity, one fire, a very bad law and a hero who learns to take orders from the heroine. There are two open-door scenes, a love story that earns its happy ending, and a world built on Himachal mountain folklore. It's also survival-heavy, with grief along the way, so go in knowing the cold is real.
 
-If you like danger, banter under pressure and a couple who earn each other, I hope you'll come up the mountain with me.
+You can get it here: {{AMAZON_LINK}}
 
-Get your copy here: {{AMAZON_LINK}}
-
-If you read it, a short review helps more than you'd think. Tell me which line stayed with you.
+If you enjoy it, a short review helps other readers find Meera and Rohan more than you'd guess. Reply to this email and tell me which line stuck with you. I read every one.
 
 Warmly,
 Mira Sangla
