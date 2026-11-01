@@ -1,39 +1,41 @@
 {
   "scores": {
     "reader_question": 4.0,
-    "change": 5.0,
+    "change": 4.0,
     "romance_movement": 5.0,
-    "shown_chemistry": 5.0,
+    "shown_chemistry": 4.0,
     "character_logic": 4.0,
     "stakes_and_cost": 4.0,
-    "prose": 4.0,
+    "prose": 3.0,
     "continuity": 5.0
   },
   "reasons": {
-    "reader_question": "Kiran's shuttered face and closed fist on the badge pose a sharp, specific question. The thaw and writ question stays secondary.",
-    "change": "They are now lovers by choice, Rohan is in her count, and harbouring is knowing. Kiran's survival flips the next chapter's terrain.",
-    "romance_movement": "The new reason is a verified blockade confession plus being written into her ledger. This is not a replayed refusal.",
-    "shown_chemistry": "Goat fat warmed first, the remembered knuckles and the rib-shaped rules. Desire is proven through responsive action, not narration.",
-    "character_logic": "Both act smartly. The 'partly a lie' moment bends the lie-cold rule, and 'back of that coat' contradicts her leading.",
-    "stakes_and_cost": "Harbouring is now knowing, the writ still stands and he withholds a promise. The cost is clear but no new decision is forced tonight.",
-    "prose": "Strong and specific, but a few stock beats: the held breath let go, 'closed like a shutter' and a summarising afterglow line.",
-    "continuity": "Counts, 206 carried, eleven trips, the badge dent and ages all match. No hard conflict found."
+    "reader_question": "Kiran's fist closing on the badge at Rohan's hands sharpens the open Dilan question; the thaw and writ question carries out too.",
+    "change": "They become lovers. She writes him into the count. He names his harbouring as knowing. The fever breaks.",
+    "romance_movement": "The reason is new: an unverifiable 'I want you' taken on her word while her fingertips are white. Desire becomes trust, not proof.",
+    "shown_chemistry": "The goat fat calls back her passing remark, and his ribs shape the intimacy. A few lines still narrate feeling generically.",
+    "character_logic": "Both act like their smart selves. He refuses to hide behind the regent; she corrects her half-lie at once.",
+    "stakes_and_cost": "Harbouring is now chosen, the writ is unresolved and he pointedly makes no promise. The cost is named, though not paid this chapter.",
+    "prose": "A pipeline leak ('in ch 19') sits on the page, there is one garbled key line and two stock clichés. Otherwise lean and concrete.",
+    "continuity": "Consistent with F077, F124, F164, F172, F298, F348 and the lie-cold rule. The brown pattu lands slightly ahead of F183 but does not conflict."
   },
   "fixes": [
-    "At \"That's partly a lie. I'll start again.\": the world rule is quietly suspended (Rule That Bites Back). A believed-false statement to her bound partner should whiten her fingertips. Have her stop mid-sentence before completing the claim. Alternatively, show a faint whitening at the tips that he sees, which she then corrects aloud. Then let 'Look at my hands' land on hands that are warming back, not untouched.",
-    "At \"she found she was holding her breath, and let it go\": this is a near-variant of a banned cliché, and it echoes ch19's closing breath beat. Replace it with a concrete reaction tied to these two, such as her fingers curling around his thumb when he stops. Also rework \"Kiran's face closed like a shutter\" into a Kiran-specific tell, such as the joke dying on his mouth and his gaze going to Rohan's hands.",
-    "At \"looking at the back of that coat for twelve days\": this is a logic and continuity slip. Meera leads and ordered him behind her (ch17), and the day count is nearer fifteen. Change it to something she has actually watched, such as the coat across the hut fire every night since the Saddle. Avoid a day number, or use one that matches the timeline."
+    "'Under it, in ch 19, the nib had hung': this is a drafting artefact (a chapter reference leaked into the prose). Replace it with an in-world time marker, e.g. 'Under it, that morning in the goat shed, the nib had hung and dried and left nothing.'",
+    "'It is the first time that I have been written down by anyone as a thing that happened': the line is garbled and its logic is inverted at the chapter's emotional peak. Rewrite it plainly, e.g. 'Every page that holds my name was written by the post. This is the first one written by someone I did it to.' Keep 'And you left the first line standing.'",
+    "'as if she might be taken from him at any moment' and 'nothing in the storehouse but the brazier ticking and the two of them': these are stock romance phrasing (narrated chemistry). Replace each with a specific action tied to them: his one-armed care, the rope, the count, or her counting his breaths aloud as she counts everything."
   ],
-  "reader_question": "What is Kiran hiding in his fist, and why does the sight of Rohan close his face like that?",
+  "reader_question": "What does Kiran know about Rohan's hands, and what happens to these new lovers when the thaw and his writ arrive?",
   "techniques_landed": [
     9,
     10,
     14
   ],
-  "new_facts_assessment": "The draft listed no new facts but added several. First, Meera's forearm burn-scar: new, harmless, and should be logged. Second, a 'post commander' who writes the blockade order: this needs checking against Rohan's authority, since it shifts his culpability. Third, the order is signed 'in the autumn, before first snow': fine. Fourth, the ash handprint on the storehouse lintel: this implies the storehouse was marked, which fits since it is part of Nimmi's house. All are consistent so far but must be entered in new-facts.json.",
+  "new_facts_assessment": "F352 is necessary and consistent: the white stays the full hour per F010 and echoes F075. It turns the lie-cold rule into the scene's engine, because she must be believed without proof. Keep it and retire F350.",
   "content_rule_violation": false,
-  "failure_modes": [],
-  "average": 4.5,
-  "minimum": 4.0,
+  "failure_modes": [
+    "Narrated-only chemistry"
+  ],
+  "average": 4.12,
+  "minimum": 3.0,
   "passed": true
 }
