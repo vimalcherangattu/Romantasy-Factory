@@ -1,42 +1,39 @@
 {
   "scores": {
-    "reader_question": 4.0,
+    "reader_question": 5.0,
     "change": 4.0,
-    "romance_movement": 4.0,
+    "romance_movement": 5.0,
     "shown_chemistry": 4.0,
-    "character_logic": 3.0,
+    "character_logic": 4.0,
     "stakes_and_cost": 4.0,
-    "prose": 3.0,
+    "prose": 4.0,
     "continuity": 0.0
   },
   "reasons": {
-    "reader_question": "The storm wall, the Teeth and the hunters give a sharp survival question. Rohan's stillness at 'me' adds a second hook.",
-    "change": "She learns the law's origin and his secret mercy, names that the hate has ended, and commits to the Teeth.",
-    "romance_movement": "The refusal has a new reason, the thaw delivery rather than hatred. His 'not when it would cost you my hands' deepens the bond.",
-    "shown_chemistry": "His stillness, his closed eyes at her touch and the burned stick show desire through action. 'That was what undid her' tells instead.",
-    "character_logic": "Saying 'deliver me' to the Salt Fox's hunter is a near-confession. The text calls it deliberate but never gives her a motive.",
-    "stakes_and_cost": "The Teeth cost a day and the storm cost a kettle. The kiss refusal and the 'me' risk carry real emotional and legal cost.",
-    "prose": "The dialogue is strong, but several passages explain what the scene already shows ('different animal altogether', the 'inference' paragraph, 'fire's fault').",
-    "continuity": "'Last night' twice places ch13's writ line and hand-on-rope a night earlier, but ch14 continues the same night directly."
+    "reader_question": "Storm wall, hunters on the cut and a two-thousand-foot down-climb with one arm make a sharp, physical question. The 'me' slip adds a second.",
+    "change": "She learns the law's origin and his secret mercy, and she hands him near-proof she is the Salt Fox. Knowledge and power both move.",
+    "romance_movement": "Desire is named and refused for a new reason, the thaw delivery, not hatred. He accepts it as a fair reason he cannot answer.",
+    "shown_chemistry": "He holds still and leaves her the choice, she touches his jaw, and he burns a stick he needn't. Some summary ('the night belonged to them') tells.",
+    "character_logic": "Her near-confession is reasoned (he must choose before the Teeth), but asking him to promise rather than staying silent is a risky slip for a careful woman.",
+    "stakes_and_cost": "Every choice is priced: a lost day, the wet branch's warmth and kettle, a voluntary stick, and her own exposure.",
+    "prose": "Concrete and voiced, with strong images (goat on a ledge, greasy smear). Heavy 'did not' rhythm, a repeated ch13 hand image, 'fire ticked' twice.",
+    "continuity": "'She had learned it over ten days' conflicts with the day count (F290/F291: ch14 is the night of day 9, eight days after the binding)."
   },
   "fixes": [
-    "'And last night, with his hands warm in the firelight' and 'Last night he had held one an inch from hers': continuity break. Ch13's writ line and the hand on the rope happened earlier this same night, since ch14 opens on Lalit's voice. Change both to 'an hour ago' or 'tonight, before Lalit called'.",
-    "'Your turn,' she said, and her voice came out rough. 'Ask.': rule break. Rohan already spent his question tonight on the Salt Fox. Have Meera say the wet branch buys a round for both of them, or have Rohan lay a damp stick himself. That way his question is paid and the firewood ledger stays exact.",
-    "'Deliver me. She heard it hang in the air. It was an inference': overlong interiority with no motive. Cut the explanation and give one concrete reason she risks it, such as wanting him to choose with open eyes before the Teeth. Also cut 'He did not want thanks... different animal altogether' and 'It was the fire's fault' and let the actions carry those beats."
+    "'she had learned it over ten days' breaks the established day count: they met on day 1 and this is the night of day 9. Meera counts everything, so she would get it right. Change it to 'over nine days', or 'since the cairn' if you want to avoid numbers.",
+    "'A day and a half to the Teeth, if the ledges hold' contradicts her own earlier estimate in the same chapter ('A pair with one good arm will want two'). It also misplaces the time: the day and a half is the descent itself, not the walk to it. Change it to 'Two days down the Teeth, with your arm, if the ledges hold.'",
+    "'entirely the colour of hands' repeats a distinctive image from ch13 ('stayed the colour of hands') and breaks the three-chapter rule. Replace it with a fresh, chapter-specific proof that he did not lie, for example 'steady in the light, the nails pink as hers'. Also cut the second 'The fire ticked.' to break the echo."
   ],
-  "reader_question": "Can Meera and Rohan get down the Goat's Teeth before the storm wall and the hunters close, and did he hear what her 'deliver me' gave away?",
+  "reader_question": "Can Meera get one-armed Rohan down the Goat's Teeth before the storm wall and the hunters close, and has he now joined the Salt Fox to her face?",
   "techniques_landed": [
     10,
     15,
     25
   ],
-  "new_facts_assessment": "new-facts.json is empty, but the draft adds facts: the Goat's Teeth geography, the grandfather's warden post 'before the post had a hall', seven buried wardens, Pritam's grain wagons, and wet deadfall burned to buy a question. All are consistent and useful. C14 lands as the bible requires. They must be logged.",
+  "new_facts_assessment": "All are necessary and consistent. The grandfather story fits S4 and sets up F236's gloves. The Teeth matches F306 and F337. The wet branch fits F120. Pritam's grain wagons fits Rohan's side of the theme, though the bible says the regent profits from closure; worth a later echo.",
   "content_rule_violation": false,
-  "failure_modes": [
-    "Irrational behaviour to extend plot",
-    "Endless monologue"
-  ],
-  "average": 3.25,
+  "failure_modes": [],
+  "average": 3.75,
   "minimum": 0.0,
   "passed": false
 }

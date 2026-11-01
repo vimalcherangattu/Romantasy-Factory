@@ -1,0 +1,39 @@
+{
+  "scores": {
+    "reader_question": 5.0,
+    "change": 4.0,
+    "romance_movement": 5.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 4.0,
+    "stakes_and_cost": 4.0,
+    "prose": 4.0,
+    "continuity": 0.0
+  },
+  "reasons": {
+    "reader_question": "Storm wall, hunters on the cut and a two-thousand-foot down-climb with one arm make a sharp, physical question. The 'me' slip adds a second.",
+    "change": "She learns the law's origin and his secret mercy, and she hands him near-proof she is the Salt Fox. Knowledge and power both move.",
+    "romance_movement": "Desire is named and refused for a new reason, the thaw delivery, not hatred. He accepts it as a fair reason he cannot answer.",
+    "shown_chemistry": "He holds still and leaves her the choice, she touches his jaw, and he burns a stick he needn't. Some summary ('the night belonged to them') tells.",
+    "character_logic": "Her near-confession is reasoned (he must choose before the Teeth), but asking him to promise rather than staying silent is a risky slip for a careful woman.",
+    "stakes_and_cost": "Every choice is priced: a lost day, the wet branch's warmth and kettle, a voluntary stick, and her own exposure.",
+    "prose": "Concrete and voiced, with strong images (goat on a ledge, greasy smear). Heavy 'did not' rhythm, a repeated ch13 hand image, 'fire ticked' twice.",
+    "continuity": "'She had learned it over ten days' conflicts with the day count (F290/F291: ch14 is the night of day 9, eight days after the binding)."
+  },
+  "fixes": [
+    "'she had learned it over ten days' breaks the established day count: they met on day 1 and this is the night of day 9. Meera counts everything, so she would get it right. Change it to 'over nine days', or 'since the cairn' if you want to avoid numbers.",
+    "'A day and a half to the Teeth, if the ledges hold' contradicts her own earlier estimate in the same chapter ('A pair with one good arm will want two'). It also misplaces the time: the day and a half is the descent itself, not the walk to it. Change it to 'Two days down the Teeth, with your arm, if the ledges hold.'",
+    "'entirely the colour of hands' repeats a distinctive image from ch13 ('stayed the colour of hands') and breaks the three-chapter rule. Replace it with a fresh, chapter-specific proof that he did not lie, for example 'steady in the light, the nails pink as hers'. Also cut the second 'The fire ticked.' to break the echo."
+  ],
+  "reader_question": "Can Meera get one-armed Rohan down the Goat's Teeth before the storm wall and the hunters close, and has he now joined the Salt Fox to her face?",
+  "techniques_landed": [
+    10,
+    15,
+    25
+  ],
+  "new_facts_assessment": "All are necessary and consistent. The grandfather story fits S4 and sets up F236's gloves. The Teeth matches F306 and F337. The wet branch fits F120. Pritam's grain wagons fits Rohan's side of the theme, though the bible says the regent profits from closure; worth a later echo.",
+  "content_rule_violation": false,
+  "failure_modes": [],
+  "average": 3.75,
+  "minimum": 0.0,
+  "passed": false
+}
