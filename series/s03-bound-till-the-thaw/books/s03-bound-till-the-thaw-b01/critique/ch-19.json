@@ -4,40 +4,37 @@
     "change": 4.0,
     "romance_movement": 4.0,
     "shown_chemistry": 4.0,
-    "character_logic": 4.0,
+    "character_logic": 3.0,
     "stakes_and_cost": 4.0,
-    "prose": 3.0,
-    "continuity": 0.0
+    "prose": 4.0,
+    "continuity": 5.0
   },
   "reasons": {
-    "reader_question": "The ash prints, 'cleansing', the general and the sixth-day door rule give the reader a sharp, nameable question.",
-    "change": "She loses the clean villain. He admits his certainty has cracked. The patrol sets a deadline that forces her to leave Nimmi.",
-    "romance_movement": "The reason is new: an honest confession given under threat replaces her old enmity. Disclosure plus his chosen care.",
-    "shown_chemistry": "The loft works through action: his good arm, her care for his ribs, warm hands as proof of truth, the haystack joke.",
-    "character_logic": "Stripping the grey pattu and choosing the loft are smart. Nimmi's bluff fits her. The captain's retreat is plausible.",
-    "stakes_and_cost": "Leaving twenty-three untreated with Nimmi alone is a real cost. The ending states it but sits in a static image.",
-    "prose": "Strong voice overall. 'Wide as a plate' appears three times, the 'sum' motif is overworked, and the post-loft turn is narrated.",
-    "continuity": "Rohan's intent ('Until then I carry every bucket') meets a quiet rope, which contradicts F149: sincere bound promises hum."
+    "reader_question": "Specific: what 'cleansing' means and whether the doors shut before help. The pitch-pine gives a dread-laden half-answer.",
+    "change": "Knowledge shifts with the ash marks, the general and the pitch-pine. Relationship shifts with his cracked certainty. Meera commits to leaving Nimmi.",
+    "romance_movement": "The new reason is his admitted doubt, given to her as leverage. She loses the comfort of hate, shown by the pen she cannot use.",
+    "shown_chemistry": "Responsive action carries it: slack rope at the grave, stripping the pattu, 'Your good arm', the haystack joke, the hand-breadth wall.",
+    "character_logic": "A village that watched a warden haul water all day goes unquestioned by the patrol. The loft pose puts Rohan on his cracked left side.",
+    "stakes_and_cost": "The bucket promise on the rope, leaving Nimmi behind a shut door, and the general arriving all cost something concrete.",
+    "prose": "Mostly clean and specific with good lines. The opening sentence is knotted, 'it was short' is awkward, and one interior line tells.",
+    "continuity": "Matches F157/F167/F173/F174/F279/F290/F292: thirty-two dead, twenty-three untreated, eight days left, sixth-day door rule."
   },
   "fixes": [
-    "At 'The rope lay quiet against her wrist' (continuity, F149), Rohan's 'Until then I carry every bucket' is a bound statement of intent, so the rope must hum low and level. Show the hum and let Meera register that he has made a contract with the mountain. Then either give 'I'll hold the adze' its own hum or recast it as plainly hypothetical ('I would hold the adze').",
-    "At 'she watched it until the sun moved off it' (weak ending, checklist item 5), the chapter closes on a static image. Before it, have Meera notice the cause behind the marks: the prints sit only on houses that took the regent's bell-marked grain, or a rider leaves split pitch-pine stacked at the lane's foot. Plant it, don't explain it. This sharpens 'cleansing' and makes the next chapter necessary.",
-    "At 'She had walked down the mountain with a single' (narrated turn, plus repetition), replace part of the summary with an action. She opens the count to the line where she wrote him as the noose and cannot add to it. Then cut two of the three 'wide as a plate' and 'width of a plate' uses, and one of the 'did the sum' / 'ran the sum' phrasings."
+    "At 'They said *anyone off the Saddle*.' (character logic): the whole village watched a man in warden grey haul water yesterday, yet the patrol asks only Nimmi. Have the captain call down the lane. Show the woman who spat at Rohan in ch18 standing in her doorway saying nothing while the print goes over her head. This turns the patrol's ignorance into a village choice to protect him.",
+    "At 'Then we go. Until then I carry every bucket.' (rule that bites back): as worded, an arrest in ch25 before the doors shut breaks a bound promise as a great lie, and no later chapter accounts for it. Either scope it ('every bucket I am free to carry') and let Meera notice the hedge, or have her name that exact risk aloud. Then log it for the ch25 to 27 cold.",
+    "At 'you've hanged boys on it' (rule consistency): Meera knows from ch12 that he hanged one boy of seventeen and one man of thirty-one. A plural she believes false, said to her bound partner, should whiten her fingertips, but the narration says neither pair whitened. Change it to 'you hanged a boy of seventeen on it.' Also fix the loft pose so Rohan lies on his right side, off his cracked left ribs."
   ],
-  "reader_question": "What does the regent mean by 'cleansing' the marked houses, and can Ranu survive the six days before the doors shut?",
+  "reader_question": "What does the regent's 'cleansing' of the ash-marked houses mean, with the pitch-pine stacked at the lane's foot, and can Ranu last eight days?",
   "techniques_landed": [
     15,
-    16,
-    9,
-    10,
-    11
+    16
   ],
-  "new_facts_assessment": "The draft lists no new facts but adds several. These are consistent: the patrol is twelve riders, Nimmi has healed thirty years, the general comes after the Fair (later recast by ch27), and Ranu has thirty-two graves (matches F157 plus Sunni). Rohan's 'twelve years' of belief is unlisted and should be logged. 'Twenty-three, no course' replaces F280's 'Thirty-four cups' wording, so F280 must be superseded. Day count and the sixth-day rule match F290 and F292.",
+  "new_facts_assessment": "The 'Warden. The noose.' page is necessary and consistent with F181. The pitch-pine clue is necessary and consistent with F231's burn order, though a little signposted. 'Twelve years' fits Rohan at 35. The timeline and the 'twenty-three, no course' count match F290, F292 and F167. The bucket promise is risky: if Rohan is arrested in ch25 before the doors shut, it breaks as a great lie. Track it with F213 and F239, or scope it.",
   "content_rule_violation": false,
   "failure_modes": [
-    "Contrived delays"
+    "Irrational behaviour to extend plot"
   ],
-  "average": 3.38,
-  "minimum": 0.0,
-  "passed": false
+  "average": 4.0,
+  "minimum": 3.0,
+  "passed": true
 }
