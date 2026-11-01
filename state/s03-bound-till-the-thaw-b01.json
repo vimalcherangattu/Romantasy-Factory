@@ -418,7 +418,7 @@
       }
     },
     "14": {
-      "status": "passed",
+      "status": "edited",
       "revisions": 3,
       "scores": {
         "reader_question": 4.0,
@@ -432,18 +432,18 @@
       },
       "average": 4.0,
       "flags": [],
-      "words": 3131,
+      "words": 3132,
       "minimum": 3.0,
       "style": {
-        "words": 3004,
+        "words": 3132,
         "banned_hits": {},
         "ai_tell_hits": {},
         "ai_tells_per_1000": 0.0,
         "top_4gram": "died on the pass",
         "top_4gram_count": 2,
         "longest_paragraph_words": 148,
-        "em_dashes_per_1000": 0.33,
-        "reading_ease": 97.1
+        "em_dashes_per_1000": 0.32,
+        "reading_ease": 97.3
       },
       "owner_instructions": [
         "Consistency with the chapter 1 Salt Fox change. Where: the near-kiss and 'At the thaw you deliver me. I don't kiss my noose.' What to change: make sure the interiority around this line treats her identity as known to the reader. 'You deliver me' should read as a fact she has carried since chapter 1, not as a hint. Remove any veiling. Otherwise make no change."
@@ -2042,9 +2042,13 @@
     {
       "at": "2026-11-01T20:58:24",
       "event": "done: S8 line edit ch 12"
+    },
+    {
+      "at": "2026-11-01T20:59:05",
+      "event": "done: S8 line edit ch 14"
     }
   ],
-  "updated_at": "2026-11-01T20:58:24",
+  "updated_at": "2026-11-01T20:59:05",
   "midpoint_chapter": 16,
   "continuity_attempts": 1,
   "continuity_last_errors": 1,
