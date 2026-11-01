@@ -6,7 +6,8 @@
   "status": "revising",
   "stage": "S3",
   "done": [
-    "S3"
+    "S3",
+    "S7"
   ],
   "chapters": {
     "01": {
@@ -2184,9 +2185,13 @@
     {
       "at": "2026-11-01T21:35:23",
       "event": "done: S5 critique ch 32"
+    },
+    {
+      "at": "2026-11-01T21:41:31",
+      "event": "done: S7 continuity"
     }
   ],
-  "updated_at": "2026-11-01T21:35:23",
+  "updated_at": "2026-11-01T21:41:31",
   "midpoint_chapter": 16,
   "continuity_attempts": 0,
   "continuity_last_errors": null,
