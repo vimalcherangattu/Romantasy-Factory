@@ -1,41 +1,41 @@
 {
   "scores": {
-    "reader_question": 4.0,
-    "change": 4.0,
-    "romance_movement": 4.0,
-    "shown_chemistry": 4.0,
+    "reader_question": 3.0,
+    "change": 5.0,
+    "romance_movement": 5.0,
+    "shown_chemistry": 5.0,
     "character_logic": 3.0,
-    "stakes_and_cost": 3.0,
+    "stakes_and_cost": 4.0,
     "prose": 4.0,
-    "continuity": 0.0
+    "continuity": 5.0
   },
   "reasons": {
-    "reader_question": "Clear question at close: when the bond ends, what will they choose, and what of the unresolved writ orders?",
-    "change": "The law is drafted, Rohan gives up his veto, Meera is entered in the Closing Roll, and they return lawfully.",
-    "romance_movement": "There are new reasons for movement: count 207, the veto given up, her first ask for herself. Each lands on the page.",
-    "shown_chemistry": "Counting together, the measured glove and 'be kind quietly' all show responsive care, with almost no narrated feeling.",
-    "character_logic": "N1 removes Meera's alternative ('So there's no door'), so her chosen sacrifice becomes compliance. The measuring cord taken while she slept is acknowledged.",
-    "stakes_and_cost": "The veto costs Rohan, but the Roll costs Meera less than it should because she has no option left. The ending is soft.",
-    "prose": "Clean and specific, with no banned phrases. Some 'did not' stacking, and 'stall' is obscure. The counting motif echoes ch30.",
-    "continuity": "'Ten winters' holding the seal conflicts with F359 and ch30's twelve. Meera taking the bell conflicts with F268."
+    "reader_question": "Kiran's silence and the waiting cairn hold, but the closing hand-over-hand gesture mostly answers 'what will they choose' a chapter early.",
+    "change": "Law drafted, veto surrendered, Meera on the Roll for life, first thing asked for herself; power, record and relationship all move.",
+    "romance_movement": "New reasons each beat: being counted as 207, the glove, the Roll beside him, and 'Stay' as her first request for herself.",
+    "shown_chemistry": "Counting with her half a beat behind, the measured glove, 'be kind quietly', the bolt shot. All responsive action, no narrated chemistry.",
+    "character_logic": "The Roll's benefit is never explained. Why would a writ naming her close the assembly's hold on her crew's marks? Sharp Meera never asks.",
+    "stakes_and_cost": "Lifelong winter service and the lost veto are vivid costs. The price of the custody alternative is clear, but the Roll's payoff is fuzzy.",
+    "prose": "Clean, specific and varied, with no banned phrases or em dashes. The news section is summary-heavy and some last-act sentences run soft.",
+    "continuity": "Consistent with ch30 and the bible: glove fits thumb and two fingers, eight spans, the sprig, five stones, the latch callback, and Tej unnamed."
   },
   "fixes": [
-    "'Rohan had held the only seal on that road for ten winters': this is a continuity conflict with F359 and ch30 ('I enforced that law twelve winters'). Change it to 'twelve winters', or make it explicit that ten is his captaincy and twelve his service, so the reader can't read a contradiction.",
-    "'So there's no door.' / 'You walk in on my writ, or you are fetched': N1 makes the choice forced (irrational behaviour to extend plot), weakening technique 24. Keep the summer-road option real but costly. For example, she stays a held name, and her crew's marks stay open to the assembly's questioning until spring. Then 'I'll owe them winters. I'd give them anyway' is a free choice. Cut the Ila lockhouse-key line.",
-    "'watched Meera lift it down and thumb the tongue': this conflicts with F268 (Bindu fetches Badami's big bell from the goat pen in ch32). Have Meera thumb the bell and leave it on its peg, saying 'For the cairn. Bindu'll bring it.' Or send a ch32 revision note. Keep the Badami handover, which is strong."
+    "At 'Then you cross as a held name in my custody' (worldbuilding collapse, unexplained rule payoff): add one exchange showing what the Roll buys. For example, a named guide becomes a crown servant under the queen's writ, so the assembly's hold on her and her crew's marks passes to the queen's hand and the questioning stops. Let Meera ask this herself, sharply. Then her choice is reasoned, not assumed.",
+    "At 'put the lead into the hands of Roop and Chand' (continuity risk): Roop and Chand are bound until the Shilak thaw and may be needed at the cairn in ch32. Either state that Leela's orchard is half a day down and they will be back before the meltwater, or give Badami to someone unbound. Also match the bell's place to F268 (peg by the stair vs goat pen) and update that fact.",
+    "At 'Then she put her mittened hand over his and closed his fingers' (ending resolves rather than propels): this gesture pre-answers the book's bond question. Keep Rohan's open palm, then interrupt with the story itself. For example, a sound of running water from the cairn's south side, or Bindu calling from the lane, before Meera answers. Move her closing line to ch32."
   ],
-  "reader_question": "When meltwater ends the bond, will they retie by choice, and what will Rohan do with the orders to deliver the Salt Fox?",
+  "reader_question": "When meltwater runs at the cairn and the bond ends, will they tie themselves together by choice, and what does Kiran's silence mean he intends?",
   "techniques_landed": [
     9,
     14,
     24
   ],
-  "new_facts_assessment": "N1 is consistent but harmful: it forces Meera's hand and undercuts the beat's 'she chooses it'. The 'Ila's lockhouse key' line is unexplained. N2 is consistent with F066 and F372 but conflicts with F268, where Bindu fetches the bell from the goat pen in ch32. The draft's 'thumb and two fingers' glove is correct per the bible, so F262/F363 ('three fingers') should be corrected.",
+  "new_facts_assessment": "N1 (custody alternative) is necessary because it gives the Roll choice a real other option, and it is consistent. But it needs one line on why naming on the writ settles her held status. Several provisional facts need updating. F262 and F363 should say the glove has a thumb and two fingers. F273 should note that Kiran speaks once. F268 puts the bell in the goat pen, but here it hangs on a peg by the stair. F406 has Meera take the bell down, but here she leaves it. Sending Roop and Chand downhill risks their presence at the ch32 cairn (F274, F381).",
   "content_rule_violation": false,
   "failure_modes": [
-    "Irrational behaviour to extend plot"
+    "Worldbuilding collapse"
   ],
-  "average": 3.25,
-  "minimum": 0.0,
-  "passed": false
+  "average": 4.25,
+  "minimum": 3.0,
+  "passed": true
 }
