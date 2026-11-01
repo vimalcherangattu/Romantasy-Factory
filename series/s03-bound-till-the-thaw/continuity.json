@@ -2164,6 +2164,41 @@
       "fact": "Meera thinks plainly, in her own head, that she is the Salt Fox and that Rohan would hang her at the thaw if he connected the two. She says nothing aloud.",
       "since": "s03-bound-till-the-thaw-b01 ch 3",
       "provisional": true
+    },
+    {
+      "id": "F320",
+      "category": "magic",
+      "fact": "Stones of the old cairns and waystones hum when a bound pair lies near them and rise in pitch when one of the pair lies. They do not say which one. They are not a truth-test on their own; Meera judges truth by the sum of what is said and by the fingertips. Extends F015 and replaces F081's truth-detector use.",
+      "since": "s03-bound-till-the-thaw-b01 ch 5",
+      "provisional": true
+    },
+    {
+      "id": "F321",
+      "category": "relationship",
+      "fact": "The winter Meera was fifteen, on her first bound crossing with her mother, she went back for a dropped mitten past the rope's length and felt separation cold; her mother screamed. This retires the older childhood-rope-play fact (continuity F079); F080 stands.",
+      "since": "s03-bound-till-the-thaw-b01 ch 5",
+      "provisional": true
+    },
+    {
+      "id": "F322",
+      "category": "object",
+      "fact": "The lower hand in the waystone carving has a cut across the knuckles, which may be a scar, wear or the carver's intent. Meera and Rohan argue it without proof.",
+      "since": "s03-bound-till-the-thaw-b01 ch 5",
+      "provisional": true
+    },
+    {
+      "id": "F323",
+      "category": "knowledge",
+      "fact": "Rohan's lie 'It's nothing' about his ribs is small in his own measure: he hides the true damage because Meera said a worse answer would cost them a day and his Fair, and a refusal would have told her the same thing. He knows his fingertips will show it.",
+      "since": "s03-bound-till-the-thaw-b01 ch 5",
+      "provisional": true
+    },
+    {
+      "id": "F324",
+      "category": "knowledge",
+      "fact": "Rohan says that sharing the fire is harbouring with no story he could tell the post, unlike carrying the packets, which he could still call evidence in custody. Meera registers that the crew Rohan hunts for a dead warden is her own, with dread.",
+      "since": "s03-bound-till-the-thaw-b01 ch 5",
+      "provisional": true
     }
   ],
   "knowledge": [

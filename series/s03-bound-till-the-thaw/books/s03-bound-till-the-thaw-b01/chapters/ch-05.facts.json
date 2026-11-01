@@ -1,32 +1,34 @@
 {
   "facts": [
     {
-      "id": "F079",
-      "category": "relationship",
-      "fact": "The winter Meera was fifteen (fourteen winters before Book 1), on her first bound crossing with her mother, she went back for a dropped mitten a few paces past the rope's length and felt the rope's cold; her mother screamed. This replaces the earlier childhood-rope-play fact; Kiran is not part of the memory.",
-      "since": "s03-bound-till-the-thaw-b01 ch 5",
-      "provisional": true
-    },
-    {
-      "id": "F080",
+      "id": "N1",
       "category": "magic",
-      "fact": "The waystone at the foot of the Long Saddle climb hums low in wind and rises in pitch, with its blue cairn-light thickening, when a lie is told to a bound partner nearby; it stays low and level at a true answer. This extends F015 beyond the Shilak Cairn.",
-      "since": "s03-bound-till-the-thaw-b01 ch 5",
-      "provisional": true
+      "fact": "Stones of the old cairns and waystones hum when a bound pair lies near them and rise in pitch when one of the pair lies. They do not say which one. They are not a truth-test on their own; Meera judges truth by the sum of what is said and by the fingertips. Extends F015 and replaces F081's truth-detector use.",
+      "since": "ch 5"
     },
     {
-      "id": "F081",
-      "category": "knowledge",
-      "fact": "The warden chronicle phrase, from the first chronicle of the Shilak post, reads: 'Two brothers in arms. They crossed the closed pass bound by one rope, and the pass has stood open to the faithful ever since.' Crews tell it as a warden and a smuggler.",
-      "since": "s03-bound-till-the-thaw-b01 ch 5",
-      "provisional": true
+      "id": "N2",
+      "category": "relationship",
+      "fact": "The winter Meera was fifteen, on her first bound crossing with her mother, she went back for a dropped mitten past the rope's length and felt separation cold; her mother screamed. This retires the older childhood-rope-play fact (continuity F079); F080 stands.",
+      "since": "ch 5"
     },
     {
-      "id": "F082",
+      "id": "N3",
+      "category": "object",
+      "fact": "The lower hand in the waystone carving has a cut across the knuckles, which may be a scar, wear or the carver's intent. Meera and Rohan argue it without proof.",
+      "since": "ch 5"
+    },
+    {
+      "id": "N4",
       "category": "knowledge",
-      "fact": "Rohan hunted the Salt Fox crew for one winter because the law required it, and has hunted it two more winters for Dilan's sake; Meera notes the exact accounting.",
-      "since": "s03-bound-till-the-thaw-b01 ch 5",
-      "provisional": true
+      "fact": "Rohan's lie 'It's nothing' about his ribs is small in his own measure: he hides the true damage because Meera said a worse answer would cost them a day and his Fair, and a refusal would have told her the same thing. He knows his fingertips will show it.",
+      "since": "ch 5"
+    },
+    {
+      "id": "N5",
+      "category": "knowledge",
+      "fact": "Rohan says that sharing the fire is harbouring with no story he could tell the post, unlike carrying the packets, which he could still call evidence in custody. Meera registers that the crew Rohan hunts for a dead warden is her own, with dread.",
+      "since": "ch 5"
     }
   ]
 }
