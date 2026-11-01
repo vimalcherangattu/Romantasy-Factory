@@ -1,39 +1,14 @@
 {
   "facts": [
     {
-      "id": "N10-1",
       "category": "knowledge",
-      "fact": "Asha knows Meera of Shilak is the Salt Fox and puts a price on her: two hundred silver for the skin, a hundred more if she comes in quiet. Asha swears to bring her down alive. Needs an S2 ruling against F228 (Varun does not know; Asha may know separately).",
-      "since": "s03-bound-till-the-thaw-b01 ch 10",
-      "provisional": true
+      "fact": "Asha knows the red rope is eight spans and sits nine spans from the hut door, just beyond a bound guide's reach, so Meera cannot close the distance.",
+      "since": "ch 10"
     },
     {
-      "id": "N10-2",
-      "category": "knowledge",
-      "fact": "Asha says the regent will pay a lordship's purse in Neshar silver and a crown pardon for her crew, and claims he will have the queen's hand by midwinter.",
-      "since": "s03-bound-till-the-thaw-b01 ch 10",
-      "provisional": true
-    },
-    {
-      "id": "N10-3",
-      "category": "knowledge",
-      "fact": "Asha offers to add every Shilak name Meera gives her, including Kiran, to the regent's clerk's pardon list.",
-      "since": "s03-bound-till-the-thaw-b01 ch 10",
-      "provisional": true
-    },
-    {
-      "id": "N10-4",
-      "category": "place",
-      "fact": "A cairn stands on the rise above the Rope-Hut and hums through the slates when Rohan speaks a true word.",
-      "since": "s03-bound-till-the-thaw-b01 ch 10",
-      "provisional": true
-    },
-    {
-      "id": "N10-5",
-      "category": "knowledge",
-      "fact": "Meera deduces that 'three wardens' could only come from a paper written before the party was cut to two. She withholds this from Rohan as leverage. Rohan refuses to say whether the regent wants him dead or only the coat.",
-      "since": "s03-bound-till-the-thaw-b01 ch 10",
-      "provisional": true
+      "category": "object",
+      "fact": "Meera writes in the count: 'Three wardens, two goat-folk. Said by Asha's boy. We were two and two.'",
+      "since": "ch 10"
     }
   ]
 }

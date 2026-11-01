@@ -2255,6 +2255,20 @@
       "fact": "Meera deduces that 'three wardens' could only come from a paper written before the party was cut to two. She withholds this from Rohan as leverage. Rohan refuses to say whether the regent wants him dead or only the coat.",
       "since": "s03-bound-till-the-thaw-b01 ch 10",
       "provisional": true
+    },
+    {
+      "id": "F333",
+      "category": "knowledge",
+      "fact": "Asha knows the red rope is eight spans and sits nine spans from the hut door, just beyond a bound guide's reach, so Meera cannot close the distance.",
+      "since": "s03-bound-till-the-thaw-b01 ch 10",
+      "provisional": true
+    },
+    {
+      "id": "F334",
+      "category": "object",
+      "fact": "Meera writes in the count: 'Three wardens, two goat-folk. Said by Asha's boy. We were two and two.'",
+      "since": "s03-bound-till-the-thaw-b01 ch 10",
+      "provisional": true
     }
   ],
   "knowledge": [
