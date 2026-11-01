@@ -75,7 +75,7 @@
       }
     },
     "03": {
-      "status": "passed",
+      "status": "edited",
       "revisions": 0,
       "scores": {
         "reader_question": 4.0,
@@ -89,18 +89,18 @@
       },
       "average": 4.12,
       "flags": [],
-      "words": 3295,
+      "words": 3282,
       "minimum": 3.0,
       "style": {
-        "words": 3028,
+        "words": 3282,
         "banned_hits": {},
         "ai_tell_hits": {},
         "ai_tells_per_1000": 0.0,
-        "top_4gram": "one at a time",
+        "top_4gram": "hand pressed to his",
         "top_4gram_count": 3,
-        "longest_paragraph_words": 84,
-        "em_dashes_per_1000": 0.33,
-        "reading_ease": 95.4
+        "longest_paragraph_words": 104,
+        "em_dashes_per_1000": 0.3,
+        "reading_ease": 95.0
       },
       "owner_instructions": [
         "Consistency with the chapter 1 Salt Fox change. Where: any Meera interiority that dodges or veils her identity as the Salt Fox, for example while she sizes up Rohan or Varun. What to change: if her thoughts hide the name from the reader, let her name it plainly and briefly in her own head. She still says nothing aloud. If there is no such dodge, make no change."
@@ -2014,9 +2014,13 @@
     {
       "at": "2026-11-01T20:54:19",
       "event": "done: S8 line edit ch 1"
+    },
+    {
+      "at": "2026-11-01T20:54:55",
+      "event": "done: S8 line edit ch 3"
     }
   ],
-  "updated_at": "2026-11-01T20:54:19",
+  "updated_at": "2026-11-01T20:54:55",
   "midpoint_chapter": 16,
   "continuity_attempts": 1,
   "continuity_last_errors": 1,
