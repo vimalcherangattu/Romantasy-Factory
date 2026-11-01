@@ -2395,6 +2395,27 @@
       "fact": "Revises F350. In ch 20 Meera starts a half-false claim, her first two fingertips whiten, and she corrects herself, but the white stays for the full hour as the rule requires. She tells Rohan her hands cannot vouch for anything she says in that hour, says 'I want you' anyway, and he takes it unverified on her word. The colour has returned by the time they lie afterwards.",
       "since": "s03-bound-till-the-thaw-b01 ch 20",
       "provisional": true
+    },
+    {
+      "id": "F353",
+      "category": "relationship",
+      "fact": "Ila greets Rohan at the Fair by telling him he is two hours late and a belt-hole thinner (measured exactly, as a surveyor would). Revises F308's 'eight days late'.",
+      "since": "s03-bound-till-the-thaw-b01 ch 30",
+      "provisional": true
+    },
+    {
+      "id": "F354",
+      "category": "knowledge",
+      "fact": "At the Fair Pritam orders the forty to hold the herald and claims Neshar owes him eleven hundred measures of winter grain; Rohan answers that his bell mark is on every sack in Ranu. The officer's spear drops and he gives no order after Tej's sword belt lies on the grass.",
+      "since": "s03-bound-till-the-thaw-b01 ch 30",
+      "provisional": true
+    },
+    {
+      "id": "F355",
+      "category": "magic",
+      "fact": "Meera uses the rope signal of one long pull (come, per F128) to call Rohan away from Ila at the Fair; he leaves his sister mid-sentence and follows.",
+      "since": "s03-bound-till-the-thaw-b01 ch 30",
+      "provisional": true
     }
   ],
   "knowledge": [

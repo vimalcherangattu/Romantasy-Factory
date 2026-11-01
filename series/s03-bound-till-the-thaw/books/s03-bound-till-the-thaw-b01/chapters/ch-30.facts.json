@@ -1,34 +1,22 @@
 {
   "facts": [
     {
-      "category": "object",
-      "fact": "Rohan carries the queen's wax as a wafer in a flat tin, with a single line in her hand folded under it: 'Pritam holds Neshar for us and not for himself. We so say.' Signed Sarala. The seal impression shows a thumb-shaped thread of red.",
-      "why": "needed because the beat requires the pressing of the blood-mixed seal and the revoking of Pritam's claim on the page (C19)."
+      "id": "",
+      "category": "relationship",
+      "fact": "Ila greets Rohan at the Fair by telling him he is two hours late and a belt-hole thinner (measured exactly, as a surveyor would). Revises F308's 'eight days late'.",
+      "since": "s03-bound-till-the-thaw-b01 ch 30"
     },
     {
+      "id": "",
       "category": "knowledge",
-      "fact": "Meera's count records her crew by marks, not names; she enters it under her own name only, keeping the crew out of the record.",
-      "why": "needed because her public confession must not give up crew names (bible: she will not give up her crew)."
+      "fact": "At the Fair Pritam orders the forty to hold the herald and claims Neshar owes him eleven hundred measures of winter grain; Rohan answers that his bell mark is on every sack in Ranu. The officer's spear drops and he gives no order after Tej's sword belt lies on the grass.",
+      "since": "s03-bound-till-the-thaw-b01 ch 30"
     },
     {
-      "category": "object",
-      "fact": "The matching brass buttons share a nick filed in the rim; a clerk holds them together to confirm they are twins.",
-      "why": "needed to make the 'button matches' beat checkable on the page."
-    },
-    {
-      "category": "knowledge",
-      "fact": "A grey-bearded officer in a plain slate cloak lays his sword belt on the grass at the Fair and stands unarmed; no one names him.",
-      "why": "sets up Tej's exile (S6) without naming him; Meera does not know his name."
-    },
-    {
-      "category": "knowledge",
-      "fact": "Prince Kunal tells Meera her count is 'entered' and cannot be unsaid; he does not reveal himself as the masked buyer.",
-      "why": "needed to show the record holds her confession (S5 stays hidden)."
-    },
-    {
-      "category": "knowledge",
-      "fact": "Rohan says in his speech that he hanged two men under the Closing Law and one was a seventeen-year-old carrying salt to his mother.",
-      "why": "pays off F126 in the public admission; no new plot fact."
+      "id": "",
+      "category": "magic",
+      "fact": "Meera uses the rope signal of one long pull (come, per F128) to call Rohan away from Ila at the Fair; he leaves his sister mid-sentence and follows.",
+      "since": "s03-bound-till-the-thaw-b01 ch 30"
     }
   ]
 }
