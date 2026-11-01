@@ -2686,6 +2686,27 @@
       "fact": "Varun laughed at how long the pedlar took to find a brass button for his coat.",
       "since": "s03-bound-till-the-thaw-b01 ch 16",
       "provisional": true
+    },
+    {
+      "id": "F396",
+      "category": "object",
+      "fact": "Meera re-stitched the count's spine after every drop for ten winters, and sewed the brass button token into it the night after the last drop (the ch 1 drop). Corrects the earlier 'ten winters back' stitching; consistent with F052. Her match to Varun's coat button rests on it being new, brass, domed and plain, of the same pattern, with a shank never sewn to anything.",
+      "since": "s03-bound-till-the-thaw-b01 ch 28",
+      "provisional": true
+    },
+    {
+      "id": "F397",
+      "category": "injury",
+      "fact": "Nimmi says Meera's ring and little fingers must come off two days after the Fair, matching F260. Supersedes F245's 'a day after'.",
+      "since": "s03-bound-till-the-thaw-b01 ch 28",
+      "provisional": true
+    },
+    {
+      "id": "F398",
+      "category": "knowledge",
+      "fact": "Meera has seen the new brass button on Varun's coat in the Kothi yard (F060/F385) and tells Asha so; Asha independently saw one on the day Varun hired her.",
+      "since": "s03-bound-till-the-thaw-b01 ch 28",
+      "provisional": true
     }
   ],
   "knowledge": [

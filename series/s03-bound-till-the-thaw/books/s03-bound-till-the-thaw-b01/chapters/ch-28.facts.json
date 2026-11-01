@@ -1,19 +1,19 @@
 {
   "facts": [
     {
+      "id": "N1",
       "category": "object",
-      "fact": "The brass button token was stitched into the spine of the count; Meera picks three binding stitches loose with her thumbnail and a tooth to free it, leaving the spine gaping.",
-      "since": "s03-bound-till-the-thaw-b01 ch 28"
+      "fact": "Meera re-stitched the count's spine after every drop for ten winters, and sewed the brass button token into it the night after the last drop (the ch 1 drop). Corrects the earlier 'ten winters back' stitching; consistent with F052. Her match to Varun's coat button rests on it being new, brass, domed and plain, of the same pattern, with a shank never sewn to anything."
     },
     {
-      "category": "object",
-      "fact": "Crate marks on Meera's redbark drops: a bell scored through the stamp, then the stamp scraped off with a spoon in a left-handed scrape. Her page records ten winters of drops.",
-      "since": "s03-bound-till-the-thaw-b01 ch 28"
+      "id": "N2",
+      "category": "injury",
+      "fact": "Nimmi says Meera's ring and little fingers must come off two days after the Fair, matching F260. Supersedes F245's 'a day after'."
     },
     {
+      "id": "N3",
       "category": "knowledge",
-      "fact": "Rohan, bound by his promise of no more questions, stops himself at 'May I' and rephrases as an offer; Meera notes 'nearly's free'.",
-      "since": "s03-bound-till-the-thaw-b01 ch 28"
+      "fact": "Meera has seen the new brass button on Varun's coat in the Kothi yard (F060/F385) and tells Asha so; Asha independently saw one on the day Varun hired her."
     }
   ]
 }
