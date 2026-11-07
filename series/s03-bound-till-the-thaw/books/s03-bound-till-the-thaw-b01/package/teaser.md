@@ -1,15 +1,15 @@
 # Next in The Winter Passes: The Winter Oath
 
-Ila has measured every ridge in Hemkot except the ones that matter.
+Ila measures everything. Distances, slopes, the number of steps between a lie and the truth. At thirty-one she is the crown's best pass-surveyor, and she is one winter of work away from a title no woman has held: Chief Surveyor of Hemkot. All she has to do is finish the map.
 
-She is thirty-one, the queen's pass-surveyor, and brisk enough to correct a general's distances in front of his soldiers. Winter has shut her inside Neshar with a half-finished map, a commission with the royal archive's seal on it and one rule she has never broken: a map is true or it is false. It is never good or bad. It is never anyone's weapon.
+The map is the problem.
 
-Kunal knows better. He is thirty-three, a prince of Neshar with a courtier's smile and a rebel's habits, and he keeps three hidden routes in his head because whoever knows the way owns the people. He has read her commission. He thinks she is the queen's cartographer, sent to open his valley to garrisons.
+In the far valley of Neshar there are routes no crown surveyor has ever seen, because the people who use them have never shared them. The queen wants them on paper. The hill council wants them kept in the dark. And the one man who knows them all, Kunal, the rebel prince of Neshar, is thirty-three and charming, and answers every question with another question.
 
-She thinks he is his uncle's kind of prince.
+He thinks Ila's commission is a garrison waiting to happen. She thinks his rebellion is a prince's game of thrones. Then winter closes the pass, and the jogini do what the jogini do. A red rope. A cairn. Two names spoken to the stones. A bond that lasts until the thaw, in which every lie costs her a little more of her warmth than she can spare.
 
-Then the mountain gets a vote. A rope, a cairn, and a closed pass bind them together until the thaw, with ice that booms like a drum beneath their feet. Every true answer he gives about the hidden ways becomes a line on a crown map. Every true answer she gives about her orders tells him what she is drawing against his people. And somewhere below the Shilak Cairn, in the dark, is a debt that two courts have worked very hard to keep off every map.
+Ila has always believed a map is only ever true or false. On the rope, with a man who guards every secret route, she is about to learn that a true line still has to belong to someone.
 
-Ila can draw the passes so exactly that no one will ever lose them again. She can also draw them so exactly that no one can ever hide.
+Her pen can open Neshar to the crown. Her silence can keep it hidden. One of those choices will cost her the man she is bound to.
 
 Will Ila map the hidden passes for the queen, or hide them for Neshar?

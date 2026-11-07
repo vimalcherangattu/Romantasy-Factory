@@ -1,16 +1,20 @@
-Subject: Bound till the Thaw is live
+Subject: Bound till the Thaw is out today
 
-Hello, friend,
+Hello, my friend,
 
-The first Winter Passes book is out today, and I'm nervous and delighted in equal parts.
+It's here. *Bound till the Thaw*, Book 1 of The Winter Passes, is live today.
 
-Here is the heart of it. Meera is a smuggler-guide with a ledger as exact as a tax clerk's, racing medicine over a closed pass to her sick brother. Rohan is the warden captain who has sworn to hang her crew. The mountain spirits tie them together with one red rope, and on that rope every lie costs you body heat. Every true word between them is an intimacy, and also evidence.
+Meera is a smuggler-guide with twelve packets of medicine and a brother dying in a fever village. Rohan is the warden captain who has sworn to hang her crew. When an avalanche leaves them with only each other, the mountain spirits tie them together with one red rope.
 
-It's an enemies-to-lovers slow burn with forced proximity, one fire, a very bad law and a hero who learns to take orders from the heroine. There are two open-door scenes, a love story that earns its happy ending, and a world built on Himachal mountain folklore. It's also survival-heavy, with grief along the way, so go in knowing the cold is real.
+Here's the catch, and my favourite part to write: on that rope, every lie costs body heat. Every true word they say is a kind of closeness, and also a piece of evidence against her. She can't hide from him, and he can't hide behind the law.
 
-You can get it here: {{AMAZON_LINK}}
+It's enemies to lovers, forced proximity and slow burn, with a happy ending and an open door when the heat finally comes. It's cold, high-stakes and tender in the right places. Each book in the series is a complete romance, so you can start here and not feel left hanging.
 
-If you enjoy it, a short review helps other readers find Meera and Rohan more than you'd guess. Reply to this email and tell me which line stuck with you. I read every one.
+Grab it here: {{AMAZON_LINK}}
+
+It's free to read on Kindle Unlimited. And if you enjoy it, a short review helps other readers find it more than you'd think.
+
+Thank you for being here from the start.
 
 Warmly,
-Mira Sangla
+Mira

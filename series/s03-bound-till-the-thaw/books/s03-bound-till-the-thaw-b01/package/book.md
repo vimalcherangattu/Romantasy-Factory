@@ -1,6 +1,6 @@
 # Bound till the Thaw {.unnumbered .unlisted}
 
-*An Enemies-to-Lovers Mountain Romantasy*
+*An Enemies-to-Lovers Romantasy*
 
 The Winter Passes, Book 1
 
@@ -230,15 +230,15 @@ Meera did not say please. She did not say anything at all.
 
 The fourth plank in the weighing-room floor came up with a groan. Under it lay dust, a dead mouse and nothing else.
 
-Rohan set the plank back and pressed it flat with his boot. He had been in the salt house two hours. His wardens had gone through the three timber floors and the loft, and the corporal had pulled every stair tread to look behind it. They had found goat harness, forty sacks of rock salt wearing the Guild's mark, and a whole wall of pass rope coiled by length on pegs. The pen below he had kept for last. A pen could not be searched fast, and a man who hurried one missed things.
+Rohan set the plank back and pressed it flat with his boot. He was thirty-five years old and had been in the salt house two hours. His wardens had gone through the three timber floors and the loft, and the corporal had pulled every stair tread to look behind it. They had found goat harness, forty sacks of rock salt wearing the Guild's mark, and a whole wall of pass rope coiled by length on pegs. The pen below he had kept for last. A pen could not be searched fast, and a man who hurried one missed things.
 
 Pass rope was legal to own. That was the trouble with the law. It hanged a man for crossing and let him keep the rope.
 
-The woman who answered for the goat-keeper had followed him from room to room, never closer than six paces, hands folded before her. Her lips moved. He had noticed it on the first floor, and by the second he had stopped pretending he hadn't. She was counting, and not the salt sacks or the wardens. Eleven steps from the stair head to the pen ladder. Nine across the weighing room. Her murmur kept time with his boots, as if she were learning the length of his stride.
+The woman who answered for the goat-keeper had followed him from room to room, never closer than six paces, hands folded before her. Her lips moved. He had noticed it on the first floor, and by the second he had stopped pretending he hadn't. She was counting, and not the salt sacks or the wardens. Eleven steps from the stair head to the pen ladder. Nine across the weighing room. Her murmur kept time with his boots, like a woman learning the length of his stride.
 
 Recruits counted when they were afraid. Few counted a stranger.
 
-The pen was warm and low and stank of wet wool. Goats shifted in their stalls, and a man with a hay fork stood among them. In the far corner six wool bales stood against the wall, corded and pressed. A thin woman sat on the nearest with a red rope across her lap and her eyes on her knuckles. Rohan walked within an arm of her. Behind him the counting stopped, started again and skipped a number.
+The pen was warm and low and stank of wet wool. Goats shifted in their stalls, and a man with a hay fork stood among them. In the far corner six wool bales leaned against the wall, corded and pressed. A thin woman sat on the nearest with a red rope across her lap and her eyes on her knuckles. Rohan walked within an arm of her. Behind him the counting stopped, started again and skipped a number.
 
 "Probe," he said.
 
@@ -266,17 +266,17 @@ It was not all.
 
 Under his collar, in a pocket sewn into the seam at the nape of his coat, lay a lapis stone the length of a thumb joint, cut with a mountain goat. The queen's seal. Regent Pritam meant to stand on the Snow Fair ground at midwinter and be invested lord of Neshar, on the claim that the queen was dying. The queen was ill. She was not dead, and the seal pressed before the assembly would say so in the only voice the hill lords obeyed. Without it, Rohan was a captain with a story, and Pritam had captains of his own.
 
-Inside his coat lay a second paper, sealed. One line in it he had read until the words went smooth. *Bring in the Salt Fox at the thaw.* For three winters he had followed that crew's tracks, found their crates and never their faces. He did not know why a queen who signed a hanging law wanted the fox delivered and not hanged. He had not asked. A captain who asked why was halfway to deciding not to.
+Inside his coat lay a second paper, its seal broken once and pressed flat since. One line in it he had read until the words went smooth. *Bring in the Salt Fox at the thaw.* For three winters he had followed that crew's tracks, found their crates and never their faces. He did not know why a queen who kept a hanging law wanted the fox delivered and not hanged. He had not asked. A captain who asked why was halfway to deciding not to.
 
 "Two wardens cross," he said aloud. "Myself and my lieutenant. With two guides to tie the rope. The rest of my men return to the post."
 
-"Two guides," said the woman from the doorway. She had come up behind him without a sound. "Those are the rules, are they? One pair for the Saddle?"
+"Two guides," said the woman at his shoulder. She had come up without a sound. "Those are the rules, are they? One pair for the Saddle?"
 
 "Two pairs. The mountain's rules, Guide, not mine."
 
 "Then you know them better than most wardens." She said it as if she were entering it in a book.
 
-"One question before we speak of guides," Rohan said, "and I will say what it is for. Two winters ago a warden of mine, Dilan, died on the ice below the Saddle, chasing a smuggler in a storm. He was twenty-three. The report of it runs four lines. It says that where the chase ended there was blood on the ice, and a curl of frozen cartilage no longer than a fingernail, as if someone had left part of himself behind." He kept his hand away from his coat pocket. "A man who loses the rim of an ear leaves that. Who in this village froze an ear on the pass?"
+"One question before we speak of guides," Rohan said, "and I will say what it is for. Two winters ago a warden of mine, Dilan, died on the ice below the Saddle, chasing a smuggler in a storm. He was twenty-three. The report of it runs four lines. It says that where the chase ended there was blood on the ice, and a scrap of skin frozen fast to it, torn from the rim of an ear." He kept his hand away from his coat pocket. "A man whose ear froze to the ice leaves that. Who in this village froze an ear on the pass?"
 
 Nobody spoke. A goat bell clanked in the pen. Rohan had asked a great many yards a great many questions, and he knew the quiet of people with nothing to tell. This was another kind. It was a village looking at its boots.
 
@@ -302,7 +302,7 @@ She had not answered his question. She had set a bigger one in front of it, and 
 
 "You called me Guide in there. You said it as if you'd checked it." One corner of her mouth lifted and went flat again. "I'd keep it. It's the one you can prove."
 
-He could have pressed. A warden had the right. But a name given under a writ was a name entered somewhere, and he found he did not want hers by force, not yet. He noted the refusal beside the other things she had not answered.
+He could have pressed. A warden had the right. But a name given under a writ was a name entered somewhere. He noted the refusal beside the other things she had not answered.
 
 "Jassi," he said. "You will take my party over the Saddle at first light."
 
@@ -322,7 +322,9 @@ Jassi's eyes slid sideways, and he did not manage to stop them.
 
 "I've argued with you in front of everyone," she said, "and I haven't told you one false word. Count them. Then tell me who else walks the Long Saddle in winter. Name him."
 
-He didn't. There was no one. The wardens had hanged the ones they caught and the rest had learned to be somebody else. If he took Jassi and left her, Jassi would stay in the yard. If he took Jassi in chains, a bound pair needed a willing hand on the other end of the rope. And a guide who would not lie to his face was a rarer thing than a guide who knew the mountain. He had hunted this village three winters and had not met one.
+He did count. Two hours ago, in the doorway, she had said Jassi had a cold in his chest and was deaf in the left ear. Jassi had just answered him from across a noisy yard, and the left ear had missed nothing. One. He kept the number and said nothing of it.
+
+And he could not name the man she asked for. There was no one. The wardens had hanged the ones they caught and the rest had learned to be somebody else. If he took Jassi and left her, Jassi would stay in the yard. If he took Jassi in chains, a bound pair needed a willing hand on the other end of the rope. A guide whose lies he could count was a rarer thing than a guide who knew the mountain. He had hunted this village three winters and had not met one.
 
 "Cross with a captain who hangs smugglers," he said, "and you may not come back."
 
@@ -330,13 +332,13 @@ He didn't. There was no one. The wardens had hanged the ones they caught and the
 
 Jassi muttered something about his knees. She did not look at him.
 
-Rohan studied her. He did not like that she wanted to go. He liked less that he understood why. An old man, a killing pass, and a person who would rather walk beside him than let him walk it alone. He knew that sum. He had done it for Dilan, and the answer had come out as a rope end in his pocket.
+Rohan studied her. He did not like that she wanted to go. He liked less that he understood why. An old man, a killing pass, and a person who would rather walk beside him than let him walk it alone. He knew that sum, and had never liked the answer.
 
 "Jassi crosses with me," he said. "My lieutenant takes the second. Each pair watches the other's guide. If either guide turns for the lowlands, I still have the other."
 
 "Fair," said the guide. Her mouth moved, a count of something, and then she added, "Captain."
 
-She had said the word twice already, and both times it had been a blade. This time it sounded less like respect than like a name written down so it would not be lost.
+It sounded less like respect than like a name written down so it would not be lost.
 
 
 ::: {.scene-break}
@@ -350,13 +352,11 @@ Varun was in the mill billet, sitting on an upturned bucket with a rag and a lam
 
 "I found rope."
 
-"They'll hang us with theirs one day." Varun held up the coat. On the front, in a row of pewter buttons dulled by weather, sat one of brass. Cheap, bright, wrong, its shank still stiff. "Don't say it. I know. Lost one on the stair this morning. A pedlar had this in his tray, and the quartermaster's stores are two weeks away. It matches nothing and it offends me."
+"They'll hang us with theirs one day." Varun held up the coat. "Look at this. Lost my pewter button on the stair this morning, the good one with the worn crown. The quartermaster's tin held nothing to match, so now I wear brass, in a row of pewter. Cheap, bright, new, wrong. And the cuff is frayed, and the polish they issue is half chalk. I am being asked to defend the realm in a ragged sleeve."
 
 "It offends the regulation," Rohan said.
 
-"I am the regulation's last friend." He breathed on the brass and polished it against his sleeve. Varun had once made a recruit unpick a seam for being a finger-width off. It was why Rohan trusted him. A man who cared that much about buttons did not cut corners with lives.
-
-"While you were pulling up floors," Varun said, "I walked both approaches to the Saddle. The face has a cornice you could hang a cow from. The gully is longer and ugly, but it sits out of the wind. I've chosen the gully. Safer."
+"I am the regulation's last friend." Varun breathed on the cuff and rubbed at it. "While you were pulling up floors, I walked both approaches to the Saddle. The face has a cornice you could hang a cow from. The gully is longer and ugly, but it sits out of the wind. I've chosen the gully. Safer."
 
 "The guides will have a view."
 
@@ -364,7 +364,7 @@ Varun was in the mill billet, sitting on an upturned bucket with a rag and a lam
 
 Rohan thought of the cornice, and of his own twenty days, and found nothing to object to. "The gully," he said. "Tell the guides at first light."
 
-"Captain-ji." Varun went back to his button.
+"Captain-ji." Varun went back to his sleeve.
 
 
 ::: {.scene-break}
@@ -374,9 +374,9 @@ Rohan thought of the cornice, and of his own twenty days, and found nothing to o
 
 The fine for Puja's house was eighteen silver, and the notice had been nailed to her door since the last sweep.
 
-Rohan had read it that morning, passing. Salt found in a lean-to, a dead husband's stock, taken and sold. The Closing Law allowed the crown to take the goods and the fine, or the house in place of the fine. After nightfall the village was quiet except for coughing behind shutters and a dog complaining about the cold. He walked down the lane alone, without a lamp, and knocked once.
+Rohan had read it that morning, passing. Salt found in a lean-to, a dead husband's stock, taken and sold. The Closing Law allowed the crown to take the goods and the fine, or the house in place of the fine. After nightfall the village was quiet except for coughing behind shutters and a dog complaining about the cold. Smoke from a hundred small fires hung flat over the roofs. He walked down the lane alone, without a lamp, and knocked once.
 
-She was small, grey-haired and sharp-boned, and she opened the door the width of her face.
+She was small, grey-haired and sharp-boned, and she opened the door the width of her face. Behind her a child's cough started and was hushed.
 
 "Captain." Her voice did not shake. "The fine is due at the next sweep. I've not forgotten it."
 
@@ -386,7 +386,7 @@ She did not take it. Her eyes went from the purse to his face and back, as one r
 
 "I have no cousin who has eighteen silver."
 
-"Then you have a cousin with a good heart, and you will not tell anyone his name." He put the purse in her hand and closed her fingers over it. "Especially not mine. If the village learns wardens pay fines, the next widow will wait for me instead of for the harvest."
+"Then you have a cousin with a good heart, and you will not tell anyone his name." He put the purse in her hand and closed her fingers over it. They were cold and hard as roots. "Especially not mine. If the village learns wardens pay fines, the next widow will wait for me instead of for the harvest."
 
 "That's not why you're saying it."
 
@@ -400,9 +400,7 @@ He turned up the lane. The cold took his breath as he went. Halfway to the mill,
 
 The salt-house door stood open a hand's breadth, with lamplight behind it. The guide stood in the gap with her arms crossed, awake at that hour and watching him. She had seen him leave Puja's step. He could not tell what she had seen him do.
 
-He might have said something. A smuggler's accomplice knew better than to ask a warden questions, and a warden knew better than to answer them.
-
-He walked past. She let him. Neither of them said a word.
+A smuggler's accomplice knew better than to ask a warden questions, and a warden knew better than to answer them. He went by her door at the same pace as before. She let him.
 
 
 ::: {.scene-break}
@@ -424,7 +422,7 @@ Across the yard the ropemaker bent over the next pack with her back to him, humm
 
 Rohan did not look at the stalls below the salt house, or at the stair, or at the guide, who was just coming through the doorway with a coil of red rope on her shoulder. He folded the tuft of fleece back under the strap, rubbed his fingers once more against his palm, and put what was left of the powder in his pocket.
 
-By the letter of the Closing Law, a warden who knew of a load and let it cross was harbouring it, and the rope was the same for a captain as for a goatherd. He had written no report and would write none. But the powder was going where the Fox's crew was going, and the Fox was the one name his sealed orders gave him. If he followed the medicine, it might lead him to the hand behind it.
+A warden who let a known load cross was harbouring it, by the letter of the law, and the rope for that was the same rope.
 
 Then he went to find his lieutenant, and said nothing.
 
@@ -476,11 +474,11 @@ He dropped back to walk beside her. He did that on a bad slope. He never said wh
 
 "You can hear them in your sleep." She fished in her coat, found the spare mitten liners she had stitched in autumn, and shoved them at his chest. "Wear these under the gloves. Your hands were blue at the last halt, and don't tell me it's your age."
 
-"It's my age." But he put them on, and his face loosened as the wool warmed him. "My sister has apricot trees. Did I tell you?"
+"It's my age." But he put them on, and his face loosened as the wool warmed him. "My sister Leela has apricot trees. Did I tell you?"
 
 "Twice a day for six winters."
 
-"Forty trees. They bloom white, in the third week of spring, and you sit under them and the petals get in your tea." He grinned. "Badami will like it. She's too old for this run, so I left her in the pen. She'll walk the whole orchard like she owns it. She'll eat the fallen fruit and be sick, and she'll deserve it."
+"Forty trees. They bloom white in the third week of spring, and the petals get in your tea. Badami's too old for this run, so I left her in the pen. She'll walk that orchard like she owns it, eat the fallen fruit and be sick, and she'll deserve it."
 
 "Badami has your bell?"
 
@@ -502,9 +500,9 @@ They crossed the bowl as she had said, one at a time.
 
 Jassi went first with the goats, a dark string on white. Then Meera. Rohan was to hold thirty paces behind her, and Varun thirty behind him.
 
-At the halfway mark she glanced back, as she always did, to check her spacing. Rohan was not thirty paces off. He was ten, and coming on, his eyes on the slope above and not on his feet, one hand pressed to his side. When she looked again, he was eight.
+At the halfway mark she glanced back, as she always did, to check her spacing. Rohan was not thirty paces off. He was ten, and coming on, his eyes on the slope above and not on his feet. When she looked again, he was eight.
 
-She opened her mouth to snap at him. Then she shut it, because shouting on that slab was stupid, and turned her face to the rock band. She resented every step he gained. Her rule was her rule. He was a warden who had never once been told what to do by a smuggler, and he had decided that on this slope he would stay close.
+She opened her mouth to snap at him. Then she shut it, because shouting on that slab was stupid, and turned her face to the rock band. Her rule was her rule. He was a warden who had never once been told what to do by a smuggler, and he had decided that on this slope he would stay close.
 
 Behind them, far down the line, Varun's voice carried up, easy and unhurried. "Captain-ji! Strap's gone on my pack. Go on, I'll catch you."
 
@@ -528,7 +526,7 @@ Jassi turned. His face was small and white at thirty paces, and he lifted his ha
 
 A hand fisted in the back of her coat and she left the ground.
 
-He had run the last of the gap. She understood that later, when she could think. Then she only flew, and had time to think, with great clearness, that she was being thrown. Her shoulder struck rock and she was in a hollow behind a boulder as big as a cart, and something heavy came down across the world.
+He had run the last of the gap. She understood that later, when she could think. Then she only flew. Her shoulder struck rock and she was in a hollow behind a boulder as big as a cart, and something heavy came down across the world.
 
 The first slide poured over the boulder and went on. It was loud. The second was quiet, and worse. The snow came in a long dense roll, like a wet fleece pulled over a face, and over her head rose a sound that was a man taking it across the back.
 
@@ -566,7 +564,7 @@ Rohan worked at the other end of the field. He had found the place where his lie
 
 "The line goes down. He would have been taken down the bowl."
 
-"Yes." Rohan stood a while with his good hand pressed to his side. "We dug the bowl. We have dug everything below."
+"Yes." Rohan stood a while, breathing in shallow sips. "We dug the bowl. We have dug everything below."
 
 "Then he's deeper," Meera said, because there was nothing else to say. She did not look at his face. He had walked beside the man for years.
 
@@ -584,9 +582,9 @@ Badami's kid bell.
 
 Meera sat back on her heels.
 
-She had thought she would shout. She had thought something in her would break open, and instead it went quiet, like a lamp turned down. Six on the slope. Six, and Bindu singing, and the orchard in the third week of spring. Forty trees.
+She had thought she would shout. Instead something in her went quiet, like a lamp turned down. Six on the slope. Six, and Bindu singing, and Leela's forty trees in the third week of spring.
 
-"Guide," Rohan said, behind her. He did not touch her. He stood a careful distance off, one hand pressed to his ribs.
+"Guide," Rohan said, behind her. He did not touch her. He stood a careful distance off, his left arm held low against him.
 
 "Don't."
 
@@ -608,7 +606,7 @@ The redbark was safe. Jassi was dead. She stood in the blue dusk with her brothe
 
 "Your mountain," said Rohan.
 
-He had lowered himself onto a rock, and the way he did it, one slow inch at a time, told her what the slide had done. A hand held his side. Grey showed round his mouth.
+He had lowered himself onto a rock, and the way he did it, one slow inch at a time, told her what the slide had done. Grey showed round his mouth.
 
 "Ribs?" she said.
 
@@ -646,7 +644,7 @@ He did.
 
 She had no answer to that. "No talking until the rock band. Wind carries it and I want to hear the slope."
 
-He nodded once and got to his feet by the long way round, with a small hiss through his teeth. He took each order the way a man takes a wage, quietly and in full, all the way up the last of the gully, and never once raised his voice or his eyebrow. She kept glancing back for the catch. It never came.
+He nodded once and got to his feet by the long way round, with a small hiss through his teeth. He took each order the way a man takes a wage, quietly and in full, all the way up the last of the gully. She kept glancing back for the catch. It never came.
 
 The rock band came and went. Beyond it the ground flattened, and the wind changed, and at a turn of the ridge, with the stars coming out like salt on slate, the cairn stood waiting.
 
@@ -664,25 +662,25 @@ Meera stepped over the lowest course and felt the hum fold round her ankles. Roh
 
 "The rest is short." She unslung the rope. "Behind us the approach is buried. In front of us is the pass, and the Long Saddle in winter is a lie without a line to follow. Nobody crosses alone. A single person loses the path inside an hour, and then the mountain takes them." She let out the red coil in her hands, eight arm-spans of madder-dyed wool, soft as a sleeve. "It takes a pair, with this. Both ends. Both names."
 
-Rohan looked at the rope. He did not look like a man who loved it. He looked like a man who had hanged people for owning one.
+Rohan looked at the rope. He did not look like a man who loved it. He looked like a man who had hanged people for crossing on one.
 
 "If I refuse, I stand here alone."
 
-"If you refuse, you stand here until the cold finishes. I'll go on and I won't be able to stop." She said it flatly because it was the truth. Not a threat, a count. "I'm not asking you to like it. I'm saying it's the only road with both of us alive at the end."
+"You stand here till the cold finishes you, and I lose the line inside the hour. Two dead instead of none." She said it flatly because it was the truth. Not a threat, a count. "I'm not asking you to like it. It's the only road with both of us alive at the end."
 
 "And the medicine in your pack?"
 
 She stopped.
 
-The question was quiet, light as a cough. For a moment she heard only the hum. Then her mind ran the sum fast and cold. He knew. He had said it with her pack on her back and the whole mountain empty around them, and he had not seized it, not in the yard and not on the slope, where he could have taken it from a woman too tired to fight. A warden who knew and did nothing was a warden who wanted something, or had already chosen. She could not tell which. She could not even tell when he had learned it.
+The question was quiet, light as a cough. For a moment she heard only the hum. Then her mind ran the sum fast and cold. He knew. He had said it with her pack on her back and the whole mountain empty around them, and he had not seized it, not in the yard and not on the slope, where he could have taken it from a woman too tired to fight. A warden who knew and did nothing wanted something, or had already chosen. She could not tell which.
 
-Answering would tell him what it was for. Silence told him she had heard. Either way, he now knew what she carried, and she knew he knew.
+Answering would tell him what it was for. Silence told him she had heard. Either way he knew what she carried, and she knew he knew.
 
-Silence was free. She had learned that at six winters old, from a mother who kept the family's every secret in her teeth. She took it. It cost her the one thing she had wanted to keep, which was that he did not know she was hiding anything.
+Silence was free. She had learned that at six winters old, from a mother who kept the family's every secret in her teeth. She took it. What it cost was the chance to learn his plan. He had laid the question down like a coin on a table and waited, and by saying nothing she had left the coin unturned. She still did not know what he meant to do with what he knew.
 
 "Give me your left wrist," she said.
 
-He held it out, bare, the glove stripped off. The bones were fine and the pulse jumped at the thumb. She looped the red wool twice and tied the knot Bindu sang. Two over, one under, the third one tells the truth. The wool was already warm from her hands.
+He held it out, bare, the glove stripped off. The pulse jumped at the thumb. She looped the red wool twice and tied the knot Bindu sang. Two over, one under, the third one tells the truth. The wool was already warm from her hands.
 
 "Now yours," she said.
 
@@ -704,9 +702,9 @@ The winter line. The mountain's road. It stretched out ahead of them, bright, an
 
 Rohan stared at it. He had gone very still.
 
-"I have seen a hundred cairns," he said. "I have never seen one light."
+"I have crossed by writ before, with the post's paired guides," he said. "The line showed a lamp's throw at best. I have never seen it run so far ahead, so fast."
 
-"You never stood in one tied to a smuggler," said Meera.
+"Paid guides tie for the fee," said Meera. "The mountain can tell."
 
 He turned to look at her. In the blue light the lines of his face were hard and tired, and the bruise along his jaw had already started to come up. He was the man who hunted the Salt Fox, and she was the Salt Fox. He would hang her at the thaw if he ever put the two together. She was on a rope with him, and she owed him her life, and the rope would not let her step beyond eight arm-spans from his side.
 
@@ -718,9 +716,15 @@ She held the bell through her coat, a hard small lump over her heart.
 
 "Because my brother is dying there," she said.
 
-The stones did not ring. The hum went on, steady and low, and then it dropped half a note, the way a bowl's song falls when a wet finger leaves the rim.
+The hum dropped half a note, the way a bowl's song falls when a wet finger leaves the rim. The stones had heard a true thing. But a warden could not read cairn-song, and the stones never said who had spoken. The dip might have come from either of them, and he would have to take it on her word. She glanced down at her own fingertips, still pink in the blue light. They were the only proof he could read.
 
-It was the first true thing she had given him for nothing. Nothing in the world would take it back.
+Rohan did not look at her hands. He did not reach for his notebook or his writ or the wrist she had tied. He turned his face up the lit line, where it climbed toward the saddle, and looked at it a long moment.
+
+"Then we go," he said.
+
+He stepped past her onto the path, and set his boot down exactly in her footprint, unasked.
+
+Meera went after him, then stopped, because the line was hers to lead. She took the front and climbed, and behind her his steps came, one in each of hers. Her lips began to move. Twelve. Thirteen. She went on until she reached a number she had no word to put beside, and her lips went still.
 
 # Chapter 4: Watch My Hands
 
@@ -2898,7 +2902,7 @@ He looked at the shrine's small fire. She was on the list, and he had struck her
 
 Dusk came down early and blue. In the hut the chulha ticked as it warmed, and Meera knelt at the shelf by the wall with the juniper bundle between her knees. The sticks were pale and dry and about the length of a forearm. She laid them on the shelf in a row and touched each one, moving her lips.
 
-"Nineteen," she said. "Five for the night. That leaves fourteen."
+"Nineteen," she said. "The deadfall carried last night on one dry stick, and smoked us for it. Five for the night. That leaves fourteen."
 
 "And eleven days to the Fair," said Rohan. "By my count."
 
@@ -3478,17 +3482,17 @@ Eleven sticks. And past eight arm-spans of rope, the mountain would not let eith
 
 # Chapter 16: What the Storm Kept
 
-For one stupid breath, Meera thought the rope tied her to the door.
+The third stick skidded over the sill, and the wind took it down the slope like a thrown knife.
 
-Then the second stick slid past the sill, and her head cleared. The rope did not tie her to a doorway. It tied her to Rohan.
+"The wood!" Rohan shouted.
 
-"Together!" she shouted into the roar. "Same pace, rope short! Stay on my left!"
+"Together!" Meera was already through the door. "Same pace, rope short! Stay on my left!"
 
-They went out into it shoulder to shoulder. Snow came flat across the slope and filled her mouth. The cairn-light was out there, though, a blue thread under the white, and by its glow she saw the pale sticks skidding downhill toward the wind-felled juniper. She went down on her knees and swept her arm through the drift. One. Two. Rohan crouched beside her, working one-handed, his left arm clamped to his side. He pulled a stick from the snow and held it up, grinning like a boy.
+They went out shoulder to shoulder. Snow came flat across the slope and filled her mouth. The cairn-light was out there, a blue thread under the white, and by its glow she saw the pale sticks skidding toward the wind-felled juniper. She went down on her knees and swept her arm through the drift. One. Two. Rohan crouched beside her, working one-handed, his left arm clamped to his ribs. He dragged a stick from the snow and shoved it inside his coat, then reached for the next.
 
 "Four," she yelled. "Five!"
 
-The sixth was wedged in the juniper's root plate. The seventh lay half buried under her own knee. After that there was nothing. She felt along the deadfall's trunk until the wind drove her off, and then she saw the rest go. Four pale lines slid over the lip of the slope into the dark, and the dark took them.
+The sixth was wedged in the juniper's root plate. The seventh lay half buried under her own knee. After that there was nothing. She felt along the trunk until the wind drove her off, and then she watched the rest go. Four pale lines slid over the lip of the slope into the dark, and the dark took them.
 
 "Seven," said Rohan in her ear. His breath rattled, but it was only the ribs. "Meera. Seven is what there is."
 
@@ -3496,7 +3500,7 @@ The sixth was wedged in the juniper's root plate. The seventh lay half buried un
 
 "Then count inside."
 
-They went in. It took both of them to haul the oak slab back onto its hinges. She wedged the split bar against it, lashed the halves with Jassi's goat-hair cord, and jammed her pack against the foot. The wind still found the gaps. It whistled through the seam like a kettle.
+Eight spans of rope ran between the two of them, not out from the sill, and that was the only reason the mountain had let them go so far from the door. They went in. It took both of them to haul the oak slab back onto its hinges. She wedged the split bar against it, lashed the halves with Jassi's goat-hair cord, and jammed her pack against the foot. The wind still found the gaps. It whistled through the seam like a kettle.
 
 She sat down on the hearth stones and found she was shaking, and not from cold.
 
@@ -3510,43 +3514,43 @@ She laid the sticks across her knees where the snow couldn't get at them. Seven 
 
 "Five for the night," she said. "That's what a storm night costs when the fire's honest and the door's bad. Two left for morning. After that, the deadfall. Wet wood, and no way to keep it lit."
 
-"And tomorrow?"
+"And if it blows on past dawn?"
 
-"If it blows out by dawn, we find another line down. If it doesn't, we sit." She turned a stick over. "I can do all that arithmetic. There's one more sum, and it's the one that matters."
+"Then we sit." She turned a stick over. "That's the wood. There's another sum, and it's the one that matters."
 
 Rohan had set himself against the wall across from her with the pattu round his shoulders. The fire put red along his cheek and none in his eyes.
 
 "Say it."
 
-"Fire doesn't warm lie-cold." Her voice went level, the way it did at a cornice. "Not a small one. Not a joke that isn't quite a joke. We have seven sticks, Captain. If either of us lies tonight, it's a night of shaking and no way to put it out. So no lies. Nothing but the true thing, whatever it costs, and we spend what we have to."
+"Fire doesn't warm lie-cold." Her voice went level, the way it did at a cornice. "So a lie tonight means a night of shaking beside a fire that can't help. We can't pay for that on top of the storm. No lies, Captain. Not a small one. Not a joke that isn't quite a joke. Nothing but the true thing, and we spend what we have to."
 
 "That is a harder rule than the firewood."
 
 "It's the same rule. We just never said so."
 
-He looked at the fire. He looked at her hands, lying open and ordinary in her lap. "You have wanted to say something," he said slowly, "since the hearth stone."
+He looked at the fire. He looked at her hands, lying open and ordinary in her lap. "Then I spend my question for the night," he said slowly, "and I will not waste it. Who is the Salt Fox?"
 
-"Since the yard."
+The wind leaned on the door.
 
-"Then say it. I will not hold the stick for you."
+A refusal would burn a sixth stick, and a sixth was tomorrow's. She had set that rule herself, days back, to make evasion cost something. It had never cost this much.
 
-She had rehearsed it for ten days. In the rehearsals it came out as a speech, with the crew's reasons ranked in order and a dying brother at the end for weight. None of that came now. What came was the deodar outside the Kothi gate, and its pegs, one for every hanging, two of them pale from last winter. There was a third hole, the empty one. She had counted it every morning for three winters.
+She had rehearsed the answer for ten days. In the rehearsals it came out as a speech, with the crew's reasons ranked in order and a dying brother at the end for weight. None of that came now. What came was the deodar outside the Kothi gate, and its pegs, one for every hanging, two of them pale from last winter. There was a third hole, the empty one. She had counted it every morning for three winters.
 
-The truth would not cost her a finger. Truth was warm. That was the trap in it. A refusal would burn a sixth stick, and a sixth was tomorrow's. She could not buy her way out of this with wood.
+Truth was warm. That was the trap in it. She could not buy her way out of this with wood.
 
 "I am the Salt Fox," said Meera.
 
-The fire ticked. She watched her own fingers, because that was where a lie would show, and they stayed pink and warm and bent a little at the split knuckle. The wind howled at the door and nothing in the hut answered it.
+The fire ticked. She watched her own fingers, because that was where a lie would show, and they stayed pink and warm and bent a little at the split knuckle. Outside, the storm howled and nothing in the hut answered it.
 
 "It isn't a crew," she said. "Not the way your post files it. It's me. I run it. I've run it ten winters. The packets in my pack are mine and the debt's mine, and every salt-house cellar you've seized was one of my doors." She did not stop. "That's the true thing. You can do what you want with it."
 
-Rohan did not move. Silence was free, and he spent it. It ran on until the fire cracked in it. She looked at his hands resting on his knees, because she could not look at his face. They told her nothing. They stayed still.
+Rohan did not move. Silence was free, and he spent it. It ran on until a log cracked in it. She studied the knot of the rope at her wrist, because she could not look at his face.
 
 "I suspected," he said at last.
 
 "You didn't know."
 
-"I did not. I will be exact, now that exactness is free. You said *you deliver me* in this room, and I have been trying very carefully not to hear it since. I suspected and I chose not to know. That is not the same as ignorance, but it is not far from it."
+"I did not. I will be exact, since exactness costs nothing here. You said *you deliver me* in this room, and I have been trying very carefully not to hear it since. I suspected and I chose not to know. That is not the same as ignorance, but it is not far from it."
 
 "Why?"
 
@@ -3554,9 +3558,9 @@ Rohan did not move. Silence was free, and he spent it. It ran on until the fire 
 
 She breathed out slowly. It was not what she had braced for. She had braced for the warden, the iron voice. She had not braced for a man who had spent a week declining to open a letter.
 
-"Now you," she said.
+"My question," she said. "What does your writ say?"
 
-"Yes." He sat forward, wincing. "My writ orders me to deliver the Salt Fox to the warden-judge at Taravan at the thaw. Whoever it is. Alive, if the mountain permits."
+"Yes." He sat forward, wincing. "It orders me to deliver the Salt Fox to the warden-judge at Taravan at the thaw. Whoever it is. Alive, if the mountain permits."
 
 His fingers stayed pink in the firelight. Nothing in them changed.
 
@@ -3574,33 +3578,33 @@ His fingers stayed pink in the firelight. Nothing in them changed.
 :::
 
 
-The twist of redbark lay where she had dropped it, by the hearthstone, one corner scorched by flying ash. She picked it up. Her hands were steady now, which she resented.
+The twist of redbark lay where she had dropped it, by the hearthstone, one corner scorched by flying ash. She picked it up. Her hands were steady now, which she resented. She set a packet from her own roll beside it, wax fold turned up, so the two sieve rings lay together in the red light.
 
-"Tell me where you got this."
-
-"The broad hunter's purse. With three silver and a pinch of salt."
-
-She set a packet from her own roll beside it, wax fold turned up, so the two sieve rings lay together in the red light. "Same ring. Same guild wrapper. And my crates came to me with the crown stamp scraped off the lids." She heard how it sounded. "I buy from a lowland middleman I have never met. His carter leaves me a brass button at each drop. The next courier carries its twin, or no crate moves. I thought it was a good arrangement. I never once asked why it was so good."
+"Same ring," she said. "Same guild wrapper. And my crates came to me with the crown stamp scraped off the lids." She heard how it sounded. "I buy from a lowland middleman I have never met. His carter leaves me a brass button at each drop. The next courier carries its twin, or no crate moves. I thought it was a good arrangement. I never once asked why it was so good."
 
 Rohan's face changed. "A brass button. Small, domed, plain."
 
 "Why?"
 
-"Varun has a new one on his coat. Brass, among pewter. A pedlar sold it to him, he said, after he lost one on the stair." He looked at the fire. "I remember because he laughed at how long the pedlar took to find brass."
+"Varun has a new one on his coat. Brass, among pewter. He took it from the quartermaster's tin of odds, he said, after he lost a pewter one on the stair." He looked at the fire. "I remember because he grumbled all that week about the chalky polish, and never once about the button."
 
 The storm hit the door and went on.
 
-She dug past the packets and brought out the waxed notebook. The count. She found the page by feel and held it to the fire. "Asha's tracker, Lalit, called your party to me across the ridge. I wrote it down because numbers are what I do. *Three wardens, two goat-folk.*"
+She dug past the packets and brought out the waxed notebook. The count. She found the page by feel and held it to the fire. "Asha's tracker called your party across the ridge. I wrote it down because numbers are what I do. *Three wardens, two goat-folk.*"
 
 Rohan read it over the edge of the page. His mouth went thin. "I struck the third name before we rode. I named two in the yard. The only paper that ever said three was Varun's sheet."
 
-She did not stop to argue the rest. The gully he had picked over her odds. One clean ring of iron before the first crack. Varun dropping back for a strap. She said them like a count, fast, and Rohan nodded at each, because he had been there, and now he had the sum.
+"I heard iron before the first crack," said Meera. "One clean ring of it, on stone. I thought it was the mountain. It was a pick."
 
-"And the Teeth," he said. "The pairs came up the one chimney that lets out behind the stone fold, on the herdsmen's cut. That is my fallback. I held the ruler. Varun drew it, in his own hand, on a single sheet. Only the two of us ever saw it." He touched his collar. "And what they would pay a lordship for. The queen's seal. You have held it. The cord was tied my way when I woke, but snugged harder than I snug it, and I have wondered who taught you the hitch. I told Varun I carried it. I told the queen. No one else alive."
+"And Varun picked the gully over your odds." Rohan's voice had gone quiet. "He dropped back for a strap. Just before. I thought he trusted me to go on, and took it for kindness."
 
-She laid the hunter's twist beside her own packet on the hearth stone, the two sieve rings together.
+"The hunters on the Teeth had picks. The same ring." She said it like a count, flat and fast. "He set the slide, Captain. And he's my middleman."
 
-Neither of them spoke. The fire ticked. The wind leaned on the door and let go. Silence was free, and they let it run.
+"Yes," said Rohan. "He is."
+
+He touched his collar. "And the Teeth. The pairs came up the one chimney that lets out behind the stone fold, on the herdsmen's cut. That is my fallback. Varun drew it, in his own hand, on a single sheet, with my ruler. Only the two of us ever saw it. And what they would pay a lordship for is the queen's seal. You have held it. The cord was tied my way when I woke, but snugged harder than I snug it, and I have wondered who taught you the hitch. I told Varun I carried it. I told the queen. No one else alive."
+
+Neither of them spoke after that. Meera turned the count back to its first page, the first drop, ten winters gone, and ran her thumb down the column of dates. One scraper's hand on every lid. The fire settled in the grate.
 
 
 ::: {.scene-break}
@@ -3626,7 +3630,7 @@ She nodded.
 
 "You didn't know either."
 
-"I am not asking pardon." He opened his fist on his knee. "We fed the same hand. Your silver. My faith."
+"I am not asking pardon." He touched the cut end of the rope and left his fingers there. "We fed the same hand. Your silver. My faith."
 
 She laughed once, a cracked sound. It did not feel like a joke. It felt like a latch letting go.
 
@@ -3644,11 +3648,13 @@ She had two choices, then. She could go on sitting on her side of the hearth wit
 :::
 
 
-She did not remember deciding it.
+She got up and crossed the hearth.
 
-She was on her knees on the hearth stones, and he was a hand's breadth away, and neither of them was pretending the distance was an accident. She had refused him before. She had said *I don't kiss my noose*, and she'd meant it. Then he hadn't known who he'd be kissing, and she had, and that was a lie of its own, even in silence.
+She did it on purpose, one step and then the next, so that neither of them could call it a stumble. She knelt on the stones a hand's breadth from him, and he did not pretend the distance was an accident either.
 
-It was worse now. He knew her, name and crime and crew. She knew exactly what he carried for her and when he must use it. There was no second reading left to hope for.
+"I told you once I don't kiss my noose," she said. "I meant it, and you didn't even know what you were asking. This time I'm choosing it. I know exactly who you are, and what you carry for me."
+
+He said nothing. His breathing caught at the ribs.
 
 "Tell me why I shouldn't," she said.
 
@@ -3660,9 +3666,9 @@ It was worse now. He knew her, name and crime and crew. She knew exactly what he
 
 She put her hand against his jaw and did not take it away.
 
-He kissed like a man reading a document he had waited a long time to sign. Slow, and careful, and entirely there, with his right hand coming up to cradle the back of her head as if it might break. She tasted smoke and the thin bitterness of redbark on his breath. Her fingers dug into the pattu at his collar, and her split knuckles stung against the wool, and she let them. The rope lay warm across both their wrists, and it pulled gently, as if the mountain were leaning in to listen.
+He kissed like a man reading a document he had waited a long time to sign. Slow, and careful, and entirely there. His right hand came up and settled at the back of her head, the way he might have taken a wrist to feel for a pulse. She tasted smoke and the thin bitterness of redbark on his breath. Her fingers dug into the pattu at his collar, and her split knuckles stung against the wool, and she let them. The rope lay warm across both their wrists, and it pulled gently, as if the mountain were leaning in to listen.
 
-When they parted, neither of them went far. Her forehead rested against his. His breathing caught at the ribs, steady and not quite even.
+When they parted, neither of them went far. Her forehead rested against his. His breath was steady and not quite even.
 
 "That," said Meera, "was free."
 
@@ -5058,7 +5064,7 @@ Kiran kept his head down and shuffled past, and the bare ear went by at the heig
 
 Rohan's eyes followed it.
 
-Meera watched them go. They went to the puckered rim, the missing curl of it, and stayed one breath too long for chance. He had a warden's report in his head, she knew. Blood on the ice, and a curl of frozen cartilage no longer than a fingernail. Had the two come together behind his face? She could not tell. His face gave her nothing but a tired man looking at a sick boy. She was afraid they had.
+Meera watched them go. They went to the puckered rim, the missing curl of it, and stayed one breath too long for chance. He had a warden's report in his head, she knew. Blood on the ice, and a scrap of skin frozen fast to it, torn from the rim of an ear. Had the two come together behind his face? She could not tell. His face gave her nothing but a tired man looking at a sick boy. She was afraid they had.
 
 Then Nimmi came out of the sickroom, took one look and took the boy, and said nothing, which for Nimmi was a speech. The door shut. Rohan's eyes came back to Meera's.
 
@@ -5696,7 +5702,7 @@ Nobody breathed.
 
 Rohan heard the word *Kiran* and the world did a very slow thing.
 
-He saw an ear with its rim gone. He saw a cartilage curl in a warden's report, no longer than a fingernail. He saw a young man's eyes go to his face on the first day and flinch, and a boy asleep with a fist closed on something. He saw a woman's flat hand pressed to her coat all through a snowed-in morning, as over a bruise she would not name, and the notion he had had about it, the one he had not picked up.
+He saw an ear with its rim gone. He saw a scrap of frozen skin in a warden's report, torn from the rim of an ear. He saw a young man's eyes go to his face on the first day and flinch, and a boy asleep with a fist closed on something. He saw a woman's flat hand pressed to her coat all through a snowed-in morning, as over a bruise she would not name, and the notion he had had about it, the one he had not picked up.
 
 He picked it up now. It was heavy.
 
@@ -6266,7 +6272,7 @@ Meera got her back flat to the wall and stood, because she would not bargain fro
 
 "We saw them," said Rohan.
 
-"Then you saw a man with a paper tell forty men to burn children." Asha's knife hand did not shift. "I took Varun's silver because he paid on the nail and never haggled. I thought that was manners. It's just a man who'll never need to pay the full bill." She breathed out, and it smoked. "That pardon is the same noose with a nicer rope. When he's done with the seal, he's done with me."
+"Then you saw a man with a paper tell forty men to burn children." Asha's knife hand stayed where it was. "I took Varun's silver because he paid on the nail and never haggled. I thought that was manners. It's just a man who'll never need to pay the full bill." She breathed out, and it smoked. "That pardon is the same noose with a nicer rope. When he's done with the seal, he's done with me."
 
 "So you don't want the pardon," said Meera.
 
@@ -6278,13 +6284,13 @@ Meera got her back flat to the wall and stood, because she would not bargain fro
 
 "Only the queen can. What I can do is stand before the assembly and say that you came in the dark, with a key, against the man who paid you. That is true. I will say it as loudly as I'm able." He kept his voice level and his hands still. "I can't promise what the assembly does with it."
 
-Asha studied him. "By my grandmother's left boot. You've got a face that doesn't know how to say a fine thing it can't back."
+Asha studied him. "By my grandmother's left boot. You've got a face that can't say a fine thing it can't back."
 
 "No."
 
 "That's rare. I'd charge extra for it, if it weren't so inconvenient." She looked at Meera. "And you?"
 
-*She wants a pledge,* Meera thought, *and I am bound.* A promise made on the rope and broken would strike her like a great lie, and she had one good hand left to spend. She would not say a word she could not stand behind.
+*She wants a pledge,* Meera thought, *and I am bound.* A promise made on the rope and broken would strike her like a great lie, and she had one good hand left to spend. She would give no word she could not stand behind.
 
 So she did the other thing.
 
@@ -6294,15 +6300,15 @@ She tore it out along the stitching, with her teeth and one hand.
 
 "Dates," she said. "The middleman. Ten winters of drops, the day and the hour, in my hand. Crate marks: a bell scored through the stamp, then the stamp scraped off with a spoon, and the scrape is always a left-handed one. Where I paid, how much, what I was told when I asked who sold." She held it out. "It's a ledger. It's the only kind of evidence I've got."
 
-Asha did not take it. "That's your neck."
+Asha didn't take it. "That's your neck."
 
-"It's his." Meera turned the count over and set her thumbnail to the spine, where the binding thread ran in tight little stitches. She had bound the book herself, ten winters back, and stitched the button under the binding the morning the wardens came, so that nobody would find it unless he meant to take the book apart. She picked the first stitch loose. Then the second. The thread was waxed and fought her. She worked the third out with a tooth and the point of her nail, while Asha watched and Rohan did not breathe, and the binding gaped like a mouth. A little thing slid out onto her palm. Brass, domed, plain, with a stiff new shank.
+"It's his." Meera turned the count over and set her thumbnail to the spine, where the binding thread ran in tight little stitches. She had re-stitched that spine after every drop for ten winters. The night after the last one she had sewn the button in under the thread, so nobody would find it unless he meant to take the book apart. She picked the first stitch loose. Then the second. The thread was waxed and fought her. She worked the third out with a tooth and the point of her nail, while Asha watched and Rohan held his breath, and the binding gaped like a mouth. A little thing slid out onto her palm. Brass, domed, plain, with a shank that had never held a thread.
 
-"And this. The crate man left it when I paid. His courier was meant to carry the twin. I never saw the courier. I never saw the man."
+"And this. The crate man left it when I paid. His courier was meant to carry the twin. I never saw the courier. I never saw the man." She turned it so the lamp caught the dome. "But I've seen this pattern. A brass one, new among the pewter, on Varun's coat in the yard at Kothi."
 
-Asha stared at it. Her whole face changed.
+Asha stared at it. Her thumb had been rubbing the pewter button on her own cuff, round and round. It stopped.
 
-"I did," she said slowly. "I watched Varun thumb a button like that on his coat the day he hired me. New among the pewter ones. He said a pedlar sold it to him."
+"I did too," she said slowly. "I watched Varun thumb a button like that the day he hired me. New, and not matching the rest. He said a pedlar sold it to him."
 
 "Say it plain," said Rohan. His voice had dropped.
 
@@ -6326,7 +6332,7 @@ Meera stopped. She knew that knot. Three loops, one inside the next. It had hung
 
 Asha's glare came round, sharp as a nail. Not here, it said, and not before him. Meera shut her mouth. Silence was free. She put the question in a column and left it there.
 
-Lalit stood at the corner with his spyglass hanging from his neck and a pony's lead in his fist. A heap of taken gear lay by the wall. He dragged her pack and her knife out of it with his boot, and held them out. He did not look at the captain of wardens. He looked at Meera, once, and then at the ground.
+Lalit stood at the corner with his spyglass hanging from his neck and a pony's lead in his fist. A heap of taken gear lay by the wall. He dragged her pack and her knife out of it with his boot and held them out. He wouldn't look at the captain of wardens. He looked at Meera, once, and then at the ground.
 
 "The lane's quiet," he said. "The red moustache is asleep in a chair. The lieutenant went up the Garh road at midnight, with his twenty. He thinks the village will be ash by morning. He wanted to be seen far away."
 
@@ -6354,17 +6360,17 @@ The chulha corner. The big clay pot sat on its stones with a cloth over the lip,
 
 Nothing but leaves and brown water. She shoved her right sleeve to the elbow and reached in anyway.
 
-The heat bit. Her fingers closed on a cord, and then on cold stone, thumb-joint long and smooth, with a shoulder where the cord was threaded. She drew it up streaming. Lapis, the blue of deep ice, cut with a goat finer than any coin's.
+The heat bit. Her fingers closed on a cord, and then on stone, thumb-joint long and smooth, hot as a loaf from the oven, with a shoulder where the cord was threaded. She drew it up streaming. Lapis, the blue of deep ice, cut with a goat finer than any coin's.
 
 "Nobody lifts a lid on a healer's tea," said Nimmi. "They'd think it was a cure."
 
 "It is," Meera said, and heard the shake in it.
 
-She turned. Rohan stood in the doorway with his gloves in his hand. At the shed he had faced the wall and counted to a hundred and sixty, and he had kept his word and never asked where. She let the stone hang from her fingers by its cord, dripping, and held it out at the full length of her arm.
+She turned. Rohan stood in the doorway with his gloves in his hand. At the grove wall he had faced the stones and counted to a hundred and sixty, and he had kept his word and never asked where. She let the stone hang from her fingers by its cord, dripping, and held it out at the full length of her arm.
 
 "You'll want that dry," she said. "And on your own neck."
 
-He took the cord by the very end, with two fingers, and the wet stone swung between them. His hand did not come near her skin. He had kept it away on purpose, and she saw that he had, and saw that he saw her see it. The cord stayed taut between their hands a breath longer than the stone needed.
+He took the cord by the very end, with two fingers, and the wet stone swung between them. His hand stayed well away from her skin. He had kept it away on purpose, and she saw that he had, and saw that he saw her see it. The cord stayed taut between their hands a breath longer than the stone needed.
 
 Then he let her go. She took the cord back to tie it herself, in the warden's double hitch, the knot she had once untied and made again. The left hand lay in her lap, loose, with nothing to give the cord. The right alone made a mess of it.
 
@@ -6382,15 +6388,15 @@ Meera watched the child's face. He wrinkled his nose.
 
 "I know."
 
-"Not off today. You'd bleed to feed a Fair. You'll have the hand for the pen, and the knot, and whatever else you're about." Nimmi sat back on her heels. "After the Fair. A day after, no more. If the rot goes up into the wrist, it takes the arm, and I've no redbark for that and no wish to learn."
+"Not off today. You'd bleed to feed a Fair. You'll have the hand for the pen, and the knot, and whatever else you're about." Nimmi sat back on her heels. "After the Fair. Two days after, no more. If the rot goes up into the wrist, it takes the arm, and I've no redbark for that and no wish to learn."
 
-*After the Fair.* Two fingers. A day.
+*After the Fair.* Two fingers. Two days.
 
 She raised her eyes then, and met Rohan's.
 
 He stood very still, looking at the hand. He had asked her one question in the dark, and she had answered it, and he was looking at the size of that answer. She watched him work the sum. She watched it go all the way down and come up with nothing he could say.
 
-He did not ask. His mouth worked, once, and shut.
+He didn't ask. His mouth worked, once, and shut.
 
 "Later," said Meera.
 
@@ -6408,7 +6414,7 @@ He had put on a coat that was not his and tied his boots with the care of a man 
 
 "Don't," said Meera. "Sit."
 
-"Didi." He did not sit. "You're going to Garh Neshar, with him, with the stone, and you're going to stand in front of the regent's bell." He glanced at Rohan and away. "I'm coming."
+"Didi." He stayed standing. "You're going to Garh Neshar, with him, with the stone, and you're going to stand in front of the regent's bell." He glanced at Rohan and away. "I'm coming."
 
 "You're a day from a fever."
 
@@ -6428,13 +6434,13 @@ Asha snorted. It might have been a laugh.
 :::
 
 
-They left by the back of the house while the blue was still thin. Pinku stood in the doorway beside his grandmother and did not wave. He held up the walnut on its red thread instead, as though it were a message. Meera held up her good hand.
+They left by the back of the house while the blue was still thin. Pinku stood in the doorway beside his grandmother and didn't wave. He held up the walnut on its red thread instead, as though it were a message. Meera raised her good hand.
 
-The salt road climbed behind the terraces, through bare walnut trees and out onto frozen scree, and the first sun made the far peaks the colour of apricot skin. Asha went ahead with her four. The pony came after with Kiran on it, wrapped, swaying and talking, because he could not bear a silence. Meera walked next to the rope. Walking made the cold in the hand into something she could ignore.
+The salt road climbed behind the terraces, through bare walnut trees and out onto frozen scree, and the first sun turned the far peaks the colour of apricot skin. Asha went ahead with her four. The pony came after with Kiran on it, wrapped, swaying and talking, because he could not bear a silence. Meera walked next to the rope. Walking turned the cold in the hand into something she could ignore.
 
 By noon she could not.
 
-Her pack sat on her shoulders like a second person. Ten winters of habit said not to take it off. A guide did not set her load down in front of a client. The load was the point of her.
+Her pack sat on her shoulders like a second person. Ten winters of habit said not to take it off. A guide never set her load down in front of a client. The load was the point of her.
 
 The slope steepened. She stopped on a stone, breath going in and out too fast, and put her good hand on her knee.
 
@@ -6444,7 +6450,7 @@ He had come up beside her. He wasn't looking at her face, which she was glad of.
 
 "May I—"
 
-He stopped. She watched him hear it. His mouth closed on the word as if on a hot coal, and he stood a moment with a muscle working in his cheek. He had promised her no more questions about that rope, and he meant to give the promise a wide berth. Then he said it again, flat and plain, the way a man gives an order to himself.
+He stopped. She watched him hear it. His mouth closed on the word as if on a hot coal, and he stood a moment with a muscle working in his cheek. He had promised her no more questions about that rope. He meant to give the promise a wide berth, and he plainly read it wider than she had meant it. Then he said it again, flat and plain, the way a man gives an order to himself.
 
 "Give it here. I'll take the left strap."
 
@@ -6458,15 +6464,15 @@ It was not true now. She could feel the rope against her wrist, waiting.
 
 "Nearly's free." She took her arm out of one strap, and the pack came off her shoulder with a sigh of leather. "The oilcloth roll's at the bottom. Nothing in it now. The count's in my shirt. The rest is rope and a pot and sattu for two." She held it out on her good hand. "It's heavy on the left. Mind the left."
 
-He took it. He did not make a speech. He settled it high on his back, over ribs that were still not whole, tested it with one shrug, and walked on at her side.
+He took it. He made no speech. He settled it high on his back, over ribs that were still not whole, tested it with one shrug, and walked on at her side.
 
-It was the smallest thing she had ever handed anyone. She walked light, for the first time in years, and her whole body knew the difference and did not know what to do with it.
+It was the smallest thing she had ever handed anyone. She walked light, for the first time in years, and her whole body knew the difference and didn't know what to do with it.
 
 "Thank you," said Rohan, after a while.
 
 "Don't. I'll start charging."
 
-"I will pay it." He did not smile, but the line of his mouth was warm. "In sattu."
+"I will pay it." He didn't smile, but the line of his mouth was warm. "In sattu."
 
 
 ::: {.scene-break}
@@ -6480,13 +6486,13 @@ Asha called the halt in a hollow below a lip of rock, out of sight of the road. 
 
 Kiran got off the pony by himself. He stood holding the saddle, swaying. Then he let go and crossed the snow to where Rohan stood with the lapis stone at his chest, and stopped an arm's length away.
 
-He didn't joke. He did not call anyone Captain-ji. Meera watched him square his shoulders and close his hand on a place in his coat where a badge had lain until his sister took it.
+He didn't joke. He called no one Captain-ji. Meera watched him square his shoulders and close his hand on a place in his coat where a badge had lain until his sister took it.
 
 She started to rise. "Kiran—"
 
-"No, Didi." He did not look at her. "You paid for this. Let me."
+"No, Didi." He kept his eyes on Rohan. "You paid for this. Let me."
 
-He looked at Rohan. His voice shook once and held.
+His voice shook once and held.
 
 "Captain," said Kiran. "I have to tell you what happened on that rope."
 
@@ -6688,7 +6694,7 @@ He took the first step downhill. The rope drew taut between them, eight spans of
 
 The drums were already going when they came down onto the meadow, and Pritam already had his hand raised.
 
-He stood on the dais at the foot of the river ice in a coat the colour of good butter. Barley roasted on a hundred braziers and the smoke went straight up into a white sky. Several hundred people stood on the frozen grass in their best pattus. Beside the regent stood a lean man with a prince's circlet, looking like someone told to sit who was thinking of standing. Kunal, the herald had called him. One pace behind Pritam, hands folded, stood Varun.
+He stood on the dais at the foot of the river ice in a coat the colour of good butter. Barley roasted on the braziers and the smoke went straight up into a white sky. Beside the regent sat a lean man with a prince's circlet, looking like someone told to sit who was thinking of standing. Kunal, the herald had called him. One pace behind Pritam, hands folded, stood Varun.
 
 He had shaved. The pewter buttons on his coat shone, and the brass one among them shone more.
 
@@ -6716,7 +6722,7 @@ Pritam smiled. It was the smile of a man who had counted everything. "Captain Ro
 
 Ila. Meera put her in a column for later.
 
-"Seize him," said Varun pleasantly. "That man is a seal-thief. He broke custody at Ranu yesterday with a smuggler's help."
+"Seize him," said Varun pleasantly. "That man is a seal-thief. He broke custody at Ranu with a smuggler's help."
 
 No one moved. Rohan took a flat tin from his coat and opened it. Inside lay a wafer of wax the dark red-brown of old wine, and folded beneath it a single line of paper.
 
@@ -6734,7 +6740,7 @@ When he lifted it, the goat stood clean in the dark wax, finer than any coin's. 
 
 "The regent's claim is revoked," the herald said, as if reading a bill. "By the queen's own seal."
 
-Pritam did not move. Only his smile did, and it went like ice on a river.
+Pritam's smile went like ice on a river.
 
 
 ::: {.scene-break}
@@ -6748,25 +6754,29 @@ Pritam did not move. Only his smile did, and it went like ice on a river.
 
 For ten winters she had walked through doors that opened on a drop and a hanging tree. She had never once put her hand on one that opened on the people who judged it. Her hands were cold. Not lie-cold. Plain fear.
 
-She could stay a face at the back of the crowd and let Rohan speak for them both. Or she could say the one true thing she owned, and every soul on the meadow would hold it.
+She could stay a face at the back and let Rohan speak for them both. Or she could say the one true thing she owned, and every soul on the meadow would hold it.
 
-Instead she stepped out beside him and went to the herald's book.
+She stepped out beside him and took the pen from the herald's fingers.
 
-The count came from her shirt, its wax cover warm, and she laid it open on the page. Then she turned to the meadow, and her voice carried farther than she had meant.
+The count came from her shirt, its wax cover warm. She laid it open on the page. Under Rohan's smear of red she wrote, in her small exact hand, *Meera of Kothi Shilak, called the Salt Fox.*
 
-"He did travel with the Salt Fox. She is here. My name is Meera of Kothi Shilak, called the Salt Fox." The dead fingers of her left hand did not shake, because they could not. "I have crossed the Shilak closed, ten winters running. I have carried two hundred and six people over it, and I wrote down every one." The crowd made a sound like wind in stacked stones. "That is a hanging, by your law. I put it in the crown's record, under my own name, so that no one needs to guess."
+"Law's a rope," she said, to the page. "Depends who ties it."
+
+Then she turned to the meadow, and her voice carried farther than she had meant.
+
+"He did travel with the Salt Fox. She is here. That's my name." The dead fingers of her left hand did not shake, because they could not. "I have crossed the Shilak closed, ten winters running. I have carried two hundred and six people over it, and I wrote down every one." The crowd made a sound like wind in stacked stones. "That is a hanging, by your law. I put it in the crown's record, under my own name, so that no one needs to guess."
 
 "Seize her!" said Varun.
 
-Two soldiers from the dais came down fast, and this time they did not stop. One took her good arm and one the dead one, and the grip on her left she felt only as a pull on her shoulder. The herald's pen hung over the page. His eyes went to the dais, the book, her. Then he wrote, slowly, as if the ink were heavy: *Meera of Kothi Shilak, called the Salt Fox. Held pending the queen's judgement.*
+Two soldiers came down from the dais fast, and this time they did not stop. One took her good arm and one the dead one, and the grip on her left she felt only as a pull on her shoulder. The herald's eyes went to the dais, the book, her. Then he took back the pen and wrote beneath her name, slowly, as if the ink were heavy: *Held pending the queen's judgement.*
 
-Rohan did not move. He stood with his hands open at his sides and the rope drawn straight between them, and the whole of him was a man holding a promise by the throat.
+She saw Rohan hold. He stood with his hands open at his sides and the rope drawn straight between them, and the whole of him was a man gripping a promise by the throat.
 
 "Take her to the lockhouse," said Varun. "Now."
 
 "Hold," said the prince, quite softly.
 
-The two soldiers did not take a step. They did not let go either. Meera hung between their hands and kept talking, because the hands might be gone in a breath and the words would not.
+The soldiers did not take a step. They did not let go either. Meera hung between their hands and kept talking, because the hands might be gone in a breath and the words would not.
 
 "Ten winters of crates. Every drop, in my hand. The stamp scraped off with a spoon by a left-handed man." She found her breath. "My crew is written by marks, not names. They stay out of it. I stand in for them. The redbark that fed my trade was crown stores, stolen. The man who sold it to me through a runner is standing behind the regent in a clean coat."
 
@@ -6774,17 +6784,17 @@ Varun laughed. It came a half beat late. "A smuggler's ledger. My lords, the wom
 
 "She does," said a woman's flat voice from the crowd. "I'm one too."
 
-Asha came out with Lalit at her heel, her knife left in its belt. She did not look at the dais. She looked straight at Varun, and she spoke as if reading prices.
+Asha came out with Lalit at her heel, her knife left in its belt. She looked straight at Varun and spoke as if reading prices.
 
-"Varun paid me four silver a week to track the seal over the Saddle. I have the weeks written, and the runner's name, a thin man with a bad left foot." She drew a folded page from her sleeve and laid it beside the count. "That's the guide's page back, torn from her book, and every date on it matches mine. I watched him share a table with that coat in a salt-road inn." She nodded at the buttons. "And I watched him thumb the new brass one on his chest the day he hired me."
+"Varun paid me four silver a week to track the seal over the Saddle. I have the weeks written, and the runner's name, a thin man with a bad left foot." She drew a folded page from her sleeve and laid it beside the count. "That's a page torn from her book, and every date on it matches mine. I watched him share a table with that coat in a salt-road inn." She nodded at the buttons. "And I watched him thumb the new brass one on his chest the day he hired me."
 
 Meera could not reach the binding. "Rohan," she said. "The spine."
 
 He moved then, three steps, the only ones he allowed himself, and drew the little domed button from the count's binding. He laid it on the herald's book.
 
-"His courier carried the twin," said Meera. "The crate man left me this. The rule was, no twin, no crate."
+"His courier carried the twin," said Meera. "The rule was, no twin, no crate."
 
-The herald studied the button, then Varun's coat. A clerk was sent down, unwilling and quick, and held the two close together: same dome, same stiff shank, same nick filed in the rim. He said nothing at all. He lifted his eyes to the dais and nodded once.
+A clerk was sent down, unwilling and quick, and held the two close together: same dome, same stiff shank, same nick filed in the rim. He said nothing at all. He lifted his eyes to the dais and nodded once.
 
 In the quiet that followed, Meera heard Varun breathe.
 
@@ -6796,39 +6806,41 @@ In the quiet that followed, Meera heard Varun breathe.
 
 "The assembly will hear one thing more," said Rohan.
 
-He spoke not to Varun but to the meadow, to the hill people in their grey and brown and the traders of the lower road. He had not planned the voice, she thought. It came out of him plain and slow, the voice of a man saying the bad number.
+He spoke not to Varun but to the meadow, to the hill people in their grey and brown and the traders of the lower road. It came out of him plain and slow, the voice of a man saying the bad number.
 
 "Thirty-two graves stand above Ranu that were not there at first snow. I counted thirty-one, and I held the rope while the last was dug. They were dying of a cough that redbark cures, and redbark could not cross, because the Closing Law shut the pass and I signed the order that kept it shut." His hands were open. "I enforced that law twelve winters. I hanged two men under it. One was seventeen, and carried salt to his mother. I thought a rule that bends once breaks. I say to you now, in front of the bell, it is the rule that broke, and they paid for it."
 
-No one coughed. No one shifted. Far at the back, a woman began to cry in the flat way of someone who had been waiting a long time to be told.
+No one coughed. Far at the back, a woman began to cry in the flat way of someone who had waited a long time to be told.
 
 "I am a warden of this crown," said Rohan. "I say the blockade killed them, and I say my name is on it."
 
 Meera did not look at him. She could not. She stood between the two soldiers and held on to nothing.
 
-The grey-bearded man in the slate cloak moved first. He unbuckled his sword belt, unhurried, and laid it on the grass. Then he stood beside it with his hands empty, as if he had settled something with himself in a lane two nights before. Everyone near him took a step back.
+The grey-bearded man in the slate cloak moved first. He unbuckled his sword belt, unhurried, and laid it on the grass. Then he stood beside it with his hands empty. Everyone near him took a step back.
 
-The hill council men, who had been standing in the crowd as ordinary as sheep, closed on the dais. Pritam did not look at them. He turned to the officer of the forty, and when he spoke his voice stayed smooth.
+Pritam did not look at him. He turned to the officer of the forty, and his voice stayed smooth.
 
-"Officer. The herald reads under a stranger's hand, with a thief's tin and a smuggler's confession. Hold him until the matter is tried." Two more soldiers stepped toward the herald. A spear came down level. "And let the assembly remember that Neshar owes me eleven hundred measures of winter grain, entered and unpaid. Take me, and who feeds the valley till the thaw?"
+"Officer. The herald reads from a thief's tin and a smuggler's confession. Hold him until the matter is tried." Two soldiers stepped toward the herald. A spear came down level. "And let the assembly remember that Neshar owes me eleven hundred measures of winter grain, entered and unpaid. Take me, and who feeds the valley till the thaw?"
 
-The herald stood very straight with the point a hand from his throat and his pen still in his fingers.
+It landed. Meera felt it land. A heavy man in hill grey, one of the council, half rose from where he stood.
 
-"Eleven hundred measures," said Rohan. "Those are the crown's measures, and each one carries your store-bell. You held them back all through the closing and sold them to Ranu at famine price. Neshar does not owe you that grain. It has paid for it twice."
+"Chetu of Upper Kuhl," he said, and his mouth worked. "My valley has forty sacks left, and every one of them is the regent's. Without his stores my people starve by spring. I cannot..." He looked at the spear, at the butter-coloured coat. Men near him leaned toward the dais. For three heartbeats the whole meadow could have gone either way.
 
-For a moment the meadow was silent. Then a heavy man in hill grey, one of the council, said loudly, "I paid for a sack myself. Four times the autumn price. Ask me for the bell on it."
+"Those are the crown's measures," said Rohan. "Each one carries your store-bell, Pritam. You held them back all through the closing and sold them to Ranu at famine price. Neshar does not owe you that grain. It has paid for it twice."
 
-"I paid," said another voice. "And another. And another."
+"I paid," said a woman by the braziers. She held up a fist as though it had a sack in it. "Four times the autumn price. Ask me for the bell on it."
 
-The prince said nothing, and let that stand. The officer looked at the sword belt on the grass. His eyes went to the herald's throat, to the guide held by two of his own men, to the faces of the hill men closing in. His spear wavered. The point went up, then down, and he gave one order at last, which was to the pair at Meera's arms. They let go. The soldiers at the herald stepped back. Two men took Pritam by the arms, politely, as one might take an elder across ice. He began a sentence about a count of grain, and it died there.
+Chetu looked at her. Slowly, like a man setting down something heavy, he sat back on his heels.
+
+The officer stared at the sword belt on the grass. His eyes went to the herald's throat, to the woman by the braziers, to the slate cloak. "Four times," he said, half to himself. "My sister's house paid four times. Sack had a bell on it." The point of the spear dropped, and he gave one order, which was to the pair at Meera's arms. They let go. The soldiers at the herald stepped back. Two men took Pritam by the arms, politely, as one might take an elder across ice. He began a sentence about a count of grain, and it died there.
 
 Varun ran. He got three paces toward the river before Lalit's boot found the back of his knee and Asha sat on his chest with a calm face, like a woman at market.
 
 "I'll want that button back," she said, "when you've done with it."
 
-Meera stood rubbing her good arm. The herald lifted the count in both hands and wrote the number of it on a clean page, with her name beside it. The entry above it did not change. *Held pending the queen's judgement.* The prince, coming down from the dais, stopped before her.
+Meera stood rubbing her good arm. The prince, coming down from the dais, stopped before her.
 
-"It is entered," he said. "Whatever the law does with it, the assembly heard it spoken, and it will not be unsaid." He glanced at the count, then at her, with the expression of a man deciding which of two secrets to keep. "That was well done, Meera of Kothi Shilak."
+"It is entered," he said. "Whatever the law does with it, the assembly heard it spoken, and it will not be unsaid." He glanced at the count, then at her, like a man deciding which of two secrets to keep. "That was well done, Meera of Kothi Shilak."
 
 
 ::: {.scene-break}
@@ -6836,15 +6848,15 @@ Meera stood rubbing her good arm. The herald lifted the count in both hands and 
 :::
 
 
-Afterwards the meadow was drums again and barley and people who would not stop touching her sleeve. Ila crossed the grass at a run and seized her brother's face in both hands. "You are eight days late and a belt-hole thinner," she said. "You wrote before the snow." She laughed loudly and wiped her eyes on her cord. Kiran, grey and upright on a pony, was being fed soup by a stranger.
+Afterwards the meadow was drums again and barley and people who would not stop touching her sleeve. Ila crossed the grass at a run and seized her brother's face in both hands. "You are eight days late and a belt-hole thinner," she said. She laughed loudly and wiped her eyes on her cord.
 
-Meera stood at the end of the rope with her legs going soft under her. She did not slip away. She could not have, and she did not want to. She took the red wool in her good hand and pulled once, long.
+Meera stood at the end of the rope with her legs going soft under her. She did not slip away. She took the red wool in her good hand and pulled once, long.
 
 *Come.*
 
-Rohan was in the middle of a word to his sister. He stopped. "Ila," he said, "forgive me," and left her with her mouth open and her hands in the air. He came across the grass, and the people between them made a lane.
+Rohan was mid-word with his sister. He stopped. "Ila," he said, "forgive me," and left her with her mouth open and her hands in the air. He came across the grass, and the people between them made a lane.
 
-They walked together along the river ice to the lee of a half-fallen wall. She sat down on it. Her legs were shaking. She let them.
+They walked along the river ice to the lee of a half-fallen wall. She sat on it. Her legs were shaking. She let them.
 
 He stood a little way off, and she saw he had taken off his gloves.
 
@@ -6852,17 +6864,9 @@ He stood a little way off, and she saw he had taken off his gloves.
 
 "You didn't."
 
-"I did not move." He came nearer. His face was open in a way she had not seen before, the way a door is open when someone has taken the bar down and thrown it in the river. "Meera."
+"I did not move." He came nearer. His face was open in a way she had not seen before, the way a door is open when someone has taken the bar down and thrown it in the river. "Meera. I love you."
 
-"I used to think the law was only ever a noose for people like us," she said. "It's a rope. It depends who ties it."
-
-"Then we will tie it well."
-
-"Rohan."
-
-"I love you."
-
-It was no soft thing. He said it as he said everything, the full sentence, the exact number. The rope on her wrist lay quiet. No ring came from the stones, for there were none to ring, and the wind in the dead grass did not rise.
+It was no soft thing. He said it as he said everything, the full sentence, the exact number. The rope on her wrist lay quiet. The wind in the dead grass did not rise.
 
 He held up his hands. Bare. Wide-fingered. The cold air lay on them like an accusation.
 
@@ -6870,13 +6874,13 @@ He held up his hands. Bare. Wide-fingered. The cold air lay on them like an accu
 
 She watched. Ten seconds. Twenty. His fingertips stayed the colour of living skin. There was no white at the nail, no grey creeping at the knuckle. They were only a man's hands, a little scarred, steady in the winter light.
 
-"Warm," she said, and her voice failed in the middle of the word.
+"Warm," she said, and her voice failed halfway through the word.
 
 "Yes."
 
-"Rohan." She took off her right glove with her teeth. Her left she could not feel, but she took that glove off too, the loose dead hand, and held both up in the white air beside his. "I love you. I think I have since you climbed out of that gully on my count with your ribs screaming."
+She took off her right glove with her teeth. Her left she could not feel, but she took that glove off too, the loose dead hand, and held both up in the white air beside his. "I love you. I think I have since you climbed off that ledge on my count with your ribs screaming."
 
-She watched her own fingers. All eight that were still hers. She watched them in the wind with the whole of her attention, as she had once watched the Saddle for a crack.
+She watched her own fingers, all eight that were still hers, with the whole of her attention, as she had once watched the Saddle for a crack.
 
 They stayed warm. The three living fingers of the left. The five on the right. Pink and aching and warm.
 
@@ -6890,37 +6894,51 @@ He made a sound she had not heard before and closed both his hands round hers.
 
 Ila had found them a room in the guest-house of Garh Neshar, two floors up, with a bed and a lamp and a window onto the river. The latch was sprung and nobody mended it. Meera had left the door standing open. She had never in her life sat in a room with the door open for anyone's sake but a customer's.
 
-"I'm not asking leave of anybody," she said.
+She stood in the middle of the floor with her coat still on.
 
-"I would not dream," said Rohan, and kissed her.
+"I want to," she said. "I want you to know I'm asking, not paying."
 
-It was slower than the kiss in the Rope-Hut, which had cost a promise. This one cost nothing, and the lack of price made her dizzy. He undid her coat with great care, as though it were a seal. When he came to the left sleeve he stopped, and looked at her, and waited.
+"I want to." He said it like the rest of his sentences, whole. "Thirty-five winters, and I have not wanted anything so plainly. Do you?"
 
-"Yes," she said.
+"Yes."
 
-He took the hand in both of his and bent and put his mouth against the back of it, above the dead fingers, where the skin still had a pulse. She felt that. She felt the hum of his breath on the living part of her, and she closed her eyes.
+"Then tell me where to stop, and I will."
 
-After that there was not much talk. His ribs, not whole yet, made him laugh at himself, and she took the lead, which suited them both. She took her time. He let her. She learned that he said her name when he was close to something, low and ragged, no *Guide* in it any more. She said his in return, and it came out ten different ways.
+"Your ribs."
+
+"Are overruled." His mouth moved. "They will say so themselves if they disagree."
+
+She crossed to him. It was slower than the kiss in the Rope-Hut, which had cost a promise. This one cost nothing, and the lack of price made her dizzy. He undid her coat with great care, as though it were a seal. When he came to the left sleeve he stopped, and looked at her, and waited.
+
+"Leave the glove," she said. "It's warm in there, and it keeps them safe. But I can't feel the hand. Watch it for me."
+
+"Yes." He took the covered hand in both of his and bent and put his mouth to her wrist above it, where the skin still had a pulse. She felt that. She felt the hum of his breath on the living part of her, and she closed her eyes.
+
+Ten winters on the pass had taught her the heft of everything she carried. She learned his now. The long scar down his side, the ribs that still made him hiss when she leaned wrong, the heat of him through the wool. She pushed him gently back onto the bed, and he went, laughing at himself, and she knelt over him with her knees well clear of the bruising. She took her time. He let her. His bare hands settled at her waist and asked before they moved, and she said *yes* each time, and once *there*, and he said her name, low and ragged, with no *Guide* left in it.
+
+When it broke over her she kept her eyes open, because she wanted to see his face while it did. He said her name again. She said his, ten different ways.
 
 Afterwards the lamp burned down. The river made its ice-sounds outside. She lay with her head on his shoulder and his good arm round her, and she did a thing she had done every night for ten winters. She went looking for the count.
 
 Packets. Prices. Days to the thaw.
 
-She found nothing to tally. She was warm all through, and for once there was no column to put it in. She simply lay there and was held.
+She found nothing to tally. In the Rope-Hut she had written him down. Tonight there was no column to put him in. She was warm all through, and simply held.
 
 "What are you counting?" said Rohan into her hair.
 
-"Nothing." She turned her head, to test the word on the rope. It sat quietly on her wrist. "Nothing at all. It's strange."
+"Nothing." She turned her head to test the word on the rope. It sat quietly on her wrist. "Nothing at all. It's strange."
 
 "I will not add to it," he said, and tightened his arm.
 
-She smiled against his collarbone. Then her eyes, drifting, found the chair by the window where he had thrown his coat. The flap hung open at the collar. Out of it, in the grey lamplight, showed the corner of a folded cream paper with a red seal on it, the orders of the pass-warden of Shilak. *Deliver the Salt Fox at the thaw.*
+Her eyes, drifting, found the chair by the window where he had thrown his coat. The writ case hung half out of the pocket, its boiled leather cut short along one edge. She had taken that strip for his snow goggles a lifetime ago. In the grey lamplight she could just see the creamy corner of the paper inside.
 
-She had said her name to three hundred people today, and the clerk had written it in a book. *Held pending the queen's judgement.*
+His arm round her did not loosen. She knew without looking that he had seen where she was looking.
 
-His arm round her did not loosen. It did not tighten either. She knew without looking that he had seen where she was looking, and that he was awake, and not saying anything, and that silence was free.
+"The thaw is a long way off yet," said Rohan.
 
-She did not ask. She lay very still, and listened to the river, and for the first time since the Rope-Hut she could not tell how many days were left.
+It was a plain sentence. It was not a promise. The rope lay level on her wrist, and she let it.
+
+She looked at the case a moment longer. She did not count the days. She put her ear to his chest and listened to the ribs mend.
 
 # Chapter 31: The Winter Crossing Law
 
@@ -6940,7 +6958,7 @@ Nimmi bent over the left hand. The small bright knife moved. Rohan kept his eyes
 
 "Three. The tanner's boy." Her voice thinned and held. "Four."
 
-By the ninth he was counting with her, saying only the numbers, half a beat behind. He had thought the count was a ledger. It was more like a rope she climbed, one hold after the next, and every number was a face. She needed no mark for any of them. Her knuckles ground his split ones together and he let them.
+By the ninth he was counting with her, saying only the numbers, half a beat behind. He had thought the count was a ledger. It was more like a rope she climbed, one hold after the next, and every number was a face. Her knuckles ground his split ones together and he let them.
 
 "Ninety-one," said Meera.
 
@@ -6968,7 +6986,7 @@ He understood where he had been entered. His mouth opened. Nothing came out of i
 
 The law took six weeks to write, and when they finished it ran to eleven lines.
 
-Hill council men came and went with their opinions and their tea. Kunal came twice, spoke with care, and left each time looking like a man who had given away less than he meant to and more than he expected. Nimmi stayed nine days before Ranu pulled her home, and she dictated the second clause as though listing symptoms. "Medicine passes. Not 'may pass.' Not 'passes on payment.' It passes, and the warden who stops it answers for the cough."
+Hill council men came and went with their opinions and their tea. Kunal came twice, spoke with care, and left looking like a man who had given away less than he meant to and more than he expected. Nimmi stayed nine days before Ranu pulled her home, and she dictated the second clause as though listing symptoms. "Medicine passes. Not 'may pass.' Not 'passes on payment.' It passes, and the warden who stops it answers for the cough."
 
 The first clause was Rohan's, and it cost him more than a morning. Licensed bound guides, crossing in winter, under a licence that carried two seals: the post's and the hill council's.
 
@@ -6978,33 +6996,31 @@ Old Bhim of the council read it twice and laid a thick finger on the post's seal
 
 "Then let it sign second. And let it sign what the council has sealed, with no more to say."
 
-Rohan had held the only seal on that road for ten winters. The right to refuse a crossing was the whole of his office, and he was proud of how seldom he had misused it. He looked at the line. Across the room Meera lifted her bandaged hand from the sill and did not speak.
+Rohan had held the only seal on that road for twelve winters. The right to refuse a crossing was the whole of his office, and he was proud of how seldom he had misused it. He looked at the line. Across the room Meera lifted her bandaged hand from the sill and said nothing.
 
 "Second," he said. "The post may read a licence. It may not refuse one the council has sealed."
 
-He wrote it in. The pen did not shake, but when he set it down his fingers had gone stiff from gripping it.
+He wrote it in. The pen stayed steady, but when he set it down his fingers had gone stiff from gripping it.
 
 "You gave away your veto," Meera said afterward, low, on the stair.
 
-"I gave away the thing I was proudest of." He found, somewhat to his surprise, that he could say it lightly. "It was never a good thing to be proud of."
+"I gave away the thing I was proudest of." He found he could say it lightly. "It was never a good thing to be proud of."
 
 Ila corrected everything.
 
 "'A bound rope: about eight arm-spans,'" a council man read out.
 
-"Exactly eight," said Ila, striking the word *about*. "Whose arm? I measured Rohan's against the post door before the snow closed the road, and it runs a hair over the common. Write eight spans of the guide's own arm and let the guide be the standard."
+"Exactly eight," said Ila, striking the word *about*. "Whose arm? A broad warden's arm gives a longer rope than a slight guide's. A surveyor's fixed span gives one that fits nobody. I measured Rohan's against the post door before the snow closed the road, and it runs a hair over the common." She tapped the page. "Write it so the guide's arm is the unit of measure. It is her hand on the rope when the slope goes."
 
-"The jogini allow twelve," Rohan said. "Eight is what one guide can hold on a slide."
+The council man wrote it. Ila laughed, loud and sudden, and he dropped his pen.
 
-"Then somebody should measure the jogini's twelve. I want to know whose arm they used." She laughed, loud and sudden, and a council man dropped his cup.
-
-In the second week he set a parcel on the table beside the count. Meera unwrapped it with her right hand: a left glove of felted wool, lined with lambskin, cut for a thumb and two fingers.
+In the second week Rohan set a parcel on the table beside the count. Meera unwrapped it with her right hand: a left glove of felted wool, lined with lambskin, cut for a thumb and two fingers.
 
 "You measured me," she said.
 
 "With a cord, while you slept. I should have asked." He kept his voice level. "The hand cannot tell you when it is cold. You check its colour every hour, the way other people look at the sky."
 
-She drew it on. It fit. She flexed the three fingers and looked at the glove for longer than the glove deserved.
+She drew it on. It fit. She flexed the three digits and looked at the glove for longer than the glove deserved.
 
 "Don't be kind in front of the council," she said.
 
@@ -7012,9 +7028,11 @@ She drew it on. It fit. She flexed the three fingers and looked at the glove for
 
 "Then be kind quietly."
 
-He was. It took no effort at all.
+He was.
 
-The last clause he wrote on a grey afternoon with Kiran at the end of the table. Kiran had been told to rest and had asked, instead, to be in the room. It was the only thing he had asked for since the Fair, and he had not made a single joke. He sat wrapped in a blanket, his torn ear tucked under it, watching the pen.
+The last clause he wrote on a grey afternoon with Kiran at the end of the table. Kiran had been told to rest and had asked, instead, to be in the room. It was the only thing he had asked for since the Fair. Meera sat in the window seat with her glove in her lap, exactly as far from Rohan as her rope allowed and no farther, and she watched her brother.
+
+Kiran sat wrapped in a blanket, his torn ear tucked under it, watching the pen.
 
 Dilan's rope end lay by the ink. Rohan had put it there without deciding to.
 
@@ -7026,7 +7044,7 @@ He wrote it in one stroke and sanded it. The scratch of the nib was very loud.
 
 "It is for the next one," Rohan said. "Whoever it is."
 
-Kiran nodded without looking up and stayed where he was until the ink dried.
+Kiran nodded without looking up. At the window Meera had stopped turning her glove. She was waiting for the joke that always came after, the way she waited for a crack on a slope, and Rohan watched her wait. It never came. Kiran stayed where he was until the ink dried.
 
 
 ::: {.scene-break}
@@ -7036,11 +7054,11 @@ Kiran nodded without looking up and stayed where he was until the ink dried.
 
 The news came in pieces, with the dispatch riders.
 
-Varun lay in irons in the cellar of Garh Neshar and would go down to Taravan in chains when the passes opened, to answer in the queen's court. Pritam was held in his own grey seat, with the hill council signing for his grain stores. And the regent's general, said the assembly's finding, had been exiled across the border with his horse and one saddlebag.
+Varun lay in irons in the cellar of Garh Neshar and would go down to Taravan in chains when the passes opened. Pritam was held in his own grey seat, with the hill council signing for his grain stores. And the regent's general, said the assembly's finding, had been exiled across the border with his horse and one saddlebag.
 
-"The paper says exiled," said Nimmi, who had not yet gone home. She had a cup of walnut tea and no patience. "The torches went down in my lane on the order of a man on a grey horse. I stood on my step. I watched him do it. Write what you like. Ranu will say otherwise, and it will go on saying it long after the paper rots."
+"The paper says exiled," said Nimmi, who had not yet gone home. "The torches went down in my lane on the order of a man on a grey horse. I stood on my step. Write what you like. Ranu will say otherwise, and it will go on saying it long after the paper rots."
 
-Rohan thought of a sword belt laid on cold grass, and of a man who stood beside it with his hands empty. He wanted the name. He knew it was not his to ask for. He set down his pen, wrote nothing, and let the whisper stand.
+Rohan thought of a sword belt laid on cold grass, and of a man who stood beside it with his hands empty. He wanted the name. It was not his to ask for. He set down his pen and let the whisper stand.
 
 
 ::: {.scene-break}
@@ -7062,19 +7080,21 @@ She was quicker than he was. She always was. "The Closing Roll."
 
 "You know it."
 
-"I've known it since I was nineteen. A name on the Roll is a name that comes when it's called." She counted it on her good hand, one finger at a time. "For life. Winter service whenever summoned. And I can't say no to a warden."
+"I've known it since I was nineteen." She counted it on her good hand, one finger at a time. "For life. Winter service whenever summoned. And I can't say no to a warden."
 
 "Mine, while I wear the grey. After me, whoever holds the post."
 
-"That's the part I don't like."
+"Or I don't take your writ."
 
-"No," said Rohan. "I would think less of you if you did."
+"Or you do not." He made himself lay it out as plainly as the rest. "Then you cross as a held name in my custody. The bond drags us over together either way. No Roll. The queen judges you at Taravan in spring. And until she does, your name stays open in the assembly's book, and every mark of your crew stays open to its questions."
 
-She was silent. The river ground under the window. He had spent his life being the one who said, *it is the law,* and he had never before offered someone the law and wished it were smaller.
+"Bindu. Roop and Chand. Every one of them, asked and asked again, all winter." She was silent. The river ground under the window. He had spent his life being the one who said *it is the law,* and he had never before offered someone the law and wished it were smaller. "So it's my freedom, or their peace."
 
-"I'd be selling it to you," she said. "My freedom. To the man whose job was to take it."
+"Yes. I will walk beside you whichever you choose. I will not pick for you."
 
-"To the crown. I am one of its clerks." He tried the dry tone and it nearly worked. "I do not mean to abuse the call. I believe I never will. But I will not swear to it, and you should not take my belief for a vow."
+"I'd be selling it to you. My freedom. To the man whose job was to take it."
+
+"To the crown. I am one of its clerks. I do not mean to abuse the call. I believe I never will. But I will not swear to it, and you should not take my belief for a vow."
 
 "I know you wouldn't." She turned the fair copy so the lamp lit its first line. "I'll owe them winters. I'd give them anyway."
 
@@ -7088,7 +7108,7 @@ Her eyes went to his wrist. The rope lay there, quiet and slack. No note, low or
 
 "That isn't a promise," Meera said.
 
-"No." He made himself hold her look. "If I swore it and the paper failed me, the mountain would take the price out of me, and I would be no use to you at all. I will not dress a hope up as a vow."
+"No. If I swore it and the paper failed me, the mountain would take the price out of me, and I would be no use to you at all. I will not dress a hope up as a vow."
 
 For a moment she only studied him. Then the corner of her mouth moved. "Good. I'd have been watching your fingers." She tapped the fair copy. "You can keep looking at the cairn."
 
@@ -7100,19 +7120,17 @@ He stopped with the papers against his chest.
 
 She was not looking at the lamp or the law. She was looking at him, and her hand lay flat and still on the table.
 
-"I've given all winter," she said. "Orders. The count. My hand. I've never in my life asked anyone for a thing that was only mine." Her fingers stayed warm; he could see them. "Stay. Tonight. I'm not finished asking after the thaw, but I'm starting with tonight."
+"I've given all winter," she said. "Orders. The count. My hand. I've never in my life asked anyone for a thing that was only mine. Stay. Tonight. I'm not finished asking after the thaw, but I'm starting with tonight."
 
 He set the papers down. "Yes."
 
 Ila had mended the latch at last. Meera crossed the room and shot the bolt, and the small iron sound told him more than the word had. She had left the door open once, to prove she could. This was the other thing, and it was hers.
 
-He undid the new glove for her, one stall at a time. She watched his hands do it.
-
-"Watch mine," she said, low, and drew his face down.
+He undid the new glove for her, one wool finger at a time. She watched his hands do it.
 
 "Here," she told him against his mouth, plainly, as she gave orders on the Saddle. "Slower."
 
-He did as she said. She made a small sound in her throat that he meant to earn again. Her bandaged hand lay against his shoulder, careful and warm, and the lamp burned lower, and the river went on grinding under the window.
+He did as she said. She made a small sound in her throat that he meant to earn again. Her bandaged hand lay against his shoulder, careful and warm, and the lamp burned lower.
 
 
 ::: {.scene-break}
@@ -7128,7 +7146,7 @@ Afterwards she lay with her head under his chin and laughed, once, at nothing.
 
 "I am warned," said Rohan. "I will stay."
 
-The rope hummed against both their wrists, low and level, one held note with no climb in it. Her fingers moved on his chest; she felt it too. A small promise, and one he could keep by lying still. He had never made one that felt so little like a weight.
+The rope hummed against both their wrists, low and level, one held note with no climb in it. Her fingers moved on his chest; she felt it too. A small promise, and one he could keep by lying still.
 
 
 ::: {.scene-break}
@@ -7140,25 +7158,39 @@ The thaw came early to the south slopes and late to the north, and by the time t
 
 Ila stayed behind with her cord and her unfinished map and a ridge she had not yet found a name for. She gripped her brother's shoulders at the gate and told him he walked a degree off true, and he told her he knew.
 
-Kiran stood a pace behind her in the doorway, wrapped in his blanket, too weak for the road and too stubborn to be left inside. He said nothing at all. His hand crept up under the wool to his torn ear and stayed there, and he watched Rohan as if memorising a map.
+Kiran stood a pace behind her in the doorway, wrapped in his blanket, too weak for the road and too stubborn to be left inside. He said nothing at all. His hand crept up under the wool to his torn ear and stayed there.
 
-They crossed back as lawful as paper could make them. The writ ran, in Rohan's hand and the queen's, to the Captain of the Shilak post and his named guide, Meera of Kothi Shilak, and no one at the Neshar post asked a question after the first look at the seal. Meera carried the writ case in her coat. She said it weighed more than the redbark had.
+The writ ran, in Rohan's hand and the queen's, to the Captain of the Shilak post and his named guide, Meera of Kothi Shilak, and no one at the Neshar post asked a question after the first look at the seal. Meera carried the writ case in her coat. She said it weighed more than the redbark had.
 
-They passed the Rope-Hut on the second morning. The nail above the door stood bare. Nobody had hung a new sprig there, and Rohan knew whose hands had used up the old one. The felled tree below it had put out green at the tips. Neither of them went in. He was glad to have seen it from outside.
+The Rope-Hut came on the second morning. The nail above the door stood bare. Nobody had hung a new sprig there, and Rohan knew whose hands had used up the old one. The felled tree below it had put out green at the tips. Neither of them went in.
 
-They travelled in the dark hours and the early light, when the crust held. By day the whole mountain talked: water running under the snow, ice settling, the slow wet crack of cornices letting go somewhere out of sight. The winter line was fainter in the thaw, a pale blue thread in the grey, but it held. Rohan walked behind her and uphill, as she had taught him, and anchored the rope. She never once looked back to see if he was there.
+They travelled in the dark hours and the early light, when the crust held. By day the whole mountain talked: water under the snow, ice settling, the slow wet crack of cornices letting go somewhere out of sight. Rohan walked behind her and uphill, as she had taught him, and anchored the rope. She never once looked back to see if he was there.
 
-On the fourth morning they came down off the Saddle to the waystone. Meera stopped. Four small stones sat where they had left them for Jassi, three of hers and one of his. She added a fifth, set it carefully, and stood a moment with her good hand flat on the pillar.
+On the fourth morning they came down off the Saddle to the waystone. Four small stones sat where they had left them for Jassi, three of hers and one of his. She added a fifth and stood a moment with her good hand flat on the pillar.
 
 "For the goats," she said. "He'd say I'd forgotten the goats."
 
-That afternoon they topped the last ridge. Below them lay the roofs of Kothi Shilak, the tall old salt house with its goat pen and its thin smoke, and nearer, on the slope at the foot of the pass, the small grey ring of the cairn. Goat bells carried up the hill, faint and wrong-pitched and entirely alive. Snow lay along the cairn's north side, heavy and white. On the south side, where the sun reached, it had begun to darken.
+That afternoon they topped the last ridge. Below them lay the roofs of Kothi Shilak, the tall old salt house with its goat pen and its thin smoke, and nearer, on the slope at the foot of the pass, the small grey ring of the cairn. Snow lay along its north side, heavy and white. On the south side, where the sun reached, it had begun to darken.
 
-Meera stood very still. He knew she was counting. He did not need to ask what.
-
-"Two nights," she said. "Maybe three."
+"Two nights," said Meera. "Maybe three."
 
 "Yes."
+
+They came down to Kothi to wait for the meltwater and walk back up with the village.
+
+In the salt house a big brass bell hung on a peg by the stair, green at the seams, its tongue worn to a sliver. Badami had worn it through twelve winters of crossings she was too old for now. Rohan stood in the doorway, well inside his eight spans, and watched Meera thumb the tongue and let it speak once, a dull note.
+
+"For the cairn," she said. She left it on its peg. "Bindu'll bring it."
+
+Then she led the old goat out of the pen herself and put the lead into the hands of Roop and Chand, who were bound to each other and had to walk together anyway.
+
+"Take her to Jassi's sister," she said. "Leela. The apricot orchard, forty trees. It's all downhill." Her voice did not change. "Tell her she's to have the best of them."
+
+Chand nodded, big and shy. Badami went down the lane without once looking back, which was how Jassi would have said she'd do it. Meera stood with her hand on the cold brass until the goat bells below went faint.
+
+Rohan offered nothing. He stood in the doorway, and when she turned, he moved aside to let her pass.
+
+Later, at the salt-house door, the cairn lay grey above the village in the failing light. Meera stood very still. He knew she was counting. He did not need to ask what.
 
 The rope hung loose between them, eight spans of red wool gone soft with use. It had held him on a gully wall and in a lockhouse. It had told her every truth he had ever said. Once meltwater ran at the cairn it would be only a rope.
 
@@ -7166,7 +7198,7 @@ He did not say what he wanted. He worked the knot at his wrist loose, as far as 
 
 Meera looked at it. Then she put her mittened hand over his and closed his fingers round the wool.
 
-"Come on, Rohan," she said. "Let's go down and find out how far we walk when nobody's measuring."
+"Come on, Rohan," she said. "Let's go find out how far we walk when nobody's measuring."
 
 # Chapter 32: First Thaw
 
@@ -7184,11 +7216,11 @@ Bindu hummed a knot-count under her breath and went on winding her spindle. She 
 
 Eight wardens in grey stood on the north side of the ring. Rohan stood with them and not among them, the red rope between his wrist and hers. It was the only thing about the morning that was entirely clear.
 
-Meera slid her good hand into her coat and brought out the bell.
+Meera held out her good hand, and Bindu set the bell in it.
 
-It was the big bell, the brass drum Badami had worn through nine winters of crossings, green at the seams, with a tongue worn thin as a leaf. She stepped to the cairn's inner face and hung it by its thong on a jut of stone beside the carved hands. The wind found it at once and gave it one note, flat and plain, and not the note the stones made.
+It was the big bell, the one Bindu had lifted off the peg by the salt-house stair, the brass drum Badami had worn through twelve winters of crossings, green at the seams, with a tongue worn thin as a leaf. Meera stepped to the cairn's inner face and hung it by its thong on a jut of stone beside the carved hands. The wind found it at once and gave it one note, flat and plain, and not the note the stones made.
 
-"Jassi," she said. "This is Badami's big bell. Your small one lies with Sunni at Ranu, where I told it to lie. And Badami is with your sister Leela, in the apricot orchard, forty trees, just as you planned." She stopped. "That's all. I counted you in the book the day you came to us, and I'm not taking you out."
+"Jassi," she said. "This is Badami's big bell. Your small one lies with Sunni at Ranu, where I told it to lie. And Badami is with your sister Leela, in the apricot orchard, forty trees, just as you planned. Roop and Chand walked her down." She stopped. "That's all. I counted you in the book the day you came to us, and I'm not taking you out."
 
 Nobody spoke. Hakam took off his cap.
 
@@ -7206,11 +7238,11 @@ The senior warden did not say it loudly. He was a square man called Gopal, grey 
 
 "I carry no orders of my own, sir. But I have read your writ." Gopal's eyes went to Meera and came back. "It says deliver the Salt Fox at the thaw. The ice is going. I'd be failing you if I let the hour come and said nothing."
 
-The rope went very still on Meera's wrist. She did not look at Rohan. She had told herself on the last ridge that she would not, and again in the night, and she had been right both times.
+The rope went very still on Meera's wrist. She did not look at Rohan. She had told herself on the last ridge that she would not, and again in the night, and both times she had known she would want to.
 
 *I am looking,* he had said. He had not said *I promise.* She had liked him for it under the lamp, for the honesty of it. She did not like it now. Looking was not finding. If the paper had failed him, then a captain's duty stood where his hope had been, and she would learn it in front of three hundred stones and a village.
 
-*Silence is free,* she thought. It had never felt so expensive.
+*Silence is the one thing the rope lets me keep,* she thought. It had never felt so dear.
 
 The wardens stood in a half ring. Some looked at their boots. One young man looked at her left glove, with its two missing stalls, and then at the sky.
 
@@ -7244,13 +7276,13 @@ Then came a small, ordinary sound at the foot of the cairn, like a spoon dragged
 
 The rope on her wrist went slack.
 
-It did not fall. It just stopped being a thing that listened. The knot that had sat tight on her pulse since before midwinter was a knot and nothing more, a bit of red wool she had bought from a woman in Taravan.
+It did not fall. It just stopped being a thing that listened. The knot that had sat tight on her pulse since before midwinter was a knot and nothing more, a bit of red wool she had bought from a woman in Taravan. Silence was only silence now.
 
-Rohan breathed in. The stones stayed silent.
+Rohan breathed in. The stones stayed quiet.
 
 "Well," Meera said. "Count that."
 
-She untied her wrist. Her fingers did it without being told, the old flat reef with its half hitch. She laid the rope in Bindu's hands and turned and began to walk.
+She untied her wrist. Her fingers did it without being told, the old flat reef with its half hitch. She laid the rope in Bindu's hands, turned and began to walk.
 
 She counted aloud, because it was how she did things. "One. Two." Past the end of the eight spans, where the rope would once have drawn her up like a leashed goat. Her stride did not change. "Nine. Ten." The cold that had waited at that distance all winter, the cold she had known since a mitten at fifteen, never came. The wind blew and it was only wind. Her own breath smoked and it was only breath.
 
@@ -7296,7 +7328,7 @@ Meera took one end and held it up. Rohan took the other. For two months and more
 
 "You cannot," said Rohan.
 
-"I could. It'd be free." She tied the knot on his wrist, the warden's double hitch he had tied on the seal's cord: two turns round the standing part, a tuck, a locking half-turn. She did it snug, the way he snugged it, not the way she had. "There. Yours."
+"I could. It'd cost nothing." She tied the knot on his wrist, the warden's double hitch he had tied on the seal's cord: two turns round the standing part, a tuck, a locking half-turn. She did it snug, the way he snugged it, not the way she had. "There. Yours."
 
 He looked at it. Then he took the other end and tied hers: the flat reef with a half hitch, Bindu's knot, taught to a five-year-old with a rope round her fist. His fingers were not quite steady, and he did it well.
 
@@ -7310,9 +7342,9 @@ He looked at it. Then he took the other end and tied hers: the flat reef with a 
 
 Gopal had stepped forward, his fist half raised. "Captain, if I may—"
 
-"Rohan," said Meera, before Rohan could. She said it to the wardens, the goatherds, Jassi's bell, the dripping slab. "Not Captain. Not today."
+"Rohan," said Meera, before Rohan could. She said it to the wardens, the goatherds, Jassi's bell, the dripping slab. "Not Captain. Not from me, and not in front of the post."
 
-Gopal's mouth twitched. "Rohan, then," he said, and saluted anyway.
+Gopal's mouth twitched. "Rohan, then," he said, and saluted anyway. Down the line, one by one, the wardens' fists went to their chests.
 
 Somebody cheered. Chand, it was, a big shy man, who went red as soon as he did it. The cheer broke, and half the village was suddenly laughing and wanting to touch her sleeve. Bindu wept openly into the spindle. Rohan stood in the middle of it with the cream rope on his wrist, looking at his hand, and at her, and at his hand again.
 
@@ -7380,13 +7412,15 @@ Meera was looking at the carving on the inner face. She had touched it as a girl
 
 "Sixty winters ago," Rohan said, low, as if to the stone. "The spring they wrote the Closing Law. My grandfather was found at the thaw with his gloves laid one on the other on a flat stone. My father told it when he drank. A man who is lost in a storm does not fold his gloves." His throat moved. "Someone set them down tidily. As you would leave a thing you will not need again."
 
-"As payment," Meera said. It came out barely a sound.
+Meera said nothing. She looked at the two unequal hands, and at the gloves in her mind, folded on their stone, and the numbers would not close.
 
-"I do not know. I have never known." His hand tightened on hers, the cream rope pulling a little at both their wrists. "Ila stayed in Neshar to finish her map. The queen will want it. She will want it very much."
+"I do not know what it means," Rohan said. "I have never known. But I can reckon a little, and I will call it a guess, not a promise." His hand tightened on hers, the cream rope pulling at both their wrists. "The queen's order says deliver the Salt Fox. It does not say hang her. I have asked myself since the Rope-Hut why a queen wants a smuggler alive in Taravan. Ila stayed in Neshar to finish her map, and the queen will want that map very much. She may want you and the map for the same reason. Both of you know this pass."
 
-Meera heard what he did not say. She had the habit of it now. *She will want it, and I do not yet know why.*
+Meera heard the rest of it, the part he was careful to leave unsaid. "And until she says so," she said, "I'm a name on her Roll and nothing more."
 
-"Then we'd better get to Taravan," she said. "Before somebody else decides what it is we owe."
+"You are not pardoned. The Roll bought your crew their peace, not your pardon. Only the queen can give that, and I cannot hand you a better answer than that. It is why we walk there together."
+
+"Then we'd better go," she said. "Before somebody else decides what it is we owe."
 
 She kept her eyes on the two unequal hands, and behind her the thaw ran on, and somewhere under the mountain, in the dark, it ran toward a place she had never been.
 
@@ -7402,16 +7436,16 @@ She kept her eyes on the two unequal hands, and behind her the thaw ran on, and 
 ## Coming next {.unnumbered}
 
 
-Ila has measured every ridge in Hemkot except the ones that matter.
+Ila measures everything. Distances, slopes, the number of steps between a lie and the truth. At thirty-one she is the crown's best pass-surveyor, and she is one winter of work away from a title no woman has held: Chief Surveyor of Hemkot. All she has to do is finish the map.
 
-She is thirty-one, the queen's pass-surveyor, and brisk enough to correct a general's distances in front of his soldiers. Winter has shut her inside Neshar with a half-finished map, a commission with the royal archive's seal on it and one rule she has never broken: a map is true or it is false. It is never good or bad. It is never anyone's weapon.
+The map is the problem.
 
-Kunal knows better. He is thirty-three, a prince of Neshar with a courtier's smile and a rebel's habits, and he keeps three hidden routes in his head because whoever knows the way owns the people. He has read her commission. He thinks she is the queen's cartographer, sent to open his valley to garrisons.
+In the far valley of Neshar there are routes no crown surveyor has ever seen, because the people who use them have never shared them. The queen wants them on paper. The hill council wants them kept in the dark. And the one man who knows them all, Kunal, the rebel prince of Neshar, is thirty-three and charming, and answers every question with another question.
 
-She thinks he is his uncle's kind of prince.
+He thinks Ila's commission is a garrison waiting to happen. She thinks his rebellion is a prince's game of thrones. Then winter closes the pass, and the jogini do what the jogini do. A red rope. A cairn. Two names spoken to the stones. A bond that lasts until the thaw, in which every lie costs her a little more of her warmth than she can spare.
 
-Then the mountain gets a vote. A rope, a cairn, and a closed pass bind them together until the thaw, with ice that booms like a drum beneath their feet. Every true answer he gives about the hidden ways becomes a line on a crown map. Every true answer she gives about her orders tells him what she is drawing against his people. And somewhere below the Shilak Cairn, in the dark, is a debt that two courts have worked very hard to keep off every map.
+Ila has always believed a map is only ever true or false. On the rope, with a man who guards every secret route, she is about to learn that a true line still has to belong to someone.
 
-Ila can draw the passes so exactly that no one will ever lose them again. She can also draw them so exactly that no one can ever hide.
+Her pen can open Neshar to the crown. Her silence can keep it hidden. One of those choices will cost her the man she is bound to.
 
 Will Ila map the hidden passes for the queen, or hide them for Neshar?

@@ -9,7 +9,7 @@ Re-check KDP's current limits in KDP Help before the first upload of a series (P
 |---|---|
 | Language | English |
 | Book title | Bound till the Thaw |
-| Subtitle | An Enemies-to-Lovers Mountain Romantasy |
+| Subtitle | An Enemies-to-Lovers Romantasy |
 | Series | The Winter Passes (add to existing series after book 1) |
 | Series number | 1 |
 | Edition number | (leave blank) |
@@ -19,14 +19,14 @@ Re-check KDP's current limits in KDP Help before the first upload of a series (P
 | Publishing rights | I own the copyright and I hold the necessary publishing rights |
 | Primary audience: sexually explicit images or title | No |
 | Reading age | (leave blank: adult) |
-| Categories | Kindle Store > Kindle eBooks > Romance > Fantasy; Kindle Store > Kindle eBooks > Science Fiction & Fantasy > Fantasy > Romantic; Kindle Store > Kindle eBooks > Romance > Action & Adventure |
-| Keyword 1 | enemies to lovers romantasy |
-| Keyword 2 | forced proximity fantasy romance |
-| Keyword 3 | magical bond slow burn romantasy |
-| Keyword 4 | mountain spirits folklore fantasy romance |
-| Keyword 5 | smuggler heroine warden hero romance |
-| Keyword 6 | winter survival romantasy series |
-| Keyword 7 | open door fantasy romance happy ending |
+| Categories | Kindle Store > Kindle eBooks > Science Fiction & Fantasy > Fantasy > Romantic; Kindle Store > Kindle eBooks > Romance > Fantasy; Kindle Store > Kindle eBooks > Science Fiction & Fantasy > Fantasy > Action & Adventure |
+| Keyword 1 | enemies to lovers romantasy winter survival |
+| Keyword 2 | forced proximity fantasy romance smuggler |
+| Keyword 3 | magical bond fantasy romance lies cost warmth |
+| Keyword 4 | slow burn romantasy mountain pass adventure |
+| Keyword 5 | smuggler heroine warden hero fantasy romance |
+| Keyword 6 | open door romantasy protector hero |
+| Keyword 7 | mountain spirit folklore romantasy series |
 | Release option | I'm ready to release my book now |
 
 Save and continue (Claude asks before saving).
