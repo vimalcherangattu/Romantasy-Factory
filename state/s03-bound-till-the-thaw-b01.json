@@ -3,7 +3,7 @@
   "series_id": "s03-bound-till-the-thaw",
   "number": 1,
   "title": "Bound till the Thaw",
-  "status": "in_progress",
+  "status": "review",
   "stage": "S3",
   "done": [
     "S3",
@@ -11,7 +11,8 @@
     "book_check",
     "S9",
     "S10",
-    "beta_read"
+    "beta_read",
+    "review"
   ],
   "chapters": {
     "01": {
@@ -1039,7 +1040,7 @@
   "revision_round": 2,
   "asin": null,
   "created_at": "2026-10-19T17:50:53",
-  "review_at": null,
+  "review_at": "2026-11-07T19:27:29",
   "approved_at": null,
   "published_at": null,
   "history": [
@@ -2246,9 +2247,13 @@
     {
       "at": "2026-11-07T19:27:26",
       "event": "done: beta read"
+    },
+    {
+      "at": "2026-11-07T19:27:29",
+      "event": "done: review sheet"
     }
   ],
-  "updated_at": "2026-11-07T19:27:26",
+  "updated_at": "2026-11-07T19:27:29",
   "midpoint_chapter": 16,
   "continuity_attempts": 0,
   "continuity_last_errors": null,
