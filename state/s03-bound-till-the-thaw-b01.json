@@ -10,7 +10,8 @@
     "S7",
     "book_check",
     "S9",
-    "S10"
+    "S10",
+    "beta_read"
   ],
   "chapters": {
     "01": {
@@ -2241,9 +2242,13 @@
     {
       "at": "2026-11-07T19:25:44",
       "event": "done: S10 package"
+    },
+    {
+      "at": "2026-11-07T19:27:26",
+      "event": "done: beta read"
     }
   ],
-  "updated_at": "2026-11-07T19:25:44",
+  "updated_at": "2026-11-07T19:27:26",
   "midpoint_chapter": 16,
   "continuity_attempts": 0,
   "continuity_last_errors": null,
@@ -2261,8 +2266,8 @@
   "beta": {
     "verdict": "revise",
     "predicted_rating": 4.2,
-    "summary": "A strong, distinctive enemies-to-lovers book: the lie-cold bond produces real, costed chemistry, the ch16 midpoint turns both the romance and the mystery, and the ending lands the belief change, the HFN and a good hinge. A small round would lift it: the Varun clue is too loud in ch2, there is a bond-rule contradiction in ch31, the ch30 climax states its theme aloud and under-delivers the promised heat, and two endgame threads need tidying.",
-    "notes": "series/s03-bound-till-the-thaw/books/s03-bound-till-the-thaw-b01/beta-notes-2.md"
+    "summary": "A specific, well-built enemies-to-lovers romance where the lie-cold rule does real work: the midpoint confession, the 207th name in the count and the bond-end walk are moments readers will remember. A short revision round should fix a pre-empted betrothal beat, a bell continuity slip, a 'not a promise' tic, a flat Varun, a top-heavy hinge and a blurb line that confuses who the guide is.",
+    "notes": "series/s03-bound-till-the-thaw/books/s03-bound-till-the-thaw-b01/beta-notes-3.md"
   },
   "beta_rounds": 2,
   "pending_owner_notes": null
