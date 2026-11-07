@@ -1,27 +1,27 @@
 # Status
 
-Last updated: 2026-11-01
+Last updated: 2026-11-08
 
 ## Current state
 - Live on KDP (pen name Anya Kalloor, series The Odiyan Contracts):
   - Vow of Teeth, B0HNPFZT9M
   - Oath of Claws, B0HNT2V324
   - Both ebooks; the ledger has no paperback logged.
-- In review: Crown of Night (s02 b03), 92,405 words. Beta reader says "revise", predicted
-  rating 4.2. Cover done. Task Hub todo for the owner, due 1 Nov.
-- KDP week of 1 Nov: 1 ebook + 1 paperback reserved for parenting Book 1 (slipped from 25 Oct),
-  1 ebook free for Crown of Night. Parenting Book 2 reserved for the week of 22 Nov.
-- Week of 26 Oct-1 Nov: review cap used (Crown of Night).
-- 64 tests pass. Usage to date: 1093 calls, 10.2M output tokens (`state/usage.csv`).
+- In review, waiting on the owner:
+  - Crown of Night (s02 b03): since 1 Nov, cover done.
+  - Bound till the Thaw (s03 b01, Mira Sangla): since 8 Nov, 90,981 words, beta 4.2, NO cover yet.
+- KDP week of 8 Nov: 1 ebook + 1 paperback reserved for parenting Book 1 (slipped twice),
+  1 ebook free for romantasy. Parenting Book 2 reserved for the week of 22 Nov.
+- Week of 2-8 Nov: review cap used (Bound till the Thaw).
+- 64 tests pass. Usage to date: about 1220 calls, 11.1M output tokens (`state/usage.csv`).
 
 ## In progress
-- s03-bound-till-the-thaw-b01 (Mira Sangla): S7 and book check done; line edit at ch 27 of 32.
-- Queued: s03 b02-b04; s01 archived.
+- Queued next: s03-bound-till-the-thaw-b02; s01 archived.
 
 ## Next step
-- Sun 1 Nov 10:00 IST upload slot: Crown of Night, if the owner approves it.
-- Sun night (Mon 2 Nov, 00:52 IST): new week; factory run, up to 2 passes. Bound till the Thaw
-  b1 is closest to review and will need its first cover.
+- Sun night (Mon 9 Nov, 00:52 IST): new week; make the Thaw b1 cover (ElevenLabs connector was not
+  connected on 8 Nov), then factory run up to 2 passes (starts s03 b02).
+- Sun 8 Nov 10:00 IST upload slot: whichever romantasy book the owner approves (one slot).
 
 ## Known issues
 - The auto-approve / auto-publish change requested on 21 Oct was refused by the permission
