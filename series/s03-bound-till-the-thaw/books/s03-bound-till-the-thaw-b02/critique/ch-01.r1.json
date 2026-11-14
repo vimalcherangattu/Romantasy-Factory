@@ -1,0 +1,39 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 4.0,
+    "stakes_and_cost": 3.0,
+    "prose": 3.0,
+    "continuity": 5.0
+  },
+  "reasons": {
+    "reader_question": "Specific gap: two spans of void in the north wall, plus Kunal's glance at it and his unexplained opposition.",
+    "change": "Ila gains knowledge (void, Kunal's tell) and an open opponent; she moves from neutral to wary as the beat asks.",
+    "romance_movement": "Acquaintances become declared opponents. Her laugh disarms him, so the power tilts and a new kind of attention opens.",
+    "shown_chemistry": "The stair count, 'Kunal, on a stair', the laugh she nearly gives and his stunned silence all show response without narrating it.",
+    "character_logic": "Telling the regent's nephew about the void is risky, but she does it to watch his reaction. That is smart and in character.",
+    "stakes_and_cost": "The licence deadline is clear, but no decision on the page costs Ila anything yet. The personal stake stays abstract.",
+    "prose": "The voice is strong overall. A few lines are garbled, one pronoun has no antecedent, and 'Point 4410' jars.",
+    "continuity": "Ages, the law's text, seals, Kiran's ear, Varun and Pritam all match. The mason rename is logged in F422."
+  },
+  "fixes": [
+    "At 'the council would name her a licensed guide, and she could be bound to him', the line contradicts her later 'name a guide and bind me to him', and 'him' has no antecedent (worldbuilding slip). Change it to: 'the council would name a licensed guide for her, and she could be bound to him at the cairn and cross the Saddle.'",
+    "At 'Though I'm told the crown would like to know why it wants a prison measured', the logic is garbled: the crown is both sender and asker. Replace it with: 'Though I'd like to know why the crown wants a prison measured. Is that wrong?' Also change 'sent out of dinner tables' to 'sent from dinner tables'.",
+    "At 'Without it she was a woman with a lovely sheet of paper', the stakes stay abstract (stakes without depth). Add one concrete personal cost, such as Rohan's family grave, the fourth-winter closing, or a named rival for the chair. Change the archive line so the clerk 'wrote, very pleasantly', which keeps Ila in Neshar."
+  ],
+  "reader_question": "What is hidden behind the north wall that Kunal was standing so close to, and why will he fight her licence?",
+  "techniques_landed": [
+    1,
+    16,
+    11
+  ],
+  "new_facts_assessment": "Madan revises F419 cleanly. The two drafting-table visits match F263. The guide-bound licence fits F007 and F014. The Varun tears fit F264. The archive refusal 'last autumn' is useful setup for S4, but Ila stayed in Neshar (F266, F417), so it should say the refusal came by letter.",
+  "content_rule_violation": false,
+  "failure_modes": [],
+  "average": 3.88,
+  "minimum": 3.0,
+  "passed": true
+}
