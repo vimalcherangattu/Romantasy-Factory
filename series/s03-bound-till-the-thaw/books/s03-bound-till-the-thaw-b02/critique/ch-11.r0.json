@@ -1,0 +1,42 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 3.0,
+    "stakes_and_cost": 3.0,
+    "prose": 3.0,
+    "continuity": 5.0
+  },
+  "reasons": {
+    "reader_question": "The closing 'I'd hoped you'd lie' gives a sharp question: what will Kunal hold back now that she has promised to draw everything?",
+    "change": "Mutual disclosure happens, the values collision is spoken aloud, and Ila now privately links her grandfather to Udai.",
+    "romance_movement": "The new reason is strong: her honesty, the trait he admires, is what wounds him. The half-of-nine trade lands a little smoothly.",
+    "shown_chemistry": "His exact glove questions, the shared laughter in the cave and her not asking about the ridge are all responsive actions.",
+    "character_logic": "Kunal hears 'sixty winters ago, before the Closing Law' a day after telling Udai's story and does not react. A sharp man would.",
+    "stakes_and_cost": "The final answer costs both of them. The survival threat (shaking, four to six days of food) stays mild and never forces a choice.",
+    "prose": "Mostly clean. Problems: 'the weight of', two 'nobody had ever' beats, repeated 'free' and 'in sixty winters', and over-explained interiority lines.",
+    "continuity": "No conflict with the bible or facts. Gloves match F236, and the grandfather's story matches F338/F484. Internal stroke count is wrong (see fixes)."
+  },
+  "fixes": [
+    "At 'Sixty winters ago. Before there was a hall, before the Closing Law', Kunal hears the exact date of Udai's walk and does not react (irrational behaviour to extend plot). Option one: have Ila deliberately blur it to 'before the hall was built' and note to herself that the omission is free. Option two: let Kunal go still at 'sixty' and choose silence himself, so both now hold a free silence.",
+    "Cut 'and found that nobody had ever put it so' after 'You know what it is to be copied out of your own work'. It pre-empts the gloves' 'Nobody had asked. In sixty winters' and spends the chapter's peak early. Let Ila answer that inference with a short, deflecting line instead, saving the first-time feeling of being understood for the gloves.",
+    "Fix 'Two hundred and ninety strokes,' said Ila. The text counts past three hundred before the bench is cut, and a measurer would never misstate it; use the true total, for example 'Three hundred and forty.' Also trim the explaining interiority in 'It was free. It was a silence, and silence was free. She lay awake and knew exactly how much it cost' to one line. Replace 'She heard the whole weight of what was not said' (an AI tell) with a concrete image."
+  ],
+  "reader_question": "Now that Ila has said she would draw any true way, even one that opens Neshar to his uncle, what will Kunal stop showing her, and will she see what the gloves and the number sixty mean?",
+  "techniques_landed": [
+    9,
+    10,
+    15,
+    11
+  ],
+  "new_facts_assessment": "The Two Aunts fact is good: it fits F462 and is characterful. The father-copyist fact is necessary and drives the Chief Surveyor want. The glove details are the core of clue C07 and agree with F236. One problem: Ila asks Kunal about the gloves, and F236 has their father tell Rohan when drinking, yet here Rohan's question is met with a drink and no answer. The two versions are reconcilable but need care. Kunal's 'half of nine' fact is needed and properly withheld. Clause nine fits the eleven-line law (F263). Siting the double cairn 'on the lip' blurs ch10, which put it on the shoulder at the fork; the claim that she 'noted it an hour ago' yet it stands 'ten paces back' also needs clarifying.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Irrational behaviour to extend plot"
+  ],
+  "average": 3.75,
+  "minimum": 3.0,
+  "passed": true
+}
