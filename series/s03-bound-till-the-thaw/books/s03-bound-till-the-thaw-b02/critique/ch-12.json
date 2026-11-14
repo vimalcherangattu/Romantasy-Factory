@@ -7,35 +7,35 @@
     "character_logic": 4.0,
     "stakes_and_cost": 4.0,
     "prose": 4.0,
-    "continuity": 0.0
+    "continuity": 5.0
   },
   "reasons": {
-    "reader_question": "Hand on the sewn letter with the lakes in sight gives a sharp question. The 'carried' clue adds a second pull.",
-    "change": "Ila moves from oath-bound to her first announced omission, and Kunal names the cost exactly: a blank is a decision.",
-    "romance_movement": "The reasons are new. Her omission costs her oath, and his free name breaks their nightly trade. His reach for a promise is fresh pressure.",
-    "shown_chemistry": "The route-song timed to her feet, 'I'll feel the rope', and his thumb working the wool all show attraction through responsive action, not narration.",
-    "character_logic": "Ila omits because she knows Gauri's and Mini's names, and refuses the promise for rule-sound reasons. Kunal's offer to let her take it back, then his plea, both ring true.",
-    "stakes_and_cost": "Audit, oath and the Chief Surveyor title are named as the price. The cost is deferred, not yet paid.",
-    "prose": "Specific and quotable. Weaknesses: 'nineteen' echoes three times, there is a run of 'She saw' sentences, and 'bruise' light is a cliché.",
-    "continuity": "'Gauri is in the main room at Ewe's Rest. And Mini.' conflicts with F473: Gauri, Dhanu and Mini went ahead, leaving Ewe's Rest empty."
+    "reader_question": "The letter under her hand and the basin in view make the next chapter necessary, though the hook is a pause rather than a cut action.",
+    "change": "Oath-bound to first announced omission. She refuses the promise and keeps the oath alive, so the change is real and also limited, as the arc needs.",
+    "romance_movement": "There are new reasons on both sides: she pays for him with her oath, and he gives a name with no price for the first time.",
+    "shown_chemistry": "The route-song timed to her feet, his thumb working the wool, his eyes kept off the sheet. Mostly shown, with one patch of narrated interpretation.",
+    "character_logic": "Ila uses a true evasion, 'not properly measured', which a smart Ila would do. Kunal's swing from 'draw it' to 'promise me' is motivated but quick.",
+    "stakes_and_cost": "The audit, the Chief Surveyor title and the great-lie promise rule all bite. Raghu's pursuit vanishes entirely, which lowers the external pressure.",
+    "prose": "Clean, concrete and voiced. There are anaphoric 'She did not X. She did not Y' tics, several consecutive paragraphs that open with 'She', and one told paragraph.",
+    "continuity": "Consistent with F012, F438, F462, F476 and F492 to F500, and with the ch11 cave answer. The rope stays silent at truth, as in ch11."
   },
   "fixes": [
-    "At \"Because Gauri is in the main room at Ewe's Rest\": continuity conflict with F473, since Gauri and Mini left Ewe's Rest. Change it to \"Because I sat at Gauri's fire at Ewe's Rest. Because Mini paced her wall for me.\" This keeps the named-people logic and makes it consistent.",
-    "At \"Above her, Kunal had moved to the rock horn\" and the fifty-seven-step hard pitch: the rope bends. That horn is at the top, and fifty-seven slanting steps likely exceed an eight-span rope. Give the second ledge its own anchor stone, and add a line placing the pitch inside the rope's reach. Also cut \"not with a lie but\" from the rope-hum line, because the rope is not established as humming at lies.",
-    "At \"She had read it at nineteen, over her father's shoulder\": echo. 'Nineteen' appears three times in the chapter (chronicles, reading, oath), so keep it only for the oath. Also collapse the \"She saw... She saw his hands\" chain after \"It was a fair request\" into one observed action. Replace \"the colour of a bruise\" with a specific mountain image."
+    "'It was the first line she had ever left out on purpose and then known she had left out' muddles F445, where the east bearing was already a deliberate omission. Clarify it in one line: the east bearing was a gap she let happen while following him, and this is the first she chose with the pen in her hand and then declared. That keeps the value shift exact.",
+    "'It was handsomely said. It was courtesy, and she watched him pay for it' narrates Ila's reading before the reader sees it. This is narrated-only chemistry. Cut 'He had it in his hands to be generous, and he could not hold it.' Let the creaking strands and his eyes avoiding the sheet carry the effort, then go straight to her 'I won't.'",
+    "'and the ice rang again in the dark' closes on a static hand-on-letter beat, and Raghu's two pairs (F485, heading for the head of the lakes) are forgotten. This buries the plot under the romance. Add one concrete sign at the far head of the basin, such as a pinprick fire, so the letter question is joined to a threat and the Ladder Ila hid suddenly matters."
   ],
-  "reader_question": "What will Ila find in the queen's letter when she reaches the Glass Lakes, and what will it make her do with the way she has just hidden?",
+  "reader_question": "When Ila reaches the Glass Lakes and opens the queen's letter, what will it say about her grandfather and the 'carried' dead, and what will she then owe Kunal?",
   "techniques_landed": [
     11,
     14,
     15
   ],
-  "new_facts_assessment": "new-facts.json is empty, but F492 to F498 already record the Ladder, the song, the Long Braid, the audit and the omission, and they are consistent. Unlisted additions: the hamlets re-cut the steps every thaw, Kunal walked it at eleven, and the total is 160 steps. These are harmless and should be logged. The present-tense Gauri and Mini line conflicts with F473.",
+  "new_facts_assessment": "F499's step totals (36, 34, 57, 33) and the forty-foot hard pitch inside an eight-span rope check out, and they justify the anchor stone. F500 fixes F496's odd nineteen-chronicles coincidence. Both facts are necessary and consistent.",
   "content_rule_violation": false,
   "failure_modes": [
-    "Worldbuilding collapse"
+    "Plot buried by romance"
   ],
-  "average": 3.5,
-  "minimum": 0.0,
-  "passed": false
+  "average": 4.12,
+  "minimum": 4.0,
+  "passed": true
 }
