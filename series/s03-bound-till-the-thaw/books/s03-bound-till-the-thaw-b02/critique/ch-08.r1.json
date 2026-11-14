@@ -1,0 +1,39 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 4.0,
+    "stakes_and_cost": 4.0,
+    "prose": 4.0,
+    "continuity": 0.0
+  },
+  "reasons": {
+    "reader_question": "The glint gives a sharp external question, and the cut-off 'When I was nine' leaves a clear one about his uncle.",
+    "change": "Kunal now knows they are watched and doubts his song-secrecy. Dhanu and Gauri have gone, so the pair are alone in the hamlet.",
+    "romance_movement": "This reason is new: she declines to take the other half, and he starts to give his wound without weighing its use. It escalates the earlier cost-ledger.",
+    "shown_chemistry": "Responsive beats carry it: her glance at his hands, the held look, her 'I'll take the half', his reply to her kindness to Mini.",
+    "character_logic": "Kunal's reason to keep Ila is smart and stated. Ila reading slopes for glass fits her craft. Showing her the Hollow Moon is justified thinly.",
+    "stakes_and_cost": "They are alone, with watchers on their route. Every true answer becomes a map line. The horn plants a death Kunal can't yet see.",
+    "prose": "Clean, concrete and varied, with few tells. Two adjacent interior passages make the same paper-versus-song point, and one line narrates what her gift means.",
+    "continuity": "'Raghu had chalked the princes' way' conflicts with F453/F456: the chalk on the marker stone was Hari's warning."
+  },
+  "fixes": [
+    "Continuity: in 'Then Raghu had chalked *the princes' way* on a marker stone', the chalk was Hari's warning that 'they ask for the princes' way' (F453, F456). Rewrite: 'Then Hari had chalked *They ask for the princes' way* on a marker stone, and somebody had sung Raghu the Stair.' This keeps the logic that a man, not ink, gave the route away.",
+    "Worldbuilding collapse risk: at 'Dhanu and Gauri left with the pony... and Mini riding on top', add one line in the chapter's plain voice. Example: 'The short way kept under the snow-line, where the jogini asked no rope.' This shows the three can travel without a bond and avoids the one-pair-per-rope rule (F439). It also tells readers the rule still bites elsewhere.",
+    "Repetition in interiority: 'He had thought his people's ways were safe because nobody had written them down' repeats the earlier 'a song was safer than ink' beat. Cut that paragraph to its last sentence ('people went there too'). Also cut 'It took him a moment to see that she had given him something.' End on 'She had only declined to take it,' so the gift is shown, not explained."
+  ],
+  "reader_question": "Who is watching Ewe's Rest through a spyglass from the Hollow Moon, and what did Kunal's uncle do to him when he was nine?",
+  "techniques_landed": [
+    2,
+    7,
+    15
+  ],
+  "new_facts_assessment": "F475 (bearings 350 and 315 degrees, glint above the stone fan) matches the page and fixes the old 210; retire duplicate F474 (210) from continuity. F476 (Mini 204 steps vs Ila's ninety paces) is plausible for a six-year-old's step and harmless. The chapter also sends Mini with Dhanu and Gauri on the 'short way' without saying whether it crosses closed ground. If it does, a third person on one rope is refused (F439). One line would settle it.",
+  "content_rule_violation": false,
+  "failure_modes": [],
+  "average": 3.5,
+  "minimum": 0.0,
+  "passed": false
+}
