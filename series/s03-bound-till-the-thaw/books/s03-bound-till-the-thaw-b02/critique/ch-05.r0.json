@@ -1,0 +1,40 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 4.0,
+    "stakes_and_cost": 4.0,
+    "prose": 3.0,
+    "continuity": 0.0
+  },
+  "reasons": {
+    "reader_question": "The smeared second line under 'the princes' way' sharpens the beat's question into a specific, urgent gap.",
+    "change": "He learns there are four loaded men a day ahead, gives up a secret aloud, and moves from confident guide to afraid.",
+    "romance_movement": "First competence duet: belay, count correction, ceded pitch. New reason, though her view of his fear for others is barely voiced.",
+    "shown_chemistry": "Rope weight, belay and the 'trying to find out' callback work well. Some attraction is still narrated ('a weight he found he wanted').",
+    "character_logic": "Grief explains missing the prints. The stone-reading is over-explained: 'half made' undercuts the impulsive slip the beat asks for.",
+    "stakes_and_cost": "Reading aloud costs a secret he can't unsay. The ice danger stays cheap, with one plate shed and no real hold.",
+    "prose": "Clean of banned phrases. The 'he found' tic repeats about four times, several consecutive paragraphs open with 'He', and some lines over-narrate.",
+    "continuity": "The route-song counts waypoints (F433, F444) and ends at thirty-nine, but here it counts ice treads and the 'old count' is forty."
+  },
+  "fixes": [
+    "'Forty steps, the old count, and we're through': continuity conflict. F433 and F444 make the route-song count waypoints across the east line, ending 'nine and thirty'. Cut 'because it was the song' from his tread counting. State that the family counts the Stair's lower treads as forty by habit, unrelated to the song. Make the 'thirty-nine... rhyme for ghosts' thought refer explicitly to the tower stair (F418), so forty-one stands alone.",
+    "'the weight on the rope was a weight he found he wanted': narrated-only chemistry. Also 'found he preferred it' and 'found he did not mind'. Replace with action: he feeds rope too carefully, or calls a hold she doesn't need just to feel her answer. Cut two of the four 'he found' constructions and vary the run of paragraphs that open with 'He' in the climb section.",
+    "'Perhaps one in three that a tread shears under me': technique 6 is stated, then waived. Only a plate skates off and nothing tests the belay. Make one tread shear under him so Ila takes his full weight on her hip for a held beat. That pays off 'I've held three men' and earns his ceding the pitch. Also cut 'The decision was half made. He had not finished making it.' so the reading aloud is a true slip."
+  ],
+  "reader_question": "Who are 'the princes' whose way Raghu is demanding, and what was Hari trying to write in the smeared second line?",
+  "techniques_landed": [
+    1,
+    10
+  ],
+  "new_facts_assessment": "Hari and the marker stone are necessary and consistent. The forty-one count conflicts with the route-song's thirty-nine (F433) and the 'old count' of forty, and needs reconciling. The marker stone humming at a truth extends F320 to a non-cairn stone and should be logged.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Narrated-only chemistry"
+  ],
+  "average": 3.38,
+  "minimum": 0.0,
+  "passed": false
+}
