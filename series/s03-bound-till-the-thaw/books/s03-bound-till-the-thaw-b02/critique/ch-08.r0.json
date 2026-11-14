@@ -1,0 +1,42 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 4.0,
+    "stakes_and_cost": 4.0,
+    "prose": 4.0,
+    "continuity": 0.0
+  },
+  "reasons": {
+    "reader_question": "Sharp double hook: who holds the lens, and what happened at nine with 'my uncle', who readers know is Pritam.",
+    "change": "Secrecy cracks twice, through Mini's pacing and then the watcher. Dhanu leaves and Kunal commits to keeping Ila close.",
+    "romance_movement": "New reason: Ila declines the hidden half without bargaining, and that gift unlocks his first uncalculated disclosure.",
+    "shown_chemistry": "Responsive beats land: held gaze in the yard, 'I'll take the half', a blank page. Chemistry is never narrated.",
+    "character_logic": "Kunal's case for keeping her is smart. But surveyor Ila accepts 91 child-steps round a ninety-pace wall without comment.",
+    "stakes_and_cost": "Keeping Ila risks the ways. Dhanu's cold-man joke prices capture. The watcher puts the hamlet and friends at risk.",
+    "prose": "Clean and concrete with no banned phrases. The 'like a man...' simile tic recurs three or four times, and the final speech over-explains.",
+    "continuity": "'The red rope' conflicts with F436 (Ila's rope is undyed). The 210° glint contradicts a bowl lying north."
+  },
+  "fixes": [
+    "'The red rope ran from that shape': continuity break, because Ila's rope is undyed wool from Lata's house (F436). Change to 'The pale rope' or 'Her undyed rope', and check every later mention of rope colour in the chapter.",
+    "'Two hundred and ten degrees, above the stone fan': worldbuilding collapse, because the bowl lies north (far rim ~350°), so its west lip must fall near 300-330°, not south-west. Change the bearing to about 315°, keep the outcrop on the west lip, and update new-facts F474 to match.",
+    "'The stones of the old hearth gave the faintest ring': convenient magic, because an unlisted truth-reading hearth contradicts F320. Cut the hearth ring and have Ila glance at his bare hands by the coals, pink, as the proof (F391). Optionally keep 'That's true.' Also fix Mini's 'Ninety-one' to about two hundred, or have Ila remark on it."
+  ],
+  "reader_question": "Who is watching Ewe's Rest through a spyglass, and what did Kunal's uncle do to him when he was nine?",
+  "techniques_landed": [
+    2,
+    7,
+    15
+  ],
+  "new_facts_assessment": "Whistle, cover-sheet knowledge, clerk's stoop and Mini's age are necessary and consistent; the whistle plants the route-keeper's capture well. The Hollow Moon geometry is internally inconsistent: a bowl north at about 350° cannot have its west lip at 210°. Unlisted: hearth stones ringing a truth (extends F320/F456 to domestic stone; F320 says stones aren't a truth-test alone), and Hollow Moon as the summer way to Kuhl (consistent with F399).",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Convenient magic",
+    "Worldbuilding collapse"
+  ],
+  "average": 3.5,
+  "minimum": 0.0,
+  "passed": false
+}
