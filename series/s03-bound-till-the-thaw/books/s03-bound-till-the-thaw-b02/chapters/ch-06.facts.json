@@ -1,0 +1,44 @@
+{
+  "facts": [
+    {
+      "category": "place",
+      "fact": "The Stair plateau has a west lip (a drop) and an old chain of faint cairns; the jogini cairn-light on it shows only at dusk and is dim. Ewe's Rest lies a short descent below the last high cairn.",
+      "why": "needed because the beat requires crossing the plateau between faint cairns and a dark-fall cairn."
+    },
+    {
+      "category": "object",
+      "fact": "The plateau route-song runs: 'Keep the Crow's Wing on your cheek, keep the cold hollow underfoot, past the stone that split in two, three hundred to where the ewe lay down.' Crow's Wing is a ridge, the cold hollow a scoured dip, and Where the Ewe Lay Down is a waist-high half-ring lambing wall beside the last high cairn.",
+      "why": "the beat requires a route-song whose names are directions."
+    },
+    {
+      "category": "place",
+      "fact": "The split boulder of the song is buried under a drift. Ila navigates by the bearing of the crag she named (94 degrees at 560 paces) and reaches the wall about forty of Kunal's paces off her predicted line.",
+      "why": "the beat requires the boulder to be buried and Ila's bearing to prove right."
+    },
+    {
+      "category": "name",
+      "fact": "Ila names a black four-humped crag Nimmi's Knuckle; it has a hill name Kunal refuses to give.",
+      "why": "beat 3."
+    },
+    {
+      "category": "name",
+      "fact": "Old Woman's Tooth is a black notched pinnacle north of the lambing wall (bearing 350, about a mile and a quarter) with water under it in spring.",
+      "why": "the first name in the name trade, per the beat."
+    },
+    {
+      "category": "relationship",
+      "fact": "Name trade terms: each night Kunal gives one true Neshar name for a feature Ila measured that day, which she writes exactly as he says it; she answers one question about her orders truthfully or refuses for free.",
+      "why": "beat 6."
+    },
+    {
+      "category": "injury",
+      "fact": "Kunal's palms are rope-scraped and bleeding slightly after the hip belay.",
+      "why": "consequence of the belay in beat 4."
+    },
+    {
+      "category": "knowledge",
+      "fact": "Ila recites the commission phrase as 'the crown may hold every way' and says she does not know what holding means.",
+      "why": "beat 7, consistent with F431."
+    }
+  ]
+}
