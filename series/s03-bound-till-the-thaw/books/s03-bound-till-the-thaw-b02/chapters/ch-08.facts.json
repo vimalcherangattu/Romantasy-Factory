@@ -1,29 +1,16 @@
 {
   "facts": [
     {
-      "category": "object",
-      "fact": "Dhanu wears a finger-long goat-horn whistle on a thong against his skin: the Glass Lakes way signal is two long notes and one short for 'come on, it's clear', three short for 'turn back'.",
-      "why": "needed because the beat shows the whistle and its signal."
+      "id": "F474",
+      "category": "place",
+      "fact": "The Hollow Moon is a wide white bowl north of Ewe's Rest with a fan of loose stone on its west side; its far rim lies about 10 degrees west of north (about 350 degrees), and the spyglass glint comes from a black outcrop on the west lip at about 315 degrees, above the stone fan. Revises the earlier 210 degrees.",
+      "since": "s03-bound-till-the-thaw-b02 ch 8"
     },
     {
-      "category": "knowledge",
-      "fact": "Kunal has read the crown's cover sheet to the council naming 'a way beneath the Shilak Cairn' and has never heard of such a way; Ila has not seen the sheet.",
-      "why": "needed because Kunal's stated reason for keeping Ila close; follows F431."
-    },
-    {
+      "id": "F475",
       "category": "name",
-      "fact": "The cliff notch behind Ewe's Rest is called 'the clerk's stoop' in Kunal's hill speech; Ila writes it as he says it.",
-      "why": "needed because the nightly name trade (F462) continues on page."
-    },
-    {
-      "category": "place",
-      "fact": "Mini is six and travels with Dhanu and Gauri on the pony when they go ahead by the short way; Ewe's Rest is left empty except for Kunal and Ila.",
-      "why": "needed because Dhanu and Gauri leave, and the child must be accounted for."
-    },
-    {
-      "category": "place",
-      "fact": "The Hollow Moon is a wide white bowl north of Ewe's Rest with a fan of loose stone on its west side; its far rim lies about 10 degrees west of north, and the spyglass glint comes from a black outcrop on the west lip at 210 degrees.",
-      "why": "needed because the ending requires a concrete watcher position and sets up ch 9."
+      "fact": "Mini paces the pen wall at twenty-two steps to the wall and about two hundred and four steps round it; Ila's pen figure is about ninety of her own paces.",
+      "since": "s03-bound-till-the-thaw-b02 ch 8"
     }
   ]
 }
