@@ -1,0 +1,41 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 4.0,
+    "stakes_and_cost": 4.0,
+    "prose": 4.0,
+    "continuity": 0.0
+  },
+  "reasons": {
+    "reader_question": "The ice boom and 'Don't move' leave a sharp physical question. Her palm on the letter adds dramatic irony, since the reader knows its instruction.",
+    "change": "Kunal has put an irrevocable truth on the record and now doubts whether he gave her a gift or a handle.",
+    "romance_movement": "The reason for the change is new: the rule kills a reflexive courtier's lie, and she refuses to write his truth down.",
+    "shown_chemistry": "The warm pencil lead, her eyes moving to his mouth, his stumble at her laugh and two fingers on his coat all show attraction through action.",
+    "character_logic": "The reflex lie is set up as a lifelong manners habit. Ila yielding on the unsounded ice is earned. One narrated 'wrong about a Ladder' undercuts her.",
+    "stakes_and_cost": "Stepping onto unsounded ice costs Ila her method. The confession exposes Kunal. His white nails carry the cost of the lie onto the lake.",
+    "prose": "The prose is concrete and rhythmic. Flaws: an echoed 'had any right to', the drum image reused from ch12, and interiority that contradicts itself on the ice.",
+    "continuity": "Kunal places Ila's promise refusal 'on the ledge'. In ch12 she refused at the fire in the niche at the Ladder's foot, after the descent."
+  },
+  "fixes": [
+    "'She had refused him a promise on the ledge': this is a continuity error. In ch12 she refused the promise by the niche fire at the Ladder's foot. Change it to 'by the fire at the Ladder's foot'. In 'a woman who had been wrong about a Ladder', the banter just conceded she wasn't wrong. Change it to 'a woman who had been misled about a Ladder' or similar.",
+    "'He did not think of the lie. He thought': this is a self-contradicting monologue, because the next paragraphs are all about the lie and the handle. Cut 'He did not think of the lie.' Compress the 'gift, or a handle' section into one short paragraph that ends in an action, for example he tightens the rope or counts lamps. This keeps the self-doubt beat and makes it a choice rather than rumination.",
+    "'faster than any cloud had a right to': this echoes 'nearer than it had any right to' a page earlier, so the storm description repeats. Cut one of them. Also vary the closing 'struck-drum note', which repeats ch12's final 'great drum struck once'. Use a new sound specific to daylight and storm, for example a seam splitting like green timber under the axe-tick."
+  ],
+  "reader_question": "Will the booming ice hold them halfway across the Mirror, and will Ila open the queen's letter now that she stands at the Glass Lakes?",
+  "techniques_landed": [
+    7,
+    8,
+    22
+  ],
+  "new_facts_assessment": "F509 (910 paces from the scree edge) agrees with the page and with F420's pace. F510 (Raven Spur) and F511 (pocket watch) are harmless and useful. F512's jump from three hours to twenty minutes is steep, but the page frames it as an arriving front that Ila misjudged, so it is acceptable. F513 agrees with F352's rule that a lie begun keeps the white the full hour. F514 is consistent with F438 and sets up the letter. Ila's touch lands on his coat, not his skin, so it rightly avoids the loophole.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Endless monologue"
+  ],
+  "average": 3.5,
+  "minimum": 0.0,
+  "passed": false
+}

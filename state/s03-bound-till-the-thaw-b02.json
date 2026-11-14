@@ -226,20 +226,22 @@
       "minimum": 4.0
     },
     "13": {
-      "status": "revised",
+      "status": "passed",
       "revisions": 3,
       "scores": {
         "reader_question": 4.0,
         "change": 4.0,
         "romance_movement": 4.0,
         "shown_chemistry": 4.0,
-        "character_logic": 3.0,
+        "character_logic": 4.0,
         "stakes_and_cost": 4.0,
         "prose": 4.0,
         "continuity": 0.0
       },
-      "average": 3.38,
-      "flags": [],
+      "average": 3.5,
+      "flags": [
+        "needs-owner"
+      ],
       "words": 2761,
       "minimum": 0.0
     },
@@ -586,8 +588,12 @@
     {
       "at": "2026-11-14T21:11:58",
       "event": "done: S6 revise ch 13"
+    },
+    {
+      "at": "2026-11-14T21:13:12",
+      "event": "done: S5 critique ch 13"
     }
   ],
-  "updated_at": "2026-11-14T21:11:58",
+  "updated_at": "2026-11-14T21:13:12",
   "midpoint_chapter": 16
 }
