@@ -5,37 +5,37 @@
     "romance_movement": 4.0,
     "shown_chemistry": 4.0,
     "character_logic": 3.0,
-    "stakes_and_cost": 4.0,
+    "stakes_and_cost": 3.0,
     "prose": 4.0,
     "continuity": 0.0
   },
   "reasons": {
-    "reader_question": "The broken east line into an unmapped valley, plus Kunal's stillness, gives a sharp one-sentence question. The Glass Lakes letter adds a second.",
-    "change": "Ila now knows the clock (minus 35 days), the unmapped valley and Kunal's late destination. At the end Kunal holds the knowledge and leads.",
-    "romance_movement": "The demonstration lie becomes their first shared joke and sets the honesty terms. His unguarded laugh is a new reason for warmth.",
-    "shown_chemistry": "His snug-then-check knot, the laugh bent over the stones and the 'say well' banter all show attraction through response, not narration.",
-    "character_logic": "Ila is sharp throughout. Kunal leading the crown's surveyor straight toward a hidden way contradicts his core want with no visible reason.",
-    "stakes_and_cost": "Thirty-five lost days, and a rope that forces her to follow him east, make the next decision costly.",
-    "prose": "Clean and concrete with no em dashes. One AI tell ('a flicker of'), a modern 'not a hugger', and a muddled lie exchange.",
-    "continuity": "The seal memory places the queen's blood going into the wax at the Fair, which conflicts with F048/F254. Kiran's 'since the summer' strains F417."
+    "reader_question": "Two specific gaps: where the Glass Lakes are, and what the broken east line is that Kunal plainly knows.",
+    "change": "Ila gains a thirty-five-day clock and an unmapped valley. Power ends with Kunal choosing direction and turning her queen against her.",
+    "romance_movement": "The demonstration lie becomes a shared joke, and his true 'I don't' sets terms. Both are new reasons for closeness.",
+    "shown_chemistry": "Knot snugged with a questioning look, his bent-over laugh, and quick banter about silence. All shown through action.",
+    "character_logic": "Ila's test and calculations fit her. Kunal leading a mapper onto a secret way has no on-page reason.",
+    "stakes_and_cost": "The clock bites, but the final follow is forced by the rope. Ila pays nothing chosen for it.",
+    "prose": "Clean and concrete with strong lines. It reuses Book 1's signature 'Watch my hands', and the laugh reaction is partly told.",
+    "continuity": "Lie-cold lasts an hour (F010, and Ila's own line), but her fingertips stay white from dawn to noon."
   },
   "fixes": [
-    "Continuity. At 'The queen had mixed her own blood into the seal that day', the queen was never at the Fair: Rohan carried her blood-threaded wafer (F048, F254). Rewrite: 'She had seen that same thread in the wafer Rohan pressed on the Fair meadow, blood the queen had mixed in Taravan with her own hand.' Also change Kiran's 'I've not been home since the summer' to 'since before last winter' (F417).",
-    "Prose clarity. From 'I'd have said it was a small lie for you, too' through 'That was true. Interesting.', the exchange is muddled. Make Ila's jab a clear dare: 'Say you don't care what I meant.' Kunal answers 'I don't', his hands stay pink, and he is surprised the truth is that easy. Keep the shared-terms payoff.",
-    "Character logic. At 'He stepped off the road and onto the frozen slope', Kunal leads the crown's mapper toward a hidden way with no shown reason. Add one beat before he moves: a glance back at the broken light or the rope at his wrist. This signals his choice, e.g. better she sees it bound to him than reports it unseen. His want stays legible and the question stays open."
+    "'The white left her fingertips at noon.' This is a continuity error: a small lie whitens the fingertips for one hour (F010), and Ila says 'An hour' herself. Move the return of colour to within the hour, for example 'by the first culvert the white had gone', so the timing matches the rule.",
+    "'Whatever he weighed, he weighed it fast.' Kunal turning east breaks his want to keep the hidden ways unmapped (irrational behaviour). Give Ila one observed clue that makes it a choice under pressure. For example, the broken light goes dark at a point Kunal recognises (Dhanu's fold, Raghu's hamlets), and he mutters a count from the route-song. Then going east reads as protecting his people at the cost of his secret.",
+    "'she followed him down into the dark.' The rope forces her to follow, so her choice costs nothing. Add a beat where she plants her feet on the west road and lets the chill build. She weighs the commission's 'every way' against his face, then chooses to go, closing her book without writing the bearing, or writing it. Either way the follow becomes her decision, with a cost."
   ],
-  "reader_question": "Why does the mountain still light a broken way into a valley Ila has never mapped, and why does Kunal turn toward it?",
+  "reader_question": "What is the failing line of light into a valley no map shows, and why does Kunal lead the queen's surveyor onto it?",
   "techniques_landed": [
     1,
     22,
     16
   ],
-  "new_facts_assessment": "All five listed facts are necessary and consistent with the bible and Book 1 (eight-span rope, warden's double hitch, Lata's wool, bond tied to the cairn of binding). Some facts are unlisted. 'A third on the rope and the mountain takes all three' extrapolates F014 and should be logged. The unlisted seal memory and Kiran's 'not home since the summer' conflict with canon.",
+  "new_facts_assessment": "'A third on the rope takes all three' is a reasonable extension of F014, but it adds lethality and needs an S2 ruling. The blood-thread wafer and Kiran's absence from home are consistent. Two facts are unlisted: Ila calling herself 'the guide' under the eight-span law (F424 had the council naming a guide), and the east valley missing from her sheets. Both should be logged.",
   "content_rule_violation": false,
   "failure_modes": [
     "Irrational behaviour to extend plot"
   ],
-  "average": 3.38,
+  "average": 3.25,
   "minimum": 0.0,
   "passed": false
 }
