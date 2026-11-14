@@ -1259,3 +1259,4 @@ timestamp,book_id,stage,model,input_tokens,output_tokens,cache_read_input_tokens
 2026-11-14T20:53:56,s03-bound-till-the-thaw-b02,critique,opus,2,5265,11596,95033,63073,1,0.8678912000000001
 2026-11-14T20:55:21,s03-bound-till-the-thaw-b02,draft,sonnet,2,8510,11162,95264,80242,1,0.46727620000000003
 2026-11-14T20:56:43,s03-bound-till-the-thaw-b02,critique,opus,2,6474,11596,96495,76279,1,0.9037672
+2026-11-14T20:58:53,s03-bound-till-the-thaw-b02,draft,sonnet,2,13337,11162,96445,123523,1,0.5202702

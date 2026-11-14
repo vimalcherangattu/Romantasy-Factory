@@ -1,0 +1,39 @@
+{
+  "facts": [
+    {
+      "category": "place",
+      "fact": "The Widow's Ladder is a stair of boot-deep steps cut into the rock behind a frozen fall, about a hundred feet in four pitches with three ledges (Kunal says 'possibly four'). The hard pitch, below the second ledge, has fifty-seven steps and leans out. It lies on the left fork off the Hollow Moon's lip, and its foot overlooks the Glass Lakes basin.",
+      "why": "needed because the beat requires a descent into the lakes basin and a step count for Ila"
+    },
+    {
+      "category": "place",
+      "fact": "At the foot of the Ladder is a stone-lined niche behind a boulder with a hearth and a cache of dry dung cakes under the lowest slab, where families have sheltered.",
+      "why": "needed because a camp for the night scene is required"
+    },
+    {
+      "category": "object",
+      "fact": "The Ladder's route-song runs: 'Count to the ledge and the ledge to the wall, / lean to the rock and let the water fall. / One for the cold hand, two for the warm. / The widow was carried down.' In the hamlets 'carried' means seen across by the hand; the Shilak post chronicles use it for the dead, including the entry for Ila's grandfather.",
+      "why": "beat requires the route-song line and Ila's note on the chronicle meaning (clue C09)"
+    },
+    {
+      "category": "name",
+      "fact": "The Ladder's frozen fall is called the Long Braid by the hamlet families, a name not given to people from below.",
+      "why": "beat requires Kunal to give a name freely"
+    },
+    {
+      "category": "knowledge",
+      "fact": "Ila has read nineteen chronicles of the passes for the survey office and read her grandfather's 'carried down at the thaw' entry over her father's shoulder at nineteen.",
+      "why": "grounds her recognition of the word 'carried'"
+    },
+    {
+      "category": "knowledge",
+      "fact": "Ila swore at nineteen to show the crown every way, and her fair sheets are audited at Taravan each spring.",
+      "why": "gives the omission a concrete cost (cost ledger)"
+    },
+    {
+      "category": "knowledge",
+      "fact": "Ila's omission of the Ladder is the first line she has left out on purpose and said aloud; the east bearing in ch 3 was a prior unrecorded omission, not announced.",
+      "why": "keeps continuity with F445"
+    }
+  ]
+}
