@@ -1,0 +1,42 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 3.0,
+    "stakes_and_cost": 4.0,
+    "prose": 4.0,
+    "continuity": 5.0
+  },
+  "reasons": {
+    "reader_question": "The trade's price and 'every way, not no' leave a sharp question: what will holding mean, and what will each name cost?",
+    "change": "Knowledge (names are routes), power (he gives her the lead) and relationship (the trade) all shift by the end.",
+    "romance_movement": "The bargain is new: names as keys traded for truths about her orders. It is not a replayed refusal.",
+    "shown_chemistry": "The belay, shared laughter and the Knuckle banter carry it. 'Liked him for that' and 'almost fond' tilt toward narration.",
+    "character_logic": "Ila read Raghu's four in the ash yesterday, yet neither lead looks for their tracks on the same plateau.",
+    "stakes_and_cost": "The odds, the slab, the bleeding palms and a truthful answer that isn't 'no' all carry real cost.",
+    "prose": "Clean and readable with quotable lines. Has 'church', a 'without warning' echo, the stomach-dropped and bellows clichés, and a muddled 'five of mine'.",
+    "continuity": "Consistent with F420, F431, F237, F457 and ch5's hip-belay count; no conflicts found."
+  },
+  "fixes": [
+    "At 'They found the place where the split boulder', the pursuit stalls (plot buried by romance, irrational behaviour). Ila tracked Raghu's two pairs a day ahead in ch5, but on this route nobody checks for them. Add two or three lines: Ila finds their drifted-over track, or notes its absence and what that implies. Then Kunal's 'paper goes where paper goes' points at a live threat.",
+    "At 'as if she had struck a bell in church', 'church' breaks the invented world. Replace it with a world-native image, e.g. 'as if she had rung the Garh Neshar bell at a funeral'. Also fix the echo: 'without warning' and 'with no warning' appear three times (the cloud tearing and both of Ila's laughs). Vary the second laugh's lead-in.",
+    "At '\"Five,\" said Kunal, looking at her. \"I believe that's five of mine.\"', the count is unclear. Ila has held four men; it's unclear what Kunal's 'five' counts, and her reply 'one of yours' muddles it further. Rewrite so the joke reads at once, e.g. Kunal: 'That makes you five. Held four, been held once.' Ila: 'Once is plenty.' Keep the 'level/debt' exchange after it."
+  ],
+  "reader_question": "What will 'the crown may hold every way' turn out to mean, and how much will each true name cost Kunal and Ila?",
+  "techniques_landed": [
+    6,
+    10,
+    16
+  ],
+  "new_facts_assessment": "The listed facts are necessary and consistent. Unlisted: the compass dented on a Taravan stair at nineteen, Tamar's Shoulder still on the family map (fits F237), and two winters of crown surveyors. All are harmless. The pair sleep at the wall rather than reaching Ewe's Rest; that departure from the beat goal is acceptable as a cost.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Plot buried by romance",
+    "Irrational behaviour to extend plot"
+  ],
+  "average": 4.0,
+  "minimum": 3.0,
+  "passed": true
+}
