@@ -4,39 +4,38 @@
     "change": 4.0,
     "romance_movement": 4.0,
     "shown_chemistry": 4.0,
-    "character_logic": 3.0,
+    "character_logic": 4.0,
     "stakes_and_cost": 4.0,
-    "prose": 3.0,
+    "prose": 4.0,
     "continuity": 0.0
   },
   "reasons": {
-    "reader_question": "The ending puts her hand on the sewn letter in sight of the booming lakes. The question is sharp and specific.",
-    "change": "Her first announced omission breaks the oath-bound stance from ch11. Kunal's free name ends the priced exchange between them.",
-    "romance_movement": "Each gives something new and unpriced. Her refusal to promise is a fresh reason, distinct from ch11's 'Yes'.",
-    "shown_chemistry": "The route-song timed to her steps and the open-palm confession are good. So is his hearing both truth and dodge without narration.",
-    "character_logic": "The measurer's step counts don't add up. Kunal says 'Draw it' and then at once asks her to promise never to.",
-    "stakes_and_cost": "The audit, the Chief Surveyor title and the 'name on a sheet' tie the cost to her father's story. It costs her something concrete.",
-    "prose": "The hook and the images are clean. But the ch11 exchange 'That's all?/quite a lot/didn't say it was small' is replayed verbatim, and the glove image returns.",
-    "continuity": "'The third night he might have, by their terms' conflicts with the nightly name trade running since ch6 (F462)."
+    "reader_question": "Hand on the sewn letter with the lakes in sight gives a sharp question. The 'carried' clue adds a second pull.",
+    "change": "Ila moves from oath-bound to her first announced omission, and Kunal names the cost exactly: a blank is a decision.",
+    "romance_movement": "The reasons are new. Her omission costs her oath, and his free name breaks their nightly trade. His reach for a promise is fresh pressure.",
+    "shown_chemistry": "The route-song timed to her feet, 'I'll feel the rope', and his thumb working the wool all show attraction through responsive action, not narration.",
+    "character_logic": "Ila omits because she knows Gauri's and Mini's names, and refuses the promise for rule-sound reasons. Kunal's offer to let her take it back, then his plea, both ring true.",
+    "stakes_and_cost": "Audit, oath and the Chief Surveyor title are named as the price. The cost is deferred, not yet paid.",
+    "prose": "Specific and quotable. Weaknesses: 'nineteen' echoes three times, there is a run of 'She saw' sentences, and 'bruise' light is a cliché.",
+    "continuity": "'Gauri is in the main room at Ewe's Rest. And Mini.' conflicts with F473: Gauri, Dhanu and Mini went ahead, leaving Ewe's Rest empty."
   },
   "fixes": [
-    "'It was the third night he might have, by their terms': this is a continuity error, because the name trade has run nightly since ch6 (F462). Replace it with 'Every night since Ewe's Rest he had set a question beside a name. Tonight he set none,' or cut the count.",
-    "'That's all?' / 'It's quite a lot.' / 'I didn't say it was small.': this replays ch11's lines with the same speakers, which is repetitive tension. Cut it, or invert it so Kunal says 'It's quite a lot' of her reason and she answers. Also change 'as one hands back a dropped glove', since gloves were ch11's central image. Use a rope or pencil image instead.",
-    "'fifty-seven on the pitch and forty-odd on the rest': Ila the measurer would never let the hard quarter of a hundred feet hold more steps than the other three pitches combined. Make the figures consistent (for example, fifty-seven of about a hundred and sixty) and fix Kunal's 'Then take it back. Draw it.' Add a beat showing that line as courtesy he can't sustain before he asks for the promise."
+    "At \"Because Gauri is in the main room at Ewe's Rest\": continuity conflict with F473, since Gauri and Mini left Ewe's Rest. Change it to \"Because I sat at Gauri's fire at Ewe's Rest. Because Mini paced her wall for me.\" This keeps the named-people logic and makes it consistent.",
+    "At \"Above her, Kunal had moved to the rock horn\" and the fifty-seven-step hard pitch: the rope bends. That horn is at the top, and fifty-seven slanting steps likely exceed an eight-span rope. Give the second ledge its own anchor stone, and add a line placing the pitch inside the rope's reach. Also cut \"not with a lie but\" from the rope-hum line, because the rope is not established as humming at lies.",
+    "At \"She had read it at nineteen, over her father's shoulder\": echo. 'Nineteen' appears three times in the chapter (chronicles, reading, oath), so keep it only for the oath. Also collapse the \"She saw... She saw his hands\" chain after \"It was a fair request\" into one observed action. Replace \"the colour of a bruise\" with a specific mountain image."
   ],
-  "reader_question": "What will Ila do when she stands at the Glass Lakes with the queen's letter, now that she has hidden a way from the crown?",
+  "reader_question": "What will Ila find in the queen's letter when she reaches the Glass Lakes, and what will it make her do with the way she has just hidden?",
   "techniques_landed": [
     11,
     14,
     15
   ],
-  "new_facts_assessment": "The Ladder, the niche, the song and the Long Braid are all needed and consistent. The cache echoes F076's custom deliberately. The nineteen chronicles and the audit are needed for the cost. F498 recasts F445's 'first omission' as undecided, which is acceptable but slippery. 'Her father's entry... in the post's own copperplate' is unclear: her father was a survey-office copyist, not post staff. The 57-steps figure conflicts with 'forty-odd on the rest' of a hundred feet.",
+  "new_facts_assessment": "new-facts.json is empty, but F492 to F498 already record the Ladder, the song, the Long Braid, the audit and the omission, and they are consistent. Unlisted additions: the hamlets re-cut the steps every thaw, Kunal walked it at eleven, and the total is 160 steps. These are harmless and should be logged. The present-tense Gauri and Mini line conflicts with F473.",
   "content_rule_violation": false,
   "failure_modes": [
-    "Repetitive tension",
-    "Irrational behaviour to extend plot"
+    "Worldbuilding collapse"
   ],
-  "average": 3.25,
+  "average": 3.5,
   "minimum": 0.0,
   "passed": false
 }

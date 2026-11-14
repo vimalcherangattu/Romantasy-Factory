@@ -1,0 +1,41 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 4.0,
+    "stakes_and_cost": 4.0,
+    "prose": 4.0,
+    "continuity": 0.0
+  },
+  "reasons": {
+    "reader_question": "Hand on the sewn letter with the lakes in sight gives a sharp question. The 'carried' clue adds a second pull.",
+    "change": "Ila moves from oath-bound to her first announced omission, and Kunal names the cost exactly: a blank is a decision.",
+    "romance_movement": "The reasons are new. Her omission costs her oath, and his free name breaks their nightly trade. His reach for a promise is fresh pressure.",
+    "shown_chemistry": "The route-song timed to her feet, 'I'll feel the rope', and his thumb working the wool all show attraction through responsive action, not narration.",
+    "character_logic": "Ila omits because she knows Gauri's and Mini's names, and refuses the promise for rule-sound reasons. Kunal's offer to let her take it back, then his plea, both ring true.",
+    "stakes_and_cost": "Audit, oath and the Chief Surveyor title are named as the price. The cost is deferred, not yet paid.",
+    "prose": "Specific and quotable. Weaknesses: 'nineteen' echoes three times, there is a run of 'She saw' sentences, and 'bruise' light is a cliché.",
+    "continuity": "'Gauri is in the main room at Ewe's Rest. And Mini.' conflicts with F473: Gauri, Dhanu and Mini went ahead, leaving Ewe's Rest empty."
+  },
+  "fixes": [
+    "At \"Because Gauri is in the main room at Ewe's Rest\": continuity conflict with F473, since Gauri and Mini left Ewe's Rest. Change it to \"Because I sat at Gauri's fire at Ewe's Rest. Because Mini paced her wall for me.\" This keeps the named-people logic and makes it consistent.",
+    "At \"Above her, Kunal had moved to the rock horn\" and the fifty-seven-step hard pitch: the rope bends. That horn is at the top, and fifty-seven slanting steps likely exceed an eight-span rope. Give the second ledge its own anchor stone, and add a line placing the pitch inside the rope's reach. Also cut \"not with a lie but\" from the rope-hum line, because the rope is not established as humming at lies.",
+    "At \"She had read it at nineteen, over her father's shoulder\": echo. 'Nineteen' appears three times in the chapter (chronicles, reading, oath), so keep it only for the oath. Also collapse the \"She saw... She saw his hands\" chain after \"It was a fair request\" into one observed action. Replace \"the colour of a bruise\" with a specific mountain image."
+  ],
+  "reader_question": "What will Ila find in the queen's letter when she reaches the Glass Lakes, and what will it make her do with the way she has just hidden?",
+  "techniques_landed": [
+    11,
+    14,
+    15
+  ],
+  "new_facts_assessment": "new-facts.json is empty, but F492 to F498 already record the Ladder, the song, the Long Braid, the audit and the omission, and they are consistent. Unlisted additions: the hamlets re-cut the steps every thaw, Kunal walked it at eleven, and the total is 160 steps. These are harmless and should be logged. The present-tense Gauri and Mini line conflicts with F473.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Worldbuilding collapse"
+  ],
+  "average": 3.5,
+  "minimum": 0.0,
+  "passed": false
+}
