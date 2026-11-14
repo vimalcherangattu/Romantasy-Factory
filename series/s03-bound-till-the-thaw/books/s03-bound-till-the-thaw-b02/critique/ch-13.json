@@ -1,0 +1,41 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 3.0,
+    "stakes_and_cost": 4.0,
+    "prose": 3.0,
+    "continuity": 0.0
+  },
+  "reasons": {
+    "reader_question": "The ending poses a sharp 'will the ice hold?', and 'gift or handle?' adds a deeper relational question.",
+    "change": "Kunal hands Ila a true sentence she could use against him. Hope tips into self-doubt, as the beat asks.",
+    "romance_movement": "The rule stops a false kiss and the fingers-on-heart replaces it. The reason is new and the bond deepens.",
+    "shown_chemistry": "The warm pencil-lead handoff, the laugh that scatters ravens and 'I'm not writing that one' all show attraction through action.",
+    "character_logic": "Ila's 910-pace figure, claimed as already paced before arrival, makes no sense. Kunal lies when his free evasion habit was available.",
+    "stakes_and_cost": "The truth costs Kunal leverage, and the crossing on unsounded ice costs Ila her method. Both feel real.",
+    "prose": "There are a garbled pace sentence, 'gift' used three times, stone images twice, and stock similes such as 'steady as a held breath'.",
+    "continuity": "Lie-cold leaving on a true word contradicts F352 and the bible. A 910-pace cairn contradicts ch12's 'a night's walk off'."
+  },
+  "fixes": [
+    "'The cold went out of his fingertips and left a hurt': Convenient magic, because the rule is waived at the moment of truth. Per F352 and the bible, the white from a begun lie stays the full hour. Keep his fingertips wax-pale into the crossing and let Ila see them. Rework 'still ached where the lie had touched them' and revise F502 to match.",
+    "'I've paced this since the niche. It's nine hundred': this is a continuity break with ch12 ('a night's walk off') and a logic slip, since she can't have paced ground not yet walked. Open after a descent through the night to the basin floor. Make 910 a baseline-and-bearing estimate from a named spur. Rewrite the garbled 'two of those are mine and a half of yours'.",
+    "'what came out was a gift made of a lie': this is the third 'gift' (after 'a deadline sound like a gift'), and Kunal's free habit of answering with a question is skipped. Cut one 'gift'. Let him reach for 'Is there?' first, then choose the lie deliberately as a kindness. Replace 'like a stone in a stream' so the uncle's stone image lands alone."
+  ],
+  "reader_question": "Will the booming Mirror ice hold them, and has Kunal's truth just given Ila a weapon against him?",
+  "techniques_landed": [
+    7,
+    8,
+    22
+  ],
+  "new_facts_assessment": "F503 (ice sounding) is necessary and consistent. F504 fits Kunal's bible belief, but 'young' should tie to age nine (F488). F501's 910 paces from the Ladder foot conflicts with ch12's lakes being 'a night's walk off and a long way down'. F502's cold fading on truth breaks F352 and the bible rule that only time or the loophole ends lie-cold. Daytime cairn-light also needs the storm-dark made explicit.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Convenient magic"
+  ],
+  "average": 3.25,
+  "minimum": 0.0,
+  "passed": false
+}
