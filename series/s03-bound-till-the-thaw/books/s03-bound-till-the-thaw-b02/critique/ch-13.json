@@ -10,30 +10,30 @@
     "continuity": 0.0
   },
   "reasons": {
-    "reader_question": "The ending poses a sharp 'will the ice hold?', and 'gift or handle?' adds a deeper relational question.",
-    "change": "Kunal hands Ila a true sentence she could use against him. Hope tips into self-doubt, as the beat asks.",
-    "romance_movement": "The rule stops a false kiss and the fingers-on-heart replaces it. The reason is new and the bond deepens.",
-    "shown_chemistry": "The warm pencil-lead handoff, the laugh that scatters ravens and 'I'm not writing that one' all show attraction through action.",
-    "character_logic": "Ila's 910-pace figure, claimed as already paced before arrival, makes no sense. Kunal lies when his free evasion habit was available.",
-    "stakes_and_cost": "The truth costs Kunal leverage, and the crossing on unsounded ice costs Ila her method. Both feel real.",
-    "prose": "There are a garbled pace sentence, 'gift' used three times, stone images twice, and stock similes such as 'steady as a held breath'.",
-    "continuity": "Lie-cold leaving on a true word contradicts F352 and the bible. A 910-pace cairn contradicts ch12's 'a night's walk off'."
+    "reader_question": "The question is sharp and the chapter ends on it, but it is plain survival peril. The romantic question sits under it, unstated.",
+    "change": "Kunal has handed Ila a truth that exposes him, and the pair are now on ice nobody sounded. Both trust and danger have shifted.",
+    "romance_movement": "Rule 1 stops the false kiss. The true sentence and her two fingers on his chest replace it. The reason is new.",
+    "shown_chemistry": "The pencil lead into her open palm, her laugh, and 'He saw her see him see it' are all strong. Two later lines narrate the feeling.",
+    "character_logic": "'Is there a difference?' leads into a lie about drawing, which is a non sequitur. The 'cave' line contradicts ch12's promise scene.",
+    "stakes_and_cost": "He pays white fingertips. He also fears he gave her a 'handle', and they must cross unsounded ice. These are real, felt costs.",
+    "prose": "The sentences are mostly clean and concrete. The weak spots are a 'chest turned over' cliché, a narrated 'loved her', an over-explained no-kiss paragraph and 'following wind' used three times.",
+    "continuity": "Ila converts 910 paces to three-quarters of a mile. Her pace of two and a half spans (F420) makes that about a third of a mile."
   },
   "fixes": [
-    "'The cold went out of his fingertips and left a hurt': Convenient magic, because the rule is waived at the moment of truth. Per F352 and the bible, the white from a begun lie stays the full hour. Keep his fingertips wax-pale into the crossing and let Ila see them. Rework 'still ached where the lie had touched them' and revise F502 to match.",
-    "'I've paced this since the niche. It's nine hundred': this is a continuity break with ch12 ('a night's walk off') and a logic slip, since she can't have paced ground not yet walked. Open after a descent through the night to the basin floor. Make 910 a baseline-and-bearing estimate from a named spur. Rewrite the garbled 'two of those are mine and a half of yours'.",
-    "'what came out was a gift made of a lie': this is the third 'gift' (after 'a deadline sound like a gift'), and Kunal's free habit of answering with a question is skipped. Cut one 'gift'. Let him reach for 'Is there?' first, then choose the lie deliberately as a kindness. Replace 'like a stone in a stream' so the uncle's stone image lands alone."
+    "'Three-quarters of a mile, in a good light' (continuity). F420 sets Ila's pace at two and a half spans, so 910 paces is about a third of a mile. Change her line to 'A third of a mile, in a good light, with a following wind.' Keep 'It looks a mile.' The bigger gap sharpens her correction and his hill-man joke.",
+    "'Is there a difference?' then 'It doesn't matter to me what you d—' (character logic). The lie doesn't answer her question. Add a bridge: she glances at the field book in her hand, or says 'You've been watching me draw.' Also replace 'He had asked her to lie to him, and she would not.' It contradicts ch12, where he asked for a promise. Name that promise instead.",
+    "'he had loved her for it so completely that it frightened him' (narrated-only chemistry). Cut it; the declaration is premature and told. Also replace 'Something in his chest turned over, slow and heavy' with a physical act, such as him missing his footing or forgetting the count. Trim 'It was not a kiss... better than the kiss would have been' to one sentence and let her gesture carry it."
   ],
-  "reader_question": "Will the booming Mirror ice hold them, and has Kunal's truth just given Ila a weapon against him?",
+  "reader_question": "Will the booming ice of the Mirror hold them, halfway across in a whiteout, with Kunal's fingers dead in his gloves?",
   "techniques_landed": [
     7,
     8,
     22
   ],
-  "new_facts_assessment": "F503 (ice sounding) is necessary and consistent. F504 fits Kunal's bible belief, but 'young' should tie to age nine (F488). F501's 910 paces from the Ladder foot conflicts with ch12's lakes being 'a night's walk off and a long way down'. F502's cold fading on truth breaks F352 and the bible rule that only time or the loophole ends lie-cold. Daytime cairn-light also needs the storm-dark made explicit.",
+  "new_facts_assessment": "F505's cairn location and storm-dark cairn-light are needed and consistent. Its mile conversion clashes with F420. F506 follows F352 and Rule 1 correctly. F507 is consistent with F488 (age nine) and is needed for the beat.",
   "content_rule_violation": false,
   "failure_modes": [
-    "Convenient magic"
+    "Narrated-only chemistry"
   ],
   "average": 3.25,
   "minimum": 0.0,
