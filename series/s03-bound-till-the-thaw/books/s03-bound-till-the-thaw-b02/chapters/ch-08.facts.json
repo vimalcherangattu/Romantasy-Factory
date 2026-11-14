@@ -1,16 +1,3 @@
 {
-  "facts": [
-    {
-      "id": "F474",
-      "category": "place",
-      "fact": "The Hollow Moon is a wide white bowl north of Ewe's Rest with a fan of loose stone on its west side; its far rim lies about 10 degrees west of north (about 350 degrees), and the spyglass glint comes from a black outcrop on the west lip at about 315 degrees, above the stone fan. Revises the earlier 210 degrees.",
-      "since": "s03-bound-till-the-thaw-b02 ch 8"
-    },
-    {
-      "id": "F475",
-      "category": "name",
-      "fact": "Mini paces the pen wall at twenty-two steps to the wall and about two hundred and four steps round it; Ila's pen figure is about ninety of her own paces.",
-      "since": "s03-bound-till-the-thaw-b02 ch 8"
-    }
-  ]
+  "facts": []
 }
