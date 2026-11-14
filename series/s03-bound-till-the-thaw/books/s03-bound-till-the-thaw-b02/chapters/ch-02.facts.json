@@ -1,0 +1,39 @@
+{
+  "facts": [
+    {
+      "category": "name",
+      "fact": "Dhanu is a hill route-keeper who sends runners to Kunal and is paid in cut-corner silver; his runner is an unnamed boy.",
+      "why": "needed because the beat has Kunal pay Dhanu's runner and the runner report Raghu."
+    },
+    {
+      "category": "name",
+      "fact": "Chuni, nine, is a scullery girl in Garh Neshar's kitchen passage.",
+      "why": "needed because the private-face beat requires a child for Kunal to teach."
+    },
+    {
+      "category": "place",
+      "fact": "Sarn fold is a high pasture where a shepherd saw Captain Raghu.",
+      "why": "needed because the report of Raghu in the high hamlets needs a place detail."
+    },
+    {
+      "category": "place",
+      "fact": "The hill council meets in the hall of Garh Neshar under the brass bell; Old Bhim speaks for the lower terraces.",
+      "why": "needed because the council scene needs a location."
+    },
+    {
+      "category": "knowledge",
+      "fact": "Ila's own covering note said only 'every way'; the crown's formal cover sheet addressed to the council carries the extra clause about the way beneath the Shilak Cairn, which she has not seen.",
+      "why": "needed to reconcile ch 1's short commission with the clause read aloud in ch 2."
+    },
+    {
+      "category": "knowledge",
+      "fact": "Captain Raghu fled last winter's Snow Fair (Book 1's Fair) with a dozen loyalists and has been in hiding since.",
+      "why": "needed because the beat says he fled the Fair and ch 1 places this Fair a year later."
+    },
+    {
+      "category": "object",
+      "fact": "The Shepherd's Stair route-song is a child's counting rhyme ('One for the goat who knows the gate, two for the stone that will not wait...') that ends 'nine and thirty and the ghosts go by'; Kunal teaches it as nonsense so it can be carried unrecognised.",
+      "why": "needed for the private-face beat and clue C10; the thirty-nine echoes the tower stair count in ch 1."
+    }
+  ]
+}
