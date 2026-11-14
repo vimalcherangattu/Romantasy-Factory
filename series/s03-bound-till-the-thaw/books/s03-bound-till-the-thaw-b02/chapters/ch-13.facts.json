@@ -1,24 +1,22 @@
 {
   "facts": [
     {
+      "id": "F501",
       "category": "place",
-      "fact": "A jogini lakeside cairn stands on a shelf above the shore of the Mirror, 910 of Ila's paces from the foot of the Widow's Ladder. Its hum rises when a lie is begun near it and settles at a true word.",
-      "why": "needed because the beat places the near-kiss at a lakeside cairn whose hum interrupts Kunal's lie (extends F320)."
+      "fact": "Revises F501. The jogini lakeside cairn above the shore of the Mirror is about 910 of Ila's paces from the foot of the Widow's Ladder, an estimate from a paced baseline and two bearings off the Raven Spur, worked while they walked down the basin by night; the cairn stands within a dozen paces of her figure. The storm-dark lets the cairn-light show by day.",
+      "since": "s03-bound-till-the-thaw-b02 ch 13"
     },
     {
+      "id": "F502",
       "category": "injury",
-      "fact": "Kunal's fingertips go numb and wax-pale briefly when he begins the lie 'It doesn't matter to me what you d--' and stops; the cold fades after he speaks the truth, leaving an ache.",
-      "why": "shows the rule biting on an unfinished lie without a full lie-cost."
+      "fact": "Revises F502. Kunal's fingertips go numb and wax-white when he begins the lie 'It doesn't matter to me what you d--' and stops. The stones quiet at his true word, but the white stays the full hour (per F352 and Rule 1); Ila sees his nails bare, and he crosses the Mirror with dead-cold fingertips.",
+      "since": "s03-bound-till-the-thaw-b02 ch 13"
     },
     {
+      "id": "F504",
       "category": "knowledge",
-      "fact": "Ila sounds ice by tapping an axe haft: clear ice rings, rotten ice goes dull.",
-      "why": "needed because the beat has her wanting to sound the Mirror before crossing."
-    },
-    {
-      "category": "knowledge",
-      "fact": "Kunal's uncle Pritam taught him 'Whoever knows the way owns the people, Kunal. Remember it. Everything else is manners.' over supper when Kunal was young.",
-      "why": "gives the outline's uncle's-lesson beat a concrete wording."
+      "fact": "Revises F504. Pritam taught Kunal 'Whoever knows the way owns the people, Kunal. Remember it. Everything else is manners.' over supper the winter Kunal was nine (ties to F488). Kunal deliberately chose the lie as a kindness after nearly answering 'Is there?'.",
+      "since": "s03-bound-till-the-thaw-b02 ch 13"
     }
   ]
 }
