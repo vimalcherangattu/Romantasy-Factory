@@ -1,0 +1,41 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 3.0,
+    "stakes_and_cost": 4.0,
+    "prose": 4.0,
+    "continuity": 0.0
+  },
+  "reasons": {
+    "reader_question": "The broken east line into an unmapped valley, plus Kunal's stillness, gives a sharp one-sentence question. The Glass Lakes letter adds a second.",
+    "change": "Ila now knows the clock (minus 35 days), the unmapped valley and Kunal's late destination. At the end Kunal holds the knowledge and leads.",
+    "romance_movement": "The demonstration lie becomes their first shared joke and sets the honesty terms. His unguarded laugh is a new reason for warmth.",
+    "shown_chemistry": "His snug-then-check knot, the laugh bent over the stones and the 'say well' banter all show attraction through response, not narration.",
+    "character_logic": "Ila is sharp throughout. Kunal leading the crown's surveyor straight toward a hidden way contradicts his core want with no visible reason.",
+    "stakes_and_cost": "Thirty-five lost days, and a rope that forces her to follow him east, make the next decision costly.",
+    "prose": "Clean and concrete with no em dashes. One AI tell ('a flicker of'), a modern 'not a hugger', and a muddled lie exchange.",
+    "continuity": "The seal memory places the queen's blood going into the wax at the Fair, which conflicts with F048/F254. Kiran's 'since the summer' strains F417."
+  },
+  "fixes": [
+    "Continuity. At 'The queen had mixed her own blood into the seal that day', the queen was never at the Fair: Rohan carried her blood-threaded wafer (F048, F254). Rewrite: 'She had seen that same thread in the wafer Rohan pressed on the Fair meadow, blood the queen had mixed in Taravan with her own hand.' Also change Kiran's 'I've not been home since the summer' to 'since before last winter' (F417).",
+    "Prose clarity. From 'I'd have said it was a small lie for you, too' through 'That was true. Interesting.', the exchange is muddled. Make Ila's jab a clear dare: 'Say you don't care what I meant.' Kunal answers 'I don't', his hands stay pink, and he is surprised the truth is that easy. Keep the shared-terms payoff.",
+    "Character logic. At 'He stepped off the road and onto the frozen slope', Kunal leads the crown's mapper toward a hidden way with no shown reason. Add one beat before he moves: a glance back at the broken light or the rope at his wrist. This signals his choice, e.g. better she sees it bound to him than reports it unseen. His want stays legible and the question stays open."
+  ],
+  "reader_question": "Why does the mountain still light a broken way into a valley Ila has never mapped, and why does Kunal turn toward it?",
+  "techniques_landed": [
+    1,
+    22,
+    16
+  ],
+  "new_facts_assessment": "All five listed facts are necessary and consistent with the bible and Book 1 (eight-span rope, warden's double hitch, Lata's wool, bond tied to the cairn of binding). Some facts are unlisted. 'A third on the rope and the mountain takes all three' extrapolates F014 and should be logged. The unlisted seal memory and Kiran's 'not home since the summer' conflict with canon.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Irrational behaviour to extend plot"
+  ],
+  "average": 3.38,
+  "minimum": 0.0,
+  "passed": false
+}
