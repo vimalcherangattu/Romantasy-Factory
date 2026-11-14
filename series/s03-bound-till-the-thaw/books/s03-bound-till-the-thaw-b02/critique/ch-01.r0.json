@@ -1,0 +1,42 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 3.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 3.0,
+    "stakes_and_cost": 3.0,
+    "prose": 4.0,
+    "continuity": 0.0
+  },
+  "reasons": {
+    "reader_question": "Sharp, specific gap: a measured two-span void, plus Kunal's glance at the wall and his declared opposition before tomorrow's council.",
+    "change": "Ila moves from neutral confidence to wariness. She now knows Kunal will oppose her and suspects he guards the wall.",
+    "romance_movement": "Acquaintances become declared opponents, and the laugh is a new beat. Desire for this specific man is barely on the page yet.",
+    "shown_chemistry": "Stair-count sparring, his speechless startlement and her stopped laugh are responsive and specific. They are not narrated.",
+    "character_logic": "Ila and Kunal are smart. Kiran, though, asks whether Varun went to Taravan in chains when he lived at Garh Neshar, where Varun was held.",
+    "stakes_and_cost": "Licence and Chief Surveyor chair are clear. Nothing personal or bodily is at risk yet, and no named loved person is threatened.",
+    "prose": "Clean, concrete, no banned phrases or dashes. 'For a moment' recurs three times, and the 'two words more' commission line is muddled.",
+    "continuity": "The licence asks to be 'carried across the Saddle by a bound pair', a third crosser. That breaks F007/F014: only a bound pair crosses."
+  },
+  "fixes": [
+    "At \"asks to be carried across the Saddle in winter by a bound pair\" (Worldbuilding collapse): a third person carried by a pair breaks the one-pair rope rule. Rewrite it so Ila asks to cross bound to a licensed guide of the council's choosing, tied at the cairn. Make the same fix in the sheets scene at \"ask a bound pair to carry her across the Saddle\". This also sets up her later binding to Kunal.",
+    "At \"They say Varun went down to Taravan in chains\" (Irrational behaviour): Kiran was at Garh Neshar when Varun left its cellar, so he would know. Change the line so he saw Varun leave the gate himself, then asks what happened at Taravan. Keep Ila's answer about the crying, now set at the Taravan gate, so the joke and Kiran's real laugh survive.",
+    "At \"for no good reason said the thing she had been carrying\" (Endless monologue / exposition): the cairn warning is dropped in to brief the reader. Give it a trigger. Have Kiran's 'conscience' joke make her think of the Taravan archive, or a crosser's rope prompt it. Cut one of the three 'for a moment' uses later in the chapter."
+  ],
+  "reader_question": "What is hidden behind the cold north wall of Pritam's tower, and how will Kunal stop Ila's winter licence at tomorrow's council?",
+  "techniques_landed": [
+    1,
+    11,
+    16
+  ],
+  "new_facts_assessment": "Pace arithmetic is sound and plants C01 cleanly. The 39/40 stair and the cold landing are a good clue at the peak. Kiran at 25 and the betrothal fit the bible. The seal colours and goat graffiti fit F364. The mason's name 'Dev' collides with Ranu's 'Dev boy' and 'Dev people' (F161, F200), so rename him. 'Seen him four times across a drafting table' should not contradict F263's two visits.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Worldbuilding collapse",
+    "Irrational behaviour to extend plot"
+  ],
+  "average": 3.12,
+  "minimum": 0.0,
+  "passed": false
+}
