@@ -3062,6 +3062,27 @@
       "fact": "Nimmi confirms the grey-bearded officer is alive and that she knows his name, refusing to give it ('not mine to spend').",
       "since": "s03-bound-till-the-thaw-b02 ch 4",
       "provisional": true
+    },
+    {
+      "id": "F451",
+      "category": "name",
+      "fact": "Hari is the Shepherd's Stair route-keeper, who has kept the stair thirty winters as his father did; his hut at the Stair's foot has been burned and his fate is unknown.",
+      "since": "s03-bound-till-the-thaw-b02 ch 5",
+      "provisional": true
+    },
+    {
+      "id": "F452",
+      "category": "object",
+      "fact": "The Shepherd's Stair's lower ice steps number forty-one by Ila's count, including a hand-high half-step under the first overhang that Kunal's family does not count.",
+      "since": "s03-bound-till-the-thaw-b02 ch 5",
+      "provisional": true
+    },
+    {
+      "id": "F453",
+      "category": "place",
+      "fact": "A route-keeper's marker stone at the head of the Stair carries fresh chalk in old hill script: 'They ask for the princes' way.' with a second line begun and smeared out.",
+      "since": "s03-bound-till-the-thaw-b02 ch 5",
+      "provisional": true
     }
   ],
   "knowledge": [
