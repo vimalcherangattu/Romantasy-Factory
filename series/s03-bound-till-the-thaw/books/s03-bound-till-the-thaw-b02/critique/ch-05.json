@@ -1,40 +1,39 @@
 {
   "scores": {
-    "reader_question": 4.0,
+    "reader_question": 5.0,
     "change": 4.0,
     "romance_movement": 4.0,
     "shown_chemistry": 4.0,
     "character_logic": 4.0,
     "stakes_and_cost": 4.0,
-    "prose": 3.0,
-    "continuity": 0.0
+    "prose": 4.0,
+    "continuity": 5.0
   },
   "reasons": {
-    "reader_question": "The smeared second line under 'the princes' way' sharpens the beat's question into a specific, urgent gap.",
-    "change": "He learns there are four loaded men a day ahead, gives up a secret aloud, and moves from confident guide to afraid.",
-    "romance_movement": "First competence duet: belay, count correction, ceded pitch. New reason, though her view of his fear for others is barely voiced.",
-    "shown_chemistry": "Rope weight, belay and the 'trying to find out' callback work well. Some attraction is still narrated ('a weight he found he wanted').",
-    "character_logic": "Grief explains missing the prints. The stone-reading is over-explained: 'half made' undercuts the impulsive slip the beat asks for.",
-    "stakes_and_cost": "Reading aloud costs a secret he can't unsay. The ice danger stays cheap, with one plate shed and no real hold.",
-    "prose": "Clean of banned phrases. The 'he found' tic repeats about four times, several consecutive paragraphs open with 'He', and some lines over-narrate.",
-    "continuity": "The route-song counts waypoints (F433, F444) and ends at thirty-nine, but here it counts ice treads and the 'old count' is forty."
+    "reader_question": "The spoken chalk line, Ila's 'Who are the princes?' and the smeared second line leave a sharp, specific gap.",
+    "change": "Knowledge shifts (four men, a day ahead), Kunal yields the lead, and he has spoken the princes' way aloud to a surveyor.",
+    "romance_movement": "First competence duet with a new reason: he trusts her count over his family's. 'I saw Hari's pot' is a real disclosure.",
+    "shown_chemistry": "Shown through action: the repeated 'Holding' calls, paying out an inch, and her hand stopping by his sleeve.",
+    "character_logic": "Mostly sharp. Ila's worn-left-boot deduction is shaky, and his reflex reading aloud strains a man who hoards every route.",
+    "stakes_and_cost": "Speaking the chalk line costs him a hidden way. The odds on the treads are stated and then bite on the ninth.",
+    "prose": "Concrete and well paced. Minor echoes: 'flat and sure'/'short and sure'/'flat and low' and 'small square' used twice.",
+    "continuity": "No hard conflicts. The rope hum at a true answer and the 'level' stone hum stretch F149, F320 and F387 without breaking them."
   },
   "fixes": [
-    "'Forty steps, the old count, and we're through': continuity conflict. F433 and F444 make the route-song count waypoints across the east line, ending 'nine and thirty'. Cut 'because it was the song' from his tread counting. State that the family counts the Stair's lower treads as forty by habit, unrelated to the song. Make the 'thirty-nine... rhyme for ghosts' thought refer explicitly to the tower stair (F418), so forty-one stands alone.",
-    "'the weight on the rope was a weight he found he wanted': narrated-only chemistry. Also 'found he preferred it' and 'found he did not mind'. Replace with action: he feeds rope too carefully, or calls a hold she doesn't need just to feel her answer. Cut two of the four 'he found' constructions and vary the run of paragraphs that open with 'He' in the climb section.",
-    "'Perhaps one in three that a tread shears under me': technique 6 is stated, then waived. Only a plate skates off and nothing tests the belay. Make one tread shear under him so Ila takes his full weight on her hip for a held beat. That pays off 'I've held three men' and earns his ceding the pitch. Also cut 'The decision was half made. He had not finished making it.' so the reading aloud is a true slip."
+    "Time slip at 'the most honest thing he had said to her all morning' against 'went skating down the gully... out into the dusk'. The hut is at the Stair's foot, so hours vanish, and he must still read chalk at the top. Either add one line of the afternoon passing (Ila re-pacing the hut, waiting out wind) or change 'dusk' to low afternoon light.",
+    "Unestablished magic at 'The rope hummed low and level, and her eyes dropped'. F149 makes the rope hum for sincere promises, not plain truths. Cut the hum and let his pink fingers carry the proof. At the Stair head, change 'a low hum, level and unbroken' so the hum drops half a note, matching F387. Otherwise log both as new facts.",
+    "Weak deduction at 'The left boot of the rear man in each pair is worn'. Two worn left boots don't prove long acquaintance. Replace it with an inference a surveyor could defend: an identical hobnail pattern in all four prints means issued boots from one store, so one company. Also add a half-line where she reties him into a chest loop, so 'the rope came up hard under his arms' fits a wrist-tied bond."
   ],
-  "reader_question": "Who are 'the princes' whose way Raghu is demanding, and what was Hari trying to write in the smeared second line?",
+  "reader_question": "What is the princes' way, who are 'the princes', and what was Hari about to write before his hand was dragged through the chalk?",
   "techniques_landed": [
     1,
+    6,
     10
   ],
-  "new_facts_assessment": "Hari and the marker stone are necessary and consistent. The forty-one count conflicts with the route-song's thirty-nine (F433) and the 'old count' of forty, and needs reconciling. The marker stone humming at a truth extends F320 to a non-cairn stone and should be logged.",
+  "new_facts_assessment": "Forty/forty-one count: useful as a callback to ch1's tower stair (F418). The text ties the tower's thirty-nine to 'a rhyme for ghosts', which blurs it with F433's route-song; clarify. Fourth man held: characterful, earned and consistent. Marker-stone hum: acceptable extension of F320, but F387 has a true word dropping the hum half a note, not 'level'. Unlisted additions to log: the rope hums at a true answer; Raghu is 'not Pritam's any more'; the Stair has kept the far side shut for three hundred years.",
   "content_rule_violation": false,
-  "failure_modes": [
-    "Narrated-only chemistry"
-  ],
-  "average": 3.38,
-  "minimum": 0.0,
-  "passed": false
+  "failure_modes": [],
+  "average": 4.25,
+  "minimum": 4.0,
+  "passed": true
 }
