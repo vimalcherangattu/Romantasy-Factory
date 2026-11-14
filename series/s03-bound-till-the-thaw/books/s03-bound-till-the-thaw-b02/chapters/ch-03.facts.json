@@ -1,16 +1,28 @@
 {
   "facts": [
     {
-      "category": "",
-      "fact": "A third person on a bound pair's rope is refused: 'A third on the rope and the mountain takes all three' (extrapolates F014, one pair per rope)."
+      "id": "N01",
+      "category": "knowledge",
+      "fact": "Ila's own rope is eight arm-spans of her arm as the guide under the Winter Crossing Law (consistent with F360, F436); she names herself the guide at the cairn.",
+      "since": "b02 ch 3 (revision)"
     },
     {
-      "category": "",
-      "fact": "Ila saw the queen's blood-threaded wafer pressed by Rohan on the Fair meadow a year ago; the queen mixed the blood in Taravan herself (consistent with F048, F254)."
+      "id": "N02",
+      "category": "place",
+      "fact": "The east valley lit by the faint broken line is missing from Ila's survey sheets; no stream, path or shepherd report points to it.",
+      "since": "b02 ch 3 (revision)"
     },
     {
-      "category": "",
-      "fact": "Kiran has not been home since before last winter (consistent with F417)."
+      "id": "N03",
+      "category": "knowledge",
+      "fact": "The fainter east winter line runs along the points of the Shepherd's Stair route-song (F433); its fourth light, 'four for the fold', goes dark while Kunal mutters the count. Ila recognises the rhyme from ch 2 and connects it to Raghu searching the high hamlets (F429, F432).",
+      "since": "b02 ch 3 (revision)"
+    },
+    {
+      "id": "N04",
+      "category": "knowledge",
+      "fact": "Ila leaves the east bearing out of her field book; it is her first omission from a survey sheet. She follows Kunal east by choice after letting the rope chill build.",
+      "since": "b02 ch 3 (revision)"
     }
   ]
 }

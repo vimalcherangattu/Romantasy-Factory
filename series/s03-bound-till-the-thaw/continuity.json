@@ -2999,6 +2999,34 @@
       "fact": "Kiran has not been home since before last winter (consistent with F417).",
       "since": "s03-bound-till-the-thaw-b02 ch 3",
       "provisional": true
+    },
+    {
+      "id": "F442",
+      "category": "knowledge",
+      "fact": "Ila's own rope is eight arm-spans of her arm as the guide under the Winter Crossing Law (consistent with F360, F436); she names herself the guide at the cairn.",
+      "since": "s03-bound-till-the-thaw-b02 ch 3",
+      "provisional": true
+    },
+    {
+      "id": "F443",
+      "category": "place",
+      "fact": "The east valley lit by the faint broken line is missing from Ila's survey sheets; no stream, path or shepherd report points to it.",
+      "since": "s03-bound-till-the-thaw-b02 ch 3",
+      "provisional": true
+    },
+    {
+      "id": "F444",
+      "category": "knowledge",
+      "fact": "The fainter east winter line runs along the points of the Shepherd's Stair route-song (F433); its fourth light, 'four for the fold', goes dark while Kunal mutters the count. Ila recognises the rhyme from ch 2 and connects it to Raghu searching the high hamlets (F429, F432).",
+      "since": "s03-bound-till-the-thaw-b02 ch 3",
+      "provisional": true
+    },
+    {
+      "id": "F445",
+      "category": "knowledge",
+      "fact": "Ila leaves the east bearing out of her field book; it is her first omission from a survey sheet. She follows Kunal east by choice after letting the rope chill build.",
+      "since": "s03-bound-till-the-thaw-b02 ch 3",
+      "provisional": true
     }
   ],
   "knowledge": [
