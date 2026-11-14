@@ -226,7 +226,7 @@
       "minimum": 4.0
     },
     "13": {
-      "status": "revised",
+      "status": "failed",
       "revisions": 2,
       "scores": {
         "reader_question": 4.0,
@@ -235,10 +235,10 @@
         "shown_chemistry": 4.0,
         "character_logic": 3.0,
         "stakes_and_cost": 4.0,
-        "prose": 3.0,
+        "prose": 4.0,
         "continuity": 0.0
       },
-      "average": 3.25,
+      "average": 3.38,
       "flags": [],
       "words": 2742,
       "minimum": 0.0
@@ -578,8 +578,12 @@
     {
       "at": "2026-11-14T21:09:30",
       "event": "done: S6 revise ch 13"
+    },
+    {
+      "at": "2026-11-14T21:11:04",
+      "event": "done: S5 critique ch 13"
     }
   ],
-  "updated_at": "2026-11-14T21:09:30",
+  "updated_at": "2026-11-14T21:11:04",
   "midpoint_chapter": 16
 }

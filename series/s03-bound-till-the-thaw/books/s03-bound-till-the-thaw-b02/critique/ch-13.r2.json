@@ -1,0 +1,41 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 3.0,
+    "stakes_and_cost": 4.0,
+    "prose": 4.0,
+    "continuity": 0.0
+  },
+  "reasons": {
+    "reader_question": "The ending gives a sharp question: will the ice hold? A second one lingers underneath: is his truth a gift or a handle Ila could use?",
+    "change": "Kunal hands Ila a verified confession of his weak point, and moves from hope to self-doubt about trusting her. Both knowledge and power shift.",
+    "romance_movement": "This is a new reason: the rule stops a false near-kiss, and a true declaration plus a two-finger touch replace it. It moves past the ch12 refusal.",
+    "shown_chemistry": "The warm pencil lead, the laugh that breaks his stride and the eyes-to-mouth glance all show attraction. A few lines still narrate it ('best thing he had seen all winter').",
+    "character_logic": "Kunal knowingly tells a lie his white fingertips will expose at once, to a woman who reads hands. Silence was free. The 'kindness' defeats itself.",
+    "stakes_and_cost": "He crosses unsounded ice with dead fingertips, and his spoken truth is now a permanent handle. Ila trades her need to be exact for speed.",
+    "prose": "Clean and concrete, with good rhythm and no banned phrases. 'Lit edge' repeats three times, and the lie-choice paragraph over-explains.",
+    "continuity": "F505 and F508 put the cairn 910 paces (a third of a mile) from the Ladder's foot, but ch12 and this opening make it a night's walk."
+  },
+  "fixes": [
+    "At 'It's nine hundred and ten paces, give or take a dozen', the distance origin is a continuity conflict and the timing doesn't hold. State on the page that 910 is the distance from where they stand, and correct F505/F508 to match. Then fix the clock: a 15-minute walk cannot take the storm from 'Three hours' to 'Twenty minutes'. Either let the front visibly accelerate, or drop 'watching me for an hour'.",
+    "At 'So he chose it, knowing what it was, as a kindness', Kunal's choice is irrational. He knows his nails will show the lie and that silence is free. Make the lie a courtier's reflex that leaves his mouth before calculation, then let the rising hum catch him. Or have him decide the white fingers are a price he'll pay openly to free her pen. Either way, give him a reason a smart man would accept.",
+    "At 'The Mirror lay below them', a dramatic-irony beat is missing. Ila now stands at the Glass Lakes, yet the queen's letter ('Open when you stand at the Glass Lakes') goes unmarked. In Kunal's POV, have him notice her hand go flat to her coat lining and stay there while she takes the bearing, without explanation. Cut 'It was a small thing, and it was the best thing he had seen all winter' to make room."
+  ],
+  "reader_question": "Halfway across the unsounded Mirror, with the ice booming beneath them, will it hold, and has Kunal's truth just handed Ila a weapon?",
+  "techniques_landed": [
+    7,
+    8,
+    22
+  ],
+  "new_facts_assessment": "F508's pace conversion holds if 'span' means a hand-span (about 0.32 miles). But it keeps F505's origin at the foot of the Ladder, which conflicts with the night's walk. Several new facts are not listed: Raven Spur, Ila's pocket watch and 'six days' on the rope. They are harmless but should be listed. Kunal's 'twenty years' of self-teaching roughly fits being taught at nine.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Irrational behaviour to extend plot"
+  ],
+  "average": 3.38,
+  "minimum": 0.0,
+  "passed": false
+}

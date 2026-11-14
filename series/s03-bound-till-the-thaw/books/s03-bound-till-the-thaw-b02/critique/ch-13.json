@@ -6,36 +6,36 @@
     "shown_chemistry": 4.0,
     "character_logic": 3.0,
     "stakes_and_cost": 4.0,
-    "prose": 3.0,
+    "prose": 4.0,
     "continuity": 0.0
   },
   "reasons": {
-    "reader_question": "The question is sharp and the chapter ends on it, but it is plain survival peril. The romantic question sits under it, unstated.",
-    "change": "Kunal has handed Ila a truth that exposes him, and the pair are now on ice nobody sounded. Both trust and danger have shifted.",
-    "romance_movement": "Rule 1 stops the false kiss. The true sentence and her two fingers on his chest replace it. The reason is new.",
-    "shown_chemistry": "The pencil lead into her open palm, her laugh, and 'He saw her see him see it' are all strong. Two later lines narrate the feeling.",
-    "character_logic": "'Is there a difference?' leads into a lie about drawing, which is a non sequitur. The 'cave' line contradicts ch12's promise scene.",
-    "stakes_and_cost": "He pays white fingertips. He also fears he gave her a 'handle', and they must cross unsounded ice. These are real, felt costs.",
-    "prose": "The sentences are mostly clean and concrete. The weak spots are a 'chest turned over' cliché, a narrated 'loved her', an over-explained no-kiss paragraph and 'following wind' used three times.",
-    "continuity": "Ila converts 910 paces to three-quarters of a mile. Her pace of two and a half spans (F420) makes that about a third of a mile."
+    "reader_question": "The ending gives a sharp question: will the ice hold? A second one lingers underneath: is his truth a gift or a handle Ila could use?",
+    "change": "Kunal hands Ila a verified confession of his weak point, and moves from hope to self-doubt about trusting her. Both knowledge and power shift.",
+    "romance_movement": "This is a new reason: the rule stops a false near-kiss, and a true declaration plus a two-finger touch replace it. It moves past the ch12 refusal.",
+    "shown_chemistry": "The warm pencil lead, the laugh that breaks his stride and the eyes-to-mouth glance all show attraction. A few lines still narrate it ('best thing he had seen all winter').",
+    "character_logic": "Kunal knowingly tells a lie his white fingertips will expose at once, to a woman who reads hands. Silence was free. The 'kindness' defeats itself.",
+    "stakes_and_cost": "He crosses unsounded ice with dead fingertips, and his spoken truth is now a permanent handle. Ila trades her need to be exact for speed.",
+    "prose": "Clean and concrete, with good rhythm and no banned phrases. 'Lit edge' repeats three times, and the lie-choice paragraph over-explains.",
+    "continuity": "F505 and F508 put the cairn 910 paces (a third of a mile) from the Ladder's foot, but ch12 and this opening make it a night's walk."
   },
   "fixes": [
-    "'Three-quarters of a mile, in a good light' (continuity). F420 sets Ila's pace at two and a half spans, so 910 paces is about a third of a mile. Change her line to 'A third of a mile, in a good light, with a following wind.' Keep 'It looks a mile.' The bigger gap sharpens her correction and his hill-man joke.",
-    "'Is there a difference?' then 'It doesn't matter to me what you d—' (character logic). The lie doesn't answer her question. Add a bridge: she glances at the field book in her hand, or says 'You've been watching me draw.' Also replace 'He had asked her to lie to him, and she would not.' It contradicts ch12, where he asked for a promise. Name that promise instead.",
-    "'he had loved her for it so completely that it frightened him' (narrated-only chemistry). Cut it; the declaration is premature and told. Also replace 'Something in his chest turned over, slow and heavy' with a physical act, such as him missing his footing or forgetting the count. Trim 'It was not a kiss... better than the kiss would have been' to one sentence and let her gesture carry it."
+    "At 'It's nine hundred and ten paces, give or take a dozen', the distance origin is a continuity conflict and the timing doesn't hold. State on the page that 910 is the distance from where they stand, and correct F505/F508 to match. Then fix the clock: a 15-minute walk cannot take the storm from 'Three hours' to 'Twenty minutes'. Either let the front visibly accelerate, or drop 'watching me for an hour'.",
+    "At 'So he chose it, knowing what it was, as a kindness', Kunal's choice is irrational. He knows his nails will show the lie and that silence is free. Make the lie a courtier's reflex that leaves his mouth before calculation, then let the rising hum catch him. Or have him decide the white fingers are a price he'll pay openly to free her pen. Either way, give him a reason a smart man would accept.",
+    "At 'The Mirror lay below them', a dramatic-irony beat is missing. Ila now stands at the Glass Lakes, yet the queen's letter ('Open when you stand at the Glass Lakes') goes unmarked. In Kunal's POV, have him notice her hand go flat to her coat lining and stay there while she takes the bearing, without explanation. Cut 'It was a small thing, and it was the best thing he had seen all winter' to make room."
   ],
-  "reader_question": "Will the booming ice of the Mirror hold them, halfway across in a whiteout, with Kunal's fingers dead in his gloves?",
+  "reader_question": "Halfway across the unsounded Mirror, with the ice booming beneath them, will it hold, and has Kunal's truth just handed Ila a weapon?",
   "techniques_landed": [
     7,
     8,
     22
   ],
-  "new_facts_assessment": "F505's cairn location and storm-dark cairn-light are needed and consistent. Its mile conversion clashes with F420. F506 follows F352 and Rule 1 correctly. F507 is consistent with F488 (age nine) and is needed for the beat.",
+  "new_facts_assessment": "F508's pace conversion holds if 'span' means a hand-span (about 0.32 miles). But it keeps F505's origin at the foot of the Ladder, which conflicts with the night's walk. Several new facts are not listed: Raven Spur, Ila's pocket watch and 'six days' on the rope. They are harmless but should be listed. Kunal's 'twenty years' of self-teaching roughly fits being taught at nine.",
   "content_rule_violation": false,
   "failure_modes": [
-    "Narrated-only chemistry"
+    "Irrational behaviour to extend plot"
   ],
-  "average": 3.25,
+  "average": 3.38,
   "minimum": 0.0,
   "passed": false
 }
