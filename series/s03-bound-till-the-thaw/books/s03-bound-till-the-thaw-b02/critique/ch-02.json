@@ -2,40 +2,41 @@
   "scores": {
     "reader_question": 4.0,
     "change": 4.0,
-    "romance_movement": 4.0,
+    "romance_movement": 3.0,
     "shown_chemistry": 3.0,
-    "character_logic": 4.0,
+    "character_logic": 3.0,
     "stakes_and_cost": 4.0,
-    "prose": 4.0,
-    "continuity": 0.0
+    "prose": 3.0,
+    "continuity": 5.0
   },
   "reasons": {
-    "reader_question": "Clear and sharp: who fed the crown and Raghu the princes' way, and what will Kunal let Ila see on the rope?",
-    "change": "Kunal goes from carrier of the petition to self-trapped hostage of his own openness, bound before nine witnesses.",
-    "romance_movement": "Opponents become forced partners for a new reason, the clause. His suspicion of her motive is fresh and plausible.",
-    "shown_chemistry": "Few direct exchanges. The doorway glance and the final line work, but Ila is mostly seen across a table.",
-    "character_logic": "Volunteering for the rope to control what she sees is smart and in character. The final inference rests on thin evidence.",
-    "stakes_and_cost": "His public principle cuts off refusal, and the rope makes every evasion visible. That cost is real and named.",
-    "prose": "Clean, concrete, readable, with good callbacks (Madan's floor). One garbled sentence and a staging glitch with the door.",
-    "continuity": "Narration says bound pairs 'could not lie' and Kunal is 'unable to lie', but the bible lets them lie at a cost. 'Did not mind who' has no source in ch1."
+    "reader_question": "Specific: who told both the crown and Raghu about the princes' way, and what Ila already suspects.",
+    "change": "Kunal goes from confident spokesman to bound on her rope by his own motion, and outmanoeuvred.",
+    "romance_movement": "They are now forced partners with mutual suspicion. But Ila's side is only inferred from Kunal's after-the-fact rereading.",
+    "shown_chemistry": "The doorway beat (her eyes on his tapping fingers, 'one counter to another') works. The council gives them almost no exchange.",
+    "character_logic": "Ila's key line contradicts her own position. Kunal fails to register that he just sang his stair's ghost-count in her hearing.",
+    "stakes_and_cost": "Binding himself makes every answer a possible map line. Raghu hunting the way adds danger aimed outward.",
+    "prose": "Clean and concrete, with good lines ('It felt like weather'). The ending recaps through rumination, and some lines label instead of show ('the hypocrisy').",
+    "continuity": "Consistent with bible and log: Madan, Chetu's forty bell-marked sacks, sixty-one winters, eight spans, Ila's 2.5-span pace."
   },
   "fixes": [
-    "'A bound pair could not lie to each other, but silence was free' and the closing 'unable to lie': this misstates Rule 1 (continuity). Lies are possible and cost heat. Rewrite as 'A bound pair could not lie to each other without paying for it in their hands, but silence was free.' Change the end to 'where every lie would show in his fingers'.",
-    "'She had said last night that she did not mind who': this has no source in ch1 (continuity) and is the main prop for Kunal's realisation. Replace it with something from the page: on the stair she asked the council to 'name a guide', then measured him, then laughed when he declared against her. Have him reread that laugh as a woman who had already counted where he would land.",
-    "'The door creaked. Dhanu's runner had stood against the back wall': this is a staging contradiction, because the runner is already inside when the door opens. Cut the creak and open with the runner clearing his throat. Also rewrite the garbled 'unable to find any other way to give a thing away that he was not willing to give away' as one clean line about songs outliving route-keepers."
+    "'I can't draw what isn't there, and I won't draw what is': the logic is reversed. This undercuts Ila's values-collision argument (technique 15). Change it to 'I can't draw what isn't there, and I won't leave out what is.' This keeps her false belief intact and quotable.",
+    "'Nine and thirty,' he sang, low, tapping': this is character logic. Last night Kunal told Ila thirty-nine was the stair's 'children's count, for ghosts'. Have him realise, in one or two sentences as she stops, that she has just heard the same number and the same ghosts. Show the cost: his fingers still on the stone, and the choice not to finish. That makes her pause a real threat and a chemistry beat.",
+    "'He read it again now. It was the laugh': the ending replays the stair scene through interior recap (Endless monologue), and Ila's intent stays inferred. Cut the recap to two lines. Anchor his realisation in one concrete action she makes now, for example her pencil already on the guide line of her licence, or his name already written in her field book before Bhim asked."
   ],
-  "reader_question": "What does the crown know about the princes' way, who told both courts, and how much will Kunal let Ila see once he is on her rope?",
+  "reader_question": "What does the crown know about the way beneath the Shilak Cairn, who told it and Raghu, and what will Kunal let Ila see on the rope?",
   "techniques_landed": [
     13,
     15,
     25
   ],
-  "new_facts_assessment": "Dhanu, Chuni, Sarn fold, the cover-sheet clause and the route-song are all necessary and consistent. Raghu matches F174's red moustache. The song's 'nine and thirty... ghosts' echoes ch1's step count well, so C10 lands. Two problems: 'Old Bhim speaks for the lower terraces' is claimed in new facts but never appears on the page, and Bhim's 'sixty winters' should read sixty-one in the 31st winter. If Dhanu is Book 2's doomed oldest friend, he needs some warmth soon.",
+  "new_facts_assessment": "new-facts.json is empty, yet the draft adds facts. These should be logged: the council vote of six to three, the binding condition, Bhim's midsummer line about hidden roads, the cover-sheet wording ('of the Shilak post's family'), and that the princes' way is never written down. All are consistent and necessary. Clarify whether Kunal counts among the nine voters.",
   "content_rule_violation": false,
   "failure_modes": [
-    "Narrated-only chemistry"
+    "Irrational behaviour to extend plot",
+    "Endless monologue"
   ],
-  "average": 3.38,
-  "minimum": 0.0,
-  "passed": false
+  "average": 3.62,
+  "minimum": 3.0,
+  "passed": true
 }

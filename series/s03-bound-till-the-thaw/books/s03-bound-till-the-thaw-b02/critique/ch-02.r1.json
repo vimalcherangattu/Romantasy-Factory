@@ -1,0 +1,42 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 3.0,
+    "shown_chemistry": 3.0,
+    "character_logic": 3.0,
+    "stakes_and_cost": 4.0,
+    "prose": 3.0,
+    "continuity": 5.0
+  },
+  "reasons": {
+    "reader_question": "Specific: who told both the crown and Raghu about the princes' way, and what Ila already suspects.",
+    "change": "Kunal goes from confident spokesman to bound on her rope by his own motion, and outmanoeuvred.",
+    "romance_movement": "They are now forced partners with mutual suspicion. But Ila's side is only inferred from Kunal's after-the-fact rereading.",
+    "shown_chemistry": "The doorway beat (her eyes on his tapping fingers, 'one counter to another') works. The council gives them almost no exchange.",
+    "character_logic": "Ila's key line contradicts her own position. Kunal fails to register that he just sang his stair's ghost-count in her hearing.",
+    "stakes_and_cost": "Binding himself makes every answer a possible map line. Raghu hunting the way adds danger aimed outward.",
+    "prose": "Clean and concrete, with good lines ('It felt like weather'). The ending recaps through rumination, and some lines label instead of show ('the hypocrisy').",
+    "continuity": "Consistent with bible and log: Madan, Chetu's forty bell-marked sacks, sixty-one winters, eight spans, Ila's 2.5-span pace."
+  },
+  "fixes": [
+    "'I can't draw what isn't there, and I won't draw what is': the logic is reversed. This undercuts Ila's values-collision argument (technique 15). Change it to 'I can't draw what isn't there, and I won't leave out what is.' This keeps her false belief intact and quotable.",
+    "'Nine and thirty,' he sang, low, tapping': this is character logic. Last night Kunal told Ila thirty-nine was the stair's 'children's count, for ghosts'. Have him realise, in one or two sentences as she stops, that she has just heard the same number and the same ghosts. Show the cost: his fingers still on the stone, and the choice not to finish. That makes her pause a real threat and a chemistry beat.",
+    "'He read it again now. It was the laugh': the ending replays the stair scene through interior recap (Endless monologue), and Ila's intent stays inferred. Cut the recap to two lines. Anchor his realisation in one concrete action she makes now, for example her pencil already on the guide line of her licence, or his name already written in her field book before Bhim asked."
+  ],
+  "reader_question": "What does the crown know about the way beneath the Shilak Cairn, who told it and Raghu, and what will Kunal let Ila see on the rope?",
+  "techniques_landed": [
+    13,
+    15,
+    25
+  ],
+  "new_facts_assessment": "new-facts.json is empty, yet the draft adds facts. These should be logged: the council vote of six to three, the binding condition, Bhim's midsummer line about hidden roads, the cover-sheet wording ('of the Shilak post's family'), and that the princes' way is never written down. All are consistent and necessary. Clarify whether Kunal counts among the nine voters.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Irrational behaviour to extend plot",
+    "Endless monologue"
+  ],
+  "average": 3.62,
+  "minimum": 3.0,
+  "passed": true
+}
