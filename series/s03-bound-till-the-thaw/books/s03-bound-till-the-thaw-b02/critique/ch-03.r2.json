@@ -1,0 +1,42 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 3.0,
+    "stakes_and_cost": 4.0,
+    "prose": 4.0,
+    "continuity": 5.0
+  },
+  "reasons": {
+    "reader_question": "Specific gaps stack well: Glass Lakes, the unmapped valley, and why the fourth light died where Raghu is knocking.",
+    "change": "Knowledge (the 35-day clock, a hidden valley), power (he leads east), and Ila's first deliberate omission all shift.",
+    "romance_movement": "The demonstration lie becomes a shared joke and sets truthful-adversary terms; the ending turns it into a values standoff.",
+    "shown_chemistry": "His unguarded laugh, his startled 'I don't', and the snug knot are responsive action. None of it is narrated.",
+    "character_logic": "Kunal's eastward turn is earned, but Ila reads his inner motives too surely, and 'Ask the other thing' is unmotivated.",
+    "stakes_and_cost": "The rope chill under her ribs makes the choice physical. Following costs her neutrality, and staying costs a true map.",
+    "prose": "Concrete and quotable, with no banned phrases. The ending over-explains its own theme, and the breath and hand similes repeat.",
+    "continuity": "Consistent with F387/F320 stone behaviour, F433 song, F434-F441, the Kiran pair and the archive seal per the S4 plant."
+  },
+  "fixes": [
+    "'It was a choice. It was the first she had made on this mountain': the heroine's arc is told, not shown, and the omission pre-spends worksheet trust choice 1. Cut the thematic gloss and the 'two ways of being wrong' summary. Let cold hands that 'would not hold' the pencil leave the east bearing unwritten, so it stays unclear whether she chose. Save the deliberate, spoken omission for the night he shows her the route.",
+    "'She watched him pay for it. A year of holding a road': a POV leak. Ila narrates Kunal's motives ('had never been asked', 'He had kept the way for them') as fact. Recast this as inference from what she can see: his count, the darkened light, Raghu's name. Hedge it ('if he had kept it for them') so her suspicion of him (worksheet item 4) survives.",
+    "'The fourth light went out.': convenient magic. The canon never says cairn-light can die. Add one line from Ila's lore giving a rule-bound cause, such as a light failing where a cairn is pulled down or where no pair has walked in a generation. Keep who did it uncertain, and log the rule in new-facts for a bible ruling."
+  ],
+  "reader_question": "What is the valley the mountain still lights but no map shows, and what put out its fourth light at the fold where Raghu is hunting?",
+  "techniques_landed": [
+    1,
+    22,
+    16
+  ],
+  "new_facts_assessment": "N01 is consistent and redundant with F436/F442. N02 is necessary and consistent. N03 is a strong clue at the peak, but a winter-line light 'going out' is an unestablished rule and needs a bible ruling on what extinguishes cairn-light. N04 pre-empts worksheet trust choice 1 (leaving a route off the sheet after he shows it, and telling him), so keep it ambiguous here.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Convenient magic",
+    "Static heroine (inverse: arc change told too early)"
+  ],
+  "average": 4.0,
+  "minimum": 3.0,
+  "passed": true
+}
