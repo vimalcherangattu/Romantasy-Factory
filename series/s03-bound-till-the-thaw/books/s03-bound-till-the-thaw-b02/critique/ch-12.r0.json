@@ -1,0 +1,42 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 3.0,
+    "stakes_and_cost": 4.0,
+    "prose": 3.0,
+    "continuity": 0.0
+  },
+  "reasons": {
+    "reader_question": "The ending puts her hand on the sewn letter in sight of the booming lakes. The question is sharp and specific.",
+    "change": "Her first announced omission breaks the oath-bound stance from ch11. Kunal's free name ends the priced exchange between them.",
+    "romance_movement": "Each gives something new and unpriced. Her refusal to promise is a fresh reason, distinct from ch11's 'Yes'.",
+    "shown_chemistry": "The route-song timed to her steps and the open-palm confession are good. So is his hearing both truth and dodge without narration.",
+    "character_logic": "The measurer's step counts don't add up. Kunal says 'Draw it' and then at once asks her to promise never to.",
+    "stakes_and_cost": "The audit, the Chief Surveyor title and the 'name on a sheet' tie the cost to her father's story. It costs her something concrete.",
+    "prose": "The hook and the images are clean. But the ch11 exchange 'That's all?/quite a lot/didn't say it was small' is replayed verbatim, and the glove image returns.",
+    "continuity": "'The third night he might have, by their terms' conflicts with the nightly name trade running since ch6 (F462)."
+  },
+  "fixes": [
+    "'It was the third night he might have, by their terms': this is a continuity error, because the name trade has run nightly since ch6 (F462). Replace it with 'Every night since Ewe's Rest he had set a question beside a name. Tonight he set none,' or cut the count.",
+    "'That's all?' / 'It's quite a lot.' / 'I didn't say it was small.': this replays ch11's lines with the same speakers, which is repetitive tension. Cut it, or invert it so Kunal says 'It's quite a lot' of her reason and she answers. Also change 'as one hands back a dropped glove', since gloves were ch11's central image. Use a rope or pencil image instead.",
+    "'fifty-seven on the pitch and forty-odd on the rest': Ila the measurer would never let the hard quarter of a hundred feet hold more steps than the other three pitches combined. Make the figures consistent (for example, fifty-seven of about a hundred and sixty) and fix Kunal's 'Then take it back. Draw it.' Add a beat showing that line as courtesy he can't sustain before he asks for the promise."
+  ],
+  "reader_question": "What will Ila do when she stands at the Glass Lakes with the queen's letter, now that she has hidden a way from the crown?",
+  "techniques_landed": [
+    11,
+    14,
+    15
+  ],
+  "new_facts_assessment": "The Ladder, the niche, the song and the Long Braid are all needed and consistent. The cache echoes F076's custom deliberately. The nineteen chronicles and the audit are needed for the cost. F498 recasts F445's 'first omission' as undecided, which is acceptable but slippery. 'Her father's entry... in the post's own copperplate' is unclear: her father was a survey-office copyist, not post staff. The 57-steps figure conflicts with 'forty-odd on the rest' of a hundred feet.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Repetitive tension",
+    "Irrational behaviour to extend plot"
+  ],
+  "average": 3.25,
+  "minimum": 0.0,
+  "passed": false
+}
