@@ -1,10 +1,34 @@
 {
   "facts": [
     {
-      "id": "F508",
       "category": "place",
-      "fact": "Revises F505's conversion: 910 of Ila's paces (two and a half spans each, per F420) is about a third of a mile, not three-quarters. Kunal's 'a mile' is a hill-man's estimate by tiredness.",
-      "since": "s03-the-winter-oath-b02 ch 13"
+      "fact": "Correction of F505/F508: the 910 paces to the lakeside cairn is measured from where Ila and Kunal stand at the scree edge on the basin floor, not from the foot of the Widow's Ladder. Ila fixed the baseline at the Ladder's foot, worked the triangle off the Raven Spur, and carried the figure down the basin overnight. 910 paces is about a third of a mile; Kunal's 'a mile' is a hill-man's guess by tiredness.",
+      "since": "s03-bound-till-the-thaw-b02 ch 13"
+    },
+    {
+      "category": "place",
+      "fact": "Raven Spur is the crag Ila took her cairn bearings from; two ravens break off the scree at her laugh.",
+      "since": "s03-bound-till-the-thaw-b02 ch 13"
+    },
+    {
+      "category": "object",
+      "fact": "Ila carries a pocket watch, which she uses to time the storm front's progress across the spurs.",
+      "since": "s03-bound-till-the-thaw-b02 ch 13"
+    },
+    {
+      "category": "timeline",
+      "fact": "The storm front accelerates visibly: Ila's 'three hours' at the scree becomes 'twenty minutes to be on the ice' at the cairn after a short walk of about ten minutes. Ila and Kunal have been roped together six days.",
+      "since": "s03-bound-till-the-thaw-b02 ch 13"
+    },
+    {
+      "category": "knowledge",
+      "fact": "Kunal's false 'It doesn't matter to me what you d--' is a courtier's reflex, spoken before calculation; the rising hum stops him. His nails stay wax-white for an hour and he crosses the Mirror with numb fingertips.",
+      "since": "s03-bound-till-the-thaw-b02 ch 13"
+    },
+    {
+      "category": "knowledge",
+      "fact": "Kunal sees Ila's left hand go flat to her coat lining over the sewn queen's letter at the cairn and stay there while she takes a bearing; he does not ask what it is.",
+      "since": "s03-bound-till-the-thaw-b02 ch 13"
     }
   ]
 }
