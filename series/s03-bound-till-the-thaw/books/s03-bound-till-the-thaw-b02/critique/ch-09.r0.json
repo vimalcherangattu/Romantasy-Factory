@@ -1,0 +1,43 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 3.0,
+    "stakes_and_cost": 3.0,
+    "prose": 4.0,
+    "continuity": 5.0
+  },
+  "reasons": {
+    "reader_question": "The toppled 'door' with the line gone dark beyond it is a specific, urgent gap. Raghu's purpose (digging) is not raised.",
+    "change": "Ila now knows Raghu passed the door and the line north is lost. She has put an enemy on the sheet and told Kunal.",
+    "romance_movement": "This is a new reason to move: she lets him carry her instrument and gives more than he asked. His 'afraid of you' gains weight.",
+    "shown_chemistry": "The silent laugh felt through the rope and the warm lead are strong responsive care. 'A feeling she could not file' edges into narration.",
+    "character_logic": "A surveyor would know that two identical bearings give no fix, yet she 'fixes' the fire from them. The loud laugh breaks their silence pact.",
+    "stakes_and_cost": "The slope crossing has real odds. Drawing the camp costs almost nothing, since Kunal says he'd have drawn it himself, so the dilemma is soft.",
+    "prose": "The voice is concrete and witty ('a thing she owed money to'). 'The rope between them' appears three times, at the limit. Two consecutive paragraphs open with 'She'.",
+    "continuity": "The rope length, rope-scrape, Hollow Moon name, archive file (F426), eleven winters and hum rules all agree. Bearings match F475."
+  },
+  "fixes": [
+    "At 'The bearing of the fire had come out the same', the triangulation is broken (failure mode: irrational behaviour). Identical bearings from two stations give no fix. Give different bearings, about 315 from the cliff and about 290 from the fifth cairn, so the intersection fixes a mile and an eighth. Have Ila note the angle is wide enough to trust.",
+    "At 'a sheet that showed a camp on the Hollow Moon's west lip', the choice has no cost (failure mode: stakes without depth). Kunal wants the watchers found, so drawing them hurts no one. Make the true cost that fixing the camp forces her to ink the cairn line she stood on, the shepherds' way itself. She draws both and tells him. His 'every line I'd have drawn' then becomes 'except that one'.",
+    "At 'the line that should have gone on north', a new magic rule appears unprepared (failure mode: convenient magic). Have Kunal link it aloud to the fourth light dying on the Stair (F444): a broken keeper cairn kills the light. Add the rule to new-facts. At 'It's Raghu's', have him name the crossed-hatch clapper as Raghu's own variant of the regent's store-bell."
+  ],
+  "reader_question": "With the route-keeper cairn torn down and the winter line dark beyond it, how do Ila and Kunal go on, and how far ahead is Raghu?",
+  "techniques_landed": [
+    6,
+    9,
+    10
+  ],
+  "new_facts_assessment": "The song, cairn spacing, slope, leads, name trade, camp drawing and door cairn are all necessary and consistent. One implied rule is not declared: toppling a route-keeper cairn darkens the winter line beyond it. It needs listing and tying to F444. Raghu's bell risks being confused with the regent's store-bell (F217/F220) and should be distinguished.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Irrational behaviour to extend plot",
+    "Stakes without depth",
+    "Convenient magic"
+  ],
+  "average": 3.88,
+  "minimum": 3.0,
+  "passed": true
+}
