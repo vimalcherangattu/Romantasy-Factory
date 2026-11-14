@@ -1,0 +1,42 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 3.0,
+    "stakes_and_cost": 3.0,
+    "prose": 4.0,
+    "continuity": 5.0
+  },
+  "reasons": {
+    "reader_question": "Clear twin gap: what was the 'second time' at nine, and what is the Hollow Moon she was never meant to hear?",
+    "change": "Ila revises her file on Kunal, wins Gauri's trust, gets caught out on naming, and learns Raghu is two days ahead.",
+    "romance_movement": "Both outlined changes land. Seeing him loved and his gentle exposure of her naming habit are new reasons, not replays.",
+    "shown_chemistry": "Responsive beats: he watches her face, not her hands; the dry 'we can spare it'; the 'then we're even' exchange.",
+    "character_logic": "Ila's 'Not cheaply' misstates the rule, since lies to non-partners are free. Dhanu naming the Hollow Moon near a surveyor is a little loose.",
+    "stakes_and_cost": "Raghu's lead raises the danger, but Ila's next choice (ask, stay silent, record it) is not framed as costing her anything.",
+    "prose": "Specific and lively with good comic rhythm. Small echoes: 'blanket that smelled of goat' then 'goat-smelling blanket'; repeated ear-cuffing.",
+    "continuity": "No hard conflict with the bible or the facts. Soft risks: 'had not known he owned it' (laugh) and 'my boy' versus runner (F427)."
+  },
+  "fixes": [
+    "At \"My brother says you don't lie. That your wrist won't let you\" / \"Not cheaply.\" (worldbuilding collapse): lies to anyone but a bound partner are free (F011), so Ila is misstating her own rule. Have her correct it: \"Only to him. To you I could lie for nothing. I'm not going to.\" That makes Gauri's trust a choice Ila earns, not a rope effect.",
+    "At \"She had not known he owned it.\" (continuity with ch 6): he laughed helplessly with her in the snow. Make the distinction explicit, for example: \"She had heard him laugh once, ambushed, flat in the snow. This one he let out on purpose, among people who'd heard it all his life.\"",
+    "At \"understanding that she was not supposed to.\" (stakes without cost): end on a costed choice. Add one or two lines: if she asks about the Hollow Moon in tonight's name trade, he learns she lay awake listening. If she says nothing, she keeps a silence from him. Also change Dhanu's \"My boy saw them\" to \"My runner saw them\" (F427)."
+  ],
+  "reader_question": "What happened to Kunal the second time he walked these ways, and what is the Hollow Moon that Raghu's pairs are racing toward?",
+  "techniques_landed": [
+    1,
+    5,
+    23
+  ],
+  "new_facts_assessment": "The limp detail, star name, wall measurements, Gauri using Ila's name, and the timing match to ch 5 are all necessary and consistent. The draft makes the wall her father's, while the beat says 'new pen wall'; the change works but should be logged. 'My boy' implies Dhanu has a son, which conflicts with F427's unnamed runner; reword it to 'my runner'.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Worldbuilding collapse",
+    "Irrational behaviour to extend plot"
+  ],
+  "average": 3.88,
+  "minimum": 3.0,
+  "passed": true
+}
