@@ -2824,6 +2824,41 @@
       "category": "knowledge",
       "fact": "Kamla's two children, given no redbark course in ch 18, recovered on walnut leaf by ch 23; Nimmi gives them two of her last three doses.",
       "since": "s03-bound-till-the-thaw-b01 (S7)"
+    },
+    {
+      "id": "F417",
+      "category": "relationship",
+      "fact": "Kiran, 25, stayed on at Garh Neshar after Book 1 and works as Ila's chain-man through the summer survey into winter; his sister Meera is betrothed to Ila's brother Rohan, so he will be Ila's relation by marriage.",
+      "since": "s03-bound-till-the-thaw-b02 ch 1",
+      "provisional": true
+    },
+    {
+      "id": "F418",
+      "category": "place",
+      "fact": "The tower's north landing has a half-height step set into the boards that people step over without counting. Kunal's family counts the stair as thirty-nine steps ('children's count, for ghosts'); Ila counts forty. The north wall there is colder and sweats slightly.",
+      "since": "s03-bound-till-the-thaw-b02 ch 1",
+      "provisional": true
+    },
+    {
+      "id": "F419",
+      "category": "name",
+      "fact": "Garh Neshar's builder, in family songs, is a drunk mason named Dev.",
+      "since": "s03-bound-till-the-thaw-b02 ch 1",
+      "provisional": true
+    },
+    {
+      "id": "F420",
+      "category": "object",
+      "fact": "Ila's pace is two and a half spans, calibrated against the brass rule at Taravan at nineteen and a chalk line her father laid each spring. The tower's north face is twenty-two paces outside, and the inside room is a full pace short after wall thickness is allowed for; she allows half a span for sloppy plaster and records two spans.",
+      "since": "s03-bound-till-the-thaw-b02 ch 1",
+      "provisional": true
+    },
+    {
+      "id": "F421",
+      "category": "place",
+      "fact": "The hill-council guards wear undyed wool with a blue cord on the shoulder; the Winter Crossing Law notice on the gate shows the Shilak post's brown seal and the hill council's blue seal, and a goat has been scratched in the margin by the third line.",
+      "since": "s03-bound-till-the-thaw-b02 ch 1",
+      "provisional": true
     }
   ],
   "knowledge": [
