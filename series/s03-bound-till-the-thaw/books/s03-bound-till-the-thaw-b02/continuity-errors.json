@@ -2,206 +2,186 @@
   "open_errors": [
     {
       "id": "E01",
-      "chapter": 2,
+      "chapter": 3,
       "severity": "minor",
-      "category": "timeline",
-      "issue": "Ch 2 says the petition goes before the queen at the Shilak Cairn on the day Shilak's meltwater first runs. In ch 31 the queen arrives three days after Shilak's thaw, and the council sits then.",
-      "fix": "Loosen the ch 2 wording so the hearing comes after Shilak's thaw, not on the same day.",
+      "category": "magic",
+      "issue": "Ila's demonstration lie is called a small lie, which whitens only the fingertips. The text whitens them 'to the second joint', the depth used for her middling lie in ch 14.",
+      "fix": "Limit the white to the first joint.",
       "patches": [
         {
-          "chapter": 2,
-          "find": "to be set before Queen Sarala at the Shilak Cairn on the day Shilak's meltwater first ran.",
-          "replace": "to be set before Queen Sarala at the Shilak Cairn once Shilak's meltwater had run."
+          "chapter": 3,
+          "find": "She watched them go white, nail beds first, to the second joint.",
+          "replace": "She watched them go white, nail beds first, to the first joint."
         }
       ]
     },
     {
       "id": "E02",
-      "chapter": 3,
-      "severity": "major",
-      "category": "magic",
-      "issue": "Kiran says he has a place with a licensed pair (two people) for the winter crossing. Ila then states that a third person on a rope kills all three. As written, Kiran would be the forbidden third.",
-      "fix": "Make Kiran one half of a separate bound pair.",
+      "chapter": 15,
+      "severity": "minor",
+      "category": "injury",
+      "issue": "At grey light Kunal's hands are 'ordinary flesh again, not wax'. A few lines later, and through ch 16, his tips are still the colour of tallow.",
+      "fix": "Keep the tips wax-coloured at dawn.",
       "patches": [
         {
-          "chapter": 3,
-          "find": "A licensed pair, going over to Shilak at first light. The post's own, with seed barley. Bindu's cousins.",
-          "replace": "Two of the post's licensed guides, going over to Shilak at first light with seed barley. Bindu's cousins. One ties to me, the other to the barley-man."
+          "chapter": 15,
+          "find": "His hands were stiff and prickling, ordinary flesh again, not wax.",
+          "replace": "His hands were stiff and prickling, flesh again to the last knuckle, though the tips stayed wax."
         }
       ]
     },
     {
       "id": "E03",
-      "chapter": 7,
-      "severity": "major",
-      "category": "relationship",
-      "issue": "Gauri is Dhanu's wife and Mini's mother: Dhanu says 'I told my wife' in this chapter, and later chapters call her his wife. Here she calls Dhanu 'my brother' and says 'My father built that' of a wall that Dhanu's father laid (ch 8).",
-      "fix": "Make Gauri's lines match her role as Dhanu's wife.",
+      "chapter": 21,
+      "severity": "minor",
+      "category": "injury",
+      "issue": "The broken-promise strike kills only Kunal's right fingertips: later he cannot pinch with the right and signs left-handed. Ch 21 describes both hands' tips going grey and Ila speaks of 'ten dead fingertips'.",
+      "fix": "Confine the strike to the right hand.",
       "patches": [
         {
-          "chapter": 7,
-          "find": "\"My brother says you don't lie. That your wrist won't let you.\"",
-          "replace": "\"My husband says you don't lie. That your wrist won't let you.\""
+          "chapter": 21,
+          "find": "The pink in his fingertips went waxy, then grey, as if a hand had wiped the blood out of them.",
+          "replace": "The pink in his right fingertips went waxy, then grey, as if a hand had wiped the blood out of them."
         },
         {
-          "chapter": 7,
-          "find": "\"My father built that.\"",
-          "replace": "\"His father built that.\""
+          "chapter": 21,
+          "find": "with ten dead fingertips, having been given a refusal and a debt I couldn't pay.",
+          "replace": "with five dead fingertips, having been given a refusal and a debt I couldn't pay."
         }
       ]
     },
     {
       "id": "E04",
-      "chapter": 11,
+      "chapter": 17,
       "severity": "minor",
-      "category": "relationship",
-      "issue": "Kunal says it is the first time he has heard Ila laugh out loud, and she agrees it is true. She laughed loudly in front of him on the tower stair (ch 1), on the Stair plateau (ch 6) and at Dhanu's table (ch 7).",
-      "fix": "Narrow the claim to this kind of laugh.",
+      "category": "timeline",
+      "issue": "Kunal says he has shown Ila three ways 'in nine days', but in the same chapter his petition margin counts day twenty since the binding.",
+      "fix": "Align the spoken count with the margin count.",
       "patches": [
         {
-          "chapter": 11,
-          "find": "\"That's the first time I've heard you laugh out loud,\" said Kunal.",
-          "replace": "\"That's the first time I've heard you laugh like that,\" said Kunal."
-        },
-        {
-          "chapter": 11,
-          "find": "\"Not near me.\"",
-          "replace": "\"Not like that.\""
+          "chapter": 17,
+          "find": "I've shown you three ways in nine days, and you're alive.",
+          "replace": "I've shown you three ways in twenty days, and you're alive."
         }
       ]
     },
     {
       "id": "E05",
-      "chapter": 13,
+      "chapter": 11,
       "severity": "minor",
       "category": "timeline",
-      "issue": "In the same chapter Kunal has watched Ila work 'for more than two weeks', yet she has spent only 'six days' learning his habits. The rest of the book backs the two-week count (ch 14: letter carried 'more than two weeks').",
-      "fix": "Align the six days with two weeks.",
+      "issue": "Ila's count passes three hundred strokes before she cuts the bench and shelf, yet she then gives the total as two hundred and ninety.",
+      "fix": "Give a total above three hundred.",
       "patches": [
         {
-          "chapter": 13,
-          "find": "But she had spent six days learning his habits.",
-          "replace": "But she had spent two weeks learning his habits."
+          "chapter": 11,
+          "find": "\"Two hundred and ninety strokes,\" said Ila.",
+          "replace": "\"Three hundred and forty strokes,\" said Ila."
         }
       ]
     },
     {
       "id": "E06",
-      "chapter": 17,
+      "chapter": 18,
       "severity": "minor",
-      "category": "object",
-      "issue": "The petition is four sheets in ch 2 and three sheets in ch 17.",
-      "fix": "Make it four sheets in ch 17.",
+      "category": "place",
+      "issue": "The lakes run Mirror, Drum, Eye. Standing at the Eye, the Drum is nearer and the Mirror beyond it, but the text reverses them.",
+      "fix": "Swap the order.",
       "patches": [
         {
-          "chapter": 17,
-          "find": "It was three sheets, folded in his coat, for the thaw council.",
-          "replace": "It was four sheets, folded in his coat, for the thaw council."
+          "chapter": 18,
+          "find": "The Mirror was behind them, and the Drum behind that.",
+          "replace": "The Drum was behind them, and the Mirror behind that."
         }
       ]
     },
     {
       "id": "E07",
-      "chapter": 17,
+      "chapter": 19,
       "severity": "minor",
-      "category": "knowledge",
-      "issue": "In ch 10 Udai made the family rule (no winter walking). In ch 17 Kunal answers 'And the rule?' by saying his uncle made it when Kunal was nine, then says the same rule has kept the crown out for sixty winters, which a rule made 24 years ago cannot have done.",
-      "fix": "Separate Udai's winter rule from Pritam's later no-showing rule.",
+      "category": "place",
+      "issue": "Kunal's 'and I came home' was said in the snow cave dug on the Hollow Moon's lip (ch 11), not in a hut.",
+      "fix": "Name the snow cave.",
       "patches": [
         {
-          "chapter": 17,
-          "find": "My uncle made it that night, over the fish.",
-          "replace": "My grandfather's rule was only for winter. My uncle made this one that night, over the fish."
-        },
-        {
-          "chapter": 17,
-          "find": "It has kept the crown out of Neshar's hills for sixty winters.",
-          "replace": "Between them, the two have kept the crown out of Neshar's hills for sixty winters."
+          "chapter": 19,
+          "find": "he had said, in the hut on the Hollow Moon",
+          "replace": "he had said, in the snow cave on the Hollow Moon"
         }
       ]
     },
     {
       "id": "E08",
-      "chapter": 22,
+      "chapter": 19,
       "severity": "minor",
       "category": "knowledge",
-      "issue": "In ch 4 Kunal says the walnut-and-red-thread rule has been kept for ten generations. In ch 22 Dhanu says he made it himself.",
-      "fix": "Dhanu credits his people's ten-generation tradition.",
+      "issue": "In ch 7 Mini ran inside Ewe's Rest to tell everyone that the star was named for her, so Dhanu already knew. In ch 19 he reacts to the naming as news. What is new to him is that Ila wrote it down.",
+      "fix": "Make Ila's news the recording, not the naming.",
       "patches": [
         {
-          "chapter": 22,
-          "find": "\"You taught it to them. I made it. Different thing.\"",
-          "replace": "\"You taught it to them. My people made it, ten generations back. Different thing.\""
+          "chapter": 19,
+          "find": "\"I named a star for her,\" she said.",
+          "replace": "\"The star I named for her,\" she said. \"I wrote it down.\""
         }
       ]
     },
     {
       "id": "E09",
-      "chapter": 26,
+      "chapter": 19,
       "severity": "minor",
-      "category": "object",
-      "issue": "Kunal saws through the cloth between Gauri's wrists. A few lines later she runs 'wrists still tied'. Ch 27 shows her wrists wrapped in rag from the cut.",
-      "fix": "She runs with her cut wrists held in.",
+      "category": "timeline",
+      "issue": "Dhanu is the same generation as Kunal (33) and has known him thirty years, so he cannot have laid the lake-hut hearth thirty winters ago.",
+      "fix": "Shorten the span.",
       "patches": [
         {
-          "chapter": 26,
-          "find": "She ran. She ran badly, bent over, wrists still tied, her legs driving at the shingle.",
-          "replace": "She ran. She ran badly, bent over, her cut wrists held to her chest, her legs driving at the shingle."
+          "chapter": 19,
+          "find": "Thirty winters I've lost to my own hearth.",
+          "replace": "Ten winters I've lost to my own hearth."
         }
       ]
     },
     {
       "id": "E10",
-      "chapter": 27,
+      "chapter": 24,
       "severity": "minor",
-      "category": "knowledge",
-      "issue": "Ila recalls first reading the meaning of the gloves 'by a hut fire' at 'the lake hut'. In ch 16 she read the queen's letter on an open shelf of rock above the Drum, with her finger under the lines.",
-      "fix": "Place the memory on the shelf above the Drum.",
+      "category": "name",
+      "issue": "In ch 22 Dhanu corrects Kunal: Dhanu's people made the walnut rule and Kunal taught it to the council. In ch 24 Kunal says he made Dhanu swear to it.",
+      "fix": "Kunal made the council swear to Dhanu's rule.",
       "patches": [
         {
-          "chapter": 27,
-          "find": "She had known since the lake hut what it meant.",
-          "replace": "She had known since the shelf above the Drum what it meant."
-        },
-        {
-          "chapter": 27,
-          "find": "She had worked that out by a hut fire, reading the queen's hand with her thumb under the line, like a sum.",
-          "replace": "She had worked that out on that cold shelf, reading the queen's hand with her finger under the line, like a sum."
+          "chapter": 24,
+          "find": "I made Dhanu swear to the walnut rule",
+          "replace": "I made the council swear to Dhanu's walnut rule"
         }
       ]
     },
     {
       "id": "E11",
-      "chapter": 27,
+      "chapter": 8,
       "severity": "minor",
-      "category": "object",
-      "issue": "In ch 20 Ila reknotted the rope on Kunal's left wrist in the herders' hut. In ch 27 he unties it from his right wrist and the narration calls it the knot she tied at the Meadow Cairn.",
-      "fix": "Use the left wrist and make the Meadow Cairn reference about the knot type.",
+      "category": "name",
+      "issue": "In the ch 2 council it was Chetu who argued for selling the licence for grain. Bhim argued for refusal.",
+      "fix": "Attribute the grain argument to Chetu.",
       "patches": [
         {
-          "chapter": 27,
-          "find": "Then he raised his right wrist and put the rope's knot to his teeth.",
-          "replace": "Then he raised his left wrist and put the rope's knot to his teeth."
-        },
-        {
-          "chapter": 27,
-          "find": "The wool was wet and the knot was hers, a warden's double hitch she had tied at the Meadow Cairn with cold fingers and a good deal of hope.",
-          "replace": "The wool was wet and the knot was hers, the warden's double hitch she had first tied at the Meadow Cairn with cold fingers and a good deal of hope."
+          "chapter": 8,
+          "find": "I read it twice in the hall while Old Bhim argued about barley.",
+          "replace": "I read it twice in the hall while Chetu argued about grain."
         }
       ]
     },
     {
       "id": "E12",
-      "chapter": 28,
+      "chapter": 23,
       "severity": "minor",
-      "category": "timeline",
-      "issue": "Gauri says Raghu's men took Dhanu at moonrise 'while you were up in the Eye'. Dhanu sat at Kunal's fire on the scree that night, and the pair did not enter the Eye until moondown. They were still on the scree at moonrise (ch 23: smoke seen 'at moonrise yesterday, from the scree').",
-      "fix": "Place Kunal and Ila on the scree at moonrise.",
+      "category": "object",
+      "issue": "Ch 23 says Ila took the pencil case from Kunal. Ila kept the case in ch 9, and in ch 29 Kunal is still carrying the leads inside his shirt.",
+      "fix": "Ila takes leads from his coat; she does not take them over.",
       "patches": [
         {
-          "chapter": 28,
-          "find": "They came to the huts at moonrise, while you were up in the Eye.",
-          "replace": "They came to the huts at moonrise, while you were still up on the scree, waiting to go into the Eye."
+          "chapter": 23,
+          "find": "He had not been able to pinch one tonight, and she had taken the case from him without a word.",
+          "replace": "He had not been able to pinch one tonight, and she had reached into his coat for them herself without a word."
         }
       ]
     },
@@ -210,108 +190,78 @@
       "chapter": 29,
       "severity": "minor",
       "category": "object",
-      "issue": "Ila's survey spike fell down the meltwater hollow at the Eye in ch 18, and ch 21 confirms it was lost. In ch 29 'Ila's spike' sounds the drowned ledge ahead of them.",
-      "fix": "Sound the ledge with her axe haft.",
+      "issue": "Ila lays her bare hand on the carving, then marks the pencil 'on her glove' in the same sentence.",
+      "fix": "Mark the stone instead.",
       "patches": [
         {
           "chapter": 29,
-          "find": "With a full lamp and Ila's spike sounding ahead",
-          "replace": "With a full lamp and Ila's axe haft sounding ahead"
+          "find": "and marked with the pencil on her glove where her fingers ended.",
+          "replace": "and marked with the pencil on the stone where her fingers ended."
         }
       ]
     },
     {
       "id": "E14",
-      "chapter": 29,
+      "chapter": 4,
       "severity": "minor",
       "category": "object",
-      "issue": "Kunal began carrying Ila's pencil leads against his chest on the Hollow Moon (ch 9). Ch 29 says he has carried them since the Stair, where she only complained about them breaking.",
-      "fix": "Change the Stair to the Hollow Moon.",
+      "issue": "The callback 'as he had put his hand on the lamp-oil jar in the kitchen' refers to an event that never happens on the page. The gesture shown was his hand on the tower's north wall (ch 1).",
+      "fix": "Point the callback at the north wall.",
       "patches": [
         {
-          "chapter": 29,
-          "find": "Kunal had been carrying them against his chest since the Stair",
-          "replace": "Kunal had been carrying them against his chest since the Hollow Moon"
+          "chapter": 4,
+          "find": "as he had put his hand on the lamp-oil jar in the kitchen.",
+          "replace": "as he had put his hand on the cold north wall of the tower."
         }
       ]
     },
     {
       "id": "E15",
-      "chapter": 30,
+      "chapter": 32,
       "severity": "minor",
-      "category": "object",
-      "issue": "Ila says she saw Raghu's tips whiten 'from forty paces'. In ch 26 she was in Kunal's arms, standing face to face with Raghu at the water's edge.",
-      "fix": "Place her in Kunal's arms.",
+      "category": "place",
+      "issue": "The faint east line of ch 3 was seen from a roadside cairn on the Neshar road, running east over a shoulder within two days of the Fair. Ch 32 remembers it 'on the scree' and 'along the east wall', and plots the valley above the Kuhl cut.",
+      "fix": "Restore the ch 3 setting and place the valley east of the Neshar road.",
       "patches": [
         {
-          "chapter": 30,
-          "find": "I saw the tips whiten from forty paces and told the prince, and he couldn't read it.",
-          "replace": "I saw the tips whiten from the prince's arms and told him, and he couldn't read it."
+          "chapter": 32,
+          "find": "She was back on the scree on the first night, with the pale blue line burning along the east wall, broken at the fourth light, a valley that was on none of her sheets.",
+          "replace": "She was back on the Neshar road on the first night, with the pale blue line running off over the eastern shoulder, broken at the fourth light, toward a valley that was on none of her sheets."
+        },
+        {
+          "chapter": 32,
+          "find": "She found the east wall of the Hollow Moon, and the blank above the Kuhl cut where the valley should have been.",
+          "replace": "She found the Neshar road above the Fair meadow, and the blank east of it where the valley should have been."
         }
       ]
     },
     {
       "id": "E16",
-      "chapter": 31,
-      "severity": "major",
-      "category": "magic",
-      "issue": "On day 40 Shilak is still closed (its thaw comes on day 56), yet Gauri's word reaches the Kothi Shilak salt house 'by a boy from the Kuhl side'. A lone winter crosser dies within the hour.",
-      "fix": "Send the word with a bound pair.",
-      "patches": [
-        {
-          "chapter": 31,
-          "find": "On the fifth day Gauri's word came by a boy from the Kuhl side.",
-          "replace": "On the fifth day Gauri's word came by a bound pair of runners from the Kuhl side."
-        }
-      ]
-    },
-    {
-      "id": "E17",
-      "chapter": 32,
+      "chapter": 16,
       "severity": "minor",
-      "category": "knowledge",
-      "issue": "Ila says Dhanu's wife told her what 'carried' means in the hamlets. In ch 12 Kunal told her, and Gauri is never shown explaining it.",
-      "fix": "Attribute the explanation to Kunal.",
+      "category": "timeline",
+      "issue": "Book 2 is the 31st winter, so Harish's payment was 61 winters ago. Bhim, Meera and the queen in person all say sixty-one. The queen's own letter and Ila, who measures exactly, say sixty.",
+      "fix": "Use sixty-one in the letter and in Ila's statements.",
       "patches": [
         {
-          "chapter": 32,
-          "find": "Dhanu's wife told me what it means there.",
-          "replace": "Kunal told me what it means there."
-        }
-      ]
-    },
-    {
-      "id": "E18",
-      "chapter": 32,
-      "severity": "minor",
-      "category": "knowledge",
-      "issue": "Ila says she wrote the north-wall figure in her field book 'the first month' and recorded it 'as sloppy plaster'. In ch 1 she wrote it on the eve of the Fair as 'void?', after allowing for plaster.",
-      "fix": "Match the ch 1 entry.",
-      "patches": [
-        {
-          "chapter": 32,
-          "find": "I wrote it in my field book the first month.",
-          "replace": "I wrote it in my field book the eve of the Fair."
+          "chapter": 11,
+          "find": "Of the Shilak post. Sixty winters ago.",
+          "replace": "Of the Shilak post. Sixty-one winters ago."
         },
         {
-          "chapter": 32,
-          "find": "I recorded it as sloppy plaster.",
-          "replace": "I wrote 'void?' and left it a question."
-        }
-      ]
-    },
-    {
-      "id": "E19",
-      "chapter": 32,
-      "severity": "minor",
-      "category": "knowledge",
-      "issue": "Lata, newly arrived from Taravan, says the Taravan taverns sing about Ila's map. The Shared Map was signed at Kothi Shilak only days earlier.",
-      "fix": "Make the songs about her winter survey.",
-      "patches": [
+          "chapter": 16,
+          "find": "Sixty winters ago the pass began to close.",
+          "replace": "Sixty-one winters ago the pass began to close."
+        },
         {
-          "chapter": 32,
-          "find": "They sing about your map in the Taravan taverns.",
-          "replace": "They sing about your winter survey in the Taravan taverns."
+          "chapter": 16,
+          "find": "Sixty winters. The Closing Law, written the next spring.",
+          "replace": "Sixty-one winters. The Closing Law, written the next spring."
+        },
+        {
+          "chapter": 16,
+          "find": "Udai had been one of two men on a mountain sixty winters ago",
+          "replace": "Udai had been one of two men on a mountain sixty-one winters ago"
         }
       ]
     }

@@ -1,37 +1,40 @@
-# Continuity report: The Winter Oath (Book 2), chapters 1–32
+# Continuity report: The Winter Oath (Book 2)
 
 ## What was checked
 
-- **Book and bible:** the whole book against the series bible, continuity.json (F001–F632, the knowledge list and the timeline), the Book 2 outline and the Book 1 summary.
-- **Names and roles:** Gauri, Dhanu, Mini, Pasang, Raghu, Roop and Chand.
-- **Ages and winter counts:** Ila 31, Kunal 33, Kiran 25, queen 62 with 31 winters of reign; sixty and sixty-one winters since Harish.
-- **Rope-bond rules:** pair-only crossings, rope length, lie and promise costs, the loophole, and the end of the bond at the Meadow Cairn.
-- **Injuries:** Kunal's dead fingertips and blistered palms; Ila's frostnip, her two dead toes and her pace.
-- **Objects:** the letter's location, the sheets, the spike, the pencil leads, the walnuts, the whistle and the knots.
-- **Who knows what:** Dhanu's death, the letter's contents and Pritam's escape.
-- **Day counts:** binding to day 35, Shilak's thaw on day 56, and the queen's arrival.
+All 32 chapters against the series bible, continuity.json (F001–F632), the outline and the Book 1 summary. Categories:
+
+- names, titles and forms of address
+- ages and the winter count (31st winter)
+- the day count against the Meadow Cairn bond
+- Rope-Bond rules: lie sizes, the loophole, separation distance, promises, broken-promise strikes
+- injuries: Kunal's dead right fingertips and burst palms, Ila's two dead left toes and her feet
+- who knows what: the letter, the princes' way, the walnut rule, Mini's star
+- objects: the letter's moves from coat lining to pattu hem, the sheets, pencil leads, the survey spike, the whistle, the walnuts
+- places: lake order, the huts, the cleft, the Under-Cairn
 
 ## Errors found
 
-19 open errors: 3 major, 16 minor. All are fixed by small patches in errors.json.
+All 16 are minor; none are major.
 
-**Major**
+- **E01:** Ila's small lie whitens her fingers too deep.
+- **E02:** Kunal's fingertips are wax and not wax in the same scene.
+- **E03:** The broken-promise strike is described on both hands, but it is right-hand only everywhere else.
+- **E04:** "Nine days" contradicts "day twenty" in the same chapter.
+- **E05:** The snow-cave stroke total is lower than the count she has already passed.
+- **E06:** The lakes are listed in reverse order from the Eye.
+- **E07:** "In the hut" should be the snow cave.
+- **E08:** Dhanu reacts to the star's naming as news, though Mini told everyone in ch 7.
+- **E09:** Dhanu could not have laid his hearth thirty winters ago.
+- **E10:** Kunal claims the walnut rule was his own.
+- **E11:** The grain argument is given to Bhim, not Chetu.
+- **E12:** The pencil leads are in two places at once.
+- **E13:** Ila's bare hand is also gloved.
+- **E14:** A callback points to an event that never happened.
+- **E15:** The east valley is remembered in the wrong place.
+- **E16:** "Sixty" is used where it should be "sixty-one" winters.
 
-- Gauri is called Dhanu's sister in ch 7 although she is his wife everywhere else.
-- Kiran appears to join a pair as a forbidden third on the rope (ch 3).
-- A lone runner crosses the closed Shilak pass with Gauri's message (ch 31).
+## Noted, not logged
 
-**Minor**
-
-- **Day and time slips:** six days versus two weeks (ch 13); Dhanu's capture placed while the pair were already in the Eye (ch 28); the petition hearing date (ch 2).
-- **Object slips:** the survey spike reused after it was lost (ch 29); Gauri's wrists both cut free and still tied (ch 26); the wrist the knot was on (ch 27); the sheet count of the petition (ch 17); since when Kunal carried the pencil leads (ch 29).
-- **Family and walnut rules:** who made each rule, and how long it has held (ch 17, ch 22).
-- **Who-knows-what:** the source of the 'carried' meaning (ch 32); where Ila read the letter (ch 27); Lata knowing of the map (ch 32).
-- **Others:** the north-wall field-book entry (ch 32); Ila's laugh (ch 11); the forty-paces distance at the Drum fold (ch 30).
-
-## Noted but not reported
-
-- The 35-day thaw arithmetic is ambiguous between ch 3 and ch 17 but can be read consistently.
-- Roop is a man in this book, but continuity does not record Roop's sex.
-- The rope is called both 'pale' and 'grey' undyed wool.
-- Continuity facts F594 and F593 conflict with the text as patched. The corrections are recorded in new-facts.json.
+- The scenes show fewer elapsed days than the explicit counts. For example, ch 13 says "more than two weeks", and ch 30 reaches day 32. The counts agree with each other and with continuity, and the travel shown on the page can absorb the gap.
+- The basin is reachable by unbound walkers (Dhanu, Gauri, the runners). This is consistent within the book and follows established F473.
