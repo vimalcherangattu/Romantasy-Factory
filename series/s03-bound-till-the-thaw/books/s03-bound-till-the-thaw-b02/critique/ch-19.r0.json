@@ -7,36 +7,36 @@
     "character_logic": 3.0,
     "stakes_and_cost": 3.0,
     "prose": 4.0,
-    "continuity": 5.0
+    "continuity": 0.0
   },
   "reasons": {
-    "reader_question": "Specific gap: what Pritam did to nine-year-old Kunal on the ridge. It is sharpened by the cut-off line and the promised telling.",
-    "change": "Knowledge shifts: sixteen bound men, Hari missing. The relationship shifts as Kunal chooses disclosure. Power tilts toward Ila holding his confession.",
-    "romance_movement": "The reason is new. She declines to pry, mirroring his past restraint, and he answers by choosing to tell. This is reciprocal, not repeated.",
-    "shown_chemistry": "Shown through responsive action: the 'gathering data' banter, her silence, the palm-up hand echoing an earlier gesture.",
-    "character_logic": "Ila, the expert who weighs everything, sees that sixteen bound men can see the cleft light, says nothing, and gives no reason.",
-    "stakes_and_cost": "Kunal's telling is costed. Ila's restraint costs her little, the Raghu threat is dropped after supper, and the night walk ignores the saying unweighed.",
-    "prose": "Concrete and well varied, with funny dialogue. Docked for the 'had not known she was starving' cliché and for stance and ticking images echoed from ch18.",
-    "continuity": "Matches F465, F466, F470, F488, F528 and the bond rules. Raghu's route geography is muddled but does not hard-conflict."
+    "reader_question": "The question is specific: what did Pritam do on the ridge, and what will Kunal risk on the open shore to say it?",
+    "change": "Knowledge shifts (sixteen bound men, Hari missing) and the relationship shifts: Kunal moves from guarding the secret to offering it.",
+    "romance_movement": "The reason is new: her refusal to pry mirrors his ch17 restraint, and that earns his choice to tell. The beat lands exactly.",
+    "shown_chemistry": "The 'gathering data' banter, the shared silent sum and the palm-up hand at the end are all responsive actions, not narration.",
+    "character_logic": "Ila treats the lakes shoulder as two days off for Raghu and forgets the fire she saw there in ch12. Her one-in-six odds are unanchored.",
+    "stakes_and_cost": "Disclosure costs Kunal his shame. The shore risk is asserted by odds rather than built, so the final walk feels chosen for mood.",
+    "prose": "Mostly clean and specific. 'Lid' echoes across two sentences, the shame paragraph stacks three similes and then labels the feeling, and there is a near AI tell.",
+    "continuity": "Ila's sum puts Raghu's men two days short of the lakes shoulder. Ch12 placed a fire there that she tied to his pairs (F695, F690)."
   },
   "fixes": [
-    "At 'She did not say it. She picked the spoon up again', Ila withholds that sixteen bound men can see the cleft light, with no reason (Irrational behaviour). Either show Kunal's face doing the same sum, so silence is shared, or have her say it and him answer. Then let the threat return in the night scene as a stated cost of walking out.",
-    "In 'They came up by the Kuhl cut in twos and threes', the men arrive via the Kuhl cut. Yet Dhanu says 'They'll try the north-east shelf, then the Kuhl side', and Ila counts 'Four days to the Kuhl cut'. Ch10 (F485) already had them on the north-east fork. Route arrivals by the Moon road. State that the north-east shelf is half-walked, and give one clean distance to the shoulder.",
-    "At 'She knew that stance. She had seen it at the Eye', the wording repeats ch18's exact phrase. Rework it as a fresh observation. Cut 'had not known she was starving', a stock construction. Vary 'the pot tick' and 'chulha ticked', which echo ch18's ticking water. At 'Where the Drum answers', add one line of Ila's odds-weighing so walking out at night is a measured choice, not compliance."
+    "At 'From the shelf's end to the shoulder over the head of the lakes was two days' walk', the sum contradicts ch12's fire on that shoulder (continuity; irrational behaviour). Have Ila recall the steady orange fire seen from the Ladder's foot. Have Dhanu confirm that one pair already sits on the shoulder. The sum then reads: they may already be looking down on the cleft. This raises the threat and justifies the silence at the hearth.",
+    "At 'I make it one in six that someone is looking tonight', the odds have no basis, so the risk feels manufactured (stakes without depth). Tie the figure to the shoulder fire's line of sight. Have Ila pick a spot under the cliff in the Drum fold where the shoulder cannot see, giving her bearing. The walk becomes a surveyor's calculated cost, with the residual risk named, rather than a mood beat.",
+    "At 'It dropped on the room like a lid' and 'heard the lid rattle on the pot', the word echoes. The following paragraph stacks the cup, the door and the wound, then states 'It was shame' (narrated emotion). Change the first 'lid' to another image. Keep one simile, the door pulled to from inside, and cut 'It was shame' so the reader names the feeling. Also cut 'because she could not help it'."
   ],
-  "reader_question": "What did Pritam do to Kunal on the ridge, and why does Kunal need to stand by the Drum to say it?",
+  "reader_question": "What did Kunal's uncle do to him on the ridge, and why does he need to stand where the Drum booms to say it?",
   "techniques_landed": [
     5,
     7,
     23
   ],
-  "new_facts_assessment": "All six facts are necessary and consistent. The Gauri fact repeats F469-era material. 'Taught Kunal the bones seven winters' is unclear phrasing. Some facts are unlisted: twelve years under audit, nine shared nights, and the 'from you' callback.",
+  "new_facts_assessment": "The draft lists no new facts but adds several. Raghu's men came 'up the Moon road', which conflicts with provisional F535's Kuhl cut. Also new: the boy ran in two nights ago, the pair have shared quarters nine times, the letter sits against her ribs and the snow-cave location of 'I came home'. The nine goats and hearth slab match F536/F537. All are minor and plausible but should be listed. Resolve the Moon road versus Kuhl cut wording.",
   "content_rule_violation": false,
   "failure_modes": [
     "Irrational behaviour to extend plot",
-    "Plot buried by romance"
+    "Stakes without depth"
   ],
-  "average": 3.88,
-  "minimum": 3.0,
-  "passed": true
+  "average": 3.25,
+  "minimum": 0.0,
+  "passed": false
 }
