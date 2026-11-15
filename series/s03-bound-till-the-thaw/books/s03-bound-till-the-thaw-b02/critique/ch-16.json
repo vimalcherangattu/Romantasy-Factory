@@ -1,0 +1,42 @@
+{
+  "scores": {
+    "reader_question": 5.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 4.0,
+    "stakes_and_cost": 4.0,
+    "prose": 3.0,
+    "continuity": 5.0
+  },
+  "reasons": {
+    "reader_question": "Sharp and specific: will she tell him before they reach the Cairn, and what did Udai actually do there?",
+    "change": "Large knowledge shift. Ila goes from neutral surveyor to granddaughter of the debt, and now holds an answer Kunal lacks.",
+    "romance_movement": "The costed first kiss, then a reversal for a new reason. His trust is given with a hole in it, and she knows it.",
+    "shown_chemistry": "Responsive action carries it: the laugh against his mouth, his thumbs, him no longer glancing at his fingertips.",
+    "character_logic": "Her silence is reasoned and free. 'That's the most of it' is a claim a smart Ila would avoid under the rope.",
+    "stakes_and_cost": "Silence costs Kunal's trust, and he offers to walk her to his grandfather's secret. Both choices are costly and chosen.",
+    "prose": "Clean and readable, but the midpoint states its thesis outright, and a few lines confuse ('nineteen fingers' depth', 'Under-whatever').",
+    "continuity": "Ages, rope length, the gloves, the 32 graves, the fourth winter and the letter's fold all match the bible and earlier chapters."
+  },
+  "fixes": [
+    "In 'That's the most of it. The rest I can't tell you yet.' (Rule That Bites Back): Ila believes the grandfather revelation is the bigger part, so 'the most of it' is arguably false, yet her hands stay pink. Cut the sentence and keep the beat's wording: 'It says I'm to find where your way goes, and read what's written there. The rest I can't tell you yet.'",
+    "At 'Her neutral map was a family grave map. His closed hand was a hand over a grave.' and 'It was the most generous thing she had ever watched anyone do.' (narrated conclusions, outline phrasing lifted): replace each with a concrete act. For example, she shuts her field book over the Drum soundings, or she watches his hand leave his knee and turn palm-up on the snow.",
+    "Fix three confusing or risky lines. Clarify or cut 'She had held it for an hour at nineteen fingers' depth'. Recast 'Every warden hanged since for crossing' as 'every crosser a warden hanged since'. Change 'quick and young' in the kiss scene to a specific, adult expression; avoid 'young' in intimate beats."
+  ],
+  "reader_question": "Will Ila tell Kunal what his grandfather did before he leads her to the Cairn, and what is owed beneath it?",
+  "techniques_landed": [
+    17,
+    3,
+    13
+  ],
+  "new_facts_assessment": "F521 (Harish) and F522 (Udai as Kunal's grandfather) are needed and fit F484. F524 fits F490 and F236. F523 adds an archive oath separate from the survey oath at nineteen (F497); keep the two distinct. Unlisted facts to log: Udai came home alive, Sarala has kept the drawer thirty winters (ties to F426), and the oath was sworn in a hall in Taravan.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Narrated-only chemistry",
+    "Endless monologue"
+  ],
+  "average": 4.12,
+  "minimum": 3.0,
+  "passed": true
+}
