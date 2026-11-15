@@ -1,0 +1,41 @@
+{
+  "scores": {
+    "reader_question": 5.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 3.0,
+    "stakes_and_cost": 5.0,
+    "prose": 4.0,
+    "continuity": 5.0
+  },
+  "reasons": {
+    "reader_question": "The ending stops on the moment of discovery: white to the second knuckle, the pot set down. The question is specific and urgent.",
+    "change": "Ila moves from expert in command on the ice to a self-inflicted wound. Kunal is about to learn that she lied, at his moment of relief.",
+    "romance_movement": "This is the first calculated lie, told at peak trust. The reason is new and inverts his reflexive lie in ch13. The rupture is only pending, not yet felt.",
+    "shown_chemistry": "Shown through 'You're looking at me.' / 'Yes.', the ash smear she leaves unmentioned, the warm pencil lead and the bowl lifted from her lap. All are responsive actions, not narration.",
+    "character_logic": "The exact surveyor never tries a true, narrow answer ('My commission doesn't'). She also ignores that her hands will show the lie more surely than a refusal.",
+    "stakes_and_cost": "The rule bites hard. Fire fails, each cover lie climbs a knuckle, and showing her hands costs exposure while hiding them costs flesh.",
+    "prose": "Concrete and rhythmic, with no banned phrases. There are some stacked openers ('She had known... She had known') and runs of paragraphs starting with 'It'.",
+    "continuity": "Consistent with F438, F473, F480, F512 and F515–F517, and with the bible's lie-cold scale and fire rule. Nothing conflicts."
+  },
+  "fixes": [
+    "At 'Refusal was free. *I'll not answer that.*' (Irrational behaviour): Ila measures words exactly, so she should test a true, narrow answer first. Have her open with 'My commission names every—' and have Kunal cut in: 'Not your commission. Anything you carry.' That closes the free evasion and shows he has read her pattern. Then add one line where she weighs that her hands will show the lie, and gambles that she can keep them hidden.",
+    "At 'She had known he would ask. She had known it since the Ladder' (repetition): cut the second 'She had known' and merge it into the first sentence. Fix the consecutive 'It' openers in 'It began in her fingertips' / 'It came up under the nails' and in 'They were white. It had climbed... It did not change'. Open one of each pair with a concrete noun, such as 'The needle-cold' or 'His face'.",
+    "In new-facts.json (unlisted facts): add the three backfacts. These are Kunal's earlier stated assurance about not making her carry his people's ways (and whether the rope hummed, which would make it a bound promise), 'She had never once refused' a night question, and Ila hearing Meera's account in the Garh Neshar hall. Listing them lets S7 track the possible promise against later chapters."
+  ],
+  "reader_question": "When Kunal takes Ila's cold, what will he believe her lie was about, and will he turn her back from the Glass Lakes?",
+  "techniques_landed": [
+    13,
+    14,
+    22
+  ],
+  "new_facts_assessment": "new-facts.json is empty, but the draft adds facts. Kunal earlier said he'd not make her carry his people's ways at her own cost. Ila has never refused a night question. Ila heard Meera describe lie-cold in the Garh Neshar hall. All are consistent and useful, but should be listed. Sleeper's Spine, the hut contents and the six days already appear as F515–F517.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Irrational behaviour to extend plot"
+  ],
+  "average": 4.25,
+  "minimum": 3.0,
+  "passed": true
+}
