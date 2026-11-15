@@ -1,0 +1,42 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 4.0,
+    "stakes_and_cost": 3.0,
+    "prose": 3.0,
+    "continuity": 5.0
+  },
+  "reasons": {
+    "reader_question": "The Under-Cairn question is sharp and earned: what Harish paid and what was written down, now shared by both families.",
+    "change": "Full knowledge passes both ways: sheets, letter, Udai's role, the bait. The pair turn from blame to a shared purpose under the mountain.",
+    "romance_movement": "Repair has new reasons. He owns that he wouldn't have listened, and she owns deciding for him. Neither excuses the other.",
+    "shown_chemistry": "Shown in action: she binds his palm and holds on, reties the hitch, and he pulls on her boots. The counting joke lands.",
+    "character_logic": "Kunal's reading of the bait is smart and fits him. His naming Udai before she softens it fits his need to stop using truth as a weapon.",
+    "stakes_and_cost": "Ila breaks her archive oath and the queen's 'tell no one' without a word of cost. The promise to Gauri costs little.",
+    "prose": "Mostly clean and concrete. The 'chord' typo, the overused pink-fingertip check and the repeated 'it was not a smile/laugh' build drag.",
+    "continuity": "Consistent with F526, F545, F554, F564, F569, F581 and ch 27. The cut shirt is left unexplained but does not conflict."
+  },
+  "fixes": [
+    "At \"It says one more thing. Tell no one Neshar's part,\" the failure mode is stakes without depth. Ila breaks her archive oath (F523) and the queen's direct order with no cost named. Add two lines in which she says aloud that telling him breaks the oath she swore for the commission and may cost her the Chief Surveyor's seal, and that she chooses it. Kunal should register it.",
+    "At \"The two who cut the chord went through the seam,\" fix 'chord' to 'cord' and make the sense clear: \"The pair who came after us went through at the seam.\" The failure mode is endless monologue. Kunal's bait explanation in scene two runs as one recap. Cut \"The paper was never the point\" and its sentence, and give Ila one challenge in the middle so it plays as an exchange.",
+    "In \"Her fingers stayed pink... They were still pink... still pink in the new light,\" the failure mode is repetition. The proof device appears five times. Keep \"Watch them\" and the final new-light image, and cut the rest. Also vary \"It was not a smile\" and \"it was not a laugh\": replace one with a concrete action."
+  ],
+  "reader_question": "What did Harish pay under the Shilak Cairn, and what is written down there as owed?",
+  "techniques_landed": [
+    3,
+    9,
+    12
+  ],
+  "new_facts_assessment": "All four facts are necessary and consistent. The ewes-for-names detail is a strong reading of the 'no names' beat. One gap: F595 says the letter names Udai, but on the page Ila never says it; Kunal supplies it, which plays better. Ch 27's cut shirt at Dhanu's side should be tied to the rope under the arms, or a reader will expect a stab wound.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Stakes without depth",
+    "Endless monologue"
+  ],
+  "average": 3.88,
+  "minimum": 3.0,
+  "passed": true
+}
