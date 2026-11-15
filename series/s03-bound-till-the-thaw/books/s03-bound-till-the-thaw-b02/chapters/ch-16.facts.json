@@ -1,24 +1,19 @@
 {
   "facts": [
     {
-      "category": "name",
-      "fact": "Ila and Rohan's grandfather is named Warden Harish of the Shilak post (as in the outline beat).",
-      "why": "needed because the queen's letter names him."
-    },
-    {
-      "category": "relationship",
-      "fact": "Prince Udai of Neshar is Kunal's grandfather.",
-      "why": "needed because the outline says Kunal's grandfather walked hers to his death."
-    },
-    {
       "category": "knowledge",
-      "fact": "Ila swore an archive oath, when taking her commission, binding her silence about what the crown's papers hold; the queen's letter adds 'Tell no one Neshar's part'.",
-      "why": "needed because the beat makes her silence rest on the commission's archive oath."
+      "fact": "Udai came home alive from the guiding; the letter says Harish 'did not come home' and does not state that he died inside the Cairn. Ila's father found him at the thaw sitting against the hillside stone with his gloves on it (F490).",
+      "since": "ch16"
     },
     {
       "category": "object",
-      "fact": "Ila reads the grandfather's gloves, left palms together and square on the stone, as a deliberate payment-sign, not an accident.",
-      "why": "needed for the midpoint mirror; builds on F490."
+      "fact": "Sarala has kept the archive drawer thirty winters (ties to F426).",
+      "since": "ch16"
+    },
+    {
+      "category": "knowledge",
+      "fact": "Ila swore the archive oath in a hall in Taravan when taking her commission; it is separate from the surveyor's oath at nineteen (F497).",
+      "since": "ch16"
     }
   ]
 }
