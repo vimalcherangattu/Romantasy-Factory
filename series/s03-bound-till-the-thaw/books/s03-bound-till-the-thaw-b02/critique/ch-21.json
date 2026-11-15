@@ -1,0 +1,42 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 3.0,
+    "stakes_and_cost": 4.0,
+    "prose": 4.0,
+    "continuity": 0.0
+  },
+  "reasons": {
+    "reader_question": "Two sharp questions: will she tell him before the meltwater runs, and whose map will she draw? Dhanu's 'True for who?' lands well.",
+    "change": "She goes from keeper of a free silence to a dated debt, and has promised to break her archive oath. That is a clear state change.",
+    "romance_movement": "The new reason is strong: intimacy now exposes the locked room, and her promise is a gift that binds. The leave device dilutes the confrontation.",
+    "shown_chemistry": "Responsive actions carry it: he watches her stitches, refuses the neat answer, holds out his palm. His face recalls the boy under the rock.",
+    "character_logic": "Sewing the sheets in rather than handing them over is smart. Talking the promise rule away with 'leave' feels like a dodge the plot needed.",
+    "stakes_and_cost": "The cost ledger is concrete: the oath, the thaw spread, and the lapse that leaves Kunal unpaid. 'Three weeks yet' needs checking against F435.",
+    "prose": "Clean, varied and specific, with no banned phrases. One muddy line ('a better woman would have thought of first') and a conflated memory sentence.",
+    "continuity": "She had 'the answer ready for nine days' but opened the letter only at the Glass Lakes (F517, ch16). 'Before I ever saw you' conflicts with F423."
+  },
+  "fixes": [
+    "'She had had the answer ready for nine days': continuity error. She has carried the letter nine days but read it only at the Glass Lakes (F517, ch16). Change to 'since the Drum' or the true count of days since she opened it. Keep 'carried nine days' only for the letter as an object.",
+    "'If I give leave, it isn't asking back': convenient magic. It undoes ch20's chill in a sentence. Cut the leave device. Have Kunal ask anyway and take the cost: his fingertips whiten, he keeps them in view, and he says 'I'll pay it'. Then her free refusal costs him visibly, and she can't bear it for a reason the reader sees.",
+    "'She had stood on the shelf of the Eye... said I want you': this merges the ch18 belay with the ch20 Drum-shore declaration. Split it: 'held his weight at the Eye; said I want you on the Drum shore'. Also change 'an oath I swore, before I ever saw you' to 'before this crossing'; she had seen him at the drafting table (F423)."
+  ],
+  "reader_question": "Will Ila get through the mountain and tell Kunal what the letter says before the Meadow Cairn thaws, and whom will her true map serve?",
+  "techniques_landed": [
+    14,
+    15,
+    22
+  ],
+  "new_facts_assessment": "F549 is necessary and consistent with F485 and F535. F551 is consistent with the bible rule that a promise strikes only while the bond holds. F552's wording ('below the hem') contradicts the chapter, where the letter is in the hem below the side-seam sheets; reword it. F550 sets a risky precedent: a verbal 'leave' lets a bound promise be sidestepped, which weakens Rule 1's 'never suspended'. Either cut it or attach a visible cost.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Convenient magic",
+    "Contrived delays"
+  ],
+  "average": 3.38,
+  "minimum": 0.0,
+  "passed": false
+}
