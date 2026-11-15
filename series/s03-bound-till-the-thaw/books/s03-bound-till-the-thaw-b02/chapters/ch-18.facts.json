@@ -2,23 +2,18 @@
   "facts": [
     {
       "category": "object",
-      "fact": "Ila took a small brown jar of goat fat from Dhanu's upper hut shelf on the second morning, corked and bound with a thong, and used it to dress Kunal's blistered hands.",
-      "why": "needed because the outline has her dress his hands with goat fat; the hut inventory (F515) did not list it."
+      "fact": "Ila's survey spike fell into the meltwater hollow inside the Eye's cleft mouth and is lost; without it she cannot anchor her chain.",
+      "since": "b02 ch 18"
     },
     {
       "category": "knowledge",
-      "fact": "At twelve Kunal saw no cairn-light at the Eye's cleft; only the bound can see it.",
-      "why": "needed to support the beat that the mountain marks the cleft."
+      "fact": "The ice curtain hides the cleft's true walls; Ila gets the left wall's half-width only and marks the right wall 'not measured' on her sheet.",
+      "since": "b02 ch 18"
     },
     {
-      "category": "place",
-      "fact": "Under the ice lip inside the Eye's cleft mouth is a meltwater hollow; Ila's dropped survey spike falls a count of three before it lands.",
-      "why": "needed because the ice lip must collapse."
-    },
-    {
-      "category": "injury",
-      "fact": "Kunal's fingertips, blistered from the frostnip, burst open on the rope while holding Ila; dressed with strips of Ila's shirt hem.",
-      "why": "needed for the beat of him holding her with blistered hands."
+      "category": "knowledge",
+      "fact": "Kunal names the garrison cost aloud (twenty men on the shelf, a fire on the tongue, sentries along the shore) before telling Ila to draw it true.",
+      "since": "b02 ch 18"
     }
   ]
 }
