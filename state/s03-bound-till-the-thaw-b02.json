@@ -3,7 +3,7 @@
   "series_id": "s03-bound-till-the-thaw",
   "number": 2,
   "title": "The Winter Oath",
-  "status": "blocked",
+  "status": "in_progress",
   "stage": "S3",
   "done": [
     "S3"
@@ -1131,10 +1131,22 @@
     {
       "at": "2026-11-15T21:21:42",
       "event": "blocked at S7 continuity: 2 major continuity errors remain after 1 fix round(s): ch 7: Dhanu names the 'Glass Lakes' aloud at supper in ch 7, and again by the chulha in ch 8 while Ila may be awake. Ila carries a sealed letter to be opened 'at the Glass Lakes' and has never heard of them, yet she does not react. In ch 10 both leads treat Kunal's 'It begins at the Glass Lakes' as the first time she has heard the name.; ch 21: Mini (6) is asleep at the lower lake hut in ch 19. In ch 24 Raghu's men raid the huts and take Dhanu and Gauri. Mini is never mentioned again, and no one asks where she is."
+    },
+    {
+      "at": "2026-11-15T21:25:02",
+      "event": "unblocked by owner"
+    },
+    {
+      "at": "2026-11-15T21:33:21",
+      "event": "continuity round 1: 19 errors, 25 patches applied, 0 to revise"
+    },
+    {
+      "at": "2026-11-15T21:33:21",
+      "event": "done: S7 continuity"
     }
   ],
-  "updated_at": "2026-11-15T21:21:42",
+  "updated_at": "2026-11-15T21:33:21",
   "midpoint_chapter": 16,
   "continuity_attempts": 1,
-  "continuity_last_errors": 2
+  "continuity_last_errors": 3
 }

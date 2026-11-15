@@ -1,46 +1,37 @@
 # Continuity report: The Winter Oath (Book 2), chapters 1–32
 
-## What I checked
+## What was checked
 
-- **Names and address:** forms of address, ages (Ila 31, Kunal 33, Kiran 25, Mini 6, Pinku 7, Queen Sarala 62) and roles, including Ila's role as guide on her licence.
-- **Timeline:** the day count from the binding to day 20, 32, 35 and 56; the Meadow and Shilak thaw gap; the moonrise and moonset sequence around the raid; the count of winters (60/61); the Kunal-at-nine chronology.
-- **Magic rules:**
-  - lie-cold severity (small, middling, great);
-  - broken-promise strikes;
-  - the touch loophole;
-  - separation cold at one and two rope-lengths;
-  - pairs-only binding;
-  - the bond ending at the Meadow Cairn.
-- **Injuries:** Kunal's dead fingertips (right hand only), Ila's two dead left toes, and Kunal's blistered palms.
-- **Who knows what:** the Glass Lakes name, the walnut rule, the hill sense of "carried", the queen's letter, and the gloves.
-- **Objects and places:** the survey spike, pencil leads, the crutch, the sheets and the letter (coat, then pattu), the rope's wrist and knot, Mini's whereabouts, and the geography of the faint east line.
-- **Relationship state:** first-name use, laughter callbacks, and promises made under the bond.
+- **Book and bible:** the whole book against the series bible, continuity.json (F001–F632, the knowledge list and the timeline), the Book 2 outline and the Book 1 summary.
+- **Names and roles:** Gauri, Dhanu, Mini, Pasang, Raghu, Roop and Chand.
+- **Ages and winter counts:** Ila 31, Kunal 33, Kiran 25, queen 62 with 31 winters of reign; sixty and sixty-one winters since Harish.
+- **Rope-bond rules:** pair-only crossings, rope length, lie and promise costs, the loophole, and the end of the bond at the Meadow Cairn.
+- **Injuries:** Kunal's dead fingertips and blistered palms; Ila's frostnip, her two dead toes and her pace.
+- **Objects:** the letter's location, the sheets, the spike, the pencil leads, the walnuts, the whistle and the knots.
+- **Who knows what:** Dhanu's death, the letter's contents and Pritam's escape.
+- **Day counts:** binding to day 35, Shilak's thaw on day 56, and the queen's arrival.
 
 ## Errors found
 
-There are 27 open errors: 2 major and 25 minor. All have patches in errors.json.
+19 open errors: 3 major, 16 minor. All are fixed by small patches in errors.json.
 
-**Major:**
-- **E01:** Dhanu names the Glass Lakes in front of Ila in ch 7 and 8, before she "first" hears the name in ch 10.
-- **E02:** Mini disappears from the lower lake huts before the raid, and no one mentions her.
+**Major**
 
-**Minor:**
-- **Timeline:** six days vs two weeks (E05), the soft-year 35 (E07), the raid at moonrise (E12), the tavern song arriving too early (E24).
-- **Injuries:** both hands vs the right hand (E09), and Kunal's tallow-coloured fingertips (E06).
-- **Objects lost and reused:** the spike (E16), the crutch (E17), the pencil leads (E18).
-- **Knowledge slips:** E08, E11, E13, E14, E21, E22.
-- **Magic:**
-  - the small-lie depth (E04);
-  - three people on one crossing (E25).
-- **Address and role:** E19, E20, E26.
-- **Small place and object slips:** E10, E15, E23, E27.
+- Gauri is called Dhanu's sister in ch 7 although she is his wife everywhere else.
+- Kiran appears to join a pair as a forbidden third on the rope (ch 3).
+- A lone runner crosses the closed Shilak pass with Gauri's message (ch 31).
 
-## Facts that need revision after these patches
+**Minor**
 
-- **F424:** Ila is the licensed guide, and the council names her partner.
-- **F437:** Kiran is bound to a single licensed guide.
-- **F466:** Kunal said "we can spare it".
-- **F512:** the leads have been roped together more than two weeks at ch 13.
-- **F594:** the raid happened after moonset.
-- **F598:** the crutch was cut at the cleft mouth.
-- **F603:** the pencil leads have been carried since the Hollow Moon.
+- **Day and time slips:** six days versus two weeks (ch 13); Dhanu's capture placed while the pair were already in the Eye (ch 28); the petition hearing date (ch 2).
+- **Object slips:** the survey spike reused after it was lost (ch 29); Gauri's wrists both cut free and still tied (ch 26); the wrist the knot was on (ch 27); the sheet count of the petition (ch 17); since when Kunal carried the pencil leads (ch 29).
+- **Family and walnut rules:** who made each rule, and how long it has held (ch 17, ch 22).
+- **Who-knows-what:** the source of the 'carried' meaning (ch 32); where Ila read the letter (ch 27); Lata knowing of the map (ch 32).
+- **Others:** the north-wall field-book entry (ch 32); Ila's laugh (ch 11); the forty-paces distance at the Drum fold (ch 30).
+
+## Noted but not reported
+
+- The 35-day thaw arithmetic is ambiguous between ch 3 and ch 17 but can be read consistently.
+- Roop is a man in this book, but continuity does not record Roop's sex.
+- The rope is called both 'pale' and 'grey' undyed wool.
+- Continuity facts F594 and F593 conflict with the text as patched. The corrections are recorded in new-facts.json.
