@@ -1,42 +1,41 @@
 {
   "scores": {
     "reader_question": 4.0,
-    "change": 4.0,
+    "change": 5.0,
     "romance_movement": 5.0,
     "shown_chemistry": 4.0,
     "character_logic": 4.0,
-    "stakes_and_cost": 3.0,
-    "prose": 3.0,
-    "continuity": 0.0
+    "stakes_and_cost": 4.0,
+    "prose": 4.0,
+    "continuity": 5.0
   },
   "reasons": {
-    "reader_question": "The ending is specific: she is guarding the letter and an unspoken number (sixty), and Kunal has just chosen not to ask.",
-    "change": "Armoured to known lands. They become lovers, and the name trade turns into a free gift, so both power and knowledge shift.",
-    "romance_movement": "The disclosure, her response and his validation are all written. The reason for the change is new: his telling buys nothing.",
-    "shown_chemistry": "Warm hands held up as evidence, spoken consent, unwrapped bandages and the warmed feet all show attraction through action. A few lines tip into narration ('never so glad').",
-    "character_logic": "Both act smartly. Her 'I'd rather be checked' fits her. His swallowed question mirrors her restraint in chapter 19.",
-    "stakes_and_cost": "His nightly promise is a bound contract, and each name becomes a possible crown line. The chapter never counts that cost. Raghu's sixteen men are absent.",
-    "prose": "The prose is mostly clean, with no banned phrases. Weak spots: clunky lines ('I had learned it so well'), 'God help me' in this world, the 'quiet' repetition, and a near-verbatim echo of chapter 19.",
-    "continuity": "A spring death plus one month cannot be autumn. F526 puts the supper a week after the funeral. Dhanu's upper hut (F515) stands above the Mirror, not the Drum."
+    "reader_question": "Clear closing image: letter corner under her flat hand, his swallowed question, her unreadable look. The letter's content stays a known, specific gap.",
+    "change": "Knowledge (the ridge told), relationship (lovers), power (names given freely, his mouth bound by promise while she holds the letter).",
+    "romance_movement": "New reason: a disclosure fully met with validation, then lovers. Names stop being a trade, and her silence now costs.",
+    "shown_chemistry": "Raised warm hands, removed bandages laid in a row, broken breath-sets, foot-warming. Some sex-scene lines drift generic.",
+    "character_logic": "Smart throughout, but Kunal saw her sew the letter in, then nearly breaks his promise by reflex. The scope of 'ask nothing back' is fuzzy.",
+    "stakes_and_cost": "Ila prices the promise aloud: a great lie to the hands, names on the queen's map. The dawn pre-chill makes the cost bite at once.",
+    "prose": "Concrete and readable, no banned phrases, few tells. Runs long (likely over 3,300). The explicit scene has stock phrasing and the voice leans on repeated 'She did not' constructions.",
+    "continuity": "Ages, rope, the Eye at twelve, nineteen clipped silvers, Nimmi's Knuckle and the bandages all match. Timeline revisions are logged in new-facts."
   },
   "fixes": [
-    "'My father died in the spring. It was a lung fever': a spring death plus 'a month' cannot be 'in autumn', and F526 dates the Udai supper a week after the funeral. Change this to 'My father died at the end of summer, of a lung fever'. Keep the ridge a month later, in autumn. Leave the supper a week after the funeral, and ask S7 to change F526's 'winter' to autumn.",
-    "'Dhanu's upper hut was a short climb above the shore': F515 puts that hut above the Mirror, a whole lake away. Make it a herders' hut on the scree above the Drum and correct F543. Also, the rope 'lay on the floor... coiled' yet hums 'against his wrist'. Have her retie it on his wrist before his promise. Add one line showing she moved the letter from her coat into the pattu.",
-    "'I'll give you a name a night': this is Stakes without depth. A bound promise strikes as a great lie if broken, and every name she writes becomes a crown line. Have Ila name both costs aloud. At dawn, make the swallowed question his promise ('ask nothing back') biting, with his fingertips starting to chill. Replace the copied chapter 19 phrasing 'It was fair, and it had come up whole' with fresh wording."
+    "At \"I'll ask nothing back. Not an answer, not a line\": the promise's scope is vague, so the dawn near-breach reads as forgetfulness (irrational behaviour). As he makes the promise, have his eyes go to her hem and the letter he watched her sew in. Add one line where he registers that the promise covers it and lets it stand. The dawn then shows a chosen cost biting, not a lapse.",
+    "At \"I followed her for two days\" / \"walked into Garh Neshar at noon on the third day\": this drifts from the beat (home in two days), and Ila's \"home in three days\" fixes the drift in her measurement. Make it two days throughout ('at dusk on the second day') so her surveyor's summary is exact. Log 'hill council for eight winters' in new-facts.",
+    "At \"the long climbing heat of it\" and \"the whole mountain gone still\": stock romance phrasing, and the chapter runs over the length band. Cut 250 to 400 words from the explicit scene. Keep the particular beats (the bandages laid in a row, 'Ow / Don't stop', the broken breath-sets) and drop the generic swell lines and the repeated 'went quiet/gone still' images."
   ],
-  "reader_question": "Now that Kunal gives her names freely and asks nothing, how long can Ila keep the queen's letter, and the number sixty, from him?",
+  "reader_question": "What does the queen's letter say, and how long can Ila keep it from Kunal now that his own promise forbids him to ask?",
   "techniques_landed": [
     9,
     10,
     25
   ],
-  "new_facts_assessment": "Ridge timing: needed, but it is internally broken (spring plus a month is not autumn) and clashes with F526's week-after supper, so fix the season. Widow's Knuckle: good and earned, but 'Widow's' echoes the Widow's Ladder (F492). Either tie the two or rename. Letter now in the pattu: acceptable, but the move from the coat lining (F438, F514) is never shown on the page. Add one line. Upper hut above the Drum: conflicts with F515, which puts it above the Mirror. Rib scar: harmless.",
+  "new_facts_assessment": "All four logged facts are necessary and consistent. The death/ridge timeline (F545) fixes beat drift but obliges S7 to amend F488, F526, F540 and F507's supper 'winter'. The separate scree hut (F546) avoids clashing with F515 and F537. The letter's move to the pattu (F547) sets up the ending. The dawn pre-chill (F548) follows precedent in F239 and F502. Unlogged additions: 'hill council has followed me for eight winters', the herd boy's cheese rind, and the three-day walk home, where the beat says two.",
   "content_rule_violation": false,
   "failure_modes": [
-    "Stakes without depth",
-    "Plot buried by romance"
+    "Irrational behaviour to extend plot"
   ],
-  "average": 3.38,
-  "minimum": 0.0,
-  "passed": false
+  "average": 4.38,
+  "minimum": 4.0,
+  "passed": true
 }

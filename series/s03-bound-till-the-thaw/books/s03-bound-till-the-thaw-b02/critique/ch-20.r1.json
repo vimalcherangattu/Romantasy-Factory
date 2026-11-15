@@ -1,0 +1,41 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 5.0,
+    "romance_movement": 5.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 4.0,
+    "stakes_and_cost": 4.0,
+    "prose": 4.0,
+    "continuity": 5.0
+  },
+  "reasons": {
+    "reader_question": "Clear closing image: letter corner under her flat hand, his swallowed question, her unreadable look. The letter's content stays a known, specific gap.",
+    "change": "Knowledge (the ridge told), relationship (lovers), power (names given freely, his mouth bound by promise while she holds the letter).",
+    "romance_movement": "New reason: a disclosure fully met with validation, then lovers. Names stop being a trade, and her silence now costs.",
+    "shown_chemistry": "Raised warm hands, removed bandages laid in a row, broken breath-sets, foot-warming. Some sex-scene lines drift generic.",
+    "character_logic": "Smart throughout, but Kunal saw her sew the letter in, then nearly breaks his promise by reflex. The scope of 'ask nothing back' is fuzzy.",
+    "stakes_and_cost": "Ila prices the promise aloud: a great lie to the hands, names on the queen's map. The dawn pre-chill makes the cost bite at once.",
+    "prose": "Concrete and readable, no banned phrases, few tells. Runs long (likely over 3,300). The explicit scene has stock phrasing and the voice leans on repeated 'She did not' constructions.",
+    "continuity": "Ages, rope, the Eye at twelve, nineteen clipped silvers, Nimmi's Knuckle and the bandages all match. Timeline revisions are logged in new-facts."
+  },
+  "fixes": [
+    "At \"I'll ask nothing back. Not an answer, not a line\": the promise's scope is vague, so the dawn near-breach reads as forgetfulness (irrational behaviour). As he makes the promise, have his eyes go to her hem and the letter he watched her sew in. Add one line where he registers that the promise covers it and lets it stand. The dawn then shows a chosen cost biting, not a lapse.",
+    "At \"I followed her for two days\" / \"walked into Garh Neshar at noon on the third day\": this drifts from the beat (home in two days), and Ila's \"home in three days\" fixes the drift in her measurement. Make it two days throughout ('at dusk on the second day') so her surveyor's summary is exact. Log 'hill council for eight winters' in new-facts.",
+    "At \"the long climbing heat of it\" and \"the whole mountain gone still\": stock romance phrasing, and the chapter runs over the length band. Cut 250 to 400 words from the explicit scene. Keep the particular beats (the bandages laid in a row, 'Ow / Don't stop', the broken breath-sets) and drop the generic swell lines and the repeated 'went quiet/gone still' images."
+  ],
+  "reader_question": "What does the queen's letter say, and how long can Ila keep it from Kunal now that his own promise forbids him to ask?",
+  "techniques_landed": [
+    9,
+    10,
+    25
+  ],
+  "new_facts_assessment": "All four logged facts are necessary and consistent. The death/ridge timeline (F545) fixes beat drift but obliges S7 to amend F488, F526, F540 and F507's supper 'winter'. The separate scree hut (F546) avoids clashing with F515 and F537. The letter's move to the pattu (F547) sets up the ending. The dawn pre-chill (F548) follows precedent in F239 and F502. Unlogged additions: 'hill council has followed me for eight winters', the herd boy's cheese rind, and the three-day walk home, where the beat says two.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Irrational behaviour to extend plot"
+  ],
+  "average": 4.38,
+  "minimum": 4.0,
+  "passed": true
+}
