@@ -4420,6 +4420,27 @@
       "category": "object",
       "fact": "Badami's big bell is tied to the east side of the Shilak Cairn at Book 2's thaw.",
       "since": "s03-bound-till-the-thaw-b02 (S7)"
+    },
+    {
+      "id": "F647",
+      "category": "",
+      "fact": "Pell Orlan is the Taravan survey office rival who would get the Chief Surveyor's chair if Ila's winter map fails; he has drawn three hills from a window.",
+      "since": "s03-bound-till-the-thaw-b02 ch 1",
+      "provisional": true
+    },
+    {
+      "id": "F648",
+      "category": "",
+      "fact": "Ila wrote to the Taravan archive last autumn and the clerk refused the Shilak Cairn file by letter (Ila stayed in Neshar).",
+      "since": "s03-bound-till-the-thaw-b02 ch 1",
+      "provisional": true
+    },
+    {
+      "id": "F649",
+      "category": "",
+      "fact": "Varun is described in Kiran's words as Rohan's old lieutenant who sold the regent every road he guarded.",
+      "since": "s03-bound-till-the-thaw-b02 ch 1",
+      "provisional": true
     }
   ],
   "knowledge": [
