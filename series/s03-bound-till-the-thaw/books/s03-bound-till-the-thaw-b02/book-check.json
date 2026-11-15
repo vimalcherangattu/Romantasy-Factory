@@ -1,0 +1,66 @@
+{
+  "checks": [
+    {
+      "name": "central_question_resolved",
+      "pass": true,
+      "evidence": "ch 31: The central question is whether Ila maps the passes for the queen or hides them for Neshar. She does neither. She co-signs one map with Kunal under Neshar's names and 'laid the sheets before them, one before each, at the same moment' to the queen and Old Bhim. The queen keeps the map and grants the petition. The only questions left open are series-level ones: the Bargain's meaning (ch 32, 'two readings and no judge') and Pritam's unknown way."
+    },
+    {
+      "name": "clues_paid_off",
+      "pass": false,
+      "evidence": "18 of 21 clues pay off on the page or are series threads: C01 ch32 (stair inside the north wall), C02 ch16, C03 ch31, C04 ch28 ('They took the whistle off him after'), C05 ch26 (escape on the soundings), C06 ch16, C07 ch29 (shelf of folded gloves), C09 ch32, C11 ch31 (rope goes quiet on day 35), C12 ch31 (new pace), C13 ch28 ('no walnut because there was no Dhanu'), C14 ch32 (the east line is called back as Pritam's route), C17 ch30, C20 ch28, C21 ch31. UNPAID: C10. The outline says Raghu hunts the princes' way 'for Pritam', paying off in ch32. On the page, Raghu's purpose is never stated. In ch5 Kunal refuses to say what he fears. In ch30 Raghu is taken by the wardens with no confession. In ch32 Pritam escapes by the north-wall stair and heads east toward a different, unknown way, and nothing ties Raghu's hunt or his loyalists to the escape. The reader question from ch5, 'why does Raghu want it?', is never answered. Repair: add one line in ch30 or ch32 linking Raghu's hunt to Pritam (for example, Pasang naming who Raghu reported to, or the rider reporting Raghu's loyalists on the east tracks), or log C10 as a series thread."
+    },
+    {
+      "name": "midpoint_reversal",
+      "pass": true,
+      "evidence": "ch 16: The queen's letter reveals that Prince Udai guided Warden Harish, Ila's grandfather, to the Under-Cairn and came home alone. This recasts the folded gloves of ch11 and the unnamed guest of ch10. The reversal changes the romance directly. It follows their first kiss in the same chapter, and Ila now 'knew what his family had done, and he did not', as he offers 'Then I'll take you.' Her silence then drives chs 17, 20, 21 and 25."
+    },
+    {
+      "name": "heroine_belief_change",
+      "pass": true,
+      "evidence": "ch 31: Her opening belief is 'A map was true or it was false' (ch 1), with the commission drawn 'for the crown alone'. In ch31 she breaks her oath of crown exclusivity in public, co-signs the map with Kunal and writes the hill names onto it. Her choice, in her own words: 'I kept a promise I made to him, and no stone in the mountain made me. I'd rather break the oath I swore than the one I chose.' She gives the scale bar in both spans and ropes so that 'Nobody can say which of us the map is for', and she accepts the loss of the Chief Surveyor commission ('Then the commission is the price of the map. Take it.'). The groundwork is laid in ch21 ('True for who?' / 'She has no answer') and ch23 ('I drew it. I don't know yet whose it is'). The Ila of ch 1 could not have made this choice."
+    },
+    {
+      "name": "real_loss",
+      "pass": true,
+      "evidence": "Three losses stay lost. ch 26–28: Dhanu dies under interrogation on the first night. Gauri lays stones over him at the fold, and ch31 names a crag Dhanu's Rest. His death is never reversed. ch 26: Ila loses two toes, and ch31 shows her pace permanently changed ('One and three-quarter spans'). ch 31: the Chief Surveyor commission, her lifelong want, is given to another and her name comes off the crown roll."
+    },
+    {
+      "name": "love_interest_goal",
+      "pass": true,
+      "evidence": "ch 8: Kunal tells Dhanu his goal: 'No garrisons in the hill villages... And a seat for Neshar's council at Taravan, won at the thaw.' He works on the petition in ch17 and rehearses it in ch22. In ch31 he reads it to the queen and she grants it. The goal is independent of Ila and predates the survey (ch2, the petition tube carried to council)."
+    },
+    {
+      "name": "series_hinge",
+      "pass": true,
+      "evidence": "ch 32: The answered book opens three bigger questions. First, the Bargain line 'carried till no thaw' is read two ways: a death owed, or a crossing owed. The Under-Cairn is sealed 'until the fourth winter' and Kiran's silent reaction hints at what is coming. Second, Pritam escapes through the north-wall void Ila measured in ch1 and heads east toward a way 'nobody's drawn'. Ila draws it as a dotted line, 'unknown way. Pritam.', and Kunal says 'Then we'll find it.' Third, the teaser: Lata arrives with her wool convoy and asks who the grey-bearded officer was that Ranu won't name."
+    }
+  ],
+  "series_threads": [
+    {
+      "clue": "C08",
+      "thread": "The Under-Cairn door carries Asha's three nested loops, so the Bargain is tied to Asha's family. Opens in book 2."
+    },
+    {
+      "clue": "C15",
+      "thread": "Kiran asked to hear first where the Bargain is paid. In ch32 he stares at the 'thaw' knot-sign and the queen glances at him as a possible next payer."
+    },
+    {
+      "clue": "C16",
+      "thread": "The red thread of the queen's blood in the archive seal wax. Mentioned in ch3 and ch30, never explained."
+    },
+    {
+      "clue": "C18",
+      "thread": "Nimmi refuses to name the grey-bearded officer. Lata sets out in the ch32 teaser to 'collect' the name from Ranu."
+    },
+    {
+      "clue": "C19",
+      "thread": "The narrow carved hand is a woman's, so the founding pair was Saro and Hemi, not 'two brothers in arms'. This rewrites the crown's founding story in later books."
+    },
+    {
+      "clue": "C14",
+      "thread": "The faint east line is partly paid off in ch32 as Pritam's route, but it stays open as the 'unknown way' for book 2. The outline lists its payoff as ch29, where it does not appear, so update the outline."
+    }
+  ],
+  "summary": "Six of seven checks pass. The book answers its central question: Ila neither maps the passes for the queen nor hides them for Neshar, and instead hands identical, co-signed maps to both courts in ch31. The ch16 midpoint reversal (Udai walked Harish to the Under-Cairn) recasts the first half and drives the romance's central secret. Dhanu's death, Ila's two toes and the lost Chief Surveyor commission all stay lost. Kunal's petition is a goal independent of Ila, set up in ch2 and ch8 and won in ch31. The final chapter opens a larger question with Pritam's escape through the ch1 north-wall void and the two readings of the Bargain. The one failure is clue C10. The page never establishes why Raghu hunts the princes' way or connects him to Pritam. The ch5 reader question ('why does Raghu want it?') goes unanswered, and Raghu is captured in ch30 without revealing his aim. Either add a linking beat in ch30 or ch32 or log C10 as a series thread. One outline mismatch to update: C14's payoff appears in ch32, not ch29."
+}

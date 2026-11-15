@@ -7,7 +7,8 @@
   "stage": "S3",
   "done": [
     "S3",
-    "S7"
+    "S7",
+    "book_check"
   ],
   "chapters": {
     "01": {
@@ -594,7 +595,9 @@
     }
   },
   "chapter_count": 32,
-  "flags": [],
+  "flags": [
+    "book-check: clues_paid_off failed (18 of 21 clues pay off on the page or are series threads: C01 ch32 (stair inside the north wall), C02 ch16, C03 ch31, C04 ch28 ('They took the whistle off him after'), C05 ch26 (escape on the soundings), C06 ch16, C07 ch29 (shelf of folded gloves), C09 ch32, C11 ch31 (rope goes quiet on day 35), C12 ch31 (new pace), C13 ch28 ('no walnut because there was no Dhanu'), C14 ch32 (the east line is called back as Pritam's route), C17 ch30, C20 ch28, C21 ch31. UNPAID: C10. The outline says Raghu hunts the princes' way 'for Pritam', paying off in ch32. On the page, Raghu's purpose is never stated. In ch5 Kunal refuses to say what he fears. In ch30 Raghu is taken by the wardens with no confession. In ch32 Pritam escapes by the north-wall stair and heads east toward a different, unknown way, and nothing ties Raghu's hunt or his loyalists to the escape. The reader question from ch5, 'why does Raghu want it?', is never answered. Repair: add one line in ch30 or ch32 linking Raghu's hunt to Pritam (for example, Pasang naming who Raghu reported to, or the rider reporting Raghu's loyalists on the east tracks), or log C10 as a series thread.)"
+  ],
   "errors": [
     "2 major continuity errors remain after 1 fix round(s): ch 7: Dhanu names the 'Glass Lakes' aloud at supper in ch 7, and again by the chulha in ch 8 while Ila may be awake. Ila carries a sealed letter to be opened 'at the Glass Lakes' and has never heard of them, yet she does not react. In ch 10 both leads treat Kunal's 'It begins at the Glass Lakes' as the first time she has heard the name.; ch 21: Mini (6) is asleep at the lower lake hut in ch 19. In ch 24 Raghu's men raid the huts and take Dhanu and Gauri. Mini is never mentioned again, and no one asks where she is."
   ],
@@ -1148,9 +1151,13 @@
     {
       "at": "2026-11-15T21:43:06",
       "event": "done: S7 continuity"
+    },
+    {
+      "at": "2026-11-15T21:44:07",
+      "event": "done: book-level checks"
     }
   ],
-  "updated_at": "2026-11-15T21:43:06",
+  "updated_at": "2026-11-15T21:44:07",
   "midpoint_chapter": 16,
   "continuity_attempts": 1,
   "continuity_last_errors": 3
