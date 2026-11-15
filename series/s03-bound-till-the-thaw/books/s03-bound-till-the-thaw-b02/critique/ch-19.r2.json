@@ -1,0 +1,41 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 3.0,
+    "stakes_and_cost": 4.0,
+    "prose": 4.0,
+    "continuity": 5.0
+  },
+  "reasons": {
+    "reader_question": "Two sharp questions: what Pritam did to the boy on the ridge, and whether the walk out under the shoulder fire gets them seen.",
+    "change": "Knowledge shifts: sixteen men, and watchers who may have seen the Eye. The relationship shifts when Kunal chooses to disclose.",
+    "romance_movement": "The reason is new. Her declined leverage mirrors his earlier acceptance of her refusal, and that is what earns his choice to tell.",
+    "shown_chemistry": "Shown through action: 'She's gathering data' banter, reading his face, a silent shared sum, the declined question and the hand offered palm up.",
+    "character_logic": "Ila the measurer accepts one-in-five exposure, and endangers the huts, so he can 'be standing'. The motive for leaving the hut is thin.",
+    "stakes_and_cost": "The walk is costed: one in five, and the loss of anonymity as the pair who drew the Eye. Not asking also costs her information.",
+    "prose": "Clean and specific, with no banned phrases. The opening staging is tangled, and 'sum/sums/figures' recurs to the point of echo.",
+    "continuity": "Gauri as elder sister, the whistle, the limp, Mini's star, the Drum fold sightline and two pairs on the shoulder all match canon (F485, F549)."
+  },
+  "fixes": [
+    "At \"Not here.\" He looked at the door, and past it\": the draft has irrational behaviour to extend plot, because 'I'd like to be standing' does not justify a one-in-five exposure. Give Kunal a reason tied to his need. If he waits for dawn or a safer room, he will have worked out what the truth is worth and will spend it as a weapon; tonight, unsafe, is the only time he can give it uncalculated. Ila should name that she accepts the risk for that reason.",
+    "At \"He had blown the goat-horn whistle three times along the shore\": the staging is unclear, because Dhanu is 'limping toward them' while already standing in the hut door. Re-stage it in two sentences. He whistled from the shore as they came down, met them limping, and has been bursting with the news ever since. Now he stands behind Gauri in the doorway. Cut 'had not stopped limping toward them since'.",
+    "At \"I put it at one in five that anyone looks\": Ila's risk sum leaves out the sleeping Mini, ten feet away in a hut the watchers already know. She should spend one clause weighing it: if they are seen walking, the shoulder learns which hut the Eye-drawers sleep in, and the child is in the next one. Keep the decision, but let the cost land on a named loved person."
+  ],
+  "reader_question": "What did Kunal's uncle do to him on the ridge, and will the watchers on the Kuhl shoulder see them cross the open shore to hear it?",
+  "techniques_landed": [
+    5,
+    7,
+    23
+  ],
+  "new_facts_assessment": "F728's one-in-five revision is necessary, consistent and properly costed. Several draft facts are unlogged. Six pairs in the bowl and two pairs (four men) on the Kuhl shoulder supersede provisional F722's 'seven in the bowl, eighth pair'; this matches F485, F549 and F690 but must be logged. Kunal's quoted line 'I'll find out in daylight, from you' and Ila's earlier hand 'left on the boards' need checking against prior chapters.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Irrational behaviour to extend plot"
+  ],
+  "average": 4.0,
+  "minimum": 3.0,
+  "passed": true
+}
