@@ -1,0 +1,42 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 3.0,
+    "stakes_and_cost": 3.0,
+    "prose": 4.0,
+    "continuity": 5.0
+  },
+  "reasons": {
+    "reader_question": "Specific gap: what Pritam did to nine-year-old Kunal on the ridge. It is sharpened by the cut-off line and the promised telling.",
+    "change": "Knowledge shifts: sixteen bound men, Hari missing. The relationship shifts as Kunal chooses disclosure. Power tilts toward Ila holding his confession.",
+    "romance_movement": "The reason is new. She declines to pry, mirroring his past restraint, and he answers by choosing to tell. This is reciprocal, not repeated.",
+    "shown_chemistry": "Shown through responsive action: the 'gathering data' banter, her silence, the palm-up hand echoing an earlier gesture.",
+    "character_logic": "Ila, the expert who weighs everything, sees that sixteen bound men can see the cleft light, says nothing, and gives no reason.",
+    "stakes_and_cost": "Kunal's telling is costed. Ila's restraint costs her little, the Raghu threat is dropped after supper, and the night walk ignores the saying unweighed.",
+    "prose": "Concrete and well varied, with funny dialogue. Docked for the 'had not known she was starving' cliché and for stance and ticking images echoed from ch18.",
+    "continuity": "Matches F465, F466, F470, F488, F528 and the bond rules. Raghu's route geography is muddled but does not hard-conflict."
+  },
+  "fixes": [
+    "At 'She did not say it. She picked the spoon up again', Ila withholds that sixteen bound men can see the cleft light, with no reason (Irrational behaviour). Either show Kunal's face doing the same sum, so silence is shared, or have her say it and him answer. Then let the threat return in the night scene as a stated cost of walking out.",
+    "In 'They came up by the Kuhl cut in twos and threes', the men arrive via the Kuhl cut. Yet Dhanu says 'They'll try the north-east shelf, then the Kuhl side', and Ila counts 'Four days to the Kuhl cut'. Ch10 (F485) already had them on the north-east fork. Route arrivals by the Moon road. State that the north-east shelf is half-walked, and give one clean distance to the shoulder.",
+    "At 'She knew that stance. She had seen it at the Eye', the wording repeats ch18's exact phrase. Rework it as a fresh observation. Cut 'had not known she was starving', a stock construction. Vary 'the pot tick' and 'chulha ticked', which echo ch18's ticking water. At 'Where the Drum answers', add one line of Ila's odds-weighing so walking out at night is a measured choice, not compliance."
+  ],
+  "reader_question": "What did Pritam do to Kunal on the ridge, and why does Kunal need to stand by the Drum to say it?",
+  "techniques_landed": [
+    5,
+    7,
+    23
+  ],
+  "new_facts_assessment": "All six facts are necessary and consistent. The Gauri fact repeats F469-era material. 'Taught Kunal the bones seven winters' is unclear phrasing. Some facts are unlisted: twelve years under audit, nine shared nights, and the 'from you' callback.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Irrational behaviour to extend plot",
+    "Plot buried by romance"
+  ],
+  "average": 3.88,
+  "minimum": 3.0,
+  "passed": true
+}
