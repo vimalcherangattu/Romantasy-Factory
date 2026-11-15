@@ -4763,6 +4763,34 @@
       "fact": "A single steady orange fire burns on a shoulder of rock above the head of the last lake, seen from the foot of the Widow's Ladder at night; no hut or fold stands there. Kunal says nobody keeps a fire there. Ila connects it to Raghu's two pairs (F485).",
       "since": "s03-bound-till-the-thaw-b02 ch 12",
       "provisional": true
+    },
+    {
+      "id": "F696",
+      "category": "relationship",
+      "fact": "Before ch 14 Kunal told Ila he would not ask her to carry his people's ways at the cost of her own. Whether it was spoken as a bound promise (the rope humming level) is not stated on the page; S7 should track it against later chapters.",
+      "since": "s03-bound-till-the-thaw-b02 ch 14",
+      "provisional": true
+    },
+    {
+      "id": "F697",
+      "category": "knowledge",
+      "fact": "Ila has never once refused a night question in the name-for-answer trade before ch 14.",
+      "since": "s03-bound-till-the-thaw-b02 ch 14",
+      "provisional": true
+    },
+    {
+      "id": "F698",
+      "category": "knowledge",
+      "fact": "Ila heard Meera describe lie-cold (hands first, then feet and ears) in the Garh Neshar hall, and so knows the rule from an account, not from experience.",
+      "since": "s03-bound-till-the-thaw-b02 ch 14",
+      "provisional": true
+    },
+    {
+      "id": "F699",
+      "category": "knowledge",
+      "fact": "In ch 14 Ila tries a true narrow answer ('My commission names every—') and Kunal cuts in with 'Not your commission. Anything you carry.' He has read her habit of exact answers, which closes the free evasion.",
+      "since": "s03-bound-till-the-thaw-b02 ch 14",
+      "provisional": true
     }
   ],
   "knowledge": [
