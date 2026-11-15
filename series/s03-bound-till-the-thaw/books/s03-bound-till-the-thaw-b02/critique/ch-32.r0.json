@@ -1,0 +1,42 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 3.0,
+    "stakes_and_cost": 3.0,
+    "prose": 4.0,
+    "continuity": 0.0
+  },
+  "reasons": {
+    "reader_question": "Clear twin hooks: which reading of 'carried' is true, and where Pritam's unmapped east way leads. Kiran's silence sharpens the first.",
+    "change": "Knowledge shifts twice: the script is read but stays ambiguous, and Pritam is loose via Ila's own measured void. The betrothal is sealed.",
+    "romance_movement": "New reason: trust chosen without the mountain's proof. The oath reverses the book's verified-truth engine. The closing 'Every winter. Together.' partly replays it.",
+    "shown_chemistry": "Kunal ties the knot with his teeth while she stands still, and 'Then I'll know when you're coming' carries it. Little narrated feeling.",
+    "character_logic": "The queen and Kunal shrug off an escaped regent. 'Wardens do not fight over closed ground' contradicts 'passes are free'. Ila's reading is well argued.",
+    "stakes_and_cost": "The cost of chasing Pritam is never named. The Under-Cairn seal and Kiran's silence imply stakes but put no price on the leads' next choice.",
+    "prose": "Precise and quotable. Slips: a 'table' at the cairn, the queen both outside the light and touching the stone, a run of 'Nobody...' beats, an opaque 'Eleven' joke.",
+    "continuity": "Kiran left Garh Neshar in ch3 (F437), yet teases Kunal's ch21 dead hands 'all winter'. Walnut source contradicts F559. 'Sixty winters' contradicts F623's sixty-one."
+  },
+  "fixes": [
+    "At 'She had known him all winter as the man who joked': this is a continuity break. Kiran left in ch3, before Kunal's hands died. Rewrite as 'all summer on the chain', and cut the teasing about Kunal's hands. Also change 'He had come over the Saddle with the hill pairs': he has been at Kothi Shilak since ch3 (F437), so Ila sends word down to the salt house.",
+    "At 'Gauri gave me two of these. One was for Mini's string': this contradicts F559. Make it Dhanu's second runner token, the one Kunal never spent, with Gauri saying Ila should have it. This keeps the runner meaning and adds Dhanu's grief to the betrothal. In the same pass, change every 'sixty winters' spoken this chapter to 'sixty-one' (F623).",
+    "At 'Wardens do not fight over closed ground': this is irrational behaviour to extend plot. The queen just said the passes are free. Make the stakes rule-based: the east way is visible only as cairn-light to a bound pair in winter (F443), so following Pritam means binding again. Let Kunal name that cost: his dead fingertips can no longer show Ila a lie. Then 'Then we'll find it' is a costed choice. Also change 'table' to 'slab'."
+  ],
+  "reader_question": "Was the Bargain written as a death owed or a crossing owed, and what is Pritam going east to find before the fourth winter?",
+  "techniques_landed": [
+    3,
+    20,
+    26
+  ],
+  "new_facts_assessment": "Bindu's knot-sign reading is necessary and well seeded by F389. Pritam's stair escape pays off F418/F420 cleanly. Lata's 'first licence to the first pair at the cairn' rule is new law, unneeded, and should be cut or flagged. Kiran crossing the Saddle with Roop's crew conflicts with F437: he went to the Shilak side in ch3, and every crossing pair is already partnered (F621). Gauri giving two walnuts conflicts with F559: Dhanu gave the runner walnuts, and Mini's was a third.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Irrational behaviour to extend plot",
+    "Repetitive tension"
+  ],
+  "average": 3.25,
+  "minimum": 0.0,
+  "passed": false
+}
