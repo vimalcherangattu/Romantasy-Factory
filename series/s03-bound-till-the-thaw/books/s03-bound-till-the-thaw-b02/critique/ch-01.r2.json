@@ -1,0 +1,42 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 3.0,
+    "character_logic": 3.0,
+    "stakes_and_cost": 4.0,
+    "prose": 4.0,
+    "continuity": 5.0
+  },
+  "reasons": {
+    "reader_question": "The void, Kunal's glance at the wall and his vote give a specific, double-edged question to carry out.",
+    "change": "Ila ends wary, holding a secret she has chosen to keep, with a declared opponent who has just been disarmed.",
+    "romance_movement": "Rope-table acquaintances become declared opponents. Her laugh at his plain sentence is a new reason, and it changes him.",
+    "shown_chemistry": "The stair sparring is sharp and responsive. Ila's attention to Kunal is purely forensic, with no desire tied to anything he does.",
+    "character_logic": "Ila tells Kunal about the void, then reasons that withholding it from council protects her, ignoring that he already holds it.",
+    "stakes_and_cost": "The licence, Orlan's chair and her creed are all named. Withholding the void costs her a principle she visibly hates breaking.",
+    "prose": "Clean, concrete, no banned phrases or em-dash excess. Some summary lines, a few stacked similes and one clunky sentence.",
+    "continuity": "Ages, law notice seals, Madan, the 39/40 stair, the drafting-table rope argument and Kiran's age all match the facts."
+  },
+  "fixes": [
+    "At 'Give it, and she was the crown's woman prying', Ila ignores that she has just told Kunal (irrational behaviour). Have her register that he now holds the number. Reframe the choice as whether to put it in the record herself or wait to see if he uses it, so the withholding is still costly and smart.",
+    "At 'This winter Pritam was held in it', the timeline blurs: Pritam has been held since last winter's Fair. Change to 'Since the Fair, Pritam had been held in it, and this winter the council had given her a pass', so the gap between measurements is clear.",
+    "At 'She said it flat out. A number was most', the line is clunky and Ila's interest in Kunal is only forensic (narrated-only chemistry). Cut 'because she was also a person who watched'. Add one beat where she notices a specific act of his, such as the hand loose on the rail or his exact count, and it pulls at her before she shuts it down."
+  ],
+  "reader_question": "What is hidden behind the north wall that Kunal glanced at, and how will he use his speech to stop her crossing?",
+  "techniques_landed": [
+    1,
+    16,
+    11
+  ],
+  "new_facts_assessment": "Ila at 31 is necessary and correct (bible, F654). The prior outside measurement fits F184, but 'This winter Pritam was held in it' blurs that he has been held since last midwinter's Fair; reword. The blue cord and ink stain are harmless, useful tells, and the stain is used on the page.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Irrational behaviour to extend plot",
+    "Narrated-only chemistry"
+  ],
+  "average": 3.88,
+  "minimum": 3.0,
+  "passed": true
+}

@@ -3,39 +3,40 @@
     "reader_question": 4.0,
     "change": 4.0,
     "romance_movement": 4.0,
-    "shown_chemistry": 4.0,
+    "shown_chemistry": 3.0,
     "character_logic": 3.0,
     "stakes_and_cost": 4.0,
     "prose": 4.0,
-    "continuity": 0.0
+    "continuity": 5.0
   },
   "reasons": {
-    "reader_question": "Clear twin gap: what is in the north wall, and why Kunal both guards it and opposes her licence. The final line sharpens it.",
-    "change": "Ila moves from confident measuring to wary. She knows Kunal will fight her, suspects he's hiding the wall, and chooses to withhold the void.",
-    "romance_movement": "Rope-length acquaintances become declared opponents. The new reason is his open opposition, and her laugh startles him off his question-shield.",
-    "shown_chemistry": "Responsive beats land: he concedes the uncounted step, recalls 'whose arm', and she nearly laughs. All of it is shown rather than narrated.",
-    "character_logic": "The laugh's trigger is muddled. 'Given a number' and 'tried to give me a stair count' misread the scene, since she asked him the count.",
-    "stakes_and_cost": "Withholding the void costs her creed. Revealing it costs her the licence and Orlan takes the chair, so the cost is personal and concrete.",
-    "prose": "Clean, concrete, no banned phrases. Small issues: echoed 'of a kind', the cliché 'something moved behind his face', and some as-you-know law recap to Kunal.",
-    "continuity": "Conflicts with F184. In Book 1 she already reported the north wall two spans out of true, yet here it is a fresh discovery."
+    "reader_question": "The void, Kunal's glance at the wall and his vote give a specific, double-edged question to carry out.",
+    "change": "Ila ends wary, holding a secret she has chosen to keep, with a declared opponent who has just been disarmed.",
+    "romance_movement": "Rope-table acquaintances become declared opponents. Her laugh at his plain sentence is a new reason, and it changes him.",
+    "shown_chemistry": "The stair sparring is sharp and responsive. Ila's attention to Kunal is purely forensic, with no desire tied to anything he does.",
+    "character_logic": "Ila tells Kunal about the void, then reasons that withholding it from council protects her, ignoring that he already holds it.",
+    "stakes_and_cost": "The licence, Orlan's chair and her creed are all named. Withholding the void costs her a principle she visibly hates breaking.",
+    "prose": "Clean, concrete, no banned phrases or em-dash excess. Some summary lines, a few stacked similes and one clunky sentence.",
+    "continuity": "Ages, law notice seals, Madan, the 39/40 stair, the drafting-table rope argument and Kiran's age all match the facts."
   },
   "fixes": [
-    "At 'North wall, two spans out of true, void?' the draft breaks continuity with F184, where last winter's yard survey already found two spans. Add one or two lines: she paced the outside last winter and logged the discrepancy. The inside room only became reachable this winter, with Pritam held there and a council pass. Today she closes the figure from inside, so the 'void?' is new knowledge and the old finding is a callback.",
-    "At 'I know when I'm being given a number' and 'tried to give me a stair count' the laugh's logic is muddled, since she asked for the count. Rebuild the trigger. Kunal readies another deflecting question, she sees it coming, and she laughs because he finally said one plain thing after a career of questions. Keep the 'said it straight out' payoff.",
-    "At 'You were at the table when we cut the Law down to eleven lines' Ila tells Kunal what he already knows, an as-you-know recap. Cut it to the 'whose arm' exchange. Then trim 'silence was a line of a kind' so it doesn't echo the earlier 'a measurement of a kind'. Also replace 'Something moved behind his face' with a specific physical beat, such as his thumb rubbing the ink stain."
+    "At 'Give it, and she was the crown's woman prying', Ila ignores that she has just told Kunal (irrational behaviour). Have her register that he now holds the number. Reframe the choice as whether to put it in the record herself or wait to see if he uses it, so the withholding is still costly and smart.",
+    "At 'This winter Pritam was held in it', the timeline blurs: Pritam has been held since last winter's Fair. Change to 'Since the Fair, Pritam had been held in it, and this winter the council had given her a pass', so the gap between measurements is clear.",
+    "At 'She said it flat out. A number was most', the line is clunky and Ila's interest in Kunal is only forensic (narrated-only chemistry). Cut 'because she was also a person who watched'. Add one beat where she notices a specific act of his, such as the hand loose on the rail or his exact count, and it pulls at her before she shuts it down."
   ],
-  "reader_question": "What is hidden behind Garh Neshar's north wall, and why is Kunal guarding it while he moves to stop her crossing?",
+  "reader_question": "What is hidden behind the north wall that Kunal glanced at, and how will he use his speech to stop her crossing?",
   "techniques_landed": [
     1,
-    11,
-    16
+    16,
+    11
   ],
-  "new_facts_assessment": "Point 4392 and 4410 match F633. The grain slate rising a sack is a useful, consistent mystery seed. The law cut from 26 to 11 lines and Kunal's ten-span argument fit F263 and F360. Withholding the void is necessary, and it sets up her first omission. Kunal as an open council member and heir is never stated on the page. Ila's age (31) is also never stated; not a rule breach since nothing here is intimate, but add it before any romantic beat.",
+  "new_facts_assessment": "Ila at 31 is necessary and correct (bible, F654). The prior outside measurement fits F184, but 'This winter Pritam was held in it' blurs that he has been held since last midwinter's Fair; reword. The blue cord and ink stain are harmless, useful tells, and the stain is used on the page.",
   "content_rule_violation": false,
   "failure_modes": [
-    "Irrational behaviour to extend plot"
+    "Irrational behaviour to extend plot",
+    "Narrated-only chemistry"
   ],
-  "average": 3.38,
-  "minimum": 0.0,
-  "passed": false
+  "average": 3.88,
+  "minimum": 3.0,
+  "passed": true
 }
