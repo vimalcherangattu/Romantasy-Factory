@@ -3,26 +3,14 @@
     {
       "id": "F618",
       "category": "timeline",
-      "fact": "Supersedes F612: the bond ends on day 35 at the Meadow Cairn; Shilak's thaw comes on day 56, three weeks and a day later, consistent with F435; the queen arrives three days after, and the hill council's pairs cross the Saddle for the council at the cairn.",
-      "since": "ch 31 revision"
+      "fact": "Revised, supersedes F612 and F525's day-35 council date: the bond ends on day 35 at the Meadow Cairn; Shilak's thaw, and the council at the Shilak Cairn, come on day 56, three weeks to the day later, consistent with F435; the queen arrives three days after.",
+      "since": "s03-bound-till-the-thaw-b02 ch 31"
     },
     {
-      "id": "F619",
+      "id": "F622",
       "category": "knowledge",
-      "fact": "Supersedes F616: Queen Sarala read the archive at her crowning and read Harish's name on its list, but has never dared read what is written under the mountain; she has reigned thirty-one winters.",
-      "since": "ch 31 revision"
-    },
-    {
-      "id": "F620",
-      "category": "relationship",
-      "fact": "As the price of the broken oath, the queen strips Ila of the Chief Surveyor's commission, giving it to another, and removes her name from the crown roll; Ila accepts it in one line.",
-      "since": "ch 31 revision"
-    },
-    {
-      "id": "F621",
-      "category": "name",
-      "fact": "Meera is bound to a Kuhl farmer on the last crossing pair to the council; Roop is bound to Old Bhim and Chand to a terrace woman.",
-      "since": "ch 31 revision"
+      "fact": "Meera counts Harish as going in sixty-one winters back, Book 2's winter.",
+      "since": "s03-bound-till-the-thaw-b02 ch 31"
     }
   ]
 }
