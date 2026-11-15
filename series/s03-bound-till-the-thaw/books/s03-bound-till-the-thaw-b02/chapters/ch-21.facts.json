@@ -2,23 +2,13 @@
   "facts": [
     {
       "category": "knowledge",
-      "fact": "Dhanu's runner boy saw two pairs of Raghu's men (four, grey wool, no blue cord) on the far shore of the Glass Lakes basin, with fresh tracks along the west side of the Eye under the cliff; they have seen the cleft's shadow from the Kuhl shoulder.",
-      "why": "needed because the beat requires Gauri's report of loyalist pairs and tracks."
-    },
-    {
-      "category": "knowledge",
-      "fact": "Ila gives Kunal leave to ask about the queen's letter, so his question is not 'asking back' under his promise and does not chill his fingers; she refuses the answer (a free silence), citing her archive oath.",
-      "why": "needed because the beat has Kunal ask, yet ch 20 established his fingertips chill if he asks."
-    },
-    {
-      "category": "magic",
-      "fact": "If the Meadow Cairn's meltwater runs before the pair are through the mountain, the winter line closes and Ila's promise lapses unpaid the same hour, with no strike once the bond ends.",
-      "why": "needed to state the cost ledger in the beat."
+      "fact": "Kunal asks 'What did the letter say?' in spite of his promise; his fingertips whiten and blue under the nails, the rope draws taut, and he holds his hands in view and says 'I'll pay it.' The chill drains over time. Ila refuses (a free silence), citing her archive oath sworn before this crossing. Replaces F550; no 'leave' device exists.",
+      "since": "s03-the-winter-oath-b02 ch 21"
     },
     {
       "category": "object",
-      "fact": "Ila sews her exits sheet and three older sheets (Stair and Moon) into the lining of her pattu along the side seam, below the hem where the queen's letter is sewn.",
-      "why": "needed because the beat has her sew the sheets into her pattu's lining."
+      "fact": "Ila sews her exits sheet and three older sheets (Stair and Moon) into the side-seam lining of her pattu, above the hem; the queen's letter lies in the hem below them. Replaces F552's wording.",
+      "since": "s03-the-winter-oath-b02 ch 21"
     }
   ]
 }
