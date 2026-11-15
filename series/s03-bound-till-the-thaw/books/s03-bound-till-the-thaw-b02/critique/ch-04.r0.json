@@ -10,31 +10,31 @@
     "continuity": 5.0
   },
   "reasons": {
-    "reader_question": "'After this, you earn them' / 'Price first' leaves a sharp, specific question about the price. The living officer and the 32nd grave add smaller gaps.",
-    "change": "Knowledge shifts clearly: Ila learns Kunal is the masked buyer, the walnut token and that the officer is alive. Her picture of Kunal breaks.",
-    "romance_movement": "The reason is new: secret generosity and gentleness crack her misjudgement. His rope-verified 'I like it very much' answers her ch3 lie.",
-    "shown_chemistry": "Kneeling for Pinku, the warm bare hands, him watching her draw and his startled open face all carry attraction without narrated labels.",
-    "character_logic": "Kunal leaves the failing east line, with Raghu at the doors, after one summary paragraph. That is out of character for the man who stepped off the road in ch3.",
-    "stakes_and_cost": "Drawing the salt road costs nothing, since every smuggler already knows it. The real price is deferred to the next chapter and never felt here.",
-    "prose": "A garbled 'sister-in-law that will be sat' line, a 'her allowance' pronoun slip for Pinku, a muddled 'thrown it at her wrongly', and the stair-count filing tic repeated from ch3.",
-    "continuity": "Consistent with F205, F215, F247, F263, F300, F402 and F264. The bell on a grave sits uneasily beside Sunni's bell buried with her (F372) but does not conflict."
+    "reader_question": "The 'you earn them' / 'Price first' close is sharp. The officer's withheld name and the walnut to Sarn fold add clear secondary hooks.",
+    "change": "Ila learns the masked buyer's identity and that the officer lives. Her picture of Kunal breaks. He learns she would draw even a lifeline.",
+    "romance_movement": "There is a new reason for movement: her misjudgement cracks through his secret generosity. 'I mind that I do' sets a new, costed footing. It is not a replayed refusal.",
+    "shown_chemistry": "The thumb on Pinku's ear, the bare pink fingers, the mitten, and his watching felt 'like a hand' on her neck all show responsive attention.",
+    "character_logic": "Kunal's dawn plan has runners at Sarn fold 'by dusk today' from a village a day away. He says 'two bound pairs' for one pair. The walnut token is trivially forgeable.",
+    "stakes_and_cost": "Graves and a staked village give weight. But the salt road is costless by design, so the chapter's drawing decision risks nothing. The price is only deferred.",
+    "prose": "Mostly clean and concrete. The value shift is summarised in narration ('not his uncle's kind of prince'). 'Courtly face' repeats, and there is a stock 'question she had been dreading'.",
+    "continuity": "Graves, officer, cut-corner silver, drafting-table visits, Pinku at seven and the salt road all match the facts. The terrace-wall hum extends the stone rule without logging it."
   },
   "fixes": [
-    "At 'The night had been long and unproductive. The east line', the bridge is Irrational behaviour: Kunal abandons a failing fold with Raghu hunting it in summary. Dramatise one beat of the dawn choice instead. Kunal names that Ranu's runners can reach the fold faster than a bound pair. Or he sends word by walnut from Ranu. Show the cost on his face so the turn south reads as strategy, not drift.",
-    "At 'I was waiting,' said Kunal slowly, 'for you to say' the moment is Stakes without depth, because the road is common knowledge. Have Ila mark all nine illegal points and Nimmi's runner halts on the sheet. She should say aloud that a warden could hang men from this page. Then let his cairn line ('every smuggler already knows') land as a test he set. She realises he was weighing her, which sharpens 'Price first.'",
-    "At 'My sister-in-law that will be sat in', the line is garbled; rewrite it as 'My brother's betrothed sat in that guest-house'. Fix 'as though it were her allowance' to 'his', since Pinku is a boy. Recast 'But he had thrown it at her wrongly' to 'But she had taken his measure from too far off.' Cut the repeated 'filed that beside the stair count' tic from ch3, and two of the three 'She had learned' openers."
+    "At \"Ranu's runners can be there by dusk today\" the timing contradicts \"Ranu is a day down the Garh road\" and the walnut sent 'before dark' (irrational behaviour). Change it to \"by dusk tomorrow, a day ahead of any bound pair\". Make the opening \"It was noon\" the following day, or drop the clock entirely. Change \"Two bound pairs\" to \"A bound pair\".",
+    "At \"Beside her the terrace wall hummed faintly\" an unmarked terrace wall acts as a truth-meter (convenient magic, unlisted extension of F320). Cut the hum. Let her pink fingertips, seen when she pulls off the mitten, be the only proof. Alternatively, set a route-keeper's marker stone on the terrace and log it as a new fact.",
+    "At \"He was not his uncle's kind of prince\" the value shift is narrated (endless monologue, told change). Replace the summary with an act. She opens her field book to the private peak-name she gave him and strikes it through, or writes the kneeling-in-mud detail as an 'observation'. Keep one line of interiority. Also add one beat where Ila asks how a red-thread walnut can't be faked, and Kunal names a specific knot or thread count."
   ],
-  "reader_question": "What price will Kunal set for each hidden way, and will Ila pay it when every line she draws goes to the queen?",
+  "reader_question": "What price will Kunal set on the hidden ways that cost someone something, and will Ila pay it?",
   "techniques_landed": [
     2,
     3,
     25
   ],
-  "new_facts_assessment": "All five listed facts are needed and consistent. Pinku at seven fits F215. The officer being alive fits Tej. Two facts are unlisted: the 32nd grave as 'a man who'd nursed all of them' and the walnut token kept 'ten generations'. Both are plausible, but they should be logged. The bell on a grave risks echoing Sunni's buried bell; make it clearly a different bell or cut it.",
+  "new_facts_assessment": "Most facts are necessary and consistent. The thirty-second grave being a nurse fits F402, the nine crosses fit F247, the spinning top avoids the bell echo, and the test admission fits the arc. F666 is internally inconsistent: runners at Sarn fold by dusk today, yet the walnut is sent 'before dark' after a day's walk to Ranu. The ten-generation walnut token suits Dhanu's ch22 tokens, but it needs a feature that makes it hard to forge. One fact is unlisted: an ordinary terrace wall hums truth-level, which goes beyond F320's cairns and waystones.",
   "content_rule_violation": false,
   "failure_modes": [
-    "Irrational behaviour to extend plot",
-    "Stakes without depth"
+    "Convenient magic",
+    "Irrational behaviour to extend plot"
   ],
   "average": 3.75,
   "minimum": 3.0,
