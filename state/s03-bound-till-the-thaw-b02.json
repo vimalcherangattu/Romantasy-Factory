@@ -12,7 +12,7 @@
   ],
   "chapters": {
     "01": {
-      "status": "passed",
+      "status": "edited",
       "revisions": 1,
       "scores": {
         "reader_question": 4.0,
@@ -26,8 +26,19 @@
       },
       "average": 3.88,
       "flags": [],
-      "words": 3108,
-      "minimum": 3.0
+      "words": 3097,
+      "minimum": 3.0,
+      "style": {
+        "words": 3097,
+        "banned_hits": {},
+        "ai_tell_hits": {},
+        "ai_tells_per_1000": 0.0,
+        "top_4gram": "two and a half",
+        "top_4gram_count": 2,
+        "longest_paragraph_words": 111,
+        "em_dashes_per_1000": 0.0,
+        "reading_ease": 89.3
+      }
     },
     "02": {
       "status": "passed",
@@ -1155,9 +1166,13 @@
     {
       "at": "2026-11-15T21:44:07",
       "event": "done: book-level checks"
+    },
+    {
+      "at": "2026-11-15T21:44:40",
+      "event": "done: S8 line edit ch 1"
     }
   ],
-  "updated_at": "2026-11-15T21:44:07",
+  "updated_at": "2026-11-15T21:44:40",
   "midpoint_chapter": 16,
   "continuity_attempts": 1,
   "continuity_last_errors": 3
