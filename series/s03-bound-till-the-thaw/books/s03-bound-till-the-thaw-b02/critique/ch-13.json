@@ -7,35 +7,35 @@
     "character_logic": 4.0,
     "stakes_and_cost": 4.0,
     "prose": 4.0,
-    "continuity": 0.0
+    "continuity": 5.0
   },
   "reasons": {
-    "reader_question": "The ice boom and 'Don't move' leave a sharp physical question. Her palm on the letter adds dramatic irony, since the reader knows its instruction.",
-    "change": "Kunal has put an irrevocable truth on the record and now doubts whether he gave her a gift or a handle.",
-    "romance_movement": "The reason for the change is new: the rule kills a reflexive courtier's lie, and she refuses to write his truth down.",
-    "shown_chemistry": "The warm pencil lead, her eyes moving to his mouth, his stumble at her laugh and two fingers on his coat all show attraction through action.",
-    "character_logic": "The reflex lie is set up as a lifelong manners habit. Ila yielding on the unsounded ice is earned. One narrated 'wrong about a Ladder' undercuts her.",
-    "stakes_and_cost": "Stepping onto unsounded ice costs Ila her method. The confession exposes Kunal. His white nails carry the cost of the lie onto the lake.",
-    "prose": "The prose is concrete and rhythmic. Flaws: an echoed 'had any right to', the drum image reused from ch12, and interiority that contradicts itself on the ice.",
-    "continuity": "Kunal places Ila's promise refusal 'on the ledge'. In ch12 she refused at the fire in the niche at the Ladder's foot, after the descent."
+    "reader_question": "The ending poses a sharp question, 'Will the ice hold?', backed by a second one: is his truth a gift or a handle?",
+    "change": "Kunal has handed Ila a truth that exposes him. The value shift from hope to self-doubt lands in 'A gift, or a handle?'",
+    "romance_movement": "The rule stops a reflexive lie and a true declaration replaces it. The touch to his heart is a new, costed step.",
+    "shown_chemistry": "The warm pencil leads, the laugh that breaks his stride and the two fingers on his coat show the attraction. Two sentences still narrate it.",
+    "character_logic": "His courtier's reflex is set up by 'thirty years of dinners'. Ila trading her ice-sounding for speed is earned. The flood of confession is fast but plausible.",
+    "stakes_and_cost": "They cross unsounded ice under a storm with his nails white for the hour. Every choice in the chapter costs something.",
+    "prose": "The prose is clean and concrete, with no banned phrases or AI tells. It has two narrated-chemistry lines and the ending misses the bible's drum signature.",
+    "continuity": "The cairn hum, the hour of white nails, the uncle's lesson at nine and the pencil leads all match the bible and the facts."
   },
   "fixes": [
-    "'She had refused him a promise on the ledge': this is a continuity error. In ch12 she refused the promise by the niche fire at the Ladder's foot. Change it to 'by the fire at the Ladder's foot'. In 'a woman who had been wrong about a Ladder', the banter just conceded she wasn't wrong. Change it to 'a woman who had been misled about a Ladder' or similar.",
-    "'He did not think of the lie. He thought': this is a self-contradicting monologue, because the next paragraphs are all about the lie and the handle. Cut 'He did not think of the lie.' Compress the 'gift, or a handle' section into one short paragraph that ends in an action, for example he tightens the rope or counts lamps. This keeps the self-doubt beat and makes it a choice rather than rumination.",
-    "'faster than any cloud had a right to': this echoes 'nearer than it had any right to' a page earlier, so the storm description repeats. Cut one of them. Also vary the closing 'struck-drum note', which repeats ch12's final 'great drum struck once'. Use a new sound specific to daylight and storm, for example a seam splitting like green timber under the axe-tick."
+    "At 'split with a crack like green timber under the axe', the outline and bible want the Glass Lakes signature: ice that booms like a struck drum. Replace the timber simile with the drum boom Kunal heard from the Ladder in ch12, now rising under their feet. This turns a distant sound into a threat (a reinterpretation callback) and fulfils the beat.",
+    "At 'He had spent years teaching himself not to want', and at 'It was not a kiss, and it left him weaker', the chemistry is narrated. Cut the second line entirely. Replace the first with a physical tell: his hand closing on the rope, or him saying something wry that admits he likes being wrong.",
+    "At 'She had paid for his people's ways with her own good name', nothing has been paid yet, only risked at a spring audit. Change it to 'She had staked her good name on a staircase'. Also change 'all winter' (used twice) to 'this whole crossing', so the timeline stays exact for a heroine who corrects distances."
   ],
-  "reader_question": "Will the booming ice hold them halfway across the Mirror, and will Ila open the queen's letter now that she stands at the Glass Lakes?",
+  "reader_question": "Will the cracking Mirror ice hold them halfway across in a whiteout, now that Kunal has given Ila a truth he can't take back?",
   "techniques_landed": [
     7,
     8,
     22
   ],
-  "new_facts_assessment": "F509 (910 paces from the scree edge) agrees with the page and with F420's pace. F510 (Raven Spur) and F511 (pocket watch) are harmless and useful. F512's jump from three hours to twenty minutes is steep, but the page frames it as an arriving front that Ila misjudged, so it is acceptable. F513 agrees with F352's rule that a lie begun keeps the white the full hour. F514 is consistent with F438 and sets up the letter. Ila's touch lands on his coat, not his skin, so it rightly avoids the loophole.",
+  "new_facts_assessment": "new-facts.json is empty, but the draft adds several facts: Ila's pocket watch, Raven Spur, the 910-pace triangulation, ice sounding by axe haft, and 'more than two weeks' bound. These need logging. The watch and the sounding rule are necessary and consistent. 'Two weeks' fits F525's day count, but S7 should retire F512's 'six days', which this draft now contradicts.",
   "content_rule_violation": false,
   "failure_modes": [
-    "Endless monologue"
+    "Narrated-only chemistry"
   ],
-  "average": 3.5,
-  "minimum": 0.0,
-  "passed": false
+  "average": 4.12,
+  "minimum": 4.0,
+  "passed": true
 }

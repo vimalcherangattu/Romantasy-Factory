@@ -4,38 +4,38 @@
     "change": 4.0,
     "romance_movement": 4.0,
     "shown_chemistry": 4.0,
-    "character_logic": 3.0,
+    "character_logic": 4.0,
     "stakes_and_cost": 4.0,
-    "prose": 3.0,
-    "continuity": 0.0
+    "prose": 4.0,
+    "continuity": 5.0
   },
   "reasons": {
-    "reader_question": "The ending poses a sharp 'will the ice hold?', and 'gift or handle?' adds a deeper relational question.",
-    "change": "Kunal hands Ila a true sentence she could use against him. Hope tips into self-doubt, as the beat asks.",
-    "romance_movement": "The rule stops a false kiss and the fingers-on-heart replaces it. The reason is new and the bond deepens.",
-    "shown_chemistry": "The warm pencil-lead handoff, the laugh that scatters ravens and 'I'm not writing that one' all show attraction through action.",
-    "character_logic": "Ila's 910-pace figure, claimed as already paced before arrival, makes no sense. Kunal lies when his free evasion habit was available.",
-    "stakes_and_cost": "The truth costs Kunal leverage, and the crossing on unsounded ice costs Ila her method. Both feel real.",
-    "prose": "There are a garbled pace sentence, 'gift' used three times, stone images twice, and stock similes such as 'steady as a held breath'.",
-    "continuity": "Lie-cold leaving on a true word contradicts F352 and the bible. A 910-pace cairn contradicts ch12's 'a night's walk off'."
+    "reader_question": "The ending poses a sharp question, 'Will the ice hold?', backed by a second one: is his truth a gift or a handle?",
+    "change": "Kunal has handed Ila a truth that exposes him. The value shift from hope to self-doubt lands in 'A gift, or a handle?'",
+    "romance_movement": "The rule stops a reflexive lie and a true declaration replaces it. The touch to his heart is a new, costed step.",
+    "shown_chemistry": "The warm pencil leads, the laugh that breaks his stride and the two fingers on his coat show the attraction. Two sentences still narrate it.",
+    "character_logic": "His courtier's reflex is set up by 'thirty years of dinners'. Ila trading her ice-sounding for speed is earned. The flood of confession is fast but plausible.",
+    "stakes_and_cost": "They cross unsounded ice under a storm with his nails white for the hour. Every choice in the chapter costs something.",
+    "prose": "The prose is clean and concrete, with no banned phrases or AI tells. It has two narrated-chemistry lines and the ending misses the bible's drum signature.",
+    "continuity": "The cairn hum, the hour of white nails, the uncle's lesson at nine and the pencil leads all match the bible and the facts."
   },
   "fixes": [
-    "'The cold went out of his fingertips and left a hurt': Convenient magic, because the rule is waived at the moment of truth. Per F352 and the bible, the white from a begun lie stays the full hour. Keep his fingertips wax-pale into the crossing and let Ila see them. Rework 'still ached where the lie had touched them' and revise F502 to match.",
-    "'I've paced this since the niche. It's nine hundred': this is a continuity break with ch12 ('a night's walk off') and a logic slip, since she can't have paced ground not yet walked. Open after a descent through the night to the basin floor. Make 910 a baseline-and-bearing estimate from a named spur. Rewrite the garbled 'two of those are mine and a half of yours'.",
-    "'what came out was a gift made of a lie': this is the third 'gift' (after 'a deadline sound like a gift'), and Kunal's free habit of answering with a question is skipped. Cut one 'gift'. Let him reach for 'Is there?' first, then choose the lie deliberately as a kindness. Replace 'like a stone in a stream' so the uncle's stone image lands alone."
+    "At 'split with a crack like green timber under the axe', the outline and bible want the Glass Lakes signature: ice that booms like a struck drum. Replace the timber simile with the drum boom Kunal heard from the Ladder in ch12, now rising under their feet. This turns a distant sound into a threat (a reinterpretation callback) and fulfils the beat.",
+    "At 'He had spent years teaching himself not to want', and at 'It was not a kiss, and it left him weaker', the chemistry is narrated. Cut the second line entirely. Replace the first with a physical tell: his hand closing on the rope, or him saying something wry that admits he likes being wrong.",
+    "At 'She had paid for his people's ways with her own good name', nothing has been paid yet, only risked at a spring audit. Change it to 'She had staked her good name on a staircase'. Also change 'all winter' (used twice) to 'this whole crossing', so the timeline stays exact for a heroine who corrects distances."
   ],
-  "reader_question": "Will the booming Mirror ice hold them, and has Kunal's truth just given Ila a weapon against him?",
+  "reader_question": "Will the cracking Mirror ice hold them halfway across in a whiteout, now that Kunal has given Ila a truth he can't take back?",
   "techniques_landed": [
     7,
     8,
     22
   ],
-  "new_facts_assessment": "F503 (ice sounding) is necessary and consistent. F504 fits Kunal's bible belief, but 'young' should tie to age nine (F488). F501's 910 paces from the Ladder foot conflicts with ch12's lakes being 'a night's walk off and a long way down'. F502's cold fading on truth breaks F352 and the bible rule that only time or the loophole ends lie-cold. Daytime cairn-light also needs the storm-dark made explicit.",
+  "new_facts_assessment": "new-facts.json is empty, but the draft adds several facts: Ila's pocket watch, Raven Spur, the 910-pace triangulation, ice sounding by axe haft, and 'more than two weeks' bound. These need logging. The watch and the sounding rule are necessary and consistent. 'Two weeks' fits F525's day count, but S7 should retire F512's 'six days', which this draft now contradicts.",
   "content_rule_violation": false,
   "failure_modes": [
-    "Convenient magic"
+    "Narrated-only chemistry"
   ],
-  "average": 3.25,
-  "minimum": 0.0,
-  "passed": false
+  "average": 4.12,
+  "minimum": 4.0,
+  "passed": true
 }

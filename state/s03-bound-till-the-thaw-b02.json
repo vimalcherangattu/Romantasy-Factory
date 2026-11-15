@@ -404,7 +404,7 @@
       ]
     },
     "13": {
-      "status": "revised",
+      "status": "passed",
       "revisions": 0,
       "scores": {
         "reader_question": 4.0,
@@ -414,12 +414,12 @@
         "character_logic": 4.0,
         "stakes_and_cost": 4.0,
         "prose": 4.0,
-        "continuity": 0.0
+        "continuity": 5.0
       },
-      "average": 3.5,
+      "average": 4.12,
       "flags": [],
       "words": 2656,
-      "minimum": 0.0,
+      "minimum": 4.0,
       "style": {
         "words": 2737,
         "banned_hits": {},
@@ -1917,9 +1917,13 @@
     {
       "at": "2026-11-15T22:43:50",
       "event": "done: S6 revise ch 13"
+    },
+    {
+      "at": "2026-11-15T22:44:41",
+      "event": "done: S5 critique ch 13"
     }
   ],
-  "updated_at": "2026-11-15T22:43:50",
+  "updated_at": "2026-11-15T22:44:41",
   "midpoint_chapter": 16,
   "continuity_attempts": 0,
   "continuity_last_errors": null,
