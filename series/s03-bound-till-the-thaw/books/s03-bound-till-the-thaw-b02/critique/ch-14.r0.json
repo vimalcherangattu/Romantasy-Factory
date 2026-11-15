@@ -1,41 +1,41 @@
 {
   "scores": {
-    "reader_question": 4.0,
-    "change": 4.0,
-    "romance_movement": 4.0,
+    "reader_question": 5.0,
+    "change": 5.0,
+    "romance_movement": 5.0,
     "shown_chemistry": 4.0,
     "character_logic": 3.0,
-    "stakes_and_cost": 4.0,
-    "prose": 3.0,
-    "continuity": 0.0
+    "stakes_and_cost": 5.0,
+    "prose": 4.0,
+    "continuity": 5.0
   },
   "reasons": {
-    "reader_question": "The ending is a sharp, specific image: he sets down the pot facing white hands. Will he take her cold and learn she lied?",
-    "change": "Ila moves from control to self-inflicted harm. Kunal's trust peaks on a lie, so the knowledge gap now favours the reader.",
-    "romance_movement": "His relief ('Good. I'd hoped.') makes the lie land where trust is highest. The reason is new: fear of being turned back.",
-    "shown_chemistry": "The trust is in action: boots in her marks, the warm pencil lead, the ash smear she doesn't mention, the bowl lifted from her lap.",
-    "character_logic": "The main lie is well argued, because a refusal would read as yes. But Ila, a rule expert, then tells further lies she treats as free.",
-    "stakes_and_cost": "Frostnip is paid on the page and the sealed letter stays unread. 'Show me your hands' turns the rule's logic against her.",
-    "prose": "Mostly clean and concrete. It has anachronisms ('scooted', 'park a house'), a muddled Meera line, and runs of paragraphs that open with 'She'.",
-    "continuity": "'It's the storm' and 'It's nothing' are lies to her bound partner that cost nothing, which breaks F010/F011. The cook's-shoulder crag conflicts with ch13's Raven Spur."
+    "reader_question": "The ending hands the reader a sharp question: will he touch her and take the cold, learning she lied right after saying 'Good. I'd hoped'?",
+    "change": "Ila moves from in control on the ice to hurt by her own lie. Kunal's relief now rests on a falsehood the reader can see.",
+    "romance_movement": "Her first lie breaks trust at its peak. The reason is new: fear that the truth would turn him back.",
+    "shown_chemistry": "Shown through action: he walks her track blind, says 'You're looking at me.' 'Yes.', lifts the bowl from her lap, she spares him the ash smear.",
+    "character_logic": "The lie is well motivated, since refusal is closed. But an exact measurer budgeting 'an hour' for a lie that would turn him round is a slip.",
+    "stakes_and_cost": "The world rule bites in flesh, her compounding lies make the cost larger, and showing her hands will expose her.",
+    "prose": "Concrete and clean, with no banned phrases or AI tells. Minor echoes: 'said it gently' twice, 'eyes on the fire' twice, 'very still/very quiet'.",
+    "continuity": "Matches the bible's lie sizes, the fire rule, the hut (F515), the name trade (F462) and the letter in her coat lining before ch 20."
   },
   "fixes": [
-    "At \"It's the storm. I've been wet since the scree\": the rule is suspended, which is worldbuilding collapse, because lies to a bound partner always cost. Let it bite instead. As she says 'It's the storm' and 'It's nothing', the white climbs from the first knuckle to the second. That earns the ending's 'It had climbed'. Cut 'That was nearly true... a coat to wear' and replace it with her feeling the climb and knowing she paid for it.",
-    "At \"a bearing off a crag named for her own cook's shoulder\": this is a continuity error, since ch13's bearings were taken off the Raven Spur (F510). Change it to 'two bearings off the Raven Spur'. Also fix \"the woman who had carved her own fingers in the count\". It is muddled and seems to mean Meera. Write 'Meera, who had lost two fingers to one lie, told it flatly'.",
-    "At \"She scooted closer to the fire\" and \"ice you could park a house on\": modern idiom breaks the period voice. Use 'She shifted closer' and 'ice you could build a house on'. Then vary the paragraph openings in the answer section. 'She had known', 'She thought of', 'She saw it plainly' and 'She could refuse' run consecutively. Open two of them with the object or action instead, for example 'The letter...' and 'Refusal was free...'."
+    "At 'She could keep them hidden for an hour', Ila misjudges the lie's size (irrational behaviour). She knows a lie is sized by how much the truth would change his choices, and this one would turn him round. Have her size it as middling, plan on a night of shaking, and say 'No' anyway. The choice becomes deliberate and costlier, and the later '*Middling*, she thought' becomes confirmation, not discovery.",
+    "At 'The cold began in her fingertips, as it always began. She had read about it.', the text contradicts itself. 'As it always began' implies she has felt lie-cold before, and 'read about it' clashes with hearing Meera's account. Cut both phrases. Open with the needle under the nails, then recall Meera's flat account and glove at the Garh Neshar drafting table, to match F576.",
+    "Fix the prose echoes. At the second 'He said it gently', in the 'Show me your hands' exchange, replace the tag with an action beat, such as him putting the pot's weight on one knee. Cut the second 'eyes on the fire' at 'He turned the bowl in his hands'. Change one of 'Kunal had gone very quiet' or 'Now he sat very still' to a concrete gesture."
   ],
-  "reader_question": "Will Kunal take Ila's lie-cold by touch, and once he knows she lied about her orders, will he turn them back?",
+  "reader_question": "When Kunal sees her white hands, will he take her cold and learn that the 'No' he was so glad of was a lie?",
   "techniques_landed": [
     13,
-    14
+    14,
+    22
   ],
-  "new_facts_assessment": "The hut, the Sleeper's Spine and the six-day letter are necessary and consistent. The letter sits in the coat lining, matching F438 rather than the beat's 'pattu', which is correct. Three facts are unlisted. 'She had never once refused' is plausible. Meera telling the lie-cold story in the Garh hall is fine. A Mirror bearing taken off a crag named for her cook conflicts with F510's Raven Spur and should be cut.",
+  "new_facts_assessment": "All four facts are useful and consistent. F699, Kunal closing the narrow-truth evasion, is the key device: it makes the lie costly instead of artificial. Keep F697 and F698, but F698 should say the drafting table, not 'the hall', to match F576. F696 needs S7 tracking as the draft notes. S7 should also retire F517 ('six days') and revisit F512, because this chapter, ch 13 and F525 all support 'more than two weeks'.",
   "content_rule_violation": false,
   "failure_modes": [
-    "Worldbuilding collapse",
     "Irrational behaviour to extend plot"
   ],
-  "average": 3.25,
-  "minimum": 0.0,
-  "passed": false
+  "average": 4.5,
+  "minimum": 3.0,
+  "passed": true
 }
