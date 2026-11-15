@@ -7,35 +7,33 @@
     "character_logic": 3.0,
     "stakes_and_cost": 4.0,
     "prose": 3.0,
-    "continuity": 0.0
+    "continuity": 5.0
   },
   "reasons": {
-    "reader_question": "The smokeless huts give a sharp question: are Gauri, Mini and Dhanu's household dead or taken? The cause points plausibly to Raghu's four.",
-    "change": "Knowledge shifts: the way is mapped to the water. Relationship shifts: she now holds an unpayable gift. The withheld letter now carries moral weight.",
-    "romance_movement": "The reason is new. A gift with no price breaks her ledger worldview, and her 'no column for it' shows the change.",
-    "shown_chemistry": "Shown through action: the collar grab after the slot, shared helpless laughter, and her reading the song as a bearing. His watching her hand is responsive, not narrated.",
-    "character_logic": "Mostly smart choices, but there are three slips. She ties the case 'where her ribs would crush it'. Kunal says 'Thirty years' right after counting twenty-one. He calls the four-line song 'twelve lines'.",
-    "stakes_and_cost": "Turning back costs thaw-days against her promise. Her silence costs integrity. Odds are stated at each hazard, and his dead hand slips on the third step.",
-    "prose": "Concrete and clean, but about 25 sentences open with 'It was', a strong tic. 'Hummed, low and level' and 'the best she had ever' each repeat.",
-    "continuity": "Kunal says Pritam 'gave me twelve lines of a song'. The song on the page and F563 are four lines."
+    "reader_question": "Missing smoke over Gauri's huts, with Raghu's four gone from the far shore, gives a sharp, story-caused question about named people.",
+    "change": "The way is mapped to the water, the song is decoded, and Ila now holds a gift with no column in her ledger.",
+    "romance_movement": "New reason: his gift has no price, so her trader's habit breaks; her withheld letter becomes a debt rather than a refusal.",
+    "shown_chemistry": "The collar grab, the shared helpless laugh after the slot, his watching her hand, her 'I'd marry her' joke: all responsive, nothing narrated.",
+    "character_logic": "Kunal 'giving' counts Ila paced herself makes the gift feel staged. Past the stone it is shared discovery, not his to give.",
+    "stakes_and_cost": "Stated odds on the glaze and the dive, lost thaw days and Ila's costly silence keep each choice priced.",
+    "prose": "Mostly clean and concrete, but some compressed lines are muddy and the slot count contradicts itself.",
+    "continuity": "Ages, the song, Pritam's turn at twelve, the pattu hem, the Meadow Cairn, the dead fingertips and the huts all match the bible and the facts."
   },
   "fixes": [
-    "'he gave me twelve lines of a song' (gravel-passage scene): this is a continuity error, because the song on the page and F563 are four lines. Change it to 'he gave me four lines of a song'. This one fix restores the continuity score.",
-    "Two lines break character logic. First, 'tied her pencil case flat inside her coat, where her ribs would crush it': a measurer protects her instruments. Change to 'where her ribs would shield it' or move the case to her back. Second, Kunal's 'Thirty years.' contradicts his own 'twenty-one winters' a few lines earlier. Change it to 'All my life,' so Ila's 'Twenty-one. You were twelve' still lands as her correction.",
-    "There is a repetition tic: 'It was a ledge of black rock', 'It was not a lake. It was a hollow', 'It was the sum of it', plus about 22 more 'It was' openers. Recast at least half with concrete subjects (for example, 'A ledge of black rock lay twenty paces on'). Also vary the second 'hummed, low and level' and one of the two 'best she had ever' lines."
+    "At \"Eighty-one paces to the turn. It doubles back\" (character logic): Kunal recites counts Ila paced herself, so the gift costs him nothing. Make it his to give. He names Pritam's family rule aloud, 'no prince shows the way to wife, son or friend', and says he is breaking it. He can still ask her to correct his counts. Then 'Then it's yours' carries a real cost.",
+    "At \"*Six.* Then the stone let go of her chest\" (continuity within scene): Ila counts six and then claims 'By my count it was seven.' Either take the count to *Seven.* before the stone releases her, or have her round up on purpose so the joke lands. Also fix the lamp: 'a third gone' becomes 'half gone', or change 'half a lamp' to 'two-thirds of a lamp'.",
+    "At \"He did not look at his own face for her sake\" (prose): this line is unclear, and so are 'Comfort it was not, and he did not take it for any' and 'She stood on things that way.' Rewrite each plainly, for example: 'He did not look up, so she would not have to watch him say it.' Also cut the smoke setup at the end to two sentences, so 'There was no smoke' lands faster."
   ],
-  "reader_question": "What has happened at the lower huts, and to Gauri, Mini and Dhanu's household, while Ila and Kunal were inside the mountain?",
+  "reader_question": "What has happened to Gauri, Dhanu and Mini at the lower huts now that the smoke is gone?",
   "techniques_landed": [
     3,
     6,
     14
   ],
-  "new_facts_assessment": "All five facts are needed for the beat and fit F527, F531, F544 and F551. F566 reconciles the furthest point correctly. The song is four lines, so the chapter's 'twelve lines' contradicts F563 and must be fixed. The 81/40/20/304 pace counts are internally consistent.",
+  "new_facts_assessment": "new-facts.json is empty, yet the draft adds the route counts, the hollow of black water, the full song and Kunal's twenty-one winters. These appear already as F563 to F567 and are consistent and necessary. The draft should still list them. The lamp oil reads 'a third gone' and then 'half a lamp' a few lines later; pick one figure.",
   "content_rule_violation": false,
-  "failure_modes": [
-    "Irrational behaviour to extend plot"
-  ],
-  "average": 3.25,
-  "minimum": 0.0,
-  "passed": false
+  "failure_modes": [],
+  "average": 3.88,
+  "minimum": 3.0,
+  "passed": true
 }

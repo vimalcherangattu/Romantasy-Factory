@@ -1,0 +1,39 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 3.0,
+    "stakes_and_cost": 4.0,
+    "prose": 3.0,
+    "continuity": 5.0
+  },
+  "reasons": {
+    "reader_question": "Missing smoke over Gauri's huts, with Raghu's four gone from the far shore, gives a sharp, story-caused question about named people.",
+    "change": "The way is mapped to the water, the song is decoded, and Ila now holds a gift with no column in her ledger.",
+    "romance_movement": "New reason: his gift has no price, so her trader's habit breaks; her withheld letter becomes a debt rather than a refusal.",
+    "shown_chemistry": "The collar grab, the shared helpless laugh after the slot, his watching her hand, her 'I'd marry her' joke: all responsive, nothing narrated.",
+    "character_logic": "Kunal 'giving' counts Ila paced herself makes the gift feel staged. Past the stone it is shared discovery, not his to give.",
+    "stakes_and_cost": "Stated odds on the glaze and the dive, lost thaw days and Ila's costly silence keep each choice priced.",
+    "prose": "Mostly clean and concrete, but some compressed lines are muddy and the slot count contradicts itself.",
+    "continuity": "Ages, the song, Pritam's turn at twelve, the pattu hem, the Meadow Cairn, the dead fingertips and the huts all match the bible and the facts."
+  },
+  "fixes": [
+    "At \"Eighty-one paces to the turn. It doubles back\" (character logic): Kunal recites counts Ila paced herself, so the gift costs him nothing. Make it his to give. He names Pritam's family rule aloud, 'no prince shows the way to wife, son or friend', and says he is breaking it. He can still ask her to correct his counts. Then 'Then it's yours' carries a real cost.",
+    "At \"*Six.* Then the stone let go of her chest\" (continuity within scene): Ila counts six and then claims 'By my count it was seven.' Either take the count to *Seven.* before the stone releases her, or have her round up on purpose so the joke lands. Also fix the lamp: 'a third gone' becomes 'half gone', or change 'half a lamp' to 'two-thirds of a lamp'.",
+    "At \"He did not look at his own face for her sake\" (prose): this line is unclear, and so are 'Comfort it was not, and he did not take it for any' and 'She stood on things that way.' Rewrite each plainly, for example: 'He did not look up, so she would not have to watch him say it.' Also cut the smoke setup at the end to two sentences, so 'There was no smoke' lands faster."
+  ],
+  "reader_question": "What has happened to Gauri, Dhanu and Mini at the lower huts now that the smoke is gone?",
+  "techniques_landed": [
+    3,
+    6,
+    14
+  ],
+  "new_facts_assessment": "new-facts.json is empty, yet the draft adds the route counts, the hollow of black water, the full song and Kunal's twenty-one winters. These appear already as F563 to F567 and are consistent and necessary. The draft should still list them. The lamp oil reads 'a third gone' and then 'half a lamp' a few lines later; pick one figure.",
+  "content_rule_violation": false,
+  "failure_modes": [],
+  "average": 3.88,
+  "minimum": 3.0,
+  "passed": true
+}
