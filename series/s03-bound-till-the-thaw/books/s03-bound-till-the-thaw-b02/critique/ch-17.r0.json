@@ -1,0 +1,39 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 4.0,
+    "stakes_and_cost": 3.0,
+    "prose": 4.0,
+    "continuity": 5.0
+  },
+  "reasons": {
+    "reader_question": "Clear pull: what waits past the first turn, and why she didn't write the Eye down. The question is sharpened by the reader knowing Udai guided Harish.",
+    "change": "Knowledge moves: the Eye and the first turn are revealed. Relationship moves: she finally meets his eyes. The theory of shame is replaced by a wall he cannot name.",
+    "romance_movement": "The reason is new. He chooses not to build on her refusal, and her palm-up hand answers that choice. This is respect surviving not knowing.",
+    "shown_chemistry": "The care is responsive: the palm left on the boards, the 'kissed by weather' joke and her cut-off laugh. Some interior commentary still explains the beats.",
+    "character_logic": "Both behave smartly. One slip: Kunal credits a rule his uncle made 24 winters ago with sixty winters of keeping the crown out.",
+    "stakes_and_cost": "The petition clash is stated as interior musing, not a cost felt. His telling the Eye breaks Pritam's rule, but that cost is never named.",
+    "prose": "The prose is controlled and specific. The hand-gaze motif is overworked, 'They were pink' repeats, and 'I have a beard that smelled' reads as an error.",
+    "continuity": "Consistent with F515, F522, F526 to F529 and chapter 16 (kiss, letter, taken cold). No bible conflicts found."
+  },
+  "fixes": [
+    "'It has kept the crown out of Neshar's hills for sixty winters.' Irrational behaviour (logic slip): Pritam made the rule only 24 winters ago. Change the line to: 'The way's been kept close for sixty winters; my uncle only gave the keeping a rule.' This preserves the irony against Udai's crossing without the arithmetic error.",
+    "'He had decided it in the night, somewhere between the hand' — Stakes without depth: breaking Pritam's rule costs nothing on the page. Add one beat here where Kunal names the rule as he breaks it ('No prince shows the way to wife or son or friend. He was not sure which she was.'). Then tie that cost back to the 'high ways' petition clause he wrote.",
+    "'I have a beard that smelled of apricot smoke' reads as a typo. Change it to 'I remember a beard that smelled of apricot smoke.' Also trim the hand-gazing: cut one of the two 'They were pink' sentences and one 'looked at his hands' so the motif lands at the opening and at the close."
+  ],
+  "reader_question": "What lies past the first turn of the Eye, and what will Kunal do when he learns his grandfather walked Ila's to his death?",
+  "techniques_landed": [
+    1,
+    13,
+    14
+  ],
+  "new_facts_assessment": "All five are needed and consistent. F526 fits F488 and F507 (supper the winter he was nine). Check that the thirty-five-day council count is not confused with F435's thirty-five-day Meadow Cairn gap. Unlisted details ('three ways in nine days', the nurse's saying) are harmless but should be logged.",
+  "content_rule_violation": false,
+  "failure_modes": [],
+  "average": 4.0,
+  "minimum": 3.0,
+  "passed": true
+}
