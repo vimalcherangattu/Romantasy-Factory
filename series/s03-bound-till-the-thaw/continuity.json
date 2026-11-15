@@ -3846,6 +3846,41 @@
       "fact": "Dhanu has known Kunal thirty years; Kunal is 33.",
       "since": "s03-bound-till-the-thaw-b02 ch 22",
       "provisional": true
+    },
+    {
+      "id": "F563",
+      "category": "object",
+      "fact": "The princes' way route-song, taught to Kunal by Pritam at twelve: 'First the turn that turns you home, / then seven breaths and none to keep, / then the stone that weeps and weeps, / step on the wet where the water sleeps.' It ends at the weeping stone; Kunal has never been taught the rest.",
+      "since": "s03-bound-till-the-thaw-b02 ch 23",
+      "provisional": true
+    },
+    {
+      "id": "F564",
+      "category": "place",
+      "fact": "Inside the cleft: 81 paces from the mouth to the first turn (a hairpin that doubles back on the left, 'the turn that turns you home'); then 40 paces to the seven-breaths slot (cross sideways, breathe out fully and take no breath until through); then 20 paces to the weeping stone (a glazed ledge with a sheet of meltwater, third step on the wet is the bad one); then 304 paces of dry gravel passage marked by small blue cairn-stones.",
+      "since": "s03-bound-till-the-thaw-b02 ch 23",
+      "provisional": true
+    },
+    {
+      "id": "F565",
+      "category": "place",
+      "fact": "The way ends, for this trip, in a hollow wide as a hall whose floor slopes into black water; the blue cairn-stones continue under the surface. Too far to dive with half a lamp of oil and one night's bread, so the pair turn back.",
+      "since": "s03-bound-till-the-thaw-b02 ch 23",
+      "provisional": true
+    },
+    {
+      "id": "F566",
+      "category": "knowledge",
+      "fact": "Kunal's furthest point was the first turn (hairpin) at age twelve; he could not see cairn-light then, but sees it now as a bound man.",
+      "since": "s03-bound-till-the-thaw-b02 ch 23",
+      "provisional": true
+    },
+    {
+      "id": "F567",
+      "category": "knowledge",
+      "fact": "Ila nearly tells Kunal about the queen's letter and stops, reasoning that paying early would turn his gift into a trade; she says she will tell him 'when I can pay it properly.'",
+      "since": "s03-bound-till-the-thaw-b02 ch 23",
+      "provisional": true
     }
   ],
   "knowledge": [
