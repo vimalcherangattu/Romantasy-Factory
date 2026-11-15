@@ -1,0 +1,42 @@
+{
+  "scores": {
+    "reader_question": 3.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 3.0,
+    "stakes_and_cost": 3.0,
+    "prose": 3.0,
+    "continuity": 5.0
+  },
+  "reasons": {
+    "reader_question": "The Dhanu question is clear, but Kunal names the visitors from how the smoke draws, which deflates it. The bigger 'where will she aim the line' question stays vague.",
+    "change": "Knowledge and power both shift: the mouth is drawn true, and Ila realises for the first time that a true line is a weapon she controls.",
+    "romance_movement": "The reason is new: he hands her the place he fears and holds the rope as she asked, and she tends a cost she caused.",
+    "shown_chemistry": "Responsive care lands. She secretly took the jar two days ago, he obeys 'don't pull' at visible cost, and the thaw-date laugh is earned.",
+    "character_logic": "Ila takes a one-in-eight risk over a void for a width she then says she can pace from outside. Kunal concedes too cheaply.",
+    "stakes_and_cost": "The fall has a real cost: the lost spike and his burst hands. The next decision, aiming the line, has no named price or deadline.",
+    "prose": "Clean and readable, but the ticking motif is overused and 'storm had wiped the sky' echoes ch17. The blade epiphany is stated outright.",
+    "continuity": "Consistent with the bible: only the bound see cairn-light, the eight-span rope, fire can't warm the cold, the eleven winters of thaw dates, F527 and F473."
+  },
+  "fixes": [
+    "At \"I'll pace the width from outside. I don't need to go back in\" (irrational behaviour): the line makes the one-in-eight risk pointless. Before she enters, give a reason only the inside works, such as the ice curtain hiding the true walls, or needing a bearing on the light past the first turn. Then cut the later line, so she leaves with the figure half-taken and the lost spike as a lasting cost.",
+    "At \"Draw it true, Ila. I'd rather a hundred men knew\" (values collision resolved too cheaply): before he concedes, have Kunal name the garrison cost aloud himself, e.g. twenty men on the shelf and a fire on the tongue. Then let him still say 'Draw it true.' His concession then costs him visibly, and Ila's later garrison vision is seeded by his words.",
+    "At \"The storm had wiped the sky\" and the repeated \"The ticking went on\" (prose repetition): replace the sky line, which echoes ch17's 'The sky had been wiped'. Keep the ticking at most twice. Replace \"understood that it was also a blade\" with an action, such as her pencil stopping as she rules the 88-pace line toward the tongue, so the reader infers the realisation."
+  ],
+  "reader_question": "What has Dhanu climbed up to tell them about Raghu, and will it force Ila to choose where her true map of the Eye goes?",
+  "techniques_landed": [
+    6,
+    9,
+    15
+  ],
+  "new_facts_assessment": "All four are necessary and consistent. The goat-fat jar fits F515's shelf and ch17's hand-watching. 'Only the bound see cairn-light' matches F014. The meltwater hollow nicely echoes the Under-Cairn's ticking signature. The burst blisters follow from the frostnip. The lost survey spike should be logged as a fact, since later chapters use F518.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Irrational behaviour to extend plot",
+    "Repetitive tension"
+  ],
+  "average": 3.62,
+  "minimum": 3.0,
+  "passed": true
+}
