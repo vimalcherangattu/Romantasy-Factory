@@ -1,0 +1,41 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 3.0,
+    "character_logic": 4.0,
+    "stakes_and_cost": 4.0,
+    "prose": 3.0,
+    "continuity": 0.0
+  },
+  "reasons": {
+    "reader_question": "Dhanu's 'Ask her what she'll do with it' plus Ila's hand on her hem leaves a sharp, one-sentence question.",
+    "change": "Kunal moves from parcelling secrets to an open, irreversible gift. The hoarder-to-giver shift is clear and earned.",
+    "romance_movement": "The reason is new: he gives before he knows her answer. Ila is present only at the end, so the movement is mostly decided offstage from her.",
+    "shown_chemistry": "The doorway beat (lopsided knot, her loud laugh, her silence about his fingers) is good but short. Most of the chapter is Kunal with Dhanu.",
+    "character_logic": "Kunal's case is factual, and Dhanu's objection is the strongest legitimate one. Both argue like smart people.",
+    "stakes_and_cost": "Council exposure, a gift he can't take back and 'I'll stand in the hall and hear it' make the cost concrete.",
+    "prose": "Several 'like a man...' similes, a weak 'like a log' simile, an out-of-world 'God help him', and an ending image recycled from chapter 21.",
+    "continuity": "The walnut-grove scene with Pinku was last winter (Book 1), not 'seven winters ago', which conflicts with F215 and F449."
+  },
+  "fixes": [
+    "'seven winters ago in a manner of speaking': this is a continuity error. The Ranu grove scene with Pinku happened last winter (Book 1, ch 24; Pinku was six, now seven). Change it to 'last winter, in Ranu' and cut 'in a manner of speaking'.",
+    "'her hand went flat to the hem of her pattu': the chapter ends on the image that closed chapter 21 (and appeared in ch 13), so the image is recycled. End instead on a fresh, specific response from Ila, for example a pencil lead stopping mid-roll in her fingers or a pace count she begins under her breath. Keep her answer withheld.",
+    "'like a man closing a purse' / 'like a man who's swallowed a coal' / 'like a man naming an enemy': repeated simile frame. Keep the purse image. Recast the coal line as plain observation, and cut 'like a man naming an enemy'. Replace 'quietly, like a log' with a concrete image, and change 'God help him' to an in-world oath or remove it."
+  ],
+  "reader_question": "What will Ila do with the princes' way once Kunal has given it to her, and what lies past the turn where Pritam stopped him?",
+  "techniques_landed": [
+    3,
+    15,
+    25
+  ],
+  "new_facts_assessment": "The walnut tokens, Mini's request and the teeth-and-heel knot-tying are all necessary and consistent with F473, F534 and F555. The draft also adds one unlisted fact that is wrong: Pinku's grove walnut dated 'seven winters ago'. Dhanu knowing Kunal thirty years is plausible (Kunal is 33) but unlisted; add it to the facts.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Repetitive tension"
+  ],
+  "average": 3.25,
+  "minimum": 0.0,
+  "passed": false
+}
