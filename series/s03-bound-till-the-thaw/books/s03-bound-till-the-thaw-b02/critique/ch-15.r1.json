@@ -1,0 +1,39 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 5.0,
+    "shown_chemistry": 5.0,
+    "character_logic": 3.0,
+    "stakes_and_cost": 4.0,
+    "prose": 3.0,
+    "continuity": 5.0
+  },
+  "reasons": {
+    "reader_question": "The broken seal ends the chapter on a specific question: what the queen wants at the Glass Lakes, and whether Kunal is in it.",
+    "change": "Kunal now knows of the lie and the letter, the letter is opened, and he has chosen not to guard his routes while she sounds the ice.",
+    "romance_movement": "Trust becomes rational for a new reason: he pays to know, and she refuses to confess just to stop his shaking.",
+    "shown_chemistry": "Care is shown through action: she feeds the fire one-armed, counts his heartbeat, wedges the blanket and hides her crying; he hands the letter back.",
+    "character_logic": "Kunal's 'I'd have known you lied from your hands, as I did' undercuts the clean-ignorance choice the chapter is built on.",
+    "stakes_and_cost": "The night's cost is paid in flesh, and opening the letter may force Ila to choose in front of him.",
+    "prose": "Concrete and readable, but it leans on 'as a man...' similes, tallow twice, 'tried to smile/tried a smile' and a three-times warm-hands refrain.",
+    "continuity": "Consistent with the bible and F431, F438, F468, F518–520. Treating ch14's stacked lies as one middling lie is ambiguous, not a conflict."
+  },
+  "fixes": [
+    "At 'I'd have known you lied from your hands, as I did', the line contradicts the earlier 'small, shabby doubt' and breaks the clean-ignorance choice (character logic). Rewrite it as: 'I could have kept calling it the storm. Your hands would have let me.' The cost he chooses should be ending a doubt he could have kept, not confirming something he already knew.",
+    "At 'in answer to the only thing he had asked her', the loophole gives a lie's size, not which statement was false. Ch14 also stacked lies ('It's the storm', 'It's nothing'). Make the attribution Kunal's own reasoning ('It could only have been the one answer that mattered'). Add one line at dawn where Ila also owns 'And it wasn't the storm.'",
+    "Prose repetition: cut two of the three 'as a man...' similes (keep the bone one). Replace the second 'colour of tallow' and the second 'tried a smile'. Drop one of the three 'Her hands stayed warm' beats. Replace 'Watch my hands' with a phrase of Ila's own, so Book 1's reframing line stays unique to Rohan and Meera."
+  ],
+  "reader_question": "What does the queen's sealed letter say she wants at the Glass Lakes, and is Kunal or his people's ways in it?",
+  "techniques_landed": [
+    9,
+    14,
+    22
+  ],
+  "new_facts_assessment": "new-facts is empty, but the draft adds four facts. Most are harmless texture: Kunal learned the loophole at six from a grandmother, a children's snow-and-stone game, and the cord-and-knot sounding method. F518–520 are already recorded. The fourth is a problem: 'Watch my hands' as a common hill saying dilutes Book 1's signature reframing line, so it should be listed and reconsidered.",
+  "content_rule_violation": false,
+  "failure_modes": [],
+  "average": 4.12,
+  "minimum": 3.0,
+  "passed": true
+}
