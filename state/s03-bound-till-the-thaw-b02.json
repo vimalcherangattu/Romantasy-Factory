@@ -828,7 +828,7 @@
       }
     },
     "29": {
-      "status": "passed",
+      "status": "edited",
       "revisions": 0,
       "scores": {
         "reader_question": 4.0,
@@ -842,8 +842,19 @@
       },
       "average": 4.12,
       "flags": [],
-      "words": 3046,
-      "minimum": 3.0
+      "words": 3024,
+      "minimum": 3.0,
+      "style": {
+        "words": 3024,
+        "banned_hits": {},
+        "ai_tell_hits": {},
+        "ai_tells_per_1000": 0.0,
+        "top_4gram": "she could not have",
+        "top_4gram_count": 3,
+        "longest_paragraph_words": 107,
+        "em_dashes_per_1000": 0.33,
+        "reading_ease": 95.3
+      }
     },
     "30": {
       "status": "passed",
@@ -1575,9 +1586,13 @@
     {
       "at": "2026-11-15T21:58:49",
       "event": "done: S8 line edit ch 28"
+    },
+    {
+      "at": "2026-11-15T21:59:21",
+      "event": "done: S8 line edit ch 29"
     }
   ],
-  "updated_at": "2026-11-15T21:58:49",
+  "updated_at": "2026-11-15T21:59:21",
   "midpoint_chapter": 16,
   "continuity_attempts": 1,
   "continuity_last_errors": 3
