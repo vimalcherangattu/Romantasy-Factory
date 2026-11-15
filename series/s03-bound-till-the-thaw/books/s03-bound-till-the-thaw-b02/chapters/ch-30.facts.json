@@ -1,24 +1,28 @@
 {
   "facts": [
     {
+      "id": "F604",
       "category": "knowledge",
-      "fact": "Rohan has stood the dawn watch at the Shilak Cairn for several mornings because Ila wrote from Garh Neshar that she would come out at Shilak if the mountain let her; she did not say how.",
-      "why": "needed because the beat has Rohan's wardens at the cairn at dawn when Kunal and Ila emerge."
+      "fact": "For three nights the Shilak Cairn has rung from under the ground with no one inside the ring. Gopal sent for Rohan, who has stood dawn watch at the cairn since. Ila had not written that she would come out at Shilak. Replaces the earlier F604.",
+      "since": "s03-bound-till-the-thaw-b02 ch 30"
     },
     {
+      "id": "F605",
       "category": "place",
       "fact": "Beyond the Under-Cairn door a stair of laid stones with blue seams climbs to a gap between two slabs inside the Shilak Cairn ring.",
-      "why": "needed because the beat requires a meltwater crack exit under the Shilak Cairn."
+      "since": "s03-bound-till-the-thaw-b02 ch 30"
     },
     {
+      "id": "F606",
       "category": "knowledge",
-      "fact": "Meera is now a pardoned licensed guide, with a licence cord and the queen's seal at her belt.",
-      "why": "needed because the beat describes her as pardoned and licensed at the door."
+      "fact": "Meera is now a pardoned licensed guide. Her licence cord carries the post's brown seal and the council's blue seal, plus a pardon wax with a thread of red. Replaces the earlier F606, which named the queen's seal.",
+      "since": "s03-bound-till-the-thaw-b02 ch 30"
     },
     {
+      "id": "F607",
       "category": "knowledge",
       "fact": "Pasang walks out bound to Raghu as a witness; Kunal offers to write his name under his testimony about where the route-keepers are held, without promising their release.",
-      "why": "needed to resolve Pasang's refusal while avoiding an unkeepable bound promise."
+      "since": "s03-bound-till-the-thaw-b02 ch 30"
     }
   ]
 }
