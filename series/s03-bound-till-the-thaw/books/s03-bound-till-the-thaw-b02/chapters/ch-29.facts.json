@@ -1,0 +1,34 @@
+{
+  "facts": [
+    {
+      "category": "object",
+      "fact": "Kunal cut Ila's crutch from a juniper limb at the lake huts, padded at the fork with his own shirt hem.",
+      "why": "needed because the beat has Ila walking on a crutch Kunal cut."
+    },
+    {
+      "category": "place",
+      "fact": "The black water in the hollow is a knee-deep ledge path along the left wall following the blue stones, ending in a six-foot step where the water drops into a crack (the 'drop'); beyond it a crawl of roughly fifty-plus paces leads to the Under-Cairn.",
+      "why": "needed to bridge the prior chapter's 'too far to dive' hollow to the beat's 'past the drop'."
+    },
+    {
+      "category": "place",
+      "fact": "The Under-Cairn is a vault of stacked flat stones with faint blue cairn-light in the seams; its door frame (two uprights, a lintel) carries the three-nested-loop knot.",
+      "why": "beat requires the door frame and cairn-light."
+    },
+    {
+      "category": "knowledge",
+      "fact": "The Under-Cairn carving shows a broad man's hand (Saro) and a longer narrow woman's hand (Hemi), implying Hemi was a woman; the old script reads 'Carried till no' plus a worn final word (unread).",
+      "why": "beat requires the hand measurement and the partly read, worn script; links to 'carried till no thaw'."
+    },
+    {
+      "category": "knowledge",
+      "fact": "The scratched column beside the door holds fourteen marks, some with signs (knot, goat, wave); the last is a warden's goat and 'Harish'. The shelf holds thirteen rotted glove pairs, folded palms together; Harish's pair is absent because he laid his on the hillside stone.",
+      "why": "beat requires the marks and gloves; the count mismatch ties to the established hillside gloves."
+    },
+    {
+      "category": "object",
+      "fact": "Ila takes the rubbing with a pencil lead Kunal carries warm inside his shirt; the rubbing's final word is smeared and the paper tears slightly.",
+      "why": "beat requires a rubbing on field paper; reuses the established warm pencil leads."
+    }
+  ]
+}
