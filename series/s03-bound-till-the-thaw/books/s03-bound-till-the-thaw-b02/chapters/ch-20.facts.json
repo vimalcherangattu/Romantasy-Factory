@@ -1,23 +1,18 @@
 {
   "facts": [
     {
-      "category": "timeline",
-      "fact": "Kunal's father died at the end of summer, of a lung fever. Pritam told the Udai story at supper a week after the funeral; he took Kunal up the Kuhl ridge a month after the funeral, in autumn. S7: change F526's 'winter Kunal was nine' to autumn, and F540's 'spring' to end of summer.",
+      "category": "knowledge",
+      "fact": "Kunal followed the nanny goat for two days: on the first night a herd boy gave him a cheese rind without asking his name, and he walked into Garh Neshar at dusk on the second day. Ila's summary is 'home in two days'. Aligns ch 20 with the beat and F636's 'third day' (S7 to amend F636).",
       "since": "s03-the-winter-oath-b02 ch 20"
     },
     {
-      "category": "place",
-      "fact": "The night-of-ch20 hut is a herders' summer hut on the scree above the Drum, a steep climb from the shore. It is not Dhanu's upper hut above the Mirror (F515). Corrects F543.",
-      "since": "s03-the-winter-oath-b02 ch 20"
-    },
-    {
-      "category": "object",
-      "fact": "In the hut Ila unpicks her coat lining, moves the queen's letter into her pattu's hem and sews it in. She unties the rope for the night, then reties it on both wrists before Kunal's promise.",
+      "category": "relationship",
+      "fact": "Kunal says the hill council has followed him for eight winters and none of them holds the whole of the ways (already F637).",
       "since": "s03-the-winter-oath-b02 ch 20"
     },
     {
       "category": "magic",
-      "fact": "Before Kunal's 'ask nothing back' promise, Ila names both costs aloud: a broken promise strikes as a great lie, and each name may become a line on the crown's map. At dawn his fingertips chill when he begins to ask about the letter, and he stops.",
+      "fact": "As Kunal makes the 'ask nothing back' promise his eyes go to the hem of Ila's pattu where he watched her sew the queen's letter; he recognises the promise covers it and lets it stand. His dawn near-question is therefore a chosen cost biting, not a lapse.",
       "since": "s03-the-winter-oath-b02 ch 20"
     }
   ]
