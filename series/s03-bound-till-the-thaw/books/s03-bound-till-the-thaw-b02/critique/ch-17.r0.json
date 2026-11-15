@@ -7,33 +7,33 @@
     "character_logic": 4.0,
     "stakes_and_cost": 3.0,
     "prose": 4.0,
-    "continuity": 5.0
+    "continuity": 0.0
   },
   "reasons": {
-    "reader_question": "Clear pull: what waits past the first turn, and why she didn't write the Eye down. The question is sharpened by the reader knowing Udai guided Harish.",
-    "change": "Knowledge moves: the Eye and the first turn are revealed. Relationship moves: she finally meets his eyes. The theory of shame is replaced by a wall he cannot name.",
-    "romance_movement": "The reason is new. He chooses not to build on her refusal, and her palm-up hand answers that choice. This is respect surviving not knowing.",
-    "shown_chemistry": "The care is responsive: the palm left on the boards, the 'kissed by weather' joke and her cut-off laugh. Some interior commentary still explains the beats.",
-    "character_logic": "Both behave smartly. One slip: Kunal credits a rule his uncle made 24 winters ago with sixty winters of keeping the crown out.",
-    "stakes_and_cost": "The petition clash is stated as interior musing, not a cost felt. His telling the Eye breaks Pritam's rule, but that cost is never named.",
-    "prose": "The prose is controlled and specific. The hand-gaze motif is overworked, 'They were pink' repeats, and 'I have a beard that smelled' reads as an error.",
-    "continuity": "Consistent with F515, F522, F526 to F529 and chapter 16 (kiss, letter, taken cold). No bible conflicts found."
+    "reader_question": "The ending hands the reader a specific gap: the grief in her eyes and the Eye left out of her field book.",
+    "change": "Kunal breaks Pritam's rule and gives the Eye unasked. Reader learns Pritam invented the rule. Ila gets the guest story.",
+    "romance_movement": "New reason: a narrow question, a free refusal he chooses not to build on. His respect survives not knowing.",
+    "shown_chemistry": "Her palm left open on the boards, 'kissed by weather', her laugh, his open hands in the doorlight. All responsive, little narration.",
+    "character_logic": "Asking the narrowest question to avoid shrug-answers is smart. Ila's silence is consistent with her archive oath.",
+    "stakes_and_cost": "The rule-break cost is real but muddled by 'fifteen men'. The petition link is told more than felt.",
+    "prose": "Mostly clean and specific. One AI tell ('the weight of'), an 'in it' echo and one confusing hut-wall sentence.",
+    "continuity": "Thaw council placed at day 35 conflicts with F622 (council day 56). 'Fifteen men' conflicts with nine councillors (F657). Day 20 strains F512."
   },
   "fixes": [
-    "'It has kept the crown out of Neshar's hills for sixty winters.' Irrational behaviour (logic slip): Pritam made the rule only 24 winters ago. Change the line to: 'The way's been kept close for sixty winters; my uncle only gave the keeping a rule.' This preserves the irony against Udai's crossing without the arithmetic error.",
-    "'He had decided it in the night, somewhere between the hand' — Stakes without depth: breaking Pritam's rule costs nothing on the page. Add one beat here where Kunal names the rule as he breaks it ('No prince shows the way to wife or son or friend. He was not sure which she was.'). Then tie that cost back to the 'high ways' petition clause he wrote.",
-    "'I have a beard that smelled of apricot smoke' reads as a typo. Change it to 'I remember a beard that smelled of apricot smoke.' Also trim the hand-gazing: cut one of the two 'They were pink' sentences and one 'looked at his hands' so the motif lands at the opening and at the close."
+    "'thirty-five days to the thaw council the hill council had fixed': continuity conflict with F622. Rewrite so thirty-five is the Meadow Cairn meltwater, when the bond ends. The Shilak thaw council comes after it, three weeks on in a hard year. Recast 'He had thought of it as a distance' so the fifteen empty strokes count down to the bond's end.",
+    "'Fifteen men would share what one man had held': the hill council has nine members (F657). Change to 'Nine council members would share'. Also fix the day count. 'three days of Ila's field book' and 'watched them for a week' contradict 'day twenty'. Either align all three to the beat's twenty and flag F512 for an S7 ruling, or rule the day count down.",
+    "'paced twice and found a hand narrower than the north side': unclear logic; name which wall is short of which. 'the stones outside sang in it, a low note with no meaning in it': echo; cut the second 'in it'. 'He knew the exact weight of it': AI tell; replace with 'He knew to the grain what it cost her nothing.'"
   ],
-  "reader_question": "What lies past the first turn of the Eye, and what will Kunal do when he learns his grandfather walked Ila's to his death?",
+  "reader_question": "What lies past the first turn of the princes' way, and what will Kunal do when he learns his grandfather walked Ila's to his death?",
   "techniques_landed": [
     1,
     13,
     14
   ],
-  "new_facts_assessment": "All five are needed and consistent. F526 fits F488 and F507 (supper the winter he was nine). Check that the thirty-five-day council count is not confused with F435's thirty-five-day Meadow Cairn gap. Unlisted details ('three ways in nine days', the nurse's saying) are harmless but should be logged.",
+  "new_facts_assessment": "Nurse's lullaby origin for 'Where the Drum answers' is fine and adds texture. 'Three ways in twenty days' conflicts with F512: six days roped at ch 13, and only a few days have passed since. The chapter's own 'three days of Ila's field book' and 'for a week' contradict it too. The second fact's claim that the thaw council falls thirty-five days from binding contradicts F618/F622. Day 35 is the Meadow Cairn bond end, and the Shilak council follows on day 56. The beat itself says 'with Shilak's thaw council after that'. The rule-break link to the petition is good.",
   "content_rule_violation": false,
   "failure_modes": [],
-  "average": 4.0,
-  "minimum": 3.0,
-  "passed": true
+  "average": 3.38,
+  "minimum": 0.0,
+  "passed": false
 }
