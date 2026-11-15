@@ -1,0 +1,41 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 4.0,
+    "stakes_and_cost": 4.0,
+    "prose": 3.0,
+    "continuity": 0.0
+  },
+  "reasons": {
+    "reader_question": "Clear and specific: will Ila hand over the sheets, and what is the 'not yet' cost she is holding back?",
+    "change": "Kunal's creed flips to selling the way for one man. He now knows the hostages are taken and the note is false.",
+    "romance_movement": "For the first time he asks her for everything rather than giving. Her refusal to answer sets up the clash with new reasons.",
+    "shown_chemistry": "She gives him a measure to stand on, and he lets her rewrite 'That's what I said'. Responsive and understated.",
+    "character_logic": "Kunal's proof-of-life inference is sound and Ila's witness argument is sharp. He never weighs scouting the fold, which is a small gap.",
+    "stakes_and_cost": "One in three odds, the hills' one door against Dhanu, and Ila's hidden cost. The price is explicit and personal.",
+    "prose": "Mostly lean and concrete. The interior restates the beat ('become his uncle's lesson'), 'coin' echoes three times, and 'last night' repeats.",
+    "continuity": "'Never asked' about her hand on the seam conflicts with ch21 (F553), where he paid fingers to ask. Several 'last night' references clash with the cleft night."
+  },
+  "fixes": [
+    "'He had seen her do it three times and never asked.' This is a continuity conflict: in ch21 (F553) Kunal broke his promise and paid with his fingertips to ask what the letter said. Rewrite as: 'He had asked once, and paid for it, and not asked again.' Move her hand to the pattu hem, where the letter lies (F547), not 'her coat, over the seam'.",
+    "'Every argument Dhanu had made at the fire last night' and 'He had said that last night with his hand on a walnut'. This is a timeline conflict, because last night was spent in the cleft (ch23), where he also gave her the route. Change both Dhanu references to 'at the fire before the Eye'. Keep 'last night' only for the cleft gift.",
+    "'He had become his uncle's lesson. Pritam could have written it for him.' This is on-the-nose interiority that restates the beat and stretches the monologue. Cut both sentences and let 'Whoever knows the way owns the people, and whoever owns the people may sell them' carry the idea. Replace one of the three 'coin' images (keep 'coin by coin', change the whistle's 'like a coin' to the cold of iron)."
+  ],
+  "reader_question": "Will Ila give up the sheets to buy Dhanu and Gauri, and what is the cost she says he doesn't know?",
+  "techniques_landed": [
+    6,
+    7,
+    11
+  ],
+  "new_facts_assessment": "Drum fold and the note are needed and consistent. The five-sheets fact must settle the location: four are in the pattu side seam (F554), and the Eye sheet went 'inside her coat' at the end of ch23. 'Two dead fingers' adds a count F555 never gave; keep it as 'dead fingertips'. The odds fact is fine.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Endless monologue"
+  ],
+  "average": 3.38,
+  "minimum": 0.0,
+  "passed": false
+}
