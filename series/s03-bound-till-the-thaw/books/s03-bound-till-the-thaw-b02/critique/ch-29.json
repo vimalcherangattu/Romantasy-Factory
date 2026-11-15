@@ -1,0 +1,41 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 5.0,
+    "shown_chemistry": 5.0,
+    "character_logic": 3.0,
+    "stakes_and_cost": 3.0,
+    "prose": 4.0,
+    "continuity": 5.0
+  },
+  "reasons": {
+    "reader_question": "Who carries the lamp up the crawl is sharp and story-caused; the worn last word adds a second, specific gap.",
+    "change": "Major knowledge gains (Hemi a woman, Harish's mark, thirteen gloves) plus a declaration; power is unchanged until the final intrusion.",
+    "romance_movement": "The declaration in the dark is a new move: he removes her one instrument, and she chooses to hold rather than read.",
+    "shown_chemistry": "Counting her lurching pace, the warm pencil lead, the shirt-padded crutch, the pinched lamp: all responsive action, none narrated.",
+    "character_logic": "Kunal calmly cites his grandfather, who is Udai, one chapter after naming Udai culpable. He never registers that Udai stood here.",
+    "stakes_and_cost": "Oil, the foot and the Meadow deadline sit in the background. The declaration has no visible price beyond her trust.",
+    "prose": "Clean and concrete, with one AI tell. 'Seen it once, in a dozen rubbings' contradicts itself, and 'very' recurs about five times.",
+    "continuity": "Consistent with F521, F583, F490, F494, F271 and the loophole rule; the worn word stays open per the bible hinge."
+  },
+  "fixes": [
+    "At 'My grandfather taught the route-songs in this hand': ch28 just named Udai as the man who walked Harish to his death, yet Kunal says it flatly. Either reassign the teacher (his mother, Dhanu), or give Kunal one stopped beat. He realises Udai read this line with Harish beside him, and his hand goes to the lamp.",
+    "At 'Asha ties every knot like it. Her grandmother taught her.': this pre-empts S7 (Book 4 midpoint) by letting Ila infer a family door. Keep Meera's sketch and 'Same as cairn' with Asha's crew as the source. Cut the grandmother line and 'a door built for someone's family'. Ila notes the match and files it.",
+    "At 'She had seen the cairn carving once, in a dozen rubbings': the line is self-contradictory. Make it 'She had never seen the cairn carving, only a dozen rubbings, all wrong.' Then trim 'very' from 'very quietly', 'very gently', 'very low', 'very still' and 'very straight', keeping at most one."
+  ],
+  "reader_question": "Who has followed Ila and Kunal into the Under-Cairn, and can they get out with what they found?",
+  "techniques_landed": [
+    1,
+    11,
+    20
+  ],
+  "new_facts_assessment": "Listed facts are necessary and consistent. Four facts are unlisted. Udai teaching route-songs in this script is loaded and needs handling. Meera relaying Asha's grandmother and Ila inferring 'a door built for someone's family' push S7 toward its Book 4 payoff too early. Ila's mother's long hands and the Taravan wall at nineteen are harmless. 'I've said that word my whole life' sits uneasily with F471, though it does not conflict.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Irrational behaviour to extend plot"
+  ],
+  "average": 4.12,
+  "minimum": 3.0,
+  "passed": true
+}
