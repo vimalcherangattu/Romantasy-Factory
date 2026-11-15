@@ -2,40 +2,40 @@
   "scores": {
     "reader_question": 4.0,
     "change": 4.0,
-    "romance_movement": 5.0,
-    "shown_chemistry": 5.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
     "character_logic": 4.0,
     "stakes_and_cost": 4.0,
-    "prose": 3.0,
-    "continuity": 0.0
+    "prose": 4.0,
+    "continuity": 5.0
   },
   "reasons": {
-    "reader_question": "The broken seal makes the letter's contents urgent, but Ila's Shilak Cairn line half-answers it early and blunts the gap.",
-    "change": "Kunal now knows of the lie, the letter and her reason. He gives up claim to the letter, which reverses his hoarding.",
-    "romance_movement": "Trust becomes rational for a new reason: he chose to pay a cost that told him she lied, then refused to seize the letter.",
-    "shown_chemistry": "Responsive care runs both ways: she holds and feeds the fire, refuses to confess to stop his shaking, and hums once steadied.",
-    "character_logic": "Both leads act smartly. But Kunal invents a false memory to his bound partner with no cost, and Ila, a measurer, never notices.",
-    "stakes_and_cost": "Taking the cold costs his flesh. The letter may force her to choose in front of him, and the hunters give the ice readings tactical weight.",
-    "prose": "Concrete and mostly fresh. Costs: the muddled hut-stones sentence, 'stolen blanket', 'Put me down', the opaque 'two fingers on nothing' callback, and tallow repeated.",
-    "continuity": "Ila claims the commission names the way beneath the Shilak Cairn, but F431/F471 say she never saw that clause, and F464 says she doesn't know it."
+    "reader_question": "The broken seal on the Drum leaves a sharp, specific question: what the queen wants at the Glass Lakes, and whether Kunal is in it.",
+    "change": "Knowledge shifts both ways: he knows she lied and pays for it, and she confesses the letter. Its existence now passes between them in daylight.",
+    "romance_movement": "The reason is new. He buys the truth with his own flesh by choice, and she won't use the truth as a cure. The quiet sounding stretch slows the turn a little.",
+    "shown_chemistry": "Responsive action carries it: she counts his heart, feeds the fire one-armed, cries unseen, and he declines to take the letter.",
+    "character_logic": "Both act smartly. Her reason for lying is coherent and costed, and his refusal to demand the letter fits his arc. One slip in his tally of who paid.",
+    "stakes_and_cost": "Taking the cold costs a night's shaking. Opening the letter may force her 'to choose in front of you'. The ice numbers tie into the Raghu threat.",
+    "prose": "Clean, concrete and varied. The uncle/Pritam contrast device repeats, and a few tidy aphoristic lines tell change the action already showed.",
+    "continuity": "Consistent with the loophole rules, F438 (letter fold and seal), F518–F520, ch14's two lies and the 'two weeks' carry."
   },
   "fixes": [
-    "'The way beneath the Shilak Cairn runs from here': continuity break. Per F431/F464 Ila never saw that clause, and the reason belongs to the unopened letter. Change to: her commission says only 'every way'; the letter's fold names the Glass Lakes; she does not know why the queen wants them. Also cut 'under the part I was allowed to read' and check 'handed to me in Taravan' against ch 3.",
-    "'whether I'd rather be poor in trust or rich in knives': the rule bites inconsistently. A known-false statement to a bound partner should cost cold unless both know it's a joke. Cut the line, or have Ila say 'I never asked you that' and Kunal answer 'No. Fever talk', so it is plainly unmeant and free.",
-    "'Eleven holds the two of us and a mule': worldbuilding inconsistency. Her rule says three people need twelve, so a mule at eleven contradicts it. Change to 'Eleven holds the two of us with packs. It won't hold a third.' Also fix 'stolen blanket' to 'Dhanu's blanket', and rewrite the muddled 'stones in the hut wall, had there been any bound' sentence as 'There were no stones here to sing. Her hands did not change.'"
+    "'It cost you a night of this, and me one.' Irrational behaviour slip: Ila carried the cold under an hour before Kunal took it all, so a careful accountant like him would not say this. Change it to 'It cost you an hour of this, and me the night', which keeps the ledger exact and his dry humour.",
+    "'He turned the thought over carefully, as a man handles a bone' and the paragraph before it. This is narrated change (mild Endless monologue): the sounding sequence tells us trust held. Replace it with an act. Kunal, unasked, names where Raghu's pairs would likely cross, or corrects a seam she missed, and she writes it. That shows him sharing a way of his own will.",
+    "'A smaller man would have stood at the edge of the doubt... His uncle would have.' The 'X would have' contrast repeats later in 'Pritam would have said it, softly'. Cut the first instance, or make it about Kunal's own past self, so the Pritam beat at the letter offer lands once and harder."
   ],
-  "reader_question": "What does the queen's letter say she wants at the Glass Lakes, and will it force Ila to betray Kunal's ways?",
+  "reader_question": "What does the queen's sealed letter say she wants at the Glass Lakes, and does it name Kunal's people?",
   "techniques_landed": [
     9,
     14,
     22
   ],
-  "new_facts_assessment": "Survey spike: necessary and plausible. The Drum: necessary and consistent with the booming-lakes signature. Ice rule (8 fingers for a pair, 12 for three): useful, but the page contradicts it with 'eleven holds the two of us and a mule'. Unlisted new facts that need ruling: the letter 'handed to me in Taravan by someone I will not name' (check against F438's ch 3 delivery), and Ila knowing the Under-Cairn way runs from the lakes (conflicts with F431).",
+  "new_facts_assessment": "All four facts are necessary and consistent. The grandmother's lullaby fits F013 and hill culture. Fingers-of-ice soundings match F518/F520. 'Check the work' suits Ila's clerk voice. Admitting the storm lie matches ch14's 'It's the storm.' No conflicts.",
   "content_rule_violation": false,
   "failure_modes": [
-    "Worldbuilding collapse"
+    "Endless monologue"
   ],
-  "average": 3.62,
-  "minimum": 0.0,
-  "passed": false
+  "average": 4.12,
+  "minimum": 4.0,
+  "passed": true
 }

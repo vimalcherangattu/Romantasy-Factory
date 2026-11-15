@@ -2,38 +2,40 @@
   "scores": {
     "reader_question": 4.0,
     "change": 4.0,
-    "romance_movement": 5.0,
-    "shown_chemistry": 5.0,
-    "character_logic": 3.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 4.0,
     "stakes_and_cost": 4.0,
-    "prose": 3.0,
+    "prose": 4.0,
     "continuity": 5.0
   },
   "reasons": {
-    "reader_question": "The broken seal ends the chapter on a specific question: what the queen wants at the Glass Lakes, and whether Kunal is in it.",
-    "change": "Kunal now knows of the lie and the letter, the letter is opened, and he has chosen not to guard his routes while she sounds the ice.",
-    "romance_movement": "Trust becomes rational for a new reason: he pays to know, and she refuses to confess just to stop his shaking.",
-    "shown_chemistry": "Care is shown through action: she feeds the fire one-armed, counts his heartbeat, wedges the blanket and hides her crying; he hands the letter back.",
-    "character_logic": "Kunal's 'I'd have known you lied from your hands, as I did' undercuts the clean-ignorance choice the chapter is built on.",
-    "stakes_and_cost": "The night's cost is paid in flesh, and opening the letter may force Ila to choose in front of him.",
-    "prose": "Concrete and readable, but it leans on 'as a man...' similes, tallow twice, 'tried to smile/tried a smile' and a three-times warm-hands refrain.",
-    "continuity": "Consistent with the bible and F431, F438, F468, F518–520. Treating ch14's stacked lies as one middling lie is ambiguous, not a conflict."
+    "reader_question": "The broken seal on the Drum leaves a sharp, specific question: what the queen wants at the Glass Lakes, and whether Kunal is in it.",
+    "change": "Knowledge shifts both ways: he knows she lied and pays for it, and she confesses the letter. Its existence now passes between them in daylight.",
+    "romance_movement": "The reason is new. He buys the truth with his own flesh by choice, and she won't use the truth as a cure. The quiet sounding stretch slows the turn a little.",
+    "shown_chemistry": "Responsive action carries it: she counts his heart, feeds the fire one-armed, cries unseen, and he declines to take the letter.",
+    "character_logic": "Both act smartly. Her reason for lying is coherent and costed, and his refusal to demand the letter fits his arc. One slip in his tally of who paid.",
+    "stakes_and_cost": "Taking the cold costs a night's shaking. Opening the letter may force her 'to choose in front of you'. The ice numbers tie into the Raghu threat.",
+    "prose": "Clean, concrete and varied. The uncle/Pritam contrast device repeats, and a few tidy aphoristic lines tell change the action already showed.",
+    "continuity": "Consistent with the loophole rules, F438 (letter fold and seal), F518–F520, ch14's two lies and the 'two weeks' carry."
   },
   "fixes": [
-    "At 'I'd have known you lied from your hands, as I did', the line contradicts the earlier 'small, shabby doubt' and breaks the clean-ignorance choice (character logic). Rewrite it as: 'I could have kept calling it the storm. Your hands would have let me.' The cost he chooses should be ending a doubt he could have kept, not confirming something he already knew.",
-    "At 'in answer to the only thing he had asked her', the loophole gives a lie's size, not which statement was false. Ch14 also stacked lies ('It's the storm', 'It's nothing'). Make the attribution Kunal's own reasoning ('It could only have been the one answer that mattered'). Add one line at dawn where Ila also owns 'And it wasn't the storm.'",
-    "Prose repetition: cut two of the three 'as a man...' similes (keep the bone one). Replace the second 'colour of tallow' and the second 'tried a smile'. Drop one of the three 'Her hands stayed warm' beats. Replace 'Watch my hands' with a phrase of Ila's own, so Book 1's reframing line stays unique to Rohan and Meera."
+    "'It cost you a night of this, and me one.' Irrational behaviour slip: Ila carried the cold under an hour before Kunal took it all, so a careful accountant like him would not say this. Change it to 'It cost you an hour of this, and me the night', which keeps the ledger exact and his dry humour.",
+    "'He turned the thought over carefully, as a man handles a bone' and the paragraph before it. This is narrated change (mild Endless monologue): the sounding sequence tells us trust held. Replace it with an act. Kunal, unasked, names where Raghu's pairs would likely cross, or corrects a seam she missed, and she writes it. That shows him sharing a way of his own will.",
+    "'A smaller man would have stood at the edge of the doubt... His uncle would have.' The 'X would have' contrast repeats later in 'Pritam would have said it, softly'. Cut the first instance, or make it about Kunal's own past self, so the Pritam beat at the letter offer lands once and harder."
   ],
-  "reader_question": "What does the queen's sealed letter say she wants at the Glass Lakes, and is Kunal or his people's ways in it?",
+  "reader_question": "What does the queen's sealed letter say she wants at the Glass Lakes, and does it name Kunal's people?",
   "techniques_landed": [
     9,
     14,
     22
   ],
-  "new_facts_assessment": "new-facts is empty, but the draft adds four facts. Most are harmless texture: Kunal learned the loophole at six from a grandmother, a children's snow-and-stone game, and the cord-and-knot sounding method. F518–520 are already recorded. The fourth is a problem: 'Watch my hands' as a common hill saying dilutes Book 1's signature reframing line, so it should be listed and reconsidered.",
+  "new_facts_assessment": "All four facts are necessary and consistent. The grandmother's lullaby fits F013 and hill culture. Fingers-of-ice soundings match F518/F520. 'Check the work' suits Ila's clerk voice. Admitting the storm lie matches ch14's 'It's the storm.' No conflicts.",
   "content_rule_violation": false,
-  "failure_modes": [],
+  "failure_modes": [
+    "Endless monologue"
+  ],
   "average": 4.12,
-  "minimum": 3.0,
+  "minimum": 4.0,
   "passed": true
 }
