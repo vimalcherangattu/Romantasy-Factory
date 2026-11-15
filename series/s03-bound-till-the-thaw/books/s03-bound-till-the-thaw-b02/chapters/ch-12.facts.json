@@ -1,14 +1,10 @@
 {
   "facts": [
     {
+      "id": "",
       "category": "place",
-      "fact": "The Widow's Ladder's second ledge has its own anchor stone, a squat knuckle of rock worn smooth by ropes. The hard pitch's fifty-seven treads are short (a hand and a half each) and fall only about forty feet, inside the eight-span rope. Totals: 36, 34, 57 and a last pitch, 160 steps in all. The hamlets re-cut the steps every thaw, and Kunal walked it at eleven.",
-      "since": "b02 ch 12"
-    },
-    {
-      "category": "knowledge",
-      "fact": "Revises F496: Ila has read every chronicle of the passes the survey office holds, and read her grandfather's 'carried down at the thaw' entry years ago over her father's shoulder. Nineteen is kept only for her oath (F497).",
-      "since": "b02 ch 12"
+      "fact": "A single steady orange fire burns on a shoulder of rock above the head of the last lake, seen from the foot of the Widow's Ladder at night; no hut or fold stands there. Kunal says nobody keeps a fire there. Ila connects it to Raghu's two pairs (F485).",
+      "since": "s03-the-winter-oath-b02 ch 12"
     }
   ]
 }
