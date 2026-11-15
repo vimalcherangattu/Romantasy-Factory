@@ -1,0 +1,41 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 4.0,
+    "stakes_and_cost": 4.0,
+    "prose": 3.0,
+    "continuity": 5.0
+  },
+  "reasons": {
+    "reader_question": "Sharp and specific: will she tell him before the Cairn, and was Udai's guiding a crime or a mercy?",
+    "change": "Big knowledge reversal (grandfather, Udai, grave map) plus first kiss; power shifts to Ila, who now holds his family's secret.",
+    "romance_movement": "First kiss is costed with a new reason, the promise-nothing clause; the reversal recasts him as heir to the debt; his open hand moves trust.",
+    "shown_chemistry": "Responsive action: laugh against his mouth, his careful hands, unchecked nails, hand left shaped to her face. Very little narrated feeling.",
+    "character_logic": "Silence is well reasoned: the oath, the queen's line, and real doubt about Udai. Kissing before reading is honestly framed and fits Ila.",
+    "stakes_and_cost": "Free silence is turned into a moral cost she hates. His acceptance visibly costs him. Walking her down the road carries dramatic-irony weight.",
+    "prose": "Clean, no banned phrases or tells. But the letter section drifts into a long monologue, one line contradicts itself, and the ending restates the irony.",
+    "continuity": "Ila 31, 61 winters, gloves (F490), Udai (F484, F635), archive oath (F706), rope length and grey fingertips all consistent."
+  },
+  "fixes": [
+    "'And neither of them knew it, except the one holding the letter.' This line contradicts itself, and it follows a second statement of 'Her neutral map was a family grave map', which repeats 'it was a grave map. Her own family's.' Cut the repeat. Replace the contradiction with a clean line, e.g. 'He didn't know. Only the one holding the letter did.'",
+    "'She went through it as she would have gone through a field sheet': the stretch from here back to the gloves memory runs about 700 words of interiority with no action (Endless monologue). Break it with a physical choice halfway. For example, she writes 'Harish. Udai.' in the field book and then crosses it out. Or Kunal starts to speak, and she lifts a hand to stop him. Trim the list of route-keepers and holes to one item.",
+    "'She knew what his family had done, and he did not.' This tells the reader an irony they already hold, and it dilutes the beat's end on 'Then I'll take you.' Cut this paragraph and the 'She could not say anything that was both kind and true' paragraph to a single sentence. Close on the action of buttoning the letter against her ribs and following him east."
+  ],
+  "reader_question": "Will Ila tell Kunal that his grandfather walked hers to his death before they reach the Cairn, and what price is written there?",
+  "techniques_landed": [
+    17,
+    3,
+    13
+  ],
+  "new_facts_assessment": "F707 (gloves read on the shelf after the letter) is necessary because the reveal must follow the reading, and it correctly supersedes F593. F708 (31 winters since crowning) matches Book 2 as the 31st winter. F709 (Udai came home) fits F635 and usefully opens the crime-or-mercy ambiguity. Unlisted but harmless: a gold-edged oath page, the father telling the gloves story drunk (echoes F236), and the clerk's stroke on Harish (does not conflict with F641).",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Endless monologue"
+  ],
+  "average": 4.0,
+  "minimum": 3.0,
+  "passed": true
+}
