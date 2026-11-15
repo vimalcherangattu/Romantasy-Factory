@@ -1,0 +1,41 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 5.0,
+    "romance_movement": 5.0,
+    "shown_chemistry": 5.0,
+    "character_logic": 4.0,
+    "stakes_and_cost": 4.0,
+    "prose": 4.0,
+    "continuity": 0.0
+  },
+  "reasons": {
+    "reader_question": "Clear: will he break his promise to ask, and when will she tell? The ending's 'a number' sharpens it.",
+    "change": "He goes from armoured to known; they become lovers; the name trade becomes a gift bound as a promise.",
+    "romance_movement": "His disclosure is fully met. Her 'I want you' with bare hands is a new, verified reason they come together.",
+    "shown_chemistry": "Pencil leads, clipped coins, knuckle kisses and the warmed feet all show attraction answering what each has seen the other do.",
+    "character_logic": "Both act smartly. Kunal binds himself knowingly. The ch19 exposure worry is mostly dropped on the open shore.",
+    "stakes_and_cost": "Ila names both prices before the knot, and the cost bites at dawn. Her price speech is slightly expository.",
+    "prose": "Clean, no banned phrases or dashes. The surveyor metaphors are overworked and 'coal a thin red line' is repeated.",
+    "continuity": "Ila says 'Kunal' twice before the beat's first-name moment, which the text then calls the first. This is an internal and beat conflict."
+  },
+  "fixes": [
+    "At '\"Kunal,\" said Ila. / \"Let me.\"' and 'He owned nothing, Kunal': Ila uses his name before the beat's first-name moment. This breaks continuity and spends the payoff early. Change the first to '\"Highness,\" said Ila' and cut 'Kunal' from the second line. Then 'Not Highness... His own name' lands as the first.",
+    "At 'You paid nineteen silvers with the corners clipped': the deduction has no support, because the clipped corner is what made the buyer identifiable. Add one clause earlier, in Ila's voice: Garh store silver is punched with the store-bell in one corner. Clipping removes the crown-held stores' mark (F448), so the coin can't be traced to the Garh treasury or to him.",
+    "At 'She kissed as she measured' and 'as though she had measured him': overused surveyor similes, along with 'giving him a measurement' and 'it's measured'. Keep 'it's measured' and cut the other two. Also replace the second 'the coal a thin red line' at the dawn opening with a new detail, such as frost on the pot rim."
+  ],
+  "reader_question": "Will Kunal break his promise and ask about the letter, and what will Ila's silence cost them?",
+  "techniques_landed": [
+    9,
+    10,
+    25
+  ],
+  "new_facts_assessment": "Feet hidden in the field: necessary, plants ch25, consistent. Hut spur and covered coal: consistent with F728 and pays the exposure thread. Raw fingertips and knuckle kisses: consistent with F533. Pencil leads: callback to F480, fine. Clipped coins: the inference is unsupported, since a cut corner was the buyer's identifying mark (F047, F216). The page must establish what the corner carried, such as a Garh store punch (F448), or the deduction reads backwards.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Contrived delays"
+  ],
+  "average": 3.88,
+  "minimum": 0.0,
+  "passed": false
+}

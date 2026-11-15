@@ -1,42 +1,41 @@
 {
   "scores": {
     "reader_question": 4.0,
-    "change": 4.0,
-    "romance_movement": 4.0,
-    "shown_chemistry": 4.0,
-    "character_logic": 3.0,
+    "change": 5.0,
+    "romance_movement": 5.0,
+    "shown_chemistry": 5.0,
+    "character_logic": 4.0,
     "stakes_and_cost": 4.0,
     "prose": 4.0,
     "continuity": 0.0
   },
   "reasons": {
-    "reader_question": "The dawn ending sharpens a clear question: the letter shows, his promise bites, and Ila has an unexplained 'number that won't come out.'",
-    "change": "Kunal goes from armoured to known. They become lovers, the name trade becomes a gift, and Ila's silence now costs her a lover's trust.",
-    "romance_movement": "There is a new reason: a full disclosure met responsively, then a costed promise. Her 'I want you' arrives abruptly after his collapse.",
-    "shown_chemistry": "The care is responsive: the measurement-voice answer, her warm hands as proof, feet warmed in his lap, a question swallowed. A few lines narrate instead.",
-    "character_logic": "Ila worked out a one-in-five risk from the Kuhl watchers a chapter ago. She now climbs to a new hut and lights a chulha with no thought for it.",
-    "stakes_and_cost": "Ila names both costs of the promise aloud before he ties it, and the dawn chill proves the cost is real.",
-    "prose": "The prose is clean, with almost no AI tells and no em-dash excess. Weak spots: 'a sound he would not forget', the 'closures' echo and the rope-summary line.",
-    "continuity": "Kunal's fingertips burst open that same day (F533), yet here they have 'mended pink'. His 'I'm not' hurt would also be a bound lie."
+    "reader_question": "Clear: will he break his promise to ask, and when will she tell? The ending's 'a number' sharpens it.",
+    "change": "He goes from armoured to known; they become lovers; the name trade becomes a gift bound as a promise.",
+    "romance_movement": "His disclosure is fully met. Her 'I want you' with bare hands is a new, verified reason they come together.",
+    "shown_chemistry": "Pencil leads, clipped coins, knuckle kisses and the warmed feet all show attraction answering what each has seen the other do.",
+    "character_logic": "Both act smartly. Kunal binds himself knowingly. The ch19 exposure worry is mostly dropped on the open shore.",
+    "stakes_and_cost": "Ila names both prices before the knot, and the cost bites at dawn. Her price speech is slightly expository.",
+    "prose": "Clean, no banned phrases or dashes. The surveyor metaphors are overworked and 'coal a thin red line' is repeated.",
+    "continuity": "Ila says 'Kunal' twice before the beat's first-name moment, which the text then calls the first. This is an internal and beat conflict."
   },
   "fixes": [
-    "Continuity error at 'kissed each pad where the skin had mended pink'. Kunal's tips burst open hours earlier (F533). Make them raw and split, and have her kiss the knuckles above the dressings. Also change his 'I'm not. That's the trouble.' His tips are hurt, so that line is a lie to his bound partner and would whiten them. Use a true line such as 'Not where it matters. That's the trouble.'",
-    "Irrational behaviour at 'The herders' hut stood on the scree above the Drum'. Ila's one-in-five watcher sum vanishes. Add two or three sentences. Ila checks the hut's sight line to the Kuhl shoulder and finds the scree spur hides it. She keeps the chulha to a covered coal, so no flame shows through the smoke hole, and that cold fire is a cost. The external threat stays alive under the love scene.",
-    "The pivot at 'He had no answer. His throat had closed.' jumps too fast from his shaking to her 'I want you'. Add one responsive beat. Let her wait until the shaking stops, or tie her desire to something she watched him do, such as the clipped silver or following the bell. Cut the clichés 'made a sound he would not forget' and 'it had never been the thing that held them.'"
+    "At '\"Kunal,\" said Ila. / \"Let me.\"' and 'He owned nothing, Kunal': Ila uses his name before the beat's first-name moment. This breaks continuity and spends the payoff early. Change the first to '\"Highness,\" said Ila' and cut 'Kunal' from the second line. Then 'Not Highness... His own name' lands as the first.",
+    "At 'You paid nineteen silvers with the corners clipped': the deduction has no support, because the clipped corner is what made the buyer identifiable. Add one clause earlier, in Ila's voice: Garh store silver is punched with the store-bell in one corner. Clipping removes the crown-held stores' mark (F448), so the coin can't be traced to the Garh treasury or to him.",
+    "At 'She kissed as she measured' and 'as though she had measured him': overused surveyor similes, along with 'giving him a measurement' and 'it's measured'. Keep 'it's measured' and cut the other two. Also replace the second 'the coal a thin red line' at the dawn opening with a new detail, such as frost on the pot rim."
   ],
-  "reader_question": "Now that Kunal has promised to ask nothing back, how long can Ila keep the queen's letter from her lover, and what will his promise cost when he breaks?",
+  "reader_question": "Will Kunal break his promise and ask about the letter, and what will Ila's silence cost them?",
   "techniques_landed": [
     9,
     10,
     25
   ],
-  "new_facts_assessment": "new-facts.json is empty, but the draft adds several facts. 1) Kunal clipped the coin corners so the medicine could not be traced to him. This is a plausible new motive, but it should be listed and checked against the bible's 'stamped with a cut corner' mark. 2) Only Ila's mother ever warmed her feet. This is useful setup for the ch25 foot cold. 3) The Widow's Knuckle is older than the Stair. Harmless. 4) The herders' hut is covered by F546. The ridge story details match F545, F636 and F729.",
+  "new_facts_assessment": "Feet hidden in the field: necessary, plants ch25, consistent. Hut spur and covered coal: consistent with F728 and pays the exposure thread. Raw fingertips and knuckle kisses: consistent with F533. Pencil leads: callback to F480, fine. Clipped coins: the inference is unsupported, since a cut corner was the buyer's identifying mark (F047, F216). The page must establish what the corner carried, such as a Garh store punch (F448), or the deduction reads backwards.",
   "content_rule_violation": false,
   "failure_modes": [
-    "Plot buried by romance",
-    "Irrational behaviour to extend plot"
+    "Contrived delays"
   ],
-  "average": 3.38,
+  "average": 3.88,
   "minimum": 0.0,
   "passed": false
 }

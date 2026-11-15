@@ -636,19 +636,19 @@
       ]
     },
     "20": {
-      "status": "revised",
+      "status": "failed",
       "revisions": 2,
       "scores": {
         "reader_question": 4.0,
-        "change": 4.0,
-        "romance_movement": 4.0,
-        "shown_chemistry": 4.0,
-        "character_logic": 3.0,
+        "change": 5.0,
+        "romance_movement": 5.0,
+        "shown_chemistry": 5.0,
+        "character_logic": 4.0,
         "stakes_and_cost": 4.0,
         "prose": 4.0,
         "continuity": 0.0
       },
-      "average": 3.38,
+      "average": 3.88,
       "flags": [],
       "words": 3358,
       "minimum": 0.0,
@@ -2037,9 +2037,13 @@
     {
       "at": "2026-11-15T23:14:37",
       "event": "done: S6 revise ch 20"
+    },
+    {
+      "at": "2026-11-15T23:15:49",
+      "event": "done: S5 critique ch 20"
     }
   ],
-  "updated_at": "2026-11-15T23:14:37",
+  "updated_at": "2026-11-15T23:15:49",
   "midpoint_chapter": 16,
   "continuity_attempts": 0,
   "continuity_last_errors": null,
