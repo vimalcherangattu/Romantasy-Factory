@@ -2,41 +2,40 @@
   "scores": {
     "reader_question": 4.0,
     "change": 4.0,
-    "romance_movement": 3.0,
+    "romance_movement": 4.0,
     "shown_chemistry": 4.0,
-    "character_logic": 3.0,
+    "character_logic": 4.0,
     "stakes_and_cost": 3.0,
     "prose": 4.0,
     "continuity": 0.0
   },
   "reasons": {
-    "reader_question": "Sharp, specific gap: a measured two-span void, plus Kunal's glance at the wall and his declared opposition before tomorrow's council.",
-    "change": "Ila moves from neutral confidence to wariness. She now knows Kunal will oppose her and suspects he guards the wall.",
-    "romance_movement": "Acquaintances become declared opponents, and the laugh is a new beat. Desire for this specific man is barely on the page yet.",
-    "shown_chemistry": "Stair-count sparring, his speechless startlement and her stopped laugh are responsive and specific. They are not narrated.",
-    "character_logic": "Ila and Kunal are smart. Kiran, though, asks whether Varun went to Taravan in chains when he lived at Garh Neshar, where Varun was held.",
-    "stakes_and_cost": "Licence and Chief Surveyor chair are clear. Nothing personal or bodily is at risk yet, and no named loved person is threatened.",
-    "prose": "Clean, concrete, no banned phrases or dashes. 'For a moment' recurs three times, and the 'two words more' commission line is muddled.",
-    "continuity": "The licence asks to be 'carried across the Saddle by a bound pair', a third crosser. That breaks F007/F014: only a bound pair crosses."
+    "reader_question": "The void and Kunal's glance at the wall give a sharp, specific gap. His opposition is stated but its motive is left too open.",
+    "change": "She leaves knowing he will fight her licence and suspecting the wall hides something he guards. Knowledge and relationship both shift.",
+    "romance_movement": "They move from drafting-table acquaintances to declared opponents. Her laugh is a new, specific reversal that leaves him wrong-footed.",
+    "shown_chemistry": "The stair-count sparring, her near-laugh and his speechless startle are responsive. Desire tied to observed traits is still faint.",
+    "character_logic": "Kunal's open declaration fits a truthful adversary. Ila showing the void to Pritam's nephew is slightly incautious but in character.",
+    "stakes_and_cost": "The licence, Orlan and the chair are clear. Her next choice (council tomorrow, the void) carries no named cost yet.",
+    "prose": "Concrete and well voiced, with no banned phrases or dashes. Minor flaws: an overused 'Is it?' tic and the awkward 'sent out of dinner tables'.",
+    "continuity": "'Kiran's Elbow' is said to be formerly Spur Fourteen, but F633 records it as formerly Point 4410."
   },
   "fixes": [
-    "At \"asks to be carried across the Saddle in winter by a bound pair\" (Worldbuilding collapse): a third person carried by a pair breaks the one-pair rope rule. Rewrite it so Ila asks to cross bound to a licensed guide of the council's choosing, tied at the cairn. Make the same fix in the sheets scene at \"ask a bound pair to carry her across the Saddle\". This also sets up her later binding to Kunal.",
-    "At \"They say Varun went down to Taravan in chains\" (Irrational behaviour): Kiran was at Garh Neshar when Varun left its cellar, so he would know. Change the line so he saw Varun leave the gate himself, then asks what happened at Taravan. Keep Ila's answer about the crying, now set at the Taravan gate, so the joke and Kiran's real laugh survive.",
-    "At \"for no good reason said the thing she had been carrying\" (Endless monologue / exposition): the cairn warning is dropped in to brief the reader. Give it a trigger. Have Kiran's 'conscience' joke make her think of the Taravan archive, or a crosser's rope prompt it. Cut one of the three 'for a moment' uses later in the chapter."
+    "In 'she'd have entered a year ago as Spur Fourteen', the crown designation conflicts with continuity (F633: 'Point 4410'). Change it to 'Point 4410'. Rework 'The crown's own ledger called them Spur Nine and Spur Fourteen' so it uses Point 4410 for Kiran's Elbow and a separate point number for Tamar's Shoulder.",
+    "At 'Without it she was a woman with a lovely sheet', the stakes lack personal cost. After Kunal's 'Tomorrow I will speak against your licence', add one beat where Ila weighs a choice that costs her. For example, she could decide to keep the void out of tomorrow's council to protect her licence, knowing that silence breaks her 'a map is true or false' creed.",
+    "In 'a bray that had been getting her sent out of dinner tables', fix the awkward idiom to 'sent from dinner tables'. Also trim Kunal's 'Is it?' / 'Does it matter?' from seven uses to four so the question-habit stays sharp rather than mechanical (repetitive tension in dialogue)."
   ],
-  "reader_question": "What is hidden behind the cold north wall of Pritam's tower, and how will Kunal stop Ila's winter licence at tomorrow's council?",
+  "reader_question": "What is hidden behind the north wall that Kunal stood close to guard, and why will he vote against her crossing?",
   "techniques_landed": [
     1,
     11,
     16
   ],
-  "new_facts_assessment": "Pace arithmetic is sound and plants C01 cleanly. The 39/40 stair and the cold landing are a good clue at the peak. Kiran at 25 and the betrothal fit the bible. The seal colours and goat graffiti fit F364. The mason's name 'Dev' collides with Ranu's 'Dev boy' and 'Dev people' (F161, F200), so rename him. 'Seen him four times across a drafting table' should not contradict F263's two visits.",
+  "new_facts_assessment": "Pell Orlan is a useful, consistent rival. The archive refusal matches F426. Kiran's Varun line fits F028. Several new facts are unlisted: the grain slate going up a sack, Ila watching the law cut from twenty-six lines to eleven, and Kunal arguing for ten spans. All are harmless but should be logged. 'Spur Nine/Spur Fourteen' conflicts with F633.",
   "content_rule_violation": false,
   "failure_modes": [
-    "Worldbuilding collapse",
-    "Irrational behaviour to extend plot"
+    "Stakes without depth"
   ],
-  "average": 3.12,
+  "average": 3.38,
   "minimum": 0.0,
   "passed": false
 }

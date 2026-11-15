@@ -6,34 +6,36 @@
     "shown_chemistry": 4.0,
     "character_logic": 4.0,
     "stakes_and_cost": 3.0,
-    "prose": 3.0,
-    "continuity": 5.0
+    "prose": 4.0,
+    "continuity": 0.0
   },
   "reasons": {
-    "reader_question": "Specific gap: two spans of void in the north wall, plus Kunal's glance at it and his unexplained opposition.",
-    "change": "Ila gains knowledge (void, Kunal's tell) and an open opponent; she moves from neutral to wary as the beat asks.",
-    "romance_movement": "Acquaintances become declared opponents. Her laugh disarms him, so the power tilts and a new kind of attention opens.",
-    "shown_chemistry": "The stair count, 'Kunal, on a stair', the laugh she nearly gives and his stunned silence all show response without narrating it.",
-    "character_logic": "Telling the regent's nephew about the void is risky, but she does it to watch his reaction. That is smart and in character.",
-    "stakes_and_cost": "The licence deadline is clear, but no decision on the page costs Ila anything yet. The personal stake stays abstract.",
-    "prose": "The voice is strong overall. A few lines are garbled, one pronoun has no antecedent, and 'Point 4410' jars.",
-    "continuity": "Ages, the law's text, seals, Kiran's ear, Varun and Pritam all match. The mason rename is logged in F422."
+    "reader_question": "The void and Kunal's glance at the wall give a sharp, specific gap. His opposition is stated but its motive is left too open.",
+    "change": "She leaves knowing he will fight her licence and suspecting the wall hides something he guards. Knowledge and relationship both shift.",
+    "romance_movement": "They move from drafting-table acquaintances to declared opponents. Her laugh is a new, specific reversal that leaves him wrong-footed.",
+    "shown_chemistry": "The stair-count sparring, her near-laugh and his speechless startle are responsive. Desire tied to observed traits is still faint.",
+    "character_logic": "Kunal's open declaration fits a truthful adversary. Ila showing the void to Pritam's nephew is slightly incautious but in character.",
+    "stakes_and_cost": "The licence, Orlan and the chair are clear. Her next choice (council tomorrow, the void) carries no named cost yet.",
+    "prose": "Concrete and well voiced, with no banned phrases or dashes. Minor flaws: an overused 'Is it?' tic and the awkward 'sent out of dinner tables'.",
+    "continuity": "'Kiran's Elbow' is said to be formerly Spur Fourteen, but F633 records it as formerly Point 4410."
   },
   "fixes": [
-    "At 'the council would name her a licensed guide, and she could be bound to him', the line contradicts her later 'name a guide and bind me to him', and 'him' has no antecedent (worldbuilding slip). Change it to: 'the council would name a licensed guide for her, and she could be bound to him at the cairn and cross the Saddle.'",
-    "At 'Though I'm told the crown would like to know why it wants a prison measured', the logic is garbled: the crown is both sender and asker. Replace it with: 'Though I'd like to know why the crown wants a prison measured. Is that wrong?' Also change 'sent out of dinner tables' to 'sent from dinner tables'.",
-    "At 'Without it she was a woman with a lovely sheet of paper', the stakes stay abstract (stakes without depth). Add one concrete personal cost, such as Rohan's family grave, the fourth-winter closing, or a named rival for the chair. Change the archive line so the clerk 'wrote, very pleasantly', which keeps Ila in Neshar."
+    "In 'she'd have entered a year ago as Spur Fourteen', the crown designation conflicts with continuity (F633: 'Point 4410'). Change it to 'Point 4410'. Rework 'The crown's own ledger called them Spur Nine and Spur Fourteen' so it uses Point 4410 for Kiran's Elbow and a separate point number for Tamar's Shoulder.",
+    "At 'Without it she was a woman with a lovely sheet', the stakes lack personal cost. After Kunal's 'Tomorrow I will speak against your licence', add one beat where Ila weighs a choice that costs her. For example, she could decide to keep the void out of tomorrow's council to protect her licence, knowing that silence breaks her 'a map is true or false' creed.",
+    "In 'a bray that had been getting her sent out of dinner tables', fix the awkward idiom to 'sent from dinner tables'. Also trim Kunal's 'Is it?' / 'Does it matter?' from seven uses to four so the question-habit stays sharp rather than mechanical (repetitive tension in dialogue)."
   ],
-  "reader_question": "What is hidden behind the north wall that Kunal was standing so close to, and why will he fight her licence?",
+  "reader_question": "What is hidden behind the north wall that Kunal stood close to guard, and why will he vote against her crossing?",
   "techniques_landed": [
     1,
-    16,
-    11
+    11,
+    16
   ],
-  "new_facts_assessment": "Madan revises F419 cleanly. The two drafting-table visits match F263. The guide-bound licence fits F007 and F014. The Varun tears fit F264. The archive refusal 'last autumn' is useful setup for S4, but Ila stayed in Neshar (F266, F417), so it should say the refusal came by letter.",
+  "new_facts_assessment": "Pell Orlan is a useful, consistent rival. The archive refusal matches F426. Kiran's Varun line fits F028. Several new facts are unlisted: the grain slate going up a sack, Ila watching the law cut from twenty-six lines to eleven, and Kunal arguing for ten spans. All are harmless but should be logged. 'Spur Nine/Spur Fourteen' conflicts with F633.",
   "content_rule_violation": false,
-  "failure_modes": [],
-  "average": 3.88,
-  "minimum": 3.0,
-  "passed": true
+  "failure_modes": [
+    "Stakes without depth"
+  ],
+  "average": 3.38,
+  "minimum": 0.0,
+  "passed": false
 }
