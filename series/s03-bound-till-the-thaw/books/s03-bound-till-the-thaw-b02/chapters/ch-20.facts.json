@@ -2,28 +2,23 @@
   "facts": [
     {
       "category": "timeline",
-      "fact": "Pritam took Kunal up the Kuhl ridge in autumn, a month after his father's funeral (beat wording). Kunal says his father died in spring of a lung fever. Revises F488's 'a week after the funeral'.",
-      "why": "needed because the beat says 'a month after his father died'; F488 and F526 say a week and a supper story, so the critic or S7 should reconcile."
-    },
-    {
-      "category": "name",
-      "fact": "The hill name for the crag Ila named Nimmi's Knuckle is the Widow's Knuckle, for the hand a widow laid on the rock while waiting for her husband.",
-      "why": "needed because Kunal's first free name had to be one he had withheld (F460)."
-    },
-    {
-      "category": "object",
-      "fact": "Ila's queen's letter is now sewn in the lining of her pattu; a loosened stitch at the hem shows a corner of cream paper.",
-      "why": "needed because the beat shows the letter's corner in her pattu; F438 had it in her coat lining."
+      "fact": "Kunal's father died at the end of summer, of a lung fever. Pritam told the Udai story at supper a week after the funeral; he took Kunal up the Kuhl ridge a month after the funeral, in autumn. S7: change F526's 'winter Kunal was nine' to autumn, and F540's 'spring' to end of summer.",
+      "since": "s03-the-winter-oath-b02 ch 20"
     },
     {
       "category": "place",
-      "fact": "Ila and Kunal go to Dhanu's upper hut, a short climb above the shore where the Drum booms, for the night.",
-      "why": "needed because the beat sets the scene in the upper hut."
+      "fact": "The night-of-ch20 hut is a herders' summer hut on the scree above the Drum, a steep climb from the shore. It is not Dhanu's upper hut above the Mirror (F515). Corrects F543.",
+      "since": "s03-the-winter-oath-b02 ch 20"
     },
     {
-      "category": "injury",
-      "fact": "Ila has a white scar along one rib from a whipped-back survey chain.",
-      "why": "small intimate detail for the love scene."
+      "category": "object",
+      "fact": "In the hut Ila unpicks her coat lining, moves the queen's letter into her pattu's hem and sews it in. She unties the rope for the night, then reties it on both wrists before Kunal's promise.",
+      "since": "s03-the-winter-oath-b02 ch 20"
+    },
+    {
+      "category": "magic",
+      "fact": "Before Kunal's 'ask nothing back' promise, Ila names both costs aloud: a broken promise strikes as a great lie, and each name may become a line on the crown's map. At dawn his fingertips chill when he begins to ask about the letter, and he stops.",
+      "since": "s03-the-winter-oath-b02 ch 20"
     }
   ]
 }
