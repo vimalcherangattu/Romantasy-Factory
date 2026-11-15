@@ -4,38 +4,39 @@
     "change": 4.0,
     "romance_movement": 4.0,
     "shown_chemistry": 3.0,
-    "character_logic": 4.0,
+    "character_logic": 3.0,
     "stakes_and_cost": 4.0,
     "prose": 4.0,
-    "continuity": 0.0
+    "continuity": 5.0
   },
   "reasons": {
-    "reader_question": "Clear and sharp: who fed the crown and Raghu the princes' way, and what will Kunal let Ila see on the rope?",
-    "change": "Kunal goes from carrier of the petition to self-trapped hostage of his own openness, bound before nine witnesses.",
-    "romance_movement": "Opponents become forced partners for a new reason, the clause. His suspicion of her motive is fresh and plausible.",
-    "shown_chemistry": "Few direct exchanges. The doorway glance and the final line work, but Ila is mostly seen across a table.",
-    "character_logic": "Volunteering for the rope to control what she sees is smart and in character. The final inference rests on thin evidence.",
-    "stakes_and_cost": "His public principle cuts off refusal, and the rope makes every evasion visible. That cost is real and named.",
-    "prose": "Clean, concrete, readable, with good callbacks (Madan's floor). One garbled sentence and a staging glitch with the door.",
-    "continuity": "Narration says bound pairs 'could not lie' and Kunal is 'unable to lie', but the bible lets them lie at a cost. 'Did not mind who' has no source in ch1."
+    "reader_question": "Two sharp gaps: what the crown knows of the princes' way, and why Ila pencilled his name before he offered.",
+    "change": "Kunal goes from controlling the room to roped by his own sentence. The ending reveal flips who set the trap.",
+    "romance_movement": "Opponents become forced partners for a new reason: the clause plus Raghu. Her prior choice reframes him as the one caught.",
+    "shown_chemistry": "Good stair callback and the passage look, but in council the leads barely respond to each other beyond nods.",
+    "character_logic": "The council gambit is smart. Singing the route-song in an open passage minutes after hearing of Raghu is careless.",
+    "stakes_and_cost": "Openness creed versus secrecy is costed well, and the binding puts every lie in his fingers.",
+    "prose": "Clean and varied, with few tells. Some echo ('pencil behind her ear' twice) and a vague last line.",
+    "continuity": "Matches F634, F657 to F663, F431 and F622. Kunal's certainty that the clause names his family's way strains F471; soften it."
   },
   "fixes": [
-    "'A bound pair could not lie to each other, but silence was free' and the closing 'unable to lie': this misstates Rule 1 (continuity). Lies are possible and cost heat. Rewrite as 'A bound pair could not lie to each other without paying for it in their hands, but silence was free.' Change the end to 'where every lie would show in his fingers'.",
-    "'She had said last night that she did not mind who': this has no source in ch1 (continuity) and is the main prop for Kunal's realisation. Replace it with something from the page: on the stair she asked the council to 'name a guide', then measured him, then laughed when he declared against her. Have him reread that laugh as a woman who had already counted where he would land.",
-    "'The door creaked. Dhanu's runner had stood against the back wall': this is a staging contradiction, because the runner is already inside when the door opens. Cut the creak and open with the runner clearing his throat. Also rewrite the garbled 'unable to find any other way to give a thing away that he was not willing to give away' as one clean line about songs outliving route-keepers."
+    "Kitchen passage, 'Count with me,' he said. 'You're slow after ten.': irrational behaviour. A secret-keeper who has just heard Raghu is asking door to door would not sing the route idly. Add one line of urgency: route-keepers may die, so the song must pass to Chuni today. Have him check the passage before he begins. That makes Ila's arrival a cost of the necessity, not of carelessness. Also cut the second 'She had a pencil behind her ear.'",
+    "Council, 'Now it had a place in a crown commission': continuity strain with F471. Kunal does not know the princes' way runs beneath the Shilak Cairn. Rewrite it as dread: the crown names a way under the cairn, his family keeps a way nobody writes, and he cannot rule out that they are the same. This keeps the chill and the beat while leaving ch 8's statement true.",
+    "Council, 'That clause isn't in my covering note,' said Ila: narrated-only chemistry. The leads trade no responsive action in the main scene. Add one exchange where Ila catches his pause on the clause aloud ('You read that slower, Highness') and he deflects with a question. Then show her noting it in her field book. That plants her reason for pencilling his name and gives the two of them a real exchange."
   ],
-  "reader_question": "What does the crown know about the princes' way, who told both courts, and how much will Kunal let Ila see once he is on her rope?",
+  "reader_question": "What does the crown know about the princes' way, why did Ila already want Kunal on her rope, and did she catch the road inside the song?",
   "techniques_landed": [
     13,
     15,
     25
   ],
-  "new_facts_assessment": "Dhanu, Chuni, Sarn fold, the cover-sheet clause and the route-song are all necessary and consistent. Raghu matches F174's red moustache. The song's 'nine and thirty... ghosts' echoes ch1's step count well, so C10 lands. Two problems: 'Old Bhim speaks for the lower terraces' is claimed in new facts but never appears on the page, and Bhim's 'sixty winters' should read sixty-one in the 31st winter. If Dhanu is Book 2's doomed oldest friend, he needs some warmth soon.",
+  "new_facts_assessment": "Council size, the 6-3 vote and the midsummer 'rope round a neck' line are necessary and consistent (F634). The pencilled guide line is strong and earns the ending. 'Princes' way never written down' fits F661. The song line fits F433 and F444. Risk: the narration says the clause certainly names the princes' way, while F471 has Kunal 'never heard of' a way beneath the Shilak Cairn. Phrase this as fear, not knowledge. Minor glitch: the runner leaves between the roasters, then is said to have stood through the whole council.",
   "content_rule_violation": false,
   "failure_modes": [
+    "Irrational behaviour to extend plot",
     "Narrated-only chemistry"
   ],
-  "average": 3.38,
-  "minimum": 0.0,
-  "passed": false
+  "average": 3.88,
+  "minimum": 3.0,
+  "passed": true
 }
