@@ -1,0 +1,41 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 5.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 4.0,
+    "stakes_and_cost": 5.0,
+    "prose": 4.0,
+    "continuity": 5.0
+  },
+  "reasons": {
+    "reader_question": "Gauri's line lands hard, but Ila's follow-up 'who wrote the note?' doesn't follow cleanly from 'dead before they wrote it'.",
+    "change": "Kunal chooses to return; Ila refuses the gloves' ending; the ransom is exposed as a sham. Knowledge, relationship and power all shift.",
+    "romance_movement": "There is a new reason: love is proven against vengeance while forgiveness is withheld. 'You'd be right, and I hate it' is a fresh state.",
+    "shown_chemistry": "The declined pull, the feet against his belly and 'Pick one' banter show attraction through action. A few lines explain it instead.",
+    "character_logic": "Kunal's walk is grief-driven yet reasoned; Ila's restraint fits her arithmetic. Only the closing question feels authored rather than reasoned.",
+    "stakes_and_cost": "Each choice is costed in the rule: the distance is counted span by span, and toes and lives sit on the scale.",
+    "prose": "Concrete and rhythmic, with few AI tells. Some lines explain the choice afterwards, and phrases echo ch 26 ('Silence was free', 'the alternative was').",
+    "continuity": "The rope, knot, sixteen-span limit, dead fingertips, toes, Harish, the gloves and the father's clock all match. 'Eleven winters' is vague but not contradictory."
+  },
+  "fixes": [
+    "At \"Then who wrote the note?\" said Ila.\": the twist lacks setup. 'Dead before they wrote it' implies the note was always a lie, not that someone else wrote it. Either change Ila's line to fit (\"Then there was never a trade\") or anchor her question to the planted clue. For example, she recalls the clerk-like hand of F569 and that Raghu needed a scribe. Then let Kunal's whitening follow from the whistle he took off that nail.",
+    "At \"She had spent eleven winters not meaning to.\": the figure is unclear. Her grandfather died sixty-one winters ago, so the reader can't tell what eleven counts. Tie it to something on record, for example \"since she first read the chronicle entry over her father's shoulder\". Also add a half-line when Kunal 'works the bad boot off'. In ch 26 the boot was already removed, so say he had pulled it back on her at the shingle.",
+    "At \"But the choice was his, and she would not take it from him.\": this is told interiority restating what the slack rope already showed. Cut that sentence and \"She was cold and afraid, and he was going.\" Also vary \"Silence was free\" and \"because the alternative was to let her die\". Both repeat ch 26's phrasing, and the repetition dulls the callback."
+  ],
+  "reader_question": "If Dhanu was dead before the ransom note was written, who really wrote it, and what does Kunal see in the whistle?",
+  "techniques_landed": [
+    18,
+    20,
+    22
+  ],
+  "new_facts_assessment": "Most new facts are needed and consistent. The Kuhl-side retreat matches F485, the one-long-pull extension matches F128 and F355, and the ember pot and slab are needed for staging. The gloves reading by the lake-hut fire fits F524. The whistle on Kunal's coat is plausible from F569, but the ending turns on it, so it needs one on-page line showing he took it from the lintel nail.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Twists without setup"
+  ],
+  "average": 4.38,
+  "minimum": 4.0,
+  "passed": true
+}

@@ -3,39 +3,39 @@
     "reader_question": 4.0,
     "change": 4.0,
     "romance_movement": 5.0,
-    "shown_chemistry": 5.0,
+    "shown_chemistry": 4.0,
     "character_logic": 4.0,
-    "stakes_and_cost": 4.0,
+    "stakes_and_cost": 5.0,
     "prose": 4.0,
-    "continuity": 0.0
+    "continuity": 5.0
   },
   "reasons": {
-    "reader_question": "Gauri's line makes Dhanu's earlier death concrete, and Kunal's whitening adds a sharp second gap. Ila's puzzled echo slightly blurs it.",
-    "change": "Kunal chooses her life over vengeance and stays unforgiving. Ila refuses her grandfather's exit. Dhanu's death is re-timed.",
-    "romance_movement": "The reason is new: vengeance versus her life, with love proven while trust stays broken. This is exactly the beat's romance_change.",
-    "shown_chemistry": "Feet against his belly, 'Pick one', 'I'm cold', and the grip that 'held on' are all responsive action. None of it is narrated.",
-    "character_logic": "Both lead choices are smart and costly. Ila asking 'Before they wrote what?' is dim, since she knows the ransom note.",
-    "stakes_and_cost": "Separation cold, the sixteen-span line, toes and the glove door all carry real price. The night's choices cost both of them.",
-    "prose": "The prose is concrete and quotable. It has a few muddled lines ('as the mountain felt every lie'), a dangling participle and one 'not kindness' tic.",
-    "continuity": "'She had known for months what it meant', worked out 'at a desk', conflicts with F524: she read the payment-sign on this crossing, ch16."
+    "reader_question": "Gauri's line lands hard, but Ila's follow-up 'who wrote the note?' doesn't follow cleanly from 'dead before they wrote it'.",
+    "change": "Kunal chooses to return; Ila refuses the gloves' ending; the ransom is exposed as a sham. Knowledge, relationship and power all shift.",
+    "romance_movement": "There is a new reason: love is proven against vengeance while forgiveness is withheld. 'You'd be right, and I hate it' is a fresh state.",
+    "shown_chemistry": "The declined pull, the feet against his belly and 'Pick one' banter show attraction through action. A few lines explain it instead.",
+    "character_logic": "Kunal's walk is grief-driven yet reasoned; Ila's restraint fits her arithmetic. Only the closing question feels authored rather than reasoned.",
+    "stakes_and_cost": "Each choice is costed in the rule: the distance is counted span by span, and toes and lives sit on the scale.",
+    "prose": "Concrete and rhythmic, with few AI tells. Some lines explain the choice afterwards, and phrases echo ch 26 ('Silence was free', 'the alternative was').",
+    "continuity": "The rope, knot, sixteen-span limit, dead fingertips, toes, Harish, the gloves and the father's clock all match. 'Eleven winters' is vague but not contradictory."
   },
   "fixes": [
-    "Continuity: at 'She had known for months what it meant', the line contradicts F524 and the book's day count. Replace it with a span true to this crossing, e.g. 'She had known since the lake hut what it meant.' Change 'worked that out at a desk, in lamplight' to the actual setting: reading the queen's hand by a hut fire on this crossing.",
-    "Character logic: at '\"Before they wrote what?\" said Ila.', a surveyor who saw the nailed ransom note would not miss the referent, so this dumbs her down to extend the hook. Have her say it herself, flatly: 'The note,' or 'Then who wrote it?' Keep Kunal going white so the bigger question (who held the pen, what Raghu's white-fingered lie hid) lands without Ila looking slow.",
-    "Prose and logic: 'He worked the boot off, the knife already having cut the laces' is a dangling participle. He removes one boot yet pulls 'both her feet' to his belly; show the second boot coming off. Rewrite 'it would wrench at his fist as the mountain felt every lie' as a plain physical image, e.g. 'it would drag at his fist like a halter.'"
+    "At \"Then who wrote the note?\" said Ila.\": the twist lacks setup. 'Dead before they wrote it' implies the note was always a lie, not that someone else wrote it. Either change Ila's line to fit (\"Then there was never a trade\") or anchor her question to the planted clue. For example, she recalls the clerk-like hand of F569 and that Raghu needed a scribe. Then let Kunal's whitening follow from the whistle he took off that nail.",
+    "At \"She had spent eleven winters not meaning to.\": the figure is unclear. Her grandfather died sixty-one winters ago, so the reader can't tell what eleven counts. Tie it to something on record, for example \"since she first read the chronicle entry over her father's shoulder\". Also add a half-line when Kunal 'works the bad boot off'. In ch 26 the boot was already removed, so say he had pulled it back on her at the shingle.",
+    "At \"But the choice was his, and she would not take it from him.\": this is told interiority restating what the slack rope already showed. Cut that sentence and \"She was cold and afraid, and he was going.\" Also vary \"Silence was free\" and \"because the alternative was to let her die\". Both repeat ch 26's phrasing, and the repetition dulls the callback."
   ],
-  "reader_question": "If Dhanu was dead before the ransom note was written, who wrote it, and what has Kunal just understood that turns him white?",
+  "reader_question": "If Dhanu was dead before the ransom note was written, who really wrote it, and what does Kunal see in the whistle?",
   "techniques_landed": [
     18,
     20,
     22
   ],
-  "new_facts_assessment": "new-facts.json is empty, but the draft adds unlisted facts. Kunal wears Dhanu's goat-horn whistle (F569 had it on the nail). Raghu's men left by moonset up the Kuhl side, taking 'the boy's rope'. The one-long-pull signal is known to every pair in the high valleys. Gauri brings a juniper ember pot. A flat slab lies in the cleft. All are plausible and necessary, but they must be listed. The 'months' timing is inconsistent and must be cut.",
+  "new_facts_assessment": "Most new facts are needed and consistent. The Kuhl-side retreat matches F485, the one-long-pull extension matches F128 and F355, and the ember pot and slab are needed for staging. The gloves reading by the lake-hut fire fits F524. The whistle on Kunal's coat is plausible from F569, but the ending turns on it, so it needs one on-page line showing he took it from the lintel nail.",
   "content_rule_violation": false,
   "failure_modes": [
-    "Irrational behaviour to extend plot"
+    "Twists without setup"
   ],
-  "average": 3.75,
-  "minimum": 0.0,
-  "passed": false
+  "average": 4.38,
+  "minimum": 4.0,
+  "passed": true
 }
