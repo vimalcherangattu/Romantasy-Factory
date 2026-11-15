@@ -372,7 +372,7 @@
       "minimum": 4.0
     },
     "21": {
-      "status": "revised",
+      "status": "failed",
       "revisions": 1,
       "scores": {
         "reader_question": 4.0,
@@ -772,8 +772,12 @@
     {
       "at": "2026-11-15T19:52:17",
       "event": "done: S6 revise ch 21"
+    },
+    {
+      "at": "2026-11-15T19:53:12",
+      "event": "done: S5 critique ch 21"
     }
   ],
-  "updated_at": "2026-11-15T19:52:17",
+  "updated_at": "2026-11-15T19:53:12",
   "midpoint_chapter": 16
 }

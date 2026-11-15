@@ -10,31 +10,30 @@
     "continuity": 0.0
   },
   "reasons": {
-    "reader_question": "Two sharp questions: will she tell him before the meltwater runs, and whose map will she draw? Dhanu's 'True for who?' lands well.",
-    "change": "She goes from keeper of a free silence to a dated debt, and has promised to break her archive oath. That is a clear state change.",
-    "romance_movement": "The new reason is strong: intimacy now exposes the locked room, and her promise is a gift that binds. The leave device dilutes the confrontation.",
-    "shown_chemistry": "Responsive actions carry it: he watches her stitches, refuses the neat answer, holds out his palm. His face recalls the boy under the rock.",
-    "character_logic": "Sewing the sheets in rather than handing them over is smart. Talking the promise rule away with 'leave' feels like a dodge the plot needed.",
-    "stakes_and_cost": "The cost ledger is concrete: the oath, the thaw spread, and the lapse that leaves Kunal unpaid. 'Three weeks yet' needs checking against F435.",
-    "prose": "Clean, varied and specific, with no banned phrases. One muddy line ('a better woman would have thought of first') and a conflated memory sentence.",
-    "continuity": "She had 'the answer ready for nine days' but opened the letter only at the Glass Lakes (F517, ch16). 'Before I ever saw you' conflicts with F423."
+    "reader_question": "Sharp and dated: can she keep the promise before the Meadow Cairn runs? Dhanu's 'True for who?' adds a second, sharper hook.",
+    "change": "Clean shift from keeper of a secret to bound by a promise, plus a breach of her archive oath, all on the record.",
+    "romance_movement": "The reason is new: her silence becomes a dated debt. Kunal's answer to the date is thin, so the debt lands mostly one way.",
+    "shown_chemistry": "Hands held in view, stitches watched, a palm offered and warmed. All of it is responsive action, not narration.",
+    "character_logic": "Kunal knowingly breaks a bound promise, yet the cost is shown as a passing chill. Ila's impulsive promise is earned.",
+    "stakes_and_cost": "The oath is broken, the thaw spread is uncertain and the map is dangerous. The cost ledger lands, though the strike on Kunal is softened.",
+    "prose": "Concrete and controlled, with no banned phrases. 'Cost' and 'free' recur heavily, mostly by design. The thaw-sum passage leans interior.",
+    "continuity": "A broken bound promise must strike as a great lie (F012), not a draining chill. 'She had held his weight at the Eye' contradicts F533."
   },
   "fixes": [
-    "'She had had the answer ready for nine days': continuity error. She has carried the letter nine days but read it only at the Glass Lakes (F517, ch16). Change to 'since the Drum' or the true count of days since she opened it. Keep 'carried nine days' only for the letter as an object.",
-    "'If I give leave, it isn't asking back': convenient magic. It undoes ch20's chill in a sentence. Cut the leave device. Have Kunal ask anyway and take the cost: his fingertips whiten, he keeps them in view, and he says 'I'll pay it'. Then her free refusal costs him visibly, and she can't bear it for a reason the reader sees.",
-    "'She had stood on the shelf of the Eye... said I want you': this merges the ch18 belay with the ch20 Drum-shore declaration. Split it: 'held his weight at the Eye; said I want you on the Drum shore'. Also change 'an oath I swore, before I ever saw you' to 'before this crossing'; she had seen him at the drafting table (F423)."
+    "At 'The cold came at once. She saw it arrive.' the promise rule is suspended (Convenient magic; F012). Kunal has broken a bound promise, so strike him as a great lie: tips that go waxy, then grey, then blister and stay dead. Cut 'The white was draining... by slow degrees' and 'She held them until they were not.' Fire and touch don't warm it. Let the loss threaten his grip on the cleft climb tonight.",
+    "Change 'She had held his weight at the Eye' to match F533, where Kunal held Ila at the Eye and his fingertips burst on the rope. Use 'He had held her weight at the Eye' or 'She had held his weight on the Stair' (F455). Keep the comparison of costs intact.",
+    "At 'She did the sum afterward, because she could not help it' the thaw spread stays in Ila's head, so Kunal answers only 'You didn't have to give me a date.' Move the Meadow Cairn spread into dialogue: she tells him hard year weeks, soft year fewer. Let Kunal answer with a new choice, such as pushing the Eye tonight for her date and not only for Raghu. That makes the romance turn mutual."
   ],
-  "reader_question": "Will Ila get through the mountain and tell Kunal what the letter says before the Meadow Cairn thaws, and whom will her true map serve?",
+  "reader_question": "Will Ila get through the mountain and tell Kunal the letter before the Meadow Cairn's meltwater lapses her promise, and what will she draw true, and for whom?",
   "techniques_landed": [
     14,
-    15,
-    22
+    15
   ],
-  "new_facts_assessment": "F549 is necessary and consistent with F485 and F535. F551 is consistent with the bible rule that a promise strikes only while the bond holds. F552's wording ('below the hem') contradicts the chapter, where the letter is in the hem below the side-seam sheets; reword it. F550 sets a risky precedent: a verbal 'leave' lets a bound promise be sidestepped, which weakens Rule 1's 'never suspended'. Either cut it or attach a visible cost.",
+  "new_facts_assessment": "F554 (sheets sewn into the side seam above the hem letter) is necessary and consistent. F553 conflicts with Rule 1 and F012. Breaking 'I'll ask nothing back' while bound must strike as a great lie: frostbite and dead flesh, not white tips that drain over time. Either escalate the injury to lasting damage or rule that the strike is deferred. As written it suspends the never-suspended rule.",
   "content_rule_violation": false,
   "failure_modes": [
     "Convenient magic",
-    "Contrived delays"
+    "Romance buried by plot"
   ],
   "average": 3.38,
   "minimum": 0.0,

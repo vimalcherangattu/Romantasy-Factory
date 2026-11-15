@@ -1,0 +1,41 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 3.0,
+    "stakes_and_cost": 4.0,
+    "prose": 4.0,
+    "continuity": 0.0
+  },
+  "reasons": {
+    "reader_question": "Sharp and dated: can she keep the promise before the Meadow Cairn runs? Dhanu's 'True for who?' adds a second, sharper hook.",
+    "change": "Clean shift from keeper of a secret to bound by a promise, plus a breach of her archive oath, all on the record.",
+    "romance_movement": "The reason is new: her silence becomes a dated debt. Kunal's answer to the date is thin, so the debt lands mostly one way.",
+    "shown_chemistry": "Hands held in view, stitches watched, a palm offered and warmed. All of it is responsive action, not narration.",
+    "character_logic": "Kunal knowingly breaks a bound promise, yet the cost is shown as a passing chill. Ila's impulsive promise is earned.",
+    "stakes_and_cost": "The oath is broken, the thaw spread is uncertain and the map is dangerous. The cost ledger lands, though the strike on Kunal is softened.",
+    "prose": "Concrete and controlled, with no banned phrases. 'Cost' and 'free' recur heavily, mostly by design. The thaw-sum passage leans interior.",
+    "continuity": "A broken bound promise must strike as a great lie (F012), not a draining chill. 'She had held his weight at the Eye' contradicts F533."
+  },
+  "fixes": [
+    "At 'The cold came at once. She saw it arrive.' the promise rule is suspended (Convenient magic; F012). Kunal has broken a bound promise, so strike him as a great lie: tips that go waxy, then grey, then blister and stay dead. Cut 'The white was draining... by slow degrees' and 'She held them until they were not.' Fire and touch don't warm it. Let the loss threaten his grip on the cleft climb tonight.",
+    "Change 'She had held his weight at the Eye' to match F533, where Kunal held Ila at the Eye and his fingertips burst on the rope. Use 'He had held her weight at the Eye' or 'She had held his weight on the Stair' (F455). Keep the comparison of costs intact.",
+    "At 'She did the sum afterward, because she could not help it' the thaw spread stays in Ila's head, so Kunal answers only 'You didn't have to give me a date.' Move the Meadow Cairn spread into dialogue: she tells him hard year weeks, soft year fewer. Let Kunal answer with a new choice, such as pushing the Eye tonight for her date and not only for Raghu. That makes the romance turn mutual."
+  ],
+  "reader_question": "Will Ila get through the mountain and tell Kunal the letter before the Meadow Cairn's meltwater lapses her promise, and what will she draw true, and for whom?",
+  "techniques_landed": [
+    14,
+    15
+  ],
+  "new_facts_assessment": "F554 (sheets sewn into the side seam above the hem letter) is necessary and consistent. F553 conflicts with Rule 1 and F012. Breaking 'I'll ask nothing back' while bound must strike as a great lie: frostbite and dead flesh, not white tips that drain over time. Either escalate the injury to lasting damage or rule that the strike is deferred. As written it suspends the never-suspended rule.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Convenient magic",
+    "Romance buried by plot"
+  ],
+  "average": 3.38,
+  "minimum": 0.0,
+  "passed": false
+}
