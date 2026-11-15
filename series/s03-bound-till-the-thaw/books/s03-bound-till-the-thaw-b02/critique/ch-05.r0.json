@@ -4,36 +4,35 @@
     "change": 4.0,
     "romance_movement": 4.0,
     "shown_chemistry": 4.0,
-    "character_logic": 4.0,
+    "character_logic": 3.0,
     "stakes_and_cost": 4.0,
-    "prose": 3.0,
+    "prose": 4.0,
     "continuity": 0.0
   },
   "reasons": {
-    "reader_question": "The smeared second line under 'the princes' way' sharpens the beat's question into a specific, urgent gap.",
-    "change": "He learns there are four loaded men a day ahead, gives up a secret aloud, and moves from confident guide to afraid.",
-    "romance_movement": "First competence duet: belay, count correction, ceded pitch. New reason, though her view of his fear for others is barely voiced.",
-    "shown_chemistry": "Rope weight, belay and the 'trying to find out' callback work well. Some attraction is still narrated ('a weight he found he wanted').",
-    "character_logic": "Grief explains missing the prints. The stone-reading is over-explained: 'half made' undercuts the impulsive slip the beat asks for.",
-    "stakes_and_cost": "Reading aloud costs a secret he can't unsay. The ice danger stays cheap, with one plate shed and no real hold.",
-    "prose": "Clean of banned phrases. The 'he found' tic repeats about four times, several consecutive paragraphs open with 'He', and some lines over-narrate.",
-    "continuity": "The route-song counts waypoints (F433, F444) and ends at thirty-nine, but here it counts ice treads and the 'old count' is forty."
+    "reader_question": "The chalk line and the smeared second letter leave a sharp, specific gap: what the princes' way is, and what Hari never finished writing.",
+    "change": "Knowledge changes (four men, a day ahead, the princes' way spoken aloud) and so does power: he hands her the count and the lead.",
+    "romance_movement": "This is the first competence duet, with a new reason: he trusts her count over his family's. Her seeing his fear for others stays implicit.",
+    "shown_chemistry": "The 'Holding' calls, the paid-out inch and 'That's four' all show attraction through responsive action. Narration rarely labels it.",
+    "character_logic": "Leading rotten ice with no anchor above him, Kunal could not be caught short by a belayer below. The fall physics won't survive a climber's read.",
+    "stakes_and_cost": "Giving her the true count unlocks his 'wrong numbers' and reading the chalk aloud costs his secrecy. The refusal is costed by her ledger.",
+    "prose": "Concrete and varied, with few AI tells. A few weak spots: the orphan 'He knew the rhyme' line, 'her neat competence' and the told 'sure, without looking'.",
+    "continuity": "'Not Pritam's. Not any more.' conflicts with the bible's Pritam loyalists who capture the route-keepers, and with Ila's free-Pritam question."
   },
   "fixes": [
-    "'Forty steps, the old count, and we're through': continuity conflict. F433 and F444 make the route-song count waypoints across the east line, ending 'nine and thirty'. Cut 'because it was the song' from his tread counting. State that the family counts the Stair's lower treads as forty by habit, unrelated to the song. Make the 'thirty-nine... rhyme for ghosts' thought refer explicitly to the tower stair (F418), so forty-one stands alone.",
-    "'the weight on the rope was a weight he found he wanted': narrated-only chemistry. Also 'found he preferred it' and 'found he did not mind'. Replace with action: he feeds rope too carefully, or calls a hold she doesn't need just to feel her answer. Cut two of the four 'he found' constructions and vary the run of paragraphs that open with 'He' in the climb section.",
-    "'Perhaps one in three that a tread shears under me': technique 6 is stated, then waived. Only a plate skates off and nothing tests the belay. Make one tread shear under him so Ila takes his full weight on her hip for a held beat. That pays off 'I've held three men' and earns his ceding the pitch. Also cut 'The decision was half made. He had not finished making it.' so the reading aloud is a true slip."
+    "At '*Raghu's,* he thought. *Not Pritam's. Not any more.*' the line breaks continuity. Replace it with 'Pritam's still. He took the habit with him, and the bells.' Then make 'I don't know' honest uncertainty about whether freeing Pritam is the whole aim.",
+    "At 'That you're afraid.' \"Not of me, I think.\"' the beat's romance change is too faint. Have Ila name what he fears for, e.g. 'For whoever lives above this stair. Not for a chair in the Garh.' Give Kunal one beat registering that she has read him right, so she sees him frightened for others.",
+    "At 'At the ninth tread the ice simply let go' the scene breaks climbing logic: a leader with nothing above him falls past his belayer. At about the sixth tread, have Kunal pass the rope behind an old iron shepherd's peg or a rock horn, so the short catch is earned. Cut the orphan line 'He knew the rhyme, a child's counting game' or tie it to her knot."
   ],
-  "reader_question": "Who are 'the princes' whose way Raghu is demanding, and what was Hari trying to write in the smeared second line?",
+  "reader_question": "What is the princes' way, how do Raghu's men know its name, and what was Hari's unfinished second line?",
   "techniques_landed": [
     1,
+    6,
     10
   ],
-  "new_facts_assessment": "Hari and the marker stone are necessary and consistent. The forty-one count conflicts with the route-song's thirty-nine (F433) and the 'old count' of forty, and needs reconciling. The marker stone humming at a truth extends F320 to a non-cairn stone and should be logged.",
+  "new_facts_assessment": "Raghu leaving Pritam's service conflicts with the bible's Pritam loyalists and should be cut. The 300-year door fits the Bargain timeline. The hobnail pattern is necessary support for her count. The chest loop is fine, since untying for climbing is allowed. The half-note drop matches F387, but F456 ('low and level') must be reconciled. The thirty-nine ghosts' count duplicates F418. Unlisted: Raghu and Hari using 'the princes' way' strains F661 (no name outside the family) and needs an on-page reaction or an S7 ruling.",
   "content_rule_violation": false,
-  "failure_modes": [
-    "Narrated-only chemistry"
-  ],
+  "failure_modes": [],
   "average": 3.38,
   "minimum": 0.0,
   "passed": false
