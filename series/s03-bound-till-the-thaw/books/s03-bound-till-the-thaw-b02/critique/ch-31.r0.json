@@ -1,0 +1,42 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 3.0,
+    "stakes_and_cost": 3.0,
+    "prose": 4.0,
+    "continuity": 0.0
+  },
+  "reasons": {
+    "reader_question": "The queen asking alone for the rubbing points a sharp question at the unread carving and at what she fears it says.",
+    "change": "The oath is broken in public, the map is shared, Neshar wins self-rule, and Rohan learns Harish's truth. Power and knowledge both move.",
+    "romance_movement": "The new reason is faith kept without a rope to check it ('she did not count it'). It is quieter after ch30's consummation, but it is real.",
+    "shown_chemistry": "Lurching in step on the pace line, a hand flat beside hers, the palm between his shoulders before everyone. The chemistry is all action.",
+    "character_logic": "Sarala grants all four demands at once with no bargaining. Her 'sixty winters' and 'did not ask the archive' fit neither her age nor her knowledge.",
+    "stakes_and_cost": "Anger is stated but costs nothing: no penalty, no lost commission. Ila's Chief Surveyor ambition is never priced against the oath-break.",
+    "prose": "Clean, concrete and varied, with no banned phrases or dashes. A few clichés: 'held it as a man holds a child', 'heaviest line', 'clumsy hill' twice.",
+    "continuity": "Shilak's thaw comes 13 days after the Meadow Cairn's, against F435 (3 to 5 weeks). The council on day 51 contradicts F525 (day 35)."
+  },
+  "fixes": [
+    "Timeline (continuity). At 'The thaw came to Shilak on the forty-eighth day', move the day to fit F435 and F525. Either set the bond's end earlier and keep the council at the fixed date, or put Shilak's thaw at least three weeks after day 35. Then adjust the twelve working days and the council's arrival so the dates balance.",
+    "Queen's private speech (character logic, continuity). In 'I read his name on a list when I was nineteen and did not dare to ask the archive', she already knows the archive's story (bible) and has reigned 31 winters. Rewrite: she read the archive at her crowning and has never dared read what is written under the mountain (F595). Replace 'Sixty winters' with 'Thirty-one winters'.",
+    "Cost of the oath (stakes without depth). After 'We are keeping the map', have Sarala set a concrete price that bites Ila's stated want. For example, the Chief Surveyor's commission goes to another, or her name comes off the crown roll as the queen accepts the map. Have Ila answer it in one line, so 'Granted. All four' is bought, not given."
+  ],
+  "reader_question": "What does the carving under the mountain say, and why must the queen read it before anyone else?",
+  "techniques_landed": [
+    15,
+    20,
+    24
+  ],
+  "new_facts_assessment": "F612 conflicts with F435 (the Meadow Cairn runs 3 to 5 weeks before Shilak) and with F525 (council fixed for day 35). F613 rope scale bar: good, consistent with F436. F614 Dhanu's Rest and Widow's Knuckle: consistent with F541. F615: fine. F616 conflicts with the bible: the queen knows the Bargain and the last payer from the archive, and at 62 she cannot have let the law speak for 'sixty winters'. F617 is fine, but Meera 'bringing up' a farmer-and-daughter pair implies three on a rope (F439).",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Stakes without depth",
+    "Irrational behaviour to extend plot"
+  ],
+  "average": 3.25,
+  "minimum": 0.0,
+  "passed": false
+}
