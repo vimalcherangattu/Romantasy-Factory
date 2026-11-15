@@ -1,0 +1,41 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 5.0,
+    "shown_chemistry": 5.0,
+    "character_logic": 4.0,
+    "stakes_and_cost": 4.0,
+    "prose": 3.0,
+    "continuity": 0.0
+  },
+  "reasons": {
+    "reader_question": "The broken seal makes the letter's contents urgent, but Ila's Shilak Cairn line half-answers it early and blunts the gap.",
+    "change": "Kunal now knows of the lie, the letter and her reason. He gives up claim to the letter, which reverses his hoarding.",
+    "romance_movement": "Trust becomes rational for a new reason: he chose to pay a cost that told him she lied, then refused to seize the letter.",
+    "shown_chemistry": "Responsive care runs both ways: she holds and feeds the fire, refuses to confess to stop his shaking, and hums once steadied.",
+    "character_logic": "Both leads act smartly. But Kunal invents a false memory to his bound partner with no cost, and Ila, a measurer, never notices.",
+    "stakes_and_cost": "Taking the cold costs his flesh. The letter may force her to choose in front of him, and the hunters give the ice readings tactical weight.",
+    "prose": "Concrete and mostly fresh. Costs: the muddled hut-stones sentence, 'stolen blanket', 'Put me down', the opaque 'two fingers on nothing' callback, and tallow repeated.",
+    "continuity": "Ila claims the commission names the way beneath the Shilak Cairn, but F431/F471 say she never saw that clause, and F464 says she doesn't know it."
+  },
+  "fixes": [
+    "'The way beneath the Shilak Cairn runs from here': continuity break. Per F431/F464 Ila never saw that clause, and the reason belongs to the unopened letter. Change to: her commission says only 'every way'; the letter's fold names the Glass Lakes; she does not know why the queen wants them. Also cut 'under the part I was allowed to read' and check 'handed to me in Taravan' against ch 3.",
+    "'whether I'd rather be poor in trust or rich in knives': the rule bites inconsistently. A known-false statement to a bound partner should cost cold unless both know it's a joke. Cut the line, or have Ila say 'I never asked you that' and Kunal answer 'No. Fever talk', so it is plainly unmeant and free.",
+    "'Eleven holds the two of us and a mule': worldbuilding inconsistency. Her rule says three people need twelve, so a mule at eleven contradicts it. Change to 'Eleven holds the two of us with packs. It won't hold a third.' Also fix 'stolen blanket' to 'Dhanu's blanket', and rewrite the muddled 'stones in the hut wall, had there been any bound' sentence as 'There were no stones here to sing. Her hands did not change.'"
+  ],
+  "reader_question": "What does the queen's letter say she wants at the Glass Lakes, and will it force Ila to betray Kunal's ways?",
+  "techniques_landed": [
+    9,
+    14,
+    22
+  ],
+  "new_facts_assessment": "Survey spike: necessary and plausible. The Drum: necessary and consistent with the booming-lakes signature. Ice rule (8 fingers for a pair, 12 for three): useful, but the page contradicts it with 'eleven holds the two of us and a mule'. Unlisted new facts that need ruling: the letter 'handed to me in Taravan by someone I will not name' (check against F438's ch 3 delivery), and Ila knowing the Under-Cairn way runs from the lakes (conflicts with F431).",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Worldbuilding collapse"
+  ],
+  "average": 3.62,
+  "minimum": 0.0,
+  "passed": false
+}
