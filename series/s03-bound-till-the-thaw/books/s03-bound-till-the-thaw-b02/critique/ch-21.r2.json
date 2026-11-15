@@ -1,0 +1,43 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 3.0,
+    "character_logic": 2.0,
+    "stakes_and_cost": 4.0,
+    "prose": 3.0,
+    "continuity": 0.0
+  },
+  "reasons": {
+    "reader_question": "Clear and dated: will they clear the cleft before the Meadow Cairn thaws, and what will the letter do to Kunal?",
+    "change": "Silence becomes a dated debt. Kunal loses his fingertips. Raghu's four close on the cleft. Ila's creed fails at Dhanu's question.",
+    "romance_movement": "The beat's change lands with a new reason: her refusal turns into a promise. Kunal reframes the push as 'yours', which is new.",
+    "shown_chemistry": "Good responsive beats: he watches her stitches, she holds his dead hand. Middle passages narrate her feeling ('She could not bear it').",
+    "character_logic": "Spending ten climbing fingertips the night before a technical cleft, on a question she can refuse for free, is not a smart Kunal.",
+    "stakes_and_cost": "The cost ledger is concrete: thaw spread, a lapsed promise, dead fingers on stone and ice tonight, and the sheets as doors.",
+    "prose": "Clean, concrete and tell-free, but 'cost' and 'free' recur about a dozen times. The closing line re-runs an earlier construction.",
+    "continuity": "'No fire would warm that, and no hand' and Ila holding the cold tips with no transfer both contradict the bible's touch loophole."
+  },
+  "fixes": [
+    "At 'No fire would warm that, and no hand', the loophole is suspended (worldbuilding collapse). Under Rule 1, Ila's touch would draw the cold into her. Have Kunal pull his hands back when she reaches ('Don't. It's paid.') and have her obey. In the end beat she holds his palm, not his tips. Alternatively, state that the loophole cannot restore flesh already killed, and add that to new facts.",
+    "At 'I'll ask in front of you, and you can watch', the motive is too thin for a permanent cost the night before the cleft (irrational behaviour). Give Kunal a new practical need: Raghu's men are on the cliff, and he must know whether the letter names the cleft before he leads her in. Let Ila name the pressure his paid question puts on her, so the self-harm is not left as unexamined leverage.",
+    "At 'It was free, and it cost more than', the free/cost motif is overworked (repetitive tension). Cut at least four uses of 'cost' or 'free' in the middle scene, such as 'Refusing was free, and it cost her nothing' and 'It cost him'. Then end on an image instead: the ice note, the star, or her hand on the hem."
+  ],
+  "reader_question": "Will Ila and Kunal get through the mountain before meltwater runs at the Meadow Cairn, so she can keep her promise, and what will the letter do to him when she does?",
+  "techniques_landed": [
+    14,
+    15,
+    22
+  ],
+  "new_facts_assessment": "F556 is necessary and consistent with F435 and the plan. F555 follows the great-lie rule, but its 'touch does not warm' clause breaks the loophole. A permanent loss of ten fingertips is unplanned, echoes Meera's fingers, and hampers later climbs. It needs an S2 ruling or should be scaled back. 'Eleven years' versus 'twelve years' for Ila's service is a small wobble.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Irrational behaviour to extend plot",
+    "Worldbuilding collapse",
+    "Repetitive tension"
+  ],
+  "average": 3.0,
+  "minimum": 0.0,
+  "passed": false
+}
