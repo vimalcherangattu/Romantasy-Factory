@@ -1,0 +1,42 @@
+{
+  "scores": {
+    "reader_question": 3.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 3.0,
+    "stakes_and_cost": 3.0,
+    "prose": 4.0,
+    "continuity": 0.0
+  },
+  "reasons": {
+    "reader_question": "The beat's question is present but soft; Meera's 'Day thirty-two' line names a deadline without making the coming thaw feel dangerous.",
+    "change": "Clear shift from hunted to free and declared: Raghu taken, Pasang turned witness, love declared in light, the map promise made.",
+    "romance_movement": "The reason is new: a declaration verified by her hands, chosen in the light after his dark one, plus a promise that will outlast enforcement.",
+    "shown_chemistry": "Responsive acts carry it: the pencil leads, the blanket nest for her feet, 'I'll tell you the shape', the north-wall callback.",
+    "character_logic": "Kunal's offer to Pasang is smart. Rohan's watch rests on foreknowledge Ila couldn't have had, and Raghu's lunge reads as forced.",
+    "stakes_and_cost": "Raghu folds fast and the salt house has no live threat. The promise's future cost is named but carries little dread.",
+    "prose": "Concrete and well varied. Ila's hand sits 'flat against his chest' over a seal sewn at the nape, which is impossible. 'Low and level' recurs.",
+    "continuity": "Ila's letter conflicts with F431, F471 and F595. 'And they will' costs no cold (F010, F012). 'Queen's own seal' on Meera conflicts with F018 and F421."
+  },
+  "fixes": [
+    "'Ila had written him from Garh Neshar that she would' (Convenient magic / continuity). Ila could not have known in ch 3 that she would come out at Shilak. Replace it: for three nights the Shilak Cairn has rung from under the ground with no one inside the ring. Gopal sent for Rohan, who has stood dawn watch since. Revise F604 to match.",
+    "'And they will,' said Raghu. Nothing happened to his hands. (Rule that bites back suspended). A spoken false assurance to his bound partner must cost cold, and the line after it, 'silence was free', contradicts the fact that he spoke. Replace the line with Raghu saying nothing. Pasang asks again, and Raghu's silence becomes the answer, which keeps 'Kunal watched the boy understand what the silence cost'.",
+    "'the queen's own seal hanging off it like a button' (continuity). The queen's seal is the unique lapis stone (F018), and licences carry the post's brown and council's blue seals (F421). Change it to 'the post's brown seal and the council's blue on the cord, and a pardon wax with a thread of red'. Also fix 'flat against his chest, over the coat where the seal had once been sewn into the nape': move her hand to the back of his collar."
+  ],
+  "reader_question": "When the Meadow Cairn's meltwater ends the bond in days, will Ila keep her promise of one map for both courts once the mountain no longer enforces it?",
+  "techniques_landed": [
+    16,
+    20,
+    22
+  ],
+  "new_facts_assessment": "F604 conflicts. Ila left Garh Neshar in ch 3 without knowing of any way beneath Shilak (F431, F471) and learned of the Under-Cairn only from the queen's letter at the Glass Lakes (F595). F605 is necessary and consistent. F606: the pardon is plausible after spring, but 'the queen's own seal' names the unique lapis seal (F018), and licences carry the post's and council's seals (F421). F607 is necessary, smart and consistent with F012.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Convenient magic",
+    "Irrational behaviour to extend plot"
+  ],
+  "average": 3.12,
+  "minimum": 0.0,
+  "passed": false
+}
