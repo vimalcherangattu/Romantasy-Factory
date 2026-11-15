@@ -128,7 +128,7 @@
       }
     },
     "05": {
-      "status": "passed",
+      "status": "edited",
       "revisions": 1,
       "scores": {
         "reader_question": 5.0,
@@ -142,8 +142,19 @@
       },
       "average": 4.25,
       "flags": [],
-      "words": 2916,
-      "minimum": 4.0
+      "words": 2907,
+      "minimum": 4.0,
+      "style": {
+        "words": 2907,
+        "banned_hits": {},
+        "ai_tell_hits": {},
+        "ai_tells_per_1000": 0.0,
+        "top_4gram": "stair he had walked",
+        "top_4gram_count": 2,
+        "longest_paragraph_words": 115,
+        "em_dashes_per_1000": 0.69,
+        "reading_ease": 94.8
+      }
     },
     "06": {
       "status": "passed",
@@ -1215,9 +1226,13 @@
     {
       "at": "2026-11-15T21:46:09",
       "event": "done: S8 line edit ch 4"
+    },
+    {
+      "at": "2026-11-15T21:46:41",
+      "event": "done: S8 line edit ch 5"
     }
   ],
-  "updated_at": "2026-11-15T21:46:09",
+  "updated_at": "2026-11-15T21:46:41",
   "midpoint_chapter": 16,
   "continuity_attempts": 1,
   "continuity_last_errors": 3
