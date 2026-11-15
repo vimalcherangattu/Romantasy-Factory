@@ -1,29 +1,14 @@
 {
   "facts": [
     {
-      "category": "timeline",
-      "fact": "Kunal marks the petition margin with a day count: the hill council fixed the date at Garh Neshar for Shilak's thaw council as thirty-five days off; at this chapter it is day twenty with fifteen left.",
-      "why": "needed because the outline beat requires the day count 'twenty of thirty-five' with the thaw council after."
+      "category": "knowledge",
+      "fact": "Kunal says he has shown Ila three ways in twenty days; his nurse used to say 'Where the Drum answers, lie still till morning' to put him to sleep.",
+      "since": "b02 ch 17"
     },
     {
       "category": "knowledge",
-      "fact": "Pritam told Kunal the story of Udai at supper the winter Kunal was nine, a week after his father's funeral: Udai showed the way once to one guest in winter and 'was not the same man after'; 'The way kills those who share it.' Pritam made the family rule that night: no prince shows the way to wife, son or friend. Kunal does not know the guest died.",
-      "why": "needed because the beat has Pritam tell the story as a lesson and make the rule himself."
-    },
-    {
-      "category": "knowledge",
-      "fact": "Pritam took Kunal at twelve to the first turn of the princes' way at the Eye, turned him round himself, and said the rest was for a prince who had earned it.",
-      "why": "needed because the beat says Kunal has never been past the first turn because his uncle never took him further."
-    },
-    {
-      "category": "name",
-      "fact": "Hill name 'Where the Drum Answers' is the long seam at the cliff foot of the Drum where the ice rings; the saying is 'Where the Drum answers, lie still till morning.'",
-      "why": "needed because the beat's name trade gives this name."
-    },
-    {
-      "category": "name",
-      "fact": "Hill people call the third lake the Eye; the cleft at its head is its pupil.",
-      "why": "needed because the beat names the Eye as the third lake where the way enters."
+      "fact": "Kunal breaks Pritam's family rule (no prince shows the way to wife, son or friend) by telling Ila the Eye; he links its cost to his petition clause on the hill council keeping the high ways. The thaw council is thirty-five days from the binding night, distinct from the Meadow Cairn gap in F435.",
+      "since": "b02 ch 17"
     }
   ]
 }
