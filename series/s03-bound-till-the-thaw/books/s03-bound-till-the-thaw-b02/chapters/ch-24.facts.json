@@ -1,0 +1,24 @@
+{
+  "facts": [
+    {
+      "category": "place",
+      "fact": "The Drum fold is a cut of shore under the cliff at the far end of the Drum, a short walk from the lodging huts along the lake.",
+      "why": "needed because the note names it as the exchange place; ch 25 beat places it under a cornice ledge."
+    },
+    {
+      "category": "object",
+      "fact": "The ransom note is charcoal on a scrap of herder's tally-hide in a clerk-like hill-script hand, pinned to the lintel of Dhanu's hut with an iron nail, Dhanu's whistle looped over the nail by its frayed thong.",
+      "why": "needed because the beat requires the note pinned to the door with the whistle."
+    },
+    {
+      "category": "object",
+      "fact": "Ila carries five sheets sewn in her coat/pattu lining (Stair, Moon, exits sheet and the new Eye sheet); Kunal knows they are on her.",
+      "why": "needed to stage the final question 'Where are the sheets?'"
+    },
+    {
+      "category": "knowledge",
+      "fact": "Kunal puts the odds that the hostages walk off the ice at about one in three if he hands over the sheets; Ila privately disagrees.",
+      "why": "supports technique 6 and sets up chapter 25's refusal."
+    }
+  ]
+}
