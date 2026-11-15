@@ -1,0 +1,42 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 5.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 4.0,
+    "stakes_and_cost": 3.0,
+    "prose": 3.0,
+    "continuity": 0.0
+  },
+  "reasons": {
+    "reader_question": "The ending is specific: she is guarding the letter and an unspoken number (sixty), and Kunal has just chosen not to ask.",
+    "change": "Armoured to known lands. They become lovers, and the name trade turns into a free gift, so both power and knowledge shift.",
+    "romance_movement": "The disclosure, her response and his validation are all written. The reason for the change is new: his telling buys nothing.",
+    "shown_chemistry": "Warm hands held up as evidence, spoken consent, unwrapped bandages and the warmed feet all show attraction through action. A few lines tip into narration ('never so glad').",
+    "character_logic": "Both act smartly. Her 'I'd rather be checked' fits her. His swallowed question mirrors her restraint in chapter 19.",
+    "stakes_and_cost": "His nightly promise is a bound contract, and each name becomes a possible crown line. The chapter never counts that cost. Raghu's sixteen men are absent.",
+    "prose": "The prose is mostly clean, with no banned phrases. Weak spots: clunky lines ('I had learned it so well'), 'God help me' in this world, the 'quiet' repetition, and a near-verbatim echo of chapter 19.",
+    "continuity": "A spring death plus one month cannot be autumn. F526 puts the supper a week after the funeral. Dhanu's upper hut (F515) stands above the Mirror, not the Drum."
+  },
+  "fixes": [
+    "'My father died in the spring. It was a lung fever': a spring death plus 'a month' cannot be 'in autumn', and F526 dates the Udai supper a week after the funeral. Change this to 'My father died at the end of summer, of a lung fever'. Keep the ridge a month later, in autumn. Leave the supper a week after the funeral, and ask S7 to change F526's 'winter' to autumn.",
+    "'Dhanu's upper hut was a short climb above the shore': F515 puts that hut above the Mirror, a whole lake away. Make it a herders' hut on the scree above the Drum and correct F543. Also, the rope 'lay on the floor... coiled' yet hums 'against his wrist'. Have her retie it on his wrist before his promise. Add one line showing she moved the letter from her coat into the pattu.",
+    "'I'll give you a name a night': this is Stakes without depth. A bound promise strikes as a great lie if broken, and every name she writes becomes a crown line. Have Ila name both costs aloud. At dawn, make the swallowed question his promise ('ask nothing back') biting, with his fingertips starting to chill. Replace the copied chapter 19 phrasing 'It was fair, and it had come up whole' with fresh wording."
+  ],
+  "reader_question": "Now that Kunal gives her names freely and asks nothing, how long can Ila keep the queen's letter, and the number sixty, from him?",
+  "techniques_landed": [
+    9,
+    10,
+    25
+  ],
+  "new_facts_assessment": "Ridge timing: needed, but it is internally broken (spring plus a month is not autumn) and clashes with F526's week-after supper, so fix the season. Widow's Knuckle: good and earned, but 'Widow's' echoes the Widow's Ladder (F492). Either tie the two or rename. Letter now in the pattu: acceptable, but the move from the coat lining (F438, F514) is never shown on the page. Add one line. Upper hut above the Drum: conflicts with F515, which puts it above the Mirror. Rib scar: harmless.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Stakes without depth",
+    "Plot buried by romance"
+  ],
+  "average": 3.38,
+  "minimum": 0.0,
+  "passed": false
+}
