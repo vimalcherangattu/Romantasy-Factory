@@ -565,7 +565,7 @@
       }
     },
     "20": {
-      "status": "passed",
+      "status": "edited",
       "revisions": 1,
       "scores": {
         "reader_question": 4.0,
@@ -579,8 +579,19 @@
       },
       "average": 4.38,
       "flags": [],
-      "words": 3252,
-      "minimum": 4.0
+      "words": 3232,
+      "minimum": 4.0,
+      "style": {
+        "words": 3232,
+        "banned_hits": {},
+        "ai_tell_hits": {},
+        "ai_tells_per_1000": 0.0,
+        "top_4gram": "at the end of",
+        "top_4gram_count": 2,
+        "longest_paragraph_words": 123,
+        "em_dashes_per_1000": 0.0,
+        "reading_ease": 96.8
+      }
     },
     "21": {
       "status": "passed",
@@ -1440,9 +1451,13 @@
     {
       "at": "2026-11-15T21:53:49",
       "event": "done: S8 line edit ch 19"
+    },
+    {
+      "at": "2026-11-15T21:54:26",
+      "event": "done: S8 line edit ch 20"
     }
   ],
-  "updated_at": "2026-11-15T21:53:49",
+  "updated_at": "2026-11-15T21:54:26",
   "midpoint_chapter": 16,
   "continuity_attempts": 1,
   "continuity_last_errors": 3
