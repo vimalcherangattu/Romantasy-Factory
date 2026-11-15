@@ -1,0 +1,41 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 3.0,
+    "stakes_and_cost": 4.0,
+    "prose": 3.0,
+    "continuity": 0.0
+  },
+  "reasons": {
+    "reader_question": "Sharp: her feet fail on the ice, and the lie waits for discovery by touch.",
+    "change": "Ila becomes a liar who pays in flesh. Kunal loses his bargaining chip and offers himself instead.",
+    "romance_movement": "The reason is new. She trades his trust for his life, and he chooses belief over knowing.",
+    "shown_chemistry": "His notice of her cold hands, his choice not to touch, and his apology are responsive and specific.",
+    "character_logic": "She lies instead of actually burning the sheets, which she herself proposed. The page never explains why.",
+    "stakes_and_cost": "The lie costs her feet, and walking to the fold with nothing raises the danger to Kunal.",
+    "prose": "Mostly clean. Some purple similes, a vague 'sorry for the word', and an echoed 'She held it anyway'.",
+    "continuity": "The 'pack strap' lie Kunal took contradicts ch24's 'a surveyor who had never lied to him' and the value shift."
+  },
+  "fixes": [
+    "At 'He had taken her cold once, for a lie' (continuity conflict): ch24 says Ila never lied to him, and the loophole payoff belongs later. Cut the pack-strap memory. Replace it with what he knows from Book 1: he watched Meera's glove at the drafting table and knows exactly what one touch would teach him.",
+    "At 'I burned them. Last night, in the hut fire' (timeline error): Kunal saw the Eye sheet at dawn, and ch24's huts had no smoke. Change it to 'This morning, when we came in', with coals 'banked under ash'. Have Kunal register that there was no smoke and visibly let it go. This makes his choice to believe her active.",
+    "In the sums scene after 'But a man who thought the sheets were ash' (irrational behaviour): she offered fire herself, so why not truly burn them? Add two or three lines giving a cost. They are the only true record of the hills, Hari's scratched warnings and the map she means to share, and burning them in front of him would be one more thing he'd watch."
+  ],
+  "reader_question": "Will Ila survive the cold of her great lie, and what will Kunal do when he learns she lied?",
+  "techniques_landed": [
+    14,
+    18,
+    22
+  ],
+  "new_facts_assessment": "Most listed facts are needed and consistent. F574 says the burning was 'that morning', but the text says 'Last night'. Ch24 also shows the huts cold and smokeless, so 'live coals' strains. The chapter adds an unlisted fact: an earlier pack-strap lie whose cold Kunal took. It conflicts with ch24 and spends the loophole payoff early.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Irrational behaviour to extend plot"
+  ],
+  "average": 3.25,
+  "minimum": 0.0,
+  "passed": false
+}
