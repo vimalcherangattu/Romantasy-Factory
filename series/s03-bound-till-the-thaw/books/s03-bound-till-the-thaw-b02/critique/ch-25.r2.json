@@ -1,0 +1,41 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 3.0,
+    "stakes_and_cost": 4.0,
+    "prose": 4.0,
+    "continuity": 5.0
+  },
+  "reasons": {
+    "reader_question": "She has fallen on the ice at the handover with dead feet. He must touch her, which exposes the lie. The question is specific and urgent.",
+    "change": "The sheets are 'gone' and the handover moves to dusk. Kunal goes with only himself to offer, and Ila is crippled. Power, knowledge and plans all shift.",
+    "romance_movement": "This is a new reason. She trades his trust for his life, he chooses belief over proof, and his apology turns her lie into a wound.",
+    "shown_chemistry": "He notices her cold hands, stops a pace off and pockets his own. 'I know what you watched.' The care is responsive and unnarrated.",
+    "character_logic": "The lie is well reasoned, false line versus tongue. But she still walks the sheets in her lining to the fold she says Raghu controls.",
+    "stakes_and_cost": "The rule bites in flesh, set up by Meera's glove. The cost lands on the page, though her fear of losing the feet is underplayed.",
+    "prose": "Strong images ('standing on a drawing of a foot'). The sum/counting motif is overworked, and a few sentences are clotted.",
+    "continuity": "Consistent with F552-F579, Meera's three-digit glove (F409), hands-then-feet lie-cold and the dusk shift (F573). No conflicts."
+  },
+  "fixes": [
+    "At 'They might strip her anyway. Raghu would search a surveyor', the logic fails (Irrational behaviour to extend plot). Her lie exists to keep the sheets from Raghu, yet she carries them to his fold. Have her cache the sheets in the second hut while Kunal sifts the ash, for example under the plank shelf. Or give a hard reason she cannot: the rope keeps him within eight spans and watching. List the cache as a new fact.",
+    "At 'Her feet had stopped telling her what they were doing somewhere around the sixtieth pace', the chapter contradicts itself. In the hut her feet already reached 'then nothing'. Make the hut stage partial (wooden, a toe still answering) so the total loss on the shore is new. Also fix 'the rope pulled hard at her wrist and then let go', which reads as the knot slipping. Change it to the rope going slack as Kunal turns.",
+    "At 'She did the sums the way she did all sums', the sum motif repeats (Repetitive imagery). It recurs in 'a different sum' and 'plain horror of the sum', echoing ch 24's heavy use. Cut two instances. Rewrite 'Every route-keeper who had ever scratched a warning on a stone would be a witness that Raghu didn't need standing' as two plain sentences naming Hari. Cut or list the Raghu 'same table' claim."
+  ],
+  "reader_question": "When Kunal reaches her on the ice and touches her dead feet, what will he learn, and what will he believe she did with the sheets?",
+  "techniques_landed": [
+    14,
+    18,
+    22
+  ],
+  "new_facts_assessment": "The new-facts file is empty, yet the draft adds details. The Drum fold is on the 'north shore' (compatible with F568), Ila has 'eleven winters' unbroken (fits F435) and Kunal 'reading rooms twenty years'. 'Raghu learned the same lesson at the same table' implies Raghu was raised at Pritam's table; it is unlisted and needs listing or cutting. The lie adapts the beat's 'last night' to 'this morning', which is correct because they spent last night in the Eye, and matches F577.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Irrational behaviour to extend plot"
+  ],
+  "average": 4.0,
+  "minimum": 3.0,
+  "passed": true
+}

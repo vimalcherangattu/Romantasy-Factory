@@ -6,36 +6,36 @@
     "shown_chemistry": 4.0,
     "character_logic": 3.0,
     "stakes_and_cost": 4.0,
-    "prose": 3.0,
-    "continuity": 0.0
+    "prose": 4.0,
+    "continuity": 5.0
   },
   "reasons": {
-    "reader_question": "Sharp and urgent: the fall on the ice forces touch, so will he take the cold and learn the lie, and what will it cost her feet?",
-    "change": "Ila has become a liar paying in flesh, Kunal is now unarmed going to Raghu, and the sheets survive in secret. Power and knowledge both shift.",
-    "romance_movement": "New reason: she trades his trust for his life. He chooses belief over proof. The apology scene deepens the bond while the lie poisons it.",
-    "shown_chemistry": "Strong responsive beats: he stops a pace off and pockets his hands, offers the stove, apologises. One narrated 'She loved him for it' slips in.",
-    "character_logic": "The lie is well argued, but a smart Ila would see that Raghu will search the surveyor anyway, whatever Kunal believes. The draft never addresses this.",
-    "stakes_and_cost": "Feet dying on the walk to the fold is a vivid, rule-true cost. The false-set refusal also ties to a named hostage. It is irreversible in feel.",
-    "prose": "Clean and concrete, but 'she saw him weigh it' recurs, 'came to her whole' echoes ch24's 'came to him whole', and the drowning-splinter cliché is there.",
-    "continuity": "Kunal says Ila 'said it was yours, in the cleft', but in ch24 he gave it to her and she said she didn't know whose it was."
+    "reader_question": "She has fallen on the ice at the handover with dead feet. He must touch her, which exposes the lie. The question is specific and urgent.",
+    "change": "The sheets are 'gone' and the handover moves to dusk. Kunal goes with only himself to offer, and Ila is crippled. Power, knowledge and plans all shift.",
+    "romance_movement": "This is a new reason. She trades his trust for his life, he chooses belief over proof, and his apology turns her lie into a wound.",
+    "shown_chemistry": "He notices her cold hands, stops a pace off and pockets his own. 'I know what you watched.' The care is responsive and unnarrated.",
+    "character_logic": "The lie is well reasoned, false line versus tongue. But she still walks the sheets in her lining to the fold she says Raghu controls.",
+    "stakes_and_cost": "The rule bites in flesh, set up by Meera's glove. The cost lands on the page, though her fear of losing the feet is underplayed.",
+    "prose": "Strong images ('standing on a drawing of a foot'). The sum/counting motif is overworked, and a few sentences are clotted.",
+    "continuity": "Consistent with F552-F579, Meera's three-digit glove (F409), hands-then-feet lie-cold and the dusk shift (F573). No conflicts."
   },
   "fixes": [
-    "At \"You said it was yours, in the cleft, that it was a gift\" there is a continuity conflict. In ch24 Kunal said 'Then it's yours', and in the cleft Ila said she didn't know whose it was. Rewrite as \"I said it was yours, last night. I meant it as a gift, not a trade.\" Also change \"I asked you for them an hour ago\" to \"a quarter hour ago\" to match ch24.",
-    "At \"But a man who thought the sheets were ash\" there is an irrational-behaviour gap: Raghu will search the surveyor regardless. Add two sentences where Ila counts that cost and decides it anyway. For example, they may strip her coat, but Kunal's eyes won't send them there, and a searched woman with sewn seams is a risk she takes for his life. That makes the lie a costed gamble, not an oversight.",
-    "At \"She saw him weigh it, find it light\" and \"She saw him hear it, and weigh it\" there is repetitive narration. Cut the second 'weigh'. Replace \"It came to her whole, without any heat, as a closed traverse does\", which echoes ch24, with a fresh image. Cut \"She loved him for it, and the knowledge was no use to her\" and let the unasked question carry the feeling (avoid narrated chemistry)."
+    "At 'They might strip her anyway. Raghu would search a surveyor', the logic fails (Irrational behaviour to extend plot). Her lie exists to keep the sheets from Raghu, yet she carries them to his fold. Have her cache the sheets in the second hut while Kunal sifts the ash, for example under the plank shelf. Or give a hard reason she cannot: the rope keeps him within eight spans and watching. List the cache as a new fact.",
+    "At 'Her feet had stopped telling her what they were doing somewhere around the sixtieth pace', the chapter contradicts itself. In the hut her feet already reached 'then nothing'. Make the hut stage partial (wooden, a toe still answering) so the total loss on the shore is new. Also fix 'the rope pulled hard at her wrist and then let go', which reads as the knot slipping. Change it to the rope going slack as Kunal turns.",
+    "At 'She did the sums the way she did all sums', the sum motif repeats (Repetitive imagery). It recurs in 'a different sum' and 'plain horror of the sum', echoing ch 24's heavy use. Cut two instances. Rewrite 'Every route-keeper who had ever scratched a warning on a stone would be a witness that Raghu didn't need standing' as two plain sentences naming Hari. Cut or list the Raghu 'same table' claim."
   ],
-  "reader_question": "When Kunal touches her on the ice, will he take the cold, learn she lied, and how will he read the lie?",
+  "reader_question": "When Kunal reaches her on the ice and touches her dead feet, what will he learn, and what will he believe she did with the sheets?",
   "techniques_landed": [
     14,
     18,
     22
   ],
-  "new_facts_assessment": "F577's shift from 'last night' to 'this morning' is necessary, because the pair were in the Eye overnight and the coals story fits the ch24 arrival. F578 supplies a needed motive for not truly burning. F579 is consistent with F446 and F409 and sharpens his choice not to reach. All three are acceptable.",
+  "new_facts_assessment": "The new-facts file is empty, yet the draft adds details. The Drum fold is on the 'north shore' (compatible with F568), Ila has 'eleven winters' unbroken (fits F435) and Kunal 'reading rooms twenty years'. 'Raghu learned the same lesson at the same table' implies Raghu was raised at Pritam's table; it is unlisted and needs listing or cutting. The lie adapts the beat's 'last night' to 'this morning', which is correct because they spent last night in the Eye, and matches F577.",
   "content_rule_violation": false,
   "failure_modes": [
     "Irrational behaviour to extend plot"
   ],
-  "average": 3.25,
-  "minimum": 0.0,
-  "passed": false
+  "average": 4.0,
+  "minimum": 3.0,
+  "passed": true
 }
