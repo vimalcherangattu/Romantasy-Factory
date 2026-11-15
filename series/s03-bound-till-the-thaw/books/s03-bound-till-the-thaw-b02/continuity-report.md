@@ -1,44 +1,46 @@
 # Continuity report: The Winter Oath (Book 2), chapters 1–32
 
-## What was checked
+## What I checked
 
-- **Names and roles:** the cast against the bible and continuity.json, including Dhanu's household.
-- **Ages:** Ila 31, Kunal 33, Kiran 25, Pinku 7, the queen 62.
-- **Day counts:** the bond's day count (day 20 at ch 17, day 32 at ch 30, day 35 the bond ends, day 56 Shilak's thaw), plus elapsed-time remarks and the seasons of past events.
-- **Rope-bond rules:** small, middling and great lies; broken promises; the touch loophole; separation cold at 8 and 16 spans; promise hums.
-- **Injuries:**
-  - Kunal's frostnip, then his dead right fingertips.
-  - Ila's two dead left toes and her changed pace.
-- **Who knows what:**
-  - The letter.
-  - Ila's lie about her orders.
-  - Udai and Harish.
-  - Dhanu's death.
-- **Objects:** walnuts, whistle, sheets, letter location, rope.
-- **Places and measured distances:** the Stair, the Hollow Moon, the Ladder, the three lakes, the cleft, the Under-Cairn, and the Shilak Cairn exit.
+- **Names and address:** forms of address, ages (Ila 31, Kunal 33, Kiran 25, Mini 6, Pinku 7, Queen Sarala 62) and roles, including Ila's role as guide on her licence.
+- **Timeline:** the day count from the binding to day 20, 32, 35 and 56; the Meadow and Shilak thaw gap; the moonrise and moonset sequence around the raid; the count of winters (60/61); the Kunal-at-nine chronology.
+- **Magic rules:**
+  - lie-cold severity (small, middling, great);
+  - broken-promise strikes;
+  - the touch loophole;
+  - separation cold at one and two rope-lengths;
+  - pairs-only binding;
+  - the bond ending at the Meadow Cairn.
+- **Injuries:** Kunal's dead fingertips (right hand only), Ila's two dead left toes, and Kunal's blistered palms.
+- **Who knows what:** the Glass Lakes name, the walnut rule, the hill sense of "carried", the queen's letter, and the gloves.
+- **Objects and places:** the survey spike, pencil leads, the crutch, the sheets and the letter (coat, then pattu), the rope's wrist and knot, Mini's whereabouts, and the geography of the faint east line.
+- **Relationship state:** first-name use, laughter callbacks, and promises made under the bond.
 
-## Errors found (14)
+## Errors found
 
-- **Major:**
-  - Gauri is called Dhanu's sister in ch 7 but is his wife everywhere else (E01).
-  - Kunal twice treats Ila as someone who has never lied to him, after he took her lie-cold in ch 15 (E02).
-- **Timeline:**
-  - The "six days" and "nine days" remarks in ch 13–15 and 20 contradict the day-twenty count in ch 17 (E03).
-  - Kunal's age-nine episode is put in winter, or a week after the funeral, in ch 11, 13 and 17. Ch 20 and 28 put it at end of summer and autumn (E04).
-  - The council date is given as 35 days, and the council is placed at Garh Neshar (E05).
-  - The ch 16 "three nights ago" recall (E06).
-  - The ch 26 "two days ago" recall (E11).
-- **World rule:** wardens said to hang under the Closing Law (E07).
-- **Measurement:** 410 paces called a third of a mile (E08).
-- **Who knows what:** the east-bearing omission is recalled as undecided (E09). Ila's "Meadow Cairn … rather than follow you east" contradicts ch 3 (E13).
-- **Objects:** the letter is said to have been in her hem since the Stair (E10). The pen wall is called a lambing wall and its footing is credited to Ila (E12).
-- **Place:** the ch 13 recall of where Ila refused the promise (E14).
+There are 27 open errors: 2 major and 25 minor. All have patches in errors.json.
 
-## Notes for the continuity file
+**Major:**
+- **E01:** Dhanu names the Glass Lakes in front of Ila in ch 7 and 8, before she "first" hears the name in ch 10.
+- **E02:** Mini disappears from the lower lake huts before the raid, and no one mentions her.
 
-The patches reconcile these provisional facts with the outline's day twenty and day thirty-two:
+**Minor:**
+- **Timeline:** six days vs two weeks (E05), the soft-year 35 (E07), the raid at moonrise (E12), the tavern song arriving too early (E24).
+- **Injuries:** both hands vs the right hand (E09), and Kunal's tallow-coloured fingertips (E06).
+- **Objects lost and reused:** the spike (E16), the crutch (E17), the pencil leads (E18).
+- **Knowledge slips:** E08, E11, E13, E14, E21, E22.
+- **Magic:**
+  - the small-lie depth (E04);
+  - three people on one crossing (E25).
+- **Address and role:** E19, E20, E26.
+- **Small place and object slips:** E10, E15, E23, E27.
 
-- F512 and F517 ("six days") are superseded.
-- F525's day-35 council date is superseded.
+## Facts that need revision after these patches
 
-Ch 30's "Day thirty-two" is kept. The under-mountain passage (Rohan's three nights of ringing at the cairn) absorbs the elapsed time.
+- **F424:** Ila is the licensed guide, and the council names her partner.
+- **F437:** Kiran is bound to a single licensed guide.
+- **F466:** Kunal said "we can spare it".
+- **F512:** the leads have been roped together more than two weeks at ch 13.
+- **F594:** the raid happened after moonset.
+- **F598:** the crutch was cut at the cleft mouth.
+- **F603:** the pencil leads have been carried since the Hollow Moon.
