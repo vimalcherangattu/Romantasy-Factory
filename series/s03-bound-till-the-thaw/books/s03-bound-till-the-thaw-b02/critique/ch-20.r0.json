@@ -2,41 +2,41 @@
   "scores": {
     "reader_question": 4.0,
     "change": 4.0,
-    "romance_movement": 5.0,
+    "romance_movement": 4.0,
     "shown_chemistry": 4.0,
-    "character_logic": 4.0,
-    "stakes_and_cost": 3.0,
+    "character_logic": 3.0,
+    "stakes_and_cost": 4.0,
     "prose": 3.0,
     "continuity": 0.0
   },
   "reasons": {
-    "reader_question": "The ending is specific: she is guarding the letter and an unspoken number (sixty), and Kunal has just chosen not to ask.",
-    "change": "Armoured to known lands. They become lovers, and the name trade turns into a free gift, so both power and knowledge shift.",
-    "romance_movement": "The disclosure, her response and his validation are all written. The reason for the change is new: his telling buys nothing.",
-    "shown_chemistry": "Warm hands held up as evidence, spoken consent, unwrapped bandages and the warmed feet all show attraction through action. A few lines tip into narration ('never so glad').",
-    "character_logic": "Both act smartly. Her 'I'd rather be checked' fits her. His swallowed question mirrors her restraint in chapter 19.",
-    "stakes_and_cost": "His nightly promise is a bound contract, and each name becomes a possible crown line. The chapter never counts that cost. Raghu's sixteen men are absent.",
-    "prose": "The prose is mostly clean, with no banned phrases. Weak spots: clunky lines ('I had learned it so well'), 'God help me' in this world, the 'quiet' repetition, and a near-verbatim echo of chapter 19.",
-    "continuity": "A spring death plus one month cannot be autumn. F526 puts the supper a week after the funeral. Dhanu's upper hut (F515) stands above the Mirror, not the Drum."
+    "reader_question": "Ending is sharp: will Kunal break his chosen promise over the letter, and how long can Ila keep it from him?",
+    "change": "Kunal goes from armoured to known; they become lovers; the name trade becomes a gift with a bound promise attached.",
+    "romance_movement": "The disclosure is fully met, which is a new reason for change. Her silence about the letter now weighs on the bond.",
+    "shown_chemistry": "Laces, foot-warming, and her measured answer at the shore are all responsive. A few lines narrate the effect ('went in under his ribs').",
+    "character_logic": "Ila re-sews the letter into her pattu in front of him just before sex. It has no stated motive and reads as staging for the dawn image.",
+    "stakes_and_cost": "Ila names both costs of the promise aloud before he makes it, and the dawn chill makes the cost bite at once.",
+    "prose": "Clean and concrete with no banned phrases. The age statements are stilted, 'let it stand' echoes, and a few lines say what the scene already shows.",
+    "continuity": "'Twenty days' and the letter 'carried three weeks' conflict with F713/F512 (ch 17 is about day ten; nine shared quarters at ch 19)."
   },
   "fixes": [
-    "'My father died in the spring. It was a lung fever': a spring death plus 'a month' cannot be 'in autumn', and F526 dates the Udai supper a week after the funeral. Change this to 'My father died at the end of summer, of a lung fever'. Keep the ridge a month later, in autumn. Leave the supper a week after the funeral, and ask S7 to change F526's 'winter' to autumn.",
-    "'Dhanu's upper hut was a short climb above the shore': F515 puts that hut above the Mirror, a whole lake away. Make it a herders' hut on the scree above the Drum and correct F543. Also, the rope 'lay on the floor... coiled' yet hums 'against his wrist'. Have her retie it on his wrist before his promise. Add one line showing she moved the letter from her coat into the pattu.",
-    "'I'll give you a name a night': this is Stakes without depth. A bound promise strikes as a great lie if broken, and every name she writes becomes a crown line. Have Ila name both costs aloud. At dawn, make the swallowed question his promise ('ask nothing back') biting, with his fingertips starting to chill. Replace the copied chapter 19 phrasing 'It was fair, and it had come up whole' with fresh wording."
+    "'In twenty days he had learned this about her' and 'she had carried it three weeks': continuity break with F713 and F512, which put ch 17 at about day ten. Change both to fit about day twelve, for example 'In twelve days' and 'she had carried it since the Meadow Cairn'. Check every day count in the chapter against F713.",
+    "'She unpicked three stitches of the lining, drew out': irrational behaviour staged for the ending. Give Ila a motive on the page. The coat is coming off and she will not leave the letter where it could be found unasked, so she keeps it on her body. Let Kunal read that motive from the speed of her needle. Keep it to one or two sentences.",
+    "'I'm thirty-one,' she said. 'I know my own mind.': the age line reads as a compliance insert, and both leads are already stated adults (F654, F562). Recast it in character, for example 'I'm thirty-one and I've checked my closures twice'. Cut Kunal's 'I'm thirty-three' or fold it into his twenty-four years of counting. Also vary the second 'and let it stand' to break the echo."
   ],
-  "reader_question": "Now that Kunal gives her names freely and asks nothing, how long can Ila keep the queen's letter, and the number sixty, from him?",
+  "reader_question": "Having bound himself to ask nothing, will Kunal break the promise and pay for the letter in his own flesh, or will Ila tell him first?",
   "techniques_landed": [
     9,
     10,
     25
   ],
-  "new_facts_assessment": "Ridge timing: needed, but it is internally broken (spring plus a month is not autumn) and clashes with F526's week-after supper, so fix the season. Widow's Knuckle: good and earned, but 'Widow's' echoes the Widow's Ladder (F492). Either tie the two or rename. Letter now in the pattu: acceptable, but the move from the coat lining (F438, F514) is never shown on the page. Add one line. Upper hut above the Drum: conflicts with F515, which puts it above the Mirror. Rib scar: harmless.",
+  "new_facts_assessment": "F729 (two days, dusk of the second day) is necessary and aligns with the beat; S7 should retire F636's 'third day'. F730 duplicates F637 and is fine. F731 is valuable: it makes the dawn cold a chosen cost, not a lapse. Unlisted risk: Kunal's 'I didn't know you'd worked that out' about the clipped silver may conflict with ch 4 (F448), where Ila learned he was the buyer. Narrow the line to the untraceability detail.",
   "content_rule_violation": false,
   "failure_modes": [
-    "Stakes without depth",
-    "Plot buried by romance"
+    "Irrational behaviour to extend plot",
+    "Narrated-only chemistry"
   ],
-  "average": 3.38,
+  "average": 3.25,
   "minimum": 0.0,
   "passed": false
 }
