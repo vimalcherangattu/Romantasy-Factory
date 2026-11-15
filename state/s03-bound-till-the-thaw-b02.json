@@ -449,7 +449,7 @@
       }
     },
     "16": {
-      "status": "passed",
+      "status": "edited",
       "revisions": 0,
       "scores": {
         "reader_question": 5.0,
@@ -463,8 +463,19 @@
       },
       "average": 4.12,
       "flags": [],
-      "words": 2932,
-      "minimum": 3.0
+      "words": 2911,
+      "minimum": 3.0,
+      "style": {
+        "words": 2911,
+        "banned_hits": {},
+        "ai_tell_hits": {},
+        "ai_tells_per_1000": 0.0,
+        "top_4gram": "prince udai of neshar",
+        "top_4gram_count": 3,
+        "longest_paragraph_words": 110,
+        "em_dashes_per_1000": 0.0,
+        "reading_ease": 92.4
+      }
     },
     "17": {
       "status": "passed",
@@ -1380,9 +1391,13 @@
     {
       "at": "2026-11-15T21:51:37",
       "event": "done: S8 line edit ch 15"
+    },
+    {
+      "at": "2026-11-15T21:52:08",
+      "event": "done: S8 line edit ch 16"
     }
   ],
-  "updated_at": "2026-11-15T21:51:37",
+  "updated_at": "2026-11-15T21:52:08",
   "midpoint_chapter": 16,
   "continuity_attempts": 1,
   "continuity_last_errors": 3
