@@ -1,0 +1,42 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 3.0,
+    "stakes_and_cost": 4.0,
+    "prose": 3.0,
+    "continuity": 5.0
+  },
+  "reasons": {
+    "reader_question": "The sixty-winters guest, Ila's 'I'm counting' and the hand on her coat give a sharp, stateable question. The fork mystery adds a second.",
+    "change": "Kunal gives his first true family secret. Ila now holds the lakes' name and a written record of his evasion. Their knowledge balance shifts.",
+    "romance_movement": "The reason is new: he gives truth because she gave truth first, and she records his dishonesty honestly. Strong fit to the beat.",
+    "shown_chemistry": "Shown through responsive acts: his 'I'll forgive it once', her 'holes with rules round them', his surprised laugh, the shown sheet. Nothing is narrated.",
+    "character_logic": "He just watched her promise to mark refusals, so a free refusal of a bearing was open to him. The detour sacrifice reads as plot-driven.",
+    "stakes_and_cost": "Leaving Dhanu's party a day alone is a real, named cost that pays off later. The fork's time arithmetic is muddled.",
+    "prose": "Clean and voiced, with no em-dash overuse. Images are lifted verbatim from ch 9, the pink fingertips are repeated four times, and there is a 'could not help it' tell.",
+    "continuity": "Consistent with F484–F486 and F690–F694, the letter in the coat lining, Udai as grandfather, and the drafting-table clerk. One soft tension with F526 is noted in fixes."
+  },
+  "fixes": [
+    "At 'He had given the name freely. He could not give the place', the plot overrides character: Ila has just promised to ask for bearings and mark refusals, so Kunal could simply refuse. Make the overlook's danger non-negotiable instead. From the shoulder the whole basin lies open to the eye, and no refusal can unsee it. Also correct the arithmetic: Raghu is already ahead, so the left fork adds half a day to an existing lead.",
+    "At 'a skin of light like frost with a fever' and 'a dull sing-song with the tune filed off', two distinctive images are reused verbatim from ch 9, which breaks the 3-chapter image rule. Replace both with fresh images. Also cut two of the four 'pink fingertips' beats; keep 'His fingertips stayed pink' and the final 'Yes' check. Replace 'because he could not help it' with a concrete action.",
+    "At 'And it has one rule. No one of our blood walks it', the line contradicts F526, where Pritam later sets a family rule against showing the way to anyone. Change the line to 'It has rules. The oldest is that no one of our blood walks it in winter.' This lets ch 17's rule stand, and Kunal's breaking of it by showing Ila becomes a second unspoken cost."
+  ],
+  "reader_question": "Who was Prince Udai's winter guest sixty winters ago, and now that Ila holds the name of the Glass Lakes, will she open the queen's letter?",
+  "techniques_landed": [
+    2,
+    13,
+    16
+  ],
+  "new_facts_assessment": "The route-song across the dark stretch (F692) is invented, consistent with F687, and earns its banter. The grandmother-at-eight detail (F693) is fine and fits Udai dying when Kunal was four (F635). Breaking the winter rule (F694) is necessary and true-spoken. The 'one rule' claim sits uneasily with F526 (Pritam's no-showing rule, ch 17) and needs reconciling.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Irrational behaviour to extend plot",
+    "Repetitive tension"
+  ],
+  "average": 3.88,
+  "minimum": 3.0,
+  "passed": true
+}

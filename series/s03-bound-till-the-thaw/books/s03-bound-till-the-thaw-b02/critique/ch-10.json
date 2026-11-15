@@ -6,37 +6,37 @@
     "shown_chemistry": 4.0,
     "character_logic": 3.0,
     "stakes_and_cost": 4.0,
-    "prose": 4.0,
-    "continuity": 0.0
+    "prose": 3.0,
+    "continuity": 5.0
   },
   "reasons": {
-    "reader_question": "The guest, Ila going still at 'sixty' and her hand on the hidden letter give a sharp, predictable-but-uncertain question. The letter thread is implied, not named.",
-    "change": "Kunal moves from guarded to exposed. He gives the lakes and admits the steering, and the crown's sheet now holds both the name and his evasion.",
-    "romance_movement": "This is a new reason: his first costed true disclosure, met by her open, exact record of his evasion. 'I write what's true, even when it's you' lands the beat.",
-    "shown_chemistry": "Chemistry shows in responsive action: 'Holes with rules round them' and his surprised laugh, her asking before writing, his pink fingertips checked after 'Yes'.",
-    "character_logic": "Kunal walks toward a way his family never walks in winter and no one remarks on it. The Dhanu trade-off is well reasoned and owned.",
-    "stakes_and_cost": "The left fork costs Dhanu's party a day alone against Raghu's glass. Kunal weighs it and names his shame, which ties to the later loss.",
-    "prose": "The prose is clean and concrete, with no banned phrases. The cliff-rule realisation paragraph is muddled, there are 'Of course she...' echoes, and Kunal's 'very' tic repeats from ch9.",
-    "continuity": "Ch9 and F687 say a toppled keeper cairn darkens the line beyond it. Here the line returns in cloud with no cause given."
+    "reader_question": "The sixty-winters guest, Ila's 'I'm counting' and the hand on her coat give a sharp, stateable question. The fork mystery adds a second.",
+    "change": "Kunal gives his first true family secret. Ila now holds the lakes' name and a written record of his evasion. Their knowledge balance shifts.",
+    "romance_movement": "The reason is new: he gives truth because she gave truth first, and she records his dishonesty honestly. Strong fit to the beat.",
+    "shown_chemistry": "Shown through responsive acts: his 'I'll forgive it once', her 'holes with rules round them', his surprised laugh, the shown sheet. Nothing is narrated.",
+    "character_logic": "He just watched her promise to mark refusals, so a free refusal of a bearing was open to him. The detour sacrifice reads as plot-driven.",
+    "stakes_and_cost": "Leaving Dhanu's party a day alone is a real, named cost that pays off later. The fork's time arithmetic is muddled.",
+    "prose": "Clean and voiced, with no em-dash overuse. Images are lifted verbatim from ch 9, the pink fingertips are repeated four times, and there is a 'could not help it' tell.",
+    "continuity": "Consistent with F484–F486 and F690–F694, the letter in the coat lining, Udai as grandfather, and the drafting-table clerk. One soft tension with F526 is noted in fixes."
   },
   "fixes": [
-    "At \"They broke the door. They didn't break the road.\" (Convenient magic; this contradicts ch9 and F687). Keep the stretch past the door dark. Have the thread show only from the next intact cairn up the shoulder, glowing in the cloud. Kunal crosses the dark gap by memory and route-song, and says plainly that only the door's stretch forgot itself.",
-    "At \"No one of our blood walks it between first snow and thaw\" (Irrational behaviour; Kunal is walking it now). Have Ila ask, 'And you're taking me toward it in winter.' Kunal answers truly that he is breaking the rule, and why. Change 'And he made the rule' so it doesn't clash with Pritam's ch17 sharing rule (F526). Move the 'my father said' line before Kunal was nine.",
-    "At \"By their own cliff rule, a name said once\" (muddled interiority; he gave the name on purpose, so the rule doesn't apply). Replace it with two plain sentences: he meant it, so the name is hers to write, and her hand went to her coat. Cut one of the two 'Of course she...' lines."
+    "At 'He had given the name freely. He could not give the place', the plot overrides character: Ila has just promised to ask for bearings and mark refusals, so Kunal could simply refuse. Make the overlook's danger non-negotiable instead. From the shoulder the whole basin lies open to the eye, and no refusal can unsee it. Also correct the arithmetic: Raghu is already ahead, so the left fork adds half a day to an existing lead.",
+    "At 'a skin of light like frost with a fever' and 'a dull sing-song with the tune filed off', two distinctive images are reused verbatim from ch 9, which breaks the 3-chapter image rule. Replace both with fresh images. Also cut two of the four 'pink fingertips' beats; keep 'His fingertips stayed pink' and the final 'Yes' check. Replace 'because he could not help it' with a concrete action.",
+    "At 'And it has one rule. No one of our blood walks it', the line contradicts F526, where Pritam later sets a family rule against showing the way to anyone. Change the line to 'It has rules. The oldest is that no one of our blood walks it in winter.' This lets ch 17's rule stand, and Kunal's breaking of it by showing Ila becomes a second unspoken cost."
   ],
-  "reader_question": "Who was the guest Prince Udai led up in winter sixty years ago and came down without, and now that Kunal has named the Glass Lakes, will Ila open the queen's letter?",
+  "reader_question": "Who was Prince Udai's winter guest sixty winters ago, and now that Ila holds the name of the Glass Lakes, will she open the queen's letter?",
   "techniques_landed": [
     2,
     13,
     16
   ],
-  "new_facts_assessment": "F690 holds up: tracks a day or two old plus the half-day detour gives a full day. F691 is consistent with F473 and F685, and it is needed because it creates the cost of the left fork and seeds Dhanu's fate. Both facts are sound. The unlisted additions, the winter-walking rule and 'Udai made the rule', sit uneasily with F526 (ch17: Pritam tells the story and makes a no-sharing rule) and need reconciling.",
+  "new_facts_assessment": "The route-song across the dark stretch (F692) is invented, consistent with F687, and earns its banter. The grandmother-at-eight detail (F693) is fine and fits Udai dying when Kunal was four (F635). Breaking the winter rule (F694) is necessary and true-spoken. The 'one rule' claim sits uneasily with F526 (Pritam's no-showing rule, ch 17) and needs reconciling.",
   "content_rule_violation": false,
   "failure_modes": [
-    "Convenient magic",
-    "Irrational behaviour to extend plot"
+    "Irrational behaviour to extend plot",
+    "Repetitive tension"
   ],
-  "average": 3.38,
-  "minimum": 0.0,
-  "passed": false
+  "average": 3.88,
+  "minimum": 3.0,
+  "passed": true
 }
