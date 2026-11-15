@@ -4,38 +4,39 @@
     "change": 4.0,
     "romance_movement": 4.0,
     "shown_chemistry": 4.0,
-    "character_logic": 4.0,
+    "character_logic": 3.0,
     "stakes_and_cost": 4.0,
     "prose": 4.0,
     "continuity": 5.0
   },
   "reasons": {
-    "reader_question": "The letter under her hand and the basin in view make the next chapter necessary, though the hook is a pause rather than a cut action.",
-    "change": "Oath-bound to first announced omission. She refuses the promise and keeps the oath alive, so the change is real and also limited, as the arc needs.",
-    "romance_movement": "There are new reasons on both sides: she pays for him with her oath, and he gives a name with no price for the first time.",
-    "shown_chemistry": "The route-song timed to her feet, his thumb working the wool, his eyes kept off the sheet. Mostly shown, with one patch of narrated interpretation.",
-    "character_logic": "Ila uses a true evasion, 'not properly measured', which a smart Ila would do. Kunal's swing from 'draw it' to 'promise me' is motivated but quick.",
-    "stakes_and_cost": "The audit, the Chief Surveyor title and the great-lie promise rule all bite. Raghu's pursuit vanishes entirely, which lowers the external pressure.",
-    "prose": "Clean, concrete and voiced. There are anaphoric 'She did not X. She did not Y' tics, several consecutive paragraphs that open with 'She', and one told paragraph.",
-    "continuity": "Consistent with F012, F438, F462, F476 and F492 to F500, and with the ch11 cave answer. The rope stays silent at truth, as in ch11."
+    "reader_question": "The letter question is sharp, and the fire adds a second concrete one. The fire's link to the Ladder is blurred by muddled geography.",
+    "change": "Ila moves from oath-bound to a first chosen, announced omission. She also gains the 'carried' clue and sight of the lakes and an enemy fire.",
+    "romance_movement": "There is a new exchange: her costly omission against his first free name. Her refusal of the promise has a fresh, rule-based reason.",
+    "shown_chemistry": "The pacing song on the hard pitch, the 'Possibly four. I was eleven' banter, the thumb on the rope and the handed-back sentence all show attraction through action.",
+    "character_logic": "Ila is sound. Kunal's swing from 'Then take it back. Draw it' to 'Promise me you never will' has no visible trigger.",
+    "stakes_and_cost": "The cost is named and personal: the spring audit, the Chief Surveyor title and eleven winters. The promise refusal carries the risk of a lost hand.",
+    "prose": "The prose is clean and concrete, with few AI tells and one em dash. The sheet monologue spends the word 'dodge' before the dialogue can land it.",
+    "continuity": "Rope length, the promise rule, the oath sworn at nineteen, the omission history, Mini's age and Raghu's day lead on the north-east fork all match the facts."
   },
   "fixes": [
-    "'It was the first line she had ever left out on purpose and then known she had left out' muddles F445, where the east bearing was already a deliberate omission. Clarify it in one line: the east bearing was a gap she let happen while following him, and this is the first she chose with the pen in her hand and then declared. That keeps the value shift exact.",
-    "'It was handsomely said. It was courtesy, and she watched him pay for it' narrates Ila's reading before the reader sees it. This is narrated-only chemistry. Cut 'He had it in his hands to be generous, and he could not hold it.' Let the creaking strands and his eyes avoiding the sheet carry the effort, then go straight to her 'I won't.'",
-    "'and the ice rang again in the dark' closes on a static hand-on-letter beat, and Raghu's two pairs (F485, heading for the head of the lakes) are forgotten. This buries the plot under the romance. Add one concrete sign at the far head of the basin, such as a pinprick fire, so the letter question is joined to a threat and the Ladder Ila hid suddenly matters."
+    "At 'and it came out at the foot of that shoulder' (Twists without setup): this contradicts 'far head of the basin' and 'a night's walk off', and leaves the threat unclear. Rewrite it so the fire is placed to watch the whole basin floor below the Ladder. Every step they take from the niche will be in its view, and the one way down Taravan can't name is now the way Raghu's men are watching.",
+    "At 'Then take it back.' He was turning the loose end (Irrational behaviour): Kunal releases her, then within a page demands a lifelong promise with no trigger. Add the cause. Ila's line 'I'll have to find the sentence that's true' should land on him as proof she will file the Ladder at the audit one day. Have him say so briefly before he lays the rope down.",
+    "At 'A sheet that was true and incomplete. She knew' (Endless monologue, echo): Ila calls her own omission a dodge before Kunal does, which flattens his 'And it's a dodge.' Cut the 'dodge' sentence and the phrase-knowing line. Also replace 'I don't know yet if that's a lie, but it isn't one that costs anything. I've checked' with a plain statement that a blank on paper isn't a lie to him."
   ],
-  "reader_question": "When Ila reaches the Glass Lakes and opens the queen's letter, what will it say about her grandfather and the 'carried' dead, and what will she then owe Kunal?",
+  "reader_question": "What will Ila do when she reaches the Glass Lakes with the queen's letter, and whose fire is watching the basin?",
   "techniques_landed": [
     11,
     14,
     15
   ],
-  "new_facts_assessment": "F499's step totals (36, 34, 57, 33) and the forty-foot hard pitch inside an eight-span rope check out, and they justify the anchor stone. F500 fixes F496's odd nineteen-chronicles coincidence. Both facts are necessary and consistent.",
+  "new_facts_assessment": "The fire on the shoulder is necessary as the ending hook and fits F485 and F690 (Raghu's two pairs a day ahead, heading to the overlook). It is already logged as F695. The prose wrongly places the Ladder's exit 'at the foot of that shoulder', although the fire is at the far head of the basin, a night's walk away.",
   "content_rule_violation": false,
   "failure_modes": [
-    "Plot buried by romance"
+    "Irrational behaviour to extend plot",
+    "Twists without setup"
   ],
-  "average": 4.12,
-  "minimum": 4.0,
+  "average": 4.0,
+  "minimum": 3.0,
   "passed": true
 }
