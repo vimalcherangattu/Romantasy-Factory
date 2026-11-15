@@ -4,36 +4,38 @@
     "change": 4.0,
     "romance_movement": 4.0,
     "shown_chemistry": 4.0,
-    "character_logic": 3.0,
+    "character_logic": 4.0,
     "stakes_and_cost": 4.0,
     "prose": 4.0,
-    "continuity": 0.0
+    "continuity": 5.0
   },
   "reasons": {
-    "reader_question": "The chalk line and the smeared second letter leave a sharp, specific gap: what the princes' way is, and what Hari never finished writing.",
-    "change": "Knowledge changes (four men, a day ahead, the princes' way spoken aloud) and so does power: he hands her the count and the lead.",
-    "romance_movement": "This is the first competence duet, with a new reason: he trusts her count over his family's. Her seeing his fear for others stays implicit.",
-    "shown_chemistry": "The 'Holding' calls, the paid-out inch and 'That's four' all show attraction through responsive action. Narration rarely labels it.",
-    "character_logic": "Leading rotten ice with no anchor above him, Kunal could not be caught short by a belayer below. The fall physics won't survive a climber's read.",
-    "stakes_and_cost": "Giving her the true count unlocks his 'wrong numbers' and reading the chalk aloud costs his secrecy. The refusal is costed by her ledger.",
-    "prose": "Concrete and varied, with few AI tells. A few weak spots: the orphan 'He knew the rhyme' line, 'her neat competence' and the told 'sure, without looking'.",
-    "continuity": "'Not Pritam's. Not any more.' conflicts with the bible's Pritam loyalists who capture the route-keepers, and with Ila's free-Pritam question."
+    "reader_question": "Specific and chapter-earned: what is the princes' way, why does Raghu want it, and what was Hari's abandoned second line.",
+    "change": "Knowledge moves (four men, a day ahead, Raghu's target named) and power moves (Ila leads the pitch); Kunal ends afraid for the hamlets.",
+    "romance_movement": "The reason is new. This is a competence duet, he cedes the count and the lead, and she reads his fear as being for others, not a throne.",
+    "shown_chemistry": "Responsive actions carry it: the repeated 'Holding', paying out an inch, and her choice not to write his flinch down. One line slips into narration ('told himself').",
+    "character_logic": "Ila's track-reading is excellent. Kunal reading the chalk aloud is plausible shock, but the page never says his smooth answers would have been lies.",
+    "stakes_and_cost": "The ice odds are stated and the fall is real. The ending forces a choice between refusing (free but telling) and disclosing a family secret.",
+    "prose": "Concrete and readable with good images. Minor echoes: 'wiped' three times and stacked 'She did not' sentences. The ch4 'trying to find out' callback is borderline.",
+    "continuity": "No hard conflict. Rope, ages, salt road, Hari, F454 counts and the stone's half-note drop all match. F661 ('never written down') is strained but survivable."
   },
   "fixes": [
-    "At '*Raghu's,* he thought. *Not Pritam's. Not any more.*' the line breaks continuity. Replace it with 'Pritam's still. He took the habit with him, and the bells.' Then make 'I don't know' honest uncertainty about whether freeing Pritam is the whole aim.",
-    "At 'That you're afraid.' \"Not of me, I think.\"' the beat's romance change is too faint. Have Ila name what he fears for, e.g. 'For whoever lives above this stair. Not for a chair in the Garh.' Give Kunal one beat registering that she has read him right, so she sees him frightened for others.",
-    "At 'At the ninth tread the ice simply let go' the scene breaks climbing logic: a leader with nothing above him falls past his belayer. At about the sixth tread, have Kunal pass the rope behind an old iron shepherd's peg or a rock horn, so the short catch is earned. Cut the orphan line 'He knew the rhyme, a child's counting game' or tie it to her knot."
+    "At 'He had a dozen smooth answers', the choice is unclear (failure mode: irrational behaviour to extend plot). Every smooth answer would be a lie that whitens his fingers in front of her, and refusing is free but tells her it matters. Add one line saying so. Then have him register that 'the princes' way' is a phrase only his family uses (F661), so Raghu got it from Pritam. That tightens the logic and the hook.",
+    "At '*Pritam's still,* he thought. *He took the habit with him', leftover wording from the withdrawn F672 implies Raghu left Pritam's service. Rewrite it to say plainly that Raghu is still Pritam's man. Then let Kunal notice that the tongue has been cut from the bell: bells meant to announce men have been silenced so they can move unheard. That turns a stray detail into a clue (technique 11).",
+    "At 'the Stair's lower treads had always been forty', there are now three counts: the Stair song's 'nine and thirty' (F433), the family's forty and the tower's thirty-nine, which blurs Ila's 'forty-one' win. Add one clause tying the family's forty to the song, or cut the tower comparison to a phrase. Also vary the three uses of 'wiped' (mouth, hand, face)."
   ],
-  "reader_question": "What is the princes' way, how do Raghu's men know its name, and what was Hari's unfinished second line?",
+  "reader_question": "What is the princes' way, how do Raghu's men know its name, and what was Hari trying to write when he was stopped?",
   "techniques_landed": [
     1,
     6,
     10
   ],
-  "new_facts_assessment": "Raghu leaving Pritam's service conflicts with the bible's Pritam loyalists and should be cut. The 300-year door fits the Bargain timeline. The hobnail pattern is necessary support for her count. The chest loop is fine, since untying for climbing is allowed. The half-note drop matches F387, but F456 ('low and level') must be reconciled. The thirty-nine ghosts' count duplicates F418. Unlisted: Raghu and Hari using 'the princes' way' strains F661 (no name outside the family) and needs an on-page reaction or an S7 ruling.",
+  "new_facts_assessment": "The rusted peg (F678) is necessary: it makes a hip belay of a falling man physically credible. It should retire F455's 'full weight' wording. F679 (Raghu still Pritam's man) fits F432 and the bible, so F672 can be withdrawn, but the on-page line 'He took the habit with him' still reads as if Raghu left Pritam. F680 is consistent and serves the beat. Undeclared facts to log: the patrol bell's tongue is missing, and the princes' way name now exists in chalk, which strains F661 unless the phrase is shown to come from Pritam's family through Raghu.",
   "content_rule_violation": false,
-  "failure_modes": [],
-  "average": 3.38,
-  "minimum": 0.0,
-  "passed": false
+  "failure_modes": [
+    "Irrational behaviour to extend plot"
+  ],
+  "average": 4.12,
+  "minimum": 4.0,
+  "passed": true
 }
