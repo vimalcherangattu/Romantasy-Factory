@@ -478,7 +478,7 @@
       }
     },
     "17": {
-      "status": "passed",
+      "status": "edited",
       "revisions": 0,
       "scores": {
         "reader_question": 4.0,
@@ -492,8 +492,19 @@
       },
       "average": 4.0,
       "flags": [],
-      "words": 2448,
-      "minimum": 3.0
+      "words": 2464,
+      "minimum": 3.0,
+      "style": {
+        "words": 2464,
+        "banned_hits": {},
+        "ai_tell_hits": {},
+        "ai_tells_per_1000": 0.0,
+        "top_4gram": "where he could see",
+        "top_4gram_count": 3,
+        "longest_paragraph_words": 95,
+        "em_dashes_per_1000": 0.41,
+        "reading_ease": 94.3
+      }
     },
     "18": {
       "status": "passed",
@@ -1395,9 +1406,13 @@
     {
       "at": "2026-11-15T21:52:08",
       "event": "done: S8 line edit ch 16"
+    },
+    {
+      "at": "2026-11-15T21:52:42",
+      "event": "done: S8 line edit ch 17"
     }
   ],
-  "updated_at": "2026-11-15T21:52:08",
+  "updated_at": "2026-11-15T21:52:42",
   "midpoint_chapter": 16,
   "continuity_attempts": 1,
   "continuity_last_errors": 3
