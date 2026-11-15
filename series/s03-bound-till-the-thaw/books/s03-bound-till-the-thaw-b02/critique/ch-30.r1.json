@@ -1,0 +1,41 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 5.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 3.0,
+    "stakes_and_cost": 3.0,
+    "prose": 4.0,
+    "continuity": 0.0
+  },
+  "reasons": {
+    "reader_question": "The promise-after-enforcement question is set up cleanly by Kunal's line and sharpened by Meera's day count.",
+    "change": "Hunted to free; Raghu is taken; Pasang turns witness; the love is declared and verified, and a promise is made.",
+    "romance_movement": "This is a new reason: she answers his dark-room 'I love you' in the light, verified by warm hands, plus a promise that outlives the rope.",
+    "shown_chemistry": "Shown through specific acts: the pencil leads, the nest for her feet, palms on buttons, her instructions in the Stair voice.",
+    "character_logic": "Raghu lies when silence is free and he knows the rule. The knife staging contradicts itself.",
+    "stakes_and_cost": "The disarm is quick and costless. Real cost sits only in the deferred promise test.",
+    "prose": "Clean and concrete with few tells. The blade metaphor in Kunal's challenge is muddled, and Raghu's hands are staged unclearly.",
+    "continuity": "'For a week they had been tied together' conflicts with F512 (six days at ch13) and the day-thirty-two count."
+  },
+  "fixes": [
+    "'for a week they had been tied together' (also 'Kunal had spent a week watching men lunge'): a continuity conflict with F512 and day thirty-two. Change both to the true span, e.g. 'for a month of days', and 'all winter watching men lunge'. Check ch29's 'For a week she had read this man' in the same pass.",
+    "'Then it costs you nothing.' / 'His hands hung at the ends of his arms': irrational behaviour, since a smart Raghu knows silence is free. Have Pasang ask 'Did he go home?' himself, so silence would answer him; then Raghu lies. Keep the knife in his hand and the tips tallow through the silence beat. Cut 'pink'.",
+    "'she did not tell him what she had found': the goal names the rubbing, but it vanishes. In the salt house, have Ila's hand check the folded rubbing in her coat before 'Look at my hands', and name the worn last word as unread, so the Bargain question travels with the romance."
+  ],
+  "reader_question": "Once the Meadow Cairn's meltwater frees her, will Ila still give Neshar the same map she gives the queen?",
+  "techniques_landed": [
+    16,
+    20,
+    22
+  ],
+  "new_facts_assessment": "F605, F606 and F607 are necessary and consistent. F606's pardon fits a spring queen's judgement after F415. F608's 'rung from under the ground' stretches F015, since ringing means a lie inside the ring; reword it as a hum or define it. Duplicate IDs F608 to F611 in continuity should be pruned. The rubbing, named in the chapter goal, never appears on the page.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Irrational behaviour to extend plot"
+  ],
+  "average": 3.38,
+  "minimum": 0.0,
+  "passed": false
+}

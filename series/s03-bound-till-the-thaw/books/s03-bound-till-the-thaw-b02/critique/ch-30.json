@@ -1,8 +1,8 @@
 {
   "scores": {
-    "reader_question": 3.0,
+    "reader_question": 4.0,
     "change": 4.0,
-    "romance_movement": 4.0,
+    "romance_movement": 5.0,
     "shown_chemistry": 4.0,
     "character_logic": 3.0,
     "stakes_and_cost": 3.0,
@@ -10,33 +10,32 @@
     "continuity": 0.0
   },
   "reasons": {
-    "reader_question": "The beat's question is present but soft; Meera's 'Day thirty-two' line names a deadline without making the coming thaw feel dangerous.",
-    "change": "Clear shift from hunted to free and declared: Raghu taken, Pasang turned witness, love declared in light, the map promise made.",
-    "romance_movement": "The reason is new: a declaration verified by her hands, chosen in the light after his dark one, plus a promise that will outlast enforcement.",
-    "shown_chemistry": "Responsive acts carry it: the pencil leads, the blanket nest for her feet, 'I'll tell you the shape', the north-wall callback.",
-    "character_logic": "Kunal's offer to Pasang is smart. Rohan's watch rests on foreknowledge Ila couldn't have had, and Raghu's lunge reads as forced.",
-    "stakes_and_cost": "Raghu folds fast and the salt house has no live threat. The promise's future cost is named but carries little dread.",
-    "prose": "Concrete and well varied. Ila's hand sits 'flat against his chest' over a seal sewn at the nape, which is impossible. 'Low and level' recurs.",
-    "continuity": "Ila's letter conflicts with F431, F471 and F595. 'And they will' costs no cold (F010, F012). 'Queen's own seal' on Meera conflicts with F018 and F421."
+    "reader_question": "The promise-after-enforcement question is set up cleanly by Kunal's line and sharpened by Meera's day count.",
+    "change": "Hunted to free; Raghu is taken; Pasang turns witness; the love is declared and verified, and a promise is made.",
+    "romance_movement": "This is a new reason: she answers his dark-room 'I love you' in the light, verified by warm hands, plus a promise that outlives the rope.",
+    "shown_chemistry": "Shown through specific acts: the pencil leads, the nest for her feet, palms on buttons, her instructions in the Stair voice.",
+    "character_logic": "Raghu lies when silence is free and he knows the rule. The knife staging contradicts itself.",
+    "stakes_and_cost": "The disarm is quick and costless. Real cost sits only in the deferred promise test.",
+    "prose": "Clean and concrete with few tells. The blade metaphor in Kunal's challenge is muddled, and Raghu's hands are staged unclearly.",
+    "continuity": "'For a week they had been tied together' conflicts with F512 (six days at ch13) and the day-thirty-two count."
   },
   "fixes": [
-    "'Ila had written him from Garh Neshar that she would' (Convenient magic / continuity). Ila could not have known in ch 3 that she would come out at Shilak. Replace it: for three nights the Shilak Cairn has rung from under the ground with no one inside the ring. Gopal sent for Rohan, who has stood dawn watch since. Revise F604 to match.",
-    "'And they will,' said Raghu. Nothing happened to his hands. (Rule that bites back suspended). A spoken false assurance to his bound partner must cost cold, and the line after it, 'silence was free', contradicts the fact that he spoke. Replace the line with Raghu saying nothing. Pasang asks again, and Raghu's silence becomes the answer, which keeps 'Kunal watched the boy understand what the silence cost'.",
-    "'the queen's own seal hanging off it like a button' (continuity). The queen's seal is the unique lapis stone (F018), and licences carry the post's brown and council's blue seals (F421). Change it to 'the post's brown seal and the council's blue on the cord, and a pardon wax with a thread of red'. Also fix 'flat against his chest, over the coat where the seal had once been sewn into the nape': move her hand to the back of his collar."
+    "'for a week they had been tied together' (also 'Kunal had spent a week watching men lunge'): a continuity conflict with F512 and day thirty-two. Change both to the true span, e.g. 'for a month of days', and 'all winter watching men lunge'. Check ch29's 'For a week she had read this man' in the same pass.",
+    "'Then it costs you nothing.' / 'His hands hung at the ends of his arms': irrational behaviour, since a smart Raghu knows silence is free. Have Pasang ask 'Did he go home?' himself, so silence would answer him; then Raghu lies. Keep the knife in his hand and the tips tallow through the silence beat. Cut 'pink'.",
+    "'she did not tell him what she had found': the goal names the rubbing, but it vanishes. In the salt house, have Ila's hand check the folded rubbing in her coat before 'Look at my hands', and name the worn last word as unread, so the Bargain question travels with the romance."
   ],
-  "reader_question": "When the Meadow Cairn's meltwater ends the bond in days, will Ila keep her promise of one map for both courts once the mountain no longer enforces it?",
+  "reader_question": "Once the Meadow Cairn's meltwater frees her, will Ila still give Neshar the same map she gives the queen?",
   "techniques_landed": [
     16,
     20,
     22
   ],
-  "new_facts_assessment": "F604 conflicts. Ila left Garh Neshar in ch 3 without knowing of any way beneath Shilak (F431, F471) and learned of the Under-Cairn only from the queen's letter at the Glass Lakes (F595). F605 is necessary and consistent. F606: the pardon is plausible after spring, but 'the queen's own seal' names the unique lapis seal (F018), and licences carry the post's and council's seals (F421). F607 is necessary, smart and consistent with F012.",
+  "new_facts_assessment": "F605, F606 and F607 are necessary and consistent. F606's pardon fits a spring queen's judgement after F415. F608's 'rung from under the ground' stretches F015, since ringing means a lie inside the ring; reword it as a hum or define it. Duplicate IDs F608 to F611 in continuity should be pruned. The rubbing, named in the chapter goal, never appears on the page.",
   "content_rule_violation": false,
   "failure_modes": [
-    "Convenient magic",
     "Irrational behaviour to extend plot"
   ],
-  "average": 3.12,
+  "average": 3.38,
   "minimum": 0.0,
   "passed": false
 }
