@@ -41,7 +41,7 @@
       }
     },
     "02": {
-      "status": "passed",
+      "status": "edited",
       "revisions": 1,
       "scores": {
         "reader_question": 4.0,
@@ -55,8 +55,19 @@
       },
       "average": 3.62,
       "flags": [],
-      "words": 2342,
-      "minimum": 3.0
+      "words": 2340,
+      "minimum": 3.0,
+      "style": {
+        "words": 2340,
+        "banned_hits": {},
+        "ai_tell_hits": {},
+        "ai_tells_per_1000": 0.0,
+        "top_4gram": "with the petition tube",
+        "top_4gram_count": 2,
+        "longest_paragraph_words": 128,
+        "em_dashes_per_1000": 1.28,
+        "reading_ease": 90.0
+      }
     },
     "03": {
       "status": "passed",
@@ -1170,9 +1181,13 @@
     {
       "at": "2026-11-15T21:44:40",
       "event": "done: S8 line edit ch 1"
+    },
+    {
+      "at": "2026-11-15T21:45:07",
+      "event": "done: S8 line edit ch 2"
     }
   ],
-  "updated_at": "2026-11-15T21:44:40",
+  "updated_at": "2026-11-15T21:45:07",
   "midpoint_chapter": 16,
   "continuity_attempts": 1,
   "continuity_last_errors": 3
