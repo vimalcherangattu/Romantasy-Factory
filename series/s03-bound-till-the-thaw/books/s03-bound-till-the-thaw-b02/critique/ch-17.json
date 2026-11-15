@@ -2,40 +2,40 @@
   "scores": {
     "reader_question": 4.0,
     "change": 4.0,
-    "romance_movement": 3.0,
+    "romance_movement": 4.0,
     "shown_chemistry": 4.0,
-    "character_logic": 3.0,
+    "character_logic": 4.0,
     "stakes_and_cost": 4.0,
-    "prose": 4.0,
-    "continuity": 0.0
+    "prose": 3.0,
+    "continuity": 5.0
   },
   "reasons": {
-    "reader_question": "Specific gap: what lies past the first turn, and what happens when he learns the letter touches his family.",
-    "change": "He breaks Pritam's rule and gives her the Eye; she finally meets his eyes. Knowledge and power both shift.",
-    "romance_movement": "His chosen restraint is new, but the letter refusal replays ch16's 'can't tell you yet'. Same obstacle, slightly stronger.",
-    "shown_chemistry": "Hands, the palm-up offer on the boards, the 'kissed by weather' joke and the warm pencil leads all carry it without narration.",
-    "character_logic": "Retreating to the Mirror hut ignores the nearer lower lake huts below the Drum. His 'decided in the night' ignores his ch16 offer to take her.",
-    "stakes_and_cost": "Giving her the Eye defies the family rule his petition argues against and goes ahead of nine council members. A real cost.",
-    "prose": "Clean and readable with few tells. 'Where he could see' recurs, and there are two 'like a woman' similes.",
-    "continuity": "His tips are shown 'dead from the first joint', which belongs to the ch21 broken promise (F555). At ch17 they are frostnipped from her lie-cold (F533)."
+    "reader_question": "The question is clear: what lies past the first turn, and why is Ila grieving and keeping the Eye out of her book?",
+    "change": "Kunal gives up the Eye and admits how little he knows. Ila admits her question has a hidden reason. Both are new knowledge.",
+    "romance_movement": "The wall gets a new reason: a stated, unexplained purpose. His respect, 'as it stands, not as a yes', survives not knowing.",
+    "shown_chemistry": "Watching hands, her laugh at 'kissed by weather', and her palm-up hand behind her all carry the attraction without narration.",
+    "character_logic": "Ila's partial truth fits her 'angry at me honestly'. Kunal's narrow question is shrewd. The storm route back west is muddled.",
+    "stakes_and_cost": "Telling the Eye breaks Pritam's rule and undercuts his petition clause. The frostnip shows the ledger. The cost paragraph is foggy.",
+    "prose": "Mostly clean and concrete, but there are echoes ('stones outside', 'low note', 'pink', 'it was hers') and one opaque cost paragraph.",
+    "continuity": "Matches F713 (day ten), F526/F545, F635, F710, F716 to F718, F622's three-week council gap and the ch16 kiss and letter."
   },
   "fixes": [
-    "At 'dead from the first joint, the blistered skin gone tight', there is a continuity error: the tips do not die until the ch21 broken promise (F555). Make them grey and frostnip-blistered from the cold he took off her in ch15. Change 'That's what the last thing I held back from you cost me' to a true line about taking her cold, e.g. 'That's what your last lie cost me, and I'd pay it again.' Correct new fact F715 to match.",
-    "At 'for Dhanu's hut above the Mirror, the only shelter within reach', the logic fails: the lower lake huts sit in a fold below the Drum (F537), nearer than the Mirror hut. Add one clause giving a reason to pass them. Either the shore under the Drum is drifted shut, or Kunal will not lead Raghu's glass to Dhanu's family. Otherwise move the pair into the lower huts.",
-    "At 'I'm not going to answer that,' said Ila, the refusal replays ch16's 'can't tell you yet' (repetitive tension). Give it a new edge Ila pays for on the page. For example, she admits truthfully that she asked about Udai for a reason she can't give, so he knows her question was not idle. Also trim 'He had decided it in the night' so the new choice is naming the cleft and admitting his ignorance, since ch16 already offered the way."
+    "'He had already said the easy part, on the shelf': this endless-monologue paragraph has unclear antecedents ('He was not sure which she was. It was the rule...'; 'That was why'). Rewrite it as three plain beats. The rule he is breaking (wife, son or friend: which is she?). The petition clause he is pre-empting before asking the nine. Why he tells her unasked: because she hasn't asked. Cut it to about 90 words.",
+    "'So they went on west with the rope': the geography is confused. They were heading east and are now going back west past the drifting fold. Say 'turned back west', and give one concrete reason the farther hut was reachable when the fold was not. For example, the shoulder was scoured bare while the fold filled. That way character logic holds.",
+    "'The stones outside held their one low note': there are prose echoes. 'Low note' appears three times, 'the stones outside' four, and pink fingertips three. Keep the first singing-stones image and the final 'it was hers'. Replace the other repeats with a new sensory detail: the chulha's smoke, the blanket thread, or the rope's slack across the boards."
   ],
-  "reader_question": "What lies past the first turn of the princes' way, and what will Kunal do when he learns his family is in her letter?",
+  "reader_question": "What lies past the first turn of the princes' way, and what will Kunal do when he learns his grandfather walked Ila's to his death?",
   "techniques_landed": [
     1,
     13,
     14
   ],
-  "new_facts_assessment": "Day ten (F713) is necessary and consistent with F512 and F517, and correctly retires the beat's day twenty. Storm placement (F714) is plausible but needs a reason to pass the lower lake huts below the Drum (F537). Dead tips as 'the price of his broken promise (F555)' (F715) conflicts with continuity: that promise breaks in ch21. At ch17 his grey tips come from taking Ila's lie-cold, frostnip-level (F533). Revise or cut.",
+  "new_facts_assessment": "All three are needed. The frostnip fact correctly retires F715 and keeps the dead tips for ch 21. Ila's admitted 'reason' is consistent and well judged. The storm-route fact is consistent, but its on-page wording ('went on west') reads as if they kept going east, so clarify it.",
   "content_rule_violation": false,
   "failure_modes": [
-    "Repetitive tension"
+    "Endless monologue"
   ],
-  "average": 3.25,
-  "minimum": 0.0,
-  "passed": false
+  "average": 4.0,
+  "minimum": 3.0,
+  "passed": true
 }

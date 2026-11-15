@@ -1,0 +1,41 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 4.0,
+    "stakes_and_cost": 4.0,
+    "prose": 3.0,
+    "continuity": 5.0
+  },
+  "reasons": {
+    "reader_question": "The question is clear: what lies past the first turn, and why is Ila grieving and keeping the Eye out of her book?",
+    "change": "Kunal gives up the Eye and admits how little he knows. Ila admits her question has a hidden reason. Both are new knowledge.",
+    "romance_movement": "The wall gets a new reason: a stated, unexplained purpose. His respect, 'as it stands, not as a yes', survives not knowing.",
+    "shown_chemistry": "Watching hands, her laugh at 'kissed by weather', and her palm-up hand behind her all carry the attraction without narration.",
+    "character_logic": "Ila's partial truth fits her 'angry at me honestly'. Kunal's narrow question is shrewd. The storm route back west is muddled.",
+    "stakes_and_cost": "Telling the Eye breaks Pritam's rule and undercuts his petition clause. The frostnip shows the ledger. The cost paragraph is foggy.",
+    "prose": "Mostly clean and concrete, but there are echoes ('stones outside', 'low note', 'pink', 'it was hers') and one opaque cost paragraph.",
+    "continuity": "Matches F713 (day ten), F526/F545, F635, F710, F716 to F718, F622's three-week council gap and the ch16 kiss and letter."
+  },
+  "fixes": [
+    "'He had already said the easy part, on the shelf': this endless-monologue paragraph has unclear antecedents ('He was not sure which she was. It was the rule...'; 'That was why'). Rewrite it as three plain beats. The rule he is breaking (wife, son or friend: which is she?). The petition clause he is pre-empting before asking the nine. Why he tells her unasked: because she hasn't asked. Cut it to about 90 words.",
+    "'So they went on west with the rope': the geography is confused. They were heading east and are now going back west past the drifting fold. Say 'turned back west', and give one concrete reason the farther hut was reachable when the fold was not. For example, the shoulder was scoured bare while the fold filled. That way character logic holds.",
+    "'The stones outside held their one low note': there are prose echoes. 'Low note' appears three times, 'the stones outside' four, and pink fingertips three. Keep the first singing-stones image and the final 'it was hers'. Replace the other repeats with a new sensory detail: the chulha's smoke, the blanket thread, or the rope's slack across the boards."
+  ],
+  "reader_question": "What lies past the first turn of the princes' way, and what will Kunal do when he learns his grandfather walked Ila's to his death?",
+  "techniques_landed": [
+    1,
+    13,
+    14
+  ],
+  "new_facts_assessment": "All three are needed. The frostnip fact correctly retires F715 and keeps the dead tips for ch 21. Ila's admitted 'reason' is consistent and well judged. The storm-route fact is consistent, but its on-page wording ('went on west') reads as if they kept going east, so clarify it.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Endless monologue"
+  ],
+  "average": 4.0,
+  "minimum": 3.0,
+  "passed": true
+}
