@@ -404,8 +404,8 @@
       ]
     },
     "13": {
-      "status": "owner-revise",
-      "revisions": 3,
+      "status": "revised",
+      "revisions": 0,
       "scores": {
         "reader_question": 4.0,
         "change": 4.0,
@@ -417,10 +417,8 @@
         "continuity": 0.0
       },
       "average": 3.5,
-      "flags": [
-        "needs-owner"
-      ],
-      "words": 2737,
+      "flags": [],
+      "words": 2656,
       "minimum": 0.0,
       "style": {
         "words": 2737,
@@ -1915,9 +1913,13 @@
     {
       "at": "2026-11-15T22:43:08",
       "event": "done: S5 critique ch 12"
+    },
+    {
+      "at": "2026-11-15T22:43:50",
+      "event": "done: S6 revise ch 13"
     }
   ],
-  "updated_at": "2026-11-15T22:43:08",
+  "updated_at": "2026-11-15T22:43:50",
   "midpoint_chapter": 16,
   "continuity_attempts": 0,
   "continuity_last_errors": null,
