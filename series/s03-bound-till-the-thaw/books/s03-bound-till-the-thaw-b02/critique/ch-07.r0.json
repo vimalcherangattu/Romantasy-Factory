@@ -4,39 +4,38 @@
     "change": 4.0,
     "romance_movement": 4.0,
     "shown_chemistry": 4.0,
-    "character_logic": 3.0,
-    "stakes_and_cost": 3.0,
-    "prose": 4.0,
+    "character_logic": 4.0,
+    "stakes_and_cost": 4.0,
+    "prose": 3.0,
     "continuity": 5.0
   },
   "reasons": {
-    "reader_question": "Clear twin gap: what was the 'second time' at nine, and what is the Hollow Moon she was never meant to hear?",
-    "change": "Ila revises her file on Kunal, wins Gauri's trust, gets caught out on naming, and learns Raghu is two days ahead.",
-    "romance_movement": "Both outlined changes land. Seeing him loved and his gentle exposure of her naming habit are new reasons, not replays.",
-    "shown_chemistry": "Responsive beats: he watches her face, not her hands; the dry 'we can spare it'; the 'then we're even' exchange.",
-    "character_logic": "Ila's 'Not cheaply' misstates the rule, since lies to non-partners are free. Dhanu naming the Hollow Moon near a surveyor is a little loose.",
-    "stakes_and_cost": "Raghu's lead raises the danger, but Ila's next choice (ask, stay silent, record it) is not framed as costing her anything.",
-    "prose": "Specific and lively with good comic rhythm. Small echoes: 'blanket that smelled of goat' then 'goat-smelling blanket'; repeated ear-cuffing.",
-    "continuity": "No hard conflict with the bible or the facts. Soft risks: 'had not known he owned it' (laugh) and 'my boy' versus runner (F427)."
+    "reader_question": "Two sharp gaps: the 'second time' at nine, and Raghu two days ahead toward a place Ila has never heard of.",
+    "change": "Ila moves from outsider to welcomed, earns Gauri's trust, and ends holding a secret she overheard.",
+    "romance_movement": "Both beat changes land: she sees him loved, and he exposes her naming habit. The reason is new.",
+    "shown_chemistry": "His laugh, the dry star line and the doorway watching are all responsive. 'Neither of us knew' is vague.",
+    "character_logic": "Ila's honest wall verdict, Kunal's fast swerve and Dhanu's 'Sit' all fit. Her listening choice is credible.",
+    "stakes_and_cost": "The closing dilemma, confess she listened or keep her first private silence, costs her something real.",
+    "prose": "The prose is concrete and funny, with some told interiority, a 'did not know' echo at the end, and clichés like 'dry as dust'.",
+    "continuity": "No conflict with the bible. Gauri as sister follows the beat and supersedes F534, but later chapter 19 must be revised to match."
   },
   "fixes": [
-    "At \"My brother says you don't lie. That your wrist won't let you\" / \"Not cheaply.\" (worldbuilding collapse): lies to anyone but a bound partner are free (F011), so Ila is misstating her own rule. Have her correct it: \"Only to him. To you I could lie for nothing. I'm not going to.\" That makes Gauri's trust a choice Ila earns, not a rope effect.",
-    "At \"She had not known he owned it.\" (continuity with ch 6): he laughed helplessly with her in the snow. Make the distinction explicit, for example: \"She had heard him laugh once, ambushed, flat in the snow. This one he let out on purpose, among people who'd heard it all his life.\"",
-    "At \"understanding that she was not supposed to.\" (stakes without cost): end on a costed choice. Add one or two lines: if she asks about the Hollow Moon in tonight's name trade, he learns she lay awake listening. If she says nothing, she keeps a silence from him. Also change Dhanu's \"My boy saw them\" to \"My runner saw them\" (F427)."
+    "At \"Tomorrow night was the name trade.\": this is a continuity slip, because F462 makes the trade nightly. State that tonight's trade was skipped for the feast and is owed at the next camp. Better still, set the dilemma inside tonight: his question to her is still owed before sleep, so she must choose now whether to mention the Hollow Moon. That makes the cost immediate.",
+    "At \"Then we're even,\" said Kunal. \"Neither of us knew.\": the line is narrated-only chemistry and an empty disclosure. Make him name what he didn't know, for example that he keeps every route in his head while preaching openness, or that he asked her because Dhanu's swerve rattled him. That gives a reciprocal rung on the disclosure ladder (technique 10).",
+    "At \"*He is loved,* thought Ila. She had not measured for that.\" and \"wanted very much to have earned it\": both are told feeling. Replace them with a measuring action, such as her pencil hovering over his file entry, or Gauri's name logged as a fact. In the final scene, cut one of the three 'did not know' clauses, and replace 'dry as dust' and 'a snake in the woodpile'."
   ],
-  "reader_question": "What happened to Kunal the second time he walked these ways, and what is the Hollow Moon that Raghu's pairs are racing toward?",
+  "reader_question": "What happened the second time Kunal walked these ways as a boy, and what is the Hollow Moon that Raghu's men reached two days ahead?",
   "techniques_landed": [
     1,
     5,
     23
   ],
-  "new_facts_assessment": "The limp detail, star name, wall measurements, Gauri using Ila's name, and the timing match to ch 5 are all necessary and consistent. The draft makes the wall her father's, while the beat says 'new pen wall'; the change works but should be logged. 'My boy' implies Dhanu has a son, which conflicts with F427's unnamed runner; reword it to 'my runner'.",
+  "new_facts_assessment": "Gauri as sister, aged 38, matches the beat and is needed. Flag downstream chapters 19 and 26 to 28 (F534, F586, F642) for revision. Having the father build the wall contradicts the beat's 'new pen wall'. It is defensible because it makes the verdict cost Gauri more, but the outline should be updated. The lie-to-others line is consistent with F011 and adds nothing new. The draft omits Dhanu's age and his route-keeper role on the page; add them.",
   "content_rule_violation": false,
   "failure_modes": [
-    "Worldbuilding collapse",
-    "Irrational behaviour to extend plot"
+    "Narrated-only chemistry"
   ],
-  "average": 3.88,
+  "average": 4.0,
   "minimum": 3.0,
   "passed": true
 }
