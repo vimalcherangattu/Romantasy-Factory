@@ -177,7 +177,7 @@
       ]
     },
     "06": {
-      "status": "revised",
+      "status": "passed",
       "revisions": 0,
       "scores": {
         "reader_question": 4.0,
@@ -1855,9 +1855,13 @@
     {
       "at": "2026-11-15T22:27:58",
       "event": "done: S6 revise ch 6"
+    },
+    {
+      "at": "2026-11-15T22:29:04",
+      "event": "done: S5 critique ch 6"
     }
   ],
-  "updated_at": "2026-11-15T22:27:58",
+  "updated_at": "2026-11-15T22:29:04",
   "midpoint_chapter": 16,
   "continuity_attempts": 0,
   "continuity_last_errors": null,

@@ -10,31 +10,31 @@
     "continuity": 5.0
   },
   "reasons": {
-    "reader_question": "The trade's price and 'every way, not no' leave a sharp question: what will holding mean, and what will each name cost?",
-    "change": "Knowledge (names are routes), power (he gives her the lead) and relationship (the trade) all shift by the end.",
-    "romance_movement": "The bargain is new: names as keys traded for truths about her orders. It is not a replayed refusal.",
-    "shown_chemistry": "The belay, shared laughter and the Knuckle banter carry it. 'Liked him for that' and 'almost fond' tilt toward narration.",
-    "character_logic": "Ila read Raghu's four in the ash yesterday, yet neither lead looks for their tracks on the same plateau.",
-    "stakes_and_cost": "The odds, the slab, the bleeding palms and a truthful answer that isn't 'no' all carry real cost.",
-    "prose": "Clean and readable with quotable lines. Has 'church', a 'without warning' echo, the stomach-dropped and bellows clichés, and a muddled 'five of mine'.",
-    "continuity": "Consistent with F420, F431, F237, F457 and ch5's hip-belay count; no conflicts found."
+    "reader_question": "Two sharp questions: what 'hold every way' means for Neshar, and who gave Raghu's pairs the song.",
+    "change": "Ila now leads him, he trusts her bearing, and the name trade turns knowledge into a nightly exchange with consequences.",
+    "romance_movement": "The trade is new and costed. Mutual rescue moves them from wary allies to people who have each held the other's life.",
+    "shown_chemistry": "Shown through action: he feeds rope an inch at a time, gives the spring unasked, and they share the goat-belay laugh.",
+    "character_logic": "Ila the measurer gets her own pace arithmetic and the crag's side wrong. Smart choices otherwise, especially her exact answer.",
+    "stakes_and_cost": "Her true answer arms his suspicion, and his name hands the crown a campsite. Both costs are named on the page.",
+    "prose": "Clean, varied and concrete. Some narrated interpretation, and the belay sound beat echoes chapter 5 almost word for word.",
+    "continuity": "Matches F451, F458 to F464, F468, F674 and F237 (Tamar's Shoulder at seven). No conflict with the bible."
   },
   "fixes": [
-    "At 'They found the place where the split boulder', the pursuit stalls (plot buried by romance, irrational behaviour). Ila tracked Raghu's two pairs a day ahead in ch5, but on this route nobody checks for them. Add two or three lines: Ila finds their drifted-over track, or notes its absence and what that implies. Then Kunal's 'paper goes where paper goes' points at a live threat.",
-    "At 'as if she had struck a bell in church', 'church' breaks the invented world. Replace it with a world-native image, e.g. 'as if she had rung the Garh Neshar bell at a funeral'. Also fix the echo: 'without warning' and 'with no warning' appear three times (the cloud tearing and both of Ila's laughs). Vary the second laugh's lead-in.",
-    "At '\"Five,\" said Kunal, looking at her. \"I believe that's five of mine.\"', the count is unclear. Ila has held four men; it's unclear what Kunal's 'five' counts, and her reply 'one of yours' muddles it further. Rewrite so the joke reads at once, e.g. Kunal: 'That makes you five. Held four, been held once.' Ila: 'Once is plenty.' Keep the 'level/debt' exchange after it."
+    "At 'Three hundred of your paces past the stone... Two hundred and seventy of mine', the arithmetic is backwards (Irrational behaviour). Ila said Kunal's paces are two fingers longer, so 300 of his is about 320 of hers, not 270. Either show the subtraction aloud (the hump's length) or change the figure. Make the closing 'Then I was thirty-odd out' match: forty of his paces is about forty-three of hers.",
+    "At 'Black rock stood out of the white, a long crag on the left', the geometry conflicts with 'Ninety-four degrees' while walking north-east by north. A crag due east sits on their right. Change 'on the left' to 'on the right, off her shoulder', or have Ila note that the bearing puts the crag behind the line they thought they held. Readers who audit the map will catch this.",
+    "At 'It was no gift. It was a man handing the lead', the narration interprets his trust for the reader (Narrated-only chemistry). Cut those three sentences and show the cost instead. For example, Kunal unties the rope from his wrist and reties it round his hip before she asks, or his hands stay out from his sides, empty. Also rework 'a grunt, a boot skidding on ice' so it does not echo chapter 5's belay line."
   ],
-  "reader_question": "What will 'the crown may hold every way' turn out to mean, and how much will each true name cost Kunal and Ila?",
+  "reader_question": "Now that Kunal knows the commission says the crown 'may hold every way', and Raghu walked a line only the song could give, what will each name cost them both?",
   "techniques_landed": [
     6,
     10,
     16
   ],
-  "new_facts_assessment": "The listed facts are necessary and consistent. Unlisted: the compass dented on a Taravan stair at nineteen, Tamar's Shoulder still on the family map (fits F237), and two winters of crown surveyors. All are harmless. The pair sleep at the wall rather than reaching Ewe's Rest; that departure from the beat goal is acceptable as a cost.",
+  "new_facts_assessment": "Raghu's drifted hobnail prints on the bearing are necessary. They raise the stakes under the buried boulder and open the 'who gave them the song' question. They are consistent with F674 (nine heads, heel bar) and F468 (a day or more ahead). Watch one tension: Kunal says Hari 'never gave it to a soul', yet children learn these songs as nonsense. Clarify that he means outsiders.",
   "content_rule_violation": false,
   "failure_modes": [
-    "Plot buried by romance",
-    "Irrational behaviour to extend plot"
+    "Irrational behaviour to extend plot",
+    "Narrated-only chemistry"
   ],
   "average": 4.0,
   "minimum": 3.0,
