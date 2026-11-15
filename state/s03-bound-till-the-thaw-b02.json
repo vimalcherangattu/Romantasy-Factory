@@ -625,7 +625,7 @@
       }
     },
     "22": {
-      "status": "passed",
+      "status": "edited",
       "revisions": 1,
       "scores": {
         "reader_question": 4.0,
@@ -639,8 +639,19 @@
       },
       "average": 4.0,
       "flags": [],
-      "words": 2780,
-      "minimum": 3.0
+      "words": 2786,
+      "minimum": 3.0,
+      "style": {
+        "words": 2786,
+        "banned_hits": {},
+        "ai_tell_hits": {},
+        "ai_tells_per_1000": 0.0,
+        "top_4gram": "kunal looked at the",
+        "top_4gram_count": 2,
+        "longest_paragraph_words": 156,
+        "em_dashes_per_1000": 0.36,
+        "reading_ease": 95.0
+      }
     },
     "23": {
       "status": "passed",
@@ -1470,9 +1481,13 @@
     {
       "at": "2026-11-15T21:54:58",
       "event": "done: S8 line edit ch 21"
+    },
+    {
+      "at": "2026-11-15T21:55:33",
+      "event": "done: S8 line edit ch 22"
     }
   ],
-  "updated_at": "2026-11-15T21:54:58",
+  "updated_at": "2026-11-15T21:55:33",
   "midpoint_chapter": 16,
   "continuity_attempts": 1,
   "continuity_last_errors": 3
