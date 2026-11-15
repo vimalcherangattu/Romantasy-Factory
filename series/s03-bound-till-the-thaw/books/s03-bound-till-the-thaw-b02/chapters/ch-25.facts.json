@@ -1,29 +1,16 @@
 {
   "facts": [
     {
-      "category": "knowledge",
-      "fact": "Ila says she measured the Drum fold (cornice ledge, forty paces off the ice, two more rises east and west) with a sight bar from the mouth of the Eye on the first morning.",
-      "why": "needed because the beat requires her measurement from the Eye as the truth she gives first."
+      "category": "",
+      "fact": "Revises F574: Ila says she burned the sheets this morning when she and Kunal came in, on coals banked under ash in the hut hearth. Kunal notes there was no smoke, Ila says banked coals give none, and he lets it go by choice. He finds only ambiguous ash and does not touch her hands."
     },
     {
-      "category": "timeline",
-      "fact": "Kunal moves the handover from moonrise tomorrow to dusk the same day, reasoning that a man with a spyglass will be at the shingle by moonrise and that Dhanu should not wait another night.",
-      "why": "needed because the beat ends at the Drum's shore at dusk, earlier than the note's deadline."
+      "category": "",
+      "fact": "Ila reasons she cannot truly burn the sheets: they are the only true record of the hills, including Hari's scratched warnings and the map she means to share with both courts, and burning them before Kunal would be one more loss for him to watch."
     },
     {
-      "category": "magic",
-      "fact": "Ila's lie is that she burned the sheets in the hut hearth when she and Kunal came in that morning, on live coals from the night before. Kunal finds only ambiguous ash and does not touch her hands to take the cold.",
-      "why": "needed because the beat's 'hut fire' has to fit the timeline of ch 23 and 24 (they spent the night in the Eye)."
-    },
-    {
-      "category": "injury",
-      "fact": "Ila's lie-cold goes into her hands first, which she hides in her sleeves, and then into her feet, which lose all feeling by dusk.",
-      "why": "needed because the beat ends with her feet failing, and Rule 1 puts the cold in the hands first."
-    },
-    {
-      "category": "relationship",
-      "fact": "Ila mentions that Meera showed her the amputation glove at the Garh Neshar drafting table and told her a great lie kills flesh.",
-      "why": "needed to ground her knowledge of the cost in what she has seen."
+      "category": "",
+      "fact": "Kunal sat silent through two of Meera's drafting-table sessions and saw her amputation glove (consistent with F446, F576), so he knows what one touch of Ila's hand would teach him."
     }
   ]
 }
