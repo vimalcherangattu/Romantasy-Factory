@@ -4,36 +4,36 @@
     "change": 4.0,
     "romance_movement": 4.0,
     "shown_chemistry": 4.0,
-    "character_logic": 4.0,
-    "stakes_and_cost": 3.0,
+    "character_logic": 3.0,
+    "stakes_and_cost": 4.0,
     "prose": 4.0,
     "continuity": 0.0
   },
   "reasons": {
-    "reader_question": "The void and Kunal's glance at the wall give a sharp, specific gap. His opposition is stated but its motive is left too open.",
-    "change": "She leaves knowing he will fight her licence and suspecting the wall hides something he guards. Knowledge and relationship both shift.",
-    "romance_movement": "They move from drafting-table acquaintances to declared opponents. Her laugh is a new, specific reversal that leaves him wrong-footed.",
-    "shown_chemistry": "The stair-count sparring, her near-laugh and his speechless startle are responsive. Desire tied to observed traits is still faint.",
-    "character_logic": "Kunal's open declaration fits a truthful adversary. Ila showing the void to Pritam's nephew is slightly incautious but in character.",
-    "stakes_and_cost": "The licence, Orlan and the chair are clear. Her next choice (council tomorrow, the void) carries no named cost yet.",
-    "prose": "Concrete and well voiced, with no banned phrases or dashes. Minor flaws: an overused 'Is it?' tic and the awkward 'sent out of dinner tables'.",
-    "continuity": "'Kiran's Elbow' is said to be formerly Spur Fourteen, but F633 records it as formerly Point 4410."
+    "reader_question": "Clear twin gap: what is in the north wall, and why Kunal both guards it and opposes her licence. The final line sharpens it.",
+    "change": "Ila moves from confident measuring to wary. She knows Kunal will fight her, suspects he's hiding the wall, and chooses to withhold the void.",
+    "romance_movement": "Rope-length acquaintances become declared opponents. The new reason is his open opposition, and her laugh startles him off his question-shield.",
+    "shown_chemistry": "Responsive beats land: he concedes the uncounted step, recalls 'whose arm', and she nearly laughs. All of it is shown rather than narrated.",
+    "character_logic": "The laugh's trigger is muddled. 'Given a number' and 'tried to give me a stair count' misread the scene, since she asked him the count.",
+    "stakes_and_cost": "Withholding the void costs her creed. Revealing it costs her the licence and Orlan takes the chair, so the cost is personal and concrete.",
+    "prose": "Clean, concrete, no banned phrases. Small issues: echoed 'of a kind', the cliché 'something moved behind his face', and some as-you-know law recap to Kunal.",
+    "continuity": "Conflicts with F184. In Book 1 she already reported the north wall two spans out of true, yet here it is a fresh discovery."
   },
   "fixes": [
-    "In 'she'd have entered a year ago as Spur Fourteen', the crown designation conflicts with continuity (F633: 'Point 4410'). Change it to 'Point 4410'. Rework 'The crown's own ledger called them Spur Nine and Spur Fourteen' so it uses Point 4410 for Kiran's Elbow and a separate point number for Tamar's Shoulder.",
-    "At 'Without it she was a woman with a lovely sheet', the stakes lack personal cost. After Kunal's 'Tomorrow I will speak against your licence', add one beat where Ila weighs a choice that costs her. For example, she could decide to keep the void out of tomorrow's council to protect her licence, knowing that silence breaks her 'a map is true or false' creed.",
-    "In 'a bray that had been getting her sent out of dinner tables', fix the awkward idiom to 'sent from dinner tables'. Also trim Kunal's 'Is it?' / 'Does it matter?' from seven uses to four so the question-habit stays sharp rather than mechanical (repetitive tension in dialogue)."
+    "At 'North wall, two spans out of true, void?' the draft breaks continuity with F184, where last winter's yard survey already found two spans. Add one or two lines: she paced the outside last winter and logged the discrepancy. The inside room only became reachable this winter, with Pritam held there and a council pass. Today she closes the figure from inside, so the 'void?' is new knowledge and the old finding is a callback.",
+    "At 'I know when I'm being given a number' and 'tried to give me a stair count' the laugh's logic is muddled, since she asked for the count. Rebuild the trigger. Kunal readies another deflecting question, she sees it coming, and she laughs because he finally said one plain thing after a career of questions. Keep the 'said it straight out' payoff.",
+    "At 'You were at the table when we cut the Law down to eleven lines' Ila tells Kunal what he already knows, an as-you-know recap. Cut it to the 'whose arm' exchange. Then trim 'silence was a line of a kind' so it doesn't echo the earlier 'a measurement of a kind'. Also replace 'Something moved behind his face' with a specific physical beat, such as his thumb rubbing the ink stain."
   ],
-  "reader_question": "What is hidden behind the north wall that Kunal stood close to guard, and why will he vote against her crossing?",
+  "reader_question": "What is hidden behind Garh Neshar's north wall, and why is Kunal guarding it while he moves to stop her crossing?",
   "techniques_landed": [
     1,
     11,
     16
   ],
-  "new_facts_assessment": "Pell Orlan is a useful, consistent rival. The archive refusal matches F426. Kiran's Varun line fits F028. Several new facts are unlisted: the grain slate going up a sack, Ila watching the law cut from twenty-six lines to eleven, and Kunal arguing for ten spans. All are harmless but should be logged. 'Spur Nine/Spur Fourteen' conflicts with F633.",
+  "new_facts_assessment": "Point 4392 and 4410 match F633. The grain slate rising a sack is a useful, consistent mystery seed. The law cut from 26 to 11 lines and Kunal's ten-span argument fit F263 and F360. Withholding the void is necessary, and it sets up her first omission. Kunal as an open council member and heir is never stated on the page. Ila's age (31) is also never stated; not a rule breach since nothing here is intimate, but add it before any romantic beat.",
   "content_rule_violation": false,
   "failure_modes": [
-    "Stakes without depth"
+    "Irrational behaviour to extend plot"
   ],
   "average": 3.38,
   "minimum": 0.0,
