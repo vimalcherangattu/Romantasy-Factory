@@ -1,0 +1,42 @@
+{
+  "scores": {
+    "reader_question": 5.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 3.0,
+    "stakes_and_cost": 4.0,
+    "prose": 3.0,
+    "continuity": 0.0
+  },
+  "reasons": {
+    "reader_question": "Sharp, stated gaps: where Pritam's unknown east way leads, who gave him the key, which reading of 'carried' is true, and whether Kiran pays.",
+    "change": "Betrothal oath sworn, Under-Cairn sealed, regent loose. Ila admits that what a wall hid was her business. Power and knowledge both shift.",
+    "romance_movement": "An unproven oath, then 'I'll take your word' with the price in view. The reason is new: trust without any mountain to check it.",
+    "shown_chemistry": "Teeth-tied walnut knot, her stillness through it, and the 'knock against my rule' banter show care through action.",
+    "character_logic": "The secretive queen reads the archive's meaning before Bindu and wardens without hesitation. Lata's wool convoy six months early lacks a reason.",
+    "stakes_and_cost": "To follow Pritam they must bind again, without a lie-sign. Ila loses her proof. The queen's seal is a costed holding action.",
+    "prose": "Mostly clean and concrete. 'No one spoke/answered/asked' recur, 'entirely ordinary/real' echo, and Bindu's bible trait is narrated as a label.",
+    "continuity": "'Three weeks of thaw' conflicts with F622 (Shilak thaw on day 56, reading about day 60). The rider arrives up the lower path, not over the Saddle."
+  },
+  "fixes": [
+    "In 'Three weeks of thaw had left the ground below it black and running' (continuity): Shilak's thaw was day 56 and this dusk is about day 60. Change it to 'Four days of thaw'. Also change Kunal's 'Last winter the cold told you' to 'This winter the cold told you', since the winter has only just ended.",
+    "In 'a horse blown to staggering on the lower path' (continuity/geography): the beat brings the rider over the Saddle from Garh Neshar, but the lower path climbs from Kothi Shilak. Have him come down the pass track leading a lamed pony off the snow. Change 'The tracks are two days old' to 'were two days old when the council's scouts found them', so it matches 'three nights ago'.",
+    "In 'first account I've ever been given that doesn't balance' (pre-empting Book 3, whose proof is her 'first unbalanced account'): keep Lata's books balanced. Use 'Then Ranu owes somebody a name. I'll collect it.' Give the early convoy a concrete motive in one line: she is storing wool in the salt house before the Guild sets winter prices."
+  ],
+  "reader_question": "Where is Pritam going on the east way no map shows, who gave him the key, and will the fourth winter demand a death, perhaps Kiran's?",
+  "techniques_landed": [
+    3,
+    20,
+    26
+  ],
+  "new_facts_assessment": "The drover route is consistent and gets the story to Lata; retire F629's Ranu visit. Meera's blank ruled line fits the count's habit (F181) and is a good Book 3 plant. The walnut origin follows F559, not F624; reconcile F624. Unlisted: Lata's early convoy, which needs a motive.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Irrational behaviour to extend plot",
+    "Worldbuilding collapse"
+  ],
+  "average": 3.38,
+  "minimum": 0.0,
+  "passed": false
+}
