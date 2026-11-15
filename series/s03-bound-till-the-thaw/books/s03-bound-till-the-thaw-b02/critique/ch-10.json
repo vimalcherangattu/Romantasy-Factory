@@ -5,37 +5,38 @@
     "romance_movement": 4.0,
     "shown_chemistry": 4.0,
     "character_logic": 3.0,
-    "stakes_and_cost": 3.0,
+    "stakes_and_cost": 4.0,
     "prose": 4.0,
-    "continuity": 5.0
+    "continuity": 0.0
   },
   "reasons": {
-    "reader_question": "The guest, the number sixty and Ila's hand on her coat create three specific gaps. The NE fork adds a fourth.",
-    "change": "Ila now holds the lakes' name and the family rule. Kunal openly admits the evasion. Both leads are less guarded.",
-    "romance_movement": "This is a new reason for movement: his first true family disclosure, met by her exact and unpunishing record of his dodge.",
-    "shown_chemistry": "Shown through action: his laugh at 'holes with rules', the asking before writing, the shown sheet and her refusal to write 'hides'.",
-    "character_logic": "Naming the lakes is a deliberate choice ('knew exactly where the stopping place was'), then recast later as careless. The two readings contradict.",
-    "stakes_and_cost": "The left fork costs half a day, but no deadline or consequence makes that loss felt. Raghu's lead toward the lakes is barely weighed.",
-    "prose": "Strong voice and quotable lines. Weak spots: four pink-fingertip checks, one 'the weight of', a 'four words' miscount and a signposted line.",
-    "continuity": "Ages, lie-cold, the stone hum, the sealed letter and the sixty-winter date all agree with the bible. Cairn-light in daytime cloud is new but not contradicted."
+    "reader_question": "The guest, Ila going still at 'sixty' and her hand on the hidden letter give a sharp, predictable-but-uncertain question. The letter thread is implied, not named.",
+    "change": "Kunal moves from guarded to exposed. He gives the lakes and admits the steering, and the crown's sheet now holds both the name and his evasion.",
+    "romance_movement": "This is a new reason: his first costed true disclosure, met by her open, exact record of his evasion. 'I write what's true, even when it's you' lands the beat.",
+    "shown_chemistry": "Chemistry shows in responsive action: 'Holes with rules round them' and his surprised laugh, her asking before writing, his pink fingertips checked after 'Yes'.",
+    "character_logic": "Kunal walks toward a way his family never walks in winter and no one remarks on it. The Dhanu trade-off is well reasoned and owned.",
+    "stakes_and_cost": "The left fork costs Dhanu's party a day alone against Raghu's glass. Kunal weighs it and names his shame, which ties to the later loss.",
+    "prose": "The prose is clean and concrete, with no banned phrases. The cliff-rule realisation paragraph is muddled, there are 'Of course she...' echoes, and Kunal's 'very' tic repeats from ch9.",
+    "continuity": "Ch9 and F687 say a toppled keeper cairn darkens the line beyond it. Here the line returns in cloud with no cause given."
   },
   "fixes": [
-    "At 'He had said it once, to the air, like a man putting down a cup', the draft contradicts its own earlier scene, where Kunal chooses to name the lakes. Rewrite the realisation around consequence, not carelessness. He gave it deliberately, but only once, and by their own cliff rule a name said once is one she should not take. So her asking leaves the choice in his hands again.",
-    "Cut 'and thought no more of it, and was to think of it a great deal later'. It signposts the clue and breaks close third, so a later fair twist will feel flagged. Leave Ila's stillness and 'I'm counting' to carry it. In the same pass, change 'wrote four words, exactly' to 'two words' (or name all four), and cut the pink-fingertip checks from four to two.",
-    "At 'it would cost them half a day', the cost is not felt (stakes without depth). Add one concrete line: Raghu's two pairs reach the lakes' overlook a day ahead of them, or Dhanu and Gauri, with Mini, are expected at the lakes and will meet Raghu first. Then the long way costs a named person something."
+    "At \"They broke the door. They didn't break the road.\" (Convenient magic; this contradicts ch9 and F687). Keep the stretch past the door dark. Have the thread show only from the next intact cairn up the shoulder, glowing in the cloud. Kunal crosses the dark gap by memory and route-song, and says plainly that only the door's stretch forgot itself.",
+    "At \"No one of our blood walks it between first snow and thaw\" (Irrational behaviour; Kunal is walking it now). Have Ila ask, 'And you're taking me toward it in winter.' Kunal answers truly that he is breaking the rule, and why. Change 'And he made the rule' so it doesn't clash with Pritam's ch17 sharing rule (F526). Move the 'my father said' line before Kunal was nine.",
+    "At \"By their own cliff rule, a name said once\" (muddled interiority; he gave the name on purpose, so the rule doesn't apply). Replace it with two plain sentences: he meant it, so the name is hers to write, and her hand went to her coat. Cut one of the two 'Of course she...' lines."
   ],
-  "reader_question": "Who was Prince Udai's guest sixty winters ago, why did that number stop Ila cold, and now that she knows the lakes will she open the queen's letter?",
+  "reader_question": "Who was the guest Prince Udai led up in winter sixty years ago and came down without, and now that Kunal has named the Glass Lakes, will Ila open the queen's letter?",
   "techniques_landed": [
     2,
     13,
     16
   ],
-  "new_facts_assessment": "All three facts are necessary and fit the beat. The Udai date plants C06 cleanly against F041. Tying a Neshar prince to the last Bargain payment is a large lore addition, so S2 should rule on it before chapter 12. The fork geography fits F474-F478. F486 says she wrote 'Glass Lakes', but the text says 'four words'. Reconcile.",
+  "new_facts_assessment": "F690 holds up: tracks a day or two old plus the half-day detour gives a full day. F691 is consistent with F473 and F685, and it is needed because it creates the cost of the left fork and seeds Dhanu's fate. Both facts are sound. The unlisted additions, the winter-walking rule and 'Udai made the rule', sit uneasily with F526 (ch17: Pritam tells the story and makes a no-sharing rule) and need reconciling.",
   "content_rule_violation": false,
   "failure_modes": [
+    "Convenient magic",
     "Irrational behaviour to extend plot"
   ],
-  "average": 3.88,
-  "minimum": 3.0,
-  "passed": true
+  "average": 3.38,
+  "minimum": 0.0,
+  "passed": false
 }
