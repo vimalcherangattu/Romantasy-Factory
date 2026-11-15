@@ -10,31 +10,30 @@
     "continuity": 5.0
   },
   "reasons": {
-    "reader_question": "Specific gaps stack well: Glass Lakes, the unmapped valley, and why the fourth light died where Raghu is knocking.",
-    "change": "Knowledge (the 35-day clock, a hidden valley), power (he leads east), and Ila's first deliberate omission all shift.",
-    "romance_movement": "The demonstration lie becomes a shared joke and sets truthful-adversary terms; the ending turns it into a values standoff.",
-    "shown_chemistry": "His unguarded laugh, his startled 'I don't', and the snug knot are responsive action. None of it is narrated.",
-    "character_logic": "Kunal's eastward turn is earned, but Ila reads his inner motives too surely, and 'Ask the other thing' is unmotivated.",
-    "stakes_and_cost": "The rope chill under her ribs makes the choice physical. Following costs her neutrality, and staying costs a true map.",
-    "prose": "Concrete and quotable, with no banned phrases. The ending over-explains its own theme, and the breath and hand similes repeat.",
-    "continuity": "Consistent with F387/F320 stone behaviour, F433 song, F434-F441, the Kiran pair and the archive seal per the S4 plant."
+    "reader_question": "The broken east line, the pinched-out fourth light and Kunal's turn give a sharp question, though the cairn lore half-answers it early.",
+    "change": "Ila gains the sealed letter and the 35-day clock, binds, and ends off her line following Kunal, with the east bearing unwritten.",
+    "romance_movement": "The demonstration lie becomes their first shared joke and sets the terms. The east turn moves power to him for a new reason.",
+    "shown_chemistry": "The loose-then-snug knot, his unguarded laugh, the silence banter and her noticing his late word all show attraction through action.",
+    "character_logic": "Ila goes mute because 'nothing... was free' when the truth is free. The expert-leader heroine is dragged rather than deciding.",
+    "stakes_and_cost": "The lost thirty-five days, the oath against the omission and the climbing rope-chill make the final choice cost her body and her creed.",
+    "prose": "Concrete and well varied, with good lines. Several consecutive paragraphs open with 'She', and the final section over-explains Kunal's ambiguity.",
+    "continuity": "Matches F433-F444, F660 and F662. Cold starting at exactly eight spans stretches 'past the length' but stops short of a conflict."
   },
   "fixes": [
-    "'It was a choice. It was the first she had made on this mountain': the heroine's arc is told, not shown, and the omission pre-spends worksheet trust choice 1. Cut the thematic gloss and the 'two ways of being wrong' summary. Let cold hands that 'would not hold' the pencil leave the east bearing unwritten, so it stays unclear whether she chose. Save the deliberate, spoken omission for the night he shows her the route.",
-    "'She watched him pay for it. A year of holding a road': a POV leak. Ila narrates Kunal's motives ('had never been asked', 'He had kept the way for them') as fact. Recast this as inference from what she can see: his count, the darkened light, Raghu's name. Hedge it ('if he had kept it for them') so her suspicion of him (worksheet item 4) survives.",
-    "'The fourth light went out.': convenient magic. The canon never says cairn-light can die. Add one line from Ila's lore giving a rule-bound cause, such as a light failing where a cairn is pulled down or where no pair has walked in a generation. Keep who did it uncertain, and log the rule in new-facts for a bible ruling."
+    "At 'because there was nothing she could say that was free' the world rule breaks, since truth is free. Make the cost human: the true answer is 'every way', and saying it would hand him the reason to hide the line from her all winter. She chooses silence, and the narration names silence as her choice.",
+    "At 'A light pinched out all at once meant a cairn pulled down' the lore answers the gap too early. Give a half-answer instead: keep the slow-dim rule and have Ila admit she has never heard of a light going out at a stroke. Then trim the 'She could only guess at what it cost him' hedging paragraph to two sentences so the reader carries the question.",
+    "Fix the paragraph openings: 'She pictured him'/'She went and put', 'He left. She stood'/'She wrote', and 'She knew the words.'/'She knew, too' each open consecutive paragraphs the same way, so vary them. At 'At eight a thin chill began under the ribs' make it 'a hair past eight, arm out' to honour the bible's past-the-length rule."
   ],
-  "reader_question": "What is the valley the mountain still lights but no map shows, and what put out its fourth light at the fold where Raghu is hunting?",
+  "reader_question": "What happened at the fold where the fourth light went out, and why will Kunal lead a crown surveyor toward a way he has kept hidden?",
   "techniques_landed": [
     1,
     22,
     16
   ],
-  "new_facts_assessment": "N01 is consistent and redundant with F436/F442. N02 is necessary and consistent. N03 is a strong clue at the peak, but a winter-line light 'going out' is an unestablished rule and needs a bible ruling on what extinguishes cairn-light. N04 pre-empts worksheet trust choice 1 (leaving a route off the sheet after he shows it, and telling him), so keep it ambiguous here.",
+  "new_facts_assessment": "N05 is a useful, consistent clue that fits the later toppled cairns (F483). But the 'pinched out means pulled down' half answers the beat's mountain mystery early, and it needs a bible ruling. N06 is consistent with F498 and F665 and keeps the spoken omission for the trust beat. Ila as a former 'chain-girl' is a minor unlisted fact and is plausible.",
   "content_rule_violation": false,
   "failure_modes": [
-    "Convenient magic",
-    "Static heroine (inverse: arc change told too early)"
+    "Irrational behaviour to extend plot"
   ],
   "average": 4.0,
   "minimum": 3.0,
