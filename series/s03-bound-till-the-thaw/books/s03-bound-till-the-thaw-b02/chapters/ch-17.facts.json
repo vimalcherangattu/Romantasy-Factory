@@ -1,19 +1,16 @@
 {
   "facts": [
     {
-      "category": "timeline",
-      "fact": "Ch 17 is about day ten of the bond (not day twenty), matching F512 (six days roped at ch 13) and F517. Kunal has watched Ila's hands and field book for ten days; the petition margin shows ten strokes and twenty-five empty places of the thirty-five days to the Meadow Cairn's meltwater. Supersedes the day-twenty count in F525 and F712 and the 'three ways in twenty days' in F710.",
-      "since": "s03-bound-till-the-thaw-b02 ch 17"
+      "category": "place",
+      "fact": "The storm caught Ila and Kunal about an hour east of the shelf above the Drum. The fold of shore under the Drum, where the lower lake huts stand (F537), was already drifting shut behind them, so they went on west over the shoulder to Dhanu's upper hut above the Mirror (F515), the nearest shelter they could still reach. Revises F714."
     },
     {
-      "category": "place",
-      "fact": "The storm caught Ila and Kunal about an hour east of the shelf above the Drum; the Eye lay half a night's ice ahead with no roof, so they turned back west to Dhanu's upper hut above the Mirror (F515), the nearest shelter.",
-      "since": "s03-bound-till-the-thaw-b02 ch 17"
+      "category": "injury",
+      "fact": "At the door Kunal pulls off his gloves to show Ila his fingertips, grey and blistered with frostnip from the lie-cold he took off her in ch 15 (F533); they are not yet dead. He says 'That's what your last lie cost me, and I'd pay it again.' Replaces F715; the dead tips come only from the broken promise in ch 21 (F555)."
     },
     {
       "category": "knowledge",
-      "fact": "At the door Kunal pulls off his gloves to show Ila his dead grey right fingertips, the price of his broken promise (F555), as proof he has nothing hidden about the Eye.",
-      "since": "s03-bound-till-the-thaw-b02 ch 17"
+      "fact": "When Kunal asks 'Is my family in your letter?', Ila refuses to answer but truthfully admits she asked about Udai for a reason she cannot give; her fingertips stay pink. Kunal reads the question as not idle and takes the refusal 'as it stands, not as a yes'."
     }
   ]
 }
