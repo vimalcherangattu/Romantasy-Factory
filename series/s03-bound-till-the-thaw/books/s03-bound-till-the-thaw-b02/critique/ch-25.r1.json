@@ -1,0 +1,41 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 3.0,
+    "stakes_and_cost": 4.0,
+    "prose": 3.0,
+    "continuity": 0.0
+  },
+  "reasons": {
+    "reader_question": "Sharp and urgent: the fall on the ice forces touch, so will he take the cold and learn the lie, and what will it cost her feet?",
+    "change": "Ila has become a liar paying in flesh, Kunal is now unarmed going to Raghu, and the sheets survive in secret. Power and knowledge both shift.",
+    "romance_movement": "New reason: she trades his trust for his life. He chooses belief over proof. The apology scene deepens the bond while the lie poisons it.",
+    "shown_chemistry": "Strong responsive beats: he stops a pace off and pockets his hands, offers the stove, apologises. One narrated 'She loved him for it' slips in.",
+    "character_logic": "The lie is well argued, but a smart Ila would see that Raghu will search the surveyor anyway, whatever Kunal believes. The draft never addresses this.",
+    "stakes_and_cost": "Feet dying on the walk to the fold is a vivid, rule-true cost. The false-set refusal also ties to a named hostage. It is irreversible in feel.",
+    "prose": "Clean and concrete, but 'she saw him weigh it' recurs, 'came to her whole' echoes ch24's 'came to him whole', and the drowning-splinter cliché is there.",
+    "continuity": "Kunal says Ila 'said it was yours, in the cleft', but in ch24 he gave it to her and she said she didn't know whose it was."
+  },
+  "fixes": [
+    "At \"You said it was yours, in the cleft, that it was a gift\" there is a continuity conflict. In ch24 Kunal said 'Then it's yours', and in the cleft Ila said she didn't know whose it was. Rewrite as \"I said it was yours, last night. I meant it as a gift, not a trade.\" Also change \"I asked you for them an hour ago\" to \"a quarter hour ago\" to match ch24.",
+    "At \"But a man who thought the sheets were ash\" there is an irrational-behaviour gap: Raghu will search the surveyor regardless. Add two sentences where Ila counts that cost and decides it anyway. For example, they may strip her coat, but Kunal's eyes won't send them there, and a searched woman with sewn seams is a risk she takes for his life. That makes the lie a costed gamble, not an oversight.",
+    "At \"She saw him weigh it, find it light\" and \"She saw him hear it, and weigh it\" there is repetitive narration. Cut the second 'weigh'. Replace \"It came to her whole, without any heat, as a closed traverse does\", which echoes ch24, with a fresh image. Cut \"She loved him for it, and the knowledge was no use to her\" and let the unasked question carry the feeling (avoid narrated chemistry)."
+  ],
+  "reader_question": "When Kunal touches her on the ice, will he take the cold, learn she lied, and how will he read the lie?",
+  "techniques_landed": [
+    14,
+    18,
+    22
+  ],
+  "new_facts_assessment": "F577's shift from 'last night' to 'this morning' is necessary, because the pair were in the Eye overnight and the coals story fits the ch24 arrival. F578 supplies a needed motive for not truly burning. F579 is consistent with F446 and F409 and sharpens his choice not to reach. All three are acceptable.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Irrational behaviour to extend plot"
+  ],
+  "average": 3.25,
+  "minimum": 0.0,
+  "passed": false
+}
