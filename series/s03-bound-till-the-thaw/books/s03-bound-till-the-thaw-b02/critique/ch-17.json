@@ -6,34 +6,34 @@
     "shown_chemistry": 4.0,
     "character_logic": 4.0,
     "stakes_and_cost": 3.0,
-    "prose": 4.0,
+    "prose": 3.0,
     "continuity": 0.0
   },
   "reasons": {
-    "reader_question": "The ending hands the reader a specific gap: the grief in her eyes and the Eye left out of her field book.",
-    "change": "Kunal breaks Pritam's rule and gives the Eye unasked. Reader learns Pritam invented the rule. Ila gets the guest story.",
-    "romance_movement": "New reason: a narrow question, a free refusal he chooses not to build on. His respect survives not knowing.",
-    "shown_chemistry": "Her palm left open on the boards, 'kissed by weather', her laugh, his open hands in the doorlight. All responsive, little narration.",
-    "character_logic": "Asking the narrowest question to avoid shrug-answers is smart. Ila's silence is consistent with her archive oath.",
-    "stakes_and_cost": "The rule-break cost is real but muddled by 'fifteen men'. The petition link is told more than felt.",
-    "prose": "Mostly clean and specific. One AI tell ('the weight of'), an 'in it' echo and one confusing hut-wall sentence.",
-    "continuity": "Thaw council placed at day 35 conflicts with F622 (council day 56). 'Fifteen men' conflicts with nine councillors (F657). Day 20 strains F512."
+    "reader_question": "Clear gap: what touches his family in the letter, and what lies past the first turn of the Eye.",
+    "change": "Knowledge shifts: Kunal breaks Pritam's rule and gives the Eye. Ila finally meets his eyes, with grief.",
+    "romance_movement": "New reason: he holds her refusal 'not as a yes' and chooses not to build on inference. Respect survives not knowing.",
+    "shown_chemistry": "Her open hand on the boards, his unplanned open palms, and the weather-kiss joke show response without narration.",
+    "character_logic": "Both act smartly. She refuses for free, and he picks the narrowest question and gives the way untraded.",
+    "stakes_and_cost": "Rule-breaking cost is narrated ('That was the cost') rather than felt. The day-count section is abstract.",
+    "prose": "One garbled sentence. Hands and open-palm imagery saturate the chapter and repeat ch16's closing image. A few paragraphs open with the same word.",
+    "continuity": "'Twenty days' conflicts with F512 (six days roped at ch13) and F517 (letter carried six days at ch14)."
   },
   "fixes": [
-    "'thirty-five days to the thaw council the hill council had fixed': continuity conflict with F622. Rewrite so thirty-five is the Meadow Cairn meltwater, when the bond ends. The Shilak thaw council comes after it, three weeks on in a hard year. Recast 'He had thought of it as a distance' so the fifteen empty strokes count down to the bond's end.",
-    "'Fifteen men would share what one man had held': the hill council has nine members (F657). Change to 'Nine council members would share'. Also fix the day count. 'three days of Ila's field book' and 'watched them for a week' contradict 'day twenty'. Either align all three to the beat's twenty and flag F512 for an S7 ruling, or rule the day count down.",
-    "'paced twice and found a hand narrower than the north side': unclear logic; name which wall is short of which. 'the stones outside sang in it, a low note with no meaning in it': echo; cut the second 'in it'. 'He knew the exact weight of it': AI tell; replace with 'He knew to the grain what it cost her nothing.'"
+    "Continuity: at 'Twenty. Twenty strokes, and fifteen empty places' and 'three ways in twenty days', the count contradicts F512 and F517. Either get an S7 ruling that amends ch13 and ch14 to fit day twenty (preferred, since the beat fixes day twenty), or recount here to about day ten. Change every 'twenty days' line together, and also 'watched them for twenty days'.",
+    "Repeated image: 'He found he had put his hands out, palms up' repeats ch16's ending, where Kunal's palm lay up on the snow, and doubles Ila's palm-up hand on the boards. Keep Ila's hand on the boards. Give Kunal a different, plot-bearing gesture at the door, such as pulling off his gloves to show grey tips. Trim at least three of the 'open hands on knees' mentions.",
+    "Prose and geography: 'He knew to the grain what it cost her nothing' is ungrammatical. Rewrite it as 'He knew to the grain that it cost her nothing.' Then replace 'an hour past the lip' with one clear line explaining why they turned back west to Dhanu's hut above the Mirror. Then cut 'That was the cost, and he paid it with his eyes open' and let his line to her carry it."
   ],
-  "reader_question": "What lies past the first turn of the princes' way, and what will Kunal do when he learns his grandfather walked Ila's to his death?",
+  "reader_question": "What is in the queen's letter about Kunal's family, and what will he find, and learn, past the first turn of the Eye?",
   "techniques_landed": [
     1,
     13,
     14
   ],
-  "new_facts_assessment": "Nurse's lullaby origin for 'Where the Drum answers' is fine and adds texture. 'Three ways in twenty days' conflicts with F512: six days roped at ch 13, and only a few days have passed since. The chapter's own 'three days of Ila's field book' and 'for a week' contradict it too. The second fact's claim that the thaw council falls thirty-five days from binding contradicts F618/F622. Day 35 is the Meadow Cairn bond end, and the Shilak council follows on day 56. The beat itself says 'with Shilak's thaw council after that'. The rule-break link to the petition is good.",
+  "new_facts_assessment": "The declared fact (bond ends day 35, council about three weeks later) agrees with F435 and F622. But day twenty at ch17 is irreconcilable with F512 and F517 (about day 6 to 7 at ch13 and ch14, only two or three story days ago), so S7 must rule. Undeclared: the nurse's saying, Udai's winter-only rule and the hut's north wall are harmless. The storm hut is Dhanu's upper hut above the Mirror (F515), which implies an unexplained retreat west from the Drum shelf where ch16 ended heading east. Clarify it.",
   "content_rule_violation": false,
   "failure_modes": [],
-  "average": 3.38,
+  "average": 3.25,
   "minimum": 0.0,
   "passed": false
 }

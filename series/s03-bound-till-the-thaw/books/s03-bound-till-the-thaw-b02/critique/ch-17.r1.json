@@ -1,0 +1,39 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 4.0,
+    "stakes_and_cost": 3.0,
+    "prose": 3.0,
+    "continuity": 0.0
+  },
+  "reasons": {
+    "reader_question": "Clear gap: what touches his family in the letter, and what lies past the first turn of the Eye.",
+    "change": "Knowledge shifts: Kunal breaks Pritam's rule and gives the Eye. Ila finally meets his eyes, with grief.",
+    "romance_movement": "New reason: he holds her refusal 'not as a yes' and chooses not to build on inference. Respect survives not knowing.",
+    "shown_chemistry": "Her open hand on the boards, his unplanned open palms, and the weather-kiss joke show response without narration.",
+    "character_logic": "Both act smartly. She refuses for free, and he picks the narrowest question and gives the way untraded.",
+    "stakes_and_cost": "Rule-breaking cost is narrated ('That was the cost') rather than felt. The day-count section is abstract.",
+    "prose": "One garbled sentence. Hands and open-palm imagery saturate the chapter and repeat ch16's closing image. A few paragraphs open with the same word.",
+    "continuity": "'Twenty days' conflicts with F512 (six days roped at ch13) and F517 (letter carried six days at ch14)."
+  },
+  "fixes": [
+    "Continuity: at 'Twenty. Twenty strokes, and fifteen empty places' and 'three ways in twenty days', the count contradicts F512 and F517. Either get an S7 ruling that amends ch13 and ch14 to fit day twenty (preferred, since the beat fixes day twenty), or recount here to about day ten. Change every 'twenty days' line together, and also 'watched them for twenty days'.",
+    "Repeated image: 'He found he had put his hands out, palms up' repeats ch16's ending, where Kunal's palm lay up on the snow, and doubles Ila's palm-up hand on the boards. Keep Ila's hand on the boards. Give Kunal a different, plot-bearing gesture at the door, such as pulling off his gloves to show grey tips. Trim at least three of the 'open hands on knees' mentions.",
+    "Prose and geography: 'He knew to the grain what it cost her nothing' is ungrammatical. Rewrite it as 'He knew to the grain that it cost her nothing.' Then replace 'an hour past the lip' with one clear line explaining why they turned back west to Dhanu's hut above the Mirror. Then cut 'That was the cost, and he paid it with his eyes open' and let his line to her carry it."
+  ],
+  "reader_question": "What is in the queen's letter about Kunal's family, and what will he find, and learn, past the first turn of the Eye?",
+  "techniques_landed": [
+    1,
+    13,
+    14
+  ],
+  "new_facts_assessment": "The declared fact (bond ends day 35, council about three weeks later) agrees with F435 and F622. But day twenty at ch17 is irreconcilable with F512 and F517 (about day 6 to 7 at ch13 and ch14, only two or three story days ago), so S7 must rule. Undeclared: the nurse's saying, Udai's winter-only rule and the hut's north wall are harmless. The storm hut is Dhanu's upper hut above the Mirror (F515), which implies an unexplained retreat west from the Drum shelf where ch16 ended heading east. Clarify it.",
+  "content_rule_violation": false,
+  "failure_modes": [],
+  "average": 3.25,
+  "minimum": 0.0,
+  "passed": false
+}
