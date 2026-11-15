@@ -1,6 +1,6 @@
 # Status
 
-Last updated: 2026-11-08
+Last updated: 2026-11-16
 
 ## Current state
 - Live on KDP (pen name Anya Kalloor, series The Odiyan Contracts):
@@ -10,18 +10,22 @@ Last updated: 2026-11-08
 - In review, waiting on the owner:
   - Crown of Night (s02 b03): since 1 Nov, cover done.
   - Bound till the Thaw (s03 b01, Mira Sangla): since 8 Nov, 90,981 words, beta 4.2, NO cover yet.
-- KDP week of 8 Nov: 1 ebook + 1 paperback reserved for parenting Book 1 (slipped twice),
-  1 ebook free for romantasy. Parenting Book 2 reserved for the week of 22 Nov.
-- Week of 2-8 Nov: review cap used (Bound till the Thaw).
-- 64 tests pass. Usage to date: about 1220 calls, 11.1M output tokens (`state/usage.csv`).
+- KDP week of 15 Nov: parenting Book 1 reserved (ebook + paperback); 1 ebook free for romantasy.
+  Parenting Book 2 reserved for the week of 22 Nov.
+- Week of 9-15 Nov: no book reached review. Week of 16-22 Nov: review cap still free.
+- 64 tests pass. Usage to date: about 1461 calls, 13.2M output tokens (`state/usage.csv`).
 
 ## In progress
-- Queued next: s03-bound-till-the-thaw-b02; s01 archived.
+- s03-bound-till-the-thaw-b02: 32/32 drafted; S7 continuity was patched by hand on 16 Nov
+  (Glass Lakes named too early in ch 7-8; Mini missing after the ch 24 raid, fixed in ch 24 and 28).
+  Now revising: 19/32 chapters through the revise loop. Needs-owner: ch 21, 32.
+- Queued next: s03 b03, b04. s01 archived.
 
 ## Next step
-- Sun night (Mon 9 Nov, 00:52 IST): new week; make the Thaw b1 cover (ElevenLabs connector was not
-  connected on 8 Nov), then factory run up to 2 passes (starts s03 b02).
-- Sun 8 Nov 10:00 IST upload slot: whichever romantasy book the owner approves (one slot).
+- Sat night (Sun 22 Nov, 00:52 IST): factory run, up to 2 passes; Thaw b2 may reach review.
+- Thaw b1 cover: blocked; the ElevenLabs image tools wait on an approval prompt nobody answers in
+  unattended runs (flow 2vxqwsQhH2EkmAD6925N, node 7iQ4DLrAjtSEepfrrJcV). Owner task due 22 Nov.
+- Sun 10:00 IST upload slot: whichever romantasy book the owner approves (Crown of Night is ready).
 
 ## Known issues
 - The auto-approve / auto-publish change requested on 21 Oct was refused by the permission
