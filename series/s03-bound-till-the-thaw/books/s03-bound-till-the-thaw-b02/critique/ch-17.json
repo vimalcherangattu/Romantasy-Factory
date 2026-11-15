@@ -2,37 +2,39 @@
   "scores": {
     "reader_question": 4.0,
     "change": 4.0,
-    "romance_movement": 4.0,
+    "romance_movement": 3.0,
     "shown_chemistry": 4.0,
-    "character_logic": 4.0,
-    "stakes_and_cost": 3.0,
-    "prose": 3.0,
+    "character_logic": 3.0,
+    "stakes_and_cost": 4.0,
+    "prose": 4.0,
     "continuity": 0.0
   },
   "reasons": {
-    "reader_question": "Clear gap: what touches his family in the letter, and what lies past the first turn of the Eye.",
-    "change": "Knowledge shifts: Kunal breaks Pritam's rule and gives the Eye. Ila finally meets his eyes, with grief.",
-    "romance_movement": "New reason: he holds her refusal 'not as a yes' and chooses not to build on inference. Respect survives not knowing.",
-    "shown_chemistry": "Her open hand on the boards, his unplanned open palms, and the weather-kiss joke show response without narration.",
-    "character_logic": "Both act smartly. She refuses for free, and he picks the narrowest question and gives the way untraded.",
-    "stakes_and_cost": "Rule-breaking cost is narrated ('That was the cost') rather than felt. The day-count section is abstract.",
-    "prose": "One garbled sentence. Hands and open-palm imagery saturate the chapter and repeat ch16's closing image. A few paragraphs open with the same word.",
-    "continuity": "'Twenty days' conflicts with F512 (six days roped at ch13) and F517 (letter carried six days at ch14)."
+    "reader_question": "Specific gap: what lies past the first turn, and what happens when he learns the letter touches his family.",
+    "change": "He breaks Pritam's rule and gives her the Eye; she finally meets his eyes. Knowledge and power both shift.",
+    "romance_movement": "His chosen restraint is new, but the letter refusal replays ch16's 'can't tell you yet'. Same obstacle, slightly stronger.",
+    "shown_chemistry": "Hands, the palm-up offer on the boards, the 'kissed by weather' joke and the warm pencil leads all carry it without narration.",
+    "character_logic": "Retreating to the Mirror hut ignores the nearer lower lake huts below the Drum. His 'decided in the night' ignores his ch16 offer to take her.",
+    "stakes_and_cost": "Giving her the Eye defies the family rule his petition argues against and goes ahead of nine council members. A real cost.",
+    "prose": "Clean and readable with few tells. 'Where he could see' recurs, and there are two 'like a woman' similes.",
+    "continuity": "His tips are shown 'dead from the first joint', which belongs to the ch21 broken promise (F555). At ch17 they are frostnipped from her lie-cold (F533)."
   },
   "fixes": [
-    "Continuity: at 'Twenty. Twenty strokes, and fifteen empty places' and 'three ways in twenty days', the count contradicts F512 and F517. Either get an S7 ruling that amends ch13 and ch14 to fit day twenty (preferred, since the beat fixes day twenty), or recount here to about day ten. Change every 'twenty days' line together, and also 'watched them for twenty days'.",
-    "Repeated image: 'He found he had put his hands out, palms up' repeats ch16's ending, where Kunal's palm lay up on the snow, and doubles Ila's palm-up hand on the boards. Keep Ila's hand on the boards. Give Kunal a different, plot-bearing gesture at the door, such as pulling off his gloves to show grey tips. Trim at least three of the 'open hands on knees' mentions.",
-    "Prose and geography: 'He knew to the grain what it cost her nothing' is ungrammatical. Rewrite it as 'He knew to the grain that it cost her nothing.' Then replace 'an hour past the lip' with one clear line explaining why they turned back west to Dhanu's hut above the Mirror. Then cut 'That was the cost, and he paid it with his eyes open' and let his line to her carry it."
+    "At 'dead from the first joint, the blistered skin gone tight', there is a continuity error: the tips do not die until the ch21 broken promise (F555). Make them grey and frostnip-blistered from the cold he took off her in ch15. Change 'That's what the last thing I held back from you cost me' to a true line about taking her cold, e.g. 'That's what your last lie cost me, and I'd pay it again.' Correct new fact F715 to match.",
+    "At 'for Dhanu's hut above the Mirror, the only shelter within reach', the logic fails: the lower lake huts sit in a fold below the Drum (F537), nearer than the Mirror hut. Add one clause giving a reason to pass them. Either the shore under the Drum is drifted shut, or Kunal will not lead Raghu's glass to Dhanu's family. Otherwise move the pair into the lower huts.",
+    "At 'I'm not going to answer that,' said Ila, the refusal replays ch16's 'can't tell you yet' (repetitive tension). Give it a new edge Ila pays for on the page. For example, she admits truthfully that she asked about Udai for a reason she can't give, so he knows her question was not idle. Also trim 'He had decided it in the night' so the new choice is naming the cleft and admitting his ignorance, since ch16 already offered the way."
   ],
-  "reader_question": "What is in the queen's letter about Kunal's family, and what will he find, and learn, past the first turn of the Eye?",
+  "reader_question": "What lies past the first turn of the princes' way, and what will Kunal do when he learns his family is in her letter?",
   "techniques_landed": [
     1,
     13,
     14
   ],
-  "new_facts_assessment": "The declared fact (bond ends day 35, council about three weeks later) agrees with F435 and F622. But day twenty at ch17 is irreconcilable with F512 and F517 (about day 6 to 7 at ch13 and ch14, only two or three story days ago), so S7 must rule. Undeclared: the nurse's saying, Udai's winter-only rule and the hut's north wall are harmless. The storm hut is Dhanu's upper hut above the Mirror (F515), which implies an unexplained retreat west from the Drum shelf where ch16 ended heading east. Clarify it.",
+  "new_facts_assessment": "Day ten (F713) is necessary and consistent with F512 and F517, and correctly retires the beat's day twenty. Storm placement (F714) is plausible but needs a reason to pass the lower lake huts below the Drum (F537). Dead tips as 'the price of his broken promise (F555)' (F715) conflicts with continuity: that promise breaks in ch21. At ch17 his grey tips come from taking Ila's lie-cold, frostnip-level (F533). Revise or cut.",
   "content_rule_violation": false,
-  "failure_modes": [],
+  "failure_modes": [
+    "Repetitive tension"
+  ],
   "average": 3.25,
   "minimum": 0.0,
   "passed": false

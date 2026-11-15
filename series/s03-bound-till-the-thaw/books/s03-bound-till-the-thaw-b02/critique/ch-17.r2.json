@@ -1,0 +1,41 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 3.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 3.0,
+    "stakes_and_cost": 4.0,
+    "prose": 4.0,
+    "continuity": 0.0
+  },
+  "reasons": {
+    "reader_question": "Specific gap: what lies past the first turn, and what happens when he learns the letter touches his family.",
+    "change": "He breaks Pritam's rule and gives her the Eye; she finally meets his eyes. Knowledge and power both shift.",
+    "romance_movement": "His chosen restraint is new, but the letter refusal replays ch16's 'can't tell you yet'. Same obstacle, slightly stronger.",
+    "shown_chemistry": "Hands, the palm-up offer on the boards, the 'kissed by weather' joke and the warm pencil leads all carry it without narration.",
+    "character_logic": "Retreating to the Mirror hut ignores the nearer lower lake huts below the Drum. His 'decided in the night' ignores his ch16 offer to take her.",
+    "stakes_and_cost": "Giving her the Eye defies the family rule his petition argues against and goes ahead of nine council members. A real cost.",
+    "prose": "Clean and readable with few tells. 'Where he could see' recurs, and there are two 'like a woman' similes.",
+    "continuity": "His tips are shown 'dead from the first joint', which belongs to the ch21 broken promise (F555). At ch17 they are frostnipped from her lie-cold (F533)."
+  },
+  "fixes": [
+    "At 'dead from the first joint, the blistered skin gone tight', there is a continuity error: the tips do not die until the ch21 broken promise (F555). Make them grey and frostnip-blistered from the cold he took off her in ch15. Change 'That's what the last thing I held back from you cost me' to a true line about taking her cold, e.g. 'That's what your last lie cost me, and I'd pay it again.' Correct new fact F715 to match.",
+    "At 'for Dhanu's hut above the Mirror, the only shelter within reach', the logic fails: the lower lake huts sit in a fold below the Drum (F537), nearer than the Mirror hut. Add one clause giving a reason to pass them. Either the shore under the Drum is drifted shut, or Kunal will not lead Raghu's glass to Dhanu's family. Otherwise move the pair into the lower huts.",
+    "At 'I'm not going to answer that,' said Ila, the refusal replays ch16's 'can't tell you yet' (repetitive tension). Give it a new edge Ila pays for on the page. For example, she admits truthfully that she asked about Udai for a reason she can't give, so he knows her question was not idle. Also trim 'He had decided it in the night' so the new choice is naming the cleft and admitting his ignorance, since ch16 already offered the way."
+  ],
+  "reader_question": "What lies past the first turn of the princes' way, and what will Kunal do when he learns his family is in her letter?",
+  "techniques_landed": [
+    1,
+    13,
+    14
+  ],
+  "new_facts_assessment": "Day ten (F713) is necessary and consistent with F512 and F517, and correctly retires the beat's day twenty. Storm placement (F714) is plausible but needs a reason to pass the lower lake huts below the Drum (F537). Dead tips as 'the price of his broken promise (F555)' (F715) conflicts with continuity: that promise breaks in ch21. At ch17 his grey tips come from taking Ila's lie-cold, frostnip-level (F533). Revise or cut.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Repetitive tension"
+  ],
+  "average": 3.25,
+  "minimum": 0.0,
+  "passed": false
+}
