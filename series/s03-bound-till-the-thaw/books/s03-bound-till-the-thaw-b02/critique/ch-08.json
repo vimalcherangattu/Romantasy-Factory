@@ -5,38 +5,37 @@
     "romance_movement": 4.0,
     "shown_chemistry": 4.0,
     "character_logic": 3.0,
-    "stakes_and_cost": 3.0,
+    "stakes_and_cost": 4.0,
     "prose": 4.0,
     "continuity": 5.0
   },
   "reasons": {
-    "reader_question": "Two sharp gaps: who holds the lens on Ewe's Rest, and what his uncle did when Kunal was nine.",
-    "change": "Kunal moves from trusting song-secrecy to doubting it. Dhanu's party leaves, the pair are alone, and a watcher is found.",
-    "romance_movement": "This is a new reason. Ila declines the half-answer without taking its use, and he starts an uncalculated disclosure for the first time.",
-    "shown_chemistry": "Held gazes, her read of his bare fingers, and 'I'll take the half' with nothing written. All shown through action.",
-    "character_logic": "Kunal calls Ila his door to crown knowledge while saying she hasn't seen the clause. Dhanu lets the gap pass.",
-    "stakes_and_cost": "The 'turn back to guard the hamlets' option is never voiced. The glint threatens an empty house, so no loved person is named.",
-    "prose": "Clean and concrete with no banned phrases. 'Something in him had come loose' and the pewter sky are stock. The 'bright line' echo is slightly overused.",
-    "continuity": "Matches F470-F476, F431/F471, F451, the ch7 'nine, alone' line, Mini's age and the 315-degree glint. No conflicts found."
+    "reader_question": "The glint ending makes the watcher, and Mini's exposure on the short way, concrete; Pritam's wound is left half-open.",
+    "change": "Knowledge shifts (a watcher, the cover-sheet clause), Kunal rejects Dhanu's bright line, and he nearly discloses.",
+    "romance_movement": "There is a new reason. Ila declines his rehearsed half, and that disarms him into an unprompted, uncalculated start at the truth.",
+    "shown_chemistry": "Responsive beats: 'I'll take the half', the blank page, her glance at his fingertips, and the echo of Mini's voice.",
+    "character_logic": "Mostly sharp. Ila overclaims what the glass pointed at earlier, and Kunal asserts digging he hasn't witnessed.",
+    "stakes_and_cost": "Refusing Dhanu's plan sends Dhanu ahead and leaves Mini in open view. The whistle joke makes the cost ominous.",
+    "prose": "Clean, concrete and varied, with no banned phrases. The Mini-scene interiority turns briefly expository, and one gaze line is clumsy.",
+    "continuity": "This matches F468, F470, F471, F475, F476, F682 and F683, the three prior cuffs, and his age of 33 (24 years since nine)."
   },
   "fixes": [
-    "At 'the only door I have into what the crown knows': this is irrational behaviour. Kunal has just said Ila hasn't seen the clause. Have Dhanu say so ('She doesn't know it either'). Kunal should give a sharper reason: what she is ordered to measure, and where she stops, will show what the crown is looking for. That keeps him smart and keeps the values collision honest.",
-    "At 'We'll stock the lake huts and sit on the high ground': the stakes have no depth because the beat's 'turn back to guard the hamlets' option is missing. Have Dhanu ask Kunal to stay and watch Ewe's Rest and the upper fold. Kunal refuses for the Hollow Moon. Then at the glint, have Kunal see that the short way Dhanu, Gauri and Mini took lies under that outcrop's view, so the watcher threatens a named child.",
-    "At 'Something in him had come loose and was running': this narrates the turn instead of showing it. Cut the list of reasons ('she had been kind... taught her to count') to one concrete trigger on the cliff. For example, Ila says 'A man would' back to him in Mini's voice, or lowers the compass to look at him. The uncalculated start then happens in response to an action, not a summary."
+    "At 'It was pointed at the hamlet before we came up', Ila claims knowledge she cannot have. The sun has only just cleared the ridge, and she would not sit on an earlier sighting. This is a character-logic slip. Cut the claim or ground it: 'It's pointed at us now. If it's been there since yesterday, it watched the hamlet all afternoon.' This also sets up Kunal's turn to the short way.",
+    "At 'Raghu's pairs are on the Hollow Moon now, digging for something', Kunal states as fact what the runner never saw. F468 records only that they passed heading for the Moon. Make it inference: 'Raghu's pairs went up the Hollow Moon two days ago, and nobody climbs there in winter to admire it.' Then the digging lands as discovery later.",
+    "The interior run from 'A number was a way, as a name was a way' to 'people went there too' explains the theme instead of dramatising it. Cut to two sentences and give Kunal an action, such as calling Mini over to sing her rhyme while she paces. Also replace 'She held his gaze, and so did he' with a concrete beat, e.g. 'She didn't look away. Neither did he.'"
   ],
-  "reader_question": "Who is watching Ewe's Rest through a spyglass, and what did Kunal's uncle do to him when he was nine?",
+  "reader_question": "Who is watching Ewe's Rest through a glass, and did they follow Dhanu, Gauri and Mini down the short way?",
   "techniques_landed": [
     2,
     7,
     15
   ],
-  "new_facts_assessment": "The draft lists no new facts. Ch8 facts already sit in continuity as F470-F476 and match the page. Unlisted additions: (1) the short way under the snow-line needs no rope, which is plausible but should be logged as a magic fact; (2) Kunal taught Mini the Stair song, consistent with F433; (3) Hari is named as the source of the chalk, consistent with F451/F453. C04 (the horn worn against the skin, 'off a cold man') is planted memorably.",
+  "new_facts_assessment": "Both listed facts are necessary and consistent. The mile of open ground under the outcrop sets up the threat to Dhanu's party, and Kunal's refusal is the beat's decision. Unlisted but consistent details: the short way needs no rope below the snow-line (fits F666), and the 'high way' whistle signal (fits F470).",
   "content_rule_violation": false,
   "failure_modes": [
-    "Irrational behaviour to extend plot",
-    "Stakes without depth"
+    "Irrational behaviour to extend plot"
   ],
-  "average": 3.88,
+  "average": 4.0,
   "minimum": 3.0,
   "passed": true
 }

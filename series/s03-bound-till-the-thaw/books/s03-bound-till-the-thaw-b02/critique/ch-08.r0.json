@@ -4,39 +4,38 @@
     "change": 4.0,
     "romance_movement": 4.0,
     "shown_chemistry": 4.0,
-    "character_logic": 4.0,
+    "character_logic": 3.0,
     "stakes_and_cost": 4.0,
     "prose": 4.0,
-    "continuity": 0.0
+    "continuity": 5.0
   },
   "reasons": {
-    "reader_question": "Sharp double hook: who holds the lens, and what happened at nine with 'my uncle', who readers know is Pritam.",
-    "change": "Secrecy cracks twice, through Mini's pacing and then the watcher. Dhanu leaves and Kunal commits to keeping Ila close.",
-    "romance_movement": "New reason: Ila declines the hidden half without bargaining, and that gift unlocks his first uncalculated disclosure.",
-    "shown_chemistry": "Responsive beats land: held gaze in the yard, 'I'll take the half', a blank page. Chemistry is never narrated.",
-    "character_logic": "Kunal's case for keeping her is smart. But surveyor Ila accepts 91 child-steps round a ninety-pace wall without comment.",
-    "stakes_and_cost": "Keeping Ila risks the ways. Dhanu's cold-man joke prices capture. The watcher puts the hamlet and friends at risk.",
-    "prose": "Clean and concrete with no banned phrases. The 'like a man...' simile tic recurs three or four times, and the final speech over-explains.",
-    "continuity": "'The red rope' conflicts with F436 (Ila's rope is undyed). The 210° glint contradicts a bowl lying north."
+    "reader_question": "The glint ending makes the watcher, and Mini's exposure on the short way, concrete; Pritam's wound is left half-open.",
+    "change": "Knowledge shifts (a watcher, the cover-sheet clause), Kunal rejects Dhanu's bright line, and he nearly discloses.",
+    "romance_movement": "There is a new reason. Ila declines his rehearsed half, and that disarms him into an unprompted, uncalculated start at the truth.",
+    "shown_chemistry": "Responsive beats: 'I'll take the half', the blank page, her glance at his fingertips, and the echo of Mini's voice.",
+    "character_logic": "Mostly sharp. Ila overclaims what the glass pointed at earlier, and Kunal asserts digging he hasn't witnessed.",
+    "stakes_and_cost": "Refusing Dhanu's plan sends Dhanu ahead and leaves Mini in open view. The whistle joke makes the cost ominous.",
+    "prose": "Clean, concrete and varied, with no banned phrases. The Mini-scene interiority turns briefly expository, and one gaze line is clumsy.",
+    "continuity": "This matches F468, F470, F471, F475, F476, F682 and F683, the three prior cuffs, and his age of 33 (24 years since nine)."
   },
   "fixes": [
-    "'The red rope ran from that shape': continuity break, because Ila's rope is undyed wool from Lata's house (F436). Change to 'The pale rope' or 'Her undyed rope', and check every later mention of rope colour in the chapter.",
-    "'Two hundred and ten degrees, above the stone fan': worldbuilding collapse, because the bowl lies north (far rim ~350°), so its west lip must fall near 300-330°, not south-west. Change the bearing to about 315°, keep the outcrop on the west lip, and update new-facts F474 to match.",
-    "'The stones of the old hearth gave the faintest ring': convenient magic, because an unlisted truth-reading hearth contradicts F320. Cut the hearth ring and have Ila glance at his bare hands by the coals, pink, as the proof (F391). Optionally keep 'That's true.' Also fix Mini's 'Ninety-one' to about two hundred, or have Ila remark on it."
+    "At 'It was pointed at the hamlet before we came up', Ila claims knowledge she cannot have. The sun has only just cleared the ridge, and she would not sit on an earlier sighting. This is a character-logic slip. Cut the claim or ground it: 'It's pointed at us now. If it's been there since yesterday, it watched the hamlet all afternoon.' This also sets up Kunal's turn to the short way.",
+    "At 'Raghu's pairs are on the Hollow Moon now, digging for something', Kunal states as fact what the runner never saw. F468 records only that they passed heading for the Moon. Make it inference: 'Raghu's pairs went up the Hollow Moon two days ago, and nobody climbs there in winter to admire it.' Then the digging lands as discovery later.",
+    "The interior run from 'A number was a way, as a name was a way' to 'people went there too' explains the theme instead of dramatising it. Cut to two sentences and give Kunal an action, such as calling Mini over to sing her rhyme while she paces. Also replace 'She held his gaze, and so did he' with a concrete beat, e.g. 'She didn't look away. Neither did he.'"
   ],
-  "reader_question": "Who is watching Ewe's Rest through a spyglass, and what did Kunal's uncle do to him when he was nine?",
+  "reader_question": "Who is watching Ewe's Rest through a glass, and did they follow Dhanu, Gauri and Mini down the short way?",
   "techniques_landed": [
     2,
     7,
     15
   ],
-  "new_facts_assessment": "Whistle, cover-sheet knowledge, clerk's stoop and Mini's age are necessary and consistent; the whistle plants the route-keeper's capture well. The Hollow Moon geometry is internally inconsistent: a bowl north at about 350° cannot have its west lip at 210°. Unlisted: hearth stones ringing a truth (extends F320/F456 to domestic stone; F320 says stones aren't a truth-test alone), and Hollow Moon as the summer way to Kuhl (consistent with F399).",
+  "new_facts_assessment": "Both listed facts are necessary and consistent. The mile of open ground under the outcrop sets up the threat to Dhanu's party, and Kunal's refusal is the beat's decision. Unlisted but consistent details: the short way needs no rope below the snow-line (fits F666), and the 'high way' whistle signal (fits F470).",
   "content_rule_violation": false,
   "failure_modes": [
-    "Convenient magic",
-    "Worldbuilding collapse"
+    "Irrational behaviour to extend plot"
   ],
-  "average": 3.5,
-  "minimum": 0.0,
-  "passed": false
+  "average": 4.0,
+  "minimum": 3.0,
+  "passed": true
 }
