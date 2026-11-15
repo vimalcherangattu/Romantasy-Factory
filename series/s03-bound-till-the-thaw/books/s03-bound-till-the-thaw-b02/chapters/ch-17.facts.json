@@ -2,8 +2,18 @@
   "facts": [
     {
       "category": "timeline",
-      "fact": "Ch 17 aligns its counts to day twenty of the bond: Kunal has watched Ila's hands and field book for twenty days. Thirty-five days is the Meadow Cairn meltwater, when the bond ends; the Shilak thaw council follows about three weeks later in a hard year (per F435, F622). Flag F512 (six days roped at ch 13) for an S7 ruling against day twenty at ch 17.",
-      "since": "b02 ch 17"
+      "fact": "Ch 17 is about day ten of the bond (not day twenty), matching F512 (six days roped at ch 13) and F517. Kunal has watched Ila's hands and field book for ten days; the petition margin shows ten strokes and twenty-five empty places of the thirty-five days to the Meadow Cairn's meltwater. Supersedes the day-twenty count in F525 and F712 and the 'three ways in twenty days' in F710.",
+      "since": "s03-bound-till-the-thaw-b02 ch 17"
+    },
+    {
+      "category": "place",
+      "fact": "The storm caught Ila and Kunal about an hour east of the shelf above the Drum; the Eye lay half a night's ice ahead with no roof, so they turned back west to Dhanu's upper hut above the Mirror (F515), the nearest shelter.",
+      "since": "s03-bound-till-the-thaw-b02 ch 17"
+    },
+    {
+      "category": "knowledge",
+      "fact": "At the door Kunal pulls off his gloves to show Ila his dead grey right fingertips, the price of his broken promise (F555), as proof he has nothing hidden about the Eye.",
+      "since": "s03-bound-till-the-thaw-b02 ch 17"
     }
   ]
 }
