@@ -215,7 +215,7 @@
       }
     },
     "08": {
-      "status": "passed",
+      "status": "edited",
       "revisions": 2,
       "scores": {
         "reader_question": 4.0,
@@ -229,8 +229,19 @@
       },
       "average": 3.88,
       "flags": [],
-      "words": 2131,
-      "minimum": 3.0
+      "words": 2128,
+      "minimum": 3.0,
+      "style": {
+        "words": 2128,
+        "banned_hits": {},
+        "ai_tell_hits": {},
+        "ai_tells_per_1000": 0.0,
+        "top_4gram": "a heap of stones",
+        "top_4gram_count": 2,
+        "longest_paragraph_words": 100,
+        "em_dashes_per_1000": 0.47,
+        "reading_ease": 95.4
+      }
     },
     "09": {
       "status": "passed",
@@ -1260,9 +1271,13 @@
     {
       "at": "2026-11-15T21:47:40",
       "event": "done: S8 line edit ch 7"
+    },
+    {
+      "at": "2026-11-15T21:48:06",
+      "event": "done: S8 line edit ch 8"
     }
   ],
-  "updated_at": "2026-11-15T21:47:40",
+  "updated_at": "2026-11-15T21:48:06",
   "midpoint_chapter": 16,
   "continuity_attempts": 1,
   "continuity_last_errors": 3
