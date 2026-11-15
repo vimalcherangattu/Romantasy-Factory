@@ -1,41 +1,42 @@
 {
   "scores": {
     "reader_question": 4.0,
-    "change": 5.0,
-    "romance_movement": 5.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
     "shown_chemistry": 4.0,
-    "character_logic": 4.0,
+    "character_logic": 3.0,
     "stakes_and_cost": 4.0,
     "prose": 4.0,
-    "continuity": 5.0
+    "continuity": 0.0
   },
   "reasons": {
-    "reader_question": "Clear closing image: letter corner under her flat hand, his swallowed question, her unreadable look. The letter's content stays a known, specific gap.",
-    "change": "Knowledge (the ridge told), relationship (lovers), power (names given freely, his mouth bound by promise while she holds the letter).",
-    "romance_movement": "New reason: a disclosure fully met with validation, then lovers. Names stop being a trade, and her silence now costs.",
-    "shown_chemistry": "Raised warm hands, removed bandages laid in a row, broken breath-sets, foot-warming. Some sex-scene lines drift generic.",
-    "character_logic": "Smart throughout, but Kunal saw her sew the letter in, then nearly breaks his promise by reflex. The scope of 'ask nothing back' is fuzzy.",
-    "stakes_and_cost": "Ila prices the promise aloud: a great lie to the hands, names on the queen's map. The dawn pre-chill makes the cost bite at once.",
-    "prose": "Concrete and readable, no banned phrases, few tells. Runs long (likely over 3,300). The explicit scene has stock phrasing and the voice leans on repeated 'She did not' constructions.",
-    "continuity": "Ages, rope, the Eye at twelve, nineteen clipped silvers, Nimmi's Knuckle and the bandages all match. Timeline revisions are logged in new-facts."
+    "reader_question": "The dawn ending sharpens a clear question: the letter shows, his promise bites, and Ila has an unexplained 'number that won't come out.'",
+    "change": "Kunal goes from armoured to known. They become lovers, the name trade becomes a gift, and Ila's silence now costs her a lover's trust.",
+    "romance_movement": "There is a new reason: a full disclosure met responsively, then a costed promise. Her 'I want you' arrives abruptly after his collapse.",
+    "shown_chemistry": "The care is responsive: the measurement-voice answer, her warm hands as proof, feet warmed in his lap, a question swallowed. A few lines narrate instead.",
+    "character_logic": "Ila worked out a one-in-five risk from the Kuhl watchers a chapter ago. She now climbs to a new hut and lights a chulha with no thought for it.",
+    "stakes_and_cost": "Ila names both costs of the promise aloud before he ties it, and the dawn chill proves the cost is real.",
+    "prose": "The prose is clean, with almost no AI tells and no em-dash excess. Weak spots: 'a sound he would not forget', the 'closures' echo and the rope-summary line.",
+    "continuity": "Kunal's fingertips burst open that same day (F533), yet here they have 'mended pink'. His 'I'm not' hurt would also be a bound lie."
   },
   "fixes": [
-    "At \"I'll ask nothing back. Not an answer, not a line\": the promise's scope is vague, so the dawn near-breach reads as forgetfulness (irrational behaviour). As he makes the promise, have his eyes go to her hem and the letter he watched her sew in. Add one line where he registers that the promise covers it and lets it stand. The dawn then shows a chosen cost biting, not a lapse.",
-    "At \"I followed her for two days\" / \"walked into Garh Neshar at noon on the third day\": this drifts from the beat (home in two days), and Ila's \"home in three days\" fixes the drift in her measurement. Make it two days throughout ('at dusk on the second day') so her surveyor's summary is exact. Log 'hill council for eight winters' in new-facts.",
-    "At \"the long climbing heat of it\" and \"the whole mountain gone still\": stock romance phrasing, and the chapter runs over the length band. Cut 250 to 400 words from the explicit scene. Keep the particular beats (the bandages laid in a row, 'Ow / Don't stop', the broken breath-sets) and drop the generic swell lines and the repeated 'went quiet/gone still' images."
+    "Continuity error at 'kissed each pad where the skin had mended pink'. Kunal's tips burst open hours earlier (F533). Make them raw and split, and have her kiss the knuckles above the dressings. Also change his 'I'm not. That's the trouble.' His tips are hurt, so that line is a lie to his bound partner and would whiten them. Use a true line such as 'Not where it matters. That's the trouble.'",
+    "Irrational behaviour at 'The herders' hut stood on the scree above the Drum'. Ila's one-in-five watcher sum vanishes. Add two or three sentences. Ila checks the hut's sight line to the Kuhl shoulder and finds the scree spur hides it. She keeps the chulha to a covered coal, so no flame shows through the smoke hole, and that cold fire is a cost. The external threat stays alive under the love scene.",
+    "The pivot at 'He had no answer. His throat had closed.' jumps too fast from his shaking to her 'I want you'. Add one responsive beat. Let her wait until the shaking stops, or tie her desire to something she watched him do, such as the clipped silver or following the bell. Cut the clichés 'made a sound he would not forget' and 'it had never been the thing that held them.'"
   ],
-  "reader_question": "What does the queen's letter say, and how long can Ila keep it from Kunal now that his own promise forbids him to ask?",
+  "reader_question": "Now that Kunal has promised to ask nothing back, how long can Ila keep the queen's letter from her lover, and what will his promise cost when he breaks?",
   "techniques_landed": [
     9,
     10,
     25
   ],
-  "new_facts_assessment": "All four logged facts are necessary and consistent. The death/ridge timeline (F545) fixes beat drift but obliges S7 to amend F488, F526, F540 and F507's supper 'winter'. The separate scree hut (F546) avoids clashing with F515 and F537. The letter's move to the pattu (F547) sets up the ending. The dawn pre-chill (F548) follows precedent in F239 and F502. Unlogged additions: 'hill council has followed me for eight winters', the herd boy's cheese rind, and the three-day walk home, where the beat says two.",
+  "new_facts_assessment": "new-facts.json is empty, but the draft adds several facts. 1) Kunal clipped the coin corners so the medicine could not be traced to him. This is a plausible new motive, but it should be listed and checked against the bible's 'stamped with a cut corner' mark. 2) Only Ila's mother ever warmed her feet. This is useful setup for the ch25 foot cold. 3) The Widow's Knuckle is older than the Stair. Harmless. 4) The herders' hut is covered by F546. The ridge story details match F545, F636 and F729.",
   "content_rule_violation": false,
   "failure_modes": [
+    "Plot buried by romance",
     "Irrational behaviour to extend plot"
   ],
-  "average": 4.38,
-  "minimum": 4.0,
-  "passed": true
+  "average": 3.38,
+  "minimum": 0.0,
+  "passed": false
 }
