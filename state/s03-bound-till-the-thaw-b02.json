@@ -654,7 +654,7 @@
       }
     },
     "23": {
-      "status": "passed",
+      "status": "edited",
       "revisions": 1,
       "scores": {
         "reader_question": 4.0,
@@ -668,8 +668,19 @@
       },
       "average": 3.88,
       "flags": [],
-      "words": 2905,
-      "minimum": 3.0
+      "words": 2895,
+      "minimum": 3.0,
+      "style": {
+        "words": 2895,
+        "banned_hits": {},
+        "ai_tell_hits": {},
+        "ai_tells_per_1000": 0.0,
+        "top_4gram": "step on the wet",
+        "top_4gram_count": 3,
+        "longest_paragraph_words": 100,
+        "em_dashes_per_1000": 0.0,
+        "reading_ease": 97.1
+      }
     },
     "24": {
       "status": "passed",
@@ -1485,9 +1496,13 @@
     {
       "at": "2026-11-15T21:55:33",
       "event": "done: S8 line edit ch 22"
+    },
+    {
+      "at": "2026-11-15T21:56:06",
+      "event": "done: S8 line edit ch 23"
     }
   ],
-  "updated_at": "2026-11-15T21:55:33",
+  "updated_at": "2026-11-15T21:56:06",
   "midpoint_chapter": 16,
   "continuity_attempts": 1,
   "continuity_last_errors": 3
