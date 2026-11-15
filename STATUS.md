@@ -18,8 +18,7 @@ Last updated: 2026-11-16
 ## In progress
 - s03-bound-till-the-thaw-b02: 32/32 drafted; S7 continuity was patched by hand on 16 Nov
   (Glass Lakes named too early in ch 7-8; Mini missing after the ch 24 raid, fixed in ch 24 and 28).
-  Now revising: 19/32 chapters through the revise loop. Needs-owner: ch 21, 32.
-- Queued next: s03 b03, b04. s01 archived.
+  Now revising (19/32 done; needs-owner ch 21, 32). Queued next: s03 b03, b04. s01 archived.
 
 ## Next step
 - Sat night (Sun 22 Nov, 00:52 IST): factory run, up to 2 passes; Thaw b2 may reach review.
@@ -39,4 +38,3 @@ Last updated: 2026-11-16
   away from the Max plan.
 - `gitops.push` fails quietly when origin/main moves, for example after a publish from another
   session. Merge origin/main and push by hand.
-- Paperback editions are not confirmed or logged for either live book.
