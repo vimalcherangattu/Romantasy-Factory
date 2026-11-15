@@ -1,19 +1,10 @@
 {
   "facts": [
     {
-      "category": "object",
-      "fact": "Dhanu gives Kunal two red-thread walnuts as runner tokens: a boy bearing one is Dhanu's word, and Dhanu comes without asking why until after. Kunal had also carried a third plain walnut for Mini, which he ties with Gauri's red thread.",
-      "why": "needed because the beat requires the walnut rule and the walnuts for Kunal, and the private-face scene requires a walnut for Mini."
-    },
-    {
-      "category": "knowledge",
-      "fact": "Mini, six, once asked Kunal for a walnut with a string like the runners', and he said 'when I'm back'.",
-      "why": "needed because it motivates the private-face walnut scene."
-    },
-    {
-      "category": "knowledge",
-      "fact": "Kunal's dead right fingertips cannot pinch thread, so he ties knots with his teeth and the heel of his hand.",
-      "why": "needed because it follows from the ch 21 injury and makes the knot-tying scene specific."
+      "id": "",
+      "category": "relationship",
+      "fact": "Dhanu has known Kunal thirty years; Kunal is 33.",
+      "since": "s03-bound-till-the-thaw-b02 ch 22"
     }
   ]
 }
