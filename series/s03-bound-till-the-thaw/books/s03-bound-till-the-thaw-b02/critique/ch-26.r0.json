@@ -1,0 +1,42 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 3.0,
+    "stakes_and_cost": 4.0,
+    "prose": 4.0,
+    "continuity": 5.0
+  },
+  "reasons": {
+    "reader_question": "The ending poses a clear double question: no fire or stores in the cleft tonight, and whether he will hate her by morning.",
+    "change": "Dhanu is dead, Gauri is free, two toes are lost, and Kunal knows the sheets exist, so the power and knowledge shifts are real.",
+    "romance_movement": "The bond breaks for a new reason: her right choice, made alone, is now tied to Dhanu's body. His blame comes from grief, as the beat asks.",
+    "shown_chemistry": "He takes her cold unasked, she calls his steps from his arms, and he carries her on split palms. All of it is shown through action, not narration.",
+    "character_logic": "Ila refuses 'what are they for' with no stated reason, his right foot is never checked, and the 'stand on her word' rationale contradicts his blame.",
+    "stakes_and_cost": "Every step costs something: blistered palms, dead toes, Dhanu abandoned on the ice, and a night ahead with no fire.",
+    "prose": "The prose is lean and concrete with strong lines. Flaws: an internal slip on Gauri's wrists, two consecutive paragraphs opening 'Her', and fuzzy escape geography.",
+    "continuity": "Consistent with the lie-cold rules, the loophole, F555's dead fingertips, F562's thirty years and the Pasang/Raghu facts. Only the internal Gauri slip needs fixing."
+  },
+  "fixes": [
+    "At 'She ran badly, bent over, wrists still tied', the text contradicts itself: Kunal has just sawed 'the cloth between her wrists'. Choose one version. Either he cuts only the belt cord and she runs with bound wrists, or her wrists are free and she runs with the bleeding cut he gave her.",
+    "At 'That's free too. I won't say tonight.' the refusal reads as an artificial withholding. Give Ila a stated, costly reason in one or two lines. For example: they are minutes from a spyglass, and any answer about the sheets will send his eyes to her coat. That is the same reason she lied in chapter 25, and the reader knows it.",
+    "At 'because it was what Ila had said, and he would stand on her word' the logic contradicts the blame scene just before it. Replace it with a reason that fits his anger. For example: 'ash' is a lie Raghu cannot test, it is free to say to Raghu, and it keeps Raghu's search off her seams. Also have Kunal check her right boot, or state that he couldn't before dusk."
+  ],
+  "reader_question": "Will Ila and Kunal survive a fireless night in the Eye's cleft, and can he forgive the lie that he now ties to Dhanu's death?",
+  "techniques_landed": [
+    6,
+    13,
+    19
+  ],
+  "new_facts_assessment": "Most new facts are necessary and consistent. 'Boom line' may duplicate F528's 'Where the Drum Answers' seam; S7 should rule whether they are the same feature. Two facts are unlisted: Ila's 'one in ten' figure and the stone-skipping memory at age nine. The blue wool scrap on Dhanu's chest needs an owner, or it will read as a dropped clue.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Artificial misunderstandings",
+    "Irrational behaviour to extend plot"
+  ],
+  "average": 4.0,
+  "minimum": 3.0,
+  "passed": true
+}
