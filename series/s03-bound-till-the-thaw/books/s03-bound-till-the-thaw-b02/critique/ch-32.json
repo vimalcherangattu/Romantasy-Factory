@@ -1,6 +1,6 @@
 {
   "scores": {
-    "reader_question": 5.0,
+    "reader_question": 4.0,
     "change": 4.0,
     "romance_movement": 4.0,
     "shown_chemistry": 4.0,
@@ -10,33 +10,32 @@
     "continuity": 0.0
   },
   "reasons": {
-    "reader_question": "Sharp, stated gaps: where Pritam's unknown east way leads, who gave him the key, which reading of 'carried' is true, and whether Kiran pays.",
-    "change": "Betrothal oath sworn, Under-Cairn sealed, regent loose. Ila admits that what a wall hid was her business. Power and knowledge both shift.",
-    "romance_movement": "An unproven oath, then 'I'll take your word' with the price in view. The reason is new: trust without any mountain to check it.",
-    "shown_chemistry": "Teeth-tied walnut knot, her stillness through it, and the 'knock against my rule' banter show care through action.",
-    "character_logic": "The secretive queen reads the archive's meaning before Bindu and wardens without hesitation. Lata's wool convoy six months early lacks a reason.",
-    "stakes_and_cost": "To follow Pritam they must bind again, without a lie-sign. Ila loses her proof. The queen's seal is a costed holding action.",
-    "prose": "Mostly clean and concrete. 'No one spoke/answered/asked' recur, 'entirely ordinary/real' echo, and Bindu's bible trait is narrated as a label.",
-    "continuity": "'Three weeks of thaw' conflicts with F622 (Shilak thaw on day 56, reading about day 60). The rider arrives up the lower path, not over the Saddle."
+    "reader_question": "Two sharp questions leave the chapter: which reading of 'carried' is true, and what Pritam wants on the undrawn east way.",
+    "change": "Knowledge, power and relationship all shift: the glyph is read, the Under-Cairn is sealed, Pritam is free, Ila's measured void becomes her error, and the oath is sworn.",
+    "romance_movement": "The oath is chosen without proof, and 'I'll take your word' gives a new reason for trust now that Kunal's fingers cannot show a lie.",
+    "shown_chemistry": "Kunal knotting the walnut with his teeth while she stands still is earned and specific. 'I'll know when you're coming' lands.",
+    "character_logic": "The rider's timing is impossible. Ila shows no cost for keeping the east line off a Shared Map she called complete.",
+    "stakes_and_cost": "Following Pritam means binding again with no lie-proof partner, so the cost is named and chosen.",
+    "prose": "Clean and concrete, but heavy 'said Ila/said Kunal' inversions, some tags explained by narration, and a clunky Lata exposition.",
+    "continuity": "Lata's drover leg and the Taravan map-song can't fit days 56 to 61 (F618). The first-night east line is misplaced at the Hollow Moon (F443, F444)."
   },
   "fixes": [
-    "In 'Three weeks of thaw had left the ground below it black and running' (continuity): Shilak's thaw was day 56 and this dusk is about day 60. Change it to 'Four days of thaw'. Also change Kunal's 'Last winter the cold told you' to 'This winter the cold told you', since the winter has only just ended.",
-    "In 'a horse blown to staggering on the lower path' (continuity/geography): the beat brings the rider over the Saddle from Garh Neshar, but the lower path climbs from Kothi Shilak. Have him come down the pass track leading a lamed pony off the snow. Change 'The tracks are two days old' to 'were two days old when the council's scouts found them', so it matches 'three nights ago'.",
-    "In 'first account I've ever been given that doesn't balance' (pre-empting Book 3, whose proof is her 'first unbalanced account'): keep Lata's books balanced. Use 'Then Ranu owes somebody a name. I'll collect it.' Give the early convoy a concrete motive in one line: she is storing wool in the salt house before the Guild sets winter prices."
+    "Lata scene, 'They sing about your map in the Taravan taverns' and 'A Neshar drover told me a story at the Taravan inns': this is a timeline conflict. The map was signed about two days ago, and Taravan lies days downriver. Have Lata meet the council's drover on the road below Kothi Shilak this morning. Change the song line to drovers already arguing over her spelling. Say she planned the convoy weeks before the thaw.",
+    "Rider, 'He was, three nights ago' and 'tracks were two days old': escape, scouting, and a two-day Saddle crossing cannot fit into three nights, so the plot looks contrived. Make it 'six nights ago', with tracks a day old when found and the rider four days on the road. Let Gopal note that the lamed pony shows the pace.",
+    "'She found the east wall of the Hollow Moon': the first-night broken line was seen near the Meadow Cairn along the Shepherd's Stair points (F443, F444), not at the Hollow Moon. Anchor the dotted line from that shoulder bearing. Add one sentence where Ila admits she kept this line off the Shared Map she signed, and that it cost her."
   ],
-  "reader_question": "Where is Pritam going on the east way no map shows, who gave him the key, and will the fourth winter demand a death, perhaps Kiran's?",
+  "reader_question": "Is the Bargain owed as a death or as a crossing, and what is Pritam going east to find on the way only bound pairs can see?",
   "techniques_landed": [
     3,
     20,
     26
   ],
-  "new_facts_assessment": "The drover route is consistent and gets the story to Lata; retire F629's Ranu visit. Meera's blank ruled line fits the count's habit (F181) and is a good Book 3 plant. The walnut origin follows F559, not F624; reconcile F624. Unlisted: Lata's early convoy, which needs a motive.",
+  "new_facts_assessment": "Lata storing wool before Guild winter pricing is plausible and sets up Book 3. 'Her books stay balanced' is not on the page; cut it from the facts file or show it. The draft also adds unlisted facts: Bindu's thaw glyph, the chronicle wording, the warden guard, the Pritam stair and postern key, and the drover story. Most match F625 to F631, but they should be declared. The walnut provenance follows F559 and contradicts provisional F624; retire F624.",
   "content_rule_violation": false,
   "failure_modes": [
-    "Irrational behaviour to extend plot",
     "Worldbuilding collapse"
   ],
-  "average": 3.38,
+  "average": 3.25,
   "minimum": 0.0,
   "passed": false
 }

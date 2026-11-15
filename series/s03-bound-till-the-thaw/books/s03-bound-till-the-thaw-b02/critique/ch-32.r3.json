@@ -1,0 +1,41 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 3.0,
+    "stakes_and_cost": 4.0,
+    "prose": 3.0,
+    "continuity": 0.0
+  },
+  "reasons": {
+    "reader_question": "Two sharp questions leave the chapter: which reading of 'carried' is true, and what Pritam wants on the undrawn east way.",
+    "change": "Knowledge, power and relationship all shift: the glyph is read, the Under-Cairn is sealed, Pritam is free, Ila's measured void becomes her error, and the oath is sworn.",
+    "romance_movement": "The oath is chosen without proof, and 'I'll take your word' gives a new reason for trust now that Kunal's fingers cannot show a lie.",
+    "shown_chemistry": "Kunal knotting the walnut with his teeth while she stands still is earned and specific. 'I'll know when you're coming' lands.",
+    "character_logic": "The rider's timing is impossible. Ila shows no cost for keeping the east line off a Shared Map she called complete.",
+    "stakes_and_cost": "Following Pritam means binding again with no lie-proof partner, so the cost is named and chosen.",
+    "prose": "Clean and concrete, but heavy 'said Ila/said Kunal' inversions, some tags explained by narration, and a clunky Lata exposition.",
+    "continuity": "Lata's drover leg and the Taravan map-song can't fit days 56 to 61 (F618). The first-night east line is misplaced at the Hollow Moon (F443, F444)."
+  },
+  "fixes": [
+    "Lata scene, 'They sing about your map in the Taravan taverns' and 'A Neshar drover told me a story at the Taravan inns': this is a timeline conflict. The map was signed about two days ago, and Taravan lies days downriver. Have Lata meet the council's drover on the road below Kothi Shilak this morning. Change the song line to drovers already arguing over her spelling. Say she planned the convoy weeks before the thaw.",
+    "Rider, 'He was, three nights ago' and 'tracks were two days old': escape, scouting, and a two-day Saddle crossing cannot fit into three nights, so the plot looks contrived. Make it 'six nights ago', with tracks a day old when found and the rider four days on the road. Let Gopal note that the lamed pony shows the pace.",
+    "'She found the east wall of the Hollow Moon': the first-night broken line was seen near the Meadow Cairn along the Shepherd's Stair points (F443, F444), not at the Hollow Moon. Anchor the dotted line from that shoulder bearing. Add one sentence where Ila admits she kept this line off the Shared Map she signed, and that it cost her."
+  ],
+  "reader_question": "Is the Bargain owed as a death or as a crossing, and what is Pritam going east to find on the way only bound pairs can see?",
+  "techniques_landed": [
+    3,
+    20,
+    26
+  ],
+  "new_facts_assessment": "Lata storing wool before Guild winter pricing is plausible and sets up Book 3. 'Her books stay balanced' is not on the page; cut it from the facts file or show it. The draft also adds unlisted facts: Bindu's thaw glyph, the chronicle wording, the warden guard, the Pritam stair and postern key, and the drover story. Most match F625 to F631, but they should be declared. The walnut provenance follows F559 and contradicts provisional F624; retire F624.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Worldbuilding collapse"
+  ],
+  "average": 3.25,
+  "minimum": 0.0,
+  "passed": false
+}
