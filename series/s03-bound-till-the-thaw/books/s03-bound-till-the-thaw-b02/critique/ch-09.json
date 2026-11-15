@@ -4,40 +4,36 @@
     "change": 4.0,
     "romance_movement": 4.0,
     "shown_chemistry": 4.0,
-    "character_logic": 3.0,
-    "stakes_and_cost": 3.0,
+    "character_logic": 4.0,
+    "stakes_and_cost": 4.0,
     "prose": 4.0,
     "continuity": 5.0
   },
   "reasons": {
-    "reader_question": "The toppled 'door' with the line gone dark beyond it is a specific, urgent gap. Raghu's purpose (digging) is not raised.",
-    "change": "Ila now knows Raghu passed the door and the line north is lost. She has put an enemy on the sheet and told Kunal.",
-    "romance_movement": "This is a new reason to move: she lets him carry her instrument and gives more than he asked. His 'afraid of you' gains weight.",
-    "shown_chemistry": "The silent laugh felt through the rope and the warm lead are strong responsive care. 'A feeling she could not file' edges into narration.",
-    "character_logic": "A surveyor would know that two identical bearings give no fix, yet she 'fixes' the fire from them. The loud laugh breaks their silence pact.",
-    "stakes_and_cost": "The slope crossing has real odds. Drawing the camp costs almost nothing, since Kunal says he'd have drawn it himself, so the dilemma is soft.",
-    "prose": "The voice is concrete and witty ('a thing she owed money to'). 'The rope between them' appears three times, at the limit. Two consecutive paragraphs open with 'She'.",
-    "continuity": "The rope length, rope-scrape, Hollow Moon name, archive file (F426), eleven winters and hum rules all agree. Bearings match F475."
+    "reader_question": "The toppled door and the dark line beyond it leave a sharp question. Raghu's digging, the beat's stated question, is not on the page yet.",
+    "change": "Ila now has the camp and the shepherds' line on her sheet, and they have learned that Raghu kills roads deliberately.",
+    "romance_movement": "This is the first time she lets him carry her instruments. His 'That's why I'm afraid of you' grows into something new.",
+    "shown_chemistry": "The warm pencil, the smothered laugh and his deferral on the slope are all shown. One line, 'felt something she could not file', narrates instead.",
+    "character_logic": "Mostly sharp. Two slips: dull stones at dawn prove nothing, and Kunal explains cairn-light lore that Ila already knows (F664).",
+    "stakes_and_cost": "Real one-in-five odds on the slope. Drawing the line costs Kunal's way, and the chapter ends with no path north.",
+    "prose": "Concrete and well varied. Flaws: one self-contradicting sentence, 'a stated odds', two consecutive 'She' openers, and 'July' in a world reckoned by winters.",
+    "continuity": "Bearings, distances, the song, the rope length and the archive refusal all match the facts. No conflicts found."
   },
   "fixes": [
-    "At 'The bearing of the fire had come out the same', the triangulation is broken (failure mode: irrational behaviour). Identical bearings from two stations give no fix. Give different bearings, about 315 from the cliff and about 290 from the fifth cairn, so the intersection fixes a mile and an eighth. Have Ila note the angle is wide enough to trust.",
-    "At 'a sheet that showed a camp on the Hollow Moon's west lip', the choice has no cost (failure mode: stakes without depth). Kunal wants the watchers found, so drawing them hurts no one. Make the true cost that fixing the camp forces her to ink the cairn line she stood on, the shepherds' way itself. She draws both and tells him. His 'every line I'd have drawn' then becomes 'except that one'.",
-    "At 'the line that should have gone on north', a new magic rule appears unprepared (failure mode: convenient magic). Have Kunal link it aloud to the fourth light dying on the Stair (F444): a broken keeper cairn kills the light. Add the rule to new-facts. At 'It's Raghu's', have him name the crossed-hatch clapper as Raghu's own variant of the regent's store-bell."
+    "'She could draw neither. She could not draw one' contradicts itself, because she then draws both. This is a character-logic slip. Cut 'She could draw neither.' Replace 'It was true. It was there. And she had never chosen...' with one clear choice line, for example: 'Leaving it off would be choosing. She drew.'",
+    "'Now they lay dull in the grey light' fails as evidence, since daylight dims every cairn (F505). Set the discovery in the last dark before dawn: the cairns behind them still glow blue, and there is nothing past the door. Have Ila say the chain-girl rule herself (F664). Kunal then adds only what is new: Hari's hut and 'on purpose'.",
+    "Prose fixes. Change 'Is that a stated odds' to 'Is that the odds, or a comfort?'. Change 'Last July' to 'Last summer'. Recast 'She sat with the pencil an inch above the paper' so it doesn't follow 'She had paced...' with the same opening word. Cut 'she felt something she could not file' and let the pencil gesture carry it."
   ],
-  "reader_question": "With the route-keeper cairn torn down and the winter line dark beyond it, how do Ila and Kunal go on, and how far ahead is Raghu?",
+  "reader_question": "With the winter line dead beyond Raghu's broken door, how do Ila and Kunal go on north, and what is Raghu deliberately clearing the road toward?",
   "techniques_landed": [
     6,
     9,
     10
   ],
-  "new_facts_assessment": "The song, cairn spacing, slope, leads, name trade, camp drawing and door cairn are all necessary and consistent. One implied rule is not declared: toppling a route-keeper cairn darkens the winter line beyond it. It needs listing and tying to F444. Raghu's bell risks being confused with the regent's store-bell (F217/F220) and should be distinguished.",
+  "new_facts_assessment": "F687 (a toppled keeper cairn darkens the line) is needed and settles F664, but Ila should voice it since she knows the lore. F688 (crossed clapper) is consistent with F679 but optional. F689's bearings check out geometrically: 315 to 290 moving north.",
   "content_rule_violation": false,
-  "failure_modes": [
-    "Irrational behaviour to extend plot",
-    "Stakes without depth",
-    "Convenient magic"
-  ],
-  "average": 3.88,
-  "minimum": 3.0,
+  "failure_modes": [],
+  "average": 4.12,
+  "minimum": 4.0,
   "passed": true
 }
