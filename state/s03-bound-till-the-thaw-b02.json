@@ -482,12 +482,22 @@
       "minimum": 3.0
     },
     "27": {
-      "status": "drafted",
+      "status": "failed",
       "revisions": 0,
-      "scores": {},
-      "average": null,
+      "scores": {
+        "reader_question": 5.0,
+        "change": 4.0,
+        "romance_movement": 5.0,
+        "shown_chemistry": 4.0,
+        "character_logic": 3.0,
+        "stakes_and_cost": 4.0,
+        "prose": 4.0,
+        "continuity": 0.0
+      },
+      "average": 3.62,
       "flags": [],
-      "words": 2758
+      "words": 2758,
+      "minimum": 0.0
     },
     "28": {
       "status": "pending",
@@ -934,8 +944,12 @@
     {
       "at": "2026-11-15T20:25:16",
       "event": "done: S4 draft ch 27"
+    },
+    {
+      "at": "2026-11-15T20:26:26",
+      "event": "done: S5 critique ch 27"
     }
   ],
-  "updated_at": "2026-11-15T20:25:16",
+  "updated_at": "2026-11-15T20:26:26",
   "midpoint_chapter": 16
 }

@@ -1,0 +1,41 @@
+{
+  "scores": {
+    "reader_question": 5.0,
+    "change": 4.0,
+    "romance_movement": 5.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 3.0,
+    "stakes_and_cost": 4.0,
+    "prose": 4.0,
+    "continuity": 0.0
+  },
+  "reasons": {
+    "reader_question": "Gauri's line, plus Raghu's white fingertips from ch 26 and the whistle, gives a sharp question: who wrote the note over a dead man?",
+    "change": "Kunal chooses her over vengeance. Ila nearly makes her grandfather's payment. The ransom's premise collapses at dawn.",
+    "romance_movement": "The new reason is love proven while trust stays broken: 'you'd be right, and I hate it.' The feet held all night carry it.",
+    "shown_chemistry": "Responsive action carries it: the turn at fifteen spans, the bare belly, the grip that 'held on', 'Pick one.' A few lines tell rather than show.",
+    "character_logic": "Both choices are smart and in character, but the untied-rope staging makes Ila's 'one long pull' option physically impossible, which weakens the central choice.",
+    "stakes_and_cost": "Her refusal to pull risks both their lives, and his walk risks them too. The near-folded gloves carry real cost, as does the toes ledger.",
+    "prose": "Concrete and well varied. Some echoes: 'patient' twice, 'ruined hands' twice, 'terrible', and 'had not known she was crying' sits near a cliché.",
+    "continuity": "Conflicts: 'nineteen chronicles' and 'read at nineteen' were revised by F500; the gloves detail came from her father (F236/F490); 'tidy man's habit' contradicts F524."
+  },
+  "fixes": [
+    "'put the rope's knot to his teeth' through 'The rope's end trailed after him': Worldbuilding collapse and Character logic. An untied rope can't go taut, trail past eight spans or carry a pull. Have Kunal untie it but wrap the free end round his fist. At eight spans it goes taut, and Ila's one-long-pull choice happens there. She doesn't pull. He lets the end drop and walks on. Cut the later 'trailed after him' line.",
+    "'She had read that sentence nineteen times in nineteen chronicles': Continuity. F500 retires 'nineteen chronicles', and the gloves detail came from her father drunk (F236) and his 'set out for the morning' (F490), not the chronicles. Rewrite as her father's sentence, heard once and turned over since, and confirmed in the queen's hand. Also change 'read it in the post chronicles at nineteen' to 'in every chronicle the survey office held'.",
+    "'She had thought it was a tidy man's habit': Continuity and Static heroine. In ch 16 (F524) she already read the gloves as a deliberate payment-sign, so this 'discovery' regresses. Replace it with a new understanding: she has known what the gloves meant, but now she feels why a cold, unforgiven person would choose it. Then 'Not on a guess' becomes her refusal of a known door."
+  ],
+  "reader_question": "If Dhanu was dead before the ransom note was written, who wrote it, and what was Raghu really after?",
+  "techniques_landed": [
+    18,
+    20,
+    22
+  ],
+  "new_facts_assessment": "F586 (Gauri, the cut shirt, dead before the note) is necessary, consistent with ch 26's bread-check and Raghu's lie, and fairly set up. F587 (untied rope) is consistent with F009 and F561, but the draft then has the rope go taut against Ila's wrist, 'trail after him' past eleven spans and stay pullable, all impossible once it is untied. Two unlisted facts conflict: 'nineteen chronicles' and 'read at nineteen' contradict F500; the gloves sentence appearing in chronicles contradicts F236 and F490.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Worldbuilding collapse"
+  ],
+  "average": 3.62,
+  "minimum": 0.0,
+  "passed": false
+}
