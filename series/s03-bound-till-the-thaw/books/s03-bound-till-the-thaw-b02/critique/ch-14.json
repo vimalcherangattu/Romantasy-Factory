@@ -1,0 +1,41 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 3.0,
+    "stakes_and_cost": 4.0,
+    "prose": 3.0,
+    "continuity": 0.0
+  },
+  "reasons": {
+    "reader_question": "The ending is a sharp, specific image: he sets down the pot facing white hands. Will he take her cold and learn she lied?",
+    "change": "Ila moves from control to self-inflicted harm. Kunal's trust peaks on a lie, so the knowledge gap now favours the reader.",
+    "romance_movement": "His relief ('Good. I'd hoped.') makes the lie land where trust is highest. The reason is new: fear of being turned back.",
+    "shown_chemistry": "The trust is in action: boots in her marks, the warm pencil lead, the ash smear she doesn't mention, the bowl lifted from her lap.",
+    "character_logic": "The main lie is well argued, because a refusal would read as yes. But Ila, a rule expert, then tells further lies she treats as free.",
+    "stakes_and_cost": "Frostnip is paid on the page and the sealed letter stays unread. 'Show me your hands' turns the rule's logic against her.",
+    "prose": "Mostly clean and concrete. It has anachronisms ('scooted', 'park a house'), a muddled Meera line, and runs of paragraphs that open with 'She'.",
+    "continuity": "'It's the storm' and 'It's nothing' are lies to her bound partner that cost nothing, which breaks F010/F011. The cook's-shoulder crag conflicts with ch13's Raven Spur."
+  },
+  "fixes": [
+    "At \"It's the storm. I've been wet since the scree\": the rule is suspended, which is worldbuilding collapse, because lies to a bound partner always cost. Let it bite instead. As she says 'It's the storm' and 'It's nothing', the white climbs from the first knuckle to the second. That earns the ending's 'It had climbed'. Cut 'That was nearly true... a coat to wear' and replace it with her feeling the climb and knowing she paid for it.",
+    "At \"a bearing off a crag named for her own cook's shoulder\": this is a continuity error, since ch13's bearings were taken off the Raven Spur (F510). Change it to 'two bearings off the Raven Spur'. Also fix \"the woman who had carved her own fingers in the count\". It is muddled and seems to mean Meera. Write 'Meera, who had lost two fingers to one lie, told it flatly'.",
+    "At \"She scooted closer to the fire\" and \"ice you could park a house on\": modern idiom breaks the period voice. Use 'She shifted closer' and 'ice you could build a house on'. Then vary the paragraph openings in the answer section. 'She had known', 'She thought of', 'She saw it plainly' and 'She could refuse' run consecutively. Open two of them with the object or action instead, for example 'The letter...' and 'Refusal was free...'."
+  ],
+  "reader_question": "Will Kunal take Ila's lie-cold by touch, and once he knows she lied about her orders, will he turn them back?",
+  "techniques_landed": [
+    13,
+    14
+  ],
+  "new_facts_assessment": "The hut, the Sleeper's Spine and the six-day letter are necessary and consistent. The letter sits in the coat lining, matching F438 rather than the beat's 'pattu', which is correct. Three facts are unlisted. 'She had never once refused' is plausible. Meera telling the lie-cold story in the Garh hall is fine. A Mirror bearing taken off a crag named for her cook conflicts with F510's Raven Spur and should be cut.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Worldbuilding collapse",
+    "Irrational behaviour to extend plot"
+  ],
+  "average": 3.25,
+  "minimum": 0.0,
+  "passed": false
+}
