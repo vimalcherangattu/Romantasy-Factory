@@ -10,8 +10,8 @@
   ],
   "chapters": {
     "01": {
-      "status": "failed",
-      "revisions": 1,
+      "status": "revised",
+      "revisions": 2,
       "scores": {
         "reader_question": 4.0,
         "change": 4.0,
@@ -24,7 +24,7 @@
       },
       "average": 3.38,
       "flags": [],
-      "words": 3254,
+      "words": 2817,
       "minimum": 0.0,
       "style": {
         "words": 3097,
@@ -1803,9 +1803,13 @@
     {
       "at": "2026-11-15T22:12:15",
       "event": "done: S5 critique ch 1"
+    },
+    {
+      "at": "2026-11-15T22:13:55",
+      "event": "done: S6 revise ch 1"
     }
   ],
-  "updated_at": "2026-11-15T22:12:15",
+  "updated_at": "2026-11-15T22:13:55",
   "midpoint_chapter": 16,
   "continuity_attempts": 0,
   "continuity_last_errors": null,
