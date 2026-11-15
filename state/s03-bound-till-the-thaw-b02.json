@@ -604,8 +604,8 @@
       ]
     },
     "19": {
-      "status": "failed",
-      "revisions": 0,
+      "status": "revised",
+      "revisions": 1,
       "scores": {
         "reader_question": 4.0,
         "change": 4.0,
@@ -618,7 +618,7 @@
       },
       "average": 3.25,
       "flags": [],
-      "words": 2587,
+      "words": 2723,
       "minimum": 0.0,
       "style": {
         "words": 2379,
@@ -2001,9 +2001,13 @@
     {
       "at": "2026-11-15T23:05:11",
       "event": "done: S5 critique ch 19"
+    },
+    {
+      "at": "2026-11-15T23:06:11",
+      "event": "done: S6 revise ch 19"
     }
   ],
-  "updated_at": "2026-11-15T23:05:11",
+  "updated_at": "2026-11-15T23:06:11",
   "midpoint_chapter": 16,
   "continuity_attempts": 0,
   "continuity_last_errors": null,
