@@ -1,0 +1,41 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 3.0,
+    "character_logic": 4.0,
+    "stakes_and_cost": 4.0,
+    "prose": 4.0,
+    "continuity": 5.0
+  },
+  "reasons": {
+    "reader_question": "Clear question: what will Ila do with the whole princes' way, and what lies past Pritam's turn? The final paused pencil sharpens it.",
+    "change": "Kunal goes from hoarder to giver by an open choice. Dhanu's dissent and the council's coming question raise the price.",
+    "romance_movement": "He commits before knowing her answer, a new reason drawn from Dhanu's charge. Ila is on page only at the close.",
+    "shown_chemistry": "Ila's silence about his fingers and the 'ugly' banter land well, but there is only one short shared beat.",
+    "character_logic": "Kunal answers Dhanu's strong garrison case with evidence, not passion. Dhanu's walnut setup is shrewd and in character.",
+    "stakes_and_cost": "The cost is irreversible and named: the council may want his head, the hills pay if she hands it over.",
+    "prose": "Concrete and well paced. It reuses images from ch21 ('sharp as a hair', tips 'like pebbles') and repeats the 'made himself say' construction.",
+    "continuity": "Ages, the Eye at twelve, nine holes, Raghu's four, seven winters of bones and Gauri's thread all match. Minor inference slips only."
+  },
+  "fixes": [
+    "At 'She would not tell him what she meant to do': this misattributes. Ila promised to tell the letter's contents, and Kunal never heard Dhanu ask her about the map. Rewrite as Kunal's own inference: 'He did not know what she meant to do with the way. He had not asked, and her one promise covered a letter, not this.'",
+    "At 'sharp as a hair' and 'lay against the shell like pebbles': these repeat distinctive images from ch21 (the shore-path line and the dead tips 'like cold pebbles'). Replace both with fresh, Kunal-specific images. Also change the second 'He made himself say it' to a plain action beat.",
+    "At 'She laughed, short and sudden and loud': the chemistry is thin because Ila has only one exchange. Add one responsive action before his declaration, for example Ila taking the threadless tail and trimming it straight with her pencil knife without asking. That shows care that answers his hands, then cut back to his speech."
+  ],
+  "reader_question": "Now that Kunal will give Ila the whole princes' way and beyond, what will she do with it, and what waits past the turn where Pritam stopped him?",
+  "techniques_landed": [
+    3,
+    15,
+    25
+  ],
+  "new_facts_assessment": "Dhanu knowing Kunal thirty years fits Kunal at 33 and Dhanu as oldest friend, which also arms the bible's real-loss route-keeper death. It is necessary and consistent. The three walnuts and Mini's request are good plants.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Narrated-only chemistry"
+  ],
+  "average": 4.0,
+  "minimum": 3.0,
+  "passed": true
+}

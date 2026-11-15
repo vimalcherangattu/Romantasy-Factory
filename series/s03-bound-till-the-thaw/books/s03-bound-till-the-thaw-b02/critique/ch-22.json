@@ -6,36 +6,36 @@
     "shown_chemistry": 3.0,
     "character_logic": 4.0,
     "stakes_and_cost": 4.0,
-    "prose": 3.0,
-    "continuity": 0.0
+    "prose": 4.0,
+    "continuity": 5.0
   },
   "reasons": {
-    "reader_question": "Dhanu's 'Ask her what she'll do with it' plus Ila's hand on her hem leaves a sharp, one-sentence question.",
-    "change": "Kunal moves from parcelling secrets to an open, irreversible gift. The hoarder-to-giver shift is clear and earned.",
-    "romance_movement": "The reason is new: he gives before he knows her answer. Ila is present only at the end, so the movement is mostly decided offstage from her.",
-    "shown_chemistry": "The doorway beat (lopsided knot, her loud laugh, her silence about his fingers) is good but short. Most of the chapter is Kunal with Dhanu.",
-    "character_logic": "Kunal's case is factual, and Dhanu's objection is the strongest legitimate one. Both argue like smart people.",
-    "stakes_and_cost": "Council exposure, a gift he can't take back and 'I'll stand in the hall and hear it' make the cost concrete.",
-    "prose": "Several 'like a man...' similes, a weak 'like a log' simile, an out-of-world 'God help him', and an ending image recycled from chapter 21.",
-    "continuity": "The walnut-grove scene with Pinku was last winter (Book 1), not 'seven winters ago', which conflicts with F215 and F449."
+    "reader_question": "Clear question: what will Ila do with the whole princes' way, and what lies past Pritam's turn? The final paused pencil sharpens it.",
+    "change": "Kunal goes from hoarder to giver by an open choice. Dhanu's dissent and the council's coming question raise the price.",
+    "romance_movement": "He commits before knowing her answer, a new reason drawn from Dhanu's charge. Ila is on page only at the close.",
+    "shown_chemistry": "Ila's silence about his fingers and the 'ugly' banter land well, but there is only one short shared beat.",
+    "character_logic": "Kunal answers Dhanu's strong garrison case with evidence, not passion. Dhanu's walnut setup is shrewd and in character.",
+    "stakes_and_cost": "The cost is irreversible and named: the council may want his head, the hills pay if she hands it over.",
+    "prose": "Concrete and well paced. It reuses images from ch21 ('sharp as a hair', tips 'like pebbles') and repeats the 'made himself say' construction.",
+    "continuity": "Ages, the Eye at twelve, nine holes, Raghu's four, seven winters of bones and Gauri's thread all match. Minor inference slips only."
   },
   "fixes": [
-    "'seven winters ago in a manner of speaking': this is a continuity error. The Ranu grove scene with Pinku happened last winter (Book 1, ch 24; Pinku was six, now seven). Change it to 'last winter, in Ranu' and cut 'in a manner of speaking'.",
-    "'her hand went flat to the hem of her pattu': the chapter ends on the image that closed chapter 21 (and appeared in ch 13), so the image is recycled. End instead on a fresh, specific response from Ila, for example a pencil lead stopping mid-roll in her fingers or a pace count she begins under her breath. Keep her answer withheld.",
-    "'like a man closing a purse' / 'like a man who's swallowed a coal' / 'like a man naming an enemy': repeated simile frame. Keep the purse image. Recast the coal line as plain observation, and cut 'like a man naming an enemy'. Replace 'quietly, like a log' with a concrete image, and change 'God help him' to an in-world oath or remove it."
+    "At 'She would not tell him what she meant to do': this misattributes. Ila promised to tell the letter's contents, and Kunal never heard Dhanu ask her about the map. Rewrite as Kunal's own inference: 'He did not know what she meant to do with the way. He had not asked, and her one promise covered a letter, not this.'",
+    "At 'sharp as a hair' and 'lay against the shell like pebbles': these repeat distinctive images from ch21 (the shore-path line and the dead tips 'like cold pebbles'). Replace both with fresh, Kunal-specific images. Also change the second 'He made himself say it' to a plain action beat.",
+    "At 'She laughed, short and sudden and loud': the chemistry is thin because Ila has only one exchange. Add one responsive action before his declaration, for example Ila taking the threadless tail and trimming it straight with her pencil knife without asking. That shows care that answers his hands, then cut back to his speech."
   ],
-  "reader_question": "What will Ila do with the princes' way once Kunal has given it to her, and what lies past the turn where Pritam stopped him?",
+  "reader_question": "Now that Kunal will give Ila the whole princes' way and beyond, what will she do with it, and what waits past the turn where Pritam stopped him?",
   "techniques_landed": [
     3,
     15,
     25
   ],
-  "new_facts_assessment": "The walnut tokens, Mini's request and the teeth-and-heel knot-tying are all necessary and consistent with F473, F534 and F555. The draft also adds one unlisted fact that is wrong: Pinku's grove walnut dated 'seven winters ago'. Dhanu knowing Kunal thirty years is plausible (Kunal is 33) but unlisted; add it to the facts.",
+  "new_facts_assessment": "Dhanu knowing Kunal thirty years fits Kunal at 33 and Dhanu as oldest friend, which also arms the bible's real-loss route-keeper death. It is necessary and consistent. The three walnuts and Mini's request are good plants.",
   "content_rule_violation": false,
   "failure_modes": [
-    "Repetitive tension"
+    "Narrated-only chemistry"
   ],
-  "average": 3.25,
-  "minimum": 0.0,
-  "passed": false
+  "average": 4.0,
+  "minimum": 3.0,
+  "passed": true
 }
