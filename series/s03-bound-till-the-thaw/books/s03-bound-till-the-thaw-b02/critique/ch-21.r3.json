@@ -1,0 +1,41 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 2.0,
+    "stakes_and_cost": 4.0,
+    "prose": 4.0,
+    "continuity": 0.0
+  },
+  "reasons": {
+    "reader_question": "The reader carries out three sharp questions: can she tell before the Meadow Cairn runs, can his ruined hands climb tonight, and true for whom.",
+    "change": "Her silence becomes a dated debt, Kunal is maimed, and her map creed cracks. Power, knowledge and the relationship all change.",
+    "romance_movement": "The reason is new: an oath-breaking promise with a thaw date. Kunal choosing to push for her date is fresh. His ch20 gift is undone cheaply.",
+    "shown_chemistry": "Hands held in view, her obeying 'Don't', holding only the palm, his watching her draw. The care is responsive, not narrated.",
+    "character_logic": "Kunal maims his climbing hands on purpose, a day after the vow, for a tactical answer Ila could give freely. She lets him pay first.",
+    "stakes_and_cost": "Archive oath, dead fingertips before the cleft, and a thaw date nobody can predict. The costs are concrete and personal.",
+    "prose": "Mostly clean and concrete. One muddled gloves sentence, a doubled 'end of his string' line, and some 'He did not' stacking.",
+    "continuity": "'Your letter has been in your hem since the Stair' conflicts with F542/F547: she moved it into the pattu hem last night."
+  },
+  "fixes": [
+    "Continuity. At 'Your letter has been in your hem since the Stair', Kunal misstates the facts: he watched her move it into the hem last night (F547), and she has carried it since Garh Neshar. Change the line to 'You've carried that letter since Garh Neshar, and last night you sewed it into your hem.'",
+    "Irrational behaviour. At 'So I'll ask where you can see it.', Ila already holds the free tactical answer ('Raghu's four don't need my letter'). Have her say it before he asks. Then his question must be emotional, not tactical, and Ila names it as his counting again. That makes the broken promise a regression the story treats as harm, and it ties to his false belief.",
+    "Prose. Two lines need rewriting. 'and then she would have told him her grandfather's gloves lay palms together' is tangled; recast it as two plain sentences: saying it would not mend his fingers, and it would lead straight to the gloves on the stone and Neshar's part. The doubled 'He's at the end of his string' reads as a glitch; give Ila a varied, wry echo instead."
+  ],
+  "reader_question": "Will Ila get through the mountain and tell Kunal the letter before the Meadow Cairn thaws, and what will a true map be true for?",
+  "techniques_landed": [
+    14,
+    15,
+    22
+  ],
+  "new_facts_assessment": "F557 applies the loophole consistently and logically. F558 gives a motive, but it is thin, because Ila answers it in one free sentence. The bigger issue is permanent dead fingertips for Kunal. The beat had the refusal cost only his face. This injury is off-outline and constrains the cleft climb and later hand-dependent beats. S2 should rule on it or record it as a real loss.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Irrational behaviour to extend plot"
+  ],
+  "average": 3.25,
+  "minimum": 0.0,
+  "passed": false
+}
