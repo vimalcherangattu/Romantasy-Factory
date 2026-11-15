@@ -4,36 +4,38 @@
     "change": 4.0,
     "romance_movement": 4.0,
     "shown_chemistry": 4.0,
-    "character_logic": 4.0,
+    "character_logic": 3.0,
     "stakes_and_cost": 4.0,
     "prose": 4.0,
-    "continuity": 0.0
+    "continuity": 5.0
   },
   "reasons": {
-    "reader_question": "The rubbing's unread word and the queen's private request make a sharp question. Why she needs it alone is implied but never framed.",
-    "change": "Ila loses the commission, Neshar gains self-rule, and the map belongs to both courts. Ila's emotional turn is muted ('felt very calm').",
-    "romance_movement": "The new reason is unverifiable faith: the 'say something false' test, grey tips that can't testify, Dhanu's Rest, and her palm on him in public.",
-    "shown_chemistry": "Responsive acts carry it: he lurches when she lurches, she lays the gloves, he 'knows it', and his hand lies flat beside hers.",
-    "character_logic": "Ila breaks the oath in public on purpose, which is smart. The queen's dry 'already been paid' fits her pardon-signing habit.",
-    "stakes_and_cost": "Losing the commission is a real, costed price. The final request has no visible cost: Kiran asked to be told first.",
-    "prose": "Spare and often quotable ('like a tooth'). It repeats ch30's warm-as-bread image, opens two paragraphs with 'Then', and 'nineteen years of her own body' confuses.",
-    "continuity": "Day 35 to day 56 is three weeks, not 'three weeks and a day'. A council after day 56 conflicts with F525, which sets it at day 35."
+    "reader_question": "Sharp closing dilemma: rubbing to the queen alone, or keep faith with Kiran and the shared-map principle. The carving's last word stays open.",
+    "change": "Oath broken in public, commission and crown roll lost, Neshar wins self-rule, and Rohan learns the truth about Harish. Power and knowledge both shift.",
+    "romance_movement": "There is a new reason to trust: no rope can verify them now. The fold test, Dhanu's Rest and the public palm show faith kept without proof.",
+    "shown_chemistry": "Responsive acts carry it: lurching when she lurches, the hand beside hers not touching, his glance at the laid gloves. Quiet but earned.",
+    "character_logic": "Ila is sound. Sarala grants all four demands at once on a muddled 'already paid' rationale. Ila waiting thirteen days to tell Rohan goes unexplained.",
+    "stakes_and_cost": "The commission is a real, chosen price paid on the page. The final choice costs a loyalty either way.",
+    "prose": "Clean, concrete and low on AI tells. Some references are opaque, the 'tooth' image echoes, and consecutive paragraphs open with 'She' and 'He'.",
+    "continuity": "Ages, day counts (35, 56), toes, pace, twelve years, sixty-one winters and the Kiran request all match canon. Rohan's rope end is on the table, not in his hands; minor beat drift."
   },
   "fixes": [
-    "Continuity: in 'three weeks and a day behind the Meadow Cairn's', the bond ended on day 35 and Shilak's thaw is day 56, which is 21 days. Change it to 'three weeks to the day', or move the thaw to day 57. Revise F618 to supersede F525's day-35 council date. Also change Meera's 'sixty winters back' to 'sixty-one'.",
-    "Stakes and cost at the ending: after 'Alone, if you please. Before anyone else reads it.' the chapter cuts without a price. Kiran asked to be told first where the Bargain is paid (F437), and Kunal walked the crawl with her. Add two or three lines where Ila's hand stays on the hem and she names, to herself, who this would break faith with. Do not resolve the choice.",
-    "Prose and repetition: 'Warm as a loaf' echoes ch30's 'warm as bread', so give Kunal a different, specific image (warm as the salt-house wall, say). Change 'Then Kunal stepped forward.' to 'Kunal stepped forward.' to stop two consecutive paragraphs opening with 'Then'. Replace 'nineteen years of her own body' with 'twelve years since the brass rule'."
+    "At '\"Granted,\" said Sarala. \"All four.\"' the concession is too cheap and its logic muddled (Irrational behaviour). Tie it to her want to keep the kingdom whole past her death: a valley everyone can see is one Pritam cannot buy. Add one condition or cost she sets, such as the council seat's first duty being Pritam's recapture, so the grant is bargained, not handed over.",
+    "At 'Whichever way she moved, she would be breaking faith' the Kunal side of the dilemma is only implied. Add one line making it explicit: a private first reading is crown exclusivity again, the thing she broke her oath to end an hour ago. Then the reader feels both loyalties pulling, not just Kiran's.",
+    "Clarify opaque references: 'where the mountain had once taken the path away' (name the twice-rope rule plainly), 'beside the crown's word' (the Ladder has no crown name; say her survey label), and 'when he put out the lamp' (anchor it or cut it). Also split the consecutive 'She took off her gloves'/'She laid them' and 'She dipped'/'She laid the sheets' openings."
   ],
-  "reader_question": "What does the carving under the mountain say, and why must the queen read Ila's rubbing alone before anyone else?",
+  "reader_question": "Will Ila hand the unread rubbing to the queen alone, breaking faith with Kiran and Kunal, and what does the carving's last word say?",
   "techniques_landed": [
     15,
     20,
     24
   ],
-  "new_facts_assessment": "F618: the day count is needed but its arithmetic is wrong (35 to 56 is 21 days), and it should explicitly supersede F525's day-35 council. F619 is consistent with F595 and the bible (31 winters, 31st winter). F620 is necessary and gives the oath its price. F621 is consistent with F617, F049 and F381. Unlisted but harmless: Kunal taught her the square hill hand, and he signs left-handed. Meera's 'sixty winters back' should read sixty-one in Book 2's winter. 'Grey since the Eye' slightly misdates F555, which places the strike at the lake huts before the Eye.",
+  "new_facts_assessment": "Both draft facts are needed and consistent. Their IDs collide with existing continuity F618 ('three weeks and a day', which conflicts with the chapter) and F622/F623 duplicates; renumber and retire the stale ones. Several facts are unlisted: Kunal signing left-handed, Ila's oath wording, twelve years since the brass rule, Ila's promise to Kiran, and the 'put out the lamp' moment. Log them or cut them.",
   "content_rule_violation": false,
-  "failure_modes": [],
-  "average": 3.5,
-  "minimum": 0.0,
-  "passed": false
+  "failure_modes": [
+    "Irrational behaviour to extend plot"
+  ],
+  "average": 4.0,
+  "minimum": 3.0,
+  "passed": true
 }
