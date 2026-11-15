@@ -2,28 +2,27 @@
   "facts": [
     {
       "category": "knowledge",
-      "fact": "Ila heard Meera tell the masked-buyer story (cord, cut-corner silver, walnut) at the Garh Neshar drafting table, as a mystery; Kunal sat in on two sessions silent.",
-      "why": "needed because the beat has Ila connect the walnut to Meera's story."
+      "fact": "At dawn, with the east line dark, Kunal says Ranu's runners can reach Sarn fold by dusk through the low lanes (no rope needed there), faster than a bound pair; he cannot go himself and hates sending others. Before dark he sends a red-thread walnut to Sarn fold by Nimmi's eldest runner."
     },
     {
       "category": "knowledge",
-      "fact": "The east broken line did not relight overnight; Kunal turned them south onto the Garh road at dawn toward Ranu.",
-      "why": "needed to bridge ch 3's ending to Ranu."
+      "fact": "The thirty-second grave at Ranu is a man who had nursed all the sick; Rohan held the rope while it was dug."
+    },
+    {
+      "category": "object",
+      "fact": "The red-thread walnut as a route-keepers' true-word token has been kept ten generations; a message without one is a lie or not from Kunal's people."
+    },
+    {
+      "category": "place",
+      "fact": "Ila marks nine crosses on her sheet where the salt road breaks the law (a ford on the closed side of the border stones, a gap in a boundary wall, a goat-bridge over a toll gully, six more), plus a stone-ringed halting hollow with a soot-black hearth in the lee of the second spur, where Nimmi's runners sleep."
     },
     {
       "category": "knowledge",
-      "fact": "Kunal gave the buyer's silver from Garh Neshar's stores held in the crown's name, run down the back road via the lower lanes over two winters.",
-      "why": "beat says silver from his uncle's own stores."
+      "fact": "Kunal chose the salt road as a test of whether Ila would draw a true road that could hang men; Ila realises it and he admits it."
     },
     {
-      "category": "name",
-      "fact": "Pinku is now seven.",
-      "why": "beat says seven now (six in B1)."
-    },
-    {
-      "category": "knowledge",
-      "fact": "Nimmi confirms the grey-bearded officer is alive and that she knows his name, refusing to give it ('not mine to spend').",
-      "why": "beat requires her refusal; alive is a small added detail."
+      "category": "object",
+      "fact": "A grave at Ranu carries a spinning top (replaces the bell on a grave in the earlier draft, to avoid echoing Sunni's buried bell)."
     }
   ]
 }

@@ -4553,6 +4553,48 @@
       "fact": "Revises F445: Ila's east bearing is left off her field book at the end of ch 3 with it unclear whether her cold hands failed or she chose; her first spoken, deliberate omission is reserved for the night Kunal shows her the route (F498, worksheet trust choice 1).",
       "since": "s03-bound-till-the-thaw-b02 ch 3",
       "provisional": true
+    },
+    {
+      "id": "F666",
+      "category": "knowledge",
+      "fact": "At dawn, with the east line dark, Kunal says Ranu's runners can reach Sarn fold by dusk through the low lanes (no rope needed there), faster than a bound pair; he cannot go himself and hates sending others. Before dark he sends a red-thread walnut to Sarn fold by Nimmi's eldest runner.",
+      "since": "s03-bound-till-the-thaw-b02 ch 4",
+      "provisional": true
+    },
+    {
+      "id": "F667",
+      "category": "knowledge",
+      "fact": "The thirty-second grave at Ranu is a man who had nursed all the sick; Rohan held the rope while it was dug.",
+      "since": "s03-bound-till-the-thaw-b02 ch 4",
+      "provisional": true
+    },
+    {
+      "id": "F668",
+      "category": "object",
+      "fact": "The red-thread walnut as a route-keepers' true-word token has been kept ten generations; a message without one is a lie or not from Kunal's people.",
+      "since": "s03-bound-till-the-thaw-b02 ch 4",
+      "provisional": true
+    },
+    {
+      "id": "F669",
+      "category": "place",
+      "fact": "Ila marks nine crosses on her sheet where the salt road breaks the law (a ford on the closed side of the border stones, a gap in a boundary wall, a goat-bridge over a toll gully, six more), plus a stone-ringed halting hollow with a soot-black hearth in the lee of the second spur, where Nimmi's runners sleep.",
+      "since": "s03-bound-till-the-thaw-b02 ch 4",
+      "provisional": true
+    },
+    {
+      "id": "F670",
+      "category": "knowledge",
+      "fact": "Kunal chose the salt road as a test of whether Ila would draw a true road that could hang men; Ila realises it and he admits it.",
+      "since": "s03-bound-till-the-thaw-b02 ch 4",
+      "provisional": true
+    },
+    {
+      "id": "F671",
+      "category": "object",
+      "fact": "A grave at Ranu carries a spinning top (replaces the bell on a grave in the earlier draft, to avoid echoing Sunni's buried bell).",
+      "since": "s03-bound-till-the-thaw-b02 ch 4",
+      "provisional": true
     }
   ],
   "knowledge": [
