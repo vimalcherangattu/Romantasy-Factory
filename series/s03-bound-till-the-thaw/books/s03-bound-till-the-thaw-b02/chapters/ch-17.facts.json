@@ -1,13 +1,8 @@
 {
   "facts": [
     {
-      "category": "knowledge",
-      "fact": "Kunal says he has shown Ila three ways in twenty days; his nurse used to say 'Where the Drum answers, lie still till morning' to put him to sleep.",
-      "since": "b02 ch 17"
-    },
-    {
-      "category": "knowledge",
-      "fact": "Kunal breaks Pritam's family rule (no prince shows the way to wife, son or friend) by telling Ila the Eye; he links its cost to his petition clause on the hill council keeping the high ways. The thaw council is thirty-five days from the binding night, distinct from the Meadow Cairn gap in F435.",
+      "category": "timeline",
+      "fact": "Ch 17 aligns its counts to day twenty of the bond: Kunal has watched Ila's hands and field book for twenty days. Thirty-five days is the Meadow Cairn meltwater, when the bond ends; the Shilak thaw council follows about three weeks later in a hard year (per F435, F622). Flag F512 (six days roped at ch 13) for an S7 ruling against day twenty at ch 17.",
       "since": "b02 ch 17"
     }
   ]
