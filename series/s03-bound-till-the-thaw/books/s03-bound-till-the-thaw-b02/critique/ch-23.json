@@ -1,0 +1,41 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 3.0,
+    "stakes_and_cost": 4.0,
+    "prose": 3.0,
+    "continuity": 0.0
+  },
+  "reasons": {
+    "reader_question": "The smokeless huts give a sharp question: are Gauri, Mini and Dhanu's household dead or taken? The cause points plausibly to Raghu's four.",
+    "change": "Knowledge shifts: the way is mapped to the water. Relationship shifts: she now holds an unpayable gift. The withheld letter now carries moral weight.",
+    "romance_movement": "The reason is new. A gift with no price breaks her ledger worldview, and her 'no column for it' shows the change.",
+    "shown_chemistry": "Shown through action: the collar grab after the slot, shared helpless laughter, and her reading the song as a bearing. His watching her hand is responsive, not narrated.",
+    "character_logic": "Mostly smart choices, but there are three slips. She ties the case 'where her ribs would crush it'. Kunal says 'Thirty years' right after counting twenty-one. He calls the four-line song 'twelve lines'.",
+    "stakes_and_cost": "Turning back costs thaw-days against her promise. Her silence costs integrity. Odds are stated at each hazard, and his dead hand slips on the third step.",
+    "prose": "Concrete and clean, but about 25 sentences open with 'It was', a strong tic. 'Hummed, low and level' and 'the best she had ever' each repeat.",
+    "continuity": "Kunal says Pritam 'gave me twelve lines of a song'. The song on the page and F563 are four lines."
+  },
+  "fixes": [
+    "'he gave me twelve lines of a song' (gravel-passage scene): this is a continuity error, because the song on the page and F563 are four lines. Change it to 'he gave me four lines of a song'. This one fix restores the continuity score.",
+    "Two lines break character logic. First, 'tied her pencil case flat inside her coat, where her ribs would crush it': a measurer protects her instruments. Change to 'where her ribs would shield it' or move the case to her back. Second, Kunal's 'Thirty years.' contradicts his own 'twenty-one winters' a few lines earlier. Change it to 'All my life,' so Ila's 'Twenty-one. You were twelve' still lands as her correction.",
+    "There is a repetition tic: 'It was a ledge of black rock', 'It was not a lake. It was a hollow', 'It was the sum of it', plus about 22 more 'It was' openers. Recast at least half with concrete subjects (for example, 'A ledge of black rock lay twenty paces on'). Also vary the second 'hummed, low and level' and one of the two 'best she had ever' lines."
+  ],
+  "reader_question": "What has happened at the lower huts, and to Gauri, Mini and Dhanu's household, while Ila and Kunal were inside the mountain?",
+  "techniques_landed": [
+    3,
+    6,
+    14
+  ],
+  "new_facts_assessment": "All five facts are needed for the beat and fit F527, F531, F544 and F551. F566 reconciles the furthest point correctly. The song is four lines, so the chapter's 'twelve lines' contradicts F563 and must be fixed. The 81/40/20/304 pace counts are internally consistent.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Irrational behaviour to extend plot"
+  ],
+  "average": 3.25,
+  "minimum": 0.0,
+  "passed": false
+}
