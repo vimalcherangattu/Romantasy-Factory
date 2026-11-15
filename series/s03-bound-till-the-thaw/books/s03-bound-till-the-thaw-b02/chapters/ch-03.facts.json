@@ -1,28 +1,14 @@
 {
   "facts": [
     {
-      "id": "N01",
-      "category": "knowledge",
-      "fact": "Ila's own rope is eight arm-spans of her arm as the guide under the Winter Crossing Law (consistent with F360, F436); she names herself the guide at the cairn.",
-      "since": "b02 ch 3 (revision)"
+      "id": "N05",
+      "category": "magic",
+      "fact": "Hill-post lore Ila learned as a chain-girl: cairn-light that dims slowly means a road no pair has walked in a generation, which the jogini let go; light pinched out all at once means its cairn has been pulled down or a stone lifted. Who pulled down the cairn at the fourth light's fold is left open (Raghu's men or someone else). Needs a bible ruling on what extinguishes cairn-light."
     },
     {
-      "id": "N02",
-      "category": "place",
-      "fact": "The east valley lit by the faint broken line is missing from Ila's survey sheets; no stream, path or shepherd report points to it.",
-      "since": "b02 ch 3 (revision)"
-    },
-    {
-      "id": "N03",
+      "id": "N06",
       "category": "knowledge",
-      "fact": "The fainter east winter line runs along the points of the Shepherd's Stair route-song (F433); its fourth light, 'four for the fold', goes dark while Kunal mutters the count. Ila recognises the rhyme from ch 2 and connects it to Raghu searching the high hamlets (F429, F432).",
-      "since": "b02 ch 3 (revision)"
-    },
-    {
-      "id": "N04",
-      "category": "knowledge",
-      "fact": "Ila leaves the east bearing out of her field book; it is her first omission from a survey sheet. She follows Kunal east by choice after letting the rope chill build.",
-      "since": "b02 ch 3 (revision)"
+      "fact": "Revises F445: Ila's east bearing is left off her field book at the end of ch 3 with it unclear whether her cold hands failed or she chose; her first spoken, deliberate omission is reserved for the night Kunal shows her the route (F498, worksheet trust choice 1)."
     }
   ]
 }
