@@ -309,7 +309,7 @@
       ]
     },
     "10": {
-      "status": "passed",
+      "status": "edited",
       "revisions": 1,
       "scores": {
         "reader_question": 4.0,
@@ -323,18 +323,18 @@
       },
       "average": 3.88,
       "flags": [],
-      "words": 2624,
+      "words": 2620,
       "minimum": 3.0,
       "style": {
-        "words": 2238,
+        "words": 2620,
         "banned_hits": {},
         "ai_tell_hits": {},
         "ai_tells_per_1000": 0.0,
-        "top_4gram": "said ila she had",
+        "top_4gram": "it was not a",
         "top_4gram_count": 2,
         "longest_paragraph_words": 90,
         "em_dashes_per_1000": 0.0,
-        "reading_ease": 94.0
+        "reading_ease": 94.1
       },
       "owner_instructions": [
         "Word tics (owner note 8): keep at most one 'plain', 'plainly' or 'the plain thing'. Allow at most one 'He did not X. He did Y.' construction."
@@ -2257,9 +2257,13 @@
     {
       "at": "2026-11-21T20:22:18",
       "event": "done: S8 line edit ch 9"
+    },
+    {
+      "at": "2026-11-21T20:22:46",
+      "event": "done: S8 line edit ch 10"
     }
   ],
-  "updated_at": "2026-11-21T20:22:18",
+  "updated_at": "2026-11-21T20:22:46",
   "midpoint_chapter": 16,
   "continuity_attempts": 0,
   "continuity_last_errors": null,
