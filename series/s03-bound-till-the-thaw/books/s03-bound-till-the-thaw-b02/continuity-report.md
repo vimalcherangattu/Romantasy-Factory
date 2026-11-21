@@ -1,40 +1,54 @@
-# Continuity report: The Winter Oath (Book 2)
+# Continuity report: The Winter Oath (Book 2), chapters 1–32
 
 ## What was checked
 
-All 32 chapters against the series bible, continuity.json (F001–F632), the outline and the Book 1 summary. Categories:
+- **Names and forms of address:** spellings, roles, and who calls whom what (Highness, Kunal, Ila-ji, Didi).
+- **Ages:** Ila 31, Kunal 33, Kiran 25, the queen 62, Mini 6, Pinku 7.
+- **Timeline:**
+  - The bond day count from the Meadow Cairn binding to day 35.
+  - The Shilak thaw on day 56.
+  - Rohan's return on day 48.
+  - The Fair-eve, council and binding sequence.
+  - The age-nine and age-twelve backstory, and the "twenty-one" and "twenty-four" winters.
+- **Magic rules:**
+  - Lie sizes and costs: small, middling, great, and broken-promise strikes.
+  - Hands, then feet and ears, as the order in which lie-cold lands.
+  - The touch loophole.
+  - Separation cold and the twice-the-length limit.
+  - Cairn and stone hums.
+  - The end of the bond at the Meadow Cairn, after which nothing is checked.
+- **Injuries:**
+  - Kunal's palms and fingertips: frostnip, then blisters, then dead right tips.
+  - Ila's two dead left toes and her changing pace.
+  - Ila's rib scar.
+  - Dhanu's limp.
+- **Who knows what:** the letter's contents, the sheets' hiding place, Udai and Harish, the walnut rule, the masked buyer.
+- **Objects and places:**
+  - The rope.
+  - The walnuts (two from Dhanu, a third for Mini).
+  - The whistle.
+  - The sheets: four, then five.
+  - The spike, lost in the Eye.
+  - The huts: Dhanu's upper hut, the lower huts and the herders' hut.
+  - The Ladder counts and the cleft counts.
+- **Relationship beats** against the outline and the Book 1 summary.
 
-- names, titles and forms of address
-- ages and the winter count (31st winter)
-- the day count against the Meadow Cairn bond
-- Rope-Bond rules: lie sizes, the loophole, separation distance, promises, broken-promise strikes
-- injuries: Kunal's dead right fingertips and burst palms, Ila's two dead left toes and her feet
-- who knows what: the letter, the princes' way, the walnut rule, Mini's star
-- objects: the letter's moves from coat lining to pattu hem, the sheets, pencil leads, the survey spike, the whistle, the walnuts
-- places: lake order, the huts, the cleft, the Under-Cairn
+## Errors found (all minor)
 
-## Errors found
+- **E01:** Chapters 13–15 say "more than two weeks". This conflicts with day ten of the bond in chapter 17.
+- **E02:** In chapter 7, "a fortnight" claims a longer acquaintance than Ila has with Kunal.
+- **E03:** Ila is placed in Taravan last autumn, but the summer post and her letter to the archive put her in Neshar.
+- **E04:** Tamar's Shoulder is "named at seven, on the family map", but chapter 1 puts it on her current summer sheets.
+- **E05:** Chapter 20 frames "Kunal" as a new form of address, though she has used it since chapter 3.
+- **E06:** In chapter 24 Kunal does not know where the sheets are, though he watched her sew them in.
+- **E07:** Gauri is tall in chapter 7 and small in chapter 27.
+- **E08:** Raghu's remaining guard is still "eight pairs" after his losses.
+- **E09:** Kunal's dead fingertips are dated "since the Eye" instead of to the broken promise.
 
-All 16 are minor; none are major.
+## Possible issue not raised
 
-- **E01:** Ila's small lie whitens her fingers too deep.
-- **E02:** Kunal's fingertips are wax and not wax in the same scene.
-- **E03:** The broken-promise strike is described on both hands, but it is right-hand only everywhere else.
-- **E04:** "Nine days" contradicts "day twenty" in the same chapter.
-- **E05:** The snow-cave stroke total is lower than the count she has already passed.
-- **E06:** The lakes are listed in reverse order from the Eye.
-- **E07:** "In the hut" should be the snow cave.
-- **E08:** Dhanu reacts to the star's naming as news, though Mini told everyone in ch 7.
-- **E09:** Dhanu could not have laid his hearth thirty winters ago.
-- **E10:** Kunal claims the walnut rule was his own.
-- **E11:** The grain argument is given to Bhim, not Chetu.
-- **E12:** The pencil leads are in two places at once.
-- **E13:** Ila's bare hand is also gloved.
-- **E14:** A callback points to an event that never happened.
-- **E15:** The east valley is remembered in the wrong place.
-- **E16:** "Sixty" is used where it should be "sixty-one" winters.
+The year's thaw pattern reads two ways. The meadow ran on day 35, matching Meera's "if it's a soft year" forecast. The Shilak gap was three weeks, which is a hard year by chapter 3's tables. This is the existing F622/F435 framing, so it was left as is.
 
-## Noted, not logged
+## Checked and consistent
 
-- The scenes show fewer elapsed days than the explicit counts. For example, ch 13 says "more than two weeks", and ch 30 reaches day 32. The counts agree with each other and with continuity, and the travel shown on the page can absorb the gap.
-- The basin is reachable by unbound walkers (Dhanu, Gauri, the runners). This is consistent within the book and follows established F473.
+No plot, world-rule or fixed-trait breaks were found.

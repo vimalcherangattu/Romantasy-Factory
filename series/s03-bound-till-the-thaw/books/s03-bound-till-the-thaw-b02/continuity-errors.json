@@ -2,266 +2,156 @@
   "open_errors": [
     {
       "id": "E01",
-      "chapter": 3,
+      "chapter": 13,
       "severity": "minor",
-      "category": "magic",
-      "issue": "Ila's demonstration lie is called a small lie, which whitens only the fingertips. The text whitens them 'to the second joint', the depth used for her middling lie in ch 14.",
-      "fix": "Limit the white to the first joint.",
+      "category": "timeline",
+      "issue": "Chapters 13 to 15 say Kunal has watched Ila, and Ila has carried the queen's letter, for 'more than two weeks'. The pair bound at dawn after the Fair, and Ila received the letter the evening before. Chapter 17, several days later, counts day ten of the bond ('ten days of Ila's field book', 'ten strokes').",
+      "fix": "Bring the counts in chapters 13 to 15 down to six days roped and about a week carrying the letter.",
       "patches": [
         {
-          "chapter": 3,
-          "find": "She watched them go white, nail beds first, to the second joint.",
-          "replace": "She watched them go white, nail beds first, to the first joint."
+          "chapter": 13,
+          "find": "He had watched her for more than two weeks now and it had not once grown ordinary.",
+          "replace": "He had watched her for six days now and it had not once grown ordinary."
+        },
+        {
+          "chapter": 13,
+          "find": "But she had spent two weeks learning his habits.",
+          "replace": "But she had spent six days learning his habits."
+        },
+        {
+          "chapter": 14,
+          "find": "She had carried it for more than two weeks.",
+          "replace": "She had carried it for a week."
+        },
+        {
+          "chapter": 15,
+          "find": "I've carried it more than two weeks and haven't opened it.",
+          "replace": "I've carried it a week and haven't opened it."
         }
       ]
     },
     {
       "id": "E02",
-      "chapter": 15,
+      "chapter": 7,
       "severity": "minor",
-      "category": "injury",
-      "issue": "At grey light Kunal's hands are 'ordinary flesh again, not wax'. A few lines later, and through ch 16, his tips are still the colour of tallow.",
-      "fix": "Keep the tips wax-coloured at dawn.",
+      "category": "timeline",
+      "issue": "At Ewe's Rest Ila judges Kunal 'happier than she had seen him in a fortnight'. She has known him for only a few days on the rope, plus two drafting-table sessions.",
+      "fix": "Drop the fortnight.",
       "patches": [
         {
-          "chapter": 15,
-          "find": "His hands were stiff and prickling, ordinary flesh again, not wax.",
-          "replace": "His hands were stiff and prickling, flesh again to the last knuckle, though the tips stayed wax."
+          "chapter": 7,
+          "find": "looking happier than she had seen him in a fortnight.",
+          "replace": "looking happier than she had ever seen him."
         }
       ]
     },
     {
       "id": "E03",
-      "chapter": 21,
+      "chapter": 3,
       "severity": "minor",
-      "category": "injury",
-      "issue": "The broken-promise strike kills only Kunal's right fingertips: later he cannot pinch with the right and signs left-handed. Ch 21 describes both hands' tips going grey and Ila speaks of 'ten dead fingertips'.",
-      "fix": "Confine the strike to the right hand.",
+      "category": "place",
+      "issue": "Ila spent the summer surveying Neshar with Kiran. Her commission reached her 'with the summer post', and she wrote to the Taravan archive rather than visit it. Yet chapter 3 has her buying the rope in Taravan in the autumn, and chapter 6 has her reading the commission 'a dozen times in Taravan'.",
+      "fix": "Have her send to Taravan for the rope, and read the commission after it arrived by post.",
       "patches": [
         {
-          "chapter": 21,
-          "find": "The pink in his fingertips went waxy, then grey, as if a hand had wiped the blood out of them.",
-          "replace": "The pink in his right fingertips went waxy, then grey, as if a hand had wiped the blood out of them."
+          "chapter": 3,
+          "find": "She had bought the rope in Taravan in the autumn, undyed wool from Lata's house, spun to a hand's thickness.",
+          "replace": "She had sent to Taravan for the rope in the autumn, undyed wool from Lata's house, spun to a hand's thickness."
         },
         {
-          "chapter": 21,
-          "find": "with ten dead fingertips, having been given a refusal and a debt I couldn't pay.",
-          "replace": "with five dead fingertips, having been given a refusal and a debt I couldn't pay."
+          "chapter": 6,
+          "find": "She had read the paper a dozen times in Taravan, and once more by lamp in the guest-house, and she knew every word.",
+          "replace": "She had read the paper a dozen times since the summer post, and once more by lamp in the guest-house, and she knew every word."
         }
       ]
     },
     {
       "id": "E04",
-      "chapter": 17,
+      "chapter": 6,
       "severity": "minor",
       "category": "timeline",
-      "issue": "Kunal says he has shown Ila three ways 'in nine days', but in the same chapter his petition margin counts day twenty since the binding.",
-      "fix": "Align the spoken count with the margin count.",
+      "issue": "In chapter 1, Tamar's Shoulder is a name Ila has hand-lettered on her current summer sheets of the Neshar passes, for 'the cook who had fed her at seven'. In chapter 6 she says she named it at seven and that it is 'on the family map'.",
+      "fix": "Keep the cook from her seventh year and put the name on her summer sheets.",
       "patches": [
         {
-          "chapter": 17,
-          "find": "I've shown you three ways in nine days, and you're alive.",
-          "replace": "I've shown you three ways in twenty days, and you're alive."
+          "chapter": 6,
+          "find": "After a cook who fed me. I was seven. It's still on the family map.",
+          "replace": "After a cook who fed me when I was seven. It's on my summer sheets."
         }
       ]
     },
     {
       "id": "E05",
-      "chapter": 11,
+      "chapter": 20,
       "severity": "minor",
-      "category": "timeline",
-      "issue": "Ila's count passes three hundred strokes before she cuts the bench and shelf, yet she then gives the total as two hundred and ninety.",
-      "fix": "Give a total above three hundred.",
+      "category": "relationship",
+      "issue": "Chapter 20 treats Ila calling him 'Kunal' as new, as if she had always said 'Highness'. She has called him Kunal throughout, from chapter 3 on ('Kunal, what's that?').",
+      "fix": "Make the moment about the tone in which she says it, not about her first use of the name.",
       "patches": [
         {
-          "chapter": 11,
-          "find": "\"Two hundred and ninety strokes,\" said Ila.",
-          "replace": "\"Three hundred and forty strokes,\" said Ila."
+          "chapter": 20,
+          "find": "Not *Highness*. Not *the prince*, with the small, dry edge she kept on it. His own name, in her brisk voice.",
+          "replace": "Not *Highness*, the word she still kept for distance. His own name, and nothing brisk in it at all."
         }
       ]
     },
     {
       "id": "E06",
-      "chapter": 18,
+      "chapter": 24,
       "severity": "minor",
-      "category": "place",
-      "issue": "The lakes run Mirror, Drum, Eye. Standing at the Eye, the Drum is nearer and the Mirror beyond it, but the text reverses them.",
-      "fix": "Swap the order.",
+      "category": "knowledge",
+      "issue": "In chapter 21 Kunal watched Ila sew the sheets into her pattu's side seam. In chapter 24 he thinks they are 'somewhere about her; he had never asked where', but in chapter 26 he again knows they are sewn in.",
+      "fix": "Let Kunal remember watching her sew them in.",
       "patches": [
         {
-          "chapter": 18,
-          "find": "The Mirror was behind them, and the Drum behind that.",
-          "replace": "The Drum was behind them, and the Mirror behind that."
+          "chapter": 24,
+          "find": "Five sheets with every turn of the hills drawn true, somewhere about her; he had never asked where.",
+          "replace": "Five sheets with every turn of the hills drawn true, sewn into her pattu's seam; he had watched her stitch them in."
         }
       ]
     },
     {
       "id": "E07",
-      "chapter": 19,
+      "chapter": 27,
       "severity": "minor",
-      "category": "place",
-      "issue": "Kunal's 'and I came home' was said in the snow cave dug on the Hollow Moon's lip (ch 11), not in a hut.",
-      "fix": "Name the snow cave.",
+      "category": "name",
+      "issue": "Gauri is introduced in chapter 7 as 'a tall woman'. In chapter 27 she is 'small and broad'.",
+      "fix": "Keep her tall.",
       "patches": [
         {
-          "chapter": 19,
-          "find": "he had said, in the hut on the Hollow Moon",
-          "replace": "he had said, in the snow cave on the Hollow Moon"
+          "chapter": 27,
+          "find": "The shape in the cleft mouth was small and broad.",
+          "replace": "The shape in the cleft mouth was tall and broad."
         }
       ]
     },
     {
       "id": "E08",
-      "chapter": 19,
+      "chapter": 30,
       "severity": "minor",
-      "category": "knowledge",
-      "issue": "In ch 7 Mini ran inside Ewe's Rest to tell everyone that the star was named for her, so Dhanu already knew. In ch 19 he reacts to the naming as news. What is new to him is that Ila wrote it down.",
-      "fix": "Make Ila's news the recording, not the naming.",
+      "category": "timeline",
+      "issue": "Raghu had eight bound pairs in all: six in the bowl and two on the Kuhl shoulder. Raghu's own pair and the cornice pairs left for the Drum, and one pair drowned. Pasang still says 'Eight pairs watch the doors' at the Hollow Moon huts.",
+      "fix": "Reduce the guard to what is left.",
       "patches": [
         {
-          "chapter": 19,
-          "find": "\"I named a star for her,\" she said.",
-          "replace": "\"The star I named for her,\" she said. \"I wrote it down.\""
+          "chapter": 30,
+          "find": "Hari's with them. Eight pairs watch the doors.",
+          "replace": "Hari's with them. Six pairs watch the doors."
         }
       ]
     },
     {
       "id": "E09",
-      "chapter": 19,
+      "chapter": 31,
       "severity": "minor",
-      "category": "timeline",
-      "issue": "Dhanu is the same generation as Kunal (33) and has known him thirty years, so he cannot have laid the lake-hut hearth thirty winters ago.",
-      "fix": "Shorten the span.",
+      "category": "injury",
+      "issue": "Kunal's right fingertips died from his broken promise at the herders' hut in chapter 21, before the cleft was entered. Chapter 31 says they have been grey 'since the Eye'.",
+      "fix": "Date the dead tips to the broken promise.",
       "patches": [
         {
-          "chapter": 19,
-          "find": "Thirty winters I've lost to my own hearth.",
-          "replace": "Ten winters I've lost to my own hearth."
-        }
-      ]
-    },
-    {
-      "id": "E10",
-      "chapter": 24,
-      "severity": "minor",
-      "category": "name",
-      "issue": "In ch 22 Dhanu corrects Kunal: Dhanu's people made the walnut rule and Kunal taught it to the council. In ch 24 Kunal says he made Dhanu swear to it.",
-      "fix": "Kunal made the council swear to Dhanu's rule.",
-      "patches": [
-        {
-          "chapter": 24,
-          "find": "I made Dhanu swear to the walnut rule",
-          "replace": "I made the council swear to Dhanu's walnut rule"
-        }
-      ]
-    },
-    {
-      "id": "E11",
-      "chapter": 8,
-      "severity": "minor",
-      "category": "name",
-      "issue": "In the ch 2 council it was Chetu who argued for selling the licence for grain. Bhim argued for refusal.",
-      "fix": "Attribute the grain argument to Chetu.",
-      "patches": [
-        {
-          "chapter": 8,
-          "find": "I read it twice in the hall while Old Bhim argued about barley.",
-          "replace": "I read it twice in the hall while Chetu argued about grain."
-        }
-      ]
-    },
-    {
-      "id": "E12",
-      "chapter": 23,
-      "severity": "minor",
-      "category": "object",
-      "issue": "Ch 23 says Ila took the pencil case from Kunal. Ila kept the case in ch 9, and in ch 29 Kunal is still carrying the leads inside his shirt.",
-      "fix": "Ila takes leads from his coat; she does not take them over.",
-      "patches": [
-        {
-          "chapter": 23,
-          "find": "He had not been able to pinch one tonight, and she had taken the case from him without a word.",
-          "replace": "He had not been able to pinch one tonight, and she had reached into his coat for them herself without a word."
-        }
-      ]
-    },
-    {
-      "id": "E13",
-      "chapter": 29,
-      "severity": "minor",
-      "category": "object",
-      "issue": "Ila lays her bare hand on the carving, then marks the pencil 'on her glove' in the same sentence.",
-      "fix": "Mark the stone instead.",
-      "patches": [
-        {
-          "chapter": 29,
-          "find": "and marked with the pencil on her glove where her fingers ended.",
-          "replace": "and marked with the pencil on the stone where her fingers ended."
-        }
-      ]
-    },
-    {
-      "id": "E14",
-      "chapter": 4,
-      "severity": "minor",
-      "category": "object",
-      "issue": "The callback 'as he had put his hand on the lamp-oil jar in the kitchen' refers to an event that never happens on the page. The gesture shown was his hand on the tower's north wall (ch 1).",
-      "fix": "Point the callback at the north wall.",
-      "patches": [
-        {
-          "chapter": 4,
-          "find": "as he had put his hand on the lamp-oil jar in the kitchen.",
-          "replace": "as he had put his hand on the cold north wall of the tower."
-        }
-      ]
-    },
-    {
-      "id": "E15",
-      "chapter": 32,
-      "severity": "minor",
-      "category": "place",
-      "issue": "The faint east line of ch 3 was seen from a roadside cairn on the Neshar road, running east over a shoulder within two days of the Fair. Ch 32 remembers it 'on the scree' and 'along the east wall', and plots the valley above the Kuhl cut.",
-      "fix": "Restore the ch 3 setting and place the valley east of the Neshar road.",
-      "patches": [
-        {
-          "chapter": 32,
-          "find": "She was back on the scree on the first night, with the pale blue line burning along the east wall, broken at the fourth light, a valley that was on none of her sheets.",
-          "replace": "She was back on the Neshar road on the first night, with the pale blue line running off over the eastern shoulder, broken at the fourth light, toward a valley that was on none of her sheets."
-        },
-        {
-          "chapter": 32,
-          "find": "She found the east wall of the Hollow Moon, and the blank above the Kuhl cut where the valley should have been.",
-          "replace": "She found the Neshar road above the Fair meadow, and the blank east of it where the valley should have been."
-        }
-      ]
-    },
-    {
-      "id": "E16",
-      "chapter": 16,
-      "severity": "minor",
-      "category": "timeline",
-      "issue": "Book 2 is the 31st winter, so Harish's payment was 61 winters ago. Bhim, Meera and the queen in person all say sixty-one. The queen's own letter and Ila, who measures exactly, say sixty.",
-      "fix": "Use sixty-one in the letter and in Ila's statements.",
-      "patches": [
-        {
-          "chapter": 11,
-          "find": "Of the Shilak post. Sixty winters ago.",
-          "replace": "Of the Shilak post. Sixty-one winters ago."
-        },
-        {
-          "chapter": 16,
-          "find": "Sixty winters ago the pass began to close.",
-          "replace": "Sixty-one winters ago the pass began to close."
-        },
-        {
-          "chapter": 16,
-          "find": "Sixty winters. The Closing Law, written the next spring.",
-          "replace": "Sixty-one winters. The Closing Law, written the next spring."
-        },
-        {
-          "chapter": 16,
-          "find": "Udai had been one of two men on a mountain sixty winters ago",
-          "replace": "Udai had been one of two men on a mountain sixty-one winters ago"
+          "chapter": 31,
+          "find": "His fingertips stayed grey, as they had been since the Eye.",
+          "replace": "His fingertips stayed grey, as they had been since the morning he broke his promise."
         }
       ]
     }
