@@ -1,40 +1,42 @@
-# Continuity report: The Winter Oath (Book 2), all 32 chapters
+# Continuity report: The Winter Oath (Book 2), chapters 1–32
 
-## What I checked
+## What was checked
 
-- **Names and titles:** Ila, Kunal, Kiran, Dhanu, Gauri, Mini, Raghu, Pasang, Bhim, Chetu, Lata, Meera, Rohan, Gopal and the queen. Also who calls whom "Highness", "Ila-ji" and "Didi".
-- **Ages:** Ila 31, Kunal 33, Kiran 25, queen 62, Dhanu 34 and Gauri about 40.
-- **Timeline:**
-  - The 31st winter, sixty-one winters since Harish.
-  - The bond's day count (6, 10, 12, 16, 17, 18, 22, 35, 40, 56, 59).
-  - Kunal's childhood (father's death, the ridge at nine, the Eye at twelve).
-- **Magic rules:**
-  - Lie sizes and costs, including Raghu's small and middling lies.
-  - Taking the cold and its limits.
-  - Promises: Kunal's broken "ask nothing back", Ila's promises, the lambs promise.
-  - Separation cold at 8 and 16 spans.
-  - Cairn-light seen only by the bound.
-  - Dimming beyond a toppled keeper cairn.
-- **Injuries:** Kunal's frostnip, his dead right fingertips and blistered palms; Ila's two dead left toes; Gauri's cut wrists; Ila's rib scar.
-- **Objects:** the queen's letter (coat, then pattu hem), the five sheets and their hiding place, the survey spike (lost), pencil leads, Dhanu's whistle, the walnuts, the rope's colour and knots, the rubbing.
-- **Places:** Garh Neshar's north wall and stair, the Stair, the Hollow Moon, the Ladder, the three lakes, the huts, the cleft counts, the Under-Cairn and its exit.
-- **Pair counts:** Raghu's pairs across chs 19, 26 and 30.
-- **Who knows what:** each reveal checked against the secret map.
+- **Names, ages and forms of address.** Ila 31, Kunal 33, Kiran 25, Mini 6, Pinku 7, Queen Sarala 62. Gauri is Dhanu's elder sister. The drunk mason is Madan. Ila keeps "Highness" for distance.
+- **Bond calendar.**
+  - Day six at chapter 13 and day ten at chapter 17.
+  - Day sixteen at chapter 30, with nineteen days left to the Meadow Cairn.
+  - Day thirty-five for the Meadow thaw, day fifty-six for the Shilak thaw, and the queen three days after.
+- **Magic rules.**
+  - Small, middling and great lie costs.
+  - The touch loophole in chapters 15 and 26.
+  - Kunal's broken "ask nothing back" promise striking as a great lie.
+  - Separation cold at eight spans and the path dimming toward sixteen.
+  - The cairn hum and ring.
+  - No promise binding after the bond ends.
+- **Injuries.**
+  - Kunal: rope-scraped palms, then frostnip, then dead right fingertips. He signs left-handed and ties knots with his teeth.
+  - Ila: two dead left toes, a crutch, and a recalibrated pace.
+- **Objects and their positions.** The queen's letter (coat lining, then pattu hem), the five sheets (pattu seam, then the hut shelf gap), the spike lost at the Eye, Dhanu's whistle, the walnuts and the rubbing.
+- **Who knows what.** Ila's knowledge of Harish and Udai, Kunal's ignorance of the letter until chapter 28, the knot match via Meera's count, and Nimmi's refusal to name the officer.
+- **Raghu's pair counts.** Eight pairs in all: six in the bowl and two on the shoulder. That leaves five pairs at the huts once Raghu and Pasang leave.
+- **Consistency with Book 1 facts.**
 
-## Errors found (7)
+## Errors found
 
-- **E01 (minor, timeline):** ch 3 uses thirty-five days for the Meadow–Shilak gap, but later chapters use it for the bond's length. This leaves "soft year" in conflict with the three-week gap. Patched in ch 3 and ch 17.
-- **E02 (minor, place):** the archive oath is placed in Garh Neshar in ch 16 but in Taravan in ch 23. Patched in ch 23.
-- **E03 (minor, knowledge):** Ila's ch 23 hedge misstates the letter's wording. Patched.
-- **E04 (minor, knowledge):** ch 19 misreports what Kunal said about putting Mini's star on the map. Patched.
-- **E05 (major, knowledge):** in ch 30 Meera knows the details of Ila's private map promise. Patched.
-- **E06 (minor, object):** the east bearing was never written down, yet chs 31–32 have it in the margin. Patched in ch 31.
-- **E07 (minor, knowledge):** in ch 2 Ila only hears the end of the Stair song, yet in ch 3 she recognises its earlier lines. Patched.
+Six, all minor:
 
-## Checked and consistent
+- **E01 (ch 4).** Ranu is "a day down the Garh road" but they reach it by noon.
+- **E02 (ch 6).** Ila's pace conversion contradicts her statement that Kunal's paces are longer.
+- **E03 (ch 20).** "Twelve days" should be "ten days" to match the day-ten count in chapter 17.
+- **E04 (ch 27).** The ransom note is described as still pinned after Ila had taken it down.
+- **E05 (ch 31).** "The morning after the Under-Cairn" does not match day seventeen.
+- **E06 (ch 1–2).** The licence names Kunal on the guide line, but Ila measures the rope against her own arm as the guide.
 
-- **Raghu's pairs:** eight in all; three at the Drum fold, one lost through the ice, five guarding the huts.
-- **Walnut accounting:** Dhanu's two plus Mini's plain third.
-- **Wrists:** Kunal unties his left-wrist knot in ch 27 and is retied on the right in ch 28.
-- **Ila's crutch pace and recalibrated pace.**
-- **The queen's two penalties.**
+## Not reported
+
+- **Superseded provisional facts.** Several provisional facts in continuity.json are contradicted by the final text. They are noted in new-facts.json rather than reported as errors:
+  - The archive oath is sworn in the Garh Neshar hall, not Taravan.
+  - The pairs guarding the huts number five, not eight.
+  - The pairs are split six in the bowl and two on the shoulder.
+- **Outline drift.** The outline's day counts (day twenty in ch 17, day thirty-two in ch 30) are already superseded by continuity facts F713 and F795.

@@ -6,7 +6,8 @@
   "status": "in_progress",
   "stage": "S3",
   "done": [
-    "S3"
+    "S3",
+    "S7"
   ],
   "chapters": {
     "01": {
@@ -2452,9 +2453,13 @@
     {
       "at": "2026-11-21T21:24:28",
       "event": "done: S7 continuity"
+    },
+    {
+      "at": "2026-11-21T21:30:13",
+      "event": "done: S7 continuity"
     }
   ],
-  "updated_at": "2026-11-21T21:24:28",
+  "updated_at": "2026-11-21T21:30:13",
   "midpoint_chapter": 16,
   "continuity_attempts": 1,
   "continuity_last_errors": 1,

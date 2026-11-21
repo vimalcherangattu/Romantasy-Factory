@@ -2,156 +2,106 @@
   "open_errors": [
     {
       "id": "E01",
-      "chapter": 28,
-      "severity": "major",
-      "category": "object",
-      "issue": "In ch 25 Ila caches all five sheets in the gap behind the plank shelf of the second lake hut, and in ch 28 she tells Kunal they are still there. Neither of them goes back to the huts before the Under-Cairn, yet in ch 30 she reaches for the sheets in her coat and in ch 31 she copies them at Kothi Shilak. Ch 29 also says Kunal cut her crutch 'at the lake huts', a visit that never happens on the page.",
-      "fix": "Have Gauri, who was sitting at the cleft mouth within earshot, bring the sheets back from the hut with the lamp and bread, and have the crutch cut at the cleft mouth from a limb she carries up.",
+      "chapter": 4,
+      "severity": "minor",
+      "category": "timeline",
+      "issue": "At dawn at the east-track junction Kunal says Ranu is 'a day down the Garh road', yet they reach Ranu at noon the same day. That noon arrival is when he sends the runner his dawn plan said would reach Sarn fold 'by dusk today'.",
+      "fix": "Make Ranu half a day down the Garh road from the junction.",
       "patches": [
         {
-          "chapter": 28,
-          "find": "Gauri came back when the light had gone grey. She had a lamp under her arm, a skin of oil and a cloth sack that smelled of bread. She set them down in a row, the way a woman lays out a trader's goods, and looked anywhere but the rope.",
-          "replace": "Gauri came back when the light had gone grey. She had a lamp under her arm, a skin of oil, a cloth sack that smelled of bread, and a thin oilcloth packet that she put into Ila's lap. \"From behind the plank shelf,\" she said. \"Sound carries at the mouth.\" She set the rest down in a row, the way a woman lays out a trader's goods, and looked anywhere but the rope."
-        },
-        {
-          "chapter": 29,
-          "find": "Kunal had cut the crutch at the lake huts, in the grey light, with his knife in his bad hand and Gauri holding the other end.",
-          "replace": "Kunal had cut the crutch at the cleft mouth, in the grey light, from a juniper limb Gauri carried up from the lake huts, with his knife in his bad hand and Gauri holding the other end."
+          "chapter": 4,
+          "find": "\"Ranu is a day down the Garh road. Part of the way I mean to show you starts there.",
+          "replace": "\"Ranu is half a day down the Garh road. Part of the way I mean to show you starts there."
         }
       ]
     },
     {
       "id": "E02",
-      "chapter": 23,
+      "chapter": 6,
       "severity": "minor",
       "category": "timeline",
-      "issue": "Ch 16 says Ila swore her archive oath before the council clerk in the Garh Neshar hall, on a page that came with the summer post. Ch 23 says she swore it 'in a hall in Taravan'. Ila has not left Neshar since Book 1.",
-      "fix": "Change the ch 23 location to the Garh Neshar hall.",
+      "issue": "Ila says Kunal's paces are longer than hers by two fingers. She then converts three hundred of his paces into only two hundred and seventy of hers, which would need her pace to be the longer one.",
+      "fix": "Make the conversion run the right way: three hundred of his paces is about three hundred and thirty of hers.",
       "patches": [
         {
-          "chapter": 23,
-          "find": "She had sworn in a hall in Taravan to keep what the crown's papers held",
-          "replace": "She had sworn in the Garh Neshar hall to keep what the crown's papers held"
+          "chapter": 6,
+          "find": "Let the stone be somewhere in this hump. Two hundred and seventy of mine.",
+          "replace": "Let the stone be somewhere in this hump. Three hundred and thirty of mine."
         }
       ]
     },
     {
       "id": "E03",
-      "chapter": 17,
+      "chapter": 20,
       "severity": "minor",
       "category": "timeline",
-      "issue": "Ch 20 takes place on the same day as ch 17's third morning (ch 17 morning, then ch 18 at the Eye, ch 19 at the lower huts, ch 20 that night). Ch 20 twice calls it twelve days of the bond, but ch 17 counts ten. Ch 13, three days of travel earlier, says six days, although the route from the binding to the basin (Ranu, Stair, plateau, Ewe's Rest, the Hollow Moon, two storm nights, the Ladder) takes about nine.",
-      "fix": "Make ch 13 nine days and ch 17 twelve days (twelve strokes, twenty-three left), so the counts agree with ch 20 and with day 16 at the Shilak Cairn.",
+      "issue": "Chapter 17 fixes the bond at day ten, with ten strokes in the petition margin and ten days of watching her field book. Chapter 20 happens that same night, but both leads say 'twelve days'.",
+      "fix": "Change both 'twelve days' to 'ten days'.",
       "patches": [
         {
-          "chapter": 13,
-          "find": "He had watched her for six days now and it had not once grown ordinary.",
-          "replace": "He had watched her for nine days now and it had not once grown ordinary."
+          "chapter": 20,
+          "find": "In twelve days he had learned this about her: she waited like a woman holding a level, to see which way the bubble went.",
+          "replace": "In ten days he had learned this about her: she waited like a woman holding a level, to see which way the bubble went."
         },
         {
-          "chapter": 13,
-          "find": "But she had spent six days learning his habits.",
-          "replace": "But she had spent nine days learning his habits."
-        },
-        {
-          "chapter": 17,
-          "find": "He had been looking at ten days of Ila's field book, and for the first time in his life he understood",
-          "replace": "He had been looking at twelve days of Ila's field book, and for the first time in his life he understood"
-        },
-        {
-          "chapter": 17,
-          "find": "I've shown you three ways in ten days, and you're alive.",
-          "replace": "I've shown you three ways in twelve days, and you're alive."
-        },
-        {
-          "chapter": 17,
-          "find": "Ten. Ten strokes, and twenty-five empty places, and at the end of them the rope came off.",
-          "replace": "Twelve. Twelve strokes, and twenty-three empty places, and at the end of them the rope came off."
+          "chapter": 20,
+          "find": "\"I've watched you for twelve days,\" said Ila.",
+          "replace": "\"I've watched you for ten days,\" said Ila."
         }
       ]
     },
     {
       "id": "E04",
-      "chapter": 30,
+      "chapter": 27,
       "severity": "minor",
-      "category": "timeline",
-      "issue": "Meera knocks on the morning after Ila and Kunal come up at the Shilak Cairn, and ch 31 calls that morning 'the seventeenth day of the rope, the morning after the Under-Cairn'. Meera says 'Day sixteen. Nineteen days'.",
-      "fix": "Make Meera's count day seventeen, with eighteen days to the meadow (still day 35).",
+      "category": "object",
+      "issue": "In chapter 24 Ila draws the nail and takes the hide note down after Kunal lifts the whistle off. Chapter 27 says he took the whistle 'with the note still pinned beside it'.",
+      "fix": "Say he lifted the whistle from above the note, without claiming the note stayed pinned.",
       "patches": [
         {
-          "chapter": 30,
-          "find": "\"Day sixteen,\" said Meera. \"Nineteen days to your meadow, if it's a soft year. Nineteen days your promise bites. After that it's only you.\"",
-          "replace": "\"Day seventeen,\" said Meera. \"Eighteen days to your meadow, if it's a soft year. Eighteen days your promise bites. After that it's only you.\""
+          "chapter": 27,
+          "find": "He had lifted it off the lintel nail at the hut, with the note still pinned beside it, and he had not taken it off since.",
+          "replace": "He had lifted it off the lintel nail at the hut, from above the note, and he had not taken it off since."
         }
       ]
     },
     {
       "id": "E05",
-      "chapter": 3,
+      "chapter": 31,
       "severity": "minor",
       "category": "timeline",
-      "issue": "In ch 3 thirty-five days is the gap between the Meadow and Shilak thaws ('I have the winter minus thirty-five days'). From ch 17 onward, thirty-five days is the bond's own length from the binding to the Meadow meltwater, and the actual gap in ch 31 is twenty-one days.",
-      "fix": "Have Ila's ch 3 figure be the bond's length in a soft year, not the gap.",
+      "issue": "The pair leave the Under-Cairn and come out at the Shilak Cairn at dawn, then spend that day and night in the salt house. Meera's knock the next morning is day sixteen. Day seventeen is therefore not 'the morning after the Under-Cairn'.",
+      "fix": "Anchor day seventeen to Meera's knock.",
       "patches": [
         {
-          "chapter": 3,
-          "find": "\"Thirty-five days,\" she said. \"In a soft year. That's what I lose.\"",
-          "replace": "\"Thirty-five days,\" she said. \"In a soft year. That's all the rope gives me.\""
-        },
-        {
-          "chapter": 3,
-          "find": "\"Lose?\"",
-          "replace": "\"All?\""
-        },
-        {
-          "chapter": 3,
-          "find": "\"The crown thinks I have the whole winter. I have the winter minus thirty-five days.\" She shut the book.",
-          "replace": "\"The crown thinks I have the whole winter. I have thirty-five days of it.\" She shut the book."
+          "chapter": 31,
+          "find": "On the seventeenth day of the rope, the morning after the Under-Cairn, Ila pinned two sheets",
+          "replace": "On the seventeenth day of the rope, the morning after Meera's knock, Ila pinned two sheets"
         }
       ]
     },
     {
       "id": "E06",
-      "chapter": 23,
+      "chapter": 2,
       "severity": "minor",
-      "category": "knowledge",
-      "issue": "Ila hedges that the letter 'did not say he had walked this way, only that he had been guided'. The ch 16 letter says plainly that Udai guided Harish 'by the way that begins at these lakes'. What it does not say is what Udai did.",
-      "fix": "Correct the hedge to match the letter's actual content.",
+      "category": "magic",
+      "issue": "Under the Winter Crossing Law the rope is eight spans of the guide's own arm. In chapter 3 Ila measures the rope against her own arm 'because she was the guide'. But chapter 2 puts Kunal's name on her licence's guide line, and chapter 1 has the licence ask the council to 'name a guide'. That would make the rope his arm's length.",
+      "fix": "Have the licence ask the council for a bound partner, not a guide, so Ila stays the guide whose arm sets the rope.",
       "patches": [
         {
-          "chapter": 23,
-          "find": "Hedged, even in her own head: the letter did not say he had walked this way, only that he had been guided.",
-          "replace": "Hedged, even in her own head: the letter said he had been guided this way, not what his guide had done."
-        }
-      ]
-    },
-    {
-      "id": "E07",
-      "chapter": 21,
-      "severity": "minor",
-      "category": "injury",
-      "issue": "In ch 20 Ila leaves the wrappings on Kunal's raw fingertips. The next morning in ch 21 his hands are 'bandaged to the knuckle, and the tips were pink', as if the tips were bare.",
-      "fix": "Keep the tips wrapped, with the pink showing at the edges.",
-      "patches": [
+          "chapter": 1,
+          "find": "I have a licence application, four lines, asking the council to name a guide and bind me to him at the cairn.",
+          "replace": "I have a licence application, four lines, asking the council to name a partner and bind me to him at the cairn."
+        },
         {
-          "chapter": 21,
-          "find": "They were bandaged to the knuckle, and the tips were pink.",
-          "replace": "They were bandaged to the knuckle, and the tips showed pink at the edges of their wrappings."
-        }
-      ]
-    },
-    {
-      "id": "E08",
-      "chapter": 4,
-      "severity": "minor",
-      "category": "timeline",
-      "issue": "At dawn Kunal says Ranu is 'a day down the Garh road', but the chapter opens with them already in Ranu at noon the same day.",
-      "fix": "Make it half a day.",
-      "patches": [
+          "chapter": 1,
+          "find": "With it, the council would name a guide for her, bind her to him at the cairn, and she could cross the Saddle.",
+          "replace": "With it, the council would name a partner for her, bind her to him at the cairn, and she could cross the Saddle."
+        },
         {
-          "chapter": 4,
-          "find": "Then he turned south. \"Ranu is a day down the Garh road.",
-          "replace": "Then he turned south. \"Ranu is half a day down the Garh road."
+          "chapter": 2,
+          "find": "On the line left for the guide's name, the pencil had already been there.",
+          "replace": "On the line left for the partner's name, the pencil had already been there."
         }
       ]
     }
