@@ -1,24 +1,8 @@
 {
   "facts": [
     {
-      "category": "knowledge",
-      "fact": "Ila infers that Kunal clipped the corners of the nineteen silvers so the medicine in Ranu could not be traced to his hand; Kunal confirms he never expected anyone to work out why."
-    },
-    {
-      "category": "knowledge",
-      "fact": "Only Ila's mother ever warmed her feet; Ila hides them in the field, keeping them under her or in a bag."
-    },
-    {
-      "category": "place",
-      "fact": "The herders' hut's door is hidden from the Kuhl shoulder by a scree spur. Ila has Kunal keep only a single banked coal under an upturned clay pot, so no flame shows through the smoke hole; the hut stays cold."
-    },
-    {
-      "category": "injury",
-      "fact": "Kunal's fingertips are still raw and split and dressed; Ila kisses his knuckles above the dressings."
-    },
-    {
-      "category": "knowledge",
-      "fact": "Kunal carries Ila's pencil leads against his chest, which she cites as something she watched him do (F480)."
+      "fact": "Garh Neshar store silver is punched with the store-bell in one corner; clipping the corner removes the crown-held stores' mark so the coin cannot be traced to the Garh treasury or to Kunal.",
+      "category": "object"
     }
   ]
 }
