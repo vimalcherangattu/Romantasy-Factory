@@ -179,7 +179,7 @@
       ]
     },
     "06": {
-      "status": "passed",
+      "status": "edited",
       "revisions": 0,
       "scores": {
         "reader_question": 4.0,
@@ -193,10 +193,10 @@
       },
       "average": 4.0,
       "flags": [],
-      "words": 3202,
+      "words": 3199,
       "minimum": 3.0,
       "style": {
-        "words": 2997,
+        "words": 3199,
         "banned_hits": {},
         "ai_tell_hits": {},
         "ai_tells_per_1000": 0.0,
@@ -204,7 +204,7 @@
         "top_4gram_count": 2,
         "longest_paragraph_words": 78,
         "em_dashes_per_1000": 0.0,
-        "reading_ease": 97.0
+        "reading_ease": 96.9
       },
       "owner_instructions": [
         "Keep the Nimmi's Knuckle naming as written. Ch31 replaces it with Widow's Knuckle.",
@@ -2241,9 +2241,13 @@
     {
       "at": "2026-11-21T20:20:12",
       "event": "done: S8 line edit ch 5"
+    },
+    {
+      "at": "2026-11-21T20:20:50",
+      "event": "done: S8 line edit ch 6"
     }
   ],
-  "updated_at": "2026-11-21T20:20:12",
+  "updated_at": "2026-11-21T20:20:50",
   "midpoint_chapter": 16,
   "continuity_attempts": 0,
   "continuity_last_errors": null,
