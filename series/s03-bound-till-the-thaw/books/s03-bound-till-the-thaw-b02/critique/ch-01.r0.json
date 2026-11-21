@@ -5,37 +5,37 @@
     "romance_movement": 4.0,
     "shown_chemistry": 4.0,
     "character_logic": 4.0,
-    "stakes_and_cost": 3.0,
+    "stakes_and_cost": 4.0,
     "prose": 4.0,
-    "continuity": 0.0
+    "continuity": 5.0
   },
   "reasons": {
-    "reader_question": "The void and Kunal's glance at the wall give a sharp, specific gap. His opposition is stated but its motive is left too open.",
-    "change": "She leaves knowing he will fight her licence and suspecting the wall hides something he guards. Knowledge and relationship both shift.",
-    "romance_movement": "They move from drafting-table acquaintances to declared opponents. Her laugh is a new, specific reversal that leaves him wrong-footed.",
-    "shown_chemistry": "The stair-count sparring, her near-laugh and his speechless startle are responsive. Desire tied to observed traits is still faint.",
-    "character_logic": "Kunal's open declaration fits a truthful adversary. Ila showing the void to Pritam's nephew is slightly incautious but in character.",
-    "stakes_and_cost": "The licence, Orlan and the chair are clear. Her next choice (council tomorrow, the void) carries no named cost yet.",
-    "prose": "Concrete and well voiced, with no banned phrases or dashes. Minor flaws: an overused 'Is it?' tic and the awkward 'sent out of dinner tables'.",
-    "continuity": "'Kiran's Elbow' is said to be formerly Spur Fourteen, but F633 records it as formerly Point 4410."
+    "reader_question": "The void and the closing image of Kunal guarding the wall give a sharp, specific question. Kiran's silence adds a second thread.",
+    "change": "Ila now holds the void, Kunal now holds it too, and she knows he will oppose her. She ends wary instead of neutral.",
+    "romance_movement": "They go from rope-arguers to declared opponents. His one plain sentence and her laugh are a new reason they connect.",
+    "shown_chemistry": "Chemistry comes through action: the loose hand on the rail, the ink-stain rub, the ghost step joke, her bray that silences him.",
+    "character_logic": "Telling Pritam's nephew about the void is risky, but she uses it to test his face and then chooses to withhold it from council.",
+    "stakes_and_cost": "The chair is set against her creed, and her choice to hold back the void is named as costly. Licence stakes are concrete.",
+    "prose": "Clean and concrete with no banned phrases or dashes. 'Tuesday kind of look' breaks the world, and one decision paragraph over-reasons.",
+    "continuity": "Ages, Madan, rope argument, seals, Varun and the stair count match. Commission wording drifts slightly from F431."
   },
   "fixes": [
-    "In 'she'd have entered a year ago as Spur Fourteen', the crown designation conflicts with continuity (F633: 'Point 4410'). Change it to 'Point 4410'. Rework 'The crown's own ledger called them Spur Nine and Spur Fourteen' so it uses Point 4410 for Kiran's Elbow and a separate point number for Tamar's Shoulder.",
-    "At 'Without it she was a woman with a lovely sheet', the stakes lack personal cost. After Kunal's 'Tomorrow I will speak against your licence', add one beat where Ila weighs a choice that costs her. For example, she could decide to keep the void out of tomorrow's council to protect her licence, knowing that silence breaks her 'a map is true or false' creed.",
-    "In 'a bray that had been getting her sent out of dinner tables', fix the awkward idiom to 'sent from dinner tables'. Also trim Kunal's 'Is it?' / 'Does it matter?' from seven uses to four so the question-habit stays sharp rather than mechanical (repetitive tension in dialogue)."
+    "At \"'Eight, then,' he said, and wrote it down\" the logic is unclear (Irrational behaviour to extend plot). The reader can't tell what is counted, why he lies when medicine passes, or how the clerk knows eight. Make it packets, and have the clerk open the roll and count eight. Show in one clause why the man shaved two, such as a sick child at home. Also replace 'Tuesday kind of look' with a world-native image.",
+    "At \"*Map every winter way.* Not a word on how\" the wording breaks continuity with F431 and with Ila's own line 'The commission says every way.' Quote it as '*Every way.*' in both places, then let Ila read 'winter' into it herself, e.g. 'Every way, which in Neshar meant winter.' This also sharpens her later evasion to Kunal.",
+    "At \"The field book lay against her ribs with its one question mark\" the paragraph rehearses both branches of the choice at length (Endless monologue). Cut it to three or four sentences: the void is now his too, telling council makes her the crown's woman prying at his wall, so she keeps it back. End on 'and hated the decision at once.' Keep the loose-tooth image."
   ],
-  "reader_question": "What is hidden behind the north wall that Kunal stood close to guard, and why will he vote against her crossing?",
+  "reader_question": "What is hidden behind the north wall that Kunal was standing so close to, and how will he stop her licence tomorrow?",
   "techniques_landed": [
     1,
-    11,
-    16
+    16,
+    11
   ],
-  "new_facts_assessment": "Pell Orlan is a useful, consistent rival. The archive refusal matches F426. Kiran's Varun line fits F028. Several new facts are unlisted: the grain slate going up a sack, Ila watching the law cut from twenty-six lines to eleven, and Kunal arguing for ten spans. All are harmless but should be logged. 'Spur Nine/Spur Fourteen' conflicts with F633.",
+  "new_facts_assessment": "new-facts.json is empty, but the draft adds facts. The redbark pair's lie to each other is new. Ila's laugh getting her sent from tables since eleven is new. Kunal and his cousins learning thirty-nine is new. 'Map every winter way' as the commission wording is new. All are harmless and consistent except the commission wording, which conflicts mildly with F431 ('every way') and with Ila's own line to Kunal. Each should be listed.",
   "content_rule_violation": false,
   "failure_modes": [
-    "Stakes without depth"
+    "Endless monologue"
   ],
-  "average": 3.38,
-  "minimum": 0.0,
-  "passed": false
+  "average": 4.12,
+  "minimum": 4.0,
+  "passed": true
 }

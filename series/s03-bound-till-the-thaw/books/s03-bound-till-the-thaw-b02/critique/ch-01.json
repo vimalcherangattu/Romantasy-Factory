@@ -3,40 +3,39 @@
     "reader_question": 4.0,
     "change": 4.0,
     "romance_movement": 4.0,
-    "shown_chemistry": 3.0,
-    "character_logic": 3.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 4.0,
     "stakes_and_cost": 4.0,
     "prose": 4.0,
     "continuity": 5.0
   },
   "reasons": {
-    "reader_question": "The void, Kunal's glance at the wall and his vote give a specific, double-edged question to carry out.",
-    "change": "Ila ends wary, holding a secret she has chosen to keep, with a declared opponent who has just been disarmed.",
-    "romance_movement": "Rope-table acquaintances become declared opponents. Her laugh at his plain sentence is a new reason, and it changes him.",
-    "shown_chemistry": "The stair sparring is sharp and responsive. Ila's attention to Kunal is purely forensic, with no desire tied to anything he does.",
-    "character_logic": "Ila tells Kunal about the void, then reasons that withholding it from council protects her, ignoring that he already holds it.",
-    "stakes_and_cost": "The licence, Orlan's chair and her creed are all named. Withholding the void costs her a principle she visibly hates breaking.",
-    "prose": "Clean, concrete, no banned phrases or em-dash excess. Some summary lines, a few stacked similes and one clunky sentence.",
-    "continuity": "Ages, law notice seals, Madan, the 39/40 stair, the drafting-table rope argument and Kiran's age all match the facts."
+    "reader_question": "The void and the closing image of Kunal guarding the wall give a sharp, specific question. Kiran's silence adds a second thread.",
+    "change": "Ila now holds the void, Kunal now holds it too, and she knows he will oppose her. She ends wary instead of neutral.",
+    "romance_movement": "They go from rope-arguers to declared opponents. His one plain sentence and her laugh are a new reason they connect.",
+    "shown_chemistry": "Chemistry comes through action: the loose hand on the rail, the ink-stain rub, the ghost step joke, her bray that silences him.",
+    "character_logic": "Telling Pritam's nephew about the void is risky, but she uses it to test his face and then chooses to withhold it from council.",
+    "stakes_and_cost": "The chair is set against her creed, and her choice to hold back the void is named as costly. Licence stakes are concrete.",
+    "prose": "Clean and concrete with no banned phrases or dashes. 'Tuesday kind of look' breaks the world, and one decision paragraph over-reasons.",
+    "continuity": "Ages, Madan, rope argument, seals, Varun and the stair count match. Commission wording drifts slightly from F431."
   },
   "fixes": [
-    "At 'Give it, and she was the crown's woman prying', Ila ignores that she has just told Kunal (irrational behaviour). Have her register that he now holds the number. Reframe the choice as whether to put it in the record herself or wait to see if he uses it, so the withholding is still costly and smart.",
-    "At 'This winter Pritam was held in it', the timeline blurs: Pritam has been held since last winter's Fair. Change to 'Since the Fair, Pritam had been held in it, and this winter the council had given her a pass', so the gap between measurements is clear.",
-    "At 'She said it flat out. A number was most', the line is clunky and Ila's interest in Kunal is only forensic (narrated-only chemistry). Cut 'because she was also a person who watched'. Add one beat where she notices a specific act of his, such as the hand loose on the rail or his exact count, and it pulls at her before she shuts it down."
+    "At \"'Eight, then,' he said, and wrote it down\" the logic is unclear (Irrational behaviour to extend plot). The reader can't tell what is counted, why he lies when medicine passes, or how the clerk knows eight. Make it packets, and have the clerk open the roll and count eight. Show in one clause why the man shaved two, such as a sick child at home. Also replace 'Tuesday kind of look' with a world-native image.",
+    "At \"*Map every winter way.* Not a word on how\" the wording breaks continuity with F431 and with Ila's own line 'The commission says every way.' Quote it as '*Every way.*' in both places, then let Ila read 'winter' into it herself, e.g. 'Every way, which in Neshar meant winter.' This also sharpens her later evasion to Kunal.",
+    "At \"The field book lay against her ribs with its one question mark\" the paragraph rehearses both branches of the choice at length (Endless monologue). Cut it to three or four sentences: the void is now his too, telling council makes her the crown's woman prying at his wall, so she keeps it back. End on 'and hated the decision at once.' Keep the loose-tooth image."
   ],
-  "reader_question": "What is hidden behind the north wall that Kunal glanced at, and how will he use his speech to stop her crossing?",
+  "reader_question": "What is hidden behind the north wall that Kunal was standing so close to, and how will he stop her licence tomorrow?",
   "techniques_landed": [
     1,
     16,
     11
   ],
-  "new_facts_assessment": "Ila at 31 is necessary and correct (bible, F654). The prior outside measurement fits F184, but 'This winter Pritam was held in it' blurs that he has been held since last midwinter's Fair; reword. The blue cord and ink stain are harmless, useful tells, and the stain is used on the page.",
+  "new_facts_assessment": "new-facts.json is empty, but the draft adds facts. The redbark pair's lie to each other is new. Ila's laugh getting her sent from tables since eleven is new. Kunal and his cousins learning thirty-nine is new. 'Map every winter way' as the commission wording is new. All are harmless and consistent except the commission wording, which conflicts mildly with F431 ('every way') and with Ila's own line to Kunal. Each should be listed.",
   "content_rule_violation": false,
   "failure_modes": [
-    "Irrational behaviour to extend plot",
-    "Narrated-only chemistry"
+    "Endless monologue"
   ],
-  "average": 3.88,
-  "minimum": 3.0,
+  "average": 4.12,
+  "minimum": 4.0,
   "passed": true
 }
