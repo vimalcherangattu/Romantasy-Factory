@@ -1,39 +1,41 @@
 {
   "scores": {
-    "reader_question": 4.0,
+    "reader_question": 3.0,
     "change": 4.0,
-    "romance_movement": 4.0,
-    "shown_chemistry": 4.0,
+    "romance_movement": 5.0,
+    "shown_chemistry": 5.0,
     "character_logic": 4.0,
     "stakes_and_cost": 4.0,
     "prose": 4.0,
     "continuity": 0.0
   },
   "reasons": {
-    "reader_question": "Clear question about whether her promise outlasts the bond. Pritam's winter way and the Hollow Moon prisoners add a second one.",
-    "change": "Raghu is taken, Hari is confirmed alive, Pritam's aim is revealed, and the pair go from hunted to free and declared.",
-    "romance_movement": "Her declaration in the light mirrors his in the dark (ch 29). The map promise is a new, costed commitment beyond the bond.",
-    "shown_chemistry": "Strong responsive care: the heel nest, the mouth for dead fingertips, 'I'll tell you the shape'. The 'I like you' list leans told.",
-    "character_logic": "Kunal makes Pasang ask because only a bound partner's lie costs. Raghu knows silence would convict. Pasang's sit-down is earned.",
-    "stakes_and_cost": "The promise names its cost: the oath, the Taravan audit and a great-lie strike. The Raghu climax resolves somewhat cleanly.",
-    "prose": "Vivid and concrete ('The light came up the crawl on its knees'). One garbled Drum sentence and a few voice echoes.",
-    "continuity": "'Day thirty-two' and 'a month of days' conflict with F713 (day ten at ch 17) and F759 (two weeks at ch 27). Ch 28 to 30 run continuously."
+    "reader_question": "The promise's lapse at the meadow is stated mid-chapter, but the ending's 'start drawing' deadline pulls focus to logistics rather than the open question.",
+    "change": "Raghu is disarmed and taken, the keepers' location is learned, and Ila declares. Power, knowledge and relationship all move.",
+    "romance_movement": "Her 'I love you' answers his dark-vault declaration in the light, with hands shown. It is a new reason, and the promise outlasts enforcement.",
+    "shown_chemistry": "Warm pencil leads, his raised dead hand, 'use your mouth and I'll tell you the shape', and the nest for her feet: all responsive, specific care.",
+    "character_logic": "Kunal's rope-rule trap is smart and Pasang's turn is earned. Raghu lying when he knows silence betrays him is a plausible gamble under pressure.",
+    "stakes_and_cost": "Ila names the cost of her promise: her oath to show the crown alone, the spring audit and a great-lie strike if broken while bound.",
+    "prose": "Clean, concrete, few tells. 'Pritam promised my cousin's keepers' freedom' is garbled, and 'a blade picked up and turned' is clumsy.",
+    "continuity": "Raghu's lie greys his knuckles, then lines later his hands 'stayed warm and pink' and verify truth. This breaks the lie-cold duration rule (F075, F352) and the chapter's own later grey fingers."
   },
   "fixes": [
-    "'Day thirty-two,' said Meera. 'Your meadow's running soon.' and 'for a month of days': continuity conflict. F713 and F759 put the bond at about day 15 to 16 here. Either get an S7 ruling that moves those facts, or change both lines to the true count. Keep the deadline pressure, e.g. 'Day sixteen. Nineteen to your meadow, if it's a soft year,' and recast 'a month of days' as 'half a month'.",
-    "'For three nights the Shilak Cairn had hummed from under the ground': POV slip. Kunal cannot know Gopal's message or Rohan's vigil, and F608 says the cairn rang, not hummed. Cut the omniscient paragraph. Put it in Rohan's mouth as one line, e.g. 'It's rung under our feet three nights. Gopal sent for me.' Kunal can then infer the rest.",
-    "'I saw the tips go from the prince's arms and told him, and he couldn't read it.': garbled syntax at a key evidence beat. Rewrite plainly, e.g. 'His fingertips went white when he said it. I saw them from the prince's arms. I told the prince, and he couldn't read it.' Also cut 'She kept her voice level', which echoes 'dry and exact' two lines earlier."
+    "At 'His hands, tied to Pasang by the rope, stayed warm and pink', the chapter uses magic against its own rule: his hands are already grey from the lie, and he is speaking to Kunal, which is free. Cut the hand-verification. Have Pasang confirm it instead ('He told us that at Sarn fold, Captain. All of us.'). Kunal believes it because it fits Pasang's winter-way report. Revise F802 to match.",
+    "At 'Your meadow will run, and your rope go slack, long before you're done', the ending is a soft deadline that names no stakes. Have Meera state the promise's term plainly: 'Nineteen days your promise bites. After that it's only you.' Ila answers by reaching for the sheets, and Kunal produces the warm leads. The ending then carries the reader question.",
+    "At 'Pritam promised my cousin's keepers' freedom to this boy', the possessive is garbled and implies a cousin the bible lacks. Change it to 'Pritam promised my keepers their freedom to this boy, and grain to you.'"
   ],
-  "reader_question": "Once the Meadow Cairn runs and the mountain stops enforcing it, will Ila still give Neshar the same map she gives the queen?",
+  "reader_question": "When the bond lapses at the Meadow Cairn, will Ila still give Neshar and the queen the same map at the same hour?",
   "techniques_landed": [
     16,
     20,
     22
   ],
-  "new_facts_assessment": "F775 is needed and ties to Pritam's later escape (F627). F776 matches the eight pairs in F535 and answers Hari's fate (F536). F777 fits Rule 1: the truth would change Pasang's obedience, so middling, not small like F584. F778 is consistent with the oath (F639) and the audit (F497). All four are needed. The only conflict is the day count noted above.",
+  "new_facts_assessment": "F802 (Raghu's true motive) is useful, but its proof is invalid. Grey lie-cold hands cannot testify, and a statement made to Kunal is free regardless. Re-ground it. F803 (Hari walking) is consistent and needed. F804 matches F622. The draft rightly follows F795's 'Day sixteen' over the beat's 'Day thirty-two', but drops F795's 'if it's a soft year'.",
   "content_rule_violation": false,
-  "failure_modes": [],
-  "average": 3.5,
+  "failure_modes": [
+    "Convenient magic"
+  ],
+  "average": 3.62,
   "minimum": 0.0,
   "passed": false
 }

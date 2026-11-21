@@ -1,39 +1,41 @@
 {
   "scores": {
-    "reader_question": 4.0,
+    "reader_question": 3.0,
     "change": 4.0,
     "romance_movement": 5.0,
     "shown_chemistry": 5.0,
     "character_logic": 4.0,
     "stakes_and_cost": 4.0,
     "prose": 4.0,
-    "continuity": 5.0
+    "continuity": 0.0
   },
   "reasons": {
-    "reader_question": "A clear question: will Ila share the map within the bond's remaining days, and keep the promise after? The flat final line blunts it.",
-    "change": "Raghu goes from armed hunter to prisoner. Pasang gives up the keepers' location. Ila declares love and binds herself to a promise.",
-    "romance_movement": "The declaration is verified by warm hands, answers his dark 'I love you', and adds a costed promise. The reason is new.",
-    "shown_chemistry": "The itemised 'I like you' list, the mouth-and-instruction answer to his dead fingertips, and the blanket nest are responsive and specific.",
-    "character_logic": "Kunal turning the rope rule on Raghu through Pasang is smart. Raghu's lunge as his last direction is earned.",
-    "stakes_and_cost": "Ila names the oath, the spring audit and the great-lie strike. Kunal refuses to promise what he can't deliver.",
-    "prose": "Mostly clean and concrete. A few told interior beats ('something in his chest did', 'could not calculate anything') and some stock similes.",
-    "continuity": "Consistent with F608, F610, F622, F409 and F777. 'Day sixteen' fits F713 and F759 better than the beat's day 32."
+    "reader_question": "The promise's lapse at the meadow is stated mid-chapter, but the ending's 'start drawing' deadline pulls focus to logistics rather than the open question.",
+    "change": "Raghu is disarmed and taken, the keepers' location is learned, and Ila declares. Power, knowledge and relationship all move.",
+    "romance_movement": "Her 'I love you' answers his dark-vault declaration in the light, with hands shown. It is a new reason, and the promise outlasts enforcement.",
+    "shown_chemistry": "Warm pencil leads, his raised dead hand, 'use your mouth and I'll tell you the shape', and the nest for her feet: all responsive, specific care.",
+    "character_logic": "Kunal's rope-rule trap is smart and Pasang's turn is earned. Raghu lying when he knows silence betrays him is a plausible gamble under pressure.",
+    "stakes_and_cost": "Ila names the cost of her promise: her oath to show the crown alone, the spring audit and a great-lie strike if broken while bound.",
+    "prose": "Clean, concrete, few tells. 'Pritam promised my cousin's keepers' freedom' is garbled, and 'a blade picked up and turned' is clumsy.",
+    "continuity": "Raghu's lie greys his knuckles, then lines later his hands 'stayed warm and pink' and verify truth. This breaks the lie-cold duration rule (F075, F352) and the chapter's own later grey fingers."
   },
   "fixes": [
-    "Ending, 'Day sixteen... Nineteen to your meadow, if it's a soft year.' The ending is weak: it neither interrupts an action nor reveals anything, and it loses the beat's urgency. Keep day sixteen, but cut 'if it's a soft year' (F622 fixes day 35). Then give Meera one concrete line that starts the promise's clock, for example that the queen's clerk at the post is already asking for Ila's sheets. The promise must then be tested before the bond ends.",
-    "'He had kissed women in courts, with calculation. Now he could not calculate anything.' This is narrated interiority telling us his change. Replace it with a physical beat that shows he has stopped strategising, such as his dead fingertips fumbling and him laughing at it instead of hiding his hand. Keep the next line about her feet.",
-    "'Kunal's grip on Raghu's wrist did not change, but something in his chest did. Hari was alive.' This is a stock interior cliché. Show the reaction instead: Kunal asks one exact question ('Is he walking?') and Pasang answers, then he says 'Thank you'. The relief comes through dialogue rather than narration."
+    "At 'His hands, tied to Pasang by the rope, stayed warm and pink', the chapter uses magic against its own rule: his hands are already grey from the lie, and he is speaking to Kunal, which is free. Cut the hand-verification. Have Pasang confirm it instead ('He told us that at Sarn fold, Captain. All of us.'). Kunal believes it because it fits Pasang's winter-way report. Revise F802 to match.",
+    "At 'Your meadow will run, and your rope go slack, long before you're done', the ending is a soft deadline that names no stakes. Have Meera state the promise's term plainly: 'Nineteen days your promise bites. After that it's only you.' Ila answers by reaching for the sheets, and Kunal produces the warm leads. The ending then carries the reader question.",
+    "At 'Pritam promised my cousin's keepers' freedom to this boy', the possessive is garbled and implies a cousin the bible lacks. Change it to 'Pritam promised my keepers their freedom to this boy, and grain to you.'"
   ],
-  "reader_question": "With nineteen days left on the bond, will Ila really hand Neshar and the queen the same map, and keep that promise once the mountain stops enforcing it?",
+  "reader_question": "When the bond lapses at the Meadow Cairn, will Ila still give Neshar and the queen the same map at the same hour?",
   "techniques_landed": [
     16,
     20,
     22
   ],
-  "new_facts_assessment": "The new-facts file is empty, but the draft adds facts: Pasang is twenty; Raghu's repeat lie is now middling (F777); Hari is alive in the Hollow Moon huts with eight guard pairs (F776); Raghu sought a winter way for Pritam (F775); 'Day sixteen' with nineteen to the meadow. All are consistent and necessary. The day count departs from the beat's 'day thirty-two', but continuity supports sixteen and the change should be logged. The 'if it's a soft year' hedge conflicts in spirit with F622's fixed day 35.",
+  "new_facts_assessment": "F802 (Raghu's true motive) is useful, but its proof is invalid. Grey lie-cold hands cannot testify, and a statement made to Kunal is free regardless. Re-ground it. F803 (Hari walking) is consistent and needed. F804 matches F622. The draft rightly follows F795's 'Day sixteen' over the beat's 'Day thirty-two', but drops F795's 'if it's a soft year'.",
   "content_rule_violation": false,
-  "failure_modes": [],
-  "average": 4.38,
-  "minimum": 4.0,
-  "passed": true
+  "failure_modes": [
+    "Convenient magic"
+  ],
+  "average": 3.62,
+  "minimum": 0.0,
+  "passed": false
 }
