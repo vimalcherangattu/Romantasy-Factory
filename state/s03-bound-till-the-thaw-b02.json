@@ -3,7 +3,7 @@
   "series_id": "s03-bound-till-the-thaw",
   "number": 2,
   "title": "The Winter Oath",
-  "status": "blocked",
+  "status": "in_progress",
   "stage": "S3",
   "done": [
     "S3"
@@ -2440,9 +2440,21 @@
     {
       "at": "2026-11-21T21:16:21",
       "event": "blocked at S7 continuity: 1 major continuity errors remain after 1 fix round(s): ch 28: In ch 25 Ila caches all five sheets in the gap behind the plank shelf of the second lake hut, and in ch 28 she tells Kunal they are still there. Neither of them goes back to the huts before the Under-Cairn, yet in ch 30 she reaches for the sheets in her coat and in ch 31 she copies them at Kothi Shilak. Ch 29 also says Kunal cut her crutch 'at the lake huts', a visit that never happens on the page."
+    },
+    {
+      "at": "2026-11-21T21:16:53",
+      "event": "unblocked by owner"
+    },
+    {
+      "at": "2026-11-21T21:24:28",
+      "event": "continuity round 1: 7 errors, 11 patches applied, 0 to revise"
+    },
+    {
+      "at": "2026-11-21T21:24:28",
+      "event": "done: S7 continuity"
     }
   ],
-  "updated_at": "2026-11-21T21:16:21",
+  "updated_at": "2026-11-21T21:24:28",
   "midpoint_chapter": 16,
   "continuity_attempts": 1,
   "continuity_last_errors": 1,
