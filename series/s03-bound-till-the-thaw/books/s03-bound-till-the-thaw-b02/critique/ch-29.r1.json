@@ -1,0 +1,42 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 5.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 4.0,
+    "stakes_and_cost": 4.0,
+    "prose": 3.0,
+    "continuity": 5.0
+  },
+  "reasons": {
+    "reader_question": "Who carries the lamp up the crawl is specific and urgent. The worn final word stays open as a second hook.",
+    "change": "Big knowledge gains: Hemi was a woman, Harish's mark, the missing gloves. The relationship moves from verification to belief.",
+    "romance_movement": "The declaration is staged so proof is impossible, and she chooses not to check. The reason is new: trust without an instrument.",
+    "shown_chemistry": "The warm pencil lead, the pace-count callback and the gloved hands are responsive acts. Two narrated paragraphs explain what the action already shows.",
+    "character_logic": "Ila's measuring and glove arithmetic fit her well. She states 'Hemi was a woman' with more certainty than a measurer would claim.",
+    "stakes_and_cost": "Low oil, a dead-end vault and a pursuer behind them. Choosing belief costs Ila her one honest instrument.",
+    "prose": "Concrete and well paced, but the 'understood slowly' block over-explains. Counting beats echo, and several lines tell the emotion.",
+    "continuity": "Consistent with F480, F490, F583, F595, F602, F608, F626 and the rope and stone rules. No conflicts found."
+  },
+  "fixes": [
+    "At 'That was the point, she understood slowly.' through 'It was the most frightening thing anyone had ever done to her.' the narration explains the mechanism the scene already enacts (narrated chemistry / monologue). Cut this to two short sentences: she notices she cannot see his hands, and she notices the stones are ready to answer. Then go straight to her reaching for his hands. Let the gloves dialogue carry the meaning.",
+    "At '\"Hemi was a woman.\" She heard it come out of her like a measurement, flat and certain' a measurer overclaims (character logic). A narrow hand longer than hers could be a man's. Give her an exact reason and a confidence in her own idiom, e.g. 'Wrist to taper, it's a woman's. Nine in ten.' Kunal can then push back once. This also deepens the sparring.",
+    "At 'The lamp died in the crawl.' the opening loss of light has no cause, yet they have half a skin of oil and relight easily (logic gap). Add one clause: the wick drowned at the six-foot step, or Ila ordered it out to save oil. Also vary 'She counted them, because counting was what her hands knew' against 'She counted them. She could not have stopped herself.' so the beat isn't repeated."
+  ],
+  "reader_question": "Who has followed Ila and Kunal into the Under-Cairn, and can they get out with the rubbing before the oil runs out?",
+  "techniques_landed": [
+    1,
+    11,
+    20
+  ],
+  "new_facts_assessment": "All necessary and consistent. The crutch pace of 1.25 spans fits F598 and F583 and does not clash with the later 1.75 in F613. Ila's long hands justify the measurement. The 13 pairs against 14 marks neatly reconciles F490 with the beat. Half a skin of oil fits F597. The gloves-on choice respects F013. Pritam teaching the script is plausible next to F563.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Narrated-only chemistry",
+    "Endless monologue"
+  ],
+  "average": 4.12,
+  "minimum": 3.0,
+  "passed": true
+}
