@@ -5586,6 +5586,34 @@
       "fact": "Rohan hears about Harish on day 18 in the Shilak post room, having stood three dawns at the cairn.",
       "since": "s03-bound-till-the-thaw-b02 ch 31",
       "provisional": true
+    },
+    {
+      "id": "F815",
+      "category": "timeline",
+      "fact": "Rohan hears Ila's account of Harish in the Shilak post room on day 18, having stood three dawns at the cairn. This confirms F814 and supersedes F782 and F784 (any other return-day or road for Rohan).",
+      "since": "s03-bound-till-the-thaw-b02 ch 31",
+      "provisional": true
+    },
+    {
+      "id": "F816",
+      "category": "knowledge",
+      "fact": "Ila keeps the Under-Cairn rubbing folded and unread when she tells Rohan, because she promised Kiran the first reading; Kiran is crossing the Saddle with the council's pairs.",
+      "since": "s03-bound-till-the-thaw-b02 ch 31",
+      "provisional": true
+    },
+    {
+      "id": "F817",
+      "category": "relationship",
+      "fact": "Queen Sarala refuses the no-garrison clause first. Kunal offers his own name as surety: if Pritam leaves Neshar's keeping, the garrison comes, his council seat goes, and he answers personally at Taravan. The queen then grants all four on that condition, plus the council's pairs walking every mapped way.",
+      "since": "s03-bound-till-the-thaw-b02 ch 31",
+      "provisional": true
+    },
+    {
+      "id": "F818",
+      "category": "injury",
+      "fact": "On day 35 Kunal shows both hands palms-out: the right grey-tipped (dead since the broken promise), the left pink.",
+      "since": "s03-bound-till-the-thaw-b02 ch 31",
+      "provisional": true
     }
   ],
   "knowledge": [
