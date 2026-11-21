@@ -10,31 +10,31 @@
     "continuity": 5.0
   },
   "reasons": {
-    "reader_question": "The ending poses a clear double question: no fire or stores in the cleft tonight, and whether he will hate her by morning.",
-    "change": "Dhanu is dead, Gauri is free, two toes are lost, and Kunal knows the sheets exist, so the power and knowledge shifts are real.",
-    "romance_movement": "The bond breaks for a new reason: her right choice, made alone, is now tied to Dhanu's body. His blame comes from grief, as the beat asks.",
-    "shown_chemistry": "He takes her cold unasked, she calls his steps from his arms, and he carries her on split palms. All of it is shown through action, not narration.",
-    "character_logic": "Ila refuses 'what are they for' with no stated reason, his right foot is never checked, and the 'stand on her word' rationale contradicts his blame.",
-    "stakes_and_cost": "Every step costs something: blistered palms, dead toes, Dhanu abandoned on the ice, and a night ahead with no fire.",
-    "prose": "The prose is lean and concrete with strong lines. Flaws: an internal slip on Gauri's wrists, two consecutive paragraphs opening 'Her', and fuzzy escape geography.",
-    "continuity": "Consistent with the lie-cold rules, the loophole, F555's dead fingertips, F562's thirty years and the Pasang/Raghu facts. Only the internal Gauri slip needs fixing."
+    "reader_question": "Clear exit question: can they survive a fireless night, will he forgive her, and what is Raghu hiding from Pasang.",
+    "change": "Kunal learns of her great lie and Dhanu's death. Ila loses two toes, Gauri is freed, two pursuers drown, and the bond is cracked.",
+    "romance_movement": "The new reason is a right choice made alone, in a lie, which grief turns into blame. 'Don't say anything true to me tonight' marks a fresh break.",
+    "shown_chemistry": "Taking the cold through his palms, running on her soundings and 'Put me down'/'I can' all show the bond through action.",
+    "character_logic": "Kunal reasons well. Raghu displaying an obviously dead hostage while demanding the sheets undercuts his own leverage, and Ila calling the route 'loud' is careless.",
+    "stakes_and_cost": "Every choice is paid for: blistered palms, dead toes, Dhanu left unburied, no fire or stores in the cleft.",
+    "prose": "Concrete and clean, with no banned phrases and very few tells. Small echoes: 'scrap of blue wool' twice, 'do the sum' twice, and 'Silence was free' carried over from ch25.",
+    "continuity": "Rope rules, the loophole, the dead right fingertips, the boom line figures, Gauri as sister and Pasang from Book 1 are all consistent."
   },
   "fixes": [
-    "At 'She ran badly, bent over, wrists still tied', the text contradicts itself: Kunal has just sawed 'the cloth between her wrists'. Choose one version. Either he cuts only the belt cord and she runs with bound wrists, or her wrists are free and she runs with the bleeding cut he gave her.",
-    "At 'That's free too. I won't say tonight.' the refusal reads as an artificial withholding. Give Ila a stated, costly reason in one or two lines. For example: they are minutes from a spyglass, and any answer about the sheets will send his eyes to her coat. That is the same reason she lied in chapter 25, and the reader knows it.",
-    "At 'because it was what Ila had said, and he would stand on her word' the logic contradicts the blame scene just before it. Replace it with a reason that fits his anger. For example: 'ash' is a lie Raghu cannot test, it is free to say to Raghu, and it keeps Raghu's search off her seams. Also have Kunal check her right boot, or state that he couldn't before dusk."
+    "\"Eleven paces left of the boom line,\" said Ila, clear and loud: 'clear and loud, into Kunal's ear' contradicts itself and hands Raghu the route. Change it to 'low and fast, into Kunal's ear'. Then make the pursuers' cut across the pale seam their own guess at the short way, so the drowning comes from their choice and not from overhearing her.",
+    "\"Sir. You told me the lame one was only...\": Pasang's line over-signposts the C17 clue and spends its ambiguity. A fair clue should be memorable but open. Cut his spoken accusation to a look and a shut mouth, and let Raghu's loud notice and the whitened fingertips carry the clue alone.",
+    "\"He's resting,\" said Raghu: displaying an obviously dead hostage weakens Raghu's own demand (Irrational behaviour). Give him a reason on the page. Lay Dhanu farther out, under a blanket, lit only by the slit lantern, so at dusk it could pass for sleep, with Gauri pegged as the real leverage. Kunal sees the frost only as he runs past."
   ],
-  "reader_question": "Will Ila and Kunal survive a fireless night in the Eye's cleft, and can he forgive the lie that he now ties to Dhanu's death?",
+  "reader_question": "Will Ila and Kunal survive the night in the cleft without fire, and can he forgive the lie that he believes let Dhanu die?",
   "techniques_landed": [
     6,
     13,
     19
   ],
-  "new_facts_assessment": "Most new facts are necessary and consistent. 'Boom line' may duplicate F528's 'Where the Drum Answers' seam; S7 should rule whether they are the same feature. Two facts are unlisted: Ila's 'one in ten' figure and the stone-skipping memory at age nine. The blue wool scrap on Dhanu's chest needs an owner, or it will read as a dropped clue.",
+  "new_facts_assessment": "All six are consistent. The right-foot check usefully pins the loss to two toes, matching F583. The spyglass reason for Ila's silence is strong and keeps the refusal costly, not artificial. The ash lie to Raghu is a free lie and a sharp choice. The 'one in ten' figure ties back to F571. Stone-skipping at nine fits F562. Gauri as sister matches F682. One wording risk: 'carried that letter sewn into you since the Fair' should match F438, where she received it at the start of the crossing, not at the Snow Fair.",
   "content_rule_violation": false,
   "failure_modes": [
-    "Artificial misunderstandings",
-    "Irrational behaviour to extend plot"
+    "Irrational behaviour to extend plot",
+    "Twists without setup"
   ],
   "average": 4.0,
   "minimum": 3.0,
