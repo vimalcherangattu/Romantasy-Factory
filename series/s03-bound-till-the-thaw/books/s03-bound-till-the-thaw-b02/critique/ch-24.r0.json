@@ -4,36 +4,36 @@
     "change": 4.0,
     "romance_movement": 4.0,
     "shown_chemistry": 4.0,
-    "character_logic": 4.0,
+    "character_logic": 3.0,
     "stakes_and_cost": 4.0,
-    "prose": 3.0,
+    "prose": 4.0,
     "continuity": 0.0
   },
   "reasons": {
-    "reader_question": "Clear and specific: will Ila hand over the sheets, and what is the 'not yet' cost she is holding back?",
-    "change": "Kunal's creed flips to selling the way for one man. He now knows the hostages are taken and the note is false.",
-    "romance_movement": "For the first time he asks her for everything rather than giving. Her refusal to answer sets up the clash with new reasons.",
-    "shown_chemistry": "She gives him a measure to stand on, and he lets her rewrite 'That's what I said'. Responsive and understated.",
-    "character_logic": "Kunal's proof-of-life inference is sound and Ila's witness argument is sharp. He never weighs scouting the fold, which is a small gap.",
-    "stakes_and_cost": "One in three odds, the hills' one door against Dhanu, and Ila's hidden cost. The price is explicit and personal.",
-    "prose": "Mostly lean and concrete. The interior restates the beat ('become his uncle's lesson'), 'coin' echoes three times, and 'last night' repeats.",
-    "continuity": "'Never asked' about her hand on the seam conflicts with ch21 (F553), where he paid fingers to ask. Several 'last night' references clash with the cleft night."
+    "reader_question": "The ending is sharp: will Ila hand over the sheets, or lie? Mini's unknown fate adds a second open thread.",
+    "change": "Kunal's creed reverses on the page. He decides to spend the princes' way and says so to Ila.",
+    "romance_movement": "This is his first open request for everything she carries, and the request itself carries his apology. The reason is new and costly to both of them.",
+    "shown_chemistry": "Ila gives him a measure to stand on, works the nail he can't, and reads his hand. It is responsive action, not narration.",
+    "character_logic": "The closing question 'Where are the sheets?' clashes with his own thought that they are sewn in her lining. The belief/pink-tips exchange is also muddled.",
+    "stakes_and_cost": "The cost is named on both sides: one friend against the hills' one door, plus the route-keepers Raghu won't leave standing.",
+    "prose": "Concrete and clean, with no em dashes or banned phrases. There is a little told interiority ('which was the horror of it') and one ungrammatical sentence ('every creed he owned lay').",
+    "continuity": "'Not his wife' makes Gauri Dhanu's wife, which conflicts with F682 (Gauri is his elder sister; F534 superseded)."
   },
   "fixes": [
-    "'He had seen her do it three times and never asked.' This is a continuity conflict: in ch21 (F553) Kunal broke his promise and paid with his fingertips to ask what the letter said. Rewrite as: 'He had asked once, and paid for it, and not asked again.' Move her hand to the pattu hem, where the letter lies (F547), not 'her coat, over the seam'.",
-    "'Every argument Dhanu had made at the fire last night' and 'He had said that last night with his hand on a walnut'. This is a timeline conflict, because last night was spent in the cleft (ch23), where he also gave her the route. Change both Dhanu references to 'at the fire before the Eye'. Keep 'last night' only for the cleft gift.",
-    "'He had become his uncle's lesson. Pritam could have written it for him.' This is on-the-nose interiority that restates the beat and stretches the monologue. Cut both sentences and let 'Whoever knows the way owns the people, and whoever owns the people may sell them' carry the idea. Replace one of the three 'coin' images (keep 'coin by coin', change the whistle's 'like a coin' to the cold of iron)."
+    "At 'Not *the lame man.* Not *his wife.* Not *the child.*': this is a continuity break, because F682 makes Gauri Dhanu's elder sister. Change it to 'Not *his sister.*' Check the rest of the chapter for any other wife framing.",
+    "At '\"Where are the sheets?\" said Kunal.': this is a character logic problem, because earlier he thinks of 'Five sheets, sewn in a lining', so the question has no gap to fill. Revise that earlier thought to 'somewhere about her; he had never asked where'. Alternatively, make the last line a request that implies she might have moved them since dawn, which would set up her ch 25 burned-sheets lie.",
+    "At 'They'll let them go if they get them. I believe that. I have to believe it.': this is a rule logic slip. A bound man who says 'I believe that' while doubting it should whiten, yet his tips stay pink while Ila argues he doubts it. Cut 'I believe that.' and keep only 'I have to believe it', so Ila's reading of the hedge is exact and the evasion stays free."
   ],
-  "reader_question": "Will Ila give up the sheets to buy Dhanu and Gauri, and what is the cost she says he doesn't know?",
+  "reader_question": "When Kunal asks for the sheets that could buy Dhanu, will Ila give up the only true map of the hills, or refuse him?",
   "techniques_landed": [
     6,
     7,
     11
   ],
-  "new_facts_assessment": "Drum fold and the note are needed and consistent. The five-sheets fact must settle the location: four are in the pattu side seam (F554), and the Eye sheet went 'inside her coat' at the end of ch23. 'Two dead fingers' adds a count F555 never gave; keep it as 'dead fingertips'. The odds fact is fine.",
+  "new_facts_assessment": "The Mini search and pony track fit F642 and F473 and add useful dread. The apricots fit F642. The four hundred mornings fits F562. The spare-walnut inference fits F559 and F668, but F747's 'made the council swear' is not on the page and should be dropped. The blue wool fits F582. The pink-tips fact (F749) needs the rule fixed (see fix 3).",
   "content_rule_violation": false,
   "failure_modes": [
-    "Endless monologue"
+    "Irrational behaviour to extend plot"
   ],
   "average": 3.38,
   "minimum": 0.0,

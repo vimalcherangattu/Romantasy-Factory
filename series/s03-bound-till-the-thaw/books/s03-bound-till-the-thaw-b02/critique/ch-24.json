@@ -2,41 +2,40 @@
   "scores": {
     "reader_question": 4.0,
     "change": 4.0,
-    "romance_movement": 3.0,
+    "romance_movement": 4.0,
     "shown_chemistry": 4.0,
     "character_logic": 3.0,
     "stakes_and_cost": 4.0,
-    "prose": 3.0,
-    "continuity": 5.0
+    "prose": 4.0,
+    "continuity": 0.0
   },
   "reasons": {
-    "reader_question": "Sharp ending: he asks for the sheets she has sworn are true. Whether she hands them over or lies is concrete and urgent.",
-    "change": "Knowledge (hostages, ultimatum, no walnut) and Kunal's creed both flip. The uncle-lesson reversal is clearly staged.",
-    "romance_movement": "First full ask lands, but Ila's non-negotiable is argued through route-keeper logic, not felt. Her side stays withheld ('Not yet').",
-    "shown_chemistry": "Ila crouches by the stain and gives him a measure to stand on, and lets him have 'That's what I said.' Responsive, though narration explains it once too often.",
-    "character_logic": "Mini, six, travels with Dhanu and Gauri, yet Kunal never searches for or thinks of her. The note's 'the two' goes unexamined.",
-    "stakes_and_cost": "Named loved people, a deadline, one-in-three odds, and his life's creed as the price. Ila's counter-argument raises the cost.",
-    "prose": "Clean and concrete, with clichés ('longest hundred paces of his life', dark room into lit one), consecutive 'He' paragraph openers, and one self-contradiction ('alone... she came with him').",
-    "continuity": "Rope length, Raghu's sixteen, the five sheets, the twenty-four winters since the lesson and the whistle signals all match. The walnut details are new but don't conflict."
+    "reader_question": "The ending is sharp: will Ila hand over the sheets, or lie? Mini's unknown fate adds a second open thread.",
+    "change": "Kunal's creed reverses on the page. He decides to spend the princes' way and says so to Ila.",
+    "romance_movement": "This is his first open request for everything she carries, and the request itself carries his apology. The reason is new and costly to both of them.",
+    "shown_chemistry": "Ila gives him a measure to stand on, works the nail he can't, and reads his hand. It is responsive action, not narration.",
+    "character_logic": "The closing question 'Where are the sheets?' clashes with his own thought that they are sewn in her lining. The belief/pink-tips exchange is also muddled.",
+    "stakes_and_cost": "The cost is named on both sides: one friend against the hills' one door, plus the route-keepers Raghu won't leave standing.",
+    "prose": "Concrete and clean, with no em dashes or banned phrases. There is a little told interiority ('which was the horror of it') and one ungrammatical sentence ('every creed he owned lay').",
+    "continuity": "'Not his wife' makes Gauri Dhanu's wife, which conflicts with F682 (Gauri is his elder sister; F534 superseded)."
   },
   "fixes": [
-    "At \"*The two.* Not *the lame man.* Not *his wife.*\": irrational behaviour. Mini (six) travels with Dhanu and Gauri (F473, F560), yet Kunal never looks for her. Add a short search beat: he checks the third hut or the pony shed and calls her name, then finds a child-sized hiding place empty, or learns the runner boy took her. Then make 'the two' cut both ways: either a hope that she escaped or a fear that she is uncounted.",
-    "At \"I believe that. I have to believe it.\": the rule that bites back goes unused. Bound, any false belief stated as true costs heat. Have Ila look at his fingertips. Either they stay pink because he has hedged into 'have to', which she names, or the tips whiten and she knows he doubts the trade. That gives her an evidence-based reason to refuse him and keeps the world rule live at the climax.",
-    "At \"I carry the knots in my teeth because of what I've held back\": muddled cause. His dead tips came from breaking the ask-nothing promise (F555), not from secrecy, so restate that cause. Also fix 'walked down to the Drum alone... and she came with him', break up the consecutive 'He' paragraph openers near the ending, and replace 'longest hundred paces of his life' and the 'dark room into a lit one' simile with concrete images."
+    "At 'Not *the lame man.* Not *his wife.* Not *the child.*': this is a continuity break, because F682 makes Gauri Dhanu's elder sister. Change it to 'Not *his sister.*' Check the rest of the chapter for any other wife framing.",
+    "At '\"Where are the sheets?\" said Kunal.': this is a character logic problem, because earlier he thinks of 'Five sheets, sewn in a lining', so the question has no gap to fill. Revise that earlier thought to 'somewhere about her; he had never asked where'. Alternatively, make the last line a request that implies she might have moved them since dawn, which would set up her ch 25 burned-sheets lie.",
+    "At 'They'll let them go if they get them. I believe that. I have to believe it.': this is a rule logic slip. A bound man who says 'I believe that' while doubting it should whiten, yet his tips stay pink while Ila argues he doubts it. Cut 'I believe that.' and keep only 'I have to believe it', so Ila's reading of the hedge is exact and the evasion stays free."
   ],
-  "reader_question": "When Kunal asks where the sheets are, will Ila give up the true map, or lie to him across the rope?",
+  "reader_question": "When Kunal asks for the sheets that could buy Dhanu, will Ila give up the only true map of the hills, or refuse him?",
   "techniques_landed": [
     6,
     7,
     11
   ],
-  "new_facts_assessment": "new-facts.json is empty but the draft adds several facts: Gauri's apricots from her sister's orchard, which Kunal ate at twelve; the whistle heard 'four hundred mornings'; Kunal made Dhanu swear to a walnut rule; Dhanu put a walnut in his pouch; the blue wool on the stones. These are mostly harmless and consistent, but they must be logged. The pouch walnut needs reconciling with F559, where Dhanu gave the walnuts to Kunal. The apricot orchard echoes Jassi's sister's orchard (F066) and should be reworded.",
+  "new_facts_assessment": "The Mini search and pony track fit F642 and F473 and add useful dread. The apricots fit F642. The four hundred mornings fits F562. The spare-walnut inference fits F559 and F668, but F747's 'made the council swear' is not on the page and should be dropped. The blue wool fits F582. The pink-tips fact (F749) needs the rule fixed (see fix 3).",
   "content_rule_violation": false,
   "failure_modes": [
-    "Irrational behaviour to extend plot",
-    "Narrated-only chemistry"
+    "Irrational behaviour to extend plot"
   ],
-  "average": 3.75,
-  "minimum": 3.0,
-  "passed": true
+  "average": 3.38,
+  "minimum": 0.0,
+  "passed": false
 }
