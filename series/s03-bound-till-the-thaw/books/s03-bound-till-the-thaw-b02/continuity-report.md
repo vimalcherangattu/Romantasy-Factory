@@ -2,53 +2,41 @@
 
 ## What was checked
 
-- **Names and forms of address:** spellings, roles, and who calls whom what (Highness, Kunal, Ila-ji, Didi).
-- **Ages:** Ila 31, Kunal 33, Kiran 25, the queen 62, Mini 6, Pinku 7.
-- **Timeline:**
-  - The bond day count from the Meadow Cairn binding to day 35.
-  - The Shilak thaw on day 56.
-  - Rohan's return on day 48.
-  - The Fair-eve, council and binding sequence.
-  - The age-nine and age-twelve backstory, and the "twenty-one" and "twenty-four" winters.
-- **Magic rules:**
-  - Lie sizes and costs: small, middling, great, and broken-promise strikes.
-  - Hands, then feet and ears, as the order in which lie-cold lands.
-  - The touch loophole.
-  - Separation cold and the twice-the-length limit.
-  - Cairn and stone hums.
-  - The end of the bond at the Meadow Cairn, after which nothing is checked.
-- **Injuries:**
-  - Kunal's palms and fingertips: frostnip, then blisters, then dead right tips.
-  - Ila's two dead left toes and her changing pace.
-  - Ila's rib scar.
-  - Dhanu's limp.
-- **Who knows what:** the letter's contents, the sheets' hiding place, Udai and Harish, the walnut rule, the masked buyer.
-- **Objects and places:**
-  - The rope.
-  - The walnuts (two from Dhanu, a third for Mini).
-  - The whistle.
-  - The sheets: four, then five.
-  - The spike, lost in the Eye.
-  - The huts: Dhanu's upper hut, the lower huts and the herders' hut.
-  - The Ladder counts and the cleft counts.
-- **Relationship beats** against the outline and the Book 1 summary.
+The full book was checked against the series bible, continuity.json (including the provisional Book 2 facts) and itself.
 
-## Errors found (all minor)
+- **Names and forms of address:** Kunal, Ila, Kiran, Dhanu, Gauri, Mini, Raghu, Pasang, Madan.
+- **Ages:** Ila 31, Kunal 33, Kiran 25, Queen Sarala 62.
+- **Calendar:** the 31st winter of Sarala's reign; the sixty-one winters since Harish and the Closing Law.
+- **The bond clock:** day 1 binding, day 6 at ch 13, day 10 at ch 17, day 16 at the Shilak Cairn, day 35 Meadow Cairn meltwater, day 56 Shilak thaw, queen three days later.
+- **Rope-bond rules:** the eight-span rope, separation cold at twice the length, and the costs of small, middling and great lies. Also the broken-promise strike on Kunal's right fingertips, the touch loophole in ch 15 and ch 26, and the stones' hum.
+- **Injuries:** Kunal's frostnip and dead right tips, Ila's two dead left toes, and Dhanu's limp.
+- **Objects:** the letter and the sheets, moving between coat and pattu; the walnuts; the whistle; the spike lost in the Eye; the flint and lamp.
+- **Who knows what:** the masked buyer, Udai's guest, Harish, the archive oath, and the grey-bearded officer.
+- **Place layout:** the lake huts, herders' hut, Drum fold, the Eye cleft and the Under-Cairn.
 
-- **E01:** Chapters 13–15 say "more than two weeks". This conflicts with day ten of the bond in chapter 17.
-- **E02:** In chapter 7, "a fortnight" claims a longer acquaintance than Ila has with Kunal.
-- **E03:** Ila is placed in Taravan last autumn, but the summer post and her letter to the archive put her in Neshar.
-- **E04:** Tamar's Shoulder is "named at seven, on the family map", but chapter 1 puts it on her current summer sheets.
-- **E05:** Chapter 20 frames "Kunal" as a new form of address, though she has used it since chapter 3.
-- **E06:** In chapter 24 Kunal does not know where the sheets are, though he watched her sew them in.
-- **E07:** Gauri is tall in chapter 7 and small in chapter 27.
-- **E08:** Raghu's remaining guard is still "eight pairs" after his losses.
-- **E09:** Kunal's dead fingertips are dated "since the Eye" instead of to the broken promise.
+## Errors found
 
-## Possible issue not raised
+There are 16 open errors (1 major, 15 minor). Full details and patches are in errors.json.
 
-The year's thaw pattern reads two ways. The meadow ran on day 35, matching Meera's "if it's a soft year" forecast. The Shilak gap was three weeks, which is a hard year by chapter 3's tables. This is the existing F622/F435 framing, so it was left as is.
+- **E01 (major), ch 2 and 4:** Ila announces early that the council will get a copy of the map. This pre-empts her oath break and the ch 31 proof act.
+- **Minor, by chapter:**
+  - Ch 6: a pace conversion is wrong.
+  - Ch 14: "two weeks" should be about a week.
+  - Ch 16: the archive oath is sworn in Taravan, where Ila has not been.
+  - Ch 22: Dhanu's bad leg switches sides.
+  - Ch 22: moondown and moonrise conflict across one night.
+  - Ch 24: Kunal's question in the cleft is misremembered.
+  - Ch 26: the flint is left at the hut, then used in ch 29.
+  - Ch 28: Ila claims the letter mentions a storm.
+  - Ch 28: "You asked me twice" reverses who asked.
+  - Ch 30: Raghu's guard count is too high.
+  - Ch 31: Ila is placed "in Ranu" with Rohan.
+  - Ch 31: Kiran's whereabouts on day 18 and at the dusk scene.
+  - Ch 31: the queen's "forty years".
+  - Ch 32: Kiran's "boss" for Ila.
+  - Ch 32: the Stair song's verse.
 
-## Checked and consistent
+## Not flagged
 
-No plot, world-rule or fixed-trait breaks were found.
+- **Thirty-five-day figure:** the ambiguity between ch 3's gap and the bond length was already ruled on in F435, F622 and F713.
+- **Lie-cold location:** lie-cold landing in Ila's feet rather than her fingers follows the bible's Book 2 design.
