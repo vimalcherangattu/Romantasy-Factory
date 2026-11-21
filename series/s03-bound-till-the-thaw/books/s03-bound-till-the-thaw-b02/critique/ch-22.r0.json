@@ -3,39 +3,38 @@
     "reader_question": 4.0,
     "change": 4.0,
     "romance_movement": 4.0,
-    "shown_chemistry": 3.0,
-    "character_logic": 4.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 3.0,
     "stakes_and_cost": 4.0,
-    "prose": 3.0,
+    "prose": 4.0,
     "continuity": 0.0
   },
   "reasons": {
-    "reader_question": "Dhanu's 'Ask her what she'll do with it' plus Ila's hand on her hem leaves a sharp, one-sentence question.",
-    "change": "Kunal moves from parcelling secrets to an open, irreversible gift. The hoarder-to-giver shift is clear and earned.",
-    "romance_movement": "The reason is new: he gives before he knows her answer. Ila is present only at the end, so the movement is mostly decided offstage from her.",
-    "shown_chemistry": "The doorway beat (lopsided knot, her loud laugh, her silence about his fingers) is good but short. Most of the chapter is Kunal with Dhanu.",
-    "character_logic": "Kunal's case is factual, and Dhanu's objection is the strongest legitimate one. Both argue like smart people.",
-    "stakes_and_cost": "Council exposure, a gift he can't take back and 'I'll stand in the hall and hear it' make the cost concrete.",
-    "prose": "Several 'like a man...' similes, a weak 'like a log' simile, an out-of-world 'God help him', and an ending image recycled from chapter 21.",
-    "continuity": "The walnut-grove scene with Pinku was last winter (Book 1), not 'seven winters ago', which conflicts with F215 and F449."
+    "reader_question": "The ending carries the beat's question about what she will do with the way, sharpened by her silent pace-count. It is specific and pressing.",
+    "change": "Kunal moves from hoarder to giver and names the cost to the council. Dhanu's diagnosis gives the change a reason we can see.",
+    "romance_movement": "He commits the way before hearing her answer, which is the new reason the beat asked for. Ila's reply is held back, which is right.",
+    "shown_chemistry": "Ila cuts the knot's tail without asking and stays silent about his fingers. Responsive care is shown, not narrated.",
+    "character_logic": "Kunal holds an open juniper fire under the stars, and Ila laughs loudly, with Raghu's spyglass pair on the far shore. That breaks the hut's no-flame discipline.",
+    "stakes_and_cost": "The irreversibility is stated well. Old Bhim's question, the council's judgement and the walnut 'send one and I come' set up the coming loss.",
+    "prose": "The prose is clean and concrete, and Dhanu's voice is strong. There are a few 'said nothing' repeats and one unclear line, 'the Drum froze under him last night'.",
+    "continuity": "Mini rides 'in front of her mother', but F682 makes Gauri Dhanu's sister and leaves Mini's mother unmentioned. This is a conflict."
   },
   "fixes": [
-    "'seven winters ago in a manner of speaking': this is a continuity error. The Ranu grove scene with Pinku happened last winter (Book 1, ch 24; Pinku was six, now seven). Change it to 'last winter, in Ranu' and cut 'in a manner of speaking'.",
-    "'her hand went flat to the hem of her pattu': the chapter ends on the image that closed chapter 21 (and appeared in ch 13), so the image is recycled. End instead on a fresh, specific response from Ila, for example a pencil lead stopping mid-roll in her fingers or a pace count she begins under her breath. Keep her answer withheld.",
-    "'like a man closing a purse' / 'like a man who's swallowed a coal' / 'like a man naming an enemy': repeated simile frame. Keep the purse image. Recast the coal line as plain observation, and cut 'like a man naming an enemy'. Replace 'quietly, like a log' with a concrete image, and change 'God help him' to an in-world oath or remove it."
+    "Fix 1. 'Six years old on the pony in front of her mother': this is a continuity error, because F682 says Gauri is Dhanu's sister and Mini's mother is never shown. Change the line to 'in front of Gauri' or 'in front of her aunt'.",
+    "Fix 2. 'The juniper fire popped between them, and the smoke went up straight': this is a character-logic failure, because Raghu's four have spyglasses and F734 fixes the hut's single-banked-coal rule. Put the scene behind the scree spur, inside the door, over a coal under the clay pot. Have Kunal glance at the far shore when Ila laughs, so the danger stays live.",
+    "Fix 3. 'You broke it so you could be safe in the cleft': this contradicts F738, where the question was emotional, not tactical. Change it to 'You broke it so you could stop counting, and you paid in flesh you'd already priced.' That fits Dhanu's thesis better. Also cut 'since the Drum froze under him last night' or clarify it."
   ],
-  "reader_question": "What will Ila do with the princes' way once Kunal has given it to her, and what lies past the turn where Pritam stopped him?",
+  "reader_question": "What will Ila do with the princes' way once Kunal has given it to her whole?",
   "techniques_landed": [
-    3,
     15,
     25
   ],
-  "new_facts_assessment": "The walnut tokens, Mini's request and the teeth-and-heel knot-tying are all necessary and consistent with F473, F534 and F555. The draft also adds one unlisted fact that is wrong: Pinku's grove walnut dated 'seven winters ago'. Dhanu knowing Kunal thirty years is plausible (Kunal is 33) but unlisted; add it to the facts.",
+  "new_facts_assessment": "new-facts.json is empty, yet the draft adds facts. Gauri's red thread, the third plain walnut and 'thirty years' match F559 to F562. Mini's 'mother' conflicts with F682. Pinku's ten-finger knot and Dhanu's 'safe in the cleft' reading of the broken promise are new, and the second contradicts F738's emotional motive. Technique 3 is only partly landed: the answer is given, but the escalation is the beat's own question rather than a bigger gap.",
   "content_rule_violation": false,
   "failure_modes": [
-    "Repetitive tension"
+    "Irrational behaviour to extend plot"
   ],
-  "average": 3.25,
+  "average": 3.38,
   "minimum": 0.0,
   "passed": false
 }
