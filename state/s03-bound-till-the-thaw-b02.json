@@ -502,7 +502,7 @@
       ]
     },
     "16": {
-      "status": "passed",
+      "status": "edited",
       "revisions": 1,
       "scores": {
         "reader_question": 4.0,
@@ -516,18 +516,18 @@
       },
       "average": 4.0,
       "flags": [],
-      "words": 2612,
+      "words": 2609,
       "minimum": 3.0,
       "style": {
-        "words": 2911,
+        "words": 2609,
         "banned_hits": {},
         "ai_tell_hits": {},
         "ai_tells_per_1000": 0.0,
-        "top_4gram": "prince udai of neshar",
-        "top_4gram_count": 3,
-        "longest_paragraph_words": 110,
+        "top_4gram": "the rope would hold",
+        "top_4gram_count": 2,
+        "longest_paragraph_words": 106,
         "em_dashes_per_1000": 0.0,
-        "reading_ease": 92.4
+        "reading_ease": 93.0
       },
       "owner_instructions": [
         "Keep unchanged: 'The laugh came out against his mouth and he felt it, and she felt him smile.' Also keep 'I'd show you anyway' with his nails that 'had not gone one shade whiter'. Keep the sentences 'It was not neat. It was a receipt.' and 'His closed hand was a hand over a grave.'",
@@ -2281,9 +2281,13 @@
     {
       "at": "2026-11-21T20:25:23",
       "event": "done: S8 line edit ch 15"
+    },
+    {
+      "at": "2026-11-21T20:25:50",
+      "event": "done: S8 line edit ch 16"
     }
   ],
-  "updated_at": "2026-11-21T20:25:23",
+  "updated_at": "2026-11-21T20:25:50",
   "midpoint_chapter": 16,
   "continuity_attempts": 0,
   "continuity_last_errors": null,
