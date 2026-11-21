@@ -1,39 +1,42 @@
 {
   "scores": {
     "reader_question": 4.0,
-    "change": 5.0,
+    "change": 4.0,
     "romance_movement": 4.0,
     "shown_chemistry": 4.0,
-    "character_logic": 4.0,
+    "character_logic": 3.0,
     "stakes_and_cost": 4.0,
     "prose": 4.0,
-    "continuity": 0.0
+    "continuity": 5.0
   },
   "reasons": {
-    "reader_question": "Clear carry-out: what does the rubbing say, and what will the queen do when Kunal reads it beside her?",
-    "change": "Oath broken in public, commission and crown roll lost, Neshar wins self-rule, and Ila refuses the queen to her face.",
-    "romance_movement": "The new reason is unverifiable faith: grey tips she can't read, 'did not count it', and Dhanu's Rest named at his request.",
-    "shown_chemistry": "Responsive actions carry it: he lurches when she lurches, a hand beside hers, her palm on his back in public.",
-    "character_logic": "Ila's 'Not alone' follows from her promise. The queen's grant is reasoned. Kunal's petition fits his growth.",
-    "stakes_and_cost": "The commission is a real price, but it 'left her cleanly'. Her lifelong want goes without any felt loss.",
-    "prose": "Clean and concrete with varied rhythm. Some soft spots: 'something give in her chest', 'The silence was long', a confusing 'five weeks ago' line.",
-    "continuity": "The 'grey cord' rope conflicts with F436/F760, which corrected Ila and Kunal's rope to undyed wool. Everything else checks out."
+    "reader_question": "The torn last word stays unread, and the queen's request makes the reading itself a contested act. The question is specific.",
+    "change": "Oath broken, commission and archive access lost, Neshar granted self-rule. Kunal now stands as surety. Power and knowledge both move.",
+    "romance_movement": "The bond's end gives a new reason: trust without proof ('That's the new part'). His surety raises the cost of their alliance.",
+    "shown_chemistry": "Warm pencil lead, Dhanu's Rest, his lurch beside her, the reflexive palms-out and her public hand all show care through action.",
+    "character_logic": "Ila cites her promise to Kiran yet offers the queen and Kunal a reading before him. Kiran should be present but is absent.",
+    "stakes_and_cost": "Each choice has a named price: the chair to Pell Orlan, Kunal's neck as surety, archive drawers closed for life.",
+    "prose": "Clean, concrete and readable. Two near-identical 'pain accepted' similes (tooth, stone down a well) and a summary-heavy copying section.",
+    "continuity": "Days 17, 18, 35, 40, 56 and 59 match F622 and F814. Queen 62, oath wording and Harish details are consistent. One loose 'since the Eye' phrase."
   },
   "fixes": [
-    "'The rope was a grey cord on the boards' (continuity): Ila and Kunal's rope is undyed wool (F436, F760 explicitly corrected 'grey'). Change it to 'a pale undyed cord on the boards' so it doesn't conflict with Raghu's grey ropes or Dilan's grey rope end.",
-    "'It left her cleanly, the way a splinter does' (cost waived): her lifelong want should not exit painlessly. Before the splinter image, add one or two concrete sentences of loss. For example, her father's seven hundred unsigned maps, or Pell Orlan taking the chair. Then let her accept it. The ease should read as a choice made through pain, not an absence of pain.",
-    "'Five weeks ago, a bound pair who went that far lost the path' (clarity): this reads as if a past event happened. Rewrite it as a conditional: 'Five weeks ago, a bound pair who walked that far would have lost the path, and the mountain would have taken them both.' Also cut 'The silence was long' to 'No one spoke. A boy near the back coughed.'"
+    "At 'Kiran had asked to be told first, before anyone': Kiran crossed with the council's pairs (F625), so he should be at the cairn on day 59. Place him in the ring at the signing. Change Ila's refusal to 'Not alone. Kunal and Kiran, at the cairn,' so she keeps both promises. Smart-character fix for irrational behaviour.",
+    "At 'One hand had never been able to vouch for him since the Eye': Kunal's right tips died from the broken promise in ch 21, before the Eye walk. Rewrite as 'since the Glass Lakes' or 'since the promise he broke' to match F555 and F644.",
+    "At 'It went in like a stone dropped down a well': this repeats the earlier 'like a pulled tooth' acceptance beat, which is repetitive tension in prose. Cut this simile and show the archive loss in action, for example her fingers closing on the hem before she answers. Use the saved space to give Ila one spoken or physical response to Kunal's surety beyond the low 'Kunal'."
   ],
-  "reader_question": "What does the carving under the mountain say, and what will the queen do when she learns it at the same hour as Kunal?",
+  "reader_question": "What does the torn last word of the Under-Cairn rubbing say, and who will be in the room when it is read?",
   "techniques_landed": [
     15,
     20,
     24
   ],
-  "new_facts_assessment": "Both facts are necessary and consistent. Rohan's lowland Taravan road needs no pass crossing and fixes the day-48 timing. The queen's 'keep Pritam held' condition sets up Pritam's ch 32 escape as a breach. F784/F785 already duplicate them, so S7 should retire F781/F782.",
+  "new_facts_assessment": "Rohan's day-18 telling (F815) cleanly retires F782 and F784. The unread rubbing kept for Kiran is good, but Kiran must then be at the council per F625, or the draft must say why he is not. Kunal's surety is necessary: it earns the no-garrison grant and sets up the ch 32 escape as his personal debt. The palms-out gesture is consistent with F644.",
   "content_rule_violation": false,
-  "failure_modes": [],
-  "average": 3.62,
-  "minimum": 0.0,
-  "passed": false
+  "failure_modes": [
+    "Irrational behaviour to extend plot",
+    "Repetitive tension"
+  ],
+  "average": 4.0,
+  "minimum": 3.0,
+  "passed": true
 }

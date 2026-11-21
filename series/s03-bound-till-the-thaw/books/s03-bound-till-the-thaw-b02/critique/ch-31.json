@@ -6,37 +6,37 @@
     "shown_chemistry": 4.0,
     "character_logic": 3.0,
     "stakes_and_cost": 4.0,
-    "prose": 3.0,
-    "continuity": 0.0
+    "prose": 4.0,
+    "continuity": 5.0
   },
   "reasons": {
-    "reader_question": "Specific and earned: the torn rubbing's last word, now to be read by queen and prince together. The opening hook is weak.",
-    "change": "Oath broken, commission and archive lost, bond ended, Neshar self-ruled. Power and knowledge both shift visibly.",
-    "romance_movement": "The new reason lands: 'I'll still take your word' / 'That's the new part.' 'Not alone' proves it again under pressure.",
-    "shown_chemistry": "Warm pencil leads, lurching when she lurches, the hand laid flat beside hers, the reflexive palms-out. All responsive action.",
-    "character_logic": "Ila sits on the rubbing forty days with Bindu downstairs and Kiran unmentioned. The queen grants four sweeping demands at once.",
-    "stakes_and_cost": "Ila pays the commission and then the archive. Kunal's petition carries no risk; the queen grants it without resistance.",
-    "prose": "Clean and readable with no banned phrases. But the copying montage summarises, 'low and plain' echoes, and it runs about 3,500 words.",
-    "continuity": "Kunal shows 'both hands ... grey to the second joint'; F644/F749 say only the right fingertips are dead. Rohan's day-18 return conflicts with F784."
+    "reader_question": "The torn last word stays unread, and the queen's request makes the reading itself a contested act. The question is specific.",
+    "change": "Oath broken, commission and archive access lost, Neshar granted self-rule. Kunal now stands as surety. Power and knowledge both move.",
+    "romance_movement": "The bond's end gives a new reason: trust without proof ('That's the new part'). His surety raises the cost of their alliance.",
+    "shown_chemistry": "Warm pencil lead, Dhanu's Rest, his lurch beside her, the reflexive palms-out and her public hand all show care through action.",
+    "character_logic": "Ila cites her promise to Kiran yet offers the queen and Kunal a reading before him. Kiran should be present but is absent.",
+    "stakes_and_cost": "Each choice has a named price: the chair to Pell Orlan, Kunal's neck as surety, archive drawers closed for life.",
+    "prose": "Clean, concrete and readable. Two near-identical 'pain accepted' similes (tooth, stone down a well) and a summary-heavy copying section.",
+    "continuity": "Days 17, 18, 35, 40, 56 and 59 match F622 and F814. Queen 62, oath wording and Harish details are consistent. One loose 'since the Eye' phrase."
   },
   "fixes": [
-    "At 'held up both hands to her, palms out, grey to the second joint', the hands conflict with F644/F749 (continuity). Make it 'held up both hands... the right grey at the tips, the left pink', so the reader sees one hand that never could vouch and one that no longer does. Also confirm Rohan's day-18 arrival in new-facts as superseding F782/F784.",
-    "At 'its last word that no one had read', the forty-day silence is a contrived delay (Bindu reads it in ch32). In the post-room scene, add one line: Ila keeps the rubbing folded unread because she promised Kiran first word, and Kiran is crossing with the council pairs. That makes the queen's demand collide with two promises, not one.",
-    "At 'Granted. All four. On one condition.', the petition succeeds without friction (stakes without depth). Have Sarala refuse the no-garrison clause first. Kunal then trades something costly in the open: his own name as surety if Pritam walks, or his council seat held personally answerable. Also replace the second 'low and plain' simile ('like the chair') to cut the echo."
+    "At 'Kiran had asked to be told first, before anyone': Kiran crossed with the council's pairs (F625), so he should be at the cairn on day 59. Place him in the ring at the signing. Change Ila's refusal to 'Not alone. Kunal and Kiran, at the cairn,' so she keeps both promises. Smart-character fix for irrational behaviour.",
+    "At 'One hand had never been able to vouch for him since the Eye': Kunal's right tips died from the broken promise in ch 21, before the Eye walk. Rewrite as 'since the Glass Lakes' or 'since the promise he broke' to match F555 and F644.",
+    "At 'It went in like a stone dropped down a well': this repeats the earlier 'like a pulled tooth' acceptance beat, which is repetitive tension in prose. Cut this simile and show the archive loss in action, for example her fingers closing on the hem before she answers. Use the saved space to give Ila one spoken or physical response to Kunal's surety beyond the low 'Kunal'."
   ],
-  "reader_question": "What does the torn last word of the Under-Cairn rubbing say, and what will the queen do when she reads it beside Kunal?",
+  "reader_question": "What does the torn last word of the Under-Cairn rubbing say, and who will be in the room when it is read?",
   "techniques_landed": [
     15,
     20,
     24
   ],
-  "new_facts_assessment": "Most new facts are necessary and consistent: Gauri's runners, the day-35 fold test, Harish by the door, Pell Orlan, the queen at 62. Rohan on day 18 contradicts provisional F782/F784; S7 must retire those. The east-bearing margin note fits F790, but 'I don't draw a way I haven't walked' strains against ch32's private dotted line; S7 should reconcile them. The lifelong archive ban is a strong cost and fits Book 3, where the archive opens to Lata, not Ila. A 1.75-span pace with the crutch versus F767's 1.25 is plausible as healing but unstated.",
+  "new_facts_assessment": "Rohan's day-18 telling (F815) cleanly retires F782 and F784. The unread rubbing kept for Kiran is good, but Kiran must then be at the council per F625, or the draft must say why he is not. Kunal's surety is necessary: it earns the no-garrison grant and sets up the ch 32 escape as his personal debt. The palms-out gesture is consistent with F644.",
   "content_rule_violation": false,
   "failure_modes": [
-    "Contrived delays",
-    "Irrational behaviour to extend plot"
+    "Irrational behaviour to extend plot",
+    "Repetitive tension"
   ],
-  "average": 3.25,
-  "minimum": 0.0,
-  "passed": false
+  "average": 4.0,
+  "minimum": 3.0,
+  "passed": true
 }

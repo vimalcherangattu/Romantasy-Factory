@@ -1555,3 +1555,4 @@ timestamp,book_id,stage,model,input_tokens,output_tokens,cache_read_input_tokens
 2026-11-21T20:50:44,s03-bound-till-the-thaw-b02,revise,sonnet,2,12085,10951,143137,85868,1,0.6944971
 2026-11-21T20:52:16,s03-bound-till-the-thaw-b02,critique,opus,2,7949,11596,141319,85950,1,1.2918592
 2026-11-21T20:53:09,s03-bound-till-the-thaw-b02,revise,sonnet,2,7746,10951,143432,48295,1,0.6522871
+2026-11-21T20:54:00,s03-bound-till-the-thaw-b02,critique,opus,2,3823,11596,141466,45403,1,1.2105152000000001
