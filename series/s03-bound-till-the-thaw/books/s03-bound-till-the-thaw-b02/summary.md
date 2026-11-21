@@ -1,62 +1,53 @@
 # The Winter Oath — summary
 
 ## Plot
+**Act 1 (ch 1–3).** Eve of the Snow Fair, Queen Sarala's 31st winter. Crown surveyor Ila (31) finds Garh Neshar's tower north wall two spans out of true (ch 1) and meets Prince Kunal (33), who says he'll oppose her licence. The commission names "the way beneath the Shilak Cairn" (ch 2). Kunal makes himself her bound partner. The council seals the licence. Ila gets a sealed queen's letter: "Open at the Glass Lakes." Binding at the Meadow Cairn; the bond ends when that cairn thaws, about 35 days on (ch 3). The winter line shows west and, faintly, east.
 
-**Act 1 (ch 1–3).** Eve of the Snow Fair, Queen Sarala's 31st winter. Crown surveyor Ila (31) measures Garh Neshar's tower and finds the north wall two spans out of true: a void (ch 1). Prince Kunal (33) opposes her winter licence, but the commission names "the way beneath the Shilak Cairn", so he binds himself to her (ch 2). Ila carries a sealed archive letter, "Open at the Glass Lakes" (red thread in the wax). Binding at the Meadow Cairn with an eight-span rope: lies chill the hands, and the bond ends when the Meadow Cairn thaws, about 35 days in a soft year (ch 3). The mountain lights a bright west line and a faint broken east line.
+**Act 2a (ch 4–15).** Ranu: Kunal is the "walnut man" who secretly paid for medicine (ch 4). Shepherd's Stair; chalk warning "They ask for the princes' way" (ch 5). Whiteout; Neshar names are routes; the nightly name trade begins (ch 6). Ewe's Rest (ch 7–8). Hollow Moon; Raghu's men topple cairns (ch 9–10). Snow cave: Ila's grandfather's folded gloves; she says she would draw any true way (ch 11). Widow's Ladder, which she leaves off her sheet (ch 12). Glass Lakes. Her first lie ("no" to whether her orders name the lakes) frostnips her (ch 14). Kunal takes her cold knowingly; she opens the letter (ch 15).
 
-**Act 2a (ch 4–15).** Ranu: Kunal is the masked "Walnut man" who paid for medicine; Ila draws the salt road (ch 4). Burned hut, Raghu's pairs ahead (5). Name trade begins: a Neshar name for an honest answer about her orders (6). Ewe's Rest with Dhanu, Gauri and Mini (7–8). Hollow Moon crossing; Raghu toppled a keeper's cairn (9). Kunal admits the princes' way begins at the Glass Lakes; the family rule comes from Udai walking an unnamed guest in winter (10). Snow cave: Ila tells of her grandfather's folded gloves, and says she would draw a way that endangers Neshar (11). She omits the Widow's Ladder from her sheet (12). Kunal says "It matters more than anything" (13). Ila lies "No" about the letter naming the lakes and gets frostnip (14). Kunal takes her cold, then she confesses; they sound the Drum (a pair holds, three do not) and she opens the letter (15).
+**Midpoint (ch 16).** First kiss. The letter says the pass-price is a life paid beneath the Shilak Cairn. Her grandfather, Warden Harish, was guided there by Prince Udai sixty winters ago and did not return. The Closing Law buried it. "Tell no one Neshar's part." She keeps silent.
 
-**Midpoint (ch 16).** First kiss. The letter: 61 winters ago Warden Harish, Ila's grandfather, was guided by Prince Udai to pay the price beneath the Shilak Cairn; the Closing Law buried it. "Tell no one Neshar's part." Ila keeps silent.
+**Act 2b (ch 17–24).** Her silence becomes a wall (ch 17). She draws the Eye cleft truly, at Kunal's word (ch 18). Dhanu says "ask him about the ridge" (ch 19). Kunal tells of Pritam abandoning him at nine; they become lovers (ch 20). Kunal's fingers are damaged when he asks about the letter; Ila promises to tell all "when we're through the mountain" (ch 21). Kunal decides to give her the whole princes' way (ch 22–23). Huts empty; message with Dhanu's whistle, no walnut (ch 24).
 
-**Act 2b (ch 17–24).** Silence between them (17). The Eye cleft, which Ila draws true at Kunal's word (18). Knucklebones; Dhanu's slip about the ridge (19). Kunal tells of Pritam leaving him on the ridge at nine; they become lovers (20). Kunal breaks "ask nothing back", his fingertips go grey; Ila promises to tell all "when we're through the mountain" (21). Kunal decides to give her the whole way (22). They walk the cleft to deep water (23). Camp empty; ransom note with no walnut (24).
-
-**Act 3 (ch 25–32).** Ila lies that the sheets are burned (25). Her left small toes die. Raghu's fingers whiten when he lies to Pasang; Kunal runs her across the ice; Gauri is freed; Dhanu lies dead (26). Kunal walks away past the rope, then returns without forgiving her (27). Gauri: Dhanu died the first night, so the note was bait (28). Ila tells him the letter early. Under-Cairn (29): carved door, a woman's narrow hand, 14 marks ending in Harish, 13 pairs of folded gloves. Kunal says "I love you" in the dark. Pasang turns on Raghu, and they exit under the Shilak Cairn (30). Ila declares love and promises Neshar the same map. Shared Map: the queen grants the petition but strips Ila of her commission (31). Oath without rope, two readings of "carried till no thaw", Pritam's escape (32).
+**Act 3 (ch 25–32).** Ila lies that she burned the sheets; her toes freeze (ch 25). Drum Fold: Dhanu lies dead on the ice. Raghu's fingers whiten; the pursuing pair goes through the ice; Gauri is freed (ch 26). Kunal walks to the rope's limit, then returns without forgiving her (ch 27). Gauri: Dhanu died the first night, before the note was written (ch 28). Ila tells him everything. Under-Cairn: door carved with nested loops, a woman's narrow hand, "Carried till no—", Harish's mark, shelves of folded gloves; Kunal says "I love you" (ch 29). Raghu and Pasang follow; Pasang turns; the exit is under the Shilak Cairn; Raghu is taken by Rohan's wardens; Ila's "I like you / I love you" with warm hands; she promises Neshar the same map (ch 30). Ch 31: the rope goes quiet on day 35. Ila co-signs two identical maps and hands them to Sarala and Old Bhim at once, losing her Chief Surveyor commission. Kunal's petition is granted, with himself as surety against Pritam's escape. She refuses the queen a private reading of the rubbing. Ch 32: unproven oath; the rubbing reads "carried till no thaw"; Under-Cairn sealed until the fourth winter; Pritam has escaped by the north-wall stair and gone east.
 
 ## Romance
+Ila and Kunal are lovers, mutually declared, and bound by an oath no mountain checks (ch 32). Key moments: the "I like you" lie (ch 3); "It matters more than anything" (ch 13); the lie and Kunal taking her cold (ch 14–15); first kiss (ch 16); lovers (ch 20); his "I love you" in the dark (ch 29); her "I love you" with warm hands (ch 30).
 
-Ila and Kunal are lovers and betrothed by an unproven oath. Key moments: the demonstration lie (3), kiss (16), consummation (20), love declared in the dark (29), again with warm hands (30), oath at the cairn (32). Disclosed: he has told of the ridge, Pritam and Udai's role; she has told of the letter, Harish, the sheets and her lie. Binding promises: keep no way or line from each other, walk every winter together, give Neshar the map she gives the crown. He ties a red-thread walnut (from Dhanu) to her chain. Repaired but scarred: she lied, he blamed her and accused her of letting Dhanu die; neither excuses the other.
+Disclosed: Kunal told her the ridge, the fear he is his uncle, the whole princes' way. Ila told him the letter, Harish, and the sheets. Unresolved between them: she lied about the sheets and he accused her; both owned it, and neither excused it.
+
+Promises: each keeps no way or line from the other; she signs no map without his name; walk every winter together; she kept the same-map promise. He gives names for nothing back.
 
 ## Character states
-
-- **Ila:** lost two left toes; walks on a crutch with a new pace (1.75 spans); stripped of Chief Surveyor and the crown roll; belief changed to "a true map says whose it is".
-- **Kunal:** fingertips permanently grey and numb; his petition is won (self-rule, no garrisons, seat at Taravan); grieves Dhanu.
-- **Dhanu:** dead; "Dhanu's Rest" crag.
-- **Gauri:** keeps the lake huts; he promised her the first spring lamb pair; she holds the whistle.
-- **Raghu:** captured by Rohan's wardens. **Pasang:** witness, turned.
-- **Hari:** held in Hollow Moon huts; a licensed pair was sent to free him.
-- **Rohan:** knows Harish's story. **Meera:** pardoned guide, writes Harish into the count.
-- **Sarala (62):** keeps the map, angry, guards the Under-Cairn.
-- **Pritam:** escaped east.
+- **Ila:** Two left toes lost, uses a crutch, pace now 1¾ spans. Off the crown roll, no Chief Surveyor, barred from the archive drawers. Her belief changed: a true map still says whose it is.
+- **Kunal:** Right fingertips dead. Seat at Taravan; surety for Pritam. Wears Dhanu's whistle.
+- **Dhanu:** Dead. Gauri holds the huts and is owed the first spring lambs; Mini is safe at her aunt's.
+- **Raghu:** In custody. Pasang is a witness. Pritam promised Raghu's men a way over the mountain for their families.
+- **Hari:** Held in the Hollow Moon huts; a pair went for him.
+- **Rohan:** Learned about Harish and the gloves. **Meera:** Count-keeper, pardoned guide. **Sarala (62):** Angry, kept the map. **Kiran:** Went white at the rubbing.
 
 ## World changes
-
-- Neshar gains self-rule under the crown, no garrisons, a Taravan seat, and every way on the Shared Map (Widow's Ladder included).
-- The Under-Cairn is guarded until the fourth winter.
-- Rope units appear on the scale bar.
-- Neshar names are on the map.
-- The bond ended at day 35.
+- Neshar has self-rule under the crown, a Taravan seat, no garrisons in hill villages, and every way on a shared map, signed in Neshar's own names.
+- Under-Cairn sealed and guarded until the fourth winter.
+- Bonds end at the Meadow Cairn thaw.
+- Hamlets chose to publish the Widow's Ladder.
 
 ## Open threads
-
-- **C08:** the Under-Cairn door knot (three nested loops) matches Asha's crew knot in Meera's sketch "Same as cairn"; unexplained.
-- **C15:** Kiran asked to hear first where the Bargain is paid; he stared silently at the "thaw" sign, his ear white.
-- **C16:** red thread (the queen's blood) in archive wax; echoed in Meera's pardon wax; unexplained.
-- **C18:** Nimmi won't name the grey-bearded officer; Meera's count has an empty line; Lata vows to collect the name.
-- **C19:** the narrow carved hand is a woman's (Hemi), contradicting "two brothers in arms".
-- **C14:** the faint east line is now Pritam's route.
-- **Hinge:** Pritam fled by the north-wall stair; "carried till no thaw" means a death owed or a crossing, undecided before the fourth winter; Ila's dotted line "unknown way. Pritam."
-- Hari's rescue outcome, Mini's walnut delivery, and Raghu's backers are unresolved.
+- **C08:** The door's three nested loops match Asha's crew bundle in Meera's sketch ("Same as cairn"); unexplained.
+- **C15:** Kiran asked Ila to tell him where the Bargain is paid; he reacts to the rubbing but says nothing.
+- **C16:** The thread of red, the queen's blood, in archive and pardon wax; unexplained.
+- **C18:** Nimmi won't name the grey-bearded officer. Meera keeps a blank ruled line, and Lata asks about him.
+- **C19:** The carving's narrow hand measures as a woman's (Hemi), contradicting "brothers in arms."
+- **Hinge:** Pritam escaped via the void by key, opened by an unknown hand, and went east on the unmapped cairn-light line (C14), with Raghu's men's bells beside his tracks. Ila's dotted "unknown way, Pritam" is on her copy. Kunal's seat is forfeit if the snow closes the pass first. The second verse of the Stair song: "five by the wind."
+- "Carried till no thaw": two readings (carried off dead versus carried across); Harish left alive and died anyway.
+- The Under-Cairn is sealed; "the door will not stay shut" (Bindu).
+- Who gave Pritam the key; who Lata's red wool and Asha's crew connect to.
+- Mini's star and the east bearing, "seen, not walked."
 
 ## Callbacks available
-
-- Folded gloves and the empty slot on the shelf.
-- "Carried."
-- Walnut with red thread.
-- "Price first."
-- Ila's laugh and her pace.
-- "Where the Drum answers, lie still till morning."
-- Dhanu's whistle ("off a cold man").
-- Forty versus thirty-nine steps.
-- Warm hands as proof.
-- Eight-span rope left in a chest.
-- Gauri's lambs.
+- Folded gloves on a flat stone; Ila nearly folds hers (ch 27).
+- Half-step: "forty, not thirty-nine"; the "ghost" was the stair.
+- Walnut with red thread (true word); Mini's ugly knot; the walnut on Ila's chain.
+- "Hands stay warm"; "I like you" lie then truth.
+- Ila's pace and spans; Dhanu's whistle "off a cold man."
+- "True for who?"; "Price first"; "Where the Drum answers, lie still till morning."
