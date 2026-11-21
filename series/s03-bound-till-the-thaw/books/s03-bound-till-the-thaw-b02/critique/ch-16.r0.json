@@ -1,40 +1,39 @@
 {
   "scores": {
-    "reader_question": 4.0,
-    "change": 4.0,
+    "reader_question": 5.0,
+    "change": 5.0,
     "romance_movement": 4.0,
-    "shown_chemistry": 4.0,
+    "shown_chemistry": 5.0,
     "character_logic": 4.0,
     "stakes_and_cost": 4.0,
-    "prose": 3.0,
-    "continuity": 0.0
+    "prose": 4.0,
+    "continuity": 5.0
   },
   "reasons": {
-    "reader_question": "Clear and specific: will she tell him before the cleft, and what is written beneath the Cairn? The ending's irony sharpens it.",
-    "change": "Knowledge shifts hard: she learns Harish's fate and Udai's part. Her neutral-surveyor self-image breaks. Power shifts to the holder of the letter.",
-    "romance_movement": "First costed kiss, then a new barrier: an oath plus an accusation against his grandfather. He offers the way anyway, so the reason is fresh.",
-    "shown_chemistry": "Laugh against his mouth, careful hands on her face, hands held shaped in the air, open palm on snow. All responsive, little narration.",
-    "character_logic": "Ila's silence is reasoned (oath, unknown guilt, queen's line). Kunal reading her hands openly fits his growth. The pre-reading kiss is motivated.",
-    "stakes_and_cost": "Silence is free under the rope, and she hates that it is free. It costs him trust, and she sees the cost cross his face.",
-    "prose": "Stacked 'a man who' similes, 'handed' echoed, some on-the-nose thesis lines, 'could not help looking' near-tell, and an overwrought mountain image.",
-    "continuity": "F593 says she read the gloves' meaning by a hut fire, but this is an open shore shelf. The drawer's 'thirty winters' sits loosely against F619's 31-winter reign."
+    "reader_question": "Specific and urgent: will she tell him before the Cairn, and what did Udai do to Harish?",
+    "change": "Knowledge flips completely. She moves from neutral surveyor to granddaughter of the debt and now holds his family's secret.",
+    "romance_movement": "A costed first kiss, then the grandfathers' reversal. But the beat's 'his secrecy protects the debt' angle is never surfaced on the page.",
+    "shown_chemistry": "Shown through hands on her face, the laugh felt against his mouth, his open palm on the snow and the 'which part' callback. Strong.",
+    "character_logic": "Her silence is reasoned through the oath and the ambiguity of Udai's act. Her 'I'll tell you the first moment I can' wobbles against the promise rule.",
+    "stakes_and_cost": "Silence is free and she hates that. He offers to walk her where his grandfather walked hers. The cost is mostly internal.",
+    "prose": "Concrete and controlled, and the glove-receipt turn lands. Some told beats ('saw the cost go across him'), a redundant closing line and odd phrasings.",
+    "continuity": "Consistent with sixty-one winters (F623), the gloves (F490), Udai coming home (F709), the oath (F706), the drawer (F708) and Ila at 31."
   },
   "fixes": [
-    "Continuity: the reading happens on 'a flat shelf, dry and out of the wind', but F593 says she read the gloves by a hut fire. The beat sets the shore, so revise F593 to the rock shelf above the Drum. Change 'I have kept that drawer thirty winters' to 'since my crowning' to match F619. Drop 'Ila's father found him' from new-facts, since the page never says it.",
-    "Prose: 'as if he had been handed something he had stopped expecting' echoes 'handed a riddle' three lines up. It joins a stack of 'a man who' similes (doorway, riddle, made himself wait, sleeping child). Keep two at most. Replace 'It was the size of a mountain, what he set down there' with one concrete beat of his hand on the snow. Change 'She looked, because she could not help looking' to 'She looked at his hands.'",
-    "Clarity: 'Every crosser a warden had hanged since. Meera's mother.' implies Meera's mother was hanged; write 'Meera's mother, dead of the cough behind the closed pass.' Cut the thesis line 'His closed hand was a hand over a grave.' The previous line already lands it. In the last line, 'tied the stitches shut' has no stitches to tie; write 'buttoned it inside her coat'."
+    "At 'It had come out at a pair of gloves on a stone', the beat's romance turn (his secrecy now protects the debt) is missing. Add one or two lines where Ila sees that the unnamed guest, Udai's silence and the never-written princes' way are what kept Harish's death buried. Kunal's family habit of secrecy is the shroud he doesn't know he's holding.",
+    "At 'He took her silence for what it was and did not press it', the line dilutes the beat's end on 'Then I'll take you.' It also reads Kunal's mind from Ila's POV. Cut it. End on her following him, with one concrete image tying the walk to Harish's slope, such as her gloved hands or the letter against her ribs.",
+    "At 'Whatever's there, I'll tell you the first moment I can', a bound statement of intent is a promise by Rule 1, and disclaiming it changes nothing. Rephrase as a free feeling ('I want to tell you. I don't know that I'll be let'). Also change 'the fingers I have left' to 'these grey ends', since he has lost no fingers yet."
   ],
-  "reader_question": "Will Ila tell Kunal that his grandfather walked hers to his death before he leads her down that same way, and what price is written beneath the Shilak Cairn?",
+  "reader_question": "Will Ila tell Kunal that his grandfather walked hers to his death before they reach the Cairn, and what is owed there?",
   "techniques_landed": [
     17,
     3,
-    13,
-    20
+    13
   ],
-  "new_facts_assessment": "Udai coming home alive is needed and fits F635 and F526. The page never says Ila's father found Harish, so strike that clause from the fact. Sarala keeping the drawer thirty winters conflicts mildly with F619's thirty-one-winter reign; reword it. Making the archive oath separate from the nineteen-year-old surveyor's oath is needed, and it fits F553 and F639.",
+  "new_facts_assessment": "The draft lists no new facts. Its additions (Harish, Udai as grandfather, Udai came home, the archive oath, the gloves read as payment) already sit in continuity (F521-F524, F704-F709) and are consistent. The letter's 'sixty-one winters' correctly adjusts the beat's sixty for Book 2. 'I'd stake the fingers I have left' wrongly implies Kunal has lost fingers; at ch16 only his tips are grey. 'Land his grandmothers had never named' is unclear; cut or explain it.",
   "content_rule_violation": false,
   "failure_modes": [],
-  "average": 3.38,
-  "minimum": 0.0,
-  "passed": false
+  "average": 4.5,
+  "minimum": 4.0,
+  "passed": true
 }

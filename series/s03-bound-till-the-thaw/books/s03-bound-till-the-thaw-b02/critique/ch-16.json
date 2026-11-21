@@ -1,41 +1,39 @@
 {
   "scores": {
-    "reader_question": 4.0,
-    "change": 4.0,
+    "reader_question": 5.0,
+    "change": 5.0,
     "romance_movement": 4.0,
-    "shown_chemistry": 4.0,
+    "shown_chemistry": 5.0,
     "character_logic": 4.0,
     "stakes_and_cost": 4.0,
-    "prose": 3.0,
+    "prose": 4.0,
     "continuity": 5.0
   },
   "reasons": {
-    "reader_question": "Sharp and specific: will she tell him before the Cairn, and was Udai's guiding a crime or a mercy?",
-    "change": "Big knowledge reversal (grandfather, Udai, grave map) plus first kiss; power shifts to Ila, who now holds his family's secret.",
-    "romance_movement": "First kiss is costed with a new reason, the promise-nothing clause; the reversal recasts him as heir to the debt; his open hand moves trust.",
-    "shown_chemistry": "Responsive action: laugh against his mouth, his careful hands, unchecked nails, hand left shaped to her face. Very little narrated feeling.",
-    "character_logic": "Silence is well reasoned: the oath, the queen's line, and real doubt about Udai. Kissing before reading is honestly framed and fits Ila.",
-    "stakes_and_cost": "Free silence is turned into a moral cost she hates. His acceptance visibly costs him. Walking her down the road carries dramatic-irony weight.",
-    "prose": "Clean, no banned phrases or tells. But the letter section drifts into a long monologue, one line contradicts itself, and the ending restates the irony.",
-    "continuity": "Ila 31, 61 winters, gloves (F490), Udai (F484, F635), archive oath (F706), rope length and grey fingertips all consistent."
+    "reader_question": "Specific and urgent: will she tell him before the Cairn, and what did Udai do to Harish?",
+    "change": "Knowledge flips completely. She moves from neutral surveyor to granddaughter of the debt and now holds his family's secret.",
+    "romance_movement": "A costed first kiss, then the grandfathers' reversal. But the beat's 'his secrecy protects the debt' angle is never surfaced on the page.",
+    "shown_chemistry": "Shown through hands on her face, the laugh felt against his mouth, his open palm on the snow and the 'which part' callback. Strong.",
+    "character_logic": "Her silence is reasoned through the oath and the ambiguity of Udai's act. Her 'I'll tell you the first moment I can' wobbles against the promise rule.",
+    "stakes_and_cost": "Silence is free and she hates that. He offers to walk her where his grandfather walked hers. The cost is mostly internal.",
+    "prose": "Concrete and controlled, and the glove-receipt turn lands. Some told beats ('saw the cost go across him'), a redundant closing line and odd phrasings.",
+    "continuity": "Consistent with sixty-one winters (F623), the gloves (F490), Udai coming home (F709), the oath (F706), the drawer (F708) and Ila at 31."
   },
   "fixes": [
-    "'And neither of them knew it, except the one holding the letter.' This line contradicts itself, and it follows a second statement of 'Her neutral map was a family grave map', which repeats 'it was a grave map. Her own family's.' Cut the repeat. Replace the contradiction with a clean line, e.g. 'He didn't know. Only the one holding the letter did.'",
-    "'She went through it as she would have gone through a field sheet': the stretch from here back to the gloves memory runs about 700 words of interiority with no action (Endless monologue). Break it with a physical choice halfway. For example, she writes 'Harish. Udai.' in the field book and then crosses it out. Or Kunal starts to speak, and she lifts a hand to stop him. Trim the list of route-keepers and holes to one item.",
-    "'She knew what his family had done, and he did not.' This tells the reader an irony they already hold, and it dilutes the beat's end on 'Then I'll take you.' Cut this paragraph and the 'She could not say anything that was both kind and true' paragraph to a single sentence. Close on the action of buttoning the letter against her ribs and following him east."
+    "At 'It had come out at a pair of gloves on a stone', the beat's romance turn (his secrecy now protects the debt) is missing. Add one or two lines where Ila sees that the unnamed guest, Udai's silence and the never-written princes' way are what kept Harish's death buried. Kunal's family habit of secrecy is the shroud he doesn't know he's holding.",
+    "At 'He took her silence for what it was and did not press it', the line dilutes the beat's end on 'Then I'll take you.' It also reads Kunal's mind from Ila's POV. Cut it. End on her following him, with one concrete image tying the walk to Harish's slope, such as her gloved hands or the letter against her ribs.",
+    "At 'Whatever's there, I'll tell you the first moment I can', a bound statement of intent is a promise by Rule 1, and disclaiming it changes nothing. Rephrase as a free feeling ('I want to tell you. I don't know that I'll be let'). Also change 'the fingers I have left' to 'these grey ends', since he has lost no fingers yet."
   ],
-  "reader_question": "Will Ila tell Kunal that his grandfather walked hers to his death before they reach the Cairn, and what price is written there?",
+  "reader_question": "Will Ila tell Kunal that his grandfather walked hers to his death before they reach the Cairn, and what is owed there?",
   "techniques_landed": [
     17,
     3,
     13
   ],
-  "new_facts_assessment": "F707 (gloves read on the shelf after the letter) is necessary because the reveal must follow the reading, and it correctly supersedes F593. F708 (31 winters since crowning) matches Book 2 as the 31st winter. F709 (Udai came home) fits F635 and usefully opens the crime-or-mercy ambiguity. Unlisted but harmless: a gold-edged oath page, the father telling the gloves story drunk (echoes F236), and the clerk's stroke on Harish (does not conflict with F641).",
+  "new_facts_assessment": "The draft lists no new facts. Its additions (Harish, Udai as grandfather, Udai came home, the archive oath, the gloves read as payment) already sit in continuity (F521-F524, F704-F709) and are consistent. The letter's 'sixty-one winters' correctly adjusts the beat's sixty for Book 2. 'I'd stake the fingers I have left' wrongly implies Kunal has lost fingers; at ch16 only his tips are grey. 'Land his grandmothers had never named' is unclear; cut or explain it.",
   "content_rule_violation": false,
-  "failure_modes": [
-    "Endless monologue"
-  ],
-  "average": 4.0,
-  "minimum": 3.0,
+  "failure_modes": [],
+  "average": 4.5,
+  "minimum": 4.0,
   "passed": true
 }
