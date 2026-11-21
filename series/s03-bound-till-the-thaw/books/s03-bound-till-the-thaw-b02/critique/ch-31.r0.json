@@ -1,42 +1,42 @@
 {
   "scores": {
     "reader_question": 4.0,
-    "change": 5.0,
+    "change": 4.0,
     "romance_movement": 4.0,
     "shown_chemistry": 4.0,
     "character_logic": 3.0,
     "stakes_and_cost": 4.0,
-    "prose": 4.0,
+    "prose": 3.0,
     "continuity": 0.0
   },
   "reasons": {
-    "reader_question": "The carving question is sharp, and the queen's response to a flat refusal adds a second, specific pull.",
-    "change": "Oath broken in public, map delivered to both sides, commission and roll lost, Neshar's self-rule granted: power, status and identity all shift.",
-    "romance_movement": "The new reason is unverified faith. The false-sentence test at the fold and the refusal on Kunal's behalf with no rope to enforce it both prove it.",
-    "shown_chemistry": "Responsive acts carry it: he counts her new pace beside her, the hand laid beside hers, and he reads her laid gloves. Kunal fades from the last two scenes.",
-    "character_logic": "Ila sat on Harish's story for weeks after meeting Rohan face to face. The queen's condition rests on a Pritam escape never shown or reported.",
-    "stakes_and_cost": "The lost commission is real, named and accepted. Refusing a queen with no favour left is a fresh cost going into the last chapter.",
-    "prose": "Concrete and controlled, with strong images like the splinter and the stitch. But Kunal's climactic petition is summarised, and 'five weeks ago, she would have died' confuses.",
-    "continuity": "Rohan arrives 'from the Saddle road' on day 48, 'since the thaw began', yet Shilak's thaw is day 56 and a lone rider can't cross before it."
+    "reader_question": "Specific and earned: the torn rubbing's last word, now to be read by queen and prince together. The opening hook is weak.",
+    "change": "Oath broken, commission and archive lost, bond ended, Neshar self-ruled. Power and knowledge both shift visibly.",
+    "romance_movement": "The new reason lands: 'I'll still take your word' / 'That's the new part.' 'Not alone' proves it again under pressure.",
+    "shown_chemistry": "Warm pencil leads, lurching when she lurches, the hand laid flat beside hers, the reflexive palms-out. All responsive action.",
+    "character_logic": "Ila sits on the rubbing forty days with Bindu downstairs and Kiran unmentioned. The queen grants four sweeping demands at once.",
+    "stakes_and_cost": "Ila pays the commission and then the archive. Kunal's petition carries no risk; the queen grants it without resistance.",
+    "prose": "Clean and readable with no banned phrases. But the copying montage summarises, 'low and plain' echoes, and it runs about 3,500 words.",
+    "continuity": "Kunal shows 'both hands ... grey to the second joint'; F644/F749 say only the right fingertips are dead. Rohan's day-18 return conflicts with F784."
   },
   "fixes": [
-    "'He had come over from the Saddle road that afternoon': this is a continuity conflict. On day 48 the Saddle is closed until Shilak's day-56 thaw, and a lone rider would die. Have Rohan return from the lowland Taravan road, where he went after ch 30 to report the Under-Cairn. That one clause also explains why Ila waited to tell him face to face. Cut 'since the thaw began'.",
-    "'Pritam walks free,' she said at last: this is a twist without setup. The escape is never shown or reported, and it steals ch 32's hinge. Make the condition forward-facing instead: Neshar's seat must keep Pritam held and set council pairs on every mapped way, so no one can walk him out. That sets up the ch 32 escape as a betrayal of this bargain.",
-    "'Whatever Sarala did next, she would do it': the ending dissolves into rumination after the beat's hook. Cut the final paragraph. End on the queen's 'Go and fetch him,' then add one line of interrupted action: Ila's hand on the hem, and the torn rubbing's last word under her fingers as she turns for the door. Keep the next chapter necessary."
+    "At 'held up both hands to her, palms out, grey to the second joint', the hands conflict with F644/F749 (continuity). Make it 'held up both hands... the right grey at the tips, the left pink', so the reader sees one hand that never could vouch and one that no longer does. Also confirm Rohan's day-18 arrival in new-facts as superseding F782/F784.",
+    "At 'its last word that no one had read', the forty-day silence is a contrived delay (Bindu reads it in ch32). In the post-room scene, add one line: Ila keeps the rubbing folded unread because she promised Kiran first word, and Kiran is crossing with the council pairs. That makes the queen's demand collide with two promises, not one.",
+    "At 'Granted. All four. On one condition.', the petition succeeds without friction (stakes without depth). Have Sarala refuse the no-garrison clause first. Kunal then trades something costly in the open: his own name as surety if Pritam walks, or his council seat held personally answerable. Also replace the second 'low and plain' simile ('like the chair') to cut the echo."
   ],
-  "reader_question": "What does the carving under the mountain say, and what will the queen do now that a stripped surveyor has refused her?",
+  "reader_question": "What does the torn last word of the Under-Cairn rubbing say, and what will the queen do when she reads it beside Kunal?",
   "techniques_landed": [
     15,
     20,
     24
   ],
-  "new_facts_assessment": "The Left-Fork Stair dual label is good, consistent and thematic. The Hollow Moon rescue fits F776 but happens offstage in one line. The queen's Pritam condition assumes an escape never shown, and it pre-empts the Book 2 hinge (F627, ch 32). Rohan's arrival breaks the thaw timeline and the closed-pass rules. The 'Not alone' refusal is strong and on theme, but it goes past the beat and may collide with the public cairn-ring reading planned for ch 32 (F625).",
+  "new_facts_assessment": "Most new facts are necessary and consistent: Gauri's runners, the day-35 fold test, Harish by the door, Pell Orlan, the queen at 62. Rohan on day 18 contradicts provisional F782/F784; S7 must retire those. The east-bearing margin note fits F790, but 'I don't draw a way I haven't walked' strains against ch32's private dotted line; S7 should reconcile them. The lifelong archive ban is a strong cost and fits Book 3, where the archive opens to Lata, not Ila. A 1.75-span pace with the crutch versus F767's 1.25 is plausible as healing but unstated.",
   "content_rule_violation": false,
   "failure_modes": [
-    "Twists without setup",
-    "Contrived delays"
+    "Contrived delays",
+    "Irrational behaviour to extend plot"
   ],
-  "average": 3.5,
+  "average": 3.25,
   "minimum": 0.0,
   "passed": false
 }
