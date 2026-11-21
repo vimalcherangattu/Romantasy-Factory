@@ -966,7 +966,7 @@
       ]
     },
     "30": {
-      "status": "passed",
+      "status": "edited",
       "revisions": 1,
       "scores": {
         "reader_question": 4.0,
@@ -983,15 +983,15 @@
       "words": 2731,
       "minimum": 4.0,
       "style": {
-        "words": 2705,
+        "words": 2731,
         "banned_hits": {},
         "ai_tell_hits": {},
         "ai_tells_per_1000": 0.0,
         "top_4gram": "with the flat of",
         "top_4gram_count": 2,
-        "longest_paragraph_words": 99,
-        "em_dashes_per_1000": 0.74,
-        "reading_ease": 93.8
+        "longest_paragraph_words": 95,
+        "em_dashes_per_1000": 0.73,
+        "reading_ease": 93.6
       },
       "owner_instructions": [
         "Keep unchanged: Raghu caught by his own rope, with Pasang reading the tallow fingertips. Keep the 'I like you' callback with warm hands and the specific list (pencil leads, 'forty-one', making her laugh when she's furious).",
@@ -2337,9 +2337,13 @@
     {
       "at": "2026-11-21T20:33:30",
       "event": "done: S8 line edit ch 29"
+    },
+    {
+      "at": "2026-11-21T20:34:06",
+      "event": "done: S8 line edit ch 30"
     }
   ],
-  "updated_at": "2026-11-21T20:33:30",
+  "updated_at": "2026-11-21T20:34:06",
   "midpoint_chapter": 16,
   "continuity_attempts": 0,
   "continuity_last_errors": null,
