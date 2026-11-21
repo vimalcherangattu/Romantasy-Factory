@@ -542,7 +542,7 @@
       ]
     },
     "17": {
-      "status": "passed",
+      "status": "edited",
       "revisions": 3,
       "scores": {
         "reader_question": 4.0,
@@ -556,18 +556,18 @@
       },
       "average": 4.0,
       "flags": [],
-      "words": 2756,
+      "words": 2755,
       "minimum": 3.0,
       "style": {
-        "words": 2464,
+        "words": 2755,
         "banned_hits": {},
         "ai_tell_hits": {},
         "ai_tells_per_1000": 0.0,
-        "top_4gram": "where he could see",
-        "top_4gram_count": 3,
-        "longest_paragraph_words": 95,
-        "em_dashes_per_1000": 0.41,
-        "reading_ease": 94.3
+        "top_4gram": "the shelf above the",
+        "top_4gram_count": 2,
+        "longest_paragraph_words": 129,
+        "em_dashes_per_1000": 0.36,
+        "reading_ease": 93.9
       },
       "owner_instructions": [
         "Word tics (owner note 8): keep at most one 'plain', 'plainly' or 'the plain thing'. Allow at most one 'He did not X. He did Y.' construction."
@@ -2285,9 +2285,13 @@
     {
       "at": "2026-11-21T20:25:50",
       "event": "done: S8 line edit ch 16"
+    },
+    {
+      "at": "2026-11-21T20:26:22",
+      "event": "done: S8 line edit ch 17"
     }
   ],
-  "updated_at": "2026-11-21T20:25:50",
+  "updated_at": "2026-11-21T20:26:22",
   "midpoint_chapter": 16,
   "continuity_attempts": 0,
   "continuity_last_errors": null,
