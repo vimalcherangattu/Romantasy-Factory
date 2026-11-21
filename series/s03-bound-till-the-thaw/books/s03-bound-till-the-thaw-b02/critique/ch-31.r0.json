@@ -1,42 +1,42 @@
 {
   "scores": {
     "reader_question": 4.0,
-    "change": 4.0,
+    "change": 5.0,
     "romance_movement": 4.0,
     "shown_chemistry": 4.0,
     "character_logic": 3.0,
-    "stakes_and_cost": 3.0,
+    "stakes_and_cost": 4.0,
     "prose": 4.0,
     "continuity": 0.0
   },
   "reasons": {
-    "reader_question": "The queen asking alone for the rubbing points a sharp question at the unread carving and at what she fears it says.",
-    "change": "The oath is broken in public, the map is shared, Neshar wins self-rule, and Rohan learns Harish's truth. Power and knowledge both move.",
-    "romance_movement": "The new reason is faith kept without a rope to check it ('she did not count it'). It is quieter after ch30's consummation, but it is real.",
-    "shown_chemistry": "Lurching in step on the pace line, a hand flat beside hers, the palm between his shoulders before everyone. The chemistry is all action.",
-    "character_logic": "Sarala grants all four demands at once with no bargaining. Her 'sixty winters' and 'did not ask the archive' fit neither her age nor her knowledge.",
-    "stakes_and_cost": "Anger is stated but costs nothing: no penalty, no lost commission. Ila's Chief Surveyor ambition is never priced against the oath-break.",
-    "prose": "Clean, concrete and varied, with no banned phrases or dashes. A few clichés: 'held it as a man holds a child', 'heaviest line', 'clumsy hill' twice.",
-    "continuity": "Shilak's thaw comes 13 days after the Meadow Cairn's, against F435 (3 to 5 weeks). The council on day 51 contradicts F525 (day 35)."
+    "reader_question": "The carving question is sharp, and the queen's response to a flat refusal adds a second, specific pull.",
+    "change": "Oath broken in public, map delivered to both sides, commission and roll lost, Neshar's self-rule granted: power, status and identity all shift.",
+    "romance_movement": "The new reason is unverified faith. The false-sentence test at the fold and the refusal on Kunal's behalf with no rope to enforce it both prove it.",
+    "shown_chemistry": "Responsive acts carry it: he counts her new pace beside her, the hand laid beside hers, and he reads her laid gloves. Kunal fades from the last two scenes.",
+    "character_logic": "Ila sat on Harish's story for weeks after meeting Rohan face to face. The queen's condition rests on a Pritam escape never shown or reported.",
+    "stakes_and_cost": "The lost commission is real, named and accepted. Refusing a queen with no favour left is a fresh cost going into the last chapter.",
+    "prose": "Concrete and controlled, with strong images like the splinter and the stitch. But Kunal's climactic petition is summarised, and 'five weeks ago, she would have died' confuses.",
+    "continuity": "Rohan arrives 'from the Saddle road' on day 48, 'since the thaw began', yet Shilak's thaw is day 56 and a lone rider can't cross before it."
   },
   "fixes": [
-    "Timeline (continuity). At 'The thaw came to Shilak on the forty-eighth day', move the day to fit F435 and F525. Either set the bond's end earlier and keep the council at the fixed date, or put Shilak's thaw at least three weeks after day 35. Then adjust the twelve working days and the council's arrival so the dates balance.",
-    "Queen's private speech (character logic, continuity). In 'I read his name on a list when I was nineteen and did not dare to ask the archive', she already knows the archive's story (bible) and has reigned 31 winters. Rewrite: she read the archive at her crowning and has never dared read what is written under the mountain (F595). Replace 'Sixty winters' with 'Thirty-one winters'.",
-    "Cost of the oath (stakes without depth). After 'We are keeping the map', have Sarala set a concrete price that bites Ila's stated want. For example, the Chief Surveyor's commission goes to another, or her name comes off the crown roll as the queen accepts the map. Have Ila answer it in one line, so 'Granted. All four' is bought, not given."
+    "'He had come over from the Saddle road that afternoon': this is a continuity conflict. On day 48 the Saddle is closed until Shilak's day-56 thaw, and a lone rider would die. Have Rohan return from the lowland Taravan road, where he went after ch 30 to report the Under-Cairn. That one clause also explains why Ila waited to tell him face to face. Cut 'since the thaw began'.",
+    "'Pritam walks free,' she said at last: this is a twist without setup. The escape is never shown or reported, and it steals ch 32's hinge. Make the condition forward-facing instead: Neshar's seat must keep Pritam held and set council pairs on every mapped way, so no one can walk him out. That sets up the ch 32 escape as a betrayal of this bargain.",
+    "'Whatever Sarala did next, she would do it': the ending dissolves into rumination after the beat's hook. Cut the final paragraph. End on the queen's 'Go and fetch him,' then add one line of interrupted action: Ila's hand on the hem, and the torn rubbing's last word under her fingers as she turns for the door. Keep the next chapter necessary."
   ],
-  "reader_question": "What does the carving under the mountain say, and why must the queen read it before anyone else?",
+  "reader_question": "What does the carving under the mountain say, and what will the queen do now that a stripped surveyor has refused her?",
   "techniques_landed": [
     15,
     20,
     24
   ],
-  "new_facts_assessment": "F612 conflicts with F435 (the Meadow Cairn runs 3 to 5 weeks before Shilak) and with F525 (council fixed for day 35). F613 rope scale bar: good, consistent with F436. F614 Dhanu's Rest and Widow's Knuckle: consistent with F541. F615: fine. F616 conflicts with the bible: the queen knows the Bargain and the last payer from the archive, and at 62 she cannot have let the law speak for 'sixty winters'. F617 is fine, but Meera 'bringing up' a farmer-and-daughter pair implies three on a rope (F439).",
+  "new_facts_assessment": "The Left-Fork Stair dual label is good, consistent and thematic. The Hollow Moon rescue fits F776 but happens offstage in one line. The queen's Pritam condition assumes an escape never shown, and it pre-empts the Book 2 hinge (F627, ch 32). Rohan's arrival breaks the thaw timeline and the closed-pass rules. The 'Not alone' refusal is strong and on theme, but it goes past the beat and may collide with the public cairn-ring reading planned for ch 32 (F625).",
   "content_rule_violation": false,
   "failure_modes": [
-    "Stakes without depth",
-    "Irrational behaviour to extend plot"
+    "Twists without setup",
+    "Contrived delays"
   ],
-  "average": 3.25,
+  "average": 3.5,
   "minimum": 0.0,
   "passed": false
 }
