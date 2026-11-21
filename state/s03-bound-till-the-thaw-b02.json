@@ -10,8 +10,8 @@
   ],
   "chapters": {
     "01": {
-      "status": "owner-revise",
-      "revisions": 2,
+      "status": "revised",
+      "revisions": 0,
       "scores": {
         "reader_question": 4.0,
         "change": 4.0,
@@ -24,7 +24,7 @@
       },
       "average": 3.88,
       "flags": [],
-      "words": 2810,
+      "words": 2758,
       "minimum": 3.0,
       "style": {
         "words": 2810,
@@ -2363,9 +2363,13 @@
     {
       "at": "2026-11-21T20:40:50",
       "event": "done: owner notes plan"
+    },
+    {
+      "at": "2026-11-21T20:42:02",
+      "event": "done: S6 revise ch 1"
     }
   ],
-  "updated_at": "2026-11-21T20:40:50",
+  "updated_at": "2026-11-21T20:42:02",
   "midpoint_chapter": 16,
   "continuity_attempts": 0,
   "continuity_last_errors": null,
