@@ -1041,7 +1041,7 @@
       ]
     },
     "32": {
-      "status": "passed",
+      "status": "edited",
       "revisions": 0,
       "scores": {
         "reader_question": 4.0,
@@ -1055,18 +1055,18 @@
       },
       "average": 3.75,
       "flags": [],
-      "words": 3433,
+      "words": 3434,
       "minimum": 3.0,
       "style": {
-        "words": 3353,
+        "words": 3434,
         "banned_hits": {},
         "ai_tell_hits": {},
         "ai_tells_per_1000": 0.0,
         "top_4gram": "of the shilak post",
         "top_4gram_count": 3,
-        "longest_paragraph_words": 95,
+        "longest_paragraph_words": 112,
         "em_dashes_per_1000": 0.0,
-        "reading_ease": 94.0
+        "reading_ease": 93.8
       },
       "owner_instructions": [
         "Keep unchanged: the oath that doesn't hum ('It didn't hum.' / 'I wanted it to.'), the walnut tied with his teeth, 'Then I'll know when you're coming,' and the 'we bind again, and my fingers can't show you a lie' series hook.",
@@ -2345,9 +2345,13 @@
     {
       "at": "2026-11-21T20:34:45",
       "event": "done: S8 line edit ch 31"
+    },
+    {
+      "at": "2026-11-21T20:35:24",
+      "event": "done: S8 line edit ch 32"
     }
   ],
-  "updated_at": "2026-11-21T20:34:45",
+  "updated_at": "2026-11-21T20:35:24",
   "midpoint_chapter": 16,
   "continuity_attempts": 0,
   "continuity_last_errors": null,
