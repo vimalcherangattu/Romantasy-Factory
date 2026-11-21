@@ -1,3 +1,19 @@
 {
-  "facts": []
+  "facts": [
+    {
+      "category": "timeline",
+      "fact": "At ch 27 the Meadow Cairn bond is about two weeks old; Ila has studied Kunal's habits every day since the Meadow Cairn (consistent with F713, day ten at ch 17).",
+      "since": "s03-bound-till-the-thaw-b02 ch 27"
+    },
+    {
+      "category": "object",
+      "fact": "Ila and Kunal's rope is undyed wool (F436), not grey; Raghu's pairs use grey wool. Ch 27 corrects the rope colour from 'grey' to undyed.",
+      "since": "s03-bound-till-the-thaw-b02 ch 27"
+    },
+    {
+      "category": "knowledge",
+      "fact": "Kunal turns back at about fifteen spans, short of the sixteen-span point (twice the rope's length) where the path vanishes; Ila counts him out span by span.",
+      "since": "s03-bound-till-the-thaw-b02 ch 27"
+    }
+  ]
 }
