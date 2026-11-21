@@ -896,8 +896,8 @@
       ]
     },
     "28": {
-      "status": "failed",
-      "revisions": 0,
+      "status": "revised",
+      "revisions": 1,
       "scores": {
         "reader_question": 3.0,
         "change": 4.0,
@@ -910,7 +910,7 @@
       },
       "average": 3.25,
       "flags": [],
-      "words": 2578,
+      "words": 2582,
       "minimum": 0.0,
       "style": {
         "words": 2512,
@@ -2143,9 +2143,13 @@
     {
       "at": "2026-11-21T19:50:00",
       "event": "done: S5 critique ch 28"
+    },
+    {
+      "at": "2026-11-21T19:50:42",
+      "event": "done: S6 revise ch 28"
     }
   ],
-  "updated_at": "2026-11-21T19:50:00",
+  "updated_at": "2026-11-21T19:50:42",
   "midpoint_chapter": 16,
   "continuity_attempts": 0,
   "continuity_last_errors": null,
