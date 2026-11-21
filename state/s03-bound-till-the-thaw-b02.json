@@ -438,7 +438,7 @@
       ]
     },
     "14": {
-      "status": "passed",
+      "status": "edited",
       "revisions": 0,
       "scores": {
         "reader_question": 5.0,
@@ -452,18 +452,18 @@
       },
       "average": 4.5,
       "flags": [],
-      "words": 2908,
+      "words": 2878,
       "minimum": 3.0,
       "style": {
-        "words": 2806,
+        "words": 2878,
         "banned_hits": {},
         "ai_tell_hits": {},
         "ai_tells_per_1000": 0.0,
-        "top_4gram": "she had said it",
+        "top_4gram": "at the glass lakes",
         "top_4gram_count": 3,
         "longest_paragraph_words": 124,
-        "em_dashes_per_1000": 0.36,
-        "reading_ease": 95.9
+        "em_dashes_per_1000": 0.69,
+        "reading_ease": 95.5
       },
       "owner_instructions": [
         "Word tics (owner note 8): keep at most one 'plain', 'plainly' or 'the plain thing'. Allow at most one 'He did not X. He did Y.' construction."
@@ -2273,9 +2273,13 @@
     {
       "at": "2026-11-21T20:24:19",
       "event": "done: S8 line edit ch 13"
+    },
+    {
+      "at": "2026-11-21T20:24:54",
+      "event": "done: S8 line edit ch 14"
     }
   ],
-  "updated_at": "2026-11-21T20:24:19",
+  "updated_at": "2026-11-21T20:24:54",
   "midpoint_chapter": 16,
   "continuity_attempts": 0,
   "continuity_last_errors": null,
