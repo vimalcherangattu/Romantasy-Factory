@@ -12,7 +12,7 @@
   ],
   "chapters": {
     "01": {
-      "status": "passed",
+      "status": "edited",
       "revisions": 0,
       "scores": {
         "reader_question": 4.0,
@@ -26,18 +26,18 @@
       },
       "average": 4.12,
       "flags": [],
-      "words": 2758,
+      "words": 2756,
       "minimum": 4.0,
       "style": {
-        "words": 2810,
+        "words": 2756,
         "banned_hits": {},
         "ai_tell_hits": {},
         "ai_tells_per_1000": 0.0,
-        "top_4gram": "she had paced the",
+        "top_4gram": "two spans out of",
         "top_4gram_count": 2,
-        "longest_paragraph_words": 118,
+        "longest_paragraph_words": 149,
         "em_dashes_per_1000": 0.0,
-        "reading_ease": 88.7
+        "reading_ease": 90.3
       },
       "owner_instructions": [
         "Opening line and first pacing beat: the first sentence (\"Ila had never been wrong about a distance she had walked herself, so when the tower came up short she walked it again.\") and the north-wall void measurement are the owner's favourite moments. Do not change the wording, the order or the clue placement. The void pays off in ch 32 and must stay unsignposted.",
@@ -2462,9 +2462,13 @@
     {
       "at": "2026-11-21T21:31:18",
       "event": "done: book-level checks"
+    },
+    {
+      "at": "2026-11-21T21:31:48",
+      "event": "done: S8 line edit ch 1"
     }
   ],
-  "updated_at": "2026-11-21T21:31:18",
+  "updated_at": "2026-11-21T21:31:48",
   "midpoint_chapter": 16,
   "continuity_attempts": 1,
   "continuity_last_errors": 1,
