@@ -2,40 +2,41 @@
   "scores": {
     "reader_question": 4.0,
     "change": 4.0,
-    "romance_movement": 5.0,
-    "shown_chemistry": 5.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 4.0,
     "character_logic": 3.0,
     "stakes_and_cost": 3.0,
     "prose": 4.0,
-    "continuity": 5.0
+    "continuity": 0.0
   },
   "reasons": {
-    "reader_question": "Who carries the lamp up the crawl is sharp and story-caused; the worn last word adds a second, specific gap.",
-    "change": "Major knowledge gains (Hemi a woman, Harish's mark, thirteen gloves) plus a declaration; power is unchanged until the final intrusion.",
-    "romance_movement": "The declaration in the dark is a new move: he removes her one instrument, and she chooses to hold rather than read.",
-    "shown_chemistry": "Counting her lurching pace, the warm pencil lead, the shirt-padded crutch, the pinched lamp: all responsive action, none narrated.",
-    "character_logic": "Kunal calmly cites his grandfather, who is Udai, one chapter after naming Udai culpable. He never registers that Udai stood here.",
-    "stakes_and_cost": "Oil, the foot and the Meadow deadline sit in the background. The declaration has no visible price beyond her trust.",
-    "prose": "Clean and concrete, with one AI tell. 'Seen it once, in a dozen rubbings' contradicts itself, and 'very' recurs about five times.",
-    "continuity": "Consistent with F521, F583, F490, F494, F271 and the loophole rule; the worn word stays open per the bible hinge."
+    "reader_question": "The lamplight in the crawl is a sharp, story-caused hook. Raghu's men went up the Kuhl side, so the threat is real.",
+    "change": "Big knowledge shift: Hemi was a woman, Harish walked out alive, the gloves custom is real, and the script reads 'Carried till no'.",
+    "romance_movement": "First 'I love you' in the dark, with a new reason (he removes her only instrument). The world's rules blur how far she actually chooses belief.",
+    "shown_chemistry": "Strong responsive care: pace-counting on her old figure, the warm pencil lead unasked, the crutch padded with his shirt.",
+    "character_logic": "The dark room is not instrument-free. It sits inside a cairn whose stones ring at lies. Holding his hands is itself the touch test.",
+    "stakes_and_cost": "Belief costs little when the rope hum and touch can verify anyway. The follower adds external stakes only at the end.",
+    "prose": "Clean, concrete, and varied in rhythm. Minor 'gently' repetition, and the counting motif is a touch heavy.",
+    "continuity": "'Held both in her head for a month' conflicts with F759 (bond about two weeks old). Udai 'taught the route-songs' strains F635 and F563."
   },
   "fixes": [
-    "At 'My grandfather taught the route-songs in this hand': ch28 just named Udai as the man who walked Harish to his death, yet Kunal says it flatly. Either reassign the teacher (his mother, Dhanu), or give Kunal one stopped beat. He realises Udai read this line with Harish beside him, and his hand goes to the lamp.",
-    "At 'Asha ties every knot like it. Her grandmother taught her.': this pre-empts S7 (Book 4 midpoint) by letting Ila infer a family door. Keep Meera's sketch and 'Same as cairn' with Asha's crew as the source. Cut the grandmother line and 'a door built for someone's family'. Ila notes the match and files it.",
-    "At 'She had seen the cairn carving once, in a dozen rubbings': the line is self-contradictory. Make it 'She had never seen the cairn carving, only a dozen rubbings, all wrong.' Then trim 'very' from 'very quietly', 'very gently', 'very low', 'very still' and 'very straight', keeping at most one."
+    "'Touch is how the cold goes over. If it were a lie': this contradicts the page. She is gloved and his hands are bandaged, yet she claims she would feel a lie (F013). Rewrite so she deliberately keeps her gloves on over his cloth and says so: nothing can pass, so she cannot check. Then 'It isn't to check' becomes a real, costly choice of belief over verification.",
+    "'He had chosen the one room in the mountain where she could not use it': the vault is a cairn, and cairn stones ring at a lie (F015, F320). The rope's level hum also reads as proof. Either establish earlier that the Under-Cairn's hum is dead or unreadable ('It did not brighten'), or have Ila notice she could listen and speak 'I'm not counting' before the stones answer.",
+    "'held both in her head for a month without once': the bond is about sixteen days old (F759), and ch 12 already set the two meanings of 'carried' side by side (F494). Change it to 'since the Ladder' and 'without letting them mean the same man'. Also change 'My grandfather taught the route-songs in this hand' to 'Pritam taught me the route-songs in this hand' (F563, F635)."
   ],
-  "reader_question": "Who has followed Ila and Kunal into the Under-Cairn, and can they get out with what they found?",
+  "reader_question": "Who has carried a lamp up the crawl behind them, and can two crippled people get out of a sealed vault?",
   "techniques_landed": [
     1,
     11,
     20
   ],
-  "new_facts_assessment": "Listed facts are necessary and consistent. Four facts are unlisted. Udai teaching route-songs in this script is loaded and needs handling. Meera relaying Asha's grandmother and Ila inferring 'a door built for someone's family' push S7 toward its Book 4 payoff too early. Ila's mother's long hands and the Taravan wall at nineteen are harmless. 'I've said that word my whole life' sits uneasily with F471, though it does not conflict.",
+  "new_facts_assessment": "The draft lists no new facts but adds several: Ila's crutch pace of 1.25 spans, Taravan wall rubbings at nineteen, never having seen the Shilak carving, long hands from her mother, the half skin of oil, and fourteen marks with signs. Most are harmless and should be listed. 'My grandfather taught the route-songs in this hand' is risky: Udai died when Kunal was four (F635) and Pritam taught him the songs (F563).",
   "content_rule_violation": false,
   "failure_modes": [
-    "Irrational behaviour to extend plot"
+    "Irrational behaviour to extend plot",
+    "Convenient magic"
   ],
-  "average": 4.12,
-  "minimum": 3.0,
-  "passed": true
+  "average": 3.25,
+  "minimum": 0.0,
+  "passed": false
 }
