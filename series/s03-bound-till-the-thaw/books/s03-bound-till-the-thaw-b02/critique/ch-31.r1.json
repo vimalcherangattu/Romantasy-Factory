@@ -1,7 +1,7 @@
 {
   "scores": {
     "reader_question": 4.0,
-    "change": 4.0,
+    "change": 5.0,
     "romance_movement": 4.0,
     "shown_chemistry": 4.0,
     "character_logic": 4.0,
@@ -10,30 +10,30 @@
     "continuity": 0.0
   },
   "reasons": {
-    "reader_question": "The rubbing's unread word and the queen's private request make a sharp question. Why she needs it alone is implied but never framed.",
-    "change": "Ila loses the commission, Neshar gains self-rule, and the map belongs to both courts. Ila's emotional turn is muted ('felt very calm').",
-    "romance_movement": "The new reason is unverifiable faith: the 'say something false' test, grey tips that can't testify, Dhanu's Rest, and her palm on him in public.",
-    "shown_chemistry": "Responsive acts carry it: he lurches when she lurches, she lays the gloves, he 'knows it', and his hand lies flat beside hers.",
-    "character_logic": "Ila breaks the oath in public on purpose, which is smart. The queen's dry 'already been paid' fits her pardon-signing habit.",
-    "stakes_and_cost": "Losing the commission is a real, costed price. The final request has no visible cost: Kiran asked to be told first.",
-    "prose": "Spare and often quotable ('like a tooth'). It repeats ch30's warm-as-bread image, opens two paragraphs with 'Then', and 'nineteen years of her own body' confuses.",
-    "continuity": "Day 35 to day 56 is three weeks, not 'three weeks and a day'. A council after day 56 conflicts with F525, which sets it at day 35."
+    "reader_question": "Clear carry-out: what does the rubbing say, and what will the queen do when Kunal reads it beside her?",
+    "change": "Oath broken in public, commission and crown roll lost, Neshar wins self-rule, and Ila refuses the queen to her face.",
+    "romance_movement": "The new reason is unverifiable faith: grey tips she can't read, 'did not count it', and Dhanu's Rest named at his request.",
+    "shown_chemistry": "Responsive actions carry it: he lurches when she lurches, a hand beside hers, her palm on his back in public.",
+    "character_logic": "Ila's 'Not alone' follows from her promise. The queen's grant is reasoned. Kunal's petition fits his growth.",
+    "stakes_and_cost": "The commission is a real price, but it 'left her cleanly'. Her lifelong want goes without any felt loss.",
+    "prose": "Clean and concrete with varied rhythm. Some soft spots: 'something give in her chest', 'The silence was long', a confusing 'five weeks ago' line.",
+    "continuity": "The 'grey cord' rope conflicts with F436/F760, which corrected Ila and Kunal's rope to undyed wool. Everything else checks out."
   },
   "fixes": [
-    "Continuity: in 'three weeks and a day behind the Meadow Cairn's', the bond ended on day 35 and Shilak's thaw is day 56, which is 21 days. Change it to 'three weeks to the day', or move the thaw to day 57. Revise F618 to supersede F525's day-35 council date. Also change Meera's 'sixty winters back' to 'sixty-one'.",
-    "Stakes and cost at the ending: after 'Alone, if you please. Before anyone else reads it.' the chapter cuts without a price. Kiran asked to be told first where the Bargain is paid (F437), and Kunal walked the crawl with her. Add two or three lines where Ila's hand stays on the hem and she names, to herself, who this would break faith with. Do not resolve the choice.",
-    "Prose and repetition: 'Warm as a loaf' echoes ch30's 'warm as bread', so give Kunal a different, specific image (warm as the salt-house wall, say). Change 'Then Kunal stepped forward.' to 'Kunal stepped forward.' to stop two consecutive paragraphs opening with 'Then'. Replace 'nineteen years of her own body' with 'twelve years since the brass rule'."
+    "'The rope was a grey cord on the boards' (continuity): Ila and Kunal's rope is undyed wool (F436, F760 explicitly corrected 'grey'). Change it to 'a pale undyed cord on the boards' so it doesn't conflict with Raghu's grey ropes or Dilan's grey rope end.",
+    "'It left her cleanly, the way a splinter does' (cost waived): her lifelong want should not exit painlessly. Before the splinter image, add one or two concrete sentences of loss. For example, her father's seven hundred unsigned maps, or Pell Orlan taking the chair. Then let her accept it. The ease should read as a choice made through pain, not an absence of pain.",
+    "'Five weeks ago, a bound pair who went that far lost the path' (clarity): this reads as if a past event happened. Rewrite it as a conditional: 'Five weeks ago, a bound pair who walked that far would have lost the path, and the mountain would have taken them both.' Also cut 'The silence was long' to 'No one spoke. A boy near the back coughed.'"
   ],
-  "reader_question": "What does the carving under the mountain say, and why must the queen read Ila's rubbing alone before anyone else?",
+  "reader_question": "What does the carving under the mountain say, and what will the queen do when she learns it at the same hour as Kunal?",
   "techniques_landed": [
     15,
     20,
     24
   ],
-  "new_facts_assessment": "F618: the day count is needed but its arithmetic is wrong (35 to 56 is 21 days), and it should explicitly supersede F525's day-35 council. F619 is consistent with F595 and the bible (31 winters, 31st winter). F620 is necessary and gives the oath its price. F621 is consistent with F617, F049 and F381. Unlisted but harmless: Kunal taught her the square hill hand, and he signs left-handed. Meera's 'sixty winters back' should read sixty-one in Book 2's winter. 'Grey since the Eye' slightly misdates F555, which places the strike at the lake huts before the Eye.",
+  "new_facts_assessment": "Both facts are necessary and consistent. Rohan's lowland Taravan road needs no pass crossing and fixes the day-48 timing. The queen's 'keep Pritam held' condition sets up Pritam's ch 32 escape as a breach. F784/F785 already duplicate them, so S7 should retire F781/F782.",
   "content_rule_violation": false,
   "failure_modes": [],
-  "average": 3.5,
+  "average": 3.62,
   "minimum": 0.0,
   "passed": false
 }
