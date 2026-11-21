@@ -4,38 +4,36 @@
     "change": 4.0,
     "romance_movement": 4.0,
     "shown_chemistry": 4.0,
-    "character_logic": 3.0,
+    "character_logic": 4.0,
     "stakes_and_cost": 4.0,
     "prose": 3.0,
-    "continuity": 0.0
+    "continuity": 5.0
   },
   "reasons": {
-    "reader_question": "The smokeless huts, with Gauri there and Raghu's four on the far shore, give a sharp, dread-laden question that the story itself caused.",
-    "change": "Ila now holds the whole known way, the family rule is broken on the record, and she owes a debt she can't put in any ledger.",
-    "romance_movement": "The reason is new. His gift is unpriced, she has no column for it, and her own silence now costs her. This is not a replayed refusal.",
-    "shown_chemistry": "Shown in action: she gives him the first step past his limit, they laugh after the squeeze, she reaches for the leads, he watches her hand.",
-    "character_logic": "Ila glosses a second blind squeeze for the lamp. Her reason for withholding the letter ('handful of change') is fuzzy and ignores her archive oath.",
-    "stakes_and_cost": "The odds are stated and turning back spends thaw days. Her silence is chosen and costed: 'Silence was free, and she hated what it cost.'",
-    "prose": "Clean and readable, but 'faint' recurs, 'jaw go hard' is near an AI tell, the 'like a stone' simile echoes ch22, and the 'lock/window' line is writerly.",
-    "continuity": "Ila's 'the warden did not come out' contradicts F704/F490: the letter says Harish 'did not come home', and he was found outside on the hillside."
+    "reader_question": "The smokeless huts tie straight to Raghu's four and Dhanu's family. The question is specific and caused by the story.",
+    "change": "Ila now holds the whole known way and an unpaid gift. Kunal has broken Pritam's rule on purpose and on the record.",
+    "romance_movement": "The new reason is a gift with no trade. She refuses to turn confession into payment, and 'Friend will do. I haven't settled the rest.'",
+    "shown_chemistry": "Responsive action carries it: the collar grab, shared laughter, him singing to keep his eyes up, her reaching into his coat for leads.",
+    "character_logic": "Decoding the hairpin, roping the slot, and turning back on half a lamp are all smart choices. Her silence is reasoned, not plot-driven.",
+    "stakes_and_cost": "Turning back costs a second slot crossing and a day off the thaw. Her silence costs her, and the empty huts raise the price.",
+    "prose": "Strong physical set pieces. Some lines are told or muddy ('She dealt in odds that way', the courtier-face line), and 'the line shook' and 'sum' repeat.",
+    "continuity": "The song, pace counts, rib scar, letter in pattu hem, dead right fingertips, oaths, Meadow Cairn and the twenty-one winters all match."
   },
   "fixes": [
-    "'and the warden did not come out.' This is a continuity break. The letter says only that Harish 'did not come home' (F704), and he was found outside on the slope above the third bend (F490). Change the line to 'and the warden did not come home', and keep 'walked this way' hedged ('may have walked this way'), since Ila does not know the route for certain.",
-    "'If she told him here, now, with the sheet' is a contrived delay. The 'handful of change' logic is vague, and Ila's real cost is unnamed: her archive oath and the queen's 'Tell no one Neshar's part' (F523). Add one line naming the oath as what speaking would break, then keep the gift-versus-trade reason as the second reason. Cut 'tidy and early and cheap.'",
-    "'She went back for the lamp, which took the rope' is an irrational shortcut. It glosses two more breathless squeezes that the scene just priced as worse than the Ladder. Either have Ila push the lamp ahead of her on the first pass, or give the return trip one concrete sentence of cost (the scar dragging again, a count of seven gasped twice)."
+    "Fix the lie-cold risk at '\"Nothing yet,\" said Ila. \"I'll tell you'. Ila has a letter in mind, so 'Nothing' reads as a statement she believes false, and under Rule 1 that is a great lie about the letter. Make it an open refusal, such as \"Something I can't pay for yet,\" and add one beat showing her fingertips stay pink. This also earns Kunal's 'All right.'",
+    "Clarify the told and muddy narration at 'That was not the courtier's face. She had stopped being afraid of that one.' The referent is unclear: which face no longer frightens her? Rewrite it as one concrete observation, for example: 'It was not the courtier's face, the one she had learned to read at the council table.' Cut 'She dealt in odds that way. She meant it as a number' and let the dialogue carry it.",
+    "Fix the ending geography at 'Every morning of her time on this lake she had seen'. The lodging huts stand below the Drum (F537), not on the Eye, so 'this lake' blurs where Ila stands. Make the line of sight explicit, for example 'down the basin, where the Drum's shore folded in', and say she watched that smoke from the Eye's lip each dawn, so the absence lands without a geography pause."
   ],
-  "reader_question": "What has happened at the lake huts, and is Gauri alive?",
+  "reader_question": "Why is there no smoke over Gauri's huts, and what has Raghu done to Dhanu's family while Ila and Kunal were inside the mountain?",
   "techniques_landed": [
     3,
     6,
     14
   ],
-  "new_facts_assessment": "All five facts are needed and match F739 to F743. Kunal 'breaking' the rule repeats F711 (he already broke it in ch17 by telling her of the Eye). Frame this as breaking it in deed, by walking her through, not as a first breach.",
+  "new_facts_assessment": "The draft lists no new facts but adds small ones: Gauri banks a fire with visible smoke every morning, the lamp is half gone with one night's bread, and Raghu's four have left the far shore. All are necessary for the ending and consistent with F594 and F596. Record them.",
   "content_rule_violation": false,
-  "failure_modes": [
-    "Contrived delays"
-  ],
-  "average": 3.25,
-  "minimum": 0.0,
-  "passed": false
+  "failure_modes": [],
+  "average": 4.0,
+  "minimum": 3.0,
+  "passed": true
 }
