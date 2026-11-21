@@ -277,7 +277,7 @@
       ]
     },
     "09": {
-      "status": "passed",
+      "status": "edited",
       "revisions": 0,
       "scores": {
         "reader_question": 4.0,
@@ -291,18 +291,18 @@
       },
       "average": 4.12,
       "flags": [],
-      "words": 2735,
+      "words": 2736,
       "minimum": 4.0,
       "style": {
-        "words": 2447,
+        "words": 2736,
         "banned_hits": {},
         "ai_tell_hits": {},
         "ai_tells_per_1000": 0.0,
         "top_4gram": "four hundred and ten",
         "top_4gram_count": 3,
-        "longest_paragraph_words": 95,
+        "longest_paragraph_words": 81,
         "em_dashes_per_1000": 0.0,
-        "reading_ease": 96.5
+        "reading_ease": 96.4
       },
       "owner_instructions": [
         "Word tics (owner note 8): keep at most one 'plain', 'plainly' or 'the plain thing'. Allow at most one 'He did not X. He did Y.' construction. Keep measurement-for-feeling to once per scene."
@@ -2253,9 +2253,13 @@
     {
       "at": "2026-11-21T20:21:48",
       "event": "done: S8 line edit ch 8"
+    },
+    {
+      "at": "2026-11-21T20:22:18",
+      "event": "done: S8 line edit ch 9"
     }
   ],
-  "updated_at": "2026-11-21T20:21:48",
+  "updated_at": "2026-11-21T20:22:18",
   "midpoint_chapter": 16,
   "continuity_attempts": 0,
   "continuity_last_errors": null,
