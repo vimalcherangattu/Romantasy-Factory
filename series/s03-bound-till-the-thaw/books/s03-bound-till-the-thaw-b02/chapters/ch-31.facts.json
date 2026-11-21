@@ -1,14 +1,3 @@
 {
-  "facts": [
-    {
-      "category": "timeline",
-      "fact": "After ch 30 Rohan went down the lowland Taravan road to report the Under-Cairn to the queen's clerks, and returned to the Shilak post on day 48 by that road; Ila held Harish's story until she could tell him face to face. Supersedes F782's 'Saddle road'.",
-      "since": "s03-bound-till-the-thaw-b02 ch 31"
-    },
-    {
-      "category": "knowledge",
-      "fact": "The queen's condition: Neshar's seat must keep Pritam held, and the council's pairs walk every mapped way so no one can walk him out. Supersedes F781's 'recapture' wording; sets up the ch 32 escape as a breach of this bargain.",
-      "since": "s03-bound-till-the-thaw-b02 ch 31"
-    }
-  ]
+  "facts": []
 }
