@@ -9,7 +9,7 @@ Re-check KDP's current limits in KDP Help before the first upload of a series (P
 |---|---|
 | Language | English |
 | Book title | The Winter Oath |
-| Subtitle | A Rope-Bound Enemies-to-Lovers Romantasy |
+| Subtitle | A Rope-Bound Romantasy |
 | Series | The Winter Passes (add to existing series after book 1) |
 | Series number | 2 |
 | Edition number | (leave blank) |
@@ -19,14 +19,14 @@ Re-check KDP's current limits in KDP Help before the first upload of a series (P
 | Publishing rights | I own the copyright and I hold the necessary publishing rights |
 | Primary audience: sexually explicit images or title | No |
 | Reading age | (leave blank: adult) |
-| Categories | Kindle Store > Kindle eBooks > Romance > Fantasy; Kindle Store > Kindle eBooks > Science Fiction & Fantasy > Fantasy > Romantic; Kindle Store > Kindle eBooks > Science Fiction & Fantasy > Fantasy > Action & Adventure |
-| Keyword 1 | enemies to lovers romantasy forced proximity |
-| Keyword 2 | rebel prince and mapmaker fantasy romance |
-| Keyword 3 | magical bond fantasy romance snowbound |
-| Keyword 4 | survival romantasy mountain pass winter |
-| Keyword 5 | slow burn open door fantasy romance |
-| Keyword 6 | rope bound lovers truth magic romance |
-| Keyword 7 | adult fantasy romance mountain folklore |
+| Categories | Kindle Store > Kindle eBooks > Romance > Fantasy; Kindle Store > Kindle eBooks > Science Fiction & Fantasy > Fantasy > Romantic; Kindle Store > Kindle eBooks > Romance > Action & Adventure |
+| Keyword 1 | enemies to lovers romantasy mountain survival |
+| Keyword 2 | forced proximity fantasy romance snow |
+| Keyword 3 | rope bound magical bond romantasy |
+| Keyword 4 | slow burn fantasy romance rebel prince |
+| Keyword 5 | survival romantasy frozen mountain pass |
+| Keyword 6 | heroine cartographer fantasy romance |
+| Keyword 7 | open door fantasy romance series winter |
 | Release option | I'm ready to release my book now |
 
 Save and continue (Claude asks before saving).

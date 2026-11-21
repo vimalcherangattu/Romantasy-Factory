@@ -1,18 +1,20 @@
 Subject: The Winter Oath is out, and the rope is tied
 
-Hello, my dear readers,
+Hello, friend,
 
-The Winter Oath is live today.
+Book 2 of The Winter Passes is live today.
 
-If you've been waiting since the thaw at the end of Book 1, you'll remember what the jogini said at the cairn: the Old Bargain is unpaid, and the pass closes for good after the fourth winter unless someone pays. This book starts the very next winter, and the mountain is still keeping count.
+If you've been waiting since the thaw, you'll remember where Book 1 left us. The stones rang, the jogini spoke in the cold itself, and every person at the cairn learned the Old Bargain is still unpaid. This book follows that warning into the mountain.
 
-Meet Ila, a crown surveyor who thinks a map is only ever true or false. She is rope-bound for one closed winter to Prince Kunal of Neshar, who has sworn to keep his valley's hidden ways off every map. On the rope, every lie costs body heat. Every true answer he gives her becomes a line on the queen's map.
+Meet Ila, a crown surveyor who believes a map is only ever true or false. Meet Kunal, the rebel prince who has sworn to keep Neshar's hidden ways off every map. They don't trust each other, and the mountain doesn't care. It binds them on one rope for a closed winter, where every lie freezes the liar's hands.
 
-It's enemies to lovers, forced proximity and a slow burn with a first kiss that costs something. There's also an open-door heat level, a real cost for every choice and a happy ever after for these two. I'm very fond of them.
+There are thirty-five days, a sealed letter, a hunting party and one very stubborn truth between them. Enemies to lovers, forced proximity, a slow burn, and open-door heat that earns its place.
 
-Get it here: {{AMAZON_LINK}}
+I loved writing two people who both hoard what they know, and who have to learn to hand it over.
 
-Thank you for reading, for writing to me and for telling your friends. It matters more than you know.
+You can get it here: {{AMAZON_LINK}}
 
-Stay warm,
+If you read it, a short review helps more than you'd think.
+
+Wrap up warm,
 Mira

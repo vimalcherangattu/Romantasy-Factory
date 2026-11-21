@@ -1,6 +1,6 @@
 # The Winter Oath {.unnumbered .unlisted}
 
-*A Rope-Bound Enemies-to-Lovers Romantasy*
+*A Rope-Bound Romantasy*
 
 The Winter Passes, Book 2
 
@@ -26,13 +26,13 @@ Two and a half spans to a pace. She had checked that stride against the brass ru
 
 The yard of Garh Neshar lay grey and trampled under a sky the colour of old pewter. It was the eve of the Snow Fair, the thirty-first winter of Queen Sarala's reign. Down on the river meadow someone was testing a drum, one slow boom at a time, and the smell of roasting barley had begun to climb the hill. At the yard's far end stood the tower where Regent Pritam sat under guard, square and ugly, and lying to her.
 
-She stopped at the north-west corner. Last winter she had paced the outside of that wall and logged it two spans out of true, then let it go as a drunk mason's sin. The inside had been a locked storeroom then. This winter Pritam was held in it, and the council had given her a pass. That afternoon, with a hill-council captain tapping his boot in the doorway, she had paced the long room behind the wall and taken off the thickness, which the window cut gave her to the finger. Now the figure closed from both sides. The room ran a full pace shorter than the outside allowed.
+She stopped at the north-west corner. Last winter she had measured the outside of that wall and logged it two spans out of true, then let it go as a drunk mason's sin. The inside had been a locked storeroom then. This winter Pritam was held in it, and the council had given her a pass. That afternoon, with a hill-council captain tapping his boot in the doorway, she had paced the long room behind the wall and taken off the thickness, which the window cut gave her to the finger. Now the figure closed from both sides. The room ran a full pace shorter than the outside allowed.
 
 Half a span for sloppy plaster, she allowed. That left two. The same two.
 
 "Kiran," she said. "Chain."
 
-He sat on the mounting block with the brass chain across his knees, chewing a strip of dried apricot. He was twenty-five now, and since the new law went up he had stopped looking like a man waiting to be arrested for a rope. "I chained it twice, Ila-ji. It said what you said."
+He sat on the mounting block with the brass chain across his knees, chewing a strip of dried apricot. He was twenty-five now, and since the new law went up he no longer looked like a man waiting to be arrested for a rope. "I chained it twice, Ila-ji. It said what you said."
 
 "Then do it a third time. I like the answer better when someone else has done the work."
 
@@ -44,15 +44,15 @@ Question marks were not her habit. She left this one anyway. A question mark was
 
 "Void," said Kiran, reading over her arm. "That's where he keeps his conscience. Tight little room, nobody visits." The grin was quick and slightly too bright, the way it always was when he had decided in advance that nothing was serious.
 
-Ila snorted. Then the joke snagged on something. Last autumn she had written to the Taravan archive for the Shilak Cairn file, and the clerk had answered, very pleasantly, that the crown kept it in a drawer she had no key to. She tucked the pencil behind her ear, and the thing she had carried for a month came out before she had decided to say it.
+Ila snorted. Then the joke snagged on something. She tucked the pencil behind her ear, and the thing she had carried for a month came out before she had decided to say it.
 
-"Rohan wrote that the stones at the cairn spoke at the thaw. Everyone there felt it in their hands."
+"The stones at the cairn spoke at the thaw. Everyone there felt it in their hands. Something about an old bargain, unpaid, and the fourth winter."
 
 "Stones talk," said Kiran. "Mine mostly say 'move your foot.'"
 
 It fell flat, and he heard it fall. His hand rose to his left ear, to the torn rim, and rubbed it once with two fingers. He did that when the weather turned, and when the talk did.
 
-Ila watched the fingers. "They said the Old Bargain is unpaid. The pass closes for good after the fourth winter unless somebody pays. And the crown wants every way mapped, while the archive won't show me what it knows about the cairn. I'd like to know whether a map of a pass that is going to close is a map or an obituary."
+Ila watched the fingers.
 
 "Ila."
 
@@ -60,7 +60,7 @@ Ila watched the fingers. "They said the Old Bargain is unpaid. The pass closes f
 
 "It aches when it's about to snow." He bent and began winding the chain onto its frame, link over link, very carefully. "Come on. The light's going."
 
-She let it be. Silence was not an answer, but it was a reading, and she kept it. His sister had tied a rope on Ila's brother last winter, and Kiran was about to become some sort of brother to her too. She had no intention of prying him open in a yard.
+She let it be. Silence was not an answer, but it was a reading, and she kept it. She had no intention of prying him open in a yard.
 
 
 ::: {.scene-break}
@@ -70,27 +70,23 @@ She let it be. Silence was not an answer, but it was a reading, and she kept it.
 
 They went out by the main gate, where the notice was.
 
-It was nailed to the left post, the new law in eleven lines on good rag paper, with two seals under it: the Shilak post's brown, the hill council's blue. Ila knew the lines by heart. *Licences carry two seals. Medicine always passes. No person is hanged or held to blame for a death on a bound crossing.* Somebody had scratched a small, careful goat into the margin beside the third line. The clerks had not scraped it off.
+It was nailed to the left post, the new law in eleven lines on good rag paper, with two seals under it, one brown and one blue. Ila knew the lines by heart. *Licences carry two seals. Medicine always passes. No person is hanged or held to blame for a death on a bound crossing.* Somebody had scratched a small, careful goat into the margin beside the third line. The clerks had not scraped it off.
 
-The road below was busier than a winter road should have been. Two pairs of crossers came down off the Neshar road, each tied wrist to wrist with a short grey rope, each with an oilcloth roll strapped flat to the back. A clerk in a blue sleeve stopped each pair and compared their seals with deep suspicion. Redbark. She could smell it, dry and bitter, like the inside of a medicine chest. A year ago it had crossed in the dark, and a crosser could hang for carrying it.
+A pair came down the Neshar road as she reached the post, a man and a woman tied wrist to wrist with a short grey rope, an oilcloth roll strapped flat to each back. Redbark. She could smell it, dry and bitter, like the inside of a medicine chest. A clerk in a blue sleeve stepped out with his tally board.
 
-"They're allowed to smile," she told the second pair, who watched the clerk as if he were a hanging judge.
+"Count?"
 
-The man did, uncertainly. They went on.
+"Six," said the man. "Only six." He said it to the clerk, and then, because she had turned her head, to the woman beside him. "I counted twice."
 
-"Hill-council men on the grain," Kiran said, nodding along the lane. Four stood in the lee of the long barn, in undyed wool with blue cords on their shoulders, leaning on spears they clearly did not enjoy. The barn had a new bar and a new lock. "Pritam's grain. They count it every morning and chalk it on a slate. Chetu's boy says it's gone up by a sack since the last count."
+The clerk glanced at the man's left hand. "Eight, then," he said, and wrote it down, and waved them through. He did not look up again. It was a Tuesday kind of look.
 
-"Up?"
+Ila looked longer. The tip of the man's middle finger had gone the white of candle wax, the crease of the first joint marking where the white stopped. It would stay an hour. A lie told to anyone else was free. A lie told to the one at the other end of your rope was not.
 
-"Somebody gave it back. Or somebody's lying about the slate."
+Behind her a carter was telling his mate that Varun had gone down to Taravan in chains in summer, and that was the end of that. The mate said good.
 
-"Slates don't lie. People who write on them do." She meant it as a joke and it came out as a rule. She frowned.
+Kiran nodded along the lane. "Hill-council men on the grain," he said. Four stood in the lee of the long barn, in undyed wool with blue cords on their shoulders, leaning on spears they clearly did not enjoy. The barn had a new bar and a new lock. "Pritam's grain. They count it every morning and chalk it on a slate."
 
-Kiran kicked at a frozen rut. "I watched Varun go out of this gate in summer. Hands tied, a guard each side. Rohan's old lieutenant, the one who sold the regent every road he guarded. Did Rohan say what happened when he got to Taravan?"
-
-"That Varun cried at the gate," said Ila. "Rohan's never said what he felt about it, but he mentioned the crying twice. Once in each letter. He's not subtle."
-
-Kiran laughed, and it was real this time, and they walked the rest of the way in a better temper.
+"Slates don't lie. People who write on them do." She meant it as a joke and it came out as a rule. She frowned, and they walked the rest of the way up the hill without talking.
 
 
 ::: {.scene-break}
@@ -104,15 +100,15 @@ Twelve sheets, fixed at the corners with river stones. The summer passes lay acr
 
 She had drawn what she could reach without being killed. Of the winter ways she had nothing. A bound pair could cross a closed pass, and the stones would light the line for them, and nobody had ever drawn it, because a map was made in daylight and the winter line was seen only by the bound.
 
-Her thumb went down the nearest sheet. There on the third ridge was the little hand-lettered name she should not have lettered: *Tamar's Shoulder*, for the cook who had fed her at seven when she was sulking. Farther east, a long ugly knob of rock was *Kiran's Elbow*. The crown's ledger called them Point 4392 and Point 4410, and the queen's clerks would, she supposed, cross out every name of hers.
+Her thumb went down the nearest sheet. There on the third ridge was the little hand-lettered name she should not have lettered: *Tamar's Shoulder*. Farther east, a long ugly knob of rock was *Kiran's Elbow*. The crown's ledger called them Point 4392 and Point 4410, and the queen's clerks would, she supposed, cross out every name of hers.
 
 A map was true or it was false. She believed that the way she believed her legs. And she knew, in the part of her honest about small things, that naming a peak after someone she liked was not a measurement at all.
 
-She turned the lamp up. Without the winter ways, her map would sit in the Taravan archive as a very good summer map. They would thank her. And the chief surveyor's chair would go to Pell Orlan, who had drawn three hills from a window and never been cold in his life.
+She turned the lamp up. Without the winter ways, her map would sit in the Taravan archive as a very good summer map. They would thank her. And the chief surveyor's chair would go to a man who had drawn three hills from a window and never been cold in his life.
 
-Her winter licence went before the hill council tomorrow, at the Fair. With it, the council would name a guide for her, bind her to him at the cairn, and she could cross the Saddle. Without it she was a woman of thirty-one with a lovely sheet of paper, and Orlan would have the chair by spring.
+Her winter licence went before the hill council tomorrow, at the Fair. With it, the council would name a partner for her, bind her to him at the cairn, and she could cross the Saddle. Without it she was a woman of thirty-one with a lovely sheet of paper, and the chair would be gone by spring.
 
-She stared a long time. Then she picked up her chain, her field book and a lantern, because she had remembered something, and the remembering was like a stone in a boot.
+She stared a long time. Then she picked up her chain, her field book and a lantern, because she had remembered something, and the remembering sat like a stone in a boot.
 
 The stair. She had counted it from the outside, twice. She had never counted it from the north landing, where the room began.
 
@@ -146,7 +142,7 @@ Prince Kunal of Neshar stood three steps down with one hand loose on the rail. H
 
 "A way to where?" said Kunal.
 
-She had stood at that drafting table beside her brother and found it funny, a man who answered every question with another. It was less funny on a cold stair with her lantern at his feet.
+She had stood at that drafting table and found it funny, a man who answered every question with another. It was less funny on a cold stair with her lantern at his feet.
 
 "How many steps from the yard door to here, Highness?"
 
@@ -154,7 +150,9 @@ She had stood at that drafting table beside her brother and found it funny, a ma
 
 "Humour me."
 
-"Thirty-nine," he said at once, easily, a number counted a thousand times with a hand on the rail. "That's what everyone gets."
+"Thirty-nine," he said at once, easily, a number counted a thousand times. "That's what everyone gets."
+
+His hand had not gripped the rail as he said it. It rested there, loose, the way a hand rests on the head of an old dog, and she found she liked the sight of it, and did not want to. She set it aside.
 
 "Forty."
 
@@ -174,7 +172,7 @@ She nearly laughed. She held up the field book instead.
 
 "The north wall. Inside, the long room is two spans shorter than the outside allows. I walked the outside last winter and found the same two. I walked the inside today, and my chain-man checked it twice. There's a void."
 
-She said it flat out. A number was most of what she had, and she watched him, because she was also a person who watched.
+She said it flat out. A number was most of what she had, and as it left her she watched his face and knew he now held it too. That was done. She could not take it back out of his head.
 
 Kunal stood still. Then he stepped past her onto the landing and laid his hand on the cold stone, in the place she had, as if it might say something.
 
@@ -184,7 +182,7 @@ Kunal stood still. Then he stepped past her onto the landing and laid his hand o
 
 "Garh Neshar was built by a mason named Madan, who was drunk for most of the work. He's in the family songs, mostly for that. The kitchen leans, the hall floor is a stormy lake, and a ball set at the door of the east wing will roll out the window." He turned and leaned back against the wall, arms folded. "A drunk man built a lopsided tower. Add it to your demands at council tomorrow. I'm sure you have a list."
 
-"I have no list. I have a licence application, four lines, asking the council to name a guide and bind me to him at the cairn. You read it." Her voice had gone brisk. "You argued for ten spans of rope, and when I said eight, exactly, you asked whose arm."
+"I have no list. I have a licence application, four lines, asking the council to name a partner and bind me to him at the cairn. You read it." Her voice had gone brisk. "You argued for ten spans of rope, and when I said eight, exactly, you asked whose arm."
 
 "I did ask whose arm."
 
@@ -200,7 +198,7 @@ Kunal pushed himself upright. He was not smiling now. He looked almost kind, whi
 
 She waited. He added nothing.
 
-The field book lay against her ribs with its one question mark. Tomorrow the council would ask what she had found in the yard, and a void was a number she could give them. Give it, and she was the crown's woman prying at a prince's wall, handing him the best reason to vote her down. Hold it back, and her licence might survive his speech. Orlan's chair against her own creed. She had never drawn a line she knew was false. Leaving one off was not quite that, and she turned the difference over like a loose tooth. Keep it out of council until she knew what it was, she decided, and hated the decision at once.
+The field book lay against her ribs with its one question mark. Tomorrow the council would ask what she had found in the yard, and a void was a number she could give them. Whether she gave it or not, Kunal had it. The choice was only who put it in the record first. If she put it there herself, she was the crown's woman prying at a prince's wall, handing him the best reason to vote her down. If she held it and waited to see whether he spent it, her licence might survive his speech. The chair against her own creed. She had never drawn a line she knew was false. Leaving one off was not quite that, and she turned the difference over like a loose tooth. Keep it out of council until she knew what it was, she decided, and hated the decision at once.
 
 "Against," said Ila.
 
@@ -296,7 +294,7 @@ He saw his position clearly, which was the worst part. To argue for refusal was 
 
 She stood. She was shorter than he had remembered and she planted her feet like a woman at a theodolite.
 
-"A map is true or it isn't. If it's true, it serves whoever reads it. The crown will have a copy. I will give the council one, and every valley can read where its own roads run. What anyone does with a true line is not in the line." She looked along the table, level and unhurried. "I can't draw what isn't there, and I won't leave out what is."
+"A map is true or it isn't. If it's true, it serves whoever reads it. The crown will have it, and whoever reads it will see every road exactly where it runs. What anyone does with a true line is not in the line." She looked along the table, level and unhurried. "I can't draw what isn't there, and I won't leave out what is."
 
 It was a clean argument. It was also the sort of thing said by someone who had never had a true line used against her.
 
@@ -370,7 +368,7 @@ A shadow crossed the passage door.
 
 Ila stood there with a roll of paper under one arm and a pencil behind her ear. She had stopped on the threshold the way a person stops when someone else's counting touches their own. She looked at the girl. She looked at the pot. Then she looked at him.
 
-*Nine and thirty. Children's count, for ghosts.* He had given her those very words on the north landing, with his hand beside a cold wall, and now he had sung them in her hearing, to a child, in time to a road. She had walked in on the tune.
+*Nine and thirty. Children's count, for ghosts.* He had given her those very words on the north landing, with his hand beside a cold wall, and now he had sung them in her hearing, to a child, in time to a road. She had been in the passage for most of the tune.
 
 His fingers stayed on the stone. They wanted the next beat, and he held them there and let the line die in his mouth.
 
@@ -400,7 +398,7 @@ Now she stood. She did not look at Bhim. She looked at Kunal, down the whole len
 
 It was said lightly, and it landed like a weight on a scale. Some of the council laughed. Chetu clapped once. The clerk bent to write.
 
-Kunal sat very still, with the petition tube under his hand. Her licence lay open at her place, and he could read it from here. On the line left for the guide's name, the pencil had already been there. *Kunal of Neshar*, in her cramped small hand, rubbed soft by a day of her sleeve. It had been written before the bell. Before Bhim asked. Before he opened his mouth.
+Kunal sat very still, with the petition tube under his hand. Her licence lay open at her place, and he could read it from here. On the line left for the partner's name, the pencil had already been there. *Kunal of Neshar*, in her cramped small hand, rubbed soft by a day of her sleeve. It had been written before the bell. Before Bhim asked. Before he opened his mouth.
 
 She had wanted him on the rope. He had walked up and put himself there, in front of nine witnesses and the queen's seal, within eight spans of her, where every lie would show in his fingers.
 
@@ -492,13 +490,13 @@ She had sent to Taravan for the rope in the autumn, undyed wool from Lata's hous
 
 "If we're at the top of a ridge, we're at the top of a ridge. If we're on the wrong side of it, well." He lifted a shoulder. "The mountain is very exact. It's one of the things I like about it."
 
-Her book was open before he'd finished. Eleven winters of thaw dates, each in her own hand. She ran the Meadow column against Shilak's by the light of his lantern. In a hard year the gap closed to three weeks. In a soft year it opened.
+Her book was open before he'd finished. Eleven winters of thaw dates, each in her own hand. She ran the Meadow column against Shilak's by the light of his lantern. Shilak's water ran about three weeks behind the Meadow's, year on year. It was the Meadow's own date that moved.
 
-"Thirty-five days," she said. "In a soft year. That's what I lose."
+"Thirty-five days from the binding," she said. "In a soft year. Then I lose the rope."
 
 "Lose?"
 
-"The crown thinks I have the whole winter. I have the winter minus thirty-five days." She shut the book. "Did you plan that?"
+"The crown thinks I have the whole winter. I have thirty-five days of it." She shut the book. "Did you plan that?"
 
 "Did I plan a thaw?" said Kunal. But he was almost smiling. "You'd have found it in your own tables by morning. I only saved you a night's sleep."
 
@@ -670,7 +668,7 @@ The broken line had not come back. All night the fourth light stayed dead, and t
 
 "So you'll send them."
 
-"I'll ask." He said the word as if it had a taste. "It should be my feet. A man who sends others to a door he ought to knock on himself is my uncle's kind of man. I know exactly what it costs." He looked east a moment longer, and the courtly face slipped, and what lay under it was only tired. Then he turned south. "Ranu is a day down the Garh road. Part of the way I mean to show you starts there. Part of it you can draw without me."
+"I'll ask." He said the word as if it had a taste. "It should be my feet. A man who sends others to a door he ought to knock on himself is my uncle's kind of man. I know exactly what it costs." He looked east a moment longer, and the courtly face slipped, and what lay under it was only tired. Then he turned south. "Ranu is half a day down the Garh road. Part of the way I mean to show you starts there. Part of it you can draw without me."
 
 That was a half answer, and she had written it down as one.
 
@@ -734,7 +732,7 @@ It was the question she had been dreading, because she knew the answer. She coul
 
 She said it clearly. She kept her eyes off her fingers, though she wanted to look. Beside her the terrace wall hummed faintly in the wind and stayed low and level.
 
-"I'd have drawn it," she said. "It's a true road. I'd have given a copy to the queen and to the council, and I'd have believed that was neutral. I still don't know it wasn't." She took her mitten off, and her fingers lay pink in the cold. "I don't like that you've seen my hands."
+"I'd have drawn it," she said. "It's a true road. I'd have given it to the queen, and I'd have believed that was neutral. I still don't know it wasn't." She took her mitten off, and her fingers lay pink in the cold. "I don't like that you've seen my hands."
 
 "I like it very much," said Kunal quietly, "and I find I mind that I do."
 
@@ -1277,7 +1275,7 @@ She blinked. "Mine?"
 
 Cold bit her face as she stood there. It was no gift. It was a man handing the lead to the one person who could be wrong in front of him and not lose a village by it. It must cost him a great deal. She put the thought away until she had somewhere to set it down.
 
-"Ninety-four degrees to the Knuckle at five hundred and sixty paces," said Ila. "The wall lies north-east by north, three hundred of your paces past the stone. Let the stone be somewhere in this hump. Two hundred and seventy of mine." She drew a breath. "I make it nine in ten."
+"Ninety-four degrees to the Knuckle at five hundred and sixty paces," said Ila. "The wall lies north-east by north, three hundred of your paces past the stone. Let the stone be somewhere in this hump. Three hundred and thirty of mine." She drew a breath. "I make it nine in ten."
 
 "Then walk."
 
@@ -1345,7 +1343,7 @@ It was knee-high and grey, a few flat stones heaped by someone who had not expec
 
 "Mine."
 
-"Then I was thirty-odd out. I'll take that."
+"Then I was forty-odd out. I'll take that."
 
 Kunal put his hand on the top stone, and the cairn began to hum.
 
@@ -3281,7 +3279,7 @@ She tried the narrow truth first, because it was hers to try. "My commission nam
 
 "Not your commission." He said it gently, and looked up. "Anything you carry."
 
-So he had read her. Two weeks of her careful sums had taught him where she kept the small exact true things, and he had shut that door before she reached it. That left a refusal, and a refusal from her on this was an answer. He would read it, because he was Kunal.
+So he had read her. A week of her careful sums had taught him where she kept the small exact true things, and he had shut that door before she reached it. That left a refusal, and a refusal from her on this was an answer. He would read it, because he was Kunal.
 
 That left one word. Her hands would show it before he did, she knew that. She weighed it, quick and cold. Pattu sleeves, a bowl to hold, the fire at her back. She could keep them hidden for an hour, and an hour was all the lie would need.
 
@@ -3641,8 +3639,6 @@ The words did not go in at first. The paper was good, and the queen's hand was s
 
 She had known the name as she knew the name of the first king of Hemkot. It lay in her father's chronicle, in her father's careful clerk's hand, with a date. *Carried down at the thaw.* She had read it over his shoulder as a girl, and she had thought, what a tidy word.
 
-*Carried.* In the hamlets it meant seen across by the hand. In the post's chronicle it meant dead.
-
 Then she remembered the gloves.
 
 Her father had told it once, late, with a cup in him, and never again. Her grandfather had been found at the thaw, sitting whole against a flat stone on the slope above the third bend. His gloves lay on top of it, palms together, set square to the edge, the fingers pointing the way he had been walking. *Like a pair set out for the morning,* her father had said, and shaken his head, and let it go.
@@ -3655,29 +3651,13 @@ He had been told where he was going, and what it cost, and he had gone anyway. H
 
 Out on the Drum the ice let go of something with a long low note. She felt it in the rock under her.
 
-She hunted for the right words and found only measurements. Sixty-one winters. The Closing Law, written the next spring. Every crosser a warden had hanged since. Meera's mother, dead of the cough behind the closed pass. Ranu's graves in their rows on the terraced slope. The whole law had been a lid, and she had spent her life drawing lines on the ground beneath it and calling that neutral.
+She looked up.
 
-*A map is true or false.* She had said it at nineteen and she had said it at thirty. And here was the truest map she had ever been handed, and it was a grave map. Her own family's. She could not draw one line of it as a thing with no owner.
+Kunal was watching her. He had not moved. His face wore a careful, courteous quiet. And she heard him again at the toppled door cairn on the Hollow Moon, as lightly as he might say the hour. *My grandfather walked the princes' way in winter with a guest.* An unnamed guest. *I'm counting,* she had told him, and he had taken it for arithmetic.
+
+It had come out at a man's name. It had come out at a pair of gloves on a stone.
 
 She took out her field book and shut it over the Drum soundings, the eleven and the nine and the seven with its cross, and put her palm flat on the cover, as if the numbers might get out.
-
-Then the other half struck her, and she looked up.
-
-*Prince Udai of Neshar guided him.*
-
-Kunal was watching her. He had not moved. His face wore a careful, courteous quiet. Behind him the Drum lay dark and white and open, and she heard him again at the toppled door cairn on the Hollow Moon, as lightly as he might say the hour. *Sixty winters ago, in the old women's reckoning. My grandfather walked the princes' way in winter with a guest.* An unnamed guest. The year before the Closing Law.
-
-*I'm counting,* she had told him. He had taken it for arithmetic.
-
-It had been arithmetic. It had come out at a man's name.
-
-She went through it as she would have gone through a field sheet, point by point, and every point turned over under her hand and showed its other face. His family's secret ways, never written, never said to anyone below the passes. *Whoever knows the way owns the people.* The route-keepers, burned out of their huts. Raghu's men digging nine holes in the snow round a toppled cairn. Kunal's own voice, with his fingertips going white at the Mirror: *it matters more than anything.*
-
-She had thought he was guarding his people's road. He was, but the road also guarded something. Perhaps he did not know it himself. The secrecy that kept his people free had also kept a grave unmapped.
-
-Her neutral map was a family grave map.
-
-And neither of them knew it, except the one holding the letter.
 
 
 ::: {.scene-break}
@@ -3685,17 +3665,23 @@ And neither of them knew it, except the one holding the letter.
 :::
 
 
-She folded it along its creases. It took three tries. Her hands were pink and steady, and she looked at them, because that was a thing she did now.
+She folded the letter along its creases. It took three tries, because the wax had crumbled into the folds and kept catching. She ran her thumbnail down the edge until it lay flat.
 
-She could tell him. *Your grandfather walked mine to the Cairn, and mine did not come home.* She could put the letter in his hands and watch his face. But the archive oath sat on her like a hand. She had sworn it, on a long gold-edged page in a hall in Taravan, to take her commission, and it bound her silence about whatever the crown's papers held. Taking it had not cost her a night's sleep. The queen had laid a line of her own across it: *Tell no one Neshar's part.* Ila did not owe that line her obedience. She owed it a hearing.
+She could tell him. *Your grandfather walked mine to the Cairn, and mine did not come home.* She could put the letter in his hands and watch his face. But the archive oath sat on her like a hand. She had sworn it, on a long gold-edged page that came up with the summer post, before the council clerk in the Garh Neshar hall, to take her commission, and it bound her silence about whatever the crown's papers held. Taking it had not cost her a night's sleep. The queen had laid a line of her own across it: *Tell no one Neshar's part.* Ila did not owe that line her obedience. She owed it a hearing.
 
 And she did not know what Udai had done. A man could walk another man down a mountain and come home, and it might be a crime or a mercy. The letter had no word for which. To say it now was to name a prince's grandfather a murderer on a queen's say-so, to a man who, a quarter hour ago, had held her face in both hands.
 
 So she would say nothing. She made herself look at that squarely, since it was a choice and not a thing that merely happened to her. Silence was free. The rope would not make her pay for it. That was exactly what she hated. Any other cost she could have carried to him and laid down.
 
-"Ila," said Kunal, very quietly. "What does it say?"
+"You've gone somewhere," said Kunal, very quietly.
 
-He had settled on his heels at the rim of the shelf, and the rope lay slack across the snow between them.
+"I'm folding."
+
+"You've folded it four times."
+
+"It's a stubborn letter."
+
+"It's a queen's." He had settled on his heels at the rim of the shelf, and the rope lay slack across the snow between them. "What does it say?"
 
 She said, "It says I'm to find where your way goes, and read what's written there. The rest I can't tell you yet." She watched her own hands. They stayed pink. It was true. It went through the cold air and the stones above the shore did not sing. She kept her eyes on his face, because she owed him that.
 
@@ -3727,6 +3713,26 @@ And she was still sitting on the answer.
 
 "I think you'll be right to be."
 
+"Then I'll be angry in good order. I'll write it down and give you the number." He said it lightly, and she heard what the lightness was holding up. He was giving her room. "Ask me something. Anything that isn't the letter. I'd like to be useful."
+
+She gave a short, cracked laugh. "You want me to ask you a question."
+
+"Your numbers are the only thing I've understood all day. I'd like another one."
+
+"All right." She pulled her knees up. "Which part was which?"
+
+He looked at her for a moment. Then he laughed, a real one, startled out of him, and it did something to his whole face. "I've been working at it since you stopped."
+
+"And?"
+
+"The thanks was the smaller part." He said it to her, not the snow. "I'd stake the fingers I have left on it."
+
+Ila found she could not say anything at all. She nodded once, as she did when a figure came out right.
+
+"That's true," she said, when she had her voice back.
+
+"I know," said Kunal. "I could feel it."
+
 He got up slowly, and offered her the same hand, and she took it, and he drew her to her feet on the narrow shelf. They stood very close. The wind had dropped, and the cliff stood over them with its black seams. She looked at his face and saw that it was perfectly steady. His eyes were bright, and not with anger.
 
 "The way begins at the head of these lakes," said Kunal. "It's mine to show. It was my grandfather's, and he'd have said it wasn't his to show either." His hand tightened once on hers and let go. "I won't make you swear what you'll do with it. I haven't the right, and you've said you'd not give it. But you came here to find where it goes. So."
@@ -3735,9 +3741,7 @@ He turned east, where the third lake lay hidden behind its spur, booming softly,
 
 "Then I'll take you."
 
-She could not say anything that was both kind and true, and she had learned this week what the second kind cost. She said nothing. He took the silence for what it was and did not press it.
-
-She knew what his family had done, and he did not. And he had just offered, with an open hand and a steady face, to walk her down the road where his grandfather had walked hers.
+He took her silence for what it was and did not press it.
 
 She folded the letter into her coat, buttoned it inside against her ribs with a shaking hand, and went after him.
 
@@ -3871,7 +3875,7 @@ He lay down beside it and did not touch it. He looked at it in the red light unt
 
 The third day brought nothing but the count.
 
-At first light he took the petition out again and ruled the margin with the edge of the pencil case, a line for each day. He had started it the night of the binding. Thirty-five days to the Meadow Cairn's meltwater, when the bond ended and the rope came off them for good. After that, three weeks on in a hard year, the Shilak thaw council would sit, and the crown's men and the hill's would read what had been written. He had thought of the thirty-five as a distance. Now he laid it out in strokes and counted them down.
+At first light he took the petition out again and ruled the margin with the edge of the pencil case, a line for each day. He had started it the night of the binding. Thirty-five days to the Meadow Cairn's meltwater, when the bond ended and the rope came off them for good. After that, about three weeks on, the Shilak thaw council would sit, and the crown's men and the hill's would read what had been written. He had thought of the thirty-five as a distance. Now he laid it out in strokes and counted them down.
 
 Ten. Ten strokes, and twenty-five empty places, and at the end of them the rope came off.
 
@@ -4245,7 +4249,7 @@ It went into Ila before she had thought. It slid under all the sums.
 
 Dhanu's head came round.
 
-"The small yellow one over Ewe's Rest, the night we came in. It had no name in any book I own, and it was bright enough to shout." She kept her eyes on the pot, because it was easier. "Kunal said it wouldn't go on the map. It won't. It's in the margin of my field book, in pencil, which isn't the map. But it's hers. It has her name against it, with the bearing."
+"The small yellow one over Ewe's Rest, the night we came in. It had no name in any book I own, and it was bright enough to shout." She kept her eyes on the pot, because it was easier. "Kunal said the map could spare it. It won't go on. It's in the margin of my field book, in pencil, which isn't the map. But it's hers. It has her name against it, with the bearing."
 
 Dhanu said nothing at all.
 
@@ -4347,7 +4351,7 @@ The shore was a shelf of black stone with the Drum under it, and the ice there w
 
 Kunal stood where it boomed. Out on the lake a long seam let go, and the note came up through his boots and into his teeth. The cold was clean and the sky was thick with stars. Behind him Ila had stopped at the end of the rope's slack, a pace and a half away, with her hands in her sleeves.
 
-She had not said anything since the hut. In twelve days he had learned this about her: she waited like a woman holding a level, to see which way the bubble went.
+She had not said anything since the hut. In ten days he had learned this about her: she waited like a woman holding a level, to see which way the bubble went.
 
 He had rehearsed it on the walk down, in the courtier's order. *First the fact, then the frame, then what it means.* He had a version that began *You should understand that my uncle* and ended with Ila nodding. He knew what that version bought. It bought a woman who thought she had been told everything.
 
@@ -4419,7 +4423,7 @@ The Drum boomed. Kunal was shaking, finely, in the shoulders, as a horse does af
 
 She did not reach for him. She stood at his shoulder and let the shaking run. Slowly his shoulders quieted. Only when they had stopped did she turn.
 
-"I've watched you for twelve days," said Ila. "You carry my pencil leads against your chest so they won't snap. I said it once, to the air, and you heard. You clip your coins so no one hangs for your medicine." She took her hands out of her sleeves. "I want you."
+"I've watched you for ten days," said Ila. "You carry my pencil leads against your chest so they won't snap. I said it once, to the air, and you heard. You clip your coins so no one hangs for your medicine." She took her hands out of her sleeves. "I want you."
 
 She held them up between them, bare, palms toward him, the fingers slightly curled. She was not holding them out to be taken. She was showing him.
 
@@ -4863,13 +4867,13 @@ Kunal looked. The shell was dark and ordinary, with a red thread wound twice rou
 
 "I made half the council swear to it."
 
-"You taught it to them. My people made it, ten generations back. Different thing." He lowered himself onto the upturned stool with the stiff right foot first, the left swinging after. "A boy comes with a walnut, it's mine. A boy comes without, I never said it, I was asleep, I'm a lame man with a bad leg. Even if it's my own runner. Even if it's you at my door, doing my voice."
+"You taught it to them. My people made it, ten generations back. Different thing." He lowered himself onto the upturned stool with the good right foot first, the stiff left swinging after. "A boy comes with a walnut, it's mine. A boy comes without, I never said it, I was asleep, I'm a lame man with a bad leg. Even if it's my own runner. Even if it's you at my door, doing my voice."
 
 "Why two?"
 
 "One for when you're stupid." Dhanu's face did not move. "I brought a second because I've known you thirty years."
 
-Kunal laughed, and it hurt somewhere under the ribs. He shut the dead hand on the walnut. Behind him the hut was dark. Ila slept on the shelf in her boots, because they went into the Eye at moondown. The rope lay across the boards, untied, a long pale line from his place at the door to her wrist. Eight spans. He had paced it twice without meaning to.
+Kunal laughed, and it hurt somewhere under the ribs. He shut the dead hand on the walnut. Behind him the hut was dark. Ila slept on the shelf in her boots, because they went into the Eye at moonrise. The rope lay across the boards, untied, a long pale line from his place at the door to her wrist. Eight spans. He had paced it twice without meaning to.
 
 "Send one, and I come," said Dhanu. "I don't ask why. Not till after."
 
@@ -5278,9 +5282,9 @@ He breathed out slowly. It was not relief, and it was not disappointment. It was
 
 "It's the only one I have."
 
-She should tell him. The thought came in whole, with the lamp on his face. *There's a letter in my hem, and it says your grandfather walked this way with a warden, and the warden did not come home.* Hedged, even in her own head: the letter did not say he had walked this way, only that he had been guided. She had the first word of it in her mouth. Her hand lay flat over the stitches of the pattu.
+She should tell him. The thought came in whole, with the lamp on his face. *There's a letter in my hem, and it says your grandfather walked this way with a warden, and the warden did not come home.* Hedged, even in her own head: the letter said he had been guided this way, not what was done to him at its end. She had the first word of it in her mouth. Her hand lay flat over the stitches of the pattu.
 
-Her oath stopped it first. She had sworn in a hall in Taravan to keep what the crown's papers held, and the queen had written it plainer still: *Tell no one Neshar's part.* To speak was to break both, here, on her knee, with the sheet still wet. She had broken one oath for him already, in her way. She did not know yet if she could break the second.
+Her oath stopped it first. She had sworn in the Garh Neshar hall to keep what the crown's papers held, and the queen had written it plainer still: *Tell no one Neshar's part.* To speak was to break both, here, on her knee, with the sheet still wet. She had broken one oath for him already, in her way. She did not know yet if she could break the second.
 
 And there was the other reason, which was hers alone.
 
@@ -5528,7 +5532,7 @@ She did not answer. She looked at the whistle on his chest, then at his face, an
 
 The wind turned. Under the ice the Drum spoke again, a slow, deep stroke, and every stone on the shore rang with it. The rope stirred between them. He did not know what she would say. He knew only that every answer she had would be true.
 
-Once, in a cleft, he had asked her to hand him a way. She had said *I drew it, I don't know yet whose it is.* It was the only honest answer he had ever heard about a map.
+Once, in a cleft, he had asked her what she would do with a way. She had said *I drew it, I don't know yet whose it is.* It was the only honest answer he had ever heard about a map.
 
 Now he needed another.
 
@@ -5966,7 +5970,7 @@ They crossed the neck of rock between the Drum and the Eye by the blue stones, w
 
 The cleft opened out of the cliff like a shut mouth beginning to speak. He carried her in past the lip and the ice hollow and set her down on the dry gravel, against the wall. Then he stood and looked at what they had.
 
-Nothing. His pack lay at the hut, with the flint and the lamp oil and the last of the bread. Hers was with it. The cleft held rock, and cold, and the sound of water far down, and no fuel. He had pushed a prince's name and nothing in his hands onto a frozen lake, and here was the whole of what that bought.
+Nothing. His pack lay at the hut, with the lamp oil and the last of the bread. Hers was with it. The cleft held rock, and cold, and the sound of water far down, and no fuel. He had pushed a prince's name and nothing in his hands onto a frozen lake, and here was the whole of what that bought.
 
 Ila had her bad foot drawn up under her. She was shaking so hard her teeth clicked. She asked for nothing, not even warmth. She looked at him, and he saw her get ready to say something true.
 
@@ -6004,7 +6008,7 @@ He did not look up.
 
 She stopped.
 
-After a while he got up. He did it slowly, a hand on the wall, the way a man gets up from a sickbed. He stood looking down the passage toward the mouth, toward the hollow under the ice lip and the lake beyond it. Dhanu's goat-horn whistle hung on his coat. He had lifted it off the lintel nail at the hut, with the note still pinned beside it, and he had not taken it off since.
+After a while he got up. He did it slowly, a hand on the wall, the way a man gets up from a sickbed. He stood looking down the passage toward the mouth, toward the hollow under the ice lip and the lake beyond it. Dhanu's goat-horn whistle hung on his coat. He had lifted it off the lintel nail at the hut, from above the note, and he had not taken it off since.
 
 Then he raised his left wrist and put the rope's knot to his teeth.
 
@@ -6292,7 +6296,7 @@ Her hands lay on her knees in the ember light.
 
 "I could have said it was a trap."
 
-"You'd have said it with nothing to show, and I'd have told you the sum was mine." It hurt less than he had expected, which was its own kind of shame. "You asked me twice about the letter and I made you pay for the asking. So you went alone, with your hands in your sleeves, and carried the cold, because you couldn't trust me to listen." He stopped. "I wouldn't have listened."
+"You'd have said it with nothing to show, and I'd have told you the sum was mine." It hurt less than he had expected, which was its own kind of shame. "I asked you twice about the letter and made you pay for the asking. So you went alone, with your hands in your sleeves, and carried the cold, because you couldn't trust me to listen." He stopped. "I wouldn't have listened."
 
 Ila did not say *thank you,* or *it's all right.* Her mouth opened, shut, and opened again.
 
@@ -6314,7 +6318,7 @@ She pulled her pattu round and sat up straighter, a woman about to hand over a l
 
 He watched.
 
-"The letter is the queen's, in her own hand, under the archive seal. It's about my grandfather. Warden Harish, of the Shilak post. The chronicle says he went out in a night storm to check the cairns and was carried down at the thaw." Her voice was level. "The letter says the storm was an excuse. He was guided to the Under-Cairn, beneath the Shilak Cairn, where the Old Bargain is paid. Prince Udai of Neshar guided him. And he did not come home. He was found at the thaw on the slope above the third bend, with his gloves folded on a flat stone, palm to palm, square, the fingers pointing the way he'd gone."
+"The letter is the queen's, in her own hand, under the archive seal. It's about my grandfather. Warden Harish, of the Shilak post. The chronicle says he went out in a night storm to check the cairns and was carried down at the thaw." Her voice was level. "The letter says nothing of a storm. He was guided to the Under-Cairn, beneath the Shilak Cairn, where the Old Bargain is paid. Prince Udai of Neshar guided him. And he did not come home. He was found at the thaw on the slope above the third bend, with his gloves folded on a flat stone, palm to palm, square, the fingers pointing the way he'd gone."
 
 "The gloves your father spoke of."
 
@@ -6435,6 +6439,12 @@ Gauri heard it. He saw her hear it.
 "Then I'll expect them," she said. She picked up the shawl, folded it, and laid it across Ila's feet.
 
 Ila's boots were dry. Gauri had brought those too, with the sack. Kunal pulled them on over the ruined toes while Ila gripped the wall and said nothing, and when he looked up her hands were still on the stone, still pink in the new light.
+
+They went down to the huts first, in the grey, because the sheets were there and nothing under the mountain would be worth reading without them. It was four hundred paces along the shore. Ila made them on his shoulder and her own stubbornness, and did not count them aloud.
+
+The second hut still smelled of Gauri's tea. Ila knelt by the plank shelf, put her arm into the gap behind it to the elbow, and drew the sheets out one by one. Five. She counted them twice, then buttoned them flat inside her coat against her ribs.
+
+Outside, Kunal cut her a crutch from the old juniper by the door, with his knife in his bad hand and Gauri holding the other end of the limb. He padded the fork with his own shirt hem. Then they walked back along the shore to the cleft, and Gauri stood at the hut door and did not wave.
 
 He lit the lamp from the embers. The flame caught, steadied, and threw their two shadows long down the passage, over the blue stones and the dark beyond them.
 
@@ -6718,7 +6728,7 @@ Raghu came out first, stooped under the rock, a lantern low in his left hand and
 
 Kunal looked past the blade to the boy. Pasang was twenty, with a soldier's cropped hair and a child's mouth, and he was staring at the carved door rather than at anyone's face.
 
-"Pasang. You're roped to him by the jogini's own rule. He can lie to me for nothing. He can lie to my keeper's sister, to the whole of Neshar, for nothing. He can't lie to you." Kunal heard how it sounded, a blade picked up and turned. He had used that voice on men he meant to bleed. This time the blade was only true. "So ask him yourself. Not me. Ask whether the limping man went home. If he's nothing to hide, he'll say yes."
+"Pasang. You're roped to him by the jogini's own rule. He can lie to me for nothing. He can lie to my keeper's sister, to the whole of Neshar, for nothing. He can't lie to you." Kunal heard how it sounded. He had used that voice on men he meant to bleed. This time the blade was only true. "So ask him yourself. Not me. Ask whether the limping man went home. If he's nothing to hide, he'll say yes."
 
 "A cornered prince's trick," said Raghu.
 
@@ -6728,7 +6738,7 @@ Raghu knew the rule. Kunal watched him know it. Silence was free, and silence wo
 
 "He went home," said Raghu. "Walking. Before the moon was down."
 
-The lantern light caught his knuckles. They greyed from the fingertips to the second joint, and the knife hand began to shake, a fine tremor he could not stop by gripping harder. It was no hour's white. The truth would have cost Pasang his obedience, and the mountain billed him for that.
+The lantern light caught his knuckles. They greyed from the fingertips to the second joint, and the knife hand began to shake, a fine tremor he could not stop by gripping harder. The lie would change what Pasang did next. So it bit hard, and it bit fast.
 
 Pasang looked at the hand. Then at his own, wrapped in the same rope.
 
@@ -6752,6 +6762,16 @@ The bell on the boy's shoulder gave one dull note as he sat down on the cold flo
 
 "Cutting ends nothing," said Kunal. "Every child in the Kuhl knows that."
 
+Raghu's chest heaved. "You think I do this for Pritam's coat?" he said. "He promised my men grain, and pay, and a winter way over this mountain for their own families. Wives and children, shut out under your new law. I mean to bring them across."
+
+His fingers were still grey. Kunal could not read the rest from his hands. A man already cold from one lie could say a true thing and show nothing, and the answer to Kunal was free in any case.
+
+"He told us that at Sarn fold, Captain," said Pasang, from the floor. He did not look up. "All of us. Grain and pay, and a way over for the families. I heard it."
+
+It fitted too well to be a boy's invention. Pasang had been carrying the same winter way since he first sat down, and now it had a face.
+
+"I believe you," said Kunal, and it cost him. "Pritam promised my keepers their freedom to this boy, and grain to you. Two promises, to two men. He knew what each wanted to hear."
+
 Raghu looked once at the door, and once at the pale seam of Ila's coat, where the folded rubbing showed through the cloth. Then he threw himself at her, because it was the only direction left to him.
 
 It was not far, and the shaking hand made it clumsy. Kunal had spent all winter watching men lunge on ice. He stepped in under the knife arm, caught the wrist with the heel of his dead hand, and drove it against the cairn-work with his forearm across the elbow. The blade rang on the floor. Ila's crutch hooked it away into the dark. Raghu sagged, gasping, his grey fingers clutching at nothing, and Kunal held him against the stone until the fight left him.
@@ -6760,9 +6780,13 @@ It was not far, and the shaking hand made it clumsy. Kunal had spent all winter 
 
 The boy was quiet a long moment.
 
-"That's more than he gave me," he said, and stood. He laid the coils of slack rope on the floor between himself and his captain, as if setting down a tray. "He wanted a winter way over the mountain. Found for the regent Pritam and the men waiting on him. He never told me where they'd go." He swallowed. "The keepers are in the shepherds' huts in the Hollow Moon bowl. Hari's with them. Six pairs watch the doors."
+"That's more than he gave me," he said, and stood. He laid the coils of slack rope on the floor between himself and his captain, as if setting down a tray. "The way was for the regent Pritam and the men waiting on him. He never told me where they'd go." He swallowed. "The keepers are in the shepherds' huts in the Hollow Moon bowl. Hari's with them. Five pairs watch the doors."
 
-Kunal's grip on Raghu's wrist did not change, but something in his chest did. Hari was alive. "Thank you," he said, and meant it.
+"Is Hari walking?" said Kunal.
+
+"He was on his feet this morning. He asked after his goats."
+
+"Thank you," said Kunal, and his voice was not steady, and he let it not be.
 
 
 ::: {.scene-break}
@@ -6776,7 +6800,7 @@ It was no more than a slope of laid stones, climbing, with blue seams along the 
 
 The stair ended at a gap between two slabs. Light came through it, grey and thin. Kunal put his shoulder to the slab and it moved. He came up on his knees into cold air, and a ring of flat stones stood round him, chest high, a low ringing rising from every one.
 
-It was dawn at the Shilak Cairn. Below it the roofs of Kothi Shilak lay under a skin of snow, and goat bells were going somewhere in the village.
+Dawn had reached the Shilak Cairn. Below it the roofs of Kothi Shilak lay under a skin of snow, and goat bells were going somewhere in the village.
 
 Four wardens stood inside the ring, in grey, and in front of them, one hand flat on the cairn, stood a tall man Kunal knew from a drafting table and a guest-house in midwinter. Rohan had a beard of three days.
 
@@ -6802,11 +6826,11 @@ It was the first warmth that was not the lamp and a stranger's embers. Bindu's p
 
 Kunal sat on the floor facing her, because he did not trust himself higher.
 
-Her coat lay folded beside her. Her hand went to it before she spoke, and rested on the stiff fold inside, the rubbing with its torn edge and its worn last word that neither of them could read. She let her hand lie there a moment, checking that it had come up the mountain with her. Then she took the hand away and turned both palms up.
+Her coat lay folded beside her, the rubbing in its stiff fold, with its torn edge and its worn last word that neither of them could read. She looked at it a moment. Then she turned both palms up on her knees.
 
 "Look at my hands," said Ila.
 
-He did. They lay open on her knees in the lamplight, flushed to the nail, with the knuckles scraped from the crawl.
+He did. They lay open in the lamplight, flushed to the nail, with the knuckles scraped from the crawl.
 
 "I like you," she said.
 
@@ -6846,7 +6870,7 @@ The rope hummed once more, even and soft.
 
 He crossed the boards on his knees and she met him halfway, and neither of them let the other go for some time.
 
-She was thirty-one and he was thirty-three, and for half a month they had been tied together in every way but this. Her mouth tasted of salt tea and apricot. He had kissed women in courts, with calculation. Now he could not calculate anything. When she put her hands into his hair and her bandaged feet came up off the floor, he stopped, because he had seen how she walked.
+She was thirty-one and he was thirty-three, and for half a month they had been tied together in every way but this. Her mouth tasted of salt tea and apricot. His dead fingertips skated off the edge of her collar, once, twice. He laughed, a short helpless sound, and held the hand up between them instead of hiding it. When she put her hands into his hair and her bandaged feet came up off the floor, he stopped, because he had seen how she walked.
 
 "Your feet."
 
@@ -6866,9 +6890,9 @@ Ila turned them herself, with her feet off the floor. She came down over him, he
 
 "Is it—"
 
-"Don't ask me." Her forehead came down to his. "Look at my hands."
+"Don't ask me." Her forehead came down to his. "Look at me."
 
-They were braced on his shoulders, warm as bread. He watched them while she moved. He watched them while she shook, and cried out against his neck, and went on moving until he lost the thread of his own name. Then he held her so tight she laughed, and afterwards she lay along him with her ruined foot hooked over his shin and her cheek on his heart, and the chulha ticked.
+He did. He watched her face while she moved. He watched it while she shook, and cried out against his neck, and went on moving until he lost the thread of his own name. Then he held her so tight she laughed, and afterwards she lay along him with her ruined foot hooked over his shin and her cheek on his heart, and the chulha ticked.
 
 "After the thaw," she said, after a long time. "Where do you sleep?"
 
@@ -6890,39 +6914,23 @@ Kunal woke with the sun on the boards and Ila's hair across his mouth. The door 
 
 She looked at the two of them under the one blanket, at the rope across the floor, at Ila's bandaged feet, and she did not remark on any of it.
 
-"Day sixteen," said Meera. "Nineteen to your meadow, if it's a soft year."
+"Day sixteen," said Meera. "Nineteen days to your meadow, if it's a soft year. Nineteen days any promise on that rope bites. After that it's only you." She let that sit. "Three weeks past that, Shilak's thaw, and the spring council at the cairn. Whatever you mean to lay before it, have it signed by then."
+
+Ila was already sitting up, the blanket round her shoulders, reaching for her coat and the sheets sewn inside it. Kunal got there first with his good hand, and slid the pencil leads warm out of his shirt.
 
 # Chapter 31: The Shared Map
 
-On the thirty-fifth morning the rope went quiet.
+On the seventeenth day of the rope, the morning after Meera's knock, Ila pinned two sheets side by side on the long table in the salt house top room and drew one line twice.
 
-Ila knew it before she woke. The hum had lain under her wrist for five weeks, so low she had stopped hearing it, the way a miller stops hearing the wheel. Now there was only the chulha ticking and Kunal's breath beside her. She lay with her eyes shut and counted to forty. Nothing came back.
+Bindu's people had cleared the table of rope and set it under the south window. Same paper, same weight, same rule. Kunal sat on the stool at her left with the cord slack across his knee. He watched the second line come out of her pencil exactly where the first had gone.
 
-"It's gone," she said.
+"To the hair," he said.
 
-"I know." He was already awake. "It went at moonset. I didn't want to be the one to say."
+"Where one drifts, I scrape it and begin again." She held out her hand without looking. He put a pencil lead into it, warm from inside his shirt. "That's the whole method. It will take a month."
 
-They went out into the yard in their boots, without their coats, like children told it was a holiday. The rope was a pale undyed cord on the boards. Ila picked it up and found it weighed what wool weighs.
+"And if something goes wrong?"
 
-The herders' fold stood at the foot of the cairn path, a dry-stone ring with its gate hung on a loop of hide. She sent him to it. Sixteen spans by her reckoning, which was twice the rope's length. Five weeks ago, a bound pair who walked that far would have lost the path, and the mountain would have taken them both.
-
-Kunal walked out on the packed snow, upright and unhurried. At eight spans he did not slow. At twelve he glanced back at her, and she saw him wait for the cold. At sixteen he stood with one dead-tipped hand on the fold wall and breathed out a long white cloud.
-
-"Nothing," he called. "Warm as the salt-house wall."
-
-"Say something false."
-
-"What?"
-
-"Anything. Something small. I want to see the hand."
-
-He thought. "I have never once wanted to turn back."
-
-His fingertips stayed grey, as they had been since the morning he broke his promise. Grey was all they would ever be. She could not read a lie in them. She could not read a thing in them, and it came to her that this was what it was to be trusted: no reading at all, only his word and the long way he had walked to give it.
-
-"Come back," she said.
-
-He came back at his own pace, and she did not count it.
+"Then I'll tell you the size of it. In spans."
 
 
 ::: {.scene-break}
@@ -6930,71 +6938,13 @@ He came back at his own pace, and she did not count it.
 :::
 
 
-They worked twelve days in the salt house top room.
+She told Rohan the next evening, in the post room, because he had stood three dawns at the cairn for her and she would not make him stand a fourth.
 
-Bindu's people had cleared a long table of rope and set it under the south window. Ila pinned two sheets side by side, the same size and the same weight of paper, ruled by the same rule. She drew a line on one. Kunal watched her. Then she drew the same line on the other.
+It was a bare room with a stove, a table scarred by forty winters of wardens' knives, and a shelf of post books. He sat with his coat open. Dilan's rope end lay in front of him, the clean-cut end toward him. He had not touched it since she came in.
 
-It was slow, and she had never been so glad of slow work. Every peak she had measured, she drew twice. Every bearing from the field book had to match on both sheets to the hair. Where one drifted, she scraped it and began again.
+She laid the rubbing on the table, folded, and did not open it. She had promised Kiran the first reading, before anyone, and Kiran had gone back over the Saddle, to cross again with the council's pairs at the thaw. So she told Rohan in order, as she would report a survey. The Under-Cairn, the door, the fourteen marks, the shelf of gloves. The last mark, a warden's goat with a name beside it, cut in a plain hand with no flourish on the H. The queen's letter. What it said.
 
-Then Kunal gave her the names.
-
-He did it from the stool beside her, in the hill speech, and she wrote each one as he said it, in the old square hand he had taught her, and tidied not a single word. The black notched pinnacle north of the lambing wall was Old Woman's Tooth. The long seam at the Drum's cliff foot, where the ice rang, was Where the Drum Answers. The crag she had named for a healer in a Ranu storehouse was the Widow's Knuckle, for the hand a widow laid on the rock while she waited. She had loved naming it. She wrote *Widow's Knuckle* in its place and felt something give in her chest, a small thing, like a stitch coming out.
-
-Nimmi's Knuckle stayed in her field book, in pencil, in the margin where nobody looked.
-
-On the fifth day word came from Gauri, Dhanu's sister, by a bound pair of runners from the Kuhl side. It was short. Kunal read it aloud and had to stop twice. The hamlets had talked. They wanted the Widow's Ladder on the map. The Long Braid, the hundred and sixty steps, the song. They had kept it from people below for three hundred winters, and they would rather the crown learn it from a surveyor who had climbed it than from a spy who had not.
-
-"They're sure?" Ila said.
-
-"Gauri says the old women voted. She says it took an afternoon and one shouting match." He folded the paper. "They'd rather it was drawn true."
-
-She drew it true. Four pitches, three ledges, the leaning pitch with its fifty-seven steps. She wrote *Widow's Ladder* in the hill hand, and beside it her own old survey label, *Left-Fork Stair*, in the crown's, because both were its names. Her pencil did not shake. It was only a line, and it was the line she had been longest in coming to.
-
-On the ninth day one crag was left with no name at all.
-
-It stood east of the Drum, a low grey rise above the shore, and Kunal had walked past it all his life without a word for it. He sat looking at the sheet a long while.
-
-"You give it one," he said. "That's the habit, isn't it?"
-
-"I'm out of the habit."
-
-"Then I'm asking you back into it. Once." He did not look up. "It's above the fold where he laid the nets."
-
-She understood. She wrote it small, in the hill hand, on both sheets, and he leaned over to watch the letters come.
-
-*Dhanu's Rest.*
-
-Neither of them spoke for some time. Then Kunal put his hand flat on the table, beside hers, not touching.
-
-That afternoon she went out to re-measure her pace.
-
-The yard was fifty spans end to end, laid out with the chalk line. Her left foot was missing two toes and the right still ached from the swelling. She walked the line with her crutch under her arm, three times, and wrote the figures on her sleeve. One and three-quarter spans. Not two and a half. Her father's chalk line and the brass rule at Taravan, and twelve years since the brass rule, had all gone short in a single winter.
-
-Kunal walked beside her the whole way, counting under his breath. When she lurched, he lurched. When she stopped to write, he stopped.
-
-"One and three-quarters," she said. "It'll change again when the foot mends."
-
-"Then measure it again."
-
-"I will. But I'm not going to chain a hundred miles of mountain in a pace that changes with my feet." She looked at the sheet in her hand, then up at the rope coiled over the yard post. "Everyone in the hills knows a rope. Eight spans of the guide's arm. It's a unit a child can carry in her head."
-
-"You want to put a rope on the scale bar."
-
-"I want to give it both. Spans for the crown. Ropes for the hills. Same bar, same length." She wrote it on her sleeve, and under it, *Ila's pace, after.* "Nobody can say which of us the map is for."
-
-
-::: {.scene-break}
-\* \* \*
-:::
-
-
-She told Rohan on the thirteenth evening, in the post room.
-
-He had come up from the lowland Taravan road that afternoon, where he had gone after the Under-Cairn to report it to the queen's clerks. She had held her news back until she could say it to his face. It was a bare room with a stove, a table scarred by forty winters of wardens' knives, and a shelf of post books. He sat with his coat open. In front of him lay Dilan's rope end, the clean-cut end toward him. He had not touched it since she came in.
-
-She laid the rubbing on the table and told him in order, as she would report a survey: the Under-Cairn, the door, the fourteen marks, the shelf of gloves. The last mark, a warden's goat with a name beside it, cut in a plain hand with no flourish on the H. The queen's letter, which she had not opened till the Glass Lakes. What the letter said.
-
-"Grandfather went in," she said. "Prince Udai took him. He made his mark, walked out alive, folded his gloves on a flat stone on the slope above the third bend, and died there. He was found at the thaw."
+"Grandfather went in," she said. "Prince Udai took him. He made his mark and walked out alive. He folded his gloves on a flat stone on the slope above the third bend, and died there. He was found at the thaw."
 
 Rohan did not move. His hand came out at last and settled over the grey wool, not lifting it.
 
@@ -7002,7 +6952,7 @@ Rohan did not move. His hand came out at last and settled over the grey wool, no
 
 "He came out alive and died anyway. I don't know yet what that means. But *carried down at the thaw* isn't the whole of it, whatever the chronicle thinks."
 
-"The gloves. Father told me, once, when he was drinking. One on the other. Square to the stone." He drew breath. "I spent twelve years thinking it was the last tidy thing a cold man did."
+"The gloves. Father told me once, when he was drinking. One on the other. Square to the stone." He drew breath. "I spent twelve years thinking it was the last tidy thing a cold man did."
 
 "It was the last tidy thing a brave one did."
 
@@ -7012,15 +6962,15 @@ Rohan did not move. His hand came out at last and settled over the grey wool, no
 
 "No." He looked up, and his face was not one she had often seen. "I'd have liked to know that before I signed it."
 
-She did not touch him. She had long ago learned that her brother wanted a witness, not a hand. She sat across from him while the stove ticked, and when he spoke again it was only to say, "Tell Meera. She'll want to write him down."
+She did not touch him. At the Garh Neshar drafting table she had learned that her brother wanted a witness, not a hand. She sat across from him while the stove ticked.
 
-Meera was in the doorway. Ila had not heard her come. She had the count open on her left forearm, the felted glove steadying the page, and a pen in her right.
+Meera stood in the doorway. Ila had not heard her come. The count lay open on her left forearm, the felted glove steadying the page, a pen in her right.
 
-"Harish," said Meera, to no one in particular. "Warden. Went in sixty-one winters back, and came out." She wrote it. "That's one I carried and didn't know."
+"Harish," said Meera. "Warden. Went in sixty-one winters back, and came out." She wrote it. "That's one I carried and didn't know."
 
 "You didn't carry him," said Rohan.
 
-"Somebody did." Meera blotted the line with her sleeve. "It says *carried* in the song. I'm counting it."
+"Somebody did. It says *carried* in the song. I'm counting it."
 
 
 ::: {.scene-break}
@@ -7028,27 +6978,103 @@ Meera was in the doorway. Ila had not heard her come. She had the count open on 
 :::
 
 
-The thaw came to Shilak on the fifty-sixth day, three weeks to the day behind the Meadow Cairn's, a thin bright thread of water running down the cairn's south face while Gopal watched with his hat in his hand.
+The sheets went up on strings across the top room to dry, two of each, like washing. The days went by in the work.
 
-The queen came by litter from Taravan three days after. It took eight bearers and two mules. Sarala was sixty-two, and the winter had not been kind. She was small in the cushions, with a thin grey face and a stick laid across her knees, and when she climbed out at the foot of the cairn path she did it without help and without hurry. Her eyes went over the ring of stones and the crowd, then found Ila at once. She said nothing.
+Kunal gave her the names from the stool, in the hill speech, and she wrote each one as he said it, in the old square hand he had taught her, and tidied not a word. The black notched pinnacle north of the lambing wall was Old Woman's Tooth. The long seam at the Drum's cliff foot, where the ice rang, was Where the Drum Answers. The crag she had named for a healer in a Ranu storehouse was the Widow's Knuckle, for the hand a widow laid on the rock while she waited. She wrote it in its place and felt something give in her chest, a small thing, like a stitch coming out. Nimmi's Knuckle stayed in her field book, in the margin where nobody looked.
 
-The hill council had come over the Long Saddle as bound pairs, one rope to a pair, each pair led by one of Meera's crew. Roop went first with Old Bhim, and Chand came behind with a woman from the upper terraces. Meera brought up the last, bound to a farmer from the Kuhl, with the licence cord swinging at her belt. They stood on the Neshar side of the ring in their blue-corded wool, and the queen's courtiers stood on the other, in slate, and between them the cairn hummed.
+On the twenty-second day a bound pair of runners came from Gauri on the Kuhl side. Kunal read her word aloud and had to stop twice. The hamlets had talked. They wanted the Widow's Ladder on the map, the Long Braid, the hundred and sixty steps, the song. They had kept it from people below for three hundred winters. They would rather the crown learn it from a surveyor who had climbed it than from a spy who had not.
 
-Ila had a table set inside the ring. Two chairs, two copies, one pen.
+"Gauri says the old women voted," Kunal said. "It took an afternoon and one shouting match."
 
-She was very calm, which she had not expected. She had gone over her oath so many times that the words no longer meant anything. *I swear to show the crown every way, and no other. I swear to draw for the crown alone.* She had sworn it at nineteen, in the Taravan office, with a clock on the wall.
+Ila drew it true. Four pitches, three ledges, the leaning pitch with its fifty-seven steps. She wrote *Widow's Ladder* in the hill hand, and beside it her own old label, *Left-Fork Stair*, in the crown's, because both were its names.
 
-"Majesty," she said. "Old Bhim. This is the map of the high passes of Hemkot and Neshar. There are two copies. They are the same."
+On the twenty-sixth day one crag was left with no name. It stood east of the Drum, a low grey rise above the shore, and Kunal had walked past it all his life without a word for it.
 
-She took off her gloves and laid them on the table, one on the other, palms together. It was not meant for anyone but herself. Kunal, beside her, glanced at them and then at her face, and she saw him understand.
+"You give it one," he said. "That's the habit, isn't it?"
 
-"My hands are warm," she said, and held them out where the whole ring could see. "That tells you nothing. The bond ended on the thirty-fifth day. Nothing I say here can be checked by the mountain. So you will have to check it on the paper."
+"I'm out of the habit."
 
-She dipped the pen and signed the first copy. *Ila, surveyor.* Under it Kunal signed, left-handed, in his square hill script. *Kunal of Neshar.* The names went on both sheets, in two hands, over every peak and way and hidden stair.
+"Then I'm asking you back into it. Once." He did not look up. "It's above the fold where he laid the nets."
 
-Then she set the sheets down, one before each, at the same moment. Old Bhim took his in both hands, as if it might spill. The queen's bearers laid hers in front of Sarala.
+She wrote it small, in the hill hand, on both sheets, and he leaned over to watch the letters come.
 
-No one spoke. A boy near the back coughed.
+*Dhanu's Rest.*
+
+Neither spoke for some time. Then Kunal laid his hand flat on the table beside hers, not touching.
+
+On the twenty-eighth she went out to re-measure her pace. The yard was fifty spans end to end, laid out with a chalk line. She walked it three times with the crutch under her arm and wrote the figures on her sleeve. One and three-quarter spans. Not two and a half. Her father's chalk line and the brass rule at Taravan had all gone short in a single winter.
+
+Kunal walked beside her the whole way, counting under his breath. When she lurched, he lurched.
+
+"It'll change again when the foot mends," she said. "I won't chain a hundred miles of mountain in a pace that changes with my feet." She looked at the rope coiled over the yard post. "Everyone in the hills knows a rope. Eight spans of the guide's arm. A child can carry it in her head. I want both on the scale bar. Spans for the crown, ropes for the hills."
+
+"So nobody can say which of us the map is for."
+
+"Yes."
+
+On the thirty-first day she reached the east shoulder above the Meadow Cairn, and stopped. In the margin of her field book she had one bearing, pencilled from memory at Ranu: a faint broken line of cairn-light, seen going east in the dark. She had never walked under it.
+
+"It was there," Kunal said. "I saw it too. Draw it."
+
+"I saw a light. I never walked it." She set the pencil down. "I don't draw a way I haven't walked."
+
+"Then leave it off."
+
+"I leave the line off. I don't hide it." She wrote in the margin of both sheets: *East bearing, cairn-light, seen. Not walked. Not drawn.*
+
+"It's honest," Kunal said slowly. "It's also a door left open."
+
+"It's a door I've labelled."
+
+
+::: {.scene-break}
+\* \* \*
+:::
+
+
+On the thirty-fifth day the rope went quiet.
+
+Ila was inking the Drum's seam when it happened. The hum had lain under her wrist for five weeks, so low she had stopped hearing it, the way a miller stops hearing the wheel. Now there was only the chulha ticking and Kunal's breath beside her.
+
+"It's gone," she said.
+
+"I know. Just now." He was already on his feet. "The Meadow Cairn has run."
+
+One sheet hung drying in the herders' fold below the cairn path, a dry-stone ring with a lean-to, kept out of the chulha smoke. Ila sent him for it. The fold lay sixteen spans from the yard, twice the rope's length. Five weeks ago a bound pair who walked that far would have lost the path, and the mountain would have taken them both.
+
+Kunal walked out on the packed snow, upright and unhurried. At eight spans he did not slow. At twelve he glanced back at her, and she watched him wait for the cold. At sixteen he stood with a dead-tipped hand on the fold wall and breathed out a long white cloud.
+
+"Nothing," he called. "Warm as the salt-house wall."
+
+He came back with the sheet rolled under his arm. In the yard he stopped and held up both hands to her, palms out, the right grey at the tips, the left pink. It was habit. He did it before he knew he had.
+
+She looked at them. One hand had never been able to vouch for him since the Eye. The other no longer could. Nothing they said to each other could be checked now, not by the mountain and not by his hands.
+
+"I'll still take your word," said Ila.
+
+"I know." He lowered his hands. "That's the new part."
+
+They finished the copying on the fortieth day, with no rope to hold either of them to it, and neither mentioned that. The sheets lay on the table two and two, and there were sixteen more days to Shilak's thaw.
+
+
+::: {.scene-break}
+\* \* \*
+:::
+
+
+The thaw came on the fifty-sixth day, a thin bright thread of water down the cairn's south face while Gopal watched with his hat in his hand.
+
+The queen came by litter from Taravan three days after, with eight bearers and two mules. Sarala was sixty-two, and the winter had not been kind. She was small in the cushions, grey-faced, with a stick across her knees, and she climbed out at the foot of the cairn path without help and without hurry. Her eyes went over the ring of stones and the crowd, then found Ila. She said nothing.
+
+The hill council had come over the Long Saddle as bound pairs, each led by one of Meera's crew. Roop went first with Old Bhim, and Chand behind with a woman from the upper terraces. Meera came last, bound to a farmer from the Kuhl, the licence cord swinging at her belt. They stood on the Neshar side of the ring in blue-corded wool, the queen's courtiers opposite in slate, and between them the cairn hummed.
+
+Ila had a table set inside the ring. Two chairs, two copies, one pen. She was very calm, which she had not expected. She had gone over her oath so many times that the words had worn smooth. *I swear to show the crown every way, and no other. I swear to draw for the crown alone.* She had sworn it at nineteen, in the Taravan office, with a clock on the wall.
+
+"Majesty. Old Bhim. This is the map of the high passes of Hemkot and Neshar. There are two copies, and they are the same. It shows every way I walked. One bearing in the east is marked in the margin: seen, not walked, not drawn."
+
+She signed the first copy. *Ila, surveyor.* Under it Kunal signed, left-handed, in his square hill script. *Kunal of Neshar.* The names went on both sheets, in two hands, over every peak and way and hidden stair, and beside a low door under the cairn a name in the hill hand: *Harish.*
+
+She set the sheets down, one before each, at the same moment. Old Bhim took his in both hands, as if it might spill. A bearer laid the queen's in front of Sarala.
 
 "You swore the crown's work was the crown's," said the queen, quite quietly.
 
@@ -7056,37 +7082,39 @@ No one spoke. A boy near the back coughed.
 
 "You broke it."
 
-"Before you. On purpose. So you could see it done." Ila did not look away. "I kept a promise I made to him, and no stone in the mountain made me. I'd rather break the oath I swore than the one I chose."
+"Before you. On purpose, so you could see it done." Ila did not look away. "I made a promise to him in the salt house, and no mountain made me keep it. After the thirty-fifth day nothing did. I'd rather break the oath I swore than the one I chose."
 
-Sarala's mouth thinned. She looked at the sheet. Her eyes went down it the way an archivist's eyes do, from the peaks to the lines to the names, and Ila watched them stop at *Widow's Ladder* and *Dhanu's Rest* and go on.
+Sarala's mouth thinned. Her eyes went down the sheet the way an archivist's do, from the peaks to the lines to the names. They stopped at *Dhanu's Rest*, and at the margin in the east.
 
-"We are angry," said the queen. "Understand that. We are very angry. A surveyor's oath is the one thing a crown can buy that does not need watching." She laid her palm on the sheet. "We are keeping the map."
+"We are angry," she said at last. "Understand that. A surveyor's oath is the one thing a crown can buy that does not need watching." She laid her palm on the sheet. "We are keeping the map. And we will be paid for the oath. The Chief Surveyor's commission goes to another today, and your name comes off the crown roll."
 
-She did not lift her hand.
-
-"And we will be paid for the oath. The Chief Surveyor's commission goes to another, today, and your name comes off the crown roll. A surveyor who signs for two masters will not draw for one of ours again."
-
-It was the thing Ila had wanted since she was nineteen. She had measured every pass of two kingdoms for it. Her father had copied seven hundred maps in thirty years and signed none, and she had meant to sign hers for both of them. Now Pell Orlan, who had drawn three hills from a window, would take the chair. It hurt, low and plain, like a pulled tooth, and she let it hurt. Then she opened her hand and let it go, knowing exactly what she was letting go. It left her the way a splinter does once it is drawn, with a sting after.
+It was the thing Ila had wanted since she was nineteen. Her father had copied seven hundred maps in thirty years and signed none, and she had meant to sign hers for both of them. Now Pell Orlan, who had drawn three hills from a window, would take the chair. It hurt, low and plain, like a pulled tooth, and she let it. Then she opened her hand.
 
 "Then the commission is the price of the map," she said. "Take it."
 
 Kunal stepped forward.
 
-He had a petition, written in his own square hand, and he read it aloud without once looking down. "A licensed pair went to the Hollow Moon huts at first light," he began, "with the council's blue cord and the post's brown seal, for the held route-keepers. Hari is among them. That is done, and I ask nothing for it." Then the rest. Self-rule for Neshar under the crown, by its own council. No garrison in any hill village, now or in any year. A seat for Neshar at the council in Taravan. And every way on the map, as drawn, open to the queen's eyes and the council's alike, so that neither could keep from the other what both had been given.
+He had a petition in his own square hand, and he read it without looking down. "A licensed pair went to the Hollow Moon huts at first light, with the council's blue cord and the post's brown seal, for the held route-keepers. Hari is among them. That is done, and I ask nothing for it." Then the rest. Self-rule for Neshar under the crown, by its own council. No garrison in any hill village, now or in any year. A seat for Neshar at the council in Taravan. And every way on the map, as drawn, open to the queen's eyes and the council's alike.
 
-Ila saw his dead fingers curl at his side. He did not soften a word.
+"Three of these I can sign," said the queen. "Not the second. A crown that may never put a man in a valley does not hold it."
 
-"Neshar asks nothing it cannot bear to see written," he finished. "We have kept our ways for three hundred winters because we believed whoever knew them would own us. I was taught that. I believed it." He drew a breath. "I'd rather be owned by no one and known by everyone."
+"It holds it by the map."
 
-The queen did not answer at once. Her gaze moved from his face to Ila's, to Rohan at the rear with his arms folded, to Meera by the cairn with her left hand tucked in its glove.
+"A map does not stop a regent's army. Pritam sits in his own tower on your council's word, Prince. Men have walked out of towers." She tapped the stick once. "No garrisons, and then he walks. Whose neck?"
 
-"A valley hidden from the crown is a valley Pritam can sell to whoever pays," she said at last, to no one. "A valley every eye can see is one he cannot buy. We mean this kingdom whole when we are gone." She turned her head. "Granted. All four. On one condition. Neshar's seat keeps Pritam held, and the council's pairs walk every way on this map, so that no one can walk him out."
+Ila saw his dead fingers curl at his side. She saw him see the price, and not look at her.
 
-"It will," said Kunal.
+"Mine," said Kunal. "My name as surety. If Pritam leaves Neshar's keeping, the garrison comes, my seat goes, and I answer for it personally, to you, at Taravan."
 
-"Then we have our price twice over." Sarala said it dryly, as one signs a pardon. "Gopal. Fetch the clerk."
+"Kunal," Ila said, very low.
 
-The ring let out its breath. Old Bhim was laughing and crying, and a woman near the back began a hill song and was shushed and began it again. Kunal stood with his hand on the table and his head bowed, and Ila put her palm between his shoulders and left it there, in front of everyone, for as long as she liked.
+He did not turn. "We kept our ways three hundred winters because we thought whoever knew them would own us. I'd rather be owned by no one and known by everyone. And I'd rather be hanged for my word than keep a secret I can't stand behind."
+
+The queen's gaze moved from his face to Ila's, to Rohan at the rear with his arms folded, to Meera by the cairn.
+
+"A valley every eye can see is one Pritam cannot buy," she said at last. "We mean this kingdom whole when we are gone." She turned her head. "Granted. All four. Neshar's seat keeps Pritam held, the council's pairs walk every way on this map so that no one can walk him out, and if he goes, Kunal of Neshar pays, in his own person. Gopal. Fetch the clerk."
+
+The ring let out its breath. Old Bhim was laughing and crying, and a woman near the back began a hill song and was shushed and began it again. Kunal stood with his head bowed. Ila put her palm between his shoulders and left it there, in front of everyone, for as long as she liked.
 
 
 ::: {.scene-break}
@@ -7098,25 +7126,33 @@ The queen sent for her at dusk.
 
 It was a small room off the salt house yard, with a brazier and a stool and a lamp. The stick lay across Sarala's knees. She was alone, and she had dropped the plural. The courtier's voice had gone out of her and left an old woman's.
 
-"You are the first surveyor in forty years who has made me regret a commission," she said. "And the first I would have kept."
+"You are the first surveyor of my reign who has made me regret a commission," she said. "And the first I would have kept."
 
 "I know what it cost you to send the letter."
 
-"You know very little." There was no heat in it. "I read the archive the day I was crowned. I read his name on its list, and I have never dared read what is written under the mountain. Thirty-one winters, I let the law say what I could not. You went and looked." She lifted her eyes. "You have a rubbing."
+"You know very little." There was no heat in it. "I read his name on the archive's list the day I was crowned, and I have never dared read what is written under the mountain. Your map has his name beside a door." She lifted her eyes. "You have a rubbing."
 
 Ila's hand went to the hem of her coat before she knew it had moved.
 
 "I would like it," said the queen. "Alone, if you please. Before anyone else reads it."
 
-Under the wool the paper lay stiff, with its torn edge and its last word that no one had read. Two promises pulled at it. Kiran had asked to be told first, before anyone, where the Bargain was paid. That one she could answer, and he would forgive her. The other was a day old. She had stood in the ring and said, with her hands bare, that Neshar would see what the crown saw, at the same hour. This rubbing was what lay under Neshar's way. Hand it to the queen alone, and a private first reading was crown exclusivity again, the thing she had broken her oath an hour ago to end.
+Under the wool the paper lay stiff, folded, with its torn edge and the last word that no one had read. Two promises pulled at it. Kiran had asked to be told first, before anyone, where the Bargain was paid, and he had come over the Saddle with the council's pairs. The other she had made to Kunal in the salt house: the same lines, the same names, the same hour. A private first reading for the crown was crown exclusivity again, the thing she had broken her oath to end.
 
 "Not alone," said Ila.
 
-The stick did not move on Sarala's knees. "Say that again."
+The stick did not move. "Say that again."
 
-"Not alone, Majesty. Kunal reads it with you, or neither of you does. I told him the same lines, the same names, the same hour. I won't keep one back for you because you're the queen."
+"Not alone, Majesty. Kunal reads it with you, or neither of you does. I won't keep one line back for you because you're the queen."
 
-For a long moment the old woman looked at her. Then something dry and tired crossed her face, almost a smile. "Thirty-one winters," she said, "and no one has said no to me in that voice. Go and fetch him."
+For a long moment the old woman looked at her. Her face did not soften.
+
+"I kept your grandfather in a locked drawer for thirty-one winters," she said. "You've pinned him to a wall for the hill council to read." She drew a breath through her nose. "You will not open one of my archive's drawers again, Surveyor. Not for a name, not for a file, not as long as you live. Do you understand the price?"
+
+Ila had been refused the Shilak Cairn file once by letter. Now she would never see the rest. It went in like a stone dropped down a well, and she listened for the bottom.
+
+"I understand it," she said. "Not alone."
+
+"Go and fetch him."
 
 Ila turned for the door, her hand still on the hem, the torn rubbing's last word under her fingers.
 
@@ -7158,9 +7194,7 @@ She put her hand over his. The stone was cold and slick and entirely ordinary.
 
 Nothing happened.
 
-She had known nothing would. She listened anyway, with her whole body, for the hum, for the low even note that had lain under her wrist for thirty-five days. She would have taken the ringing of a lie, even. There was only the drip of meltwater, the far-off bell, and a boy somewhere shouting at a goat.
-
-The stones had not heard them, or had heard and did not care. The promise lay in the air between them with no mountain behind it. It was only theirs.
+She had known nothing would. She listened anyway, with her whole body, for the hum, the low even note that had lain under her wrist for thirty-five days. She would have taken the ringing of a lie, even. There was only the drip of meltwater, the far-off bell, and a boy somewhere shouting at a goat.
 
 Ila was crying a little, and was not ashamed of it.
 
@@ -7170,15 +7204,13 @@ Ila was crying a little, and was not ashamed of it.
 
 "I wanted it to."
 
-"I know." He had a hand inside his coat. "I wanted the stones to say it was true. Then I thought, I've never once believed a thing because a stone said so. Not until this winter." He drew out a walnut with a thread of red wool wound twice round it and knotted. "Dhanu gave me two of these, for runners. I never spent either. Mini's string was a third one, plain, and I dressed it myself. Gauri said one of the two belongs to you."
+"I know." He put a hand inside his coat. "I wanted the stones to say it was true. Then I thought, I've never once believed a thing because a stone said so. Not until this winter." He drew out a walnut with a thread of red wool wound twice round it and knotted. "Dhanu gave me two of these, for runners. I never spent either. Mini's string was a third one, plain, and I dressed it myself. Gauri said one of the two belongs to you."
 
-Her throat closed. "Why me?"
+"Why me?"
 
 "She said you were somebody's runner now, and should wear the token. She said he would have wanted it carried, not kept."
 
 He tried to tie it to her surveyor's chain. His right fingers could not pinch the thread, so he lowered his head, took the end in his teeth, and worked the knot with his teeth and the heel of his hand. It took him a long time. She stood still for all of it. The chain was the short brass one at her belt that had measured every pass she had ever drawn, and when he was done the walnut hung from its last link, a small brown thing with a bright red knot.
-
-She closed her hand round it.
 
 "It'll knock against my rule," she said.
 
@@ -7196,71 +7228,41 @@ Kiran came last.
 
 He had come up from the salt house with Roop's crew, a long thin shape in a blanket coat with his torn ear showing under the cap. At the cairn's edge he stopped outside the stones and eyed the ring the way he eyed a rope he had no wish to be tied to.
 
-"You asked to hear it first," Ila said. "Before anyone. This is the hearing. Come inside."
+"You asked to hear it first," Ila said. "Before anyone. Come inside."
 
-"Everyone's a lot of first," said Kiran. But he stepped in.
+"First on a rope's the one who falls, Ila-ji," said Kiran. But he stepped in.
 
-Bindu was already there, with a lantern. Ila had asked for her. She stood with her hands in her sleeves and her eyes on the ground, a woman who was loud with rope and quiet with everyone else.
+Bindu was already there with a lantern. Ila had asked for her. She stood with her hands in her sleeves and her eyes on the ground, a woman who was loud with rope and quiet with everyone else.
 
-"Now," said the queen. She stopped at the slab. "Show us what you would not give me alone."
+"Now," said the queen. "Show us what you would not give me alone."
 
-Ila took the rubbing from her coat and spread it on the flat stone at the cairn's heart, in front of Kunal, in front of them all. The graphite had gone soft in the damp. Kunal laid his lantern beside it, and Ila put her finger under the top line.
+Ila spread the rubbing on the flat stone at the cairn's heart. The graphite had gone soft in the damp. Kunal laid his lantern beside it, and she put her finger under the top line.
 
-"Here. The old script. I can't read it. He can."
+"The old script. I can't read it. He can."
 
-"Not all of it." Kunal bent. "The hill hands learn it in the cradle, for the songs." He followed the strokes. "Carried. Carried till no." His finger stopped. "And then the stone's worn and the lead tore. A stroke and a loop. A knot sign, I think. I don't know it."
+"Not all of it." Kunal bent. "The hill hands learn it in the cradle, for the songs." He followed the strokes. "Carried. Carried till no." His finger stopped. "Then the stone's worn and the lead tore. A stroke and a loop. A knot sign, I think. I don't know it."
 
 "Let me," said Bindu.
 
-She said it almost too low to hear. Kunal moved his hand.
+She said it almost too low to hear. Kunal moved his hand. Bindu leaned over the paper and her lips moved. After a moment she began to sing under her breath, a tune Ila had heard her hum in the top room while she wound the red rope. *Two over, one under, and loose it at the end.* She stopped at the last line.
 
-Bindu leaned over the paper. Her lips moved. After a moment, under her breath, she began to sing a thing Ila had heard her hum in the top room while she wound the red rope. *Two over, one under, and loose it at the end.* She stopped at the last line.
-
-"It's crew work," she said. "When you finish a pattern, there's a sign for the day you let it go. The thaw. We say it when the cold gives and the knot comes loose." She touched the paper. "This is *thaw*."
+"It's crew work," she said. "When you finish a pattern, there's a sign for the day you let it go. We say it when the cold gives and the knot comes loose." She touched the paper. "This is *thaw*."
 
 "Carried till no thaw," said Kunal.
 
 The wind moved the lantern flame. Nobody moved.
 
-"It is the word in our chronicle," said the queen. She stood at the edge of the light, small and straight, and her voice was careful. "In the first chronicle of the Shilak post. *Carried.*"
+"The archive holds *carried* as a death owed," said the queen, and her voice was careful. "Each time the pass calls, a body is carried out of the world."
 
-"What does the archive say it means?" Ila said.
+"The hills hold it as a crossing," said Ila. "The widow was carried down. Seen across, by someone's hand. And Harish walked out of the Under-Cairn alive."
 
-"That a death is owed." Sarala said it as an old woman reads a bill. "Each time the pass calls, a body is carried out of the world. The Bargain was struck so that the mountain would let the living cross, and the mountain took one in return. That is what my mother's mother left me in the drawer." She breathed. "Sixty-one winters ago the pass called, and a warden of the Shilak post answered. His name was Harish."
+"And lay dead on the slope before the cold had done with him." Sarala did not raise her voice. "You cannot prove yours. I cannot prove mine."
 
-Rohan made no sound. Ila did not turn to look at him.
+"No."
 
-"Our grandfather," she said.
+"Then we have two readings and no judge." She laid her hand on the stone. "He was the last payer, Surveyor. Sixty-one winters ago the pass called, and your grandfather answered. That much I will swear to. The Under-Cairn is sealed from today. Wardens at the gap and at the crawl's mouth, day and night, until the fourth winter has passed. No one goes down. Not a prince, not a surveyor, not a captain." She looked at Kiran for one breath and looked away.
 
-"Yes."
-
-"Say it, Majesty," said Meera. "What the chronicle says of his dying. For the count."
-
-The queen did, with one hand on the stone. "Harish of the Shilak post went into the snow at the pass's call. He was found on the slope at the thaw and carried down. The Closing Law was written the next spring, that none should be asked again."
-
-"And the hills say it differently," said Ila.
-
-She had not planned to speak first. It came out of her as a tally comes out on a sheet, flat and exact. Every face in the ring turned.
-
-"On the Widow's Ladder there's a song," she said. "*The widow was carried down.* In every hamlet from the Kuhl to the Eye. Kunal told me what it means there. It means she was seen across. By hand, by someone's hand, over the bad ground." Her voice shook and she let it. "The chronicle uses the word for the dead. The hills use it for the living. Same word, same stone. And look at what we know. Harish walked out of the Under-Cairn alive. Prince Udai walked him. That's a man carried across, whatever came after."
-
-"And lay dead on the slope before the cold had done with him," said Sarala. "The mountain took its price. It only waited until he was in the open."
-
-"Or the cold took a tired man."
-
-"Or the cold took a tired man," the queen agreed, without heat. "You cannot prove it."
-
-"No. And you can't prove yours." Ila made herself hold the old woman's eyes. "A death is owed, or a crossing is. Both fit the line, and neither fits it better. There's nothing on the stone to choose."
-
-"Then we have two readings and no judge," said Sarala, with some bitterness. "We have had that situation for sixty-one winters."
-
-Meera had her count open on her forearm. She wrote, blotted it, and said without looking up, "I'm putting down both."
-
-Kunal had gone quiet beside Ila. She knew the shape of his thought. If the hills' sense was true, no one had ever had to die. If the crown's was true, someone would, at the next calling, and the stone could not say who.
-
-"Majesty," said Rohan. "You called for the thing to be found. It's found. What now?"
-
-"Now we do nothing we cannot take back." The queen's gaze went across the ring. "The Under-Cairn is sealed from today. Wardens at the gap and at the crawl's mouth, day and night, until the fourth winter has passed. No one goes down. Not a prince, not a surveyor, not a captain." She looked at Kiran for one breath and looked away. "When the pass calls, we will have read it rightly or wrongly, and we would rather learn which with the door shut."
+Meera had the count open on her forearm. She wrote, blotted it, and said without looking up, "I'm putting down both."
 
 "The door will not stay shut," said Bindu, to the rubbing, and went red to the ears.
 
@@ -7268,15 +7270,15 @@ Gopal shifted his feet. The queen did not turn her head.
 
 Ila turned hers.
 
-Kiran stood at the edge of the light with his eyes on the last word, the knot-sign, as a man stares down a well. His lips were slightly open. His good ear had gone white at the rim.
+Kiran stood at the edge of the light with his eyes on the last word, the knot sign, like a man reading a name cut in a headstone. His lips were slightly open. His good ear had gone white at the rim.
 
-All summer she had known him on the chain as the man who joked, who sang rude songs to the links and called her *boss*. She had never seen his face with the joke gone out of it.
+All summer she had known him on the chain as the man who joked, who sang rude songs to the links and called her *Ila-ji*. She had never seen his face with the joke gone out of it.
 
 "Kiran," she said.
 
 He said nothing. After a time he put out one finger, carefully, as if the graphite might burn, and touched the loop Bindu had read as *thaw*. He took the finger back.
 
-Meera made a small movement toward him, and stopped, and Ila saw her hold herself still the way a guide holds a rope that has not yet gone taut.
+Meera made a small movement toward him, and stopped. Ila saw her hold herself still the way a guide holds a rope that has not yet gone taut.
 
 
 ::: {.scene-break}
@@ -7286,75 +7288,92 @@ Meera made a small movement toward him, and stopped, and Ila saw her hold hersel
 
 The rider came at full dark.
 
-They heard him before they saw him: a lamed pony coming down the pass track off the snow, hooves slipping on the wet stone, and a man's voice shouting a warden's name. Gopal went down at a run with a lantern.
+They heard him before they saw him: a lamed pony coming down the pass track off the snow, hooves slipping on wet stone, and a man's voice shouting a warden's name. Gopal went down at a run with a lantern.
 
-The man was a hill-council guard in undyed wool with a blue cord on the shoulder, grey to the eyes with road dust. He had led the pony the last miles on foot, and two wardens took its rein and held him up. When he was brought into the ring he looked at the queen, then said to Kunal, because he had been sent to say it to him:
+The man was a hill-council guard in undyed wool with a blue cord on the shoulder, grey to the eyes with road dust. Two wardens took the pony's rein and held him up. When he was brought into the ring he looked at the queen, then spoke to Kunal, because he had been sent to say it to him.
 
 "Highness. The regent is out."
 
 "Pritam is in the tower," said Kunal. His voice was quite level.
 
-"He was, six nights ago. The cell door was barred and the guard sat at it all night, and in the morning the cell was empty." The man swallowed. "There's a stair, Highness. Inside the north wall, behind the plaster, between the landing and the lower room. He went down it into the kitchen passage. He had a key to the postern. Somebody gave him a key."
+"He was, six nights ago. The cell door was barred and the guard sat at it all night, and in the morning the cell was empty." The man swallowed. "There's a stair inside the north wall, behind the plaster, between the landing and the lower room. He went down it. The lower door was opened with a key, Highness. Not forced."
+
+"Whose key?" said Gopal.
+
+"No one will say, Warden. The guard swears nobody passed him. The kitchen-passage lock was turned from the inside. We don't know who."
 
 Ila heard her own voice before she decided to use it. "Two spans."
 
 "What?" said the queen.
 
-"The north wall is two spans out of true. I wrote it in my field book the eve of the Fair. The room is a full pace short of the outside." The cold went through her from the crown of her head. "I wrote 'void?' and left it a question." She looked up, and found Kunal already looking at her.
+"The north wall is two spans out of true. I paced the outside last winter and logged it. The room is a full pace short of the outside." The cold went through her from the crown of her head. "I wrote *void?* and left it a question." She looked up and found Kunal already looking at her.
 
 "My crooked north wall," he said quietly. There was no joke left in it.
 
-"I told you forty," said Ila.
+"I told you forty."
 
 "You told me forty. We count thirty-nine, for the ghosts. The ghost was the stair." He turned back to the rider. "Go on."
 
-"East, Highness. Off the Garh road, and then off every road. Six men, perhaps more, and a pony string. The council's scouts found the tracks a day old, and I've been four days on the road since. They'd found brass shoulder bells in the snow beside the pony marks. Captain Raghu's men's bells, Highness. Dropped or cut off. They don't take the Kuhl cut or the lower road. They go up the dry side, toward a way nobody's drawn."
+"East, Highness. Off the Garh road, and then off every road. Six men, perhaps more, and a pony string. The council's scouts found the brass bells of Captain Raghu's men in the snow beside the pony marks, dropped or cut off." He wet his lips. "The tracks go up the dry side. Straight up a line of old cairns, toward a way nobody's drawn."
 
-"Four days over the Saddle on that pony," said Gopal quietly, with a hand on the beast's hock. "It gave you all the pace it had."
+Ila did not move. She was back at the Meadow Cairn on the first night, with the pale blue line running off over the eastern shoulder along the points of the Shepherd's Stair, broken at the fourth light, toward a valley that was on none of her sheets. She had pencilled the bearing in a margin and left it there, because she had never walked it.
 
-*East.* Ila did not move, her hand on the walnut. She was back at the Meadow Cairn on the first night, with the pale blue line running off over the eastern shoulder along the points of the Shepherd's Stair, broken at the fourth light, toward a valley that was on none of her sheets. She had left the bearing out of her field book. She had left it off the Shared Map too, and signed that sheet before the queen with her hands bare, calling it every way. The omission had sat in her fingers like a stone all through the signing, and she had not let herself look at it since.
+It was the same line. He was walking the one she would not draw.
 
-He had been going to it all along. Or something had been calling him there.
+"Highness," said the queen.
+
+She did not use his name. She leaned on the stick, and Kunal turned to her at once, as a man turns to a sentence he has been waiting for.
+
+"You stood surety before the hill council and before me," said Sarala. "I said the clause once. I will not say it twice."
+
+"I know the clause." Kunal's dead fingers curled. "If Pritam leaves Neshar's keeping, the garrison comes. My seat goes. I answer for it, in my own person, at Taravan."
 
 "Majesty," said Gopal. "Do we go after him?"
 
-"Where?" said the queen. "The passes are free, and he walks them as free as you. But the dry side is bare rock and blown snow. Without a map, we would be sending men to die of cold." She looked toward the dark. "Four winters. The fourth is the one that matters, and Pritam knows it as well as the archive does. He did not escape for a crown. A crown he could have bought."
+"Where?" said the queen. "The dry side is bare rock and blown snow. Without a map we would be sending men to die of cold." She looked toward the dark. "Pritam knows the fourth winter as well as the archive does. He did not escape for a crown. A crown he could have bought." She turned her eyes back. "You have until the snow closes the pass, Prince. After that I send the garrison, and your seat is the first thing it takes."
 
-Nobody asked what he had escaped for.
+"Then I have until the snow," said Kunal.
 
-Ila took the field copy out of her coat.
+Ila took the field copy out of her coat. It was the pencil sheet she had kept for herself, rolled in a tube with her rule. She spread it on the slab beside the rubbing.
 
-It was the pencil sheet she had kept for herself, rolled in a tube with her rule, the one the crown had never been shown. She spread it on the slab beside the rubbing. Her hand was steady.
+"I said at the signing I don't draw a way I haven't walked," she said, to Kunal and to no one else. "That still holds. But he is walking it, and I can't say *not drawn* about a road a man is dying on, or killing on. So I'll mark it for what it is."
 
-"I left this off the Shared Map," she said, to Kunal and to no one else. "I signed a sheet I called whole, with this hole in it, and I knew. You told me I could keep my silences. I'm not keeping this one."
+"On the queen's copy?" said Kunal.
 
-"You said you'd mark any refusal," said Kunal.
-
-"I'm marking it."
-
-She found the shoulder above the Meadow Cairn, and the blank east of it where the valley should have been. She laid her rule down along the bearing she carried by heart and drew a line across the white, dotted, short strokes with spaces between them, the way a surveyor marks a way she has not walked.
+"On Bhim's tonight, in front of him. The queen's, if she lets me touch it. I'm off her roll, and I've no standing to amend it." She did not look at Sarala. "Same mark, same words." She found the shoulder above the Meadow Cairn, and the blank east of it where the valley should have been. She laid her rule along the bearing and drew a line across the white, dotted, short strokes with spaces between them, the way a surveyor marks a way not yet walked, and so not yet drawn.
 
 At its end, in her small hard hand, she wrote: *unknown way. Pritam.*
 
-Kunal watched her finish the last letter. He put his hand flat on the slab, the dead tips beside her pencil.
+Kunal put his hand flat on the slab, the dead tips beside her pencil.
 
 "You know what it costs," he said. "That way showed itself to us as cairn-light. Only to a bound pair, and only in winter. To follow him before snow is to walk blind. To follow him at all, we bind again."
 
 "I know."
 
-"And my fingers can't show you a lie any more. This winter the cold told you what I wouldn't. Next time you'd have only my word."
+"Then I'm keeping my word where you can see it." He bent over the sheet. "Pritam taught me route-songs with the others, when I was twelve. I thought this one was nonsense. It's a second verse to the Stair's song, for past the fourth light. Nobody sings it."
 
-"Then I'll take your word," said Ila. "That's what we swore an hour ago."
+He sang it low, in the flat hill voice, so that the wind took half of it.
 
-He held her eyes. Then he said, "Then we'll find it."
+*Four for the fold, and the fold is gone,*
+*five by the wind, and the wind goes on.*
 
-It was not a question. It was a thing chosen with the price in plain view, and she heard it settle in her the way the walnut hung from her chain, small and light and true.
+"The dry-side cairns," he said. "That's how he counts them. Five and the wind. I don't know what comes after."
 
-"When the snow comes," she said. "When it closes."
+Ila took the pencil and wrote it under the dotted line in the hill hand, square and plain, the way he had taught her. Beside it, as she had sworn an hour ago, she put his name. *Kunal of Neshar.*
+
+He read it. His face loosened, and he laughed once, short and astonished, because it had cost him nothing and he had expected that it would.
+
+"So that's what it feels like," he said.
+
+"Not much, is it?"
+
+"No." He straightened. "Then we'll find it. Before the snow. My seat's the price if we don't."
+
+"When the snow comes," she said. "The fourth winter's coming either way. He's already walking toward it."
 
 "Every winter," said Kunal. "Together."
 
-Behind them, in the dark of the ring, the bell on the cairn rang once in the wind, and the water ran on.
+Behind them, in the dark of the ring, the bell on the cairn rang once in the wind, and the water ran on. The walnut knocked against the brass of her chain.
 
 
 ::: {.scene-break}
@@ -7364,37 +7383,39 @@ Behind them, in the dark of the ring, the bell on the cairn rang once in the win
 
 She found the salt house yard full of mules at first light.
 
-Down the stair she had come with her crutch and the field sheet in her coat, looking for tea, and she stopped on the last step. The big door stood open. In the yard a dozen drovers in Taravan blue were unloading bales the colour of old brick: wool, undyed and madder-red, and the lanolin smell of it filled the room to the rafters.
+Ila had come down the stair with her crutch and the field sheet in her coat, looking for tea, and she stopped on the last step. The big door stood open. In the yard a dozen drovers in Taravan blue were unloading bales the colour of old brick, wool undyed and madder-red, and the lanolin smell of it filled the room to the rafters.
 
-A tall woman in a travelling cloak stood in the doorway with a ledger under her arm. She was perhaps forty, with a dry, handsome face, and she was surveying the goat pen as though she meant to price it.
+A tall woman in a travelling cloak stood in the doorway with a ledger under her arm. She was perhaps forty, with a dry, handsome face, and she studied the goat pen as though she meant to price it.
 
-"Early," said Meera, from the long table, with her left hand in its glove around a mug. "Nobody sends a convoy at thaw. The pass won't close for months."
+"Early," said Meera, from the long table, with her gloved hand round a mug. "Nobody sends a convoy at thaw."
 
-"I know it." The woman did not turn. "I loaded in Taravan weeks before the thaw, and I'm storing wool in your salt house before the Guild sets its winter prices. Whoever holds the best bales when the snow shuts the pass names the figure. I've waited twenty years to be early for something."
+"I want it under your roof before the Guild sets its winter prices." The woman did not turn. "Whoever holds the best bales when the snow shuts the pass names the figure."
 
 "Lata," said Meera. "This is Ila. Rohan's sister."
 
-"The surveyor." Lata's glance took in the crutch, the chain, the red-knotted walnut. "A council drover walked up the lane with mine this morning, and they argued the whole way about how your name is spelled on your map."
+"The surveyor." Lata's glance took in the crutch, the chain, the red-knotted walnut. "A drover came down off the pass this morning and fell in with my mules in the village. He argued the whole way about how your name is spelled."
 
 "How is it spelled?"
 
-"Three ways, loudly." Lata's mouth moved. Then it stopped, and her face changed, and she said to Meera, much more quietly, "That same drover told me a story. He'd come up by Ranu. About the torches there. About a man who rode up in a slate cloak and told the soldiers to lower them. Grey-bearded. An old soldier's seat on a horse. Nobody will say who he was. The drover asked the healer there himself. She told him, *not mine to spend.*"
+"Three ways, loudly." Lata set the ledger on the table. "He told me something else. About a grey-bearded soldier at Ranu who stood the torches down, and whom Nimmi won't name. *Not mine to spend*, she said. Who was he, Meera?"
 
-The stair rail was cold under Ila's palm.
+Meera did not answer. She opened the count on her forearm, turned the waxed pages to the Fair, and held it out. Under the day's entries a line had been ruled across, clean and blank, with nothing written on it.
 
-Meera set the mug down. "I never learned his name either. I saw him once, at the Fair. He laid a sword belt on the grass."
+"I've never had a name for him," she said. "I left the line."
 
-"And walked away from it," said Lata.
+"You ruled a line for a man you can't name."
 
-"Yes."
+"He carried a village. It seemed wrong to leave him out."
 
-"Who was he, Meera?"
+Lata looked at the blank line. Her free hand had gone to the nearest bale, to a single skein of red wool tucked into the top of it, deeper than the rest, the colour of old brick and blood. Her thumb pressed it flat, and went on pressing.
 
-Meera opened the count on her forearm and turned it so Lata could see. Under the word *Fair* there was a ruled line, and the line was empty. "There's the place for his name," she said. "I've never had it to write. But Ranu does. And Ranu is keeping him."
+"Somebody ought to write it in," she said.
 
-Lata looked at the blank line, then at the wool and the mules and the white road beyond the gate. She said, to no one, in her warm, tart voice, "Then Ranu owes somebody a name. I'll collect it."
+"Somebody will."
 
-She went back out to count her bales, and Ila stood on the stair a long time with the walnut in her hand, thinking of a dotted line in the east and a name that no one would say.
+Lata took her hand from the skein as if she had only now noticed it there. She picked up the ledger and went out to the mules without another word.
+
+Ila stood on the stair a long time with her hand on the rail. Somewhere above the salt house, past the cairn and the sealed dark under it, a man with six followers and a key somebody had given him was climbing a line of cairn-light that no map showed. The snow would close the pass again. She turned the walnut once in her fingers and let it hang.
 
 ## Also by Mira Sangla {.unnumbered}
 
@@ -7408,12 +7429,16 @@ She went back out to count her bales, and Ila stood on the stair a long time wit
 ## Coming next {.unnumbered}
 
 
-Lata is forty-two, a widow and the funniest woman in any room she walks into. She has spent twenty-two winters keeping her accounts honest. Wool in, wool out, and what is broken stays written off. She still dyes one skein a season in a particular red, and she tells nobody why.
+Lata is forty-two, a widow, and the funniest woman in any room she walks into. She runs a wool house in Taravan, where the combing rooms smell of lanolin and the dye yard smells of iron and madder. She keeps good books. She knows what everything costs, and she has closed the ledger on the man she once loved.
 
-Tej is forty-five, a soldier who has been exiled by the regent he served, and he is not asking for anything. He is crossing back into Hemkot, which is a hanging offence, to warn the queen that a mercenary army is coming with the spring. He keeps his boots oiled and his borrowed shawl folded, and he believes a man who chose wrong once doesn't get a second chance.
+Almost. Once a season she still dyes one skein in the red he used to call his favourite.
 
-His soldiers burned her family's wool sheds. Lata has never forgiven him. She also has a winter convoy, her late husband's ledgers and a war to get across, and she can't do it alone. The mountain will let only a bound pair cross, and it will let no one lie. Under the Winter Crossing Law, to shelter an exile is to put her house and her licence on the line.
+Tej is forty-five and the regent's exiled general. He has few words and a low voice, and he handles every borrowed thing with a soldier's care. Twenty-two winters ago he followed an order, and her family's wool sheds burned. She has never forgiven him. She has also never told anyone how often she counts the years.
 
-Salt and snow, the long way round. A debt twenty years old and a rope eight arm-spans long.
+Now war is coming to the far valley, and Lata has a convoy of winter wool and a dead husband's ledgers that could stop it. To cross the closed pass she needs a rope, and the only man who knows the regent's army is the one man who must not set foot back in Hemkot. Exiles hang at the border cairn. Anyone who shelters one risks her house and her licence.
+
+On the rope, no lie is free. Tej can't soften the sheds. Lata can't pretend she doesn't care. Between them lie a burned yard, a husband she loved honestly, and a kind of mercy neither of them believes in.
+
+Salt and Snow, Book 3 of The Winter Passes.
 
 Will Lata stand surety for the exiled general whose soldiers burned her family's sheds, and take their second chance across a war?
