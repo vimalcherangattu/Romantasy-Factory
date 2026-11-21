@@ -212,7 +212,7 @@
       ]
     },
     "07": {
-      "status": "passed",
+      "status": "edited",
       "revisions": 0,
       "scores": {
         "reader_question": 4.0,
@@ -226,17 +226,17 @@
       },
       "average": 4.0,
       "flags": [],
-      "words": 2267,
+      "words": 2257,
       "minimum": 3.0,
       "style": {
-        "words": 2156,
+        "words": 2257,
         "banned_hits": {},
         "ai_tell_hits": {},
         "ai_tells_per_1000": 0.0,
-        "top_4gram": "it was not the",
+        "top_4gram": "she had heard him",
         "top_4gram_count": 2,
         "longest_paragraph_words": 75,
-        "em_dashes_per_1000": 0.93,
+        "em_dashes_per_1000": 0.89,
         "reading_ease": 93.6
       },
       "owner_instructions": [
@@ -2245,9 +2245,13 @@
     {
       "at": "2026-11-21T20:20:50",
       "event": "done: S8 line edit ch 6"
+    },
+    {
+      "at": "2026-11-21T20:21:20",
+      "event": "done: S8 line edit ch 7"
     }
   ],
-  "updated_at": "2026-11-21T20:20:50",
+  "updated_at": "2026-11-21T20:21:20",
   "midpoint_chapter": 16,
   "continuity_attempts": 0,
   "continuity_last_errors": null,
