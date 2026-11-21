@@ -4,38 +4,38 @@
     "change": 4.0,
     "romance_movement": 4.0,
     "shown_chemistry": 4.0,
-    "character_logic": 2.0,
+    "character_logic": 4.0,
     "stakes_and_cost": 4.0,
     "prose": 4.0,
-    "continuity": 0.0
+    "continuity": 5.0
   },
   "reasons": {
-    "reader_question": "The reader carries out three sharp questions: can she tell before the Meadow Cairn runs, can his ruined hands climb tonight, and true for whom.",
-    "change": "Her silence becomes a dated debt, Kunal is maimed, and her map creed cracks. Power, knowledge and the relationship all change.",
-    "romance_movement": "The reason is new: an oath-breaking promise with a thaw date. Kunal choosing to push for her date is fresh. His ch20 gift is undone cheaply.",
-    "shown_chemistry": "Hands held in view, her obeying 'Don't', holding only the palm, his watching her draw. The care is responsive, not narrated.",
-    "character_logic": "Kunal maims his climbing hands on purpose, a day after the vow, for a tactical answer Ila could give freely. She lets him pay first.",
-    "stakes_and_cost": "Archive oath, dead fingertips before the cleft, and a thaw date nobody can predict. The costs are concrete and personal.",
-    "prose": "Mostly clean and concrete. One muddled gloves sentence, a doubled 'end of his string' line, and some 'He did not' stacking.",
-    "continuity": "'Your letter has been in your hem since the Stair' conflicts with F542/F547: she moved it into the pattu hem last night."
+    "reader_question": "Clear twin hooks: will she tell before the meltwater, and what will 'True for who?' make of her map.",
+    "change": "Free silence becomes a dated debt; Kunal is permanently maimed; Ila's creed fails her in front of Dhanu.",
+    "romance_movement": "New reason: he pays in flesh to stop counting, and she answers by binding herself against her oath.",
+    "shown_chemistry": "Strong responsive beats: hands held in view, her withheld touch, palm held with dead tips against her wrist.",
+    "character_logic": "Ila names the coercion in Kunal's paid question, which is smart. The Dhanu privacy device and the redundant 'tonight' choice are slightly off.",
+    "stakes_and_cost": "Permanent fingertips and a broken oath land. The deadline loses bite because a lapse carries no strike and the other edge is never stated.",
+    "prose": "Clean and concrete with few tells. Inverted 'said Ila/said Kunal' tags overused; some explaining lines ('first time in her life').",
+    "continuity": "Consistent with F549, F554, F555, F557, F644 and ch 20. 'Since Garh Neshar' versus ch 20's 'since the Meadow Cairn' is loose but compatible."
   },
   "fixes": [
-    "Continuity. At 'Your letter has been in your hem since the Stair', Kunal misstates the facts: he watched her move it into the hem last night (F547), and she has carried it since Garh Neshar. Change the line to 'You've carried that letter since Garh Neshar, and last night you sewed it into your hem.'",
-    "Irrational behaviour. At 'So I'll ask where you can see it.', Ila already holds the free tactical answer ('Raghu's four don't need my letter'). Have her say it before he asks. Then his question must be emotional, not tactical, and Ila names it as his counting again. That makes the broken promise a regression the story treats as harm, and it ties to his false belief.",
-    "Prose. Two lines need rewriting. 'and then she would have told him her grandfather's gloves lay palms together' is tangled; recast it as two plain sentences: saying it would not mend his fingers, and it would lead straight to the gloves on the stone and Neshar's part. The doubled 'He's at the end of his string' reads as a glitch; give Ila a varied, wry echo instead."
+    "At 'Not kept. Only ended, with the words still in my mouth', the cost ledger states only the miss case, so the beat's strike is missing (stakes). Add one exchange: once they are through, the promise is live until meltwater, and any delay in telling strikes her as a great lie. Her hands now carry the debt too.",
+    "At 'Dhanu wanted till dusk to see what Raghu's four did. I'm not waiting for that.', Kunal already said 'Tonight' at dawn, so his new choice changes nothing concrete. Make it cost something: they leave at first dark rather than full night, crossing open shore in failing light. Or cut the opening 'Tonight' so this is the decision.",
+    "At 'Then he can't hear me, can he, if I speak low', eight spans is easily within earshot, so the private talk is contrived. Have Ila step inside the hut with Dhanu at the sill, the plank wall and the wind between them and Kunal's back, and keep the taut rope as the visible limit."
   ],
-  "reader_question": "Will Ila get through the mountain and tell Kunal the letter before the Meadow Cairn thaws, and what will a true map be true for?",
+  "reader_question": "Will Ila get through the mountain and tell Kunal what the queen's letter says before the Meadow Cairn's meltwater, and what will that truth do to him?",
   "techniques_landed": [
     14,
     15,
     22
   ],
-  "new_facts_assessment": "F557 applies the loophole consistently and logically. F558 gives a motive, but it is thin, because Ila answers it in one free sentence. The bigger issue is permanent dead fingertips for Kunal. The beat had the refusal cost only his face. This injury is off-outline and constrains the cleft climb and later hand-dependent beats. S2 should rule on it or record it as a real loss.",
+  "new_facts_assessment": "F738 is necessary and consistent. Ila gives the free tactical answer up front, which strips Kunal's question to an emotional motive and sharpens the cost. It matches the page and does not touch F555/F557.",
   "content_rule_violation": false,
   "failure_modes": [
     "Irrational behaviour to extend plot"
   ],
-  "average": 3.25,
-  "minimum": 0.0,
-  "passed": false
+  "average": 4.12,
+  "minimum": 4.0,
+  "passed": true
 }
