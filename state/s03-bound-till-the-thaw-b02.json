@@ -3,7 +3,7 @@
   "series_id": "s03-bound-till-the-thaw",
   "number": 2,
   "title": "The Winter Oath",
-  "status": "in_progress",
+  "status": "review",
   "stage": "S3",
   "done": [
     "S3",
@@ -11,7 +11,8 @@
     "book_check",
     "S9",
     "S10",
-    "beta_read"
+    "beta_read",
+    "review"
   ],
   "chapters": {
     "01": {
@@ -1090,7 +1091,7 @@
   "revision_round": 2,
   "asin": null,
   "created_at": "2026-10-19T17:50:53",
-  "review_at": null,
+  "review_at": "2026-11-21T21:37:36",
   "approved_at": null,
   "published_at": null,
   "history": [
@@ -2497,9 +2498,13 @@
     {
       "at": "2026-11-21T21:37:33",
       "event": "done: beta read"
+    },
+    {
+      "at": "2026-11-21T21:37:36",
+      "event": "done: review sheet"
     }
   ],
-  "updated_at": "2026-11-21T21:37:33",
+  "updated_at": "2026-11-21T21:37:36",
   "midpoint_chapter": 16,
   "continuity_attempts": 1,
   "continuity_last_errors": 1,

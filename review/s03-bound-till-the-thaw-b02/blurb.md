@@ -1,0 +1,11 @@
+<p><b>Every lie costs her body heat. Every truth he tells her becomes a line on the queen's map.</b></p>
+
+<p>Ila is the crown's pass-surveyor, and she believes a map is only ever true or false. The queen has ordered her to chart every winter way over the mountain. Do it, and she becomes Chief Surveyor. Fail, and her life's work sits in an archive as a very good summer map.</p>
+
+<p>Prince Kunal of Neshar leads the rebel hill council, and he has sworn to keep his valley's hidden ways off every map. He tells Ila to her face that he will vote against her licence. Then he binds himself to her rope so he can choose what she sees. He answers every question with a question, he carries a family secret, and his honest answers could undo everything he has fought for.</p>
+
+<p>On the closed pass, the jogini's rope-bond lets them cross alive and keeps them honest. A lie freezes the liar's hands. A promise made on the rope is a contract with the mountain. They have thirty-five days, a rebel captain hunting the princes' way, and a sealed letter Ila is ordered not to open until the Glass Lakes. The Old Bargain is still unpaid, and the pass closes forever after the fourth winter.</p>
+
+<p><i>An enemies-to-lovers, forced-proximity romantasy with a magical bond and a slow burn, set on a frozen mountain pass. Open-door heat, survival stakes and a happily ever after.</i></p>
+
+<p><b>When the map is true, whose is it?</b></p>
