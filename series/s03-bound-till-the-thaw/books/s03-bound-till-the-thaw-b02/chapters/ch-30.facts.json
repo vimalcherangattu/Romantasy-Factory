@@ -1,16 +1,15 @@
 {
   "facts": [
     {
-      "category": "",
-      "fact": "Raghu says Pritam promised his loyalists grain, pay and a winter way over the mountain for their own families, shut out under the new law; he says it while bound to Pasang and his hands stay warm, so it is true. It is a different promise from Pasang's (the route-keepers freed)."
+      "id": "F802",
+      "category": "knowledge",
+      "fact": "Revises F802: Raghu says Pritam promised his loyalists grain, pay and a winter way over the mountain for their families, but his hands are already grey from the lie about Dhanu, so they cannot vouch. Pasang confirms it ('He told us that at Sarn fold, Captain. All of us.'), and Kunal believes it because it fits Pasang's report of a winter way for Pritam and his men. Pritam's promise to Pasang (the keepers freed) is a different promise."
     },
     {
-      "category": "",
-      "fact": "Pasang reports Hari was on his feet that morning and asking after his goats; eight pairs guard the Hollow Moon huts (matches F776)."
-    },
-    {
-      "category": "",
-      "fact": "Meera tells Ila and Kunal that the spring council sits at the Shilak Cairn on Shilak's thaw day, three weeks after the Meadow Cairn's day 35 (matches F622), and that two identical signed copies must exist by then."
+      "id": "F804",
+      "category": "timeline",
+      "fact": "Revises F804: Meera says on day 16 that nineteen days remain to the Meadow Cairn's meltwater 'if it's a soft year', that the promise bites only until then ('After that it's only you'), and that two identical signed copies must exist before Shilak's thaw council, three weeks later.",
+      "since": "s03-bound-till-the-thaw-b02 ch 30"
     }
   ]
 }
