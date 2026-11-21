@@ -10,7 +10,8 @@
     "S7",
     "book_check",
     "S9",
-    "S10"
+    "S10",
+    "beta_read"
   ],
   "chapters": {
     "01": {
@@ -2492,9 +2493,13 @@
     {
       "at": "2026-11-21T21:36:06",
       "event": "done: S10 package"
+    },
+    {
+      "at": "2026-11-21T21:37:33",
+      "event": "done: beta read"
     }
   ],
-  "updated_at": "2026-11-21T21:36:06",
+  "updated_at": "2026-11-21T21:37:33",
   "midpoint_chapter": 16,
   "continuity_attempts": 1,
   "continuity_last_errors": 1,
@@ -2511,9 +2516,9 @@
   },
   "beta": {
     "verdict": "revise",
-    "predicted_rating": 4.0,
-    "summary": "A smart, warm, rule-driven romance with a heroine who changes on the page. Chapter 31's map-signing and chapter 32's walnut oath are the moments readers will quote. Four fixable problems hold it near 4 stars: a hidden omission that undercuts the proof chapter, a dead clock in chapter 30, an opening that leans on book 1, and a blurb that misstates the heat and the villains.",
-    "notes": "series/s03-bound-till-the-thaw/books/s03-bound-till-the-thaw-b02/beta-notes-2.md"
+    "predicted_rating": 4.1,
+    "summary": "A smart, warm values-collision romance with a rule that earns every tender scene, a real midpoint reversal and a heroine whose belief visibly changes. A timeline hole around Pritam's escape, a few continuity slips and repeated verbal tics, and an ending that drifts away from the couple keep it just short of a clean approve.",
+    "notes": "series/s03-bound-till-the-thaw/books/s03-bound-till-the-thaw-b02/beta-notes-3.md"
   },
   "beta_rounds": 2,
   "pending_owner_notes": null
