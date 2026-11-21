@@ -2,38 +2,38 @@
   "scores": {
     "reader_question": 4.0,
     "change": 4.0,
-    "romance_movement": 4.0,
+    "romance_movement": 5.0,
     "shown_chemistry": 4.0,
     "character_logic": 4.0,
     "stakes_and_cost": 4.0,
     "prose": 4.0,
-    "continuity": 0.0
+    "continuity": 5.0
   },
   "reasons": {
-    "reader_question": "Gauri's line plus Kunal whitening over the whistle sharpens the question: who knew Dhanu was dead, and what was the trade really for?",
-    "change": "Kunal chooses her life over vengeance without forgiving her. The reader also learns Dhanu died before the note, which recasts the whole trade.",
-    "romance_movement": "The reason is new: love proven while trust stays broken. 'You'd be right, and I hate it' moves the bond forward without repeating the refusal.",
-    "shown_chemistry": "Feet against his belly, 'Pick one', and 'I'm not. I'm cold' show responsive care and humour under strain, not narrated attraction.",
-    "character_logic": "Her choice not to pull the rope is reasoned from his habits. His stop at fifteen spans is earned. Both are smart and in character.",
-    "stakes_and_cost": "Letting him walk puts both their lives at sixteen spans. The truth she calls out costs her exposure. Toes and hands are already paid.",
-    "prose": "Concrete and controlled, but five consecutive 'She...' paragraph openings in the grandfather section and stacked accounting similes.",
-    "continuity": "'She had spent a week learning this man's habits' conflicts with the bond's day count (day ten at ch 17, so roughly two weeks by now)."
+    "reader_question": "Gauri's line plus Kunal white-lipped over the whistle sharpens it: was the note a dead man's ransom, and what was Kunal's walk for?",
+    "change": "Knowledge: Dhanu died before the note. Relationship: he chose her life without forgiving her. Ila also turned from her grandfather's door.",
+    "romance_movement": "The reason is new and costly. He picks her over grief and vengeance with trust still broken, and she refuses to haul him.",
+    "shown_chemistry": "Feet on his belly, 'Pick one', and 'I'm cold' startling a laugh show attraction through response. One narrated 'different from love' line.",
+    "character_logic": "Ila not pulling is reasoned from his habits. Kunal's walk is grief-logic he names afterwards. Her 'Counting' answer strains the lie rule.",
+    "stakes_and_cost": "The pull, the truth called down the dark and the gloves all cost something. The separation cold bites both of them visibly.",
+    "prose": "Clean and concrete, no banned phrases or tells. Echoes: 'cracked' three times, 'a long time' three times, 'after a while' twice.",
+    "continuity": "Consistent with F009, F436, F490, F561, F588, F590 and F707. Small slip: the 'grey on Ila's bare ankle' belongs on her toes (F583)."
   },
   "fixes": [
-    "'She had spent a week learning this man's habits': this is a continuity conflict. Ila is an exact counter and the bond is about two weeks old (F713 has day ten at ch 17). Replace it with 'She had spent every day since the Meadow Cairn learning this man's habits', or give the correct day count, and log it.",
-    "'She had not meant to. She had spent years': paragraphs four through eight of the grandfather section all open with 'She', which breaks the style guide. The accounting similes also stack ('plain as a receipt', 'like a sum', 'read it like a sheet'). Open two of the paragraphs with the gloves or the stone, keep one simile, and cut the generalising 'A person who has gone cold through' sentence to one concrete line about her own hands.",
-    "'I got to fifteen spans and it was the only figure left': Kunal over-explains a turn the walk already showed. This is mild endless monologue. Cut his speech to 'Your life is behind me. That's the sum.' and 'I'd have done it. I want you to know I wanted to.' Let the sixteen-span logic stay implied by her count."
+    "At '\"What were you doing?\" he said into the dark. \"Counting.\"': the reply reads as a deflecting falsehood to her bound partner, which Rule 1 must charge (Rule That Bites Back). Make it free. Either give a true oblique answer ('Not finishing') or stay silent, or have her feel her fingertips whiten and accept the hour's cost.",
+    "At 'pulled both her feet against the bare skin of his belly': a missed responsive-care callback (techniques 9/20). F733 says only her mother ever warmed her feet and she hides them. Add one or two lines of Ila registering this, so the act lands as him knowing her, not only keeping her alive.",
+    "Trim echo words. 'Her voice came out cracked', 'a cracked jug' and 'a cracked and ugly thing': keep one. 'It took him a long time', 'held it a long time' and 'A long time went by': vary two. Cut or show 'that was a different thing from love' (narrated chemistry) by letting the grip change carry it."
   ],
-  "reader_question": "If Dhanu was dead before the ransom note was written, what was Raghu really bargaining for, and what does Kunal now understand about the whistle he took off the nail?",
+  "reader_question": "If Dhanu was dead before Raghu's clerk wrote the ransom note, what was the trade really for, and what does Kunal now understand about the whistle in his fist?",
   "techniques_landed": [
     18,
     20,
     22
   ],
-  "new_facts_assessment": "The draft declares no new facts but adds several. Kunal stops at fifteen spans, and Gauri's wrists are rag-wrapped from the ch 26 knife cut. Raghu's men took 'the boy's rope'. The whistle hung with the note beside it, matching F569/F588. All are consistent and necessary. The rope is called 'grey wool' against F436's undyed wool; this is plausible but should be logged. 'A week' conflicts with the day count.",
+  "new_facts_assessment": "All three are necessary and consistent. The undyed rope matches F436. The fifteen-span turn fits F009's twice-length limit. 'About two weeks' is not stated on the page but fits F713. Correct 'bare ankle' to toes per F583.",
   "content_rule_violation": false,
   "failure_modes": [],
-  "average": 3.5,
-  "minimum": 0.0,
-  "passed": false
+  "average": 4.25,
+  "minimum": 4.0,
+  "passed": true
 }
