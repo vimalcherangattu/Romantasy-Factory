@@ -4,38 +4,39 @@
     "change": 4.0,
     "romance_movement": 4.0,
     "shown_chemistry": 4.0,
-    "character_logic": 4.0,
-    "stakes_and_cost": 4.0,
+    "character_logic": 3.0,
+    "stakes_and_cost": 3.0,
     "prose": 4.0,
-    "continuity": 0.0
+    "continuity": 5.0
   },
   "reasons": {
-    "reader_question": "Two sharp questions leave the chapter: which reading of 'carried' is true, and what Pritam wants in the unmapped east. The army half is unseeded.",
-    "change": "Knowledge (thaw glyph, rival readings), power (Pritam free, Under-Cairn sealed) and relationship (unproven oath) all shift.",
-    "romance_movement": "The oath is sworn with no mountain to check it, and 'Then I'll take your word' turns it into a cost. The trust reason is new.",
-    "shown_chemistry": "Kunal ties the knot with his teeth while she stands still for it. 'Then I'll know when you're coming' carries the scene without narration.",
-    "character_logic": "Mostly sound. The queen's caution and Kunal's costed choice convince. Ila having 'forgotten' the east bearing is too convenient.",
-    "stakes_and_cost": "Following Pritam means rebinding, walking blind, and trusting Kunal's word without his hands. The fourth winter is sharpened.",
-    "prose": "Clean and readable, with quotable lines. 'a long moment' appears twice, 'very still' twice, and 'He said nothing. Not one word.' is redundant.",
-    "continuity": "Rope wool is 'Neshar's best', but F436 says Lata's undyed wool. The walnut origin conflicts with F559. Lata routes through Ranu, which lies beyond the pass."
+    "reader_question": "Where Pritam goes and who gave him the key are sharp. The beat's 'with whose army' barely registers; six men is not an army.",
+    "change": "Knowledge shifts (thaw reading, the void was a stair), power shifts (Kunal's seat now forfeitable) and the relationship becomes an oath.",
+    "romance_movement": "The unproven oath, then kept at once with his name beside the line, is real movement. Trust without proof already landed in ch31.",
+    "shown_chemistry": "Teeth-and-heel knot, her stillness, 'Then I'll know when you're coming', his astonished laugh: all responsive action, no narration.",
+    "character_logic": "The queen softens her own clause without a reason. 'Before the snow' and 'When the snow comes' contradict, and no one asks who held keys.",
+    "stakes_and_cost": "Kunal's seat and a second binding are named prices. The muddled deadline blurs which choice costs what.",
+    "prose": "Concrete and well varied. A few similes strain, the oath scene over-explains the ended bond, and the final paragraph recaps.",
+    "continuity": "Consistent with F418/F420/F655 (north wall), F643 (walnuts), F792, F799 and the bible's hinge. The song verse is borderline against F433."
   },
   "fixes": [
-    "Continuity: 'Eight spans of Neshar's best wool, and I put' contradicts F436. Change it to undyed wool from Lata's house in Taravan, which also sets up Lata's arrival. Next, 'Dhanu gave me two of these, for runners. I spent one on Mini's string' contradicts F559, where Mini's walnut was a separate third one. Rewrite as: Dhanu's two runner tokens were never spent, and Gauri said one belongs to Ila.",
-    "Continuity: 'I've been two days in Ranu, on the way' is impossible. Ranu lies in Neshar beyond the Shilak Pass, and Lata comes up from Taravan. Have her hear the torch story from a Ranu pair who crossed at the thaw with the council, or from a Neshar drover at the Taravan inns. Keep 'not mine to spend' as reported speech.",
-    "Worldbuilding collapse: cut 'It was the truth, and nothing happened to her hand.' Meera is not bound, and lies to anyone but a partner are free, so the line misstates Rule 1. Replace it with a beat that shows her honesty through action, such as Meera opening the count to a blank line under 'Fair' and showing Lata there is no name written there."
+    "At 'You have until the snow closes the pass, Prince', the deadline logic contradicts itself: the way shows only to a bound pair in winter, yet Kunal must finish before snow, and Ila then says 'When the snow comes.' Make it one bind. The queen gives until first snow, which is the only day they can see the line. Ila's last line names it: they bind at first snow and have one night before the garrison marches.",
+    "At 'It's the Stair's song, but it runs on past the fourth light', the verse clashes with the ch2 rhyme, which already counts to nine (contrived delay). Make it the uncle's private second verse, sung to Kunal once at twelve with the order never to repeat it. Have Kunal say that is why he kept it until his oath. This also explains how Pritam knows the way.",
+    "At 'Ila stood on the stair a long time', the ending dilutes Lata's reveal with a recap of Pritam's escape and the snow. Cut the final paragraph and end on Lata's thumb pressing the red skein, or on her 'Somebody ought to write it in.' Also fix 'the far-off bell': Badami's bell is tied to the ring they stand in."
   ],
-  "reader_question": "Does the Bargain demand a death or a crossing, and what is Pritam walking toward on the unmapped east way before the fourth winter?",
+  "reader_question": "Where is Pritam walking on the undrawn east way, who gave him the key, and can Ila and Kunal find him before the snow costs Kunal his seat?",
   "techniques_landed": [
     3,
     20,
     26
   ],
-  "new_facts_assessment": "new-facts.json is empty, but the draft adds many undeclared facts. These include the rope's origin, Ila's unshown pencil field copy, the 'old script learned in the cradle' detail, Bindu's thaw glyph, the rider and the escape details, Lata's early convoy and her route via Ranu. Most are necessary and consistent: the stair escape is well set up by F418 and F420, and the thaw glyph matches F601 and F626. Three conflict with canon: the rope wool (F436), the walnut tokens (F559), and Lata passing through Ranu on the Taravan side. Meera's 'nothing happened to her hand' misapplies Rule 1, because she is unbound and is speaking to a non-partner.",
+  "new_facts_assessment": "The song verse is useful, but F433's rhyme already counts to nine, so 'runs on past the fourth light' needs reframing. The queen's snow deadline is necessary but unmotivated against F817/F785. The unknown key-giver is a good open question. Lata's skein fits the bible's habit and is a strong Book 3 plant.",
   "content_rule_violation": false,
   "failure_modes": [
-    "Worldbuilding collapse"
+    "Irrational behaviour to extend plot",
+    "Contrived delays"
   ],
-  "average": 3.5,
-  "minimum": 0.0,
-  "passed": false
+  "average": 3.88,
+  "minimum": 3.0,
+  "passed": true
 }

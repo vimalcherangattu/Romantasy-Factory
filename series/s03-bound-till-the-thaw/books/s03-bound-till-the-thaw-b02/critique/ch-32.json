@@ -2,42 +2,41 @@
   "scores": {
     "reader_question": 4.0,
     "change": 4.0,
-    "romance_movement": 3.0,
+    "romance_movement": 4.0,
     "shown_chemistry": 4.0,
-    "character_logic": 2.0,
+    "character_logic": 3.0,
     "stakes_and_cost": 3.0,
     "prose": 4.0,
     "continuity": 5.0
   },
   "reasons": {
-    "reader_question": "Clear and specific: where is Pritam walking the unknown way, and who gave him the key? The Book 3 hook is muted.",
-    "change": "The oath is sworn, the rubbing is read, the Under-Cairn is sealed and Pritam is loose. Knowledge and plot state both shift clearly.",
-    "romance_movement": "The unproven oath lands, but 'I'll take your word' replays ch31's 'I'll still take your word / That's the new part'.",
-    "shown_chemistry": "Kunal knots the walnut with his teeth while she stands still, and 'Then I'll know when you're coming' is earned. This is responsive and specific.",
-    "character_logic": "Kunal pledged his seat and person as surety if Pritam left keeping (F817). Nobody, Kunal or the queen, mentions it on hearing of the escape.",
-    "stakes_and_cost": "Rebinding and walking blind are named. The biggest live cost, Kunal's surety and the garrison clause, is absent.",
-    "prose": "Clean, concrete and readable, with no banned phrases. Minor tells: 'It was not a question...' explains the moment, the well image repeats ch31, and 'lamed company' misattributes the pony.",
-    "continuity": "Bell, rope, walnut, thirty-nine count, east bearing and knot-song all match the bible. 'Wrote it the eve of the Fair' blurs F655, but does not conflict."
+    "reader_question": "Where Pritam goes and who gave him the key are sharp. The beat's 'with whose army' barely registers; six men is not an army.",
+    "change": "Knowledge shifts (thaw reading, the void was a stair), power shifts (Kunal's seat now forfeitable) and the relationship becomes an oath.",
+    "romance_movement": "The unproven oath, then kept at once with his name beside the line, is real movement. Trust without proof already landed in ch31.",
+    "shown_chemistry": "Teeth-and-heel knot, her stillness, 'Then I'll know when you're coming', his astonished laugh: all responsive action, no narration.",
+    "character_logic": "The queen softens her own clause without a reason. 'Before the snow' and 'When the snow comes' contradict, and no one asks who held keys.",
+    "stakes_and_cost": "Kunal's seat and a second binding are named prices. The muddled deadline blurs which choice costs what.",
+    "prose": "Concrete and well varied. A few similes strain, the oath scene over-explains the ended bond, and the final paragraph recaps.",
+    "continuity": "Consistent with F418/F420/F655 (north wall), F643 (walnuts), F792, F799 and the bible's hinge. The song verse is borderline against F433."
   },
   "fixes": [
-    "At '\"Pritam is in the tower,\" said Kunal. His voice' (failure mode: irrational behaviour). Kunal staked his seat and person on Pritam staying held. Have the queen name the clause, or Kunal name it first: the garrison comes, his seat goes, he answers at Taravan. Then 'Then we'll find it' becomes the price of his own word, not only a hunt. Also cut 'Nobody asked who had given him the key', which is artificial withholding.",
-    "At '\"I'd leave him be. He's a story. A key is a person.\"' (failure mode: beat deviation and a lost hinge). Restore the beat: Lata asks Meera who the grey-bearded man was that Ranu won't name. Meera shows the ruled blank line in the count (F631). Give Lata one small involuntary tell, such as a hand to the red skein in her bale. Move the key question to the rider scene.",
-    "At '\"Then I'll take your word,\" said Ila. \"That's what we swore' (failure mode: repetitive tension, echoing ch31's closing exchange). Prove the oath in action instead. Kunal keeps 'no way from you' on the spot by giving her something he knows of the dry-side cairns, such as a line of Pritam's route-songs. She writes it beside the dotted line with his name. Also replace 'as a man stares down a well', since ch31 already used a well image."
+    "At 'You have until the snow closes the pass, Prince', the deadline logic contradicts itself: the way shows only to a bound pair in winter, yet Kunal must finish before snow, and Ila then says 'When the snow comes.' Make it one bind. The queen gives until first snow, which is the only day they can see the line. Ila's last line names it: they bind at first snow and have one night before the garrison marches.",
+    "At 'It's the Stair's song, but it runs on past the fourth light', the verse clashes with the ch2 rhyme, which already counts to nine (contrived delay). Make it the uncle's private second verse, sung to Kunal once at twelve with the order never to repeat it. Have Kunal say that is why he kept it until his oath. This also explains how Pritam knows the way.",
+    "At 'Ila stood on the stair a long time', the ending dilutes Lata's reveal with a recap of Pritam's escape and the snow. Cut the final paragraph and end on Lata's thumb pressing the red skein, or on her 'Somebody ought to write it in.' Also fix 'the far-off bell': Badami's bell is tied to the ring they stand in."
   ],
-  "reader_question": "Where is Pritam going on the cairn-light way no map shows, who inside Garh Neshar gave him the key, and what will it cost Kunal, who stood surety for him?",
+  "reader_question": "Where is Pritam walking on the undrawn east way, who gave him the key, and can Ila and Kunal find him before the snow costs Kunal his seat?",
   "techniques_landed": [
     3,
     20,
     26
   ],
-  "new_facts_assessment": "The key-not-forced fact is useful, matches F627 and seeds a traitor. Raghu's men's bells fit his capture (F796) and stay consistent. Ila marking the queen's and Bhim's copies needs a line acknowledging she is off the crown roll (F620/F811). Lata's drover joining at Kothi Shilak fits F791, but swapping her grey-beard question for the key question deviates from the beat and wastes the Book 3 setup.",
+  "new_facts_assessment": "The song verse is useful, but F433's rhyme already counts to nine, so 'runs on past the fourth light' needs reframing. The queen's snow deadline is necessary but unmotivated against F817/F785. The unknown key-giver is a good open question. Lata's skein fits the bible's habit and is a strong Book 3 plant.",
   "content_rule_violation": false,
   "failure_modes": [
     "Irrational behaviour to extend plot",
-    "Repetitive tension",
     "Contrived delays"
   ],
-  "average": 3.62,
-  "minimum": 2.0,
-  "passed": false
+  "average": 3.88,
+  "minimum": 3.0,
+  "passed": true
 }
