@@ -574,7 +574,7 @@
       ]
     },
     "18": {
-      "status": "passed",
+      "status": "edited",
       "revisions": 0,
       "scores": {
         "reader_question": 3.0,
@@ -588,18 +588,18 @@
       },
       "average": 3.75,
       "flags": [],
-      "words": 2650,
+      "words": 2633,
       "minimum": 3.0,
       "style": {
-        "words": 2611,
+        "words": 2633,
         "banned_hits": {},
         "ai_tell_hits": {},
         "ai_tells_per_1000": 0.0,
         "top_4gram": "on the hollow moon",
         "top_4gram_count": 2,
-        "longest_paragraph_words": 105,
+        "longest_paragraph_words": 82,
         "em_dashes_per_1000": 0.0,
-        "reading_ease": 98.0
+        "reading_ease": 97.6
       },
       "owner_instructions": [
         "Word tics (owner note 8): keep at most one 'plain', 'plainly' or 'the plain thing'. Allow at most one 'He did not X. He did Y.' construction. Keep measurement-for-feeling to once per scene."
@@ -2289,9 +2289,13 @@
     {
       "at": "2026-11-21T20:26:22",
       "event": "done: S8 line edit ch 17"
+    },
+    {
+      "at": "2026-11-21T20:27:00",
+      "event": "done: S8 line edit ch 18"
     }
   ],
-  "updated_at": "2026-11-21T20:26:22",
+  "updated_at": "2026-11-21T20:27:00",
   "midpoint_chapter": 16,
   "continuity_attempts": 0,
   "continuity_last_errors": null,
