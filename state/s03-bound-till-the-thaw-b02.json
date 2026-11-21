@@ -341,7 +341,7 @@
       ]
     },
     "11": {
-      "status": "passed",
+      "status": "edited",
       "revisions": 0,
       "scores": {
         "reader_question": 4.0,
@@ -355,18 +355,18 @@
       },
       "average": 3.88,
       "flags": [],
-      "words": 2855,
+      "words": 2847,
       "minimum": 3.0,
       "style": {
-        "words": 2805,
+        "words": 2847,
         "banned_hits": {},
         "ai_tell_hits": {},
         "ai_tells_per_1000": 0.0,
-        "top_4gram": "it did not hum",
+        "top_4gram": "the pencil in her",
         "top_4gram_count": 2,
-        "longest_paragraph_words": 86,
+        "longest_paragraph_words": 88,
         "em_dashes_per_1000": 0.0,
-        "reading_ease": 96.5
+        "reading_ease": 96.6
       },
       "owner_instructions": [
         "Harish's death, setup for the fixed sequence (owner note 2). The family account Ila gives must match ch16 exactly. He was found at the thaw, sitting whole against a flat stone on the slope above the third bend, with his gloves folded one on the other on the stone. Keep 'checking cairns for a lost party' as the family's story. Do not place his body or gloves anywhere else.",
@@ -2261,9 +2261,13 @@
     {
       "at": "2026-11-21T20:22:46",
       "event": "done: S8 line edit ch 10"
+    },
+    {
+      "at": "2026-11-21T20:23:17",
+      "event": "done: S8 line edit ch 11"
     }
   ],
-  "updated_at": "2026-11-21T20:22:46",
+  "updated_at": "2026-11-21T20:23:17",
   "midpoint_chapter": 16,
   "continuity_attempts": 0,
   "continuity_last_errors": null,
