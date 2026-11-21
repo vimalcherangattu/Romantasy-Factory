@@ -1,0 +1,39 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 5.0,
+    "shown_chemistry": 4.0,
+    "character_logic": 4.0,
+    "stakes_and_cost": 4.0,
+    "prose": 4.0,
+    "continuity": 5.0
+  },
+  "reasons": {
+    "reader_question": "The closing image puts his promise, her hand on the hem and the unread letter in tension. The question is specific and pressing.",
+    "change": "He moves from armoured to known, they become lovers, and the name-trade becomes a gift with a costed promise. All three are visible.",
+    "romance_movement": "The disclosure is met fully: he discloses, she validates with evidence (the clipped coins), she declares with warm hands. The reason for the change is new.",
+    "shown_chemistry": "Pencil leads, knuckles kissed above the dressings, wrappings laid in a row and the warmed feet all respond to specifics. The love scene drifts generic once ('he arched').",
+    "character_logic": "Kunal promises knowing it covers the letter, and Ila names the price first. Both are smart and deliberate. Ila checking the sightline only at the door is a little thin.",
+    "stakes_and_cost": "The coal gives no heat, the promise is named as a great lie if broken, and the dawn near-question bites. The cost is real and chosen.",
+    "prose": "Voice is clean and specific, with no banned phrases or AI tells. Cuts needed: 'count' is overused, one garbled sentence, and one mid-scene scene break.",
+    "continuity": "Ages (31, and 24 years since age nine), the end-of-summer death, nineteen silvers, the Widow's Knuckle, the hut, the letter hem and the rope length all match continuity."
+  },
+  "fixes": [
+    "'Pritam would have put his name on the sack.' Continuity snag: per F217 the redbark sack the buyer delivered did carry Pritam's bell mark, so attentive readers will trip. Replace with a line that avoids the sack, e.g. 'Pritam would have had a herald cry it at every door.'",
+    "'every name you give me, I have drawn for the crown for eleven years.' The syntax is garbled and the number jars with ch19's 'twelve years'. Rewrite as: 'And I have drawn for the crown for twelve years. Every name you give me could be a line on the queen's map by spring.'",
+    "'For a long moment she did not move.' A `* * *` break splits one continuous same-POV moment. Delete it. Also cut 'of counting' from 'In twenty-four years of counting' so the final 'he did not count' lands once. Recast 'Ila.' / 'Mm.' with a tag so the speaker is clear."
+  ],
+  "reader_question": "Now that Kunal has bound himself never to ask, how long can Ila keep the queen's letter in her hem, and what will it cost when it comes out?",
+  "techniques_landed": [
+    9,
+    10,
+    25
+  ],
+  "new_facts_assessment": "The store-bell punch on Garh silver is necessary: it grounds Ila's inference about the clipped coins (beat 3) and fits F448 and F216. It sits awkwardly beside F217, where Kunal's redbark sack bore the regent's bell mark. See fix 1.",
+  "content_rule_violation": false,
+  "failure_modes": [],
+  "average": 4.25,
+  "minimum": 4.0,
+  "passed": true
+}

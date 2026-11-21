@@ -1,41 +1,39 @@
 {
   "scores": {
     "reader_question": 4.0,
-    "change": 5.0,
+    "change": 4.0,
     "romance_movement": 5.0,
-    "shown_chemistry": 5.0,
+    "shown_chemistry": 4.0,
     "character_logic": 4.0,
     "stakes_and_cost": 4.0,
     "prose": 4.0,
-    "continuity": 0.0
+    "continuity": 5.0
   },
   "reasons": {
-    "reader_question": "Clear: will he break his promise to ask, and when will she tell? The ending's 'a number' sharpens it.",
-    "change": "He goes from armoured to known; they become lovers; the name trade becomes a gift bound as a promise.",
-    "romance_movement": "His disclosure is fully met. Her 'I want you' with bare hands is a new, verified reason they come together.",
-    "shown_chemistry": "Pencil leads, clipped coins, knuckle kisses and the warmed feet all show attraction answering what each has seen the other do.",
-    "character_logic": "Both act smartly. Kunal binds himself knowingly. The ch19 exposure worry is mostly dropped on the open shore.",
-    "stakes_and_cost": "Ila names both prices before the knot, and the cost bites at dawn. Her price speech is slightly expository.",
-    "prose": "Clean, no banned phrases or dashes. The surveyor metaphors are overworked and 'coal a thin red line' is repeated.",
-    "continuity": "Ila says 'Kunal' twice before the beat's first-name moment, which the text then calls the first. This is an internal and beat conflict."
+    "reader_question": "The closing image puts his promise, her hand on the hem and the unread letter in tension. The question is specific and pressing.",
+    "change": "He moves from armoured to known, they become lovers, and the name-trade becomes a gift with a costed promise. All three are visible.",
+    "romance_movement": "The disclosure is met fully: he discloses, she validates with evidence (the clipped coins), she declares with warm hands. The reason for the change is new.",
+    "shown_chemistry": "Pencil leads, knuckles kissed above the dressings, wrappings laid in a row and the warmed feet all respond to specifics. The love scene drifts generic once ('he arched').",
+    "character_logic": "Kunal promises knowing it covers the letter, and Ila names the price first. Both are smart and deliberate. Ila checking the sightline only at the door is a little thin.",
+    "stakes_and_cost": "The coal gives no heat, the promise is named as a great lie if broken, and the dawn near-question bites. The cost is real and chosen.",
+    "prose": "Voice is clean and specific, with no banned phrases or AI tells. Cuts needed: 'count' is overused, one garbled sentence, and one mid-scene scene break.",
+    "continuity": "Ages (31, and 24 years since age nine), the end-of-summer death, nineteen silvers, the Widow's Knuckle, the hut, the letter hem and the rope length all match continuity."
   },
   "fixes": [
-    "At '\"Kunal,\" said Ila. / \"Let me.\"' and 'He owned nothing, Kunal': Ila uses his name before the beat's first-name moment. This breaks continuity and spends the payoff early. Change the first to '\"Highness,\" said Ila' and cut 'Kunal' from the second line. Then 'Not Highness... His own name' lands as the first.",
-    "At 'You paid nineteen silvers with the corners clipped': the deduction has no support, because the clipped corner is what made the buyer identifiable. Add one clause earlier, in Ila's voice: Garh store silver is punched with the store-bell in one corner. Clipping removes the crown-held stores' mark (F448), so the coin can't be traced to the Garh treasury or to him.",
-    "At 'She kissed as she measured' and 'as though she had measured him': overused surveyor similes, along with 'giving him a measurement' and 'it's measured'. Keep 'it's measured' and cut the other two. Also replace the second 'the coal a thin red line' at the dawn opening with a new detail, such as frost on the pot rim."
+    "'Pritam would have put his name on the sack.' Continuity snag: per F217 the redbark sack the buyer delivered did carry Pritam's bell mark, so attentive readers will trip. Replace with a line that avoids the sack, e.g. 'Pritam would have had a herald cry it at every door.'",
+    "'every name you give me, I have drawn for the crown for eleven years.' The syntax is garbled and the number jars with ch19's 'twelve years'. Rewrite as: 'And I have drawn for the crown for twelve years. Every name you give me could be a line on the queen's map by spring.'",
+    "'For a long moment she did not move.' A `* * *` break splits one continuous same-POV moment. Delete it. Also cut 'of counting' from 'In twenty-four years of counting' so the final 'he did not count' lands once. Recast 'Ila.' / 'Mm.' with a tag so the speaker is clear."
   ],
-  "reader_question": "Will Kunal break his promise and ask about the letter, and what will Ila's silence cost them?",
+  "reader_question": "Now that Kunal has bound himself never to ask, how long can Ila keep the queen's letter in her hem, and what will it cost when it comes out?",
   "techniques_landed": [
     9,
     10,
     25
   ],
-  "new_facts_assessment": "Feet hidden in the field: necessary, plants ch25, consistent. Hut spur and covered coal: consistent with F728 and pays the exposure thread. Raw fingertips and knuckle kisses: consistent with F533. Pencil leads: callback to F480, fine. Clipped coins: the inference is unsupported, since a cut corner was the buyer's identifying mark (F047, F216). The page must establish what the corner carried, such as a Garh store punch (F448), or the deduction reads backwards.",
+  "new_facts_assessment": "The store-bell punch on Garh silver is necessary: it grounds Ila's inference about the clipped coins (beat 3) and fits F448 and F216. It sits awkwardly beside F217, where Kunal's redbark sack bore the regent's bell mark. See fix 1.",
   "content_rule_violation": false,
-  "failure_modes": [
-    "Contrived delays"
-  ],
-  "average": 3.88,
-  "minimum": 0.0,
-  "passed": false
+  "failure_modes": [],
+  "average": 4.25,
+  "minimum": 4.0,
+  "passed": true
 }
