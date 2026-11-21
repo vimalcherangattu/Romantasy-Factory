@@ -146,7 +146,7 @@
       ]
     },
     "05": {
-      "status": "passed",
+      "status": "edited",
       "revisions": 1,
       "scores": {
         "reader_question": 4.0,
@@ -160,18 +160,18 @@
       },
       "average": 4.12,
       "flags": [],
-      "words": 3068,
+      "words": 3064,
       "minimum": 4.0,
       "style": {
-        "words": 2907,
+        "words": 3064,
         "banned_hits": {},
         "ai_tell_hits": {},
         "ai_tells_per_1000": 0.0,
         "top_4gram": "stair he had walked",
         "top_4gram_count": 2,
-        "longest_paragraph_words": 115,
-        "em_dashes_per_1000": 0.69,
-        "reading_ease": 94.8
+        "longest_paragraph_words": 113,
+        "em_dashes_per_1000": 0.65,
+        "reading_ease": 95.1
       },
       "owner_instructions": [
         "Keep Kunal's refusal to say what he fears Raghu wants as written. Ch30 now answers it, so the refusal should stay specific: he fears a way over the mountain 'for something'.",
@@ -2237,9 +2237,13 @@
     {
       "at": "2026-11-21T20:19:30",
       "event": "done: S8 line edit ch 4"
+    },
+    {
+      "at": "2026-11-21T20:20:12",
+      "event": "done: S8 line edit ch 5"
     }
   ],
-  "updated_at": "2026-11-21T20:19:30",
+  "updated_at": "2026-11-21T20:20:12",
   "midpoint_chapter": 16,
   "continuity_attempts": 0,
   "continuity_last_errors": null,
