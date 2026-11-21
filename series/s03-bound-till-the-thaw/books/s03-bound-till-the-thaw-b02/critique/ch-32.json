@@ -2,40 +2,41 @@
   "scores": {
     "reader_question": 4.0,
     "change": 4.0,
-    "romance_movement": 4.0,
+    "romance_movement": 3.0,
     "shown_chemistry": 4.0,
     "character_logic": 3.0,
     "stakes_and_cost": 4.0,
     "prose": 3.0,
-    "continuity": 0.0
+    "continuity": 5.0
   },
   "reasons": {
-    "reader_question": "Two sharp questions leave the chapter: which reading of 'carried' is true, and what Pritam wants on the undrawn east way.",
-    "change": "Knowledge, power and relationship all shift: the glyph is read, the Under-Cairn is sealed, Pritam is free, Ila's measured void becomes her error, and the oath is sworn.",
-    "romance_movement": "The oath is chosen without proof, and 'I'll take your word' gives a new reason for trust now that Kunal's fingers cannot show a lie.",
-    "shown_chemistry": "Kunal knotting the walnut with his teeth while she stands still is earned and specific. 'I'll know when you're coming' lands.",
-    "character_logic": "The rider's timing is impossible. Ila shows no cost for keeping the east line off a Shared Map she called complete.",
-    "stakes_and_cost": "Following Pritam means binding again with no lie-proof partner, so the cost is named and chosen.",
-    "prose": "Clean and concrete, but heavy 'said Ila/said Kunal' inversions, some tags explained by narration, and a clunky Lata exposition.",
-    "continuity": "Lata's drover leg and the Taravan map-song can't fit days 56 to 61 (F618). The first-night east line is misplaced at the Hollow Moon (F443, F444)."
+    "reader_question": "Sharp, specific gaps: where Pritam's unknown east way leads, whether 'carried' means death or crossing, and what Kiran's silence intends.",
+    "change": "Knowledge moves on three fronts: the thaw glyph, Pritam's escape by the measured void, and Ila's confessed map omission. The betrothal is sworn.",
+    "romance_movement": "Betrothal by an oath no stone checks is real. But trust without proof was already landed twice in ch31, at the fold and at the signing table.",
+    "shown_chemistry": "The walnut tied with teeth while she stands still, the rule-knocking banter, and 'Then I'll take your word' are all responsive and specific.",
+    "character_logic": "The queen and Bindu act well. Ila signing a map she knew had a hole, and never looking at it since, undercuts her ch31 proof-choice.",
+    "stakes_and_cost": "Following Pritam means binding again with no lie-reading fingers, and the cost is named and chosen. The Under-Cairn seal and Kiran's stare add pressure.",
+    "prose": "Mostly clean and concrete. Kiran's garbled line, 'her throat closed', 'small and light and true', the rider's exposition dump, and roughly 3,700 words weaken it.",
+    "continuity": "Walnut origin, bell, thirty-five days, sixty-one winters, two spans and thirty-nine steps, Harish's alive exit, and Fair sword belt all match the facts."
   },
   "fixes": [
-    "Lata scene, 'They sing about your map in the Taravan taverns' and 'A Neshar drover told me a story at the Taravan inns': this is a timeline conflict. The map was signed about two days ago, and Taravan lies days downriver. Have Lata meet the council's drover on the road below Kothi Shilak this morning. Change the song line to drovers already arguing over her spelling. Say she planned the convoy weeks before the thaw.",
-    "Rider, 'He was, three nights ago' and 'tracks were two days old': escape, scouting, and a two-day Saddle crossing cannot fit into three nights, so the plot looks contrived. Make it 'six nights ago', with tracks a day old when found and the rider four days on the road. Let Gopal note that the lamed pony shows the pace.",
-    "'She found the east wall of the Hollow Moon': the first-night broken line was seen near the Meadow Cairn along the Shepherd's Stair points (F443, F444), not at the Hollow Moon. Anchor the dotted line from that shoulder bearing. Add one sentence where Ila admits she kept this line off the Shared Map she signed, and that it cost her."
+    "At 'signed that sheet before the queen with her hands bare, calling it every way' (Contrived delays and irrational behaviour), Ila knowingly certified a holed map. Reframe the omission: the line went dark at the fourth light, so she refused to draw an unwalked way as fact. Then have her say she will add the dotted line to both the queen's and Bhim's copies tonight. That keeps her ch31 shared-sight ethic intact.",
+    "At '\"Everyone's a lot of first,\" said Kiran' (prose, garbled voice), Kiran's only spoken line in the book's last chapter reads as a typo. Replace it with a quick, deflecting joke in his voice that brushes his Book 4 want. For example: \"First on a rope's the one who falls, boss.\" Keep him silent after that.",
+    "Cut about 600 words to fit 3,000. First, compress 'The stones had not heard them... It was only theirs.' (Repetitive tension), which restates ch31's no-proof trust. Second, trim the rider's tower-stair detail, which Ila then repeats, and the 'East' recap paragraph to two sentences each. Third, fix the drover so he came down off the pass and fell in with Lata's mules in the village."
   ],
-  "reader_question": "Is the Bargain owed as a death or as a crossing, and what is Pritam going east to find on the way only bound pairs can see?",
+  "reader_question": "Where is Pritam going by the way no map shows, and when the pass calls, will the debt be a death or a crossing?",
   "techniques_landed": [
     3,
     20,
     26
   ],
-  "new_facts_assessment": "Lata storing wool before Guild winter pricing is plausible and sets up Book 3. 'Her books stay balanced' is not on the page; cut it from the facts file or show it. The draft also adds unlisted facts: Bindu's thaw glyph, the chronicle wording, the warden guard, the Pritam stair and postern key, and the drover story. Most match F625 to F631, but they should be declared. The walnut provenance follows F559 and contradicts provisional F624; retire F624.",
+  "new_facts_assessment": "The thaw glyph and the two readings are necessary and consistent with F494/F709. The escape timeline holds. Raghu's men's bells are fine; the new-facts entry says Raghu's own bells while the page says his men's, so align them. The map omission is planted (F445/F665) but recasts the ch31 signing; see fix 1. The Lata drover's route is muddled: Ranu is on the Neshar side, yet he 'walked up the lane' with a Taravan convoy. Clarify that he came down off the pass.",
   "content_rule_violation": false,
   "failure_modes": [
-    "Worldbuilding collapse"
+    "Contrived delays",
+    "Irrational behaviour to extend plot"
   ],
-  "average": 3.25,
-  "minimum": 0.0,
-  "passed": false
+  "average": 3.75,
+  "minimum": 3.0,
+  "passed": true
 }
