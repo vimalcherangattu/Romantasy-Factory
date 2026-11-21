@@ -6,15 +6,11 @@
   "status": "revising",
   "stage": "S3",
   "done": [
-    "S3",
-    "S7",
-    "book_check",
-    "S9",
-    "S10"
+    "S3"
   ],
   "chapters": {
     "01": {
-      "status": "edited",
+      "status": "owner-revise",
       "revisions": 2,
       "scores": {
         "reader_question": 4.0,
@@ -42,11 +38,12 @@
         "reading_ease": 88.7
       },
       "owner_instructions": [
-        "Keep unchanged: the opening line ('Ila had never been wrong about a distance she had walked herself, so when the tower came up short she walked it again'), the ending laugh ('a bray that had been getting her sent out of dinner tables since she was eleven'), 'Good night, Highness. It's forty', and the north-wall void as written. It pays off in ch32 and ch30 now plants it again.",
-        "Lore dump (owner note 6): Ila's speech beginning 'Rohan wrote that the stones at the Shilak Cairn spoke at the thaw...' packs the Bargain, the fourth winter and the archive into one speech. Split it into two parts. Part one covers the stones speaking at the thaw. Then give Kiran one short line, a deflection or a joke that falls flat. Then let his ear-rub carry the weight. Part two covers the fourth winter and the archive. Do not add any new lore.",
-        "Book-1 baggage (owner note 6): the opening must stand alone for a new reader. Give the Varun mention a half-clause that says who he is and why he matters in this book's terms. The outline needs the society beat of his going to Taravan in chains, so keep it rather than cut it. Do the same for 'his sister had tied a rope on Ila's brother': add a half-clause such as 'last winter, under the same crossing law', or cut the line. For Kiran having 'stopped looking like a man who expected to be arrested', add a half-clause of reason or cut it. Do not summarise book 1.",
-        "Word tics (owner note 8): ch1 uses 'plain', 'plainly' and 'the plain thing' for Ila, for Kunal and in the narration. Keep at most one use in the whole chapter. Rework the line where Kunal tells her he will speak against her licence so it doesn't lean on 'plainly'. Use 'flat', 'straight out', or just the line itself.",
-        "Measurement-for-feeling is Ila's voice. Keep it, but at most once per scene. Allow at most one 'He did not X. He did Y.' construction in the chapter."
+        "Opening line and first pacing beat: the first sentence (\"Ila had never been wrong about a distance she had walked herself, so when the tower came up short she walked it again.\") and the north-wall void measurement are the owner's favourite moments. Do not change the wording, the order or the clue placement. The void pays off in ch 32 and must stay unsignposted.",
+        "Varun exchange (Society shown at a walk): the passage spends too many words on book 1, and a new reader drowns in back-story. Cut the whole Varun exchange to one line of news, for example a single overheard remark that Varun went to Taravan in chains in summer. Remove any follow-up dialogue or interiority about him.",
+        "Back-story density across the first ~1,500 words: Rohan, the new law, the Shilak post, Kiran's sister, Ila's brother, the Old Bargain, the fourth winter, Pell Orlan and Tamar are all introduced, and the chapter assumes book 1. Keep only what this chapter uses on the page: Kiran and his torn ear, the Winter Crossing Law on the gate, Pritam in the tower, and Ila's commission. Reduce Tamar to the place-name on her sheet (Tamar's Shoulder) with no explanation. Cut Pell Orlan, Kiran's sister and Ila's brother from this chapter, or give each at most a half-line where they already appear. Hold the Old Bargain and the fourth winter to one brief mention at most, unexplained, so they read as shadow rather than homework. Do not add new exposition to replace what you cut.",
+        "Missing sales hook: the core rule, that a lie told on the rope costs body heat, never appears in ch 1, so the reader does not know the game before Kunal arrives. Put a concrete beat where the cut Varun lines were, at the gate under the nailed law, before the tower-stair meeting. A licensed bound pair coming down the Neshar road with redbark fibs to the gate clerk about their load or their count. One of them shows a whitened fingertip, and the clerk notes it without fuss, as routine. Keep it to a short paragraph that is shown, not explained. Ila can register it with a surveyor's eye (which finger, how far the white runs). Make it plain that the rule applies to bound pairs, and keep it consistent with ch 3, where Ila's demonstration lie whitens her fingertips.",
+        "Ending: keep Kunal's plain statement that he will speak against her licence, and keep Ila's loud, sudden laugh and the line \"I thought you were built entirely of questions\". Do not trim the banter around it.",
+        "Standalone check: after the cuts, reread ch 1 as a reader who has never opened book 1. Every name that remains must either be understood from context or be clearly unimportant for now. The blurb's 'can be read as a standalone' line depends on this pass."
       ]
     },
     "02": {
@@ -504,7 +501,7 @@
       ]
     },
     "16": {
-      "status": "edited",
+      "status": "owner-revise",
       "revisions": 1,
       "scores": {
         "reader_question": 4.0,
@@ -532,15 +529,12 @@
         "reading_ease": 93.0
       },
       "owner_instructions": [
-        "Keep unchanged: 'The laugh came out against his mouth and he felt it, and she felt him smile.' Also keep 'I'd show you anyway' with his nails that 'had not gone one shade whiter'. Keep the sentences 'It was not neat. It was a receipt.' and 'His closed hand was a hand over a grave.'",
-        "Endless monologue (owner note 5): the stretch from the end of the letter text to Kunal's first 'Ila' runs long. Cut it by about a third. No paragraph should run over 220 words. Turn the remaining rumination toward her choice to stay silent.",
-        "Repetitive weighing (owner note 5): the section covering the oath, crime or mercy, and 'Silence was free' says the same point three times. State each element once: the archive oath binds her, the letter accuses his grandfather of walking hers to his death, and silence under the rope costs nothing. Land on 'Silence was free' once. Cut the section by about a third.",
-        "Cut the told summary 'It was the most generous thing she had ever watched anyone do.' The beat before it, setting down the mountain 'as a man puts a sleeping child on a bed', already shows it.",
-        "Fix the unclear line 'She had held it for an hour at nineteen fingers' depth, in a manner of speaking'. Either cut it, or rewrite it with an explicit referent, for example the Drum ice she sounded in ch15: 'She had stood an hour on nineteen fingers of ice and trusted it more than this.' Drop 'in a manner of speaking'.",
-        "Fix the unclear phrase 'one man's grandfather's grave-field'. Rewrite it as something clear that doesn't claim Harish died under the cairn, such as 'the way his grandfather had walked hers'.",
-        "Harish's death, fixed sequence (owner note 2). Keep him found at the thaw, sitting whole against a flat stone on the slope above the third bend, with his gloves folded one on the other on that stone. In the letter, change 'did not come back' or anything like it to 'did not come home'. The archive believes the price is a life paid beneath the Shilak Cairn, but the letter must not state that he died inside. Nothing in this chapter should say his gloves are anywhere but the hillside stone.",
-        "Tallow tic (owner note 8): cut or replace 'the colour of tallow' for fingertips here. Ch30 keeps it for Pasang's reading.",
-        "Word tics (owner note 8): keep at most one 'plain', 'plainly' or 'the plain thing'. This chapter stacks 'He did not X. He did Y.' in its emotional beats, so keep at most one."
+        "Opening kiss and Kunal's lines: keep \"I could feel you decide not to argue. It's a different thing from being agreed with. I'm learning the difference.\" and \"I don't know what you'll do with any of it… And I'd show you anyway\" exactly as written.",
+        "Post-letter recap (Endless monologue failure mode): the passage beginning \"She went through it as she would have gone through a field sheet, point by point…\" re-lists the route-keepers, the nine holes and the Mirror line. The reader has already done this arithmetic. Keep the gloves-as-receipt paragraph intact, because it is the chapter's best beat. Cut the point-by-point clue list down to one concrete image, a single physical detail that makes the connection land without itemising it, and place it next to the gloves paragraph.",
+        "Summary lines: delete \"Her neutral map was a family grave map.\" and \"And neither of them knew it, except the one holding the letter.\" These lines announce the midpoint instead of letting the reader feel it. Move straight from the gloves and the one image into her choice about silence.",
+        "'Carried' restatement: delete the line \"In the hamlets it meant seen across by the hand. In the post's chronicle it meant dead\" and any sentence around it that re-explains the two readings. Ch 12 already establishes them, and ch 32 needs the charge. If the letter's wording uses 'carried', let it stand without a gloss.",
+        "Hands image: count every time Ila turns, watches or checks her hands in this chapter. Keep the instance after her truthful answer (\"That I'm to find where your way goes…\") where warmth is proof. Cut or replace the others with a different physical action (the letter's edge, the rope, the shore stones) so the key image does not become a tic.",
+        "After the cuts, confirm the chapter still runs 2,500–3,000 words. If it falls short, add length to the on-page exchange between them, not to interiority."
       ]
     },
     "17": {
@@ -968,7 +962,7 @@
       ]
     },
     "30": {
-      "status": "edited",
+      "status": "owner-revise",
       "revisions": 1,
       "scores": {
         "reader_question": 4.0,
@@ -996,17 +990,16 @@
         "reading_ease": 93.6
       },
       "owner_instructions": [
-        "Keep unchanged: Raghu caught by his own rope, with Pasang reading the tallow fingertips. Keep the 'I like you' callback with warm hands and the specific list (pencil leads, 'forty-one', making her laugh when she's furious).",
-        "Gauri slip (owner note 1): change Kunal's 'my keeper's widow' to 'my keeper's sister' or 'Dhanu's sister'. Change Ila's 'His wife laid stones over him at the fold' to 'His sister laid stones over him at the fold'.",
-        "Raghu's purpose, C10 (owner note 3): once Pasang sets the rope down, give him one or two lines that answer both open questions. First, whom Raghu was opening the way for: a winter way over the mountain, found for the regent Pritam and the men waiting on him. Raghu never told Pasang where they would go, which keeps the army question open. Second, where the route-keepers are held: the shepherds' huts in the Hollow Moon bowl, where Dhanu reported Raghu's eight pairs in ch19. Name Hari among them. Kunal's earlier offer ('I'll ask you where they're held') must get this answer on the page.",
-        "Pillow talk (owner note 7): cut 'The tower, thirty-nine steps' and 'At Ewe's Rest, for the lambing. The north wall needs checking.' Kunal does not sleep in Pritam's tower, and Garh Neshar's north wall is not at Ewe's Rest. Replace them with a clean plant. Kunal jokes that she can come and check his crooked north wall in spring, recalling ch1's drunk mason. Ila answers 'I'd want a new pace.' Keep it to two or three lines.",
-        "Tallow tic (owner note 8): 'the colour of tallow' appears twice here. Keep it once, in Pasang's reading of Raghu's fingertips, and rephrase or cut the other.",
-        "Word tics (owner note 8): keep at most one 'plain', 'plainly' or 'the plain thing'. This chapter stacks 'He did not X. He did Y.' in its emotional beats, so keep at most one. Ila's spans-for-feelings, as in 'I'll tell you the size of the hurt, in spans', should land once per scene, not every few lines.",
-        "Leave the explicit scene's care for her bandaged feet and its adult consent as written."
+        "Great-lie line in the Raghu/Pasang confrontation: \"It was no hour's white. The truth would have cost Pasang his obedience, and the mountain billed him for that\" muddies the great-lie rule exactly when the reader needs it clear. Replace it with a plain statement of the rule in action: the lie changes what Pasang will do next, so it bites hard and fast. Use one or two short sentences, with no billing or ledger metaphor.",
+        "Raghu as flat villain (Worldbuilding / Irrational behaviour diagnostics): he only lies, lunges and is led away. Before Kunal disarms him, give Raghu one legitimate value in one or two lines of dialogue: what Pritam promised the loyalists. Make it grain, pay, or a winter way over the mountain for their own families, who are shut out under the new law. Raghu should mean it. If he says it while bound to Pasang, his hands stay warm, so it is visibly true. This sets it against his whitening lie about the limping man. Keep it consistent with Pasang's separate promise (that the route-keepers would be freed). The two promises are different lies Pritam's side told to different men. Do not soften Raghu's actions or his capture.",
+        "Salt-house declaration: keep the \"I like you\" reversal with warm hands (the callback to ch 3), then \"I love you\", then the promise to give Neshar the same map as the queen. Do not trim or reword.",
+        "Explicit scene: keep it as written, including his dead fingertips, her instructions given \"in spans\", her bandaged feet, and their talk of life after the thaw. Do not add or cut heat.",
+        "Ending clock (the deadline deflates): Meera's closing line \"Day sixteen. Nineteen to your meadow\" leaves nineteen idle days, and ch 31 skips to day 35. Keep the book's existing day count so earlier chapters stay consistent, but give the remaining days a job in the same line. Meera brings the count and also the news that the spring council will sit at the Shilak Cairn on Shilak's thaw day, so two identical copies must exist and be signed by then. She should add that the meadow will run, and the rope go slack, well before the work is finished. Suggested shape: \"Day sixteen. Nineteen to your meadow, and a month after that to Shilak. You'd best start drawing.\" End the chapter on Ila or Kunal reaching for the sheets, so the copying starts at once.",
+        "Hands image: apart from the warm-hands proof at \"I like you\", cut any extra beats of Ila turning or watching her hands in this chapter. Use other physical action instead."
       ]
     },
     "31": {
-      "status": "edited",
+      "status": "owner-revise",
       "revisions": 2,
       "scores": {
         "reader_question": 4.0,
@@ -1034,16 +1027,18 @@
         "reading_ease": 93.0
       },
       "owner_instructions": [
-        "Keep unchanged: the gloves folded on the table, 'My hands are warm. That tells you nothing,' 'I'd rather break the oath I swore than the one I chose,' the commission as her cost, 'One and three-quarter spans', the double scale bar (spans for the crown, ropes for the hills), and Widow's Knuckle replacing Nimmi's Knuckle. Check that Widow's Knuckle does not imply Gauri is a widow.",
-        "Gauri slip (owner note 1): check every reference, including Gauri's word about the Widow's Ladder and the Dhanu's Rest naming. Gauri is Dhanu's sister. Fix any 'wife' or 'widow' wording.",
-        "Harish consistency (owner note 2): in the post room, have Ila tell Rohan the sequence in the same words as ch29. He went in, made his mark, walked out alive, folded his gloves on a flat stone on the slope above the third bend, and died there, found at the thaw. Keep Meera writing 'went in... and came out' and Harish as a person carried. Have Ila or Rohan note in one line that he came out alive and died anyway, which carries the hill reading into ch32.",
-        "Hostage keepers follow-through (from owner note 3): add one clause, during the council or the handover, that a licensed pair has gone to the Hollow Moon huts for the held route-keepers. This keeps ch30's payoff from dangling.",
-        "Cliffhanger defused offstage (owner note 4): the queen asks Ila, alone, for the rubbing. Make clear which promise to Kunal is at stake. It is her ch30 promise to give Neshar the same as she gives the queen, and the rubbing is what she found under Neshar's way. Kiran's ch3 request to be told where the Bargain is paid can stay as a secondary pull, but it must not carry the dilemma alone. End the chapter on her refusal, spoken live to the queen in the room: 'Not alone.' Add the queen's one-line reaction and a final line on what it costs Ila. Replace the current closing line 'Whichever way she moved, she would be breaking faith with one of them' with this live exchange.",
-        "Word tics (owner note 8): keep at most one 'plain', 'plainly' or 'the plain thing'. This chapter stacks 'He did not X. He did Y.', so keep at most one. Keep spans-for-feelings to once per scene. The pace re-measurement is literal measurement and stays."
+        "Opening and timeline (deadline note): the chapter currently opens on day 35 with the bond already ended, after nineteen untold days. Restructure it to open the morning after ch 30 (day seventeen) in the salt-house top room, with the mapping already under way. Mark the passing days on the page through the work: sheets drying, pencil leads, Kunal naming every peak and way in Neshar's words, Gauri's word about the Widow's Ladder arriving, and Dhanu's Rest. Let the bond end mid-copy on day 35. Kunal walks past the herders' fold, sixteen spans out, to fetch or carry a sheet, and feels no cold. Keep the existing line about nothing they say being checkable now. The remaining copying and the signing then happen with no rope to enforce Ila's promise.",
+        "Rohan post-room gap: Ila currently keeps the Under-Cairn news from Rohan for about a month. Move the post-room scene (Harish, Udai, the gloves, Rohan with Dilan's rope end, Meera writing Harish into the count) to within the first two days in the salt house, before the bulk of the copying. Do not add a reason for delay. Telling him at once is in character for her after ch 28.",
+        "Pace re-measurement: keep her taking a new unit with Kunal counting beside her. Place it during the copy days, so it feeds the scale bar.",
+        "East-line omission (retcon note): currently she presents the Shared Map as 'every way' with her hands bare, and ch 32 then reveals she knowingly left the east bearing off. Put the choice on the page here. While drawing, or at the signing, Ila reaches the east shoulder and sees on her sheets only a cairn-light bearing she never walked (the faint broken east line from ch 3). She states a surveyor's rule out loud, in front of Kunal and then in her presentation: \"I don't draw a way I haven't walked.\" Do not let her call the map 'every way' without that qualifier. Use 'every way I walked' or let the rule stand as the qualifier. This keeps her honest and keeps her ch 2 creed (\"I won't leave out what is\") intact, because she is not hiding a known way. She is refusing to invent one.",
+        "Petition wording: keep 'every way on the map' in Kunal's petition. It stays accurate because the east bearing is openly marked as unwalked, not hidden. The queen can register the gap in one line, but do not add a new dispute.",
+        "Proof scene: keep the broken oath of crown exclusivity, the co-signed map under Neshar's names, identical copies handed to the queen and Old Bhim at the same hour, \"Not alone, Majesty\", giving up the Chief Surveyor chair, and Dhanu's Rest and Widow's Knuckle written over her own pet names. Do not trim any of these.",
+        "Queen's stock line: replace \"Thirty-one winters, and no one has said no to me in that voice\" with something specific to the archive drawer where Harish's record was kept. She has kept that secret since before her reign or through it, and Ila has just made it public. Suggested shape: \"I kept your grandfather in a locked drawer for thirty-one winters. You've pinned him to a wall for the hill council to read.\" Keep her angry and her decision unchanged.",
+        "Hands image: cut 'hands bare' at the presentation and any other beat of Ila turning or watching her hands that does no proof work. After the bond ends her hands prove nothing, so let the absence speak once at most."
       ]
     },
     "32": {
-      "status": "edited",
+      "status": "owner-revise",
       "revisions": 0,
       "scores": {
         "reader_question": 4.0,
@@ -1071,12 +1066,13 @@
         "reading_ease": 93.8
       },
       "owner_instructions": [
-        "Keep unchanged: the oath that doesn't hum ('It didn't hum.' / 'I wanted it to.'), the walnut tied with his teeth, 'Then I'll know when you're coming,' and the 'we bind again, and my fingers can't show you a lie' series hook.",
-        "Cliffhanger defused offstage (owner note 4): cut the past-perfect recap ('Not alone,' Ila had told the queen, and anything like it). Ch31 now plays that exchange live. Open in scene at dusk at the cairn. The queen brings out the rubbing in front of Kunal, and Kiran is present, as the consequence of Ila's refusal. If a link is needed, use one present-action beat, not a summary.",
-        "Harish consistency (owner note 2): change 'carried down at the thaw' to 'found on the slope at the thaw and carried down', or similar, so it matches ch29 and ch31. In the two readings of 'carried till no thaw', have Ila use the fact that Harish walked out alive as her evidence for the hill sense of 'carried across'. The queen holds that the mountain took its life anyway. No one can prove either.",
-        "North-wall plant payoff (owner note 7): when the rider reports Pritam's escape by the stair inside the north wall, give one beat, a look or half a line between Ila and Kunal, recalling his ch30 joke about his crooked north wall. Do not explain it.",
-        "Raghu thread (owner note 3, optional support): the rider may add in half a line that Raghu's loyalists' bells were found on the east tracks with Pritam's. This ties the hunt to the escape without answering whose army it is.",
-        "Word tics (owner note 8): keep at most one 'plain', 'plainly' or 'the plain thing'. Allow at most one 'He did not X. He did Y.' construction. Keep measurement-for-feeling to once per scene."
+        "Opening oath and walnut: keep the ropeless oath and the stones' silence. Keep Kunal tying the red-thread walnut to her chain with his teeth because his fingers can't pinch the thread. Do not trim it.",
+        "'Carried' debate (repetitive): the queen and Ila argue both readings of 'carried' at length, and the only new information is 'thaw'. Compress the exchange to about half its current length. Give each reading one line at most (the queen: a death owed each time the pass calls; Ila: the hill sense, carried across). Let Bindu's \"This is *thaw*\" and Kiran's silent stare and white ear carry the weight. Keep the queen's confirmation that Harish was the last payer and her order to guard the Under-Cairn.",
+        "East-line confession (retcon note): delete \"The omission had sat in her fingers like a stone all through the signing\" and \"She had left the bearing out of her field book\", plus any other sentence implying she hid a known way. Ch 31 now puts the choice on the page.",
+        "Pritam's escape: keep the rider's report of the stair inside the north wall (the void) and the line \"The ghost was the stair.\" Add one plain detail that his tracks run east up the very cairn-light bearing Ila refused to draw because she had never walked it. Also add, in the rider's report, that the lower stair door was opened with a key, not forced. This sets up the teaser question.",
+        "Dotted line: rewrite the final image so the dotted line 'unknown way, Pritam' is a planned next step, not a confession. She adds it as a way not yet walked and therefore not yet drawn, true to the rule she stated in ch 31. Kunal's \"Then we'll find it\" stays as the answer. If needed, add one short beat linking the dotted line to the fourth winter, so the reader feels the clock for book 2.",
+        "Teaser (long, weak thread): cut Lata's wool-price and convoy logic, including \"I've waited twenty years to be early for something\", to two or three lines total. Replace her question about the grey-bearded officer with a question tied to Pritam's escape: who gave him the key to the north-wall stair. Keep the grey-bearded officer as a background thread only (C18, already planted in ch 4). Mention him at most in passing, and do not let the book end on him. The last pull must be Pritam heading east before the fourth winter.",
+        "Hands image: cut beats of Ila turning or watching her hands unless they do proof work. The walnut on her chain can carry the final physical image instead."
       ]
     }
   },
@@ -2363,9 +2359,13 @@
     {
       "at": "2026-11-21T20:39:06",
       "event": "done: beta read"
+    },
+    {
+      "at": "2026-11-21T20:40:50",
+      "event": "done: owner notes plan"
     }
   ],
-  "updated_at": "2026-11-21T20:39:06",
+  "updated_at": "2026-11-21T20:40:50",
   "midpoint_chapter": 16,
   "continuity_attempts": 0,
   "continuity_last_errors": null,
@@ -2387,5 +2387,5 @@
     "notes": "series/s03-bound-till-the-thaw/books/s03-bound-till-the-thaw-b02/beta-notes-2.md"
   },
   "beta_rounds": 2,
-  "pending_owner_notes": "/home/user/Romantasy-Factory/series/s03-bound-till-the-thaw/books/s03-bound-till-the-thaw-b02/beta-notes-2.md"
+  "pending_owner_notes": null
 }
