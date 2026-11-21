@@ -2,7 +2,7 @@
   "scores": {
     "reader_question": 4.0,
     "change": 4.0,
-    "romance_movement": 3.0,
+    "romance_movement": 4.0,
     "shown_chemistry": 4.0,
     "character_logic": 3.0,
     "stakes_and_cost": 4.0,
@@ -10,33 +10,32 @@
     "continuity": 5.0
   },
   "reasons": {
-    "reader_question": "Sharp ending: he asks for the sheets she has sworn are true. Whether she hands them over or lies is concrete and urgent.",
-    "change": "Knowledge (hostages, ultimatum, no walnut) and Kunal's creed both flip. The uncle-lesson reversal is clearly staged.",
-    "romance_movement": "First full ask lands, but Ila's non-negotiable is argued through route-keeper logic, not felt. Her side stays withheld ('Not yet').",
-    "shown_chemistry": "Ila crouches by the stain and gives him a measure to stand on, and lets him have 'That's what I said.' Responsive, though narration explains it once too often.",
-    "character_logic": "Mini, six, travels with Dhanu and Gauri, yet Kunal never searches for or thinks of her. The note's 'the two' goes unexamined.",
-    "stakes_and_cost": "Named loved people, a deadline, one-in-three odds, and his life's creed as the price. Ila's counter-argument raises the cost.",
-    "prose": "Clean and concrete, with clichés ('longest hundred paces of his life', dark room into lit one), consecutive 'He' paragraph openers, and one self-contradiction ('alone... she came with him').",
-    "continuity": "Rope length, Raghu's sixteen, the five sheets, the twenty-four winters since the lesson and the whistle signals all match. The walnut details are new but don't conflict."
+    "reader_question": "Sharp closing question: will Ila hand over the sheets, or lie? Bible-aware readers also dread the lie and its cost.",
+    "change": "Knowledge shifts: hostages taken, no walnut, Mini fled. Relationship shifts: Kunal reverses his creed and asks Ila for everything.",
+    "romance_movement": "New reason for strain: his first full ask meets her refusal-in-waiting. Her own non-negotiable is argued tactically, not named.",
+    "shown_chemistry": "Responsive acts: she gives him a blood measure to stand on, works the nail wordlessly, reads his hedge; he lets her 'that's what I said' stand.",
+    "character_logic": "Grief-driven trade and hedged belief are credible. Mini's lone pony track is raised, then dropped without any decision from a man soft on children.",
+    "stakes_and_cost": "The price is explicit: the hills' one door, his creed and her map against one friend, at stated one-in-three odds.",
+    "prose": "Concrete and readable, but dense with similes. Self-monitoring beats repeat ('steady, which surprised him', 'proud... ashamed', 'which was the horror'). 'Chain' echoes three times.",
+    "continuity": "Consistent: left fingertips pink, right dead, eight pairs, walnut rule, Gauri as sister, Mini's pony, five sheets, twenty-four winters since the lesson."
   },
   "fixes": [
-    "At \"*The two.* Not *the lame man.* Not *his wife.*\": irrational behaviour. Mini (six) travels with Dhanu and Gauri (F473, F560), yet Kunal never looks for her. Add a short search beat: he checks the third hut or the pony shed and calls her name, then finds a child-sized hiding place empty, or learns the runner boy took her. Then make 'the two' cut both ways: either a hope that she escaped or a fear that she is uncounted.",
-    "At \"I believe that. I have to believe it.\": the rule that bites back goes unused. Bound, any false belief stated as true costs heat. Have Ila look at his fingertips. Either they stay pink because he has hedged into 'have to', which she names, or the tips whiten and she knows he doubts the trade. That gives her an evidence-based reason to refuse him and keeps the world rule live at the climax.",
-    "At \"I carry the knots in my teeth because of what I've held back\": muddled cause. His dead tips came from breaking the ask-nothing promise (F555), not from secrecy, so restate that cause. Also fix 'walked down to the Drum alone... and she came with him', break up the consecutive 'He' paragraph openers near the ending, and replace 'longest hundred paces of his life' and the 'dark room into a lit one' simile with concrete images."
+    "At 'He could not see the lake without wondering' the Mini thread is dropped (irrational behaviour). Kunal softens with children, so make him decide on the page. Have him read the track as heading toward Gauri's sister's orchard, or name that the eight spans and the moonrise deadline forbid following. One or two lines, so leaving the child is a choice with a cost.",
+    "At 'You don't.' / 'Then tell me.' / 'Not yet.' Ila answers only tactically (the route-keepers die), so the 'two non-negotiables meet head on' beat lands half. Before 'Kunal, what happens to the route-keepers', give her one true line naming her own line. For example: the sheets are the only true record, and she will not hand a true map to the men who drowned its keeper. Let it chill nothing.",
+    "At 'It did not feel like a defeat. That was what frightened him', the line duplicates 'without flinching, which was the horror of it' (repetitive interiority). Cut one of them, and cut either 'which surprised him' or 'proud of that, and ashamed of the pride'. Replace one of the three 'chain' images with something else. Change 'he saw the paper' to 'the hide' to match the next line."
   ],
-  "reader_question": "When Kunal asks where the sheets are, will Ila give up the true map, or lie to him across the rope?",
+  "reader_question": "When Kunal asks where the sheets are, will Ila give up the hills' ways, or lie to him and pay for it?",
   "techniques_landed": [
     6,
     7,
     11
   ],
-  "new_facts_assessment": "new-facts.json is empty but the draft adds several facts: Gauri's apricots from her sister's orchard, which Kunal ate at twelve; the whistle heard 'four hundred mornings'; Kunal made Dhanu swear to a walnut rule; Dhanu put a walnut in his pouch; the blue wool on the stones. These are mostly harmless and consistent, but they must be logged. The pouch walnut needs reconciling with F559, where Dhanu gave the walnuts to Kunal. The apricot orchard echoes Jassi's sister's orchard (F066) and should be reworded.",
+  "new_facts_assessment": "new-facts.json is empty, yet the draft adds facts: a hand-wide blood stain, the blue wool strip, Mini's pony track, apricots off Gauri's palm, four hundred mornings, and funeral meats at the uncle's supper. Most already appear as F744 to F749 and are consistent. 'Funeral meats still on the cloth' strains slightly against F545's 'a week after'. The clerk's hand correctly seeds F640. Ila's 'a cut, not a wound' is fair setup for F586 and F594. All should be listed.",
   "content_rule_violation": false,
   "failure_modes": [
-    "Irrational behaviour to extend plot",
-    "Narrated-only chemistry"
+    "Irrational behaviour to extend plot"
   ],
-  "average": 3.75,
+  "average": 3.88,
   "minimum": 3.0,
   "passed": true
 }

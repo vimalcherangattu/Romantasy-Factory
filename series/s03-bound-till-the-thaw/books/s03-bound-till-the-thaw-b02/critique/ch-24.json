@@ -6,36 +6,36 @@
     "shown_chemistry": 4.0,
     "character_logic": 3.0,
     "stakes_and_cost": 4.0,
-    "prose": 4.0,
-    "continuity": 0.0
+    "prose": 3.0,
+    "continuity": 5.0
   },
   "reasons": {
-    "reader_question": "The ending is sharp: will Ila hand over the sheets, or lie? Mini's unknown fate adds a second open thread.",
-    "change": "Kunal's creed reverses on the page. He decides to spend the princes' way and says so to Ila.",
-    "romance_movement": "This is his first open request for everything she carries, and the request itself carries his apology. The reason is new and costly to both of them.",
-    "shown_chemistry": "Ila gives him a measure to stand on, works the nail he can't, and reads his hand. It is responsive action, not narration.",
-    "character_logic": "The closing question 'Where are the sheets?' clashes with his own thought that they are sewn in her lining. The belief/pink-tips exchange is also muddled.",
-    "stakes_and_cost": "The cost is named on both sides: one friend against the hills' one door, plus the route-keepers Raghu won't leave standing.",
-    "prose": "Concrete and clean, with no em dashes or banned phrases. There is a little told interiority ('which was the horror of it') and one ungrammatical sentence ('every creed he owned lay').",
-    "continuity": "'Not his wife' makes Gauri Dhanu's wife, which conflicts with F682 (Gauri is his elder sister; F534 superseded)."
+    "reader_question": "Sharp closing question: will Ila hand over the sheets, or lie? Bible-aware readers also dread the lie and its cost.",
+    "change": "Knowledge shifts: hostages taken, no walnut, Mini fled. Relationship shifts: Kunal reverses his creed and asks Ila for everything.",
+    "romance_movement": "New reason for strain: his first full ask meets her refusal-in-waiting. Her own non-negotiable is argued tactically, not named.",
+    "shown_chemistry": "Responsive acts: she gives him a blood measure to stand on, works the nail wordlessly, reads his hedge; he lets her 'that's what I said' stand.",
+    "character_logic": "Grief-driven trade and hedged belief are credible. Mini's lone pony track is raised, then dropped without any decision from a man soft on children.",
+    "stakes_and_cost": "The price is explicit: the hills' one door, his creed and her map against one friend, at stated one-in-three odds.",
+    "prose": "Concrete and readable, but dense with similes. Self-monitoring beats repeat ('steady, which surprised him', 'proud... ashamed', 'which was the horror'). 'Chain' echoes three times.",
+    "continuity": "Consistent: left fingertips pink, right dead, eight pairs, walnut rule, Gauri as sister, Mini's pony, five sheets, twenty-four winters since the lesson."
   },
   "fixes": [
-    "At 'Not *the lame man.* Not *his wife.* Not *the child.*': this is a continuity break, because F682 makes Gauri Dhanu's elder sister. Change it to 'Not *his sister.*' Check the rest of the chapter for any other wife framing.",
-    "At '\"Where are the sheets?\" said Kunal.': this is a character logic problem, because earlier he thinks of 'Five sheets, sewn in a lining', so the question has no gap to fill. Revise that earlier thought to 'somewhere about her; he had never asked where'. Alternatively, make the last line a request that implies she might have moved them since dawn, which would set up her ch 25 burned-sheets lie.",
-    "At 'They'll let them go if they get them. I believe that. I have to believe it.': this is a rule logic slip. A bound man who says 'I believe that' while doubting it should whiten, yet his tips stay pink while Ila argues he doubts it. Cut 'I believe that.' and keep only 'I have to believe it', so Ila's reading of the hedge is exact and the evasion stays free."
+    "At 'He could not see the lake without wondering' the Mini thread is dropped (irrational behaviour). Kunal softens with children, so make him decide on the page. Have him read the track as heading toward Gauri's sister's orchard, or name that the eight spans and the moonrise deadline forbid following. One or two lines, so leaving the child is a choice with a cost.",
+    "At 'You don't.' / 'Then tell me.' / 'Not yet.' Ila answers only tactically (the route-keepers die), so the 'two non-negotiables meet head on' beat lands half. Before 'Kunal, what happens to the route-keepers', give her one true line naming her own line. For example: the sheets are the only true record, and she will not hand a true map to the men who drowned its keeper. Let it chill nothing.",
+    "At 'It did not feel like a defeat. That was what frightened him', the line duplicates 'without flinching, which was the horror of it' (repetitive interiority). Cut one of them, and cut either 'which surprised him' or 'proud of that, and ashamed of the pride'. Replace one of the three 'chain' images with something else. Change 'he saw the paper' to 'the hide' to match the next line."
   ],
-  "reader_question": "When Kunal asks for the sheets that could buy Dhanu, will Ila give up the only true map of the hills, or refuse him?",
+  "reader_question": "When Kunal asks where the sheets are, will Ila give up the hills' ways, or lie to him and pay for it?",
   "techniques_landed": [
     6,
     7,
     11
   ],
-  "new_facts_assessment": "The Mini search and pony track fit F642 and F473 and add useful dread. The apricots fit F642. The four hundred mornings fits F562. The spare-walnut inference fits F559 and F668, but F747's 'made the council swear' is not on the page and should be dropped. The blue wool fits F582. The pink-tips fact (F749) needs the rule fixed (see fix 3).",
+  "new_facts_assessment": "new-facts.json is empty, yet the draft adds facts: a hand-wide blood stain, the blue wool strip, Mini's pony track, apricots off Gauri's palm, four hundred mornings, and funeral meats at the uncle's supper. Most already appear as F744 to F749 and are consistent. 'Funeral meats still on the cloth' strains slightly against F545's 'a week after'. The clerk's hand correctly seeds F640. Ila's 'a cut, not a wound' is fair setup for F586 and F594. All should be listed.",
   "content_rule_violation": false,
   "failure_modes": [
     "Irrational behaviour to extend plot"
   ],
-  "average": 3.38,
-  "minimum": 0.0,
-  "passed": false
+  "average": 3.88,
+  "minimum": 3.0,
+  "passed": true
 }
