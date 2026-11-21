@@ -1001,7 +1001,7 @@
       ]
     },
     "31": {
-      "status": "passed",
+      "status": "edited",
       "revisions": 1,
       "scores": {
         "reader_question": 4.0,
@@ -1015,18 +1015,18 @@
       },
       "average": 4.0,
       "flags": [],
-      "words": 3146,
+      "words": 3157,
       "minimum": 3.0,
       "style": {
-        "words": 3258,
+        "words": 3157,
         "banned_hits": {},
         "ai_tell_hits": {},
         "ai_tells_per_1000": 0.0,
-        "top_4gram": "on the thirty fifth",
-        "top_4gram_count": 2,
-        "longest_paragraph_words": 123,
+        "top_4gram": "in the salt house",
+        "top_4gram_count": 3,
+        "longest_paragraph_words": 127,
         "em_dashes_per_1000": 0.0,
-        "reading_ease": 93.0
+        "reading_ease": 92.7
       },
       "owner_instructions": [
         "Opening and timeline (deadline note): the chapter currently opens on day 35 with the bond already ended, after nineteen untold days. Restructure it to open the morning after ch 30 (day seventeen) in the salt-house top room, with the mapping already under way. Mark the passing days on the page through the work: sheets drying, pencil leads, Kunal naming every peak and way in Neshar's words, Gauri's word about the Widow's Ladder arriving, and Dhanu's Rest. Let the bond end mid-copy on day 35. Kunal walks past the herders' fold, sixteen spans out, to fetch or carry a sheet, and feels no cold. Keep the existing line about nothing they say being checkable now. The remaining copying and the signing then happen with no rope to enforce Ila's promise.",
@@ -2474,9 +2474,13 @@
     {
       "at": "2026-11-21T21:32:48",
       "event": "done: S8 line edit ch 30"
+    },
+    {
+      "at": "2026-11-21T21:33:23",
+      "event": "done: S8 line edit ch 31"
     }
   ],
-  "updated_at": "2026-11-21T21:32:48",
+  "updated_at": "2026-11-21T21:33:23",
   "midpoint_chapter": 16,
   "continuity_attempts": 1,
   "continuity_last_errors": 1,
