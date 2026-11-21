@@ -932,7 +932,7 @@
       ]
     },
     "29": {
-      "status": "passed",
+      "status": "edited",
       "revisions": 1,
       "scores": {
         "reader_question": 4.0,
@@ -946,18 +946,18 @@
       },
       "average": 4.12,
       "flags": [],
-      "words": 3156,
+      "words": 3146,
       "minimum": 3.0,
       "style": {
-        "words": 3024,
+        "words": 3146,
         "banned_hits": {},
         "ai_tell_hits": {},
         "ai_tells_per_1000": 0.0,
-        "top_4gram": "she could not have",
-        "top_4gram_count": 3,
+        "top_4gram": "in front of her",
+        "top_4gram_count": 2,
         "longest_paragraph_words": 107,
-        "em_dashes_per_1000": 0.33,
-        "reading_ease": 95.3
+        "em_dashes_per_1000": 0.32,
+        "reading_ease": 94.6
       },
       "owner_instructions": [
         "Harish's death, fixed sequence (owner note 2). This chapter states it once, clearly. The column of scratched marks ends with Harish's goat and name. The stone shelf holds rotted gloves folded one on another, pair after pair, but it ends with an empty place beside his mark, and his pair is not there. Ila sees the gap and says the sequence aloud to Kunal in one or two sentences: he came here, made his mark, kept his gloves, walked out alive, and folded them on a flat stone on the slope above the third bend, where he died and was found at the thaw. Every payer folded his gloves, and Harish folded his outside. Have Ila notice out loud that he came out alive and died anyway. This plants the hill reading of 'carried' for ch32.",
@@ -2333,9 +2333,13 @@
     {
       "at": "2026-11-21T20:32:51",
       "event": "done: S8 line edit ch 28"
+    },
+    {
+      "at": "2026-11-21T20:33:30",
+      "event": "done: S8 line edit ch 29"
     }
   ],
-  "updated_at": "2026-11-21T20:32:51",
+  "updated_at": "2026-11-21T20:33:30",
   "midpoint_chapter": 16,
   "continuity_attempts": 0,
   "continuity_last_errors": null,
