@@ -470,7 +470,7 @@
       ]
     },
     "15": {
-      "status": "passed",
+      "status": "edited",
       "revisions": 0,
       "scores": {
         "reader_question": 4.0,
@@ -484,18 +484,18 @@
       },
       "average": 4.12,
       "flags": [],
-      "words": 2620,
+      "words": 2615,
       "minimum": 4.0,
       "style": {
-        "words": 2661,
+        "words": 2615,
         "banned_hits": {},
         "ai_tell_hits": {},
         "ai_tells_per_1000": 0.0,
         "top_4gram": "it to he had",
         "top_4gram_count": 2,
-        "longest_paragraph_words": 102,
-        "em_dashes_per_1000": 1.5,
-        "reading_ease": 98.0
+        "longest_paragraph_words": 98,
+        "em_dashes_per_1000": 1.53,
+        "reading_ease": 97.6
       },
       "owner_instructions": [
         "Word tics (owner note 8): keep at most one 'plain', 'plainly' or 'the plain thing'. Allow at most one 'He did not X. He did Y.' construction. Keep Ila's ice-sounding numbers. They are measurement as action, not as feeling."
@@ -2277,9 +2277,13 @@
     {
       "at": "2026-11-21T20:24:54",
       "event": "done: S8 line edit ch 14"
+    },
+    {
+      "at": "2026-11-21T20:25:23",
+      "event": "done: S8 line edit ch 15"
     }
   ],
-  "updated_at": "2026-11-21T20:24:54",
+  "updated_at": "2026-11-21T20:25:23",
   "midpoint_chapter": 16,
   "continuity_attempts": 0,
   "continuity_last_errors": null,
