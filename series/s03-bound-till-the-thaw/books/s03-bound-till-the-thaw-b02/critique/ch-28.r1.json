@@ -1,0 +1,41 @@
+{
+  "scores": {
+    "reader_question": 4.0,
+    "change": 4.0,
+    "romance_movement": 4.0,
+    "shown_chemistry": 3.0,
+    "character_logic": 3.0,
+    "stakes_and_cost": 4.0,
+    "prose": 4.0,
+    "continuity": 5.0
+  },
+  "reasons": {
+    "reader_question": "Clear forward pull: what is written under the cairn, and will Kunal's bound lamb promise hold?",
+    "change": "Knowledge is now complete between them: Dhanu's death, the trap, the letter, Udai's guilt. Ila's seal is risked and Gauri stays.",
+    "romance_movement": "Repair is new and owned on both sides. Neither excuses the other, and the rope is retied by choice.",
+    "shown_chemistry": "The hem strip binding and the retied hitch are good responsive acts. Most of the chapter is talk, with little bodily response.",
+    "character_logic": "The walnut reasoning is muddled. Leaving the sheets in the hut and walking a crippled foot into the cleft go unexamined.",
+    "stakes_and_cost": "Breaking the oath costs the seal, and the lamb promise binds Kunal to the mountain. Both are named.",
+    "prose": "Clean and controlled. 'Said nothing', 'held his eyes' and 'looked at the fire' recur, and the 'sum' motif is overworked.",
+    "continuity": "Follows F750 on the sheets' location, F594 and F642. 'Sixty winters' matches the ch10 usage. No hard conflict."
+  },
+  "fixes": [
+    "At \"He gave me two. A boy with a red-thread walnut\": the logic doesn't hold (irrational behaviour). If Kunal holds both walnuts, a note from Dhanu could never carry one. Add one line that Dhanu always kept a spare in his pouch (F747), so a true message from him would have carried it. Its absence then becomes the tell Kunal missed.",
+    "At \"They put a rope under his arms and let him down\": this contradicts the cut shirt Gauri found at his side (F586) and leaves that clue hanging. Add a clause explaining it, for example that they cut his shirt to bare him to the water, or that the rope knife slipped. The reader should not wonder whether he was stabbed.",
+    "At \"In the gap behind the plank shelf in the second hut\": a surveyor would not walk under the mountain while leaving her only true record, and her ruined foot gets no aid. This reads as plot convenience. Have Ila choose aloud to leave the sheets hidden as safer than black water, and have Gauri bring the juniper crutch (F598) with the boots."
+  ],
+  "reader_question": "What is written beneath the Shilak Cairn about what Harish paid, and what will reading it cost Ila and Kunal?",
+  "techniques_landed": [
+    3,
+    9,
+    12
+  ],
+  "new_facts_assessment": "All five facts are consistent and already entered as F762 to F766. The ewes' names earn their place as Dhanu's defiance. The seal cost (F764) correctly sets up F620. The lamb promise is a strong new costed contract. The Raghu reread (F766) completes the fair twist. The draft rightly places the sheets in the shelf gap per F750, not in the pattu as the beat says.",
+  "content_rule_violation": false,
+  "failure_modes": [
+    "Irrational behaviour to extend plot"
+  ],
+  "average": 3.88,
+  "minimum": 3.0,
+  "passed": true
+}

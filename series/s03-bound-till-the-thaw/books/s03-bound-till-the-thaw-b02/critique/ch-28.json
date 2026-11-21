@@ -1,40 +1,41 @@
 {
   "scores": {
-    "reader_question": 3.0,
+    "reader_question": 4.0,
     "change": 4.0,
     "romance_movement": 4.0,
-    "shown_chemistry": 4.0,
-    "character_logic": 4.0,
+    "shown_chemistry": 3.0,
+    "character_logic": 3.0,
     "stakes_and_cost": 4.0,
-    "prose": 3.0,
-    "continuity": 0.0
+    "prose": 4.0,
+    "continuity": 5.0
   },
   "reasons": {
-    "reader_question": "'What is written beneath the cairn?' is clear, but it was already open; the ending escalates nothing beyond walking back in.",
-    "change": "Full knowledge on both sides: Dhanu's death, the bait, Harish and Udai, the sheets. Ila spends her oath and seal.",
-    "romance_movement": "Blame turns to owned recognition for a new reason: each admits their own failure. Repair is real and unexcused.",
-    "shown_chemistry": "'Watch them' hands, binding his palm and holding on, the shared hum and the closing banter all show rather than tell.",
-    "character_logic": "Both act smartly. Mini sent alone on a pony at night before the door is thin, and Gauri's capture goes unexplained.",
-    "stakes_and_cost": "Ila names the archive oath and Chief Surveyor seal as the price. Kunal's lamb promise binds him to the mountain.",
-    "prose": "Clean and concrete, but there are echo phrases, and Kunal's fair-twist speech is long and tangled exposition.",
-    "continuity": "The sheets are 'sewn into the side seam', which conflicts with F750 (cached in the hut wall). 'Grey wool' conflicts with F760 (undyed)."
+    "reader_question": "Clear forward pull: what is written under the cairn, and will Kunal's bound lamb promise hold?",
+    "change": "Knowledge is now complete between them: Dhanu's death, the trap, the letter, Udai's guilt. Ila's seal is risked and Gauri stays.",
+    "romance_movement": "Repair is new and owned on both sides. Neither excuses the other, and the rope is retied by choice.",
+    "shown_chemistry": "The hem strip binding and the retied hitch are good responsive acts. Most of the chapter is talk, with little bodily response.",
+    "character_logic": "The walnut reasoning is muddled. Leaving the sheets in the hut and walking a crippled foot into the cleft go unexamined.",
+    "stakes_and_cost": "Breaking the oath costs the seal, and the lamb promise binds Kunal to the mountain. Both are named.",
+    "prose": "Clean and controlled. 'Said nothing', 'held his eyes' and 'looked at the fire' recur, and the 'sum' motif is overworked.",
+    "continuity": "Follows F750 on the sheets' location, F594 and F642. 'Sixty winters' matches the ch10 usage. No hard conflict."
   },
   "fixes": [
-    "Continuity: 'Not ash. Sewn into the side seam of my pattu' conflicts with F750, where the sheets are cached a hand deep behind the plank shelf in the second hut. Change the line to 'In the gap behind the plank shelf in the second hut. All of them.' Adjust Kunal's 'If you'd said the sheets were in your coat' to match. Also change 'She took up the grey wool' to 'undyed wool' (F760).",
-    "Continuity and logic: 'He'd told that boy Dhanu was only hurt' contradicts F584 ('The limping one went home this morning'). Restate it as Raghu telling Pasang that Dhanu had gone home. Answer-and-Escalate is also weak: tie Kunal's reading of the whitened fingertips to the clue Ila saw on the shore, so the fair twist rereads one remembered detail, not a new claim.",
-    "Prose and monologue: 'She said it as she would give a distance' appears twice; cut the second, in the repair scene. Trim Kunal's 'A ransom is for a man who is alive' run by about a third. Break it with one more Ila line, and cut the double conditional 'If you'd said... Because I thought they were ash...' into two short sentences."
+    "At \"He gave me two. A boy with a red-thread walnut\": the logic doesn't hold (irrational behaviour). If Kunal holds both walnuts, a note from Dhanu could never carry one. Add one line that Dhanu always kept a spare in his pouch (F747), so a true message from him would have carried it. Its absence then becomes the tell Kunal missed.",
+    "At \"They put a rope under his arms and let him down\": this contradicts the cut shirt Gauri found at his side (F586) and leaves that clue hanging. Add a clause explaining it, for example that they cut his shirt to bare him to the water, or that the rope knife slipped. The reader should not wonder whether he was stabbed.",
+    "At \"In the gap behind the plank shelf in the second hut\": a surveyor would not walk under the mountain while leaving her only true record, and her ruined foot gets no aid. This reads as plot convenience. Have Ila choose aloud to leave the sheets hidden as safer than black water, and have Gauri bring the juniper crutch (F598) with the boots."
   ],
-  "reader_question": "What is written beneath the cairn, and what will reading it cost them?",
+  "reader_question": "What is written beneath the Shilak Cairn about what Harish paid, and what will reading it cost Ila and Kunal?",
   "techniques_landed": [
+    3,
     9,
     12
   ],
-  "new_facts_assessment": "new-facts.json is empty, but the draft adds facts. Gauri saw Mini off before the door. The clerk wrote eleven ewes. The raid came 'while you were on the scree', against F594's 'in the Eye'. Ila worked for the seal since nineteen. Kunal promises the first spring lambs. Raghu told Pasang 'Dhanu was only hurt', against F584's 'went home this morning'. The sheets are sewn in her pattu, against F750. The lamb promise is necessary; the rest should be listed or corrected.",
+  "new_facts_assessment": "All five facts are consistent and already entered as F762 to F766. The ewes' names earn their place as Dhanu's defiance. The seal cost (F764) correctly sets up F620. The lamb promise is a strong new costed contract. The Raghu reread (F766) completes the fair twist. The draft rightly places the sheets in the shelf gap per F750, not in the pattu as the beat says.",
   "content_rule_violation": false,
   "failure_modes": [
-    "Endless monologue"
+    "Irrational behaviour to extend plot"
   ],
-  "average": 3.25,
-  "minimum": 0.0,
-  "passed": false
+  "average": 3.88,
+  "minimum": 3.0,
+  "passed": true
 }
