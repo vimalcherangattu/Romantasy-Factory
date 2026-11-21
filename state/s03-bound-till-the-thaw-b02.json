@@ -406,7 +406,7 @@
       ]
     },
     "13": {
-      "status": "passed",
+      "status": "edited",
       "revisions": 0,
       "scores": {
         "reader_question": 4.0,
@@ -420,18 +420,18 @@
       },
       "average": 4.12,
       "flags": [],
-      "words": 2656,
+      "words": 2650,
       "minimum": 4.0,
       "style": {
-        "words": 2737,
+        "words": 2650,
         "banned_hits": {},
         "ai_tell_hits": {},
         "ai_tells_per_1000": 0.0,
-        "top_4gram": "did not look at",
+        "top_4gram": "it looks a mile",
         "top_4gram_count": 2,
-        "longest_paragraph_words": 113,
-        "em_dashes_per_1000": 0.73,
-        "reading_ease": 96.8
+        "longest_paragraph_words": 111,
+        "em_dashes_per_1000": 0.75,
+        "reading_ease": 96.3
       },
       "owner_instructions": [
         "Word tics (owner note 8): keep at most one 'plain', 'plainly' or 'the plain thing'. Allow at most one 'He did not X. He did Y.' construction in the near-kiss beat."
@@ -2269,9 +2269,13 @@
     {
       "at": "2026-11-21T20:23:49",
       "event": "done: S8 line edit ch 12"
+    },
+    {
+      "at": "2026-11-21T20:24:19",
+      "event": "done: S8 line edit ch 13"
     }
   ],
-  "updated_at": "2026-11-21T20:23:49",
+  "updated_at": "2026-11-21T20:24:19",
   "midpoint_chapter": 16,
   "continuity_attempts": 0,
   "continuity_last_errors": null,
