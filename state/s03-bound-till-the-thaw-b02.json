@@ -964,7 +964,7 @@
       ]
     },
     "30": {
-      "status": "passed",
+      "status": "edited",
       "revisions": 1,
       "scores": {
         "reader_question": 4.0,
@@ -978,18 +978,18 @@
       },
       "average": 4.25,
       "flags": [],
-      "words": 2961,
+      "words": 2965,
       "minimum": 4.0,
       "style": {
-        "words": 2731,
+        "words": 2965,
         "banned_hits": {},
         "ai_tell_hits": {},
         "ai_tells_per_1000": 0.0,
-        "top_4gram": "with the flat of",
+        "top_4gram": "was on his feet",
         "top_4gram_count": 2,
         "longest_paragraph_words": 95,
-        "em_dashes_per_1000": 0.73,
-        "reading_ease": 93.6
+        "em_dashes_per_1000": 0.67,
+        "reading_ease": 93.7
       },
       "owner_instructions": [
         "Great-lie line in the Raghu/Pasang confrontation: \"It was no hour's white. The truth would have cost Pasang his obedience, and the mountain billed him for that\" muddies the great-lie rule exactly when the reader needs it clear. Replace it with a plain statement of the rule in action: the lie changes what Pasang will do next, so it bites hard and fast. Use one or two short sentences, with no billing or ledger metaphor.",
@@ -2470,9 +2470,13 @@
     {
       "at": "2026-11-21T21:32:16",
       "event": "done: S8 line edit ch 16"
+    },
+    {
+      "at": "2026-11-21T21:32:48",
+      "event": "done: S8 line edit ch 30"
     }
   ],
-  "updated_at": "2026-11-21T21:32:16",
+  "updated_at": "2026-11-21T21:32:48",
   "midpoint_chapter": 16,
   "continuity_attempts": 1,
   "continuity_last_errors": 1,
