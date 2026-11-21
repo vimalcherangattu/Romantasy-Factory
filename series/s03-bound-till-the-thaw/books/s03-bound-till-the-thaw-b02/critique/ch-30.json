@@ -1,41 +1,39 @@
 {
   "scores": {
-    "reader_question": 3.0,
+    "reader_question": 4.0,
     "change": 4.0,
     "romance_movement": 4.0,
     "shown_chemistry": 4.0,
-    "character_logic": 3.0,
-    "stakes_and_cost": 3.0,
-    "prose": 3.0,
-    "continuity": 5.0
+    "character_logic": 4.0,
+    "stakes_and_cost": 4.0,
+    "prose": 4.0,
+    "continuity": 0.0
   },
   "reasons": {
-    "reader_question": "Kunal states the outlined question, but Ila half-answers it at once ('not for the mountain'). Meera's closing deadline carries no peril, so the pull is soft.",
-    "change": "The value shift lands clearly: hunted to free, Raghu taken, a declaration verified by warm hands, a promise made, and talk of a life after the thaw.",
-    "romance_movement": "The reason is new: she declares where he can see her hands, answering his dark declaration, and adds the map promise. The 'I like you' list partly tells.",
-    "shown_chemistry": "Strong responsive care: he undresses her with his palms, she redirects him past his dead fingertips, and he builds a nest for her feet. Her instruction-as-intimacy is specific.",
-    "character_logic": "Raghu's lie is labelled small though the truth plainly changes Pasang's choice. Kunal's rope gambit and Pasang's sit-down are smart. Rohan's 'no closer' order is unclear.",
-    "stakes_and_cost": "The map promise binds her until the thaw, but the chapter never names what it costs (her oath of crown exclusivity, the Taravan audit). The sex scene carries no plot cost.",
-    "prose": "Mostly clean, with a strong hook. Raghu's silence is restated four ways, 'slowly' echoes, and 'Kunal watched/saw' narrates reactions. The hands-declaration closely repeats Book 1 ch 30.",
-    "continuity": "Consistent with the bible: ages, Kunal's dead right tips, Ila's toes, the nine holes, Dhanu's stones, Meera's three-digit glove, F610's seals, F608's cairn watch, Ewe's Rest wall."
+    "reader_question": "Clear question about whether her promise outlasts the bond. Pritam's winter way and the Hollow Moon prisoners add a second one.",
+    "change": "Raghu is taken, Hari is confirmed alive, Pritam's aim is revealed, and the pair go from hunted to free and declared.",
+    "romance_movement": "Her declaration in the light mirrors his in the dark (ch 29). The map promise is a new, costed commitment beyond the bond.",
+    "shown_chemistry": "Strong responsive care: the heel nest, the mouth for dead fingertips, 'I'll tell you the shape'. The 'I like you' list leans told.",
+    "character_logic": "Kunal makes Pasang ask because only a bound partner's lie costs. Raghu knows silence would convict. Pasang's sit-down is earned.",
+    "stakes_and_cost": "The promise names its cost: the oath, the Taravan audit and a great-lie strike. The Raghu climax resolves somewhat cleanly.",
+    "prose": "Vivid and concrete ('The light came up the crawl on its knees'). One garbled Drum sentence and a few voice echoes.",
+    "continuity": "'Day thirty-two' and 'a month of days' conflict with F713 (day ten at ch 17) and F759 (two weeks at ch 27). Ch 28 to 30 run continuously."
   },
   "fixes": [
-    "At 'The boy already half knew, so the lie bought little': this suspends Rule 1, since the truth makes Pasang refuse to move and the cost should scale with that. Cut the rationalising sentence. Give Raghu middling cold instead: knuckles greying and the knife hand starting to shake. That shake should be what lets Kunal take the wrist, so the rule bites and causes the disarm.",
-    "At 'Raghu said nothing. His mouth stayed shut.' and 'Raghu looked at the door. He did not speak.': the silence beat is stated four times (repetitive prose). Keep one plain line of silence. Replace the rest with a single physical tell, such as the bell on Pasang's shoulder or the rope going slack. Also cut two uses of 'slowly' in this section.",
-    "After 'The same lines. The same names. The same hour.': the promise has no named cost (stakes without depth). Add two or three lines in which Kunal or Ila names it: her oath to show the crown alone, and the Taravan audit of her fair sheets. A broken promise would strike her before the meltwater. That makes the closing 'Your meadow's running soon' a real deadline."
+    "'Day thirty-two,' said Meera. 'Your meadow's running soon.' and 'for a month of days': continuity conflict. F713 and F759 put the bond at about day 15 to 16 here. Either get an S7 ruling that moves those facts, or change both lines to the true count. Keep the deadline pressure, e.g. 'Day sixteen. Nineteen to your meadow, if it's a soft year,' and recast 'a month of days' as 'half a month'.",
+    "'For three nights the Shilak Cairn had hummed from under the ground': POV slip. Kunal cannot know Gopal's message or Rohan's vigil, and F608 says the cairn rang, not hummed. Cut the omniscient paragraph. Put it in Rohan's mouth as one line, e.g. 'It's rung under our feet three nights. Gopal sent for me.' Kunal can then infer the rest.",
+    "'I saw the tips go from the prince's arms and told him, and he couldn't read it.': garbled syntax at a key evidence beat. Rewrite plainly, e.g. 'His fingertips went white when he said it. I saw them from the prince's arms. I told the prince, and he couldn't read it.' Also cut 'She kept her voice level', which echoes 'dry and exact' two lines earlier."
   ],
-  "reader_question": "When the Meadow Cairn runs and the mountain stops enforcing her promise, will Ila still hand both courts the same map at the same hour?",
+  "reader_question": "Once the Meadow Cairn runs and the mountain stops enforcing it, will Ila still give Neshar the same map she gives the queen?",
   "techniques_landed": [
     16,
     20,
     22
   ],
-  "new_facts_assessment": "new-facts.json is empty, but the draft adds facts that need logging:\n- Raghu's earlier promise to Pasang that the keepers go free.\n- A rule ruling that a lie the partner 'half knows' is small.\n- Kunal's spring plan at Ewe's Rest for the lambing.\n- Ila's 'no one since I was nine'.\n- Pasang taken as a witness under the Hemkot wardens.\n- Bindu's people lighting the salt-house chulha.\nAll are consistent except the lie-size ruling. That ruling conflicts with Rule 1's measure by changed choices and should be revised, not logged.",
+  "new_facts_assessment": "F775 is needed and ties to Pritam's later escape (F627). F776 matches the eight pairs in F535 and answers Hari's fate (F536). F777 fits Rule 1: the truth would change Pasang's obedience, so middling, not small like F584. F778 is consistent with the oath (F639) and the audit (F497). All four are needed. The only conflict is the day count noted above.",
   "content_rule_violation": false,
-  "failure_modes": [
-    "Worldbuilding collapse"
-  ],
-  "average": 3.62,
-  "minimum": 3.0,
-  "passed": true
+  "failure_modes": [],
+  "average": 3.5,
+  "minimum": 0.0,
+  "passed": false
 }
