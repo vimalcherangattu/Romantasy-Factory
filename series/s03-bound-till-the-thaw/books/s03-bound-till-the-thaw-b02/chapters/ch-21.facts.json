@@ -1,12 +1,10 @@
 {
   "facts": [
     {
-      "category": "",
-      "fact": "Kunal's broken-promise strike on his fingertips is still live cold at the skin: Ila taking his hand would draw it onto herself (the touch loophole, F013, applies). He pulls his hands back ('Don't. It's paid.') and she obeys; the dead tips are not restored. Ila holds his palm only."
-    },
-    {
-      "category": "",
-      "fact": "Kunal's motive for breaking his promise: Raghu's four are under the cliff and he needs to know whether the crown's letter names the cleft before leading Ila in. Ila names the pressure his paid question puts on her. She refuses, noting the four have already seen the cleft's shadow from the shoulder; Kunal concedes."
+      "id": "F558r",
+      "category": "knowledge",
+      "fact": "Revises F558: Ila states the free tactical answer ('Raghu's four don't need my letter; they've seen the cleft's shadow') before Kunal asks. His broken-promise question is emotional, about what the crown put in her hands concerning his country, and Ila names it as his counting again. The dead fingertips and the later promise are unchanged.",
+      "since": "ch 21 revision"
     }
   ]
 }
