@@ -864,7 +864,7 @@
       ]
     },
     "27": {
-      "status": "passed",
+      "status": "edited",
       "revisions": 1,
       "scores": {
         "reader_question": 4.0,
@@ -878,18 +878,18 @@
       },
       "average": 4.25,
       "flags": [],
-      "words": 2723,
+      "words": 2716,
       "minimum": 4.0,
       "style": {
-        "words": 2862,
+        "words": 2716,
         "banned_hits": {},
         "ai_tell_hits": {},
         "ai_tells_per_1000": 0.0,
         "top_4gram": "at the end of",
         "top_4gram_count": 3,
         "longest_paragraph_words": 90,
-        "em_dashes_per_1000": 1.75,
-        "reading_ease": 96.0
+        "em_dashes_per_1000": 1.84,
+        "reading_ease": 95.3
       },
       "owner_instructions": [
         "Gauri slip (owner note 1): check every reference. Gauri is Dhanu's sister. Fix any 'wife' or 'widow' wording, including in 'He was dead before they wrote it' and the framing around it.",
@@ -2325,9 +2325,13 @@
     {
       "at": "2026-11-21T20:31:39",
       "event": "done: S8 line edit ch 26"
+    },
+    {
+      "at": "2026-11-21T20:32:20",
+      "event": "done: S8 line edit ch 27"
     }
   ],
-  "updated_at": "2026-11-21T20:31:39",
+  "updated_at": "2026-11-21T20:32:20",
   "midpoint_chapter": 16,
   "continuity_attempts": 0,
   "continuity_last_errors": null,
