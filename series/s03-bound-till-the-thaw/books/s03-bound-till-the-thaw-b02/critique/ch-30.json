@@ -2,38 +2,38 @@
   "scores": {
     "reader_question": 4.0,
     "change": 4.0,
-    "romance_movement": 4.0,
-    "shown_chemistry": 4.0,
+    "romance_movement": 5.0,
+    "shown_chemistry": 5.0,
     "character_logic": 4.0,
     "stakes_and_cost": 4.0,
     "prose": 4.0,
-    "continuity": 0.0
+    "continuity": 5.0
   },
   "reasons": {
-    "reader_question": "Clear question about whether her promise outlasts the bond. Pritam's winter way and the Hollow Moon prisoners add a second one.",
-    "change": "Raghu is taken, Hari is confirmed alive, Pritam's aim is revealed, and the pair go from hunted to free and declared.",
-    "romance_movement": "Her declaration in the light mirrors his in the dark (ch 29). The map promise is a new, costed commitment beyond the bond.",
-    "shown_chemistry": "Strong responsive care: the heel nest, the mouth for dead fingertips, 'I'll tell you the shape'. The 'I like you' list leans told.",
-    "character_logic": "Kunal makes Pasang ask because only a bound partner's lie costs. Raghu knows silence would convict. Pasang's sit-down is earned.",
-    "stakes_and_cost": "The promise names its cost: the oath, the Taravan audit and a great-lie strike. The Raghu climax resolves somewhat cleanly.",
-    "prose": "Vivid and concrete ('The light came up the crawl on its knees'). One garbled Drum sentence and a few voice echoes.",
-    "continuity": "'Day thirty-two' and 'a month of days' conflict with F713 (day ten at ch 17) and F759 (two weeks at ch 27). Ch 28 to 30 run continuously."
+    "reader_question": "A clear question: will Ila share the map within the bond's remaining days, and keep the promise after? The flat final line blunts it.",
+    "change": "Raghu goes from armed hunter to prisoner. Pasang gives up the keepers' location. Ila declares love and binds herself to a promise.",
+    "romance_movement": "The declaration is verified by warm hands, answers his dark 'I love you', and adds a costed promise. The reason is new.",
+    "shown_chemistry": "The itemised 'I like you' list, the mouth-and-instruction answer to his dead fingertips, and the blanket nest are responsive and specific.",
+    "character_logic": "Kunal turning the rope rule on Raghu through Pasang is smart. Raghu's lunge as his last direction is earned.",
+    "stakes_and_cost": "Ila names the oath, the spring audit and the great-lie strike. Kunal refuses to promise what he can't deliver.",
+    "prose": "Mostly clean and concrete. A few told interior beats ('something in his chest did', 'could not calculate anything') and some stock similes.",
+    "continuity": "Consistent with F608, F610, F622, F409 and F777. 'Day sixteen' fits F713 and F759 better than the beat's day 32."
   },
   "fixes": [
-    "'Day thirty-two,' said Meera. 'Your meadow's running soon.' and 'for a month of days': continuity conflict. F713 and F759 put the bond at about day 15 to 16 here. Either get an S7 ruling that moves those facts, or change both lines to the true count. Keep the deadline pressure, e.g. 'Day sixteen. Nineteen to your meadow, if it's a soft year,' and recast 'a month of days' as 'half a month'.",
-    "'For three nights the Shilak Cairn had hummed from under the ground': POV slip. Kunal cannot know Gopal's message or Rohan's vigil, and F608 says the cairn rang, not hummed. Cut the omniscient paragraph. Put it in Rohan's mouth as one line, e.g. 'It's rung under our feet three nights. Gopal sent for me.' Kunal can then infer the rest.",
-    "'I saw the tips go from the prince's arms and told him, and he couldn't read it.': garbled syntax at a key evidence beat. Rewrite plainly, e.g. 'His fingertips went white when he said it. I saw them from the prince's arms. I told the prince, and he couldn't read it.' Also cut 'She kept her voice level', which echoes 'dry and exact' two lines earlier."
+    "Ending, 'Day sixteen... Nineteen to your meadow, if it's a soft year.' The ending is weak: it neither interrupts an action nor reveals anything, and it loses the beat's urgency. Keep day sixteen, but cut 'if it's a soft year' (F622 fixes day 35). Then give Meera one concrete line that starts the promise's clock, for example that the queen's clerk at the post is already asking for Ila's sheets. The promise must then be tested before the bond ends.",
+    "'He had kissed women in courts, with calculation. Now he could not calculate anything.' This is narrated interiority telling us his change. Replace it with a physical beat that shows he has stopped strategising, such as his dead fingertips fumbling and him laughing at it instead of hiding his hand. Keep the next line about her feet.",
+    "'Kunal's grip on Raghu's wrist did not change, but something in his chest did. Hari was alive.' This is a stock interior cliché. Show the reaction instead: Kunal asks one exact question ('Is he walking?') and Pasang answers, then he says 'Thank you'. The relief comes through dialogue rather than narration."
   ],
-  "reader_question": "Once the Meadow Cairn runs and the mountain stops enforcing it, will Ila still give Neshar the same map she gives the queen?",
+  "reader_question": "With nineteen days left on the bond, will Ila really hand Neshar and the queen the same map, and keep that promise once the mountain stops enforcing it?",
   "techniques_landed": [
     16,
     20,
     22
   ],
-  "new_facts_assessment": "F775 is needed and ties to Pritam's later escape (F627). F776 matches the eight pairs in F535 and answers Hari's fate (F536). F777 fits Rule 1: the truth would change Pasang's obedience, so middling, not small like F584. F778 is consistent with the oath (F639) and the audit (F497). All four are needed. The only conflict is the day count noted above.",
+  "new_facts_assessment": "The new-facts file is empty, but the draft adds facts: Pasang is twenty; Raghu's repeat lie is now middling (F777); Hari is alive in the Hollow Moon huts with eight guard pairs (F776); Raghu sought a winter way for Pritam (F775); 'Day sixteen' with nineteen to the meadow. All are consistent and necessary. The day count departs from the beat's 'day thirty-two', but continuity supports sixteen and the change should be logged. The 'if it's a soft year' hedge conflicts in spirit with F622's fixed day 35.",
   "content_rule_violation": false,
   "failure_modes": [],
-  "average": 3.5,
-  "minimum": 0.0,
-  "passed": false
+  "average": 4.38,
+  "minimum": 4.0,
+  "passed": true
 }

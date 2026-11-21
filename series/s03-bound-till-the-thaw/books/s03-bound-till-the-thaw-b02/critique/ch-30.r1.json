@@ -3,39 +3,37 @@
     "reader_question": 4.0,
     "change": 4.0,
     "romance_movement": 5.0,
-    "shown_chemistry": 4.0,
-    "character_logic": 3.0,
-    "stakes_and_cost": 3.0,
+    "shown_chemistry": 5.0,
+    "character_logic": 4.0,
+    "stakes_and_cost": 4.0,
     "prose": 4.0,
-    "continuity": 0.0
+    "continuity": 5.0
   },
   "reasons": {
-    "reader_question": "The promise-after-enforcement question is set up cleanly by Kunal's line and sharpened by Meera's day count.",
-    "change": "Hunted to free; Raghu is taken; Pasang turns witness; the love is declared and verified, and a promise is made.",
-    "romance_movement": "This is a new reason: she answers his dark-room 'I love you' in the light, verified by warm hands, plus a promise that outlives the rope.",
-    "shown_chemistry": "Shown through specific acts: the pencil leads, the nest for her feet, palms on buttons, her instructions in the Stair voice.",
-    "character_logic": "Raghu lies when silence is free and he knows the rule. The knife staging contradicts itself.",
-    "stakes_and_cost": "The disarm is quick and costless. Real cost sits only in the deferred promise test.",
-    "prose": "Clean and concrete with few tells. The blade metaphor in Kunal's challenge is muddled, and Raghu's hands are staged unclearly.",
-    "continuity": "'For a week they had been tied together' conflicts with F512 (six days at ch13) and the day-thirty-two count."
+    "reader_question": "A clear question: will Ila share the map within the bond's remaining days, and keep the promise after? The flat final line blunts it.",
+    "change": "Raghu goes from armed hunter to prisoner. Pasang gives up the keepers' location. Ila declares love and binds herself to a promise.",
+    "romance_movement": "The declaration is verified by warm hands, answers his dark 'I love you', and adds a costed promise. The reason is new.",
+    "shown_chemistry": "The itemised 'I like you' list, the mouth-and-instruction answer to his dead fingertips, and the blanket nest are responsive and specific.",
+    "character_logic": "Kunal turning the rope rule on Raghu through Pasang is smart. Raghu's lunge as his last direction is earned.",
+    "stakes_and_cost": "Ila names the oath, the spring audit and the great-lie strike. Kunal refuses to promise what he can't deliver.",
+    "prose": "Mostly clean and concrete. A few told interior beats ('something in his chest did', 'could not calculate anything') and some stock similes.",
+    "continuity": "Consistent with F608, F610, F622, F409 and F777. 'Day sixteen' fits F713 and F759 better than the beat's day 32."
   },
   "fixes": [
-    "'for a week they had been tied together' (also 'Kunal had spent a week watching men lunge'): a continuity conflict with F512 and day thirty-two. Change both to the true span, e.g. 'for a month of days', and 'all winter watching men lunge'. Check ch29's 'For a week she had read this man' in the same pass.",
-    "'Then it costs you nothing.' / 'His hands hung at the ends of his arms': irrational behaviour, since a smart Raghu knows silence is free. Have Pasang ask 'Did he go home?' himself, so silence would answer him; then Raghu lies. Keep the knife in his hand and the tips tallow through the silence beat. Cut 'pink'.",
-    "'she did not tell him what she had found': the goal names the rubbing, but it vanishes. In the salt house, have Ila's hand check the folded rubbing in her coat before 'Look at my hands', and name the worn last word as unread, so the Bargain question travels with the romance."
+    "Ending, 'Day sixteen... Nineteen to your meadow, if it's a soft year.' The ending is weak: it neither interrupts an action nor reveals anything, and it loses the beat's urgency. Keep day sixteen, but cut 'if it's a soft year' (F622 fixes day 35). Then give Meera one concrete line that starts the promise's clock, for example that the queen's clerk at the post is already asking for Ila's sheets. The promise must then be tested before the bond ends.",
+    "'He had kissed women in courts, with calculation. Now he could not calculate anything.' This is narrated interiority telling us his change. Replace it with a physical beat that shows he has stopped strategising, such as his dead fingertips fumbling and him laughing at it instead of hiding his hand. Keep the next line about her feet.",
+    "'Kunal's grip on Raghu's wrist did not change, but something in his chest did. Hari was alive.' This is a stock interior cliché. Show the reaction instead: Kunal asks one exact question ('Is he walking?') and Pasang answers, then he says 'Thank you'. The relief comes through dialogue rather than narration."
   ],
-  "reader_question": "Once the Meadow Cairn's meltwater frees her, will Ila still give Neshar the same map she gives the queen?",
+  "reader_question": "With nineteen days left on the bond, will Ila really hand Neshar and the queen the same map, and keep that promise once the mountain stops enforcing it?",
   "techniques_landed": [
     16,
     20,
     22
   ],
-  "new_facts_assessment": "F605, F606 and F607 are necessary and consistent. F606's pardon fits a spring queen's judgement after F415. F608's 'rung from under the ground' stretches F015, since ringing means a lie inside the ring; reword it as a hum or define it. Duplicate IDs F608 to F611 in continuity should be pruned. The rubbing, named in the chapter goal, never appears on the page.",
+  "new_facts_assessment": "The new-facts file is empty, but the draft adds facts: Pasang is twenty; Raghu's repeat lie is now middling (F777); Hari is alive in the Hollow Moon huts with eight guard pairs (F776); Raghu sought a winter way for Pritam (F775); 'Day sixteen' with nineteen to the meadow. All are consistent and necessary. The day count departs from the beat's 'day thirty-two', but continuity supports sixteen and the change should be logged. The 'if it's a soft year' hedge conflicts in spirit with F622's fixed day 35.",
   "content_rule_violation": false,
-  "failure_modes": [
-    "Irrational behaviour to extend plot"
-  ],
-  "average": 3.38,
-  "minimum": 0.0,
-  "passed": false
+  "failure_modes": [],
+  "average": 4.38,
+  "minimum": 4.0,
+  "passed": true
 }
