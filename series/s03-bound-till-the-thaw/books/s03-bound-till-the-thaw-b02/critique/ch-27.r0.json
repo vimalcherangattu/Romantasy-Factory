@@ -1,41 +1,39 @@
 {
   "scores": {
-    "reader_question": 5.0,
+    "reader_question": 4.0,
     "change": 4.0,
-    "romance_movement": 5.0,
+    "romance_movement": 4.0,
     "shown_chemistry": 4.0,
-    "character_logic": 3.0,
+    "character_logic": 4.0,
     "stakes_and_cost": 4.0,
     "prose": 4.0,
     "continuity": 0.0
   },
   "reasons": {
-    "reader_question": "Gauri's line, plus Raghu's white fingertips from ch 26 and the whistle, gives a sharp question: who wrote the note over a dead man?",
-    "change": "Kunal chooses her over vengeance. Ila nearly makes her grandfather's payment. The ransom's premise collapses at dawn.",
-    "romance_movement": "The new reason is love proven while trust stays broken: 'you'd be right, and I hate it.' The feet held all night carry it.",
-    "shown_chemistry": "Responsive action carries it: the turn at fifteen spans, the bare belly, the grip that 'held on', 'Pick one.' A few lines tell rather than show.",
-    "character_logic": "Both choices are smart and in character, but the untied-rope staging makes Ila's 'one long pull' option physically impossible, which weakens the central choice.",
-    "stakes_and_cost": "Her refusal to pull risks both their lives, and his walk risks them too. The near-folded gloves carry real cost, as does the toes ledger.",
-    "prose": "Concrete and well varied. Some echoes: 'patient' twice, 'ruined hands' twice, 'terrible', and 'had not known she was crying' sits near a cliché.",
-    "continuity": "Conflicts: 'nineteen chronicles' and 'read at nineteen' were revised by F500; the gloves detail came from her father (F236/F490); 'tidy man's habit' contradicts F524."
+    "reader_question": "Gauri's line plus Kunal whitening over the whistle sharpens the question: who knew Dhanu was dead, and what was the trade really for?",
+    "change": "Kunal chooses her life over vengeance without forgiving her. The reader also learns Dhanu died before the note, which recasts the whole trade.",
+    "romance_movement": "The reason is new: love proven while trust stays broken. 'You'd be right, and I hate it' moves the bond forward without repeating the refusal.",
+    "shown_chemistry": "Feet against his belly, 'Pick one', and 'I'm not. I'm cold' show responsive care and humour under strain, not narrated attraction.",
+    "character_logic": "Her choice not to pull the rope is reasoned from his habits. His stop at fifteen spans is earned. Both are smart and in character.",
+    "stakes_and_cost": "Letting him walk puts both their lives at sixteen spans. The truth she calls out costs her exposure. Toes and hands are already paid.",
+    "prose": "Concrete and controlled, but five consecutive 'She...' paragraph openings in the grandfather section and stacked accounting similes.",
+    "continuity": "'She had spent a week learning this man's habits' conflicts with the bond's day count (day ten at ch 17, so roughly two weeks by now)."
   },
   "fixes": [
-    "'put the rope's knot to his teeth' through 'The rope's end trailed after him': Worldbuilding collapse and Character logic. An untied rope can't go taut, trail past eight spans or carry a pull. Have Kunal untie it but wrap the free end round his fist. At eight spans it goes taut, and Ila's one-long-pull choice happens there. She doesn't pull. He lets the end drop and walks on. Cut the later 'trailed after him' line.",
-    "'She had read that sentence nineteen times in nineteen chronicles': Continuity. F500 retires 'nineteen chronicles', and the gloves detail came from her father drunk (F236) and his 'set out for the morning' (F490), not the chronicles. Rewrite as her father's sentence, heard once and turned over since, and confirmed in the queen's hand. Also change 'read it in the post chronicles at nineteen' to 'in every chronicle the survey office held'.",
-    "'She had thought it was a tidy man's habit': Continuity and Static heroine. In ch 16 (F524) she already read the gloves as a deliberate payment-sign, so this 'discovery' regresses. Replace it with a new understanding: she has known what the gloves meant, but now she feels why a cold, unforgiven person would choose it. Then 'Not on a guess' becomes her refusal of a known door."
+    "'She had spent a week learning this man's habits': this is a continuity conflict. Ila is an exact counter and the bond is about two weeks old (F713 has day ten at ch 17). Replace it with 'She had spent every day since the Meadow Cairn learning this man's habits', or give the correct day count, and log it.",
+    "'She had not meant to. She had spent years': paragraphs four through eight of the grandfather section all open with 'She', which breaks the style guide. The accounting similes also stack ('plain as a receipt', 'like a sum', 'read it like a sheet'). Open two of the paragraphs with the gloves or the stone, keep one simile, and cut the generalising 'A person who has gone cold through' sentence to one concrete line about her own hands.",
+    "'I got to fifteen spans and it was the only figure left': Kunal over-explains a turn the walk already showed. This is mild endless monologue. Cut his speech to 'Your life is behind me. That's the sum.' and 'I'd have done it. I want you to know I wanted to.' Let the sixteen-span logic stay implied by her count."
   ],
-  "reader_question": "If Dhanu was dead before the ransom note was written, who wrote it, and what was Raghu really after?",
+  "reader_question": "If Dhanu was dead before the ransom note was written, what was Raghu really bargaining for, and what does Kunal now understand about the whistle he took off the nail?",
   "techniques_landed": [
     18,
     20,
     22
   ],
-  "new_facts_assessment": "F586 (Gauri, the cut shirt, dead before the note) is necessary, consistent with ch 26's bread-check and Raghu's lie, and fairly set up. F587 (untied rope) is consistent with F009 and F561, but the draft then has the rope go taut against Ila's wrist, 'trail after him' past eleven spans and stay pullable, all impossible once it is untied. Two unlisted facts conflict: 'nineteen chronicles' and 'read at nineteen' contradict F500; the gloves sentence appearing in chronicles contradicts F236 and F490.",
+  "new_facts_assessment": "The draft declares no new facts but adds several. Kunal stops at fifteen spans, and Gauri's wrists are rag-wrapped from the ch 26 knife cut. Raghu's men took 'the boy's rope'. The whistle hung with the note beside it, matching F569/F588. All are consistent and necessary. The rope is called 'grey wool' against F436's undyed wool; this is plausible but should be logged. 'A week' conflicts with the day count.",
   "content_rule_violation": false,
-  "failure_modes": [
-    "Worldbuilding collapse"
-  ],
-  "average": 3.62,
+  "failure_modes": [],
+  "average": 3.5,
   "minimum": 0.0,
   "passed": false
 }

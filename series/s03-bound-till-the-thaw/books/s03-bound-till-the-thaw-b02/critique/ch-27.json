@@ -2,40 +2,38 @@
   "scores": {
     "reader_question": 4.0,
     "change": 4.0,
-    "romance_movement": 5.0,
+    "romance_movement": 4.0,
     "shown_chemistry": 4.0,
     "character_logic": 4.0,
-    "stakes_and_cost": 5.0,
+    "stakes_and_cost": 4.0,
     "prose": 4.0,
-    "continuity": 5.0
+    "continuity": 0.0
   },
   "reasons": {
-    "reader_question": "Gauri's line lands hard, but Ila's follow-up 'who wrote the note?' doesn't follow cleanly from 'dead before they wrote it'.",
-    "change": "Kunal chooses to return; Ila refuses the gloves' ending; the ransom is exposed as a sham. Knowledge, relationship and power all shift.",
-    "romance_movement": "There is a new reason: love is proven against vengeance while forgiveness is withheld. 'You'd be right, and I hate it' is a fresh state.",
-    "shown_chemistry": "The declined pull, the feet against his belly and 'Pick one' banter show attraction through action. A few lines explain it instead.",
-    "character_logic": "Kunal's walk is grief-driven yet reasoned; Ila's restraint fits her arithmetic. Only the closing question feels authored rather than reasoned.",
-    "stakes_and_cost": "Each choice is costed in the rule: the distance is counted span by span, and toes and lives sit on the scale.",
-    "prose": "Concrete and rhythmic, with few AI tells. Some lines explain the choice afterwards, and phrases echo ch 26 ('Silence was free', 'the alternative was').",
-    "continuity": "The rope, knot, sixteen-span limit, dead fingertips, toes, Harish, the gloves and the father's clock all match. 'Eleven winters' is vague but not contradictory."
+    "reader_question": "Gauri's line plus Kunal whitening over the whistle sharpens the question: who knew Dhanu was dead, and what was the trade really for?",
+    "change": "Kunal chooses her life over vengeance without forgiving her. The reader also learns Dhanu died before the note, which recasts the whole trade.",
+    "romance_movement": "The reason is new: love proven while trust stays broken. 'You'd be right, and I hate it' moves the bond forward without repeating the refusal.",
+    "shown_chemistry": "Feet against his belly, 'Pick one', and 'I'm not. I'm cold' show responsive care and humour under strain, not narrated attraction.",
+    "character_logic": "Her choice not to pull the rope is reasoned from his habits. His stop at fifteen spans is earned. Both are smart and in character.",
+    "stakes_and_cost": "Letting him walk puts both their lives at sixteen spans. The truth she calls out costs her exposure. Toes and hands are already paid.",
+    "prose": "Concrete and controlled, but five consecutive 'She...' paragraph openings in the grandfather section and stacked accounting similes.",
+    "continuity": "'She had spent a week learning this man's habits' conflicts with the bond's day count (day ten at ch 17, so roughly two weeks by now)."
   },
   "fixes": [
-    "At \"Then who wrote the note?\" said Ila.\": the twist lacks setup. 'Dead before they wrote it' implies the note was always a lie, not that someone else wrote it. Either change Ila's line to fit (\"Then there was never a trade\") or anchor her question to the planted clue. For example, she recalls the clerk-like hand of F569 and that Raghu needed a scribe. Then let Kunal's whitening follow from the whistle he took off that nail.",
-    "At \"She had spent eleven winters not meaning to.\": the figure is unclear. Her grandfather died sixty-one winters ago, so the reader can't tell what eleven counts. Tie it to something on record, for example \"since she first read the chronicle entry over her father's shoulder\". Also add a half-line when Kunal 'works the bad boot off'. In ch 26 the boot was already removed, so say he had pulled it back on her at the shingle.",
-    "At \"But the choice was his, and she would not take it from him.\": this is told interiority restating what the slack rope already showed. Cut that sentence and \"She was cold and afraid, and he was going.\" Also vary \"Silence was free\" and \"because the alternative was to let her die\". Both repeat ch 26's phrasing, and the repetition dulls the callback."
+    "'She had spent a week learning this man's habits': this is a continuity conflict. Ila is an exact counter and the bond is about two weeks old (F713 has day ten at ch 17). Replace it with 'She had spent every day since the Meadow Cairn learning this man's habits', or give the correct day count, and log it.",
+    "'She had not meant to. She had spent years': paragraphs four through eight of the grandfather section all open with 'She', which breaks the style guide. The accounting similes also stack ('plain as a receipt', 'like a sum', 'read it like a sheet'). Open two of the paragraphs with the gloves or the stone, keep one simile, and cut the generalising 'A person who has gone cold through' sentence to one concrete line about her own hands.",
+    "'I got to fifteen spans and it was the only figure left': Kunal over-explains a turn the walk already showed. This is mild endless monologue. Cut his speech to 'Your life is behind me. That's the sum.' and 'I'd have done it. I want you to know I wanted to.' Let the sixteen-span logic stay implied by her count."
   ],
-  "reader_question": "If Dhanu was dead before the ransom note was written, who really wrote it, and what does Kunal see in the whistle?",
+  "reader_question": "If Dhanu was dead before the ransom note was written, what was Raghu really bargaining for, and what does Kunal now understand about the whistle he took off the nail?",
   "techniques_landed": [
     18,
     20,
     22
   ],
-  "new_facts_assessment": "Most new facts are needed and consistent. The Kuhl-side retreat matches F485, the one-long-pull extension matches F128 and F355, and the ember pot and slab are needed for staging. The gloves reading by the lake-hut fire fits F524. The whistle on Kunal's coat is plausible from F569, but the ending turns on it, so it needs one on-page line showing he took it from the lintel nail.",
+  "new_facts_assessment": "The draft declares no new facts but adds several. Kunal stops at fifteen spans, and Gauri's wrists are rag-wrapped from the ch 26 knife cut. Raghu's men took 'the boy's rope'. The whistle hung with the note beside it, matching F569/F588. All are consistent and necessary. The rope is called 'grey wool' against F436's undyed wool; this is plausible but should be logged. 'A week' conflicts with the day count.",
   "content_rule_violation": false,
-  "failure_modes": [
-    "Twists without setup"
-  ],
-  "average": 4.38,
-  "minimum": 4.0,
-  "passed": true
+  "failure_modes": [],
+  "average": 3.5,
+  "minimum": 0.0,
+  "passed": false
 }
