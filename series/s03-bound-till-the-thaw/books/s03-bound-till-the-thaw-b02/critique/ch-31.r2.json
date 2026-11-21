@@ -1,41 +1,41 @@
 {
   "scores": {
     "reader_question": 4.0,
-    "change": 4.0,
+    "change": 5.0,
     "romance_movement": 4.0,
     "shown_chemistry": 4.0,
-    "character_logic": 3.0,
-    "stakes_and_cost": 4.0,
+    "character_logic": 4.0,
+    "stakes_and_cost": 3.0,
     "prose": 4.0,
     "continuity": 5.0
   },
   "reasons": {
-    "reader_question": "Sharp closing dilemma: rubbing to the queen alone, or keep faith with Kiran and the shared-map principle. The carving's last word stays open.",
-    "change": "Oath broken in public, commission and crown roll lost, Neshar wins self-rule, and Rohan learns the truth about Harish. Power and knowledge both shift.",
-    "romance_movement": "There is a new reason to trust: no rope can verify them now. The fold test, Dhanu's Rest and the public palm show faith kept without proof.",
-    "shown_chemistry": "Responsive acts carry it: lurching when she lurches, the hand beside hers not touching, his glance at the laid gloves. Quiet but earned.",
-    "character_logic": "Ila is sound. Sarala grants all four demands at once on a muddled 'already paid' rationale. Ila waiting thirteen days to tell Rohan goes unexplained.",
-    "stakes_and_cost": "The commission is a real, chosen price paid on the page. The final choice costs a loyalty either way.",
-    "prose": "Clean, concrete and low on AI tells. Some references are opaque, the 'tooth' image echoes, and consecutive paragraphs open with 'She' and 'He'.",
-    "continuity": "Ages, day counts (35, 56), toes, pace, twelve years, sixty-one winters and the Kiran request all match canon. Rohan's rope end is on the table, not in his hands; minor beat drift."
+    "reader_question": "The carving's last word stays unread, and the queen now wants it alone. The question is clear but carried over from ch 30, only slightly escalated.",
+    "change": "Large shifts in power and status: the map is shared, the commission is lost, Neshar wins self-rule, and Ila refuses the queen to her face.",
+    "romance_movement": "Trust without verification is a new reason. The fold test, Dhanu's Rest and the rubbing refusal each extend her promise to him.",
+    "shown_chemistry": "Responsive care lands: he lurches and counts beside her, reads the laid gloves, and she puts her palm on his back. One line narrates trust.",
+    "character_logic": "Ila breaking the oath in public and refusing a private reading both follow from her new belief. The queen grants all four demands slightly too fast.",
+    "stakes_and_cost": "Losing the commission is a real cost, cleanly felt. The final refusal costs nothing because the queen concedes at once.",
+    "prose": "Clean, concrete and readable. One in-chapter time slip, two stacked pain similes, and a few explanatory interior lines.",
+    "continuity": "Consistent with F613-F623, F639, F647, F779-F785, the toe and fingertip injuries, Gauri as sister, and the day-56 thaw."
   },
   "fixes": [
-    "At '\"Granted,\" said Sarala. \"All four.\"' the concession is too cheap and its logic muddled (Irrational behaviour). Tie it to her want to keep the kingdom whole past her death: a valley everyone can see is one Pritam cannot buy. Add one condition or cost she sets, such as the council seat's first duty being Pritam's recapture, so the grant is bargained, not handed over.",
-    "At 'Whichever way she moved, she would be breaking faith' the Kunal side of the dilemma is only implied. Add one line making it explicit: a private first reading is crown exclusivity again, the thing she broke her oath to end an hour ago. Then the reader feels both loyalties pulling, not just Kiran's.",
-    "Clarify opaque references: 'where the mountain had once taken the path away' (name the twice-rope rule plainly), 'beside the crown's word' (the Ladder has no crown name; say her survey label), and 'when he put out the lamp' (anchor it or cut it). Also split the consecutive 'She took off her gloves'/'She laid them' and 'She dipped'/'She laid the sheets' openings."
+    "Ending, at \"Thirty-one winters, and no one has said no\": the queen concedes with a near-smile, so Ila's last decision costs nothing (stakes without depth). Make the refusal priced. One option: the queen agrees but strikes Ila's name from the archive's reading list for life. Another: cut after \"Say that again.\" and end on Ila's \"Not alone\" with the torn word under her fingers, leaving the queen's answer open.",
+    "At \"The other was a day old\": this contradicts \"broken her oath an hour ago\" and the dusk summons on the council day. Change both to the same time, such as \"hours old\" and \"that afternoon\", and make sure the promise referred to (to Kunal in ch 30, or to the ring today) is named unambiguously.",
+    "At \"it came to her that this was what it was to be trusted\": this is narrated-only chemistry that explains the beat after the action has already shown it. Cut the clause and keep \"She could not read a thing in them.\" Give Kunal a responsive action instead, such as holding up his bare grey hands anyway, out of habit. Also trim the stacked simile in \"like a pulled tooth... the way a splinter does\" to one image."
   ],
-  "reader_question": "Will Ila hand the unread rubbing to the queen alone, breaking faith with Kiran and Kunal, and what does the carving's last word say?",
+  "reader_question": "What does the torn last word of the Under-Cairn carving say, and what will the queen do when Kunal reads it beside her?",
   "techniques_landed": [
     15,
     20,
     24
   ],
-  "new_facts_assessment": "Both draft facts are needed and consistent. Their IDs collide with existing continuity F618 ('three weeks and a day', which conflicts with the chapter) and F622/F623 duplicates; renumber and retire the stale ones. Several facts are unlisted: Kunal signing left-handed, Ila's oath wording, twelve years since the brass rule, Ila's promise to Kiran, and the 'put out the lamp' moment. Log them or cut them.",
+  "new_facts_assessment": "new-facts.json is empty, but the draft adds small facts that should be logged. Gauri's word comes by a bound runner pair, not a boy (revises F615). Pell Orlan takes the Chief Surveyor's chair. Ila states that Harish walked out alive before dying on the slope, which is her inference from F602 and F704. The queen is 62 and travels with eight bearers. All are consistent and necessary or harmless. 'Grey since the Eye' slightly misdates F555 (ch 21).",
   "content_rule_violation": false,
   "failure_modes": [
-    "Irrational behaviour to extend plot"
+    "Narrated-only chemistry"
   ],
-  "average": 4.0,
+  "average": 4.12,
   "minimum": 3.0,
   "passed": true
 }

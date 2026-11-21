@@ -5,35 +5,37 @@
     "romance_movement": 4.0,
     "shown_chemistry": 4.0,
     "character_logic": 4.0,
-    "stakes_and_cost": 4.0,
+    "stakes_and_cost": 3.0,
     "prose": 4.0,
-    "continuity": 0.0
+    "continuity": 5.0
   },
   "reasons": {
-    "reader_question": "Clear carry-out: what does the rubbing say, and what will the queen do when Kunal reads it beside her?",
-    "change": "Oath broken in public, commission and crown roll lost, Neshar wins self-rule, and Ila refuses the queen to her face.",
-    "romance_movement": "The new reason is unverifiable faith: grey tips she can't read, 'did not count it', and Dhanu's Rest named at his request.",
-    "shown_chemistry": "Responsive actions carry it: he lurches when she lurches, a hand beside hers, her palm on his back in public.",
-    "character_logic": "Ila's 'Not alone' follows from her promise. The queen's grant is reasoned. Kunal's petition fits his growth.",
-    "stakes_and_cost": "The commission is a real price, but it 'left her cleanly'. Her lifelong want goes without any felt loss.",
-    "prose": "Clean and concrete with varied rhythm. Some soft spots: 'something give in her chest', 'The silence was long', a confusing 'five weeks ago' line.",
-    "continuity": "The 'grey cord' rope conflicts with F436/F760, which corrected Ila and Kunal's rope to undyed wool. Everything else checks out."
+    "reader_question": "The carving's last word stays unread, and the queen now wants it alone. The question is clear but carried over from ch 30, only slightly escalated.",
+    "change": "Large shifts in power and status: the map is shared, the commission is lost, Neshar wins self-rule, and Ila refuses the queen to her face.",
+    "romance_movement": "Trust without verification is a new reason. The fold test, Dhanu's Rest and the rubbing refusal each extend her promise to him.",
+    "shown_chemistry": "Responsive care lands: he lurches and counts beside her, reads the laid gloves, and she puts her palm on his back. One line narrates trust.",
+    "character_logic": "Ila breaking the oath in public and refusing a private reading both follow from her new belief. The queen grants all four demands slightly too fast.",
+    "stakes_and_cost": "Losing the commission is a real cost, cleanly felt. The final refusal costs nothing because the queen concedes at once.",
+    "prose": "Clean, concrete and readable. One in-chapter time slip, two stacked pain similes, and a few explanatory interior lines.",
+    "continuity": "Consistent with F613-F623, F639, F647, F779-F785, the toe and fingertip injuries, Gauri as sister, and the day-56 thaw."
   },
   "fixes": [
-    "'The rope was a grey cord on the boards' (continuity): Ila and Kunal's rope is undyed wool (F436, F760 explicitly corrected 'grey'). Change it to 'a pale undyed cord on the boards' so it doesn't conflict with Raghu's grey ropes or Dilan's grey rope end.",
-    "'It left her cleanly, the way a splinter does' (cost waived): her lifelong want should not exit painlessly. Before the splinter image, add one or two concrete sentences of loss. For example, her father's seven hundred unsigned maps, or Pell Orlan taking the chair. Then let her accept it. The ease should read as a choice made through pain, not an absence of pain.",
-    "'Five weeks ago, a bound pair who went that far lost the path' (clarity): this reads as if a past event happened. Rewrite it as a conditional: 'Five weeks ago, a bound pair who walked that far would have lost the path, and the mountain would have taken them both.' Also cut 'The silence was long' to 'No one spoke. A boy near the back coughed.'"
+    "Ending, at \"Thirty-one winters, and no one has said no\": the queen concedes with a near-smile, so Ila's last decision costs nothing (stakes without depth). Make the refusal priced. One option: the queen agrees but strikes Ila's name from the archive's reading list for life. Another: cut after \"Say that again.\" and end on Ila's \"Not alone\" with the torn word under her fingers, leaving the queen's answer open.",
+    "At \"The other was a day old\": this contradicts \"broken her oath an hour ago\" and the dusk summons on the council day. Change both to the same time, such as \"hours old\" and \"that afternoon\", and make sure the promise referred to (to Kunal in ch 30, or to the ring today) is named unambiguously.",
+    "At \"it came to her that this was what it was to be trusted\": this is narrated-only chemistry that explains the beat after the action has already shown it. Cut the clause and keep \"She could not read a thing in them.\" Give Kunal a responsive action instead, such as holding up his bare grey hands anyway, out of habit. Also trim the stacked simile in \"like a pulled tooth... the way a splinter does\" to one image."
   ],
-  "reader_question": "What does the carving under the mountain say, and what will the queen do when she learns it at the same hour as Kunal?",
+  "reader_question": "What does the torn last word of the Under-Cairn carving say, and what will the queen do when Kunal reads it beside her?",
   "techniques_landed": [
     15,
     20,
     24
   ],
-  "new_facts_assessment": "Both facts are necessary and consistent. Rohan's lowland Taravan road needs no pass crossing and fixes the day-48 timing. The queen's 'keep Pritam held' condition sets up Pritam's ch 32 escape as a breach. F784/F785 already duplicate them, so S7 should retire F781/F782.",
+  "new_facts_assessment": "new-facts.json is empty, but the draft adds small facts that should be logged. Gauri's word comes by a bound runner pair, not a boy (revises F615). Pell Orlan takes the Chief Surveyor's chair. Ila states that Harish walked out alive before dying on the slope, which is her inference from F602 and F704. The queen is 62 and travels with eight bearers. All are consistent and necessary or harmless. 'Grey since the Eye' slightly misdates F555 (ch 21).",
   "content_rule_violation": false,
-  "failure_modes": [],
-  "average": 3.62,
-  "minimum": 0.0,
-  "passed": false
+  "failure_modes": [
+    "Narrated-only chemistry"
+  ],
+  "average": 4.12,
+  "minimum": 3.0,
+  "passed": true
 }
