@@ -1040,7 +1040,7 @@
       ]
     },
     "32": {
-      "status": "passed",
+      "status": "edited",
       "revisions": 1,
       "scores": {
         "reader_question": 4.0,
@@ -1054,18 +1054,18 @@
       },
       "average": 3.88,
       "flags": [],
-      "words": 3102,
+      "words": 3101,
       "minimum": 3.0,
       "style": {
-        "words": 3434,
+        "words": 3101,
         "banned_hits": {},
         "ai_tell_hits": {},
         "ai_tells_per_1000": 0.0,
-        "top_4gram": "of the shilak post",
-        "top_4gram_count": 3,
-        "longest_paragraph_words": 112,
+        "top_4gram": "rang once in the",
+        "top_4gram_count": 2,
+        "longest_paragraph_words": 94,
         "em_dashes_per_1000": 0.0,
-        "reading_ease": 93.8
+        "reading_ease": 93.4
       },
       "owner_instructions": [
         "Opening oath and walnut: keep the ropeless oath and the stones' silence. Keep Kunal tying the red-thread walnut to her chain with his teeth because his fingers can't pinch the thread. Do not trim it.",
@@ -2478,9 +2478,13 @@
     {
       "at": "2026-11-21T21:33:23",
       "event": "done: S8 line edit ch 31"
+    },
+    {
+      "at": "2026-11-21T21:33:59",
+      "event": "done: S8 line edit ch 32"
     }
   ],
-  "updated_at": "2026-11-21T21:33:23",
+  "updated_at": "2026-11-21T21:33:59",
   "midpoint_chapter": 16,
   "continuity_attempts": 1,
   "continuity_last_errors": 1,
