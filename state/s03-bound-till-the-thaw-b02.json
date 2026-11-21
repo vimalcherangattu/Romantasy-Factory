@@ -12,7 +12,7 @@
   ],
   "chapters": {
     "01": {
-      "status": "passed",
+      "status": "edited",
       "revisions": 2,
       "scores": {
         "reader_question": 4.0,
@@ -26,18 +26,18 @@
       },
       "average": 3.88,
       "flags": [],
-      "words": 2817,
+      "words": 2810,
       "minimum": 3.0,
       "style": {
-        "words": 3097,
+        "words": 2810,
         "banned_hits": {},
         "ai_tell_hits": {},
         "ai_tells_per_1000": 0.0,
-        "top_4gram": "two and a half",
+        "top_4gram": "she had paced the",
         "top_4gram_count": 2,
-        "longest_paragraph_words": 111,
+        "longest_paragraph_words": 118,
         "em_dashes_per_1000": 0.0,
-        "reading_ease": 89.3
+        "reading_ease": 88.7
       },
       "owner_instructions": [
         "Keep unchanged: the opening line ('Ila had never been wrong about a distance she had walked herself, so when the tower came up short she walked it again'), the ending laugh ('a bray that had been getting her sent out of dinner tables since she was eleven'), 'Good night, Highness. It's forty', and the north-wall void as written. It pays off in ch32 and ch30 now plants it again.",
@@ -2221,9 +2221,13 @@
     {
       "at": "2026-11-21T20:17:16",
       "event": "done: book-level checks"
+    },
+    {
+      "at": "2026-11-21T20:17:55",
+      "event": "done: S8 line edit ch 1"
     }
   ],
-  "updated_at": "2026-11-21T20:17:16",
+  "updated_at": "2026-11-21T20:17:55",
   "midpoint_chapter": 16,
   "continuity_attempts": 0,
   "continuity_last_errors": null,
