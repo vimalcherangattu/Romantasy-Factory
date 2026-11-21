@@ -48,7 +48,7 @@
       ]
     },
     "02": {
-      "status": "passed",
+      "status": "edited",
       "revisions": 0,
       "scores": {
         "reader_question": 4.0,
@@ -62,18 +62,18 @@
       },
       "average": 3.88,
       "flags": [],
-      "words": 2317,
+      "words": 2310,
       "minimum": 3.0,
       "style": {
-        "words": 2340,
+        "words": 2310,
         "banned_hits": {},
         "ai_tell_hits": {},
         "ai_tells_per_1000": 0.0,
         "top_4gram": "with the petition tube",
         "top_4gram_count": 2,
-        "longest_paragraph_words": 128,
-        "em_dashes_per_1000": 1.28,
-        "reading_ease": 90.0
+        "longest_paragraph_words": 79,
+        "em_dashes_per_1000": 1.3,
+        "reading_ease": 90.1
       },
       "owner_instructions": [
         "Keep unchanged: Kunal's realisation on the page that Ila wanted him on the rope, and his own slogan ('Nothing in Neshar should be hidden from Neshar') as the hook in his mouth.",
@@ -2225,9 +2225,13 @@
     {
       "at": "2026-11-21T20:17:55",
       "event": "done: S8 line edit ch 1"
+    },
+    {
+      "at": "2026-11-21T20:18:25",
+      "event": "done: S8 line edit ch 2"
     }
   ],
-  "updated_at": "2026-11-21T20:17:55",
+  "updated_at": "2026-11-21T20:18:25",
   "midpoint_chapter": 16,
   "continuity_attempts": 0,
   "continuity_last_errors": null,
