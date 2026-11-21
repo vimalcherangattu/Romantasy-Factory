@@ -503,7 +503,7 @@
       ]
     },
     "16": {
-      "status": "passed",
+      "status": "edited",
       "revisions": 0,
       "scores": {
         "reader_question": 5.0,
@@ -517,18 +517,18 @@
       },
       "average": 4.5,
       "flags": [],
-      "words": 2441,
+      "words": 2452,
       "minimum": 4.0,
       "style": {
-        "words": 2609,
+        "words": 2452,
         "banned_hits": {},
         "ai_tell_hits": {},
         "ai_tells_per_1000": 0.0,
         "top_4gram": "the rope would hold",
         "top_4gram_count": 2,
-        "longest_paragraph_words": 106,
+        "longest_paragraph_words": 117,
         "em_dashes_per_1000": 0.0,
-        "reading_ease": 93.0
+        "reading_ease": 94.8
       },
       "owner_instructions": [
         "Opening kiss and Kunal's lines: keep \"I could feel you decide not to argue. It's a different thing from being agreed with. I'm learning the difference.\" and \"I don't know what you'll do with any of it… And I'd show you anyway\" exactly as written.",
@@ -2466,9 +2466,13 @@
     {
       "at": "2026-11-21T21:31:48",
       "event": "done: S8 line edit ch 1"
+    },
+    {
+      "at": "2026-11-21T21:32:16",
+      "event": "done: S8 line edit ch 16"
     }
   ],
-  "updated_at": "2026-11-21T21:31:48",
+  "updated_at": "2026-11-21T21:32:16",
   "midpoint_chapter": 16,
   "continuity_attempts": 1,
   "continuity_last_errors": 1,
