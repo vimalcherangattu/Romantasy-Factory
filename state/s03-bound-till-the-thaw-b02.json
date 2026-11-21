@@ -1004,7 +1004,7 @@
       ]
     },
     "31": {
-      "status": "passed",
+      "status": "edited",
       "revisions": 2,
       "scores": {
         "reader_question": 4.0,
@@ -1018,18 +1018,18 @@
       },
       "average": 4.12,
       "flags": [],
-      "words": 3253,
+      "words": 3258,
       "minimum": 3.0,
       "style": {
-        "words": 2860,
+        "words": 3258,
         "banned_hits": {},
         "ai_tell_hits": {},
         "ai_tells_per_1000": 0.0,
         "top_4gram": "on the thirty fifth",
         "top_4gram_count": 2,
-        "longest_paragraph_words": 121,
+        "longest_paragraph_words": 123,
         "em_dashes_per_1000": 0.0,
-        "reading_ease": 93.5
+        "reading_ease": 93.0
       },
       "owner_instructions": [
         "Keep unchanged: the gloves folded on the table, 'My hands are warm. That tells you nothing,' 'I'd rather break the oath I swore than the one I chose,' the commission as her cost, 'One and three-quarter spans', the double scale bar (spans for the crown, ropes for the hills), and Widow's Knuckle replacing Nimmi's Knuckle. Check that Widow's Knuckle does not imply Gauri is a widow.",
@@ -2341,9 +2341,13 @@
     {
       "at": "2026-11-21T20:34:06",
       "event": "done: S8 line edit ch 30"
+    },
+    {
+      "at": "2026-11-21T20:34:45",
+      "event": "done: S8 line edit ch 31"
     }
   ],
-  "updated_at": "2026-11-21T20:34:06",
+  "updated_at": "2026-11-21T20:34:45",
   "midpoint_chapter": 16,
   "continuity_attempts": 0,
   "continuity_last_errors": null,
