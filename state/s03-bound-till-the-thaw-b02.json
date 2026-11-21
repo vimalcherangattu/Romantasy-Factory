@@ -670,7 +670,7 @@
       ]
     },
     "21": {
-      "status": "passed",
+      "status": "edited",
       "revisions": 0,
       "scores": {
         "reader_question": 4.0,
@@ -684,18 +684,18 @@
       },
       "average": 4.12,
       "flags": [],
-      "words": 2906,
+      "words": 2901,
       "minimum": 4.0,
       "style": {
-        "words": 3034,
+        "words": 2901,
         "banned_hits": {},
         "ai_tell_hits": {},
         "ai_tells_per_1000": 0.0,
         "top_4gram": "a promise with a",
         "top_4gram_count": 2,
-        "longest_paragraph_words": 110,
-        "em_dashes_per_1000": 0.66,
-        "reading_ease": 95.9
+        "longest_paragraph_words": 107,
+        "em_dashes_per_1000": 0.69,
+        "reading_ease": 95.7
       },
       "owner_instructions": [
         "Word tics (owner note 8): keep at most one 'plain', 'plainly' or 'the plain thing'. Allow at most one 'He did not X. He did Y.' construction."
@@ -2301,9 +2301,13 @@
     {
       "at": "2026-11-21T20:28:12",
       "event": "done: S8 line edit ch 20"
+    },
+    {
+      "at": "2026-11-21T20:28:50",
+      "event": "done: S8 line edit ch 21"
     }
   ],
-  "updated_at": "2026-11-21T20:28:12",
+  "updated_at": "2026-11-21T20:28:50",
   "midpoint_chapter": 16,
   "continuity_attempts": 0,
   "continuity_last_errors": null,
