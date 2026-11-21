@@ -4,39 +4,40 @@
     "change": 4.0,
     "romance_movement": 3.0,
     "shown_chemistry": 4.0,
-    "character_logic": 3.0,
-    "stakes_and_cost": 4.0,
-    "prose": 3.0,
+    "character_logic": 2.0,
+    "stakes_and_cost": 3.0,
+    "prose": 4.0,
     "continuity": 5.0
   },
   "reasons": {
-    "reader_question": "Sharp, specific gaps: where Pritam's unknown east way leads, whether 'carried' means death or crossing, and what Kiran's silence intends.",
-    "change": "Knowledge moves on three fronts: the thaw glyph, Pritam's escape by the measured void, and Ila's confessed map omission. The betrothal is sworn.",
-    "romance_movement": "Betrothal by an oath no stone checks is real. But trust without proof was already landed twice in ch31, at the fold and at the signing table.",
-    "shown_chemistry": "The walnut tied with teeth while she stands still, the rule-knocking banter, and 'Then I'll take your word' are all responsive and specific.",
-    "character_logic": "The queen and Bindu act well. Ila signing a map she knew had a hole, and never looking at it since, undercuts her ch31 proof-choice.",
-    "stakes_and_cost": "Following Pritam means binding again with no lie-reading fingers, and the cost is named and chosen. The Under-Cairn seal and Kiran's stare add pressure.",
-    "prose": "Mostly clean and concrete. Kiran's garbled line, 'her throat closed', 'small and light and true', the rider's exposition dump, and roughly 3,700 words weaken it.",
-    "continuity": "Walnut origin, bell, thirty-five days, sixty-one winters, two spans and thirty-nine steps, Harish's alive exit, and Fair sword belt all match the facts."
+    "reader_question": "Clear and specific: where is Pritam walking the unknown way, and who gave him the key? The Book 3 hook is muted.",
+    "change": "The oath is sworn, the rubbing is read, the Under-Cairn is sealed and Pritam is loose. Knowledge and plot state both shift clearly.",
+    "romance_movement": "The unproven oath lands, but 'I'll take your word' replays ch31's 'I'll still take your word / That's the new part'.",
+    "shown_chemistry": "Kunal knots the walnut with his teeth while she stands still, and 'Then I'll know when you're coming' is earned. This is responsive and specific.",
+    "character_logic": "Kunal pledged his seat and person as surety if Pritam left keeping (F817). Nobody, Kunal or the queen, mentions it on hearing of the escape.",
+    "stakes_and_cost": "Rebinding and walking blind are named. The biggest live cost, Kunal's surety and the garrison clause, is absent.",
+    "prose": "Clean, concrete and readable, with no banned phrases. Minor tells: 'It was not a question...' explains the moment, the well image repeats ch31, and 'lamed company' misattributes the pony.",
+    "continuity": "Bell, rope, walnut, thirty-nine count, east bearing and knot-song all match the bible. 'Wrote it the eve of the Fair' blurs F655, but does not conflict."
   },
   "fixes": [
-    "At 'signed that sheet before the queen with her hands bare, calling it every way' (Contrived delays and irrational behaviour), Ila knowingly certified a holed map. Reframe the omission: the line went dark at the fourth light, so she refused to draw an unwalked way as fact. Then have her say she will add the dotted line to both the queen's and Bhim's copies tonight. That keeps her ch31 shared-sight ethic intact.",
-    "At '\"Everyone's a lot of first,\" said Kiran' (prose, garbled voice), Kiran's only spoken line in the book's last chapter reads as a typo. Replace it with a quick, deflecting joke in his voice that brushes his Book 4 want. For example: \"First on a rope's the one who falls, boss.\" Keep him silent after that.",
-    "Cut about 600 words to fit 3,000. First, compress 'The stones had not heard them... It was only theirs.' (Repetitive tension), which restates ch31's no-proof trust. Second, trim the rider's tower-stair detail, which Ila then repeats, and the 'East' recap paragraph to two sentences each. Third, fix the drover so he came down off the pass and fell in with Lata's mules in the village."
+    "At '\"Pritam is in the tower,\" said Kunal. His voice' (failure mode: irrational behaviour). Kunal staked his seat and person on Pritam staying held. Have the queen name the clause, or Kunal name it first: the garrison comes, his seat goes, he answers at Taravan. Then 'Then we'll find it' becomes the price of his own word, not only a hunt. Also cut 'Nobody asked who had given him the key', which is artificial withholding.",
+    "At '\"I'd leave him be. He's a story. A key is a person.\"' (failure mode: beat deviation and a lost hinge). Restore the beat: Lata asks Meera who the grey-bearded man was that Ranu won't name. Meera shows the ruled blank line in the count (F631). Give Lata one small involuntary tell, such as a hand to the red skein in her bale. Move the key question to the rider scene.",
+    "At '\"Then I'll take your word,\" said Ila. \"That's what we swore' (failure mode: repetitive tension, echoing ch31's closing exchange). Prove the oath in action instead. Kunal keeps 'no way from you' on the spot by giving her something he knows of the dry-side cairns, such as a line of Pritam's route-songs. She writes it beside the dotted line with his name. Also replace 'as a man stares down a well', since ch31 already used a well image."
   ],
-  "reader_question": "Where is Pritam going by the way no map shows, and when the pass calls, will the debt be a death or a crossing?",
+  "reader_question": "Where is Pritam going on the cairn-light way no map shows, who inside Garh Neshar gave him the key, and what will it cost Kunal, who stood surety for him?",
   "techniques_landed": [
     3,
     20,
     26
   ],
-  "new_facts_assessment": "The thaw glyph and the two readings are necessary and consistent with F494/F709. The escape timeline holds. Raghu's men's bells are fine; the new-facts entry says Raghu's own bells while the page says his men's, so align them. The map omission is planted (F445/F665) but recasts the ch31 signing; see fix 1. The Lata drover's route is muddled: Ranu is on the Neshar side, yet he 'walked up the lane' with a Taravan convoy. Clarify that he came down off the pass.",
+  "new_facts_assessment": "The key-not-forced fact is useful, matches F627 and seeds a traitor. Raghu's men's bells fit his capture (F796) and stay consistent. Ila marking the queen's and Bhim's copies needs a line acknowledging she is off the crown roll (F620/F811). Lata's drover joining at Kothi Shilak fits F791, but swapping her grey-beard question for the key question deviates from the beat and wastes the Book 3 setup.",
   "content_rule_violation": false,
   "failure_modes": [
-    "Contrived delays",
-    "Irrational behaviour to extend plot"
+    "Irrational behaviour to extend plot",
+    "Repetitive tension",
+    "Contrived delays"
   ],
-  "average": 3.75,
-  "minimum": 3.0,
-  "passed": true
+  "average": 3.62,
+  "minimum": 2.0,
+  "passed": false
 }
