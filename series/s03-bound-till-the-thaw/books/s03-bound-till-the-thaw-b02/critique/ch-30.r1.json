@@ -2,7 +2,7 @@
   "scores": {
     "reader_question": 4.0,
     "change": 4.0,
-    "romance_movement": 5.0,
+    "romance_movement": 4.0,
     "shown_chemistry": 5.0,
     "character_logic": 4.0,
     "stakes_and_cost": 4.0,
@@ -10,30 +10,30 @@
     "continuity": 5.0
   },
   "reasons": {
-    "reader_question": "A clear question: will Ila share the map within the bond's remaining days, and keep the promise after? The flat final line blunts it.",
-    "change": "Raghu goes from armed hunter to prisoner. Pasang gives up the keepers' location. Ila declares love and binds herself to a promise.",
-    "romance_movement": "The declaration is verified by warm hands, answers his dark 'I love you', and adds a costed promise. The reason is new.",
-    "shown_chemistry": "The itemised 'I like you' list, the mouth-and-instruction answer to his dead fingertips, and the blanket nest are responsive and specific.",
-    "character_logic": "Kunal turning the rope rule on Raghu through Pasang is smart. Raghu's lunge as his last direction is earned.",
-    "stakes_and_cost": "Ila names the oath, the spring audit and the great-lie strike. Kunal refuses to promise what he can't deliver.",
-    "prose": "Mostly clean and concrete. A few told interior beats ('something in his chest did', 'could not calculate anything') and some stock similes.",
-    "continuity": "Consistent with F608, F610, F622, F409 and F777. 'Day sixteen' fits F713 and F759 better than the beat's day 32."
+    "reader_question": "Meera's 'After that it's only you' clearly sets the question: will Ila keep the map promise once the mountain stops enforcing it?",
+    "change": "Raghu goes from armed hunter to prisoner, the keepers' location is known, and the leads move from hunted to declared and free.",
+    "romance_movement": "The declaration is new: she says it in the light so he can see her hands, and adds a promise that costs her oath.",
+    "shown_chemistry": "The pencil leads, unbuttoning with palms, and 'use your mouth and I'll tell you the shape' are responsive acts tied to these two people.",
+    "character_logic": "Kunal's use of the rope rule is sharp. One slip: he believes Raghu because of a Pasang report that hasn't been given yet.",
+    "stakes_and_cost": "The promise costs the crown oath and the audit, and Pasang gives up his captain. Kunal declines to promise what he can't deliver.",
+    "prose": "Clean, concrete and varied, with no banned phrases. A few murky lines: 'This time the blade was only true'; the age insertion is a little blunt.",
+    "continuity": "Consistent with F795, F610, F409 and F777. The morning timing is ambiguous against 'Day sixteen' but does not clearly conflict."
   },
   "fixes": [
-    "Ending, 'Day sixteen... Nineteen to your meadow, if it's a soft year.' The ending is weak: it neither interrupts an action nor reveals anything, and it loses the beat's urgency. Keep day sixteen, but cut 'if it's a soft year' (F622 fixes day 35). Then give Meera one concrete line that starts the promise's clock, for example that the queen's clerk at the post is already asking for Ila's sheets. The promise must then be tested before the bond ends.",
-    "'He had kissed women in courts, with calculation. Now he could not calculate anything.' This is narrated interiority telling us his change. Replace it with a physical beat that shows he has stopped strategising, such as his dead fingertips fumbling and him laughing at it instead of hiding his hand. Keep the next line about her feet.",
-    "'Kunal's grip on Raghu's wrist did not change, but something in his chest did. Hari was alive.' This is a stock interior cliché. Show the reaction instead: Kunal asks one exact question ('Is he walking?') and Pasang answers, then he says 'Thank you'. The relief comes through dialogue rather than narration."
+    "At 'It fitted too well to be a boy's invention', Kunal relies on Pasang's winter-way report before Pasang has made it (character logic, sequencing). Either move Pasang's 'The way was for the regent Pritam and the men waiting on him' ahead of this line, or base Kunal's belief on the Sarn fold detail alone.",
+    "At '\"He went home,\" said Raghu. \"Walking.\"': in ch 29 Ila relied on the vault being a cairn whose stones ring at a lie, yet here they stay silent (technique 22 underused). Have the seams brighten and the stones ring high as Raghu lies. This gives Pasang an instrument he can't argue with, alongside the grey knuckles.",
+    "At 'Kunal woke with the sun on the boards', it is unclear whether this is the same day or the next morning, while Meera says 'Day sixteen' (risk of drift from F795). State that it is late morning of the same day. Also make the final image push forward: have Meera add one fact that makes ch 31 necessary, such as the queen's riders on the road."
   ],
-  "reader_question": "With nineteen days left on the bond, will Ila really hand Neshar and the queen the same map, and keep that promise once the mountain stops enforcing it?",
+  "reader_question": "When the bond ends at the Meadow Cairn, will Ila keep a promise the mountain no longer enforces?",
   "techniques_landed": [
     16,
     20,
     22
   ],
-  "new_facts_assessment": "The new-facts file is empty, but the draft adds facts: Pasang is twenty; Raghu's repeat lie is now middling (F777); Hari is alive in the Hollow Moon huts with eight guard pairs (F776); Raghu sought a winter way for Pritam (F775); 'Day sixteen' with nineteen to the meadow. All are consistent and necessary. The day count departs from the beat's 'day thirty-two', but continuity supports sixteen and the change should be logged. The 'if it's a soft year' hedge conflicts in spirit with F622's fixed day 35.",
+  "new_facts_assessment": "F805 is consistent and necessary, but its reasoning depends on Pasang's winter-way report, which comes later on the page; fix the order. F806 matches F622 and F795 (35-day bond, Shilak council three weeks later) and usefully sets up the book's question.",
   "content_rule_violation": false,
   "failure_modes": [],
-  "average": 4.38,
+  "average": 4.25,
   "minimum": 4.0,
   "passed": true
 }

@@ -1,41 +1,39 @@
 {
   "scores": {
-    "reader_question": 3.0,
+    "reader_question": 4.0,
     "change": 4.0,
-    "romance_movement": 5.0,
+    "romance_movement": 4.0,
     "shown_chemistry": 5.0,
     "character_logic": 4.0,
     "stakes_and_cost": 4.0,
     "prose": 4.0,
-    "continuity": 0.0
+    "continuity": 5.0
   },
   "reasons": {
-    "reader_question": "The promise's lapse at the meadow is stated mid-chapter, but the ending's 'start drawing' deadline pulls focus to logistics rather than the open question.",
-    "change": "Raghu is disarmed and taken, the keepers' location is learned, and Ila declares. Power, knowledge and relationship all move.",
-    "romance_movement": "Her 'I love you' answers his dark-vault declaration in the light, with hands shown. It is a new reason, and the promise outlasts enforcement.",
-    "shown_chemistry": "Warm pencil leads, his raised dead hand, 'use your mouth and I'll tell you the shape', and the nest for her feet: all responsive, specific care.",
-    "character_logic": "Kunal's rope-rule trap is smart and Pasang's turn is earned. Raghu lying when he knows silence betrays him is a plausible gamble under pressure.",
-    "stakes_and_cost": "Ila names the cost of her promise: her oath to show the crown alone, the spring audit and a great-lie strike if broken while bound.",
-    "prose": "Clean, concrete, few tells. 'Pritam promised my cousin's keepers' freedom' is garbled, and 'a blade picked up and turned' is clumsy.",
-    "continuity": "Raghu's lie greys his knuckles, then lines later his hands 'stayed warm and pink' and verify truth. This breaks the lie-cold duration rule (F075, F352) and the chapter's own later grey fingers."
+    "reader_question": "Meera's 'After that it's only you' clearly sets the question: will Ila keep the map promise once the mountain stops enforcing it?",
+    "change": "Raghu goes from armed hunter to prisoner, the keepers' location is known, and the leads move from hunted to declared and free.",
+    "romance_movement": "The declaration is new: she says it in the light so he can see her hands, and adds a promise that costs her oath.",
+    "shown_chemistry": "The pencil leads, unbuttoning with palms, and 'use your mouth and I'll tell you the shape' are responsive acts tied to these two people.",
+    "character_logic": "Kunal's use of the rope rule is sharp. One slip: he believes Raghu because of a Pasang report that hasn't been given yet.",
+    "stakes_and_cost": "The promise costs the crown oath and the audit, and Pasang gives up his captain. Kunal declines to promise what he can't deliver.",
+    "prose": "Clean, concrete and varied, with no banned phrases. A few murky lines: 'This time the blade was only true'; the age insertion is a little blunt.",
+    "continuity": "Consistent with F795, F610, F409 and F777. The morning timing is ambiguous against 'Day sixteen' but does not clearly conflict."
   },
   "fixes": [
-    "At 'His hands, tied to Pasang by the rope, stayed warm and pink', the chapter uses magic against its own rule: his hands are already grey from the lie, and he is speaking to Kunal, which is free. Cut the hand-verification. Have Pasang confirm it instead ('He told us that at Sarn fold, Captain. All of us.'). Kunal believes it because it fits Pasang's winter-way report. Revise F802 to match.",
-    "At 'Your meadow will run, and your rope go slack, long before you're done', the ending is a soft deadline that names no stakes. Have Meera state the promise's term plainly: 'Nineteen days your promise bites. After that it's only you.' Ila answers by reaching for the sheets, and Kunal produces the warm leads. The ending then carries the reader question.",
-    "At 'Pritam promised my cousin's keepers' freedom to this boy', the possessive is garbled and implies a cousin the bible lacks. Change it to 'Pritam promised my keepers their freedom to this boy, and grain to you.'"
+    "At 'It fitted too well to be a boy's invention', Kunal relies on Pasang's winter-way report before Pasang has made it (character logic, sequencing). Either move Pasang's 'The way was for the regent Pritam and the men waiting on him' ahead of this line, or base Kunal's belief on the Sarn fold detail alone.",
+    "At '\"He went home,\" said Raghu. \"Walking.\"': in ch 29 Ila relied on the vault being a cairn whose stones ring at a lie, yet here they stay silent (technique 22 underused). Have the seams brighten and the stones ring high as Raghu lies. This gives Pasang an instrument he can't argue with, alongside the grey knuckles.",
+    "At 'Kunal woke with the sun on the boards', it is unclear whether this is the same day or the next morning, while Meera says 'Day sixteen' (risk of drift from F795). State that it is late morning of the same day. Also make the final image push forward: have Meera add one fact that makes ch 31 necessary, such as the queen's riders on the road."
   ],
-  "reader_question": "When the bond lapses at the Meadow Cairn, will Ila still give Neshar and the queen the same map at the same hour?",
+  "reader_question": "When the bond ends at the Meadow Cairn, will Ila keep a promise the mountain no longer enforces?",
   "techniques_landed": [
     16,
     20,
     22
   ],
-  "new_facts_assessment": "F802 (Raghu's true motive) is useful, but its proof is invalid. Grey lie-cold hands cannot testify, and a statement made to Kunal is free regardless. Re-ground it. F803 (Hari walking) is consistent and needed. F804 matches F622. The draft rightly follows F795's 'Day sixteen' over the beat's 'Day thirty-two', but drops F795's 'if it's a soft year'.",
+  "new_facts_assessment": "F805 is consistent and necessary, but its reasoning depends on Pasang's winter-way report, which comes later on the page; fix the order. F806 matches F622 and F795 (35-day bond, Shilak council three weeks later) and usefully sets up the book's question.",
   "content_rule_violation": false,
-  "failure_modes": [
-    "Convenient magic"
-  ],
-  "average": 3.62,
-  "minimum": 0.0,
-  "passed": false
+  "failure_modes": [],
+  "average": 4.25,
+  "minimum": 4.0,
+  "passed": true
 }
