@@ -734,7 +734,7 @@
       ]
     },
     "23": {
-      "status": "passed",
+      "status": "edited",
       "revisions": 1,
       "scores": {
         "reader_question": 4.0,
@@ -748,18 +748,18 @@
       },
       "average": 4.0,
       "flags": [],
-      "words": 3152,
+      "words": 3153,
       "minimum": 3.0,
       "style": {
-        "words": 2895,
+        "words": 3153,
         "banned_hits": {},
         "ai_tell_hits": {},
         "ai_tells_per_1000": 0.0,
         "top_4gram": "step on the wet",
         "top_4gram_count": 3,
-        "longest_paragraph_words": 100,
+        "longest_paragraph_words": 102,
         "em_dashes_per_1000": 0.0,
-        "reading_ease": 97.1
+        "reading_ease": 96.9
       },
       "owner_instructions": [
         "Word tics (owner note 8): keep at most one 'plain', 'plainly' or 'the plain thing'. Allow at most one 'He did not X. He did Y.' construction."
@@ -2309,9 +2309,13 @@
     {
       "at": "2026-11-21T20:29:25",
       "event": "done: S8 line edit ch 22"
+    },
+    {
+      "at": "2026-11-21T20:30:03",
+      "event": "done: S8 line edit ch 23"
     }
   ],
-  "updated_at": "2026-11-21T20:29:25",
+  "updated_at": "2026-11-21T20:30:03",
   "midpoint_chapter": 16,
   "continuity_attempts": 0,
   "continuity_last_errors": null,
