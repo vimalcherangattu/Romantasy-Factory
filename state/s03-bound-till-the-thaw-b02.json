@@ -81,7 +81,7 @@
       ]
     },
     "03": {
-      "status": "passed",
+      "status": "edited",
       "revisions": 0,
       "scores": {
         "reader_question": 4.0,
@@ -98,15 +98,15 @@
       "words": 3071,
       "minimum": 3.0,
       "style": {
-        "words": 3125,
+        "words": 3071,
         "banned_hits": {},
         "ai_tell_hits": {},
         "ai_tells_per_1000": 0.0,
-        "top_4gram": "it it was a",
+        "top_4gram": "that ila had never",
         "top_4gram_count": 2,
-        "longest_paragraph_words": 119,
-        "em_dashes_per_1000": 0.32,
-        "reading_ease": 94.4
+        "longest_paragraph_words": 145,
+        "em_dashes_per_1000": 0.33,
+        "reading_ease": 94.3
       },
       "owner_instructions": [
         "Keep the demonstration lie 'I like you', her whitening fingertips and his unguarded laugh exactly as written. Ch30 reverses this beat.",
@@ -2229,9 +2229,13 @@
     {
       "at": "2026-11-21T20:18:25",
       "event": "done: S8 line edit ch 2"
+    },
+    {
+      "at": "2026-11-21T20:18:58",
+      "event": "done: S8 line edit ch 3"
     }
   ],
-  "updated_at": "2026-11-21T20:18:25",
+  "updated_at": "2026-11-21T20:18:58",
   "midpoint_chapter": 16,
   "continuity_attempts": 0,
   "continuity_last_errors": null,
