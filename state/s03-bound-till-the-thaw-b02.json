@@ -1085,7 +1085,7 @@
   "errors": [
     "2 major continuity errors remain after 1 fix round(s): ch 7: Dhanu names the 'Glass Lakes' aloud at supper in ch 7, and again by the chulha in ch 8 while Ila may be awake. Ila carries a sealed letter to be opened 'at the Glass Lakes' and has never heard of them, yet she does not react. In ch 10 both leads treat Kunal's 'It begins at the Glass Lakes' as the first time she has heard the name.; ch 21: Mini (6) is asleep at the lower lake hut in ch 19. In ch 24 Raghu's men raid the huts and take Dhanu and Gauri. Mini is never mentioned again, and no one asks where she is."
   ],
-  "revision_round": 1,
+  "revision_round": 2,
   "asin": null,
   "created_at": "2026-10-19T17:50:53",
   "review_at": null,
@@ -2359,9 +2359,13 @@
     {
       "at": "2026-11-21T20:37:31",
       "event": "done: S10 package"
+    },
+    {
+      "at": "2026-11-21T20:39:06",
+      "event": "done: beta read"
     }
   ],
-  "updated_at": "2026-11-21T20:37:31",
+  "updated_at": "2026-11-21T20:39:06",
   "midpoint_chapter": 16,
   "continuity_attempts": 0,
   "continuity_last_errors": null,
@@ -2379,9 +2383,9 @@
   "beta": {
     "verdict": "revise",
     "predicted_rating": 4.0,
-    "summary": "The rope's lie-costs-heat rule makes the chemistry felt on the page, the midpoint letter recasts the romance, and the Shared Map ending answers the book's question with a choice the chapter-1 Ila couldn't make. A few continuity errors, a muddled account of the grandfather's death, an unpaid Raghu thread and a blurb that misstates the plot would cost stars from careful readers, and all of them are fixable in one round.",
-    "notes": "series/s03-bound-till-the-thaw/books/s03-bound-till-the-thaw-b02/beta-notes-1.md"
+    "summary": "A smart, warm, rule-driven romance with a heroine who changes on the page. Chapter 31's map-signing and chapter 32's walnut oath are the moments readers will quote. Four fixable problems hold it near 4 stars: a hidden omission that undercuts the proof chapter, a dead clock in chapter 30, an opening that leans on book 1, and a blurb that misstates the heat and the villains.",
+    "notes": "series/s03-bound-till-the-thaw/books/s03-bound-till-the-thaw-b02/beta-notes-2.md"
   },
-  "beta_rounds": 1,
-  "pending_owner_notes": null
+  "beta_rounds": 2,
+  "pending_owner_notes": "/home/user/Romantasy-Factory/series/s03-bound-till-the-thaw/books/s03-bound-till-the-thaw-b02/beta-notes-2.md"
 }
