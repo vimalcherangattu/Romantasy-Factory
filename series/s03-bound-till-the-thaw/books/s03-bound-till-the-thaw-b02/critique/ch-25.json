@@ -4,38 +4,36 @@
     "change": 4.0,
     "romance_movement": 4.0,
     "shown_chemistry": 4.0,
-    "character_logic": 3.0,
-    "stakes_and_cost": 4.0,
+    "character_logic": 4.0,
+    "stakes_and_cost": 5.0,
     "prose": 4.0,
     "continuity": 5.0
   },
   "reasons": {
-    "reader_question": "She has fallen on the ice at the handover with dead feet. He must touch her, which exposes the lie. The question is specific and urgent.",
-    "change": "The sheets are 'gone' and the handover moves to dusk. Kunal goes with only himself to offer, and Ila is crippled. Power, knowledge and plans all shift.",
-    "romance_movement": "This is a new reason. She trades his trust for his life, he chooses belief over proof, and his apology turns her lie into a wound.",
-    "shown_chemistry": "He notices her cold hands, stops a pace off and pockets his own. 'I know what you watched.' The care is responsive and unnarrated.",
-    "character_logic": "The lie is well reasoned, false line versus tongue. But she still walks the sheets in her lining to the fold she says Raghu controls.",
-    "stakes_and_cost": "The rule bites in flesh, set up by Meera's glove. The cost lands on the page, though her fear of losing the feet is underplayed.",
-    "prose": "Strong images ('standing on a drawing of a foot'). The sum/counting motif is overworked, and a few sentences are clotted.",
-    "continuity": "Consistent with F552-F579, Meera's three-digit glove (F409), hands-then-feet lie-cold and the dusk shift (F573). No conflicts."
+    "reader_question": "Sharp and bodily: Ila falls on the ice with a great lie live in her flesh. Will Kunal touch her, learn the lie, and what then?",
+    "change": "Knowledge and power flip. Kunal believes the sheets are ash, Ila alone holds the cache, and the plan shifts to Kunal offering himself at dusk.",
+    "romance_movement": "The refusal reason is new. She chooses his life over his trust, and he chooses belief over proof. Both choices are costly and specific.",
+    "shown_chemistry": "Responsive action carries it: he stops a pace off, says 'put them near the stove', apologises for asking twice, and she reads his count.",
+    "character_logic": "Ila reasons through refusal, burning and carrying before lying, and Kunal's let-go is motivated by the glove. One line pre-spends her arc.",
+    "stakes_and_cost": "The lie is paid on the page in hands and feet. Kunal walks to a kill-zone she mapped. The fall leaves both exposed.",
+    "prose": "Concrete and readable, with quotable lines. There are a few narrated verdicts, two clichés ('stomach dropped', 'ice came up to meet her') and some repeated paragraph openers.",
+    "continuity": "Consistent with F570, F573, F577 and F409 (glove), the eleven winters, the whistle and the dead right tips. There are no conflicts."
   },
   "fixes": [
-    "At 'They might strip her anyway. Raghu would search a surveyor', the logic fails (Irrational behaviour to extend plot). Her lie exists to keep the sheets from Raghu, yet she carries them to his fold. Have her cache the sheets in the second hut while Kunal sifts the ash, for example under the plank shelf. Or give a hard reason she cannot: the rope keeps him within eight spans and watching. List the cache as a new fact.",
-    "At 'Her feet had stopped telling her what they were doing somewhere around the sixtieth pace', the chapter contradicts itself. In the hut her feet already reached 'then nothing'. Make the hut stage partial (wooden, a toe still answering) so the total loss on the shore is new. Also fix 'the rope pulled hard at her wrist and then let go', which reads as the knot slipping. Change it to the rope going slack as Kunal turns.",
-    "At 'She did the sums the way she did all sums', the sum motif repeats (Repetitive imagery). It recurs in 'a different sum' and 'plain horror of the sum', echoing ch 24's heavy use. Cut two instances. Rewrite 'Every route-keeper who had ever scratched a warning on a stone would be a witness that Raghu didn't need standing' as two plain sentences naming Hari. Cut or list the Raghu 'same table' claim."
+    "At 'and the map she meant to share with both courts at the same hour': this is a premature arc payoff (Static heroine risk). The Shared Map is her end-of-book belief change, so it cannot be a settled intention at ch 25. Replace it with something unresolved, such as 'and the map she had not yet decided whose to make', so the later choice is earned.",
+    "At 'Her hands were as dead as stones inside her sleeves': this risks a continuity clash with ch 26 (F583), where only two toes die and Kunal takes the cold through her foot. Keep the hands numb and aching, not dead. Make the feet the deep strike, matching the beat's 'cold drops into her feet'.",
+    "At 'He wanted to believe her more than he wanted to know': the narration delivers the verdict that the action already shows, plus a foreshadow ('it was going to hurt'). Cut both sentences and let the poker hung on its hook carry it. Also swap the clichés 'Her stomach dropped' and 'the grey ice came up to meet her' for specific images, such as the rope going slack across her shins as she lands."
   ],
-  "reader_question": "When Kunal reaches her on the ice and touches her dead feet, what will he learn, and what will he believe she did with the sheets?",
+  "reader_question": "When Kunal reaches for Ila on the ice and takes her cold, what will he do once he knows she lied about the sheets?",
   "techniques_landed": [
     14,
     18,
     22
   ],
-  "new_facts_assessment": "The new-facts file is empty, yet the draft adds details. The Drum fold is on the 'north shore' (compatible with F568), Ila has 'eleven winters' unbroken (fits F435) and Kunal 'reading rooms twenty years'. 'Raghu learned the same lesson at the same table' implies Raghu was raised at Pritam's table; it is unlisted and needs listing or cutting. The lie adapts the beat's 'last night' to 'this morning', which is correct because they spent last night in the Eye, and matches F577.",
+  "new_facts_assessment": "The cache in the second hut (F750) is necessary and consistent with F554 and F570; it sets up retrieval and is shown fairly to the reader. The staged foot numbness (F751) fits Rule 1 and the beat, but it must square with ch 26's F583, where only the two small toes die and Kunal takes the cold through her foot. Hari's thirty winters (F752) matches F451. However, Hari's fate is already unknown (F536), so 'would not leave him standing' should read as conditional.",
   "content_rule_violation": false,
-  "failure_modes": [
-    "Irrational behaviour to extend plot"
-  ],
-  "average": 4.0,
-  "minimum": 3.0,
+  "failure_modes": [],
+  "average": 4.25,
+  "minimum": 4.0,
   "passed": true
 }

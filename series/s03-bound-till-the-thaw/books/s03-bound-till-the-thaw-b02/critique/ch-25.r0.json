@@ -4,38 +4,36 @@
     "change": 4.0,
     "romance_movement": 4.0,
     "shown_chemistry": 4.0,
-    "character_logic": 3.0,
-    "stakes_and_cost": 4.0,
-    "prose": 3.0,
-    "continuity": 0.0
+    "character_logic": 4.0,
+    "stakes_and_cost": 5.0,
+    "prose": 4.0,
+    "continuity": 5.0
   },
   "reasons": {
-    "reader_question": "Sharp: her feet fail on the ice, and the lie waits for discovery by touch.",
-    "change": "Ila becomes a liar who pays in flesh. Kunal loses his bargaining chip and offers himself instead.",
-    "romance_movement": "The reason is new. She trades his trust for his life, and he chooses belief over knowing.",
-    "shown_chemistry": "His notice of her cold hands, his choice not to touch, and his apology are responsive and specific.",
-    "character_logic": "She lies instead of actually burning the sheets, which she herself proposed. The page never explains why.",
-    "stakes_and_cost": "The lie costs her feet, and walking to the fold with nothing raises the danger to Kunal.",
-    "prose": "Mostly clean. Some purple similes, a vague 'sorry for the word', and an echoed 'She held it anyway'.",
-    "continuity": "The 'pack strap' lie Kunal took contradicts ch24's 'a surveyor who had never lied to him' and the value shift."
+    "reader_question": "Sharp and bodily: Ila falls on the ice with a great lie live in her flesh. Will Kunal touch her, learn the lie, and what then?",
+    "change": "Knowledge and power flip. Kunal believes the sheets are ash, Ila alone holds the cache, and the plan shifts to Kunal offering himself at dusk.",
+    "romance_movement": "The refusal reason is new. She chooses his life over his trust, and he chooses belief over proof. Both choices are costly and specific.",
+    "shown_chemistry": "Responsive action carries it: he stops a pace off, says 'put them near the stove', apologises for asking twice, and she reads his count.",
+    "character_logic": "Ila reasons through refusal, burning and carrying before lying, and Kunal's let-go is motivated by the glove. One line pre-spends her arc.",
+    "stakes_and_cost": "The lie is paid on the page in hands and feet. Kunal walks to a kill-zone she mapped. The fall leaves both exposed.",
+    "prose": "Concrete and readable, with quotable lines. There are a few narrated verdicts, two clichés ('stomach dropped', 'ice came up to meet her') and some repeated paragraph openers.",
+    "continuity": "Consistent with F570, F573, F577 and F409 (glove), the eleven winters, the whistle and the dead right tips. There are no conflicts."
   },
   "fixes": [
-    "At 'He had taken her cold once, for a lie' (continuity conflict): ch24 says Ila never lied to him, and the loophole payoff belongs later. Cut the pack-strap memory. Replace it with what he knows from Book 1: he watched Meera's glove at the drafting table and knows exactly what one touch would teach him.",
-    "At 'I burned them. Last night, in the hut fire' (timeline error): Kunal saw the Eye sheet at dawn, and ch24's huts had no smoke. Change it to 'This morning, when we came in', with coals 'banked under ash'. Have Kunal register that there was no smoke and visibly let it go. This makes his choice to believe her active.",
-    "In the sums scene after 'But a man who thought the sheets were ash' (irrational behaviour): she offered fire herself, so why not truly burn them? Add two or three lines giving a cost. They are the only true record of the hills, Hari's scratched warnings and the map she means to share, and burning them in front of him would be one more thing he'd watch."
+    "At 'and the map she meant to share with both courts at the same hour': this is a premature arc payoff (Static heroine risk). The Shared Map is her end-of-book belief change, so it cannot be a settled intention at ch 25. Replace it with something unresolved, such as 'and the map she had not yet decided whose to make', so the later choice is earned.",
+    "At 'Her hands were as dead as stones inside her sleeves': this risks a continuity clash with ch 26 (F583), where only two toes die and Kunal takes the cold through her foot. Keep the hands numb and aching, not dead. Make the feet the deep strike, matching the beat's 'cold drops into her feet'.",
+    "At 'He wanted to believe her more than he wanted to know': the narration delivers the verdict that the action already shows, plus a foreshadow ('it was going to hurt'). Cut both sentences and let the poker hung on its hook carry it. Also swap the clichés 'Her stomach dropped' and 'the grey ice came up to meet her' for specific images, such as the rope going slack across her shins as she lands."
   ],
-  "reader_question": "Will Ila survive the cold of her great lie, and what will Kunal do when he learns she lied?",
+  "reader_question": "When Kunal reaches for Ila on the ice and takes her cold, what will he do once he knows she lied about the sheets?",
   "techniques_landed": [
     14,
     18,
     22
   ],
-  "new_facts_assessment": "Most listed facts are needed and consistent. F574 says the burning was 'that morning', but the text says 'Last night'. Ch24 also shows the huts cold and smokeless, so 'live coals' strains. The chapter adds an unlisted fact: an earlier pack-strap lie whose cold Kunal took. It conflicts with ch24 and spends the loophole payoff early.",
+  "new_facts_assessment": "The cache in the second hut (F750) is necessary and consistent with F554 and F570; it sets up retrieval and is shown fairly to the reader. The staged foot numbness (F751) fits Rule 1 and the beat, but it must square with ch 26's F583, where only the two small toes die and Kunal takes the cold through her foot. Hari's thirty winters (F752) matches F451. However, Hari's fate is already unknown (F536), so 'would not leave him standing' should read as conditional.",
   "content_rule_violation": false,
-  "failure_modes": [
-    "Irrational behaviour to extend plot"
-  ],
-  "average": 3.25,
-  "minimum": 0.0,
-  "passed": false
+  "failure_modes": [],
+  "average": 4.25,
+  "minimum": 4.0,
+  "passed": true
 }
