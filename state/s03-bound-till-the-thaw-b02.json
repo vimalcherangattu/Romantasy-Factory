@@ -766,7 +766,7 @@
       ]
     },
     "24": {
-      "status": "passed",
+      "status": "edited",
       "revisions": 1,
       "scores": {
         "reader_question": 4.0,
@@ -780,18 +780,18 @@
       },
       "average": 3.88,
       "flags": [],
-      "words": 2888,
+      "words": 2894,
       "minimum": 3.0,
       "style": {
-        "words": 2682,
+        "words": 2894,
         "banned_hits": {},
         "ai_tell_hits": {},
         "ai_tells_per_1000": 0.0,
         "top_4gram": "the door with her",
         "top_4gram_count": 2,
-        "longest_paragraph_words": 103,
+        "longest_paragraph_words": 100,
         "em_dashes_per_1000": 0.0,
-        "reading_ease": 96.1
+        "reading_ease": 95.3
       },
       "owner_instructions": [
         "Word tics (owner note 8): keep at most one 'plain', 'plainly' or 'the plain thing'. Allow at most one 'He did not X. He did Y.' construction in Kunal's interior beat."
@@ -2313,9 +2313,13 @@
     {
       "at": "2026-11-21T20:30:03",
       "event": "done: S8 line edit ch 23"
+    },
+    {
+      "at": "2026-11-21T20:30:38",
+      "event": "done: S8 line edit ch 24"
     }
   ],
-  "updated_at": "2026-11-21T20:30:03",
+  "updated_at": "2026-11-21T20:30:38",
   "midpoint_chapter": 16,
   "continuity_attempts": 0,
   "continuity_last_errors": null,
