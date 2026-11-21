@@ -4,37 +4,38 @@
     "change": 4.0,
     "romance_movement": 4.0,
     "shown_chemistry": 4.0,
-    "character_logic": 3.0,
+    "character_logic": 4.0,
     "stakes_and_cost": 4.0,
     "prose": 4.0,
-    "continuity": 0.0
+    "continuity": 5.0
   },
   "reasons": {
-    "reader_question": "The ending carries the beat's question about what she will do with the way, sharpened by her silent pace-count. It is specific and pressing.",
-    "change": "Kunal moves from hoarder to giver and names the cost to the council. Dhanu's diagnosis gives the change a reason we can see.",
-    "romance_movement": "He commits the way before hearing her answer, which is the new reason the beat asked for. Ila's reply is held back, which is right.",
-    "shown_chemistry": "Ila cuts the knot's tail without asking and stays silent about his fingers. Responsive care is shown, not narrated.",
-    "character_logic": "Kunal holds an open juniper fire under the stars, and Ila laughs loudly, with Raghu's spyglass pair on the far shore. That breaks the hut's no-flame discipline.",
-    "stakes_and_cost": "The irreversibility is stated well. Old Bhim's question, the council's judgement and the walnut 'send one and I come' set up the coming loss.",
-    "prose": "The prose is clean and concrete, and Dhanu's voice is strong. There are a few 'said nothing' repeats and one unclear line, 'the Drum froze under him last night'.",
-    "continuity": "Mini rides 'in front of her mother', but F682 makes Gauri Dhanu's sister and leaves Mini's mother unmentioned. This is a conflict."
+    "reader_question": "Clear question: what will Ila do with the princes' way? Her pace-counting at the end sharpens it into suspicion.",
+    "change": "Kunal moves from hoarding to an irrevocable decision, declared aloud. Dhanu's verdict reframes his whole history.",
+    "romance_movement": "The reason is new. He gives before knowing her answer and refuses to bargain, which is exactly the need the bible names.",
+    "shown_chemistry": "Ila cuts the ugly tail without asking and stays silent about his fingers. Responsive care, no narration.",
+    "character_logic": "Kunal's 'secrecy already failed' case uses real evidence. He concedes Dhanu's garrison argument instead of dodging it.",
+    "stakes_and_cost": "The cost is named and irreversible: a council hearing, 'sold the hills', no taking the way back.",
+    "prose": "The prose is clean and specific. A few narrated verdicts appear, the 'stupid' motif is overused, and the petition recap runs a little expository.",
+    "continuity": "Consistent with the bible and the record: walnut rule, Dhanu's limp, clipped silver, nine holes, the Eye at twelve, Mini, Pinku, the banked coal."
   },
   "fixes": [
-    "Fix 1. 'Six years old on the pony in front of her mother': this is a continuity error, because F682 says Gauri is Dhanu's sister and Mini's mother is never shown. Change the line to 'in front of Gauri' or 'in front of her aunt'.",
-    "Fix 2. 'The juniper fire popped between them, and the smoke went up straight': this is a character-logic failure, because Raghu's four have spyglasses and F734 fixes the hut's single-banked-coal rule. Put the scene behind the scree spur, inside the door, over a coal under the clay pot. Have Kunal glance at the far shore when Ila laughs, so the danger stays live.",
-    "Fix 3. 'You broke it so you could be safe in the cleft': this contradicts F738, where the question was emotional, not tactical. Change it to 'You broke it so you could stop counting, and you paid in flesh you'd already priced.' That fits Dhanu's thesis better. Also cut 'since the Drum froze under him last night' or clarify it."
+    "At 'So Kunal told it. He had rehearsed it' the petition recaps terms the reader already has (failure mode: Endless monologue). Cut both clauses to one line each. Spend the saved words on Bhim's question landing as a specific image, such as Bhim's hand on the hall rail or the council slate.",
+    "At 'It was a fair argument. It was better than' Kunal's judgement is narrated rather than shown (failure mode: Narrated-only chemistry, applied to the friendship). Replace it with an action: Kunal turns the walnut or starts to answer and stops. Let the pause show that Dhanu has scored.",
+    "At '\"Mini will like it,\" said Ila, from the shelf' it is unclear whether Ila heard Dhanu's 'never given anything you couldn't take back.' If she did, the gift is pre-framed for her. Add one line establishing when she woke, for example that she heard only the knots. This keeps the reader question clean."
   ],
-  "reader_question": "What will Ila do with the princes' way once Kunal has given it to her whole?",
+  "reader_question": "Now that Kunal has committed the whole princes' way to her before hearing her answer, what will Ila, the crown's surveyor, do with it?",
   "techniques_landed": [
+    3,
     15,
     25
   ],
-  "new_facts_assessment": "new-facts.json is empty, yet the draft adds facts. Gauri's red thread, the third plain walnut and 'thirty years' match F559 to F562. Mini's 'mother' conflicts with F682. Pinku's ten-finger knot and Dhanu's 'safe in the cleft' reading of the broken promise are new, and the second contradicts F738's emotional motive. Technique 3 is only partly landed: the answer is given, but the escalation is the beat's own question rather than a bigger gap.",
+  "new_facts_assessment": "new-facts.json is empty, but the draft adds Ila's pencil knife in her sleeve, Kunal carrying the plain walnut since the thaw date was fixed, and Bhim always speaking first. All are minor and consistent, but they should be listed. The walnut facts match F559 to F562.",
   "content_rule_violation": false,
   "failure_modes": [
-    "Irrational behaviour to extend plot"
+    "Endless monologue"
   ],
-  "average": 3.38,
-  "minimum": 0.0,
-  "passed": false
+  "average": 4.12,
+  "minimum": 4.0,
+  "passed": true
 }
