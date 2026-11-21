@@ -702,7 +702,7 @@
       ]
     },
     "22": {
-      "status": "passed",
+      "status": "edited",
       "revisions": 1,
       "scores": {
         "reader_question": 4.0,
@@ -716,18 +716,18 @@
       },
       "average": 4.12,
       "flags": [],
-      "words": 2735,
+      "words": 2724,
       "minimum": 4.0,
       "style": {
-        "words": 2786,
+        "words": 2724,
         "banned_hits": {},
         "ai_tell_hits": {},
         "ai_tells_per_1000": 0.0,
-        "top_4gram": "kunal looked at the",
+        "top_4gram": "she draws it and",
         "top_4gram_count": 2,
-        "longest_paragraph_words": 156,
-        "em_dashes_per_1000": 0.36,
-        "reading_ease": 95.0
+        "longest_paragraph_words": 152,
+        "em_dashes_per_1000": 0.37,
+        "reading_ease": 94.5
       },
       "owner_instructions": [
         "Word tics (owner note 8): keep at most one 'plain', 'plainly' or 'the plain thing'. Allow at most one 'He did not X. He did Y.' construction."
@@ -2305,9 +2305,13 @@
     {
       "at": "2026-11-21T20:28:50",
       "event": "done: S8 line edit ch 21"
+    },
+    {
+      "at": "2026-11-21T20:29:25",
+      "event": "done: S8 line edit ch 22"
     }
   ],
-  "updated_at": "2026-11-21T20:28:50",
+  "updated_at": "2026-11-21T20:29:25",
   "midpoint_chapter": 16,
   "continuity_attempts": 0,
   "continuity_last_errors": null,
