@@ -7,33 +7,35 @@
     "character_logic": 3.0,
     "stakes_and_cost": 4.0,
     "prose": 3.0,
-    "continuity": 5.0
+    "continuity": 0.0
   },
   "reasons": {
-    "reader_question": "Missing smoke over Gauri's huts, with Raghu's four gone from the far shore, gives a sharp, story-caused question about named people.",
-    "change": "The way is mapped to the water, the song is decoded, and Ila now holds a gift with no column in her ledger.",
-    "romance_movement": "New reason: his gift has no price, so her trader's habit breaks; her withheld letter becomes a debt rather than a refusal.",
-    "shown_chemistry": "The collar grab, the shared helpless laugh after the slot, his watching her hand, her 'I'd marry her' joke: all responsive, nothing narrated.",
-    "character_logic": "Kunal 'giving' counts Ila paced herself makes the gift feel staged. Past the stone it is shared discovery, not his to give.",
-    "stakes_and_cost": "Stated odds on the glaze and the dive, lost thaw days and Ila's costly silence keep each choice priced.",
-    "prose": "Mostly clean and concrete, but some compressed lines are muddy and the slot count contradicts itself.",
-    "continuity": "Ages, the song, Pritam's turn at twelve, the pattu hem, the Meadow Cairn, the dead fingertips and the huts all match the bible and the facts."
+    "reader_question": "The smokeless huts, with Gauri there and Raghu's four on the far shore, give a sharp, dread-laden question that the story itself caused.",
+    "change": "Ila now holds the whole known way, the family rule is broken on the record, and she owes a debt she can't put in any ledger.",
+    "romance_movement": "The reason is new. His gift is unpriced, she has no column for it, and her own silence now costs her. This is not a replayed refusal.",
+    "shown_chemistry": "Shown in action: she gives him the first step past his limit, they laugh after the squeeze, she reaches for the leads, he watches her hand.",
+    "character_logic": "Ila glosses a second blind squeeze for the lamp. Her reason for withholding the letter ('handful of change') is fuzzy and ignores her archive oath.",
+    "stakes_and_cost": "The odds are stated and turning back spends thaw days. Her silence is chosen and costed: 'Silence was free, and she hated what it cost.'",
+    "prose": "Clean and readable, but 'faint' recurs, 'jaw go hard' is near an AI tell, the 'like a stone' simile echoes ch22, and the 'lock/window' line is writerly.",
+    "continuity": "Ila's 'the warden did not come out' contradicts F704/F490: the letter says Harish 'did not come home', and he was found outside on the hillside."
   },
   "fixes": [
-    "At \"Eighty-one paces to the turn. It doubles back\" (character logic): Kunal recites counts Ila paced herself, so the gift costs him nothing. Make it his to give. He names Pritam's family rule aloud, 'no prince shows the way to wife, son or friend', and says he is breaking it. He can still ask her to correct his counts. Then 'Then it's yours' carries a real cost.",
-    "At \"*Six.* Then the stone let go of her chest\" (continuity within scene): Ila counts six and then claims 'By my count it was seven.' Either take the count to *Seven.* before the stone releases her, or have her round up on purpose so the joke lands. Also fix the lamp: 'a third gone' becomes 'half gone', or change 'half a lamp' to 'two-thirds of a lamp'.",
-    "At \"He did not look at his own face for her sake\" (prose): this line is unclear, and so are 'Comfort it was not, and he did not take it for any' and 'She stood on things that way.' Rewrite each plainly, for example: 'He did not look up, so she would not have to watch him say it.' Also cut the smoke setup at the end to two sentences, so 'There was no smoke' lands faster."
+    "'and the warden did not come out.' This is a continuity break. The letter says only that Harish 'did not come home' (F704), and he was found outside on the slope above the third bend (F490). Change the line to 'and the warden did not come home', and keep 'walked this way' hedged ('may have walked this way'), since Ila does not know the route for certain.",
+    "'If she told him here, now, with the sheet' is a contrived delay. The 'handful of change' logic is vague, and Ila's real cost is unnamed: her archive oath and the queen's 'Tell no one Neshar's part' (F523). Add one line naming the oath as what speaking would break, then keep the gift-versus-trade reason as the second reason. Cut 'tidy and early and cheap.'",
+    "'She went back for the lamp, which took the rope' is an irrational shortcut. It glosses two more breathless squeezes that the scene just priced as worse than the Ladder. Either have Ila push the lamp ahead of her on the first pass, or give the return trip one concrete sentence of cost (the scar dragging again, a count of seven gasped twice)."
   ],
-  "reader_question": "What has happened to Gauri, Dhanu and Mini at the lower huts now that the smoke is gone?",
+  "reader_question": "What has happened at the lake huts, and is Gauri alive?",
   "techniques_landed": [
     3,
     6,
     14
   ],
-  "new_facts_assessment": "new-facts.json is empty, yet the draft adds the route counts, the hollow of black water, the full song and Kunal's twenty-one winters. These appear already as F563 to F567 and are consistent and necessary. The draft should still list them. The lamp oil reads 'a third gone' and then 'half a lamp' a few lines later; pick one figure.",
+  "new_facts_assessment": "All five facts are needed and match F739 to F743. Kunal 'breaking' the rule repeats F711 (he already broke it in ch17 by telling her of the Eye). Frame this as breaking it in deed, by walking her through, not as a first breach.",
   "content_rule_violation": false,
-  "failure_modes": [],
-  "average": 3.88,
-  "minimum": 3.0,
-  "passed": true
+  "failure_modes": [
+    "Contrived delays"
+  ],
+  "average": 3.25,
+  "minimum": 0.0,
+  "passed": false
 }

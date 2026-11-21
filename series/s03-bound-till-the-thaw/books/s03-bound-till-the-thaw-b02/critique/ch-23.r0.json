@@ -10,30 +10,30 @@
     "continuity": 0.0
   },
   "reasons": {
-    "reader_question": "The smokeless huts give a sharp question: are Gauri, Mini and Dhanu's household dead or taken? The cause points plausibly to Raghu's four.",
-    "change": "Knowledge shifts: the way is mapped to the water. Relationship shifts: she now holds an unpayable gift. The withheld letter now carries moral weight.",
-    "romance_movement": "The reason is new. A gift with no price breaks her ledger worldview, and her 'no column for it' shows the change.",
-    "shown_chemistry": "Shown through action: the collar grab after the slot, shared helpless laughter, and her reading the song as a bearing. His watching her hand is responsive, not narrated.",
-    "character_logic": "Mostly smart choices, but there are three slips. She ties the case 'where her ribs would crush it'. Kunal says 'Thirty years' right after counting twenty-one. He calls the four-line song 'twelve lines'.",
-    "stakes_and_cost": "Turning back costs thaw-days against her promise. Her silence costs integrity. Odds are stated at each hazard, and his dead hand slips on the third step.",
-    "prose": "Concrete and clean, but about 25 sentences open with 'It was', a strong tic. 'Hummed, low and level' and 'the best she had ever' each repeat.",
-    "continuity": "Kunal says Pritam 'gave me twelve lines of a song'. The song on the page and F563 are four lines."
+    "reader_question": "The smokeless huts, with Gauri there and Raghu's four on the far shore, give a sharp, dread-laden question that the story itself caused.",
+    "change": "Ila now holds the whole known way, the family rule is broken on the record, and she owes a debt she can't put in any ledger.",
+    "romance_movement": "The reason is new. His gift is unpriced, she has no column for it, and her own silence now costs her. This is not a replayed refusal.",
+    "shown_chemistry": "Shown in action: she gives him the first step past his limit, they laugh after the squeeze, she reaches for the leads, he watches her hand.",
+    "character_logic": "Ila glosses a second blind squeeze for the lamp. Her reason for withholding the letter ('handful of change') is fuzzy and ignores her archive oath.",
+    "stakes_and_cost": "The odds are stated and turning back spends thaw days. Her silence is chosen and costed: 'Silence was free, and she hated what it cost.'",
+    "prose": "Clean and readable, but 'faint' recurs, 'jaw go hard' is near an AI tell, the 'like a stone' simile echoes ch22, and the 'lock/window' line is writerly.",
+    "continuity": "Ila's 'the warden did not come out' contradicts F704/F490: the letter says Harish 'did not come home', and he was found outside on the hillside."
   },
   "fixes": [
-    "'he gave me twelve lines of a song' (gravel-passage scene): this is a continuity error, because the song on the page and F563 are four lines. Change it to 'he gave me four lines of a song'. This one fix restores the continuity score.",
-    "Two lines break character logic. First, 'tied her pencil case flat inside her coat, where her ribs would crush it': a measurer protects her instruments. Change to 'where her ribs would shield it' or move the case to her back. Second, Kunal's 'Thirty years.' contradicts his own 'twenty-one winters' a few lines earlier. Change it to 'All my life,' so Ila's 'Twenty-one. You were twelve' still lands as her correction.",
-    "There is a repetition tic: 'It was a ledge of black rock', 'It was not a lake. It was a hollow', 'It was the sum of it', plus about 22 more 'It was' openers. Recast at least half with concrete subjects (for example, 'A ledge of black rock lay twenty paces on'). Also vary the second 'hummed, low and level' and one of the two 'best she had ever' lines."
+    "'and the warden did not come out.' This is a continuity break. The letter says only that Harish 'did not come home' (F704), and he was found outside on the slope above the third bend (F490). Change the line to 'and the warden did not come home', and keep 'walked this way' hedged ('may have walked this way'), since Ila does not know the route for certain.",
+    "'If she told him here, now, with the sheet' is a contrived delay. The 'handful of change' logic is vague, and Ila's real cost is unnamed: her archive oath and the queen's 'Tell no one Neshar's part' (F523). Add one line naming the oath as what speaking would break, then keep the gift-versus-trade reason as the second reason. Cut 'tidy and early and cheap.'",
+    "'She went back for the lamp, which took the rope' is an irrational shortcut. It glosses two more breathless squeezes that the scene just priced as worse than the Ladder. Either have Ila push the lamp ahead of her on the first pass, or give the return trip one concrete sentence of cost (the scar dragging again, a count of seven gasped twice)."
   ],
-  "reader_question": "What has happened at the lower huts, and to Gauri, Mini and Dhanu's household, while Ila and Kunal were inside the mountain?",
+  "reader_question": "What has happened at the lake huts, and is Gauri alive?",
   "techniques_landed": [
     3,
     6,
     14
   ],
-  "new_facts_assessment": "All five facts are needed for the beat and fit F527, F531, F544 and F551. F566 reconciles the furthest point correctly. The song is four lines, so the chapter's 'twelve lines' contradicts F563 and must be fixed. The 81/40/20/304 pace counts are internally consistent.",
+  "new_facts_assessment": "All five facts are needed and match F739 to F743. Kunal 'breaking' the rule repeats F711 (he already broke it in ch17 by telling her of the Eye). Frame this as breaking it in deed, by walking her through, not as a first breach.",
   "content_rule_violation": false,
   "failure_modes": [
-    "Irrational behaviour to extend plot"
+    "Contrived delays"
   ],
   "average": 3.25,
   "minimum": 0.0,
