@@ -898,7 +898,7 @@
       ]
     },
     "28": {
-      "status": "passed",
+      "status": "edited",
       "revisions": 1,
       "scores": {
         "reader_question": 4.0,
@@ -912,18 +912,18 @@
       },
       "average": 3.88,
       "flags": [],
-      "words": 2582,
+      "words": 2576,
       "minimum": 3.0,
       "style": {
-        "words": 2512,
+        "words": 2576,
         "banned_hits": {},
         "ai_tell_hits": {},
         "ai_tells_per_1000": 0.0,
-        "top_4gram": "she did not look",
+        "top_4gram": "a man in a",
         "top_4gram_count": 2,
-        "longest_paragraph_words": 108,
-        "em_dashes_per_1000": 1.19,
-        "reading_ease": 97.3
+        "longest_paragraph_words": 116,
+        "em_dashes_per_1000": 1.16,
+        "reading_ease": 97.0
       },
       "owner_instructions": [
         "Gauri slip (owner note 1): check every reference. Gauri is Dhanu's sister, and her grief is a sister's. Fix any 'wife' or 'widow' wording.",
@@ -2329,9 +2329,13 @@
     {
       "at": "2026-11-21T20:32:20",
       "event": "done: S8 line edit ch 27"
+    },
+    {
+      "at": "2026-11-21T20:32:51",
+      "event": "done: S8 line edit ch 28"
     }
   ],
-  "updated_at": "2026-11-21T20:32:20",
+  "updated_at": "2026-11-21T20:32:51",
   "midpoint_chapter": 16,
   "continuity_attempts": 0,
   "continuity_last_errors": null,
