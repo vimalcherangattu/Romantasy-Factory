@@ -3,7 +3,7 @@
   "series_id": "s03-bound-till-the-thaw",
   "number": 2,
   "title": "The Winter Oath",
-  "status": "revising",
+  "status": "blocked",
   "stage": "S3",
   "done": [
     "S3"
@@ -1079,7 +1079,8 @@
   "chapter_count": 32,
   "flags": [],
   "errors": [
-    "2 major continuity errors remain after 1 fix round(s): ch 7: Dhanu names the 'Glass Lakes' aloud at supper in ch 7, and again by the chulha in ch 8 while Ila may be awake. Ila carries a sealed letter to be opened 'at the Glass Lakes' and has never heard of them, yet she does not react. In ch 10 both leads treat Kunal's 'It begins at the Glass Lakes' as the first time she has heard the name.; ch 21: Mini (6) is asleep at the lower lake hut in ch 19. In ch 24 Raghu's men raid the huts and take Dhanu and Gauri. Mini is never mentioned again, and no one asks where she is."
+    "2 major continuity errors remain after 1 fix round(s): ch 7: Dhanu names the 'Glass Lakes' aloud at supper in ch 7, and again by the chulha in ch 8 while Ila may be awake. Ila carries a sealed letter to be opened 'at the Glass Lakes' and has never heard of them, yet she does not react. In ch 10 both leads treat Kunal's 'It begins at the Glass Lakes' as the first time she has heard the name.; ch 21: Mini (6) is asleep at the lower lake hut in ch 19. In ch 24 Raghu's men raid the huts and take Dhanu and Gauri. Mini is never mentioned again, and no one asks where she is.",
+    "1 major continuity errors remain after 1 fix round(s): ch 28: In ch 25 Ila caches all five sheets in the gap behind the plank shelf of the second lake hut, and in ch 28 she tells Kunal they are still there. Neither of them goes back to the huts before the Under-Cairn, yet in ch 30 she reaches for the sheets in her coat and in ch 31 she copies them at Kothi Shilak. Ch 29 also says Kunal cut her crutch 'at the lake huts', a visit that never happens on the page."
   ],
   "revision_round": 2,
   "asin": null,
@@ -2435,9 +2436,13 @@
     {
       "at": "2026-11-21T21:09:04",
       "event": "done: S7 continuity"
+    },
+    {
+      "at": "2026-11-21T21:16:21",
+      "event": "blocked at S7 continuity: 1 major continuity errors remain after 1 fix round(s): ch 28: In ch 25 Ila caches all five sheets in the gap behind the plank shelf of the second lake hut, and in ch 28 she tells Kunal they are still there. Neither of them goes back to the huts before the Under-Cairn, yet in ch 30 she reaches for the sheets in her coat and in ch 31 she copies them at Kothi Shilak. Ch 29 also says Kunal cut her crutch 'at the lake huts', a visit that never happens on the page."
     }
   ],
-  "updated_at": "2026-11-21T21:09:04",
+  "updated_at": "2026-11-21T21:16:21",
   "midpoint_chapter": 16,
   "continuity_attempts": 1,
   "continuity_last_errors": 1,

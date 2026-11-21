@@ -2,256 +2,156 @@
   "open_errors": [
     {
       "id": "E01",
-      "chapter": 2,
+      "chapter": 28,
       "severity": "major",
-      "category": "knowledge",
-      "issue": "In ch 2 Ila tells the whole council she will give them a copy of the map, and in ch 4 she says she would have given copies 'to the queen and to the council'. This contradicts her oath to 'draw for the crown alone', her ch 9 true answer that the map goes 'to the queen, and the archive', Kunal's ch 30 line 'You swore to show the crown alone', and the ch 31 proof act, which is framed as breaking crown exclusivity for the first time. The book's proof-of-change is already announced in chapter 2.",
-      "fix": "Remove Ila's early statements that the council will get a copy.",
+      "category": "object",
+      "issue": "In ch 25 Ila caches all five sheets in the gap behind the plank shelf of the second lake hut, and in ch 28 she tells Kunal they are still there. Neither of them goes back to the huts before the Under-Cairn, yet in ch 30 she reaches for the sheets in her coat and in ch 31 she copies them at Kothi Shilak. Ch 29 also says Kunal cut her crutch 'at the lake huts', a visit that never happens on the page.",
+      "fix": "Have Gauri, who was sitting at the cleft mouth within earshot, bring the sheets back from the hut with the lamp and bread, and have the crutch cut at the cleft mouth from a limb she carries up.",
       "patches": [
         {
-          "chapter": 2,
-          "find": "The crown will have a copy. I will give the council one, and every valley can read where its own roads run.",
-          "replace": "The crown will have it, and whoever reads it will see every road exactly where it runs."
+          "chapter": 28,
+          "find": "Gauri came back when the light had gone grey. She had a lamp under her arm, a skin of oil and a cloth sack that smelled of bread. She set them down in a row, the way a woman lays out a trader's goods, and looked anywhere but the rope.",
+          "replace": "Gauri came back when the light had gone grey. She had a lamp under her arm, a skin of oil, a cloth sack that smelled of bread, and a thin oilcloth packet that she put into Ila's lap. \"From behind the plank shelf,\" she said. \"Sound carries at the mouth.\" She set the rest down in a row, the way a woman lays out a trader's goods, and looked anywhere but the rope."
         },
         {
-          "chapter": 4,
-          "find": "I'd have given a copy to the queen and to the council, and I'd have believed that was neutral.",
-          "replace": "I'd have given it to the queen, and I'd have believed that was neutral."
+          "chapter": 29,
+          "find": "Kunal had cut the crutch at the lake huts, in the grey light, with his knife in his bad hand and Gauri holding the other end.",
+          "replace": "Kunal had cut the crutch at the cleft mouth, in the grey light, from a juniper limb Gauri carried up from the lake huts, with his knife in his bad hand and Gauri holding the other end."
         }
       ]
     },
     {
       "id": "E02",
-      "chapter": 6,
+      "chapter": 23,
       "severity": "minor",
-      "category": "object",
-      "issue": "Ila has measured Kunal's pace as longer than hers by two fingers. Forty of his paces is therefore more than forty of hers, not 'thirty-odd'.",
-      "fix": "Correct the conversion to forty-odd.",
+      "category": "timeline",
+      "issue": "Ch 16 says Ila swore her archive oath before the council clerk in the Garh Neshar hall, on a page that came with the summer post. Ch 23 says she swore it 'in a hall in Taravan'. Ila has not left Neshar since Book 1.",
+      "fix": "Change the ch 23 location to the Garh Neshar hall.",
       "patches": [
         {
-          "chapter": 6,
-          "find": "Then I was thirty-odd out. I'll take that.",
-          "replace": "Then I was forty-odd out. I'll take that."
+          "chapter": 23,
+          "find": "She had sworn in a hall in Taravan to keep what the crown's papers held",
+          "replace": "She had sworn in the Garh Neshar hall to keep what the crown's papers held"
         }
       ]
     },
     {
       "id": "E03",
-      "chapter": 14,
+      "chapter": 17,
       "severity": "minor",
       "category": "timeline",
-      "issue": "Ch 14 is about day seven of the bond, and Ila first met Kunal on the stair the eve of the Fair, two days before the binding. 'Two weeks of her careful sums' overstates the time.",
-      "fix": "Change two weeks to a week.",
+      "issue": "Ch 20 takes place on the same day as ch 17's third morning (ch 17 morning, then ch 18 at the Eye, ch 19 at the lower huts, ch 20 that night). Ch 20 twice calls it twelve days of the bond, but ch 17 counts ten. Ch 13, three days of travel earlier, says six days, although the route from the binding to the basin (Ranu, Stair, plateau, Ewe's Rest, the Hollow Moon, two storm nights, the Ladder) takes about nine.",
+      "fix": "Make ch 13 nine days and ch 17 twelve days (twelve strokes, twenty-three left), so the counts agree with ch 20 and with day 16 at the Shilak Cairn.",
       "patches": [
         {
-          "chapter": 14,
-          "find": "Two weeks of her careful sums had taught him where she kept the small exact true things",
-          "replace": "A week of her careful sums had taught him where she kept the small exact true things"
+          "chapter": 13,
+          "find": "He had watched her for six days now and it had not once grown ordinary.",
+          "replace": "He had watched her for nine days now and it had not once grown ordinary."
+        },
+        {
+          "chapter": 13,
+          "find": "But she had spent six days learning his habits.",
+          "replace": "But she had spent nine days learning his habits."
+        },
+        {
+          "chapter": 17,
+          "find": "He had been looking at ten days of Ila's field book, and for the first time in his life he understood",
+          "replace": "He had been looking at twelve days of Ila's field book, and for the first time in his life he understood"
+        },
+        {
+          "chapter": 17,
+          "find": "I've shown you three ways in ten days, and you're alive.",
+          "replace": "I've shown you three ways in twelve days, and you're alive."
+        },
+        {
+          "chapter": 17,
+          "find": "Ten. Ten strokes, and twenty-five empty places, and at the end of them the rope came off.",
+          "replace": "Twelve. Twelve strokes, and twenty-three empty places, and at the end of them the rope came off."
         }
       ]
     },
     {
       "id": "E04",
-      "chapter": 16,
+      "chapter": 30,
       "severity": "minor",
-      "category": "place",
-      "issue": "Ila has been in Neshar since Book 1's winter, and her commission 'came with the summer post' (ch 1). She cannot have sworn its archive oath 'in a hall in Taravan'.",
-      "fix": "Have her swear the oath at Garh Neshar, on a page sent with the commission.",
+      "category": "timeline",
+      "issue": "Meera knocks on the morning after Ila and Kunal come up at the Shilak Cairn, and ch 31 calls that morning 'the seventeenth day of the rope, the morning after the Under-Cairn'. Meera says 'Day sixteen. Nineteen days'.",
+      "fix": "Make Meera's count day seventeen, with eighteen days to the meadow (still day 35).",
       "patches": [
         {
-          "chapter": 16,
-          "find": "She had sworn it, on a long gold-edged page in a hall in Taravan, to take her commission",
-          "replace": "She had sworn it, on a long gold-edged page that came up with the summer post, before the council clerk in the Garh Neshar hall, to take her commission"
+          "chapter": 30,
+          "find": "\"Day sixteen,\" said Meera. \"Nineteen days to your meadow, if it's a soft year. Nineteen days your promise bites. After that it's only you.\"",
+          "replace": "\"Day seventeen,\" said Meera. \"Eighteen days to your meadow, if it's a soft year. Eighteen days your promise bites. After that it's only you.\""
         }
       ]
     },
     {
       "id": "E05",
-      "chapter": 22,
+      "chapter": 3,
       "severity": "minor",
-      "category": "injury",
-      "issue": "Dhanu's bad leg is the left: the right foot plants and the left swings out and round (ch 7, 19, and later in ch 22). One line in ch 22 calls the right foot the stiff one.",
-      "fix": "Make the right foot the good one and the left the stiff one.",
+      "category": "timeline",
+      "issue": "In ch 3 thirty-five days is the gap between the Meadow and Shilak thaws ('I have the winter minus thirty-five days'). From ch 17 onward, thirty-five days is the bond's own length from the binding to the Meadow meltwater, and the actual gap in ch 31 is twenty-one days.",
+      "fix": "Have Ila's ch 3 figure be the bond's length in a soft year, not the gap.",
       "patches": [
         {
-          "chapter": 22,
-          "find": "He lowered himself onto the upturned stool with the stiff right foot first, the left swinging after.",
-          "replace": "He lowered himself onto the upturned stool with the good right foot first, the stiff left swinging after."
+          "chapter": 3,
+          "find": "\"Thirty-five days,\" she said. \"In a soft year. That's what I lose.\"",
+          "replace": "\"Thirty-five days,\" she said. \"In a soft year. That's all the rope gives me.\""
+        },
+        {
+          "chapter": 3,
+          "find": "\"Lose?\"",
+          "replace": "\"All?\""
+        },
+        {
+          "chapter": 3,
+          "find": "\"The crown thinks I have the whole winter. I have the winter minus thirty-five days.\" She shut the book.",
+          "replace": "\"The crown thinks I have the whole winter. I have thirty-five days of it.\" She shut the book."
         }
       ]
     },
     {
       "id": "E06",
-      "chapter": 22,
+      "chapter": 23,
       "severity": "minor",
-      "category": "timeline",
-      "issue": "Ila and Kunal enter the Eye 'at moondown' and come out at dawn. In ch 28, Raghu's men reach the huts 'at moonrise, while you were still in the Eye', and Dhanu dies before 'the moon cleared the Kuhl shoulder'. Moonrise cannot follow moondown within a single night.",
-      "fix": "Have them enter the cleft at moonrise.",
+      "category": "knowledge",
+      "issue": "Ila hedges that the letter 'did not say he had walked this way, only that he had been guided'. The ch 16 letter says plainly that Udai guided Harish 'by the way that begins at these lakes'. What it does not say is what Udai did.",
+      "fix": "Correct the hedge to match the letter's actual content.",
       "patches": [
         {
-          "chapter": 22,
-          "find": "Ila slept on the shelf in her boots, because they went into the Eye at moondown.",
-          "replace": "Ila slept on the shelf in her boots, because they went into the Eye at moonrise."
+          "chapter": 23,
+          "find": "Hedged, even in her own head: the letter did not say he had walked this way, only that he had been guided.",
+          "replace": "Hedged, even in her own head: the letter said he had been guided this way, not what his guide had done."
         }
       ]
     },
     {
       "id": "E07",
-      "chapter": 24,
+      "chapter": 21,
       "severity": "minor",
-      "category": "knowledge",
-      "issue": "In the cleft (ch 23), Kunal asked Ila what she would do with the way. He did not ask her to hand him a way. Her reply 'I drew it, I don't know yet whose it is' answers the first question.",
-      "fix": "Correct the recalled question.",
+      "category": "injury",
+      "issue": "In ch 20 Ila leaves the wrappings on Kunal's raw fingertips. The next morning in ch 21 his hands are 'bandaged to the knuckle, and the tips were pink', as if the tips were bare.",
+      "fix": "Keep the tips wrapped, with the pink showing at the edges.",
       "patches": [
         {
-          "chapter": 24,
-          "find": "Once, in a cleft, he had asked her to hand him a way.",
-          "replace": "Once, in a cleft, he had asked her what she would do with a way."
+          "chapter": 21,
+          "find": "They were bandaged to the knuckle, and the tips were pink.",
+          "replace": "They were bandaged to the knuckle, and the tips showed pink at the edges of their wrappings."
         }
       ]
     },
     {
       "id": "E08",
-      "chapter": 26,
-      "severity": "minor",
-      "category": "object",
-      "issue": "Ch 26 says Kunal's flint was left in his pack at the hut. Gauri's supplies in ch 28 include no flint, yet in ch 29 he strikes the lamp alight 'with the flint'.",
-      "fix": "Drop the flint from the list of things left at the hut, so he still has it on him.",
-      "patches": [
-        {
-          "chapter": 26,
-          "find": "His pack lay at the hut, with the flint and the lamp oil and the last of the bread.",
-          "replace": "His pack lay at the hut, with the lamp oil and the last of the bread."
-        }
-      ]
-    },
-    {
-      "id": "E09",
-      "chapter": 28,
-      "severity": "minor",
-      "category": "magic",
-      "issue": "Ila tells Kunal 'The letter says the storm was an excuse.' The letter (ch 16) mentions no storm. She knows this, so the statement would be a lie to her bound partner, yet her hands stay warm throughout.",
-      "fix": "Make her statement accurate.",
-      "patches": [
-        {
-          "chapter": 28,
-          "find": "The letter says the storm was an excuse.",
-          "replace": "The letter says nothing of a storm."
-        }
-      ]
-    },
-    {
-      "id": "E10",
-      "chapter": 28,
-      "severity": "minor",
-      "category": "knowledge",
-      "issue": "Kunal says 'You asked me twice about the letter.' It was Kunal who asked Ila about the letter (ch 16 and ch 21), and Kunal who paid for the second asking.",
-      "fix": "Reverse the subject.",
-      "patches": [
-        {
-          "chapter": 28,
-          "find": "You asked me twice about the letter and I made you pay for the asking.",
-          "replace": "I asked you twice about the letter and made you pay for the asking."
-        }
-      ]
-    },
-    {
-      "id": "E11",
-      "chapter": 30,
-      "severity": "minor",
-      "category": "knowledge",
-      "issue": "Raghu has eight bound pairs in all (ch 19, 24). At least three were at the lakes: Raghu with Pasang, and the two cornice pairs, one of which lost men through the ice. Eight pairs cannot still be guarding the Hollow Moon huts.",
-      "fix": "Lower the count of guards to five pairs.",
-      "patches": [
-        {
-          "chapter": 30,
-          "find": "Hari's with them. Eight pairs watch the doors.",
-          "replace": "Hari's with them. Five pairs watch the doors."
-        }
-      ]
-    },
-    {
-      "id": "E12",
-      "chapter": 31,
-      "severity": "minor",
-      "category": "place",
-      "issue": "Ila was never in Ranu with Rohan. In Book 1 she was held at Garh Neshar, and she knows him from the drafting table there.",
-      "fix": "Move her memory of Rohan to the Garh Neshar drafting table.",
-      "patches": [
-        {
-          "chapter": 31,
-          "find": "She had learned in the dark of Ranu that her brother wanted a witness, not a hand.",
-          "replace": "She had learned at the Garh Neshar drafting table that her brother wanted a witness, not a hand."
-        }
-      ]
-    },
-    {
-      "id": "E13",
-      "chapter": 31,
+      "chapter": 4,
       "severity": "minor",
       "category": "timeline",
-      "issue": "Kiran crossed home to Shilak in ch 3, yet on day 18 he is said to be 'on the Saddle with the council's pairs', who do not cross until the thaw. At the post-council dusk scene he is said to be 'crossing with the council's pairs even now', but the council has already arrived, and ch 32 has him come up from the salt house with Roop's crew.",
-      "fix": "Kiran went back over the Saddle and returned with the council's pairs at the thaw.",
+      "issue": "At dawn Kunal says Ranu is 'a day down the Garh road', but the chapter opens with them already in Ranu at noon the same day.",
+      "fix": "Make it half a day.",
       "patches": [
         {
-          "chapter": 31,
-          "find": "She had promised Kiran the first reading, before anyone, and Kiran was somewhere on the Saddle with the council's pairs.",
-          "replace": "She had promised Kiran the first reading, before anyone, and Kiran had gone back over the Saddle, to cross again with the council's pairs at the thaw."
-        },
-        {
-          "chapter": 31,
-          "find": "Kiran had asked to be told first, before anyone, where the Bargain was paid, and he was crossing with the council's pairs even now.",
-          "replace": "Kiran had asked to be told first, before anyone, where the Bargain was paid, and he had come over the Saddle with the council's pairs."
-        }
-      ]
-    },
-    {
-      "id": "E14",
-      "chapter": 31,
-      "severity": "minor",
-      "category": "timeline",
-      "issue": "Sarala has reigned thirty-one winters (ch 31, F619), so she cannot have issued commissions for 'forty years'.",
-      "fix": "Change the span to her reign.",
-      "patches": [
-        {
-          "chapter": 31,
-          "find": "You are the first surveyor in forty years who has made me regret a commission",
-          "replace": "You are the first surveyor of my reign who has made me regret a commission"
-        }
-      ]
-    },
-    {
-      "id": "E15",
-      "chapter": 32,
-      "severity": "minor",
-      "category": "name",
-      "issue": "Kiran addresses Ila as 'Ila-ji' (ch 1, ch 3), but ch 32 has him call her 'boss' and says he called her that all summer.",
-      "fix": "Use Ila-ji in both places.",
-      "patches": [
-        {
-          "chapter": 32,
-          "find": "\"First on a rope's the one who falls, boss,\" said Kiran.",
-          "replace": "\"First on a rope's the one who falls, Ila-ji,\" said Kiran."
-        },
-        {
-          "chapter": 32,
-          "find": "who sang rude songs to the links and called her *boss*.",
-          "replace": "who sang rude songs to the links and called her *Ila-ji*."
-        }
-      ]
-    },
-    {
-      "id": "E16",
-      "chapter": 32,
-      "severity": "minor",
-      "category": "object",
-      "issue": "In ch 2 the Shepherd's Stair song's fourth line is 'Four for the fold with the broken latch', and it runs on to 'Nine and thirty', which Kunal knows. Ch 32 gives a different fourth line, says nobody sings past the fourth light, and has Kunal not know what follows five.",
-      "fix": "Frame the ch 32 lines as a separate second verse for past the fourth light.",
-      "patches": [
-        {
-          "chapter": 32,
-          "find": "It's the Stair's song, but it runs on past the fourth light. Nobody sings the end.",
-          "replace": "It's a second verse to the Stair's song, for past the fourth light. Nobody sings it."
+          "chapter": 4,
+          "find": "Then he turned south. \"Ranu is a day down the Garh road.",
+          "replace": "Then he turned south. \"Ranu is half a day down the Garh road."
         }
       ]
     }
