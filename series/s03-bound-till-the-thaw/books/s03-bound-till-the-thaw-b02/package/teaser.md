@@ -1,17 +1,11 @@
-# Next in The Winter Passes: Salt and Snow
+# Next in The Winter Passes: Salt and Snow (Book 3)
 
-Lata knows the price of everything. Wool by the stone, madder by the pound, a house's good name by the winter. She has kept the accounts of her life tidy for twenty-two years, because what is broken stays broken and you only keep the books.
+Lata is forty-two, a widow and the funniest woman in any room she walks into. She has spent twenty-two winters keeping her accounts honest. Wool in, wool out, and what is broken stays written off. She still dyes one skein a season in a particular red, and she tells nobody why.
 
-She still dyes one skein a season in a particular red. She tells herself it sells well.
+Tej is forty-five, a soldier who has been exiled by the regent he served, and he is not asking for anything. He is crossing back into Hemkot, which is a hanging offence, to warn the queen that a mercenary army is coming with the spring. He keeps his boots oiled and his borrowed shawl folded, and he believes a man who chose wrong once doesn't get a second chance.
 
-Now the regent's war is coming, and Lata's convoy of winter wool and her late husband's ledgers must cross the closed passes to Neshar before spring. The ledgers prove who has been hoarding the valley's grain. The pass says she cannot go alone.
+His soldiers burned her family's wool sheds. Lata has never forgiven him. She also has a winter convoy, her late husband's ledgers and a war to get across, and she can't do it alone. The mountain will let only a bound pair cross, and it will let no one lie. Under the Winter Crossing Law, to shelter an exile is to put her house and her licence on the line.
 
-Tej was the regent's general. He is exiled now, and crossing back into Hemkot is a hanging offence. He knows the mercenary army that is gathering, and he has to warn the queen. He is forty-five, he speaks like a soldier, he says he deserves nothing, and he handles every borrowed boot and horse as if it were precious.
-
-Twenty-two winters ago his soldiers burned her family's wool sheds. She has never forgotten the smell of that night.
-
-Tied wrist to wrist on a mountain where every lie freezes the liar's hands, neither can soften what happened. Everything he says is true, and so is everything she remembers. Some of it will not balance.
-
-A war is coming. A rope is waiting. A house, a pardon and a long-ago love are all on the account.
+Salt and snow, the long way round. A debt twenty years old and a rope eight arm-spans long.
 
 Will Lata stand surety for the exiled general whose soldiers burned her family's sheds, and take their second chance across a war?

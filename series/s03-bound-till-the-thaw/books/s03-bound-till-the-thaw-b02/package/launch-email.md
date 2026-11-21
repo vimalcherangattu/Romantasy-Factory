@@ -1,17 +1,18 @@
 Subject: The Winter Oath is out, and the rope is tied
 
-Hello, friend,
+Hello, my dear readers,
 
-The Winter Oath is out today, and I'm so glad to share it with you.
+The Winter Oath is live today.
 
-Book 2 of The Winter Passes follows Ila, a crown surveyor who believes a map is only ever true or false, and Prince Kunal of Neshar, who keeps his valley's hidden ways in his head and answers every question with another question. They are rope-bound for one closed winter. On this mountain every lie freezes your fingers, and every true thing he tells her could end up inked on the queen's map. Rivals, forced proximity, slow burn, a happy ending for these two, and open-door heat.
+If you've been waiting since the thaw at the end of Book 1, you'll remember what the jogini said at the cairn: the Old Bargain is unpaid, and the pass closes for good after the fourth winter unless someone pays. This book starts the very next winter, and the mountain is still keeping count.
 
-If you're coming from Book 1: the stones at the Shilak Cairn spoke at the thaw and told everyone that the Old Bargain is still unpaid. This book goes looking for what is owed.
+Meet Ila, a crown surveyor who thinks a map is only ever true or false. She is rope-bound for one closed winter to Prince Kunal of Neshar, who has sworn to keep his valley's hidden ways off every map. On the rope, every lie costs body heat. Every true answer he gives her becomes a line on the queen's map.
 
-Get your copy here: {{AMAZON_LINK}}
+It's enemies to lovers, forced proximity and a slow burn with a first kiss that costs something. There's also an open-door heat level, a real cost for every choice and a happy ever after for these two. I'm very fond of them.
 
-It's free to read in Kindle Unlimited. And if you enjoy it, a short review helps other readers find the series more than you'd think.
+Get it here: {{AMAZON_LINK}}
 
-Thank you for reading along with me. Wrap up warm.
+Thank you for reading, for writing to me and for telling your friends. It matters more than you know.
 
+Stay warm,
 Mira

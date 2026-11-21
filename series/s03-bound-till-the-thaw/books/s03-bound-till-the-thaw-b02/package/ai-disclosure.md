@@ -2,7 +2,7 @@
 
 Book ID: s03-bound-till-the-thaw-b02
 Pen name: Mira Sangla
-Generated: 2026-11-15
+Generated: 2026-11-21
 
 ## What was AI-generated
 

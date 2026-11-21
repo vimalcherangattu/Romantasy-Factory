@@ -9,7 +9,8 @@
     "S3",
     "S7",
     "book_check",
-    "S9"
+    "S9",
+    "S10"
   ],
   "chapters": {
     "01": {
@@ -2354,9 +2355,13 @@
     {
       "at": "2026-11-21T20:36:23",
       "event": "done: S9 summary"
+    },
+    {
+      "at": "2026-11-21T20:37:31",
+      "event": "done: S10 package"
     }
   ],
-  "updated_at": "2026-11-21T20:36:23",
+  "updated_at": "2026-11-21T20:37:31",
   "midpoint_chapter": 16,
   "continuity_attempts": 0,
   "continuity_last_errors": null,
@@ -2365,8 +2370,8 @@
     "epubcheck": true,
     "docx_headings": true,
     "paperback": {
-      "pages": 289,
-      "gutter_in": 0.5,
+      "pages": 307,
+      "gutter_in": 0.625,
       "interior": "interior.pdf"
     },
     "cover": "missing: generate art from cover-prompt.md, then run `factory cover`"
