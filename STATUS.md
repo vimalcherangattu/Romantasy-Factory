@@ -20,7 +20,7 @@ Last updated: 2026-11-29
 - Thaw b2 continuity patches by hand: ch 7-8, 24, 28 (16 Nov); ch 28 sheets and crutch (22 Nov).
 
 ## Next step
-- Owner: approve one book for a Sunday 10:00 IST slot. 29 Nov passed with no approval (run of 29 Nov: no work).
+- Owner: approve one book for the Sun 29 Nov 10:00 IST slot (factory slot free; nothing approved yet).
 - Covers for Thaw b1 and b2: blocked. ElevenLabs `creative_update_node` (aspect/resolution) waits on
   an approval prompt nobody answers in unattended runs, and on 22 Nov the wait restarted the worker.
   Make them in an attended session, or allow that tool.
