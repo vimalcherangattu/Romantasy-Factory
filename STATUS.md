@@ -1,6 +1,6 @@
 # Status
 
-Last updated: 2026-11-23
+Last updated: 2026-11-29
 
 ## Current state
 - Live on KDP (pen name Anya Kalloor, series The Odiyan Contracts):
@@ -11,7 +11,7 @@ Last updated: 2026-11-23
   - Crown of Night (s02 b03): since 1 Nov, cover done.
   - Bound till the Thaw (s03 b01, Mira Sangla): since 8 Nov, NO cover.
   - The Winter Oath (s03 b02): since 22 Nov, avg 4.05, no needs-owner chapters, NO cover.
-- KDP week of 22 Nov: full (parenting Books 1 and 2, ebook + paperback). Week of 29 Nov: free.
+- KDP week of 29 Nov: free (0/2). Parenting Books 1-2 publish tasks still open, due dates cleared 28 Nov.
 - Ready buffer full (3/3), so new books do not start until one goes live.
 - 64 tests pass. Usage to date: about 1576 calls, 14.1M output tokens (`state/usage.csv`).
 
@@ -20,11 +20,11 @@ Last updated: 2026-11-23
 - Thaw b2 continuity patches by hand: ch 7-8, 24, 28 (16 Nov); ch 28 sheets and crutch (22 Nov).
 
 ## Next step
-- Owner: approve one book for the Sun 29 Nov 10:00 IST slot (first free factory slot).
+- Owner: approve one book for a Sunday 10:00 IST slot. 29 Nov passed with no approval (run of 29 Nov: no work).
 - Covers for Thaw b1 and b2: blocked. ElevenLabs `creative_update_node` (aspect/resolution) waits on
   an approval prompt nobody answers in unattended runs, and on 22 Nov the wait restarted the worker.
   Make them in an attended session, or allow that tool.
-- Sat night (Sun 29 Nov, 00:52 IST): factory run only if a book went live; otherwise covers only.
+- Next run Sat night (Sun 6 Dec, 00:52 IST): no work until a ready book goes live.
 
 ## Known issues
 - The auto-approve / auto-publish change requested on 21 Oct was refused by the permission
